@@ -306,6 +306,30 @@ function ryzom_translate($sheetid, $lang, $index=0){
 }
 
 /**
+ * Return building info based building id from API XML file
+ * If building_id is unknown, then return empty array
+ *
+ * @param int $building_id
+ * @return array
+ */
+function &ryzom_building_info($building_id){
+	static $cache=array();
+	if(empty($cache)){
+		$file= sprintf('%s/data/buildings.inc.php', RYZOM_EXTRA_PATH);
+		if(!file_exists($file)){
+			throw new Exception('Date file ['.$file.'] not found');
+		}
+		$cache=include($file);
+	}
+	if(!isset($cache[$building_id])){
+		$result=array();
+	}else{
+		$result=$cache[$building_id];
+	}
+	return $result;
+}
+
+/**
  * Returns sheetid details
  *  
  * @param $sheetid - with or without '.sitem'
@@ -432,7 +456,7 @@ function &ryzom_extra_load_dataset($file){
 	if(file_exists($file)){
 		$result=unserialize(file_get_contents($file));
 	}else{
-		throw new Exception('Date file ['.$file.'] not found');
+		throw new Exception('Data file ['.$file.'] not found');
 	}
 	return $result;
 }

@@ -4,6 +4,11 @@ echo "<pre>\n";
 
 	require_once('../ryzom_extra.php');
 	$items = array(
+		'ictr1p_2',
+		'icfr2a_2',
+		'ictr2b_3',
+		'ictr2r_3',
+		'icokamr2a_1',
 		'icmjd_3', 'icfm1sab', 'ictp2rb', 'icokamm1pd_1',
 		'ixpca01', 'tp_kami_davae', 'tp_karavan_davae','casino_ticket',
 		'm0006dxacb01', 'm0669ccodc01', 'm0208dxaca01'
