@@ -11,12 +11,35 @@ echo "<pre>\n";
 		'icokamr2a_1',
 		'icmjd_3', 'icfm1sab', 'ictp2rb', 'icokamm1pd_1',
 		'ixpca01', 'tp_kami_davae', 'tp_karavan_davae','casino_ticket',
-		'm0006dxacb01', 'm0669ccodc01', 'm0208dxaca01'
+
+		'm0006dxacb01' => array(
+			'ecosystem' => RyzomExtra::ECO_COMMON,
+			'is_mission'=> 0,
+		),
+		'm0669ccodc01' => array(
+			'ecosystem' => RyzomExtra::ECO_DESERT,
+			'is_mission'=> 0,
+		),
+		'm0287chilb01' => array(
+			'ecosystem' => RyzomExtra::ECO_LAKE,
+			'is_mission'=> 1,
+		),
+		'm0200dxaca01' => array(
+			'ecosystem' => RyzomExtra::ECO_COMMON,
+			'is_mission'=> 1,
+		),
 	);
-foreach($items as $sheetid){
+foreach($items as $sheetid=>$check){
+	if(!is_array($check)) {$sheetid=$check; $check=array();}
 	$item=ryzom_item_info($sheetid.'.sitem', true);
 	$name=ryzom_translate($sheetid.'.sitem', 'en');
 	echo 'item ['.$sheetid.'] = '.$name."\n";
+	if(!empty($check)){
+		foreach($check as $key=>$val){
+			$ok = $item[$key]==$val;
+			echo " - ".$key." (".$item[$key]." == ".$val.") - ".($ok ? 'pass' : 'fail')."\n"; 
+		}
+	}
 	if(isset($item['skill']))     echo " - xp in skill= ".ryzom_translate($item['skill'], 'en')."\n";
 	if(isset($item['craftplan'])) {
 		echo " - craft plan = ".ryzom_translate($item['craftplan'], 'en')."\n";
