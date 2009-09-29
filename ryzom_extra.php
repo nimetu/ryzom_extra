@@ -354,7 +354,7 @@ function &ryzom_item_info($sheetid, $extra=false){
 	
 	if(!isset($cache[$_id])){
 		$result=false;
-		$result=$cache[$_id];
+		return $result;
 	}
 	$result=$cache[$_id];
 	
