@@ -1,4 +1,4 @@
-<?
+<?php
 // 
 // Copyright (c) 2009 Meelis Mägi <nimetu@gmail.com>
 //

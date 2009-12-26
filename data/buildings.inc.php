@@ -1,4 +1,4 @@
-<?
+<?php
 /**
  * type
  *   a - apartment
