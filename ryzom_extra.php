@@ -1,5 +1,5 @@
 <?php
-// 
+//
 // Copyright (c) 2009 Meelis Mägi <nimetu@gmail.com>
 //
 // Copying and distribution of this file, with or without modification,
@@ -105,13 +105,22 @@ class RyzomExtra {
 	// 61 - hof hairstyle
 	// 62 - hof hair color
 	// 63 - hof tatoo
-	const ITEM_T_65              = 65; // sap recharge, casino ticker/token/title 
+	const ITEM_T_65              = 65; // sap recharge, casino ticker/token/title
 	const ITEM_OTHER             = 66; // mats
 	//
 	// weapon/ammo damage
 	const DMG_SLASH  = 0;
 	const DMG_PIERCE = 1;
 	const DMG_SMASH  = 2;
+	//
+	static function uxt_damage($dmg){
+		switch($dmg){
+			case self::DMG_SLASH  : return 'dtSLASHING';
+			case self::DMG_PIERCE : return 'dtPIERCING';
+			case self::DMG_SMASH  : return 'dtBLUNT';
+		}
+		return 'NotExist:dmg #'.$dmg;
+	}
 	//
 	// bitfield: craft resource type - resource usually has 2 or more bits set
 	// CODE: if((mpft & (1<<MPFT_BLADE)) != 0) // matches blade (shell, wondermats, kitin larva, ..)
@@ -173,6 +182,57 @@ class RyzomExtra {
 		'mpftMpMF'  => self::MPFT_MAGIC_FOCUS,
 		'mpft'      => self::MPFT_UNKNOWN,    // [Undefined Raw Material Target]
 	);
+	// turn mpft bit back to uxt id that can be used in translation
+	static function uxt_mpft($val){
+		foreach(self::$mpft_to_bit as $uxt=>$bit){
+			if($val==$bit){
+				return $uxt;
+			}
+		}
+		return 'NotExist:bit #'.$val;
+	}
+	// these make up uxt translation id like 'mpstat0' == durability or 'mpstatItemQualifier0' = 'of Durability'
+	static $stat_to_int = array(
+		'durability'				=> 0,
+		'lightness'					=> 1,
+		'sap_load'					=> 2,
+
+		'dmg'						=> 3,
+		'speed'						=> 4,
+		'range'						=> 5,
+
+		'dodge_modifier'			=> 6,
+		'parry_modifier'			=> 7,
+		'adversary_dodge_modifier'	=> 8,
+		'adversary_parry_modifier'	=> 9,
+		'protection_factor'			=> 10,
+		'max_slashing_protection'	=> 11,
+		'max_smashing_protection'	=> 12,
+		'max_piercing_protection'	=> 13,
+
+		'acid_protection'			=> 14,
+		'cold_protection'			=> 15,
+		'rot_protection'			=> 16,
+		'fire_protection'			=> 17,
+		'shockwave_protection'		=> 18,
+		'poison_protection'			=> 19,
+		'electric_protection'		=> 20,
+
+		'desert_resistance'			=> 21,
+		'forest_resistance'			=> 22,
+		'lake_resistance'			=> 23,
+		'jungle_resistance'			=> 24,
+		'prime_roots_resistance'	=> 25,
+
+		'elemental_cast_speed'		=> 26,
+		'elemental_power'			=> 27,
+		'off_affliction_cast_speed'	=> 28,
+		'off_affliction_power'		=> 29,
+		'def_affliction_cast_speed'	=> 30,
+		'def_affliction_power'		=> 31,
+		'heal_cast_speed'			=> 32,
+		'heal_power'				=> 33,
+	);
 	// resource grade
 	const GRADE_BASIC         = 20; // average, plain
 	const GRADE_FINE          = 35; // prime
@@ -180,7 +240,18 @@ class RyzomExtra {
 	const GRADE_EXCELLENT     = 65; // superb
 	const GRADE_SUPREME       = 80; // magnificient
 	//
-	// item quality - this is actually texture id used. 
+	static function uxt_grade($grade){
+		switch($grade){
+			case self::GRADE_BASIC		: return 'uiItemRMClass0';
+			case self::GRADE_FINE		: return 'uiItemRMClass1';
+			case self::GRADE_CHOICE		: return 'uiItemRMClass2';
+			case self::GRADE_EXCELLENT	: return 'uiItemRMClass3';
+			case self::GRADE_SUPREME	: return 'uiItemRMClass4';
+		}
+		return 'NotExist:grade #'.$grade;
+	}
+	//
+	// item quality - this is actually texture id used.
 	const GRADE_BQ            = 0;
 	const GRADE_MQ            = 1; // also tekorn/maga/greslin/armilo
 	const GRADE_HQ            = 2; // also vedice/cheng/egiros/rubbarn
@@ -193,7 +264,20 @@ class RyzomExtra {
 	const ECO_JUNGLE          = 4;
 	//                        = 5;
 	const ECO_PR              = 6;
-	//	
+	//
+	static function uxt_ecosystem($eco){
+		switch($eco){
+			case self::ECO_COMMON	: return 'ecosysCommonEcosystem';
+			case self::ECO_DESERT	: return 'ecosysDesert';
+			case self::ECO_FOREST	: return 'ecosysForest';
+			case self::ECO_LAKE		: return 'ecosysLacustre';
+			case self::ECO_JUNGLE	: return 'ecosysJungle';
+			// 5
+			case self::ECO_PR		: return 'ecosysPrimaryRoot';
+		}
+		return 'NotExist:eco #'.$eco; // Could use 'ecosysUnknown';
+	}
+	//
 	// item race
 	const RACE_COMMON         = 0; // outpost
 	const RACE_FYROS          = 1; // desert
@@ -215,6 +299,19 @@ class RyzomExtra {
 	const COLOR_WHITE         = 6;
 	const COLOR_BLACK         = 7;
 	//
+	static function uxt_color($color){
+		switch($color){
+			case self::COLOR_RED		: return 'mpcolRed';
+			case self::COLOR_BEIGE		: return 'mpcolBeige';
+			case self::COLOR_GREEN		: return 'mpcolGreen';
+			case self::COLOR_TURQUOISE	: return 'mpcolTurquoise';
+			case self::COLOR_BLUE		: return 'mpcolBlue';
+			case self::COLOR_PURPLE		: return 'mpcolPurple';
+			case self::COLOR_WHITE		: return 'mpcolWhite';
+			case self::COLOR_BLACK		: return 'mpcolBlack';
+		}
+		return 'NotExist:color #'.$color;
+	}
 }
 
 /**
@@ -226,7 +323,7 @@ class RyzomExtra {
  *
  * @param string sheetid
  * @param string lang
- * @param mixed $index for titles 0=male and 1=female. 
+ * @param mixed $index for titles 0=male and 1=female.
  *                     for anything else 'name', 'p', 'description', 'tooltip' (depends on sheetid type)
  *
  * @return string translated text, error message if language file or sheet id is not found
@@ -234,8 +331,8 @@ class RyzomExtra {
 function ryzom_translate($sheetid, $lang, $index=0){
 	// memory usage for 1 language is around:
 	// 4.7MiB creature, 70KiB faction, 8.5MiB item, 800KiB outpost, 600KiB place, 6MiB sbrick, 1MiB skill, 5MiB sphrase, 2MiB title, 4MiB uxt
-	static $cache=array(); 
-	
+	static $cache=array();
+
 	// break up sheetid
 	$_id = strtolower($sheetid);
 	$_ext=strtolower(substr(strrchr($_id, '.'), 1));
@@ -298,8 +395,8 @@ function ryzom_translate($sheetid, $lang, $index=0){
 				return $word['women_name'];
 			}
 		// ui???? translations
-		case 'uxt': // 
-			return $word['name']; 
+		case 'uxt': //
+			return $word['name'];
 	}
 	// should never reach here, but incase it does...
 	return 'Unknown:'.$_ext.'.'.$_id;
@@ -331,7 +428,7 @@ function &ryzom_building_info($building_id){
 
 /**
  * Returns sheetid details
- *  
+ *
  * @param $sheetid - with or without '.sitem'
  * @param $extra   - for items, also include craft plan to '_craftplan' index
  *                   for resources, include stats to '_stats' index
@@ -339,30 +436,30 @@ function &ryzom_building_info($building_id){
  */
 function &ryzom_item_info($sheetid, $extra=false){
 	static $cache=array(); // ~ 20MiB, items
-	
+
 	// include data file if needed
 	if(empty($cache)){
 		// use serialize/unserialize saves lot of memory
 		$file = sprintf('%s/data/items.serial', RYZOM_EXTRA_PATH);
 		$cache=ryzom_extra_load_dataset($file);
 	}
-	
+
 	$_id=strtolower($sheetid);
 	if(preg_match('/^(.*)\.sitem$/', $_id, $m)){
 		$_id=$m[1];
 	}
-	
+
 	if(!isset($cache[$_id])){
 		$result=false;
 		return $result;
 	}
 	$result=$cache[$_id];
-	
+
 	// fix some id's
 	if(isset($result['craftplan'])) $result['craftplan'].='.sbrick';
 	if(isset($result['skill'])) $result['skill'].='.skill';
 	$result['sheetid'].='.sitem';
-	
+
 	// if item type is Resource, then also include stats
 	if($extra==true){
 		if($result['type']==RyzomExtra::TYPE_RESOURCE){
@@ -371,29 +468,29 @@ function &ryzom_item_info($sheetid, $extra=false){
 			$result['_craftplan']=ryzom_craftplan($result['craftplan']);
 		}
 	}
-	
+
 	return $result;
 }
 
 /**
  * Return resource craft stats like durability/lightness, etc
- * 
+ *
  * @param $sheetid - with or without '.sitem'
  * @return mixed - FALSE if $sheetid not found
  */
 function &ryzom_resource_stats($sheetid){
 	static $cache;// ~20MiB, resource stats cache
-	
+
 	if(empty($cache)){
 		$file=sprintf('%s/data/resource_stats.serial', RYZOM_EXTRA_PATH);
 		$cache=ryzom_extra_load_dataset($file);
 	}
-	
+
 	$_id=strtolower($sheetid);
 	if(preg_match('/^(.*)\.sitem$/', $_id, $m)){
 		$_id=$m[1];
 	}
-	
+
 	if(isset($cache[$_id])){
 		$result=$cache[$_id]['stats'];
 	}else{
@@ -404,7 +501,7 @@ function &ryzom_resource_stats($sheetid){
 
 /**
  * Return craft plan
- * 
+ *
  * @param $sheetid - with or without '.sbrick'
  * @return unknown_type
  */
@@ -414,12 +511,12 @@ function &ryzom_craftplan($sheetid){
 		$file=sprintf('%s/data/craftplan.serial', RYZOM_EXTRA_PATH);
 		$cache=ryzom_extra_load_dataset($file);
 	}
-	
+
 	$_id=strtolower($sheetid);
 	if(preg_match('/^(.*)\.sbrick$/', $_id, $m)){
 		$_id=$m[1];
 	}
-	
+
 	if(isset($cache[$_id])){
 		$result=$cache[$_id];
 	}else{
@@ -430,7 +527,7 @@ function &ryzom_craftplan($sheetid){
 
 /**
  * Return unformatted skilltree list
- * 
+ *
  * @return unknown_type
  */
 function ryzom_skilltree(){
@@ -439,16 +536,16 @@ function ryzom_skilltree(){
 		$file=sprintf('%s/data/skilltree.serial', RYZOM_EXTRA_PATH);
 		$cache=ryzom_extra_load_dataset($file);
 	}
-	
+
 	return $cache;
 }
 
 /**
  * Loads dataset and returns result.
  * Does not unmask unserialize/file_get_content warning/notice's
- * 
+ *
  * throw Exception if file not found
- *  
+ *
  * @param $file file name with full path
  * @return mixed
  */
