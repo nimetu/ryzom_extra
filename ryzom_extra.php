@@ -403,6 +403,26 @@ function ryzom_translate($sheetid, $lang, $index=0){
 }
 
 /**
+ * Converts binary sheet_id to string format
+ *
+ * @param  int   numeric sheet_id
+ * @return mixed sheetid in string format or boolean FALSE if lookup failed
+ */
+function ryzom_sheetid_bin($sid_bin){
+	// full list is around 120MiB
+	static $cache = array();
+
+	$idx = floor(intval($sid_bin) / 1000000);
+	if(!isset($cache[$idx])){
+		$cache[$idx] = ryzom_extra_load_dataset(sprintf('%s/data/sheets-%02x.serial', RYZOM_EXTRA_PATH, $idx));
+	}
+	if(isset($cache[$idx][$sid_bin])){
+		return $cache[$idx][$sid_bin]['name'].'.'.$cache[$idx][$sid_bin]['suffix'];
+	}
+	return false;
+}
+
+/**
  * Return building info based building id from API XML file
  * If building_id is unknown, then return empty array
  *
