@@ -1,4 +1,4 @@
-<?
+<?php
 echo "<pre>\n";
 	$mem=memory_get_usage();
 

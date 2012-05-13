@@ -1,4 +1,4 @@
-<?
+<?php
 	require_once('../ryzom_extra.php');
 	
 $ids=array(

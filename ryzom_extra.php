@@ -1,11 +1,23 @@
 <?php
 //
-// Copyright (c) 2009 Meelis Mägi <nimetu@gmail.com>
+// RyzomExtra - https://github.com/nimetu/ryzom_extra
+// Copyright (c) 2012 Meelis Mägi <nimetu@gmail.com>
 //
-// Copying and distribution of this file, with or without modification,
-// are permitted in any medium without royalty provided the copyright
-// notice and this notice are preserved.  This file is offered as-is,
-// without any warranty.
+// This file is part of RyzomExtra.
+//
+// RyzomExtra is free software; you can redistribute it and/or modify
+// it under the terms of the GNU Lesser General Public License as published by
+// the Free Software Foundation; either version 3 of the License, or
+// (at your option) any later version.
+//
+// RyzomExtra is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU Lesser General Public License for more details.
+//
+// You should have received a copy of the GNU Lesser General Public License
+// along with this program; if not, write to the Free Software Foundation,
+// Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301  USA
 //
 
 /**
@@ -312,6 +324,19 @@ class RyzomExtra {
 		}
 		return 'NotExist:color #'.$color;
 	}
+
+	// sbrick 'action_nature'
+	const ACTION_FIGHT = 0;
+	const ACTION_OFFENSIVE_MAGIC = 1;
+	const ACTION_CURATIVE_MAGIC = 2;
+	const ACTION_CRAFT = 3;
+	const ACTION_HARVEST = 4;
+	const ACTION_SEARCH_MP = 5;
+	const ACTION_DODGE = 6;
+	const ACTION_PARRY = 7;
+	const ACTION_SHIELD_USE = 8;
+	const ACTION_RECHARGE = 9;
+	const ACTION_NEUTRAL = 10;
 }
 
 /**
@@ -361,6 +386,10 @@ function ryzom_translate($sheetid, $lang, $index=0){
 		$cache[$_ext][$lang]=ryzom_extra_load_dataset($file);
 	}
 
+	// remap id if full sheetid user requested is found
+	if(isset($cache[$_ext][$lang][$sheetid])){
+		$_id = $sheetid;
+	}
 
 	// check if translation is there
 	if(!isset($cache[$_ext][$lang][$_id])){
@@ -377,6 +406,10 @@ function ryzom_translate($sheetid, $lang, $index=0){
 		case 'item'    : // keys name, p, description
 			// fall thru
 		case 'outpost' : // keys name, description
+			// fall thru
+		case 'outpost_squad':
+			// fall thru
+		case 'outpost_building':
 			// fall thru
 		case 'place'   : // keys name
 			// fall thru
@@ -429,7 +462,7 @@ function ryzom_sheetid_bin($sid_bin){
  * @param int $building_id
  * @return array
  */
-function &ryzom_building_info($building_id){
+function ryzom_building_info($building_id){
 	static $cache=array();
 	if(empty($cache)){
 		$file= sprintf('%s/data/buildings.inc.php', RYZOM_EXTRA_PATH);
@@ -454,7 +487,7 @@ function &ryzom_building_info($building_id){
  *                   for resources, include stats to '_stats' index
  * @return array
  */
-function &ryzom_item_info($sheetid, $extra=false){
+function ryzom_item_info($sheetid, $extra=false){
 	static $cache=array(); // ~ 20MiB, items
 
 	// include data file if needed
@@ -498,7 +531,7 @@ function &ryzom_item_info($sheetid, $extra=false){
  * @param $sheetid - with or without '.sitem'
  * @return mixed - FALSE if $sheetid not found
  */
-function &ryzom_resource_stats($sheetid){
+function ryzom_resource_stats($sheetid){
 	static $cache;// ~20MiB, resource stats cache
 
 	if(empty($cache)){
@@ -520,12 +553,37 @@ function &ryzom_resource_stats($sheetid){
 }
 
 /**
+ * Return sbrick details
+ *
+ * @param $sheetid with or without '.sbrick'
+ *
+ * @return mixed FALSE if $sheetid not found
+ */
+function ryzom_sbrick_info($sheetid) {
+	static $cache;
+
+	if (empty($cache)) {
+		$file = sprintf('%s/data/sbrick.serial', RYZOM_EXTRA_PATH);
+		$cache = ryzom_extra_load_dataset($file);
+	}
+	$_id = strtolower($sheetid);
+	if (preg_match('/^(.*)\.sbrick$/', $_id, $m)) {
+		$_id = $m[1];
+	}
+	if (!isset($cache[$_id])) {
+		$result = false;
+		return $result;
+	}
+	return $cache[$_id];
+}
+
+/**
  * Return craft plan
  *
  * @param $sheetid - with or without '.sbrick'
  * @return unknown_type
  */
-function &ryzom_craftplan($sheetid){
+function ryzom_craftplan($sheetid){
 	static $cache=array();
 	if(empty($cache)){
 		$file=sprintf('%s/data/craftplan.serial', RYZOM_EXTRA_PATH);
@@ -569,7 +627,7 @@ function ryzom_skilltree(){
  * @param $file file name with full path
  * @return mixed
  */
-function &ryzom_extra_load_dataset($file){
+function ryzom_extra_load_dataset($file){
 	if(file_exists($file)){
 		$result=unserialize(file_get_contents($file));
 	}else{
