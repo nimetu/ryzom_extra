@@ -1,7 +1,6 @@
 {
     "name": "nimetu/ryzom_extra",
     "type": "library",
-	"version": "dev-master",
     "description": "Functions and data for ryzom sheet files",
     "keywords": ["ryzom"],
     "homepage": "http://bmsite.net",
@@ -18,7 +17,7 @@
 		"nimetu/ryzom_sheets": "dev-master"
     },
     "autoload": {
-        "psr-0": { "RyzomExtra": ["lib"] },
+        "psr-0": { "RyzomExtra": "lib" },
 		"files": ["ryzom_extra.php"]
     }
 }
