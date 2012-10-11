@@ -11,7 +11,7 @@
 	echo "Location: $land, $town, $street\n";
 
 	// verify all location sheetid's for typos
-	$buildings = include('../data/buildings.inc.php');
+	$buildings = include('../resources/buildings.inc.php');
 	foreach($buildings as $b_id=>$b_info){
 		try{
 			$street = ryzom_translate($b_info['place'], 'en');

@@ -27,7 +27,8 @@
 //error_reporting(E_ALL);
 
 // patch where to find data sets
-define('RYZOM_EXTRA_PATH', dirname(__FILE__));
+define('RYZOM_EXTRA_PATH', dirname(__FILE__).'/resources');
+define('RYZOM_EXTRA_SHEETS_CACHE', RYZOM_EXTRA_PATH.'/sheets-cache');
 
 class RyzomExtra {
 	// Record type - ['type']
@@ -382,7 +383,7 @@ function ryzom_translate($sheetid, $lang, $index=0){
 	// include translation file if needed
 	if(!isset($cache[$_ext][$lang])){
 		// use serialize/unserialize saves lot of memory
-		$file = sprintf('%s/data/words_%s_%s.serial', RYZOM_EXTRA_PATH, $lang, $_ext);
+		$file = sprintf('%s/words_%s_%s.serial', RYZOM_EXTRA_SHEETS_CACHE, $lang, $_ext);
 		$cache[$_ext][$lang]=ryzom_extra_load_dataset($file);
 	}
 
@@ -447,7 +448,7 @@ function ryzom_sheetid_bin($sid_bin){
 
 	$idx = floor(intval($sid_bin) / 1000000);
 	if(!isset($cache[$idx])){
-		$cache[$idx] = ryzom_extra_load_dataset(sprintf('%s/data/sheets-%02x.serial', RYZOM_EXTRA_PATH, $idx));
+		$cache[$idx] = ryzom_extra_load_dataset(sprintf('%s/sheets-%02x.serial', RYZOM_EXTRA_SHEETS_CACHE, $idx));
 	}
 	if(isset($cache[$idx][$sid_bin])){
 		return $cache[$idx][$sid_bin]['name'].'.'.$cache[$idx][$sid_bin]['suffix'];
@@ -465,7 +466,7 @@ function ryzom_sheetid_bin($sid_bin){
 function ryzom_building_info($building_id){
 	static $cache=array();
 	if(empty($cache)){
-		$file= sprintf('%s/data/buildings.inc.php', RYZOM_EXTRA_PATH);
+		$file= sprintf('%s/buildings.inc.php', RYZOM_EXTRA_PATH);
 		if(!file_exists($file)){
 			throw new Exception('Date file ['.$file.'] not found');
 		}
@@ -493,7 +494,7 @@ function ryzom_item_info($sheetid, $extra=false){
 	// include data file if needed
 	if(empty($cache)){
 		// use serialize/unserialize saves lot of memory
-		$file = sprintf('%s/data/items.serial', RYZOM_EXTRA_PATH);
+		$file = sprintf('%s/items.serial', RYZOM_EXTRA_SHEETS_CACHE);
 		$cache=ryzom_extra_load_dataset($file);
 	}
 
@@ -535,7 +536,7 @@ function ryzom_resource_stats($sheetid){
 	static $cache;// ~20MiB, resource stats cache
 
 	if(empty($cache)){
-		$file=sprintf('%s/data/resource_stats.serial', RYZOM_EXTRA_PATH);
+		$file=sprintf('%s/resource_stats.serial', RYZOM_EXTRA_SHEETS_CACHE);
 		$cache=ryzom_extra_load_dataset($file);
 	}
 
@@ -563,7 +564,7 @@ function ryzom_sbrick_info($sheetid) {
 	static $cache;
 
 	if (empty($cache)) {
-		$file = sprintf('%s/data/sbrick.serial', RYZOM_EXTRA_PATH);
+		$file = sprintf('%s/sbrick.serial', RYZOM_EXTRA_SHEETS_CACHE);
 		$cache = ryzom_extra_load_dataset($file);
 	}
 	$_id = strtolower($sheetid);
@@ -586,7 +587,7 @@ function ryzom_sbrick_info($sheetid) {
 function ryzom_craftplan($sheetid){
 	static $cache=array();
 	if(empty($cache)){
-		$file=sprintf('%s/data/craftplan.serial', RYZOM_EXTRA_PATH);
+		$file=sprintf('%s/craftplan.serial', RYZOM_EXTRA_SHEETS_CACHE);
 		$cache=ryzom_extra_load_dataset($file);
 	}
 
@@ -611,7 +612,7 @@ function ryzom_craftplan($sheetid){
 function ryzom_skilltree(){
 	static $cache=array();
 	if(empty($cache)){
-		$file=sprintf('%s/data/skilltree.serial', RYZOM_EXTRA_PATH);
+		$file=sprintf('%s/skilltree.serial', RYZOM_EXTRA_SHEETS_CACHE);
 		$cache=ryzom_extra_load_dataset($file);
 	}
 
