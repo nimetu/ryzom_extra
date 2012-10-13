@@ -31,6 +31,9 @@ class GuildIconRenderer
     /** @var string */
     protected $size;
 
+    /** @var bool */
+    protected $withSymbol;
+
     /** @var string */
     protected $dataPath;
 
@@ -44,6 +47,8 @@ class GuildIconRenderer
 
         $this->dataPath = $dataPath;
         $this->size = 'b';
+
+        $this->withSymbol = true;
     }
 
     /**
@@ -59,6 +64,16 @@ class GuildIconRenderer
         } else {
             $this->size = 'b';
         }
+    }
+
+    /**
+     * Enable or disable symbol icon on final image
+     *
+     * @param bool $b
+     */
+    public function setWithSymbol($b)
+    {
+        $this->withSymbol = (bool)$b;
     }
 
     /**
@@ -97,12 +112,6 @@ class GuildIconRenderer
             $this->icon->Background
         );
 
-        $img_symbol = sprintf('%s/guild_symbol_%s_%02d.png',
-            $this->dataPath,
-            $this->size,
-            $this->icon->Symbol
-        );
-
         // colorize backgrounds and join them to one
         $im = imagecreatefrompng($img_back);
         $im_w = imagesx($im);
@@ -128,12 +137,20 @@ class GuildIconRenderer
         imagecopy($im, $tmp, 0, 0, 0, 0, $im_w, $im_h);
 
         // get the symbol
-        $tmp = imagecreatefrompng($img_symbol);
+        if ($this->withSymbol) {
+            $img_symbol = sprintf('%s/guild_symbol_%s_%02d.png',
+                $this->dataPath,
+                $this->size,
+                $this->icon->Symbol
+            );
 
-        if ($this->icon->Inverted == 1) {
-            $im = $this->applyFilter($im, self::IMG_ADD_NEG, $tmp);
-        } else {
-            $im = $this->applyFilter($im, self::IMG_MUL, $tmp);
+            $tmp = imagecreatefrompng($img_symbol);
+
+            if ($this->icon->Inverted == 1) {
+                $im = $this->applyFilter($im, self::IMG_ADD_NEG, $tmp);
+            } else {
+                $im = $this->applyFilter($im, self::IMG_MUL, $tmp);
+            }
         }
 
         return $im;
