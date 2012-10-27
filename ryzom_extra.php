@@ -620,6 +620,30 @@ function ryzom_skilltree(){
 }
 
 /**
+ * Visual slot index to sheet translation
+ *
+ * $slot is const from RyzomSheets EVisualSlot class
+ *
+ * @param int $slot
+ * @param int $index
+ *
+ * @return string|bool
+ */
+function ryzom_vs_sheet($slot, $index){
+	static $cache = array();
+	if (empty($cache)) {
+		$file = sprintf('%s/visual_slot.serial', RYZOM_EXTRA_SHEETS_CACHE);
+		$cache = ryzom_extra_load_dataset($file);
+	}
+
+	if (isset($cache[$slot][$index])){
+		return $cache[$slot][$index];
+	}
+
+	return false;
+}
+
+/**
  * Loads dataset and returns result.
  * Does not unmask unserialize/file_get_content warning/notice's
  *

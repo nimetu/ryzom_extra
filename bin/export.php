@@ -53,6 +53,9 @@ $app->exportSheets(array(
 	//'faction',
 ));
 
+// visual_slot.tab
+$app->exportVisualSlots();
+
 // <sheet>_words_<lang>.txt
 $langArray = array('en', 'fr', 'de', 'ru', 'es');
 $sheets = array('uxt', 'skill', 'faction', 'place', 'item', 'creature', 'sbrick', 'sphrase', 'title', 'outpost');

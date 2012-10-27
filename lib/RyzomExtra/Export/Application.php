@@ -27,6 +27,7 @@ use Nel\Misc\SheetId;
 use Nel\Misc\BnpFile;
 use Ryzom\Sheets\PackedSheetsLoader;
 use Ryzom\Sheets\SheetsManager;
+use Ryzom\Sheets\VisualSlotManager;
 use Ryzom\Translation\Loader\WordsLoader;
 use Ryzom\Translation\Loader\UxtLoader;
 
@@ -45,8 +46,12 @@ class Application extends Pimple {
 			return new BnpFile($app['data.path'].'/gamedev.bnp');
 		});
 
+		$this['bnp.data_common'] = $app->share(function () use ($app) {
+			return new BnpFile($app['data.path'].'/data_common.bnp');
+		});
+
 		// SheetIds collection, sheet_id.bin reader
-		$this['sheetid'] = $app->share(function() use ($app) {
+		$this['sheetid'] = $app->share(function () use ($app) {
 			$sheetIds = new SheetId();
 
 			$file = 'sheet_id.bin';
@@ -96,6 +101,11 @@ class Application extends Pimple {
 		// Save loaded sheets to cache files
 		$this['export.packed_sheets'] = $this->share(function() use ($app) {
 			return new PackedSheetsExport($app['sheetid'], $app['sheets'], $app['cache.path']);
+		});
+
+		// Save visual_slot.tab to cache file
+		$this['export.visual_slot'] = $this->share(function () use ($app) {
+			return new VisualSlotExport($app['sheetid'], $app['cache.path']);
 		});
 	}
 
@@ -166,6 +176,20 @@ class Application extends Pimple {
 			$this->debug('>> %s has %d group(s) with %d strings', $name, $groups, $count);
 			$this['export.words']->export($array, $lang);
 		}
+	}
+
+	function exportVisualSlots() {
+		$this->debug('loading visual_slot.tab');
+
+		/** @var $bnp BnpFile */
+		$bnp = $this['bnp.data_common'];
+		$buf = $bnp->readFile('visual_slot.tab');
+
+		$vs = new VisualSlotManager();
+		$vs->load($buf);
+		$vsMap = $vs->getIndexMap();
+
+		$this['export.visual_slot']->export($vsMap, 'visual_slot');
 	}
 
 	function fixStubDescription(array $messages, $prefix) {
