@@ -23,7 +23,7 @@
 namespace RyzomExtra\Export\Sheets;
 
 use Nel\Misc\SheetId;
-use Ryzom\ItemFamily;
+use Ryzom\Common\EItemFamily;
 use Ryzom\Sheets\Client\CMp;
 use Ryzom\Sheets\Client\CMpItemPart;
 use Ryzom\Sheets\Client\ItemSheet;
@@ -57,9 +57,9 @@ class ItemSheetExport extends AbstractSheetExport {
 
 		$skipTypes = array(
 			// haircut
-			ItemFamily::UNDEFINED,
-			ItemFamily::SERVICE,
-			ItemFamily::COMMAND_TICKET,
+			EItemFamily::UNDEFINED,
+			EItemFamily::SERVICE,
+			EItemFamily::COMMAND_TICKET,
 		);
 
 		/**
@@ -102,25 +102,25 @@ class ItemSheetExport extends AbstractSheetExport {
 			}
 
 			switch ($item->Family) {
-			case ItemFamily::ARMOR:
+			case EItemFamily::ARMOR:
 				//$array['armor_type'] = $item->Armor->ArmorType;
 				break;
-			case ItemFamily::MELEE_WEAPON:
+			case EItemFamily::MELEE_WEAPON:
 				$array['skill'] = $item->MeleeWeapon->Skill;
 				//$array['weapon_type'] = $item->MeleeWeapon->WeaponType;
 				$array['damage'] = $item->MeleeWeapon->DamageType;
 				$array['reach'] = $item->MeleeWeapon->MeleeRange;
 				break;
-			case ItemFamily::RANGE_WEAPON:
+			case EItemFamily::RANGE_WEAPON:
 				$array['skill'] = $item->RangeWeapon->Skill;
 				//$array['weapon_type'] = $item->RangeWeapon->WeaponType;
 				//$array['range_weapon_type'] = $item->RangeWeapon->RangeWeaponType; // FIXME:
 				break;
-			case ItemFamily::AMMO:
+			case EItemFamily::AMMO:
 				$array['skill'] = $item->Ammo->Skill;
 				$array['damage'] = $item->Ammo->DamageType;
 				break;
-			case ItemFamily::RAW_MATERIAL:
+			case EItemFamily::RAW_MATERIAL:
 				unset($array['race'], $array['quality'], $array['craftplan']);
 
 				$isLooted = $this->_isMpLooted($item->Mp, $item->IconText);
@@ -143,38 +143,38 @@ class ItemSheetExport extends AbstractSheetExport {
 					);
 				}
 				break;
-			case ItemFamily::SHIELD:
+			case EItemFamily::SHIELD:
 				//$array['shield_type'] = $item->Shield->ShieldType;
 				break;
-			case ItemFamily::CRAFTING_TOOL:
-			case ItemFamily::HARVEST_TOOL:
-			case ItemFamily::TAMING_TOOL:
+			case EItemFamily::CRAFTING_TOOL:
+			case EItemFamily::HARVEST_TOOL:
+			case EItemFamily::TAMING_TOOL:
 				$array['skill'] = $item->Tool->Skill;
 				//$array['_tool_type'] = $item->Tool->CraftingToolType;
 				//$array['_command_range'] = $item->Tool->CommandRange;
 				//$array['_max_donkey'] = $item->Tool->MaxDonkey;
 				break;
-			case ItemFamily::TELEPORT:
+			case EItemFamily::TELEPORT:
 				unset($array['quality']);
 				//$array['_teleport_type'] = $item->Teleport->Type;
 				break;
-			case ItemFamily::PET_ANIMAL_TICKET:
+			case EItemFamily::PET_ANIMAL_TICKET:
 				//$array['_pet_slot'] = $item->Pet->Slot;
 				break;
-			case ItemFamily::GUILD_OPTION:
+			case EItemFamily::GUILD_OPTION:
 				//$array['_money_cost'] = $item->GuildOption->MoneyCost;
 				//$array['_xp_cost'] = $item->GuildOption->XpCost;
 				break;
-			case ItemFamily::COSMETIC:
+			case EItemFamily::COSMETIC:
 				//$array['_vp_value'] = $item->Cosmetic->VPValue;
 				//$array['_gender'] = $item->Cosmetic->Gender;
 				break;
-			case ItemFamily::CONSUMABLE:
+			case EItemFamily::CONSUMABLE:
 				//$array['_overdose_timer'] = $item->Consumable->OverdoseTimer;
 				//$array['_consumption_time'] = $item->Consumable->ConsumptionTime;
 				//$array['_properties'] = $item->Consumable->Properties;
 				break;
-			case ItemFamily::SCROLL:
+			case EItemFamily::SCROLL:
 				//$array['_texture'] = $item->Scroll->Texture;
 				break;
 			default:
