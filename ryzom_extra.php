@@ -630,17 +630,44 @@ function ryzom_skilltree(){
  * @return string|bool
  */
 function ryzom_vs_sheet($slot, $index){
-	static $cache = array();
-	if (empty($cache)) {
-		$file = sprintf('%s/visual_slot.serial', RYZOM_EXTRA_SHEETS_CACHE);
-		$cache = ryzom_extra_load_dataset($file);
-	}
+	$cache = ryzom_extra_load_vs();
 
 	if (isset($cache[$slot][$index])){
 		return $cache[$slot][$index];
 	}
 
 	return false;
+}
+
+/**
+ * Find visual slot index for requested sheet name
+ *
+ * @param int $slot
+ * @param string $sheet
+ *
+ * @return bool|mixed
+ */
+function ryzom_vs_index($slot, $sheet){
+	$cache = ryzom_extra_load_vs();
+
+	if(!isset($cache[$slot])){
+		return false;
+	}
+	return array_search($sheet, $cache[$slot], true);
+}
+
+/**
+ * Load visual_slot.serial file
+ *
+ * @return array
+ */
+function ryzom_extra_load_vs(){
+	static $cache = array();
+	if (empty($cache)) {
+		$file = sprintf('%s/visual_slot.serial', RYZOM_EXTRA_SHEETS_CACHE);
+		$cache = ryzom_extra_load_dataset($file);
+	}
+	return $cache;
 }
 
 /**
