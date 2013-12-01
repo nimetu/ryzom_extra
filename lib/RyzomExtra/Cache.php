@@ -117,7 +117,7 @@ class Cache implements CacheInterface
      */
     protected function getObjectPath($key)
     {
-        return $this->path . '/' . $key . '.cache';
+        return $this->path.'/'.$key.'.cache';
     }
 
     /**
@@ -125,11 +125,17 @@ class Cache implements CacheInterface
      *
      * @param string $key
      * @param array $data
+     *
+     * @throws \RuntimeException
      */
     private function write($key, array $data)
     {
         $fname = $this->getObjectPath($key);
         $content = serialize($data);
+        $path = dirname($fname);
+        if (!file_exists($path) && !mkdir($path, 0755, true)) {
+            throw new \RuntimeException('Unable to create directory for cache');
+        }
         file_put_contents($fname, $content);
     }
 
