@@ -12,9 +12,12 @@
         }
     ],
     "require": {
-        "php": ">=5.3.0",
-		"pimple/pimple": ">=1.0.0-dev",
-		"nimetu/ryzom_sheets": "dev-master"
+        "php": ">=5.3.0"
+    },
+    "require-dev": {
+        "php": ">=5.4.0",
+        "nimetu/ryzom_sheets": "1.*",
+        "pimple/pimple": "1.*"
     },
     "autoload": {
         "psr-0": { "RyzomExtra": "lib" },
