@@ -22,7 +22,6 @@
 
 namespace RyzomExtra\Export\Sheets;
 
-use Nel\Misc\SheetId;
 use Ryzom\Common\EItemFamily;
 use Ryzom\Sheets\Client\CMp;
 use Ryzom\Sheets\Client\CMpItemPart;
@@ -104,6 +103,10 @@ class ItemSheetExport extends AbstractSheetExport {
 			switch ($item->Family) {
 			case EItemFamily::ARMOR:
 				//$array['armor_type'] = $item->Armor->ArmorType;
+				// some armor has own color (like refugee armor plans)
+				if ($item->Color >= 0) {
+					$array['color'] = $item->Color;
+				}
 				break;
 			case EItemFamily::MELEE_WEAPON:
 				$array['skill'] = $item->MeleeWeapon->Skill;
