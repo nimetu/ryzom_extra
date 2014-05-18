@@ -58,7 +58,6 @@ return array(
 	232784066 => array('type'=> 's', 'pos'=>array('x'=>18789, 'y'=>-24620), 'place'=> 'pyr_stable2.place', 'city'=>'place_pyr.place', 'continent'=> 'continent_fyros.place'), // south
 	232784067 => array('type'=> 's', 'pos'=>array('x'=>18579, 'y'=>-24305), 'place'=> 'pyr_stable1.place', 'city'=>'place_pyr.place', 'continent'=> 'continent_fyros.place'), // north
 
-	// FIXME: guilds need to be verified
 	182452279 => array('type'=> 'g', 'pos'=>array('x'=>17265, 'y'=>-33199), 'place'=> 'place_fairhaven_p_8.place', 'city'=>'place_fairhaven.place', 'continent'=> 'continent_tryker.place'),// verify
 	182452280 => array('type'=> 'a', 'pos'=>array('x'=>17271, 'y'=>-33205), 'place'=> 'place_fairhaven_p_8.place', 'city'=>'place_fairhaven.place', 'continent'=> 'continent_tryker.place'),
 	182452281 => array('type'=> 'g', 'pos'=>array('x'=>17103, 'y'=>-33094), 'place'=> 'place_fairhaven_p_4.place', 'city'=>'place_fairhaven.place', 'continent'=> 'continent_tryker.place'),// verify
@@ -71,5 +70,10 @@ return array(
 	240124101 => array('type'=> 's', 'pos'=>array('x'=>17260, 'y'=>-32937), 'place'=> 'fairhaven_stable.place', 'city'=>'place_fairhaven.place', 'continent'=> 'continent_tryker.place'),
 	240124102 => array('type'=> 's', 'pos'=>array('x'=>17925, 'y'=>-31995), 'place'=> 'crystabell_stable.place', 'city'=>'place_crystabell.place', 'continent'=> 'continent_tryker.place'),
 	240124103 => array('type'=> 's', 'pos'=>array('x'=>18186, 'y'=>-31097), 'place'=> 'avendale_stable.place', 'city'=>'place_avendale.place', 'continent'=> 'continent_tryker.place'),
+
+	// marauder camp
+	180355188 => array('type'=> 'a', 'pos'=>array('x'=>850, 'y'=>-1364), 'place'=> 'place_marauder_camp.place', 'city'=>'place_marauder_camp.place', 'continent'=> 'continent_matis.place'),
+	180355188 => array('type'=> 'g', 'pos'=>array('x'=>870, 'y'=>-1364), 'place'=> 'place_marauder_camp.place', 'city'=>'place_marauder_camp.place', 'continent'=> 'continent_matis.place'),
+	234881465 => array('type'=> 's', 'pos'=>array('x'=>900, 'y'=>-1355), 'place'=> 'marauder_stable.place', 'city'=>'place_marauder_camp.place', 'continent'=> 'continent_matis.place'),
 );
 
