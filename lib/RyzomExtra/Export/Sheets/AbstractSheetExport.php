@@ -23,27 +23,33 @@
 namespace RyzomExtra\Export\Sheets;
 
 use Nel\Misc\SheetId;
+use RyzomExtra\Export\EncoderInterface;
 use RyzomExtra\Export\ExportInterface;
 use Ryzom\Sheets\SheetsManager;
 use Ryzom\Sheets\Client\SkilltreeSheet;
 
 abstract class AbstractSheetExport implements ExportInterface {
+	/** @var EncoderInterface */
+	protected $encoder;
+
 	/** @var string */
 	protected $path;
 
 	/** @var SheetsManager */
 	protected $sheetsManager;
 
-	function __construct(SheetId $sheetIds, SheetsManager $sheetsManager, $path) {
+	function __construct(SheetId $sheetIds, SheetsManager $sheetsManager, $path, EncoderInterface $encoder) {
 		$this->sheetsManager = $sheetsManager;
 		$this->sheetIds = $sheetIds;
 		$this->path = $path;
+		$this->encoder = $encoder;
 	}
 
 	protected function _serializeInto(array $data, $name) {
-		$fileName = sprintf('%s/%s.serial', $this->path, $name);
-		echo "+ saving $fileName\n";
-		file_put_contents($fileName, serialize($data));
+		$ext = $this->encoder->name();
+		$filename = "{$this->path}/{$name}.{$ext}";
+		echo "+ saving $filename\n";
+		file_put_contents($filename, $this->encoder->encode($data));
 	}
 
 	/**

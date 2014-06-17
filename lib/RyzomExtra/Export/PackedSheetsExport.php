@@ -39,13 +39,13 @@ class PackedSheetsExport extends AbstractSheetExport {
 		switch ($sheet) {
 		case 'item':
 		case 'sitem':
-			$export = new Sheets\ItemSheetExport($this->sheetIds, $this->sheetsManager, $this->path);
+			$export = new Sheets\ItemSheetExport($this->sheetIds, $this->sheetsManager, $this->path, $this->encoder);
 			break;
 		case 'skill_tree':
-			$export = new Sheets\SkilltreeSheetExport($this->sheetIds, $this->sheetsManager, $this->path);
+			$export = new Sheets\SkilltreeSheetExport($this->sheetIds, $this->sheetsManager, $this->path, $this->encoder);
 			break;
 		case 'sbrick':
-			$export = new Sheets\SbrickSheetExport($this->sheetIds, $this->sheetsManager, $this->path);
+			$export = new Sheets\SbrickSheetExport($this->sheetIds, $this->sheetsManager, $this->path, $this->encoder);
 			break;
 		case 'sphrase':
 			// TODO: SphraseSheetExport()

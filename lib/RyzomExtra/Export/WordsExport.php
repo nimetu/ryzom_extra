@@ -24,8 +24,13 @@ namespace RyzomExtra\Export;
 
 class WordsExport implements ExportInterface {
 
-	function __construct($path) {
+	/** @var EncoderInterface */
+	protected $encoder;
+
+	function __construct($path, EncoderInterface $encoder) {
 		$this->path = $path;
+
+		$this->encoder = $encoder;
 	}
 
 	/**
@@ -37,9 +42,11 @@ class WordsExport implements ExportInterface {
 			if ($sheet == 'sitem') {
 				$sheet = 'item';
 			}
-			$filename = sprintf('%s/words_%s_%s.serial', $this->path, $lang, $sheet);
 
-			file_put_contents($filename, serialize($array));
+			$ext = $this->encoder->name();
+			$filename = "{$this->path}/words_{$lang}_{$sheet}.{$ext}";
+
+			file_put_contents($filename, $this->encoder->encode($array));
 		}
 	}
 }

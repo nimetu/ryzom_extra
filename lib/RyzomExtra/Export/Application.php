@@ -30,6 +30,7 @@ use Ryzom\Sheets\SheetsManager;
 use Ryzom\Sheets\VisualSlotManager;
 use Ryzom\Translation\Loader\WordsLoader;
 use Ryzom\Translation\Loader\UxtLoader;
+use RyzomExtra\Export\Encoder\SerializeEncoder;
 
 class Application extends Pimple {
 
@@ -88,24 +89,29 @@ class Application extends Pimple {
 			return new UxtLoader();
 		});
 
+		// Serialize encoder to use
+		$this['encoder'] = $this->share(function() {
+			return new SerializeEncoder();
+		});
+
 		// Save SheetId collection into cache files
 		$this['export.sheetid'] = $this->share(function() use ($app) {
-			return new SheetIdExport($app['sheetid'], $app['cache.path']);
+			return new SheetIdExport($app['sheetid'], $app['cache.path'], $app['encoder']);
 		});
 
 		// Save words and uxt translations into cache files
 		$this['export.words'] = $this->share(function() use ($app) {
-			return new WordsExport($app['cache.path']);
+			return new WordsExport($app['cache.path'], $app['encoder']);
 		});
 
 		// Save loaded sheets to cache files
 		$this['export.packed_sheets'] = $this->share(function() use ($app) {
-			return new PackedSheetsExport($app['sheetid'], $app['sheets'], $app['cache.path']);
+			return new PackedSheetsExport($app['sheetid'], $app['sheets'], $app['cache.path'], $app['encoder']);
 		});
 
 		// Save visual_slot.tab to cache file
 		$this['export.visual_slot'] = $this->share(function () use ($app) {
-			return new VisualSlotExport($app['sheetid'], $app['cache.path']);
+			return new VisualSlotExport($app['sheetid'], $app['cache.path'], $app['encoder']);
 		});
 	}
 

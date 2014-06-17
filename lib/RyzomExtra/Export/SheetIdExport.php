@@ -26,8 +26,12 @@ use Nel\Misc\SheetId;
 
 class SheetIdExport implements ExportInterface {
 
-	function __construct(SheetId $sheetIds, $path) {
+	/** @var EncoderInterface */
+	protected $encoder;
+
+	function __construct(SheetId $sheetIds, $path, EncoderInterface $encoder) {
 		$this->path = $path;
+		$this->encoder = $encoder;
 	}
 
 	/**
@@ -40,14 +44,17 @@ class SheetIdExport implements ExportInterface {
 		$groups = array();
 
 		// split full list into separate files
+		// reading them back in is a lot faster this way
 		foreach ($data as $id => $array) {
 			$key = floor($id / 1000000);
 			$groups[$key][$id] = array('name' => $array['name'], 'suffix' => $array['sheet']);
 		}
 
+		$ext = $this->encoder->name();
 		foreach ($groups as $key => $array) {
-			$filename = sprintf('%s/%s-%02x.serial', $this->path, $sheet, $key);
-			file_put_contents($filename, serialize($array));
+			$idx = sprintf("%02x", $key);
+			$filename = "{$this->path}/{$sheet}-{$idx}.{$ext}";
+			file_put_contents($filename, $this->encoder->encode($array));
 		}
 	}
 

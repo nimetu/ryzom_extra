@@ -20,43 +20,21 @@
 // Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301  USA
 //
 
-namespace RyzomExtra\Export;
+namespace RyzomExtra\Export\Encoder;
 
-use Nel\Misc\SheetId;
+use RyzomExtra\Export\EncoderInterface;
 
-class VisualSlotExport implements ExportInterface {
+class SerializeEncoder implements EncoderInterface {
 
-	/** @var SheetId */
-	protected $sheetIds;
-
-	protected $path;
-
-	/** @var EncoderInterface */
-	protected $encoder;
-
-	public function __construct(SheetId $sheetIds, $path, EncoderInterface $encoder) {
-		$this->sheetIds = $sheetIds;
-		$this->path = $path;
-		$this->encoder = $encoder;
+	/** {@inheritdoc} */
+	function encode(array $array) {
+		return serialize($array);
 	}
 
 	/** {@inheritdoc} */
-	public function export(array $data, $sheet) {
-		$cache = array();
-
-		foreach($data as $slot => $sheets){
-			foreach($sheets as $index => $sheetid){
-				$cache[$slot][$index] = $this->sheetIds->getSheetIdName($sheetid);
-			}
-		}
-
-		$this->_serializeInto($cache, 'visual_slot');
+	function name(){
+		return 'serial';
 	}
 
-	protected function _serializeInto(array $data, $name) {
-		$ext = $this->encoder->name();
-		$fileName = "{$this->path}/{$name}.{$ext}";
-		echo "+ saving $fileName\n";
-		file_put_contents($fileName, $this->encoder->encode($data));
-	}
 }
+

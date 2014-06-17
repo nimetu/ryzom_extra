@@ -22,41 +22,23 @@
 
 namespace RyzomExtra\Export;
 
-use Nel\Misc\SheetId;
+interface EncoderInterface {
 
-class VisualSlotExport implements ExportInterface {
+	/**
+	 * Return encoder name, ie for file extension like 'json' or 'serial'
+	 *
+	 * @return string
+	 */
+	public function name();
 
-	/** @var SheetId */
-	protected $sheetIds;
+	/**
+	 * Serial data array into string
+	 *
+	 * @param array $array
+	 *
+	 * @return string
+	 */
+	public function encode(array $data);
 
-	protected $path;
-
-	/** @var EncoderInterface */
-	protected $encoder;
-
-	public function __construct(SheetId $sheetIds, $path, EncoderInterface $encoder) {
-		$this->sheetIds = $sheetIds;
-		$this->path = $path;
-		$this->encoder = $encoder;
-	}
-
-	/** {@inheritdoc} */
-	public function export(array $data, $sheet) {
-		$cache = array();
-
-		foreach($data as $slot => $sheets){
-			foreach($sheets as $index => $sheetid){
-				$cache[$slot][$index] = $this->sheetIds->getSheetIdName($sheetid);
-			}
-		}
-
-		$this->_serializeInto($cache, 'visual_slot');
-	}
-
-	protected function _serializeInto(array $data, $name) {
-		$ext = $this->encoder->name();
-		$fileName = "{$this->path}/{$name}.{$ext}";
-		echo "+ saving $fileName\n";
-		file_put_contents($fileName, $this->encoder->encode($data));
-	}
 }
+

@@ -9,4 +9,7 @@ $config['data.path'] = '/srv/ryzom-client/data';
 // RyzomExtra directory for .serial files
 $config['cache.path'] = __DIR__.'/../resources/sheets-cache';
 
+// output format
+$config['encoder'] = 'serial';
+
 return $config;

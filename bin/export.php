@@ -41,6 +41,12 @@ $app = new \RyzomExtra\Export\Application();
 $app['data.path'] = $config['data.path'];
 $app['cache.path'] = $config['cache.path'];
 
+if ($config['encoder'] == 'json') {
+	$app['encoder'] = $app->share(function(){
+		return new \RyzomExtra\Export\Encoder\JsonEncoder();
+	});
+}
+
 // sheet_id.bin
 $app->exportSheetIds();
 
