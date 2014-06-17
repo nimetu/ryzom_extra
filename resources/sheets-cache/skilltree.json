@@ -1,0 +1,1352 @@
+{
+    "sc": {
+        "max": 20,
+        "node_id": 0,
+        "parent_node": 226,
+        "skill_id": "sc"
+    },
+    "sca": {
+        "max": 50,
+        "node_id": 1,
+        "parent_node": 0,
+        "skill_id": "sca"
+    },
+    "scah": {
+        "max": 100,
+        "node_id": 2,
+        "parent_node": 1,
+        "skill_id": "scah"
+    },
+    "scahb": {
+        "max": 150,
+        "node_id": 3,
+        "parent_node": 2,
+        "skill_id": "scahb"
+    },
+    "scahbe": {
+        "max": 200,
+        "node_id": 4,
+        "parent_node": 3,
+        "skill_id": "scahbe"
+    },
+    "scahbem": {
+        "max": 250,
+        "node_id": 5,
+        "parent_node": 4,
+        "skill_id": "scahbem"
+    },
+    "scahg": {
+        "max": 150,
+        "node_id": 6,
+        "parent_node": 2,
+        "skill_id": "scahg"
+    },
+    "scahge": {
+        "max": 200,
+        "node_id": 7,
+        "parent_node": 6,
+        "skill_id": "scahge"
+    },
+    "scahgem": {
+        "max": 250,
+        "node_id": 8,
+        "parent_node": 7,
+        "skill_id": "scahgem"
+    },
+    "scahh": {
+        "max": 150,
+        "node_id": 9,
+        "parent_node": 2,
+        "skill_id": "scahh"
+    },
+    "scahhe": {
+        "max": 200,
+        "node_id": 10,
+        "parent_node": 9,
+        "skill_id": "scahhe"
+    },
+    "scahhem": {
+        "max": 250,
+        "node_id": 11,
+        "parent_node": 10,
+        "skill_id": "scahhem"
+    },
+    "scahp": {
+        "max": 150,
+        "node_id": 12,
+        "parent_node": 2,
+        "skill_id": "scahp"
+    },
+    "scahpe": {
+        "max": 200,
+        "node_id": 13,
+        "parent_node": 12,
+        "skill_id": "scahpe"
+    },
+    "scahpem": {
+        "max": 250,
+        "node_id": 14,
+        "parent_node": 13,
+        "skill_id": "scahpem"
+    },
+    "scahs": {
+        "max": 150,
+        "node_id": 15,
+        "parent_node": 2,
+        "skill_id": "scahs"
+    },
+    "scahse": {
+        "max": 200,
+        "node_id": 16,
+        "parent_node": 15,
+        "skill_id": "scahse"
+    },
+    "scahsem": {
+        "max": 250,
+        "node_id": 17,
+        "parent_node": 16,
+        "skill_id": "scahsem"
+    },
+    "scahv": {
+        "max": 150,
+        "node_id": 18,
+        "parent_node": 2,
+        "skill_id": "scahv"
+    },
+    "scahve": {
+        "max": 200,
+        "node_id": 19,
+        "parent_node": 18,
+        "skill_id": "scahve"
+    },
+    "scahvem": {
+        "max": 250,
+        "node_id": 20,
+        "parent_node": 19,
+        "skill_id": "scahvem"
+    },
+    "scal": {
+        "max": 100,
+        "node_id": 21,
+        "parent_node": 1,
+        "skill_id": "scal"
+    },
+    "scalb": {
+        "max": 150,
+        "node_id": 22,
+        "parent_node": 21,
+        "skill_id": "scalb"
+    },
+    "scalbe": {
+        "max": 200,
+        "node_id": 23,
+        "parent_node": 22,
+        "skill_id": "scalbe"
+    },
+    "scalbem": {
+        "max": 250,
+        "node_id": 24,
+        "parent_node": 23,
+        "skill_id": "scalbem"
+    },
+    "scalg": {
+        "max": 150,
+        "node_id": 25,
+        "parent_node": 21,
+        "skill_id": "scalg"
+    },
+    "scalge": {
+        "max": 200,
+        "node_id": 26,
+        "parent_node": 25,
+        "skill_id": "scalge"
+    },
+    "scalgem": {
+        "max": 250,
+        "node_id": 27,
+        "parent_node": 26,
+        "skill_id": "scalgem"
+    },
+    "scalp": {
+        "max": 150,
+        "node_id": 28,
+        "parent_node": 21,
+        "skill_id": "scalp"
+    },
+    "scalpe": {
+        "max": 200,
+        "node_id": 29,
+        "parent_node": 28,
+        "skill_id": "scalpe"
+    },
+    "scalpem": {
+        "max": 250,
+        "node_id": 30,
+        "parent_node": 29,
+        "skill_id": "scalpem"
+    },
+    "scals": {
+        "max": 150,
+        "node_id": 31,
+        "parent_node": 21,
+        "skill_id": "scals"
+    },
+    "scalse": {
+        "max": 200,
+        "node_id": 32,
+        "parent_node": 31,
+        "skill_id": "scalse"
+    },
+    "scalsem": {
+        "max": 250,
+        "node_id": 33,
+        "parent_node": 32,
+        "skill_id": "scalsem"
+    },
+    "scalv": {
+        "max": 150,
+        "node_id": 34,
+        "parent_node": 21,
+        "skill_id": "scalv"
+    },
+    "scalve": {
+        "max": 200,
+        "node_id": 35,
+        "parent_node": 34,
+        "skill_id": "scalve"
+    },
+    "scalvem": {
+        "max": 250,
+        "node_id": 36,
+        "parent_node": 35,
+        "skill_id": "scalvem"
+    },
+    "scam": {
+        "max": 100,
+        "node_id": 37,
+        "parent_node": 1,
+        "skill_id": "scam"
+    },
+    "scamb": {
+        "max": 150,
+        "node_id": 38,
+        "parent_node": 37,
+        "skill_id": "scamb"
+    },
+    "scambe": {
+        "max": 200,
+        "node_id": 39,
+        "parent_node": 38,
+        "skill_id": "scambe"
+    },
+    "scambem": {
+        "max": 250,
+        "node_id": 40,
+        "parent_node": 39,
+        "skill_id": "scambem"
+    },
+    "scamg": {
+        "max": 150,
+        "node_id": 41,
+        "parent_node": 37,
+        "skill_id": "scamg"
+    },
+    "scamge": {
+        "max": 200,
+        "node_id": 42,
+        "parent_node": 41,
+        "skill_id": "scamge"
+    },
+    "scamgem": {
+        "max": 250,
+        "node_id": 43,
+        "parent_node": 42,
+        "skill_id": "scamgem"
+    },
+    "scamp": {
+        "max": 150,
+        "node_id": 44,
+        "parent_node": 37,
+        "skill_id": "scamp"
+    },
+    "scampe": {
+        "max": 200,
+        "node_id": 45,
+        "parent_node": 44,
+        "skill_id": "scampe"
+    },
+    "scampem": {
+        "max": 250,
+        "node_id": 46,
+        "parent_node": 45,
+        "skill_id": "scampem"
+    },
+    "scams": {
+        "max": 150,
+        "node_id": 47,
+        "parent_node": 37,
+        "skill_id": "scams"
+    },
+    "scamse": {
+        "max": 200,
+        "node_id": 48,
+        "parent_node": 47,
+        "skill_id": "scamse"
+    },
+    "scamsem": {
+        "max": 250,
+        "node_id": 49,
+        "parent_node": 48,
+        "skill_id": "scamsem"
+    },
+    "scamv": {
+        "max": 150,
+        "node_id": 50,
+        "parent_node": 37,
+        "skill_id": "scamv"
+    },
+    "scamve": {
+        "max": 200,
+        "node_id": 51,
+        "parent_node": 50,
+        "skill_id": "scamve"
+    },
+    "scamvem": {
+        "max": 250,
+        "node_id": 52,
+        "parent_node": 51,
+        "skill_id": "scamvem"
+    },
+    "scas": {
+        "max": 100,
+        "node_id": 53,
+        "parent_node": 1,
+        "skill_id": "scas"
+    },
+    "scasb": {
+        "max": 150,
+        "node_id": 54,
+        "parent_node": 53,
+        "skill_id": "scasb"
+    },
+    "scasbe": {
+        "max": 200,
+        "node_id": 55,
+        "parent_node": 54,
+        "skill_id": "scasbe"
+    },
+    "scasbem": {
+        "max": 250,
+        "node_id": 56,
+        "parent_node": 55,
+        "skill_id": "scasbem"
+    },
+    "scass": {
+        "max": 150,
+        "node_id": 57,
+        "parent_node": 53,
+        "skill_id": "scass"
+    },
+    "scasse": {
+        "max": 200,
+        "node_id": 58,
+        "parent_node": 57,
+        "skill_id": "scasse"
+    },
+    "scassem": {
+        "max": 250,
+        "node_id": 59,
+        "parent_node": 58,
+        "skill_id": "scassem"
+    },
+    "scj": {
+        "max": 50,
+        "node_id": 60,
+        "parent_node": 0,
+        "skill_id": "scj"
+    },
+    "scja": {
+        "max": 100,
+        "node_id": 61,
+        "parent_node": 60,
+        "skill_id": "scja"
+    },
+    "scjaa": {
+        "max": 150,
+        "node_id": 62,
+        "parent_node": 61,
+        "skill_id": "scjaa"
+    },
+    "scjaae": {
+        "max": 200,
+        "node_id": 63,
+        "parent_node": 62,
+        "skill_id": "scjaae"
+    },
+    "scjaaem": {
+        "max": 250,
+        "node_id": 64,
+        "parent_node": 63,
+        "skill_id": "scjaaem"
+    },
+    "scjb": {
+        "max": 100,
+        "node_id": 65,
+        "parent_node": 60,
+        "skill_id": "scjb"
+    },
+    "scjba": {
+        "max": 150,
+        "node_id": 66,
+        "parent_node": 65,
+        "skill_id": "scjba"
+    },
+    "scjbae": {
+        "max": 200,
+        "node_id": 67,
+        "parent_node": 66,
+        "skill_id": "scjbae"
+    },
+    "scjbaem": {
+        "max": 250,
+        "node_id": 68,
+        "parent_node": 67,
+        "skill_id": "scjbaem"
+    },
+    "scjd": {
+        "max": 100,
+        "node_id": 69,
+        "parent_node": 60,
+        "skill_id": "scjd"
+    },
+    "scjda": {
+        "max": 150,
+        "node_id": 70,
+        "parent_node": 69,
+        "skill_id": "scjda"
+    },
+    "scjdae": {
+        "max": 200,
+        "node_id": 71,
+        "parent_node": 70,
+        "skill_id": "scjdae"
+    },
+    "scjdaem": {
+        "max": 250,
+        "node_id": 72,
+        "parent_node": 71,
+        "skill_id": "scjdaem"
+    },
+    "scje": {
+        "max": 100,
+        "node_id": 73,
+        "parent_node": 60,
+        "skill_id": "scje"
+    },
+    "scjea": {
+        "max": 150,
+        "node_id": 74,
+        "parent_node": 73,
+        "skill_id": "scjea"
+    },
+    "scjeae": {
+        "max": 200,
+        "node_id": 75,
+        "parent_node": 74,
+        "skill_id": "scjeae"
+    },
+    "scjeaem": {
+        "max": 250,
+        "node_id": 76,
+        "parent_node": 75,
+        "skill_id": "scjeaem"
+    },
+    "scjp": {
+        "max": 100,
+        "node_id": 77,
+        "parent_node": 60,
+        "skill_id": "scjp"
+    },
+    "scjpa": {
+        "max": 150,
+        "node_id": 78,
+        "parent_node": 77,
+        "skill_id": "scjpa"
+    },
+    "scjpae": {
+        "max": 200,
+        "node_id": 79,
+        "parent_node": 78,
+        "skill_id": "scjpae"
+    },
+    "scjpaem": {
+        "max": 250,
+        "node_id": 80,
+        "parent_node": 79,
+        "skill_id": "scjpaem"
+    },
+    "scjr": {
+        "max": 100,
+        "node_id": 81,
+        "parent_node": 60,
+        "skill_id": "scjr"
+    },
+    "scjra": {
+        "max": 150,
+        "node_id": 82,
+        "parent_node": 81,
+        "skill_id": "scjra"
+    },
+    "scjrae": {
+        "max": 200,
+        "node_id": 83,
+        "parent_node": 82,
+        "skill_id": "scjrae"
+    },
+    "scjraem": {
+        "max": 250,
+        "node_id": 84,
+        "parent_node": 83,
+        "skill_id": "scjraem"
+    },
+    "scm": {
+        "max": 50,
+        "node_id": 85,
+        "parent_node": 0,
+        "skill_id": "scm"
+    },
+    "scm1": {
+        "max": 100,
+        "node_id": 86,
+        "parent_node": 85,
+        "skill_id": "scm1"
+    },
+    "scm1a": {
+        "max": 150,
+        "node_id": 87,
+        "parent_node": 86,
+        "skill_id": "scm1a"
+    },
+    "scm1ae": {
+        "max": 200,
+        "node_id": 88,
+        "parent_node": 87,
+        "skill_id": "scm1ae"
+    },
+    "scm1aem": {
+        "max": 250,
+        "node_id": 89,
+        "parent_node": 88,
+        "skill_id": "scm1aem"
+    },
+    "scm1d": {
+        "max": 150,
+        "node_id": 90,
+        "parent_node": 86,
+        "skill_id": "scm1d"
+    },
+    "scm1de": {
+        "max": 200,
+        "node_id": 91,
+        "parent_node": 90,
+        "skill_id": "scm1de"
+    },
+    "scm1dem": {
+        "max": 250,
+        "node_id": 92,
+        "parent_node": 91,
+        "skill_id": "scm1dem"
+    },
+    "scm1m": {
+        "max": 150,
+        "node_id": 93,
+        "parent_node": 86,
+        "skill_id": "scm1m"
+    },
+    "scm1me": {
+        "max": 200,
+        "node_id": 94,
+        "parent_node": 93,
+        "skill_id": "scm1me"
+    },
+    "scm1mem": {
+        "max": 250,
+        "node_id": 95,
+        "parent_node": 94,
+        "skill_id": "scm1mem"
+    },
+    "scm1p": {
+        "max": 150,
+        "node_id": 96,
+        "parent_node": 86,
+        "skill_id": "scm1p"
+    },
+    "scm1pe": {
+        "max": 200,
+        "node_id": 97,
+        "parent_node": 96,
+        "skill_id": "scm1pe"
+    },
+    "scm1pem": {
+        "max": 250,
+        "node_id": 98,
+        "parent_node": 97,
+        "skill_id": "scm1pem"
+    },
+    "scm1s": {
+        "max": 150,
+        "node_id": 99,
+        "parent_node": 86,
+        "skill_id": "scm1s"
+    },
+    "scm1se": {
+        "max": 200,
+        "node_id": 100,
+        "parent_node": 99,
+        "skill_id": "scm1se"
+    },
+    "scm1sem": {
+        "max": 250,
+        "node_id": 101,
+        "parent_node": 100,
+        "skill_id": "scm1sem"
+    },
+    "scm1t": {
+        "max": 150,
+        "node_id": 102,
+        "parent_node": 86,
+        "skill_id": "scm1t"
+    },
+    "scm1te": {
+        "max": 200,
+        "node_id": 103,
+        "parent_node": 102,
+        "skill_id": "scm1te"
+    },
+    "scm1tem": {
+        "max": 250,
+        "node_id": 104,
+        "parent_node": 103,
+        "skill_id": "scm1tem"
+    },
+    "scm2": {
+        "max": 100,
+        "node_id": 105,
+        "parent_node": 85,
+        "skill_id": "scm2"
+    },
+    "scm2a": {
+        "max": 150,
+        "node_id": 106,
+        "parent_node": 105,
+        "skill_id": "scm2a"
+    },
+    "scm2ae": {
+        "max": 200,
+        "node_id": 107,
+        "parent_node": 106,
+        "skill_id": "scm2ae"
+    },
+    "scm2aem": {
+        "max": 250,
+        "node_id": 108,
+        "parent_node": 107,
+        "skill_id": "scm2aem"
+    },
+    "scm2m": {
+        "max": 150,
+        "node_id": 109,
+        "parent_node": 105,
+        "skill_id": "scm2m"
+    },
+    "scm2me": {
+        "max": 200,
+        "node_id": 110,
+        "parent_node": 109,
+        "skill_id": "scm2me"
+    },
+    "scm2mem": {
+        "max": 250,
+        "node_id": 111,
+        "parent_node": 110,
+        "skill_id": "scm2mem"
+    },
+    "scm2p": {
+        "max": 150,
+        "node_id": 112,
+        "parent_node": 105,
+        "skill_id": "scm2p"
+    },
+    "scm2pe": {
+        "max": 200,
+        "node_id": 113,
+        "parent_node": 112,
+        "skill_id": "scm2pe"
+    },
+    "scm2pem": {
+        "max": 250,
+        "node_id": 114,
+        "parent_node": 113,
+        "skill_id": "scm2pem"
+    },
+    "scm2s": {
+        "max": 150,
+        "node_id": 115,
+        "parent_node": 105,
+        "skill_id": "scm2s"
+    },
+    "scm2se": {
+        "max": 200,
+        "node_id": 116,
+        "parent_node": 115,
+        "skill_id": "scm2se"
+    },
+    "scm2sem": {
+        "max": 250,
+        "node_id": 117,
+        "parent_node": 116,
+        "skill_id": "scm2sem"
+    },
+    "scmc": {
+        "max": 100,
+        "node_id": 118,
+        "parent_node": 85,
+        "skill_id": "scmc"
+    },
+    "scmca": {
+        "max": 150,
+        "node_id": 119,
+        "parent_node": 118,
+        "skill_id": "scmca"
+    },
+    "scmcae": {
+        "max": 200,
+        "node_id": 120,
+        "parent_node": 119,
+        "skill_id": "scmcae"
+    },
+    "scmcaem": {
+        "max": 250,
+        "node_id": 121,
+        "parent_node": 120,
+        "skill_id": "scmcaem"
+    },
+    "scr": {
+        "max": 50,
+        "node_id": 122,
+        "parent_node": 0,
+        "skill_id": "scr"
+    },
+    "scr1": {
+        "max": 100,
+        "node_id": 123,
+        "parent_node": 122,
+        "skill_id": "scr1"
+    },
+    "scr1p": {
+        "max": 150,
+        "node_id": 124,
+        "parent_node": 123,
+        "skill_id": "scr1p"
+    },
+    "scr1pe": {
+        "max": 200,
+        "node_id": 125,
+        "parent_node": 124,
+        "skill_id": "scr1pe"
+    },
+    "scr1pem": {
+        "max": 250,
+        "node_id": 126,
+        "parent_node": 125,
+        "skill_id": "scr1pem"
+    },
+    "scr2": {
+        "max": 100,
+        "node_id": 127,
+        "parent_node": 122,
+        "skill_id": "scr2"
+    },
+    "scr2a": {
+        "max": 150,
+        "node_id": 128,
+        "parent_node": 127,
+        "skill_id": "scr2a"
+    },
+    "scr2ae": {
+        "max": 200,
+        "node_id": 129,
+        "parent_node": 128,
+        "skill_id": "scr2ae"
+    },
+    "scr2aem": {
+        "max": 250,
+        "node_id": 130,
+        "parent_node": 129,
+        "skill_id": "scr2aem"
+    },
+    "scr2l": {
+        "max": 150,
+        "node_id": 131,
+        "parent_node": 127,
+        "skill_id": "scr2l"
+    },
+    "scr2le": {
+        "max": 200,
+        "node_id": 132,
+        "parent_node": 131,
+        "skill_id": "scr2le"
+    },
+    "scr2lem": {
+        "max": 250,
+        "node_id": 133,
+        "parent_node": 132,
+        "skill_id": "scr2lem"
+    },
+    "scr2r": {
+        "max": 150,
+        "node_id": 134,
+        "parent_node": 127,
+        "skill_id": "scr2r"
+    },
+    "scr2re": {
+        "max": 200,
+        "node_id": 135,
+        "parent_node": 134,
+        "skill_id": "scr2re"
+    },
+    "scr2rem": {
+        "max": 250,
+        "node_id": 136,
+        "parent_node": 135,
+        "skill_id": "scr2rem"
+    },
+    "sf": {
+        "max": 20,
+        "node_id": 137,
+        "parent_node": 226,
+        "skill_id": "sf"
+    },
+    "sfm": {
+        "max": 50,
+        "node_id": 138,
+        "parent_node": 137,
+        "skill_id": "sfm"
+    },
+    "sfm1": {
+        "max": 100,
+        "node_id": 139,
+        "parent_node": 138,
+        "skill_id": "sfm1"
+    },
+    "sfm1b": {
+        "max": 150,
+        "node_id": 140,
+        "parent_node": 139,
+        "skill_id": "sfm1b"
+    },
+    "sfm1bm": {
+        "max": 200,
+        "node_id": 141,
+        "parent_node": 140,
+        "skill_id": "sfm1bm"
+    },
+    "sfm1bmm": {
+        "max": 250,
+        "node_id": 142,
+        "parent_node": 141,
+        "skill_id": "sfm1bmm"
+    },
+    "sfm1bs": {
+        "max": 200,
+        "node_id": 143,
+        "parent_node": 140,
+        "skill_id": "sfm1bs"
+    },
+    "sfm1bsm": {
+        "max": 250,
+        "node_id": 144,
+        "parent_node": 143,
+        "skill_id": "sfm1bsm"
+    },
+    "sfm1p": {
+        "max": 150,
+        "node_id": 145,
+        "parent_node": 139,
+        "skill_id": "sfm1p"
+    },
+    "sfm1ps": {
+        "max": 200,
+        "node_id": 146,
+        "parent_node": 145,
+        "skill_id": "sfm1ps"
+    },
+    "sfm1psm": {
+        "max": 250,
+        "node_id": 147,
+        "parent_node": 146,
+        "skill_id": "sfm1psm"
+    },
+    "sfm1s": {
+        "max": 150,
+        "node_id": 148,
+        "parent_node": 139,
+        "skill_id": "sfm1s"
+    },
+    "sfm1sa": {
+        "max": 200,
+        "node_id": 149,
+        "parent_node": 148,
+        "skill_id": "sfm1sa"
+    },
+    "sfm1sam": {
+        "max": 250,
+        "node_id": 150,
+        "parent_node": 149,
+        "skill_id": "sfm1sam"
+    },
+    "sfm1ss": {
+        "max": 200,
+        "node_id": 151,
+        "parent_node": 148,
+        "skill_id": "sfm1ss"
+    },
+    "sfm1ssm": {
+        "max": 250,
+        "node_id": 152,
+        "parent_node": 151,
+        "skill_id": "sfm1ssm"
+    },
+    "sfm2": {
+        "max": 100,
+        "node_id": 153,
+        "parent_node": 138,
+        "skill_id": "sfm2"
+    },
+    "sfm2b": {
+        "max": 150,
+        "node_id": 154,
+        "parent_node": 153,
+        "skill_id": "sfm2b"
+    },
+    "sfm2bm": {
+        "max": 200,
+        "node_id": 155,
+        "parent_node": 154,
+        "skill_id": "sfm2bm"
+    },
+    "sfm2bmm": {
+        "max": 250,
+        "node_id": 156,
+        "parent_node": 155,
+        "skill_id": "sfm2bmm"
+    },
+    "sfm2p": {
+        "max": 150,
+        "node_id": 157,
+        "parent_node": 153,
+        "skill_id": "sfm2p"
+    },
+    "sfm2pp": {
+        "max": 200,
+        "node_id": 158,
+        "parent_node": 157,
+        "skill_id": "sfm2pp"
+    },
+    "sfm2ppm": {
+        "max": 250,
+        "node_id": 159,
+        "parent_node": 158,
+        "skill_id": "sfm2ppm"
+    },
+    "sfm2s": {
+        "max": 150,
+        "node_id": 160,
+        "parent_node": 153,
+        "skill_id": "sfm2s"
+    },
+    "sfm2sa": {
+        "max": 200,
+        "node_id": 161,
+        "parent_node": 160,
+        "skill_id": "sfm2sa"
+    },
+    "sfm2sam": {
+        "max": 250,
+        "node_id": 162,
+        "parent_node": 161,
+        "skill_id": "sfm2sam"
+    },
+    "sfm2ss": {
+        "max": 200,
+        "node_id": 163,
+        "parent_node": 160,
+        "skill_id": "sfm2ss"
+    },
+    "sfm2ssm": {
+        "max": 250,
+        "node_id": 164,
+        "parent_node": 163,
+        "skill_id": "sfm2ssm"
+    },
+    "sfmc": {
+        "max": 100,
+        "node_id": 165,
+        "parent_node": 138,
+        "skill_id": "sfmc"
+    },
+    "sfmca": {
+        "max": 150,
+        "node_id": 166,
+        "parent_node": 165,
+        "skill_id": "sfmca"
+    },
+    "sfmcad": {
+        "max": 200,
+        "node_id": 167,
+        "parent_node": 166,
+        "skill_id": "sfmcad"
+    },
+    "sfmcadm": {
+        "max": 250,
+        "node_id": 168,
+        "parent_node": 167,
+        "skill_id": "sfmcadm"
+    },
+    "sfmcah": {
+        "max": 200,
+        "node_id": 169,
+        "parent_node": 166,
+        "skill_id": "sfmcah"
+    },
+    "sfmcahm": {
+        "max": 250,
+        "node_id": 170,
+        "parent_node": 169,
+        "skill_id": "sfmcahm"
+    },
+    "sfr": {
+        "max": 50,
+        "node_id": 171,
+        "parent_node": 137,
+        "skill_id": "sfr"
+    },
+    "sfr1": {
+        "max": 100,
+        "node_id": 172,
+        "parent_node": 171,
+        "skill_id": "sfr1"
+    },
+    "sfr1a": {
+        "max": 150,
+        "node_id": 173,
+        "parent_node": 172,
+        "skill_id": "sfr1a"
+    },
+    "sfr1ap": {
+        "max": 200,
+        "node_id": 174,
+        "parent_node": 173,
+        "skill_id": "sfr1ap"
+    },
+    "sfr1apm": {
+        "max": 250,
+        "node_id": 175,
+        "parent_node": 174,
+        "skill_id": "sfr1apm"
+    },
+    "sfr2": {
+        "max": 100,
+        "node_id": 176,
+        "parent_node": 171,
+        "skill_id": "sfr2"
+    },
+    "sfr2a": {
+        "max": 150,
+        "node_id": 177,
+        "parent_node": 176,
+        "skill_id": "sfr2a"
+    },
+    "sfr2aa": {
+        "max": 200,
+        "node_id": 178,
+        "parent_node": 177,
+        "skill_id": "sfr2aa"
+    },
+    "sfr2aam": {
+        "max": 250,
+        "node_id": 179,
+        "parent_node": 178,
+        "skill_id": "sfr2aam"
+    },
+    "sfr2al": {
+        "max": 200,
+        "node_id": 180,
+        "parent_node": 177,
+        "skill_id": "sfr2al"
+    },
+    "sfr2alm": {
+        "max": 250,
+        "node_id": 181,
+        "parent_node": 180,
+        "skill_id": "sfr2alm"
+    },
+    "sfr2ar": {
+        "max": 200,
+        "node_id": 182,
+        "parent_node": 177,
+        "skill_id": "sfr2ar"
+    },
+    "sfr2arm": {
+        "max": 250,
+        "node_id": 183,
+        "parent_node": 182,
+        "skill_id": "sfr2arm"
+    },
+    "sh": {
+        "max": 20,
+        "node_id": 184,
+        "parent_node": 226,
+        "skill_id": "sh"
+    },
+    "shf": {
+        "max": 50,
+        "node_id": 185,
+        "parent_node": 184,
+        "skill_id": "shf"
+    },
+    "shfd": {
+        "max": 100,
+        "node_id": 186,
+        "parent_node": 185,
+        "skill_id": "shfd"
+    },
+    "shfda": {
+        "max": 150,
+        "node_id": 187,
+        "parent_node": 186,
+        "skill_id": "shfda"
+    },
+    "shfdae": {
+        "max": 200,
+        "node_id": 188,
+        "parent_node": 187,
+        "skill_id": "shfdae"
+    },
+    "shfdaem": {
+        "max": 250,
+        "node_id": 189,
+        "parent_node": 188,
+        "skill_id": "shfdaem"
+    },
+    "shff": {
+        "max": 100,
+        "node_id": 190,
+        "parent_node": 185,
+        "skill_id": "shff"
+    },
+    "shffa": {
+        "max": 150,
+        "node_id": 191,
+        "parent_node": 190,
+        "skill_id": "shffa"
+    },
+    "shffae": {
+        "max": 200,
+        "node_id": 192,
+        "parent_node": 191,
+        "skill_id": "shffae"
+    },
+    "shffaem": {
+        "max": 250,
+        "node_id": 193,
+        "parent_node": 192,
+        "skill_id": "shffaem"
+    },
+    "shfj": {
+        "max": 100,
+        "node_id": 194,
+        "parent_node": 185,
+        "skill_id": "shfj"
+    },
+    "shfja": {
+        "max": 150,
+        "node_id": 195,
+        "parent_node": 194,
+        "skill_id": "shfja"
+    },
+    "shfjae": {
+        "max": 200,
+        "node_id": 196,
+        "parent_node": 195,
+        "skill_id": "shfjae"
+    },
+    "shfjaem": {
+        "max": 250,
+        "node_id": 197,
+        "parent_node": 196,
+        "skill_id": "shfjaem"
+    },
+    "shfl": {
+        "max": 100,
+        "node_id": 198,
+        "parent_node": 185,
+        "skill_id": "shfl"
+    },
+    "shfla": {
+        "max": 150,
+        "node_id": 199,
+        "parent_node": 198,
+        "skill_id": "shfla"
+    },
+    "shflae": {
+        "max": 200,
+        "node_id": 200,
+        "parent_node": 199,
+        "skill_id": "shflae"
+    },
+    "shflaem": {
+        "max": 250,
+        "node_id": 201,
+        "parent_node": 200,
+        "skill_id": "shflaem"
+    },
+    "shfp": {
+        "max": 100,
+        "node_id": 202,
+        "parent_node": 185,
+        "skill_id": "shfp"
+    },
+    "shfpa": {
+        "max": 150,
+        "node_id": 203,
+        "parent_node": 202,
+        "skill_id": "shfpa"
+    },
+    "shfpae": {
+        "max": 200,
+        "node_id": 204,
+        "parent_node": 203,
+        "skill_id": "shfpae"
+    },
+    "shfpaem": {
+        "max": 250,
+        "node_id": 205,
+        "parent_node": 204,
+        "skill_id": "shfpaem"
+    },
+    "sm": {
+        "max": 20,
+        "node_id": 206,
+        "parent_node": 226,
+        "skill_id": "sm"
+    },
+    "smd": {
+        "max": 50,
+        "node_id": 207,
+        "parent_node": 206,
+        "skill_id": "smd"
+    },
+    "smda": {
+        "max": 100,
+        "node_id": 208,
+        "parent_node": 207,
+        "skill_id": "smda"
+    },
+    "smdaa": {
+        "max": 150,
+        "node_id": 209,
+        "parent_node": 208,
+        "skill_id": "smdaa"
+    },
+    "smdaae": {
+        "max": 200,
+        "node_id": 210,
+        "parent_node": 209,
+        "skill_id": "smdaae"
+    },
+    "smdaaem": {
+        "max": 250,
+        "node_id": 211,
+        "parent_node": 210,
+        "skill_id": "smdaaem"
+    },
+    "smdh": {
+        "max": 100,
+        "node_id": 212,
+        "parent_node": 207,
+        "skill_id": "smdh"
+    },
+    "smdha": {
+        "max": 150,
+        "node_id": 213,
+        "parent_node": 212,
+        "skill_id": "smdha"
+    },
+    "smdhae": {
+        "max": 200,
+        "node_id": 214,
+        "parent_node": 213,
+        "skill_id": "smdhae"
+    },
+    "smdhaem": {
+        "max": 250,
+        "node_id": 215,
+        "parent_node": 214,
+        "skill_id": "smdhaem"
+    },
+    "smo": {
+        "max": 50,
+        "node_id": 216,
+        "parent_node": 206,
+        "skill_id": "smo"
+    },
+    "smoa": {
+        "max": 100,
+        "node_id": 217,
+        "parent_node": 216,
+        "skill_id": "smoa"
+    },
+    "smoaa": {
+        "max": 150,
+        "node_id": 218,
+        "parent_node": 217,
+        "skill_id": "smoaa"
+    },
+    "smoaae": {
+        "max": 200,
+        "node_id": 219,
+        "parent_node": 218,
+        "skill_id": "smoaae"
+    },
+    "smoaaem": {
+        "max": 250,
+        "node_id": 220,
+        "parent_node": 219,
+        "skill_id": "smoaaem"
+    },
+    "smoe": {
+        "max": 100,
+        "node_id": 221,
+        "parent_node": 216,
+        "skill_id": "smoe"
+    },
+    "smoea": {
+        "max": 150,
+        "node_id": 222,
+        "parent_node": 221,
+        "skill_id": "smoea"
+    },
+    "smoeae": {
+        "max": 200,
+        "node_id": 223,
+        "parent_node": 222,
+        "skill_id": "smoeae"
+    },
+    "smoeaem": {
+        "max": 250,
+        "node_id": 224,
+        "parent_node": 223,
+        "skill_id": "smoeaem"
+    }
+}

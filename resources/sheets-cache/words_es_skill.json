@@ -1,0 +1,3657 @@
+{
+    "acuratebleedingshot": {
+        "name": "Disparo Sangrante Certero",
+        "p": "Disparos Sangrantes Certeros",
+        "description": ""
+    },
+    "acuratebreathlessshot": {
+        "name": "Disparo sin Aliento Certero",
+        "p": "Disparos sin Aliento Certeros",
+        "description": ""
+    },
+    "animalslideslip": {
+        "name": "Deslizamiento Animal",
+        "p": "Deslizamientos de Animal",
+        "description": ""
+    },
+    "animalstalking": {
+        "name": "Animal al Acecho",
+        "p": "Animales en Acecho ",
+        "description": ""
+    },
+    "apothecary": {
+        "name": "Boticario",
+        "p": "Boticarios",
+        "description": ""
+    },
+    "area": {
+        "name": "Área",
+        "p": "Aéreas",
+        "description": ""
+    },
+    "armorandweaponsmithing": {
+        "name": "Herrería de Armadura y Arma",
+        "p": "Herrería de Armaduras y Armas",
+        "description": ""
+    },
+    "artandcraft": {
+        "name": "Arte y Artesanía",
+        "p": "Artes y Artesanías",
+        "description": ""
+    },
+    "attackkamisknowledge": {
+        "name": "Ataque al Conocimiento Kamis",
+        "p": "Ataques al Conocimiento Kamis",
+        "description": ""
+    },
+    "atysianregeneration": {
+        "name": "Regeneración Atysiana",
+        "p": "Regeneraciones Atysianas",
+        "description": ""
+    },
+    "axe": {
+        "name": "Hacha",
+        "p": "Hachas",
+        "description": ""
+    },
+    "backdraftstab": {
+        "name": "Puñalada trasera o por la espalda",
+        "p": "Puñaladas traseras o por la espalda",
+        "description": ""
+    },
+    "badluck": {
+        "name": "Mala Suerte",
+        "p": "Mala Suerte ",
+        "description": ""
+    },
+    "barehandedcombat": {
+        "name": "Combate con las Manos Vacías",
+        "p": "Combates con las Manos Vacías",
+        "description": ""
+    },
+    "bersekattack": {
+        "name": "Ataque Enloquecido",
+        "p": "Ataques Enloquecidos",
+        "description": ""
+    },
+    "blacksmithing": {
+        "name": "Herrería",
+        "p": "Herrería",
+        "description": ""
+    },
+    "bleeding": {
+        "name": "Sangrado",
+        "p": "Sangrados",
+        "description": ""
+    },
+    "blindingrage": {
+        "name": "Furia Cegadora",
+        "p": "Furias Cegadoras",
+        "description": ""
+    },
+    "blindshot": {
+        "name": "Disparo a Ciegas",
+        "p": "Disparos a Ciegas",
+        "description": ""
+    },
+    "bowgun": {
+        "name": "Arma de Arco",
+        "p": "Armas de Arco",
+        "description": ""
+    },
+    "bowpistol": {
+        "name": "Pistola de Arco",
+        "p": "Pistolas de Arco",
+        "description": ""
+    },
+    "building": {
+        "name": "Edificio ",
+        "p": "Edificios",
+        "description": ""
+    },
+    "bullyraggingblast": {
+        "name": "",
+        "p": "Explosiones de Ofensas y Burlas",
+        "description": ""
+    },
+    "camouflage": {
+        "name": "Camuflaje",
+        "p": "Camuflajes",
+        "description": ""
+    },
+    "caravan": {
+        "name": "Karavan",
+        "p": "Karavans",
+        "description": ""
+    },
+    "cerebralfever": {
+        "name": "Fiebre Cerebral",
+        "p": "Fiebres Cerebrales",
+        "description": ""
+    },
+    "clothtailoring": {
+        "name": "Tela de Confección ",
+        "p": "Telas de Confección ",
+        "description": ""
+    },
+    "cooking": {
+        "name": "Cocina",
+        "p": "Cocina",
+        "description": ""
+    },
+    "creaturehatred": {
+        "name": "Criatura Odiada",
+        "p": "Criaturas Odiadas",
+        "description": ""
+    },
+    "dagger": {
+        "name": "Daga",
+        "p": "Dagas",
+        "description": ""
+    },
+    "desert": {
+        "name": "Desierto",
+        "p": "Desiertos",
+        "description": ""
+    },
+    "desertexoticrawmaterialknowledge": {
+        "name": "Conocimiento de materias primas exóticas del desierto",
+        "p": "Conocimientos de materias primas exóticas del desierto",
+        "description": ""
+    },
+    "desertkamisknowledge": {
+        "name": "Conocimiento del desierto-Kamis",
+        "p": "Conocimiento del desierto-Kamis",
+        "description": ""
+    },
+    "deserttravel": {
+        "name": "Viaje al Desierto",
+        "p": "Viajes al Desierto",
+        "description": ""
+    },
+    "digging": {
+        "name": "Excavación",
+        "p": "Excavaciones",
+        "description": ""
+    },
+    "discreetapproach": {
+        "name": "Acercamiento Discreto",
+        "p": "Acercamientos Discretos",
+        "description": ""
+    },
+    "diving": {
+        "name": "Buceo",
+        "p": "Buceos",
+        "description": ""
+    },
+    "dodging": {
+        "name": "Evasión ",
+        "p": "Evasiones ",
+        "description": ""
+    },
+    "dragon": {
+        "name": "Dragón",
+        "p": "Dragones",
+        "description": ""
+    },
+    "dryade": {
+        "name": "Driada ",
+        "p": "Driadas ",
+        "description": ""
+    },
+    "dualwield": {
+        "name": "Arma en Cada Mano",
+        "p": "Armas en Ambas Manos",
+        "description": ""
+    },
+    "evaluate": {
+        "name": "Huida",
+        "p": "Huidas",
+        "description": ""
+    },
+    "farshot": {
+        "name": "Tiro Lejano",
+        "p": "Tiros Lejanos",
+        "description": ""
+    },
+    "farthrow": {
+        "name": "Lanzamiento Lejano",
+        "p": "Lanzamientos Lejanos",
+        "description": ""
+    },
+    "feverprotect": {
+        "name": "Protector contra la fiebre",
+        "p": "Protectores contra la Fiebre",
+        "description": ""
+    },
+    "firstaid": {
+        "name": "Primeros Auxilios",
+        "p": "Primeros Auxilios",
+        "description": ""
+    },
+    "fishing": {
+        "name": "Pesca",
+        "p": "Pescas",
+        "description": ""
+    },
+    "forest": {
+        "name": "Bosque",
+        "p": "Bosques",
+        "description": ""
+    },
+    "forestexoticrawmaterialknowledge": {
+        "name": "Conocimiento de Materia Prima de Exótica del Bosque",
+        "p": "Conocimientos de Materia Prima Exótica del Bosque",
+        "description": ""
+    },
+    "forestkamisknowledge": {
+        "name": "Conocimiento del Bosque-Kami",
+        "p": "Conocimientos del Bosque-Kami",
+        "description": ""
+    },
+    "foresttravel": {
+        "name": "Viaje al Bosque",
+        "p": "Viajes al Bosque ",
+        "description": ""
+    },
+    "frost": {
+        "name": "Escarcha\/Helada",
+        "p": "Escarchas\/Heladas",
+        "description": ""
+    },
+    "fyros": {
+        "name": "Fyros",
+        "p": "Fyros",
+        "description": ""
+    },
+    "fyrosgoods": {
+        "name": "Mercancía Fyros",
+        "p": "Mercancías Fyros",
+        "description": ""
+    },
+    "goo": {
+        "name": "Goo",
+        "p": "Goo",
+        "description": ""
+    },
+    "greataxe": {
+        "name": "Gran Hacha",
+        "p": "Grandes Hachas",
+        "description": ""
+    },
+    "greatmass": {
+        "name": "Gran Mazo",
+        "p": "Grandes Mazos",
+        "description": ""
+    },
+    "grenade": {
+        "name": "Granada",
+        "p": "Granadas",
+        "description": ""
+    },
+    "groundextract": {
+        "name": "Extracto del Suelo",
+        "p": "Extractos del Suelo",
+        "description": ""
+    },
+    "handtohand": {
+        "name": "Mano a Mano ",
+        "p": "Mano a Mano",
+        "description": ""
+    },
+    "harpoon": {
+        "name": "Arpón ",
+        "p": "Arpones",
+        "description": ""
+    },
+    "harpoonhunting": {
+        "name": "Cacería Bajo el Agua",
+        "p": "Cacerías Bajo el Agua",
+        "description": ""
+    },
+    "harvest": {
+        "name": "Cosecha",
+        "p": "Cosechas",
+        "description": ""
+    },
+    "healingkamisknowledge": {
+        "name": "Conocimiento de Curacion-Kami ",
+        "p": "Conocimientos de Curación Kami",
+        "description": ""
+    },
+    "hearwithering": {
+        "name": "Marchitez sonora",
+        "p": "Marchiteces Sonoras",
+        "description": ""
+    },
+    "heavyarmourwear": {
+        "name": "Vestir Armadura Pesada",
+        "p": "Vestir Armaduras Pesadas",
+        "description": ""
+    },
+    "heavyweapon": {
+        "name": "Arma Pesada",
+        "p": "Armas Pesadas",
+        "description": ""
+    },
+    "hide": {
+        "name": "Escondites",
+        "p": "Escondites",
+        "description": ""
+    },
+    "hominopponentconsiderweapon": {
+        "name": "Homin ",
+        "p": "Consideraciones Homin",
+        "description": ""
+    },
+    "huntingkamisknowledge": {
+        "name": "Conocimiento de Caceria-Kami",
+        "p": "Conocimientos de Caceria-Kami",
+        "description": ""
+    },
+    "jewellery": {
+        "name": "Joya",
+        "p": "Joyas",
+        "description": ""
+    },
+    "jungle": {
+        "name": "Selva",
+        "p": "Selvas",
+        "description": ""
+    },
+    "jungleexoticrawmaterialknowledge": {
+        "name": "Conocimiento de Materia Prima Exótica de la Selva",
+        "p": "Conocimientos de Materias Primas Exóticas de la Selva",
+        "description": ""
+    },
+    "junglekamisknowledge": {
+        "name": "Conocimiento Kami de la Selva",
+        "p": "Conocimientos Kami de la Selva",
+        "description": ""
+    },
+    "jungletravel": {
+        "name": "Viaje a la Jungla",
+        "p": "Viajes a la Jungla",
+        "description": ""
+    },
+    "kami": {
+        "name": "Kami",
+        "p": "Kamis",
+        "description": ""
+    },
+    "kamicshield": {
+        "name": "Escudo Kamic",
+        "p": "Escudos Kamis",
+        "description": ""
+    },
+    "kamicshock": {
+        "name": "Choque Kami",
+        "p": "Choques Kamkis",
+        "description": ""
+    },
+    "kick": {
+        "name": "Patada",
+        "p": "Patadas",
+        "description": ""
+    },
+    "kitin": {
+        "name": "Kitin",
+        "p": "Kitin",
+        "description": ""
+    },
+    "lake": {
+        "name": "Lago",
+        "p": "Lagos",
+        "description": ""
+    },
+    "lakearmor": {
+        "name": "Armadura del Lago",
+        "p": "Armaduras del Lago",
+        "description": ""
+    },
+    "lakeexoticrawmaterialknowledge": {
+        "name": "Conocimiento de la materia prima exótica del lago",
+        "p": "Conocimientos de la materia prima exótica del lago ",
+        "description": ""
+    },
+    "lakekamisknowledge": {
+        "name": "Conocimiento Kami del lago",
+        "p": "Conocimientos Kamis del lago ",
+        "description": ""
+    },
+    "laketravel": {
+        "name": "Viaje al Lago",
+        "p": "Viajes al Lago",
+        "description": ""
+    },
+    "leadanimal": {
+        "name": "Animal Guía",
+        "p": "Animales Guías",
+        "description": ""
+    },
+    "leathertailoring": {
+        "name": "Confección de Cuero",
+        "p": "Confecciones de Cueros",
+        "description": ""
+    },
+    "lefthandedattack": {
+        "name": "Ataque con la mano izquierda",
+        "p": "Ataques con la mano izquierda",
+        "description": ""
+    },
+    "lefthandedparry": {
+        "name": "Desvío entregado por la izquierda",
+        "p": "Desvíos entregados por la izquierda",
+        "description": ""
+    },
+    "lifealchemy": {
+        "name": "Alquimia de Vida",
+        "p": "Alquimias de Vida",
+        "description": ""
+    },
+    "lifegift": {
+        "name": "Regalo de Vida",
+        "p": "Regalos de Vida",
+        "description": ""
+    },
+    "lightarmourwear": {
+        "name": "Llevar\/portar Armadura Liviana",
+        "p": "Llevar\/portar Armaduras Livianas",
+        "description": ""
+    },
+    "madness": {
+        "name": "Locura",
+        "p": "Locuras",
+        "description": ""
+    },
+    "magicobjects": {
+        "name": "Objeto Mágico",
+        "p": "Objetos Mágicos",
+        "description": ""
+    },
+    "magictransfert": {
+        "name": "Transferencia Mágica",
+        "p": "Transferencias Mágicas",
+        "description": ""
+    },
+    "majordryade": {
+        "name": "Driada Principal",
+        "p": "Driadas Principales",
+        "description": ""
+    },
+    "majorheallife": {
+        "name": "Curacion de Vida Principal",
+        "p": "Curaciones de Vida Principales",
+        "description": ""
+    },
+    "majorliferegeneration": {
+        "name": "Regeneracion de Vida Principal",
+        "p": "Regeneraciones de Vida Principales",
+        "description": ""
+    },
+    "majormandragore": {
+        "name": "Mandragore Principal",
+        "p": "Mandragores Principales",
+        "description": ""
+    },
+    "majorsapheal": {
+        "name": "Curacion de Savia Principal",
+        "p": "Curaciones de Savia Principales",
+        "description": ""
+    },
+    "majorsapregenearation": {
+        "name": "Regeneracion de Savia Principal",
+        "p": "Regeneraciones de Savia Principales",
+        "description": ""
+    },
+    "majorsylve": {
+        "name": "Sylve Principal",
+        "p": "Sylves Principales",
+        "description": ""
+    },
+    "majortirednessheal": {
+        "name": "Curacion del Cansancio Principal",
+        "p": "Curaciones del Cansancio Principales",
+        "description": ""
+    },
+    "majortirednessregenearation": {
+        "name": "Regeneracion del Cansancio Principal",
+        "p": "Regeneraciones del Cansancio Principales",
+        "description": ""
+    },
+    "makeanklet": {
+        "name": "Fabricar Tobillera",
+        "p": "Fabricar Tobilleras",
+        "description": ""
+    },
+    "makeautolaunch": {
+        "name": "Fabricar Autolanzador",
+        "p": "Fabricar Autolanzadores",
+        "description": ""
+    },
+    "makeautolaunchammo": {
+        "name": "Make Autolauncher Ammo",
+        "p": "Make Autolauncher Ammo",
+        "description": ""
+    },
+    "makeaxe": {
+        "name": "Fabricar Hacha",
+        "p": "Fabricar Hachas",
+        "description": ""
+    },
+    "makebag": {
+        "name": "Fabricar Bolso",
+        "p": "Fabricar Bolsos",
+        "description": ""
+    },
+    "makebowgun": {
+        "name": "Fabricar Arma de Arco",
+        "p": "Fabricar Armas de Arco",
+        "description": ""
+    },
+    "makebowgunammo": {
+        "name": "Fabricar munición de armas de Arco",
+        "p": "Fabricar Municiones de Arma de Arco",
+        "description": ""
+    },
+    "makebracelet": {
+        "name": "Fabricar Brazalete",
+        "p": "Fabricar Brazaletes",
+        "description": ""
+    },
+    "makebuckler": {
+        "name": "Fabricar Escudos de Defensa",
+        "p": "Fabricar Escudos de Defensa",
+        "description": ""
+    },
+    "makeclothes": {
+        "name": "Fabricar Ropa",
+        "p": "Fabricar Ropas",
+        "description": ""
+    },
+    "makedagger": {
+        "name": "Fabricar Daga",
+        "p": "Fabricar Dagas",
+        "description": ""
+    },
+    "makediadem": {
+        "name": "Fabricar Diadema",
+        "p": "Fabricar Diademas",
+        "description": ""
+    },
+    "makeearing": {
+        "name": "Fabricar Arete",
+        "p": "Fabricar Aretes",
+        "description": ""
+    },
+    "makefireammos": {
+        "name": "Fabricar Munición Incendiaria",
+        "p": "Fabricar Municiones Incendiarias ",
+        "description": ""
+    },
+    "makefiretoughenedarmors": {
+        "name": "Fabricar Armadura Templada al Fuego",
+        "p": "Fabricar Armaduras Templadas al Fuego",
+        "description": ""
+    },
+    "makefireweapons": {
+        "name": "Fabricar Arma de Fuego",
+        "p": "Fabricar Armas de Fuego",
+        "description": ""
+    },
+    "makeflorallivingjewels": {
+        "name": "Fabricar joya  de flores vivas",
+        "p": "Fabricar joyas de flores vivas",
+        "description": ""
+    },
+    "makefloralpatternlivingclothes": {
+        "name": "Fabricar ropa de flores viva",
+        "p": "Fabricar ropas de flores vivas",
+        "description": ""
+    },
+    "makegrenade": {
+        "name": "Fabricar Granada",
+        "p": "Fabricar Granadas",
+        "description": ""
+    },
+    "makeharpoongun": {
+        "name": "Fabricar un Arma de Arpón",
+        "p": "Fabricar Armas de Arpón",
+        "description": ""
+    },
+    "makeharpoongunammo": {
+        "name": "Fabricar munición del Arma de Arpón",
+        "p": "Fabricar Municiones de Armas de Arpón",
+        "description": ""
+    },
+    "makeheavyarmors": {
+        "name": "Fabricar Armadura Pesada",
+        "p": "Fabricar Armaduras Pesadas",
+        "description": ""
+    },
+    "makeheavyboots": {
+        "name": "Fabricar Botas Pesadas",
+        "p": "Fabricar Botas Pesadas",
+        "description": ""
+    },
+    "makeheavygloves": {
+        "name": "Fabricar Guantes Pesados",
+        "p": "Fabricar Guantes Pesados",
+        "description": ""
+    },
+    "makeheavyhelmet": {
+        "name": "Fabricar Cascos Pesados",
+        "p": "Fabricar Cascos Pesados",
+        "description": ""
+    },
+    "makeheavypants": {
+        "name": "Fabricar Pantalones Pesados",
+        "p": "Fabricar Pantalones Pesados",
+        "description": ""
+    },
+    "makeheavysleeves": {
+        "name": "Fabricar Mangas Pesadas",
+        "p": "Fabricar Mangas Pesadas",
+        "description": ""
+    },
+    "makeheavyvest": {
+        "name": "Fabricar Chalecos Pesados",
+        "p": "Fabricar Chalecos Pesados",
+        "description": ""
+    },
+    "makejewels": {
+        "name": "Fabricar Joyas",
+        "p": "Fabricar Joyas",
+        "description": ""
+    },
+    "makekamicclothes": {
+        "name": "Fabricar Ropa Kami",
+        "p": "Fabricar Ropas Kami",
+        "description": ""
+    },
+    "makekamicjewels": {
+        "name": "Fabricar Joyas Kami",
+        "p": "Fabricar Joyas Kami",
+        "description": ""
+    },
+    "makekamicweapon": {
+        "name": "Fabricar Armas Kami",
+        "p": "Fabricar Armas Kami",
+        "description": ""
+    },
+    "makelance": {
+        "name": "Fabricar Lanza",
+        "p": "Fabricar Lanzas",
+        "description": ""
+    },
+    "makelauncher": {
+        "name": "Fabricar Lanzador",
+        "p": "Fabricar Lanzadores",
+        "description": ""
+    },
+    "makelauncherammo": {
+        "name": "Fabricar Munición de Lanzador",
+        "p": "Fabricar Municiones de Lanzador",
+        "description": ""
+    },
+    "makelightboots": {
+        "name": "Fabricar Botas Ligeras",
+        "p": "Fabricar Botas Ligeras",
+        "description": ""
+    },
+    "makelightgloves": {
+        "name": "Fabricar Guantes Liviano",
+        "p": "Fabricar Guantes Ligeros",
+        "description": ""
+    },
+    "makelighthelmet": {
+        "name": "Fabricar Casco Liviano",
+        "p": "Fabricar Cascos Livianos",
+        "description": ""
+    },
+    "makelightpants": {
+        "name": "Fabricar Pantalones Livianos",
+        "p": "Fabricar Pantalones Livianos",
+        "description": ""
+    },
+    "makelightsleeves": {
+        "name": "Fabricar Mangas Livianas",
+        "p": "Fabricar Mangas Livianas",
+        "description": ""
+    },
+    "makelightvest": {
+        "name": "Fabricar Chaleco Liviano",
+        "p": "Fabricar Chaleco Liviano",
+        "description": ""
+    },
+    "makelongaxe": {
+        "name": "Fabricar Hacha Larga",
+        "p": "Fabricar Hachas Largas",
+        "description": ""
+    },
+    "makelongmace": {
+        "name": "Fabricar Mazo Largo",
+        "p": "Fabricar Mazos Largos",
+        "description": ""
+    },
+    "makelongsword": {
+        "name": "Fabricar Espada Larga",
+        "p": "Fabricar Espadas Largas",
+        "description": ""
+    },
+    "makemace": {
+        "name": "Fabricar Mazo",
+        "p": "Fabricar Mazos",
+        "description": ""
+    },
+    "makemediumarmors": {
+        "name": "Fabricar Armadura Mediana",
+        "p": "Fabricar Armaduras Medianas",
+        "description": ""
+    },
+    "makemediumboots": {
+        "name": "Fabricar Botas Medianas ",
+        "p": "Fabricar Botas Medianas ",
+        "description": ""
+    },
+    "makemediumgloves": {
+        "name": "Fabricar Guantes Medianos",
+        "p": "Fabricar Guantes Medianos",
+        "description": ""
+    },
+    "makemediumhelmet": {
+        "name": "Fabricar Casco Mediano ",
+        "p": "Fabricar Cascos Medianos",
+        "description": ""
+    },
+    "makemediumpants": {
+        "name": "Fabricar Pantalones Medianos",
+        "p": "Fabricar Pantalones Medianos",
+        "description": ""
+    },
+    "makemediumsleeves": {
+        "name": "Fabricar Mangas Medianas",
+        "p": "Fabricar Mangas Medianas",
+        "description": ""
+    },
+    "makemediumvest": {
+        "name": "Fabricar Chaleco Mediano",
+        "p": "Fabricar Chalecos Medianos",
+        "description": ""
+    },
+    "makemeleeweapons": {
+        "name": "Fabricar Arma de Lucha Cuerpo a Cuerpo",
+        "p": "Fabricar Armas de Lucha Cuerpo a Cuerpo ",
+        "description": ""
+    },
+    "makependant": {
+        "name": "Fabricar Pendiente",
+        "p": "Fabricar Pendientes",
+        "description": ""
+    },
+    "makepike": {
+        "name": "Fabricar Pico",
+        "p": "Fabricar Picos",
+        "description": ""
+    },
+    "makepistol": {
+        "name": "Fabricar Pistola",
+        "p": "Fabricar Pistolas",
+        "description": ""
+    },
+    "makepistolammo": {
+        "name": "Fabricar Munición de Pistola",
+        "p": "Fabricar Municiones de Pistola",
+        "description": ""
+    },
+    "makepistolarc": {
+        "name": "Fabricar Pistola de Arco",
+        "p": "Fabricar Pistolas de Arco ",
+        "description": ""
+    },
+    "makepistolarcammo": {
+        "name": "Fabricar Munición de Pistola de Arco",
+        "p": "Fabricar Municiones de Pistola de Arco",
+        "description": ""
+    },
+    "makepoisonnouslivingweapons": {
+        "name": "Fabricar Arma Venenosa Viva",
+        "p": "Fabricar Armas Venenosas Vivas",
+        "description": ""
+    },
+    "makerangeweaponammos": {
+        "name": "Fabricar Munición de Arma de Alcance",
+        "p": "Fabricar Municiones de Armas de Alcance",
+        "description": ""
+    },
+    "makerangeweapons": {
+        "name": "Fabricar Arma de Alcance",
+        "p": "Fabricar Armas de Alcance",
+        "description": ""
+    },
+    "makerifle": {
+        "name": "Fabricar Rifle",
+        "p": "Fabricar Rifles",
+        "description": ""
+    },
+    "makerifleammo": {
+        "name": "Fabricar Munición de Rifle",
+        "p": "Fabricar Municiones de Rifle",
+        "description": ""
+    },
+    "makering": {
+        "name": "Fabricar Anillo",
+        "p": "Fabricar Anillos",
+        "description": ""
+    },
+    "makeshield": {
+        "name": "Fabricar Escudo",
+        "p": "Fabricar Escudos",
+        "description": ""
+    },
+    "makeshiftrepair": {
+        "name": "Reparación Improvisada",
+        "p": "Reparaciones Improvisadas",
+        "description": ""
+    },
+    "makesurvivaltools": {
+        "name": "Fabricar Herramienta de Supervivencia",
+        "p": "Fabricar Herramientas de Supervivencia",
+        "description": ""
+    },
+    "makesurvivalweapon": {
+        "name": "Fabricar Arma de Supervivencia",
+        "p": "Fabricar Armas de Supervivencia",
+        "description": ""
+    },
+    "makesword": {
+        "name": "Fabricar Espada",
+        "p": "Fabricar Espadas",
+        "description": ""
+    },
+    "makethrowingweapon": {
+        "name": "Fabricar Arma de Lanzamiento",
+        "p": "Fabricar Armas de Lanzamiento",
+        "description": ""
+    },
+    "maketools": {
+        "name": "Fabricar Herramienta",
+        "p": "Fabricar Herramientas",
+        "description": ""
+    },
+    "maketwo_handsmeleeweapons": {
+        "name": "Fabricar Arma de Lucha Cuerpo de Cuerpo de Dos Manos",
+        "p": "Fabricar Arma de Lucha Cuerpo a Cuerpo de Dos Manos",
+        "description": ""
+    },
+    "maketwo_handsrangeweaponammos": {
+        "name": "Fabricar Munición de Armas de Lucha Cuerpo a Cuerpo de Dos Manos",
+        "p": "Fabricar Municiones de Armas de Lucha Cuerpo a Cuerpo ",
+        "description": ""
+    },
+    "maketwo_handsrangeweapons": {
+        "name": "Fabricar Arma de Alcance de Dos Manos",
+        "p": "Fabricar Armas de Alcance de Dos Manos",
+        "description": ""
+    },
+    "mandragore": {
+        "name": "Mandrágora",
+        "p": "Mandrágoras",
+        "description": ""
+    },
+    "mandrakefist": {
+        "name": "Puno de Madrake",
+        "p": "Puños de Mandrake",
+        "description": ""
+    },
+    "mass": {
+        "name": "Mazos ",
+        "p": "Mazos ",
+        "description": ""
+    },
+    "massivethrow": {
+        "name": "Lanzamiento Masivo",
+        "p": "Lanzamientos Masivos",
+        "description": ""
+    },
+    "matis": {
+        "name": "Matis",
+        "p": "Matis",
+        "description": ""
+    },
+    "matisgoods": {
+        "name": "Mercancía Matis",
+        "p": "Mercancías Matis",
+        "description": ""
+    },
+    "matismystery": {
+        "name": "Misterio Matis",
+        "p": "Misterios Matis",
+        "description": ""
+    },
+    "mechanic": {
+        "name": "Mecánico ",
+        "p": "Mecánicos",
+        "description": ""
+    },
+    "mediumarmourwear": {
+        "name": "Llevar Armadura Mediana",
+        "p": "Llevar Armaduras Medianas",
+        "description": ""
+    },
+    "minorlifeheal": {
+        "name": "Curación de Vida Menor",
+        "p": "Curaciones de Vida Menores",
+        "description": ""
+    },
+    "minorsapheal": {
+        "name": "Curación de Sabia Menor",
+        "p": "Curacionones de Savia Menores",
+        "description": ""
+    },
+    "minortirednessheal": {
+        "name": "Sanación de Cansancio Menor",
+        "p": "Sanaciones de Cansancio Menores",
+        "description": ""
+    },
+    "mirror": {
+        "name": "Espejo",
+        "p": "Espejos",
+        "description": ""
+    },
+    "muscularfever": {
+        "name": "Fiebre Muscular",
+        "p": "Fiebres Musculares",
+        "description": ""
+    },
+    "nervousfever": {
+        "name": "Fiebre Nerviosa",
+        "p": "Fiebres Nerviosas",
+        "description": ""
+    },
+    "nightshot": {
+        "name": "Disparo Nocturno",
+        "p": "Disparos Nocturnos",
+        "description": ""
+    },
+    "nunb": {
+        "name": "Adormedicimento",
+        "p": "Adormecimientos",
+        "description": ""
+    },
+    "onhorsebackmelee": {
+        "name": "Combate Montado",
+        "p": "Combates Montados",
+        "description": ""
+    },
+    "onhorsebackshoot": {
+        "name": "Disparo Montado",
+        "p": "Disparos Montados",
+        "description": ""
+    },
+    "painshare": {
+        "name": "Compartir el Dolor",
+        "p": "Compartir el Dolor",
+        "description": ""
+    },
+    "paralysis": {
+        "name": "Parálisis",
+        "p": "Parálisis",
+        "description": ""
+    },
+    "pike": {
+        "name": "Pico",
+        "p": "Picos",
+        "description": ""
+    },
+    "pikehunting": {
+        "name": "Cacería de la Criatura",
+        "p": "Cacerías de la Criatura",
+        "description": ""
+    },
+    "pistol": {
+        "name": "Pistola",
+        "p": "Pistolas ",
+        "description": ""
+    },
+    "planthatred": {
+        "name": "Planta de Odio",
+        "p": "Plantas de Odio",
+        "description": ""
+    },
+    "pointblankshot": {
+        "name": "Disparo a Quemarropa",
+        "p": "Disparos a Quemarropa",
+        "description": ""
+    },
+    "primaryroots": {
+        "name": "Primeras Raíces",
+        "p": "Primeras Raíces",
+        "description": ""
+    },
+    "protectingkamisknoledge": {
+        "name": "Protección de los Conocimientos Kamis",
+        "p": "Protección de los Conocimientos Kami",
+        "description": ""
+    },
+    "quartering": {
+        "name": "Descuartizamiento",
+        "p": "Descuartizamientos",
+        "description": ""
+    },
+    "quickshot": {
+        "name": "Disparos Rápidos",
+        "p": "Disparos Rápidos",
+        "description": ""
+    },
+    "quickthrow": {
+        "name": "Tiro Rápido",
+        "p": "Tiros Rápidos",
+        "description": ""
+    },
+    "range": {
+        "name": "Guardabosque",
+        "p": "Guardabosques",
+        "description": ""
+    },
+    "rapidburst": {
+        "name": "Ráfaga Rápida",
+        "p": "Ráfagas Rápidas",
+        "description": ""
+    },
+    "resist": {
+        "name": "Resistencia\/Oponerse",
+        "p": "Resistencias\/Oponerse",
+        "description": ""
+    },
+    "resistance": {
+        "name": "Resistencia",
+        "p": "Resisencias",
+        "description": ""
+    },
+    "ridepackers": {
+        "name": "Animal de Carga Líder",
+        "p": "Animales de Carga lideres",
+        "description": ""
+    },
+    "riding": {
+        "name": "Cabalgata",
+        "p": "Cabalgatas",
+        "description": ""
+    },
+    "rifle": {
+        "name": "Rifle",
+        "p": "Rifles",
+        "description": ""
+    },
+    "riflehunting": {
+        "name": "Disparo",
+        "p": "Disparos",
+        "description": ""
+    },
+    "rocket": {
+        "name": "Rocket",
+        "p": "Rockets",
+        "description": ""
+    },
+    "rocktabou": {
+        "name": "Piedra Taboo",
+        "p": "Piedras Tabúes",
+        "description": ""
+    },
+    "rondache": {
+        "name": "Rondache",
+        "p": "Rondaches",
+        "description": ""
+    },
+    "rot": {
+        "name": "Podredumbre",
+        "p": "Prodredumbres",
+        "description": ""
+    },
+    "running": {
+        "name": "Carrera",
+        "p": "Carreras",
+        "description": ""
+    },
+    "sapalchemy": {
+        "name": "Alquimia de la Savia",
+        "p": "Alquimias de la Savia",
+        "description": ""
+    },
+    "saparmor": {
+        "name": "Armadura de Savia",
+        "p": "Armaduras de Savia",
+        "description": ""
+    },
+    "sapgift": {
+        "name": "Regalo de Savia",
+        "p": "Regalos de Savia",
+        "description": ""
+    },
+    "shield": {
+        "name": "Escudo Kamic",
+        "p": "Escudos Kamis",
+        "description": ""
+    },
+    "shootandrun": {
+        "name": "Tiro y Carrera",
+        "p": "Tiro y Carreras",
+        "description": ""
+    },
+    "shotprotect": {
+        "name": "Protección del Tiro",
+        "p": "Protecciones a los Tiros",
+        "description": ""
+    },
+    "slowingbreath": {
+        "name": "Desaceleración de la Respiración",
+        "p": "Desaceleración de las Reparaciones",
+        "description": ""
+    },
+    "slowinglife": {
+        "name": "Desaceleración de la Vida",
+        "p": "Desaceleración de las Vidas",
+        "description": ""
+    },
+    "spear": {
+        "name": "Lanza",
+        "p": "Lanzas",
+        "description": ""
+    },
+    "spelldeletion": {
+        "name": "Cancelación del Hechizo",
+        "p": "Cancelación de los Hechizos",
+        "description": ""
+    },
+    "spellprotect": {
+        "name": "Protección contra un Hechizo",
+        "p": "Protección contra los Hechizos",
+        "description": ""
+    },
+    "spurtingfire": {
+        "name": "Brote de Fuego",
+        "p": "Brotes de Fuego",
+        "description": ""
+    },
+    "squandering": {
+        "name": "Desperdicio",
+        "p": "Desperdicios",
+        "description": ""
+    },
+    "stallsetup": {
+        "name": "Establecimiento de puesto",
+        "p": "Establecimiento de Puestos",
+        "description": ""
+    },
+    "stealbreath": {
+        "name": "Robando Aliento",
+        "p": "Robando Alientos",
+        "description": ""
+    },
+    "steallife": {
+        "name": "Robo de Vida",
+        "p": "Robo de Vidas",
+        "description": ""
+    },
+    "stealsap": {
+        "name": "Robo de Savia",
+        "p": "Robo de Savia",
+        "description": ""
+    },
+    "stick": {
+        "name": "Pentagrama",
+        "p": "Pentagramas",
+        "description": ""
+    },
+    "strenghtgift": {
+        "name": "Regalo de Fuerza",
+        "p": "Regalos de Fuerza",
+        "description": ""
+    },
+    "swimming": {
+        "name": "Nado",
+        "p": "Nados",
+        "description": ""
+    },
+    "sword": {
+        "name": "Espada",
+        "p": "Espadas",
+        "description": ""
+    },
+    "sylphicslide": {
+        "name": "Diapositiva de Silfide",
+        "p": "Diapositiva de Silfide",
+        "description": ""
+    },
+    "sylve": {
+        "name": "Sylve",
+        "p": "Sylves",
+        "description": ""
+    },
+    "tactilewithering": {
+        "name": "Marchitez táctil",
+        "p": "Marchiteces Táctiles",
+        "description": ""
+    },
+    "target": {
+        "name": "Objetivo",
+        "p": "Objetivos",
+        "description": ""
+    },
+    "terror": {
+        "name": "Terror",
+        "p": "Terrores",
+        "description": ""
+    },
+    "tirednessalchemy": {
+        "name": "Alquimia del Cansancio",
+        "p": "Alquimias del Cansancio",
+        "description": ""
+    },
+    "tracking": {
+        "name": "Rastreo",
+        "p": "Rastreos\/Seguimientos",
+        "description": ""
+    },
+    "tradingcenterknowledge": {
+        "name": "Conocimiento del Centro de Comercio",
+        "p": "Conocimientos del Centro de Comercio",
+        "description": ""
+    },
+    "trainingagility": {
+        "name": "Entrenamiento de Agilidad",
+        "p": "Entrenamiento de Agilidades",
+        "description": ""
+    },
+    "traininganimal": {
+        "name": "Adiestramiento Animal",
+        "p": "Adiestramiento de Animales",
+        "description": ""
+    },
+    "trainingcharisme": {
+        "name": "Formación de Carisma",
+        "p": "Formación de Carismas",
+        "description": ""
+    },
+    "trainingconstitution": {
+        "name": "Constitución de Entrenamiento",
+        "p": "Constituciones de Entrenamiento",
+        "description": ""
+    },
+    "trainingdiseaseresist": {
+        "name": "Entrenamiento para la Resistencia a la Enfermedad",
+        "p": "Entrenamiento para la Resistencia a las Enfermedades",
+        "description": ""
+    },
+    "trainingempathie": {
+        "name": "Entrenamiento de la Empatía ",
+        "p": "Entrenamiento de las Empatías",
+        "description": ""
+    },
+    "trainingfearresist": {
+        "name": "Entrenamiento de Resistencia al Miedo",
+        "p": "Entrenamiento de Resistencias al Miedo",
+        "description": ""
+    },
+    "traininghp": {
+        "name": "Entrenamiento de Puntos de Golpe 1",
+        "p": "Entrenamiento de Puntos de Golpe 1",
+        "description": ""
+    },
+    "traininghp2": {
+        "name": "Entrenamiento de Puntos de Golpe 2",
+        "p": "Entrenamiento de Puntos de Golpe 2",
+        "description": ""
+    },
+    "traininghp3": {
+        "name": "Entrenamiento de Puntos de Golpe 3",
+        "p": "Entrenamiento de Puntos de Golpe 3",
+        "description": ""
+    },
+    "traininghp4": {
+        "name": "Entrenamiento de Puntos de Golpe 4",
+        "p": "Entrenamiento de Puntos de Golpe 4",
+        "description": ""
+    },
+    "trainingimpactresist": {
+        "name": "Entrenamiento de la Resistencia al Impacto",
+        "p": "Entrenamiento de la Resistencias al Impacto",
+        "description": ""
+    },
+    "trainingintelligence": {
+        "name": "Entrenamiento de la Inteligencia",
+        "p": "Entrenamiento de la Inteligencia",
+        "description": ""
+    },
+    "trainingmagicresist": {
+        "name": "Entrenamiento de la Resistencia a la Magia",
+        "p": "Entrenamiento de las Resistencias a la Magia",
+        "description": ""
+    },
+    "trainingperception": {
+        "name": "Entrenamiento de la Percepción",
+        "p": "Entrenamiento de las Percepciones",
+        "description": ""
+    },
+    "trainingseve": {
+        "name": "Entrenamiento de la Savia",
+        "p": "Entrenamiento de la Savia",
+        "description": ""
+    },
+    "trainingseve2": {
+        "name": "Entrenamiento de la Savia 2",
+        "p": "Entrenamiento de la Savia 2",
+        "description": ""
+    },
+    "trainingseve3": {
+        "name": "Entrenamiento de la Savia 3",
+        "p": "Entrenamiento de la Savia 3",
+        "description": ""
+    },
+    "trainingseve4": {
+        "name": "Entrenamiento de la Savia 4",
+        "p": "Entrenamiento de la Savia 4",
+        "description": ""
+    },
+    "trainingstamina": {
+        "name": "Entrenamiento de la Resistencia",
+        "p": "Entrenamiento de la Resistencia",
+        "description": ""
+    },
+    "trainingstamina2": {
+        "name": "Entrenamiento de la Resistencia 2",
+        "p": "Entrenamiento de la Resistencia 2",
+        "description": ""
+    },
+    "trainingstamina3": {
+        "name": "Entrenamiento de la Resistencia 3",
+        "p": "Entrenamiento de la Resistencia 3",
+        "description": ""
+    },
+    "trainingstamina4": {
+        "name": "Entrenamiento de la Resistencia 4",
+        "p": "Entrenamiento de la Resistencia 4",
+        "description": ""
+    },
+    "trainingstrength": {
+        "name": "Entrenamiento de la Fuerza",
+        "p": "Entrenamientos de las Fuerzas",
+        "description": ""
+    },
+    "trainingtechnoresist": {
+        "name": "Entrenamiento de la Tecno Resistencia",
+        "p": "Entrenamientos de las Tecno Resistencias",
+        "description": ""
+    },
+    "trainingwellbalanced": {
+        "name": "Entrenamiento del Buen Equilibrio",
+        "p": "Entrenamiento del Buen Equilibrio",
+        "description": ""
+    },
+    "trainingwill": {
+        "name": "Entrenamiento de la Voluntad",
+        "p": "Entrenamiento de la Voluntad",
+        "description": ""
+    },
+    "tryker": {
+        "name": "Tryker",
+        "p": "Trykers",
+        "description": ""
+    },
+    "trykergoods": {
+        "name": "Mercancías Tryker",
+        "p": "Mercancías Trykers",
+        "description": ""
+    },
+    "trykermystery": {
+        "name": "Misterio Tryker",
+        "p": "Misterios Trykers",
+        "description": ""
+    },
+    "twohandedcombat": {
+        "name": "Combate a Dos Manos",
+        "p": "Combates a Dos Manos",
+        "description": ""
+    },
+    "twohandssword": {
+        "name": "Espadas de Dos Manos",
+        "p": "Espadas de Dos Manos",
+        "description": ""
+    },
+    "underwaterextract": {
+        "name": "Extracto Submarino",
+        "p": "Extractos Submarinos",
+        "description": ""
+    },
+    "visualwithering": {
+        "name": "Marchitez Visual",
+        "p": "Marchiteces Visuales",
+        "description": ""
+    },
+    "vitalburst": {
+        "name": "Estallido Vital",
+        "p": "Estallidos Vitales",
+        "description": ""
+    },
+    "warriorgift": {
+        "name": "Regalo de Guerrero",
+        "p": "Regalos de Guerreros",
+        "description": ""
+    },
+    "weaponscutting": {
+        "name": "Cortaduras de Armas",
+        "p": "Cortaduras de Armas",
+        "description": ""
+    },
+    "windarmor": {
+        "name": "Armadura de Viento",
+        "p": "Armaduras de Viento",
+        "description": ""
+    },
+    "windgift": {
+        "name": "Regalo de Viento",
+        "p": "Regalos de Viento",
+        "description": ""
+    },
+    "windshear": {
+        "name": "Esquilado del Viento",
+        "p": "Esquilados del Viento",
+        "description": ""
+    },
+    "zorai": {
+        "name": "Zoraï",
+        "p": "Zoraïs",
+        "description": ""
+    },
+    "zoraigoods": {
+        "name": "Mercancías Zoraï ",
+        "p": "Mercancías Zoraï ",
+        "description": ""
+    },
+    "zoraimystery": {
+        "name": "Misterio Zoraï",
+        "p": "Misterios Zoraï",
+        "description": ""
+    },
+    "trainingimpactresist2": {
+        "name": "Entrenamiento para Resistir el Impacto 2",
+        "p": "Entrenamiento para Resistir los Impactos 2",
+        "description": ""
+    },
+    "trainingimpactresist3": {
+        "name": "Entrenamiento para Resistir el Impacto 3",
+        "p": "Entrenamiento para Resistir el Impacto 3",
+        "description": ""
+    },
+    "trainingmagicresist2": {
+        "name": "Entrenamiento para Resistir a la Magia 2",
+        "p": "Entrenamiento para Resistir a la Magia 3",
+        "description": ""
+    },
+    "trainingmagicresist3": {
+        "name": "Entrenamiento para Resistir a la Magia 3",
+        "p": "Entrenamiento para Resistir a la Magia 3",
+        "description": ""
+    },
+    "makeenchantedweapons": {
+        "name": "Fabricar Armas Encantadas",
+        "p": "Fabricar Armas Encantadas",
+        "description": ""
+    },
+    "makeenchantedarmors": {
+        "name": "Fabricar Armadura Encantada",
+        "p": "Fabricar Armaduras Encantadas",
+        "description": ""
+    },
+    "makevampiricweapons": {
+        "name": "Fabricar Armas Vampíricas",
+        "p": "Fabricar Armas Vampíricas",
+        "description": ""
+    },
+    "makeenchantedfloralpatternlivingclothes": {
+        "name": "Fabricar Ropa Viva de Estampado Floral Encantado",
+        "p": "Fabricar Ropas Vivas de Estampado Floral Encantado",
+        "description": ""
+    },
+    "makedeadlyharpoongun": {
+        "name": "Fabricar Arma de Arpón Mortal",
+        "p": "Fabricar Armas de Arpón Mortal",
+        "description": ""
+    },
+    "makehuntingarmors": {
+        "name": "Fabricar Armadura para Cazar",
+        "p": "Fabricar Armaduras para Cazar",
+        "description": ""
+    },
+    "makeritualclothes": {
+        "name": "Fabricar Traje de Ritual",
+        "p": "Fabricar Trajes de Ritual",
+        "description": ""
+    },
+    "makeritualjewels": {
+        "name": "Fabricar Joyas de Ritual",
+        "p": "Fabricar Joyas de Ritual",
+        "description": ""
+    },
+    "sc": {
+        "name": "Artesanía",
+        "p": "Artesanía",
+        "description": "Artesanía"
+    },
+    "sm": {
+        "name": "Magia",
+        "p": "Magia",
+        "description": "Magia"
+    },
+    "smt": {
+        "name": "Magia de Impacto ",
+        "p": "Magia Dirigida",
+        "description": "Magia Dirigida"
+    },
+    "smtm": {
+        "name": "Proyectil Mágico",
+        "p": "Misil Dirigido con Magia",
+        "description": "Misil Dirigido con Magia"
+    },
+    "smtmr": {
+        "name": "Magia Primitiva",
+        "p": "Misil Dirigido con Magia - Primitiva",
+        "description": "Misil Dirigido con Magia -Primitiva"
+    },
+    "smtmg": {
+        "name": "Magia Artesiana",
+        "p": "Misil Dirigido con Magia - Atysiana",
+        "description": "Misil Dirigido con Magia - Atysiana"
+    },
+    "smtmb": {
+        "name": "Magia Celestial",
+        "p": "Misil Dirigido con Magia - Celestial",
+        "description": "Misil Dirigido con Magia - Celestial"
+    },
+    "smto": {
+        "name": "Magia Ofensiva",
+        "p": "Magia Ofensiva Dirigida",
+        "description": "Magia Ofensiva Dirigida"
+    },
+    "smtod": {
+        "name": "Magia Física",
+        "p": "Daño de Magia Ofensiva Dirigida",
+        "description": "Daño de Magia Ofensiva Dirigida"
+    },
+    "smtodp": {
+        "name": "Magia de Perforación ",
+        "p": "Daño de Magia Ofensiva Dirigida - Perforación ",
+        "description": "Daño de Magia Ofensiva Dirigida - perforación"
+    },
+    "smtodb": {
+        "name": "Magia Demoledora",
+        "p": "Daño de Magia Ofensiva Dirigida - Demoledora",
+        "description": "Daño de Magia Ofensiva Dirigida - demoledora"
+    },
+    "smtods": {
+        "name": "Magia Cortadora",
+        "p": "Daño de Magia Ofensiva Dirigida - Cortadora",
+        "description": "Daño de Magia Ofensiva Dirigida - cuchillada"
+    },
+    "smtoe": {
+        "name": "Magia Elemental ",
+        "p": "Daño Especial de Magia Ofensiva Dirigida",
+        "description": "Daño Especial de Magia Ofensiva Dirigida"
+    },
+    "smtoec": {
+        "name": "Magia Fría",
+        "p": "Daño Especial de Magia Ofensiva Dirigida - Fría",
+        "description": "Daño Especial de Magia Ofensiva Dirigida - Fría"
+    },
+    "smtoea": {
+        "name": "Magia Acida",
+        "p": "Daño Especial de Magia Ofensiva Dirigida - Acida",
+        "description": "Daño Especial de Magia Ofensiva Dirigida - Acida"
+    },
+    "smtoer": {
+        "name": "Magia de Pudrición ",
+        "p": "Daño Especial de Magia Ofensiva Dirigida - Pudrición ",
+        "description": "Daño Especial de Magia Ofensiva Dirigida - Pudrición "
+    },
+    "smtoef": {
+        "name": "Magia de Fuego",
+        "p": "Daño Especial de Magia Ofensiva  - Fuego",
+        "description": "Daño Especial de Magia Ofensiva Dirigida - Fuego"
+    },
+    "smtoes": {
+        "name": "Magia de Onda de Choque",
+        "p": "Daño Especial de Magia Ofensiva Dirigida - Onda de Choque",
+        "description": "Daño Especial de Magia Ofensiva Dirigida - Onda de choque"
+    },
+    "smtoep": {
+        "name": "Magia de Veneno",
+        "p": "Daño Especial de Magia Ofensiva Dirigida - Veneno",
+        "description": "Daño Especial de Magia Ofensiva Dirigida - Veneno"
+    },
+    "smtoee": {
+        "name": "Magia de Electricidad",
+        "p": "Daño Especial de Magia Ofensiva Dirigida - Electricidad",
+        "description": "Daño Especial de Magia Ofensiva Dirigida - Electricidad"
+    },
+    "smtc": {
+        "name": "Magia Curativa",
+        "p": "Magia Curativa Dirigida",
+        "description": "Magia curativa dirigida"
+    },
+    "smtch": {
+        "name": "Magia Sanadora ",
+        "p": "Magia Curativa Sanadora Dirigida",
+        "description": "Magia curativa sanadora dirigida"
+    },
+    "smtchp": {
+        "name": "Magia Sanadora Hp",
+        "p": "Magia Curativa Sanandora Dirigida - HP",
+        "description": "Magia Curativa Sanadora Dirigida - HP"
+    },
+    "smtcht": {
+        "name": "Magia Sanadora de la Resist.",
+        "p": "Magia Curativa Sanadora Dirigida - Resist.",
+        "description": "Magia Curativa Sanadora - Resist. "
+    },
+    "smtcha": {
+        "name": "Magia Curativa de la Savia",
+        "p": "Magia Curativa Sanadora Dirigida - Savia",
+        "description": "Magia Curativa Sanadora Dirigida - Savia"
+    },
+    "smtchc": {
+        "name": "Magia Curativa del Enfoque",
+        "p": "Magia Curativa Sanadora Dirigida - Enfoque",
+        "description": "Magia Curativa Sanadora Dirigida - Enfoque"
+    },
+    "smtcb": {
+        "name": "Enlace Destruido",
+        "p": "Magia Curativa Dirigida para el Enlace Destruido",
+        "description": "Magia Curativa Dirigida para el Enlace Destruido"
+    },
+    "smtcbd": {
+        "name": "Daño del Enlace Destruido",
+        "p": "Magia Curativa Dirigida del Enlace Destruido - Daño",
+        "description": "Magia Curativa Dirigida del Enlace Destruido - Daño"
+    },
+    "smtcbs": {
+        "name": "Enfermedad del Enlace Destruido",
+        "p": "Magia Curativa Dirigida del Enlace Destruido - Enfermedad",
+        "description": "Magia Curativa Dirigida del Enlace Destruido - Enfermedad"
+    },
+    "smtcbc": {
+        "name": " Maldición del Enlace Destruido",
+        "p": "Magia Curativa Dirigida del Enlace Destruido - Maldición ",
+        "description": "Magia Curativa Dirigida del Enlace Destruido - Maldición "
+    },
+    "sml": {
+        "name": "Enlace de Magia",
+        "p": "Enlace de Magia",
+        "description": "Enlace de Magia"
+    },
+    "smlm": {
+        "name": "Enlace del Proyectil",
+        "p": "Enlace del Proyectil Mágico ",
+        "description": "Enlace del Proyectil Mágico"
+    },
+    "smlmr": {
+        "name": "Enlace Primario ",
+        "p": "Enlace del Proyectil Mágico - Primario ",
+        "description": "Enlace del Proyectil Mágico - Primario "
+    },
+    "smlmg": {
+        "name": "Enlace Atysiano",
+        "p": "Enlace del Proyectil Mágico - Atysiano",
+        "description": "Enlace del Proyectil Mágico - Atysiano"
+    },
+    "smlmb": {
+        "name": "Enlace Celestial ",
+        "p": "Enlace del Proyectil Mágico - Celestial",
+        "description": "Enlace del Proyectil Mágico - Celestial"
+    },
+    "smlo": {
+        "name": "Enlace Ofensivo ",
+        "p": "Enlace Mágico Ofensivo",
+        "description": "Enlace Mágico Ofensivo"
+    },
+    "smlos": {
+        "name": "Enlace de Enfermedad",
+        "p": "Enlace Mágico Ofensivo de Enfermedad",
+        "description": "Enlace Mágico Ofensivo de Enfermedad"
+    },
+    "smlosm": {
+        "name": "Enlace de Locura",
+        "p": "Enlace Mágico Ofensivo de Enfermedad - Locura ",
+        "description": "Enlace Mágico Ofensivo de Enfermedad - Locura"
+    },
+    "smloss": {
+        "name": "Enlace de Depuración de Velocidad",
+        "p": "Enlace Mágico Ofensivo de Enfermedad - Depurar Velocidad",
+        "description": "Enlace Mágico Ofensivo de Enfermedad - Depuración de Velocidad "
+    },
+    "smlosr": {
+        "name": "Enlace para Depurar Resistir",
+        "p": "Enlace Mágico Ofensivo de Enfermedad - Depurar Resistir",
+        "description": "Enlace Mágico Ofensivo de Enfermedad - Resistir "
+    },
+    "smlosk": {
+        "name": "Enlace para Depurar Habilidad",
+        "p": "Enlace Mágico Ofensivo de Enfermedad - Depurar Habilidad",
+        "description": "Enlace Mágico Ofensivo de Enfermedad - Depurar habilidad"
+    },
+    "smloc": {
+        "name": "Enlace de Maldición ",
+        "p": "Enlace Mágico Ofensivo de Maldición ",
+        "description": "Enlace Mágico Ofensivo de Maldición "
+    },
+    "smloci": {
+        "name": "Enlace de Incapacidad",
+        "p": "Enlace Mágico Ofensivo de Maldición - Incapacidad",
+        "description": "Enlace Mágico Ofensivo de Maldición - Incapacidad"
+    },
+    "smlocm": {
+        "name": "Enlace de Trastorno Mental",
+        "p": "Enlace Mágico Ofensivo de Maldición - Trastorno Mental",
+        "description": "Enlace Mágico Ofensivo de Maldición - Trastorno Mental "
+    },
+    "smlocs": {
+        "name": "Enlace de Infortunio ",
+        "p": "Enlace Mágico Ofensivo de Maldición - Infortunio ",
+        "description": "Enlace Mágico Ofensivo de Maldición - Infortunio "
+    },
+    "smloch": {
+        "name": "Enlace de Odio ",
+        "p": "Enlace Mágico Ofensivo de Maldición - Odio ",
+        "description": "Enlace Mágico Ofensivo de Maldición - Odio "
+    },
+    "smlod": {
+        "name": "Enlace Físico ",
+        "p": "Daño Ofensivo del Enlace Mágico ",
+        "description": "Daño Ofensivo del Enlace Mágico "
+    },
+    "smlodp": {
+        "name": "Enlace de Perforación ",
+        "p": "Daño Ofensivo del Enlace Mágico - Perforación ",
+        "description": "Daño Ofensivo del Enlace Mágico - Perforación "
+    },
+    "smlodb": {
+        "name": "Enlace de Demolición ",
+        "p": "Daño Ofensivo del Enlace Mágico - Demolición ",
+        "description": "Daño Ofensivo del Enlace Mágico - Demolición "
+    },
+    "smlods": {
+        "name": "Enlace de Cortadura\/Chillada",
+        "p": "Daño Ofensivo del Enlace Mágico - Cortadura\/Cuchillada",
+        "description": "Daño Ofensivo del Enlace Mágico - Cortadura\/Cuchillada"
+    },
+    "smloe": {
+        "name": "Enlace Elemental",
+        "p": "Daño Especial Ofensivo del Enlace Mágico ",
+        "description": "Daño Especial Ofensivo del Enlace Mágico"
+    },
+    "smloec": {
+        "name": "Enlace Frio ",
+        "p": "Daño Especial Ofensivo del Enlace Mágico - Frio ",
+        "description": "Daño Especial Ofensivo del Enlace Mágico - Frio "
+    },
+    "smloea": {
+        "name": "Enlace Acido ",
+        "p": "Daño Especial Ofensivo del Enlace Mágico - Acido",
+        "description": "Daño Especial Ofensivo del Enlace Mágico - Acido"
+    },
+    "smloer": {
+        "name": "Enlace de Pudrición ",
+        "p": "Daño Especial Ofensivo del Enlace Mágico - Pudrición ",
+        "description": "Daño Especial Ofensivo del Enlace Mágico - Pudrición "
+    },
+    "smloef": {
+        "name": "Enlace de Fuego",
+        "p": "Daño Especial Ofensivo del Enlace Mágico - Fuego ",
+        "description": "Daño Especial Ofensivo del Enlace Mágico - Fuego"
+    },
+    "smloes": {
+        "name": "Enlace de Onda de Choque",
+        "p": "Daño Especial Ofensivo del Enlace Mágico - Onda de Choque",
+        "description": "Daño Especial Ofensivo del Enlace Mágico - Onda de Choque"
+    },
+    "smloep": {
+        "name": "Enlace de Envenenamiento",
+        "p": "Daño Especial Ofensivo del Enlace Mágico - Envenenamiento",
+        "description": "Daño Especial Ofensivo del Enlace Mágico - Envenenamiento"
+    },
+    "smloee": {
+        "name": "Enlace de Electricidad",
+        "p": "Daño Especial Ofensivo del Enlace de Magia",
+        "description": "Daño Especial Ofensivo del Enlace Mágico - Electricidad"
+    },
+    "smlc": {
+        "name": "Enlace Curativo ",
+        "p": "Enlace Mágico Curativo ",
+        "description": "Enlace Mágico Curativo "
+    },
+    "smlch": {
+        "name": "Enlace de Curación ",
+        "p": "Enlace Mágico Curativo de Sanación ",
+        "description": "Enlace Mágico Curativo de Sanación "
+    },
+    "smlchp": {
+        "name": "Enlace de Sanación de Hp",
+        "p": "Enlace Mágico Curativo de Sanación - Hp",
+        "description": "Enlace Mágico Curativo de Sanación - Hp"
+    },
+    "smlcht": {
+        "name": "Enlace de Curación de la Resist. ",
+        "p": "Enlace Mágico Curativo de Sanación - Resist. ",
+        "description": "Enlace Magico Curativo de Sanacion - Resist. "
+    },
+    "smlcha": {
+        "name": "Enlace de Curación de la Savia",
+        "p": "Enlace Mágico Curativo de Sanación - Savia",
+        "description": "Enlace Mágico Curativo de Sanación - Savia"
+    },
+    "smlchc": {
+        "name": "Enlace Curativo del Enfoque",
+        "p": "Enlace Mágico Curativo de Sanación - Enfoque",
+        "description": "Enlace Mágico Curativo de Sanación - Enfoque"
+    },
+    "sma": {
+        "name": "Magia Autónoma",
+        "p": "Magia Autónoma",
+        "description": "Magia Autónoma"
+    },
+    "smae": {
+        "name": "Magia de Encantamiento",
+        "p": "Magia de Encantamiento",
+        "description": "Magia de Encantamiento"
+    },
+    "smaes": {
+        "name": "Hechizo de Encantamiento",
+        "p": "Encantamiento Mágico - Hechizo",
+        "description": "Encantamiento Mágico - Hechizo"
+    },
+    "smaeb": {
+        "name": "Bono de Encantamiento ",
+        "p": "Encantamiento Mágico - Bono",
+        "description": "Encantamiento Mágico - Bono "
+    },
+    "smap": {
+        "name": "Magia para la Elaboración de Pociones",
+        "p": "Magia para la Elaboración de Pociones ",
+        "description": "Magia para la Elaboración de Pociones"
+    },
+    "sd": {
+        "name": "Defensa",
+        "p": "Defensa",
+        "description": "Defensa"
+    },
+    "sda": {
+        "name": "Defensa con Armadura ",
+        "p": "Defensa con Armadura",
+        "description": "Armadura con Defensa"
+    },
+    "sdal": {
+        "name": "Defensa con Armadura Liviana ",
+        "p": "Defensa con Armadura Liviana ",
+        "description": "Defensa con Armadura Liviana "
+    },
+    "sdalf": {
+        "name": "Defensa con Armadura Liviana - Fyros",
+        "p": "Defensa con Armadura Liviana - Fyros",
+        "description": "Defensa con Armadura Liviana - Fyros"
+    },
+    "sdalfa": {
+        "name": "Defensa con Armadura Avanzada Liviana - Fyros",
+        "p": "Defensa con Armadura Avanzada Liviana - Fyros",
+        "description": "Defensa con Armadura Avanzada Liviana - Fyros"
+    },
+    "sdalfae": {
+        "name": "Experto en Defensa con Armadura Liviana - Fyros",
+        "p": "Experto en Defensa con Armadura Liviana - Fyros",
+        "description": "Experto en Defensa con Armadura Liviana - Fyros"
+    },
+    "sdalm": {
+        "name": "Defensa con Armadura Liviana - Matis",
+        "p": "Defensa con Armadura Liviana - Matis",
+        "description": "Defensa con Armadura Liviana - Matis"
+    },
+    "sdalma": {
+        "name": "Defensa con Armadura Avanzada Liviana -Matis",
+        "p": "Defensa con Armadura Avanzada Liviana - Matis",
+        "description": "Defensa con Armadura Avanzada Liviana -Matis"
+    },
+    "sdalmae": {
+        "name": "Experto en Defensa con Armadura Liviana - Matis",
+        "p": "Experto en Defensa con Armadura Liviana - Matis",
+        "description": "Experto en Defensa con Armadura Liviana - Matis"
+    },
+    "sdalt": {
+        "name": "Defensa con Armadura Liviana - Tryker",
+        "p": "Defensa con Armadura Liviana - Tryker",
+        "description": "Defensa con Armadura Liviana - Tryker"
+    },
+    "sdalta": {
+        "name": "Defensa con Armadura Avanzada Liviana - Tryker",
+        "p": "Defensa con Armadura Avanzada Liviana - Tryker",
+        "description": "Defensa con Armadura Avanzada Liviana - Tryker"
+    },
+    "sdaltae": {
+        "name": "Experto en Defensa con Armadura Liviana - Tryker",
+        "p": "Experto en Defensa con Armadura Liviana - Tryker",
+        "description": "Experto en Defensa con Armadura Liviana - Tryker "
+    },
+    "sdalz": {
+        "name": "Experto en Defensa con Armadura Liviana - Zoraï",
+        "p": "Defensa con Armadura Liviana - Zoraï",
+        "description": "Defensa con Armadura Liviana - Zoraï"
+    },
+    "sdalza": {
+        "name": "Defensa con Armadura Avanzada Liviana - Zoraï",
+        "p": "Defensa con Armadura Avanzada - Zoraï",
+        "description": "Defensa con Armadura Avanzada Liviana - Zoraï"
+    },
+    "sdalzae": {
+        "name": "Experto en Defensa con Armadura Liviana - Zoraï",
+        "p": "Experto en Defensa con Armadura Liviana - Zoraï",
+        "description": "Experto en Defensa con Armadura Liviana  - Zoraï"
+    },
+    "sdam": {
+        "name": "Defensa con Armadura Mediana ",
+        "p": "Defensa con Armadura Mediana",
+        "description": "Defensa con Armadura Mediana"
+    },
+    "sdamf": {
+        "name": "Defensa con Armadura Mediana - Fyros",
+        "p": "Defensa con Armadura Mediana - Fyros",
+        "description": "Defensa con Armadura Mediana - Fyros"
+    },
+    "sdamfa": {
+        "name": "Defensa con Armadura Avanzada Mediana - Fyros",
+        "p": "Defensa con Armadura Avanzada Mediana - Fyros",
+        "description": "Defensa con Armadura Avanzada Mediana - Fyros"
+    },
+    "sdamfae": {
+        "name": "Experto en Defensa con Armadura Mediana - Fyros",
+        "p": "Experto en Defensa con Armadura Mediana - Fyros",
+        "description": "Experto en Defensa con Armadura Mediana - Fyros"
+    },
+    "sdamm": {
+        "name": "Defensa con Armadura Mediana - Matis",
+        "p": "Defensa con Armadura Mediana - Matis",
+        "description": "Defensa con Armadura Mediana - Matis"
+    },
+    "sdamma": {
+        "name": "Defensa con Armadura Avanzada Mediana - Matis",
+        "p": "Defensa con Armadura Avanzada Mediana - Matis",
+        "description": "Defensa con Armadura Mediana - Matis"
+    },
+    "sdammae": {
+        "name": "Experto en Defensa con Armadura Mediana - Matis",
+        "p": "Experto en Defensa con Armadura Mediana - Matis",
+        "description": "Experto en Defensa con Armadura Mediana - Matis"
+    },
+    "sdamt": {
+        "name": "Defensa con Armadura Mediana -Tryker",
+        "p": "Defensa con Armadura Mediana - Tryker",
+        "description": "Defensa con Armadura Mediana - Tryker"
+    },
+    "sdamta": {
+        "name": "Defensa con Armadura Avanzada Mediana - Tryker",
+        "p": "Defensa con Armadura Avanzada Mediana - Tryker",
+        "description": "Defensa con Armadura Avanzada Mediana - Tryker"
+    },
+    "sdamtae": {
+        "name": "Experto en Defensa con Armadura Mediana - Tryker",
+        "p": "Experto en Defensa con Armadura Avanzada Mediana - Tryker",
+        "description": "Experto en Defensa con Armadura Avanzada Mediana - Tryker"
+    },
+    "sdamz": {
+        "name": "Defensa con Armadura Mediana - Zoraï",
+        "p": "Defensa con Armadura Mediana  - Zoraï",
+        "description": "Defensa con Armadura Mediana  - Zoraï"
+    },
+    "sdamza": {
+        "name": "Defensa con Armadura Avanzada Mediana - Zoraï",
+        "p": "Defensa con Armadura Avanzada Mediana - Zoraï",
+        "description": "Defensa con Armadura Avanzada Mediana - Zoraï"
+    },
+    "sdamzae": {
+        "name": "Experto en Defensa con Armadura Mediana - Zoraï",
+        "p": "Experto en Defensa con Armadura Mediana - Zoraï",
+        "description": "Experto en Defensa con Armadura Mediana - Zoraï"
+    },
+    "sdah": {
+        "name": "Defensa con Armadura Pesada",
+        "p": "Defensa con Armadura Pesada",
+        "description": "Defensa con Armadura Pesada"
+    },
+    "sdahf": {
+        "name": "Defensa con Armadura Pesada - Fyros",
+        "p": "Defensa con Armadura Pesada - Fyros",
+        "description": "Defensa con Armadura Pesada - Fyros"
+    },
+    "sdahfa": {
+        "name": "Defensa con Armadura Avanzada Pesada - Fyros",
+        "p": "Defensa Avanzada con Armadura Pesada - Fyros",
+        "description": "Defensa con Armadura Avanzada Pesada - Fyros"
+    },
+    "sdahfae": {
+        "name": "Experto en Defensa con Armadura Pesada - Fyros",
+        "p": "Experto en Defensa con Armadura Pesada - Fyros",
+        "description": "Experto en Defensa con Armadura Pesada - Fyros"
+    },
+    "sdahm": {
+        "name": "Defensa con Armadura Pesada - Matis",
+        "p": "Defensa con Armadura Pesada - Matis",
+        "description": "Defensa con Armadura Pesada - Matis"
+    },
+    "sdahma": {
+        "name": "Defensa con Armadura Avanzada Pesada - Matis",
+        "p": "Defensa con Armadura Avanzada Pesada - Matis",
+        "description": "Defensa con Armadura Avanzada Pesada - Matis"
+    },
+    "sdahmae": {
+        "name": "Experto en Defensa con Armadura Pesada - Matis",
+        "p": "Experto en Defensa con Armadura Pesada - Matis",
+        "description": "Experto en Defensa con Armadura Pesada - Matis"
+    },
+    "sdaht": {
+        "name": "Defensa con Armadura Pesada - Tryker",
+        "p": "Defensa con Armadura Pesada - Tryker",
+        "description": "Defensa con Armadura Pesada - Tryker"
+    },
+    "sdahta": {
+        "name": "Defensa con Armadura Avanzada Pesada - Tryker",
+        "p": "Defensa con Armadura Avanzada Pesada - Tryker",
+        "description": "Defensa con Armadura Avanzada Pesada - Tryker"
+    },
+    "sdahtae": {
+        "name": "Experto en Defensa con Armadura Pesada - Tryker",
+        "p": "Experto en Defensa con Armadura Pesada - Tryker",
+        "description": "Experto en Defensa con Armadura Pesada - Tryker"
+    },
+    "sdahz": {
+        "name": "Defensa con Armadura Pesada - Zoraï",
+        "p": "Defensa con Armadura Pesada - Zoraï",
+        "description": "Defensa con Armadura Pesada - Zoraï"
+    },
+    "sdahza": {
+        "name": "Defensa con Armadura Avanzada Pesada - Zoraï",
+        "p": "Defensa con Armadura Avanzada Pesaa - Zoraï",
+        "description": "Defensa con Armadura Avanzada Pesada - Zoraï"
+    },
+    "sdahzae": {
+        "name": "Experto en Defensa con Armadura Pesada - Zoraï",
+        "p": "Experto en Defensa con Armadura Pesada - Zoraï",
+        "description": "Experto en Defensa con Armadura Pesada - Zoraï"
+    },
+    "sds": {
+        "name": "Defensa con Escudo",
+        "p": "Defensa con Escudo ",
+        "description": "Defensa con Escudo "
+    },
+    "sdsb": {
+        "name": "Defensa con Escudo de Protección ",
+        "p": "Defensa con Escudo de Protección ",
+        "description": "Defensa con escudo de protección "
+    },
+    "sdsbf": {
+        "name": "Defensa con Escudo de Protección - Fyros",
+        "p": "Defensa con Escudo de Protección - Fyros",
+        "description": "Defensa con Escudo de Protección - Fyros"
+    },
+    "sdsbfa": {
+        "name": "Defensa con Escudo de Protección Avanzado - Fyros",
+        "p": "Defensa con Escudo de Protección Avanzada - Fyros",
+        "description": "Defensa con Escudo de Protección Avanzado - Fyros"
+    },
+    "sdsbfae": {
+        "name": "Experto en Defensa con Escudo de Protección - Fyros",
+        "p": "Experto en Defensa con Escudo de Protección - Fyros",
+        "description": "Experto en Defensa con Escudo de Protección - Fyros"
+    },
+    "sdsbm": {
+        "name": "Defensa con Escudo de Protección - Matis",
+        "p": "Defensa con Escudo de Protección - Matis",
+        "description": "Defensa con Escudo de Protección - Matis"
+    },
+    "sdsbma": {
+        "name": "Defensa Avanzada con Escudo de Protección - Matis",
+        "p": "Defensa Avanzada con Escudo de Protección - Matis",
+        "description": "Defensa Avanzada con Escudo de Protección - Matis"
+    },
+    "sdsbmae": {
+        "name": "Experto en Defensa con Escudo de Protección - Matis",
+        "p": "Experto en Defensa con Escudo de Protección - Matis",
+        "description": "Experto en Defensa con Escudo de Protección - Matis"
+    },
+    "sdsbt": {
+        "name": "Defensa con Escudo de Protección - Tryker",
+        "p": "Defensa con Escudo de Protección - Tryker",
+        "description": "Defensa con Escudo de Protección - Tryker"
+    },
+    "sdsbta": {
+        "name": "Defensa Avanzada con Escudo de Protección - Tryker",
+        "p": "Defensa Avanzada con Escudo de Protección - Tryker",
+        "description": "Defensa Avanzada con Escudo de Protección - Tryker"
+    },
+    "sdsbtae": {
+        "name": "Experto en Defensa con Escudo de Protección - Tryker",
+        "p": "Experto en Defensa con Escudo de Protección - Tryker",
+        "description": "Experto en Defensa con Escudo de Protección - Tryker"
+    },
+    "sdsbz": {
+        "name": "Defensa con Escudo de Protección - Zoraï",
+        "p": "Defensa con Escudo de Protección - Zoraï",
+        "description": "Defensa con Escudo de Protección - Zoraï"
+    },
+    "sdsbza": {
+        "name": "Defensa Avanzada con Escudo de Protección - Zoraï",
+        "p": "Defensa Avanzada con Escudo de Protección - Zoraï",
+        "description": "Defensa Avanzada con Escudo de Protección - Zoraï"
+    },
+    "sdsbzae": {
+        "name": "Experto en Defensa con Escudo de Protección - Zoraï",
+        "p": "Experto en Defensa con Escudo de Protección - Zoraï",
+        "description": "Experto en Defensa con Escudo de Protección - Zoraï"
+    },
+    "sdss": {
+        "name": "Defensa de Escudo con Escudo Grande ",
+        "p": "Defensa de Escudo con Escudo Grande",
+        "description": "Defensa de Escudo con Escudo Grande"
+    },
+    "sdssf": {
+        "name": "Defensa de Escudo con Escudo Grande - Fyros",
+        "p": "Defensa de Escudo con Escudo Grande - Fyros",
+        "description": "Defensa de Escudo con Escudo Grande - Fyros"
+    },
+    "sdssfa": {
+        "name": "Defensa de Escudo con Escudo  Avanzado Grande - Fyros",
+        "p": "Defensa de Escudo con Escudo Avanzado Grande - Fyros",
+        "description": "Defensa de Escudo con Escudo Avanzado Grande - Fyros"
+    },
+    "sdssfae": {
+        "name": "Experto en Defensa con Escudo Grande - Fyros",
+        "p": "Experto en Defensa de Escudo con Escudo Grande - Fyros",
+        "description": "Experto en Defensa de Escudo con Escudo Grande - Fyros"
+    },
+    "sdssm": {
+        "name": "Defensa de Escudo con Escudo Grande - Matis",
+        "p": "Defensa de Escudo con Escudo Grande - Matis",
+        "description": "Defensa de Escudo con Escudo Grande - Matis"
+    },
+    "sdssma": {
+        "name": "Defensa Avanzada de Escudo con Escudo Grande - Matis",
+        "p": "Defensa Avanzada de Escudo con Escudo Grande - Matis",
+        "description": "Defensa Avanzada de Escudo con Escudo Grande - Matis"
+    },
+    "sdssmae": {
+        "name": "Experto en Defensa de Escudo con Escudo Grande - Matis",
+        "p": "Experto en Defensa de Escudo con Escudo Grande - Matis",
+        "description": "Experto en Defensa de Escudo con Escudo Grande - Matis"
+    },
+    "sdsst": {
+        "name": "Defensa de Escudo con Escudo Grande - Tryker",
+        "p": "Defensa de Escudo con Escudo Grande - Tryker",
+        "description": "Defensa de Escudo con Escudo Grande - Tryker"
+    },
+    "sdssta": {
+        "name": "Defensa Avanzada de Escudo con Escudo Grande - Tryker",
+        "p": "Defensa Avanzada de Escudo con Escudo Grande - Tryker",
+        "description": "Defensa Avanzada de Escudo con Escudo Grande - Tryker"
+    },
+    "sdsstae": {
+        "name": "Experto en Defesna de Escudo con Escudo Grande - Tryker",
+        "p": "Experto en Defensa de Escudo con Escudo Grande - Tryker",
+        "description": "Experto en Defesna de Escudo con Escudo Grande - Tryker"
+    },
+    "sdssz": {
+        "name": "Defensa de Escudo con Escudo Grande - Zoraï",
+        "p": "Defensa de Escudo con Escudo Grande - Zoraï",
+        "description": "Defensa de Escudo con Escudo Grande  - Zoraï"
+    },
+    "sdssza": {
+        "name": "Defensa Avanzada de Escudo con Escudo Grande - Zoraï",
+        "p": "Defensa Avanzada de Escudo con Escudo Grande - Zoraï",
+        "description": "Defensa Avanzada de Escudo con Escudo Grande - Zoraï"
+    },
+    "sdsszae": {
+        "name": "Experto en Defensa de Escudo con Escudo Grande - Zoraï",
+        "p": "Experto en Defensa de Escudo con Escudo Grande - Zoraï",
+        "description": "Experto en Defensa de Escudo con Escudo Grande - Zoraï"
+    },
+    "sdd": {
+        "name": "Evasión de Defensa",
+        "p": "Evasión de Defensa",
+        "description": "Evasión de Defensa"
+    },
+    "sdda": {
+        "name": "Evasión de Defensa Estándar",
+        "p": "Evasión de Defensa Estándar",
+        "description": "Evasión de Defensa Estándar"
+    },
+    "sddat": {
+        "name": "Evasión de Defensa Avanzada",
+        "p": "Evasión de Defensa Avanzada",
+        "description": "Evasión Técnica Avanzada de Defensa"
+    },
+    "sddatm": {
+        "name": "Experto en Evasión de Defensa",
+        "p": "Experto en Evasión de Defensa",
+        "description": "Maestría en la Evasión de Defensa"
+    },
+    "sddatme": {
+        "name": "Maestro en Evasión de Defensa",
+        "p": "Maestro en Evasión de Defensa",
+        "description": "Experto en Evasión de Defensa Avanzada"
+    },
+    "uknown": {
+        "name": "Habilidad Desconocida",
+        "p": "Habilidad Desconocida",
+        "description": "Habilidad Desconocida"
+    },
+    "unknown": {
+        "name": "Habilidad Desconocida",
+        "p": "Habilidad Desconocida",
+        "description": "Habilidad Desconocida"
+    },
+    "sh": {
+        "name": "Recolección\/Cosecha",
+        "p": "Recolección\/Cosecha",
+        "description": "Recolección\/Cosecha"
+    },
+    "shf": {
+        "name": "Forraje\/Búsqueda",
+        "p": "Forraje\/Búsqueda",
+        "description": ""
+    },
+    "shff": {
+        "name": "Búsqueda en el Bosque",
+        "p": "Búsquedas en el Bosque",
+        "description": ""
+    },
+    "shffa": {
+        "name": "Búsqueda en el Bosque Avanzada",
+        "p": "Búsquedas en el Bosque Avanzada",
+        "description": ""
+    },
+    "shffae": {
+        "name": "Experto en Búsqueda en el Bosque",
+        "p": "Experto en Búsqueda en el Bosque",
+        "description": ""
+    },
+    "shffaem": {
+        "name": "Maestro en Búsqueda en el Bosque",
+        "p": "Maestro en Búsquedas en el Bosque",
+        "description": ""
+    },
+    "shfd": {
+        "name": "Búsqueda en el Desierto",
+        "p": "Búsquedas en el Desierto",
+        "description": ""
+    },
+    "shfda": {
+        "name": "Búsqueda en el Desierto Avanzada",
+        "p": "Búsqueda en el Desierto Avanzada",
+        "description": ""
+    },
+    "shfdae": {
+        "name": "Experto en Búsqueda en el Desierto",
+        "p": "Experto en Búsqueda en el Desierto",
+        "description": ""
+    },
+    "shfdaem": {
+        "name": "Maestro en Búsqueda en el Desierto ",
+        "p": "Maestro en Búsquedas en el Desierto",
+        "description": ""
+    },
+    "shfj": {
+        "name": "Búsqueda en la Selva",
+        "p": "Búsquedas en la Selva",
+        "description": ""
+    },
+    "shfja": {
+        "name": "Búsqueda Avanzada en la Selva",
+        "p": "Búsqueda Avanzada en la Selva",
+        "description": ""
+    },
+    "shfjae": {
+        "name": "Experto en Búsqueda en la Selva",
+        "p": "Experto en Búsquedas en la Selva",
+        "description": ""
+    },
+    "shfjaem": {
+        "name": "Maestro en Búsqueda en la Selva",
+        "p": "Maestro en Búsquedas en la Selva",
+        "description": ""
+    },
+    "shfl": {
+        "name": "Búsqueda en el Lago",
+        "p": "Búsquedas en el Lago",
+        "description": ""
+    },
+    "shfla": {
+        "name": "Búsqueda Avanzada en el Lago ",
+        "p": "Búsquedas Avanzadas en el Lago",
+        "description": ""
+    },
+    "shflae": {
+        "name": "Experto en Búsqueda en el Lago ",
+        "p": "Experto en Búsquedas en el Lago",
+        "description": ""
+    },
+    "shflaem": {
+        "name": "Maestro en Búsqueda de Lago ",
+        "p": "Maestro en Búsquedas en el Lago",
+        "description": ""
+    },
+    "shfp": {
+        "name": "Búsqueda en la Primera Raíz",
+        "p": "Búsquedas en la Primera Raíz",
+        "description": ""
+    },
+    "shfpa": {
+        "name": "Búsqueda Avanzada en la Primera Raíz",
+        "p": "Búsquedas Avanzada en las Primera Raíz",
+        "description": ""
+    },
+    "shfpae": {
+        "name": "Experto en Búsqueda en la Primera Raíz",
+        "p": "Experto en Búsquedas en la Primera Raíz",
+        "description": ""
+    },
+    "shfpaem": {
+        "name": "Maestro en Búsqueda en la Primera Raíz",
+        "p": "Maestro en Búsquedas en La Primera Raíz",
+        "description": ""
+    },
+    "smtoeca": {
+        "name": "Magia Fría Avanzada",
+        "p": "Daño Especial Avanzado de Magia Ofensiva Dirigida - Frio",
+        "description": "Daño Especial Avanzado de Magia Ofensiva Dirigida - Frio"
+    },
+    "smtoeaa": {
+        "name": "Magia Acida Avanzada",
+        "p": "Daño Especial Avanzado de Magia Ofensiva Dirigida - Acida",
+        "description": "Daño Especial Avanzado de Magia Ofensiva Dirigida -Acida"
+    },
+    "smtoera": {
+        "name": "Magia de Pudrición Avanzada",
+        "p": "Daño Especial Avanzado de Magia Ofensiva Dirigida - Pudrición ",
+        "description": "Daño Especial Avanzado de Magia Ofensiva Dirigida - Pudrición "
+    },
+    "smtoefa": {
+        "name": "Magia de Fuego Avanzada",
+        "p": "Daño Especial Avanzada de Magia Ofensiva Dirigida - Fuego",
+        "description": "Daño Especial Avanzado de Magia Ofensiva Dirigida - Fuego"
+    },
+    "smtoesa": {
+        "name": "Magia de Onda de Choque Avanzada",
+        "p": "Daño Especial Avanzado de Magia Ofensiva Dirigida - Onda de Choque",
+        "description": "Daño Especial Avanzado de Magia Ofensiva Dirigida - Onda de Choque"
+    },
+    "smtoepa": {
+        "name": "Magia de Envenenamiento Avanzada",
+        "p": "Daño Especial Avanzado de Magia Ofensiva Dirigida - Envenenamiento",
+        "description": "Daño Especial Avanzado de Magia Ofensiva Dirigida - Envenenamiento "
+    },
+    "smtoeea": {
+        "name": "Magia de Electricidad Avanzada ",
+        "p": "Daño Especial Avanzado de Magia Ofensiva Dirigida - Electricidad",
+        "description": "Daño Especial Avanzado de Magia Ofensiva Dirigida - Electricidad"
+    },
+    "smtchpa": {
+        "name": "Magia Curativa Avanzada",
+        "p": "Magia Dirigida Curativa Sanadora Avanzada - HP",
+        "description": "Magia Dirigida Curativa Sanadora Avanzada - HP"
+    },
+    "smtchta": {
+        "name": "Magia Curativa de la Resistencia Avanzada",
+        "p": "Magia Dirigida Curativa Avanzada - Resistencia",
+        "description": "Magia Dirigida Curativa Avanzada - Resistencia"
+    },
+    "smtchaa": {
+        "name": "Magia Curativa de la Savia Avanzada",
+        "p": "Magia Dirigida Curativa Sanadora Avanzada - Savia",
+        "description": "Magia Dirigida Curativa Sanadora Avanzada - Savia"
+    },
+    "smtchca": {
+        "name": "Magia Curativa del Enfoque Avanzada",
+        "p": "Magia Dirigida Curativa Sanadora Avanzada - Enfoque",
+        "description": "Magia Dirigida Curativa Sanadora Avanzada - Enfoque"
+    },
+    "smlosma": {
+        "name": "Enlace de Locura Avanzada",
+        "p": "Enlace de Magia Ofensiva Avanzada de Enfermedad - Locura",
+        "description": "Enlace de Magia Ofensiva Avanzada de Enfermedad - Locura"
+    },
+    "smlossa": {
+        "name": "Enlace de Perjuicios de Velocidad Avanzado",
+        "p": "Enlace de Magia Ofensiva Avanzada de Enfermedad - Perjuicio de Velocidad",
+        "description": "Enlace de Magia Ofensiva Avanzada de Enfermedad - Perjuicio de Velocidad"
+    },
+    "smlocia": {
+        "name": "Enlace de Incapacidad Avanzado",
+        "p": "Enlace de Magia Ofensiva Avanzada de Maldición - Incapacidad",
+        "description": "Enlace de Magia Ofensiva Avanzada de Maldición - Incapacidad"
+    },
+    "smlocsa": {
+        "name": "Enlace de Infortunio Avanzado",
+        "p": "Enlace de Magia Ofensiva Avanzada de Maldición  - Infortunio",
+        "description": "Enlace de Magia Ofensiva Avanzada de Maldición - Infortunio "
+    },
+    "smloeca": {
+        "name": "Enlace de Frio Avanzado ",
+        "p": "Daño Especial Avanzado del Enlace de Magia Ofensiva  - Frio",
+        "description": "Daño Especial Avanzado del Enlace de Magia Ofensiva - Frio"
+    },
+    "smloeaa": {
+        "name": "Enlace de Acido Avanzado ",
+        "p": "Daño Especial Avanzado del Enlace de Magia Ofensiva  - Acido ",
+        "description": "Daño Especial Avanzado del Enlace de Magia Ofensiva -Acido"
+    },
+    "smloera": {
+        "name": "Enlace de Pudrición Avanzado",
+        "p": "Daño Especial Avanzado del Enlace de Magia Ofensiva - Pudrición ",
+        "description": "Daño Especial Avanzado del Enlace de Magia Ofensiva - Pudrición "
+    },
+    "smloefa": {
+        "name": "Enlace de Fuego Avanzado",
+        "p": "Daño Especial Avanzado del Enlace de Magia Ofensiva - Fuego",
+        "description": "Daño Especial Avanzado del Enlace de Magia Ofensiva - Fuego"
+    },
+    "smloesa": {
+        "name": "Enlace de Onda de Choque Avanzado ",
+        "p": "Daño Especial Avanzado del Enlace de Magia Ofensivo - Onda de Choque",
+        "description": "Daño Especial Avanzado del Enlace de Magia Ofensiva - Onda de Choque"
+    },
+    "smloepa": {
+        "name": "Enlace de Envenenamiento Avanzado ",
+        "p": "Daño Especial Avanzado del Enlace de Magia Ofensiva - Envenenamiento",
+        "description": "Daño Especial Avanzado del Enlace de Magia Ofensiva - Envenenamiento"
+    },
+    "smloeea": {
+        "name": "Enlace de Electricidad Avanzado ",
+        "p": "Daño Especial Avanzado del Enlace de Magia Ofensiva - Electricidad",
+        "description": "Daño Especial Avanzado del Enlace de Magia Ofensiva - Electricidad"
+    },
+    "smd": {
+        "name": "Magia Defensiva",
+        "p": "Magia Defensiva",
+        "description": "Magia Defensiva"
+    },
+    "smda": {
+        "name": "Aflicción Defensiva",
+        "p": "Aflicción Defensiva",
+        "description": "Aflicción Defensiva Estándar"
+    },
+    "smdaa": {
+        "name": "Aflicción Defensiva Avanzada",
+        "p": "Aflicción Defensiva Avanzada",
+        "description": "Aflicción Defensiva Avanzada"
+    },
+    "smdaae": {
+        "name": "Experto en Aflicción Defensiva",
+        "p": "Experto en Aflicción Defensiva",
+        "description": "Experto en Aflicción Defensiva"
+    },
+    "smdaaem": {
+        "name": "Maestro en Aflicción Defensiva",
+        "p": "Maestro en Aflicción Defensiva",
+        "description": "Maestro en Aflicción Defensiva"
+    },
+    "smdh": {
+        "name": "Magia Curativa Estándar",
+        "p": "Magia Curativa Estándar",
+        "description": "Magia Curativa Estándar"
+    },
+    "smdha": {
+        "name": "Magia Curativa Avanzada",
+        "p": "Magia Curativa Avanzada",
+        "description": "Magia Curativa Avanzada"
+    },
+    "smdhae": {
+        "name": "Experto en Magia Curativa",
+        "p": "Experto en Magia Curativa",
+        "description": "Experto en Magia Curativa"
+    },
+    "smdhaem": {
+        "name": "Maestro en Magia Curativa",
+        "p": "Maestro en Magia Curativa",
+        "description": "Maestro en Magia Curativa"
+    },
+    "smo": {
+        "name": "Magia Ofensiva",
+        "p": "Magia Ofensiva ",
+        "description": "Magia Ofensiva"
+    },
+    "smoa": {
+        "name": "Aflicción Ofensiva",
+        "p": "Aflicción Ofensiva",
+        "description": "Aflicción Ofensiva Estándar"
+    },
+    "smoaa": {
+        "name": "Aflicción Ofensiva Avanzada",
+        "p": "Aflicción Ofensiva Avanzada",
+        "description": "Aflicción Ofensiva Avanzada"
+    },
+    "smoaae": {
+        "name": "Experto en Aflicción Ofensiva",
+        "p": "Experto en Aflicción Ofensiva",
+        "description": "Experto en Aflicción Ofensiva"
+    },
+    "smoaaem": {
+        "name": "Maestro en Aflicción Ofensiva",
+        "p": "Maestro en Aflicción Ofensiva",
+        "description": "Maestro en Aflicción Ofensiva"
+    },
+    "smoe": {
+        "name": "",
+        "p": "Magia Elemental ",
+        "description": "Magia Elemental Estándar"
+    },
+    "smoea": {
+        "name": "Magia Elemental ",
+        "p": "Magia Elemental Avanzada",
+        "description": "Magia Elemental Avanzada"
+    },
+    "smoeae": {
+        "name": "Magia Elemental Avanzada",
+        "p": "Experto en Magia Elemental Avanzada",
+        "description": "Experto en Magia Elemental"
+    },
+    "smoeaem": {
+        "name": "Experto en Magia Elemental",
+        "p": "Maestro en Magia Elemental",
+        "description": "Maestro en Magia Elemental"
+    },
+    "sms": {
+        "name": "Maestro en Magia Elemental",
+        "p": "Magia Propia",
+        "description": "Magia Propia"
+    },
+    "smss": {
+        "name": "Magia Propia",
+        "p": "Magia Propia Estándar",
+        "description": "Magia Propia Estándar"
+    },
+    "smssa": {
+        "name": "Magia Propia Estándar",
+        "p": "Magia Propia Avanzada",
+        "description": "Magia Propia Avanzada"
+    },
+    "smssae": {
+        "name": "Magia Propia Avanzada ",
+        "p": "Experto en Magia Propia",
+        "description": "Experto en Magia Propia"
+    },
+    "smssaem": {
+        "name": "Experto en Magia Propia",
+        "p": "Maestro en Magia Propia",
+        "description": "Maestro en Magia Propia"
+    },
+    "sf": {
+        "name": "Maestro en Magia Propia",
+        "p": "Combate\/Pelea",
+        "description": ""
+    },
+    "sfm": {
+        "name": "Combate\/Pelea",
+        "p": "Combates Cuerpo a Cuerpo",
+        "description": ""
+    },
+    "sfm1": {
+        "name": "Combate Cuerpo a Cuerpo ",
+        "p": "Combates Cuerpo a Cuerpo con Una Mano",
+        "description": ""
+    },
+    "sfm1b": {
+        "name": "Combate Cuerpo a Cuerpo con Una Mano",
+        "p": "Combates Cuerpo a Cuerpo Aplastante con Una Mano",
+        "description": ""
+    },
+    "sfm1bm": {
+        "name": "Combate Cuerpo a Cuerpo Aplastante con Una Mano",
+        "p": "Mazos",
+        "description": ""
+    },
+    "sfm1bme": {
+        "name": "Mazo",
+        "p": "Mazos Eléctricos",
+        "description": ""
+    },
+    "sfm1bmm": {
+        "name": "Mazo Eléctrico ",
+        "p": "Mazos Maestros",
+        "description": ""
+    },
+    "sfm1bs": {
+        "name": "Mazo Maestro ",
+        "p": "Palos",
+        "description": ""
+    },
+    "sfm1bsm": {
+        "name": "Palo",
+        "p": "Palos Maestros ",
+        "description": ""
+    },
+    "sfm1p": {
+        "name": "Palo Maestro ",
+        "p": "Combates Cuerpo a Cuerpo Perforador con Una Mano",
+        "description": ""
+    },
+    "sfm1ps": {
+        "name": "Combate Cuerpo a Cuerpo Perforador con Una Mano ",
+        "p": "Lanzas",
+        "description": ""
+    },
+    "sfm1pse": {
+        "name": "Lanza",
+        "p": "Lanzas Eléctricas",
+        "description": ""
+    },
+    "sfm1psl": {
+        "name": "Lanza Eléctrica",
+        "p": "Lanzas Vivientes",
+        "description": ""
+    },
+    "sfm1psm": {
+        "name": "Lanza Viviente",
+        "p": "Lanzas Maestras",
+        "description": ""
+    },
+    "sfm1s": {
+        "name": "Lanza Maestra",
+        "p": "Combates Cuerpo a Cuerpo de Cuchilladas con Una Mano",
+        "description": ""
+    },
+    "sfm1sa": {
+        "name": "Combate Cuerpo a Cuerpo de Cuchilladas con Una Mano",
+        "p": "Hachas Ardientes",
+        "description": ""
+    },
+    "sfm1sab": {
+        "name": "Hacha",
+        "p": "Hachas Ardientes",
+        "description": ""
+    },
+    "sfm1sam": {
+        "name": "Hacha Ardiente",
+        "p": "Hachas Maestras",
+        "description": ""
+    },
+    "sfm1ss": {
+        "name": "Hacha Maestra",
+        "p": "Espadas",
+        "description": ""
+    },
+    "sfm1ssm": {
+        "name": "Espada",
+        "p": "Espadas Maestras",
+        "description": ""
+    },
+    "sfm1ssw": {
+        "name": "Espada Maestra",
+        "p": "Espadas Maestras",
+        "description": ""
+    },
+    "sfm2": {
+        "name": "Espada Ondeante",
+        "p": "Combates Cuerpo a Cuerpo con Dos Manos",
+        "description": ""
+    },
+    "sfm2b": {
+        "name": "Combate Cuerpo a Cuerpo con Dos Manos",
+        "p": "Combates Cuerpo a Cuerpo Aplastante Con Dos Manos",
+        "description": ""
+    },
+    "sfm2bm": {
+        "name": "Combate Cuerpo a Cuerpo Aplastante con Dos Manos",
+        "p": "Mazos para Dos Manos",
+        "description": ""
+    },
+    "sfm2bme": {
+        "name": "Mazo para Dos Manos",
+        "p": "Mazos Eléctricos para Dos Manos",
+        "description": ""
+    },
+    "sfm2bmm": {
+        "name": "Mazo Eléctrico para Dos Manos",
+        "p": "Mazos Eléctricos para Dos Manos",
+        "description": ""
+    },
+    "sfm2p": {
+        "name": "Mazo Maestro para Dos Manos",
+        "p": "Combates Cuerpo a Cuerpo Perforados con Dos Manos",
+        "description": ""
+    },
+    "sfm2pp": {
+        "name": "Combate Cuerpo a Cuerpo Perforador con Dos Mano ",
+        "p": "Picos",
+        "description": ""
+    },
+    "sfm2ppl": {
+        "name": "Pico",
+        "p": "Picos Vivientes",
+        "description": ""
+    },
+    "sfm2ppm": {
+        "name": "Pico Viviente",
+        "p": "Picos Maestros",
+        "description": ""
+    },
+    "sfm2s": {
+        "name": "Pico Maestro",
+        "p": "Combate Cuerpo a Cuerpo de Cuchilladas con Dos Manos",
+        "description": ""
+    },
+    "sfm2sa": {
+        "name": "Combate Cuerpo a Cuerpo de Cuchilladas con Dos Manos",
+        "p": "Hachas para Dos Manos",
+        "description": ""
+    },
+    "sfm2sab": {
+        "name": "Hacha para Dos Manos",
+        "p": "Hachas Ardientes para Dos Manos",
+        "description": ""
+    },
+    "sfm2sam": {
+        "name": "Hacha Ardiente para Dos Manos",
+        "p": "Hachas Maestras para Dos Manos",
+        "description": ""
+    },
+    "sfm2ss": {
+        "name": "Hacha Maestra para Dos Manos",
+        "p": "Hachas Maestras para Dos Manos",
+        "description": ""
+    },
+    "sfm2ssb": {
+        "name": "Espada para Dos Manos",
+        "p": "Espadas Ardientes para Dos Manos",
+        "description": ""
+    },
+    "sfm2ssl": {
+        "name": "Espada Ardiente para Dos Manos",
+        "p": "Espadas Vivientes para Dos Manos",
+        "description": ""
+    },
+    "sfm2ssm": {
+        "name": "Espada Viviente de Dos Manos",
+        "p": "Espadas Maestras de Dos Manos",
+        "description": ""
+    },
+    "sfm2ssw": {
+        "name": "Espada Maestra de Dos Manos",
+        "p": "Espadas Ondeantes de Dos Manos",
+        "description": ""
+    },
+    "sfmc": {
+        "name": "Espada Ondeante de Dos Manos",
+        "p": "Combates Cerrados",
+        "description": ""
+    },
+    "sfmca": {
+        "name": "Combate Cerrado ",
+        "p": "Combates Cerrados Avanzado",
+        "description": ""
+    },
+    "sfmcad": {
+        "name": "Combate Cerrado Avanzado ",
+        "p": "Dagas",
+        "description": ""
+    },
+    "sfmcadl": {
+        "name": "Daga",
+        "p": "Dagas Vivientes",
+        "description": ""
+    },
+    "sfmcadm": {
+        "name": "Daga Viviente",
+        "p": "Maestro de las Dagas",
+        "description": ""
+    },
+    "sfmcadw": {
+        "name": "Maestro de la Daga",
+        "p": "Dagas Ondeantes",
+        "description": ""
+    },
+    "sfmcah": {
+        "name": "Daga Ondeante",
+        "p": "Mano a Manos",
+        "description": ""
+    },
+    "sfmcahm": {
+        "name": "Mano en Mano ",
+        "p": "Maestro de Mano en Manos",
+        "description": ""
+    },
+    "sfr": {
+        "name": "Maestro de Mano en Mano ",
+        "p": "Peleas de Alcance",
+        "description": ""
+    },
+    "sfr1": {
+        "name": "Pelea de Alcance",
+        "p": "Peleas de Alcance con Una Mano",
+        "description": ""
+    },
+    "sfr1a": {
+        "name": "Pelea de Alcance con una Mano",
+        "p": "Peleas de Alcance Avanzadas con Una Mano",
+        "description": ""
+    },
+    "sfr1ab": {
+        "name": "Pelea de Alcance Avanzada con Una Mano",
+        "p": "Pistolas de Arco ",
+        "description": ""
+    },
+    "sfr1abm": {
+        "name": "Pistola de Arco ",
+        "p": "Maestros de las Pistolas de Arco",
+        "description": ""
+    },
+    "sfr1abw": {
+        "name": "Maestro de la Pistolas de Arco",
+        "p": "Pistolas de Arco Ondeantes",
+        "description": ""
+    },
+    "sfr1ap": {
+        "name": "Pistola de Arco Ondeante",
+        "p": "Pistolas",
+        "description": ""
+    },
+    "sfr1apl": {
+        "name": "Pistola",
+        "p": "Pistolas Vivientes",
+        "description": ""
+    },
+    "sfr1apm": {
+        "name": "Pistola Viviente",
+        "p": "Pistolas Maestras",
+        "description": ""
+    },
+    "sfr2": {
+        "name": "Pistola Maestra",
+        "p": "Peleas de Alcance con Dos Manos",
+        "description": ""
+    },
+    "sfr2a": {
+        "name": "Pelea de Alcance con Dos Manos",
+        "p": "Peleas de Alcance Avanzadas con Una Mano",
+        "description": ""
+    },
+    "sfr2aa": {
+        "name": "Pelea de Alcance Avanzada con Dos Manos",
+        "p": "Auto lanzadores",
+        "description": ""
+    },
+    "sfr2aab": {
+        "name": "Autolanzador",
+        "p": "Autolanzadores Ardientes",
+        "description": ""
+    },
+    "sfr2aam": {
+        "name": "Autolanzador Ardiente",
+        "p": "Autolanzadores Maestros",
+        "description": ""
+    },
+    "sfr2ab": {
+        "name": "Autolanzador Maestro ",
+        "p": "Rifles de Arco ",
+        "description": ""
+    },
+    "sfr2abe": {
+        "name": "Rifle de Arco",
+        "p": "Rifles de Arco eléctricos",
+        "description": ""
+    },
+    "sfr2abm": {
+        "name": "Rifle de Arco Eléctrico",
+        "p": "Rifles de Arco Maestros",
+        "description": ""
+    },
+    "sfr2al": {
+        "name": "Rifle de Arco Maestro ",
+        "p": "Lanzadores",
+        "description": ""
+    },
+    "sfr2alb": {
+        "name": "Lanzador",
+        "p": "Lanzadores Ardientes",
+        "description": ""
+    },
+    "sfr2ale": {
+        "name": "Lanzador Ardiente",
+        "p": "Lanzadores Ardientes",
+        "description": ""
+    },
+    "sfr2alm": {
+        "name": "Lanzador Eléctrico",
+        "p": "Lanzadores Maestros",
+        "description": ""
+    },
+    "sfr2ar": {
+        "name": "Maestro Lanzador ",
+        "p": "Rifles ",
+        "description": ""
+    },
+    "sfr2arl": {
+        "name": "Rifle",
+        "p": "Rifles Vivientes",
+        "description": ""
+    },
+    "sfr2arm": {
+        "name": "Rifle Viviente",
+        "p": "Maestro de los Rifles",
+        "description": ""
+    },
+    "sca": {
+        "name": "Rifle Maestro ",
+        "p": "Fabricación de Armadura",
+        "description": "Fabricación de Armadura"
+    },
+    "scj": {
+        "name": "Fabricación de Armadura",
+        "p": "Fabricación de Joya",
+        "description": "Fabricación de Joya"
+    },
+    "scm": {
+        "name": "Fabricación de Joya",
+        "p": "Fabricación de Armas de Lucha Cuerpo a Cuerpo ",
+        "description": "Fabricación de Armas de Lucha Cuerpo a Cuerpo "
+    },
+    "scr": {
+        "name": "Fabricación de Armas de Lucha Cuerpo a Cuerpo ",
+        "p": "Fabricación de Armas de Alcance",
+        "description": "Fabricación de Armas de Alcance"
+    },
+    "scah": {
+        "name": "Fabricación de Armas de Alcance",
+        "p": "Fabricación de Armadura Pesada",
+        "description": "Fabricación de Armadura Pesada"
+    },
+    "scal": {
+        "name": "Fabricación de Armadura Pesada",
+        "p": "Fabricación de Armadura Liviana",
+        "description": "Fabricación de Armadura Liviana"
+    },
+    "scam": {
+        "name": "Fabricación de Armadura Liviana",
+        "p": "Fabricación de Armadura Mediana",
+        "description": "Fabricación de Armadura Mediana"
+    },
+    "scas": {
+        "name": "Fabricación de Armadura Mediana",
+        "p": "Fabricación de Escudo",
+        "description": "Fabricación de Escudo"
+    },
+    "scja": {
+        "name": "Fabricación de Escudo",
+        "p": "Fabricación de Tobillera",
+        "description": "Fabricación de Tobillera"
+    },
+    "scjb": {
+        "name": "Fabricación de Tobillera",
+        "p": "Fabricación de Brazalete",
+        "description": "Fabricación de Brazalete"
+    },
+    "scjd": {
+        "name": "Fabricación de Brazalete",
+        "p": "Fabricación de Diadema",
+        "description": "Fabricación de Diadema"
+    },
+    "scje": {
+        "name": "Fabricación de Diadema",
+        "p": "Fabricación de Aretes",
+        "description": "Fabricación de Aretes"
+    },
+    "scjp": {
+        "name": "Fabricación de Aretes",
+        "p": "Fabricación de Pendiente",
+        "description": "Fabricación de Pendiente"
+    },
+    "scjr": {
+        "name": "Fabricación de Pendiente",
+        "p": "Fabricación de Anillo",
+        "description": "Fabricación de Anillo"
+    },
+    "scm1": {
+        "name": "Fabricación de Anillo",
+        "p": "Fabricaciones de Armas de Combate Cuerpo a Cuerpo de Una Mano",
+        "description": "Fabricación de Armas de Combate Cuerpo a Cuerpo de Una Mano "
+    },
+    "scm2": {
+        "name": "Fabricación de Armas de Combate Cuerpo a Cuerpo de Una Mano",
+        "p": "Fabricaciones de Armas de Combate Cuerpo a Cuerpo de Dos Manos",
+        "description": "Fabricación de Armas de Combate Cuerpo a Cuerpo de Dos Manos"
+    },
+    "scr1": {
+        "name": "Fabricación de Armas de Combate Cuerpo a Cuerpo de Dos Manos",
+        "p": "Fabricaciones de Armas de Alcance de Una Mano",
+        "description": "Fabricación de Armas de Alcance de Una Mano"
+    },
+    "scr2": {
+        "name": "Fabricación de Armas de Alcance de Una Mano",
+        "p": "Fabricaciones de Armas de Alcance de Dos Manos",
+        "description": "Fabricación de Armas de Alcance de Dos Manos"
+    },
+    "scahb": {
+        "name": "Fabricación de Armas de Alcance de Dos Manos",
+        "p": "Fabricación de Botas Pesadas",
+        "description": "Fabricación de Botas Pesadas "
+    },
+    "scahg": {
+        "name": "Fabricación de Botas Pesadas",
+        "p": "Fabricación de Guantes Pesados",
+        "description": "Fabricación de Guantes Pesados"
+    },
+    "scahh": {
+        "name": "Fabricación de Guantes Pesados",
+        "p": "Fabricación de Casco Pesados",
+        "description": "Fabricación de Casco Pesado"
+    },
+    "scahp": {
+        "name": "Fabricación de Casco Pesado",
+        "p": "Fabricación de Pantalones Pesados",
+        "description": "Fabricación de Pantalones Pesados"
+    },
+    "scahs": {
+        "name": "Fabricación de Pantalones Pesados",
+        "p": "Fabricación de Mangas Pesadas",
+        "description": "Fabricación de Mangas Pesadas"
+    },
+    "scahv": {
+        "name": "Fabricación de Mangas Pesadas",
+        "p": "Fabricación de Chaleco Pesado ",
+        "description": "Fabricación de Chaleco Pesado"
+    },
+    "scalb": {
+        "name": "Fabricación de Chaleco Pesado ",
+        "p": "Fabricación de Botas Livianas",
+        "description": "Fabricación de Botas Livianas"
+    },
+    "scalg": {
+        "name": "Fabricación de Botas Livianas",
+        "p": "Fabricaciones de Guantes Livianos",
+        "description": "Fabricación de Guantes Livianos"
+    },
+    "scalp": {
+        "name": "Fabricación de Guantes Livianos",
+        "p": "Fabricación de Pantalones Livianos",
+        "description": "Fabricación de Pantalones Livianos"
+    },
+    "scals": {
+        "name": "Fabricación de Pantalones Livianos",
+        "p": "Fabricación de Pantalones Livianos",
+        "description": "Fabricación de Mangas Livianas"
+    },
+    "scalv": {
+        "name": "Fabricación de Mangas Livianas",
+        "p": "Fabricación de Chaleco Liviano",
+        "description": "Fabricación de Chaleco Liviano"
+    },
+    "scamb": {
+        "name": "Fabricación de Chaleco Liviano",
+        "p": "Fabricación de Botas Medianas",
+        "description": "Fabricación de Botas Livianas"
+    },
+    "scamg": {
+        "name": "Fabricación de Botas Medianas",
+        "p": "Fabricación de Guantes Medianos",
+        "description": "Fabricación de Guantes Medianos"
+    },
+    "scamp": {
+        "name": "Fabricación de Guantes Medianos",
+        "p": "Fabricación de Pantalones Medianos",
+        "description": "Fabricación de Pantalones Medianos"
+    },
+    "scams": {
+        "name": "Fabricación de Pantalones Medianos",
+        "p": "Fabricación de Mangas Medianas",
+        "description": "Fabricación de Mangas Medianas"
+    },
+    "scamv": {
+        "name": "Fabricación de Mangas Medianas",
+        "p": "Fabricación de Chaleco Mediano",
+        "description": "Fabricación de Chaleco Mediano"
+    },
+    "scass": {
+        "name": "Fabricación de Chaleco Mediano",
+        "p": "Fabricaciones de Escudos Grandes",
+        "description": "Fabricación de Escudo Grande"
+    },
+    "scasb": {
+        "name": "Fabricación de Escudo Grande",
+        "p": "Fabricación de Escudo de Defensa ",
+        "description": "Fabricación de Escudo de Defensa"
+    },
+    "scjaa": {
+        "name": "Fabricación de Escudo de Defensa",
+        "p": "Fabricación de Tobillera Avanzada",
+        "description": "Fabricación de Tobillera Avanzada"
+    },
+    "scjba": {
+        "name": "Fabricación de Tobillera Avanzada ",
+        "p": "Fabricación de Brazalete Avanzado",
+        "description": "Fabricación de Brazalete Avanzado "
+    },
+    "scjda": {
+        "name": "Fabricación de Brazalete Avanzado ",
+        "p": "Fabricación de Diadema Avanzada",
+        "description": "Fabricación de Diadema Avanzada"
+    },
+    "scjea": {
+        "name": "Fabricación de Diadema Avanzada",
+        "p": "Fabricación de Aretes Avanzada",
+        "description": "Fabricación de Aretes Avanzada"
+    },
+    "scjpa": {
+        "name": "Fabricación de Aretes Avanzada",
+        "p": "Fabricación de Pendiente Avanzada",
+        "description": "Fabricación de Pendiente Avanzada"
+    },
+    "scjra": {
+        "name": "Fabricación de Pendiente Avanzada",
+        "p": "Fabricación de Anillo Avanzada",
+        "description": "Fabricación de Anillo Avanzada"
+    },
+    "scm1m": {
+        "name": "Fabricación de Anillo Avanzada",
+        "p": "Fabricación de Mazo",
+        "description": "Fabricación de Mazo "
+    },
+    "scm1t": {
+        "name": "Fabricación de Mazo ",
+        "p": "Fabricación de Palo",
+        "description": "Fabricación de Palo"
+    },
+    "scm1p": {
+        "name": "Fabricación de Palo",
+        "p": "Fabricación de Lanza",
+        "description": "Fabricación de Lanza"
+    },
+    "scm1a": {
+        "name": "Fabricación de Lanza",
+        "p": "Fabricación de Hacha",
+        "description": "Fabricación de Hacha"
+    },
+    "scm1s": {
+        "name": "Fabricación de Hacha",
+        "p": "Fabricación de Espada",
+        "description": "Fabricación de Espada"
+    },
+    "scm1d": {
+        "name": "Fabricación de Espada",
+        "p": "Fabricación de Daga",
+        "description": "Fabricación de Daga"
+    },
+    "scm2m": {
+        "name": "Fabricación de Daga",
+        "p": "Fabricación de Mazo para Dos Manos",
+        "description": "Fabricación de Mazo para Dos Manos"
+    },
+    "scm2p": {
+        "name": "Fabricación de Mazo para Dos Manos",
+        "p": "Fabricación de Pico",
+        "description": "Fabricación de Pico"
+    },
+    "scm2a": {
+        "name": "Fabricación de Pico ",
+        "p": "Fabricación de Hacha para Dos Manos",
+        "description": "Fabricación de Hacha para Dos Manos"
+    },
+    "scm2s": {
+        "name": "Fabricación de Hacha para Dos Manos",
+        "p": "Fabricación de Espada para Dos Manos",
+        "description": "Fabricación de Espada para Dos Manos"
+    },
+    "scr1b": {
+        "name": "Fabricación de Espada para Dos Manos",
+        "p": "Fabricación de Pistola de Arco",
+        "description": "Fabricación de Pistola de Arco"
+    },
+    "scr1p": {
+        "name": "Fabricación de Pistola de Arco ",
+        "p": "Fabricación de Pistola",
+        "description": "Fabricación de Pistola"
+    },
+    "scr2a": {
+        "name": "Fabricación de Pistola",
+        "p": "Fabricación de Autolanzador",
+        "description": "Fabricación de Autolanzador"
+    },
+    "scr2b": {
+        "name": "Fabricación de Autolanzador",
+        "p": "Fabricación de Rifle de Arco",
+        "description": "Fabricación de Rifle de Arco "
+    },
+    "scr2l": {
+        "name": "Fabricación de Rifle de Arco",
+        "p": "Fabricación de Lanzador",
+        "description": "Fabricación de Lanzador"
+    },
+    "scr2r": {
+        "name": "Fabricación de Lanzador",
+        "p": "Fabricación de Rifle",
+        "description": "Fabricación de Rifle"
+    },
+    "scahbe": {
+        "name": "Fabricación de Rifle",
+        "p": "Experto en Fabricación de Botas Pesadas",
+        "description": "Experto en Fabricación de Botas Pesadas"
+    },
+    "scahge": {
+        "name": "Experto en Fabricación de Botas Pesadas",
+        "p": "Experto en Fabricación de Guantes Pesados",
+        "description": "Experto en Fabricación de Guantes Pesados"
+    },
+    "scahhe": {
+        "name": "Experto en Fabricación de Guantes Pesados",
+        "p": "Experto en la Fabricación de Casco Pesado ",
+        "description": "Experto en la Fabricación de Casco Pesado"
+    },
+    "scahpe": {
+        "name": "Experto en la Fabricación de Casco Pesado",
+        "p": "Experto en la Fabricación de Pantalones Pesados",
+        "description": "Experto en la Fabricación de Pantalones Pesados"
+    },
+    "scahse": {
+        "name": "Experto en la Fabricación de Pantalones Pesados",
+        "p": "Experto en la Fabricación de Mangas Pesadas",
+        "description": "Experto en la Fabricación de Mangas Pesadas"
+    },
+    "scahve": {
+        "name": "Experto en la Fabricación de Mangas Pesadas",
+        "p": "Experto en la Fabricación de Chaleco Pesado",
+        "description": "Experto en la Fabricación de Chalecos Pesados"
+    },
+    "scalbe": {
+        "name": "Experto en la Fabricación de Chaleco Pesado ",
+        "p": "Experto en la Fabricación de Botas Livianas",
+        "description": "Experto en la Fabricación de Botas Livianas"
+    },
+    "scalge": {
+        "name": "Experto en la Fabricación de Botas Livianas",
+        "p": "Experto en la Fabricación de Guantes Livianos",
+        "description": "Experto en la Fabricación de Guantes Livianos"
+    },
+    "scalpe": {
+        "name": "Experto en la Fabricación de Guantes Livianos",
+        "p": "Experto en la Fabricación de Pantalones Livianos",
+        "description": "Experto en la Fabricación de Pantalones Livianos"
+    },
+    "scalse": {
+        "name": "Experto en la Fabricación de Pantalones Livianos",
+        "p": "Experto en la Fabricación de Mangas Livianas",
+        "description": "Experto en la Fabricación de Mangas Livianas"
+    },
+    "scalve": {
+        "name": "Experto en la Fabricación de Mangas Livianas",
+        "p": "Experto en la Fabricación de Chaleco Liviano",
+        "description": "Experto en la Fabricación de Chaleco Liviano"
+    },
+    "scambe": {
+        "name": "Experto en la Fabricación de Chaleco Liviano",
+        "p": "Experto en la Fabricación de Botas Medianas",
+        "description": "Experto en la Fabricación de Botas Medianas"
+    },
+    "scamge": {
+        "name": "Experto en la Fabricación de Botas Medianas",
+        "p": "Experto en la Fabricación de Guantes Medianos",
+        "description": "Experto en la Fabricación de Guantes Medianos"
+    },
+    "scampe": {
+        "name": "Experto en la Fabricación de Guantes Medianos",
+        "p": "Experto en la Fabricación de Pantalones Medianos",
+        "description": "Experto en la Fabricación de Pantalones Medianos"
+    },
+    "scamse": {
+        "name": "Experto en la Fabricación de Pantalones Medianos",
+        "p": "Experto en la Fabricación de Mangas Medianas",
+        "description": "Experto en la Fabricación de Mangas Medianas"
+    },
+    "scamve": {
+        "name": "Experto en la Fabricación de Mangas Medianas",
+        "p": "Experto en la Fabricación de Chaleco Mediano",
+        "description": "Experto en la Fabricación de Chaleco Mediano"
+    },
+    "scasse": {
+        "name": "Experto en la Fabricación de Chaleco Mediano",
+        "p": "Experto en la Fabricación de Escudo",
+        "description": "Experto en la Fabricación de Escudo"
+    },
+    "scasbe": {
+        "name": "Experto en la Fabricación de Escudo",
+        "p": "Experto en la Fabricación de Escudo Protector",
+        "description": "Experto en la Fabricación de Escudo Protector "
+    },
+    "scjaae": {
+        "name": "Experto en la Fabricación de Escudo Protector",
+        "p": "Experto en la Fabricación de Tobillera",
+        "description": "Experto en la Fabricación de Tobillera"
+    },
+    "scjbae": {
+        "name": "Experto en la Fabricación de Tobillera",
+        "p": "Experto en la Fabricación de Brazalete",
+        "description": "Experto en la Fabricación de Brazalete"
+    },
+    "scjdae": {
+        "name": "Experto en la Fabricación de Brazalete",
+        "p": "Experto en la Fabricación de Diademas",
+        "description": "Experto en la Fabricación de Diademas"
+    },
+    "scjeae": {
+        "name": "Experto en la Fabricación de Diademas",
+        "p": "Experto en la Fabricación de Aretes",
+        "description": "Experto en la Fabricación de Aretes"
+    },
+    "scjpae": {
+        "name": "Espero en la Fabricación de Aretes",
+        "p": "Experto en la Fabricación de Pendiente",
+        "description": "Experto en la Fabricación de Pendiente "
+    },
+    "scjrae": {
+        "name": "Expero en la Fabricación de Pendiente",
+        "p": "Experto en la Fabricación de Anillo",
+        "description": "Experto en la Fabricación de Anillo"
+    },
+    "scm1me": {
+        "name": "Experto en la Fabricación de Anillo",
+        "p": "Experto en la Fabricación de Mazo",
+        "description": "Experto en la Fabricación de Mazo"
+    },
+    "scm1te": {
+        "name": "Experto en la Fabricación de Mazo",
+        "p": "Experto en la Fabricación de Palo",
+        "description": "Experto en la Fabricación de Palo"
+    },
+    "scm1pe": {
+        "name": "Experto en la Fabricación de Palo",
+        "p": "Experto en la Fabricación de Lanza",
+        "description": "Experto en la Fabricación de Lanza"
+    },
+    "scm1ae": {
+        "name": "Experto en la Fabricación de Lanza",
+        "p": "Experto en la Fabricación de Hacha",
+        "description": "Experto en la Fabricación de Hacha"
+    },
+    "scm1se": {
+        "name": "Experto en la Fabricación de Hacha",
+        "p": "Experto en la Fabricación de Espada",
+        "description": "Experto en la Fabricación de Espada"
+    },
+    "scm1de": {
+        "name": "Experto en la Fabricación de Espada",
+        "p": "Experto en la Fabricación de Daga",
+        "description": "Experto en la Fabricación de Daga"
+    },
+    "scm2me": {
+        "name": "Experto en la Fabricación de Daga",
+        "p": "Experto en la Fabricación de Mazo para Dos Manos",
+        "description": "Experto en la Fabricación de Mazo para Dos Manos"
+    },
+    "scm2pe": {
+        "name": "Experto en la Fabricación de Mazo para Dos Manos",
+        "p": "Experto en la Fabricación de Pico",
+        "description": "Experto en la Fabricación de Pico"
+    },
+    "scm2ae": {
+        "name": "Experto en la Fabricación de Pico",
+        "p": "Experto en la Fabricación de Hacha para Dos Manos",
+        "description": "Experto en la Fabricación de Hacha para Dos Manos"
+    },
+    "scm2se": {
+        "name": "Experto en la Fabricación de Hacha para Dos Manos",
+        "p": "Experto en la Fabricación de Espada para Dos Manos",
+        "description": "Experto en la Fabricación de Espada para Dos Manos"
+    },
+    "scr1be": {
+        "name": "Experto en la Fabricación de Espada para Dos Manos",
+        "p": "Experto en la Fabricación de Pistola de Arco",
+        "description": "Experto en le Fabricación de Pistola de Arco"
+    },
+    "scr1pe": {
+        "name": "Experto en la Fabricación de Pistola de Arco",
+        "p": "Experto en la Fabricación de Pistola",
+        "description": "Experto en la Fabricación de Pistola"
+    },
+    "scr2ae": {
+        "name": "Experto en la Fabricación de Pistola",
+        "p": "Experto en la Fabricación de Autolanzador",
+        "description": "Experto en la Fabricación de Autolanzador"
+    },
+    "scr2be": {
+        "name": "Experto en la Fabricación de Autolanzador",
+        "p": "Experto en la Fabricación de Rifle de Arco",
+        "description": "Experto en la Fabricación de Rifle de Arco"
+    },
+    "scr2le": {
+        "name": "Experto en la Fabricación de Rifle de Arco",
+        "p": "Experto en la Fabricación de Autolanzador",
+        "description": "Experto en la Fabricación de Autolanzador"
+    },
+    "scr2re": {
+        "name": "Experto en la Fabricación de Autolanzador",
+        "p": "Experto en la Fabricación de Rifle",
+        "description": "Experto en la Fabricación de Rifle"
+    },
+    "scahbem": {
+        "name": "Experto en la Fabricación de Rifle",
+        "p": "Maestro en la Fabricación de Botas Pesadas",
+        "description": "Maestro en la Fabricación de Botas Pesadas"
+    },
+    "scahgem": {
+        "name": "Maestro en la Fabricación de Botas Pesadas",
+        "p": "Maestro en la Fabricación de Guantes Pesados",
+        "description": "Maestro en el Fabricación de Guantes Pesados"
+    },
+    "scahhem": {
+        "name": "Maestro en la Fabricación de Guantes Pesados",
+        "p": "Maestro en la Fabricación de Casco Pesado",
+        "description": "Maestro en la Fabricación de Casco Pesado"
+    },
+    "scahpem": {
+        "name": "Maestro en la Fabricación de Casco Pesado",
+        "p": "Maestro en la Fabricación de Pantalones Pesados",
+        "description": "Maestro en la Fabricación de Pantalones Pesados"
+    },
+    "scahsem": {
+        "name": "Maestro en la Fabricación de Pantalones Pesados ",
+        "p": "Maestro en la Fabricación de Mangas Pesadas",
+        "description": "Maestro en la Fabricación de Mangas Pesadas"
+    },
+    "scahvem": {
+        "name": "Maestro en la Fabricación de Mangas Pesadas",
+        "p": "Maestro en la Fabricación de Chalecos Pesados",
+        "description": "Maestro en la Fabricación de Chaleco Pesado"
+    },
+    "scalbem": {
+        "name": "Maestro en la Fabricación de Chaleco Pesado",
+        "p": "Maestro en la Fabricación de Botas Livianas",
+        "description": "Maestro en la Fabricación de Botas Livianas"
+    },
+    "scalgem": {
+        "name": "Maestro en la Fabricación de Botas Livianas",
+        "p": "Maestro en la Fabricación de Guantes Livianos",
+        "description": "Maestro en la Fabricación de Guantes Livianos"
+    },
+    "scalpem": {
+        "name": "Maestro en la Fabricación de Guantes Livianos",
+        "p": "Maestro en la Fabricación de Pantalones Livianos",
+        "description": "Maestro en la Fabricación de Pantalones Livianos"
+    },
+    "scalsem": {
+        "name": "Maestro en la Fabricación de Pantalones Livianos",
+        "p": "Maestro en la Fabricación de Mangas Livianas",
+        "description": "Maestro en la Fabricación de Mangas Livianas"
+    },
+    "scalvem": {
+        "name": "Maestro en la Fabricación de Mangas Livianas",
+        "p": "Maestro en la Fabricación de Chaleco Liviano",
+        "description": "Maestro en la Fabricación de Chaleco Liviano"
+    },
+    "scambem": {
+        "name": "Maestro en la Fabricación de Chaleco Liviano",
+        "p": "Maestro en la Fabricación de Botas Medianas",
+        "description": "Maestro en la Fabricación de Botas Medianas"
+    },
+    "scamgem": {
+        "name": "Maestro en la Fabricación de Botas Medianas",
+        "p": "Maestro en la Fabricación de Guantes Medianos",
+        "description": "Maestro en la Fabricación de Guantes Medianos"
+    },
+    "scampem": {
+        "name": "Maestro en la Fabricación de Guantes Medianos",
+        "p": "Maestro en la Fabricación de Pantalones Medianos",
+        "description": "Maestro en la Fabricación de Pantalones Medianos"
+    },
+    "scamsem": {
+        "name": "Maestro en la Fabricación de Pantalones Medianos",
+        "p": "Maestro en la Fabricación de Mangas Medianas",
+        "description": "Maestro en la Fabricación de Mangas Medianas"
+    },
+    "scamvem": {
+        "name": "Maestro en la Fabricación de Mangas Medianas",
+        "p": "Maestro en la Fabricación de Chalecos Medianos",
+        "description": "Maestro en la Fabricación de Chaleco Mediano"
+    },
+    "scassem": {
+        "name": "Maestro en la Fabricación de Chaleco Mediano",
+        "p": "Maestro en la Fabricación de Escudo Mediano",
+        "description": "Maestro en la Fabricación de Escudo"
+    },
+    "scasbem": {
+        "name": "Maestro en la Fabricación de Escudo",
+        "p": "Maestro en la Fabricación de Escudo de Protección ",
+        "description": "Maestro e la Fabricación de Escudo de Protección "
+    },
+    "scjaaem": {
+        "name": "Maestro en la Fabricación de Escudo de Protección ",
+        "p": "Maestro en la Fabricación de Tobillera",
+        "description": "Maestro en la Fabricación de Tobillera"
+    },
+    "scjbaem": {
+        "name": "Maestro en la Fabricación de Tobillera",
+        "p": "Maestro e la Fabricación de Brazalete",
+        "description": "Maestro e la Fabricación de Brazalete"
+    },
+    "scjdaem": {
+        "name": "Maestro en la Fabricación de Brazalete",
+        "p": "Maestro en la Fabricación de Diadema",
+        "description": "Maestro en la Fabricación de Diadema"
+    },
+    "scjeaem": {
+        "name": "Maestro en la Fabricación de Diadema",
+        "p": "Maestro en la Fabricación de Aretes",
+        "description": "Maestro en la Fabricación de Aretes"
+    },
+    "scjpaem": {
+        "name": "Maestro en la Fabricación de Aretes",
+        "p": "Maestro en la Fabricación de Pendientes",
+        "description": "Maestro en la Fabricación de Pendientes"
+    },
+    "scjraem": {
+        "name": "Maestro en la Fabricación de Pendientes",
+        "p": "Maestro en la Fabricación de Anillos",
+        "description": "Maestro en la Fabricación de Anillos"
+    },
+    "scm1mem": {
+        "name": "Maestro en la Fabricación de Anillo",
+        "p": "Maestro en la Fabricación de Mazo",
+        "description": "Maestro en la Fabricación de Mazo"
+    },
+    "scm1tem": {
+        "name": "Maestro en la Fabricación de Mazo",
+        "p": "Maestro en la Fabricación de Mazo",
+        "description": "Maestro en la Fabricación de Palo"
+    },
+    "scm1pem": {
+        "name": "Maestro en la Fabricación de Palo",
+        "p": "Maestro en la Fabricación de Lanza",
+        "description": "Maestro en la Fabricación de Lanza"
+    },
+    "scm1aem": {
+        "name": "Maestro en la Fabricación de Lanza",
+        "p": "Maestro en la Fabricación de Hacha",
+        "description": "Maestro en la Fabricación de Hacha"
+    },
+    "scm1sem": {
+        "name": "Maestro en la Fabricación de Hacha",
+        "p": "Maestro en la Fabricación de Espada",
+        "description": "Maestro en la Fabricación de Espada"
+    },
+    "scm1dem": {
+        "name": "Maestro en la Fabricación de Espada",
+        "p": "Maestro en la Fabricación de Daga",
+        "description": "Maestro en la Fabricación de Daga"
+    },
+    "scm2mem": {
+        "name": "Maestro en la Fabricación de Daga",
+        "p": "Maestro en la Fabricación de Mazo para Dos Manos",
+        "description": "Maestro en la Fabricación de Mazo para Dos Manos"
+    },
+    "scm2pem": {
+        "name": "Maestro en la Fabricación de Mazo para Dos Manos",
+        "p": "Maestro en la Fabricación de Pico",
+        "description": "Maestro en la Fabricación de Pico"
+    },
+    "scm2aem": {
+        "name": "Maestro en la Fabricación de Pico ",
+        "p": "Maestro en la Fabricación de Hacha para Dos Manos",
+        "description": "Maestro en la Fabricación de Hacha para Dos Manos"
+    },
+    "scm2sem": {
+        "name": "Maestro en la Fabricación de Hacha para Dos Manos",
+        "p": "Maestro en la Fabricación de Espada para Dos Manos",
+        "description": "Maestro en la Fabricación de Espada para Dos Manos"
+    },
+    "scr1bem": {
+        "name": "Maestro en la Fabricación de Espada para Dos Manos",
+        "p": "Maestro e la Fabricación de Pistola de Arco",
+        "description": "Maestro en la Fabricación de Pistola de Arco"
+    },
+    "scr1pem": {
+        "name": "Maestro en la Fabricación de Pistola de Arco ",
+        "p": "Maestro en la Fabricación de Pistola de Arco",
+        "description": "Maestro en la Fabricación de Pistola"
+    },
+    "scr2aem": {
+        "name": "Maestro en la Fabricación de Pistola",
+        "p": "Maestro en la Fabricación de Autolanzador",
+        "description": "Maestro en la Fabricación de Autolanzador"
+    },
+    "scr2bem": {
+        "name": "Maestro en la Fabricación de Autolanzadores",
+        "p": "Maestro en la Fabricación de Rifle de Arco",
+        "description": "Maestro en la Fabricacion de Rifle de Arco"
+    },
+    "scr2lem": {
+        "name": "Maestro en la Fabricación de Rifle de Arco",
+        "p": "Maestro en la Fabricación de Lanzador",
+        "description": "Maestro en la Fabricación de Lanzador"
+    },
+    "scr2rem": {
+        "name": "Maestro en la Fabricación de Lanzador",
+        "p": "Maestro en la Fabricación de Rifle",
+        "description": "Maestro en la Fabricación de Rifle"
+    },
+    "scmc": {
+        "name": "Maestro en la Fabricación de Rifle ",
+        "p": "Fabricación de Armas de Combate Cerrado (Cuerpo a Cuerpo)",
+        "description": "Fabricación de Armas de Combate Cerrado (Cuerpo a Cuerpo)"
+    },
+    "scmca": {
+        "name": "Fabricación de Armas de Combate Cerrado (Cuerpo a Cuerpo)",
+        "p": "Fabricación de Amplificador Mágico Avanzado",
+        "description": "Fabricación de Amplificador Mágico Avanzado"
+    },
+    "scmcae": {
+        "name": "Fabricación de Amplificador Mágico Avanzado",
+        "p": "Experto en la Fabricación de Amplificador Mágico",
+        "description": "Experto en la Fabricación de Amplificador Mágico"
+    },
+    "scmcaem": {
+        "name": "Experto en la Fabricación de Amplificador Mágico",
+        "p": "Maestro en la Fabricación de Amplificador Mágico",
+        "description": "Maestro en la Fabricación de Amplificador Mágico"
+    }
+}

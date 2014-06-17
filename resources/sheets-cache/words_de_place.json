@@ -1,0 +1,2465 @@
+{
+    "region_majesticgarden": {
+        "name": "Majestätischer Garten"
+    },
+    "region_fleetinggarden": {
+        "name": "Vergänglicher Garten"
+    },
+    "region_groveofconfusion": {
+        "name": "Hain der Verwirrung"
+    },
+    "region_hiddensource": {
+        "name": "Versteckte Quelle"
+    },
+    "region_knollofdissent": {
+        "name": "Hügel der Abtrünnigen"
+    },
+    "region_upperbog": {
+        "name": "Oberer Sumpf"
+    },
+    "region_hereticshovel": {
+        "name": "Ketzers Hütte"
+    },
+    "place_yrkanis": {
+        "name": "Yrkanis"
+    },
+    "place_davae": {
+        "name": "Davae"
+    },
+    "place_natae": {
+        "name": "Natae"
+    },
+    "place_arena": {
+        "name": "Arena"
+    },
+    "place_avalae": {
+        "name": "Avalae"
+    },
+    "continent_matis": {
+        "name": "Grüne Anhöhen"
+    },
+    "region_nland": {
+        "name": "Matisianischer Forst"
+    },
+    "matis_nland": {
+        "name": "Matis-Insel"
+    },
+    "place_stalli": {
+        "name": "Stalli"
+    },
+    "place_borea": {
+        "name": "Borea"
+    },
+    "place_nistia": {
+        "name": "Nistia"
+    },
+    "place_rosilio": {
+        "name": "Rosilio"
+    },
+    "place_miani": {
+        "name": "Miani"
+    },
+    "region_nexus": {
+        "name": "Nexus"
+    },
+    "continent_nexus": {
+        "name": "Kleiner Nexus"
+    },
+    "region_the_under_spring": {
+        "name": "Verbotene Quellen"
+    },
+    "continent_sources": {
+        "name": "Verbotene Quellen"
+    },
+    "region_the_abyss_of_ichor": {
+        "name": "Abgrund von Ichor"
+    },
+    "continent_bagne": {
+        "name": "Abgrund von Ichor"
+    },
+    "region_the_land_of_continuty": {
+        "name": "Land der Kontinuität"
+    },
+    "region_the_sunken_city": {
+        "name": "Versunkene Stadt"
+    },
+    "region_forbidden_depths": {
+        "name": "Verbotene Tiefen"
+    },
+    "continent_terre": {
+        "name": "Niemandsland"
+    },
+    "region_the_windy_gate": {
+        "name": "Pforte des Sturms"
+    },
+    "region_gate_of_obscurity": {
+        "name": "Tor der Dunkelheit"
+    },
+    "region_the_trench_of_trials": {
+        "name": "Graben der Heimsuchung"
+    },
+    "region_the_elusive_forest": {
+        "name": "Unergründlicher Wald"
+    },
+    "continent_route_gouffre": {
+        "name": "Länder von Umbra"
+    },
+    "region_citiesofintuition": {
+        "name": "Städte der Einsicht"
+    },
+    "region_maidengrove": {
+        "name": "Jungfräuliches Wäldchen"
+    },
+    "region_havenofpurity": {
+        "name": "Hafen der Reinheit"
+    },
+    "region_groveofumbra": {
+        "name": "Hain von Umbra"
+    },
+    "region_knotofdementia": {
+        "name": "Knoten der Demenz"
+    },
+    "region_thevoid": {
+        "name": "Das Nichts"
+    },
+    "place_zora": {
+        "name": "Zora"
+    },
+    "place_jen_lai": {
+        "name": "Jen-Laï"
+    },
+    "place_min_cho": {
+        "name": "Min-Cho"
+    },
+    "place_hoi_cho": {
+        "name": "Hoï-Cho"
+    },
+    "continent_zorai": {
+        "name": "Verdorrende Lande"
+    },
+    "zorai_nland": {
+        "name": "Zorai-Insel"
+    },
+    "place_qai_lo": {
+        "name": "Qaï Lo"
+    },
+    "place_men_xing": {
+        "name": "Nen Xing"
+    },
+    "place_sheng_wo": {
+        "name": "Sheng Wo"
+    },
+    "place_koi_zun": {
+        "name": "Koï Zun"
+    },
+    "place_yin_piang": {
+        "name": "Yin Piang"
+    },
+    "region_imperialdunes": {
+        "name": "Imperiale Dünen"
+    },
+    "region_oflovaksoasis": {
+        "name": "Oflovaks Oase"
+    },
+    "region_sawdustmines": {
+        "name": "Sägemehlminen"
+    },
+    "region_frahartowers": {
+        "name": "Frahar-Türme"
+    },
+    "region_thesavagedunes": {
+        "name": "Wilde Dünen"
+    },
+    "region_dunesofexil": {
+        "name": "Dünen der Verbannung"
+    },
+    "region_outlawcanyon": {
+        "name": "Canyon der Gesetzlosen"
+    },
+    "region_thescorchedcorridor": {
+        "name": "Sengende Schlucht"
+    },
+    "place_pyr": {
+        "name": "Pyr"
+    },
+    "place_thesos": {
+        "name": "Thesos"
+    },
+    "place_dyron": {
+        "name": "Dyron"
+    },
+    "continent_fyros": {
+        "name": "Brennende Wüste"
+    },
+    "continent_fyros_newbie": {
+        "name": "Brennende Wüste"
+    },
+    "fyros_nland": {
+        "name": "Fyros-Insel"
+    },
+    "place_aegus": {
+        "name": "Aegus"
+    },
+    "place_kaemon": {
+        "name": "Kaemon"
+    },
+    "place_sekovix": {
+        "name": "Sekovix"
+    },
+    "place_phyxon": {
+        "name": "Phyxon"
+    },
+    "place_galemus": {
+        "name": "Galemus"
+    },
+    "region_libertylake": {
+        "name": "See der Freiheit"
+    },
+    "region_dewdrops": {
+        "name": "Tautropfen"
+    },
+    "region_restingwater": {
+        "name": "Ruhiges Wasser"
+    },
+    "region_windsofmuse": {
+        "name": "Winde der Musen"
+    },
+    "region_thefount": {
+        "name": "Ursprung"
+    },
+    "region_bountybeaches": {
+        "name": "Strände des Überflusses"
+    },
+    "region_enchantedisle": {
+        "name": "Verzauberte Insel"
+    },
+    "region_lagoonsofloria": {
+        "name": "Lagunen von Loria"
+    },
+    "place_fairhaven": {
+        "name": "Fairhaven"
+    },
+    "place_avendale": {
+        "name": "Avendale"
+    },
+    "place_crystabell": {
+        "name": "Crystabell"
+    },
+    "place_windermeer": {
+        "name": "Windermeer"
+    },
+    "continent_tryker": {
+        "name": "Aeden Aqueous"
+    },
+    "continent_tryker_newbie": {
+        "name": "Aeden Aqueous"
+    },
+    "tryker_nland": {
+        "name": "Tryker-Insel"
+    },
+    "place_aubermouth": {
+        "name": "Aubermouth"
+    },
+    "place_barkdell": {
+        "name": "Barkdell"
+    },
+    "place_hobwelly": {
+        "name": "Hobwelly"
+    },
+    "place_waverton": {
+        "name": "Waverton"
+    },
+    "place_dingleton": {
+        "name": "Dingleton"
+    },
+    "guild_hall": {
+        "name": "Gildenhalle"
+    },
+    "guild_council": {
+        "name": "Gildenrat"
+    },
+    "guild_rm_fight": {
+        "name": "Gilden-Kampflehrer"
+    },
+    "guild_rm_magic": {
+        "name": "Gilden-Magielehrer"
+    },
+    "guild_rm_harvest": {
+        "name": "Gilden-Rohstoffabbaulehrer"
+    },
+    "guild_rm_craft": {
+        "name": "Gilden-Handwerkslehrer"
+    },
+    "player_room": {
+        "name": "Spielerraum"
+    },
+    "exit": {
+        "name": "Ausgang"
+    },
+    "place_lieudit_majesticgarden_1": {
+        "name": "Psykopla-Hügel"
+    },
+    "place_lieudit_majesticgarden_2": {
+        "name": "Matis-Arena"
+    },
+    "place_lieudit_majesticgarden_3": {
+        "name": "Weg der Charmeure"
+    },
+    "place_lieudit_fleetinggarden_1": {
+        "name": "Kami-Kreis"
+    },
+    "place_lieudit_fleetinggarden_2": {
+        "name": "Der Hort"
+    },
+    "place_lieudit_fleetinggarden_3": {
+        "name": "Höhle des Zorns"
+    },
+    "place_lieudit_fleetinggarden_4": {
+        "name": "Erhebung"
+    },
+    "place_lieudit_knollofdissent_1": {
+        "name": "Unglückstunnel"
+    },
+    "place_lieudit_knollofdissent_2": {
+        "name": "Gebirgspass"
+    },
+    "place_lieudit_knollofdissent_3": {
+        "name": "Turmbrückenweg"
+    },
+    "place_lieudit_knollofdissent_4": {
+        "name": "Anhöhe der Torbaks"
+    },
+    "place_lieudit_knollofdissent_5": {
+        "name": "Todesbaum"
+    },
+    "place_lieudit_knollofdissent_6": {
+        "name": "Berg der Pein"
+    },
+    "place_lieudit_upperbog_1": {
+        "name": "Moorteiche"
+    },
+    "place_lieudit_upperbog_2": {
+        "name": "gefürchteter Sumpf"
+    },
+    "place_lieudit_upperbog_3": {
+        "name": "Dämonenmoor"
+    },
+    "place_lieudit_upperbog_4": {
+        "name": "schwieriger Pfad"
+    },
+    "place_lieudit_hereticshovel_1": {
+        "name": "Geisterlabyrinth"
+    },
+    "place_lieudit_hereticshovel_2": {
+        "name": "Sumpf der Angst"
+    },
+    "place_lieudit_hereticshovel_3": {
+        "name": "Wasserfall der zwei Totems"
+    },
+    "place_lieudit_hereticshovel_4": {
+        "name": "Ebene der Torheit"
+    },
+    "place_lieudit_hiddensource_1": {
+        "name": "kleiner Berg"
+    },
+    "place_lieudit_hiddensource_2": {
+        "name": "Virginia-Wasserfall"
+    },
+    "place_lieudit_hiddensource_3": {
+        "name": "Tylini-Pforte"
+    },
+    "place_lieudit_groveofconfusion_1": {
+        "name": "Kapwald"
+    },
+    "place_lieudit_groveofconfusion_2": {
+        "name": "Ostwaldpforte"
+    },
+    "place_lieudit_groveofconfusion_3": {
+        "name": "Westwaldpforte"
+    },
+    "place_lieudit_groveofconfusion_4": {
+        "name": "Hochwald"
+    },
+    "place_lieudit_citiesofintuition_1": {
+        "name": "Stille Wasser"
+    },
+    "place_lieudit_citiesofintuition_2": {
+        "name": "moosige Böschung"
+    },
+    "place_lieudit_citiesofintuition_3": {
+        "name": "Mektoub-Wasserloch"
+    },
+    "place_lieudit_citiesofintuition_4": {
+        "name": "mystischer Wasserfall"
+    },
+    "place_lieudit_maidengrove_1": {
+        "name": "Tal der Palmen"
+    },
+    "place_lieudit_maidengrove_2": {
+        "name": "Jungfernteich"
+    },
+    "place_lieudit_maidengrove_3": {
+        "name": "Sklavenwald"
+    },
+    "place_lieudit_maidengrove_4": {
+        "name": "Vogelsee"
+    },
+    "place_lieudit_maidengrove_5": {
+        "name": "Großer Brocken-Tunnel"
+    },
+    "place_lieudit_havenofpurity_1": {
+        "name": "Hornberg"
+    },
+    "place_lieudit_havenofpurity_2": {
+        "name": "Stinkender See"
+    },
+    "place_lieudit_havenofpurity_3": {
+        "name": "Kincherbogen"
+    },
+    "place_lieudit_groveofumbra_1": {
+        "name": "Kap der Kipees"
+    },
+    "place_lieudit_groveofumbra_2": {
+        "name": "Verborgener See"
+    },
+    "place_lieudit_groveofumbra_3": {
+        "name": "Wölbung"
+    },
+    "place_lieudit_groveofumbra_4": {
+        "name": "Verdorrter Stamm"
+    },
+    "place_lieudit_knotofdementia_1": {
+        "name": "Großes Buschland"
+    },
+    "place_lieudit_knotofdementia_2": {
+        "name": "Trockener Stamm"
+    },
+    "place_lieudit_knotofdementia_3": {
+        "name": "Fleckenmoor"
+    },
+    "place_lieudit_knotofdementia_4": {
+        "name": "Fleckenmoorpforte"
+    },
+    "place_lieudit_knotofdementia_5": {
+        "name": "Hochland-Pass"
+    },
+    "place_lieudit_knotofdementia_6": {
+        "name": "Tal der Hoffnung"
+    },
+    "place_lieudit_thevoid_1": {
+        "name": "Stamm der Aussicht"
+    },
+    "place_lieudit_thevoid_2": {
+        "name": "Das verlorene Tal"
+    },
+    "place_lieudit_thevoid_3": {
+        "name": "Kap der Verzweiflung"
+    },
+    "place_lieudit_imperialdunes_1": {
+        "name": "Herrscherebene"
+    },
+    "place_lieudit_imperialdunes_2": {
+        "name": "Vier Wege"
+    },
+    "place_lieudit_imperialdunes_3": {
+        "name": "Schluchtenpass"
+    },
+    "place_lieudit_oflovaksoasis_1": {
+        "name": "Oasenspalte"
+    },
+    "place_lieudit_oflovaksoasis_2": {
+        "name": "Clopperhügel"
+    },
+    "place_lieudit_oflovaksoasis_3": {
+        "name": "Mittlere Gipfel"
+    },
+    "place_lieudit_oflovaksoasis_4": {
+        "name": "Rindenriss"
+    },
+    "place_lieudit_oflovaksoasis_5": {
+        "name": "Weg des verbrannten Waldes"
+    },
+    "place_lieudit_sawdustmines_1": {
+        "name": "Der Untergang"
+    },
+    "place_lieudit_sawdustmines_2": {
+        "name": "Hohes Riff"
+    },
+    "place_lieudit_sawdustmines_3": {
+        "name": "Rindendünen"
+    },
+    "place_lieudit_sawdustmines_4": {
+        "name": "Varinx-Hänge"
+    },
+    "place_lieudit_sawdustmines_5": {
+        "name": "Wildes Wasser"
+    },
+    "place_lieudit_frahartowers_1": {
+        "name": "Einsamer Pass"
+    },
+    "place_lieudit_frahartowers_2": {
+        "name": "Die enorme Weite"
+    },
+    "place_lieudit_frahartowers_3": {
+        "name": "Hochtürme"
+    },
+    "place_lieudit_thesavagedunes_1": {
+        "name": "Schlucht der Asche"
+    },
+    "place_lieudit_thesavagedunes_2": {
+        "name": "Thesos-Quelle"
+    },
+    "place_lieudit_thesavagedunes_3": {
+        "name": "Thesos-Flussbett"
+    },
+    "place_lieudit_thesavagedunes_4": {
+        "name": "Südliche Hügelkette"
+    },
+    "place_lieudit_thesavagedunes_5": {
+        "name": "Thesos-Wasserfallpforte"
+    },
+    "place_lieudit_thesavagedunes_6": {
+        "name": "Kipucka-Ebene"
+    },
+    "place_lieudit_dunesofexile_1": {
+        "name": "Dyron-Anhöhe"
+    },
+    "place_lieudit_dunesofexile_2": {
+        "name": "Drachenschwanz"
+    },
+    "place_lieudit_dunesofexile_3": {
+        "name": "Malmont"
+    },
+    "place_lieudit_dunesofexile_4": {
+        "name": "Ruinen von Mossok"
+    },
+    "place_lieudit_outlawcanyon_1": {
+        "name": "Stachel des Drachen"
+    },
+    "place_lieudit_outlawcanyon_2": {
+        "name": "Grat des Funkelnden Waldes"
+    },
+    "place_lieudit_outlawcanyon_3": {
+        "name": "Drachenschlund-Klamm"
+    },
+    "place_lieudit_thescorchedcorridor_1": {
+        "name": "Flammender Wald"
+    },
+    "place_lieudit_thescorchedcorridor_2": {
+        "name": "Varinx-Revier"
+    },
+    "place_lieudit_thescorchedcorridor_3": {
+        "name": "Geheime Kami-Oase"
+    },
+    "place_lieudit_libertylake_1": {
+        "name": "Schwarzmoor"
+    },
+    "place_lieudit_libertylake_2": {
+        "name": "Seeninsel"
+    },
+    "place_lieudit_libertylake_3": {
+        "name": "Dunkles Wasser"
+    },
+    "place_lieudit_windsofmuse_1": {
+        "name": "Verzauberte Bucht"
+    },
+    "place_lieudit_windsofmuse_2": {
+        "name": "See der Traumwächter"
+    },
+    "place_lieudit_windsofmuse_3": {
+        "name": "Schlafender Berg"
+    },
+    "place_lieudit_windsofmuse_4": {
+        "name": "Weg der Winde"
+    },
+    "place_lieudit_thefount_1": {
+        "name": "Verlassene Ebene"
+    },
+    "place_lieudit_thefount_2": {
+        "name": "Quellhalle"
+    },
+    "place_lieudit_thefount_3": {
+        "name": "Quellsee"
+    },
+    "place_lieudit_thefount_4": {
+        "name": "Seen des Südens"
+    },
+    "place_lieudit_thefount_5": {
+        "name": "Säulen der Besinnung"
+    },
+    "place_lieudit_bountybeaches_1": {
+        "name": "Tal der Torbaks"
+    },
+    "place_lieudit_bountybeaches_2": {
+        "name": "Cute-Quellsee"
+    },
+    "place_lieudit_bountybeaches_3": {
+        "name": "Sprudelnde Cute-Quellen"
+    },
+    "place_lieudit_bountybeaches_4": {
+        "name": "Tor zur Freiheit"
+    },
+    "place_lieudit_bountybeaches_5": {
+        "name": "Zwillingsgipfel"
+    },
+    "place_lieudit_bountybeaches_6": {
+        "name": "Spalte des Unfriedens"
+    },
+    "place_lieudit_enchantedisle_1": {
+        "name": "Brüchige Gipfel"
+    },
+    "place_lieudit_enchantedisle_2": {
+        "name": "Lagune des Driftens"
+    },
+    "place_lieudit_enchantedisle_3": {
+        "name": "Grässlicher Morast"
+    },
+    "place_lieudit_enchantedisle_4": {
+        "name": "Friedhofsweg"
+    },
+    "place_lieudit_enchantedisle_5": {
+        "name": "Verzauberter Kreis"
+    },
+    "place_lieudit_lagoonsofloria_1": {
+        "name": "Stürmische Schlucht"
+    },
+    "place_lieudit_lagoonsofloria_2": {
+        "name": "Großer See"
+    },
+    "place_lieudit_lagoonsofloria_3": {
+        "name": "Grube der Stille"
+    },
+    "place_lieudit_the_windy_gate_1": {
+        "name": "Ruinen von Leron"
+    },
+    "place_lieudit_the_windy_gate_2": {
+        "name": "Hallen des Schwarzen Rings"
+    },
+    "place_lieudit_the_windy_gate_3": {
+        "name": "Der gefallene Baum"
+    },
+    "place_lieudit_the_windy_gate_4": {
+        "name": "Säule der Sturmpforte"
+    },
+    "place_lieudit_gateofobscurity_1": {
+        "name": "Klippendurchgang"
+    },
+    "place_lieudit_gateofobscurity_2": {
+        "name": "Oberer Steinkreis"
+    },
+    "place_lieudit_gateofobscurity_3": {
+        "name": "Kleine Hügel"
+    },
+    "place_lieudit_gateofobscurity_4": {
+        "name": "Dunkler Schacht"
+    },
+    "place_lieudit_nexus_1": {
+        "name": "Die Muschel"
+    },
+    "place_lieudit_nexus_2": {
+        "name": "Schicksalsende"
+    },
+    "place_lieudit_nexus_3": {
+        "name": "Hammerhöhen"
+    },
+    "place_lieudit_nexus_4": {
+        "name": "Das verlassene Lager"
+    },
+    "place_lieudit_the_abyss_of_ichor_1": {
+        "name": "Heiliger Berg"
+    },
+    "place_lieudit_the_abyss_of_ichor_2": {
+        "name": "Sapquellen-Wacht"
+    },
+    "place_lieudit_the_abyss_of_ichor_3": {
+        "name": "Tempel der Verdammnis"
+    },
+    "place_lieudit_the_trench_of_trials_1": {
+        "name": "Schauriges Tal"
+    },
+    "place_lieudit_the_trench_of_trials_2": {
+        "name": "Yelkwäldchen"
+    },
+    "place_lieudit_the_trench_of_trials_3": {
+        "name": "Seltsames Ende"
+    },
+    "place_lieudit_the_elusive_forest_1": {
+        "name": "Land des Überflusses"
+    },
+    "place_lieudit_the_elusive_forest_2": {
+        "name": "Oberer Schacht"
+    },
+    "place_lieudit_the_elusive_forest_3": {
+        "name": "Unterholz des Unglücks"
+    },
+    "place_lieudit_the_elusive_forest_4": {
+        "name": "Höhlenpass"
+    },
+    "place_lieudit_the_elusive_forest_5": {
+        "name": "Dreitotempass"
+    },
+    "place_lieudit_the_elusive_forest_6": {
+        "name": "Riesenpilzpass"
+    },
+    "place_lieudit_the_under_spring_1": {
+        "name": "Grube des toten Baumes"
+    },
+    "place_lieudit_the_under_spring_2": {
+        "name": "Sapsumpf"
+    },
+    "place_lieudit_the_under_spring_3": {
+        "name": "Tückische Wasser"
+    },
+    "place_lieudit_the_under_spring_4": {
+        "name": "Ruinen von Tryde"
+    },
+    "place_lieudit_the_under_spring_5": {
+        "name": "Stechende Wiese"
+    },
+    "place_lieudit_the_land_of_continuity_1": {
+        "name": "Flügel der Feindschaft"
+    },
+    "place_lieudit_the_land_of_continuity_2": {
+        "name": "Großer Pilzwald"
+    },
+    "place_lieudit_the_land_of_continuity_3": {
+        "name": "Die verfluchte Höhle"
+    },
+    "place_lieudit_the_land_of_continuity_4": {
+        "name": "Grottenweg"
+    },
+    "place_lieudit_the_land_of_continuity_5": {
+        "name": "Mittelpunkt"
+    },
+    "place_lieudit_the_sunken_city_1": {
+        "name": "Großer Sapsee"
+    },
+    "place_lieudit_the_sunken_city_2": {
+        "name": "Schlucht des Spuks"
+    },
+    "place_lieudit_the_sunken_city_3": {
+        "name": "Drachenhorntal"
+    },
+    "place_lieudit_forbidden_depths_1": {
+        "name": "Verfluchte Sackgasse"
+    },
+    "place_lieudit_forbidden_depths_2": {
+        "name": "Halle des vergifteten Berges"
+    },
+    "place_lieudit_forbidden_depths_3": {
+        "name": "Dämonenschoß"
+    },
+    "place_outpost_matis_15": {
+        "name": "Handelsposten am Psykopla-Hügel"
+    },
+    "place_outpost_matis_05": {
+        "name": "Grenzposten der Erhebung"
+    },
+    "place_outpost_matis_06": {
+        "name": "Südöstlicher Handelsposten"
+    },
+    "place_outpost_matis_07": {
+        "name": "Hof des Entdeckers"
+    },
+    "place_outpost_matis_08": {
+        "name": "Werkstatt des Horts"
+    },
+    "place_outpost_matis_09": {
+        "name": "Magischer Ort des Kami-Kreises"
+    },
+    "place_outpost_matis_16": {
+        "name": "Gebirgspass-Grenzposten"
+    },
+    "place_outpost_matis_17": {
+        "name": "Wooky-Werkstatt"
+    },
+    "place_outpost_matis_18": {
+        "name": "Festung der Ödlandpforte"
+    },
+    "place_outpost_matis_19": {
+        "name": "Gebirgspass-Forschungszentrum"
+    },
+    "place_outpost_matis_20": {
+        "name": "Festung der Klippe von Rye"
+    },
+    "place_outpost_matis_21": {
+        "name": "Hof der Anhöhe der Torbaks"
+    },
+    "place_outpost_matis_22": {
+        "name": "Werkstatt am Berg der Pein"
+    },
+    "place_outpost_matis_23": {
+        "name": "Hof am Berg der Pein"
+    },
+    "place_outpost_matis_01": {
+        "name": "Forschungszentrum am Schwierigen Pfad"
+    },
+    "place_outpost_matis_02": {
+        "name": "Stalia-Festung"
+    },
+    "place_outpost_matis_03": {
+        "name": "Hof am Gefürchteten Sumpf"
+    },
+    "place_outpost_matis_04": {
+        "name": "Moorteiche-Werkstatt"
+    },
+    "place_outpost_matis_28": {
+        "name": "Werkstatt des Kleinen Berges"
+    },
+    "place_outpost_matis_29": {
+        "name": "Festung des Kleinen Berges"
+    },
+    "place_outpost_matis_30": {
+        "name": "Berello-Schlucht-Grenzposten"
+    },
+    "place_outpost_matis_31": {
+        "name": "Diplomatischer Außenposten der Virginia-Fälle"
+    },
+    "place_outpost_matis_32": {
+        "name": "Magischer Ort der Virginia-Fälle"
+    },
+    "place_outpost_matis_10": {
+        "name": "Diplomatischer Außenposten der Oberen Hütte"
+    },
+    "place_outpost_matis_11": {
+        "name": "Hof der Ebene der Torheit"
+    },
+    "place_outpost_matis_12": {
+        "name": "Werkstatt des Grünen Beckens"
+    },
+    "place_outpost_matis_13": {
+        "name": "Forschungszentrum am Sumpf der Angst"
+    },
+    "place_outpost_matis_14": {
+        "name": "Geisterlabyrinth-Grenzposten"
+    },
+    "place_outpost_matis_24": {
+        "name": "Westwald-Festung"
+    },
+    "place_outpost_matis_25": {
+        "name": "Ostwald-Werkstatt"
+    },
+    "place_outpost_matis_26": {
+        "name": "Hochwald-Forschungszentrum"
+    },
+    "place_outpost_matis_27": {
+        "name": "Ginti-Werkstatt"
+    },
+    "place_outpost_zorai_08": {
+        "name": "Qai-Du-Werkstatt"
+    },
+    "place_outpost_zorai_09": {
+        "name": "Land-Enden-Hof"
+    },
+    "place_outpost_zorai_10": {
+        "name": "Sai-Shun-Festung"
+    },
+    "place_outpost_zorai_11": {
+        "name": "Jungfernteich-Werkstatt"
+    },
+    "place_outpost_zorai_12": {
+        "name": "Grenzposten der Großen Hand"
+    },
+    "place_outpost_zorai_13": {
+        "name": "Werkstatt am Großen Brocken"
+    },
+    "place_outpost_zorai_14": {
+        "name": "Handelsposten am Großen Brocken"
+    },
+    "place_outpost_zorai_20": {
+        "name": "Kincherbogen-Grenzposten"
+    },
+    "place_outpost_zorai_21": {
+        "name": "Werkstatt am Stickenden See"
+    },
+    "place_outpost_zorai_22": {
+        "name": "Diplomatischer Außenposten der Dämonenkreuzung"
+    },
+    "place_outpost_zorai_23": {
+        "name": "Hornberg-Hof"
+    },
+    "place_outpost_zorai_01": {
+        "name": "Magischer Ort des Verdorrten Stammes"
+    },
+    "place_outpost_zorai_02": {
+        "name": "Gu-Qin-Werkstatt"
+    },
+    "place_outpost_zorai_03": {
+        "name": "Hof des Verdammten Labyrinths"
+    },
+    "place_outpost_zorai_04": {
+        "name": "Wölbung-Festung"
+    },
+    "place_outpost_zorai_05": {
+        "name": "Gu-Qin-Forschungszentrum"
+    },
+    "place_outpost_zorai_06": {
+        "name": "Schattenkuppel-Werkstatt"
+    },
+    "place_outpost_zorai_07": {
+        "name": "Grenzposten am Verborgenen See"
+    },
+    "place_outpost_zorai_24": {
+        "name": "Jen-Laï-Forschungszentrum"
+    },
+    "place_outpost_zorai_25": {
+        "name": "Horizont-Festung"
+    },
+    "place_outpost_zorai_26": {
+        "name": "Fleckenmoor-Festung"
+    },
+    "place_outpost_zorai_27": {
+        "name": "Fleckenmoor-Grenzposten"
+    },
+    "place_outpost_zorai_28": {
+        "name": "Hof des Trockenen Stamms"
+    },
+    "place_outpost_zorai_29": {
+        "name": "Werkstatt des Großen Buschlandes"
+    },
+    "place_outpost_zorai_30": {
+        "name": "Ni-Jing-Hof"
+    },
+    "place_outpost_zorai_15": {
+        "name": "Zo-Kian Ruinen - Werkstatt"
+    },
+    "place_outpost_zorai_16": {
+        "name": "Vergessenes Tal - Festung"
+    },
+    "place_outpost_zorai_17": {
+        "name": "Aussicht-Werkstatt"
+    },
+    "place_outpost_zorai_18": {
+        "name": "Festung der Kontemplation"
+    },
+    "place_outpost_zorai_19": {
+        "name": "Hof des Verdorrten Stamms"
+    },
+    "place_outpost_fyros_14": {
+        "name": "Schwarzbrand-Handelsposten"
+    },
+    "place_outpost_fyros_10": {
+        "name": "Hof am Nördlichen See"
+    },
+    "place_outpost_fyros_11": {
+        "name": "Handelsposten am Nördlichen See"
+    },
+    "place_outpost_fyros_12": {
+        "name": "Rindenspalt-Werkstatt"
+    },
+    "place_outpost_fyros_13": {
+        "name": "West-Schwarzbrand-Grenzposten"
+    },
+    "place_outpost_fyros_17": {
+        "name": "Rindenschlucht-Festung"
+    },
+    "place_outpost_fyros_18": {
+        "name": "Rindenschlucht-Hof"
+    },
+    "place_outpost_fyros_19": {
+        "name": "Diplomatischer Außenposten des Hohen Riffs"
+    },
+    "place_outpost_fyros_20": {
+        "name": "Werkstatt des Untergangs"
+    },
+    "place_outpost_fyros_21": {
+        "name": "Thesos-Forschungszentrum"
+    },
+    "place_outpost_fyros_06": {
+        "name": "Dyron-Ost-Werkstatt"
+    },
+    "place_outpost_fyros_07": {
+        "name": "Frahar-Türme-Grenzposten"
+    },
+    "place_outpost_fyros_08": {
+        "name": "Hochtürme-Festung"
+    },
+    "place_outpost_fyros_09": {
+        "name": "Hochtürme-Hof"
+    },
+    "place_outpost_fyros_22": {
+        "name": "Festung der Thesos-Quelle"
+    },
+    "place_outpost_fyros_23": {
+        "name": "Werkstatt am Langen Grat"
+    },
+    "place_outpost_fyros_24": {
+        "name": "Diplomatischer Außenposten der Südlichen Hügelkette"
+    },
+    "place_outpost_fyros_25": {
+        "name": "Hof der Entlegenen Dünen"
+    },
+    "place_outpost_fyros_26": {
+        "name": "Grenzposten der Kipucka-Ebene"
+    },
+    "place_outpost_fyros_01": {
+        "name": "Grenzposten der Dyron-Anhöhe"
+    },
+    "place_outpost_fyros_02": {
+        "name": "Norddyron-Festung"
+    },
+    "place_outpost_fyros_03": {
+        "name": "Drachenschwanz-Werkstatt"
+    },
+    "place_outpost_fyros_04": {
+        "name": "Malmont-Hof"
+    },
+    "place_outpost_fyros_05": {
+        "name": "Canyonweg-Werkstatt"
+    },
+    "place_outpost_fyros_15": {
+        "name": "Stachel-des-Drachen-Festung"
+    },
+    "place_outpost_fyros_16": {
+        "name": "Stachel-des-Drachen-Werkstatt"
+    },
+    "place_outpost_fyros_27": {
+        "name": "Holzbrand - Magischer Ort"
+    },
+    "place_outpost_fyros_28": {
+        "name": "Holzbrand-Festung"
+    },
+    "place_outpost_tryker_02": {
+        "name": "Schwarzmoor-Grenzposten"
+    },
+    "place_outpost_tryker_03": {
+        "name": "Werkstatt der Anmutigen Insel"
+    },
+    "place_outpost_tryker_04": {
+        "name": "Sandy-Werkstatt"
+    },
+    "place_outpost_tryker_05": {
+        "name": "Farely-Hof"
+    },
+    "place_outpost_tryker_06": {
+        "name": "Grünes Tal - Handelsposten"
+    },
+    "place_outpost_tryker_07": {
+        "name": "Windermeer-Hof"
+    },
+    "place_outpost_tryker_23": {
+        "name": "Grenzposten des Tors von Loria"
+    },
+    "place_outpost_tryker_24": {
+        "name": "Weg der Winde - Werkstatt"
+    },
+    "place_outpost_tryker_25": {
+        "name": "Hof am See der Traumwächter"
+    },
+    "place_outpost_tryker_26": {
+        "name": "Drei-Säulen-Hof"
+    },
+    "place_outpost_tryker_27": {
+        "name": "Werkstatt der Verträumten Seen"
+    },
+    "place_outpost_tryker_08": {
+        "name": "Quellsee-Werkstatt"
+    },
+    "place_outpost_tryker_09": {
+        "name": "Grenzposten am Tor des Überflusses"
+    },
+    "place_outpost_tryker_10": {
+        "name": "Quellhalle-Handelsposten"
+    },
+    "place_outpost_tryker_11": {
+        "name": "Corrie-Finley-Hof"
+    },
+    "place_outpost_tryker_12": {
+        "name": "Werkstatt der Säulen der Besinnung"
+    },
+    "place_outpost_tryker_18": {
+        "name": "Cute-Quellsee-Forschungszentrum"
+    },
+    "place_outpost_tryker_19": {
+        "name": "Grenzposten des Tors zur Freiheit"
+    },
+    "place_outpost_tryker_20": {
+        "name": "Festung der Sprudelnden Cute-Quellen"
+    },
+    "place_outpost_tryker_21": {
+        "name": "Tupile-Handelsposten"
+    },
+    "place_outpost_tryker_22": {
+        "name": "Zwillingsgipfel-Werkstatt"
+    },
+    "place_outpost_tryker_13": {
+        "name": "Diplomatischer Außenposten der Brüchigen Gipfel"
+    },
+    "place_outpost_tryker_14": {
+        "name": "Werkstatt des Sinkenden Sandes"
+    },
+    "place_outpost_tryker_15": {
+        "name": "Magischer Ort der Ostküste"
+    },
+    "place_outpost_tryker_16": {
+        "name": "Friedhofspforte-Forschungszentrum"
+    },
+    "place_outpost_tryker_17": {
+        "name": "Festung des Grässlichen Morasts"
+    },
+    "place_outpost_tryker_28": {
+        "name": "Wasserpforte-Grenzposten"
+    },
+    "place_outpost_tryker_29": {
+        "name": "Lorias Festung"
+    },
+    "place_outpost_tryker_30": {
+        "name": "Lorias Teiche - Forschungszentrum"
+    },
+    "place_outpost_tryker_31": {
+        "name": "Wirbelwind-Festung"
+    },
+    "place_outpost_tryker_32": {
+        "name": "Werkstatt der Stürmischen Schlucht"
+    },
+    "place_outpost_pr_04": {
+        "name": "Werkstatt der Ruinen von Leron"
+    },
+    "place_outpost_pr_05": {
+        "name": "Forschungszentrum der Hallen des Schwarzen Rings"
+    },
+    "place_outpost_pr_06": {
+        "name": "Gefallener-Baum-Werkstatt"
+    },
+    "place_outpost_pr_10": {
+        "name": "Festung des Klippendurchgangs"
+    },
+    "place_outpost_pr_11": {
+        "name": "Forschungszentrum des Oberen Steinkreises"
+    },
+    "place_outpost_pr_12": {
+        "name": "Festung der Kleinen Hügel"
+    },
+    "place_outpost_pr_13": {
+        "name": "Forschungszentrum der Kleinen Hügel"
+    },
+    "place_outpost_nexus_01": {
+        "name": "Tor von Ichor - Forschungszentrum"
+    },
+    "place_outpost_nexus_02": {
+        "name": "Hammerhöhen-Handelsposten"
+    },
+    "place_outpost_nexus_03": {
+        "name": "Tor nach Umbra - Hof"
+    },
+    "place_outpost_nexus_04": {
+        "name": "Schicksalsende - Diplomatischer Außenposten"
+    },
+    "place_outpost_nexus_05": {
+        "name": "Talwacht-Werkstatt"
+    },
+    "place_outpost_nexus_06": {
+        "name": "Hohe Wacht - Hof"
+    },
+    "place_outpost_nexus_07": {
+        "name": "Tor ins Niemandsland – Grenzposten"
+    },
+    "place_outpost_pr_01": {
+        "name": "Forschungszentrum der Westlichen Sapquelle"
+    },
+    "place_outpost_pr_02": {
+        "name": "Werkstatt der Östlichen Sapquelle"
+    },
+    "place_outpost_pr_03": {
+        "name": "Festung der Nexuspforte"
+    },
+    "place_outpost_pr_14": {
+        "name": "Schauriges Tal - Magischer Ort"
+    },
+    "place_outpost_pr_15": {
+        "name": "Aedenpforte-Werkstatt"
+    },
+    "place_outpost_pr_16": {
+        "name": "Yelkwäldchen-Grenzposten"
+    },
+    "place_outpost_pr_07": {
+        "name": "Land des Überflusses - Forschungszentrum"
+    },
+    "place_outpost_pr_08": {
+        "name": "Festung am Unterholz des Unglücks"
+    },
+    "place_outpost_pr_09": {
+        "name": "Dreitotempass-Werkstatt"
+    },
+    "place_outpost_pr_17": {
+        "name": "Festung des Toten Baumes"
+    },
+    "place_outpost_pr_18": {
+        "name": "Sapsumpf-Handelsposten"
+    },
+    "place_outpost_pr_19": {
+        "name": "Grenzposten der Stechenden Wiese"
+    },
+    "place_outpost_pr_20": {
+        "name": "Grottenweg-Forschungszentrum"
+    },
+    "place_outpost_pr_21": {
+        "name": "Festung der Verfluchten Höhle"
+    },
+    "place_outpost_pr_22": {
+        "name": "Werkstatt im Großen Pilzwald"
+    },
+    "place_outpost_pr_23": {
+        "name": "Hof des Flügels der Feindschaft"
+    },
+    "place_outpost_pr_24": {
+        "name": "Diplomatischer Außenposten in der Wegkehre der Kontinuität"
+    },
+    "place_outpost_pr_25": {
+        "name": "Festung des Großen Sapsees"
+    },
+    "place_outpost_pr_26": {
+        "name": "Werkstatt im Freundlichen Tal"
+    },
+    "place_outpost_pr_27": {
+        "name": "Hof an der Schlucht des Spuks"
+    },
+    "place_outpost_pr_28": {
+        "name": "Drachenhorn-Werkstatt"
+    },
+    "place_outpost_pr_29": {
+        "name": "Hof der Ruinen von Cryton"
+    },
+    "place_outpost_pr_30": {
+        "name": "Festung des vergifteten Berges"
+    },
+    "indoors_rolemaster_craft": {
+        "name": "Handwerkslehrmeister"
+    },
+    "indoors_rolemaster_fight": {
+        "name": "Kampflehrmeister"
+    },
+    "indoors_rolemaster_magic": {
+        "name": "Magielehrmeister"
+    },
+    "indoors_rolemaster_harvest": {
+        "name": "Rohstofflehrmeister"
+    },
+    "tryker_nland_terrace": {
+        "name": "Terrasse"
+    },
+    "tryker_terrace_1st": {
+        "name": "Terrasse 1. Ebene"
+    },
+    "tryker_terrace_2nd": {
+        "name": "Terrasse 2. Ebene"
+    },
+    "place_pyr_p_market_1": {
+        "name": "Fremdenbasar"
+    },
+    "place_pyr_p_west_entrance": {
+        "name": "Cerakos-Tor"
+    },
+    "place_pyr_p_market_2": {
+        "name": "Kalus-Basar"
+    },
+    "place_pyr_p_place_warschool": {
+        "name": "Platz der Akademie"
+    },
+    "place_pyr_p_fontaine": {
+        "name": "Brunnenplatz"
+    },
+    "place_pyr_p_sheriff": {
+        "name": "Turm der Schildwacht"
+    },
+    "place_pyr_p_place_mairie_1": {
+        "name": "Platz der Imperialen Halle"
+    },
+    "place_pyr_p_place_mairie_2": {
+        "name": "Karavia-Platz"
+    },
+    "place_pyr_p_place_agora": {
+        "name": "Agora"
+    },
+    "place_pyr_p_street_1": {
+        "name": "Marktgasse"
+    },
+    "place_pyr_p_street_2": {
+        "name": "Basarstraße"
+    },
+    "place_pyr_p_street_3": {
+        "name": "Händlergasse"
+    },
+    "place_pyr_p_street_4": {
+        "name": "Pyr-Hochstraße"
+    },
+    "place_pyr_p_street_5": {
+        "name": "Nordtorstraße"
+    },
+    "place_pyr_p_street_6": {
+        "name": "Cerakos-Allee"
+    },
+    "place_pyr_p_street_7": {
+        "name": "Arispotle-Allee"
+    },
+    "place_pyr_p_street_8": {
+        "name": "Coriolis-Ring"
+    },
+    "place_pyr_p_street_9": {
+        "name": "Rydon-Weg"
+    },
+    "place_pyr_p_street_10": {
+        "name": "Zentralweg"
+    },
+    "place_pyr_p_street_11": {
+        "name": "Leanon-Straße"
+    },
+    "place_pyr_p_street_12": {
+        "name": "Dexton-Straße"
+    },
+    "place_pyr_p_street_13": {
+        "name": "Weg der Schildwacht"
+    },
+    "place_pyr_p_street_14": {
+        "name": "Obere Piros-Straße"
+    },
+    "place_pyr_p_street_15": {
+        "name": "Karavia-Straße"
+    },
+    "place_pyr_p_street_16": {
+        "name": "Weg von Hammer und Schmiede"
+    },
+    "place_pyr_p_street_17": {
+        "name": "Untere Piros-Straße"
+    },
+    "place_pyr_p_street_18": {
+        "name": "Südtorstraße"
+    },
+    "place_pyr_p_street_19": {
+        "name": "Badegasse"
+    },
+    "place_pyr_p_street_20": {
+        "name": "Abylus-Ring"
+    },
+    "place_pyr_p_street_21": {
+        "name": "Quellweg"
+    },
+    "place_pyr_p_street_22": {
+        "name": "Bergarbeiterviertel"
+    },
+    "place_pyr_p_street_23": {
+        "name": "Kaufmannsgasse"
+    },
+    "continent_matis_newbie": {
+        "name": "Matis-Insel"
+    },
+    "continent_zorai_newbie": {
+        "name": "Zoraï-Insel"
+    },
+    "place_aegus_indoors": {
+        "name": "Aegus Lehrmeister"
+    },
+    "place_kaemon_indoors": {
+        "name": "Kaemon Lehrmeister"
+    },
+    "place_sekovix_indoors": {
+        "name": "Sekovix Lehrmeister"
+    },
+    "place_phyxon_indoors": {
+        "name": "Phyxon Lehrmeister"
+    },
+    "place_galemus_indoors": {
+        "name": "Galemus Lehrmeister"
+    },
+    "place_stalli_indoors": {
+        "name": "Stalli Lehrmeister"
+    },
+    "place_borea_indoors": {
+        "name": "Borea Lehrmeister"
+    },
+    "place_nistia_indoors": {
+        "name": "Nistia Lehrmeister"
+    },
+    "place_rosilio_indoors": {
+        "name": "Rosilio Lehrmeister"
+    },
+    "place_miani_indoors": {
+        "name": "Miani Lehrmeister"
+    },
+    "place_qai_lo_indoors": {
+        "name": "Qaï-Lo Lehrmeister"
+    },
+    "place_sheng_wo_indoors": {
+        "name": "Sheng-Wo Lehrmeister"
+    },
+    "place_men_xing_indoors": {
+        "name": "Men-Xing Lehrmeister"
+    },
+    "place_koi_zun_indoors": {
+        "name": "Koï-Zun Lehrmeister"
+    },
+    "place_yin_piang_indoors": {
+        "name": "Yin-Piang Lehrmeister"
+    },
+    "place_aubermouth_indoors": {
+        "name": "Aubermouth Lehrmeister"
+    },
+    "place_barkdell_indoors": {
+        "name": "Barkdell Lehrmeister"
+    },
+    "place_hobwelly_indoors": {
+        "name": "Hobwelly Lehrmeister"
+    },
+    "place_waverton_indoors": {
+        "name": "Waverton Lehrmeister"
+    },
+    "place_dingleton_indoors": {
+        "name": "Dingleton Lehrmeister"
+    },
+    "place_zora_p_cimetiere": {
+        "name": "Friedhof"
+    },
+    "place_zora_p_marche_commun": {
+        "name": "Vorderer Markt"
+    },
+    "place_zora_p_2": {
+        "name": "Tempelhallen-Distrikt"
+    },
+    "place_zora_p_3": {
+        "name": "West-Hollow-Distrikt"
+    },
+    "place_zora_p_4": {
+        "name": "Daïsha-Viertel"
+    },
+    "place_zora_p_5": {
+        "name": "Win-Cho-Viertel"
+    },
+    "continent_indoors": {
+        "name": "ein Gebäude"
+    },
+    "faihaven_stable": {
+        "name": "Ställe"
+    },
+    "place_yrk_p_1": {
+        "name": "Zachini-Bezirk"
+    },
+    "place_yrk_p_2": {
+        "name": "Yasson-Bezirk"
+    },
+    "place_yrk_p_3": {
+        "name": "Aniro-Bezirk"
+    },
+    "place_yrk_p_4": {
+        "name": "Tylini-Bezirk"
+    },
+    "place_yrk_p_5": {
+        "name": "Libia-Bezirk"
+    },
+    "yrkanis_stable": {
+        "name": "Stall"
+    },
+    "place_zora_p_1": {
+        "name": "Goo-Chase-Distrikt"
+    },
+    "zora_stable": {
+        "name": "Stall"
+    },
+    "place_yrkanis_bar_indoor": {
+        "name": "Yrkanis Gasthauseingang"
+    },
+    "place_yrkanis_greenhouse_indoor": {
+        "name": "Yrkanis Intendantenquartier Vorraum"
+    },
+    "ma_natae_captain_quarter": {
+        "name": "Natae Captainsquartier"
+    },
+    "ma_natae_foreman_quarter": {
+        "name": "Natae Aufseherquartier"
+    },
+    "ma_natae_messenger_quarter": {
+        "name": "Natae Botenquartier"
+    },
+    "ma_natae_sage_quarter": {
+        "name": "Natae Gelehrtenquartier"
+    },
+    "ma_natae_guard_chief_quarter": {
+        "name": "Natae Hauptmannsquartier"
+    },
+    "ma_natae_intendant_quarter": {
+        "name": "Natae Intendantenquartier"
+    },
+    "ma_davae_sergent_quarter": {
+        "name": "Davae Sergeantsquartier"
+    },
+    "ma_davae_foreman_quarter": {
+        "name": "Davae Vorarbeiterquartier"
+    },
+    "ma_davae_messenger_quarter": {
+        "name": "Davae Botenquartier"
+    },
+    "ma_davae_sage_quarter": {
+        "name": "Davae Gelehrtenquartier"
+    },
+    "ma_davae_guard_chief_quarter": {
+        "name": "Davae Hauptmannsquartier"
+    },
+    "ma_davae_intendant_quarter": {
+        "name": "Davae Intendantenquartier"
+    },
+    "ma_avalae_captain_quarter": {
+        "name": "Avalae Captainsquartier"
+    },
+    "ma_avalae_foreman_quarter": {
+        "name": "Avalae Vorarbeiterquartier"
+    },
+    "ma_avalae_messenger_quarter": {
+        "name": "Avalae Botenquartier"
+    },
+    "ma_avalae_sage_quarter": {
+        "name": "Avalae Gelehrtenquartier"
+    },
+    "ma_avalae_guard_chief_quarter": {
+        "name": "Avalae Hauptmannsquartier"
+    },
+    "ma_avalae_intendant_quarter": {
+        "name": "Avalae Intendantenquartier"
+    },
+    "zo_jenlai_captain_quarter": {
+        "name": "Jen Laï Captainsquartier"
+    },
+    "zo_jenlai_foreman_quarter": {
+        "name": "Jen Laï Aufseherquartier"
+    },
+    "zo_jenlai_messenger_quarter": {
+        "name": "Jen Laï Botenquartier"
+    },
+    "zo_jenlai_sage_quarter": {
+        "name": "Jen-Laï Weisenquartier"
+    },
+    "zo_jenlai_intendant_quarter": {
+        "name": "Jen-Laï Intendantenquartier"
+    },
+    "zo_jenlai_guard_chief_quarter": {
+        "name": "Jen-Laï Hauptmannsquartier"
+    },
+    "zo_mincho_captain_quarter": {
+        "name": "Min Cho Captainsquartier"
+    },
+    "zo_mincho_foreman_quarter": {
+        "name": "Min Cho Aufseherquartier"
+    },
+    "zo_mincho_messenger_quarter": {
+        "name": "Min Cho Botenquartier"
+    },
+    "zo_mincho_sage_quarter": {
+        "name": "Min-Cho Weisenquartier"
+    },
+    "zo_mincho_intendant_quarter": {
+        "name": "Min-Cho Intendantenquartier"
+    },
+    "zo_mincho_guard_chief_quarter": {
+        "name": "Min-Cho Hauptwächterquartier"
+    },
+    "zo_hoicho_captain_quarter": {
+        "name": "Hoï Cho Captainsquartier"
+    },
+    "zo_hoicho_foreman_quarter": {
+        "name": "Hoï Cho Aufseherquartier"
+    },
+    "zo_hoicho_messenger_quarter": {
+        "name": "Hoï Cho Botenquartier"
+    },
+    "zo_hoicho_sage_quarter": {
+        "name": "Hoï-Cho Weisenquartier"
+    },
+    "zo_hoicho_intendant_quarter": {
+        "name": "Hoï-Cho Intendantenquartier"
+    },
+    "zo_hoicho_guard_chief_quarter": {
+        "name": "Hoï-Cho Hauptwächterquartier"
+    },
+    "place_fairhaven_p_1": {
+        "name": "Fairhaven Trödelmarkt"
+    },
+    "place_fairhaven_p_2": {
+        "name": "Landende"
+    },
+    "place_fairhaven_p_3": {
+        "name": "Umwehte Höhe"
+    },
+    "place_fairhaven_p_4": {
+        "name": "Hartley-Aussichtspunkt"
+    },
+    "place_fairhaven_p_5": {
+        "name": "Ratskammerplatz"
+    },
+    "place_fairhaven_p_6": {
+        "name": "Ostmarkt"
+    },
+    "place_fairhaven_p_7": {
+        "name": "Frogmore-Platz"
+    },
+    "place_fairhaven_p_8": {
+        "name": "Lorias Aufstieg"
+    },
+    "place_fairhaven_s_1": {
+        "name": "Rigan-Strasse"
+    },
+    "place_fairhaven_s_2": {
+        "name": "Glockengasse"
+    },
+    "place_fairhaven_s_3": {
+        "name": "Obere Ratsstraße"
+    },
+    "place_fairhaven_s_4": {
+        "name": "Untere Ratsstraße"
+    },
+    "place_fairhaven_s_5": {
+        "name": "Hartley-Weg"
+    },
+    "place_fairhaven_s_6": {
+        "name": "Ostmarkt-Gang"
+    },
+    "place_fairhaven_s_7": {
+        "name": "Hobelen-Gang"
+    },
+    "place_fairhaven_s_8": {
+        "name": "Frogmore-Weg"
+    },
+    "tr_windermeer_captain_quarter": {
+        "name": "Windermeer Captainsquartier"
+    },
+    "tr_windermeer_foreman_quarter": {
+        "name": "Windermeer Vorarbeiterquartier"
+    },
+    "tr_windermeer_messenger_quarter": {
+        "name": "Windermeer Botenquartier"
+    },
+    "tr_windermeer_sage_quarter": {
+        "name": "Windermeer Gelehrtenquartier"
+    },
+    "tr_windermeer_guard_chief_quarter": {
+        "name": "Windermeer Hauptmannsquartier"
+    },
+    "tr_windermeer_intendant_quarter": {
+        "name": "Windermeer Intendantenquartier"
+    },
+    "tr_avendale_captain_quarter": {
+        "name": "Avendale Captainsquartier"
+    },
+    "tr_avendale_foreman_quarter": {
+        "name": "Avendale Vorarbeiterquartier"
+    },
+    "tr_avendale_messenger_quarter": {
+        "name": "Avendale Botenquartier"
+    },
+    "tr_avendale_sage_quarter": {
+        "name": "Avendale Gelehrtenquartier"
+    },
+    "tr_avendale_guard_chief_quarter": {
+        "name": "Avendale Hauptmannsquartier"
+    },
+    "tr_avendale_intendant_quarter": {
+        "name": "Avendale Intendantenquartier"
+    },
+    "tr_crystabell_sergent_quarter": {
+        "name": "Crystabell Sergeantenquartier"
+    },
+    "tr_crystabell_foreman_quarter": {
+        "name": "Crystabell Vorarbeiterquartier"
+    },
+    "tr_crystabell_messenger_quarter": {
+        "name": "Crystabell Botenquartier"
+    },
+    "tr_crystabell_sage_quarter": {
+        "name": "Crystabell Gelehrtenquartier"
+    },
+    "tr_crystabell_guard_chief_quarter": {
+        "name": "Crystabell Hauptmannsquartier"
+    },
+    "tr_crystabell_intendant_quarter": {
+        "name": "Crystabell Intendantenquartier"
+    },
+    "zo_zora_mairie_ss": {
+        "name": "Hauptraum"
+    },
+    "zo_zora_mairie_mainroom": {
+        "name": "Hauptraum"
+    },
+    "fy_fortress_rdc": {
+        "name": "Festung Erdgeschoss"
+    },
+    "fy_fortress_1st": {
+        "name": "Festung Erste Ebene"
+    },
+    "hoi_cho_stable": {
+        "name": "Hoi-Cho-Ställe"
+    },
+    "jen_lai_stable": {
+        "name": "Jen-Lai-Ställe"
+    },
+    "min_cho_stable": {
+        "name": "Min-Cho-Ställe"
+    },
+    "pyr_stable1": {
+        "name": "Pyr Nord-Ställe"
+    },
+    "pyr_stable2": {
+        "name": "Pyr Süd-Ställe"
+    },
+    "pyr_stable3": {
+        "name": "Pyr Ost-Ställe"
+    },
+    "natae_stable": {
+        "name": "Natae Ställe"
+    },
+    "davae_stable": {
+        "name": "Davae Ställe"
+    },
+    "avalae_stable": {
+        "name": "Avalae Ställe"
+    },
+    "thesos_stable": {
+        "name": "Thesos Ställe"
+    },
+    "dyron_stable": {
+        "name": "Dyron Ställe"
+    },
+    "fairhaven_stable": {
+        "name": "Fairhaven Ställe"
+    },
+    "windermeer_stable": {
+        "name": "Windermeer Ställe"
+    },
+    "avendale_stable": {
+        "name": "Avendale Ställe"
+    },
+    "crystabell_stable": {
+        "name": "Crystabell Ställe"
+    },
+    "place_pyr_p_forge": {
+        "name": "Schmiede"
+    },
+    "r_01_06_forage_place_1": {
+        "name": "Besonderes Vorkommen"
+    },
+    "r_05_36_mission_place_hunting_1": {
+        "name": "Platz zur Ragus-Jagd"
+    },
+    "place_r_08_03_espionnage": {
+        "name": "Beobachtungspunkt"
+    },
+    "continent_fyros_islands": {
+        "name": "Alte Lande"
+    },
+    "region_fyros_island1pvp 3": {
+        "name": "< fyros insel 1 (pvp)>"
+    },
+    "region_fyros_island2": {
+        "name": "< fyros insel 2>"
+    },
+    "region_fyros_island3": {
+        "name": "Aelius-Dünen"
+    },
+    "r_11_10_kitin_hunting_1": {
+        "name": "Erstes Jagdterrain"
+    },
+    "r_11_10_kitin_hunting_2": {
+        "name": "Zweites Jagdterrain"
+    },
+    "r_08_04_kitin_boss_1": {
+        "name": "Herausforderung"
+    },
+    "r_05_34_place_lake_1": {
+        "name": "Uferstraße"
+    },
+    "place_arrival_from_sources": {
+        "name": "Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: place_arrival_from_sources."
+    },
+    "place_arrival_from_zorai": {
+        "name": "Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: place_arrival_from_zorai."
+    },
+    "place_arrival_from_matis": {
+        "name": "Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: place_arrival_from_matis."
+    },
+    "place_arrival_from_route_gouffre": {
+        "name": "Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: place_arrival_from_route_gouffre."
+    },
+    "oasis_rdc": {
+        "name": "Dyron"
+    },
+    "oasis_1st": {
+        "name": "Taverne der Oase"
+    },
+    "war_school_rdc": {
+        "name": "Erdgeschoss der Militärschule"
+    },
+    "war_school_ss": {
+        "name": "Untergeschoss der Militärschule"
+    },
+    "sherif_armory_rdc": {
+        "name": "Erdgeschoss des Waffenlagers"
+    },
+    "sherif_armory_1st": {
+        "name": "Obergeschoss des Waffenlagers"
+    },
+    "sherif_rdc": {
+        "name": "Platz des Leibwächters"
+    },
+    "sherif_1st": {
+        "name": "Obergeschoss der Leibwächter"
+    },
+    "zo_hoicho_sergent_quarter": {
+        "name": "Hoi-Cho Sergeantenquartier"
+    },
+    "region_matis_island": {
+        "name": ""
+    },
+    "place_arrival_from_fyros": {
+        "name": "Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: place_arrival_from_fyros."
+    },
+    "place_arrival_from_tryker": {
+        "name": "Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: place_arrival_from_tryker."
+    },
+    "place_arrival_from_bagne": {
+        "name": "Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: place_arrival_from_bagne."
+    },
+    "place_r_07_13_boss_kill": {
+        "name": "Söldner"
+    },
+    "place_r_01_10_escort": {
+        "name": "Treffpunkt"
+    },
+    "place_arena_warning": {
+        "name": "Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: place_arena_warning"
+    },
+    "r_01_06_hill_light": {
+        "name": "Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: r_01_06_hill_light."
+    },
+    "r_05_36_mission_place_hunting_2": {
+        "name": "Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: r_05_36_mission_place_hunting_2."
+    },
+    "r_05_36_mission_place_hunting_3": {
+        "name": "Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: r_05_36_mission_place_hunting_3."
+    },
+    "r_09_10_mission_forage_1": {
+        "name": "Sägemehl sammeln"
+    },
+    "r_09_10_mission_forage_2": {
+        "name": "Wachs sammeln"
+    },
+    "r_09_10_mission_forage_3": {
+        "name": "Holz sammeln"
+    },
+    "r_08_16_mission_place_2": {
+        "name": "Erster Hinterhalt"
+    },
+    "r_08_16_mission_place_4": {
+        "name": "Zweiter Hinterhalt"
+    },
+    "r_08_16_mission_place_5": {
+        "name": "Der Chef sucht Sie"
+    },
+    "ava_bar_ext1": {
+        "name": "Avalae"
+    },
+    "ava_bar_int2": {
+        "name": "Bar von Avalae"
+    },
+    "ava_bar_int_2": {
+        "name": "Bar von Avalae"
+    },
+    "dav_bar_ext2": {
+        "name": "Davae"
+    },
+    "dav_bar_int2": {
+        "name": "Bar von Davae"
+    },
+    "nat_bar_ext2": {
+        "name": "Natae"
+    },
+    "nat_bar_int_2": {
+        "name": "Bar von Natae"
+    },
+    "nat_bar_int2": {
+        "name": "Bar de Natae"
+    },
+    "serre2": {
+        "name": "Yrkanis"
+    },
+    "serre1": {
+        "name": "Yrkanis"
+    },
+    "yrk_serre_ncp2": {
+        "name": "Treibhaus von Yrkanis"
+    },
+    "yrk_serre_npc1": {
+        "name": "Treibhaus von Yrkanis"
+    },
+    "yrk_bar_ext": {
+        "name": "Yrkanis"
+    },
+    "yrk_bar_int1": {
+        "name": "Bar von Yrkanis"
+    },
+    "mairie_rdc": {
+        "name": "Untergeschoss "
+    },
+    "yrkanis mairie ss": {
+        "name": "Untergeschoss der Gemeinde"
+    },
+    "place_arrival_from_nexus": {
+        "name": "Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: place_arrival_from_nexus."
+    },
+    "place_arrival_from_terre": {
+        "name": "Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: place_arrival_from_terre."
+    },
+    "continent_tryker_island": {
+        "name": "Alte Lande"
+    },
+    "region_tryker_island1": {
+        "name": "<tryker Insel 1>"
+    },
+    "region_tryker_island2": {
+        "name": "<tryker Insel 2>"
+    },
+    "region_tryker_island3": {
+        "name": "<tryker Inseln 3>"
+    },
+    "region_tryker_island4": {
+        "name": "Olkern-See"
+    },
+    "region_tryker_island5": {
+        "name": "<tryker Inseln 5>"
+    },
+    "r_01_28_mission_tp_1a": {
+        "name": "Grotte des Wirbels nach Tautropfen"
+    },
+    "r_01_28_mission_tp_2a": {
+        "name": "Gang nach Tautropfen"
+    },
+    "r_05_33_creek_1": {
+        "name": "Clopper-Bucht"
+    },
+    "r_01_27_place_libertylake": {
+        "name": "Gefährlicher Strand"
+    },
+    "r_01_27_place_libertylake_2": {
+        "name": "Clopper-Strand"
+    },
+    "r_12_04": {
+        "name": "Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: r_12_04"
+    },
+    "r_01_28_mission_tp_1": {
+        "name": "Grotte des Wirbels nach Gang der Winde der Muse"
+    },
+    "r_01_28_mission_tp_2": {
+        "name": "Gang der Winde der Muse"
+    },
+    "continent_zorai_island": {
+        "name": "<zorai Inseln>"
+    },
+    "region_zorai_island1": {
+        "name": "<Insel zorai 1>"
+    },
+    "region_zorai_island2": {
+        "name": "<Insel zorai 2>"
+    },
+    "region_zorai_island3": {
+        "name": "<Insel zorai 3>"
+    },
+    "region_zorai_island4": {
+        "name": "<Insel zorai 4>"
+    },
+    "r_06_12_forage_1": {
+        "name": "Harzquelle"
+    },
+    "r_06_12_forage_2": {
+        "name": "Verfaulte Faserquelle"
+    },
+    "r_06_12_hunting_1": {
+        "name": "Jagd"
+    },
+    "r_10_10_goo_hunting": {
+        "name": "Angesteckte Zone"
+    },
+    "zora_mairie_ss": {
+        "name": "Untergeschoss der Gemeinde"
+    },
+    "zora_mairie_mainroom": {
+        "name": "Gemeinde"
+    },
+    "r_07_04_place_adept_spawn": {
+        "name": "Ritualplatz der Kamis"
+    },
+    "place_zora_puits_aux_offrandes": {
+        "name": "Brunnen der Opfergaben"
+    },
+    "gmisland": {
+        "name": "Atrium Insel"
+    },
+    "gmisland_stable": {
+        "name": "Atrium Ställe"
+    },
+    "gmcampfire": {
+        "name": "Atrium Lager"
+    },
+    "gmarena": {
+        "name": "Atrium Arena"
+    },
+    "r_06_13_kitin": {
+        "name": "Kitin-Zone"
+    },
+    "debug_place_visit": {
+        "name": "place de test 1"
+    },
+    "debug_place_visit2": {
+        "name": "place de test 2"
+    },
+    "debug_place_teleport": {
+        "name": "place de teleport"
+    },
+    "r_05_15_repere_bandits": {
+        "name": "Versteck der Banditen"
+    },
+    "r_03_38_village_shadowrunners": {
+        "name": "Lager"
+    },
+    "place_r_05_41_foreuses": {
+        "name": "Rohmaterial-Lager"
+    },
+    "place_r_09_09_arrivee_bagne": {
+        "name": "Abgrund von Ichor Ankunftspunkt"
+    },
+    "welcomer_natae_guardchief": {
+        "name": "Natae Anführer der Wache"
+    },
+    "welcomer_natae_intendant": {
+        "name": "Natae Intendant"
+    },
+    "welcomer_natae_sage": {
+        "name": "Natae Weiser"
+    },
+    "welcomer_davae_intendant": {
+        "name": "Davae Intendant"
+    },
+    "welcomer_davae_sage": {
+        "name": "Davae Weiser"
+    },
+    "welcomer_davae_guardchief": {
+        "name": "Davae Anführer der Wache"
+    },
+    "welcomer_avalae_guardchief": {
+        "name": "Avalae Anführer der Wache"
+    },
+    "welcomer_avalae_sage": {
+        "name": "Avalae Weiser"
+    },
+    "welcomer_avalae_intendant": {
+        "name": "Avalae Intendant"
+    },
+    "welcomer_avendale": {
+        "name": "Avendale Offizier"
+    },
+    "welcomer_windermeer": {
+        "name": "Windermeer Offizier"
+    },
+    "welcomer_crystabell": {
+        "name": "Crystabell Offizier"
+    },
+    "welcomer_jenlai_guardchief": {
+        "name": "Jen Lai Anführer der Wache"
+    },
+    "welcomer_jenlai_intendant": {
+        "name": "Jen Lai Intendant"
+    },
+    "welcomer_jenlai_sage": {
+        "name": "Jen Lai Weiser"
+    },
+    "welcomer_mincho_intendant": {
+        "name": "Min Cho Intendant"
+    },
+    "welcomer_mincho_guardchief": {
+        "name": "Min Cho Anführer der Wache"
+    },
+    "welcomer_mincho_sage": {
+        "name": "Min Cho Weiser"
+    },
+    "welcomer_hoicho_intendant": {
+        "name": "Hoi Cho Intendant"
+    },
+    "welcomer_hoicho_sage": {
+        "name": "Hoi Cho Weiser"
+    },
+    "welcomer_hoicho_guardchief": {
+        "name": "Hoi Cho Anführer der Wache"
+    },
+    "episode2_camp_karavan_fyros_island": {
+        "name": "Karavan-Lager der Aelius-Dünen"
+    },
+    "episode2_camp_kami_fyros_island": {
+        "name": "Kami-Lager der Aelius-Dünen"
+    },
+    "episode2_camp_kami_matis_island": {
+        "name": "Kami-Lager des Almati-Waldes"
+    },
+    "episode2_camp_karavan_matis_island": {
+        "name": "Karavan-Lager des Almati-Waldes"
+    },
+    "episode2_camp_karavan_tryker_island": {
+        "name": "Karavan-Lager des Olkern-Sees"
+    },
+    "episode_2_camp_kami_tryker_island": {
+        "name": "Kami-Lager des Olkern-Sees"
+    },
+    "region_newbieland_hunting_grounds": {
+        "name": "Jagdgründe"
+    },
+    "region_newbieland_the_shattered_ruins": {
+        "name": "Zerstörte Ruinen"
+    },
+    "place_shattered_ruins_silan": {
+        "name": "Ruinen von Silan"
+    },
+    "place_shattered_ruins_trone": {
+        "name": "Thronsaal"
+    },
+    "region_newbieland_starting_zone": {
+        "name": "Gebiet der Ranger"
+    },
+    "place_starting_zone_starting_city": {
+        "name": "Ranger-Lager"
+    },
+    "place_starting_zone_arena": {
+        "name": "Arena"
+    },
+    "region_newbieland_blight_zone": {
+        "name": "Krankes Land"
+    },
+    "region_newbieland_shining_lake": {
+        "name": "Funkelnder See"
+    },
+    "region_newbieland_kitins_jungle": {
+        "name": "Kitin-Dschungel"
+    },
+    "karavan embassy": {
+        "name": "Karavan-Botschaft"
+    },
+    "kami_enclave": {
+        "name": "Kami-Enklave"
+    },
+    "place_hunting_grounds_gingo_lair": {
+        "name": "Ragus-Fels"
+    },
+    "mission_place_tryker_02": {
+        "name": "Rohstoffsuchzone"
+    },
+    "mission_place_tryker_03": {
+        "name": "Rohstoffsuchzone"
+    },
+    "mission_place_ranger_01": {
+        "name": ""
+    },
+    "mission_place_ranger_02": {
+        "name": ""
+    },
+    "mission_place_ilot": {
+        "name": "Versuchsfeld"
+    },
+    "newbieland": {
+        "name": "Kontrollierte Lande"
+    },
+    "region_newbieland": {
+        "name": "Die Entdeckenswerten Gefilde"
+    },
+    "mission_place_tryker_04": {
+        "name": "Rohstoffsuchzone"
+    },
+    "continent_corrupted_moor": {
+        "name": "Verseuchte Heiden"
+    },
+    "region_karavanexclusionzone": {
+        "name": "Zerrissene Ebenen"
+    },
+    "place_tcm_karavan_camp": {
+        "name": "Karavan-Experimentierungslager"
+    },
+    "region_hopeforest": {
+        "name": "Wald der Träume"
+    },
+    "place_tcm_company_camp": {
+        "name": "Kami-Mission"
+    },
+    "place_tcm_company_eternal_tree": {
+        "name": "Lager der Gemeinschaft des Ewigen Baumes"
+    },
+    "place_tcm_keepers": {
+        "name": "Archäologische Basis der Keeper"
+    },
+    "place_tcm_tutors": {
+        "name": "Tutor-Altar"
+    },
+    "region_northspire": {
+        "name": "Gipfel des Nordens"
+    },
+    "place_tcm_chlorogoo_camp": {
+        "name": "Chlorogoo-Festung"
+    },
+    "region_fyreruins": {
+        "name": "Alte Fyros-Stadt"
+    },
+    "place_tcm_arena": {
+        "name": "Arena der Opfer"
+    },
+    "place_tcm_kitin_nest": {
+        "name": "Ehemaliges Karavan-Depot"
+    },
+    "region_mistvalley": {
+        "name": "Nebeltal"
+    },
+    "fyre_village": {
+        "name": "Fyre-Ruinen"
+    },
+    "place_tcm_karavan_south_west": {
+        "name": "Patrouillenzone"
+    },
+    "place_tcm_karavan_south_east": {
+        "name": "Patrouillenzone"
+    },
+    "place_tcm_karavan_raid_ceremony_trigger": {
+        "name": "Karavan-Forschungslager"
+    },
+    "place_tcm_karavan_raid_ceremony_target": {
+        "name": "Karavan-Forschungslager"
+    },
+    "place_tcm_company_raid_ceremony_trigger": {
+        "name": "Kami-Mission"
+    },
+    "place_tcm_company_raid_ceremony_target": {
+        "name": "Kami-Mission"
+    },
+    "place_tcm_shaman_tent": {
+        "name": "Wenn Sie diesen Text sehen, handelt es sich um einen Fehler: place_tcm_shaman_tent Bitte wende dich an den Kundenservice indem du ein Ticket diesbezüglich einreichst! Danke."
+    },
+    "place_tcm_rock_fall": {
+        "name": "Ehemaliges Karavan-Depot"
+    },
+    "place_tcm_karavan_outpost": {
+        "name": "Karavan-Außenposten"
+    },
+    "kitiniere_cattle_room": {
+        "name": "Zuchtkammer"
+    },
+    "kitiniere_dark_mines": {
+        "name": "Dunkle Minen"
+    },
+    "kitiniere_eggs_room": {
+        "name": "Haupt-Gelegeraum"
+    },
+    "kitiniere_entrance": {
+        "name": "Eingang"
+    },
+    "kitiniere_old_mines": {
+        "name": "Alte Minen"
+    },
+    "kitiniere_princes_room": {
+        "name": "Raum der Prinzen"
+    },
+    "kitiniere_queen_room": {
+        "name": "Halle der Königin"
+    },
+    "kitiniere": {
+        "name": "Kitin-Nest"
+    },
+    "continent_kitiniere": {
+        "name": "Das Kitinnest"
+    },
+    "place_mission_fyros_01_yubo": {
+        "name": "Garten der Yubos"
+    },
+    "place_mission_fyros_02_huntingground_t1": {
+        "name": "Bodoc-Herde"
+    },
+    "place_mission_fyros_02_huntingground_t1exit": {
+        "name": "Pipo-Platz"
+    },
+    "place_mission_fyros_02_huntingground_t2exit": {
+        "name": "Pipo-Platz"
+    },
+    "place_mission_fyros_02_huntingground_t2": {
+        "name": "Yubo-herde"
+    },
+    "place_mission_fyros_02_huntingground": {
+        "name": "Jagdgrund"
+    },
+    "place_mission_fyros_04_carcasse": {
+        "name": "Ort des Verbrechens"
+    },
+    "place_mission_fyros_04_ragus": {
+        "name": "Höhle der Ragus"
+    },
+    "place_mission_zorai_rendor": {
+        "name": "Rendor-Weide"
+    },
+    "place_shooting_range": {
+        "name": "Übungszone"
+    },
+    "place_mission_javezone": {
+        "name": "Javing-Wald"
+    },
+    "place_mission_slavezone": {
+        "name": "Slaveni-Feld"
+    },
+    "place_forage_start": {
+        "name": "Rohstoffsuchzone"
+    },
+    "place_forage_zun": {
+        "name": "Zun-Rohstoffsuchzone"
+    },
+    "place_forage_shat": {
+        "name": "multiple Rohstoffsuchzone"
+    },
+    "place_forage_chloro": {
+        "name": "Goo-Spots"
+    },
+    "gerder_food": {
+        "name": "Route von Gerder"
+    },
+    "rpjob_magnecarto_1_a": {
+        "name": "Magnetismus-Messbereich A"
+    },
+    "rpjob_magnecarto_1_b": {
+        "name": "Magnetismus-Messbereich B"
+    },
+    "rpjob_magnecarto_1_c": {
+        "name": "Magnetismus-Messbereich C"
+    },
+    "rpjob_magnecarto_1_d": {
+        "name": "Magnetismus-Messbereich D"
+    },
+    "rpjob_magnecarto_2_a": {
+        "name": "Magnetismus-Messgebiet A"
+    },
+    "rpjob_magnecarto_2_b": {
+        "name": "Magnetismus-Messgebiet B"
+    },
+    "rpjob_magnecarto_2_c": {
+        "name": "Magnetismus-Messgebiet C"
+    },
+    "rpjob_magnecarto_2_d": {
+        "name": "Magnetismus-Messgebiet D"
+    },
+    "rpjob_magnecarto_3_a": {
+        "name": "Magnetismus-Messgebiet A"
+    },
+    "rpjob_magnecarto_3_b": {
+        "name": "Magnetismus-Messgebiet B"
+    },
+    "rpjob_magnecarto_3_c": {
+        "name": "Magnetismus-Messgebiet C"
+    },
+    "rpjob_magnecarto_3_d": {
+        "name": "Magnetismus-Messgebiet D"
+    },
+    "rpjob_magnecarto_4_a": {
+        "name": "Magnetismus-Messgebiet A"
+    },
+    "rpjob_magnecarto_4_b": {
+        "name": "Magnetismus-Messgebiet B"
+    },
+    "rpjob_magnecarto_4_c": {
+        "name": "Magnetismus-Messgebiet C"
+    },
+    "rpjob_magnecarto_4_d": {
+        "name": "Magnetismus-Messgebiet D"
+    },
+    "rpjob_magnecarto_5_a": {
+        "name": "Magnetismus-Messgebiet A"
+    },
+    "rpjob_magnecarto_5_b": {
+        "name": "Magnetismus-Messgebiet B"
+    },
+    "rpjob_magnecarto_5_c": {
+        "name": "Magnetismus-Messgebiet C"
+    },
+    "rpjob_magnecarto_5_d": {
+        "name": "Magnetismus-Messgebiet D"
+    },
+    "kitinslair_zone_1": {
+        "name": "Erste zugängliche Zone des Kitin-Nestes"
+    },
+    "place_matis_island_2": {
+        "name": "Dante's Gipfel"
+    },
+    "region_matis_island_1": {
+        "name": "Almati-Wald"
+    },
+    "region_matis_island_2": {
+        "name": "Dantes Lager"
+    },
+    "region_matis_island_3": {
+        "name": ""
+    },
+    "continent_matis_island": {
+        "name": "Alte Lande"
+    },
+    "boss_tryker_light_island_zone": {
+        "name": "Dantes Lager"
+    },
+    "place_matis_island_1": {
+        "name": "Ranger-Lager"
+    },
+    "place_matis_island_3": {
+        "name": ""
+    },
+    "boss_zorai_light_maincamp": {
+        "name": "Pei-Ruz' geheimes Lager"
+    },
+    "boss_zorai_light_startcamp": {
+        "name": "Pei-Ruz' Lager"
+    },
+    "place_cwmh01_mp1": {
+        "name": "Zone für die Knochensuche"
+    },
+    "place_cwmh02_mp1": {
+        "name": "Zone für die Wurzelsuche"
+    },
+    "place_cwmh03_mp1": {
+        "name": "Zone für die Sporensuche"
+    },
+    "cwfh01_mp1": {
+        "name": "Zone für die Müllsuche"
+    },
+    "cwfh02_mp1": {
+        "name": "Zone für die Knochensuche"
+    },
+    "cwfh03_mp1": {
+        "name": "Zone für die Schlammsuche"
+    },
+    "cwff03_termites": {
+        "name": "Termitenhügel"
+    },
+    "place_cwth01_mp1": {
+        "name": "Zone für die Muschelsuche"
+    },
+    "place_cwth02_mp1": {
+        "name": "Zone für die Torfsuche"
+    },
+    "place_cwth03_mp1": {
+        "name": "Zone für die Wurzelsuche"
+    },
+    "place_cwzh01_mp1": {
+        "name": "Zone für die Moossuche"
+    },
+    "place_cwzh02_mp1": {
+        "name": "Zone für die Dungsuche"
+    },
+    "place_cwzh03_mp1": {
+        "name": "Zone für die Perlensuche"
+    },
+    "place_cimetiere_avalae": {
+        "name": "Friedhof von Avalae"
+    },
+    "mission_ff60_emplacement_message": {
+        "name": "Ort der Nachricht"
+    },
+    "place_marauder_camp": {
+        "name": "Marodeure-Lager"
+    },
+    "place_lieudit_marauder_arena": {
+        "name": "Marodeure-Arena"
+    },
+    "marauder_stable": {
+        "name": "Marodeure-Ställe"
+    }
+}

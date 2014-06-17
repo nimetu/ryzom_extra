@@ -1,0 +1,3657 @@
+{
+    "acuratebleedingshot": {
+        "name": "Accurate Bleeding Shot ",
+        "p": "Accurate Bleeding Shots ",
+        "description": ""
+    },
+    "acuratebreathlessshot": {
+        "name": "Accurate Breathless Shot",
+        "p": "Accurate Breathless Shots",
+        "description": ""
+    },
+    "animalslideslip": {
+        "name": "Animal Slideslip",
+        "p": "Animal Slideslips",
+        "description": ""
+    },
+    "animalstalking": {
+        "name": "Animal Stalking",
+        "p": "Animal Stalkings",
+        "description": ""
+    },
+    "apothecary": {
+        "name": "Apothecary",
+        "p": "Apothecaries",
+        "description": ""
+    },
+    "area": {
+        "name": "Area",
+        "p": "Areas",
+        "description": ""
+    },
+    "armorandweaponsmithing": {
+        "name": "Armor and Weapon Smithing",
+        "p": "Armor and Weapon Smithing",
+        "description": ""
+    },
+    "artandcraft": {
+        "name": "Art and Craft",
+        "p": "Arts and Crafts",
+        "description": ""
+    },
+    "attackkamisknowledge": {
+        "name": "Attack-Kamis Knowledge",
+        "p": "Attack-Kamis Knowledge",
+        "description": ""
+    },
+    "atysianregeneration": {
+        "name": "Atysian Regeneration",
+        "p": "Atysian Regenerations",
+        "description": ""
+    },
+    "axe": {
+        "name": "Axe",
+        "p": "Axes",
+        "description": ""
+    },
+    "backdraftstab": {
+        "name": "Backdraft Stab",
+        "p": "Backdraft Stabs",
+        "description": ""
+    },
+    "badluck": {
+        "name": "Bad Luck",
+        "p": "Bad Lucks",
+        "description": ""
+    },
+    "barehandedcombat": {
+        "name": "Barehanded Combat",
+        "p": "Barehanded Combats",
+        "description": ""
+    },
+    "bersekattack": {
+        "name": "Berserk Attack",
+        "p": "Berserk Attacks",
+        "description": ""
+    },
+    "blacksmithing": {
+        "name": "Blacksmithing",
+        "p": "Blacksmithing",
+        "description": ""
+    },
+    "bleeding": {
+        "name": "Bleeding",
+        "p": "Bleedings",
+        "description": ""
+    },
+    "blindingrage": {
+        "name": "Blinding Rage",
+        "p": "Blinding Rages",
+        "description": ""
+    },
+    "blindshot": {
+        "name": "Blind Shot ",
+        "p": "Blind Shots",
+        "description": ""
+    },
+    "bowgun": {
+        "name": "Bowgun",
+        "p": "Bowguns",
+        "description": ""
+    },
+    "bowpistol": {
+        "name": "Bowpistol",
+        "p": "Bowpistols",
+        "description": ""
+    },
+    "building": {
+        "name": "Building",
+        "p": "Buildings",
+        "description": ""
+    },
+    "bullyraggingblast": {
+        "name": "Bullyragging Blast",
+        "p": "Bullyragging Blasts",
+        "description": ""
+    },
+    "camouflage": {
+        "name": "Camouflage",
+        "p": "Camouflage",
+        "description": ""
+    },
+    "caravan": {
+        "name": "Karavan",
+        "p": "Karavans",
+        "description": ""
+    },
+    "cerebralfever": {
+        "name": "Cerebral Fever",
+        "p": "Cerebral Fevers",
+        "description": ""
+    },
+    "clothtailoring": {
+        "name": "Cloth Tailoring",
+        "p": "Cloth Tailoring",
+        "description": ""
+    },
+    "cooking": {
+        "name": "Cooking",
+        "p": "Cooking",
+        "description": ""
+    },
+    "creaturehatred": {
+        "name": "Creature Hatred",
+        "p": "Creature Hatred",
+        "description": ""
+    },
+    "dagger": {
+        "name": "Dagger",
+        "p": "Daggers",
+        "description": ""
+    },
+    "desert": {
+        "name": "Desert",
+        "p": "Deserts",
+        "description": ""
+    },
+    "desertexoticrawmaterialknowledge": {
+        "name": "Desert Exotic Raw Material Knowledge",
+        "p": "Desert Exotic Raw Material Knowledge",
+        "description": ""
+    },
+    "desertkamisknowledge": {
+        "name": "Desert-Kami Knowledge",
+        "p": "Desert-Kamis Knowledge",
+        "description": ""
+    },
+    "deserttravel": {
+        "name": "Desert Travel",
+        "p": "Desert Travels",
+        "description": ""
+    },
+    "digging": {
+        "name": "Digging",
+        "p": "Diggings",
+        "description": ""
+    },
+    "discreetapproach": {
+        "name": "Discreet Approach",
+        "p": "Discreet Approaches",
+        "description": ""
+    },
+    "diving": {
+        "name": "Diving",
+        "p": "Divings",
+        "description": ""
+    },
+    "dodging": {
+        "name": "Dodging",
+        "p": "Dodgings",
+        "description": ""
+    },
+    "dragon": {
+        "name": "Dragon",
+        "p": "Dragons",
+        "description": ""
+    },
+    "dryade": {
+        "name": "Dryad",
+        "p": "Dryads",
+        "description": ""
+    },
+    "dualwield": {
+        "name": "Dual Wield",
+        "p": "Dual Wields",
+        "description": ""
+    },
+    "evaluate": {
+        "name": "Evaluate",
+        "p": "Evaluates",
+        "description": ""
+    },
+    "farshot": {
+        "name": "Far Shot",
+        "p": "Far Shots",
+        "description": ""
+    },
+    "farthrow": {
+        "name": "Far Throw",
+        "p": "Far Throws",
+        "description": ""
+    },
+    "feverprotect": {
+        "name": "Fever Protect",
+        "p": "Fever Protects",
+        "description": ""
+    },
+    "firstaid": {
+        "name": "First Aid",
+        "p": "First Aids",
+        "description": ""
+    },
+    "fishing": {
+        "name": "Fishing",
+        "p": "Fishings",
+        "description": ""
+    },
+    "forest": {
+        "name": "Forest",
+        "p": "Forests",
+        "description": ""
+    },
+    "forestexoticrawmaterialknowledge": {
+        "name": "Forest Exotic Raw Material Knowledge",
+        "p": "Forest Exotic Raw Material Knowledge",
+        "description": ""
+    },
+    "forestkamisknowledge": {
+        "name": "Forest-Kami Knowledge",
+        "p": "Forest-Kamis Knowledge",
+        "description": ""
+    },
+    "foresttravel": {
+        "name": "Forest Travel",
+        "p": "Forest Travels",
+        "description": ""
+    },
+    "frost": {
+        "name": "Frost",
+        "p": "Frosts",
+        "description": ""
+    },
+    "fyros": {
+        "name": "Fyros",
+        "p": "Fyros",
+        "description": ""
+    },
+    "fyrosgoods": {
+        "name": "Fyros Goods",
+        "p": "Fyros Goods",
+        "description": ""
+    },
+    "goo": {
+        "name": "Goo",
+        "p": "Goo",
+        "description": ""
+    },
+    "greataxe": {
+        "name": "Great Axe",
+        "p": "Great Axes",
+        "description": ""
+    },
+    "greatmass": {
+        "name": "Great Mace",
+        "p": "Great Maces",
+        "description": ""
+    },
+    "grenade": {
+        "name": "Grenade",
+        "p": "Grenades",
+        "description": ""
+    },
+    "groundextract": {
+        "name": "Ground Extract",
+        "p": "Ground Extracts",
+        "description": ""
+    },
+    "handtohand": {
+        "name": "Hand to Hand",
+        "p": "Hand to Hand",
+        "description": ""
+    },
+    "harpoon": {
+        "name": "Harpoon ",
+        "p": "Harpoons",
+        "description": ""
+    },
+    "harpoonhunting": {
+        "name": "Underwater Hunting",
+        "p": "Harpoon Huntings",
+        "description": ""
+    },
+    "harvest": {
+        "name": "Harvest",
+        "p": "Harvests",
+        "description": ""
+    },
+    "healingkamisknowledge": {
+        "name": "Healing-Kami Knowledge",
+        "p": "Healing Kamis Knowledge",
+        "description": ""
+    },
+    "hearwithering": {
+        "name": "Hearing Withering",
+        "p": "Hearing Witherings",
+        "description": ""
+    },
+    "heavyarmourwear": {
+        "name": "Wear Heavy Armor",
+        "p": "Wear Heavy Armors",
+        "description": ""
+    },
+    "heavyweapon": {
+        "name": "Heavy Weapon",
+        "p": "Heavy Weapons",
+        "description": ""
+    },
+    "hide": {
+        "name": "Hiding",
+        "p": "Hidings",
+        "description": ""
+    },
+    "hominopponentconsiderweapon": {
+        "name": "Homin Considering",
+        "p": "Homin Considerings",
+        "description": ""
+    },
+    "huntingkamisknowledge": {
+        "name": "Hunting-Kami Knowledge",
+        "p": "Hunting Kamis Knowledge",
+        "description": ""
+    },
+    "jewellery": {
+        "name": "Jewelry",
+        "p": "Jewelry",
+        "description": ""
+    },
+    "jungle": {
+        "name": "Jungle",
+        "p": "Jungles",
+        "description": ""
+    },
+    "jungleexoticrawmaterialknowledge": {
+        "name": "Jungle Exotic Raw Material Knowledge",
+        "p": "Jungle Exotic Raw Material Knowledge",
+        "description": ""
+    },
+    "junglekamisknowledge": {
+        "name": "Jungle-Kami Knowledge",
+        "p": "Jungle-Kamis Knowledge",
+        "description": ""
+    },
+    "jungletravel": {
+        "name": "Jungle Travel",
+        "p": "Jungle Travels",
+        "description": ""
+    },
+    "kami": {
+        "name": "Kami",
+        "p": "Kamis",
+        "description": ""
+    },
+    "kamicshield": {
+        "name": "Kamic Shield",
+        "p": "Kamic Shields",
+        "description": ""
+    },
+    "kamicshock": {
+        "name": "Kamic Shock",
+        "p": "Kamic Shocks",
+        "description": ""
+    },
+    "kick": {
+        "name": "Kick",
+        "p": "Kicks",
+        "description": ""
+    },
+    "kitin": {
+        "name": "Kitin",
+        "p": "Kitin",
+        "description": ""
+    },
+    "lake": {
+        "name": "Lake",
+        "p": "Lakes",
+        "description": ""
+    },
+    "lakearmor": {
+        "name": "Lake Armor",
+        "p": "Lake Armors",
+        "description": ""
+    },
+    "lakeexoticrawmaterialknowledge": {
+        "name": "Lake Exotic Raw Material Knowledge",
+        "p": "Lake Exotic Raw Material Knowledge",
+        "description": ""
+    },
+    "lakekamisknowledge": {
+        "name": "Lake-Kami Knowledge",
+        "p": "Lake-Kamis Knowledge",
+        "description": ""
+    },
+    "laketravel": {
+        "name": "Lake Travel",
+        "p": "Lake Travels",
+        "description": ""
+    },
+    "leadanimal": {
+        "name": "Leading Animal",
+        "p": "Leading Animals",
+        "description": ""
+    },
+    "leathertailoring": {
+        "name": "Leather Tailoring",
+        "p": "Leather Tailorings",
+        "description": ""
+    },
+    "lefthandedattack": {
+        "name": "Left Handed Attack",
+        "p": "Left Handed Attacks",
+        "description": ""
+    },
+    "lefthandedparry": {
+        "name": "Left Handed Parry",
+        "p": "Left Handed Parries",
+        "description": ""
+    },
+    "lifealchemy": {
+        "name": "Life Alchemy",
+        "p": "Life Alchemies",
+        "description": ""
+    },
+    "lifegift": {
+        "name": "Life Gift",
+        "p": "Life Gifts",
+        "description": ""
+    },
+    "lightarmourwear": {
+        "name": "Wear Light Armor ",
+        "p": "Wear Light Armors",
+        "description": ""
+    },
+    "madness": {
+        "name": "Madness",
+        "p": "Madnesses",
+        "description": ""
+    },
+    "magicobjects": {
+        "name": "Magic Object",
+        "p": "Magic Objects",
+        "description": ""
+    },
+    "magictransfert": {
+        "name": "Magic Transfer",
+        "p": "Magic Transfers",
+        "description": ""
+    },
+    "majordryade": {
+        "name": "Major Dryad",
+        "p": "Major Dryads",
+        "description": ""
+    },
+    "majorheallife": {
+        "name": "Major Life Healing",
+        "p": "Major Life Healings",
+        "description": ""
+    },
+    "majorliferegeneration": {
+        "name": "Major Life Regeneration",
+        "p": "Major Life Regenerations",
+        "description": ""
+    },
+    "majormandragore": {
+        "name": "Major Mandragore",
+        "p": "Major Mandragores",
+        "description": ""
+    },
+    "majorsapheal": {
+        "name": "Major Sap Healing",
+        "p": "Major Sap Healings",
+        "description": ""
+    },
+    "majorsapregenearation": {
+        "name": "Major Sap Regenearation",
+        "p": "Major Sap Regenearations",
+        "description": ""
+    },
+    "majorsylve": {
+        "name": "Major Sylve",
+        "p": "Major Sylves",
+        "description": ""
+    },
+    "majortirednessheal": {
+        "name": "Major Tiredness Healing",
+        "p": "Major Tiredness Healings",
+        "description": ""
+    },
+    "majortirednessregenearation": {
+        "name": "Major Tiredness Regeneration",
+        "p": "Major Tiredness Regenerations",
+        "description": ""
+    },
+    "makeanklet": {
+        "name": "Make Anklet",
+        "p": "Make Anklets",
+        "description": ""
+    },
+    "makeautolaunch": {
+        "name": "Make Autolauncher",
+        "p": "Make Autolaunchers",
+        "description": ""
+    },
+    "makeautolaunchammo": {
+        "name": "Make Autolauncher Ammo",
+        "p": "Make Autolauncher Ammo",
+        "description": ""
+    },
+    "makeaxe": {
+        "name": "Make Axe",
+        "p": "Make Axes",
+        "description": ""
+    },
+    "makebag": {
+        "name": "Make Bag",
+        "p": "Make Bags",
+        "description": ""
+    },
+    "makebowgun": {
+        "name": "Make Bowgun",
+        "p": "Make Bowguns",
+        "description": ""
+    },
+    "makebowgunammo": {
+        "name": "Make Bowgun Ammo",
+        "p": "Make Bowgun Ammo",
+        "description": ""
+    },
+    "makebracelet": {
+        "name": "Make Bracelet",
+        "p": "Make Bracelets",
+        "description": ""
+    },
+    "makebuckler": {
+        "name": "Make Buckler",
+        "p": "Make Bucklers",
+        "description": ""
+    },
+    "makeclothes": {
+        "name": "Make Clothes",
+        "p": "Make Clothes",
+        "description": ""
+    },
+    "makedagger": {
+        "name": "Make Dagger",
+        "p": "Make Daggers",
+        "description": ""
+    },
+    "makediadem": {
+        "name": "Make Diadem",
+        "p": "Make Diadems",
+        "description": ""
+    },
+    "makeearing": {
+        "name": "Make Earring",
+        "p": "Make Earrings",
+        "description": ""
+    },
+    "makefireammos": {
+        "name": "Make Incendiary Ammo",
+        "p": "Make Incendiary Ammo",
+        "description": ""
+    },
+    "makefiretoughenedarmors": {
+        "name": "Make Fire Toughened Armor",
+        "p": "Make Fire Toughened Armors",
+        "description": ""
+    },
+    "makefireweapons": {
+        "name": "Make Fire Weapon",
+        "p": "Make Fire Weapons",
+        "description": ""
+    },
+    "makeflorallivingjewels": {
+        "name": "Make Floral Living Jewel",
+        "p": "Make Floral Living Jewels",
+        "description": ""
+    },
+    "makefloralpatternlivingclothes": {
+        "name": "Make Floral Living Clothes",
+        "p": "Make Floral Living Clothes",
+        "description": ""
+    },
+    "makegrenade": {
+        "name": "Make Grenade",
+        "p": "Make Grenades",
+        "description": ""
+    },
+    "makeharpoongun": {
+        "name": "Make Harpoon Gun",
+        "p": "Make Harpoon Guns",
+        "description": ""
+    },
+    "makeharpoongunammo": {
+        "name": "Make Harpoon Gun Ammo",
+        "p": "Make Harpoon Gun Ammo",
+        "description": ""
+    },
+    "makeheavyarmors": {
+        "name": "Make Heavy Armor",
+        "p": "Make Heavy Armors",
+        "description": ""
+    },
+    "makeheavyboots": {
+        "name": "Make Heavy Boots",
+        "p": "Make Heavy Boots",
+        "description": ""
+    },
+    "makeheavygloves": {
+        "name": "Make Heavy Gloves",
+        "p": "Make Heavy Gloves",
+        "description": ""
+    },
+    "makeheavyhelmet": {
+        "name": "Make Heavy Helmet",
+        "p": "Make Heavy Helmets",
+        "description": ""
+    },
+    "makeheavypants": {
+        "name": "Make Heavy Pants",
+        "p": "Make Heavy Pants",
+        "description": ""
+    },
+    "makeheavysleeves": {
+        "name": "Make Heavy Sleeves",
+        "p": "Make Heavy Sleeves",
+        "description": ""
+    },
+    "makeheavyvest": {
+        "name": "Make Heavy Vest",
+        "p": "Make Heavy Vests",
+        "description": ""
+    },
+    "makejewels": {
+        "name": "Make Jewel",
+        "p": "Make Jewels",
+        "description": ""
+    },
+    "makekamicclothes": {
+        "name": "Make Kami Clothes",
+        "p": "Make Kami Clothes",
+        "description": ""
+    },
+    "makekamicjewels": {
+        "name": "Make Kami Jewel",
+        "p": "Make Kami Jewels",
+        "description": ""
+    },
+    "makekamicweapon": {
+        "name": "Make Kami Weapon",
+        "p": "Make Kami Weapons",
+        "description": ""
+    },
+    "makelance": {
+        "name": "Make Spear",
+        "p": "Make Spears",
+        "description": ""
+    },
+    "makelauncher": {
+        "name": "Make Launcher",
+        "p": "Make Launchers",
+        "description": ""
+    },
+    "makelauncherammo": {
+        "name": "Make Launcher Ammo",
+        "p": "Make Launcher Ammo",
+        "description": ""
+    },
+    "makelightboots": {
+        "name": "Make Light Boots",
+        "p": "Make Light Boots",
+        "description": ""
+    },
+    "makelightgloves": {
+        "name": "Make Light Gloves",
+        "p": "Make Light Gloves",
+        "description": ""
+    },
+    "makelighthelmet": {
+        "name": "Make Light Helmet",
+        "p": "Make Light Helmets",
+        "description": ""
+    },
+    "makelightpants": {
+        "name": "Make Light Pants",
+        "p": "Make Light Pants",
+        "description": ""
+    },
+    "makelightsleeves": {
+        "name": "Make Light Sleeves",
+        "p": "Make Light Sleeves",
+        "description": ""
+    },
+    "makelightvest": {
+        "name": "Make Light Vest",
+        "p": "Make Light Vests",
+        "description": ""
+    },
+    "makelongaxe": {
+        "name": "Make Long Axe",
+        "p": "Make Long Axes",
+        "description": ""
+    },
+    "makelongmace": {
+        "name": "Make Long Mace",
+        "p": "Make Long Maces",
+        "description": ""
+    },
+    "makelongsword": {
+        "name": "Make Long Sword",
+        "p": "Make Long Swords",
+        "description": ""
+    },
+    "makemace": {
+        "name": "Make Mace",
+        "p": "Make Maces",
+        "description": ""
+    },
+    "makemediumarmors": {
+        "name": "Make Medium Armor",
+        "p": "Make Medium Armors",
+        "description": ""
+    },
+    "makemediumboots": {
+        "name": "Make Medium Boots",
+        "p": "Make Medium Boots",
+        "description": ""
+    },
+    "makemediumgloves": {
+        "name": "Make Medium Gloves",
+        "p": "Make Medium Gloves",
+        "description": ""
+    },
+    "makemediumhelmet": {
+        "name": "Make Medium Helmet",
+        "p": "Make Medium Helmets",
+        "description": ""
+    },
+    "makemediumpants": {
+        "name": "Make Medium Pants",
+        "p": "Make Medium Pants",
+        "description": ""
+    },
+    "makemediumsleeves": {
+        "name": "Make Medium Sleeves",
+        "p": "Make Medium Sleeves",
+        "description": ""
+    },
+    "makemediumvest": {
+        "name": "Make Medium Vest",
+        "p": "Make Medium Vests",
+        "description": ""
+    },
+    "makemeleeweapons": {
+        "name": "Make Melee Weapon",
+        "p": "Make Melee Weapons",
+        "description": ""
+    },
+    "makependant": {
+        "name": "Make Pendant",
+        "p": "Make Pendants",
+        "description": ""
+    },
+    "makepike": {
+        "name": "Make Pike",
+        "p": "Make Pikes",
+        "description": ""
+    },
+    "makepistol": {
+        "name": "Make Pistol",
+        "p": "Make Pistols",
+        "description": ""
+    },
+    "makepistolammo": {
+        "name": "Make Pistol Ammo",
+        "p": "Make Pistol Ammo",
+        "description": ""
+    },
+    "makepistolarc": {
+        "name": "Make Bowpistol",
+        "p": "Make Bowpistols",
+        "description": ""
+    },
+    "makepistolarcammo": {
+        "name": "Make Bowpistol Ammo",
+        "p": "Make Bowpistol Ammo",
+        "description": ""
+    },
+    "makepoisonnouslivingweapons": {
+        "name": "Make Poisonous Living Weapon ",
+        "p": "Make Poisonous Living Weapons",
+        "description": ""
+    },
+    "makerangeweaponammos": {
+        "name": "Make Range Weapon Ammo",
+        "p": "Make Range Weapon Ammo",
+        "description": ""
+    },
+    "makerangeweapons": {
+        "name": "Make Range Weapon",
+        "p": "Make Range Weapons",
+        "description": ""
+    },
+    "makerifle": {
+        "name": "Make Rifle",
+        "p": "Make Rifles",
+        "description": ""
+    },
+    "makerifleammo": {
+        "name": "Make Rifle Ammo",
+        "p": "Make Rifle Ammo",
+        "description": ""
+    },
+    "makering": {
+        "name": "Make Ring",
+        "p": "Make Rings",
+        "description": ""
+    },
+    "makeshield": {
+        "name": "Make Shield",
+        "p": "Make Shields",
+        "description": ""
+    },
+    "makeshiftrepair": {
+        "name": "Makeshift Repair",
+        "p": "Makeshift Repairs",
+        "description": ""
+    },
+    "makesurvivaltools": {
+        "name": "Make Survival Tool",
+        "p": "Make Survival Tools",
+        "description": ""
+    },
+    "makesurvivalweapon": {
+        "name": "Make Survival Weapon",
+        "p": "Make Survival Weapons",
+        "description": ""
+    },
+    "makesword": {
+        "name": "Make Sword",
+        "p": "Make Swords",
+        "description": ""
+    },
+    "makethrowingweapon": {
+        "name": "Make Throwing Weapon",
+        "p": "Make Throwing Weapons",
+        "description": ""
+    },
+    "maketools": {
+        "name": "Make Tool",
+        "p": "Make Tools",
+        "description": ""
+    },
+    "maketwo_handsmeleeweapons": {
+        "name": "Make Two-Handed Melee Weapon",
+        "p": "Make Two-Handed Melee Weapons",
+        "description": ""
+    },
+    "maketwo_handsrangeweaponammos": {
+        "name": "Make Two-Handed Range Weapon Ammo",
+        "p": "Make Two-Handed Range Weapon Ammo",
+        "description": ""
+    },
+    "maketwo_handsrangeweapons": {
+        "name": "Make Two-Handed Range Weapon",
+        "p": "Make Two-Handed Range Weapons",
+        "description": ""
+    },
+    "mandragore": {
+        "name": "Mandragore",
+        "p": "Mandragores",
+        "description": ""
+    },
+    "mandrakefist": {
+        "name": "Mandrake Fist",
+        "p": "Mandrake Fists",
+        "description": ""
+    },
+    "mass": {
+        "name": "Mace",
+        "p": "Maces",
+        "description": ""
+    },
+    "massivethrow": {
+        "name": "Massive Throw",
+        "p": "Massive Throws",
+        "description": ""
+    },
+    "matis": {
+        "name": "Matis",
+        "p": "Matis",
+        "description": ""
+    },
+    "matisgoods": {
+        "name": "Matis Goods",
+        "p": "Matis Goods",
+        "description": ""
+    },
+    "matismystery": {
+        "name": "Matis Mystery",
+        "p": "Matis Mysteries",
+        "description": ""
+    },
+    "mechanic": {
+        "name": "Mechanic",
+        "p": "Mechanics",
+        "description": ""
+    },
+    "mediumarmourwear": {
+        "name": "Wear Medium Armor",
+        "p": "Wear Medium Armors",
+        "description": ""
+    },
+    "minorlifeheal": {
+        "name": "Minor Life Healing",
+        "p": "Minor Life Healings",
+        "description": ""
+    },
+    "minorsapheal": {
+        "name": "Minor Sap Healing",
+        "p": "Minor Sap Healings",
+        "description": ""
+    },
+    "minortirednessheal": {
+        "name": "Minor Tiredness Healing",
+        "p": "Minor Tiredness Healings",
+        "description": ""
+    },
+    "mirror": {
+        "name": "Mirror",
+        "p": "Mirrors",
+        "description": ""
+    },
+    "muscularfever": {
+        "name": "Muscular Fever",
+        "p": "Muscular Fevers",
+        "description": ""
+    },
+    "nervousfever": {
+        "name": "Nervous Fever",
+        "p": "Nervous Fevers",
+        "description": ""
+    },
+    "nightshot": {
+        "name": "Night Shot",
+        "p": "Night Shots",
+        "description": ""
+    },
+    "nunb": {
+        "name": "Numb",
+        "p": "Numbs",
+        "description": ""
+    },
+    "onhorsebackmelee": {
+        "name": "Mounted Fighting",
+        "p": "Mounted Fightings",
+        "description": ""
+    },
+    "onhorsebackshoot": {
+        "name": "Mounted Shooting",
+        "p": "Mounted Shootings",
+        "description": ""
+    },
+    "painshare": {
+        "name": "Pain Share",
+        "p": "Pain Shares",
+        "description": ""
+    },
+    "paralysis": {
+        "name": "Paralysis",
+        "p": "Paralyses",
+        "description": ""
+    },
+    "pike": {
+        "name": "Pike",
+        "p": "Pikes",
+        "description": ""
+    },
+    "pikehunting": {
+        "name": "Creature Hunting",
+        "p": "Creature Huntings",
+        "description": ""
+    },
+    "pistol": {
+        "name": "Pistol",
+        "p": "Pistols",
+        "description": ""
+    },
+    "planthatred": {
+        "name": "Plant Hatred",
+        "p": "Plant Hatreds",
+        "description": ""
+    },
+    "pointblankshot": {
+        "name": "Point Blank Shot",
+        "p": "Point Blank Shots",
+        "description": ""
+    },
+    "primaryroots": {
+        "name": "Primary Roots",
+        "p": "Primary Roots",
+        "description": ""
+    },
+    "protectingkamisknoledge": {
+        "name": "Protecting-Kamis Knowledge",
+        "p": "Protecting-Kamis Knowledge",
+        "description": ""
+    },
+    "quartering": {
+        "name": "Quartering",
+        "p": "Quarterings",
+        "description": ""
+    },
+    "quickshot": {
+        "name": "Quick Shot",
+        "p": "Quick Shots",
+        "description": ""
+    },
+    "quickthrow": {
+        "name": "Quick Throw",
+        "p": "Quick Throws",
+        "description": ""
+    },
+    "range": {
+        "name": "Range",
+        "p": "Ranges",
+        "description": ""
+    },
+    "rapidburst": {
+        "name": "Rapid Burst",
+        "p": "Rapid Bursts",
+        "description": ""
+    },
+    "resist": {
+        "name": "Resist",
+        "p": "Resists",
+        "description": ""
+    },
+    "resistance": {
+        "name": "Resistance",
+        "p": "Resistances",
+        "description": ""
+    },
+    "ridepackers": {
+        "name": "Leading Packer",
+        "p": "Leading Packers",
+        "description": ""
+    },
+    "riding": {
+        "name": "Riding",
+        "p": "Ridings",
+        "description": ""
+    },
+    "rifle": {
+        "name": "Rifle",
+        "p": "Rifles",
+        "description": ""
+    },
+    "riflehunting": {
+        "name": "Shooting",
+        "p": "Shootings",
+        "description": ""
+    },
+    "rocket": {
+        "name": "Rocket",
+        "p": "Rockets",
+        "description": ""
+    },
+    "rocktabou": {
+        "name": "Rock Taboo",
+        "p": "Rock Taboos",
+        "description": ""
+    },
+    "rondache": {
+        "name": "Rondache",
+        "p": "Rondaches",
+        "description": ""
+    },
+    "rot": {
+        "name": "Rot",
+        "p": "Rots",
+        "description": ""
+    },
+    "running": {
+        "name": "Running",
+        "p": "Runnings",
+        "description": ""
+    },
+    "sapalchemy": {
+        "name": "Sap Alchemy",
+        "p": "Sap Alchemies",
+        "description": ""
+    },
+    "saparmor": {
+        "name": "Sap Armor",
+        "p": "Sap Armors",
+        "description": ""
+    },
+    "sapgift": {
+        "name": "Sap Gift",
+        "p": "Sap Gifts",
+        "description": ""
+    },
+    "shield": {
+        "name": "Shield",
+        "p": "Shields",
+        "description": ""
+    },
+    "shootandrun": {
+        "name": "Shoot and Run",
+        "p": "Shoot and Runs",
+        "description": ""
+    },
+    "shotprotect": {
+        "name": "Shot Protect",
+        "p": "Shot Protects",
+        "description": ""
+    },
+    "slowingbreath": {
+        "name": "Slowing Breath",
+        "p": "Slowing Breaths",
+        "description": ""
+    },
+    "slowinglife": {
+        "name": "Slowing Life",
+        "p": "Slowing Lives",
+        "description": ""
+    },
+    "spear": {
+        "name": "Spear",
+        "p": "Spears",
+        "description": ""
+    },
+    "spelldeletion": {
+        "name": "Spell Deletion",
+        "p": "Spell Deletions",
+        "description": ""
+    },
+    "spellprotect": {
+        "name": "Spell Protect",
+        "p": "Spell Protects",
+        "description": ""
+    },
+    "spurtingfire": {
+        "name": "Spurting Fire",
+        "p": "Spurting Fires",
+        "description": ""
+    },
+    "squandering": {
+        "name": "Squandering",
+        "p": "Squanderings",
+        "description": ""
+    },
+    "stallsetup": {
+        "name": "Stall Set Up",
+        "p": "Stall Set Ups",
+        "description": ""
+    },
+    "stealbreath": {
+        "name": "Stealing Breath",
+        "p": "Stealing Breaths",
+        "description": ""
+    },
+    "steallife": {
+        "name": "Stealing Life",
+        "p": "Stealing Lives",
+        "description": ""
+    },
+    "stealsap": {
+        "name": "Stealing Sap",
+        "p": "Stealing Sap",
+        "description": ""
+    },
+    "stick": {
+        "name": "Staff",
+        "p": "Staves",
+        "description": ""
+    },
+    "strenghtgift": {
+        "name": "Strength Gift",
+        "p": "Strength Gifts",
+        "description": ""
+    },
+    "swimming": {
+        "name": "Swimming",
+        "p": "Swimmings",
+        "description": ""
+    },
+    "sword": {
+        "name": "Sword",
+        "p": "Swords",
+        "description": ""
+    },
+    "sylphicslide": {
+        "name": "Sylphic Slide",
+        "p": "Sylphic Slide",
+        "description": ""
+    },
+    "sylve": {
+        "name": "Sylve",
+        "p": "Sylves",
+        "description": ""
+    },
+    "tactilewithering": {
+        "name": "Tactile Withering",
+        "p": "Tactile Witherings",
+        "description": ""
+    },
+    "target": {
+        "name": "Target",
+        "p": "Targets",
+        "description": ""
+    },
+    "terror": {
+        "name": "Terror",
+        "p": "Terrors",
+        "description": ""
+    },
+    "tirednessalchemy": {
+        "name": "Tiredness Alchemy",
+        "p": "Tiredness Alchemies",
+        "description": ""
+    },
+    "tracking": {
+        "name": "Tracking",
+        "p": "Trackings",
+        "description": ""
+    },
+    "tradingcenterknowledge": {
+        "name": "Trading Center Knowledge",
+        "p": "Trading Center Knowledges",
+        "description": ""
+    },
+    "trainingagility": {
+        "name": "Training Agility",
+        "p": "Training Agilities",
+        "description": ""
+    },
+    "traininganimal": {
+        "name": "Training Animal",
+        "p": "Training Animals",
+        "description": ""
+    },
+    "trainingcharisme": {
+        "name": "Training Charisma",
+        "p": "Training Charismas",
+        "description": ""
+    },
+    "trainingconstitution": {
+        "name": "Training Constitution",
+        "p": "Training Constitutions",
+        "description": ""
+    },
+    "trainingdiseaseresist": {
+        "name": "Training Disease Resistance",
+        "p": "Training Disease Resistances",
+        "description": ""
+    },
+    "trainingempathie": {
+        "name": "Training Empathy",
+        "p": "Training Empathies",
+        "description": ""
+    },
+    "trainingfearresist": {
+        "name": "Training Fear Resistance",
+        "p": "Training Fear Resistances",
+        "description": ""
+    },
+    "traininghp": {
+        "name": "Training Hit Points",
+        "p": "Training Hit Points",
+        "description": ""
+    },
+    "traininghp2": {
+        "name": "Training Hit Points 2",
+        "p": "Training Hit Points 2",
+        "description": ""
+    },
+    "traininghp3": {
+        "name": "Training Hit Points 3",
+        "p": "Training Hit Points 3",
+        "description": ""
+    },
+    "traininghp4": {
+        "name": "Training Hit Points 4",
+        "p": "Training Hit Points 4",
+        "description": ""
+    },
+    "trainingimpactresist": {
+        "name": "Training Impact Resistance",
+        "p": "Training Impact Resistances",
+        "description": ""
+    },
+    "trainingintelligence": {
+        "name": "Training Intelligence",
+        "p": "Training Intelligences",
+        "description": ""
+    },
+    "trainingmagicresist": {
+        "name": "Training Magic Resistance",
+        "p": "Training Magic Resistances",
+        "description": ""
+    },
+    "trainingperception": {
+        "name": "Training Perception",
+        "p": "Training Perceptions",
+        "description": ""
+    },
+    "trainingseve": {
+        "name": "Training Sap",
+        "p": "Training Sap",
+        "description": ""
+    },
+    "trainingseve2": {
+        "name": "Training Sap 2",
+        "p": "Training Sap 2",
+        "description": ""
+    },
+    "trainingseve3": {
+        "name": "Training Sap 3",
+        "p": "Training Sap 3",
+        "description": ""
+    },
+    "trainingseve4": {
+        "name": "Training Sap 4",
+        "p": "Training Sap 4",
+        "description": ""
+    },
+    "trainingstamina": {
+        "name": "Training Stamina",
+        "p": "Training Stamina",
+        "description": ""
+    },
+    "trainingstamina2": {
+        "name": "Training Stamina 2",
+        "p": "Training Stamina 2",
+        "description": ""
+    },
+    "trainingstamina3": {
+        "name": "Training Stamina 3",
+        "p": "Training Stamina 3",
+        "description": ""
+    },
+    "trainingstamina4": {
+        "name": "Training Stamina 4",
+        "p": "Training Stamina 4",
+        "description": ""
+    },
+    "trainingstrength": {
+        "name": "Training Strength",
+        "p": "Training Strengths",
+        "description": ""
+    },
+    "trainingtechnoresist": {
+        "name": "Training Techno Resistance",
+        "p": "Training Techno Resistances",
+        "description": ""
+    },
+    "trainingwellbalanced": {
+        "name": "Training Balance",
+        "p": "Training Balance",
+        "description": ""
+    },
+    "trainingwill": {
+        "name": "Training Will",
+        "p": "Training Wills",
+        "description": ""
+    },
+    "tryker": {
+        "name": "Tryker",
+        "p": "Trykers",
+        "description": ""
+    },
+    "trykergoods": {
+        "name": "Tryker Goods",
+        "p": "Tryker Goods",
+        "description": ""
+    },
+    "trykermystery": {
+        "name": "Tryker Mystery",
+        "p": "Tryker Mysteries",
+        "description": ""
+    },
+    "twohandedcombat": {
+        "name": "Two-Handed Combat",
+        "p": "Two-Handed Combats",
+        "description": ""
+    },
+    "twohandssword": {
+        "name": "Two-Handed Sword",
+        "p": "Two-Handed Swords",
+        "description": ""
+    },
+    "underwaterextract": {
+        "name": "Underwater Extract",
+        "p": "Underwater Extracts",
+        "description": ""
+    },
+    "visualwithering": {
+        "name": "Visual Withering",
+        "p": "Visual Witherings",
+        "description": ""
+    },
+    "vitalburst": {
+        "name": "Vital Burst",
+        "p": "Vital Bursts",
+        "description": ""
+    },
+    "warriorgift": {
+        "name": "Warrior Gift",
+        "p": "Warrior Gifts",
+        "description": ""
+    },
+    "weaponscutting": {
+        "name": "Weapons Cutting",
+        "p": "Weapons Cuttings",
+        "description": ""
+    },
+    "windarmor": {
+        "name": "Wind Armor",
+        "p": "Wind Armors",
+        "description": ""
+    },
+    "windgift": {
+        "name": "Wind Gift",
+        "p": "Wind Gifts",
+        "description": ""
+    },
+    "windshear": {
+        "name": "Wind Shear",
+        "p": "Wind Shears",
+        "description": ""
+    },
+    "zorai": {
+        "name": "Zoraï",
+        "p": "Zoraïs",
+        "description": ""
+    },
+    "zoraigoods": {
+        "name": "Zoraï Goods",
+        "p": "Zoraï Goods",
+        "description": ""
+    },
+    "zoraimystery": {
+        "name": "Zoraï Mystery",
+        "p": "Zoraï Mysteries",
+        "description": ""
+    },
+    "trainingimpactresist2": {
+        "name": "Training Impact Resist 2",
+        "p": "Training Impact Resists 2",
+        "description": ""
+    },
+    "trainingimpactresist3": {
+        "name": "Training Impact Resist 3",
+        "p": "Training Impact Resists 3",
+        "description": ""
+    },
+    "trainingmagicresist2": {
+        "name": "Training Magic Resist 2",
+        "p": "Training Magic Resists 2",
+        "description": ""
+    },
+    "trainingmagicresist3": {
+        "name": "Training Magic Resist 3",
+        "p": "Training Magic Resists 3",
+        "description": ""
+    },
+    "makeenchantedweapons": {
+        "name": "Make Enchanted Weapons",
+        "p": "Make Enchanted Weapons",
+        "description": ""
+    },
+    "makeenchantedarmors": {
+        "name": "Make Enchanted Armors",
+        "p": "Make Enchanted Armors",
+        "description": ""
+    },
+    "makevampiricweapons": {
+        "name": "Make Vampiric Weapons",
+        "p": "Make Vampiric Weapons",
+        "description": ""
+    },
+    "makeenchantedfloralpatternlivingclothes": {
+        "name": "Make Enchanted Floral Pattern Living Clothes",
+        "p": "Make Enchanted Floral Pattern Living Clothes",
+        "description": ""
+    },
+    "makedeadlyharpoongun": {
+        "name": "Make Deadly Harpoongun",
+        "p": "Make Deadly Harpoonguns",
+        "description": ""
+    },
+    "makehuntingarmors": {
+        "name": "Make Hunting Armors",
+        "p": "Make Hunting Armors",
+        "description": ""
+    },
+    "makeritualclothes": {
+        "name": "Make Ritual Clothes",
+        "p": "Make Ritual Clothes",
+        "description": ""
+    },
+    "makeritualjewels": {
+        "name": "Make Ritual Jewels",
+        "p": "Make Ritual Jewels",
+        "description": ""
+    },
+    "sc": {
+        "name": "Craft",
+        "p": "Craft",
+        "description": "Craft"
+    },
+    "sm": {
+        "name": "Magic",
+        "p": "Magic",
+        "description": "Magic"
+    },
+    "smt": {
+        "name": "Impact Magic",
+        "p": "Magic Targeted",
+        "description": "Magic targeted"
+    },
+    "smtm": {
+        "name": "Missile Magic",
+        "p": "Magic Targeted Missile",
+        "description": "Magic targeted missile"
+    },
+    "smtmr": {
+        "name": "Primal Magic",
+        "p": "Magic Targeted Missile - Primal",
+        "description": "Magic targeted missile - Primal"
+    },
+    "smtmg": {
+        "name": "Atysian Magic",
+        "p": "Magic Targeted Missile - Atysian",
+        "description": "Magic targeted missile - Atysian"
+    },
+    "smtmb": {
+        "name": "Celestial Magic",
+        "p": "Magic Targeted Missile - Celestial",
+        "description": "Magic targeted missile - Celestial"
+    },
+    "smto": {
+        "name": "Offensive Magic",
+        "p": "Magic Targeted Offensive",
+        "description": "Magic targeted offensive"
+    },
+    "smtod": {
+        "name": "Physical Magic",
+        "p": "Magic Targeted Offensive Damage",
+        "description": "Magic targeted offensive damage"
+    },
+    "smtodp": {
+        "name": "Piercing Magic",
+        "p": "Magic Targeted Offensive Damage - Piercing",
+        "description": "Magic targeted offensive damage - piercing"
+    },
+    "smtodb": {
+        "name": "Smashing Magic",
+        "p": "Magic Targeted Offensive Damage - Smashing",
+        "description": "Magic targeted offensive damage - smashing"
+    },
+    "smtods": {
+        "name": "Slashing Magic",
+        "p": "Magic Targeted Offensive Damage - Slashing",
+        "description": "Magic targeted offensive damage - slashing"
+    },
+    "smtoe": {
+        "name": "Elemental Magic",
+        "p": "Magic Targeted Offensive Special Damage",
+        "description": "Magic targeted offensive special damage"
+    },
+    "smtoec": {
+        "name": "Cold Magic",
+        "p": "Magic Targeted Offensive Special Damage - Cold",
+        "description": "Magic targeted offensive special damage - cold"
+    },
+    "smtoea": {
+        "name": "Acid Magic",
+        "p": "Magic Targeted Offensive Special Damage - Acid",
+        "description": "Magic targeted offensive special damage - acid"
+    },
+    "smtoer": {
+        "name": "Rot Magic",
+        "p": "Magic Targeted Offensive Special Damage - Rot",
+        "description": "Magic targeted offensive special damage - rot"
+    },
+    "smtoef": {
+        "name": "Fire Magic",
+        "p": "Magic Targeted Offensive Special Damage - Fire",
+        "description": "Magic targeted offensive special damage - fire"
+    },
+    "smtoes": {
+        "name": "Shockwave Magic",
+        "p": "Magic Targeted Offensive Special Damage - Shockwave",
+        "description": "Magic targeted offensive special damage - shockwave"
+    },
+    "smtoep": {
+        "name": "Poison Magic",
+        "p": "Magic Targeted Offensive Special Damage - Poison",
+        "description": "Magic targeted offensive special damage - poison"
+    },
+    "smtoee": {
+        "name": "Electricity Magic",
+        "p": "Magic Targeted Offensive Special Damage - Electricity",
+        "description": "Magic targeted offensive special damage - electricity"
+    },
+    "smtc": {
+        "name": "Curative Magic",
+        "p": "Magic Targeted Curative",
+        "description": "Magic targeted curative"
+    },
+    "smtch": {
+        "name": "Healing Magic",
+        "p": "Magic Targeted Curative Heal",
+        "description": "Magic targeted curative heal"
+    },
+    "smtchp": {
+        "name": "Hp Healing Magic",
+        "p": "Magic Targeted Curative Heal - hit points",
+        "description": "Magic targeted curative heal - hit points"
+    },
+    "smtcht": {
+        "name": "Sta Healing Magic",
+        "p": "Magic Targeted Curative Heal - Sta",
+        "description": "Magic targeted curative heal - STA"
+    },
+    "smtcha": {
+        "name": "Sap Healing Magic",
+        "p": "Magic Targeted Curative Heal - Sap",
+        "description": "Magic targeted curative heal - SAP"
+    },
+    "smtchc": {
+        "name": "Focus Healing Magic",
+        "p": "Magic Targeted Curative Heal - Focus",
+        "description": "Magic targeted curative heal - Focus"
+    },
+    "smtcb": {
+        "name": "Break Link",
+        "p": "Magic Targeted Curative Break Link",
+        "description": "Magic targeted curative break link"
+    },
+    "smtcbd": {
+        "name": "Break Link Damage",
+        "p": "Magic Targeted Curative Break Link - Damage",
+        "description": "Magic targeted curative break link - damage"
+    },
+    "smtcbs": {
+        "name": "Break Link Sickness",
+        "p": "Magic Targeted Curative Break Link - Sickness",
+        "description": "Magic targeted curative break link - sickness"
+    },
+    "smtcbc": {
+        "name": "Break Link Curse",
+        "p": "Magic Targeted Curative Break Link - Curse",
+        "description": "Magic targeted curative break link - curse"
+    },
+    "sml": {
+        "name": "Magic Link",
+        "p": "Magic Link",
+        "description": "Magic link"
+    },
+    "smlm": {
+        "name": "Missile Link",
+        "p": "Magic Link Missile",
+        "description": "Magic link missile"
+    },
+    "smlmr": {
+        "name": "Primal Link",
+        "p": "Magic Link Missile - Primal",
+        "description": "Magic link missile - Primal"
+    },
+    "smlmg": {
+        "name": "Atysian Link",
+        "p": "Magic Link Missile - Atysian",
+        "description": "Magic link missile - Atysian"
+    },
+    "smlmb": {
+        "name": "Celestial Link",
+        "p": "Magic Link Missile - Celestial",
+        "description": "Magic link missile - Celestial"
+    },
+    "smlo": {
+        "name": "Offensive Link",
+        "p": "Magic Link Offensive",
+        "description": "Magic link offensive"
+    },
+    "smlos": {
+        "name": "Sickness Link",
+        "p": "Magic Link Offensive Sickness",
+        "description": "Magic link offensive sickness"
+    },
+    "smlosm": {
+        "name": "Madness Link",
+        "p": "Magic Link Offensive Sickness - Madness",
+        "description": "Magic link offensive sickness - madness"
+    },
+    "smloss": {
+        "name": "Speed Debuff Link",
+        "p": "Magic Link Offensive Sickness - Speed Debuff",
+        "description": "Magic link offensive sickness - speed debuff"
+    },
+    "smlosr": {
+        "name": "Resist Debuff Link",
+        "p": "Magic Link Offensive Sickness - Resist Debuff",
+        "description": "Magic link offensive sickness - resist debuff"
+    },
+    "smlosk": {
+        "name": "Skill Debuff Link",
+        "p": "Magic Link Offensive Sickness - Skill Debuff",
+        "description": "Magic link offensive sickness - skill debuff"
+    },
+    "smloc": {
+        "name": "Curse Link",
+        "p": "Magic Link Offensive Curse",
+        "description": "Magic link offensive curse"
+    },
+    "smloci": {
+        "name": "Incapacity Link",
+        "p": "Magic Link Offensive Curse - Incapacity",
+        "description": "Magic link offensive curse - incapacity"
+    },
+    "smlocm": {
+        "name": "Mental Disturbance Link",
+        "p": "Magic Link Offensive Curse - Mental Disturbance",
+        "description": "Magic link offensive curse - mental disturbance"
+    },
+    "smlocs": {
+        "name": "Misfortune Link",
+        "p": "Magic Link Offensive Curse - Misfortune",
+        "description": "Magic link offensive curse - misfortune"
+    },
+    "smloch": {
+        "name": "Hatred Link",
+        "p": "Magic Link Offensive Curse - Hatred",
+        "description": "Magic link offensive curse - hatred"
+    },
+    "smlod": {
+        "name": "Physical Link",
+        "p": "Magic Link Offensive Damage",
+        "description": "Magic link offensive damage"
+    },
+    "smlodp": {
+        "name": "Piercing Link",
+        "p": "Magic Link Offensive Damage - Piercing",
+        "description": "Magic link offensive damage - piercing"
+    },
+    "smlodb": {
+        "name": "Smashing Link",
+        "p": "Magic Link Offensive Damage - Smashing",
+        "description": "Magic link offensive damage - smashing"
+    },
+    "smlods": {
+        "name": "Slashing Link",
+        "p": "Magic Link Offensive Damage - Slashing",
+        "description": "Magic link offensive damage - slashing"
+    },
+    "smloe": {
+        "name": "Elemental Link",
+        "p": "Magic Link Offensive Special Damage",
+        "description": "Magic link offensive special damage"
+    },
+    "smloec": {
+        "name": "Cold Link",
+        "p": "Magic Link Offensive Special Damage - Cold",
+        "description": "Magic link offensive special damage - cold"
+    },
+    "smloea": {
+        "name": "Acid Link",
+        "p": "Magic Link Offensive Special Damage - Acid",
+        "description": "Magic link offensive special damage - acid"
+    },
+    "smloer": {
+        "name": "Rot Link",
+        "p": "Magic Link Offensive Special Damage - Rot",
+        "description": "Magic link offensive special damage - rot"
+    },
+    "smloef": {
+        "name": "Fire Link",
+        "p": "Magic Link Offensive Special Damage - Fire",
+        "description": "Magic link offensive special damage - fire"
+    },
+    "smloes": {
+        "name": "Shockwave Link",
+        "p": "Magic Link Offensive Special Damage - Shockwave",
+        "description": "Magic link offensive special damage - shockwave"
+    },
+    "smloep": {
+        "name": "Poison Link",
+        "p": "Magic Link Offensive Special Damage - Poison",
+        "description": "Magic link offensive special damage - poison"
+    },
+    "smloee": {
+        "name": "Electricity Link",
+        "p": "Magic Link Offensive Special Damage - Electricity",
+        "description": "Magic link offensive special damage - electricity"
+    },
+    "smlc": {
+        "name": "Curative Link",
+        "p": "Magic Link Curative",
+        "description": "Magic link curative"
+    },
+    "smlch": {
+        "name": "Healing Link",
+        "p": "Magic Link Curative Heal",
+        "description": "Magic link curative heal"
+    },
+    "smlchp": {
+        "name": "Hp Healing Link",
+        "p": "Magic Link Curative Heal - hit points",
+        "description": "Magic link curative heal - hit points"
+    },
+    "smlcht": {
+        "name": "Sta Healing Link",
+        "p": "Magic Link Curative Heal - Sta",
+        "description": "Magic link curative heal - STA"
+    },
+    "smlcha": {
+        "name": "Sap Healing Link",
+        "p": "Magic Link Curative Heal - Sap",
+        "description": "Magic link curative heal - SAP"
+    },
+    "smlchc": {
+        "name": "Focus Healing Link",
+        "p": "Magic Link Curative Heal - Focus",
+        "description": "Magic link curative heal - Focus"
+    },
+    "sma": {
+        "name": "Autonomous Magic",
+        "p": "Magic Autonomous",
+        "description": "Magic autonomous"
+    },
+    "smae": {
+        "name": "Enchantment Magic",
+        "p": "Magic Enchantment",
+        "description": "Magic enchantment"
+    },
+    "smaes": {
+        "name": "Spell Enchantment",
+        "p": "Magic Enchantment - Spell",
+        "description": "Magic enchantment - spell"
+    },
+    "smaeb": {
+        "name": "Bonus Enchantment",
+        "p": "Magic Enchantment - Bonus",
+        "description": "Magic enchantment - bonus"
+    },
+    "smap": {
+        "name": "Potion Making Magic",
+        "p": "Magic Potion Making",
+        "description": "Magic potion making"
+    },
+    "sd": {
+        "name": "Defense",
+        "p": "Defense",
+        "description": "Defense"
+    },
+    "sda": {
+        "name": "Armor Defense",
+        "p": "Armor Defense",
+        "description": "Armor defense"
+    },
+    "sdal": {
+        "name": "Light Armor Defense",
+        "p": "Light Armor Defense",
+        "description": "Light armor defense"
+    },
+    "sdalf": {
+        "name": "Light Armor Defense - Fyros",
+        "p": "Light Armor Defense - Fyros",
+        "description": "Light armor defense - Fyros"
+    },
+    "sdalfa": {
+        "name": "Advanced Light Armor Defense - Fyros",
+        "p": "Advanced Light Armor Defense - Fyros",
+        "description": "Advanced light armor defense - Fyros"
+    },
+    "sdalfae": {
+        "name": "Expert Light Armor Defense - Fyros",
+        "p": "Expert Light Armor Defense - Fyros",
+        "description": "Expert light armor defense - Fyros"
+    },
+    "sdalm": {
+        "name": "Light Armor Defense - Matis",
+        "p": "Light Armor Defense - Matis",
+        "description": "Light armor defense - Matis"
+    },
+    "sdalma": {
+        "name": "Advanced Light Armor Defense - Matis",
+        "p": "Advanced Light Armor Defense - Matis",
+        "description": "Advanced light armor defense - Matis"
+    },
+    "sdalmae": {
+        "name": "Expert Light Armor Defense - Matis",
+        "p": "Expert Light Armor Defense - Matis",
+        "description": "Expert light armor defense - Matis"
+    },
+    "sdalt": {
+        "name": "Light Armor Defense - Tryker",
+        "p": "Light Armor Defense - Tryker",
+        "description": "Light armor defense - Tryker"
+    },
+    "sdalta": {
+        "name": "Advanced Light Armor Defense - Tryker",
+        "p": "Advanced Light Armor Defense - Tryker",
+        "description": "Advanced light armor defense - Tryker"
+    },
+    "sdaltae": {
+        "name": "Expert Light Armor Defense - Tryker",
+        "p": "Expert Light Armor Defense - Tryker",
+        "description": "Expert light armor defense - Tryker"
+    },
+    "sdalz": {
+        "name": "Light Armor Defense - Zoraï",
+        "p": "Light Armor Defense - Zoraï",
+        "description": "Light armor defense - Zoraï"
+    },
+    "sdalza": {
+        "name": "Advanced Light Armor Defense - Zoraï",
+        "p": "Advanced Light Armor Defense - Zoraï",
+        "description": "Advanced light armor defense - Zoraï"
+    },
+    "sdalzae": {
+        "name": "Expert Light Armor Defense - Zoraï",
+        "p": "Expert Light Armor Defense - Zoraï",
+        "description": "Expert light armor defense - Zoraï"
+    },
+    "sdam": {
+        "name": "Medium Armor Defense",
+        "p": "Medium Armor Defense",
+        "description": "Medium armor defense"
+    },
+    "sdamf": {
+        "name": "Medium Armor Defense - Fyros",
+        "p": "Medium Armor Defense - Fyros",
+        "description": "Medium armor defense - Fyros"
+    },
+    "sdamfa": {
+        "name": "Advanced Medium Armor Defense - Fyros",
+        "p": "Advanced Medium Armor Defense - Fyros",
+        "description": "Advanced medium armor defense - Fyros"
+    },
+    "sdamfae": {
+        "name": "Expert Medium Armor Defense - Fyros",
+        "p": "Expert Medium Armor Defense - Fyros",
+        "description": "Expert medium armor defense - Fyros"
+    },
+    "sdamm": {
+        "name": "Medium Armor Defense - Matis",
+        "p": "Medium Armor Defense - Matis",
+        "description": "Medium armor defense - Matis"
+    },
+    "sdamma": {
+        "name": "Advanced Medium Armor Defense - Matis",
+        "p": "Advanced Medium Armor Defense - Matis",
+        "description": "Advanced medium armor defense - Matis"
+    },
+    "sdammae": {
+        "name": "Expert Medium Armor Defense - Matis",
+        "p": "Expert Medium Armor Defense - Matis",
+        "description": "Expert medium armor defense - Matis"
+    },
+    "sdamt": {
+        "name": "Medium Armor Defense - Tryker",
+        "p": "Medium Armor Defense - Tryker",
+        "description": "Medium armor defense - Tryker"
+    },
+    "sdamta": {
+        "name": "Advanced Medium Armor Defense - Tryker",
+        "p": "Advanced Medium Armor Defense - Tryker",
+        "description": "Advanced medium armor defense - Tryker"
+    },
+    "sdamtae": {
+        "name": "Expert Medium Armor Defense - Tryker",
+        "p": "Expert Medium Armor Defense - Tryker",
+        "description": "Expert medium armor defense - Tryker"
+    },
+    "sdamz": {
+        "name": "Medium Armor Defense - Zoraï",
+        "p": "Medium Armor Defense - Zoraï",
+        "description": "Medium armor defense - Zoraï"
+    },
+    "sdamza": {
+        "name": "Advanced Medium Armor Defense - Zoraï",
+        "p": "Advanced Medium Armor Defense - Zoraï",
+        "description": "Advanced medium armor defense - Zoraï"
+    },
+    "sdamzae": {
+        "name": "Expert Medium Armor Defense - Zoraï",
+        "p": "Expert Medium Armor Defense - Zoraï",
+        "description": "Expert medium armor defense - Zoraï"
+    },
+    "sdah": {
+        "name": "Heavy Armor Defense",
+        "p": "Heavy Armor Defense",
+        "description": "Heavy armor defense"
+    },
+    "sdahf": {
+        "name": "Heavy Armor Defense - Fyros",
+        "p": "Heavy Armor Defense - Fyros",
+        "description": "Heavy armor defense - Fyros"
+    },
+    "sdahfa": {
+        "name": "Advanced Heavy Armor Defense - Fyros",
+        "p": "Advanced Heavy Armor Defense - Fyros",
+        "description": "Advanced Heavy armor defense - Fyros"
+    },
+    "sdahfae": {
+        "name": "Expert Heavy Armor Defense - Fyros",
+        "p": "Expert Heavy Armor Defense - Fyros",
+        "description": "Expert Heavy armor defense - Fyros"
+    },
+    "sdahm": {
+        "name": "Heavy Armor Defense - Matis",
+        "p": "Heavy Armor Defense - Matis",
+        "description": "Heavy armor defense - Matis"
+    },
+    "sdahma": {
+        "name": "Advanced Heavy Armor Defense - Matis",
+        "p": "Advanced Heavy Armor Defense - Matis",
+        "description": "Advanced Heavy armor defense - Matis"
+    },
+    "sdahmae": {
+        "name": "Expert Heavy Armor Defense - Matis",
+        "p": "Expert Heavy Armor Defense - Matis",
+        "description": "Expert Heavy armor defense - Matis"
+    },
+    "sdaht": {
+        "name": "Heavy Armor Defense - Tryker",
+        "p": "Heavy Armor Defense - Tryker",
+        "description": "Heavy armor defense - Tryker"
+    },
+    "sdahta": {
+        "name": "Advanced Heavy Armor Defense - Tryker",
+        "p": "Advanced Heavy Armor Defense - Tryker",
+        "description": "Advanced Heavy armor defense - Tryker"
+    },
+    "sdahtae": {
+        "name": "Expert Heavy Armor Defense - Tryker",
+        "p": "Expert Heavy Armor Defense - Tryker",
+        "description": "Expert Heavy armor defense - Tryker"
+    },
+    "sdahz": {
+        "name": "Heavy Armor Defense - Zoraï",
+        "p": "Heavy Armor Defense - Zoraï",
+        "description": "Heavy armor defense - Zoraï"
+    },
+    "sdahza": {
+        "name": "Advanced Heavy Armor Defense - Zoraï",
+        "p": "Advanced Heavy Armor Defense - Zoraï",
+        "description": "Advanced Heavy armor defense - Zoraï"
+    },
+    "sdahzae": {
+        "name": "Expert Heavy Armor Defense - Zoraï",
+        "p": "Expert Heavy Armor Defense - Zoraï",
+        "description": "Expert Heavy armor defense - Zoraï"
+    },
+    "sds": {
+        "name": "Shield Defense",
+        "p": "Shield Defense",
+        "description": "Shield defense"
+    },
+    "sdsb": {
+        "name": "Shield Buckler Defense ",
+        "p": "Shield Buckler Defense ",
+        "description": "Shield buckler defense "
+    },
+    "sdsbf": {
+        "name": "Shield Buckler Defense - Fyros",
+        "p": "Shield Buckler Defense - Fyros",
+        "description": "Shield buckler defense - Fyros"
+    },
+    "sdsbfa": {
+        "name": "Advanced Shield Buckler Defense - Fyros",
+        "p": "Advanced Shield Buckler Defense - Fyros",
+        "description": "Advanced shield buckler defense - Fyros"
+    },
+    "sdsbfae": {
+        "name": "Expert Shield Buckler Defense - Fyros",
+        "p": "Expert Shield Buckler Defense - Fyros",
+        "description": "Expert shield buckler defense - Fyros"
+    },
+    "sdsbm": {
+        "name": "Shield Buckler Defense - Matis",
+        "p": "Shield Buckler Defense - Matis",
+        "description": "Shield buckler defense - Matis"
+    },
+    "sdsbma": {
+        "name": "Advanced Shield Buckler Defense - Matis",
+        "p": "Advanced Shield Buckler Defense - Matis",
+        "description": "Advanced shield buckler defense - Matis"
+    },
+    "sdsbmae": {
+        "name": "Expert Shield Buckler Defense - Matis",
+        "p": "Expert Shield Buckler Defense - Matis",
+        "description": "Expert shield buckler defense - Matis"
+    },
+    "sdsbt": {
+        "name": "Shield Buckler Defense - Tryker",
+        "p": "Shield Buckler Defense - Tryker",
+        "description": "Shield buckler defense - Tryker"
+    },
+    "sdsbta": {
+        "name": "Advanced Shield Buckler Defense - Tryker",
+        "p": "Advanced Shield Buckler Defense - Tryker",
+        "description": "Advanced shield buckler defense - Tryker"
+    },
+    "sdsbtae": {
+        "name": "Expert Shield Buckler Defense - Tryker",
+        "p": "Expert Shield Buckler Defense - Tryker",
+        "description": "Expert shield buckler defense - Tryker"
+    },
+    "sdsbz": {
+        "name": "Shield Buckler Defense - Zoraï",
+        "p": "Shield Buckler Defense - Zoraï",
+        "description": "Shield buckler defense - Zoraï"
+    },
+    "sdsbza": {
+        "name": "Advanced Shield Buckler Defense - Zoraï",
+        "p": "Advanced Shield Buckler Defense - Zoraï",
+        "description": "Advanced shield buckler defense - Zoraï"
+    },
+    "sdsbzae": {
+        "name": "Expert Shield Buckler Defense - Zoraï",
+        "p": "Expert Shield Buckler Defense - Zoraï",
+        "description": "Expert shield buckler defense - Zoraï"
+    },
+    "sdss": {
+        "name": "Shield Large Shield Defense",
+        "p": "Shield Large Shield Defense",
+        "description": "Shield large shield defense"
+    },
+    "sdssf": {
+        "name": "Shield Large Shield Defense - Fyros",
+        "p": "Shield Large Shield Defense - Fyros",
+        "description": "Shield large shield defense - Fyros"
+    },
+    "sdssfa": {
+        "name": "Advanced Shield Large Shield Defense - Fyros",
+        "p": "Advanced Shield Large Shield Defense - Fyros",
+        "description": "Advanced shield large shield defense - Fyros"
+    },
+    "sdssfae": {
+        "name": "Expert Shield Large Shield Defense - Fyros",
+        "p": "Expert Shield Large Shield Defense - Fyros",
+        "description": "Expert shield large shield defense - Fyros"
+    },
+    "sdssm": {
+        "name": "Shield Large Shield Defense - Matis",
+        "p": "Shield Large Shield Defense - Matis",
+        "description": "Shield large shield defense - Matis"
+    },
+    "sdssma": {
+        "name": "Advanced Shield Large Shield Defense - Matis",
+        "p": "Advanced Shield Large Shield Defense - Matis",
+        "description": "Advanced shield large shield defense - Matis"
+    },
+    "sdssmae": {
+        "name": "Expert Shield Large Shield Defense - Matis",
+        "p": "Expert Shield Large Shield Defense - Matis",
+        "description": "Expert shield large shield defense - Matis"
+    },
+    "sdsst": {
+        "name": "Shield Large Shield Defense - Tryker",
+        "p": "Shield Large Shield Defense - Tryker",
+        "description": "Shield large shield defense - Tryker"
+    },
+    "sdssta": {
+        "name": "Advanced Shield Large Shield Defense - Tryker",
+        "p": "Advanced Shield Large Shield Defense - Tryker",
+        "description": "Advanced shield large shield defense - Tryker"
+    },
+    "sdsstae": {
+        "name": "Expert Shield Large Shield Defense - Tryker",
+        "p": "Expert Shield Large Shield Defense - Tryker",
+        "description": "Expert shield large shield defense - Tryker"
+    },
+    "sdssz": {
+        "name": "Shield Large Shield Defense - Zoraï",
+        "p": "Shield Large Shield Defense - Zoraï",
+        "description": "Shield large shield defense - Zoraï"
+    },
+    "sdssza": {
+        "name": "Advanced Shield Large Shield Defense - Zoraï",
+        "p": "Advanced Shield Large Shield Defense - Zoraï",
+        "description": "Advanced shield large shield defense - Zoraï"
+    },
+    "sdsszae": {
+        "name": "Expert Shield Large Shield Defense - Zoraï",
+        "p": "Expert Shield Large Shield Defense - Zoraï",
+        "description": "Expert shield large shield defense - Zoraï"
+    },
+    "sdd": {
+        "name": "Defense Dodge",
+        "p": "Defense Dodge",
+        "description": "Defense dodge"
+    },
+    "sdda": {
+        "name": "Standard Defense Dodge",
+        "p": "Standard Defense Dodge",
+        "description": "Advanced defense dodge"
+    },
+    "sddat": {
+        "name": "Advanced Defense Dodge",
+        "p": "Advanced Defense Dodge",
+        "description": "Technical advanced defense dodge"
+    },
+    "sddatm": {
+        "name": "Expert Defense Dodge",
+        "p": "Expert Defense Dodge",
+        "description": "Mastery defense dodge"
+    },
+    "sddatme": {
+        "name": "Master Defense Dodge",
+        "p": "Master Defense Dodge",
+        "description": "Expert advanced defense dodge"
+    },
+    "uknown": {
+        "name": "Unknown Skill",
+        "p": "Unknown Skill",
+        "description": "Unknown Skill"
+    },
+    "unknown": {
+        "name": "Unknown Skill",
+        "p": "Unknown Skill",
+        "description": "Unknown Skill"
+    },
+    "sh": {
+        "name": "Harvest",
+        "p": "Harvest",
+        "description": "Harvest"
+    },
+    "shf": {
+        "name": "Forage",
+        "p": "Forages",
+        "description": ""
+    },
+    "shff": {
+        "name": "Forest Forage",
+        "p": "Forest Forages",
+        "description": ""
+    },
+    "shffa": {
+        "name": "Advanced Forest Forage",
+        "p": "Advanced Forest Forages",
+        "description": ""
+    },
+    "shffae": {
+        "name": "Expert Forest Forage",
+        "p": "Expert Forest Forages",
+        "description": ""
+    },
+    "shffaem": {
+        "name": "Master Forest Forage",
+        "p": "Master Forest Forages",
+        "description": ""
+    },
+    "shfd": {
+        "name": "Desert Forage",
+        "p": "Desert Forages",
+        "description": ""
+    },
+    "shfda": {
+        "name": "Advanced Desert Forage",
+        "p": "Advanced Desert Forages",
+        "description": ""
+    },
+    "shfdae": {
+        "name": "Expert Desert Forage",
+        "p": "Expert Desert Forages",
+        "description": ""
+    },
+    "shfdaem": {
+        "name": "Master Desert Forage",
+        "p": "Master Desert Forages",
+        "description": ""
+    },
+    "shfj": {
+        "name": "Jungle Forage",
+        "p": "Jungle Forages",
+        "description": ""
+    },
+    "shfja": {
+        "name": "Advanced Jungle Forage",
+        "p": "Advanced Jungle Forages",
+        "description": ""
+    },
+    "shfjae": {
+        "name": "Expert Jungle Forage",
+        "p": "Expert Jungle Forages",
+        "description": ""
+    },
+    "shfjaem": {
+        "name": "Master Jungle Forage",
+        "p": "Master Jungle Forages",
+        "description": ""
+    },
+    "shfl": {
+        "name": "Lake Forage",
+        "p": "Lake Forages",
+        "description": ""
+    },
+    "shfla": {
+        "name": "Advanced Lake Forage",
+        "p": "Advanced Lake Forages",
+        "description": ""
+    },
+    "shflae": {
+        "name": "Expert Lake Forage",
+        "p": "Expert Lake Forages",
+        "description": ""
+    },
+    "shflaem": {
+        "name": "Master Lake Forage",
+        "p": "Master Lake Forages",
+        "description": ""
+    },
+    "shfp": {
+        "name": "Prime Root Forage",
+        "p": "Prime Root Forages",
+        "description": ""
+    },
+    "shfpa": {
+        "name": "Advanced Prime Root Forage",
+        "p": "Advanced Prime Root Forages",
+        "description": ""
+    },
+    "shfpae": {
+        "name": "Expert Prime Root Forage",
+        "p": "Expert Prime Root Forages",
+        "description": ""
+    },
+    "shfpaem": {
+        "name": "Master Prime Root Forage",
+        "p": "Expert Prime Root Forages",
+        "description": ""
+    },
+    "smtoeca": {
+        "name": "Advanced Cold Magic",
+        "p": "Advanced Magic Targeted Offensive Special Damage - Cold",
+        "description": "Advanced Magic Targeted Offensive special Damage - Cold"
+    },
+    "smtoeaa": {
+        "name": "Advanced Acid Magic",
+        "p": "Advanced Magic Targeted Offensive Special Damage - Acid",
+        "description": "Advanced Magic Targeted Offensive Special Damage - Acid"
+    },
+    "smtoera": {
+        "name": "Advanced Rot Magic",
+        "p": "Advanced Magic Targeted Offensive Special Damage - Rot",
+        "description": "Advanced Magic Targeted Offensive Special Damage - Rot"
+    },
+    "smtoefa": {
+        "name": "Advanced Fire Magic",
+        "p": "Advanced Magic Targeted Offensive Special Damage - Fire",
+        "description": "Advanced Magic Targeted Offensive Special Damage - Fire"
+    },
+    "smtoesa": {
+        "name": "Advanced Shockwave Magic",
+        "p": "Advanced Magic Targeted Offensive Special Damage - Shockwave",
+        "description": "Advanced Magic Targeted Offensive Special Damage - Shockwave"
+    },
+    "smtoepa": {
+        "name": "Advanced Poison Magic",
+        "p": "Advanced Magic Targeted Offensive Special Damage - Poison",
+        "description": "Advanced Magic Targeted Offensive Special Damage - Poison"
+    },
+    "smtoeea": {
+        "name": "Advanced Electricity Magic",
+        "p": "Advanced Magic Targeted Offensive Special Damage - Electricity",
+        "description": "Advanced Magic Targeted Offensive Special Damage - Electricity"
+    },
+    "smtchpa": {
+        "name": "Advanced Healing Magic",
+        "p": "Advanced Magic Targeted Curative Heal - hit points",
+        "description": "Advanced Magic Targeted Curative Heal - hit points"
+    },
+    "smtchta": {
+        "name": "Advanced Stamina Healing Magic",
+        "p": "Advanced Magic Targeted Curative Heal - Stam",
+        "description": "Advanced Magic Targeted Curative Heal - STA"
+    },
+    "smtchaa": {
+        "name": "Advanced Sap Healing Magic",
+        "p": "Advanced Magic Targeted Curative Heal - Sap",
+        "description": "Advanced Magic Targeted Curative Heal - SAP"
+    },
+    "smtchca": {
+        "name": "Advanced Focus Healing Magic",
+        "p": "Advanced Magic Targeted Curative Heal - Focus",
+        "description": "Advanced Magic Targeted Curative Heal - Focus"
+    },
+    "smlosma": {
+        "name": "Advanced Madness Link",
+        "p": "Advanced Magic Link Offensive Sickness - Madness",
+        "description": "Advanced Magic Link Offensive Sickness - Madness"
+    },
+    "smlossa": {
+        "name": "Advanced Speed Debuff Link",
+        "p": "Advanced Magic Link Offensive Sickness - Speed Debuff",
+        "description": "Advanced Magic Link Offensive Sickness - Speed Debuff"
+    },
+    "smlocia": {
+        "name": "Advanced Incapacity Link",
+        "p": "Advanced Magic Link Offensive Curse - Incapacity",
+        "description": "Advanced Magic Link Offensive Curse - Incapacity"
+    },
+    "smlocsa": {
+        "name": "Advanced Misfortune Link",
+        "p": "Advanced Magic Link Offensive Curse - Misfortune",
+        "description": "Advanced Magic Link Offensive Curse - Misfortune"
+    },
+    "smloeca": {
+        "name": "Advanced Cold Link",
+        "p": "Advanced Magic Link Offensive Special Damage - Cold",
+        "description": "Advanced Magic Link Offensive Special Damage - Cold"
+    },
+    "smloeaa": {
+        "name": "Advanced Acid Link",
+        "p": "Advanced Magic Link Offensive Special Damage - Acid",
+        "description": "Advanced Magic Link Offensive Special Damage - Acid"
+    },
+    "smloera": {
+        "name": "Advanced Rot Link",
+        "p": "Advanced Magic Link Offensive Special Damage - Rot",
+        "description": "Advanced Magic Link Offensive Special Damage - Rot"
+    },
+    "smloefa": {
+        "name": "Advanced Fire Link",
+        "p": "Advanced Magic Link Offensive Special Damage - Fire",
+        "description": "Advanced Magic Link Offensive Special Damage - Fire"
+    },
+    "smloesa": {
+        "name": "Advanced Shockwave Link",
+        "p": "Advanced Magic Link Offensive Special Damage - Shockwave",
+        "description": "Advanced Magic Link Offensive Special Damage - Shockwave"
+    },
+    "smloepa": {
+        "name": "Advanced Poison Link",
+        "p": "Advanced Magic Link Offensive Special Damage - Poison",
+        "description": "Advanced Magic Link Offensive Special Damage - Poison"
+    },
+    "smloeea": {
+        "name": "Advanced Electricity Link",
+        "p": "Advanced Magic Link Offensive Special Damage - Electricity",
+        "description": "Advanced Magic Link Offensive Special Damage - Electricity"
+    },
+    "smd": {
+        "name": "Defensive Magic",
+        "p": "Defensive Magic",
+        "description": "Defensive Magic"
+    },
+    "smda": {
+        "name": "Defensive Affliction",
+        "p": "Defensive Affliction",
+        "description": "Standard Defensive Affliction"
+    },
+    "smdaa": {
+        "name": "Advanced Defensive Affliction",
+        "p": "Advanced Defensive Affliction",
+        "description": "Advanced Defensive Affliction"
+    },
+    "smdaae": {
+        "name": "Expert Defensive Affliction",
+        "p": "Expert Defensive Affliction",
+        "description": "Expert Defensive Affliction"
+    },
+    "smdaaem": {
+        "name": "Master Defensive Affliction",
+        "p": "Master Defensive Affliction",
+        "description": "Master Defensive Affliction"
+    },
+    "smdh": {
+        "name": "Standard Healing Magic",
+        "p": "Standard Healing Magic",
+        "description": "Standard Healing Magic"
+    },
+    "smdha": {
+        "name": "Advanced Healing Magic",
+        "p": "Advanced Healing Magic",
+        "description": "Advanced Healing Magic"
+    },
+    "smdhae": {
+        "name": "Expert Healing Magic",
+        "p": "Expert Healing Magic",
+        "description": "Expert Healing Magic"
+    },
+    "smdhaem": {
+        "name": "Master Healing Magic",
+        "p": "Master Healing Magic",
+        "description": "Master Healing Magic"
+    },
+    "smo": {
+        "name": "Offensive Magic",
+        "p": "Offensive Magic",
+        "description": "Offensive Magic"
+    },
+    "smoa": {
+        "name": "Offensive Affliction",
+        "p": "Offensive Affliction",
+        "description": "Standard Offensive Affliction"
+    },
+    "smoaa": {
+        "name": "Advanced Offensive Affliction",
+        "p": "Advanced Offensive Affliction",
+        "description": "Advanced Offensive Affliction"
+    },
+    "smoaae": {
+        "name": "Expert Offensive Affliction",
+        "p": "Expert Offensive Affliction",
+        "description": "Expert Offensive Affliction"
+    },
+    "smoaaem": {
+        "name": "Master Offensive Affliction",
+        "p": "Master Offensive Affliction",
+        "description": "Master Offensive Affliction"
+    },
+    "smoe": {
+        "name": "Elemental Magic",
+        "p": "Elemental Magic",
+        "description": "Standard Elemental Magic"
+    },
+    "smoea": {
+        "name": "Advanced Elemental Magic",
+        "p": "Advanced Elemental Magic",
+        "description": "Advanced Elemental Magic"
+    },
+    "smoeae": {
+        "name": "Expert Elemental Magic",
+        "p": "Expert Elemental Magic",
+        "description": "Expert Elemental Magic"
+    },
+    "smoeaem": {
+        "name": "Master Elemental Magic",
+        "p": "Master Elemental Magic",
+        "description": "Master Elemental Magic"
+    },
+    "sms": {
+        "name": "Self Magic",
+        "p": "Self Magic",
+        "description": "Self Magic"
+    },
+    "smss": {
+        "name": "Standard Self Magic",
+        "p": "Standard Self Magic",
+        "description": "Standard Self Magic"
+    },
+    "smssa": {
+        "name": "Advanced Self Magic",
+        "p": "Advanced Self Magic",
+        "description": "Advanced Self Magic"
+    },
+    "smssae": {
+        "name": "Expert Self Magic",
+        "p": "Expert Self Magic",
+        "description": "Expert Self Magic"
+    },
+    "smssaem": {
+        "name": "Master Self Magic",
+        "p": "Master Self Magic",
+        "description": "Master Self Magic"
+    },
+    "sf": {
+        "name": "Fight",
+        "p": "Fight",
+        "description": ""
+    },
+    "sfm": {
+        "name": "Melee Fight",
+        "p": "Melee Fights",
+        "description": ""
+    },
+    "sfm1": {
+        "name": "One-handed Melee Fight",
+        "p": "One-handed Melee Fights",
+        "description": ""
+    },
+    "sfm1b": {
+        "name": "One-handed Melee Smashing",
+        "p": "One-handed Melee Smashings",
+        "description": ""
+    },
+    "sfm1bm": {
+        "name": "Mace",
+        "p": "Maces",
+        "description": ""
+    },
+    "sfm1bme": {
+        "name": "Electric Mace",
+        "p": "Electric Maces",
+        "description": ""
+    },
+    "sfm1bmm": {
+        "name": "Master Mace",
+        "p": "Master Maces",
+        "description": ""
+    },
+    "sfm1bs": {
+        "name": "Staff",
+        "p": "Staffs",
+        "description": ""
+    },
+    "sfm1bsm": {
+        "name": "Master Staff",
+        "p": "Master Staffs",
+        "description": ""
+    },
+    "sfm1p": {
+        "name": "One-handed Melee Piercing",
+        "p": "One-handed Melee Piercings",
+        "description": ""
+    },
+    "sfm1ps": {
+        "name": "Spear",
+        "p": "Spears",
+        "description": ""
+    },
+    "sfm1pse": {
+        "name": "Electric Spear",
+        "p": "Electric Spears",
+        "description": ""
+    },
+    "sfm1psl": {
+        "name": "Living Spear",
+        "p": "Living Spears",
+        "description": ""
+    },
+    "sfm1psm": {
+        "name": "Master Spear",
+        "p": "Master Spears",
+        "description": ""
+    },
+    "sfm1s": {
+        "name": "One-handed Melee Slashing",
+        "p": "One-handed Melee Slashings",
+        "description": ""
+    },
+    "sfm1sa": {
+        "name": "Axe",
+        "p": "Axes",
+        "description": ""
+    },
+    "sfm1sab": {
+        "name": "Burning Axe",
+        "p": "Burning Axes",
+        "description": ""
+    },
+    "sfm1sam": {
+        "name": "Master Axe",
+        "p": "Master Axes",
+        "description": ""
+    },
+    "sfm1ss": {
+        "name": "Sword",
+        "p": "Swords",
+        "description": ""
+    },
+    "sfm1ssm": {
+        "name": "Master Sword",
+        "p": "Master Swords",
+        "description": ""
+    },
+    "sfm1ssw": {
+        "name": "Waving Sword",
+        "p": "Waving Swords",
+        "description": ""
+    },
+    "sfm2": {
+        "name": "Two-handed Melee Fight",
+        "p": "Two-handed Melee Fights",
+        "description": ""
+    },
+    "sfm2b": {
+        "name": "Two-handed Melee Smashing",
+        "p": "Two-handed Melee Smashings",
+        "description": ""
+    },
+    "sfm2bm": {
+        "name": "Two-handed Mace",
+        "p": "Two-handed Maces",
+        "description": ""
+    },
+    "sfm2bme": {
+        "name": "Two-handed Electric Mace",
+        "p": "Two-handed Electric Maces",
+        "description": ""
+    },
+    "sfm2bmm": {
+        "name": "Two-handed Master Mace",
+        "p": "Two-handed Master Maces",
+        "description": ""
+    },
+    "sfm2p": {
+        "name": "Two-handed Melee Piercing",
+        "p": "Two-handed Melee Piercings",
+        "description": ""
+    },
+    "sfm2pp": {
+        "name": "Pike",
+        "p": "Pikes",
+        "description": ""
+    },
+    "sfm2ppl": {
+        "name": "Living Pike",
+        "p": "Living Pikes",
+        "description": ""
+    },
+    "sfm2ppm": {
+        "name": "Master Pike",
+        "p": "Master Pikes",
+        "description": ""
+    },
+    "sfm2s": {
+        "name": "Two-handed Melee Slashing",
+        "p": "Two-handed Melee Slashings",
+        "description": ""
+    },
+    "sfm2sa": {
+        "name": "Two-handed Axe",
+        "p": "Two-handed Axes",
+        "description": ""
+    },
+    "sfm2sab": {
+        "name": "Two-handed Burning Axe",
+        "p": "Two-handed Burning Axes",
+        "description": ""
+    },
+    "sfm2sam": {
+        "name": "Two-handed Master Axe",
+        "p": "Two-handed Master Axes",
+        "description": ""
+    },
+    "sfm2ss": {
+        "name": "Two-handed Sword",
+        "p": "Two-handed Swords",
+        "description": ""
+    },
+    "sfm2ssb": {
+        "name": "Two-handed Burning Sword",
+        "p": "Two-handed Burning Swords",
+        "description": ""
+    },
+    "sfm2ssl": {
+        "name": "Two-handed Living Sword",
+        "p": "Two-handed Living Swords",
+        "description": ""
+    },
+    "sfm2ssm": {
+        "name": "Two-handed Master Sword",
+        "p": "Two-handed Master Swords",
+        "description": ""
+    },
+    "sfm2ssw": {
+        "name": "Two-handed Waving Sword",
+        "p": "Two-handed Waving Swords",
+        "description": ""
+    },
+    "sfmc": {
+        "name": "Close Combat",
+        "p": "Close Combats",
+        "description": ""
+    },
+    "sfmca": {
+        "name": "Advanced Close Combat",
+        "p": "Advanced Close Combats",
+        "description": ""
+    },
+    "sfmcad": {
+        "name": "Dagger",
+        "p": "Daggers",
+        "description": ""
+    },
+    "sfmcadl": {
+        "name": "Living Dagger",
+        "p": "Living Daggers",
+        "description": ""
+    },
+    "sfmcadm": {
+        "name": "Master Dagger",
+        "p": "Master Daggers",
+        "description": ""
+    },
+    "sfmcadw": {
+        "name": "Waving Dagger",
+        "p": "Waving Daggers",
+        "description": ""
+    },
+    "sfmcah": {
+        "name": "Hand To Hand",
+        "p": "Hand To Hands",
+        "description": ""
+    },
+    "sfmcahm": {
+        "name": "Master Hand To Hand",
+        "p": "Master Hand To Hands",
+        "description": ""
+    },
+    "sfr": {
+        "name": "Range Fight",
+        "p": "Range Fights",
+        "description": ""
+    },
+    "sfr1": {
+        "name": "One-handed Range Fight",
+        "p": "One-handed Range Fights",
+        "description": ""
+    },
+    "sfr1a": {
+        "name": "Advanced One-handed Range Fight",
+        "p": "Advanced One-handed Range Fights",
+        "description": ""
+    },
+    "sfr1ab": {
+        "name": "Bowpistol ",
+        "p": "Bowpistols",
+        "description": ""
+    },
+    "sfr1abm": {
+        "name": "Master Bowpistol",
+        "p": "Master Bowpistols",
+        "description": ""
+    },
+    "sfr1abw": {
+        "name": "Waving Bowpistol",
+        "p": "Waving Bowpistols",
+        "description": ""
+    },
+    "sfr1ap": {
+        "name": "Pistol",
+        "p": "Pistols",
+        "description": ""
+    },
+    "sfr1apl": {
+        "name": "Living Pistol",
+        "p": "Living Pistols",
+        "description": ""
+    },
+    "sfr1apm": {
+        "name": "Master Pistol",
+        "p": "Master Pistols",
+        "description": ""
+    },
+    "sfr2": {
+        "name": "Two-handed Range Fight",
+        "p": "Two-handed Range Fights",
+        "description": ""
+    },
+    "sfr2a": {
+        "name": "Advanced Two-handed Range Fight",
+        "p": "Advanced Two-handed Range Fights",
+        "description": ""
+    },
+    "sfr2aa": {
+        "name": "Autolauncher",
+        "p": "Autolaunchers",
+        "description": ""
+    },
+    "sfr2aab": {
+        "name": "Burning Autolauncher",
+        "p": "Burning Autolaunchers",
+        "description": ""
+    },
+    "sfr2aam": {
+        "name": "Master Autolauncher",
+        "p": "Master Autolaunchers",
+        "description": ""
+    },
+    "sfr2ab": {
+        "name": "Bowrifle",
+        "p": "Bowrifles",
+        "description": ""
+    },
+    "sfr2abe": {
+        "name": "Electric Bowrifle",
+        "p": "Electric Bowrifles",
+        "description": ""
+    },
+    "sfr2abm": {
+        "name": "Master Bowrifle",
+        "p": "Master Bowrifles",
+        "description": ""
+    },
+    "sfr2al": {
+        "name": "Launcher",
+        "p": "Launchers",
+        "description": ""
+    },
+    "sfr2alb": {
+        "name": "Burning Launcher",
+        "p": "Burning Launchers",
+        "description": ""
+    },
+    "sfr2ale": {
+        "name": "Electric Launcher",
+        "p": "Electric Launchers",
+        "description": ""
+    },
+    "sfr2alm": {
+        "name": "Master Launcher",
+        "p": "Master Launchers",
+        "description": ""
+    },
+    "sfr2ar": {
+        "name": "Rifle",
+        "p": "Rifles",
+        "description": ""
+    },
+    "sfr2arl": {
+        "name": "Living Rifle",
+        "p": "Living Rifles",
+        "description": ""
+    },
+    "sfr2arm": {
+        "name": "Master Rifle",
+        "p": "Master Rifles",
+        "description": ""
+    },
+    "sca": {
+        "name": "Armor Crafting",
+        "p": "Armor Crafting",
+        "description": "Armor Crafting"
+    },
+    "scj": {
+        "name": "Jewel Crafting",
+        "p": "Jewel Crafting",
+        "description": "Jewel Crafting"
+    },
+    "scm": {
+        "name": "Melee Weapon Crafting",
+        "p": "Melee Weapon Crafting",
+        "description": "Melee Weapon Crafting"
+    },
+    "scr": {
+        "name": "Range Weapon Crafting",
+        "p": "Range Weapon Crafting",
+        "description": "Range Weapon Crafting"
+    },
+    "scah": {
+        "name": "Heavy Armor Crafting",
+        "p": "Heavy Armor Crafting",
+        "description": "Heavy Armor Crafting"
+    },
+    "scal": {
+        "name": "Light Armor Crafting",
+        "p": "Light Armor Crafting",
+        "description": "Light Armor Crafting"
+    },
+    "scam": {
+        "name": "Medium Armor Crafting",
+        "p": "Medium Armor Crafting",
+        "description": "Medium Armor Crafting"
+    },
+    "scas": {
+        "name": "Shield Crafting",
+        "p": "Shield Crafting",
+        "description": "Shield Crafting"
+    },
+    "scja": {
+        "name": "Anklet Crafting",
+        "p": "Anklet Crafting",
+        "description": "Anklet Crafting"
+    },
+    "scjb": {
+        "name": "Bracelet Crafting",
+        "p": "Bracelet Crafting",
+        "description": "Bracelet Crafting"
+    },
+    "scjd": {
+        "name": "Diadem Crafting",
+        "p": "Diadem Crafting",
+        "description": "Diadem Crafting"
+    },
+    "scje": {
+        "name": "Earring Crafting",
+        "p": "Earring Crafting",
+        "description": "Earring Crafting"
+    },
+    "scjp": {
+        "name": "Pendant Crafting",
+        "p": "Pendant Crafting",
+        "description": "Pendant Crafting"
+    },
+    "scjr": {
+        "name": "Ring Crafting",
+        "p": "Ring Crafting",
+        "description": "Ring Crafting"
+    },
+    "scm1": {
+        "name": "One-handed Melee Weapon Crafting",
+        "p": "One-handed Melee Weapon Craftings",
+        "description": "One-handed Melee Weapon Crafting"
+    },
+    "scm2": {
+        "name": "Two-handed Melee Weapon Crafting",
+        "p": "Two-handed Melee Weapon Craftings",
+        "description": "Two-handed Melee Weapon Crafting"
+    },
+    "scr1": {
+        "name": "One-handed Range Weapon Crafting",
+        "p": "One-handed Range Weapon Craftings",
+        "description": "One-handed Range Weapon Crafting"
+    },
+    "scr2": {
+        "name": "Two-handed Range Weapon Crafting",
+        "p": "Two-handed Range Weapon Craftings",
+        "description": "Two-handed Range Weapon Crafting"
+    },
+    "scahb": {
+        "name": "Heavy Boots Crafting",
+        "p": "Heavy Boots Crafting",
+        "description": "Heavy Boots Crafting"
+    },
+    "scahg": {
+        "name": "Heavy Gloves Crafting",
+        "p": "Heavy Gloves Crafting",
+        "description": "Heavy Gloves Crafting"
+    },
+    "scahh": {
+        "name": "Heavy Helmet Crafting",
+        "p": "Heavy Helmet Crafting",
+        "description": "Heavy Helmet Crafting"
+    },
+    "scahp": {
+        "name": "Heavy Pants Crafting",
+        "p": "Heavy Pants Crafting",
+        "description": "Heavy Pants Crafting"
+    },
+    "scahs": {
+        "name": "Heavy Sleeves Crafting",
+        "p": "Heavy Sleeves Crafting",
+        "description": "Heavy Sleeves Crafting"
+    },
+    "scahv": {
+        "name": "Heavy Vest Crafting",
+        "p": "Heavy Vest Crafting",
+        "description": "Heavy Vest Crafting"
+    },
+    "scalb": {
+        "name": "Light Boots Crafting",
+        "p": "Light Boots Crafting",
+        "description": "Light Boots Crafting"
+    },
+    "scalg": {
+        "name": "Light Gloves Crafting",
+        "p": "Light Gloves Crafting",
+        "description": "Light Gloves Crafting"
+    },
+    "scalp": {
+        "name": "Light Pants Crafting",
+        "p": "Light Pants Crafting",
+        "description": "Light Pants Crafting"
+    },
+    "scals": {
+        "name": "Light Sleeves Crafting",
+        "p": "Light Sleeves Crafting",
+        "description": "Light Sleeves Crafting"
+    },
+    "scalv": {
+        "name": "Light Vest Crafting",
+        "p": "Light Vest Crafting",
+        "description": "Light Vest Crafting"
+    },
+    "scamb": {
+        "name": "Medium Boots Crafting",
+        "p": "Medium Boots Crafting",
+        "description": "Medium Boots Crafting"
+    },
+    "scamg": {
+        "name": "Medium Gloves Crafting",
+        "p": "Medium Gloves Crafting",
+        "description": "Medium Gloves Crafting"
+    },
+    "scamp": {
+        "name": "Medium Pants Crafting",
+        "p": "Medium Pants Crafting",
+        "description": "Medium Pants Crafting"
+    },
+    "scams": {
+        "name": "Medium Sleeves Crafting",
+        "p": "Medium Sleeves Crafting",
+        "description": "Medium Sleeves Crafting"
+    },
+    "scamv": {
+        "name": "Medium Vest Crafting",
+        "p": "Medium Vest Crafting",
+        "description": "Medium Vest Crafting"
+    },
+    "scass": {
+        "name": "Large Shield Crafting",
+        "p": "Large Shield Craftings",
+        "description": "Large Shield Crafting"
+    },
+    "scasb": {
+        "name": "Buckler Crafting",
+        "p": "Buckler Crafting",
+        "description": "Buckler Crafting"
+    },
+    "scjaa": {
+        "name": "Advanced Anklet Crafting",
+        "p": "Advanced Anklet Crafting",
+        "description": "Advanced Anklet Crafting"
+    },
+    "scjba": {
+        "name": "Advanced Bracelet Crafting",
+        "p": "Advanced Bracelet Crafting",
+        "description": "Advanced Bracelet Crafting"
+    },
+    "scjda": {
+        "name": "Advanced Diadem Crafting",
+        "p": "Advanced Diadem Crafting",
+        "description": "Advanced Diadem Crafting"
+    },
+    "scjea": {
+        "name": "Advanced Earring Crafting",
+        "p": "Advanced Earring Crafting",
+        "description": "Advanced Earring Crafting"
+    },
+    "scjpa": {
+        "name": "Advanced Pendant Crafting",
+        "p": "Advanced Pendant Crafting",
+        "description": "Advanced Pendant Crafting"
+    },
+    "scjra": {
+        "name": "Advanced Ring Crafting",
+        "p": "Advanced Ring Crafting",
+        "description": "Advanced Ring Crafting"
+    },
+    "scm1m": {
+        "name": "Mace Crafting",
+        "p": "Mace Crafting",
+        "description": "Mace Crafting"
+    },
+    "scm1t": {
+        "name": "Staff Crafting",
+        "p": "Staff Crafting",
+        "description": "Staff Crafting"
+    },
+    "scm1p": {
+        "name": "Spear Crafting",
+        "p": "Spear Crafting",
+        "description": "Spear Crafting"
+    },
+    "scm1a": {
+        "name": "Axe Crafting",
+        "p": "Axe Crafting",
+        "description": "Axe Crafting"
+    },
+    "scm1s": {
+        "name": "Sword Crafting",
+        "p": "Sword Crafting",
+        "description": "Sword Crafting"
+    },
+    "scm1d": {
+        "name": "Dagger Crafting",
+        "p": "Dagger Crafting",
+        "description": "Dagger Crafting"
+    },
+    "scm2m": {
+        "name": "Two-handed Mace Crafting",
+        "p": "Two-handed Mace Crafting",
+        "description": "Two-handed Mace Crafting"
+    },
+    "scm2p": {
+        "name": "Pike Crafting",
+        "p": "Pike Crafting",
+        "description": "Pike Crafting"
+    },
+    "scm2a": {
+        "name": "Two-handed Axe Crafting",
+        "p": "Two-handed Axe Crafting",
+        "description": "Two-handed Axe Crafting"
+    },
+    "scm2s": {
+        "name": "Two-handed Sword Crafting",
+        "p": "Two-handed Sword Crafting",
+        "description": "Two-handed Sword Crafting"
+    },
+    "scr1b": {
+        "name": "Bowpistol Crafting",
+        "p": "Bowpistol Crafting",
+        "description": "Bowpistol Crafting"
+    },
+    "scr1p": {
+        "name": "Pistol Crafting",
+        "p": "Pistol Crafting",
+        "description": "Pistol Crafting"
+    },
+    "scr2a": {
+        "name": "Autolauncher Crafting",
+        "p": "Autolauncher Crafting",
+        "description": "Autolauncher Crafting"
+    },
+    "scr2b": {
+        "name": "Bowrifle Crafting",
+        "p": "Bowrifle Crafting",
+        "description": "Bowrifle Crafting"
+    },
+    "scr2l": {
+        "name": "Launcher Crafting",
+        "p": "Launcher Crafting",
+        "description": "Launcher Crafting"
+    },
+    "scr2r": {
+        "name": "Rifle Crafting",
+        "p": "Rifle Crafting",
+        "description": "Rifle Crafting"
+    },
+    "scahbe": {
+        "name": "Expert Heavy Boots Crafting",
+        "p": "Expert Heavy Boots Crafting",
+        "description": "Expert Heavy Boots Crafting"
+    },
+    "scahge": {
+        "name": "Expert Heavy Gloves Crafting",
+        "p": "Expert Heavy Gloves Crafting",
+        "description": "Expert Heavy Gloves Crafting"
+    },
+    "scahhe": {
+        "name": "Expert Heavy Helmet Crafting",
+        "p": "Expert Heavy Helmet Crafting",
+        "description": "Expert Heavy Helmet Crafting"
+    },
+    "scahpe": {
+        "name": "Expert Heavy Pants Crafting",
+        "p": "Expert Heavy Pants Crafting",
+        "description": "Expert Heavy Pants Crafting"
+    },
+    "scahse": {
+        "name": "Expert Heavy Sleeves Crafting",
+        "p": "Expert Heavy Sleeves Crafting",
+        "description": "Expert Heavy Sleeves Crafting"
+    },
+    "scahve": {
+        "name": "Expert Heavy Vest Crafting",
+        "p": "Expert Heavy Vest Crafting",
+        "description": "Expert Heavy Vest Crafting"
+    },
+    "scalbe": {
+        "name": "Expert Light Boots Crafting",
+        "p": "Expert Light Boots Crafting",
+        "description": "Expert Light Boots Crafting"
+    },
+    "scalge": {
+        "name": "Expert Light Gloves Crafting",
+        "p": "Expert Light Gloves Crafting",
+        "description": "Expert Light Gloves Crafting"
+    },
+    "scalpe": {
+        "name": "Expert Light Pants Crafting",
+        "p": "Expert Light Pants Crafting",
+        "description": "Expert Light Pants Crafting"
+    },
+    "scalse": {
+        "name": "Expert Light Sleeves Crafting",
+        "p": "Expert Light Sleeves Crafting",
+        "description": "Expert Light Sleeves Crafting"
+    },
+    "scalve": {
+        "name": "Expert Light Vest Crafting",
+        "p": "Expert Light Vest Crafting",
+        "description": "Expert Light Vest Crafting"
+    },
+    "scambe": {
+        "name": "Expert Medium Boots Crafting",
+        "p": "Expert Medium Boots Crafting",
+        "description": "Expert Medium Boots Crafting"
+    },
+    "scamge": {
+        "name": "Expert Medium Gloves Crafting",
+        "p": "Expert Medium Gloves Crafting",
+        "description": "Expert Medium Gloves Crafting"
+    },
+    "scampe": {
+        "name": "Expert Medium Pants Crafting",
+        "p": "Expert Medium Pants Crafting",
+        "description": "Expert Medium Pants Crafting"
+    },
+    "scamse": {
+        "name": "Expert Medium Sleeves Crafting",
+        "p": "Expert Medium Sleeves Crafting",
+        "description": "Expert Medium Sleeves Crafting"
+    },
+    "scamve": {
+        "name": "Expert Medium Vest Crafting",
+        "p": "Expert Medium Vest Crafting",
+        "description": "Expert Medium Vest Crafting"
+    },
+    "scasse": {
+        "name": "Expert Shield Crafting",
+        "p": "Expert Shield Crafting",
+        "description": "Expert Shield Crafting"
+    },
+    "scasbe": {
+        "name": "Expert Buckler Crafting",
+        "p": "Expert Buckler Crafting",
+        "description": "Expert Buckler Crafting"
+    },
+    "scjaae": {
+        "name": "Expert Anklet Crafting",
+        "p": "Expert Anklet Crafting",
+        "description": "Expert Anklet Crafting"
+    },
+    "scjbae": {
+        "name": "Expert Bracelet Crafting",
+        "p": "Expert Bracelet Crafting",
+        "description": "Expert Bracelet Crafting"
+    },
+    "scjdae": {
+        "name": "Expert Diadem Crafting",
+        "p": "Expert Diadem Crafting",
+        "description": "Expert Diadem Crafting"
+    },
+    "scjeae": {
+        "name": "Expert Earring Crafting",
+        "p": "Expert Earring Crafting",
+        "description": "Expert Earring Crafting"
+    },
+    "scjpae": {
+        "name": "Expert Pendant Crafting",
+        "p": "Expert Pendant Crafting",
+        "description": "Expert Pendant Crafting"
+    },
+    "scjrae": {
+        "name": "Expert Ring Crafting",
+        "p": "Expert Ring Crafting",
+        "description": "Expert Ring Crafting"
+    },
+    "scm1me": {
+        "name": "Expert Mace Crafting",
+        "p": "Expert Mace Crafting",
+        "description": "Expert Mace Crafting"
+    },
+    "scm1te": {
+        "name": "Expert Staff Crafting",
+        "p": "Expert Staff Crafting",
+        "description": "Expert Staff Crafting"
+    },
+    "scm1pe": {
+        "name": "Expert Spear Crafting",
+        "p": "Expert Spear Crafting",
+        "description": "Expert Spear Crafting"
+    },
+    "scm1ae": {
+        "name": "Expert Axe Crafting",
+        "p": "Expert Axe Crafting",
+        "description": "Expert Axe Crafting"
+    },
+    "scm1se": {
+        "name": "Expert Sword Crafting",
+        "p": "Expert Sword Crafting",
+        "description": "Expert Sword Crafting"
+    },
+    "scm1de": {
+        "name": "Expert Dagger Crafting",
+        "p": "Expert Dagger Crafting",
+        "description": "Expert Dagger Crafting"
+    },
+    "scm2me": {
+        "name": "Expert Two-handed Mace Crafting",
+        "p": "Expert Two-handed Mace Crafting",
+        "description": "Expert Two-handed Mace Crafting"
+    },
+    "scm2pe": {
+        "name": "Expert Pike Crafting",
+        "p": "Expert Pike Crafting",
+        "description": "Expert Pike Crafting"
+    },
+    "scm2ae": {
+        "name": "Expert Two-handed Axe Crafting",
+        "p": "Expert Two-handed Axe Crafting",
+        "description": "Expert Two-handed Axe Crafting"
+    },
+    "scm2se": {
+        "name": "Expert Two-handed Sword Crafting",
+        "p": "Expert Two-handed Sword Crafting",
+        "description": "Expert Two-handed Sword Crafting"
+    },
+    "scr1be": {
+        "name": "Expert Bowpistol Crafting",
+        "p": "Expert Bowpistol Crafting",
+        "description": "Expert Bowpistol Crafting"
+    },
+    "scr1pe": {
+        "name": "Expert Pistol Crafting",
+        "p": "Expert Pistol Crafting",
+        "description": "Expert Pistol Crafting"
+    },
+    "scr2ae": {
+        "name": "Expert Autolauncher Crafting",
+        "p": "Expert Autolauncher Crafting",
+        "description": "Expert Autolauncher Crafting"
+    },
+    "scr2be": {
+        "name": "Expert Bowrifle Crafting",
+        "p": "Expert Bowrifle Crafting",
+        "description": "Expert Bowrifle Crafting"
+    },
+    "scr2le": {
+        "name": "Expert Launcher Crafting",
+        "p": "Expert Launcher Crafting",
+        "description": "Expert Launcher Crafting"
+    },
+    "scr2re": {
+        "name": "Expert Rifle Crafting",
+        "p": "Expert Rifle Crafting",
+        "description": "Expert Rifle Crafting"
+    },
+    "scahbem": {
+        "name": "Master Heavy Boots Crafting",
+        "p": "Master Heavy Boots Crafting",
+        "description": "Master Heavy Boots Crafting"
+    },
+    "scahgem": {
+        "name": "Master Heavy Gloves Crafting",
+        "p": "Master Heavy Gloves Crafting",
+        "description": "Master Heavy Gloves Crafting"
+    },
+    "scahhem": {
+        "name": "Master Heavy Helmet Crafting",
+        "p": "Master Heavy Helmet Crafting",
+        "description": "Master Heavy Helmet Crafting"
+    },
+    "scahpem": {
+        "name": "Master Heavy Pants Crafting",
+        "p": "Master Heavy Pants Crafting",
+        "description": "Master Heavy Pants Crafting"
+    },
+    "scahsem": {
+        "name": "Master Heavy Sleeves Crafting",
+        "p": "Master Heavy Sleeves Crafting",
+        "description": "Master Heavy Sleeves Crafting"
+    },
+    "scahvem": {
+        "name": "Master Heavy Vest Crafting",
+        "p": "Master Heavy Vest Crafting",
+        "description": "Master Heavy Vest Crafting"
+    },
+    "scalbem": {
+        "name": "Master Light Boots Crafting",
+        "p": "Master Light Boots Crafting",
+        "description": "Master Light Boots Crafting"
+    },
+    "scalgem": {
+        "name": "Master Light Gloves Crafting",
+        "p": "Master Light Gloves Crafting",
+        "description": "Master Light Gloves Crafting"
+    },
+    "scalpem": {
+        "name": "Master Light Pants Crafting",
+        "p": "Master Light Pants Crafting",
+        "description": "Master Light Pants Crafting"
+    },
+    "scalsem": {
+        "name": "Master Light Sleeves Crafting",
+        "p": "Master Light Sleeves Crafting",
+        "description": "Master Light Sleeves Crafting"
+    },
+    "scalvem": {
+        "name": "Master Light Vest Crafting",
+        "p": "Master Light Vest Crafting",
+        "description": "Master Light Vest Crafting"
+    },
+    "scambem": {
+        "name": "Master Medium Boots Crafting",
+        "p": "Master Medium Boots Crafting",
+        "description": "Master Medium Boots Crafting"
+    },
+    "scamgem": {
+        "name": "Master Medium Gloves Crafting",
+        "p": "Master Medium Gloves Crafting",
+        "description": "Master Medium Gloves Crafting"
+    },
+    "scampem": {
+        "name": "Master Medium Pants Crafting",
+        "p": "Master Medium Pants Crafting",
+        "description": "Master Medium Pants Crafting"
+    },
+    "scamsem": {
+        "name": "Master Medium Sleeves Crafting",
+        "p": "Master Medium Sleeves Crafting",
+        "description": "Master Medium Sleeves Crafting"
+    },
+    "scamvem": {
+        "name": "Master Medium Vest Crafting",
+        "p": "Master Medium Vest Crafting",
+        "description": "Master Medium Vest Crafting"
+    },
+    "scassem": {
+        "name": "Master Shield Crafting",
+        "p": "Master Shield Crafting",
+        "description": "Master Shield Crafting"
+    },
+    "scasbem": {
+        "name": "Master Buckler Crafting",
+        "p": "Master Buckler Crafting",
+        "description": "Master Buckler Crafting"
+    },
+    "scjaaem": {
+        "name": "Master Anklet Crafting",
+        "p": "Master Anklet Crafting",
+        "description": "Master Anklet Crafting"
+    },
+    "scjbaem": {
+        "name": "Master Bracelet Crafting",
+        "p": "Master Bracelet Crafting",
+        "description": "Master Bracelet Crafting"
+    },
+    "scjdaem": {
+        "name": "Master Diadem Crafting",
+        "p": "Master Diadem Crafting",
+        "description": "Master Diadem Crafting"
+    },
+    "scjeaem": {
+        "name": "Master Earring Crafting",
+        "p": "Master Earring Crafting",
+        "description": "Master Earring Crafting"
+    },
+    "scjpaem": {
+        "name": "Master Pendant Crafting",
+        "p": "Master Pendant Crafting",
+        "description": "Master Pendant Crafting"
+    },
+    "scjraem": {
+        "name": "Master Ring Crafting",
+        "p": "Master Ring Crafting",
+        "description": "Master Ring Crafting"
+    },
+    "scm1mem": {
+        "name": "Master Mace Crafting",
+        "p": "Master Mace Crafting",
+        "description": "Master Mace Crafting"
+    },
+    "scm1tem": {
+        "name": "Master Staff Crafting",
+        "p": "Master Staff Crafting",
+        "description": "Master Staff Crafting"
+    },
+    "scm1pem": {
+        "name": "Master Spear Crafting",
+        "p": "Master Spear Crafting",
+        "description": "Master Spear Crafting"
+    },
+    "scm1aem": {
+        "name": "Master Axe Crafting",
+        "p": "Master Axe Crafting",
+        "description": "Master Axe Crafting"
+    },
+    "scm1sem": {
+        "name": "Master Sword Crafting",
+        "p": "Master Sword Crafting",
+        "description": "Master Sword Crafting"
+    },
+    "scm1dem": {
+        "name": "Master Dagger Crafting",
+        "p": "Master Dagger Crafting",
+        "description": "Master Dagger Crafting"
+    },
+    "scm2mem": {
+        "name": "Master Two-handed Mace Crafting",
+        "p": "Master Two-handed Mace Crafting",
+        "description": "Master Two-handed Mace Crafting"
+    },
+    "scm2pem": {
+        "name": "Master Pike Crafting",
+        "p": "Master Pike Crafting",
+        "description": "Master Pike Crafting"
+    },
+    "scm2aem": {
+        "name": "Master Two-handed Axe Crafting",
+        "p": "Master Two-handed Axe Crafting",
+        "description": "Master Two-handed Axe Crafting"
+    },
+    "scm2sem": {
+        "name": "Master Two-handed Sword Crafting",
+        "p": "Master Two-handed Sword Crafting",
+        "description": "Master Two-handed Sword Crafting"
+    },
+    "scr1bem": {
+        "name": "Master Bowpistol Crafting",
+        "p": "Master Bowpistol Crafting",
+        "description": "Master Bowpistol Crafting"
+    },
+    "scr1pem": {
+        "name": "Master Pistol Crafting",
+        "p": "Master Pistol Crafting",
+        "description": "Master Pistol Crafting"
+    },
+    "scr2aem": {
+        "name": "Master Autolauncher Crafting",
+        "p": "Master Autolauncher Crafting",
+        "description": "Master Autolauncher Crafting"
+    },
+    "scr2bem": {
+        "name": "Master Bowrifle Crafting",
+        "p": "Master Bowrifle Crafting",
+        "description": "Master Bowrifle Crafting"
+    },
+    "scr2lem": {
+        "name": "Master Launcher Crafting",
+        "p": "Master Launcher Crafting",
+        "description": "Master Launcher Crafting"
+    },
+    "scr2rem": {
+        "name": "Master Rifle Crafting",
+        "p": "Master Rifle Crafting",
+        "description": "Master Rifle Crafting"
+    },
+    "scmc": {
+        "name": "Close Combat Weapon Crafting",
+        "p": "Close Combat Weapon Crafting",
+        "description": "Close Combat Weapon Crafting"
+    },
+    "scmca": {
+        "name": "Advanced Magic Amplifier Crafting",
+        "p": "Advanced Magic Amplifier Crafting",
+        "description": "Advanced Magic Amplifier Crafting"
+    },
+    "scmcae": {
+        "name": "Expert Magic Amplifier Crafting",
+        "p": "Expert Magic Amplifier Crafting",
+        "description": "Expert Magic Amplifier Crafting"
+    },
+    "scmcaem": {
+        "name": "Master Magic Amplifier Crafting",
+        "p": "Master Magic Amplifier Crafting",
+        "description": "Master Magic Amplifier Crafting"
+    }
+}

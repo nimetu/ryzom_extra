@@ -1,0 +1,3657 @@
+{
+    "acuratebleedingshot": {
+        "name": "Точный выстрел с кровопусканием",
+        "p": "Точные выстрелы с кровопусканием",
+        "description": ""
+    },
+    "acuratebreathlessshot": {
+        "name": "Точный выстрел под дых ",
+        "p": "Точные выстрелы под дых",
+        "description": ""
+    },
+    "animalslideslip": {
+        "name": "Animal Slideslip",
+        "p": "Animal Slideslips",
+        "description": ""
+    },
+    "animalstalking": {
+        "name": "Animal Stalking",
+        "p": "Animal Stalkings",
+        "description": ""
+    },
+    "apothecary": {
+        "name": "Аптекарь",
+        "p": "Аптекари",
+        "description": ""
+    },
+    "area": {
+        "name": "Область",
+        "p": "Области",
+        "description": ""
+    },
+    "armorandweaponsmithing": {
+        "name": "Изготовление доспехов и оружия",
+        "p": "Изготовление доспехов и оружия",
+        "description": ""
+    },
+    "artandcraft": {
+        "name": "Искусство и ремесло",
+        "p": "Искусства и ремесла",
+        "description": ""
+    },
+    "attackkamisknowledge": {
+        "name": "Attack-Kamis Knowledge",
+        "p": "Attack-Kamis Knowledge",
+        "description": ""
+    },
+    "atysianregeneration": {
+        "name": "Atysian Regeneration",
+        "p": "Atysian Regenerations",
+        "description": ""
+    },
+    "axe": {
+        "name": "Топор",
+        "p": "Топоры",
+        "description": ""
+    },
+    "backdraftstab": {
+        "name": "Backdraft Stab",
+        "p": "Backdraft Stabs",
+        "description": ""
+    },
+    "badluck": {
+        "name": "Невезение",
+        "p": "Невезение",
+        "description": ""
+    },
+    "barehandedcombat": {
+        "name": "Кулачный бой",
+        "p": "Кулачные бои",
+        "description": ""
+    },
+    "bersekattack": {
+        "name": "Бросок берсерка ",
+        "p": "Броски Берсерка",
+        "description": ""
+    },
+    "blacksmithing": {
+        "name": "Кузнечное дело",
+        "p": "Кузнечное дело",
+        "description": ""
+    },
+    "bleeding": {
+        "name": "Кровопускание",
+        "p": "Кровопускание",
+        "description": ""
+    },
+    "blindingrage": {
+        "name": "Слепящая ярость",
+        "p": "Слепящая ярость",
+        "description": ""
+    },
+    "blindshot": {
+        "name": "Ослепляющий выстрел",
+        "p": "Ослепляющие выстрелы",
+        "description": ""
+    },
+    "bowgun": {
+        "name": "Арбалет",
+        "p": "Арбалеты",
+        "description": ""
+    },
+    "bowpistol": {
+        "name": "Самострел",
+        "p": "Самострелы",
+        "description": ""
+    },
+    "building": {
+        "name": "Постройка",
+        "p": "Постройки",
+        "description": ""
+    },
+    "bullyraggingblast": {
+        "name": "Поток издевок",
+        "p": "Потоки издевок",
+        "description": ""
+    },
+    "camouflage": {
+        "name": "Камуфляж",
+        "p": "Камуфляжи",
+        "description": ""
+    },
+    "caravan": {
+        "name": "Караван",
+        "p": "Караваны",
+        "description": ""
+    },
+    "cerebralfever": {
+        "name": "Воспаление мозга",
+        "p": "Воспаление мозга",
+        "description": ""
+    },
+    "clothtailoring": {
+        "name": "Изготовление ткани",
+        "p": "Изготовление ткани",
+        "description": ""
+    },
+    "cooking": {
+        "name": "Приготовление пищи",
+        "p": "Приготовление пищи",
+        "description": ""
+    },
+    "creaturehatred": {
+        "name": "Ненависть Зверей",
+        "p": "Ненависть зверей",
+        "description": ""
+    },
+    "dagger": {
+        "name": "Кинжал",
+        "p": "Кинжалы",
+        "description": ""
+    },
+    "desert": {
+        "name": "Пустыня",
+        "p": "Пустыни",
+        "description": ""
+    },
+    "desertexoticrawmaterialknowledge": {
+        "name": "Знание редких ресурсов пустыни",
+        "p": "Знание редких ресурсов пустыни",
+        "description": ""
+    },
+    "desertkamisknowledge": {
+        "name": "Знание Ками: пустыни",
+        "p": "Знание Ками: пустыни",
+        "description": ""
+    },
+    "deserttravel": {
+        "name": "Дороги пустынь",
+        "p": "Дороги пустынь",
+        "description": ""
+    },
+    "digging": {
+        "name": "Добыча ископаемых",
+        "p": "Добыча ископаемых",
+        "description": ""
+    },
+    "discreetapproach": {
+        "name": "Незаметное приближение",
+        "p": "Незаметное Приближение",
+        "description": ""
+    },
+    "diving": {
+        "name": "Ныряние",
+        "p": "Ныряние",
+        "description": ""
+    },
+    "dodging": {
+        "name": "Уклонение",
+        "p": "Уклонение",
+        "description": ""
+    },
+    "dragon": {
+        "name": "Змей",
+        "p": "Змей",
+        "description": ""
+    },
+    "dryade": {
+        "name": "Дриада",
+        "p": "Дриады",
+        "description": ""
+    },
+    "dualwield": {
+        "name": "Двоерукий бой",
+        "p": "Двоерукий бой",
+        "description": ""
+    },
+    "evaluate": {
+        "name": "Оценка",
+        "p": "Оценки",
+        "description": ""
+    },
+    "farshot": {
+        "name": "Дальний выстрел",
+        "p": "Дальние выстрелы",
+        "description": ""
+    },
+    "farthrow": {
+        "name": "Дальний бросок",
+        "p": "Дальние броски",
+        "description": ""
+    },
+    "feverprotect": {
+        "name": "Антибиотик",
+        "p": "Антибиотик",
+        "description": ""
+    },
+    "firstaid": {
+        "name": "Первая помощь",
+        "p": "Первая помощь",
+        "description": ""
+    },
+    "fishing": {
+        "name": "Рыбная ловля",
+        "p": "Рыбная ловля",
+        "description": ""
+    },
+    "forest": {
+        "name": "Лес",
+        "p": "Леса",
+        "description": ""
+    },
+    "forestexoticrawmaterialknowledge": {
+        "name": "Знание редких ресурсов леса",
+        "p": "Знания редких ресурсов леса",
+        "description": ""
+    },
+    "forestkamisknowledge": {
+        "name": "Знание Ками: леса",
+        "p": "Знание Ками: леса",
+        "description": ""
+    },
+    "foresttravel": {
+        "name": "Дороги лесов",
+        "p": "Хождения по лесам",
+        "description": ""
+    },
+    "frost": {
+        "name": "Холод",
+        "p": "Холод",
+        "description": ""
+    },
+    "fyros": {
+        "name": "Файрос",
+        "p": "Файрос",
+        "description": ""
+    },
+    "fyrosgoods": {
+        "name": "Товары файросов",
+        "p": "Товары файросов",
+        "description": ""
+    },
+    "goo": {
+        "name": "Гоу",
+        "p": "Гоу",
+        "description": ""
+    },
+    "greataxe": {
+        "name": "Двуручный топор",
+        "p": "Двуручные топоры",
+        "description": ""
+    },
+    "greatmass": {
+        "name": "Двуручная палица",
+        "p": "Двуручная палица",
+        "description": ""
+    },
+    "grenade": {
+        "name": "Граната",
+        "p": "Граната",
+        "description": ""
+    },
+    "groundextract": {
+        "name": "Извлечение ресурсов",
+        "p": "Извлечение ресурсов",
+        "description": ""
+    },
+    "handtohand": {
+        "name": "Кулачный бой",
+        "p": "Кулачный бой",
+        "description": ""
+    },
+    "harpoon": {
+        "name": "Гарпун",
+        "p": "Гарпуны",
+        "description": ""
+    },
+    "harpoonhunting": {
+        "name": "Подводная охота",
+        "p": "Подводная охота",
+        "description": ""
+    },
+    "harvest": {
+        "name": "Добыча",
+        "p": "Добычв",
+        "description": ""
+    },
+    "healingkamisknowledge": {
+        "name": "Знание Ками: исцеление",
+        "p": "Знание Ками: исцеление",
+        "description": ""
+    },
+    "hearwithering": {
+        "name": "Потеря слуха",
+        "p": "Потеря слуха",
+        "description": ""
+    },
+    "heavyarmourwear": {
+        "name": "Ношение тяжелого доспеха",
+        "p": "Ношение тяжелого доспеха",
+        "description": ""
+    },
+    "heavyweapon": {
+        "name": "Тяжелое вооружение",
+        "p": "Тяжелое вооружение",
+        "description": ""
+    },
+    "hide": {
+        "name": "Скрытность",
+        "p": "Скрытность",
+        "description": ""
+    },
+    "hominopponentconsiderweapon": {
+        "name": "Оценка оружия противника",
+        "p": "Оценка оружия противника",
+        "description": ""
+    },
+    "huntingkamisknowledge": {
+        "name": "Знание Ками: охота",
+        "p": "Знание Ками: охота",
+        "description": ""
+    },
+    "jewellery": {
+        "name": "Украшения",
+        "p": "Украшения",
+        "description": ""
+    },
+    "jungle": {
+        "name": "Джунгли",
+        "p": "Джунгли",
+        "description": ""
+    },
+    "jungleexoticrawmaterialknowledge": {
+        "name": "Знание редких ресурсов: джунгли",
+        "p": "Знание редких ресурсов джунглей",
+        "description": ""
+    },
+    "junglekamisknowledge": {
+        "name": "Знание Ками: джунгли",
+        "p": "Знание Ками: джунгли",
+        "description": ""
+    },
+    "jungletravel": {
+        "name": "Дороги джунглей",
+        "p": "Дороги джунглей",
+        "description": ""
+    },
+    "kami": {
+        "name": "Ками",
+        "p": "Ками",
+        "description": ""
+    },
+    "kamicshield": {
+        "name": "Щит Ками",
+        "p": "Щиты Ками",
+        "description": ""
+    },
+    "kamicshock": {
+        "name": "Камийский шок",
+        "p": "Камийский шок",
+        "description": ""
+    },
+    "kick": {
+        "name": "Удар ногой",
+        "p": "Удары ногой",
+        "description": ""
+    },
+    "kitin": {
+        "name": "Кхитин ",
+        "p": "Кхитины",
+        "description": ""
+    },
+    "lake": {
+        "name": "Озерный край ",
+        "p": "Озерный край",
+        "description": ""
+    },
+    "lakearmor": {
+        "name": "Доспех озерного края",
+        "p": "Доспехи озерного края",
+        "description": ""
+    },
+    "lakeexoticrawmaterialknowledge": {
+        "name": "Знание редких ресурсов Озерного края",
+        "p": "Знание редких ресурсов Озерного края",
+        "description": ""
+    },
+    "lakekamisknowledge": {
+        "name": "Знание Ками: Озерный край",
+        "p": "Знание Ками: Озерный край",
+        "description": ""
+    },
+    "laketravel": {
+        "name": "Дороги Озерного края",
+        "p": "Дороги Озерного края",
+        "description": ""
+    },
+    "leadanimal": {
+        "name": "Животное в поводу",
+        "p": "Животное в поводу",
+        "description": ""
+    },
+    "leathertailoring": {
+        "name": "Работа по коже",
+        "p": "Работы по коже",
+        "description": ""
+    },
+    "lefthandedattack": {
+        "name": "Ударить с левой руки",
+        "p": "Ударить с левой руки",
+        "description": ""
+    },
+    "lefthandedparry": {
+        "name": "Парировать левой рукой",
+        "p": "Парировать левой рукой",
+        "description": ""
+    },
+    "lifealchemy": {
+        "name": "Алхимия жизни",
+        "p": "Алхимия жизни",
+        "description": ""
+    },
+    "lifegift": {
+        "name": "Дар жизни",
+        "p": "Дары жизни",
+        "description": ""
+    },
+    "lightarmourwear": {
+        "name": "Ношение легкого доспеха",
+        "p": "Ношение легкого доспеха",
+        "description": ""
+    },
+    "madness": {
+        "name": "Безумие",
+        "p": "Безумие",
+        "description": ""
+    },
+    "magicobjects": {
+        "name": "Магический предмет",
+        "p": "Магический предмет",
+        "description": ""
+    },
+    "magictransfert": {
+        "name": "Передача магии",
+        "p": "Передача магии",
+        "description": ""
+    },
+    "majordryade": {
+        "name": "Высшая дриада",
+        "p": "Высшая дриада",
+        "description": ""
+    },
+    "majorheallife": {
+        "name": "Значительное исцеление ",
+        "p": "Значительное исцеление ",
+        "description": ""
+    },
+    "majorliferegeneration": {
+        "name": "Значительная регенерация",
+        "p": "Значительная регенерация",
+        "description": ""
+    },
+    "majormandragore": {
+        "name": "Major Mandragore",
+        "p": "Major Mandragores",
+        "description": ""
+    },
+    "majorsapheal": {
+        "name": "Значительное восполнение Сэп",
+        "p": "Значительное восполнение Сэп",
+        "description": ""
+    },
+    "majorsapregenearation": {
+        "name": "Значительная регенерация Сэп",
+        "p": "Значительная регенерация Сэп",
+        "description": ""
+    },
+    "majorsylve": {
+        "name": "Major Sylve",
+        "p": "Major Sylves",
+        "description": ""
+    },
+    "majortirednessheal": {
+        "name": "Значительное восполнение выносливости",
+        "p": "Значительное восполнение выносливости",
+        "description": ""
+    },
+    "majortirednessregenearation": {
+        "name": "Значительная регенерация выносливости",
+        "p": "Значительная регенерация выносливости",
+        "description": ""
+    },
+    "makeanklet": {
+        "name": "Украшения: ножные браслеты",
+        "p": "Украшения: ножные браслеты",
+        "description": ""
+    },
+    "makeautolaunch": {
+        "name": "Изготовление аркебуз",
+        "p": "Изготовление аркебуз",
+        "description": ""
+    },
+    "makeautolaunchammo": {
+        "name": "Изготовление зарядов для аркебузы",
+        "p": "Изготовление зарядов для аркебузы",
+        "description": ""
+    },
+    "makeaxe": {
+        "name": "Изготовление топоров",
+        "p": "Изготовление топоров",
+        "description": ""
+    },
+    "makebag": {
+        "name": "Изготовление сумок",
+        "p": "Изготовление сумок",
+        "description": ""
+    },
+    "makebowgun": {
+        "name": "Изготовление арбалетов",
+        "p": "Изготовление арбалетов",
+        "description": ""
+    },
+    "makebowgunammo": {
+        "name": "Изготовление зарядов для арбалета",
+        "p": "Изготовление зарядов для арбалета",
+        "description": ""
+    },
+    "makebracelet": {
+        "name": "Украшения: браслеты",
+        "p": "Украшения: браслеты",
+        "description": ""
+    },
+    "makebuckler": {
+        "name": "Изготовление малых щитов",
+        "p": "Изготовление малых щитов",
+        "description": ""
+    },
+    "makeclothes": {
+        "name": "Пошив одежды",
+        "p": "Пошив одежды",
+        "description": ""
+    },
+    "makedagger": {
+        "name": " кинжалов",
+        "p": "Изготовление кинжалов",
+        "description": ""
+    },
+    "makediadem": {
+        "name": "Украшения: венец",
+        "p": "Украшения: венец",
+        "description": ""
+    },
+    "makeearing": {
+        "name": "Украшения: серьги",
+        "p": "Украшения: серьги",
+        "description": ""
+    },
+    "makefireammos": {
+        "name": "Изготовление зажигательных зарядов",
+        "p": "Изготовление зажигательных зарядов",
+        "description": ""
+    },
+    "makefiretoughenedarmors": {
+        "name": "Изготовление огнеупорного доспеха",
+        "p": "Изготовление огнеупорного доспеха",
+        "description": ""
+    },
+    "makefireweapons": {
+        "name": "Изготовление огненного оружия",
+        "p": "Изготовление огненного оружия",
+        "description": ""
+    },
+    "makeflorallivingjewels": {
+        "name": "\"Изготовление \"\"живых\"\" украшений \"",
+        "p": "\"Изготовление \"\"живых\"\" украшений \"",
+        "description": ""
+    },
+    "makefloralpatternlivingclothes": {
+        "name": "\"Изготовление флоральных \"\"живых\"\" одеяний\"",
+        "p": "\"Изготовление флоральных \"\"живых\"\" одеяний\"",
+        "description": ""
+    },
+    "makegrenade": {
+        "name": "Изготовление гранат",
+        "p": "Изготовление гранат",
+        "description": ""
+    },
+    "makeharpoongun": {
+        "name": "Изготовление гарпунных ружей",
+        "p": "Изготовление гарпунных ружей",
+        "description": ""
+    },
+    "makeharpoongunammo": {
+        "name": "Изготовление зарядов для гарпунных ружей",
+        "p": "Изготовление зарядов для гарпунных ружей",
+        "description": ""
+    },
+    "makeheavyarmors": {
+        "name": "Изготовление тяжелого доспеха",
+        "p": "Изготовление тяжелого доспеха",
+        "description": ""
+    },
+    "makeheavyboots": {
+        "name": "Тяжелый доспех: сапоги",
+        "p": "Тяжелый доспех: сапоги",
+        "description": ""
+    },
+    "makeheavygloves": {
+        "name": "Тяжелый доспех: рукавицы",
+        "p": "Тяжелый доспех: рукавицы",
+        "description": ""
+    },
+    "makeheavyhelmet": {
+        "name": "Тяжелый доспех: шлемы",
+        "p": "Тяжелый доспех: шлемы",
+        "description": ""
+    },
+    "makeheavypants": {
+        "name": "Тяжелый доспех: поножи",
+        "p": "Тяжелый доспех: поножи",
+        "description": ""
+    },
+    "makeheavysleeves": {
+        "name": "Тяжелый доспех: наручи",
+        "p": "Тяжелый доспех: наручи",
+        "description": ""
+    },
+    "makeheavyvest": {
+        "name": "Тяжелый доспех: кираса",
+        "p": "Тяжелый доспех: кираса",
+        "description": ""
+    },
+    "makejewels": {
+        "name": "Изготовление украшений",
+        "p": "Изготовление украшений",
+        "description": ""
+    },
+    "makekamicclothes": {
+        "name": "Изготовление одеяний Ками",
+        "p": "Изготовление одеяний Ками",
+        "description": ""
+    },
+    "makekamicjewels": {
+        "name": "Изготовление украшений Ками",
+        "p": "Изготовление одеяний Ками",
+        "description": ""
+    },
+    "makekamicweapon": {
+        "name": "Изготовление оружия Ками",
+        "p": "Изготовление оружия Ками",
+        "description": ""
+    },
+    "makelance": {
+        "name": "Изготовление копий",
+        "p": "Изготовление копий",
+        "description": ""
+    },
+    "makelauncher": {
+        "name": "Изготовление мортир",
+        "p": "Изготовление мортир",
+        "description": ""
+    },
+    "makelauncherammo": {
+        "name": "Изготовление зарядов для мортир",
+        "p": "Изготовление зарядов для мортир",
+        "description": ""
+    },
+    "makelightboots": {
+        "name": "Легкий доспех: ботинки",
+        "p": "Легкий доспех: ботинки",
+        "description": ""
+    },
+    "makelightgloves": {
+        "name": "Легкий доспех: перчатки",
+        "p": "Легкий доспех: перчатки",
+        "description": ""
+    },
+    "makelighthelmet": {
+        "name": "Легкий доспех: шлемы",
+        "p": "Легкий доспех: шлемы",
+        "description": ""
+    },
+    "makelightpants": {
+        "name": "Легкий доспех: штаны",
+        "p": "Легкий доспех: штаны",
+        "description": ""
+    },
+    "makelightsleeves": {
+        "name": "Легкий доспех: рукава",
+        "p": "Легкий доспех: рукава",
+        "description": ""
+    },
+    "makelightvest": {
+        "name": "Легкий доспех: нагрудник",
+        "p": "Легкий доспех: нагрудник",
+        "description": ""
+    },
+    "makelongaxe": {
+        "name": "Изготовление бердышей",
+        "p": "Изготовление бердышей",
+        "description": ""
+    },
+    "makelongmace": {
+        "name": "Долгая булава",
+        "p": "Долгая булава",
+        "description": ""
+    },
+    "makelongsword": {
+        "name": "Изготовление мечей ",
+        "p": "Изготовление мечей ",
+        "description": ""
+    },
+    "makemace": {
+        "name": "Изготовление палиц",
+        "p": "Изготовление палиц",
+        "description": ""
+    },
+    "makemediumarmors": {
+        "name": "Изготовление среднего доспеха",
+        "p": "Изготовление среднего доспеха",
+        "description": ""
+    },
+    "makemediumboots": {
+        "name": "Средний доспех: Сапоги",
+        "p": "Средний доспех: Сапоги",
+        "description": ""
+    },
+    "makemediumgloves": {
+        "name": "Средний доспех: Перчатки",
+        "p": "Средний доспех: Перчатки",
+        "description": ""
+    },
+    "makemediumhelmet": {
+        "name": "Средний доспех: шлемы",
+        "p": "Средний доспех: шлемы",
+        "description": ""
+    },
+    "makemediumpants": {
+        "name": "Средний доспех: поножи",
+        "p": "Средний доспех: поножи",
+        "description": ""
+    },
+    "makemediumsleeves": {
+        "name": "Средний доспех: нарукавники",
+        "p": "Средний доспех: нарукавники",
+        "description": ""
+    },
+    "makemediumvest": {
+        "name": "Средний доспех: кираса",
+        "p": "Средний доспех: кираса",
+        "description": ""
+    },
+    "makemeleeweapons": {
+        "name": "Изготовление холодного оружия",
+        "p": "Изготовление холодного оружия",
+        "description": ""
+    },
+    "makependant": {
+        "name": "Украшения: кулоны",
+        "p": "Украшения: кулоны",
+        "description": ""
+    },
+    "makepike": {
+        "name": "Изготовление пик",
+        "p": "Изготовление пик",
+        "description": ""
+    },
+    "makepistol": {
+        "name": "Изготовление пистолетов",
+        "p": "Изготовление пистолетов",
+        "description": ""
+    },
+    "makepistolammo": {
+        "name": "Изготовление зарядов для пистолета",
+        "p": "Изготовление зарядов для пистолета",
+        "description": ""
+    },
+    "makepistolarc": {
+        "name": "Изготовление самострелов",
+        "p": "Изготовление самострелов",
+        "description": ""
+    },
+    "makepistolarcammo": {
+        "name": "Изготовление зарядов для самострела",
+        "p": "Изготовление зарядов для самострела",
+        "description": ""
+    },
+    "makepoisonnouslivingweapons": {
+        "name": "\"Изготовление отравленного \"\"живого\"\" оружия \"",
+        "p": "\"Изготовление отравленного \"\"живого\"\" оружия \"",
+        "description": ""
+    },
+    "makerangeweaponammos": {
+        "name": "Изготовления зарядов для огнестрельного оружия",
+        "p": "Изготовления зарядов для огнестрельного оружия",
+        "description": ""
+    },
+    "makerangeweapons": {
+        "name": "Изготовления огнестрельного оружия",
+        "p": "Изготовление огнестрельного оружия",
+        "description": ""
+    },
+    "makerifle": {
+        "name": "Изготовления винтовок",
+        "p": "Изготовление винтовок",
+        "description": ""
+    },
+    "makerifleammo": {
+        "name": "Изготовления зарядов для винтовок",
+        "p": "Изготовление зарядов для винтовок",
+        "description": ""
+    },
+    "makering": {
+        "name": "Украшения: кольца",
+        "p": "Украшения: кольца",
+        "description": ""
+    },
+    "makeshield": {
+        "name": "Изготовление щитов",
+        "p": "Изготовление щитов",
+        "description": ""
+    },
+    "makeshiftrepair": {
+        "name": "Ремонт на скорую руку",
+        "p": "Ремонт на скорую руку",
+        "description": ""
+    },
+    "makesurvivaltools": {
+        "name": "Make Survival Tool",
+        "p": "Make Survival Tools",
+        "description": ""
+    },
+    "makesurvivalweapon": {
+        "name": "Make Survival Weapon",
+        "p": "Make Survival Weapons",
+        "description": ""
+    },
+    "makesword": {
+        "name": "Изготовление коротких мечей",
+        "p": "Изготовление коротких мечей",
+        "description": ""
+    },
+    "makethrowingweapon": {
+        "name": "Изготовление метательного оружия",
+        "p": "Изготовление метательного оружия",
+        "description": ""
+    },
+    "maketools": {
+        "name": "Изготовление инструментов",
+        "p": "Изготовление инструментов",
+        "description": ""
+    },
+    "maketwo_handsmeleeweapons": {
+        "name": "Изготовление двуручного холодного оружия",
+        "p": "Изготовление двуручного холодного оружия",
+        "description": ""
+    },
+    "maketwo_handsrangeweaponammos": {
+        "name": "Изготовление зарядов для тяжелого огнестрельного оружия ",
+        "p": "Изготовление зарядов для тяжелого огнестрельного оружия",
+        "description": ""
+    },
+    "maketwo_handsrangeweapons": {
+        "name": "Изготовление тяжелого огнестрельного оружия",
+        "p": "Изготовление тяжелого огнестрельного оружия",
+        "description": ""
+    },
+    "mandragore": {
+        "name": "Mandragore",
+        "p": "Mandragores",
+        "description": ""
+    },
+    "mandrakefist": {
+        "name": "Mandrake Fist",
+        "p": "Mandrake Fists",
+        "description": ""
+    },
+    "mass": {
+        "name": "Палица",
+        "p": "Палицы",
+        "description": ""
+    },
+    "massivethrow": {
+        "name": "Метание с двух рук ",
+        "p": "Метание с двух рук ",
+        "description": ""
+    },
+    "matis": {
+        "name": "Матис",
+        "p": "Матис",
+        "description": ""
+    },
+    "matisgoods": {
+        "name": "Товары матисов",
+        "p": "Товары матисов",
+        "description": ""
+    },
+    "matismystery": {
+        "name": "Тайна матисов",
+        "p": "Тайны матисов",
+        "description": ""
+    },
+    "mechanic": {
+        "name": "Механика",
+        "p": "Механика",
+        "description": ""
+    },
+    "mediumarmourwear": {
+        "name": "Ношение среднего доспеха",
+        "p": "Ношение среднего доспеха",
+        "description": ""
+    },
+    "minorlifeheal": {
+        "name": "Малое исцеление",
+        "p": "Малое исцеление",
+        "description": ""
+    },
+    "minorsapheal": {
+        "name": "Малое восполнение сэп",
+        "p": "Малое восполнение сэп",
+        "description": ""
+    },
+    "minortirednessheal": {
+        "name": "Малое восполнение выносливости",
+        "p": "Малое восполнение выносливости",
+        "description": ""
+    },
+    "mirror": {
+        "name": "Mirror",
+        "p": "Mirrors",
+        "description": ""
+    },
+    "muscularfever": {
+        "name": "Воспаление мышц",
+        "p": "Воспаление мышц",
+        "description": ""
+    },
+    "nervousfever": {
+        "name": "Нервическая лихорадка",
+        "p": "Нервические лихорадки",
+        "description": ""
+    },
+    "nightshot": {
+        "name": "Стрельба в темноте ",
+        "p": "Стрельба в темноте",
+        "description": ""
+    },
+    "nunb": {
+        "name": "Numb",
+        "p": "Numbs",
+        "description": ""
+    },
+    "onhorsebackmelee": {
+        "name": "Сражение верхом (на мектубах)",
+        "p": "Сражение верхом (на мектубах)",
+        "description": ""
+    },
+    "onhorsebackshoot": {
+        "name": "Стрельба верхом (на мектубах)",
+        "p": "Стрельба верхом (на мектубах)",
+        "description": ""
+    },
+    "painshare": {
+        "name": "Поделиться болью",
+        "p": "Поделиться болью",
+        "description": ""
+    },
+    "paralysis": {
+        "name": "Паралич",
+        "p": "Паралич",
+        "description": ""
+    },
+    "pike": {
+        "name": "Пика",
+        "p": "Пики",
+        "description": ""
+    },
+    "pikehunting": {
+        "name": "Охота",
+        "p": "Охота",
+        "description": ""
+    },
+    "pistol": {
+        "name": "Пистолет",
+        "p": "Пистолет",
+        "description": ""
+    },
+    "planthatred": {
+        "name": "Ненависть растений ",
+        "p": "Ненависть растений ",
+        "description": ""
+    },
+    "pointblankshot": {
+        "name": "Выстрел в упор",
+        "p": "Выстрел в упор",
+        "description": ""
+    },
+    "primaryroots": {
+        "name": "Предвечные корни",
+        "p": "Предвечные корни",
+        "description": ""
+    },
+    "protectingkamisknoledge": {
+        "name": "Знание Ками: защита",
+        "p": "Знание Ками: защита",
+        "description": ""
+    },
+    "quartering": {
+        "name": "Разделывать туши ",
+        "p": "Разделывать туши ",
+        "description": ""
+    },
+    "quickshot": {
+        "name": "Быстрая стрельба",
+        "p": "Быстрая стрельба",
+        "description": ""
+    },
+    "quickthrow": {
+        "name": "Ускоренное метание",
+        "p": "Ускоренное метание",
+        "description": ""
+    },
+    "range": {
+        "name": "Дальность",
+        "p": "Дальность",
+        "description": ""
+    },
+    "rapidburst": {
+        "name": "Rapid Burst",
+        "p": "Rapid Bursts",
+        "description": ""
+    },
+    "resist": {
+        "name": "Противостоять",
+        "p": "Противостоять",
+        "description": ""
+    },
+    "resistance": {
+        "name": "Сопротивление",
+        "p": "Сопротивление",
+        "description": ""
+    },
+    "ridepackers": {
+        "name": "Животное в поводу",
+        "p": "Животное в поводу",
+        "description": ""
+    },
+    "riding": {
+        "name": "Езда верхом",
+        "p": "Езда верхом",
+        "description": ""
+    },
+    "rifle": {
+        "name": "Винтовка",
+        "p": "Винтовки",
+        "description": ""
+    },
+    "riflehunting": {
+        "name": "Стрельба",
+        "p": "Стрельба",
+        "description": ""
+    },
+    "rocket": {
+        "name": "Ракета",
+        "p": "Ракета",
+        "description": ""
+    },
+    "rocktabou": {
+        "name": "Rock Taboo",
+        "p": "Rock Taboos",
+        "description": ""
+    },
+    "rondache": {
+        "name": "Rondache",
+        "p": "Rondaches",
+        "description": ""
+    },
+    "rot": {
+        "name": "Гниение",
+        "p": "Гниение",
+        "description": ""
+    },
+    "running": {
+        "name": "Бег",
+        "p": "Бег",
+        "description": ""
+    },
+    "sapalchemy": {
+        "name": "Алхимия сэп",
+        "p": "Алхимия сэп",
+        "description": ""
+    },
+    "saparmor": {
+        "name": "Sap Armor",
+        "p": "Sap Armors",
+        "description": ""
+    },
+    "sapgift": {
+        "name": "Дар сэп",
+        "p": "Дар сэп",
+        "description": ""
+    },
+    "shield": {
+        "name": "Щит",
+        "p": "Щит",
+        "description": ""
+    },
+    "shootandrun": {
+        "name": "Стрельба на бегу",
+        "p": "Стрельба на бегу",
+        "description": ""
+    },
+    "shotprotect": {
+        "name": "Защита выстрела",
+        "p": "Защита выстрела",
+        "description": ""
+    },
+    "slowingbreath": {
+        "name": "Замедление дыхания",
+        "p": "Замедление дыхания",
+        "description": ""
+    },
+    "slowinglife": {
+        "name": "Замедление жизни",
+        "p": "Замедление жизни",
+        "description": ""
+    },
+    "spear": {
+        "name": "Копье",
+        "p": "Копья",
+        "description": ""
+    },
+    "spelldeletion": {
+        "name": "Удаление заклятия",
+        "p": "Удаление заклятий",
+        "description": ""
+    },
+    "spellprotect": {
+        "name": "Spell Protect",
+        "p": "Spell Protects",
+        "description": ""
+    },
+    "spurtingfire": {
+        "name": "Spurting Fire",
+        "p": "Spurting Fires",
+        "description": ""
+    },
+    "squandering": {
+        "name": "Squandering",
+        "p": "Squanderings",
+        "description": ""
+    },
+    "stallsetup": {
+        "name": "Stall Set Up",
+        "p": "Stall Set Ups",
+        "description": ""
+    },
+    "stealbreath": {
+        "name": "Stealing Breath",
+        "p": "Stealing Breaths",
+        "description": ""
+    },
+    "steallife": {
+        "name": "Похищение здоровья",
+        "p": "Похищение здоровья",
+        "description": ""
+    },
+    "stealsap": {
+        "name": "Похищение сэп",
+        "p": "Похищение сэп",
+        "description": ""
+    },
+    "stick": {
+        "name": "Посох",
+        "p": "Посохи",
+        "description": ""
+    },
+    "strenghtgift": {
+        "name": "Дар силы",
+        "p": "Дар силы",
+        "description": ""
+    },
+    "swimming": {
+        "name": "Плавание",
+        "p": "Плавание",
+        "description": ""
+    },
+    "sword": {
+        "name": "Меч",
+        "p": "Меч",
+        "description": ""
+    },
+    "sylphicslide": {
+        "name": "Sylphic Slide",
+        "p": "Sylphic Slide",
+        "description": ""
+    },
+    "sylve": {
+        "name": "Sylve",
+        "p": "Sylves",
+        "description": ""
+    },
+    "tactilewithering": {
+        "name": "Tactile Withering",
+        "p": "Tactile Witherings",
+        "description": ""
+    },
+    "target": {
+        "name": "Target",
+        "p": "Targets",
+        "description": ""
+    },
+    "terror": {
+        "name": "Terror",
+        "p": "Terrors",
+        "description": ""
+    },
+    "tirednessalchemy": {
+        "name": "Алхимия выносливости",
+        "p": "Алхимия выносливости",
+        "description": ""
+    },
+    "tracking": {
+        "name": "Следопыт",
+        "p": "Следопыт",
+        "description": ""
+    },
+    "tradingcenterknowledge": {
+        "name": "Знание торговли",
+        "p": "Знание торговли",
+        "description": ""
+    },
+    "trainingagility": {
+        "name": "Развитие ловкости",
+        "p": "Развитие ловкости",
+        "description": ""
+    },
+    "traininganimal": {
+        "name": "Дрессировка",
+        "p": "Дрессировка",
+        "description": ""
+    },
+    "trainingcharisme": {
+        "name": "Развитие харизмы",
+        "p": "Развитие харизмы",
+        "description": ""
+    },
+    "trainingconstitution": {
+        "name": "Развитие здоровья",
+        "p": "Развитие здоровья",
+        "description": ""
+    },
+    "trainingdiseaseresist": {
+        "name": "Повышение сопротивляемости болезням",
+        "p": "Повышение сопротивляемости болезням",
+        "description": ""
+    },
+    "trainingempathie": {
+        "name": "Развитие эмпатии",
+        "p": "Развитие эмпатии",
+        "description": ""
+    },
+    "trainingfearresist": {
+        "name": "Повышение неустрашимости",
+        "p": "Повышение неустрашимости",
+        "description": ""
+    },
+    "traininghp": {
+        "name": "Повышение наносимого урона",
+        "p": "Повышение наносимого урона",
+        "description": ""
+    },
+    "traininghp2": {
+        "name": "Повышение наносимого урона 2",
+        "p": "Повышение наносимого урона 2",
+        "description": ""
+    },
+    "traininghp3": {
+        "name": "Повышение наносимого урона 3",
+        "p": "Повышение наносимого урона 3",
+        "description": ""
+    },
+    "traininghp4": {
+        "name": "Повышение наносимого урона 4",
+        "p": "Повышение наносимого урона 4",
+        "description": ""
+    },
+    "trainingimpactresist": {
+        "name": "Повышение сопротивляемости ударам",
+        "p": "Повышение сопротивляемости ударам",
+        "description": ""
+    },
+    "trainingintelligence": {
+        "name": "Развитие интеллекта",
+        "p": "Развитие интеллекта",
+        "description": ""
+    },
+    "trainingmagicresist": {
+        "name": "Повышение сопротивляемости магии",
+        "p": "Повышение сопротивляемости магии",
+        "description": ""
+    },
+    "trainingperception": {
+        "name": "Развитие зоркости",
+        "p": "Развитие зоркости",
+        "description": ""
+    },
+    "trainingseve": {
+        "name": "Повышение объема сэп",
+        "p": "Повышение объема сэп",
+        "description": ""
+    },
+    "trainingseve2": {
+        "name": "Повышение объема сэп 2",
+        "p": "Повышение объема сэп 2",
+        "description": ""
+    },
+    "trainingseve3": {
+        "name": "Повышение объема сэп 3",
+        "p": "Повышение объема сэп 3",
+        "description": ""
+    },
+    "trainingseve4": {
+        "name": "Повышение объема сэп 4",
+        "p": "Повышение объема сэп 4",
+        "description": ""
+    },
+    "trainingstamina": {
+        "name": "Повышение выносливости",
+        "p": "Повышение выносливости",
+        "description": ""
+    },
+    "trainingstamina2": {
+        "name": "Повышение выносливости 2",
+        "p": "Повышение выносливости 2",
+        "description": ""
+    },
+    "trainingstamina3": {
+        "name": "Повышение выносливости 3",
+        "p": "Повышение выносливости 3",
+        "description": ""
+    },
+    "trainingstamina4": {
+        "name": "Повышение выносливости 4",
+        "p": "Повышение выносливости 4",
+        "description": ""
+    },
+    "trainingstrength": {
+        "name": "Развитие силы",
+        "p": "Развитие силы",
+        "description": ""
+    },
+    "trainingtechnoresist": {
+        "name": "Повышение сопротивляемости техногенным воздействиям",
+        "p": "Повышение сопротивляемости техногенным воздействиям",
+        "description": ""
+    },
+    "trainingwellbalanced": {
+        "name": "Развитие сбалансированности",
+        "p": "Развитие сбалансированности",
+        "description": ""
+    },
+    "trainingwill": {
+        "name": "Развитие воли",
+        "p": "Развитие воли",
+        "description": ""
+    },
+    "tryker": {
+        "name": "Трайкер",
+        "p": "Трайкеры",
+        "description": ""
+    },
+    "trykergoods": {
+        "name": "Товары трайкеров",
+        "p": "Товары трайкеров",
+        "description": ""
+    },
+    "trykermystery": {
+        "name": "Тайна трайкеров",
+        "p": "Тайны трайкеров",
+        "description": ""
+    },
+    "twohandedcombat": {
+        "name": "Сражение двуручным оружием",
+        "p": "Сражение двуручным оружием",
+        "description": ""
+    },
+    "twohandssword": {
+        "name": "Двуручный меч",
+        "p": "Двуручные мечи",
+        "description": ""
+    },
+    "underwaterextract": {
+        "name": "Добыча ресурсов под водой",
+        "p": "Добыча ресурсов под водой",
+        "description": ""
+    },
+    "visualwithering": {
+        "name": "Visual Withering",
+        "p": "Visual Witherings",
+        "description": ""
+    },
+    "vitalburst": {
+        "name": "Vital Burst",
+        "p": "Vital Bursts",
+        "description": ""
+    },
+    "warriorgift": {
+        "name": "Warrior Gift",
+        "p": "Warrior Gifts",
+        "description": ""
+    },
+    "weaponscutting": {
+        "name": "Weapons Cutting",
+        "p": "Weapons Cuttings",
+        "description": ""
+    },
+    "windarmor": {
+        "name": "Wind Armor",
+        "p": "Wind Armors",
+        "description": ""
+    },
+    "windgift": {
+        "name": "Wind Gift",
+        "p": "Wind Gifts",
+        "description": ""
+    },
+    "windshear": {
+        "name": "Wind Shear",
+        "p": "Wind Shears",
+        "description": ""
+    },
+    "zorai": {
+        "name": "Зораи",
+        "p": "Зораи",
+        "description": ""
+    },
+    "zoraigoods": {
+        "name": "Товары зораи",
+        "p": "Товары зораи",
+        "description": ""
+    },
+    "zoraimystery": {
+        "name": "Тайна зораи",
+        "p": "Тайны зораи",
+        "description": ""
+    },
+    "trainingimpactresist2": {
+        "name": "Повышение сопротивляемости ударам 2",
+        "p": "Повышение сопротивляемости ударам 2",
+        "description": ""
+    },
+    "trainingimpactresist3": {
+        "name": "Повышение сопротивляемости ударам 3",
+        "p": "Повышение сопротивляемости ударам 3",
+        "description": ""
+    },
+    "trainingmagicresist2": {
+        "name": "Повышение сопротивляемости магии 2",
+        "p": "Повышение сопротивляемости магии 2",
+        "description": ""
+    },
+    "trainingmagicresist3": {
+        "name": "Повышение сопротивляемости магии 3",
+        "p": "Повышение сопротивляемости магии 3",
+        "description": ""
+    },
+    "makeenchantedweapons": {
+        "name": "Изготовление зачарованного оружия ",
+        "p": "Изготовление зачарованного оружия ",
+        "description": ""
+    },
+    "makeenchantedarmors": {
+        "name": "Изготовление зачарованного доспеха",
+        "p": "Изготовление зачарованного доспеха",
+        "description": ""
+    },
+    "makevampiricweapons": {
+        "name": "Изготовление вампирического оружия",
+        "p": "Изготовление вампирического оружия",
+        "description": ""
+    },
+    "makeenchantedfloralpatternlivingclothes": {
+        "name": "\"Изготовление зачарованного флоральных \"\"живых\"\" одеяний\"",
+        "p": "\"Изготовление зачарованного флоральных \"\"живых\"\" одеяний\"",
+        "description": ""
+    },
+    "makedeadlyharpoongun": {
+        "name": "Изготовление смертоносных гарпунных ружей",
+        "p": "Изготовление смертоносных гарпунных ружей",
+        "description": ""
+    },
+    "makehuntingarmors": {
+        "name": "Изготовление охотничьего доспеха",
+        "p": "Изготовление охотничьего доспеха",
+        "description": ""
+    },
+    "makeritualclothes": {
+        "name": "Изготовление ритуальных одеяний ",
+        "p": "Изготовление ритуальных одеяний ",
+        "description": ""
+    },
+    "makeritualjewels": {
+        "name": "Изготовление ритуальных украшений",
+        "p": "Изготовление ритуальных украшений",
+        "description": ""
+    },
+    "sc": {
+        "name": "Ремесло",
+        "p": "Ремесло",
+        "description": "Ремесло"
+    },
+    "sm": {
+        "name": "Магия",
+        "p": "Магия",
+        "description": "Магия"
+    },
+    "smt": {
+        "name": "Магия прямого воздействия",
+        "p": "Магическое воздействие на выбранную цель",
+        "description": "Магическое воздействие на выбранную цель"
+    },
+    "smtm": {
+        "name": "Трассирующее заклятье",
+        "p": "Трассирующее заклятье, накладываемое на выбранную цель",
+        "description": "Трассирующее заклятье, накладываемое на выбранную цель"
+    },
+    "smtmr": {
+        "name": "Предвечная магия",
+        "p": "Трассирующее заклятье предвечной магии ",
+        "description": "Трассирующее заклятье предвечной магии "
+    },
+    "smtmg": {
+        "name": "Атизианская магия",
+        "p": "Трассирующее заклятье Атизианской магии",
+        "description": "Трассирующее заклятье Атизианской магии"
+    },
+    "smtmb": {
+        "name": "Благая магия",
+        "p": "Трассирующее заклятье благой магии",
+        "description": "Трассирующее заклятье благой магии"
+    },
+    "smto": {
+        "name": "Боевая магия",
+        "p": "Боевое магическое воздействие на выбранную цель ",
+        "description": "Боевое магическое воздействие на выбранную цель "
+    },
+    "smtod": {
+        "name": "Повреждающая магия",
+        "p": "Нанесение магического урона выбранной цели",
+        "description": "Нанесение магического урона выбранной цели"
+    },
+    "smtodp": {
+        "name": "Проникающая магия",
+        "p": "Нанесение проникающего магического урона выбранной цели",
+        "description": "Нанесение проникающего магического урона выбранной цели"
+    },
+    "smtodb": {
+        "name": "Ударная магия ",
+        "p": "Нанесение магического урона выбранной цели: удар",
+        "description": "Нанесение магического урона выбранной цели: удар"
+    },
+    "smtods": {
+        "name": "Рубящая магия ",
+        "p": "Нанесение рубящего магического урона выбранной цели",
+        "description": "Нанесение рубящего магического урона выбранной цели"
+    },
+    "smtoe": {
+        "name": "Магия стихий",
+        "p": "Нанесение особого магического урона выбранной цели",
+        "description": "Нанесение особого магического урона выбранной цели"
+    },
+    "smtoec": {
+        "name": "Магия холода",
+        "p": "Нанесение магического урона выбранной цели - холод",
+        "description": "Нанесение магического урона выбранной цели - холод"
+    },
+    "smtoea": {
+        "name": "Магия кислот",
+        "p": "Нанесение магического урона выбранной цели -кислота",
+        "description": "Нанесение магического урона выбранной цели -кислота"
+    },
+    "smtoer": {
+        "name": "Магия гниения",
+        "p": "Нанесение магического урона выбранной цели - гниение",
+        "description": "Нанесение магического урона выбранной цели - гниение"
+    },
+    "smtoef": {
+        "name": "Магия огня",
+        "p": "Нанесение магического урона выбранной цели - огонь",
+        "description": "Нанесение магического урона выбранной цели - огонь"
+    },
+    "smtoes": {
+        "name": "Магия ударных волн",
+        "p": "Нанесение магического урона выбранной цели - ударная волна",
+        "description": "Нанесение магического урона выбранной цели - ударная волна"
+    },
+    "smtoep": {
+        "name": "Отравляющая магия",
+        "p": "Нанесение магического урона выбранной цели - яд",
+        "description": "Нанесение магического урона выбранной цели - яд"
+    },
+    "smtoee": {
+        "name": "Электромагия",
+        "p": "Нанесение магического урона выбранной цели - электрошок",
+        "description": "Нанесение магического урона выбранной цели - электрошок"
+    },
+    "smtc": {
+        "name": "Магия восстановления",
+        "p": "Восстановительное заклинание, направленное на выбранную цель",
+        "description": "Восстановительное заклинание, направленное на выбранную цель"
+    },
+    "smtch": {
+        "name": "Магия исцеления",
+        "p": "Исцеление выбранной цели",
+        "description": "Исцеление выбранной цели"
+    },
+    "smtchp": {
+        "name": "Магия восстановления здоровья",
+        "p": "Восстановление здоровья выбранной цели",
+        "description": "Восстановление здоровья выбранной цели"
+    },
+    "smtcht": {
+        "name": "Магия восстановления выносливости",
+        "p": "Восстановление выносливости выбранной цели",
+        "description": "Восстановление выносливости выбранной цели"
+    },
+    "smtcha": {
+        "name": "Магия восстановления сэп",
+        "p": "Восстановление сэп выбранной цели",
+        "description": "Восстановление сэп выбранной цели"
+    },
+    "smtchc": {
+        "name": "Магия восстановления концентрации",
+        "p": "Восстановление параметра концентрация у выбранной цели",
+        "description": "Восстановление параметра концентрация у выбранной цели"
+    },
+    "smtcb": {
+        "name": "Разрыв контакта",
+        "p": "Разрыв контакта враждебного заклятия на выбранной цели ",
+        "description": "Разрыв контакта враждебного заклятия на выбранной цели "
+    },
+    "smtcbd": {
+        "name": "Разрыв контакта боевых заклятий",
+        "p": "Разрыв контакта боевых заклятий на выбранной цели ",
+        "description": "Разрыв контакта боевых заклятий на выбранной цели "
+    },
+    "smtcbs": {
+        "name": "Разрыв контакта заклятий ослабления",
+        "p": "Разрыв контакта заклятий ослабления на выбранной цели ",
+        "description": "Разрыв контакта заклятий ослабления на выбранной цели "
+    },
+    "smtcbc": {
+        "name": "Разрыв контакта проклятий",
+        "p": "Разрыв контакта проклятий  на выбранной цели ",
+        "description": "Разрыв контакта проклятий  на выбранной цели "
+    },
+    "sml": {
+        "name": "Контакт заклятия с целью",
+        "p": "Контакт заклятия с целью",
+        "description": "Контакт заклятия с целью"
+    },
+    "smlm": {
+        "name": "Контакт трассирующего заклятия",
+        "p": "Контакт трассирующего заклятия",
+        "description": "Контакт трассирующего заклятия"
+    },
+    "smlmr": {
+        "name": "Контакт заклятия предвечной магии",
+        "p": "Контакт заклятия предвечной магии",
+        "description": "Контакт заклятия предвечной магии"
+    },
+    "smlmg": {
+        "name": "Контакт заклятия атизианской магии",
+        "p": "Контакт заклятия атизианской магии",
+        "description": "Контакт заклятия атизианской магии"
+    },
+    "smlmb": {
+        "name": "Контакт заклятия благой магии",
+        "p": "Контакт заклятия благой магии",
+        "description": "Контакт заклятия благой магии"
+    },
+    "smlo": {
+        "name": "Контакт заклятия боевой магии",
+        "p": "Контакт заклятия боевой магии",
+        "description": "Контакт заклятия боевой магии"
+    },
+    "smlos": {
+        "name": "Контакт заклятия магии ослабления",
+        "p": "Контакт заклятия магии ослабления",
+        "description": "Контакт заклятия магии ослабления"
+    },
+    "smlosm": {
+        "name": "Контакт заклятия безумия",
+        "p": "Контакт заклятия магии ослабления - Безумие",
+        "description": "Контакт заклятия магии ослабления - Безумие"
+    },
+    "smloss": {
+        "name": "Контакт заклятия замедления",
+        "p": "Контакт заклятия магии ослабления - замедление",
+        "description": "Контакт заклятия магии ослабления - замедление"
+    },
+    "smlosr": {
+        "name": "Контакт заклятия уязвимости",
+        "p": "Контакт заклятия магии ослабления - уязвимость",
+        "description": "Контакт заклятия магии ослабления - уязвимость"
+    },
+    "smlosk": {
+        "name": "Контакт заклятия потери навыков",
+        "p": "Контакт заклятия магии ослабления - потеря навыков",
+        "description": "Контакт заклятия магии ослабления - потеря навыков"
+    },
+    "smloc": {
+        "name": "Контакт проклинающих заклятий",
+        "p": "Контакт проклинающих заклятий",
+        "description": "Контакт проклинающих заклятий"
+    },
+    "smloci": {
+        "name": "Контакт заклятия бессилия",
+        "p": "Контакт проклинающего заклятия - бессилие",
+        "description": "Контакт проклинающего заклятия - бессилие"
+    },
+    "smlocm": {
+        "name": "Контакт заклятия: помешательство",
+        "p": "Контакт проклинающего заклятия - мозговорот",
+        "description": "Контакт проклинающего заклятия - мозговорот"
+    },
+    "smlocs": {
+        "name": "Контакт заклятия невезения",
+        "p": "Контакт проклинающего заклятия - невезение",
+        "description": "Контакт проклинающего заклятия - невезение"
+    },
+    "smloch": {
+        "name": "Контакт заклятия ненависти",
+        "p": "Контакт проклинающего заклятия - ненависть",
+        "description": "Контакт проклинающего заклятия - ненависть"
+    },
+    "smlod": {
+        "name": "Контакт заклятий повреждающей магии",
+        "p": "Контакт заклятий повреждающей магии",
+        "description": "Контакт заклятий повреждающей магии"
+    },
+    "smlodp": {
+        "name": "Контакт заклятий проникающего повреждения",
+        "p": "Контакт повреждающего заклятия: проникающее повреждение",
+        "description": "Контакт повреждающего заклятия: проникающее повреждение"
+    },
+    "smlodb": {
+        "name": "Контакт заклятий ударного урона",
+        "p": "Контакт повреждающего заклятия: удар",
+        "description": "Контакт повреждающего заклятия: удар"
+    },
+    "smlods": {
+        "name": "Контакт заклятий рубящего урона",
+        "p": "Контакт повреждающего заклятия: рубящий урон",
+        "description": "Контакт повреждающего заклятия: рубящий урон"
+    },
+    "smloe": {
+        "name": "Контакт заклятий магии стихий",
+        "p": "Контакт повреждающего заклятия: магия стихий",
+        "description": "Контакт повреждающего заклятия: магия стихий"
+    },
+    "smloec": {
+        "name": "Контакт заклятия холода",
+        "p": "Контакт заклятия магии стихий: холод",
+        "description": "Контакт заклятия магии стихий: холод"
+    },
+    "smloea": {
+        "name": "Контакт заклятия кислот",
+        "p": "Контакт заклятия магии стихий: кислоты",
+        "description": "Контакт заклятия магии стихий: кислоты"
+    },
+    "smloer": {
+        "name": "Контакт заклятия гниения",
+        "p": "Контакт заклятия магии стихий: гниение",
+        "description": "Контакт заклятия магии стихий: гниение"
+    },
+    "smloef": {
+        "name": "Контакт заклятия огня",
+        "p": "Контакт заклятия магии стихий: огонь",
+        "description": "Контакт заклятия магии стихий: огонь"
+    },
+    "smloes": {
+        "name": "Контакт заклятия ударной волны",
+        "p": "Контакт заклятия магии стихий: ударная волна",
+        "description": "Контакт заклятия магии стихий: ударная волна"
+    },
+    "smloep": {
+        "name": "Контакт заклятия яда",
+        "p": "Контакт заклятия магии стихий: яд",
+        "description": "Контакт заклятия магии стихий: яд"
+    },
+    "smloee": {
+        "name": "Контакт заклятия электрошок",
+        "p": "Контакт заклятия магии стихий: электрошок",
+        "description": "Контакт заклятия магии стихий: электрошок"
+    },
+    "smlc": {
+        "name": "Контакт восстанавливающих заклятий",
+        "p": "Контакт восстанавливающих заклятий",
+        "description": "Контакт восстанавливающих заклятий"
+    },
+    "smlch": {
+        "name": "Контакт исцеляющих заклятий",
+        "p": "Контакт исцеляющих заклятий",
+        "description": "Контакт исцеляющих заклятий"
+    },
+    "smlchp": {
+        "name": "Контакт заклятия исцеления здоровья",
+        "p": "Контакт заклятия исцеления здоровья",
+        "description": "Контакт заклятия исцеления здоровья"
+    },
+    "smlcht": {
+        "name": "Контакт заклятия восстановления выносливости",
+        "p": "Контакт заклятия восстановления выносливости",
+        "description": "Контакт заклятия восстановления выносливости"
+    },
+    "smlcha": {
+        "name": "Контакт заклятия восстановления сэп",
+        "p": "Контакт заклятия восстановления сэп",
+        "description": "Контакт заклятия восстановления сэп"
+    },
+    "smlchc": {
+        "name": "Контакт заклятия восстановления концентрации",
+        "p": "Контакт заклятия восстановления концентрации",
+        "description": "Контакт заклятия восстановления концентрации"
+    },
+    "sma": {
+        "name": "Autonomous Magic",
+        "p": "Magic Autonomous",
+        "description": "Magic autonomous"
+    },
+    "smae": {
+        "name": "Зачаровывание предметов",
+        "p": "Зачаровывание предметов",
+        "description": "Зачаровывание предметов"
+    },
+    "smaes": {
+        "name": "Зачаровывание предметов: наложение заклятий",
+        "p": "Зачаровывание предметов: наложение заклятий",
+        "description": "Зачаровывание предметов: наложение заклятий"
+    },
+    "smaeb": {
+        "name": "Зачаровывание предметов: улучшение параметров",
+        "p": "Зачаровывание предметов: улучшение параметров",
+        "description": "Зачаровывание предметов: улучшение параметров"
+    },
+    "smap": {
+        "name": "Магия зельеварения",
+        "p": "Магия зельеварения",
+        "description": "Магия зельеварения"
+    },
+    "sd": {
+        "name": "Защита",
+        "p": "Защита",
+        "description": "Защита"
+    },
+    "sda": {
+        "name": "Защита: доспехи",
+        "p": "Защита: доспехи",
+        "description": "Защита: доспехи"
+    },
+    "sdal": {
+        "name": "Защита: легкий доспех",
+        "p": "Защита: легкий доспех",
+        "description": "Защита: легкий доспех"
+    },
+    "sdalf": {
+        "name": "Защита: легкий доспех файросов",
+        "p": "Защита: легкий доспех файросов",
+        "description": "Защита: легкий доспех файросов"
+    },
+    "sdalfa": {
+        "name": "Улучшенная защита: легкий доспех файросов",
+        "p": "Улучшенная защита: легкий доспех файросов",
+        "description": "Улучшенная защита: легкий доспех файросов"
+    },
+    "sdalfae": {
+        "name": "Продвинутая защита: легкий доспех файрос",
+        "p": "Продвинутая защита: легкий доспех файросов",
+        "description": "Продвинутая защита: легкий доспех файросов"
+    },
+    "sdalm": {
+        "name": "Защита: легкий доспех матисов",
+        "p": "Защита: легкий доспех матисов",
+        "description": "Защита: легкий доспех матисов"
+    },
+    "sdalma": {
+        "name": "Улучшенная защита: легкий доспех матисов",
+        "p": "Улучшенная защита: легкий доспех матисов",
+        "description": "Улучшенная защита: легкий доспех матисов"
+    },
+    "sdalmae": {
+        "name": "Продвинутая защита: легкий доспех матисов",
+        "p": "Продвинутая защита: легкий доспех матисов",
+        "description": "Продвинутая защита: легкий доспех матисов"
+    },
+    "sdalt": {
+        "name": "Защита: легкий доспех трайкеров",
+        "p": "Защита: легкий доспех трайкеров",
+        "description": "Защита: легкий доспех трайкеров"
+    },
+    "sdalta": {
+        "name": "Улучшенная защита: легкий доспех трайкеров",
+        "p": "Улучшенная защита: легкий доспех трайкеров",
+        "description": "Улучшенная защита: легкий доспех трайкеров"
+    },
+    "sdaltae": {
+        "name": "Продвинутая защита: легкий доспех трайкеров",
+        "p": "Продвинутая защита: легкий доспех трайкеров",
+        "description": "Продвинутая защита: легкий доспех трайкеров"
+    },
+    "sdalz": {
+        "name": "Защита: легкий доспех зораи",
+        "p": "Защита: легкий доспех зораи",
+        "description": "Защита: легкий доспех зораи"
+    },
+    "sdalza": {
+        "name": "Улучшенная защита: легкий доспех зораи",
+        "p": "Улучшенная защита: легкий доспех зораи",
+        "description": "Улучшенная защита: легкий доспех зораи"
+    },
+    "sdalzae": {
+        "name": "Продвинутая защита: легкий доспех зораи",
+        "p": "Продвинутая защита: легкий доспех зораи",
+        "description": "Продвинутая защита: легкий доспех зораи"
+    },
+    "sdam": {
+        "name": "Защита: средний доспех",
+        "p": "Защита: средний доспех",
+        "description": "Защита: средний доспех"
+    },
+    "sdamf": {
+        "name": "Защита: средний доспех файросов",
+        "p": "Защита: средний доспех файросов",
+        "description": "Защита: средний доспех файросов"
+    },
+    "sdamfa": {
+        "name": "Улучшенная защита: средний доспех файросов",
+        "p": "Улучшенная защита: средний доспех файросов",
+        "description": "Улучшенная защита: средний доспех файросов"
+    },
+    "sdamfae": {
+        "name": "Продвинутая защита: средний доспех файросов",
+        "p": "Продвинутая защита: средний доспех файросов",
+        "description": "Продвинутая защита: средний доспех файросов"
+    },
+    "sdamm": {
+        "name": "Защита: средний доспех матисов",
+        "p": "Защита: средний доспех матисов",
+        "description": "Защита: средний доспех матисов"
+    },
+    "sdamma": {
+        "name": "Улучшенная защита: средний доспех матисов",
+        "p": "Улучшенная защита: средний доспех матисов",
+        "description": "Улучшенная защита: средний доспех матисов"
+    },
+    "sdammae": {
+        "name": "Продвинутая защита: средний доспех матисов",
+        "p": "Продвинутая защита: средний доспех матисов",
+        "description": "Продвинутая защита: средний доспех матисов"
+    },
+    "sdamt": {
+        "name": "Защита: средний доспех трайкеров",
+        "p": "Защита: средний доспех трайкеров",
+        "description": "Защита: средний доспех трайкеров"
+    },
+    "sdamta": {
+        "name": "Улучшенная защита: средний доспех трайкеров",
+        "p": "Улучшенная защита: средний доспех трайкеров",
+        "description": "Улучшенная защита: средний доспех трайкеров"
+    },
+    "sdamtae": {
+        "name": "Продвинутая защита: средний доспех трайкеров",
+        "p": "Продвинутая защита: средний доспех трайкеров",
+        "description": "Продвинутая защита: средний доспех трайкеров"
+    },
+    "sdamz": {
+        "name": "Защита: средний доспех зораи",
+        "p": "Защита: средний доспех зораи",
+        "description": "Защита: средний доспех зораи"
+    },
+    "sdamza": {
+        "name": "Улучшенная защита: средний доспех зораи",
+        "p": "Улучшенная защита: средний доспех зораи",
+        "description": "Улучшенная защита: средний доспех зораи"
+    },
+    "sdamzae": {
+        "name": "Продвинутая защита: средний доспех зораи",
+        "p": "Продвинутая защита: средний доспех зораи",
+        "description": "Продвинутая защита: средний доспех зораи"
+    },
+    "sdah": {
+        "name": "Защита: тяжелый доспех",
+        "p": "Защита: тяжелый доспех",
+        "description": "Защита: тяжелый доспех"
+    },
+    "sdahf": {
+        "name": "Защита: тяжелый доспех файросов",
+        "p": "Защита: тяжелый доспех файросов",
+        "description": "Защита: тяжелый доспех файросов"
+    },
+    "sdahfa": {
+        "name": "Улучшенная защита: тяжелый доспех файросов",
+        "p": "Улучшенная защита: тяжелый доспех файрос",
+        "description": "Улучшенная защита: тяжелый доспех файросов"
+    },
+    "sdahfae": {
+        "name": "Продвинутая защита: тяжелый доспех файросов",
+        "p": "Продвинутая защита: тяжелый доспех файросов",
+        "description": "Продвинутая защита: тяжелый доспех файросов"
+    },
+    "sdahm": {
+        "name": "Защита: тяжелый доспех матисов",
+        "p": "Защита: тяжелый доспех матисов",
+        "description": "Защита: тяжелый доспех матисов"
+    },
+    "sdahma": {
+        "name": "Улучшенная защита: тяжелый доспех матисов",
+        "p": "Улучшенная защита: тяжелый доспех матисов",
+        "description": "Улучшенная защита: тяжелый доспех матисов"
+    },
+    "sdahmae": {
+        "name": "Продвинутая защита: тяжелый доспех матисов",
+        "p": "Продвинутая защита: тяжелый доспех матисов",
+        "description": "Продвинутая защита: тяжелый доспех матисов"
+    },
+    "sdaht": {
+        "name": "Защита: тяжелый доспех трайкеров",
+        "p": "Защита: тяжелый доспех трайкеров",
+        "description": "Защита: тяжелый доспех трайкеров"
+    },
+    "sdahta": {
+        "name": "Улучшенная защита: тяжелый доспех трайкеров",
+        "p": "Улучшенная защита: тяжелый доспех трайкеров",
+        "description": "Улучшенная защита: тяжелый доспех трайкеров"
+    },
+    "sdahtae": {
+        "name": "Продвинутая защита: тяжелый доспех трайкеров",
+        "p": "Продвинутая защита: тяжелый доспех трайкеров",
+        "description": "Продвинутая защита: тяжелый доспех трайкеров"
+    },
+    "sdahz": {
+        "name": "Защита: тяжелый доспех зораи",
+        "p": "Защита: тяжелый доспех зораи",
+        "description": "Защита: тяжелый доспех зораи"
+    },
+    "sdahza": {
+        "name": "Улучшенная защита: тяжелый доспех зораи",
+        "p": "Улучшенная защита: тяжелый доспех зораи",
+        "description": "Улучшенная защита: тяжелый доспех зораи"
+    },
+    "sdahzae": {
+        "name": "Продвинутая защита: тяжелый доспех зораи",
+        "p": "Продвинутая защита: тяжелый доспех зораи",
+        "description": "Продвинутая защита: тяжелый доспех зораи"
+    },
+    "sds": {
+        "name": "Защита: Щиты",
+        "p": "Защита: Щиты",
+        "description": "Shield defense"
+    },
+    "sdsb": {
+        "name": "Защита: Малые щиты",
+        "p": "Защита: Малые щиты",
+        "description": "Защита: Малые щиты"
+    },
+    "sdsbf": {
+        "name": "Защита: Малые щиты файросов",
+        "p": "Защита: Малые щиты файросов",
+        "description": "Защита: Малые щиты файросов"
+    },
+    "sdsbfa": {
+        "name": "Улучшенная защита: Малые щиты файрос",
+        "p": "Улучшенная защита: Малые щиты файросов",
+        "description": "Улучшенная защита: Малые щиты файросов"
+    },
+    "sdsbfae": {
+        "name": "Продвинутая защита: Малые щиты файрос",
+        "p": "Продвинутая защита: Малые щиты файросов",
+        "description": "Продвинутая защита: Малые щиты файросов"
+    },
+    "sdsbm": {
+        "name": "Защита: Малые щиты матис",
+        "p": "Защита: Малые щиты матисов",
+        "description": "Защита: Малые щиты матисов"
+    },
+    "sdsbma": {
+        "name": "Улучшенная защита: Малые щиты матисов",
+        "p": "Улучшенная защита: Малые щиты матисов",
+        "description": "Улучшенная защита: Малые щиты матисов"
+    },
+    "sdsbmae": {
+        "name": "Продвинутая защита: Малые щиты матисов",
+        "p": "Продвинутая защита: Малые щиты матисов",
+        "description": "Продвинутая защита: Малые щиты матисов"
+    },
+    "sdsbt": {
+        "name": "Защита: Малые щиты трайкеров",
+        "p": "Защита: Малые щиты трайкеров",
+        "description": "Защита: Малые щиты трайкеров"
+    },
+    "sdsbta": {
+        "name": "Улучшенная защита: Малые щиты трайкеров",
+        "p": "Улучшенная защита: Малые щиты трайкеров",
+        "description": "Улучшенная защита: Малые щиты трайкеров"
+    },
+    "sdsbtae": {
+        "name": "Продвинутая защита: Малые щиты трайкеров",
+        "p": "Продвинутая защита: Малые щиты трайкеров",
+        "description": "Продвинутая защита: Малые щиты трайкеров"
+    },
+    "sdsbz": {
+        "name": "Защита: Малые щиты зораи",
+        "p": "Защита: Малые щиты зораи",
+        "description": "Защита: Малые щиты зораи"
+    },
+    "sdsbza": {
+        "name": "Улучшенная защита: Малые щиты зораи",
+        "p": "Улучшенная защита: Малые щиты зораи",
+        "description": "Улучшенная защита: Малые щиты зораи"
+    },
+    "sdsbzae": {
+        "name": "Продвинутая защита: Малые щиты зораи",
+        "p": "Продвинутая защита: Малые щиты зораи",
+        "description": "Продвинутая защита: Малые щиты зораи"
+    },
+    "sdss": {
+        "name": "Защита: Большие щиты",
+        "p": "Защита: Большие щиты",
+        "description": "Защита: Большие щиты"
+    },
+    "sdssf": {
+        "name": "Защита: Большие щиты файросов",
+        "p": "Защита: Большие щиты файросов",
+        "description": "Защита: Большие щиты файросов"
+    },
+    "sdssfa": {
+        "name": "Улучшенная защита: Большие щиты файросов",
+        "p": "Улучшенная защита: Большие щиты файросов",
+        "description": "Улучшенная защита: Большие щиты файросов"
+    },
+    "sdssfae": {
+        "name": "Продвинутая: Большие щиты файросов",
+        "p": "Продвинутая: Большие щиты файросов",
+        "description": "Продвинутая: Большие щиты файрос"
+    },
+    "sdssm": {
+        "name": "Защита: Большие щиты матисов",
+        "p": "Защита: Большие щиты матисов",
+        "description": "Защита: Большие щиты матисов"
+    },
+    "sdssma": {
+        "name": "Улучшенная защита: Большие щиты матисов",
+        "p": "Улучшенная защита: Большие щиты матисов",
+        "description": "Улучшенная защита: Большие щиты матисов"
+    },
+    "sdssmae": {
+        "name": "Продвинутая: Большие щиты матисов",
+        "p": "Продвинутая: Большие щиты матисов",
+        "description": "Продвинутая: Большие щиты матисов"
+    },
+    "sdsst": {
+        "name": "Защита: Большие щиты трайкеров",
+        "p": "Защита: Большие щиты трайкеров",
+        "description": "Защита: Большие щиты трайкеров"
+    },
+    "sdssta": {
+        "name": "Улучшенная защита: Большие щиты трайкеров",
+        "p": "Улучшенная защита: Большие щиты трайкеров",
+        "description": "Улучшенная защита: Большие щиты трайкеров"
+    },
+    "sdsstae": {
+        "name": "Продвинутая: Большие щиты трайкеров",
+        "p": "Продвинутая: Большие щиты трайкеров",
+        "description": "Продвинутая: Большие щиты трайкеров"
+    },
+    "sdssz": {
+        "name": "Защита: Большие щиты зораи",
+        "p": "Защита: Большие щиты зораи",
+        "description": "Защита: Большие щиты зораи"
+    },
+    "sdssza": {
+        "name": "Улучшенная защита: Большие щиты зораи",
+        "p": "Улучшенная защита: Большие щиты зораи",
+        "description": "Улучшенная защита: Большие щиты зораи"
+    },
+    "sdsszae": {
+        "name": "Продвинутая: Большие щиты зораи",
+        "p": "Продвинутая: Большие щиты зораи",
+        "description": "Продвинутая: Большие щиты зораи"
+    },
+    "sdd": {
+        "name": "Защита: уклонение",
+        "p": "Защита: уклонение",
+        "description": "Защита: уклонение"
+    },
+    "sdda": {
+        "name": "Стандартная защита: уклонение",
+        "p": "Стандартная защита: уклонение",
+        "description": "Стандартная защита: уклонение"
+    },
+    "sddat": {
+        "name": "Улучшенная защита: уклонение",
+        "p": "Улучшенная защита: уклонение",
+        "description": "Улучшенная защита: уклонение"
+    },
+    "sddatm": {
+        "name": "Продвинутая защита: уклонение",
+        "p": "Продвинутая защита: уклонение",
+        "description": "Продвинутая защита: уклонение"
+    },
+    "sddatme": {
+        "name": "Превосходная защита: уклонение",
+        "p": "Превосходная защита: уклонение",
+        "description": "Превосходная защита: уклонение"
+    },
+    "uknown": {
+        "name": "Неизвестный навык",
+        "p": "Неизвестный навык",
+        "description": "Неизвестный навык"
+    },
+    "unknown": {
+        "name": "Неизвестный навык",
+        "p": "Неизвестный навык",
+        "description": "Неизвестный навык"
+    },
+    "sh": {
+        "name": "Добыча ресурсов",
+        "p": "Добыча ресурсов",
+        "description": "Добыча ресурсов"
+    },
+    "shf": {
+        "name": "Добытчик",
+        "p": "Добыча",
+        "description": ""
+    },
+    "shff": {
+        "name": "Добытчик: Лес",
+        "p": "Добытчики: Лес",
+        "description": ""
+    },
+    "shffa": {
+        "name": "Продвинутый добытчик: Лес",
+        "p": "Продвинутые добытчики: Лес",
+        "description": ""
+    },
+    "shffae": {
+        "name": "Опытный добытчик: Лес",
+        "p": "Опытные добытчики: Лес",
+        "description": ""
+    },
+    "shffaem": {
+        "name": "Мастер добытчик: Лес",
+        "p": "Мастера добытчики: Лес",
+        "description": ""
+    },
+    "shfd": {
+        "name": "Добытчик: Пустыня",
+        "p": "Добытчики: Пустыня",
+        "description": ""
+    },
+    "shfda": {
+        "name": "Продвинутый добытчик: Пустыня",
+        "p": "Продвинутые добытчики: Пустыня",
+        "description": ""
+    },
+    "shfdae": {
+        "name": "Опытный добытчик: Пустыня",
+        "p": "Опытные добытчики: Пустыня",
+        "description": ""
+    },
+    "shfdaem": {
+        "name": "Мастер добытчик: Пустыня",
+        "p": "Мастера добытчики: Пустыня",
+        "description": ""
+    },
+    "shfj": {
+        "name": "Добытчик: Джунгли",
+        "p": "Добытчики: Джунгли",
+        "description": ""
+    },
+    "shfja": {
+        "name": "Продвинутый добытчик: Джунгли",
+        "p": "Продвинутые добытчики: Джунгли",
+        "description": ""
+    },
+    "shfjae": {
+        "name": "Опытный добытчик: Джунгли",
+        "p": "Опытные добытчики: Джунгли",
+        "description": ""
+    },
+    "shfjaem": {
+        "name": "Мастер добытчик: Джунгли",
+        "p": "Мастера добытчики: Джунгли",
+        "description": ""
+    },
+    "shfl": {
+        "name": "Добытчик: Озера",
+        "p": "Добытчики: Озера",
+        "description": ""
+    },
+    "shfla": {
+        "name": "Продвинутый добытчик: Озера",
+        "p": "Продвинутые добытчики: Озера",
+        "description": ""
+    },
+    "shflae": {
+        "name": "Опытный добытчик: Озера",
+        "p": "Опытные добытчики: Озера",
+        "description": ""
+    },
+    "shflaem": {
+        "name": "Мастер добытчик: Озера",
+        "p": "Мастера добытчики: Озера",
+        "description": ""
+    },
+    "shfp": {
+        "name": "Добытчик: Изначальные Корни",
+        "p": "Добытчики: Изначальные Корни",
+        "description": ""
+    },
+    "shfpa": {
+        "name": "Продвинутый добытчик: Изначальные Корни",
+        "p": "Продвинутые добытчики: Изначальные Корни",
+        "description": ""
+    },
+    "shfpae": {
+        "name": "Опытный добытчик: Изначальные Корни",
+        "p": "Опытные добытчики: Изначальные Корни",
+        "description": ""
+    },
+    "shfpaem": {
+        "name": "Мастер добытчик: Изначальные Корни",
+        "p": "Мастера добытчики: Изначальные Корни",
+        "description": ""
+    },
+    "smtoeca": {
+        "name": "Улучшенная магия холода",
+        "p": "Нанесение улучшенного урона выбранной цели - холод",
+        "description": "Нанесение улучшенного урона выбранной цели - холод"
+    },
+    "smtoeaa": {
+        "name": "Улучшенная магия кислот",
+        "p": "Нанесение улучшенного урона выбранной цели - кислота",
+        "description": "Нанесение улучшенного урона выбранной цели - кислота"
+    },
+    "smtoera": {
+        "name": "Улучшенная магия гниения",
+        "p": "Нанесение улучшенного урона выбранной цели - гниение",
+        "description": "Нанесение улучшенного урона выбранной цели - гниение"
+    },
+    "smtoefa": {
+        "name": "Улучшенная магия огня",
+        "p": "Нанесение улучшенного урона выбранной цели - огонь",
+        "description": "Нанесение улучшенного урона выбранной цели - огонь"
+    },
+    "smtoesa": {
+        "name": "Улучшенная магия ударных волн",
+        "p": "Нанесение улучшенного урона выбранной цели - ударная волна",
+        "description": "Нанесение улучшенного урона выбранной цели - ударная волна"
+    },
+    "smtoepa": {
+        "name": "Улучшенная магия отравы",
+        "p": "Нанесение улучшенного урона выбранной цели - яд",
+        "description": "Нанесение улучшенного урона выбранной цели - яд"
+    },
+    "smtoeea": {
+        "name": "Улучшенная магия электричества",
+        "p": "Нанесение улучшенного урона выбранной цели - электрошок",
+        "description": "Нанесение улучшенного урона выбранной цели - электрошок"
+    },
+    "smtchpa": {
+        "name": "Улучшенная магия исцеления",
+        "p": "Улучшенное исцеление выбранной цели",
+        "description": "Улучшенное исцеление выбранной цели"
+    },
+    "smtchta": {
+        "name": "Улучшенная магия восстановления выносливости",
+        "p": "Улучшенное восстановление выносливости выбранной цели",
+        "description": "Улучшенное восстановление выносливости выбранной цели"
+    },
+    "smtchaa": {
+        "name": "Улучшенная магия восстановления сэп",
+        "p": "Улучшенное восстановление сэп выбранной цели",
+        "description": "Улучшенное восстановление сэп выбранной цели"
+    },
+    "smtchca": {
+        "name": "Улучшенная магия восстановления внимания",
+        "p": "Улучшенное восстановление внимания выбранной цели",
+        "description": "Улучшенное восстановление внимания выбранной цели"
+    },
+    "smlosma": {
+        "name": "Улучшенный контакт заклятия безумия",
+        "p": "Улучшенный контакт заклятия ослабления - Безумие",
+        "description": "Улучшенный контакт заклятия ослабления - Безумие"
+    },
+    "smlossa": {
+        "name": "Улучшенный контакт заклятия замедления",
+        "p": "Улучшенный контакт заклятия ослабления - Замедление",
+        "description": "Улучшенный контакт заклятия ослабления - Замедление"
+    },
+    "smlocia": {
+        "name": "Улучшенный контакт заклятия бессилия",
+        "p": "Улучшенный контакт проклинающего заклятия - Бессилие",
+        "description": "Улучшенный контакт проклинающего заклятия - Бессилие"
+    },
+    "smlocsa": {
+        "name": "Улучшенный контакт заклятия невезения",
+        "p": "Улучшенный контакт проклинающего заклятия - Невезение",
+        "description": "Улучшенный контакт проклинающего заклятия - Невезение"
+    },
+    "smloeca": {
+        "name": "Улучшенный контакт заклятия холода",
+        "p": "Улучшенный контакт заклятия магии стихий: холод",
+        "description": "Улучшенный контакт заклятия магии стихий: холод"
+    },
+    "smloeaa": {
+        "name": "Улучшенный контакт заклятия кислот",
+        "p": "Улучшенный контакт заклятия магии стихий: кислота",
+        "description": "Улучшенный контакт заклятия магии стихий: кислота"
+    },
+    "smloera": {
+        "name": "Улучшенный контакт заклятия гниения",
+        "p": "Улучшенный контакт заклятия магии стихий: гниение",
+        "description": "Улучшенный контакт заклятия магии стихий: гниение"
+    },
+    "smloefa": {
+        "name": "Улучшенный контакт заклятия огня",
+        "p": "Улучшенный контакт заклятия магии стихий: огонь",
+        "description": "Улучшенный контакт заклятия магии стихий: огонь"
+    },
+    "smloesa": {
+        "name": "Улучшенный контакт заклятия ударной волны",
+        "p": "Улучшенный контакт заклятия магии стихий: ударная волна",
+        "description": "Улучшенный контакт заклятия магии стихий: ударная волна"
+    },
+    "smloepa": {
+        "name": "Улучшенный контакт заклятия отравы",
+        "p": "Улучшенный контакт заклятия магии стихий: отрава",
+        "description": "Улучшенный контакт заклятия магии стихий: отрава"
+    },
+    "smloeea": {
+        "name": "Улучшенный контакт заклятия электричества",
+        "p": "Улучшенный контакт заклятия магии стихий: электричество",
+        "description": "Улучшенный контакт заклятия магии стихий: электричество"
+    },
+    "smd": {
+        "name": "Магия защиты",
+        "p": "Магия защиты",
+        "description": "Магия защиты"
+    },
+    "smda": {
+        "name": "Базовая магия проклятий",
+        "p": "Базовая магия проклятий",
+        "description": "Базовая магия проклятий"
+    },
+    "smdaa": {
+        "name": "Улучшенная магия проклятий",
+        "p": "Улучшенная магия проклятий",
+        "description": "Улучшенная магия проклятий"
+    },
+    "smdaae": {
+        "name": "Продвинутая магия проклятий",
+        "p": "Продвинутая магия проклятий",
+        "description": "Продвинутая магия проклятий"
+    },
+    "smdaaem": {
+        "name": "Превосходная магия проклятий",
+        "p": "Превосходная магия проклятий",
+        "description": "Превосходная магия проклятий"
+    },
+    "smdh": {
+        "name": "Базовая магия исцеления",
+        "p": "Базовая магия исцеления",
+        "description": "Базовая магия исцеления"
+    },
+    "smdha": {
+        "name": "Улучшенная магия исцеления",
+        "p": "Улучшенная магия исцеления",
+        "description": "Улучшенная магия исцеления"
+    },
+    "smdhae": {
+        "name": "Продвинутая магия исцеления",
+        "p": "Продвинутая магия исцеления",
+        "description": "Продвинутая магия исцеления"
+    },
+    "smdhaem": {
+        "name": "Превосходная магия исцеления",
+        "p": "Превосходная магия исцеления",
+        "description": "Превосходная магия исцеления"
+    },
+    "smo": {
+        "name": "Боевая магия",
+        "p": "Боевая магия",
+        "description": "Боевая магия"
+    },
+    "smoa": {
+        "name": "Магия ослабления",
+        "p": "Магия ослабления",
+        "description": "Магия ослабления"
+    },
+    "smoaa": {
+        "name": "Улучшенная магия ослабления",
+        "p": "Улучшенная магия ослабления",
+        "description": "Улучшенная магия ослабления"
+    },
+    "smoaae": {
+        "name": "Продвинутая магия ослабления",
+        "p": "Продвинутая магия ослабления",
+        "description": "Продвинутая магия ослабления"
+    },
+    "smoaaem": {
+        "name": "Превосходная магия ослабления",
+        "p": "Превосходная магия ослабления",
+        "description": "Превосходная магия ослабления"
+    },
+    "smoe": {
+        "name": "Магия стихий",
+        "p": "Магия стихий",
+        "description": "Магия стихий"
+    },
+    "smoea": {
+        "name": "Улучшенная магия стихий",
+        "p": "Улучшенная магия стихий",
+        "description": "Улучшенная магия стихий"
+    },
+    "smoeae": {
+        "name": "Продвинутая магия стихий",
+        "p": "Продвинутая магия стихий",
+        "description": "Продвинутая магия стихий"
+    },
+    "smoeaem": {
+        "name": "Превосходная магия стихий",
+        "p": "Превосходная магия стихий",
+        "description": "Превосходная магия стихий"
+    },
+    "sms": {
+        "name": "Магия воздействия на себя",
+        "p": "Магия воздействия на себя",
+        "description": "Магия воздействия на себя"
+    },
+    "smss": {
+        "name": "Базовая магия воздействия на себя",
+        "p": "Базовая магия воздействия на себя",
+        "description": "Базовая магия воздействия на себя"
+    },
+    "smssa": {
+        "name": "Улучшенная магия воздействия на себя",
+        "p": "Улучшенная магия воздействия на себя",
+        "description": "Улучшенная магия воздействия на себя"
+    },
+    "smssae": {
+        "name": "Продвинутая магия воздействия на себя",
+        "p": "Продвинутая магия воздействия на себя",
+        "description": "Продвинутая магия воздействия на себя"
+    },
+    "smssaem": {
+        "name": "Превосходная магия воздействия на себя",
+        "p": "Превосходная магия воздействия на себя",
+        "description": "Превосходная магия воздействия на себя"
+    },
+    "sf": {
+        "name": "Бой",
+        "p": "Бой",
+        "description": ""
+    },
+    "sfm": {
+        "name": "Ближний бой",
+        "p": "Ближний бой",
+        "description": ""
+    },
+    "sfm1": {
+        "name": "Ближний бой одноручным оружием",
+        "p": "Ближний бой одноручным оружием",
+        "description": ""
+    },
+    "sfm1b": {
+        "name": "Ближний бой одноручным дробящим оружием",
+        "p": "Ближний бой одноручным дробящим оружием",
+        "description": ""
+    },
+    "sfm1bm": {
+        "name": "Палица",
+        "p": "Палицы",
+        "description": ""
+    },
+    "sfm1bme": {
+        "name": "Электрическая палица",
+        "p": "Электрические палицы",
+        "description": ""
+    },
+    "sfm1bmm": {
+        "name": "Мастер палицы",
+        "p": "Мастера палицы",
+        "description": ""
+    },
+    "sfm1bs": {
+        "name": "Посох",
+        "p": "Посохи",
+        "description": ""
+    },
+    "sfm1bsm": {
+        "name": "Мастер посоха",
+        "p": "Мастера посоха",
+        "description": ""
+    },
+    "sfm1p": {
+        "name": "Ближний бой одноручным колющим оружием",
+        "p": "Ближний бой одноручным колющим оружием",
+        "description": ""
+    },
+    "sfm1ps": {
+        "name": "Копье",
+        "p": "Копья",
+        "description": ""
+    },
+    "sfm1pse": {
+        "name": "Электрическое копье",
+        "p": "Электрические копья",
+        "description": ""
+    },
+    "sfm1psl": {
+        "name": "Живое копье",
+        "p": "Живые копья",
+        "description": ""
+    },
+    "sfm1psm": {
+        "name": "Мастер копья",
+        "p": "Мастера копья",
+        "description": ""
+    },
+    "sfm1s": {
+        "name": "Ближний бой одноручным рубящим оружием",
+        "p": "Ближний бой одноручным рубящим оружием",
+        "description": ""
+    },
+    "sfm1sa": {
+        "name": "Топор",
+        "p": "Топоры",
+        "description": ""
+    },
+    "sfm1sab": {
+        "name": "Горящий топор",
+        "p": "Горящие топоры",
+        "description": ""
+    },
+    "sfm1sam": {
+        "name": "Мастер топора",
+        "p": "Мастера топора",
+        "description": ""
+    },
+    "sfm1ss": {
+        "name": "Меч",
+        "p": "Мечи",
+        "description": ""
+    },
+    "sfm1ssm": {
+        "name": "Мастер меча",
+        "p": "Мастера меча",
+        "description": ""
+    },
+    "sfm1ssw": {
+        "name": "Извилистый меч",
+        "p": "Извилистые мечи",
+        "description": ""
+    },
+    "sfm2": {
+        "name": "Ближний бой двуручным оружием",
+        "p": "Ближний бой двуручным оружием",
+        "description": ""
+    },
+    "sfm2b": {
+        "name": "Ближний бой двуручным дробящим оружием",
+        "p": "Ближний бой двуручным дробящим оружием",
+        "description": ""
+    },
+    "sfm2bm": {
+        "name": "Двуручная палица",
+        "p": "Двуручные палицы",
+        "description": ""
+    },
+    "sfm2bme": {
+        "name": "Двуручная электрическая палица",
+        "p": "Двуручные электрические палицы",
+        "description": ""
+    },
+    "sfm2bmm": {
+        "name": "Мастер двуручной палицы",
+        "p": "Мастера двуручной палицы",
+        "description": ""
+    },
+    "sfm2p": {
+        "name": "Ближний бой двуручным колющим оружием",
+        "p": "Ближний бой двуручным колющим оружием",
+        "description": ""
+    },
+    "sfm2pp": {
+        "name": "Пика",
+        "p": "Пики",
+        "description": ""
+    },
+    "sfm2ppl": {
+        "name": "Живая пика",
+        "p": "Живые пики",
+        "description": ""
+    },
+    "sfm2ppm": {
+        "name": "Мастер пики",
+        "p": "Мастера пики",
+        "description": ""
+    },
+    "sfm2s": {
+        "name": "Ближний бой двуручным рубящим оружием",
+        "p": "Ближний бой двуручным рубящим оружием",
+        "description": ""
+    },
+    "sfm2sa": {
+        "name": "Двуручный топор",
+        "p": "Двуручные топоры",
+        "description": ""
+    },
+    "sfm2sab": {
+        "name": "Двуручный горящий топор",
+        "p": "Двуручные горящие топоры",
+        "description": ""
+    },
+    "sfm2sam": {
+        "name": "Мастер двуручного топора",
+        "p": "Мастера двуручного топора",
+        "description": ""
+    },
+    "sfm2ss": {
+        "name": "Двуручный меч",
+        "p": "Двуручные мечи",
+        "description": ""
+    },
+    "sfm2ssb": {
+        "name": "Двуручный горящий меч",
+        "p": "Двуручные горящие мечи",
+        "description": ""
+    },
+    "sfm2ssl": {
+        "name": "Двуручный живой меч",
+        "p": "Двуручные живые мечи",
+        "description": ""
+    },
+    "sfm2ssm": {
+        "name": "Мастер двуручного меча",
+        "p": "Мастера двуручного меча",
+        "description": ""
+    },
+    "sfm2ssw": {
+        "name": "Двуручный извилистый меч",
+        "p": "Двуручные извилистые мечи",
+        "description": ""
+    },
+    "sfmc": {
+        "name": "Ближний бой",
+        "p": "Ближний бой",
+        "description": ""
+    },
+    "sfmca": {
+        "name": "Продвинутый ближний бой",
+        "p": "Продвинутый ближний бой",
+        "description": ""
+    },
+    "sfmcad": {
+        "name": "Кинжал",
+        "p": "Кинжалы",
+        "description": ""
+    },
+    "sfmcadl": {
+        "name": "Живой кинжал",
+        "p": "Живые кинжалы",
+        "description": ""
+    },
+    "sfmcadm": {
+        "name": "Мастер кинжала",
+        "p": "Мастера кинжала",
+        "description": ""
+    },
+    "sfmcadw": {
+        "name": "Извилистый кинжал",
+        "p": "Извилистые кинжалы",
+        "description": ""
+    },
+    "sfmcah": {
+        "name": "Кулачный бой",
+        "p": "Кулачный бой",
+        "description": ""
+    },
+    "sfmcahm": {
+        "name": "Мастер кулачного боя",
+        "p": "Мастер кулачного боя",
+        "description": ""
+    },
+    "sfr": {
+        "name": "Стрельба",
+        "p": "Стрельба",
+        "description": ""
+    },
+    "sfr1": {
+        "name": "Стрельба из одноручного оружия",
+        "p": "Стрельба из одноручного оружия",
+        "description": ""
+    },
+    "sfr1a": {
+        "name": "Улучшенная стрельба из одноручного оружия",
+        "p": "Улучшенная стрельба из одноручного оружия",
+        "description": ""
+    },
+    "sfr1ab": {
+        "name": "Самострел",
+        "p": "Самострелы",
+        "description": ""
+    },
+    "sfr1abm": {
+        "name": "Мастер самострела",
+        "p": "Мастера самострела",
+        "description": ""
+    },
+    "sfr1abw": {
+        "name": "Извилистый самострел",
+        "p": "Извилистые самострелы",
+        "description": ""
+    },
+    "sfr1ap": {
+        "name": "Пистолет",
+        "p": "Пистолеты",
+        "description": ""
+    },
+    "sfr1apl": {
+        "name": "Живой пистолет",
+        "p": "Живые пистолеты",
+        "description": ""
+    },
+    "sfr1apm": {
+        "name": "Мастер пистолета",
+        "p": "Мастера пистолета",
+        "description": ""
+    },
+    "sfr2": {
+        "name": "Стрельба из двуручного оружия",
+        "p": "Стрельба из двуручного оружия",
+        "description": ""
+    },
+    "sfr2a": {
+        "name": "Улучшенная стрельба из двуручного оружия",
+        "p": "Улучшенная стрельба из двуручного оружия",
+        "description": ""
+    },
+    "sfr2aa": {
+        "name": "Аркебуза",
+        "p": "Аркебузы",
+        "description": ""
+    },
+    "sfr2aab": {
+        "name": "Горящая аркебуза",
+        "p": "Горящие аркебузы",
+        "description": ""
+    },
+    "sfr2aam": {
+        "name": "Мастер аркебузы",
+        "p": "Мастера аркебузы",
+        "description": ""
+    },
+    "sfr2ab": {
+        "name": "Арбалет",
+        "p": "Арбалеты",
+        "description": ""
+    },
+    "sfr2abe": {
+        "name": "Электрический арбалет",
+        "p": "Электрические арбалеты",
+        "description": ""
+    },
+    "sfr2abm": {
+        "name": "Мастер арбалета",
+        "p": "Мастера арбалета",
+        "description": ""
+    },
+    "sfr2al": {
+        "name": "Мортира",
+        "p": "Мортиры",
+        "description": ""
+    },
+    "sfr2alb": {
+        "name": "Горящая мортира",
+        "p": "Горящие мортиры",
+        "description": ""
+    },
+    "sfr2ale": {
+        "name": "Электрическая мортира",
+        "p": "Электрические мортиры",
+        "description": ""
+    },
+    "sfr2alm": {
+        "name": "Мастер мортиры",
+        "p": "Мастера мортиры",
+        "description": ""
+    },
+    "sfr2ar": {
+        "name": "Винтовка",
+        "p": "Винтовки",
+        "description": ""
+    },
+    "sfr2arl": {
+        "name": "Живая винтовка",
+        "p": "Живые винтовка",
+        "description": ""
+    },
+    "sfr2arm": {
+        "name": "Мастер винтовки",
+        "p": "Мастера винтовки",
+        "description": ""
+    },
+    "sca": {
+        "name": "Изготовление доспехов",
+        "p": "Изготовление доспехов",
+        "description": "Изготовление доспехов"
+    },
+    "scj": {
+        "name": "Изготовление украшений",
+        "p": "Изготовление украшений",
+        "description": "Изготовление украшений"
+    },
+    "scm": {
+        "name": "Изготовление оружия ближнего боя",
+        "p": "Изготовление оружия ближнего боя",
+        "description": "Изготовление оружия ближнего боя"
+    },
+    "scr": {
+        "name": "Изготовление оружия дальнего боя",
+        "p": "Изготовление оружия дальнего боя",
+        "description": "Изготовление оружия дальнего боя"
+    },
+    "scah": {
+        "name": "Изготовление тяжелых доспехов",
+        "p": "Изготовление тяжелых доспехов",
+        "description": "Изготовление тяжелых доспехов"
+    },
+    "scal": {
+        "name": "Изготовление легких доспехов",
+        "p": "Изготовление легких доспехов",
+        "description": "Изготовление легких доспехов"
+    },
+    "scam": {
+        "name": "Изготовление средних доспехов",
+        "p": "Изготовление средних доспехов",
+        "description": "Изготовление средних доспехов"
+    },
+    "scas": {
+        "name": "Изготовление щитов",
+        "p": "Изготовление щитов",
+        "description": "Изготовление щитов"
+    },
+    "scja": {
+        "name": "Изготовление ножных браслетов",
+        "p": "Изготовление ножных браслетов",
+        "description": "Изготовление ножных браслетов"
+    },
+    "scjb": {
+        "name": "Изготовление браслетов",
+        "p": "Изготовление браслетов",
+        "description": "Изготовление браслетов"
+    },
+    "scjd": {
+        "name": "Изготовление венцов",
+        "p": "Изготовление венцов",
+        "description": "Изготовление венцов"
+    },
+    "scje": {
+        "name": "Изготовление серег",
+        "p": "Изготовление серег",
+        "description": "Изготовление серег"
+    },
+    "scjp": {
+        "name": "Изготовление подвесок",
+        "p": "Изготовление подвесок",
+        "description": "Изготовление подвесок"
+    },
+    "scjr": {
+        "name": "Изготовление колец",
+        "p": "Изготовление колец",
+        "description": "Изготовление колец"
+    },
+    "scm1": {
+        "name": "Изготовление одноручного оружия ближнего боя",
+        "p": "Изготовление одноручного оружия ближнего боя",
+        "description": "Изготовление одноручного оружия ближнего боя"
+    },
+    "scm2": {
+        "name": "Изготовление двуручного оружия ближнего боя",
+        "p": "Изготовление двуручного оружия ближнего боя",
+        "description": "Изготовление двуручного оружия ближнего боя"
+    },
+    "scr1": {
+        "name": "Изготовление одноручного оружия дальнего боя",
+        "p": "Изготовление одноручного оружия дальнего боя",
+        "description": "Изготовление одноручного оружия дальнего боя"
+    },
+    "scr2": {
+        "name": "Изготовление двуручного оружия ближнего боя",
+        "p": "Изготовление двуручного оружия ближнего боя",
+        "description": "Изготовление двуручного оружия ближнего боя"
+    },
+    "scahb": {
+        "name": "Изготовление тяжелых сапог",
+        "p": "Изготовление тяжелых сапог",
+        "description": "Изготовление тяжелых сапог"
+    },
+    "scahg": {
+        "name": "Изготовление тяжелых рукавиц",
+        "p": "Изготовление тяжелых рукавиц",
+        "description": "Изготовление тяжелых рукавиц"
+    },
+    "scahh": {
+        "name": "Изготовление тяжелых шлемов",
+        "p": "Изготовление тяжелых шлемов",
+        "description": "Изготовление тяжелых шлемов"
+    },
+    "scahp": {
+        "name": "Изготовление тяжелых поножей",
+        "p": "Изготовление тяжелых поножей",
+        "description": "Изготовление тяжелых поножей"
+    },
+    "scahs": {
+        "name": "Изготовление тяжелых наручей",
+        "p": "Изготовление тяжелых наручей",
+        "description": "Изготовление тяжелых наручей"
+    },
+    "scahv": {
+        "name": "Изготовление тяжелых кирас",
+        "p": "Изготовление тяжелых кирас",
+        "description": "Изготовление тяжелых кирас"
+    },
+    "scalb": {
+        "name": "Изготовление легких сапог",
+        "p": "Изготовление легких сапог",
+        "description": "Изготовление легких сапог"
+    },
+    "scalg": {
+        "name": "Изготовление легких перчаток",
+        "p": "Изготовление легких перчаток",
+        "description": "Изготовление легких перчаток"
+    },
+    "scalp": {
+        "name": "Изготовление легких штанов",
+        "p": "Изготовление легких штанов",
+        "description": "Изготовление легких штанов"
+    },
+    "scals": {
+        "name": "Изготовление легких наручей",
+        "p": "Изготовление легких наручей",
+        "description": "Изготовление легких наручей"
+    },
+    "scalv": {
+        "name": "Изготовление легких курток",
+        "p": "Изготовление легких курток",
+        "description": "Изготовление легких курток"
+    },
+    "scamb": {
+        "name": "Изготовление средних сапог",
+        "p": "Изготовление средних сапог",
+        "description": "Изготовление средних сапог"
+    },
+    "scamg": {
+        "name": "Изготовление средних рукавиц",
+        "p": "Изготовление средних рукавиц",
+        "description": "Изготовление средних рукавиц"
+    },
+    "scamp": {
+        "name": "Изготовление средних поножей",
+        "p": "Изготовление средних поножей",
+        "description": "Изготовление средних поножей"
+    },
+    "scams": {
+        "name": "Изготовление средних наручей",
+        "p": "Изготовление средних наручей",
+        "description": "Изготовление средних наручей"
+    },
+    "scamv": {
+        "name": "Изготовление средних кирас",
+        "p": "Изготовление средних кирас",
+        "description": "Изготовление средних кирас"
+    },
+    "scass": {
+        "name": "Изготовление больших щитов",
+        "p": "Изготовление больших щитов",
+        "description": "Изготовление больших щитов"
+    },
+    "scasb": {
+        "name": "Изготовление малых щитов",
+        "p": "Изготовление малых щитов",
+        "description": "Изготовление малых щитов"
+    },
+    "scjaa": {
+        "name": "Улучшенное изготовление ножных браслетов",
+        "p": "Улучшенное изготовление ножных браслетов",
+        "description": "Улучшенное изготовление ножных браслетов"
+    },
+    "scjba": {
+        "name": "Улучшенное изготовление браслетов",
+        "p": "Улучшенное изготовление браслетов",
+        "description": "Улучшенное изготовление браслетов"
+    },
+    "scjda": {
+        "name": "Улучшенное изготовление венцов",
+        "p": "Улучшенное изготовление венцов",
+        "description": "Улучшенное изготовление венцов"
+    },
+    "scjea": {
+        "name": "Улучшенное изготовление серег",
+        "p": "Улучшенное изготовление серег",
+        "description": "Улучшенное изготовление серег"
+    },
+    "scjpa": {
+        "name": "Улучшенное изготовление подвесок",
+        "p": "Улучшенное изготовление подвесок",
+        "description": "Улучшенное изготовление подвесок"
+    },
+    "scjra": {
+        "name": "Улучшенное изготовление колец",
+        "p": "Улучшенное изготовление колец",
+        "description": "Улучшенное изготовление колец"
+    },
+    "scm1m": {
+        "name": "Изготовление палиц",
+        "p": "Изготовление палиц",
+        "description": "Изготовление палиц"
+    },
+    "scm1t": {
+        "name": "Изготовление посохов",
+        "p": "Изготовление посохов",
+        "description": "Изготовление посохов"
+    },
+    "scm1p": {
+        "name": "Изготовление копий",
+        "p": "Изготовление копий",
+        "description": "Изготовление копий"
+    },
+    "scm1a": {
+        "name": "Изготовление топоров",
+        "p": "Изготовление топоров",
+        "description": "Изготовление топоров"
+    },
+    "scm1s": {
+        "name": "Изготовление мечей",
+        "p": "Изготовление мечей",
+        "description": "Изготовление мечей"
+    },
+    "scm1d": {
+        "name": "Изготовление кинжалов",
+        "p": "Изготовление кинжалов",
+        "description": "Изготовление кинжалов"
+    },
+    "scm2m": {
+        "name": "Изготовление двуручных палиц",
+        "p": "Изготовление двуручных палиц",
+        "description": "Изготовление двуручных палиц"
+    },
+    "scm2p": {
+        "name": "Изготовление пик",
+        "p": "Изготовление пик",
+        "description": "Изготовление пик"
+    },
+    "scm2a": {
+        "name": "Изготовление двуручных топоров",
+        "p": "Изготовление двуручных топоров",
+        "description": "Изготовление двуручных топоров"
+    },
+    "scm2s": {
+        "name": "Изготовление двуручных мечей",
+        "p": "Изготовление двуручных мечей",
+        "description": "Изготовление двуручных мечей"
+    },
+    "scr1b": {
+        "name": "Изготовление самострелов",
+        "p": "Изготовление самострелов",
+        "description": "Изготовление самострелов"
+    },
+    "scr1p": {
+        "name": "Изготовление пистолетов",
+        "p": "Изготовление пистолетов",
+        "description": "Изготовление пистолетов"
+    },
+    "scr2a": {
+        "name": "Изготовление аркебуз",
+        "p": "Изготовление аркебуз",
+        "description": "Изготовление аркебуз"
+    },
+    "scr2b": {
+        "name": "Изготовление арбалетов",
+        "p": "Изготовление арбалетов",
+        "description": "Изготовление арбалетов"
+    },
+    "scr2l": {
+        "name": "Изготовление мортир",
+        "p": "Изготовление мортир",
+        "description": "Изготовление мортир"
+    },
+    "scr2r": {
+        "name": "Изготовление винтовок",
+        "p": "Изготовление винтовок",
+        "description": "Изготовление винтовок"
+    },
+    "scahbe": {
+        "name": "Продвинутое изготовление тяжелых сапог",
+        "p": "Продвинутое изготовление тяжелых сапог",
+        "description": "Продвинутое изготовление тяжелых сапог"
+    },
+    "scahge": {
+        "name": "Продвинутое изготовление тяжелых рукавиц",
+        "p": "Продвинутое изготовление тяжелых рукавиц",
+        "description": "Продвинутое изготовление тяжелых рукавиц"
+    },
+    "scahhe": {
+        "name": "Продвинутое изготовление тяжелых шлемов",
+        "p": "Продвинутое изготовление тяжелых шлемов",
+        "description": "Продвинутое изготовление тяжелых шлемов"
+    },
+    "scahpe": {
+        "name": "Продвинутое изготовление тяжелых поножей",
+        "p": "Продвинутое изготовление тяжелых поножей",
+        "description": "Продвинутое изготовление тяжелых поножей"
+    },
+    "scahse": {
+        "name": "Продвинутое изготовление тяжелых наручей",
+        "p": "Продвинутое изготовление тяжелых наручей",
+        "description": "Продвинутое изготовление тяжелых наручей"
+    },
+    "scahve": {
+        "name": "Продвинутое изготовление тяжелых кирас",
+        "p": "Продвинутое изготовление тяжелых кирас",
+        "description": "Продвинутое изготовление тяжелых кирас"
+    },
+    "scalbe": {
+        "name": "Продвинутое изготовление легких сапог",
+        "p": "Продвинутое изготовление легких сапог",
+        "description": "Продвинутое изготовление легких сапог"
+    },
+    "scalge": {
+        "name": "Продвинутое изготовление легких перчаток",
+        "p": "Продвинутое изготовление легких перчаток",
+        "description": "Продвинутое изготовление легких перчаток"
+    },
+    "scalpe": {
+        "name": "Продвинутое изготовление легких штанов",
+        "p": "Продвинутое изготовление легких штанов",
+        "description": "Продвинутое изготовление легких штанов"
+    },
+    "scalse": {
+        "name": "Продвинутое изготовление легких наручей",
+        "p": "Продвинутое изготовление легких наручей",
+        "description": "Продвинутое изготовление легких наручей"
+    },
+    "scalve": {
+        "name": "Продвинутое изготовление легких курток",
+        "p": "Продвинутое изготовление легких курток",
+        "description": "Продвинутое изготовление легких курток"
+    },
+    "scambe": {
+        "name": "Продвинутое изготовление средних сапог",
+        "p": "Продвинутое изготовление средних сапог",
+        "description": "Продвинутое изготовление средних сапог"
+    },
+    "scamge": {
+        "name": "Продвинутое изготовление средних рукавиц",
+        "p": "Продвинутое изготовление средних рукавиц",
+        "description": "Продвинутое изготовление средних рукавиц"
+    },
+    "scampe": {
+        "name": "Продвинутое изготовление средних поножей",
+        "p": "Продвинутое изготовление средних поножей",
+        "description": "Продвинутое изготовление средних поножей"
+    },
+    "scamse": {
+        "name": "Продвинутое изготовление средних наручей",
+        "p": "Продвинутое изготовление средних наручей",
+        "description": "Продвинутое изготовление средних наручей"
+    },
+    "scamve": {
+        "name": "Продвинутое изготовление средних кирас",
+        "p": "Продвинутое изготовление средних кирас",
+        "description": "Продвинутое изготовление средних кирас"
+    },
+    "scasse": {
+        "name": "Продвинутое изготовление больших щитов",
+        "p": "Продвинутое изготовление больших щитов",
+        "description": "Продвинутое изготовление больших щитов"
+    },
+    "scasbe": {
+        "name": "Продвинутое изготовление малых щитов",
+        "p": "Продвинутое изготовление малых щитов",
+        "description": "Продвинутое изготовление малых щитов"
+    },
+    "scjaae": {
+        "name": "Продвинутое изготовление ножных браслетов",
+        "p": "Продвинутое изготовление ножных браслетов",
+        "description": "Продвинутое изготовление ножных браслетов"
+    },
+    "scjbae": {
+        "name": "Продвинутое изготовление браслетов",
+        "p": "Продвинутое изготовление браслетов",
+        "description": "Продвинутое изготовление браслетов"
+    },
+    "scjdae": {
+        "name": "Продвинутое изготовление венцов",
+        "p": "Продвинутое изготовление венцов",
+        "description": "Продвинутое изготовление венцов"
+    },
+    "scjeae": {
+        "name": "Продвинутое изготовление серег",
+        "p": "Продвинутое изготовление серег",
+        "description": "Продвинутое изготовление серег"
+    },
+    "scjpae": {
+        "name": "Продвинутое изготовление подвесок",
+        "p": "Продвинутое изготовление подвесок",
+        "description": "Продвинутое изготовление подвесок"
+    },
+    "scjrae": {
+        "name": "Продвинутое изготовление колец",
+        "p": "Продвинутое изготовление колец",
+        "description": "Продвинутое изготовление колец"
+    },
+    "scm1me": {
+        "name": "Продвинутое изготовление палиц",
+        "p": "Продвинутое изготовление палиц",
+        "description": "Продвинутое изготовление палиц"
+    },
+    "scm1te": {
+        "name": "Продвинутое изготовление посохов",
+        "p": "Продвинутое изготовление посохов",
+        "description": "Продвинутое изготовление посохов"
+    },
+    "scm1pe": {
+        "name": "Продвинутое изготовление копий",
+        "p": "Продвинутое изготовление копий",
+        "description": "Продвинутое изготовление копий"
+    },
+    "scm1ae": {
+        "name": "Продвинутое изготовление топоров",
+        "p": "Продвинутое изготовление топоров",
+        "description": "Продвинутое изготовление топоров"
+    },
+    "scm1se": {
+        "name": "Продвинутое изготовление мечей",
+        "p": "Продвинутое изготовление мечей",
+        "description": "Продвинутое изготовление мечей"
+    },
+    "scm1de": {
+        "name": "Продвинутое изготовление кинжалов",
+        "p": "Продвинутое изготовление кинжалов",
+        "description": "Продвинутое изготовление кинжалов"
+    },
+    "scm2me": {
+        "name": "Продвинутое изготовление двуручных палиц",
+        "p": "Продвинутое изготовление двуручных палиц",
+        "description": "Продвинутое изготовление двуручных палиц"
+    },
+    "scm2pe": {
+        "name": "Продвинутое изготовление пик",
+        "p": "Продвинутое изготовление пик",
+        "description": "Продвинутое изготовление пик"
+    },
+    "scm2ae": {
+        "name": "Продвинутое изготовление двуручных топоров",
+        "p": "Продвинутое изготовление двуручных топоров",
+        "description": "Продвинутое изготовление двуручных топоров"
+    },
+    "scm2se": {
+        "name": "Продвинутое изготовление двуручных мечей",
+        "p": "Продвинутое изготовление двуручных мечей",
+        "description": "Продвинутое изготовление двуручных мечей"
+    },
+    "scr1be": {
+        "name": "Продвинутое изготовление самострелов",
+        "p": "Продвинутое изготовление самострелов",
+        "description": "Продвинутое изготовление самострелов"
+    },
+    "scr1pe": {
+        "name": "Продвинутое изготовление пистолетов",
+        "p": "Продвинутое изготовление пистолетов",
+        "description": "Продвинутое изготовление пистолетов"
+    },
+    "scr2ae": {
+        "name": "Продвинутое изготовление аркебуз",
+        "p": "Продвинутое изготовление аркебуз",
+        "description": "Продвинутое изготовление аркебуз"
+    },
+    "scr2be": {
+        "name": "Продвинутое изготовление арбалетов",
+        "p": "Продвинутое изготовление арбалетов",
+        "description": "Продвинутое изготовление арбалетов"
+    },
+    "scr2le": {
+        "name": "Продвинутое изготовление мортир",
+        "p": "Продвинутое изготовление мортир",
+        "description": "Продвинутое изготовление мортир"
+    },
+    "scr2re": {
+        "name": "Продвинутое изготовление винтовок",
+        "p": "Продвинутое изготовление винтовок",
+        "description": "Продвинутое изготовление винтовок"
+    },
+    "scahbem": {
+        "name": "Мастер изготовления тяжелых сапог",
+        "p": "Мастер изготовления тяжелых сапог",
+        "description": "Мастер изготовления тяжелых сапог"
+    },
+    "scahgem": {
+        "name": "Мастер изготовления тяжелых рукавиц",
+        "p": "Мастер изготовления тяжелых рукавиц",
+        "description": "Мастер изготовления тяжелых рукавиц"
+    },
+    "scahhem": {
+        "name": "Мастер изготовления тяжелых шлемов",
+        "p": "Мастер изготовления тяжелых шлемов",
+        "description": "Мастер изготовления тяжелых шлемов"
+    },
+    "scahpem": {
+        "name": "Мастер изготовления тяжелых поножей",
+        "p": "Мастер изготовления тяжелых поножей",
+        "description": "Мастер изготовления тяжелых поножей"
+    },
+    "scahsem": {
+        "name": "Мастер изготовления тяжелых наручей",
+        "p": "Мастер изготовления тяжелых наручей",
+        "description": "Мастер изготовления тяжелых наручей"
+    },
+    "scahvem": {
+        "name": "Мастер изготовления тяжелых кирас",
+        "p": "Мастер изготовления тяжелых кирас",
+        "description": "Мастер изготовления тяжелых кирас"
+    },
+    "scalbem": {
+        "name": "Мастер изготовления легких сапог",
+        "p": "Мастер изготовления легких сапог",
+        "description": "Мастер изготовления легких сапог"
+    },
+    "scalgem": {
+        "name": "Мастер изготовления легких перчаток",
+        "p": "Мастер изготовления легких перчаток",
+        "description": "Мастер изготовления легких перчаток"
+    },
+    "scalpem": {
+        "name": "Мастер изготовления легких штанов",
+        "p": "Мастер изготовления легких штанов",
+        "description": "Мастер изготовления легких штанов"
+    },
+    "scalsem": {
+        "name": "Мастер изготовления легких наручей",
+        "p": "Мастер изготовления легких наручей",
+        "description": "Мастер изготовления легких наручей"
+    },
+    "scalvem": {
+        "name": "Мастер изготовления легких курток",
+        "p": "Мастер изготовления легких курток",
+        "description": "Мастер изготовления легких курток"
+    },
+    "scambem": {
+        "name": "Мастер изготовления средних сапог",
+        "p": "Мастер изготовления средних сапог",
+        "description": "Мастер изготовления средних сапог"
+    },
+    "scamgem": {
+        "name": "Мастер изготовления средних рукавиц",
+        "p": "Мастер изготовления средних рукавиц",
+        "description": "Мастер изготовления средних рукавиц"
+    },
+    "scampem": {
+        "name": "Мастер изготовления средних поножей",
+        "p": "Мастер изготовления средних поножей",
+        "description": "Мастер изготовления средних поножей"
+    },
+    "scamsem": {
+        "name": "Мастер изготовления средних наручей",
+        "p": "Мастер изготовления средних наручей",
+        "description": "Мастер изготовления средних наручей"
+    },
+    "scamvem": {
+        "name": "Мастер изготовления средних кирас",
+        "p": "Мастер изготовления средних кирас",
+        "description": "Мастер изготовления средних кирас"
+    },
+    "scassem": {
+        "name": "Мастер изготовления больших щитов",
+        "p": "Мастер изготовления больших щитов",
+        "description": "Мастер изготовления больших щитов"
+    },
+    "scasbem": {
+        "name": "Мастер изготовления малых щитов",
+        "p": "Мастер изготовления малых щитов",
+        "description": "Мастер изготовления малых щитов"
+    },
+    "scjaaem": {
+        "name": "Мастер изготовления ножных браслетов",
+        "p": "Мастер изготовления ножных браслетов",
+        "description": "Мастер изготовления ножных браслетов"
+    },
+    "scjbaem": {
+        "name": "Мастер изготовления браслетов",
+        "p": "Мастер изготовления браслетов",
+        "description": "Мастер изготовления браслетов"
+    },
+    "scjdaem": {
+        "name": "Мастер изготовления венцов",
+        "p": "Мастер изготовления венцов",
+        "description": "Мастер изготовления венцов"
+    },
+    "scjeaem": {
+        "name": "Мастер изготовления серег",
+        "p": "Мастер изготовления серег",
+        "description": "Мастер изготовления серег"
+    },
+    "scjpaem": {
+        "name": "Мастер изготовления подвесок",
+        "p": "Мастер изготовления подвесок",
+        "description": "Мастер изготовления подвесок"
+    },
+    "scjraem": {
+        "name": "Мастер изготовления колец",
+        "p": "Мастер изготовления колец",
+        "description": "Мастер изготовления колец"
+    },
+    "scm1mem": {
+        "name": "Мастер изготовления палиц",
+        "p": "Мастер изготовления палиц",
+        "description": "Мастер изготовления палиц"
+    },
+    "scm1tem": {
+        "name": "Мастер изготовления посохов",
+        "p": "Мастер изготовления посохов",
+        "description": "Мастер изготовления посохов"
+    },
+    "scm1pem": {
+        "name": "Мастер изготовления копий",
+        "p": "Мастер изготовления копий",
+        "description": "Мастер изготовления копий"
+    },
+    "scm1aem": {
+        "name": "Мастер изготовления топоров",
+        "p": "Мастер изготовления топоров",
+        "description": "Мастер изготовления топоров"
+    },
+    "scm1sem": {
+        "name": "Мастер изготовления мечей",
+        "p": "Мастер изготовления мечей",
+        "description": "Мастер изготовления мечей"
+    },
+    "scm1dem": {
+        "name": "Мастер изготовления кинжалов",
+        "p": "Мастер изготовления кинжалов",
+        "description": "Мастер изготовления кинжалов"
+    },
+    "scm2mem": {
+        "name": "Мастер изготовления двуручных палиц",
+        "p": "Мастер изготовления двуручных палиц",
+        "description": "Мастер изготовления двуручных палиц"
+    },
+    "scm2pem": {
+        "name": "Мастер изготовления пик",
+        "p": "Мастер изготовления пик",
+        "description": "Мастер изготовления пик"
+    },
+    "scm2aem": {
+        "name": "Мастер изготовления двуручных топоров",
+        "p": "Мастер изготовления двуручных топоров",
+        "description": "Мастер изготовления двуручных топоров"
+    },
+    "scm2sem": {
+        "name": "Мастер изготовления двуручных мечей",
+        "p": "Мастер изготовления двуручных мечей",
+        "description": "Мастер изготовления двуручных мечей"
+    },
+    "scr1bem": {
+        "name": "Мастер изготовления самострелов",
+        "p": "Мастер изготовления самострелов",
+        "description": "Мастер изготовления самострелов"
+    },
+    "scr1pem": {
+        "name": "Мастер изготовления пистолетов",
+        "p": "Мастер изготовления пистолетов",
+        "description": "Мастер изготовления пистолетов"
+    },
+    "scr2aem": {
+        "name": "Мастер изготовления аркебуз",
+        "p": "Мастер изготовления аркебуз",
+        "description": "Мастер изготовления аркебуз"
+    },
+    "scr2bem": {
+        "name": "Мастер изготовления арбалетов",
+        "p": "Мастер изготовления арбалетов",
+        "description": "Мастер изготовления арбалетов"
+    },
+    "scr2lem": {
+        "name": "Мастер изготовления мортир",
+        "p": "Мастер изготовления мортир",
+        "description": "Мастер изготовления мортир"
+    },
+    "scr2rem": {
+        "name": "Мастер изготовления винтовок",
+        "p": "Мастер изготовления винтовок",
+        "description": "Мастер изготовления винтовок"
+    },
+    "scmc": {
+        "name": "Изготовление оружия ближнего боя",
+        "p": "Изготовление оружия ближнего боя",
+        "description": "Изготовление оружия ближнего боя"
+    },
+    "scmca": {
+        "name": "Улучшенное изготовление усилителей магии",
+        "p": "Улучшенное изготовление усилителей магии",
+        "description": "Улучшенное изготовление усилителей магии"
+    },
+    "scmcae": {
+        "name": "Продвинутое изготовление усилителей магии",
+        "p": "Продвинутое изготовление усилителей магии",
+        "description": "Продвинутое изготовление усилителей магии"
+    },
+    "scmcaem": {
+        "name": "Мастер изготовления усилителей магии",
+        "p": "Мастер изготовления усилителей магии",
+        "description": "Мастер изготовления усилителей магии"
+    }
+}

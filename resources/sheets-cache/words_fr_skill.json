@@ -1,0 +1,3657 @@
+{
+    "acuratebleedingshot": {
+        "name": "Tir Précis Sanglant",
+        "p": "Tirs Précis Sanglants",
+        "description": ""
+    },
+    "acuratebreathlessshot": {
+        "name": "Tir Précis à Couper le Souffle",
+        "p": "Tirs Précis à Couper le Souffle",
+        "description": ""
+    },
+    "animalslideslip": {
+        "name": "Glissade\/Flanc d'un Animal",
+        "p": "Glissades\/Flanc d'Animaux",
+        "description": ""
+    },
+    "animalstalking": {
+        "name": "Traque d'Animaux",
+        "p": "Traques d'Animaux",
+        "description": ""
+    },
+    "apothecary": {
+        "name": "Apothicaire",
+        "p": "Apothicaires",
+        "description": ""
+    },
+    "area": {
+        "name": "Zone",
+        "p": "Zones",
+        "description": ""
+    },
+    "armorandweaponsmithing": {
+        "name": "Forge d'Armure et d'Armes",
+        "p": "Forges d'Armures et d'Armes",
+        "description": ""
+    },
+    "artandcraft": {
+        "name": "Artisanat d'Art",
+        "p": "Artisanat d'Art",
+        "description": ""
+    },
+    "attackkamisknowledge": {
+        "name": "Connaissance des Kamis d'Attaque",
+        "p": "Connaissances des Kamis d'Attaque",
+        "description": ""
+    },
+    "atysianregeneration": {
+        "name": "Régénération Atysienne",
+        "p": "Régénérations Atysiennes",
+        "description": ""
+    },
+    "axe": {
+        "name": "Hache",
+        "p": "Haches",
+        "description": ""
+    },
+    "backdraftstab": {
+        "name": "Coup Explosif",
+        "p": "Coups Explosifs",
+        "description": ""
+    },
+    "badluck": {
+        "name": "Malchance",
+        "p": "Malchance",
+        "description": ""
+    },
+    "barehandedcombat": {
+        "name": "Combat à Mains Nues",
+        "p": "Combats à Mains Nues",
+        "description": ""
+    },
+    "bersekattack": {
+        "name": "Attaque Démente",
+        "p": "Attaques Démentes",
+        "description": ""
+    },
+    "blacksmithing": {
+        "name": "Forgeron",
+        "p": "Forgerons",
+        "description": ""
+    },
+    "bleeding": {
+        "name": "Hémorragie",
+        "p": "Hémorragies",
+        "description": ""
+    },
+    "blindingrage": {
+        "name": "Rage Aveuglante",
+        "p": "Rages Aveuglantes",
+        "description": ""
+    },
+    "blindshot": {
+        "name": "Tir Aveugle",
+        "p": "Tirs Aveugles",
+        "description": ""
+    },
+    "bowgun": {
+        "name": "Arbalète",
+        "p": "Arbalètes",
+        "description": ""
+    },
+    "bowpistol": {
+        "name": "Pistolet-Arbalète",
+        "p": "Pistolets-Arbalètes",
+        "description": ""
+    },
+    "building": {
+        "name": "Construction",
+        "p": "Constructions",
+        "description": ""
+    },
+    "bullyraggingblast": {
+        "name": "Explosion Déchaînée",
+        "p": "Explosions Déchaînées",
+        "description": ""
+    },
+    "camouflage": {
+        "name": "Camouflage",
+        "p": "Camouflages",
+        "description": ""
+    },
+    "caravan": {
+        "name": "Karavan",
+        "p": "Karavans",
+        "description": ""
+    },
+    "cerebralfever": {
+        "name": "Fièvre Cérébrale",
+        "p": "Fièvres Cérébrales",
+        "description": ""
+    },
+    "clothtailoring": {
+        "name": "Couture",
+        "p": "Coutures",
+        "description": ""
+    },
+    "cooking": {
+        "name": "Cuisiner",
+        "p": "Cuisiner",
+        "description": ""
+    },
+    "creaturehatred": {
+        "name": "Haine des Créatures",
+        "p": "Haine des Créatures",
+        "description": ""
+    },
+    "dagger": {
+        "name": "Dague",
+        "p": "Dagues",
+        "description": ""
+    },
+    "desert": {
+        "name": "Désert",
+        "p": "Déserts",
+        "description": ""
+    },
+    "desertexoticrawmaterialknowledge": {
+        "name": "Connaissance Matière Première Exotiques du Désert",
+        "p": "Connaissances Matières Premières Exotiques du Désert",
+        "description": ""
+    },
+    "desertkamisknowledge": {
+        "name": "Connaissance des Kamis du Désert",
+        "p": "Connaissances des Kamis du Désert",
+        "description": ""
+    },
+    "deserttravel": {
+        "name": "Voyage dans le Désert",
+        "p": "Voyages dans le Désert",
+        "description": ""
+    },
+    "digging": {
+        "name": "Excavation",
+        "p": "Excavations",
+        "description": ""
+    },
+    "discreetapproach": {
+        "name": "Approche Discrète",
+        "p": "Approches Discrètes",
+        "description": ""
+    },
+    "diving": {
+        "name": "Plongeon",
+        "p": "Plongeons",
+        "description": ""
+    },
+    "dodging": {
+        "name": "Esquive",
+        "p": "Esquives",
+        "description": ""
+    },
+    "dragon": {
+        "name": "Dragon",
+        "p": "Dragons",
+        "description": ""
+    },
+    "dryade": {
+        "name": "Dryade",
+        "p": "Dryades",
+        "description": ""
+    },
+    "dualwield": {
+        "name": "Double Maniement",
+        "p": "Doubles Maniements",
+        "description": ""
+    },
+    "evaluate": {
+        "name": "Evaluation",
+        "p": "Evaluations",
+        "description": ""
+    },
+    "farshot": {
+        "name": "Tir Lointain",
+        "p": "Tirs Lointains",
+        "description": ""
+    },
+    "farthrow": {
+        "name": "Lancer Lointain",
+        "p": "Lancers Lointains",
+        "description": ""
+    },
+    "feverprotect": {
+        "name": "Protection contre la Fièvre",
+        "p": "Protections contre la Fièvre",
+        "description": ""
+    },
+    "firstaid": {
+        "name": "Premier Soin",
+        "p": "Premiers Soins",
+        "description": ""
+    },
+    "fishing": {
+        "name": "Pêche",
+        "p": "Pêches",
+        "description": ""
+    },
+    "forest": {
+        "name": "Forêt",
+        "p": "Forêts",
+        "description": ""
+    },
+    "forestexoticrawmaterialknowledge": {
+        "name": "Connaissance Matière Première Exotique des Forêts",
+        "p": "Connaissances Matières Premières Exotiques des Forêts",
+        "description": ""
+    },
+    "forestkamisknowledge": {
+        "name": "Connaissance des Kamis des Forêts",
+        "p": "Connaissances des Kamis des Forêts",
+        "description": ""
+    },
+    "foresttravel": {
+        "name": "Voyage en Forêt",
+        "p": "Voyages en Forêt",
+        "description": ""
+    },
+    "frost": {
+        "name": "Gel",
+        "p": "Gels",
+        "description": ""
+    },
+    "fyros": {
+        "name": "Fyros",
+        "p": "Fyros",
+        "description": ""
+    },
+    "fyrosgoods": {
+        "name": "Biens Fyros",
+        "p": "Biens Fyros",
+        "description": ""
+    },
+    "goo": {
+        "name": "Goo",
+        "p": "Goo",
+        "description": ""
+    },
+    "greataxe": {
+        "name": "Grande Hache",
+        "p": "Grandes Haches",
+        "description": ""
+    },
+    "greatmass": {
+        "name": "Grande Massue",
+        "p": "Grandes Massues",
+        "description": ""
+    },
+    "grenade": {
+        "name": "Grenade",
+        "p": "Grenades",
+        "description": ""
+    },
+    "groundextract": {
+        "name": "Extraction des Sols",
+        "p": "Extractions des Sols",
+        "description": ""
+    },
+    "handtohand": {
+        "name": "Corps à Corps",
+        "p": "Corps à Corps",
+        "description": ""
+    },
+    "harpoon": {
+        "name": "Harpon ",
+        "p": "Harpons",
+        "description": ""
+    },
+    "harpoonhunting": {
+        "name": "Chasse au Harpon",
+        "p": "Chasses au Harpon",
+        "description": ""
+    },
+    "harvest": {
+        "name": "Récolte",
+        "p": "Récoltes",
+        "description": ""
+    },
+    "healingkamisknowledge": {
+        "name": "Connaissance des Kamis de Guérison",
+        "p": "Connaissances des Kamis de Guérison",
+        "description": ""
+    },
+    "hearwithering": {
+        "name": "Affaiblissement de l'Ouïe",
+        "p": "Affaiblissements de l'Ouïe",
+        "description": ""
+    },
+    "heavyarmourwear": {
+        "name": "Vêtement pour Armure Lourde",
+        "p": "Vêtements pour Armures Lourdes",
+        "description": ""
+    },
+    "heavyweapon": {
+        "name": "Arme Lourde",
+        "p": "Armes Lourdes",
+        "description": ""
+    },
+    "hide": {
+        "name": "Cachette",
+        "p": "Cachettes",
+        "description": ""
+    },
+    "hominopponentconsiderweapon": {
+        "name": "Considération Homin",
+        "p": "Considérations Homins",
+        "description": ""
+    },
+    "huntingkamisknowledge": {
+        "name": "Connaissance des Kamis Chasseurs",
+        "p": "Connaissances des Kamis Chasseurs",
+        "description": ""
+    },
+    "jewellery": {
+        "name": "Bijoux",
+        "p": "Bijoux",
+        "description": ""
+    },
+    "jungle": {
+        "name": "Jungle",
+        "p": "Jungles",
+        "description": ""
+    },
+    "jungleexoticrawmaterialknowledge": {
+        "name": "Connaissance Matière Première Exotique de la Jungle",
+        "p": "Connaissances Matières Premières Exotiques de la Jungle",
+        "description": ""
+    },
+    "junglekamisknowledge": {
+        "name": "Connaissance des Kamis de la Jungle",
+        "p": "Connaissances des Kamis de la Jungle",
+        "description": ""
+    },
+    "jungletravel": {
+        "name": "Voyage dans la Jungle",
+        "p": "Voyages dans la Jungle",
+        "description": ""
+    },
+    "kami": {
+        "name": "Kami",
+        "p": "Kamis",
+        "description": ""
+    },
+    "kamicshield": {
+        "name": "Bouclier Kamic",
+        "p": "Boucliers Kamics",
+        "description": ""
+    },
+    "kamicshock": {
+        "name": "Choc Kamic",
+        "p": "Chocs Kamics",
+        "description": ""
+    },
+    "kick": {
+        "name": "Coup de Pied",
+        "p": "Coups de Pied",
+        "description": ""
+    },
+    "kitin": {
+        "name": "Kitin",
+        "p": "Kitins",
+        "description": ""
+    },
+    "lake": {
+        "name": "Lac",
+        "p": "Lacs",
+        "description": ""
+    },
+    "lakearmor": {
+        "name": "Armure des Lacs",
+        "p": "Armures des Lacs",
+        "description": ""
+    },
+    "lakeexoticrawmaterialknowledge": {
+        "name": "Connaissance Matière Première Exotique des Lacs",
+        "p": "Connaissances Matières Premières Exotiques des Lacs",
+        "description": ""
+    },
+    "lakekamisknowledge": {
+        "name": "Connaissance des Kamis des Lacs",
+        "p": "Connaissances des Kamis des Lacs",
+        "description": ""
+    },
+    "laketravel": {
+        "name": "Voyage dans les Lacs",
+        "p": "Voyages dans les Lacs",
+        "description": ""
+    },
+    "leadanimal": {
+        "name": "Animal de Tête",
+        "p": "Animaux de Tête",
+        "description": ""
+    },
+    "leathertailoring": {
+        "name": "Traitement du Cuir",
+        "p": "Traitements du Cuir",
+        "description": ""
+    },
+    "lefthandedattack": {
+        "name": "Attaque de la Main Gauche",
+        "p": "Attaques de la Main Gauche",
+        "description": ""
+    },
+    "lefthandedparry": {
+        "name": "Parade de la Main Gauche",
+        "p": "Parades de la Main Gauche",
+        "description": ""
+    },
+    "lifealchemy": {
+        "name": "Alchimie de la Vie",
+        "p": "Alchimies de la Vie",
+        "description": ""
+    },
+    "lifegift": {
+        "name": "Don de Vie",
+        "p": "Dons de Vie",
+        "description": ""
+    },
+    "lightarmourwear": {
+        "name": "Vêtement pour Armure Légère",
+        "p": "Vêtements pour Armures Légères",
+        "description": ""
+    },
+    "madness": {
+        "name": "Folie",
+        "p": "Folie",
+        "description": ""
+    },
+    "magicobjects": {
+        "name": "Objet Magique",
+        "p": "Objets Magiques",
+        "description": ""
+    },
+    "magictransfert": {
+        "name": "Transfert Magique",
+        "p": "Transferts Magiques",
+        "description": ""
+    },
+    "majordryade": {
+        "name": "Dryade Majeure",
+        "p": "Dryades Majeures",
+        "description": ""
+    },
+    "majorheallife": {
+        "name": "Guérison Majeure de Vie",
+        "p": "Guérisons Majeures de Vie",
+        "description": ""
+    },
+    "majorliferegeneration": {
+        "name": "Régénération Majeure de Vie",
+        "p": "Régénérations Majeures de Vie",
+        "description": ""
+    },
+    "majormandragore": {
+        "name": "Mandragore Majeure",
+        "p": "Mandragores Majeures",
+        "description": ""
+    },
+    "majorsapheal": {
+        "name": "Guérison Majeure de Sève",
+        "p": "Guérisons Majeures de Sève",
+        "description": ""
+    },
+    "majorsapregenearation": {
+        "name": "Régénération Majeure de Sève",
+        "p": "Régénérations Majeures de Sève",
+        "description": ""
+    },
+    "majorsylve": {
+        "name": "Sylve Majeure",
+        "p": "Sylves Majeures",
+        "description": ""
+    },
+    "majortirednessheal": {
+        "name": "Guérison Majeure de Fatigue",
+        "p": "Guérisons Majeures de Fatigue",
+        "description": ""
+    },
+    "majortirednessregenearation": {
+        "name": "Régénération Majeure de Fatigue",
+        "p": "Régénérations Majeures de Fatigue",
+        "description": ""
+    },
+    "makeanklet": {
+        "name": "Fabrication d'un Anneau de Cheville",
+        "p": "Fabrications d'Anneaux de Cheville",
+        "description": ""
+    },
+    "makeautolaunch": {
+        "name": "Fabrication d'une Mitrailleuse",
+        "p": "Fabrications d'Mitrailleuses",
+        "description": ""
+    },
+    "makeautolaunchammo": {
+        "name": "Fabr. de Munitions Mitrailleuse",
+        "p": "Fabr. de Munitions Mitrailleuses",
+        "description": ""
+    },
+    "makeaxe": {
+        "name": "Fabrication d'une Hache",
+        "p": "Fabrications de Haches",
+        "description": ""
+    },
+    "makebag": {
+        "name": "Fabrication d'un Sac",
+        "p": "Fabrications de Sacs",
+        "description": ""
+    },
+    "makebowgun": {
+        "name": "Fabrication d'une Arbalète",
+        "p": "Fabrications d'Arbalètes",
+        "description": ""
+    },
+    "makebowgunammo": {
+        "name": "Fabrication de Munitions Arbalète",
+        "p": "Fabrications de Munitions Arbalètes",
+        "description": ""
+    },
+    "makebracelet": {
+        "name": "Fabrication d'un Bracelet",
+        "p": "Fabrications de Bracelets",
+        "description": ""
+    },
+    "makebuckler": {
+        "name": "Fabrication d'une Rondache",
+        "p": "Fabrications de Rondaches",
+        "description": ""
+    },
+    "makeclothes": {
+        "name": "Fabrication de Vêtements",
+        "p": "Fabrications de Vêtements",
+        "description": ""
+    },
+    "makedagger": {
+        "name": "Fabrication d'une Dague",
+        "p": "Fabrications de Dagues",
+        "description": ""
+    },
+    "makediadem": {
+        "name": "Fabrication d'un Diadème",
+        "p": "Fabrications de Diadèmes",
+        "description": ""
+    },
+    "makeearing": {
+        "name": "Fabrication d'une Boucle d'Oreille",
+        "p": "Fabrications de Boucles d'Oreille",
+        "description": ""
+    },
+    "makefireammos": {
+        "name": "Fabrication de Munitions Incendiaires",
+        "p": "Fabrications de Munitions Incendiaires",
+        "description": ""
+    },
+    "makefiretoughenedarmors": {
+        "name": "Fabr. d'une Armure Forgée par le Feu",
+        "p": "Fabr. d'Armures Forgées par le Feu",
+        "description": ""
+    },
+    "makefireweapons": {
+        "name": "Fabrication d'une Arme à Feu",
+        "p": "Fabrications d'Armes à Feu",
+        "description": ""
+    },
+    "makeflorallivingjewels": {
+        "name": "Fabrication d'un Bijou Floral Vivant",
+        "p": "Fabr. de Bijoux Floraux Vivants",
+        "description": ""
+    },
+    "makefloralpatternlivingclothes": {
+        "name": "Fabr. de Vêtements Floraux Vivants",
+        "p": "Fabr. de Vêtements Floraux Vivants",
+        "description": ""
+    },
+    "makegrenade": {
+        "name": "Fabrication d'une Grenade",
+        "p": "Fabrications de Grenades",
+        "description": ""
+    },
+    "makeharpoongun": {
+        "name": "Fabr. d'un Pistolet-Harpon",
+        "p": "Fabr. de Pistolets-Harpons",
+        "description": ""
+    },
+    "makeharpoongunammo": {
+        "name": "Fabr. de Munitions Pistolet-Harpon",
+        "p": "Fabr. de Munitions de Pistolets-Harpons",
+        "description": ""
+    },
+    "makeheavyarmors": {
+        "name": "Fabrication d'une Armure Lourde",
+        "p": "Fabrications d'Armures Lourdes",
+        "description": ""
+    },
+    "makeheavyboots": {
+        "name": "Fabrication de Bottes Lourdes",
+        "p": "Fabrications de Bottes Lourdes",
+        "description": ""
+    },
+    "makeheavygloves": {
+        "name": "Fabrication de Gants Lourds",
+        "p": "Fabrications de Gants Lourds",
+        "description": ""
+    },
+    "makeheavyhelmet": {
+        "name": "Fabrication d'un Casque Lourd",
+        "p": "Fabrications de Casques Lourds",
+        "description": ""
+    },
+    "makeheavypants": {
+        "name": "Fabrication d'un Pantalon Lourd",
+        "p": "Fabrications de Pantalons Lourds",
+        "description": ""
+    },
+    "makeheavysleeves": {
+        "name": "Fabrication de Manches Lourdes",
+        "p": "Fabrications de Manches Lourdes",
+        "description": ""
+    },
+    "makeheavyvest": {
+        "name": "Fabrication d'un Gilet Lourd",
+        "p": "Fabrications de Gilets Lourds",
+        "description": ""
+    },
+    "makejewels": {
+        "name": "Fabrication de Bijoux",
+        "p": "Fabrications de Bijoux",
+        "description": ""
+    },
+    "makekamicclothes": {
+        "name": "Fabrication de Vêtements Kamis",
+        "p": "Fabrications de Vêtements Kamis",
+        "description": ""
+    },
+    "makekamicjewels": {
+        "name": "Fabrication d'un Bijou Kami",
+        "p": "Fabrications de Bijoux Kamis",
+        "description": ""
+    },
+    "makekamicweapon": {
+        "name": "Fabrication d'une Arme Kami",
+        "p": "Fabrications d'Armes Kamis",
+        "description": ""
+    },
+    "makelance": {
+        "name": "Fabrication d'une Lance Kami",
+        "p": "Fabrications de Lances Kamis",
+        "description": ""
+    },
+    "makelauncher": {
+        "name": "Fabrication d'un Lance-grenades Kami",
+        "p": "Fabrications de Lance-grenades Kamis",
+        "description": ""
+    },
+    "makelauncherammo": {
+        "name": "Fabr. de Munitions Lance-grenades Kami",
+        "p": "Fabr. de Munitions de Lance-grenades Kamis",
+        "description": ""
+    },
+    "makelightboots": {
+        "name": "Fabrication de Bottes Légères",
+        "p": "Fabrications de Bottes Légères",
+        "description": ""
+    },
+    "makelightgloves": {
+        "name": "Fabrication de Gants Légers",
+        "p": "Fabrications de Gants Légers",
+        "description": ""
+    },
+    "makelighthelmet": {
+        "name": "Fabrication d'un Casque Léger",
+        "p": "Fabrications de Casques Légers",
+        "description": ""
+    },
+    "makelightpants": {
+        "name": "Fabrication d'un Pantalon Léger",
+        "p": "Fabrications de Pantalons Légers",
+        "description": ""
+    },
+    "makelightsleeves": {
+        "name": "Fabrication de Manches Légères",
+        "p": "Fabrications de Manches Légères",
+        "description": ""
+    },
+    "makelightvest": {
+        "name": "Fabrication d'un Gilet Léger",
+        "p": "Fabrications de Gilets Légers",
+        "description": ""
+    },
+    "makelongaxe": {
+        "name": "Fabrication d'une Hache à 2M",
+        "p": "Fabrications de Haches à 2M",
+        "description": ""
+    },
+    "makelongmace": {
+        "name": "Fabrication d'une Massue à 2M",
+        "p": "Fabrications de Massues à 2M",
+        "description": ""
+    },
+    "makelongsword": {
+        "name": "Fabrication d'une Epée à 2M",
+        "p": "Fabrications d'Epées à 2M",
+        "description": ""
+    },
+    "makemace": {
+        "name": "Fabrication d'une Massue",
+        "p": "Fabrications de Massues",
+        "description": ""
+    },
+    "makemediumarmors": {
+        "name": "Fabr. d'une Armure Moyenne",
+        "p": "Fabr. d'Armures Moyennes",
+        "description": ""
+    },
+    "makemediumboots": {
+        "name": "Fabr. de Bottes Moyennes",
+        "p": "Fabr. de Bottes Moyennes",
+        "description": ""
+    },
+    "makemediumgloves": {
+        "name": "Fabr. de Gants Moyens",
+        "p": "Fabr. de Gants Moyens",
+        "description": ""
+    },
+    "makemediumhelmet": {
+        "name": "Fabr. d'un Casque Moyen",
+        "p": "Fabr. de Casques Moyennes",
+        "description": ""
+    },
+    "makemediumpants": {
+        "name": "Fabr. d'un Pantalon Moyen",
+        "p": "Fabr. de Pantalons Moyens",
+        "description": ""
+    },
+    "makemediumsleeves": {
+        "name": "Fabr. de Manches Moyennes",
+        "p": "Fabr. de Manches Moyennes",
+        "description": ""
+    },
+    "makemediumvest": {
+        "name": "Fabr. d'un Gilet Moyen",
+        "p": "Fabr. de Gilets Moyens",
+        "description": ""
+    },
+    "makemeleeweapons": {
+        "name": "Fabrication d'une Arme de Mêlée",
+        "p": "Fabrications d'Armes de Mêlée",
+        "description": ""
+    },
+    "makependant": {
+        "name": "Fabrication d'un Pendentif",
+        "p": "Fabrications de Pendentifs",
+        "description": ""
+    },
+    "makepike": {
+        "name": "Fabrication d'une Pique",
+        "p": "Fabrications de Piques",
+        "description": ""
+    },
+    "makepistol": {
+        "name": "Fabrication d'un Pistolet",
+        "p": "Fabrications de Pistolets",
+        "description": ""
+    },
+    "makepistolammo": {
+        "name": "Fabrication de Munitions Pistolet",
+        "p": "Fabrications de Munitions de Pistolets",
+        "description": ""
+    },
+    "makepistolarc": {
+        "name": "Fabrication d'un Pistolet-Arbalète",
+        "p": "Fabrications de Pistolets-Arbalètes",
+        "description": ""
+    },
+    "makepistolarcammo": {
+        "name": "Fabr. de Munitions Pistolet-Arbalète",
+        "p": "Fabr. de Munitions Pistolets-Arbalètes",
+        "description": ""
+    },
+    "makepoisonnouslivingweapons": {
+        "name": "Fabr. d'une Arme Empoisonnée Vivante ",
+        "p": "Fabr. d'Armes Empoisonnées Vivantes",
+        "description": ""
+    },
+    "makerangeweaponammos": {
+        "name": "Fabr. de Munitions Arme de Tir",
+        "p": "Fabr. de Munitions Armes de Tir",
+        "description": ""
+    },
+    "makerangeweapons": {
+        "name": "Fabrication d'une Arme de Tir",
+        "p": "Fabrications d'Armes de Tir",
+        "description": ""
+    },
+    "makerifle": {
+        "name": "Fabrication d'un Fusil",
+        "p": "Fabrications de Fusils",
+        "description": ""
+    },
+    "makerifleammo": {
+        "name": "Fabrication de Munitions Fusil",
+        "p": "Fabrications de Munitions Fusils",
+        "description": ""
+    },
+    "makering": {
+        "name": "Fabrication d'une Bague",
+        "p": "Fabrications de Bagues",
+        "description": ""
+    },
+    "makeshield": {
+        "name": "Fabrication d'un Bouclier",
+        "p": "Fabrications de Boucliers",
+        "description": ""
+    },
+    "makeshiftrepair": {
+        "name": "Réparation de Fortune",
+        "p": "Réparations de Fortune",
+        "description": ""
+    },
+    "makesurvivaltools": {
+        "name": "Fabrication d'un Outil de Survie",
+        "p": "Fabrications d'Outils de Survie",
+        "description": ""
+    },
+    "makesurvivalweapon": {
+        "name": "Fabrication d'une Arme de Survie",
+        "p": "Fabrications d'Armes de Survie",
+        "description": ""
+    },
+    "makesword": {
+        "name": "Fabrication d'une Epée",
+        "p": "Fabrications d'Epées",
+        "description": ""
+    },
+    "makethrowingweapon": {
+        "name": "Fabrication d'une Arme de Lancer",
+        "p": "Fabrications d'Armes de Lancer",
+        "description": ""
+    },
+    "maketools": {
+        "name": "Fabrication d'un Outil",
+        "p": "Fabrications d'Outils",
+        "description": ""
+    },
+    "maketwo_handsmeleeweapons": {
+        "name": "Fabrication d'une Arme de Mêlée à 2M",
+        "p": "Fabrications d'Armes de Mêlée à 2M",
+        "description": ""
+    },
+    "maketwo_handsrangeweaponammos": {
+        "name": "Fabr. de Munitions d'Armes de Tir à 2M",
+        "p": "Fabr. de Munitions d'Armes de Mêlée à M",
+        "description": ""
+    },
+    "maketwo_handsrangeweapons": {
+        "name": "Fabrication d'une Arme de Tir à 2M",
+        "p": "Fabrications d'Armes de Tir à 2M",
+        "description": ""
+    },
+    "mandragore": {
+        "name": "Mandragore",
+        "p": "Mandragores",
+        "description": ""
+    },
+    "mandrakefist": {
+        "name": "Point de Mandragore",
+        "p": "Points de Mandragores",
+        "description": ""
+    },
+    "mass": {
+        "name": "Massue",
+        "p": "Massues",
+        "description": ""
+    },
+    "massivethrow": {
+        "name": "Lancer Massif",
+        "p": "Lancers Massifs",
+        "description": ""
+    },
+    "matis": {
+        "name": "Matis",
+        "p": "Matis",
+        "description": ""
+    },
+    "matisgoods": {
+        "name": "Biens Matis",
+        "p": "Biens Matis",
+        "description": ""
+    },
+    "matismystery": {
+        "name": "Mystère Matis",
+        "p": "Mystères Matis",
+        "description": ""
+    },
+    "mechanic": {
+        "name": "Mécanicien",
+        "p": "Mécaniciens",
+        "description": ""
+    },
+    "mediumarmourwear": {
+        "name": "Vêtement pour Armure Moyenne",
+        "p": "Vêtements Armures Moyennes",
+        "description": ""
+    },
+    "minorlifeheal": {
+        "name": "Guérison Mineure de Vie",
+        "p": "Guérisons Mineures de Vie",
+        "description": ""
+    },
+    "minorsapheal": {
+        "name": "Guérison Mineure de Sève",
+        "p": "Guérisons Mineures de Sève",
+        "description": ""
+    },
+    "minortirednessheal": {
+        "name": "Guérison Mineure de Fatigue",
+        "p": "Guérisons Mineures de Fatigue",
+        "description": ""
+    },
+    "mirror": {
+        "name": "Miroir",
+        "p": "Miroirs",
+        "description": ""
+    },
+    "muscularfever": {
+        "name": "Fièvre Musculaire",
+        "p": "Fièvres Musculaires",
+        "description": ""
+    },
+    "nervousfever": {
+        "name": "Fièvre Nerveuse",
+        "p": "Fièvres Nerveuses",
+        "description": ""
+    },
+    "nightshot": {
+        "name": "Tir de Nuit",
+        "p": "Tirs de Nuits",
+        "description": ""
+    },
+    "nunb": {
+        "name": "Engourdissement",
+        "p": "Engourdissements",
+        "description": ""
+    },
+    "onhorsebackmelee": {
+        "name": "Combat sur Dos de Mektoub",
+        "p": "Combats sur Dos de Mektoubs",
+        "description": ""
+    },
+    "onhorsebackshoot": {
+        "name": "Fusillade sur Dos de Mektoub",
+        "p": "Fusillades sur Dos de Mektoubs",
+        "description": ""
+    },
+    "painshare": {
+        "name": "Partage de la Douleur",
+        "p": "Partages de la Douleur",
+        "description": ""
+    },
+    "paralysis": {
+        "name": "Paralysie",
+        "p": "Paralysies",
+        "description": ""
+    },
+    "pike": {
+        "name": "Pique",
+        "p": "Piques",
+        "description": ""
+    },
+    "pikehunting": {
+        "name": "Chasse de Créatures",
+        "p": "Chasses de Créatures",
+        "description": ""
+    },
+    "pistol": {
+        "name": "Pistolet",
+        "p": "Pistolets",
+        "description": ""
+    },
+    "planthatred": {
+        "name": "Haine des Plantes",
+        "p": "Haine des Plantes",
+        "description": ""
+    },
+    "pointblankshot": {
+        "name": "Tir à Bout Portant",
+        "p": "Tirs à Bout Portant",
+        "description": ""
+    },
+    "primaryroots": {
+        "name": "Prime Racine",
+        "p": "Primes Racines",
+        "description": ""
+    },
+    "protectingkamisknoledge": {
+        "name": "Connaissance de Kamis Protecteurs",
+        "p": "Connaissances de Kamis Protecteurs",
+        "description": ""
+    },
+    "quartering": {
+        "name": "Dépeçage",
+        "p": "Dépeçages",
+        "description": ""
+    },
+    "quickshot": {
+        "name": "Tir Rapide",
+        "p": "Tirs Rapides",
+        "description": ""
+    },
+    "quickthrow": {
+        "name": "Lancer Rapide",
+        "p": "Lancers Rapides",
+        "description": ""
+    },
+    "range": {
+        "name": "Portée",
+        "p": "Portées",
+        "description": ""
+    },
+    "rapidburst": {
+        "name": "Explosion Rapide",
+        "p": "Explosions Rapides",
+        "description": ""
+    },
+    "resist": {
+        "name": "Résister",
+        "p": "Résister",
+        "description": ""
+    },
+    "resistance": {
+        "name": "Résistance",
+        "p": "Résistances",
+        "description": ""
+    },
+    "ridepackers": {
+        "name": "Premier Animal de Bât",
+        "p": "Premiers Animaux de Bât",
+        "description": ""
+    },
+    "riding": {
+        "name": "Monte",
+        "p": "Montes",
+        "description": ""
+    },
+    "rifle": {
+        "name": "Fusil",
+        "p": "Fusils",
+        "description": ""
+    },
+    "riflehunting": {
+        "name": "Fusillade",
+        "p": "Fusillades",
+        "description": ""
+    },
+    "rocket": {
+        "name": "Roquette",
+        "p": "Roquettes",
+        "description": ""
+    },
+    "rocktabou": {
+        "name": "Rock Taboo",
+        "p": "Rock Taboos",
+        "description": ""
+    },
+    "rondache": {
+        "name": "Rondache",
+        "p": "Rondaches",
+        "description": ""
+    },
+    "rot": {
+        "name": "Pourriture",
+        "p": "Pourritures",
+        "description": ""
+    },
+    "running": {
+        "name": "Course",
+        "p": "Courses",
+        "description": ""
+    },
+    "sapalchemy": {
+        "name": "Alchimie de la Sève",
+        "p": "Alchimies de la Sève",
+        "description": ""
+    },
+    "saparmor": {
+        "name": "Armure de Sève",
+        "p": "Armures de Sève",
+        "description": ""
+    },
+    "sapgift": {
+        "name": "Don de Sève",
+        "p": "Dons de Sève",
+        "description": ""
+    },
+    "shield": {
+        "name": "Bouclier",
+        "p": "Boucliers",
+        "description": ""
+    },
+    "shootandrun": {
+        "name": "Tirer en se déplaçant",
+        "p": "Tirer en se déplaçant",
+        "description": ""
+    },
+    "shotprotect": {
+        "name": "Protection de Tir",
+        "p": "Protections de Tir",
+        "description": ""
+    },
+    "slowingbreath": {
+        "name": "Ralentisseur de Souffle",
+        "p": "Ralentisseurs de Souffle",
+        "description": ""
+    },
+    "slowinglife": {
+        "name": "Ralentisseur de Vie",
+        "p": "Ralentisseurs de Vie",
+        "description": ""
+    },
+    "spear": {
+        "name": "Lance",
+        "p": "Lances",
+        "description": ""
+    },
+    "spelldeletion": {
+        "name": "Suppression d'un Sort",
+        "p": "Suppressions de Sorts",
+        "description": ""
+    },
+    "spellprotect": {
+        "name": "Protection d'un Sort",
+        "p": "Protections de Sorts",
+        "description": ""
+    },
+    "spurtingfire": {
+        "name": "Feu Jaillissant",
+        "p": "Feux Jaillissants",
+        "description": ""
+    },
+    "squandering": {
+        "name": "Gaspillage",
+        "p": "Gaspillages",
+        "description": ""
+    },
+    "stallsetup": {
+        "name": "Montage d'une Stalle",
+        "p": "Montages de Stalles",
+        "description": ""
+    },
+    "stealbreath": {
+        "name": "Souffle Voleur",
+        "p": "Souffles Voleurs",
+        "description": ""
+    },
+    "steallife": {
+        "name": "Vie Voleuse",
+        "p": "Vies Voleuses",
+        "description": ""
+    },
+    "stealsap": {
+        "name": "Sève Voleuse",
+        "p": "Sève Voleuse",
+        "description": ""
+    },
+    "stick": {
+        "name": "Bâton",
+        "p": "Bâtons",
+        "description": ""
+    },
+    "strenghtgift": {
+        "name": "Don de Force",
+        "p": "Dons de Force",
+        "description": ""
+    },
+    "swimming": {
+        "name": "Nage",
+        "p": "Nages",
+        "description": ""
+    },
+    "sword": {
+        "name": "Epée",
+        "p": "Epées",
+        "description": ""
+    },
+    "sylphicslide": {
+        "name": "Glissement Sylphique",
+        "p": "Glissements Sylphiques",
+        "description": ""
+    },
+    "sylve": {
+        "name": "Sylve",
+        "p": "Sylves",
+        "description": ""
+    },
+    "tactilewithering": {
+        "name": "Affaiblissement du Toucher",
+        "p": "Affaiblissements du Toucher",
+        "description": ""
+    },
+    "target": {
+        "name": "Cible",
+        "p": "Cibles",
+        "description": ""
+    },
+    "terror": {
+        "name": "Terreur",
+        "p": "Terreurs",
+        "description": ""
+    },
+    "tirednessalchemy": {
+        "name": "Alchimie de la Fatigue",
+        "p": "Alchimies de la Fatigue",
+        "description": ""
+    },
+    "tracking": {
+        "name": "Pistage",
+        "p": "Pistages",
+        "description": ""
+    },
+    "tradingcenterknowledge": {
+        "name": "Connaissance du Centre de Troc",
+        "p": "Connaissances du Centre de Troc",
+        "description": ""
+    },
+    "trainingagility": {
+        "name": "Entraînement de l'Agilité",
+        "p": "Entraînements de l'Agilité",
+        "description": ""
+    },
+    "traininganimal": {
+        "name": "Entraînement sur les Animaux",
+        "p": "Entraînements sur les Animaux",
+        "description": ""
+    },
+    "trainingcharisme": {
+        "name": "Entraînement du Charisme",
+        "p": "Entraînements du Charisme",
+        "description": ""
+    },
+    "trainingconstitution": {
+        "name": "Entraînement de la Constitution",
+        "p": "Entraînements de la Constitution",
+        "description": ""
+    },
+    "trainingdiseaseresist": {
+        "name": "Entraînement de Résistance aux Maladies",
+        "p": "Entraînements de Résistance aux Maladies",
+        "description": ""
+    },
+    "trainingempathie": {
+        "name": "Entraînement de l'Empathie",
+        "p": "Entraînements de l'Empathie",
+        "description": ""
+    },
+    "trainingfearresist": {
+        "name": "Entraînement de Résistance à la Peur",
+        "p": "Entraînements de Résistance à la Peur",
+        "description": ""
+    },
+    "traininghp": {
+        "name": "Entraînement des Points de Vie",
+        "p": "Entraînements des Points de Vie",
+        "description": ""
+    },
+    "traininghp2": {
+        "name": "Entraînement des Points de Vie 2",
+        "p": "Entraînements des Points de Vie 2",
+        "description": ""
+    },
+    "traininghp3": {
+        "name": "Entraînement des Points de Vie 3",
+        "p": "Entraînements des Points de Vie 3",
+        "description": ""
+    },
+    "traininghp4": {
+        "name": "Entraînement des Points de Vie 4",
+        "p": "Entraînements des Points de Vie 4",
+        "description": ""
+    },
+    "trainingimpactresist": {
+        "name": "Entraînement de Résistance Impacts",
+        "p": "Entraînements de Résistance Impacts",
+        "description": ""
+    },
+    "trainingintelligence": {
+        "name": "Entraînement de l'Intelligence",
+        "p": "Entraînements de l'Intelligence",
+        "description": ""
+    },
+    "trainingmagicresist": {
+        "name": "Entraînement de Résistance à la Magie",
+        "p": "Entraînements de Résistance à la Magie",
+        "description": ""
+    },
+    "trainingperception": {
+        "name": "Entraînement de la Perception",
+        "p": "Entraînements de la Perception",
+        "description": ""
+    },
+    "trainingseve": {
+        "name": "Entraînement de la Sève",
+        "p": "Entraînements de la Sève",
+        "description": ""
+    },
+    "trainingseve2": {
+        "name": "Entraînement de la Sève 2",
+        "p": "Entraînements de la Sève 2",
+        "description": ""
+    },
+    "trainingseve3": {
+        "name": "Entraînement de la Sève 3",
+        "p": "Entraînements de la Sève 3",
+        "description": ""
+    },
+    "trainingseve4": {
+        "name": "Entraînement de la Sève 4",
+        "p": "Entraînements de la Sève 4",
+        "description": ""
+    },
+    "trainingstamina": {
+        "name": "Entraînement de l'Endurance",
+        "p": "Entraînements de l'Endurance",
+        "description": ""
+    },
+    "trainingstamina2": {
+        "name": "Entraînement de l'Endurance 2",
+        "p": "Entraînements de l'Endurance 2",
+        "description": ""
+    },
+    "trainingstamina3": {
+        "name": "Entraînement de l'Endurance 3",
+        "p": "Entraînements de l'Endurance 3",
+        "description": ""
+    },
+    "trainingstamina4": {
+        "name": "Entraînement de l'Endurance 4",
+        "p": "Entraînements de l'Endurance 4",
+        "description": ""
+    },
+    "trainingstrength": {
+        "name": "Entraînement de la Force",
+        "p": "Entraînements de la Force",
+        "description": ""
+    },
+    "trainingtechnoresist": {
+        "name": "Entraînement de Résistance aux Techno",
+        "p": "Entraînements de Résistance aux Techno",
+        "description": ""
+    },
+    "trainingwellbalanced": {
+        "name": "Entraînement du Bon Equilibre",
+        "p": "Entraînements du Bon Equilibre",
+        "description": ""
+    },
+    "trainingwill": {
+        "name": "Entraînement de la Volonté",
+        "p": "Entraînements de la Volonté",
+        "description": ""
+    },
+    "tryker": {
+        "name": "Tryker",
+        "p": "Trykers",
+        "description": ""
+    },
+    "trykergoods": {
+        "name": "Biens Tryker",
+        "p": "Biens Trykers",
+        "description": ""
+    },
+    "trykermystery": {
+        "name": "Mystère Tryker",
+        "p": "Mystères Trykers",
+        "description": ""
+    },
+    "twohandedcombat": {
+        "name": "Combat à 2M",
+        "p": "Combats à 2M",
+        "description": ""
+    },
+    "twohandssword": {
+        "name": "Epée à 2M",
+        "p": "Epées à 2M",
+        "description": ""
+    },
+    "underwaterextract": {
+        "name": "Extraction Sous-Marine",
+        "p": "Extractions Sous-Marines",
+        "description": ""
+    },
+    "visualwithering": {
+        "name": "Affaiblissement de la Vue",
+        "p": "Affaiblissements de la Vue",
+        "description": ""
+    },
+    "vitalburst": {
+        "name": "Explosion Vitale",
+        "p": "Explosions Vitales",
+        "description": ""
+    },
+    "warriorgift": {
+        "name": "Don Guerrier",
+        "p": "Dons Guerriers",
+        "description": ""
+    },
+    "weaponscutting": {
+        "name": "Coupe des Armes",
+        "p": "Coupes des Armes",
+        "description": ""
+    },
+    "windarmor": {
+        "name": "Armure des Vents",
+        "p": "Armures des Vents",
+        "description": ""
+    },
+    "windgift": {
+        "name": "Don de Vent",
+        "p": "Dons de Vents",
+        "description": ""
+    },
+    "windshear": {
+        "name": "Puissance du Vent",
+        "p": "Puissances du Vent",
+        "description": ""
+    },
+    "zorai": {
+        "name": "Zoraï",
+        "p": "Zoraïs",
+        "description": ""
+    },
+    "zoraigoods": {
+        "name": "Biens Zoraï",
+        "p": "Biens Zoraïs",
+        "description": ""
+    },
+    "zoraimystery": {
+        "name": "Mystère Zoraï",
+        "p": "Mystères Zoraïs",
+        "description": ""
+    },
+    "trainingimpactresist2": {
+        "name": "Entraînement de Résistance Impacts 2",
+        "p": "Entraînements de Résistance Impacts 2",
+        "description": ""
+    },
+    "trainingimpactresist3": {
+        "name": "Entraînement de Résistance Impacts 3",
+        "p": "Entraînements de Résistance Impacts 3",
+        "description": ""
+    },
+    "trainingmagicresist2": {
+        "name": "Entraînement de Résistance Impacts 2",
+        "p": "Entraînements de Résistance Impacts 2",
+        "description": ""
+    },
+    "trainingmagicresist3": {
+        "name": "Entraînement de Résistance Impacts 3",
+        "p": "Entraînements de Résistance Impacts 3",
+        "description": ""
+    },
+    "makeenchantedweapons": {
+        "name": "Fabrication d'Armes Enchantées",
+        "p": "Fabrications d'Armes Enchantées",
+        "description": ""
+    },
+    "makeenchantedarmors": {
+        "name": "Fabrication d'Armures Enchantées",
+        "p": "Fabrications d'Armures Enchantées",
+        "description": ""
+    },
+    "makevampiricweapons": {
+        "name": "Fabrication d'Armes Vampiriques",
+        "p": "Fabrications d'Armes Vampiriques",
+        "description": ""
+    },
+    "makeenchantedfloralpatternlivingclothes": {
+        "name": "Fabr. de Vêtements Floraux Vivants",
+        "p": "Fabr. de Vêtements Floraux Vivants",
+        "description": ""
+    },
+    "makedeadlyharpoongun": {
+        "name": "Fabr. d'un Pistolet-Harpon Mortel",
+        "p": "Fabr. de Pistolets-Harpons Mortels",
+        "description": ""
+    },
+    "makehuntingarmors": {
+        "name": "Fabrication d'Armure de Chasse",
+        "p": "Fabrications d'Armures de Chasse",
+        "description": ""
+    },
+    "makeritualclothes": {
+        "name": "Fabrication de Vêtements Rituels",
+        "p": "Fabrications de Vêtements Rituels",
+        "description": ""
+    },
+    "makeritualjewels": {
+        "name": "Fabrication de Bijoux Rituels",
+        "p": "Fabrications de Bijoux Rituels",
+        "description": ""
+    },
+    "sc": {
+        "name": "Artisanat",
+        "p": "Artisanat",
+        "description": "Artisanat"
+    },
+    "sm": {
+        "name": "Magie",
+        "p": "Magie",
+        "description": "Magie"
+    },
+    "smt": {
+        "name": "Magie d'Impact",
+        "p": "Magies d'Impacts",
+        "description": "Magie Ciblée"
+    },
+    "smtm": {
+        "name": "Magie de Missile",
+        "p": "Magies de Missiles",
+        "description": "Magie de Missile Ciblée"
+    },
+    "smtmr": {
+        "name": "Magie Fondamentale",
+        "p": "Magies Fondamentales",
+        "description": "Magie de Missile Ciblée - Fondamentale"
+    },
+    "smtmg": {
+        "name": "Magie Atysienne",
+        "p": "Magies Atysiennes",
+        "description": "Magie de Missile Ciblée - Atysienne"
+    },
+    "smtmb": {
+        "name": "Magie Céleste",
+        "p": "Magies Célestes",
+        "description": "Magie de Missile Ciblée - Céleste"
+    },
+    "smto": {
+        "name": "Magie Offensive",
+        "p": "Magies Offensives",
+        "description": "Magie Offensive Ciblée"
+    },
+    "smtod": {
+        "name": "Magie Physique",
+        "p": "Magies Physiques",
+        "description": "Magie Offensive Ciblée sur les Dégâts"
+    },
+    "smtodp": {
+        "name": "Magie Perforante",
+        "p": "Magies Perforantes",
+        "description": "Magie Offensive Ciblée sur les Dégâts - Perforante"
+    },
+    "smtodb": {
+        "name": "Magie Contondante",
+        "p": "Magies Contondantes",
+        "description": "Magie Offensive Ciblée sur les Dégâts - Contondant"
+    },
+    "smtods": {
+        "name": "Magie Tranchante",
+        "p": "Magies Tranchantes",
+        "description": "Magie Offensive Ciblée sur les Dégâts - Tranchante"
+    },
+    "smtoe": {
+        "name": "Magie Elémentaire",
+        "p": "Magies Elémentaires",
+        "description": "Magie Offensive Ciblée sur les Dégâts Spéciaux"
+    },
+    "smtoec": {
+        "name": "Magie du Froid",
+        "p": "Magies du Froid",
+        "description": "Magie Offensive Ciblée sur les Dégâts Spéciaux - Froid"
+    },
+    "smtoea": {
+        "name": "Magie de l'Acide",
+        "p": "Magies de l'Acide",
+        "description": "Magie Offensive Ciblée sur les Dégâts Spéciaux - Acide"
+    },
+    "smtoer": {
+        "name": "Magie de la Pourriture",
+        "p": "Magies de la Pourriture",
+        "description": "Magie Offensive Ciblée sur les Dégâts Spéciaux - Pourriture"
+    },
+    "smtoef": {
+        "name": "Magie du Feu",
+        "p": "Magies du Feu",
+        "description": "Magie Offensive Ciblée sur les Dégâts Spéciaux - Feu"
+    },
+    "smtoes": {
+        "name": "Magie des Ondes de Choc",
+        "p": "Magies des Ondes de Choc",
+        "description": "Magie Offensive Ciblée sur les Dégâts Spéciaux - Ondes de choc"
+    },
+    "smtoep": {
+        "name": "Magie du Poison",
+        "p": "Magies du Poison",
+        "description": "Magie Offensive Ciblée sur les Dégâts Spéciaux - Poison"
+    },
+    "smtoee": {
+        "name": "Magie Electrique",
+        "p": "Magies Electriques",
+        "description": "Magie Offensive Ciblée sur les Dégâts Spéciaux - Electricité"
+    },
+    "smtc": {
+        "name": "Magie Curative",
+        "p": "Magies Curatives",
+        "description": "Magie Curative Ciblée"
+    },
+    "smtch": {
+        "name": "Magie de Guérison",
+        "p": "Magies de Guérison",
+        "description": "Magie Curative Ciblée sur la Guérison"
+    },
+    "smtchp": {
+        "name": "Magie de Guérison de la Vie",
+        "p": "Magies de Guérison de la Vie",
+        "description": "Magie Curative Ciblée sur la Guérison - Vie"
+    },
+    "smtcht": {
+        "name": "Magie de Guérison de la Sta",
+        "p": "Magies de Guérison de la Sta",
+        "description": "Magie Curative Ciblée sur la Guérison - Sta"
+    },
+    "smtcha": {
+        "name": "Magie de Guérison de la Sève",
+        "p": "Magies de Guérison de la Sève",
+        "description": "Magie Curative Ciblée sur la Guérison - Sève"
+    },
+    "smtchc": {
+        "name": "Magie de Guérison de la Concentration",
+        "p": "Magies de Guérison de la Concentration",
+        "description": "Magie Curative Ciblée sur la Guérison - Concentration"
+    },
+    "smtcb": {
+        "name": "Rupture de Lien",
+        "p": "Ruptures de Liens",
+        "description": "Magie Curative Ciblée sur la Rupture de Lien"
+    },
+    "smtcbd": {
+        "name": "Dégât de Rupture de Lien",
+        "p": "Dégâts de Ruptures de Liens",
+        "description": "Magie Curative Ciblée sur la Rupture de Lien - Dégâts"
+    },
+    "smtcbs": {
+        "name": "Maladie de Rupture de Lien",
+        "p": "Maladies de Ruptures de Liens",
+        "description": "Magie Curative Ciblée sur la Rupture de Lien - Maladie"
+    },
+    "smtcbc": {
+        "name": "Malédiction de Rupture de Lien",
+        "p": "Malédictions de Ruptures de Liens",
+        "description": "Magie Curative Ciblée sur la Rupture de Lien - Malédiction"
+    },
+    "sml": {
+        "name": "Lien de Magie",
+        "p": "Liens de Magies",
+        "description": "Lien de Magie"
+    },
+    "smlm": {
+        "name": "Lien de Missile",
+        "p": "Liens de Missiles",
+        "description": "Lien de Magie relatif aux Missiles"
+    },
+    "smlmr": {
+        "name": "Lien Fondamental",
+        "p": "Liens Fondamentaux",
+        "description": "Lien de Magie relatif aux Missiles - Fondamental"
+    },
+    "smlmg": {
+        "name": "Lien Atysien",
+        "p": "Liens Atysiens",
+        "description": "Lien de Magie relatif aux Missiles - Atysien"
+    },
+    "smlmb": {
+        "name": "Lien Céleste",
+        "p": "Liens Célestes",
+        "description": "Lien de Magie relatif aux Missiles - Céleste"
+    },
+    "smlo": {
+        "name": "Lien Offensif",
+        "p": "Liens Offensifs",
+        "description": "Lien de Magie Offensive"
+    },
+    "smlos": {
+        "name": "Lien de Maladie",
+        "p": "Liens de Maladies",
+        "description": "Lien de Magie Offensive relatif aux Maladies"
+    },
+    "smlosm": {
+        "name": "Lien de Folie",
+        "p": "Liens de Folie",
+        "description": "Lien de Magie Offensive relatif aux Maladies - folie"
+    },
+    "smloss": {
+        "name": "Lien de Diminution de la Vitesse",
+        "p": "Liens de Diminution de la Vitesse",
+        "description": "Lien de Magie Offensive relatif aux Maladies - diminution de la vitesse"
+    },
+    "smlosr": {
+        "name": "Lien de Diminution de la Résistance",
+        "p": "Liens de Diminution de la Résistance",
+        "description": "Lien de Magie Offensive relatif aux Maladies - diminution de la résistance"
+    },
+    "smlosk": {
+        "name": "Lien de Diminution des Compétences",
+        "p": "Liens de Diminution des Compétences",
+        "description": "Lien de Magie Offensive relatif aux Maladies - diminution des compétences"
+    },
+    "smloc": {
+        "name": "Lien de Malédiction",
+        "p": "Liens de Malédictions",
+        "description": "Lien de Magie Offensive relatif aux Malédictions"
+    },
+    "smloci": {
+        "name": "Lien d'Incapacité",
+        "p": "Liens d'Incapacité",
+        "description": "Lien de Magie Offensive relatif aux Malédictions - incapacité"
+    },
+    "smlocm": {
+        "name": "Lien de Perturbation Mentale",
+        "p": "Liens de Perturbation Mentale",
+        "description": "Lien de Magie Offensive relatif aux Malédictions - perturbation mentale"
+    },
+    "smlocs": {
+        "name": "Lien de Malchance",
+        "p": "Liens de Malchance",
+        "description": "Lien de Magie Offensive relatif aux Malédictions - malchance"
+    },
+    "smloch": {
+        "name": "Lien de Haine",
+        "p": "Liens de Haine",
+        "description": "Lien de Magie Offensive relatif aux Malédictions - haine"
+    },
+    "smlod": {
+        "name": "Lien Physique",
+        "p": "Liens Physiques",
+        "description": "Lien de Magie Offensive relatif aux Dégâts"
+    },
+    "smlodp": {
+        "name": "Lien Perforant",
+        "p": "Liens Perforants",
+        "description": "Lien de Magie Offensive relatif aux Dégâts - Perforant"
+    },
+    "smlodb": {
+        "name": "Lien Contondant",
+        "p": "Liens Contondants",
+        "description": "Lien de magie offensive relatif aux dégâts - contondant"
+    },
+    "smlods": {
+        "name": "Lien Tranchant",
+        "p": "Liens Tranchants",
+        "description": "Lien de Magie Offensive relatif aux Dégâts - Tranchant"
+    },
+    "smloe": {
+        "name": "Lien Elémentaire",
+        "p": "Liens Elémentaires",
+        "description": "Lien de Magie Offensive relatif aux Dégâts Spéciaux"
+    },
+    "smloec": {
+        "name": "Lien du Froid",
+        "p": "Liens du Froid",
+        "description": "Lien de Magie Offensive relatif aux Dégâts Spéciaux - Froid"
+    },
+    "smloea": {
+        "name": "Lien d'Acide",
+        "p": "Liens d'Acide",
+        "description": "Lien de Magie Offensive relatif aux Dégâts Spéciaux - Acide"
+    },
+    "smloer": {
+        "name": "Lien de Pourriture",
+        "p": "Liens de Pourriture",
+        "description": "Lien de Magie Offensive relatif aux Dégâts Spéciaux - Pourriture"
+    },
+    "smloef": {
+        "name": "Lien de Feu",
+        "p": "Liens de Feu",
+        "description": "Lien de Magie Offensive relatif aux Dégâts Spéciaux - Feu"
+    },
+    "smloes": {
+        "name": "Lien d'Ondes de Choc",
+        "p": "Liens d'Ondes de Choc",
+        "description": "Lien de Magie Offensive relatif aux Dégâts Spéciaux - Ondes de choc"
+    },
+    "smloep": {
+        "name": "Lien de Poison",
+        "p": "Liens de Poison",
+        "description": "Lien de Magie Offensive relatif aux Dégâts Spéciaux - Poison"
+    },
+    "smloee": {
+        "name": "Lien Electrique",
+        "p": "Liens Electriques",
+        "description": "Lien de Magie Offensive relatif aux Dégâts Spéciaux - Electricité"
+    },
+    "smlc": {
+        "name": "Lien Curatif",
+        "p": "Liens Curatifs",
+        "description": "Lien de Magie Curative"
+    },
+    "smlch": {
+        "name": "Lien de Guérison",
+        "p": "Liens de Guérison",
+        "description": "Lien de Magie Curative relatif aux Guérisons"
+    },
+    "smlchp": {
+        "name": "Lien de Guérison de la Vie",
+        "p": "Liens de Guérison de la Vie",
+        "description": "Lien de Magie Curative relatif aux Guérisons - Vie"
+    },
+    "smlcht": {
+        "name": "Lien de Guérison de la Sta",
+        "p": "Liens de Guérison de la Sta",
+        "description": "Lien de Magie Curative relatif aux Guérisons - Sta"
+    },
+    "smlcha": {
+        "name": "Lien de Guérison de la Sève",
+        "p": "Liens de Guérison de la Sève",
+        "description": "Lien de Magie Curative relatif aux Guérisons - Sève"
+    },
+    "smlchc": {
+        "name": "Lien de Guérison de la Concentration",
+        "p": "Liens de Guérison de la Concentration",
+        "description": "Lien de Magie Curative relatif aux Guérisons - Concentration"
+    },
+    "sma": {
+        "name": "Magie Autonome",
+        "p": "Magies Autonomes",
+        "description": "Magie Autonome"
+    },
+    "smae": {
+        "name": "Magie d'Enchantement",
+        "p": "Magies d'Enchantements",
+        "description": "Magie d'Enchantement"
+    },
+    "smaes": {
+        "name": "Enchantement de Sorts",
+        "p": "Magies d'Enchantements - Sorts",
+        "description": "Magie d'Enchantement - Sort"
+    },
+    "smaeb": {
+        "name": "Enchantement Bonus",
+        "p": "Magies d'Enchantements - Bonus",
+        "description": "Magie d'Enchantement - Bonus"
+    },
+    "smap": {
+        "name": "Magie de Création de Potions",
+        "p": "Magies de Fabrications de Potions",
+        "description": "Magie de Fabrication de Potions"
+    },
+    "sd": {
+        "name": "Auto-Défense",
+        "p": "Auto-Défenses",
+        "description": "Auto-Défense"
+    },
+    "sda": {
+        "name": "Porter Armure",
+        "p": "Porter Armure",
+        "description": "Porter Armure"
+    },
+    "sdal": {
+        "name": "Porter Armure Légère",
+        "p": "Porter Armure Légère",
+        "description": "Porter Armure Légère"
+    },
+    "sdalf": {
+        "name": "Porter Armure Légère Fyros",
+        "p": "Porter Armure Légère Fyros",
+        "description": "Porter Armure Légère Fyros"
+    },
+    "sdalfa": {
+        "name": "Expert en Port d'Armure Légère Fyros",
+        "p": "Experts en Port d'Armure Légère Fyros",
+        "description": "Expert en Port d'Armure Légère Fyros"
+    },
+    "sdalfae": {
+        "name": "Maître en Port d'Armure Légère Fyros",
+        "p": "Maîtres en Port d'Armure Légère Fyros",
+        "description": "Maître en Port d'Armure Légère Fyros"
+    },
+    "sdalm": {
+        "name": "Porter Armure Légère Matis",
+        "p": "Porter Armure Légère Matis",
+        "description": "Porter Armure Légère Matis"
+    },
+    "sdalma": {
+        "name": "Expert en Port d'Armure Légère Matis",
+        "p": "Experts en Port d'Armure Légère Matis",
+        "description": "Expert en Port d'Armure Légère Matis"
+    },
+    "sdalmae": {
+        "name": "Maître en Port d'Armure Légère Matis",
+        "p": "Maîtres en Port d'Armure Légère Matis",
+        "description": "Maître en Port d'Armure Légère Matis"
+    },
+    "sdalt": {
+        "name": "Porter Armure Légère Tryker",
+        "p": "Porter Armure Légère Tryker",
+        "description": "Porter Armure Légère Tryker"
+    },
+    "sdalta": {
+        "name": "Expert en Port d'Armure Légère Tryker",
+        "p": "Experts en Port d'Armure Légère Tryker",
+        "description": "Expert en Port d'Armure Légère Tryker"
+    },
+    "sdaltae": {
+        "name": "Maître en Port d'Armure Légère Tryker",
+        "p": "Maîtres en Port d'Armure Légère Tryker",
+        "description": "Maître en Port d'Armure Légère Tryker"
+    },
+    "sdalz": {
+        "name": "Porter Armure Légère Zoraï",
+        "p": "Porter Armure Légère Zoraï",
+        "description": "Porter Armure Légère Zoraï"
+    },
+    "sdalza": {
+        "name": "Expert en Port d'Armure Légère Zoraï",
+        "p": "Experts en Port d'Armure Légère Zoraï",
+        "description": "Expert en Port d'Armure Légère Zoraï"
+    },
+    "sdalzae": {
+        "name": "Maître en Port d'Armure Légère Zoraï",
+        "p": "Maîtres en Port d'Armure Légère Zoraï",
+        "description": "Maître en Port d'Armure Légère Zoraï"
+    },
+    "sdam": {
+        "name": "Porter Armure Moyenne",
+        "p": "Porter Armure Moyenne",
+        "description": "Porter Armure Moyenne"
+    },
+    "sdamf": {
+        "name": "Porter Armure Moyenne Fyros",
+        "p": "Porter Armure Moyenne Fyros",
+        "description": "Porter Armure Moyenne Fyros"
+    },
+    "sdamfa": {
+        "name": "Expert en Port d'Armure Moyenne Fyros",
+        "p": "Experts en Port d'Armure Moyenne Fyros",
+        "description": "Expert en Port d'Armure Moyenne Fyros"
+    },
+    "sdamfae": {
+        "name": "Maître en Port d'Armure Moyenne Fyros",
+        "p": "Maîtres en Port d'Armure Moyenne Fyros",
+        "description": "Maître en Port d'Armure Moyenne Fyros"
+    },
+    "sdamm": {
+        "name": "Porter Armure Moyenne Matis",
+        "p": "Porter Armure Moyenne Matis",
+        "description": "Porter Armure Moyenne Matis"
+    },
+    "sdamma": {
+        "name": "Expert en Port d'Armure Moyenne Matis",
+        "p": "Experts en Port d'Armure Moyenne Matis",
+        "description": "Expert en Port d'Armure Moyenne Matis"
+    },
+    "sdammae": {
+        "name": "Maître en Port d'Armure Moyenne Matis",
+        "p": "Maîtres en Port d'Armure Moyenne Matis",
+        "description": "Maître en Port d'Armure Moyenne Matis"
+    },
+    "sdamt": {
+        "name": "Porter Armure Moyenne Tryker",
+        "p": "Porter Armure Moyenne Tryker",
+        "description": "Porter Armure Moyenne Tryker"
+    },
+    "sdamta": {
+        "name": "Expert en Port d'Armure Moyenne Tryker",
+        "p": "Experts en Port d'Armure Moyenne Tryker",
+        "description": "Expert en Port d'Armure Moyenne Tryker"
+    },
+    "sdamtae": {
+        "name": "Maître en Port d'Armure Moyenne Tryker",
+        "p": "Maîtres en Port d'Armure Moyenne Tryker",
+        "description": "Maître en Port d'Armure Moyenne Tryker"
+    },
+    "sdamz": {
+        "name": "Porter Armure Moyenne Zoraï",
+        "p": "Porter Armure Moyenne Zoraï",
+        "description": "Porter Armure Moyenne Zoraï"
+    },
+    "sdamza": {
+        "name": "Expert en Port d'Armure Moyenne Zoraï",
+        "p": "Experts en Port d'Armure Moyenne Zoraï",
+        "description": "Expert en Port d'Armure Moyenne Zoraï"
+    },
+    "sdamzae": {
+        "name": "Maître en Port d'Armure Moyenne Zoraï",
+        "p": "Maîtres en Port d'Armure Moyenne Zoraï",
+        "description": "Maître en Port d'Armure Moyenne Zoraï"
+    },
+    "sdah": {
+        "name": "Porter Armure Lourde",
+        "p": "Porter Armure Lourde",
+        "description": "Porter Armure Lourde"
+    },
+    "sdahf": {
+        "name": "Porter Armure Lourde Fyros",
+        "p": "Porter Armure Lourde Fyros",
+        "description": "Porter Armure Lourde Fyros"
+    },
+    "sdahfa": {
+        "name": "Expert en Port d'Armure Lourde Fyros",
+        "p": "Experts en Port d'Armure Lourde Fyros",
+        "description": "Expert en Port d'Armure Lourde Fyros"
+    },
+    "sdahfae": {
+        "name": "Maître en Port d'Armure Lourde Fyros",
+        "p": "Maîtres en Port d'Armure Lourde Fyros",
+        "description": "Maître en Port d'Armure Lourde Fyros"
+    },
+    "sdahm": {
+        "name": "Porter Armure Lourde Matis",
+        "p": "Porter Armure Lourde Matis",
+        "description": "Porter Armure Lourde Matis"
+    },
+    "sdahma": {
+        "name": "Expert en Port d'Armure Lourde Matis",
+        "p": "Experts en Port d'Armure Lourde Matis",
+        "description": "Expert en Port d'Armure Lourde Matis"
+    },
+    "sdahmae": {
+        "name": "Maître en Port d'Armure Lourde Matis",
+        "p": "Maîtres en Port d'Armure Lourde Matis",
+        "description": "Maître en Port d'Armure Lourde Matis"
+    },
+    "sdaht": {
+        "name": "Porter Armure Lourde Tryker",
+        "p": "Porter Armure Lourde Tryker",
+        "description": "Porter Armure Lourde Tryker"
+    },
+    "sdahta": {
+        "name": "Expert en Port d'Armure Lourde Tryker",
+        "p": "Experts en Port d'Armure Lourde Tryker",
+        "description": "Expert en Port d'Armure Lourde Tryker"
+    },
+    "sdahtae": {
+        "name": "Maître en Port d'Armure Lourde Tryker",
+        "p": "Maîtres en Port d'Armure Lourde Tryker",
+        "description": "Maître en Port d'Armure Lourde Tryker"
+    },
+    "sdahz": {
+        "name": "Porter Armure Lourde Zoraï",
+        "p": "Porter Armure Lourde Zoraï",
+        "description": "Porter Armure Lourde Zoraï"
+    },
+    "sdahza": {
+        "name": "Expert en Port d'Armure Lourde Zoraï",
+        "p": "Experts en Port d'Armure Lourde Zoraï",
+        "description": "Expert en Port d'Armure Lourde Zoraï"
+    },
+    "sdahzae": {
+        "name": "Maître en Port d'Armure Lourde Zoraï",
+        "p": "Maîtres en Port d'Armure Lourde Zoraï",
+        "description": "Maître en Port d'Armure Lourde Zoraï"
+    },
+    "sds": {
+        "name": "Manier Boucliers",
+        "p": "Manier Boucliers",
+        "description": "Manier Boucliers"
+    },
+    "sdsb": {
+        "name": "Manier Rondache",
+        "p": "Manier Rondache",
+        "description": "Manier Rondache"
+    },
+    "sdsbf": {
+        "name": "Manier Rondache Fyros",
+        "p": "Manier Rondache Fyros",
+        "description": "Manier Rondache Fyros"
+    },
+    "sdsbfa": {
+        "name": "Expert en Maniement de Rondache Fyros",
+        "p": "Experts en Maniement de Rondache Fyros",
+        "description": "Expert en Maniement de Rondache Fyros"
+    },
+    "sdsbfae": {
+        "name": "Maître en Maniement de Rondache Fyros",
+        "p": "Maîtres en Maniement de Rondache Fyros",
+        "description": "Maître en Maniement de Rondache Fyros"
+    },
+    "sdsbm": {
+        "name": "Manier Rondache Matis",
+        "p": "Manier Rondache Matis",
+        "description": "Manier Rondache Matis"
+    },
+    "sdsbma": {
+        "name": "Expert en Maniement de Rondache Matis",
+        "p": "Experts en Maniement de Rondache Matis",
+        "description": "Expert en Maniement de Rondache Matis"
+    },
+    "sdsbmae": {
+        "name": "Maître en Maniement de Rondache Matis",
+        "p": "Maîtres en Maniement de Rondache Matis",
+        "description": "Maître en Maniement de Rondache Matis"
+    },
+    "sdsbt": {
+        "name": "Manier Rondache Tryker",
+        "p": "Manier Rondache Tryker",
+        "description": "Manier Rondache Tryker"
+    },
+    "sdsbta": {
+        "name": "Expert en Maniement de Rondache Tryker",
+        "p": "Experts en Maniement de Rondache Tryker",
+        "description": "Expert en Maniement de Rondache Tryker"
+    },
+    "sdsbtae": {
+        "name": "Maître en Maniement de Rondache Tryker",
+        "p": "Maîtres en Maniement de Rondache Tryker",
+        "description": "Maître en Maniement de Rondache Tryker"
+    },
+    "sdsbz": {
+        "name": "Manier Rondache Zoraï",
+        "p": "Manier Rondache Zoraï",
+        "description": "Manier Rondache Zoraï"
+    },
+    "sdsbza": {
+        "name": "Expert en Maniement de Rondache Zoraï",
+        "p": "Experts en Maniement de Rondache Zoraï",
+        "description": "Expert en Maniement de Rondache Zoraï"
+    },
+    "sdsbzae": {
+        "name": "Maître en Maniement de Rondache Zoraï",
+        "p": "Maîtres en Maniement de Rondache Zoraï",
+        "description": "Maître en Maniement de Rondache Zoraï"
+    },
+    "sdss": {
+        "name": "Manier Grand Bouclier",
+        "p": "Manier Grands Bouclier",
+        "description": "Manier Grands Bouclier"
+    },
+    "sdssf": {
+        "name": "Manier Grand Bouclier Fyros",
+        "p": "Manier Grands Bouclier Fyros",
+        "description": "Manier Grands Bouclier Fyros"
+    },
+    "sdssfa": {
+        "name": "Expert en Maniement de Grand Bouclier Fyros",
+        "p": "Experts en Maniement de Grands Bouclier Fyros",
+        "description": "Expert en Maniement de Grands Bouclier Fyros"
+    },
+    "sdssfae": {
+        "name": "Maître en Maniement de Grand Bouclier Fyros",
+        "p": "Maîtres en Maniement de Grands Bouclier Fyros",
+        "description": "Maître en Maniement de Grands Bouclier Fyros"
+    },
+    "sdssm": {
+        "name": "Manier Grand Bouclier Matis",
+        "p": "Manier Grands Bouclier Matis",
+        "description": "Manier Grands Bouclier Matis"
+    },
+    "sdssma": {
+        "name": "Expert en Maniement de Grand Bouclier Matis",
+        "p": "Experts en Maniement de Grands Bouclier Matis",
+        "description": "Expert en Maniement de Grands Bouclier Matis"
+    },
+    "sdssmae": {
+        "name": "Maître en Maniement de Grand Bouclier Matis",
+        "p": "Maîtres en Maniement de Grands Bouclier Matis",
+        "description": "Maître en Maniement de Grands Bouclier Matis"
+    },
+    "sdsst": {
+        "name": "Manier Grand Bouclier Tryker",
+        "p": "Manier Grands Bouclier Tryker",
+        "description": "Manier Grands Bouclier Tryker"
+    },
+    "sdssta": {
+        "name": "Expert en Maniement de Grand Bouclier Tryker",
+        "p": "Experts en Maniement de Grands Bouclier Tryker",
+        "description": "Expert en Maniement de Grands Bouclier Tryker"
+    },
+    "sdsstae": {
+        "name": "Maître en Maniement de Grand Bouclier Tryker",
+        "p": "Maîtres en Maniement de Grands Bouclier Tryker",
+        "description": "Maître en Maniement de Grands Bouclier Tryker"
+    },
+    "sdssz": {
+        "name": "Manier Grand Bouclier Zoraï",
+        "p": "Manier Grands Bouclier Zoraï",
+        "description": "Manier Grands Bouclier Zoraï"
+    },
+    "sdssza": {
+        "name": "Expert en Maniement de Grand Bouclier Zoraï",
+        "p": "Experts en Maniement de Grands Bouclier Zoraï",
+        "description": "Expert en Maniement de Grands Bouclier Zoraï"
+    },
+    "sdsszae": {
+        "name": "Maître en Maniement de Grand Bouclier Zoraï",
+        "p": "Maîtres en Maniement de Grands Bouclier Zoraï",
+        "description": "Maître en Maniement de Grands Bouclier Zoraï"
+    },
+    "sdd": {
+        "name": "Esquive",
+        "p": "Esquives",
+        "description": "Esquive"
+    },
+    "sdda": {
+        "name": "Esquive Rapide",
+        "p": "Esquives Rapides",
+        "description": "Esquive Rapide"
+    },
+    "sddat": {
+        "name": "Esquive Instinctive",
+        "p": "Esquives Instinctives",
+        "description": "Esquive Instinctive"
+    },
+    "sddatm": {
+        "name": "Expert en Esquive",
+        "p": "Experts en Esquive",
+        "description": "Expert en Esquive"
+    },
+    "sddatme": {
+        "name": "Maître en Esquive",
+        "p": "Maîtres en Esquive",
+        "description": "Maître en Esquive"
+    },
+    "uknown": {
+        "name": "Compétence Inconnue",
+        "p": "Compétences Inconnues",
+        "description": "Compétence Inconnue"
+    },
+    "unknown": {
+        "name": "Compétence Inconnue",
+        "p": "Compétences Inconnues",
+        "description": "Compétence Inconnue"
+    },
+    "sh": {
+        "name": "Extraire les Matières Premières",
+        "p": "Extraire les Matières Premières",
+        "description": "Extraire les Matières Premières"
+    },
+    "shf": {
+        "name": "Prospection",
+        "p": "Prospections",
+        "description": ""
+    },
+    "shff": {
+        "name": "Prospection Forestière",
+        "p": "Prospections Forestières",
+        "description": ""
+    },
+    "shffa": {
+        "name": "Initié en Prospection Forestière",
+        "p": "Initiés en Prospection Forestière",
+        "description": ""
+    },
+    "shffae": {
+        "name": "Expert en Prospection Forestière",
+        "p": "Experts en Prospection Forestière",
+        "description": ""
+    },
+    "shffaem": {
+        "name": "Maître en Prospection Forestière",
+        "p": "Maîtres en Prospection Forestière",
+        "description": ""
+    },
+    "shfd": {
+        "name": "Prospection Désertique",
+        "p": "Prospections Désertiques",
+        "description": ""
+    },
+    "shfda": {
+        "name": "Initié en Prospection Désertique",
+        "p": "Initiés en Prospection Désertique",
+        "description": ""
+    },
+    "shfdae": {
+        "name": "Expert en Prospection Désertique",
+        "p": "Experts en Prospection Désertique",
+        "description": ""
+    },
+    "shfdaem": {
+        "name": "Maître en Prospection Désertique",
+        "p": "Maîtres en Prospection Désertique",
+        "description": ""
+    },
+    "shfj": {
+        "name": "Prospection Jungle",
+        "p": "Prospections",
+        "description": ""
+    },
+    "shfja": {
+        "name": "Initié en Prospection de la Jungle",
+        "p": "Initiés en Prospection de la Jungle",
+        "description": ""
+    },
+    "shfjae": {
+        "name": "Expert en Prospection de la Jungle",
+        "p": "Experts en Prospection de la Jungle",
+        "description": ""
+    },
+    "shfjaem": {
+        "name": "Maître en Prospection de la Jungle ",
+        "p": "Maîtres en Prospection de la Jungle ",
+        "description": ""
+    },
+    "shfl": {
+        "name": "Prospection Lacustre",
+        "p": "Prospections Lacustres",
+        "description": ""
+    },
+    "shfla": {
+        "name": "Initié en Prospection Lacustre",
+        "p": "Initiés en Prospection Lacustre",
+        "description": ""
+    },
+    "shflae": {
+        "name": "Expert en Prospection Lacustre",
+        "p": "Experts en Prospection Lacustre",
+        "description": ""
+    },
+    "shflaem": {
+        "name": "Maître en Prospection Lacustre",
+        "p": "Maîtres en Prospection Lacustre",
+        "description": ""
+    },
+    "shfp": {
+        "name": "Prospection des Primes Racines",
+        "p": "Prospections des Primes Racines",
+        "description": ""
+    },
+    "shfpa": {
+        "name": "Initié en Prospection des Primes Racines",
+        "p": "Initiés en Prospection des Primes Racines",
+        "description": ""
+    },
+    "shfpae": {
+        "name": "Expert en Prospection des Primes Racines",
+        "p": "Experts en Prospection des Primes Racines",
+        "description": ""
+    },
+    "shfpaem": {
+        "name": "Maître en Prospection des Primes Racines",
+        "p": "Maîtres en Prospection des Primes Racines",
+        "description": ""
+    },
+    "smtoeca": {
+        "name": "Initié en Magie du Froid",
+        "p": "Initiés en Magie du Froid",
+        "description": "Magie offensive avancée ciblée sur les dégâts spéciaux - Froid"
+    },
+    "smtoeaa": {
+        "name": "Initié en Magie d'Acide",
+        "p": "Initiés en Magie d'Acide",
+        "description": "Magie offensive avancée ciblée sur les dégâts spéciaux - Acide"
+    },
+    "smtoera": {
+        "name": "Initié en Magie de la Pourriture",
+        "p": "Initiés en Magie de la Pourriture",
+        "description": "Magie offensive avancée ciblée sur les dégâts spéciaux - Pourriture"
+    },
+    "smtoefa": {
+        "name": "Initié en Magie du Feu",
+        "p": "Initiés en Magie du Feu",
+        "description": "Magie offensive avancée ciblée sur les dégâts spéciaux - Feu"
+    },
+    "smtoesa": {
+        "name": "Initié en Magie des Ondes de Choc",
+        "p": "Initiés en Magie des Ondes de Choc",
+        "description": "Magie offensive avancée ciblée sur les dégâts spéciaux - Onde de Choc"
+    },
+    "smtoepa": {
+        "name": "Initié en Magie du Poison",
+        "p": "Initiés en Magie du Poison",
+        "description": "Magie offensive avancée ciblée sur les dégâts spéciaux - Poison"
+    },
+    "smtoeea": {
+        "name": "Initié en Magie Electrique",
+        "p": "Initiés en Magie Electrique",
+        "description": "Magie offensive avancée ciblée sur les dégâts spéciaux - Electricité"
+    },
+    "smtchpa": {
+        "name": "Initié en Magie de Guérison Vie",
+        "p": "Initiés en Magie de Guérison Vie",
+        "description": "Magie Curative Avancée Ciblée sur la Guérison - Vie"
+    },
+    "smtchta": {
+        "name": "Initié en Magie de Guérison Sta",
+        "p": "Initiés en Magie de Guérison Sta",
+        "description": "Magie Curative Avancée Ciblée sur la Guérison - Sta"
+    },
+    "smtchaa": {
+        "name": "Initié en Magie de Guérison Sève",
+        "p": "Initiés en Magie de Guérison Sève",
+        "description": "Magie Curative Avancée Ciblée sur la Guérison - Sève"
+    },
+    "smtchca": {
+        "name": "Initié en Magie de Guérison Concentration",
+        "p": "Initiés en Magie de Guérison Concentration",
+        "description": "Magie curative avancée ciblée sur la guérison - Concentration"
+    },
+    "smlosma": {
+        "name": "Initié en Lien de Folie",
+        "p": "Initiés en Lien de Folie",
+        "description": "Lien avancé de magie offensive relatif aux maladies - Folie"
+    },
+    "smlossa": {
+        "name": "Initié en Lien de Diminution de la Vitesse",
+        "p": "Initiés en Lien de Diminution de la Vitesse",
+        "description": "Lien avancé de magie offensive relatif aux maladies - Diminution de la Vitesse"
+    },
+    "smlocia": {
+        "name": "Initié en Lien d'Incapacité",
+        "p": "Initiés en Lien d'Incapacité",
+        "description": "Lien avancé de magie offensive relatif aux malédictions - Incapacité"
+    },
+    "smlocsa": {
+        "name": "Initié en Lien de Malchance",
+        "p": "Initiés en Lien de Malchance",
+        "description": "Lien avancé de magie offensive relatif aux malédictions - Malchance"
+    },
+    "smloeca": {
+        "name": "Initié en Lien du Froid",
+        "p": "Initiés en Lien du Froid",
+        "description": "Lien avancé de magie offensive relatif aux dégâts spéciaux - Froid"
+    },
+    "smloeaa": {
+        "name": "Initié en Lien d'Acide",
+        "p": "Initiés en Lien d'Acide",
+        "description": "Lien avancé de magie offensive relatif aux dégâts spéciaux - Acide"
+    },
+    "smloera": {
+        "name": "Initié en Lien de Pourriture",
+        "p": "Initiés en Lien de Pourriture",
+        "description": "Lien avancé de magie offensive relatif aux dégâts spéciaux - Pourriture"
+    },
+    "smloefa": {
+        "name": "Initié en Lien de Feu",
+        "p": "Initiés en Lien de Feu",
+        "description": "Lien avancé de magie offensive relatif aux dégâts spéciaux - Feu"
+    },
+    "smloesa": {
+        "name": "Initié en Lien d'Ondes de Choc",
+        "p": "Initiés en Lien d'Ondes de Choc",
+        "description": "Lien avancé de magie offensive relatif aux dégâts spéciaux - Ondes de Choc"
+    },
+    "smloepa": {
+        "name": "Initié en Lien de Poison",
+        "p": "Initiés en Lien de Poison",
+        "description": "Lien avancé de magie offensive relatif aux dégâts spéciaux - Poison"
+    },
+    "smloeea": {
+        "name": "Initié en Lien électrique",
+        "p": "Initiés en Lien électrique",
+        "description": "Lien avancé de magie offensive relatif aux dégâts spéciaux - Electricité"
+    },
+    "smd": {
+        "name": "Magie Salvatrice",
+        "p": "Magies Salvatrices",
+        "description": "Magie Salvatrice"
+    },
+    "smda": {
+        "name": "Magie Neutralisante",
+        "p": "Magies Neutralisantes",
+        "description": "Magie Neutralisante"
+    },
+    "smdaa": {
+        "name": "Initié en Magie Neutralisante",
+        "p": "Initiés en Magie Neutralisante",
+        "description": "Initié en Magie Neutralisante"
+    },
+    "smdaae": {
+        "name": "Expert en Magie Neutralisante",
+        "p": "Experts en Magie Neutralisante",
+        "description": "Expert en Magie Neutralisante"
+    },
+    "smdaaem": {
+        "name": "Maître en Magie Neutralisante",
+        "p": "Maîtres en Magie Neutralisante",
+        "description": "Maître en Magie Neutralisante"
+    },
+    "smdh": {
+        "name": "Magie Curative",
+        "p": "Magies Curatives",
+        "description": "Magie Curative"
+    },
+    "smdha": {
+        "name": "Initié en Magie Curative",
+        "p": "Initiés en Magie Curative",
+        "description": "Initié en Magie Curative"
+    },
+    "smdhae": {
+        "name": "Expert en Magie Curative",
+        "p": "Experts en Magie Curative",
+        "description": "Expert en Magie Curative"
+    },
+    "smdhaem": {
+        "name": "Maître en Magie Curative",
+        "p": "Maîtres en Magie Curative",
+        "description": "Maître en Magie Curative"
+    },
+    "smo": {
+        "name": "Magie Destructrice",
+        "p": "Magies Destructrices",
+        "description": "Magie Destructrice"
+    },
+    "smoa": {
+        "name": "Magie Débilitante",
+        "p": "Magies Débilitantes",
+        "description": "Magie Débilitante"
+    },
+    "smoaa": {
+        "name": "Initié en Magie Débilitante",
+        "p": "Initiés en Magie Débilitante",
+        "description": "Initié en Magie Débilitante"
+    },
+    "smoaae": {
+        "name": "Expert en Magie Débilitante",
+        "p": "Experts en Magie Débilitante",
+        "description": "Expert en Magie Débilitante"
+    },
+    "smoaaem": {
+        "name": "Maître en Magie Débilitante",
+        "p": "Maîtres en Magie Débilitante",
+        "description": "Maître en Magie Débilitante"
+    },
+    "smoe": {
+        "name": "Magie Elémentaire",
+        "p": "Magies Elémentaires",
+        "description": "Magie Elémentaire"
+    },
+    "smoea": {
+        "name": "Initié en Magie Elémentaire",
+        "p": "Initiés en Magie Elémentaire",
+        "description": "Initié en Magie Elémentaire"
+    },
+    "smoeae": {
+        "name": "Expert en Magie Elémentaire",
+        "p": "Experts en Magie Elémentaire",
+        "description": "Expert en Magie Elémentaire"
+    },
+    "smoeaem": {
+        "name": "Maître en Magie Elémentaire",
+        "p": "Maîtres en Magie Elémentaire",
+        "description": "Maître en Magie Elémentaire"
+    },
+    "sms": {
+        "name": "Magie sur Soi",
+        "p": "Magies sur Soi",
+        "description": "Magie sur Soi"
+    },
+    "smss": {
+        "name": "Magie sur Soi Instinctive",
+        "p": "Magies sur Soi Instinctive",
+        "description": "Magie sur Soi Instinctive"
+    },
+    "smssa": {
+        "name": "Initié en Magie sur Soi",
+        "p": "Initiés en Magie sur Soi",
+        "description": "Initié en Magie sur Soi"
+    },
+    "smssae": {
+        "name": "Expert en Magie sur Soi",
+        "p": "Experts en Magie sur Soi",
+        "description": "Expert en Magie sur Soi"
+    },
+    "smssaem": {
+        "name": "Maître en Magie sur Soi",
+        "p": "Maîtres en Magie sur Soi",
+        "description": "Maître en Magie sur Soi"
+    },
+    "sf": {
+        "name": "Combat",
+        "p": "Combats",
+        "description": ""
+    },
+    "sfm": {
+        "name": "Mêlée",
+        "p": "Mêlées",
+        "description": ""
+    },
+    "sfm1": {
+        "name": "Manier Armes à une Main",
+        "p": "Manier Armes à une Main",
+        "description": ""
+    },
+    "sfm1b": {
+        "name": "Manier Armes à une Main Contondantes",
+        "p": "Manier Armes à une Main Contondantes",
+        "description": ""
+    },
+    "sfm1bm": {
+        "name": "Manier Massue",
+        "p": "Manier Massue",
+        "description": ""
+    },
+    "sfm1bme": {
+        "name": "Manier Massue Electrique",
+        "p": "Manier Massues Electriques",
+        "description": ""
+    },
+    "sfm1bmm": {
+        "name": "Maître en Maniement des Massues",
+        "p": "Maîtres en Maniement des Massues",
+        "description": ""
+    },
+    "sfm1bs": {
+        "name": "Manier Bâton",
+        "p": "Manier Bâtons",
+        "description": ""
+    },
+    "sfm1bsm": {
+        "name": "Maître en Maniement des Bâtons",
+        "p": "Maîtres en Maniement des Bâtons",
+        "description": ""
+    },
+    "sfm1p": {
+        "name": "Manier Armes à une Main Perforantes",
+        "p": "Manier Armes à une Main Perforantes",
+        "description": ""
+    },
+    "sfm1ps": {
+        "name": "Manier Lance",
+        "p": "Manier Lances",
+        "description": ""
+    },
+    "sfm1pse": {
+        "name": "Manier Lance Electrique",
+        "p": "Manier Lances Electriques",
+        "description": ""
+    },
+    "sfm1psl": {
+        "name": "Manier Lance Vivante",
+        "p": "Manier Lances Vivantes",
+        "description": ""
+    },
+    "sfm1psm": {
+        "name": "Maître en Maniement des Lances",
+        "p": "Maîtres en Maniement des Lances",
+        "description": ""
+    },
+    "sfm1s": {
+        "name": "Manier Armes à une Main Tranchantes",
+        "p": "Manier Armes à une Main Tranchantes",
+        "description": ""
+    },
+    "sfm1sa": {
+        "name": "Manier Hache",
+        "p": "Manier Haches",
+        "description": ""
+    },
+    "sfm1sab": {
+        "name": "Manier Hache Ardente",
+        "p": "Manier Haches Ardentes",
+        "description": ""
+    },
+    "sfm1sam": {
+        "name": "Maître en Maniement des Haches",
+        "p": "Maîtres en Maniement des Haches",
+        "description": ""
+    },
+    "sfm1ss": {
+        "name": "Manier Epée",
+        "p": "Manier Epées",
+        "description": ""
+    },
+    "sfm1ssm": {
+        "name": "Maître en Maniement des Epées",
+        "p": "Maîtres en Maniement des Epées",
+        "description": ""
+    },
+    "sfm1ssw": {
+        "name": "Manier Epée Ondulante",
+        "p": "Manier Epées Ondulantes",
+        "description": ""
+    },
+    "sfm2": {
+        "name": "Manier Armes à deux Mains",
+        "p": "Manier Armes à deux Mains",
+        "description": ""
+    },
+    "sfm2b": {
+        "name": "Manier Armes à deux Mains Contondantes",
+        "p": "Manier Armes à deux Mains Contondantes",
+        "description": ""
+    },
+    "sfm2bm": {
+        "name": "Manier Massue à deux Mains",
+        "p": "Manier Massues à deux Mains",
+        "description": ""
+    },
+    "sfm2bme": {
+        "name": "Manier Massue à deux Mains Electrique ",
+        "p": "Manier Massues à deux Mains Electriques",
+        "description": ""
+    },
+    "sfm2bmm": {
+        "name": "Maître en Maniement des Massues à deux Mains",
+        "p": "Maîtres en Maniement des Massues à deux Mains",
+        "description": ""
+    },
+    "sfm2p": {
+        "name": "Manier Armes à deux Mains Perforantes",
+        "p": "Manier Armes à deux Mains Perforantes",
+        "description": ""
+    },
+    "sfm2pp": {
+        "name": "Manier Pique",
+        "p": "Manier Piques",
+        "description": ""
+    },
+    "sfm2ppl": {
+        "name": "Manier Pique Vivante",
+        "p": "Manier Piques Vivantes",
+        "description": ""
+    },
+    "sfm2ppm": {
+        "name": "Maître en Maniement de la Pique",
+        "p": "Maîtres en Maniement de la Pique",
+        "description": ""
+    },
+    "sfm2s": {
+        "name": "Manier Armes à deux Mains Tranchantes",
+        "p": "Manier Armes à deux Mains Tranchantes",
+        "description": ""
+    },
+    "sfm2sa": {
+        "name": "Manier Hache à deux Mains",
+        "p": "Manier Haches à deux Mains",
+        "description": ""
+    },
+    "sfm2sab": {
+        "name": "Manier Hache Ardente à deux Mains",
+        "p": "Manier Haches Ardentes à deux Mains",
+        "description": ""
+    },
+    "sfm2sam": {
+        "name": "Maître en Maniement des Haches à deux Mains",
+        "p": "Maître en Maniement des Haches à deux Mains",
+        "description": ""
+    },
+    "sfm2ss": {
+        "name": "Manier Epée à deux Mains",
+        "p": "Manier Epées à deux Mains",
+        "description": ""
+    },
+    "sfm2ssb": {
+        "name": "Manier Epée à deux Mains Ardente",
+        "p": "Manier Epées à deux Mains Ardentes",
+        "description": ""
+    },
+    "sfm2ssl": {
+        "name": "Manier Epée à deux Mains Vivante",
+        "p": "Manier Epées à deux Mains Vivantes",
+        "description": ""
+    },
+    "sfm2ssm": {
+        "name": "Maître en Maniement des Epées à deux Mains",
+        "p": "Maîtres en Maniement des Epées à deux Mains",
+        "description": ""
+    },
+    "sfm2ssw": {
+        "name": "Manier Epée à deux Mains Ondulante",
+        "p": "Manier Epées à deux Mains Ondulantes",
+        "description": ""
+    },
+    "sfmc": {
+        "name": "Combat Rapproché",
+        "p": "Combats Rapprochés",
+        "description": ""
+    },
+    "sfmca": {
+        "name": "Initié en Combat Rapproché",
+        "p": "Initiés en Combat Rapproché",
+        "description": ""
+    },
+    "sfmcad": {
+        "name": "Manier Dague",
+        "p": "Manier Dagues",
+        "description": ""
+    },
+    "sfmcadl": {
+        "name": "Manier Dague Vivante",
+        "p": "Manier Dagues Vivantes",
+        "description": ""
+    },
+    "sfmcadm": {
+        "name": "Maître en Maniement de la Dague",
+        "p": "Maîtres en Maniement de la Dague",
+        "description": ""
+    },
+    "sfmcadw": {
+        "name": "Manier Dague Ondulante",
+        "p": "Manier Dagues Ondulantes",
+        "description": ""
+    },
+    "sfmcah": {
+        "name": "Expert en Combat à Mains Nues",
+        "p": "Experts en Combat à Mains Nues",
+        "description": ""
+    },
+    "sfmcahm": {
+        "name": "Maître en Combat à Mains Nues",
+        "p": "Maîtres en Combat à Mains Nues",
+        "description": ""
+    },
+    "sfr": {
+        "name": "Tir",
+        "p": "Tirs",
+        "description": ""
+    },
+    "sfr1": {
+        "name": "Tir à une Main",
+        "p": "Tirs à une Main",
+        "description": ""
+    },
+    "sfr1a": {
+        "name": "Initié au Tir à une Main",
+        "p": "Initiés au Tir à une Main",
+        "description": ""
+    },
+    "sfr1ab": {
+        "name": "Tir au Pistolet-Arbalète",
+        "p": "Tir sau Pistolet-Arbalète",
+        "description": ""
+    },
+    "sfr1abm": {
+        "name": "Maître en Tir au Pistolet-Arbalète",
+        "p": "Maîtres en Tir au Pistolet-Arbalète",
+        "description": ""
+    },
+    "sfr1abw": {
+        "name": "Tir au Pistolet-Arbalète Ondulant",
+        "p": "Tirs au Pistolet-Arbalète Ondulant",
+        "description": ""
+    },
+    "sfr1ap": {
+        "name": "Tir au Pistolet",
+        "p": "Tirs au Pistolet",
+        "description": ""
+    },
+    "sfr1apl": {
+        "name": "Tir au Pistolet Vivant",
+        "p": "Tirs au Pistolet Vivant",
+        "description": ""
+    },
+    "sfr1apm": {
+        "name": "Maître en Tir au Pistolet ",
+        "p": "Maîtres en Tir au Pistolet ",
+        "description": ""
+    },
+    "sfr2": {
+        "name": "Tir à deux Mains",
+        "p": "Tirs à deux Mains",
+        "description": ""
+    },
+    "sfr2a": {
+        "name": "Initié au Tir à deux Mains",
+        "p": "Initiés au Tir à deux Mains",
+        "description": ""
+    },
+    "sfr2aa": {
+        "name": "Tir à la Mitrailleuse",
+        "p": "Tirs à la Mitrailleuse",
+        "description": ""
+    },
+    "sfr2aab": {
+        "name": "Tir à la Mitrailleuse Ardente",
+        "p": "Tirs à la Mitrailleuse Ardente",
+        "description": ""
+    },
+    "sfr2aam": {
+        "name": "Maître en Tir à la Mitrailleuse",
+        "p": "Maîtres en Tir à la Mitrailleuse",
+        "description": ""
+    },
+    "sfr2ab": {
+        "name": "Tir au Fusil-Arbalète",
+        "p": "Tirs au Fusil-Arbalète",
+        "description": ""
+    },
+    "sfr2abe": {
+        "name": "Tir au Fusil-Arbalète Electrique",
+        "p": "Tirs au Fusil-Arbalète Electrique",
+        "description": ""
+    },
+    "sfr2abm": {
+        "name": "Maître en Tir au Fusil-Arbalète",
+        "p": "Maîtres en Tir au Fusil-Arbalète",
+        "description": ""
+    },
+    "sfr2al": {
+        "name": "Tir au Lance-Grenades",
+        "p": "Tirs au Lance-Grenades",
+        "description": ""
+    },
+    "sfr2alb": {
+        "name": "Tir au Lance-Grenades Ardent",
+        "p": "Tirs au Lance-Grenades Ardent",
+        "description": ""
+    },
+    "sfr2ale": {
+        "name": "Tir au Lance-Grenades Electrique",
+        "p": "Tirs au Lance-Grenades Electrique",
+        "description": ""
+    },
+    "sfr2alm": {
+        "name": "Maître en Tir au Lance-Grenades",
+        "p": "Maîtres en Tir au Lance-Grenades",
+        "description": ""
+    },
+    "sfr2ar": {
+        "name": "Tir au Fusil",
+        "p": "Tirs au Fusil",
+        "description": ""
+    },
+    "sfr2arl": {
+        "name": "Tir au Fusil Vivant",
+        "p": "Tirs au Fusil Vivant",
+        "description": ""
+    },
+    "sfr2arm": {
+        "name": "Maître en Tir au Fusil ",
+        "p": "Maîtres en Tir au Fusil ",
+        "description": ""
+    },
+    "sca": {
+        "name": "Créer Armure",
+        "p": "Créer Armure",
+        "description": "Créer Armure"
+    },
+    "scj": {
+        "name": "Créer Bijou",
+        "p": "Créer Bijou",
+        "description": "Créer Bijou"
+    },
+    "scm": {
+        "name": "Créer Arme de Mêlée",
+        "p": "Créer Arme de Mêlée",
+        "description": "Créer Arme de Mêlée"
+    },
+    "scr": {
+        "name": "Créer Arme de Tir",
+        "p": "Créer Arme de Tir",
+        "description": "Créer Arme de Tir"
+    },
+    "scah": {
+        "name": "Créer Armure Lourde",
+        "p": "Créer Armure Lourde",
+        "description": "Créer Armure Lourde"
+    },
+    "scal": {
+        "name": "Créer Armure Légère",
+        "p": "Créer Armure Légère",
+        "description": "Créer Armure Légère"
+    },
+    "scam": {
+        "name": "Créer Armure Moyenne",
+        "p": "Créer Armure Moyenne",
+        "description": "Créer Armure Moyenne"
+    },
+    "scas": {
+        "name": "Créer Bouclier",
+        "p": "Créer Bouclier",
+        "description": "Créer Bouclier"
+    },
+    "scja": {
+        "name": "Créer Anneau de Cheville",
+        "p": "Créer Anneau de Cheville",
+        "description": "Créer Anneau de Cheville"
+    },
+    "scjb": {
+        "name": "Créer Bracelet",
+        "p": "Créer Bracelet",
+        "description": "Créer Bracelet"
+    },
+    "scjd": {
+        "name": "Créer Diadème",
+        "p": "Créer Diadème",
+        "description": "Créer Diadème"
+    },
+    "scje": {
+        "name": "Créer Boucle d'Oreille",
+        "p": "Créer Boucle d'Oreille",
+        "description": "Créer Boucle d'Oreille"
+    },
+    "scjp": {
+        "name": "Créer Pendentif",
+        "p": "Créer Pendentif",
+        "description": "Créer Pendentif"
+    },
+    "scjr": {
+        "name": "Créer Bague",
+        "p": "Créer Bague",
+        "description": "Créer Bague"
+    },
+    "scm1": {
+        "name": "Créer Arme de Mêlée à une Main",
+        "p": "Créer Arme de Mêlée à une Main",
+        "description": "Créer Arme de Mêlée à une Main"
+    },
+    "scm2": {
+        "name": "Créer Arme de Mêlée à deux Mains",
+        "p": "Créer Arme de Mêlée à deux Mains",
+        "description": "Créer Arme de Mêlée à deux Mains"
+    },
+    "scr1": {
+        "name": "Créer Arme de Tir à une Main",
+        "p": "Créer Arme de Tir à une Main",
+        "description": "Créer Arme de Tir à une Main"
+    },
+    "scr2": {
+        "name": "Créer Arme de Tir à deux Mains",
+        "p": "Créer Arme de Tir à deux Mains",
+        "description": "Créer Arme de Tir à deux Mains"
+    },
+    "scahb": {
+        "name": "Créer Bottes Lourdes",
+        "p": "Créer Bottes Lourdes",
+        "description": "Créer Bottes Lourdes"
+    },
+    "scahg": {
+        "name": "Créer Gants Lourds",
+        "p": "Créer Gants Lourds",
+        "description": "Créer Gants Lourds"
+    },
+    "scahh": {
+        "name": "Créer Casque Lourd",
+        "p": "Créer Casque Lourd",
+        "description": "Créer Casque Lourd"
+    },
+    "scahp": {
+        "name": "Créer Pantalon Lourd",
+        "p": "Créer Pantalon Lourd",
+        "description": "Créer Pantalon Lourd"
+    },
+    "scahs": {
+        "name": "Créer Manches Lourdes",
+        "p": "Créer Manches Lourdes",
+        "description": "Créer Manches Lourdes"
+    },
+    "scahv": {
+        "name": "Créer Gilet Lourd",
+        "p": "Créer Gilet Lourd",
+        "description": "Créer Gilet Lourd"
+    },
+    "scalb": {
+        "name": "Créer Bottes Légères",
+        "p": "Créer Bottes Légères",
+        "description": "Créer Bottes Légères"
+    },
+    "scalg": {
+        "name": "Créer Gants Légers",
+        "p": "Créer Gants Légers",
+        "description": "Créer Gants Légers"
+    },
+    "scalp": {
+        "name": "Créer Pantalon Léger",
+        "p": "Créer Pantalon Léger",
+        "description": "Créer Pantalon Léger"
+    },
+    "scals": {
+        "name": "Créer Manches Légères",
+        "p": "Créer Manches Légères",
+        "description": "Créer Manches Légères"
+    },
+    "scalv": {
+        "name": "Créer Gilet Léger",
+        "p": "Créer Gilet Léger",
+        "description": "Créer Gilet Léger"
+    },
+    "scamb": {
+        "name": "Créer Bottes Moyennes",
+        "p": "Créer Bottes Moyennes",
+        "description": "Créer Bottes Moyennes"
+    },
+    "scamg": {
+        "name": "Créer Gants Moyens",
+        "p": "Créer Gants Moyens",
+        "description": "Créer Gants Moyens"
+    },
+    "scamp": {
+        "name": "Créer Pantalon Moyen",
+        "p": "Créer Pantalon Moyen",
+        "description": "Créer Pantalon Moyen"
+    },
+    "scams": {
+        "name": "Créer Manches Moyennes",
+        "p": "Créer Manches Moyennes",
+        "description": "Créer Manches Moyennes"
+    },
+    "scamv": {
+        "name": "Créer Gilet Moyen",
+        "p": "Créer Gilet Moyen",
+        "description": "Créer Gilet Moyen"
+    },
+    "scass": {
+        "name": "Créer Grand Bouclier",
+        "p": "Créer Grand Bouclier",
+        "description": "Créer Grand Bouclier"
+    },
+    "scasb": {
+        "name": "Créer Rondache",
+        "p": "Créer Rondache",
+        "description": "Créer Rondache"
+    },
+    "scjaa": {
+        "name": "Initié en Création d'Anneau de Cheville",
+        "p": "Initiés en Création d'Anneau de Cheville",
+        "description": "Initié en Création d'Anneau de Cheville"
+    },
+    "scjba": {
+        "name": "Initié en Création de Bracelet",
+        "p": "Initiés en Création de Bracelet",
+        "description": "Initié en Création de Bracelet"
+    },
+    "scjda": {
+        "name": "Initié en Création de Diadème",
+        "p": "Initiés en Création de Diadème",
+        "description": "Initié en Création de Diadème"
+    },
+    "scjea": {
+        "name": "Initié en Création de Boucle d'Oreille",
+        "p": "Initiés en Création de Boucle d'Oreille",
+        "description": "Initié en Création de Boucle d'Oreille"
+    },
+    "scjpa": {
+        "name": "Initié en Création de Pendentif",
+        "p": "Initiés en Création de Pendentif",
+        "description": "Initié en Création de Pendentif"
+    },
+    "scjra": {
+        "name": "Initié en Création de Bague",
+        "p": "Initiés en Création de Bague",
+        "description": "Initié en Création de Bague"
+    },
+    "scm1m": {
+        "name": "Créer Massue",
+        "p": "Créer Massue",
+        "description": "Créer Massue"
+    },
+    "scm1t": {
+        "name": "Créer Bâton",
+        "p": "Créer Bâton",
+        "description": "Créer Bâton"
+    },
+    "scm1p": {
+        "name": "Créer Lance",
+        "p": "Créer Lance",
+        "description": "Créer Lance"
+    },
+    "scm1a": {
+        "name": "Créer Hache",
+        "p": "Créer Hache",
+        "description": "Créer Hache"
+    },
+    "scm1s": {
+        "name": "Créer Epée",
+        "p": "Créer Epée",
+        "description": "Créer Epée"
+    },
+    "scm1d": {
+        "name": "Créer Dague",
+        "p": "Créer Dague",
+        "description": "Créer Dague"
+    },
+    "scm2m": {
+        "name": "Créer Massue à deux Mains",
+        "p": "Créer Massue à deux Mains",
+        "description": "Créer Massue à deux Mains"
+    },
+    "scm2p": {
+        "name": "Créer Pique",
+        "p": "Créer Pique",
+        "description": "Créer Pique"
+    },
+    "scm2a": {
+        "name": "Créer Hache à deux Mains",
+        "p": "Créer Hache à deux Mains",
+        "description": "Créer Hache à deux Mains"
+    },
+    "scm2s": {
+        "name": "Créer Epée à deux Mains",
+        "p": "Créer Epéee à deux Mains",
+        "description": "Créer Epéee à deux Mains"
+    },
+    "scr1b": {
+        "name": "Créer Pistolet-Arbalète",
+        "p": "Créer Pistolet-Arbalète",
+        "description": "Créer Pistolet-arbalète"
+    },
+    "scr1p": {
+        "name": "Créer Pistolet ",
+        "p": "Créer Pistolet ",
+        "description": "Créer Pistolet "
+    },
+    "scr2a": {
+        "name": "Créer Mitrailleuse",
+        "p": "Créer Mitrailleuse",
+        "description": "Créer Mitrailleuse"
+    },
+    "scr2b": {
+        "name": "Créer Fusil-Arbalète",
+        "p": "Créer Fusil-Arbalète",
+        "description": "Créer Fusil-Arbalète"
+    },
+    "scr2l": {
+        "name": "Créer Lance-Grenades",
+        "p": "Créer Lance-Grenades",
+        "description": "Créer Lance-Grenades"
+    },
+    "scr2r": {
+        "name": "Créer Fusil ",
+        "p": "Créer Fusil ",
+        "description": "Créer Fusil "
+    },
+    "scahbe": {
+        "name": "Expert en Création de Bottes Lourdes",
+        "p": "Experts en Création de Bottes Lourdes",
+        "description": "Expert en Création de Bottes Lourdes"
+    },
+    "scahge": {
+        "name": "Expert en Création de Gants Lourds",
+        "p": "Experts en Création de Gants Lourds",
+        "description": "Expert en Création de Gants Lourds"
+    },
+    "scahhe": {
+        "name": "Expert en Création de Casque Lourd",
+        "p": "Experts en Création de Casque Lourd",
+        "description": "Expert en Création de Casque Lourd"
+    },
+    "scahpe": {
+        "name": "Expert en Création de Pantalon Lourd",
+        "p": "Experts en Création de Pantalon Lourd",
+        "description": "Expert en Création de Pantalon Lourd"
+    },
+    "scahse": {
+        "name": "Expert en Création de Manches Lourdes",
+        "p": "Experts en Création de Manches Lourdes",
+        "description": "Expert en Création de Manches Lourdes"
+    },
+    "scahve": {
+        "name": "Expert en Création de Gilet Lourd",
+        "p": "Experts en Création de Gilet Lourd",
+        "description": "Expert en Création de Gilet Lourd"
+    },
+    "scalbe": {
+        "name": "Expert en Création de Bottes Légères",
+        "p": "Experts en Création de Bottes Légères",
+        "description": "Expert en Création de Bottes Légères"
+    },
+    "scalge": {
+        "name": "Expert en Création de Gants Légers",
+        "p": "Experts en Création de Gants Légers",
+        "description": "Expert en Création de Gants Légers"
+    },
+    "scalpe": {
+        "name": "Expert en Création de Pantalon Léger",
+        "p": "Experts en Création de Pantalon Léger",
+        "description": "Expert en Création de Pantalon Léger"
+    },
+    "scalse": {
+        "name": "Expert en Création de Manches Légères",
+        "p": "Experts en Création de Manches Légères",
+        "description": "Expert en Création de Manches Légères"
+    },
+    "scalve": {
+        "name": "Expert en Création de Gilet Léger",
+        "p": "Experts en Création de Gilet Léger",
+        "description": "Expert en Création de Gilet Léger"
+    },
+    "scambe": {
+        "name": "Expert en Création de Bottes Moyennes",
+        "p": "Experts en Création de Bottes Moyennes",
+        "description": "Expert en Création de Bottes Moyennes"
+    },
+    "scamge": {
+        "name": "Expert en Création de Gants Moyens",
+        "p": "Experts en Création de Gants Moyens",
+        "description": "Expert en Création de Gants Moyens"
+    },
+    "scampe": {
+        "name": "Expert en Création de Pantalon Moyen",
+        "p": "Experts en Création de Pantalon Moyen",
+        "description": "Expert en Création de Pantalon Moyen"
+    },
+    "scamse": {
+        "name": "Expert en Création de Manches Moyennes",
+        "p": "Experts en Création de Manches Moyennes",
+        "description": "Expert en Création de Manches Moyennes"
+    },
+    "scamve": {
+        "name": "Expert en Création de Gilet Moyen",
+        "p": "Experts en Création de Gilet Moyen",
+        "description": "Expert en Création de Gilet Moyen"
+    },
+    "scasse": {
+        "name": "Expert en Création de Bouclier",
+        "p": "Experts en Création de Bouclier",
+        "description": "Expert en Création de Bouclier"
+    },
+    "scasbe": {
+        "name": "Expert en Création de Rondache",
+        "p": "Experts en Création de Rondache",
+        "description": "Expert en Création de Rondache"
+    },
+    "scjaae": {
+        "name": "Expert en Création d'Anneau de Cheville",
+        "p": "Experts en Création d'Anneau de Cheville",
+        "description": "Expert en Création d'Anneau de Cheville"
+    },
+    "scjbae": {
+        "name": "Expert en Création de Bracelet",
+        "p": "Experts en Création de Bracelet",
+        "description": "Expert en Création de Bracelet"
+    },
+    "scjdae": {
+        "name": "Expert en Création de Diadème",
+        "p": "Experts en Création de Diadème",
+        "description": "Expert en Création de Diadème"
+    },
+    "scjeae": {
+        "name": "Expert en Création de Boucle d'Oreille",
+        "p": "Experts en Création de Boucle d'Oreille",
+        "description": "Expert en Création de Boucle d'Oreille"
+    },
+    "scjpae": {
+        "name": "Expert en Création de Pendentif",
+        "p": "Experts en Création de Pendentif",
+        "description": "Expert en Création de Pendentif"
+    },
+    "scjrae": {
+        "name": "Expert en Création de Bague",
+        "p": "Experts en Création de Bague",
+        "description": "Expert en Création de Bague"
+    },
+    "scm1me": {
+        "name": "Expert en Création de Massue",
+        "p": "Experts en Création de Massue",
+        "description": "Expert en Création de Massue"
+    },
+    "scm1te": {
+        "name": "Expert en Création de Bâton",
+        "p": "Experts en Création de Bâton",
+        "description": "Expert en Création de Bâton"
+    },
+    "scm1pe": {
+        "name": "Expert en Création de Lance",
+        "p": "Experts en Création de Lance",
+        "description": "Expert en Création de Lance"
+    },
+    "scm1ae": {
+        "name": "Expert en Création de Hache",
+        "p": "Experts en Création de Hache",
+        "description": "Expert en Création de Hache"
+    },
+    "scm1se": {
+        "name": "Expert en Création d'Epée",
+        "p": "Experts en Création d'Epée",
+        "description": "Expert en Création d'Epée"
+    },
+    "scm1de": {
+        "name": "Expert en Création de Dague",
+        "p": "Experts en Création de Dague",
+        "description": "Expert en Création de Dague"
+    },
+    "scm2me": {
+        "name": "Expert en Création de Massue à deux Mains",
+        "p": "Experts en Création de Massue à deux Mains",
+        "description": "Expert en Création de Massue à deux Mains"
+    },
+    "scm2pe": {
+        "name": "Expert en Création de Pique",
+        "p": "Experts en Création de Pique",
+        "description": "Expert en Création de Pique"
+    },
+    "scm2ae": {
+        "name": "Expert en Création de Hache à deux Mains",
+        "p": "Experts en Création de Hache à deux Mains",
+        "description": "Expert en Création de Hache à deux Mains"
+    },
+    "scm2se": {
+        "name": "Expert en Création d'Epée en deux Mains",
+        "p": "Experts en Création d'Epée en deux Mains",
+        "description": "Expert en Création d'Epée en deux Mains"
+    },
+    "scr1be": {
+        "name": "Expert en Création de Pistolet-Arbalète",
+        "p": "Experts en Création de Pistolet-Arbalète",
+        "description": "Expert en Création de Pistolet-Arbalète"
+    },
+    "scr1pe": {
+        "name": "Expert en Création de Pistolet",
+        "p": "Experts en Création de Pistolet",
+        "description": "Expert en Création de Pistolet"
+    },
+    "scr2ae": {
+        "name": "Expert en Création de Mitrailleuse",
+        "p": "Experts en Création de Mitrailleuse",
+        "description": "Expert en Création de Mitrailleuse"
+    },
+    "scr2be": {
+        "name": "Expert en Création de Fusil-Arbalète ",
+        "p": "Experts en Création de Fusil-Arbalète ",
+        "description": "Expert en Création de Fusil-Arbalète "
+    },
+    "scr2le": {
+        "name": "Expert en Création de Lance-Grenades",
+        "p": "Experts en Création de Lance-Grenades",
+        "description": "Expert en Création de Lance-Grenades"
+    },
+    "scr2re": {
+        "name": "Expert en Création de Fusil ",
+        "p": "Experts en Création de Fusil ",
+        "description": "Expert en Création de Fusil "
+    },
+    "scahbem": {
+        "name": "Maître en Création de Bottes Lourdes",
+        "p": "Maîtres en Création de Bottes Lourdes",
+        "description": "Maître en Création de Bottes Lourdes"
+    },
+    "scahgem": {
+        "name": "Maître en Création de Gants Lourds",
+        "p": "Maîtres en Création de Gants Lourds",
+        "description": "Maître en Création de Gants Lourds"
+    },
+    "scahhem": {
+        "name": "Maître en Création de Casque Lourd",
+        "p": "Maîtres en Création de Casque Lourd",
+        "description": "Maître en Création de Casque Lourd"
+    },
+    "scahpem": {
+        "name": "Maître en Création de Pantalon Lourd",
+        "p": "Maîtres en Création de Pantalon Lourd",
+        "description": "Maître en Création de Pantalon Lourd"
+    },
+    "scahsem": {
+        "name": "Maître en Création de Manches Lourdes",
+        "p": "Maîtres en Création de Manches Lourdes",
+        "description": "Maître en Création de Manches Lourdes"
+    },
+    "scahvem": {
+        "name": "Maître en Création de Gilet Lourd",
+        "p": "Maîtres en Création de Gilet Lourd",
+        "description": "Maître en Création de Gilet Lourd"
+    },
+    "scalbem": {
+        "name": "Maître en Création de Bottes Légères",
+        "p": "Maîtres en Création de Bottes Légères",
+        "description": "Maître en Création de Bottes Légères"
+    },
+    "scalgem": {
+        "name": "Maître en Création de Gants Légers",
+        "p": "Maîtres en Création de Gants Légers",
+        "description": "Maître en Création de Gants Légers"
+    },
+    "scalpem": {
+        "name": "Maître en Création de Pantalon Léger",
+        "p": "Maîtres en Création de Pantalon Léger",
+        "description": "Maître en Création de Pantalon Léger"
+    },
+    "scalsem": {
+        "name": "Maître en Création de manches Légères",
+        "p": "Maîtres en Création de manches Légères",
+        "description": "Maître en Création de manches Légères"
+    },
+    "scalvem": {
+        "name": "Maître en Création de Gilet Léger",
+        "p": "Maîtres en Création de Gilet Léger",
+        "description": "Maître en Création de Gilet Léger"
+    },
+    "scambem": {
+        "name": "Maître en Création de Bottes Moyennes",
+        "p": "Maîtres en Création de Bottes Moyennes",
+        "description": "Maître en Création de Bottes Moyennes"
+    },
+    "scamgem": {
+        "name": "Maître en Création de Gants Moyens",
+        "p": "Maîtres en Création de Gants Moyens",
+        "description": "Maître en Création de Gants Moyens"
+    },
+    "scampem": {
+        "name": "Maître en Création de Pantalon Moyens",
+        "p": "Maîtres en Création de Pantalon Moyens",
+        "description": "Maître en Création de Pantalon Moyens"
+    },
+    "scamsem": {
+        "name": "Maître en Création de Manches Moyennes",
+        "p": "Maîtres en Création de Manches Moyennes",
+        "description": "Maître en Création de Manches Moyennes"
+    },
+    "scamvem": {
+        "name": "Maître en Création de Gilet Moyen",
+        "p": "Maîtres en Création de Gilet Moyen",
+        "description": "Maître en Création de Gilet Moyen"
+    },
+    "scassem": {
+        "name": "Maître en Création de Bouclier",
+        "p": "Maîtres en Création de Bouclier",
+        "description": "Maître en Création de Bouclier"
+    },
+    "scasbem": {
+        "name": "Maître en Création de Rondache",
+        "p": "Maîtres en Création de Rondache",
+        "description": "Maître en Création de Rondache"
+    },
+    "scjaaem": {
+        "name": "Maître en Création d'Anneau de Cheville",
+        "p": "Maîtres en Création d'Anneau de Cheville",
+        "description": "Maître en Création d'Anneau de Cheville"
+    },
+    "scjbaem": {
+        "name": "Maître en Création de Bracelet",
+        "p": "Maîtres en Création de Bracelet",
+        "description": "Maître en Création de Bracelet"
+    },
+    "scjdaem": {
+        "name": "Maître en Création de Diadème",
+        "p": "Maîtres en Création de Diadème",
+        "description": "Maître en Création de Diadème"
+    },
+    "scjeaem": {
+        "name": "Maître en Création de Boucle d'Oreille",
+        "p": "Maîtres en Création de Boucle d'Oreille",
+        "description": "Maître en Création de Boucle d'Oreille"
+    },
+    "scjpaem": {
+        "name": "Maître en Création de Pendentif",
+        "p": "Maîtres en Création de Pendentif",
+        "description": "Maître en Création de Pendentif"
+    },
+    "scjraem": {
+        "name": "Maître en Création de Bague",
+        "p": "Maîtres en Création de Bague",
+        "description": "Maître en Création de Bague"
+    },
+    "scm1mem": {
+        "name": "Maître en Création de Massue",
+        "p": "Maîtres en Création de Massue",
+        "description": "Maître en Création de Massue"
+    },
+    "scm1tem": {
+        "name": "Maître en Création de Bâton",
+        "p": "Maîtres en Création de Bâton",
+        "description": "Maître en Création de Bâton"
+    },
+    "scm1pem": {
+        "name": "Maître en Création de Lance",
+        "p": "Maîtres en Création de Lance",
+        "description": "Maître en Création de Lance"
+    },
+    "scm1aem": {
+        "name": "Maître en Création de Hache",
+        "p": "Maîtres en Création de Hache",
+        "description": "Maître en Création de Hache"
+    },
+    "scm1sem": {
+        "name": "Maître en Création d'Epée",
+        "p": "Maîtres en Création d'Epée",
+        "description": "Maître en Création d'Epée"
+    },
+    "scm1dem": {
+        "name": "Maître en Création de Dague",
+        "p": "Maîtres en Création de Dague",
+        "description": "Maître en Création de Dague"
+    },
+    "scm2mem": {
+        "name": "Maître en Création de Massue à deux Mains",
+        "p": "Maîtres en Création de Massue à deux Mains",
+        "description": "Maître en Création de Massue à deux Mains"
+    },
+    "scm2pem": {
+        "name": "Maître en Création de Pique",
+        "p": "Maîtres en Création de Pique",
+        "description": "Maître en Création de Pique"
+    },
+    "scm2aem": {
+        "name": "Maître en Création de Hache à deux Mains",
+        "p": "Maîtres en Création de Hache à deux Mains",
+        "description": "Maître en Création de Hache à deux Mains"
+    },
+    "scm2sem": {
+        "name": "Maître en Création d'Epée en deux Mains",
+        "p": "Maîtres en Création d'Epée en deux Mains",
+        "description": "Maître en Création d'Epée en deux Mains"
+    },
+    "scr1bem": {
+        "name": "Maître en Création de Pistolet-Arbalète",
+        "p": "Maîtres en Création de Pistolet-Arbalète",
+        "description": "Maître en Création de Pistolet-Arbalète"
+    },
+    "scr1pem": {
+        "name": "Maître en Création de Pistolet",
+        "p": "Maîtres en Création de Pistolet",
+        "description": "Maître en Création de Pistolet"
+    },
+    "scr2aem": {
+        "name": "Maître en Création de Mitrailleuse",
+        "p": "Maîtres en Création de Mitrailleuse",
+        "description": "Maître en Création de Mitrailleuse"
+    },
+    "scr2bem": {
+        "name": "Maître en Création de Fusil-Arbalète ",
+        "p": "Maîtres en Création de Fusil-Arbalète ",
+        "description": "Maître en Création de Fusil-Arbalète "
+    },
+    "scr2lem": {
+        "name": "Maître en Création de Lance-Grenades",
+        "p": "Maîtres en Création de Lance-Grenades",
+        "description": "Maître en Création de Lance-Grenades"
+    },
+    "scr2rem": {
+        "name": "Maître en Création de Fusil ",
+        "p": "Maîtres en Création de Fusil ",
+        "description": "Maître en Création de Fusil "
+    },
+    "scmc": {
+        "name": "Créer Armes de Combat Rapproché",
+        "p": "Créer Armes de Combat Rapproché",
+        "description": "Créer Armes de Combat Rapproché"
+    },
+    "scmca": {
+        "name": "Initié en Création d'Armes de Combat Rapproché",
+        "p": "Initiés en Création d'Armes de Combat Rapproché",
+        "description": "Initié en Création d'Armes de Combat Rapproché"
+    },
+    "scmcae": {
+        "name": "Expert en Création d'Armes de Combat Rapproché",
+        "p": "Experts en Création d'Armes de Combat Rapproché",
+        "description": "Expert en Création d'Armes de Combat Rapproché"
+    },
+    "scmcaem": {
+        "name": "Maître en Création d'Armes de Combat Rapproché",
+        "p": "Maîtres en Création d'Armes de Combat Rapproché",
+        "description": "Maître en Création d'Armes de Combat Rapproché"
+    }
+}

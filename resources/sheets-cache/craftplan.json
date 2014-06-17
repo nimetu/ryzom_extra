@@ -1,0 +1,7964 @@
+{
+    "bcfmea01": {
+        "item_type": 7,
+        "mpft": {
+            "mpftMpL": 5,
+            "mpftMpM": 5,
+            "mpftMpG": 5,
+            "mpftMpC": 5
+        }
+    },
+    "bcfrea01": {
+        "item_type": 10,
+        "mpft": {
+            "mpftMpCA": 3,
+            "mpftMpGA": 3,
+            "mpftMpPE": 3,
+            "mpftMpM": 3
+        }
+    },
+    "bcfrea02": {
+        "item_type": 11,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 2,
+            "mpftMpPE": 2,
+            "mpftMpM": 2
+        }
+    },
+    "bcfrea03": {
+        "item_type": 12,
+        "mpft": {
+            "mpftMpCA": 3,
+            "mpftMpGA": 3,
+            "mpftMpPE": 3,
+            "mpftMpM": 3
+        }
+    },
+    "bcfrea04": {
+        "item_type": 13,
+        "mpft": {
+            "mpftMpCA": 1,
+            "mpftMpGA": 1,
+            "mpftMpPE": 1,
+            "mpftMpM": 1
+        }
+    },
+    "bcfrea05": {
+        "item_type": 14,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 1,
+            "mpftMpPE": 1,
+            "mpftMpM": 1
+        }
+    },
+    "bcfrea06": {
+        "item_type": 15,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 2,
+            "mpftMpPE": 2,
+            "mpftMpM": 2
+        }
+    },
+    "bcmrea01": {
+        "item_type": 10,
+        "mpft": {
+            "mpftMpCA": 3,
+            "mpftMpGA": 3,
+            "mpftMpPE": 3,
+            "mpftMpM": 3
+        }
+    },
+    "bcmrea02": {
+        "item_type": 11,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 2,
+            "mpftMpPE": 2,
+            "mpftMpM": 2
+        }
+    },
+    "bcmrea03": {
+        "item_type": 12,
+        "mpft": {
+            "mpftMpCA": 3,
+            "mpftMpGA": 3,
+            "mpftMpPE": 3,
+            "mpftMpM": 3
+        }
+    },
+    "bcmrea04": {
+        "item_type": 13,
+        "mpft": {
+            "mpftMpCA": 1,
+            "mpftMpGA": 1,
+            "mpftMpPE": 1,
+            "mpftMpM": 1
+        }
+    },
+    "bcmrea05": {
+        "item_type": 14,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 1,
+            "mpftMpPE": 1,
+            "mpftMpM": 1
+        }
+    },
+    "bcmrea06": {
+        "item_type": 15,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 2,
+            "mpftMpPE": 2,
+            "mpftMpM": 2
+        }
+    },
+    "bctrea01": {
+        "item_type": 10,
+        "mpft": {
+            "mpftMpCA": 3,
+            "mpftMpGA": 3,
+            "mpftMpPE": 3,
+            "mpftMpM": 3
+        }
+    },
+    "bctrea02": {
+        "item_type": 11,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 2,
+            "mpftMpPE": 2,
+            "mpftMpM": 2
+        }
+    },
+    "bctrea03": {
+        "item_type": 12,
+        "mpft": {
+            "mpftMpCA": 3,
+            "mpftMpGA": 3,
+            "mpftMpPE": 3,
+            "mpftMpM": 3
+        }
+    },
+    "bctrea04": {
+        "item_type": 13,
+        "mpft": {
+            "mpftMpCA": 1,
+            "mpftMpGA": 1,
+            "mpftMpPE": 1,
+            "mpftMpM": 1
+        }
+    },
+    "bctrea05": {
+        "item_type": 14,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 1,
+            "mpftMpPE": 1,
+            "mpftMpM": 1
+        }
+    },
+    "bctrea06": {
+        "item_type": 15,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 2,
+            "mpftMpPE": 2,
+            "mpftMpM": 2
+        }
+    },
+    "bczrea01": {
+        "item_type": 10,
+        "mpft": {
+            "mpftMpCA": 3,
+            "mpftMpGA": 3,
+            "mpftMpPE": 3,
+            "mpftMpM": 3
+        }
+    },
+    "bczrea02": {
+        "item_type": 11,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 2,
+            "mpftMpPE": 2,
+            "mpftMpM": 2
+        }
+    },
+    "bczrea03": {
+        "item_type": 12,
+        "mpft": {
+            "mpftMpCA": 3,
+            "mpftMpGA": 3,
+            "mpftMpPE": 3,
+            "mpftMpM": 3
+        }
+    },
+    "bczrea04": {
+        "item_type": 13,
+        "mpft": {
+            "mpftMpCA": 1,
+            "mpftMpGA": 1,
+            "mpftMpPE": 1,
+            "mpftMpM": 1
+        }
+    },
+    "bczrea05": {
+        "item_type": 14,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 1,
+            "mpftMpPE": 1,
+            "mpftMpM": 1
+        }
+    },
+    "bczrea06": {
+        "item_type": 15,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 2,
+            "mpftMpPE": 2,
+            "mpftMpM": 2
+        }
+    },
+    "bcfpea01": {
+        "item_type": 16,
+        "mpft": {
+            "mpftMpEN": 4,
+            "mpftMpPR": 4,
+            "mpftMpE": 4
+        }
+    },
+    "bcfpea02": {
+        "item_type": 16,
+        "mpft": {
+            "mpftMpEN": 4,
+            "mpftMpPR": 4,
+            "mpftMpE": 4
+        }
+    },
+    "bcfpea03": {
+        "item_type": 16,
+        "mpft": {
+            "mpftMpEN": 4,
+            "mpftMpPR": 4,
+            "mpftMpE": 4
+        }
+    },
+    "bcfpea04": {
+        "item_type": 17,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 2,
+            "mpftMpE": 2
+        }
+    },
+    "bcfpea05": {
+        "item_type": 17,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 2,
+            "mpftMpE": 2
+        }
+    },
+    "bcfpea06": {
+        "item_type": 17,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 2,
+            "mpftMpE": 2
+        }
+    },
+    "bcfpea10": {
+        "item_type": 18,
+        "mpft": {
+            "mpftMpEN": 4,
+            "mpftMpPR": 4,
+            "mpftMpE": 4
+        }
+    },
+    "bcfpea11": {
+        "item_type": 18,
+        "mpft": {
+            "mpftMpEN": 4,
+            "mpftMpPR": 4,
+            "mpftMpE": 4
+        }
+    },
+    "bcfpea12": {
+        "item_type": 18,
+        "mpft": {
+            "mpftMpEN": 4,
+            "mpftMpPR": 4,
+            "mpftMpE": 4
+        }
+    },
+    "bcfpea13": {
+        "item_type": 20,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 2,
+            "mpftMpE": 2
+        }
+    },
+    "bcfpea14": {
+        "item_type": 20,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 2,
+            "mpftMpE": 2
+        }
+    },
+    "bcfpea15": {
+        "item_type": 20,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 2,
+            "mpftMpE": 2
+        }
+    },
+    "bcfpea16": {
+        "item_type": 19,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 1,
+            "mpftMpE": 1
+        }
+    },
+    "bcfpea17": {
+        "item_type": 19,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 1,
+            "mpftMpE": 1
+        }
+    },
+    "bcfpea18": {
+        "item_type": 19,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 1,
+            "mpftMpE": 1
+        }
+    },
+    "bcfpea19": {
+        "item_type": 21,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 1,
+            "mpftMpE": 1
+        }
+    },
+    "bcfpea20": {
+        "item_type": 21,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 1,
+            "mpftMpE": 1
+        }
+    },
+    "bcfpea21": {
+        "item_type": 21,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 1,
+            "mpftMpE": 1
+        }
+    },
+    "bcmpea01": {
+        "item_type": 16,
+        "mpft": {
+            "mpftMpEN": 4,
+            "mpftMpPR": 4,
+            "mpftMpE": 4
+        }
+    },
+    "bcmpea02": {
+        "item_type": 16,
+        "mpft": {
+            "mpftMpEN": 4,
+            "mpftMpPR": 4,
+            "mpftMpE": 4
+        }
+    },
+    "bcmpea03": {
+        "item_type": 16,
+        "mpft": {
+            "mpftMpEN": 4,
+            "mpftMpPR": 4,
+            "mpftMpE": 4
+        }
+    },
+    "bcmpea04": {
+        "item_type": 17,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 2,
+            "mpftMpE": 2
+        }
+    },
+    "bcmpea05": {
+        "item_type": 17,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 2,
+            "mpftMpE": 2
+        }
+    },
+    "bcmpea06": {
+        "item_type": 17,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 2,
+            "mpftMpE": 2
+        }
+    },
+    "bcmpea10": {
+        "item_type": 18,
+        "mpft": {
+            "mpftMpEN": 4,
+            "mpftMpPR": 4,
+            "mpftMpE": 4
+        }
+    },
+    "bcmpea11": {
+        "item_type": 18,
+        "mpft": {
+            "mpftMpEN": 4,
+            "mpftMpPR": 4,
+            "mpftMpE": 4
+        }
+    },
+    "bcmpea12": {
+        "item_type": 18,
+        "mpft": {
+            "mpftMpEN": 4,
+            "mpftMpPR": 4,
+            "mpftMpE": 4
+        }
+    },
+    "bcmpea13": {
+        "item_type": 20,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 2,
+            "mpftMpE": 2
+        }
+    },
+    "bcmpea14": {
+        "item_type": 20,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 2,
+            "mpftMpE": 2
+        }
+    },
+    "bcmpea15": {
+        "item_type": 20,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 2,
+            "mpftMpE": 2
+        }
+    },
+    "bcmpea16": {
+        "item_type": 19,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 1,
+            "mpftMpE": 1
+        }
+    },
+    "bcmpea17": {
+        "item_type": 19,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 1,
+            "mpftMpE": 1
+        }
+    },
+    "bcmpea18": {
+        "item_type": 19,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 1,
+            "mpftMpE": 1
+        }
+    },
+    "bcmpea19": {
+        "item_type": 21,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 1,
+            "mpftMpE": 1
+        }
+    },
+    "bcmpea20": {
+        "item_type": 21,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 1,
+            "mpftMpE": 1
+        }
+    },
+    "bcmpea21": {
+        "item_type": 21,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 1,
+            "mpftMpE": 1
+        }
+    },
+    "bctpea01": {
+        "item_type": 16,
+        "mpft": {
+            "mpftMpEN": 4,
+            "mpftMpPR": 4,
+            "mpftMpE": 4
+        }
+    },
+    "bctpea02": {
+        "item_type": 16,
+        "mpft": {
+            "mpftMpEN": 4,
+            "mpftMpPR": 4,
+            "mpftMpE": 4
+        }
+    },
+    "bctpea03": {
+        "item_type": 16,
+        "mpft": {
+            "mpftMpEN": 4,
+            "mpftMpPR": 4,
+            "mpftMpE": 4
+        }
+    },
+    "bctpea04": {
+        "item_type": 17,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 2,
+            "mpftMpE": 2
+        }
+    },
+    "bctpea05": {
+        "item_type": 17,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 2,
+            "mpftMpE": 2
+        }
+    },
+    "bctpea06": {
+        "item_type": 17,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 2,
+            "mpftMpE": 2
+        }
+    },
+    "bctpea10": {
+        "item_type": 18,
+        "mpft": {
+            "mpftMpEN": 4,
+            "mpftMpPR": 4,
+            "mpftMpE": 4
+        }
+    },
+    "bctpea11": {
+        "item_type": 18,
+        "mpft": {
+            "mpftMpEN": 4,
+            "mpftMpPR": 4,
+            "mpftMpE": 4
+        }
+    },
+    "bctpea12": {
+        "item_type": 18,
+        "mpft": {
+            "mpftMpEN": 4,
+            "mpftMpPR": 4,
+            "mpftMpE": 4
+        }
+    },
+    "bctpea13": {
+        "item_type": 20,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 2,
+            "mpftMpE": 2
+        }
+    },
+    "bctpea14": {
+        "item_type": 20,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 2,
+            "mpftMpE": 2
+        }
+    },
+    "bctpea15": {
+        "item_type": 20,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 2,
+            "mpftMpE": 2
+        }
+    },
+    "bctpea16": {
+        "item_type": 19,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 1,
+            "mpftMpE": 1
+        }
+    },
+    "bctpea17": {
+        "item_type": 19,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 1,
+            "mpftMpE": 1
+        }
+    },
+    "bctpea18": {
+        "item_type": 19,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 1,
+            "mpftMpE": 1
+        }
+    },
+    "bctpea19": {
+        "item_type": 21,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 1,
+            "mpftMpE": 1
+        }
+    },
+    "bctpea20": {
+        "item_type": 21,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 1,
+            "mpftMpE": 1
+        }
+    },
+    "bctpea21": {
+        "item_type": 21,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 1,
+            "mpftMpE": 1
+        }
+    },
+    "bczpea01": {
+        "item_type": 16,
+        "mpft": {
+            "mpftMpEN": 4,
+            "mpftMpPR": 4,
+            "mpftMpE": 4
+        }
+    },
+    "bczpea02": {
+        "item_type": 16,
+        "mpft": {
+            "mpftMpEN": 4,
+            "mpftMpPR": 4,
+            "mpftMpE": 4
+        }
+    },
+    "bczpea03": {
+        "item_type": 16,
+        "mpft": {
+            "mpftMpEN": 4,
+            "mpftMpPR": 4,
+            "mpftMpE": 4
+        }
+    },
+    "bczpea04": {
+        "item_type": 17,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 2,
+            "mpftMpE": 2
+        }
+    },
+    "bczpea05": {
+        "item_type": 17,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 2,
+            "mpftMpE": 2
+        }
+    },
+    "bczpea06": {
+        "item_type": 17,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 2,
+            "mpftMpE": 2
+        }
+    },
+    "bczpea10": {
+        "item_type": 18,
+        "mpft": {
+            "mpftMpEN": 4,
+            "mpftMpPR": 4,
+            "mpftMpE": 4
+        }
+    },
+    "bczpea11": {
+        "item_type": 18,
+        "mpft": {
+            "mpftMpEN": 4,
+            "mpftMpPR": 4,
+            "mpftMpE": 4
+        }
+    },
+    "bczpea12": {
+        "item_type": 18,
+        "mpft": {
+            "mpftMpEN": 4,
+            "mpftMpPR": 4,
+            "mpftMpE": 4
+        }
+    },
+    "bczpea13": {
+        "item_type": 20,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 2,
+            "mpftMpE": 2
+        }
+    },
+    "bczpea14": {
+        "item_type": 20,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 2,
+            "mpftMpE": 2
+        }
+    },
+    "bczpea15": {
+        "item_type": 20,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 2,
+            "mpftMpE": 2
+        }
+    },
+    "bczpea16": {
+        "item_type": 19,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 1,
+            "mpftMpE": 1
+        }
+    },
+    "bczpea17": {
+        "item_type": 19,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 1,
+            "mpftMpE": 1
+        }
+    },
+    "bczpea18": {
+        "item_type": 19,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 1,
+            "mpftMpE": 1
+        }
+    },
+    "bczpea19": {
+        "item_type": 21,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 1,
+            "mpftMpE": 1
+        }
+    },
+    "bczpea20": {
+        "item_type": 21,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 1,
+            "mpftMpE": 1
+        }
+    },
+    "bczpea21": {
+        "item_type": 21,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 1,
+            "mpftMpE": 1
+        }
+    },
+    "bcfmea02": {
+        "item_type": 8,
+        "mpft": {
+            "mpftMpP": 7,
+            "mpftMpM": 7,
+            "mpftMpG": 6
+        }
+    },
+    "bcfmea03": {
+        "item_type": 9,
+        "mpft": {
+            "mpftMpH": 5,
+            "mpftMpM": 5,
+            "mpftMpG": 5,
+            "mpftMpC": 5
+        }
+    },
+    "bcfmea04": {
+        "item_type": 6,
+        "mpft": {
+            "mpftMpL": 5,
+            "mpftMpM": 5,
+            "mpftMpG": 5,
+            "mpftMpC": 5
+        }
+    },
+    "bcfmea05": {
+        "item_type": 3,
+        "mpft": {
+            "mpftMpL": 5,
+            "mpftMpM": 3,
+            "mpftMpG": 3,
+            "mpftMpC": 3
+        }
+    },
+    "bcfmea06": {
+        "item_type": 0,
+        "mpft": {
+            "mpftMpL": 2,
+            "mpftMpM": 2,
+            "mpftMpG": 1,
+            "mpftMpC": 1
+        }
+    },
+    "bcfmea07": {
+        "item_type": 4,
+        "mpft": {
+            "mpftMpP": 5,
+            "mpftMpM": 5,
+            "mpftMpG": 4
+        }
+    },
+    "bcfmea08": {
+        "item_type": 2,
+        "mpft": {
+            "mpftMpH": 5,
+            "mpftMpM": 3,
+            "mpftMpG": 3,
+            "mpftMpC": 3
+        }
+    },
+    "bcfmea09": {
+        "item_type": 5,
+        "mpft": {
+            "mpftMpM": 7,
+            "mpftMpG": 7
+        }
+    },
+    "bcfmea10": {
+        "item_type": 1,
+        "mpft": {
+            "mpftMpL": 4,
+            "mpftMpM": 4,
+            "mpftMpG": 3,
+            "mpftMpC": 3
+        }
+    },
+    "bcmmea02": {
+        "item_type": 8,
+        "mpft": {
+            "mpftMpP": 7,
+            "mpftMpM": 7,
+            "mpftMpG": 6
+        }
+    },
+    "bcmmea03": {
+        "item_type": 9,
+        "mpft": {
+            "mpftMpH": 5,
+            "mpftMpM": 5,
+            "mpftMpG": 5,
+            "mpftMpC": 5
+        }
+    },
+    "bcmmea04": {
+        "item_type": 6,
+        "mpft": {
+            "mpftMpL": 5,
+            "mpftMpM": 5,
+            "mpftMpG": 5,
+            "mpftMpC": 5
+        }
+    },
+    "bcmmea05": {
+        "item_type": 3,
+        "mpft": {
+            "mpftMpL": 5,
+            "mpftMpM": 3,
+            "mpftMpG": 3,
+            "mpftMpC": 3
+        }
+    },
+    "bcmmea06": {
+        "item_type": 0,
+        "mpft": {
+            "mpftMpL": 2,
+            "mpftMpM": 2,
+            "mpftMpG": 1,
+            "mpftMpC": 1
+        }
+    },
+    "bcmmea07": {
+        "item_type": 4,
+        "mpft": {
+            "mpftMpP": 5,
+            "mpftMpM": 5,
+            "mpftMpG": 4
+        }
+    },
+    "bcmmea08": {
+        "item_type": 2,
+        "mpft": {
+            "mpftMpH": 5,
+            "mpftMpM": 3,
+            "mpftMpG": 3,
+            "mpftMpC": 3
+        }
+    },
+    "bcmmea09": {
+        "item_type": 5,
+        "mpft": {
+            "mpftMpM": 7,
+            "mpftMpG": 7
+        }
+    },
+    "bcmmea10": {
+        "item_type": 1,
+        "mpft": {
+            "mpftMpL": 4,
+            "mpftMpM": 4,
+            "mpftMpG": 3,
+            "mpftMpC": 3
+        }
+    },
+    "bcmmea11": {
+        "item_type": 0,
+        "mpft": {
+            "mpftMpL": 3,
+            "mpftMpM": 3,
+            "mpftMpG": 2,
+            "mpftMpC": 2
+        }
+    },
+    "bctmea01": {
+        "item_type": 7,
+        "mpft": {
+            "mpftMpL": 5,
+            "mpftMpM": 5,
+            "mpftMpG": 5,
+            "mpftMpC": 5
+        }
+    },
+    "bctmea02": {
+        "item_type": 8,
+        "mpft": {
+            "mpftMpP": 7,
+            "mpftMpM": 7,
+            "mpftMpG": 6
+        }
+    },
+    "bctmea03": {
+        "item_type": 9,
+        "mpft": {
+            "mpftMpH": 5,
+            "mpftMpM": 5,
+            "mpftMpG": 5,
+            "mpftMpC": 5
+        }
+    },
+    "bctmea04": {
+        "item_type": 6,
+        "mpft": {
+            "mpftMpL": 5,
+            "mpftMpM": 5,
+            "mpftMpG": 5,
+            "mpftMpC": 5
+        }
+    },
+    "bctmea05": {
+        "item_type": 3,
+        "mpft": {
+            "mpftMpL": 5,
+            "mpftMpM": 3,
+            "mpftMpG": 3,
+            "mpftMpC": 3
+        }
+    },
+    "bctmea06": {
+        "item_type": 0,
+        "mpft": {
+            "mpftMpL": 2,
+            "mpftMpM": 2,
+            "mpftMpG": 1,
+            "mpftMpC": 1
+        }
+    },
+    "bctmea07": {
+        "item_type": 4,
+        "mpft": {
+            "mpftMpP": 5,
+            "mpftMpM": 5,
+            "mpftMpG": 4
+        }
+    },
+    "bctmea08": {
+        "item_type": 2,
+        "mpft": {
+            "mpftMpH": 5,
+            "mpftMpM": 3,
+            "mpftMpG": 3,
+            "mpftMpC": 3
+        }
+    },
+    "bctmea09": {
+        "item_type": 5,
+        "mpft": {
+            "mpftMpM": 7,
+            "mpftMpG": 7
+        }
+    },
+    "bctmea10": {
+        "item_type": 1,
+        "mpft": {
+            "mpftMpL": 4,
+            "mpftMpM": 4,
+            "mpftMpG": 3,
+            "mpftMpC": 3
+        }
+    },
+    "bczmea01": {
+        "item_type": 7,
+        "mpft": {
+            "mpftMpL": 5,
+            "mpftMpM": 5,
+            "mpftMpG": 5,
+            "mpftMpC": 5
+        }
+    },
+    "bczmea02": {
+        "item_type": 8,
+        "mpft": {
+            "mpftMpP": 7,
+            "mpftMpM": 7,
+            "mpftMpG": 6
+        }
+    },
+    "bczmea03": {
+        "item_type": 9,
+        "mpft": {
+            "mpftMpH": 5,
+            "mpftMpM": 5,
+            "mpftMpG": 5,
+            "mpftMpC": 5
+        }
+    },
+    "bczmea04": {
+        "item_type": 6,
+        "mpft": {
+            "mpftMpL": 5,
+            "mpftMpM": 5,
+            "mpftMpG": 5,
+            "mpftMpC": 5
+        }
+    },
+    "bczmea05": {
+        "item_type": 3,
+        "mpft": {
+            "mpftMpL": 5,
+            "mpftMpM": 3,
+            "mpftMpG": 3,
+            "mpftMpC": 3
+        }
+    },
+    "bczmea06": {
+        "item_type": 0,
+        "mpft": {
+            "mpftMpL": 2,
+            "mpftMpM": 2,
+            "mpftMpG": 1,
+            "mpftMpC": 1
+        }
+    },
+    "bczmea07": {
+        "item_type": 4,
+        "mpft": {
+            "mpftMpP": 5,
+            "mpftMpM": 5,
+            "mpftMpG": 4
+        }
+    },
+    "bczmea08": {
+        "item_type": 2,
+        "mpft": {
+            "mpftMpH": 5,
+            "mpftMpM": 3,
+            "mpftMpG": 3,
+            "mpftMpC": 3
+        }
+    },
+    "bczmea09": {
+        "item_type": 5,
+        "mpft": {
+            "mpftMpM": 7,
+            "mpftMpG": 7
+        }
+    },
+    "bczmea10": {
+        "item_type": 1,
+        "mpft": {
+            "mpftMpL": 4,
+            "mpftMpM": 4,
+            "mpftMpG": 3,
+            "mpftMpC": 3
+        }
+    },
+    "bcfaea01": {
+        "item_type": 34,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 4,
+            "mpftMpAT": 4
+        }
+    },
+    "bcfaea02": {
+        "item_type": 35,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 4,
+            "mpftMpAT": 4
+        }
+    },
+    "bcfaea03": {
+        "item_type": 39,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpRI": 7,
+            "mpftMpRE": 5,
+            "mpftMpAT": 5
+        }
+    },
+    "bcfaea04": {
+        "item_type": 36,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpRI": 7,
+            "mpftMpRE": 5,
+            "mpftMpAT": 5
+        }
+    },
+    "bcfaea05": {
+        "item_type": 37,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 4,
+            "mpftMpAT": 4
+        }
+    },
+    "bcfaea06": {
+        "item_type": 38,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpRI": 7,
+            "mpftMpRE": 5,
+            "mpftMpAT": 5
+        }
+    },
+    "bcfaea07": {
+        "item_type": 24,
+        "mpft": {
+            "mpftMpVE": 2,
+            "mpftMpRI": 2,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcfaea08": {
+        "item_type": 25,
+        "mpft": {
+            "mpftMpVE": 2,
+            "mpftMpRI": 2,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcfaea09": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpVE": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcfaea10": {
+        "item_type": 27,
+        "mpft": {
+            "mpftMpVE": 2,
+            "mpftMpRI": 2,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcfaea11": {
+        "item_type": 28,
+        "mpft": {
+            "mpftMpVE": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcfaea12": {
+        "item_type": 29,
+        "mpft": {
+            "mpftMpCR": 4,
+            "mpftMpRI": 4,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bcfaea13": {
+        "item_type": 30,
+        "mpft": {
+            "mpftMpCR": 4,
+            "mpftMpRI": 4,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bcfaea14": {
+        "item_type": 31,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 3,
+            "mpftMpAT": 2
+        }
+    },
+    "bcfaea15": {
+        "item_type": 32,
+        "mpft": {
+            "mpftMpCR": 4,
+            "mpftMpRI": 4,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bcfaea16": {
+        "item_type": 33,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 3,
+            "mpftMpAT": 2
+        }
+    },
+    "bcmaea01": {
+        "item_type": 34,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 4,
+            "mpftMpAT": 4
+        }
+    },
+    "bcmaea02": {
+        "item_type": 35,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 4,
+            "mpftMpAT": 4
+        }
+    },
+    "bcmaea03": {
+        "item_type": 39,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpRI": 7,
+            "mpftMpRE": 5,
+            "mpftMpAT": 5
+        }
+    },
+    "bcmaea04": {
+        "item_type": 36,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpRI": 7,
+            "mpftMpRE": 5,
+            "mpftMpAT": 5
+        }
+    },
+    "bcmaea05": {
+        "item_type": 37,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 4,
+            "mpftMpAT": 4
+        }
+    },
+    "bcmaea06": {
+        "item_type": 38,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpRI": 7,
+            "mpftMpRE": 5,
+            "mpftMpAT": 5
+        }
+    },
+    "bcmaea07": {
+        "item_type": 24,
+        "mpft": {
+            "mpftMpVE": 2,
+            "mpftMpRI": 2,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcmaea08": {
+        "item_type": 25,
+        "mpft": {
+            "mpftMpVE": 2,
+            "mpftMpRI": 2,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcmaea09": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpVE": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcmaea10": {
+        "item_type": 27,
+        "mpft": {
+            "mpftMpVE": 2,
+            "mpftMpRI": 2,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcmaea11": {
+        "item_type": 28,
+        "mpft": {
+            "mpftMpVE": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcmaea12": {
+        "item_type": 29,
+        "mpft": {
+            "mpftMpCR": 4,
+            "mpftMpRI": 4,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bcmaea13": {
+        "item_type": 30,
+        "mpft": {
+            "mpftMpCR": 4,
+            "mpftMpRI": 4,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bcmaea14": {
+        "item_type": 31,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 3,
+            "mpftMpAT": 2
+        }
+    },
+    "bcmaea15": {
+        "item_type": 32,
+        "mpft": {
+            "mpftMpCR": 4,
+            "mpftMpRI": 4,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bcmmea01": {
+        "item_type": 7,
+        "mpft": {
+            "mpftMpL": 5,
+            "mpftMpM": 5,
+            "mpftMpG": 5,
+            "mpftMpC": 5
+        }
+    },
+    "bctaea01": {
+        "item_type": 34,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 4,
+            "mpftMpAT": 4
+        }
+    },
+    "bctaea02": {
+        "item_type": 35,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 4,
+            "mpftMpAT": 4
+        }
+    },
+    "bctaea03": {
+        "item_type": 39,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpRI": 7,
+            "mpftMpRE": 5,
+            "mpftMpAT": 5
+        }
+    },
+    "bctaea04": {
+        "item_type": 36,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpRI": 7,
+            "mpftMpRE": 5,
+            "mpftMpAT": 5
+        }
+    },
+    "bctaea05": {
+        "item_type": 37,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 4,
+            "mpftMpAT": 4
+        }
+    },
+    "bctaea06": {
+        "item_type": 38,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpRI": 7,
+            "mpftMpRE": 5,
+            "mpftMpAT": 5
+        }
+    },
+    "bctaea07": {
+        "item_type": 24,
+        "mpft": {
+            "mpftMpVE": 2,
+            "mpftMpRI": 2,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bctaea08": {
+        "item_type": 25,
+        "mpft": {
+            "mpftMpVE": 2,
+            "mpftMpRI": 2,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bctaea09": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpVE": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bctaea10": {
+        "item_type": 27,
+        "mpft": {
+            "mpftMpVE": 2,
+            "mpftMpRI": 2,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bctaea11": {
+        "item_type": 28,
+        "mpft": {
+            "mpftMpVE": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bctaea12": {
+        "item_type": 29,
+        "mpft": {
+            "mpftMpCR": 4,
+            "mpftMpRI": 4,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bctaea13": {
+        "item_type": 30,
+        "mpft": {
+            "mpftMpCR": 4,
+            "mpftMpRI": 4,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bctaea14": {
+        "item_type": 31,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 3,
+            "mpftMpAT": 2
+        }
+    },
+    "bctaea15": {
+        "item_type": 32,
+        "mpft": {
+            "mpftMpCR": 4,
+            "mpftMpRI": 4,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bctaea16": {
+        "item_type": 33,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 3,
+            "mpftMpAT": 2
+        }
+    },
+    "bczaea01": {
+        "item_type": 34,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 4,
+            "mpftMpAT": 4
+        }
+    },
+    "bczaea02": {
+        "item_type": 35,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 4,
+            "mpftMpAT": 4
+        }
+    },
+    "bczaea03": {
+        "item_type": 39,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpRI": 7,
+            "mpftMpRE": 5,
+            "mpftMpAT": 5
+        }
+    },
+    "bczaea04": {
+        "item_type": 36,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpRI": 7,
+            "mpftMpRE": 5,
+            "mpftMpAT": 5
+        }
+    },
+    "bczaea05": {
+        "item_type": 37,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 4,
+            "mpftMpAT": 4
+        }
+    },
+    "bczaea06": {
+        "item_type": 38,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpRI": 7,
+            "mpftMpRE": 5,
+            "mpftMpAT": 5
+        }
+    },
+    "bczaea07": {
+        "item_type": 24,
+        "mpft": {
+            "mpftMpVE": 2,
+            "mpftMpRI": 2,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bczaea08": {
+        "item_type": 25,
+        "mpft": {
+            "mpftMpVE": 2,
+            "mpftMpRI": 2,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bczaea09": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpVE": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bczaea10": {
+        "item_type": 27,
+        "mpft": {
+            "mpftMpVE": 2,
+            "mpftMpRI": 2,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bczaea11": {
+        "item_type": 28,
+        "mpft": {
+            "mpftMpVE": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bczaea12": {
+        "item_type": 29,
+        "mpft": {
+            "mpftMpCR": 4,
+            "mpftMpRI": 4,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bczaea13": {
+        "item_type": 30,
+        "mpft": {
+            "mpftMpCR": 4,
+            "mpftMpRI": 4,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bczaea14": {
+        "item_type": 31,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 3,
+            "mpftMpAT": 2
+        }
+    },
+    "bczaea15": {
+        "item_type": 32,
+        "mpft": {
+            "mpftMpCR": 4,
+            "mpftMpRI": 4,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bczaea16": {
+        "item_type": 33,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 3,
+            "mpftMpAT": 2
+        }
+    },
+    "bcraea01": {
+        "item_type": 24,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcraea02": {
+        "item_type": 24,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcraea03": {
+        "item_type": 24,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcraea04": {
+        "item_type": 24,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcraea05": {
+        "item_type": 24,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcraea06": {
+        "item_type": 24,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcraea07": {
+        "item_type": 24,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcraea08": {
+        "item_type": 24,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcraea09": {
+        "item_type": 25,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcraea10": {
+        "item_type": 25,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcraea11": {
+        "item_type": 25,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcraea12": {
+        "item_type": 25,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcraea13": {
+        "item_type": 25,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcraea14": {
+        "item_type": 25,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcraea15": {
+        "item_type": 25,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcraea16": {
+        "item_type": 25,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcraea17": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcraea18": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcraea19": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcraea20": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcraea21": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcraea22": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcraea23": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcraea24": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcraea25": {
+        "item_type": 27,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcraea26": {
+        "item_type": 27,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcraea27": {
+        "item_type": 27,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcraea28": {
+        "item_type": 27,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcraea29": {
+        "item_type": 27,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcraea30": {
+        "item_type": 27,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcraea31": {
+        "item_type": 27,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcraea32": {
+        "item_type": 27,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcraea33": {
+        "item_type": 28,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcraea34": {
+        "item_type": 28,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcraea35": {
+        "item_type": 28,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcraea36": {
+        "item_type": 28,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcraea37": {
+        "item_type": 28,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcraea38": {
+        "item_type": 28,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcraea39": {
+        "item_type": 28,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcraea40": {
+        "item_type": 28,
+        "mpft": {
+            "mpftMpCR": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcfsea01": {
+        "item_type": 23,
+        "mpft": {
+            "mpftMpCR": 4,
+            "mpftMpAT": 3
+        }
+    },
+    "bcfsea02": {
+        "item_type": 22,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpAT": 6
+        }
+    },
+    "bcmsea01": {
+        "item_type": 23,
+        "mpft": {
+            "mpftMpCR": 4,
+            "mpftMpAT": 3
+        }
+    },
+    "bcmsea02": {
+        "item_type": 22,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpAT": 6
+        }
+    },
+    "bctsea01": {
+        "item_type": 23,
+        "mpft": {
+            "mpftMpCR": 4,
+            "mpftMpAT": 3
+        }
+    },
+    "bctsea02": {
+        "item_type": 22,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpAT": 6
+        }
+    },
+    "bczsea01": {
+        "item_type": 23,
+        "mpft": {
+            "mpftMpCR": 4,
+            "mpftMpAT": 3
+        }
+    },
+    "bczsea02": {
+        "item_type": 22,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpAT": 6
+        }
+    },
+    "bcfjea01": {
+        "item_type": 40,
+        "mpft": {
+            "mpftMpSU": 3,
+            "mpftMpED": 3
+        }
+    },
+    "bcfjea02": {
+        "item_type": 41,
+        "mpft": {
+            "mpftMpSU": 3,
+            "mpftMpED": 3
+        }
+    },
+    "bcfjea03": {
+        "item_type": 42,
+        "mpft": {
+            "mpftMpSU": 3,
+            "mpftMpED": 3
+        }
+    },
+    "bcfjea04": {
+        "item_type": 43,
+        "mpft": {
+            "mpftMpSU": 3,
+            "mpftMpED": 3
+        }
+    },
+    "bcfjea05": {
+        "item_type": 44,
+        "mpft": {
+            "mpftMpSU": 3,
+            "mpftMpED": 3
+        }
+    },
+    "bcfjea06": {
+        "item_type": 45,
+        "mpft": {
+            "mpftMpSU": 3,
+            "mpftMpED": 3
+        }
+    },
+    "bcmjea01": {
+        "item_type": 40,
+        "mpft": {
+            "mpftMpSU": 3,
+            "mpftMpED": 3
+        }
+    },
+    "bcmjea02": {
+        "item_type": 41,
+        "mpft": {
+            "mpftMpSU": 3,
+            "mpftMpED": 3
+        }
+    },
+    "bcmjea03": {
+        "item_type": 42,
+        "mpft": {
+            "mpftMpSU": 3,
+            "mpftMpED": 3
+        }
+    },
+    "bcmjea04": {
+        "item_type": 43,
+        "mpft": {
+            "mpftMpSU": 3,
+            "mpftMpED": 3
+        }
+    },
+    "bcmjea05": {
+        "item_type": 44,
+        "mpft": {
+            "mpftMpSU": 3,
+            "mpftMpED": 3
+        }
+    },
+    "bcmjea06": {
+        "item_type": 45,
+        "mpft": {
+            "mpftMpSU": 3,
+            "mpftMpED": 3
+        }
+    },
+    "bctjea01": {
+        "item_type": 40,
+        "mpft": {
+            "mpftMpSU": 3,
+            "mpftMpED": 3
+        }
+    },
+    "bctjea02": {
+        "item_type": 41,
+        "mpft": {
+            "mpftMpSU": 3,
+            "mpftMpED": 3
+        }
+    },
+    "bctjea03": {
+        "item_type": 42,
+        "mpft": {
+            "mpftMpSU": 3,
+            "mpftMpED": 3
+        }
+    },
+    "bctjea04": {
+        "item_type": 43,
+        "mpft": {
+            "mpftMpSU": 3,
+            "mpftMpED": 3
+        }
+    },
+    "bctjea05": {
+        "item_type": 44,
+        "mpft": {
+            "mpftMpSU": 3,
+            "mpftMpED": 3
+        }
+    },
+    "bctjea06": {
+        "item_type": 45,
+        "mpft": {
+            "mpftMpSU": 3,
+            "mpftMpED": 3
+        }
+    },
+    "bczjea01": {
+        "item_type": 40,
+        "mpft": {
+            "mpftMpSU": 3,
+            "mpftMpED": 3
+        }
+    },
+    "bczjea02": {
+        "item_type": 41,
+        "mpft": {
+            "mpftMpSU": 3,
+            "mpftMpED": 3
+        }
+    },
+    "bczjea03": {
+        "item_type": 42,
+        "mpft": {
+            "mpftMpSU": 3,
+            "mpftMpED": 3
+        }
+    },
+    "bczjea04": {
+        "item_type": 43,
+        "mpft": {
+            "mpftMpSU": 3,
+            "mpftMpED": 3
+        }
+    },
+    "bczjea05": {
+        "item_type": 44,
+        "mpft": {
+            "mpftMpSU": 3,
+            "mpftMpED": 3
+        }
+    },
+    "bczjea06": {
+        "item_type": 45,
+        "mpft": {
+            "mpftMpSU": 3,
+            "mpftMpED": 3
+        }
+    },
+    "bcfrea07": {
+        "item_type": 10,
+        "mpft": {
+            "mpftMpCA": 5,
+            "mpftMpGA": 5,
+            "mpftMpPE": 5,
+            "mpftMpM": 5
+        }
+    },
+    "bcmrea07": {
+        "item_type": 13,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 2,
+            "mpftMpPE": 2,
+            "mpftMpM": 1
+        }
+    },
+    "bczrea07": {
+        "item_type": 11,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 4,
+            "mpftMpPE": 4,
+            "mpftMpM": 4
+        }
+    },
+    "bcfmea11": {
+        "item_type": 3,
+        "mpft": {
+            "mpftMpL": 6,
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpC": 5
+        }
+    },
+    "bcfmea12": {
+        "item_type": 6,
+        "mpft": {
+            "mpftMpL": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        }
+    },
+    "bcfmea13": {
+        "item_type": 7,
+        "mpft": {
+            "mpftMpL": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        }
+    },
+    "bcmmea12": {
+        "item_type": 6,
+        "mpft": {
+            "mpftMpL": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        }
+    },
+    "bcmmea13": {
+        "item_type": 8,
+        "mpft": {
+            "mpftMpP": 11,
+            "mpftMpM": 11,
+            "mpftMpG": 11
+        }
+    },
+    "bctmea11": {
+        "item_type": 6,
+        "mpft": {
+            "mpftMpL": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        }
+    },
+    "bctmea12": {
+        "item_type": 0,
+        "mpft": {
+            "mpftMpL": 3,
+            "mpftMpM": 3,
+            "mpftMpG": 2,
+            "mpftMpC": 2
+        }
+    },
+    "bczmea11": {
+        "item_type": 4,
+        "mpft": {
+            "mpftMpP": 8,
+            "mpftMpM": 8,
+            "mpftMpG": 7
+        }
+    },
+    "bczmea12": {
+        "item_type": 9,
+        "mpft": {
+            "mpftMpH": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        }
+    },
+    "bczmea13": {
+        "item_type": 2,
+        "mpft": {
+            "mpftMpH": 6,
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpC": 5
+        }
+    },
+    "bcmaea16": {
+        "item_type": 33,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 3,
+            "mpftMpAT": 2
+        }
+    },
+    "bcfaea17": {
+        "item_type": 24,
+        "mpft": {
+            "mpftMpCR": 2,
+            "mpftMpRI": 2,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcfaea18": {
+        "item_type": 25,
+        "mpft": {
+            "mpftMpCR": 2,
+            "mpftMpRI": 2,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcfaea19": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpVE": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcfaea20": {
+        "item_type": 27,
+        "mpft": {
+            "mpftMpCR": 2,
+            "mpftMpRI": 2,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcfaea21": {
+        "item_type": 28,
+        "mpft": {
+            "mpftMpCR": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcmaea17": {
+        "item_type": 24,
+        "mpft": {
+            "mpftMpCR": 2,
+            "mpftMpRI": 2,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcmaea18": {
+        "item_type": 25,
+        "mpft": {
+            "mpftMpCR": 2,
+            "mpftMpRI": 2,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcmaea19": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpVE": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcmaea20": {
+        "item_type": 27,
+        "mpft": {
+            "mpftMpCR": 2,
+            "mpftMpRI": 2,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcmaea21": {
+        "item_type": 28,
+        "mpft": {
+            "mpftMpCR": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bctaea17": {
+        "item_type": 24,
+        "mpft": {
+            "mpftMpCR": 2,
+            "mpftMpRI": 2,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bctaea18": {
+        "item_type": 25,
+        "mpft": {
+            "mpftMpCR": 2,
+            "mpftMpRI": 2,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bctaea19": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpVE": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bctaea20": {
+        "item_type": 27,
+        "mpft": {
+            "mpftMpCR": 2,
+            "mpftMpRI": 2,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bctaea21": {
+        "item_type": 28,
+        "mpft": {
+            "mpftMpCR": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bczaea17": {
+        "item_type": 24,
+        "mpft": {
+            "mpftMpCR": 2,
+            "mpftMpRI": 2,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bczaea18": {
+        "item_type": 25,
+        "mpft": {
+            "mpftMpCR": 2,
+            "mpftMpRI": 2,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bczaea19": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpVE": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bczaea20": {
+        "item_type": 27,
+        "mpft": {
+            "mpftMpCR": 2,
+            "mpftMpRI": 2,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bczaea21": {
+        "item_type": 28,
+        "mpft": {
+            "mpftMpCR": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcfrea08": {
+        "item_type": 12,
+        "mpft": {
+            "mpftMpCA": 5,
+            "mpftMpGA": 5,
+            "mpftMpPE": 5,
+            "mpftMpM": 5
+        }
+    },
+    "bcmrea08": {
+        "item_type": 15,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 3,
+            "mpftMpPE": 3,
+            "mpftMpM": 3
+        }
+    },
+    "bctrea08": {
+        "item_type": 14,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 2,
+            "mpftMpPE": 2,
+            "mpftMpM": 2
+        }
+    },
+    "bczrea08": {
+        "item_type": 12,
+        "mpft": {
+            "mpftMpCA": 5,
+            "mpftMpGA": 5,
+            "mpftMpPE": 5,
+            "mpftMpM": 5
+        }
+    },
+    "bcmmea14": {
+        "item_type": 4,
+        "mpft": {
+            "mpftMpP": 8,
+            "mpftMpM": 8,
+            "mpftMpG": 7
+        }
+    },
+    "bctmea13": {
+        "item_type": 1,
+        "mpft": {
+            "mpftMpL": 6,
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpC": 6
+        }
+    },
+    "bcfsea03": {
+        "item_type": 23,
+        "mpft": {
+            "mpftMpCR": 6,
+            "mpftMpAT": 5
+        }
+    },
+    "bcmsea03": {
+        "item_type": 23,
+        "mpft": {
+            "mpftMpCR": 6,
+            "mpftMpAT": 5
+        }
+    },
+    "bctsea03": {
+        "item_type": 23,
+        "mpft": {
+            "mpftMpCR": 6,
+            "mpftMpAT": 5
+        }
+    },
+    "bczsea03": {
+        "item_type": 23,
+        "mpft": {
+            "mpftMpCR": 6,
+            "mpftMpAT": 5
+        }
+    },
+    "bccrea01": {
+        "item_type": 10,
+        "mpft": {
+            "mpftMpCA": 3,
+            "mpftMpGA": 3,
+            "mpftMpPE": 3,
+            "mpftMpM": 3
+        }
+    },
+    "bccrea02": {
+        "item_type": 11,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 2,
+            "mpftMpPE": 2,
+            "mpftMpM": 2
+        }
+    },
+    "bccrea03": {
+        "item_type": 12,
+        "mpft": {
+            "mpftMpCA": 3,
+            "mpftMpGA": 3,
+            "mpftMpPE": 3,
+            "mpftMpM": 3
+        }
+    },
+    "bccrea04": {
+        "item_type": 13,
+        "mpft": {
+            "mpftMpCA": 1,
+            "mpftMpGA": 1,
+            "mpftMpPE": 1,
+            "mpftMpM": 1
+        }
+    },
+    "bccrea05": {
+        "item_type": 14,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 1,
+            "mpftMpPE": 1,
+            "mpftMpM": 1
+        }
+    },
+    "bccrea06": {
+        "item_type": 15,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 2,
+            "mpftMpPE": 2,
+            "mpftMpM": 2
+        }
+    },
+    "bccpea01": {
+        "item_type": 16,
+        "mpft": {
+            "mpftMpEN": 4,
+            "mpftMpPR": 4,
+            "mpftMpE": 4
+        }
+    },
+    "bccpea02": {
+        "item_type": 16,
+        "mpft": {
+            "mpftMpEN": 4,
+            "mpftMpPR": 4,
+            "mpftMpE": 4
+        }
+    },
+    "bccpea03": {
+        "item_type": 16,
+        "mpft": {
+            "mpftMpEN": 4,
+            "mpftMpPR": 4,
+            "mpftMpE": 4
+        }
+    },
+    "bccpea04": {
+        "item_type": 17,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 2,
+            "mpftMpE": 2
+        }
+    },
+    "bccpea05": {
+        "item_type": 17,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 2,
+            "mpftMpE": 2
+        }
+    },
+    "bccpea06": {
+        "item_type": 17,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 2,
+            "mpftMpE": 2
+        }
+    },
+    "bccpea10": {
+        "item_type": 18,
+        "mpft": {
+            "mpftMpEN": 4,
+            "mpftMpPR": 4,
+            "mpftMpE": 4
+        }
+    },
+    "bccpea11": {
+        "item_type": 18,
+        "mpft": {
+            "mpftMpEN": 4,
+            "mpftMpPR": 4,
+            "mpftMpE": 4
+        }
+    },
+    "bccpea12": {
+        "item_type": 18,
+        "mpft": {
+            "mpftMpEN": 4,
+            "mpftMpPR": 4,
+            "mpftMpE": 4
+        }
+    },
+    "bccpea13": {
+        "item_type": 20,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 2,
+            "mpftMpE": 2
+        }
+    },
+    "bccpea14": {
+        "item_type": 20,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 2,
+            "mpftMpE": 2
+        }
+    },
+    "bccpea15": {
+        "item_type": 20,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 2,
+            "mpftMpE": 2
+        }
+    },
+    "bccpea16": {
+        "item_type": 19,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 1,
+            "mpftMpE": 1
+        }
+    },
+    "bccpea17": {
+        "item_type": 19,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 1,
+            "mpftMpE": 1
+        }
+    },
+    "bccpea18": {
+        "item_type": 19,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 1,
+            "mpftMpE": 1
+        }
+    },
+    "bccpea19": {
+        "item_type": 21,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 1,
+            "mpftMpE": 1
+        }
+    },
+    "bccpea20": {
+        "item_type": 21,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 1,
+            "mpftMpE": 1
+        }
+    },
+    "bccpea21": {
+        "item_type": 21,
+        "mpft": {
+            "mpftMpEN": 2,
+            "mpftMpPR": 1,
+            "mpftMpE": 1
+        }
+    },
+    "bccmea01": {
+        "item_type": 7,
+        "mpft": {
+            "mpftMpL": 5,
+            "mpftMpM": 4,
+            "mpftMpG": 4,
+            "mpftMpC": 4
+        }
+    },
+    "bccmea02": {
+        "item_type": 8,
+        "mpft": {
+            "mpftMpP": 6,
+            "mpftMpM": 6,
+            "mpftMpG": 5
+        }
+    },
+    "bccmea03": {
+        "item_type": 9,
+        "mpft": {
+            "mpftMpH": 5,
+            "mpftMpM": 4,
+            "mpftMpG": 4,
+            "mpftMpC": 4
+        }
+    },
+    "bccmea04": {
+        "item_type": 6,
+        "mpft": {
+            "mpftMpL": 5,
+            "mpftMpM": 4,
+            "mpftMpG": 4,
+            "mpftMpC": 4
+        }
+    },
+    "bccmea05": {
+        "item_type": 3,
+        "mpft": {
+            "mpftMpL": 3,
+            "mpftMpM": 3,
+            "mpftMpG": 3,
+            "mpftMpC": 3
+        }
+    },
+    "bccmea06": {
+        "item_type": 0,
+        "mpft": {
+            "mpftMpL": 2,
+            "mpftMpM": 1,
+            "mpftMpG": 1,
+            "mpftMpC": 1
+        }
+    },
+    "bccmea07": {
+        "item_type": 4,
+        "mpft": {
+            "mpftMpP": 4,
+            "mpftMpM": 4,
+            "mpftMpG": 4
+        }
+    },
+    "bccmea08": {
+        "item_type": 2,
+        "mpft": {
+            "mpftMpH": 3,
+            "mpftMpM": 3,
+            "mpftMpG": 3,
+            "mpftMpC": 3
+        }
+    },
+    "bccmea09": {
+        "item_type": 5,
+        "mpft": {
+            "mpftMpM": 6,
+            "mpftMpG": 6
+        }
+    },
+    "bccmea10": {
+        "item_type": 1,
+        "mpft": {
+            "mpftMpL": 4,
+            "mpftMpM": 4,
+            "mpftMpG": 3,
+            "mpftMpC": 3
+        }
+    },
+    "bccsea01": {
+        "item_type": 23,
+        "mpft": {
+            "mpftMpCR": 4,
+            "mpftMpAT": 3
+        }
+    },
+    "bccsea02": {
+        "item_type": 22,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpAT": 6
+        }
+    },
+    "bcfaea17_2": {
+        "item_type": 24,
+        "mpft": {
+            "mpftMpCR": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcfaea17_3": {
+        "item_type": 24,
+        "mpft": {
+            "mpftMpCR": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bcfaea18_2": {
+        "item_type": 25,
+        "mpft": {
+            "mpftMpCR": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcfaea18_3": {
+        "item_type": 25,
+        "mpft": {
+            "mpftMpCR": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bcfaea19_2": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpVE": 4,
+            "mpftMpRI": 4,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcfaea19_3": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpVE": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bcfaea20_2": {
+        "item_type": 27,
+        "mpft": {
+            "mpftMpCR": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcfaea20_3": {
+        "item_type": 27,
+        "mpft": {
+            "mpftMpCR": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bcfaea21_2": {
+        "item_type": 28,
+        "mpft": {
+            "mpftMpCR": 4,
+            "mpftMpRI": 4,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcfaea21_3": {
+        "item_type": 28,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bcfaea01_2": {
+        "item_type": 34,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpRI": 7,
+            "mpftMpRE": 5,
+            "mpftMpAT": 5
+        }
+    },
+    "bcfaea01_3": {
+        "item_type": 34,
+        "mpft": {
+            "mpftMpCR": 10,
+            "mpftMpRI": 10,
+            "mpftMpRE": 6,
+            "mpftMpAT": 6
+        }
+    },
+    "bcfaea02_2": {
+        "item_type": 35,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpRI": 7,
+            "mpftMpRE": 5,
+            "mpftMpAT": 5
+        }
+    },
+    "bcfaea02_3": {
+        "item_type": 35,
+        "mpft": {
+            "mpftMpCR": 10,
+            "mpftMpRI": 10,
+            "mpftMpRE": 6,
+            "mpftMpAT": 6
+        }
+    },
+    "bcfaea03_2": {
+        "item_type": 39,
+        "mpft": {
+            "mpftMpCR": 9,
+            "mpftMpRI": 9,
+            "mpftMpRE": 6,
+            "mpftMpAT": 6
+        }
+    },
+    "bcfaea03_3": {
+        "item_type": 39,
+        "mpft": {
+            "mpftMpCR": 12,
+            "mpftMpRI": 12,
+            "mpftMpRE": 8,
+            "mpftMpAT": 8
+        }
+    },
+    "bcfaea04_2": {
+        "item_type": 36,
+        "mpft": {
+            "mpftMpCR": 9,
+            "mpftMpRI": 9,
+            "mpftMpRE": 6,
+            "mpftMpAT": 6
+        }
+    },
+    "bcfaea04_3": {
+        "item_type": 36,
+        "mpft": {
+            "mpftMpCR": 12,
+            "mpftMpRI": 12,
+            "mpftMpRE": 8,
+            "mpftMpAT": 8
+        }
+    },
+    "bcfaea05_2": {
+        "item_type": 37,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpRI": 7,
+            "mpftMpRE": 5,
+            "mpftMpAT": 5
+        }
+    },
+    "bcfaea05_3": {
+        "item_type": 37,
+        "mpft": {
+            "mpftMpCR": 10,
+            "mpftMpRI": 10,
+            "mpftMpRE": 6,
+            "mpftMpAT": 6
+        }
+    },
+    "bcfaea06_2": {
+        "item_type": 38,
+        "mpft": {
+            "mpftMpCR": 9,
+            "mpftMpRI": 9,
+            "mpftMpRE": 6,
+            "mpftMpAT": 6
+        }
+    },
+    "bcfaea06_3": {
+        "item_type": 38,
+        "mpft": {
+            "mpftMpCR": 12,
+            "mpftMpRI": 12,
+            "mpftMpRE": 8,
+            "mpftMpAT": 8
+        }
+    },
+    "bcfaea07_2": {
+        "item_type": 24,
+        "mpft": {
+            "mpftMpVE": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcfaea07_3": {
+        "item_type": 24,
+        "mpft": {
+            "mpftMpVE": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bcfaea08_2": {
+        "item_type": 25,
+        "mpft": {
+            "mpftMpVE": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcfaea08_3": {
+        "item_type": 25,
+        "mpft": {
+            "mpftMpVE": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bcfaea09_2": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpVE": 4,
+            "mpftMpRI": 4,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcfaea09_3": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpVE": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bcfaea10_2": {
+        "item_type": 27,
+        "mpft": {
+            "mpftMpVE": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcfaea10_3": {
+        "item_type": 27,
+        "mpft": {
+            "mpftMpVE": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bcfaea11_2": {
+        "item_type": 28,
+        "mpft": {
+            "mpftMpVE": 4,
+            "mpftMpRI": 4,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcfaea11_3": {
+        "item_type": 28,
+        "mpft": {
+            "mpftMpVE": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bcfaea12_2": {
+        "item_type": 29,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 3,
+            "mpftMpAT": 3
+        }
+    },
+    "bcfaea12_3": {
+        "item_type": 29,
+        "mpft": {
+            "mpftMpCR": 6,
+            "mpftMpRI": 6,
+            "mpftMpRE": 4,
+            "mpftMpAT": 4
+        }
+    },
+    "bcfaea13_2": {
+        "item_type": 30,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 3,
+            "mpftMpAT": 3
+        }
+    },
+    "bcfaea13_3": {
+        "item_type": 30,
+        "mpft": {
+            "mpftMpCR": 6,
+            "mpftMpRI": 6,
+            "mpftMpRE": 4,
+            "mpftMpAT": 4
+        }
+    },
+    "bcfaea14_2": {
+        "item_type": 31,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpRI": 7,
+            "mpftMpRE": 3,
+            "mpftMpAT": 3
+        }
+    },
+    "bcfaea14_3": {
+        "item_type": 31,
+        "mpft": {
+            "mpftMpCR": 8,
+            "mpftMpRI": 8,
+            "mpftMpRE": 5,
+            "mpftMpAT": 4
+        }
+    },
+    "bcfaea15_2": {
+        "item_type": 32,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 3,
+            "mpftMpAT": 3
+        }
+    },
+    "bcfaea15_3": {
+        "item_type": 32,
+        "mpft": {
+            "mpftMpCR": 6,
+            "mpftMpRI": 6,
+            "mpftMpRE": 4,
+            "mpftMpAT": 4
+        }
+    },
+    "bcfaea16_2": {
+        "item_type": 33,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpRI": 7,
+            "mpftMpRE": 3,
+            "mpftMpAT": 3
+        }
+    },
+    "bcfaea16_3": {
+        "item_type": 33,
+        "mpft": {
+            "mpftMpCR": 8,
+            "mpftMpRI": 8,
+            "mpftMpRE": 5,
+            "mpftMpAT": 4
+        }
+    },
+    "bcmaea17_2": {
+        "item_type": 24,
+        "mpft": {
+            "mpftMpCR": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcmaea17_3": {
+        "item_type": 24,
+        "mpft": {
+            "mpftMpCR": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bcmaea18_2": {
+        "item_type": 25,
+        "mpft": {
+            "mpftMpCR": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcmaea18_3": {
+        "item_type": 25,
+        "mpft": {
+            "mpftMpCR": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bcmaea19_2": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpVE": 4,
+            "mpftMpRI": 4,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcmaea19_3": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpVE": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bcmaea20_2": {
+        "item_type": 27,
+        "mpft": {
+            "mpftMpCR": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcmaea20_3": {
+        "item_type": 27,
+        "mpft": {
+            "mpftMpCR": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bcmaea21_2": {
+        "item_type": 28,
+        "mpft": {
+            "mpftMpCR": 4,
+            "mpftMpRI": 4,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcmaea21_3": {
+        "item_type": 28,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bcmaea01_2": {
+        "item_type": 34,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpRI": 7,
+            "mpftMpRE": 5,
+            "mpftMpAT": 5
+        }
+    },
+    "bcmaea01_3": {
+        "item_type": 34,
+        "mpft": {
+            "mpftMpCR": 10,
+            "mpftMpRI": 10,
+            "mpftMpRE": 6,
+            "mpftMpAT": 6
+        }
+    },
+    "bcmaea02_2": {
+        "item_type": 35,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpRI": 7,
+            "mpftMpRE": 5,
+            "mpftMpAT": 5
+        }
+    },
+    "bcmaea02_3": {
+        "item_type": 35,
+        "mpft": {
+            "mpftMpCR": 10,
+            "mpftMpRI": 10,
+            "mpftMpRE": 6,
+            "mpftMpAT": 6
+        }
+    },
+    "bcmaea03_2": {
+        "item_type": 39,
+        "mpft": {
+            "mpftMpCR": 9,
+            "mpftMpRI": 9,
+            "mpftMpRE": 6,
+            "mpftMpAT": 6
+        }
+    },
+    "bcmaea03_3": {
+        "item_type": 39,
+        "mpft": {
+            "mpftMpCR": 12,
+            "mpftMpRI": 12,
+            "mpftMpRE": 8,
+            "mpftMpAT": 8
+        }
+    },
+    "bcmaea04_2": {
+        "item_type": 36,
+        "mpft": {
+            "mpftMpCR": 9,
+            "mpftMpRI": 9,
+            "mpftMpRE": 6,
+            "mpftMpAT": 6
+        }
+    },
+    "bcmaea04_3": {
+        "item_type": 36,
+        "mpft": {
+            "mpftMpCR": 12,
+            "mpftMpRI": 12,
+            "mpftMpRE": 8,
+            "mpftMpAT": 8
+        }
+    },
+    "bcmaea05_2": {
+        "item_type": 37,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpRI": 7,
+            "mpftMpRE": 5,
+            "mpftMpAT": 5
+        }
+    },
+    "bcmaea05_3": {
+        "item_type": 37,
+        "mpft": {
+            "mpftMpCR": 10,
+            "mpftMpRI": 10,
+            "mpftMpRE": 6,
+            "mpftMpAT": 6
+        }
+    },
+    "bcmaea06_2": {
+        "item_type": 38,
+        "mpft": {
+            "mpftMpCR": 9,
+            "mpftMpRI": 9,
+            "mpftMpRE": 6,
+            "mpftMpAT": 6
+        }
+    },
+    "bcmaea06_3": {
+        "item_type": 38,
+        "mpft": {
+            "mpftMpCR": 12,
+            "mpftMpRI": 12,
+            "mpftMpRE": 8,
+            "mpftMpAT": 8
+        }
+    },
+    "bcmaea07_2": {
+        "item_type": 24,
+        "mpft": {
+            "mpftMpVE": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcmaea07_3": {
+        "item_type": 24,
+        "mpft": {
+            "mpftMpVE": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bcmaea08_2": {
+        "item_type": 25,
+        "mpft": {
+            "mpftMpVE": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcmaea08_3": {
+        "item_type": 25,
+        "mpft": {
+            "mpftMpVE": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bcmaea09_2": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpVE": 4,
+            "mpftMpRI": 4,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcmaea09_3": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpVE": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bcmaea10_2": {
+        "item_type": 27,
+        "mpft": {
+            "mpftMpVE": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcmaea10_3": {
+        "item_type": 27,
+        "mpft": {
+            "mpftMpVE": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bcmaea11_2": {
+        "item_type": 28,
+        "mpft": {
+            "mpftMpVE": 4,
+            "mpftMpRI": 4,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcmaea11_3": {
+        "item_type": 28,
+        "mpft": {
+            "mpftMpVE": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bcmaea12_2": {
+        "item_type": 29,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 3,
+            "mpftMpAT": 3
+        }
+    },
+    "bcmaea12_3": {
+        "item_type": 29,
+        "mpft": {
+            "mpftMpCR": 6,
+            "mpftMpRI": 6,
+            "mpftMpRE": 4,
+            "mpftMpAT": 4
+        }
+    },
+    "bcmaea13_2": {
+        "item_type": 30,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 3,
+            "mpftMpAT": 3
+        }
+    },
+    "bcmaea13_3": {
+        "item_type": 30,
+        "mpft": {
+            "mpftMpCR": 6,
+            "mpftMpRI": 6,
+            "mpftMpRE": 4,
+            "mpftMpAT": 4
+        }
+    },
+    "bcmaea14_2": {
+        "item_type": 31,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpRI": 7,
+            "mpftMpRE": 3,
+            "mpftMpAT": 3
+        }
+    },
+    "bcmaea14_3": {
+        "item_type": 31,
+        "mpft": {
+            "mpftMpCR": 8,
+            "mpftMpRI": 8,
+            "mpftMpRE": 5,
+            "mpftMpAT": 4
+        }
+    },
+    "bcmaea15_2": {
+        "item_type": 32,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 3,
+            "mpftMpAT": 3
+        }
+    },
+    "bcmaea15_3": {
+        "item_type": 32,
+        "mpft": {
+            "mpftMpCR": 6,
+            "mpftMpRI": 6,
+            "mpftMpRE": 4,
+            "mpftMpAT": 4
+        }
+    },
+    "bcmaea16_2": {
+        "item_type": 33,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpRI": 7,
+            "mpftMpRE": 3,
+            "mpftMpAT": 3
+        }
+    },
+    "bcmaea16_3": {
+        "item_type": 33,
+        "mpft": {
+            "mpftMpCR": 8,
+            "mpftMpRI": 8,
+            "mpftMpRE": 5,
+            "mpftMpAT": 4
+        }
+    },
+    "bctaea17_2": {
+        "item_type": 24,
+        "mpft": {
+            "mpftMpCR": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bctaea17_3": {
+        "item_type": 24,
+        "mpft": {
+            "mpftMpCR": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bctaea18_2": {
+        "item_type": 25,
+        "mpft": {
+            "mpftMpCR": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bctaea18_3": {
+        "item_type": 25,
+        "mpft": {
+            "mpftMpCR": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bctaea19_2": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpVE": 4,
+            "mpftMpRI": 4,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bctaea19_3": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpVE": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bctaea20_2": {
+        "item_type": 27,
+        "mpft": {
+            "mpftMpCR": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bctaea20_3": {
+        "item_type": 27,
+        "mpft": {
+            "mpftMpCR": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bctaea21_2": {
+        "item_type": 28,
+        "mpft": {
+            "mpftMpCR": 4,
+            "mpftMpRI": 4,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bctaea21_3": {
+        "item_type": 28,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bctaea01_2": {
+        "item_type": 34,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpRI": 7,
+            "mpftMpRE": 5,
+            "mpftMpAT": 5
+        }
+    },
+    "bctaea01_3": {
+        "item_type": 34,
+        "mpft": {
+            "mpftMpCR": 10,
+            "mpftMpRI": 10,
+            "mpftMpRE": 6,
+            "mpftMpAT": 6
+        }
+    },
+    "bctaea02_2": {
+        "item_type": 35,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpRI": 7,
+            "mpftMpRE": 5,
+            "mpftMpAT": 5
+        }
+    },
+    "bctaea02_3": {
+        "item_type": 35,
+        "mpft": {
+            "mpftMpCR": 10,
+            "mpftMpRI": 10,
+            "mpftMpRE": 6,
+            "mpftMpAT": 6
+        }
+    },
+    "bctaea03_2": {
+        "item_type": 39,
+        "mpft": {
+            "mpftMpCR": 9,
+            "mpftMpRI": 9,
+            "mpftMpRE": 6,
+            "mpftMpAT": 6
+        }
+    },
+    "bctaea03_3": {
+        "item_type": 39,
+        "mpft": {
+            "mpftMpCR": 12,
+            "mpftMpRI": 12,
+            "mpftMpRE": 8,
+            "mpftMpAT": 8
+        }
+    },
+    "bctaea04_2": {
+        "item_type": 36,
+        "mpft": {
+            "mpftMpCR": 9,
+            "mpftMpRI": 9,
+            "mpftMpRE": 6,
+            "mpftMpAT": 6
+        }
+    },
+    "bctaea04_3": {
+        "item_type": 36,
+        "mpft": {
+            "mpftMpCR": 12,
+            "mpftMpRI": 12,
+            "mpftMpRE": 8,
+            "mpftMpAT": 8
+        }
+    },
+    "bctaea05_2": {
+        "item_type": 37,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpRI": 7,
+            "mpftMpRE": 5,
+            "mpftMpAT": 5
+        }
+    },
+    "bctaea05_3": {
+        "item_type": 37,
+        "mpft": {
+            "mpftMpCR": 10,
+            "mpftMpRI": 10,
+            "mpftMpRE": 6,
+            "mpftMpAT": 6
+        }
+    },
+    "bctaea06_2": {
+        "item_type": 38,
+        "mpft": {
+            "mpftMpCR": 9,
+            "mpftMpRI": 9,
+            "mpftMpRE": 6,
+            "mpftMpAT": 6
+        }
+    },
+    "bctaea06_3": {
+        "item_type": 38,
+        "mpft": {
+            "mpftMpCR": 12,
+            "mpftMpRI": 12,
+            "mpftMpRE": 8,
+            "mpftMpAT": 8
+        }
+    },
+    "bctaea07_2": {
+        "item_type": 24,
+        "mpft": {
+            "mpftMpVE": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bctaea07_3": {
+        "item_type": 24,
+        "mpft": {
+            "mpftMpVE": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bctaea08_2": {
+        "item_type": 25,
+        "mpft": {
+            "mpftMpVE": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bctaea08_3": {
+        "item_type": 25,
+        "mpft": {
+            "mpftMpVE": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bctaea09_2": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpVE": 4,
+            "mpftMpRI": 4,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bctaea09_3": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpVE": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bctaea10_2": {
+        "item_type": 27,
+        "mpft": {
+            "mpftMpVE": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bctaea10_3": {
+        "item_type": 27,
+        "mpft": {
+            "mpftMpVE": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bctaea11_2": {
+        "item_type": 28,
+        "mpft": {
+            "mpftMpVE": 4,
+            "mpftMpRI": 4,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bctaea11_3": {
+        "item_type": 28,
+        "mpft": {
+            "mpftMpVE": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bctaea12_2": {
+        "item_type": 29,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 3,
+            "mpftMpAT": 3
+        }
+    },
+    "bctaea12_3": {
+        "item_type": 29,
+        "mpft": {
+            "mpftMpCR": 6,
+            "mpftMpRI": 6,
+            "mpftMpRE": 4,
+            "mpftMpAT": 4
+        }
+    },
+    "bctaea13_2": {
+        "item_type": 30,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 3,
+            "mpftMpAT": 3
+        }
+    },
+    "bctaea13_3": {
+        "item_type": 30,
+        "mpft": {
+            "mpftMpCR": 6,
+            "mpftMpRI": 6,
+            "mpftMpRE": 4,
+            "mpftMpAT": 4
+        }
+    },
+    "bctaea14_2": {
+        "item_type": 31,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpRI": 7,
+            "mpftMpRE": 3,
+            "mpftMpAT": 3
+        }
+    },
+    "bctaea14_3": {
+        "item_type": 31,
+        "mpft": {
+            "mpftMpCR": 8,
+            "mpftMpRI": 8,
+            "mpftMpRE": 5,
+            "mpftMpAT": 4
+        }
+    },
+    "bctaea15_2": {
+        "item_type": 32,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 3,
+            "mpftMpAT": 3
+        }
+    },
+    "bctaea15_3": {
+        "item_type": 32,
+        "mpft": {
+            "mpftMpCR": 6,
+            "mpftMpRI": 6,
+            "mpftMpRE": 4,
+            "mpftMpAT": 4
+        }
+    },
+    "bctaea16_2": {
+        "item_type": 33,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpRI": 7,
+            "mpftMpRE": 3,
+            "mpftMpAT": 3
+        }
+    },
+    "bctaea16_3": {
+        "item_type": 33,
+        "mpft": {
+            "mpftMpCR": 8,
+            "mpftMpRI": 8,
+            "mpftMpRE": 5,
+            "mpftMpAT": 4
+        }
+    },
+    "bczaea17_2": {
+        "item_type": 24,
+        "mpft": {
+            "mpftMpCR": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bczaea17_3": {
+        "item_type": 24,
+        "mpft": {
+            "mpftMpCR": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bczaea18_2": {
+        "item_type": 25,
+        "mpft": {
+            "mpftMpCR": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bczaea18_3": {
+        "item_type": 25,
+        "mpft": {
+            "mpftMpCR": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bczaea19_2": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpVE": 4,
+            "mpftMpRI": 4,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bczaea19_3": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpVE": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bczaea20_2": {
+        "item_type": 27,
+        "mpft": {
+            "mpftMpCR": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bczaea20_3": {
+        "item_type": 27,
+        "mpft": {
+            "mpftMpCR": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bczaea21_2": {
+        "item_type": 28,
+        "mpft": {
+            "mpftMpCR": 4,
+            "mpftMpRI": 4,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bczaea21_3": {
+        "item_type": 28,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bczaea01_2": {
+        "item_type": 34,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpRI": 7,
+            "mpftMpRE": 5,
+            "mpftMpAT": 5
+        }
+    },
+    "bczaea01_3": {
+        "item_type": 34,
+        "mpft": {
+            "mpftMpCR": 10,
+            "mpftMpRI": 10,
+            "mpftMpRE": 6,
+            "mpftMpAT": 6
+        }
+    },
+    "bczaea02_2": {
+        "item_type": 35,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpRI": 7,
+            "mpftMpRE": 5,
+            "mpftMpAT": 5
+        }
+    },
+    "bczaea02_3": {
+        "item_type": 35,
+        "mpft": {
+            "mpftMpCR": 10,
+            "mpftMpRI": 10,
+            "mpftMpRE": 6,
+            "mpftMpAT": 6
+        }
+    },
+    "bczaea03_2": {
+        "item_type": 39,
+        "mpft": {
+            "mpftMpCR": 9,
+            "mpftMpRI": 9,
+            "mpftMpRE": 6,
+            "mpftMpAT": 6
+        }
+    },
+    "bczaea03_3": {
+        "item_type": 39,
+        "mpft": {
+            "mpftMpCR": 12,
+            "mpftMpRI": 12,
+            "mpftMpRE": 8,
+            "mpftMpAT": 8
+        }
+    },
+    "bczaea04_2": {
+        "item_type": 36,
+        "mpft": {
+            "mpftMpCR": 9,
+            "mpftMpRI": 9,
+            "mpftMpRE": 6,
+            "mpftMpAT": 6
+        }
+    },
+    "bczaea04_3": {
+        "item_type": 36,
+        "mpft": {
+            "mpftMpCR": 12,
+            "mpftMpRI": 12,
+            "mpftMpRE": 8,
+            "mpftMpAT": 8
+        }
+    },
+    "bczaea05_2": {
+        "item_type": 37,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpRI": 7,
+            "mpftMpRE": 5,
+            "mpftMpAT": 5
+        }
+    },
+    "bczaea05_3": {
+        "item_type": 37,
+        "mpft": {
+            "mpftMpCR": 10,
+            "mpftMpRI": 10,
+            "mpftMpRE": 6,
+            "mpftMpAT": 6
+        }
+    },
+    "bczaea06_2": {
+        "item_type": 38,
+        "mpft": {
+            "mpftMpCR": 9,
+            "mpftMpRI": 9,
+            "mpftMpRE": 6,
+            "mpftMpAT": 6
+        }
+    },
+    "bczaea06_3": {
+        "item_type": 38,
+        "mpft": {
+            "mpftMpCR": 12,
+            "mpftMpRI": 12,
+            "mpftMpRE": 8,
+            "mpftMpAT": 8
+        }
+    },
+    "bczaea07_2": {
+        "item_type": 24,
+        "mpft": {
+            "mpftMpVE": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bczaea07_3": {
+        "item_type": 24,
+        "mpft": {
+            "mpftMpVE": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bczaea08_2": {
+        "item_type": 25,
+        "mpft": {
+            "mpftMpVE": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bczaea08_3": {
+        "item_type": 25,
+        "mpft": {
+            "mpftMpVE": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bczaea09_2": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpVE": 4,
+            "mpftMpRI": 4,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bczaea09_3": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpVE": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bczaea10_2": {
+        "item_type": 27,
+        "mpft": {
+            "mpftMpVE": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bczaea10_3": {
+        "item_type": 27,
+        "mpft": {
+            "mpftMpVE": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bczaea11_2": {
+        "item_type": 28,
+        "mpft": {
+            "mpftMpVE": 4,
+            "mpftMpRI": 4,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bczaea11_3": {
+        "item_type": 28,
+        "mpft": {
+            "mpftMpVE": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bczaea12_2": {
+        "item_type": 29,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 3,
+            "mpftMpAT": 3
+        }
+    },
+    "bczaea12_3": {
+        "item_type": 29,
+        "mpft": {
+            "mpftMpCR": 6,
+            "mpftMpRI": 6,
+            "mpftMpRE": 4,
+            "mpftMpAT": 4
+        }
+    },
+    "bczaea13_2": {
+        "item_type": 30,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 3,
+            "mpftMpAT": 3
+        }
+    },
+    "bczaea13_3": {
+        "item_type": 30,
+        "mpft": {
+            "mpftMpCR": 6,
+            "mpftMpRI": 6,
+            "mpftMpRE": 4,
+            "mpftMpAT": 4
+        }
+    },
+    "bczaea14_2": {
+        "item_type": 31,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpRI": 7,
+            "mpftMpRE": 3,
+            "mpftMpAT": 3
+        }
+    },
+    "bczaea14_3": {
+        "item_type": 31,
+        "mpft": {
+            "mpftMpCR": 8,
+            "mpftMpRI": 8,
+            "mpftMpRE": 5,
+            "mpftMpAT": 4
+        }
+    },
+    "bczaea15_2": {
+        "item_type": 32,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 3,
+            "mpftMpAT": 3
+        }
+    },
+    "bczaea15_3": {
+        "item_type": 32,
+        "mpft": {
+            "mpftMpCR": 6,
+            "mpftMpRI": 6,
+            "mpftMpRE": 4,
+            "mpftMpAT": 4
+        }
+    },
+    "bczaea16_2": {
+        "item_type": 33,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpRI": 7,
+            "mpftMpRE": 3,
+            "mpftMpAT": 3
+        }
+    },
+    "bczaea16_3": {
+        "item_type": 33,
+        "mpft": {
+            "mpftMpCR": 8,
+            "mpftMpRI": 8,
+            "mpftMpRE": 5,
+            "mpftMpAT": 4
+        }
+    },
+    "bcfrea01_2": {
+        "item_type": 10,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 4,
+            "mpftMpPE": 4,
+            "mpftMpM": 4
+        }
+    },
+    "bcfrea01_3": {
+        "item_type": 10,
+        "mpft": {
+            "mpftMpCA": 5,
+            "mpftMpGA": 5,
+            "mpftMpPE": 5,
+            "mpftMpM": 5
+        }
+    },
+    "bcfrea02_2": {
+        "item_type": 11,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 3,
+            "mpftMpPE": 3,
+            "mpftMpM": 3
+        }
+    },
+    "bcfrea02_3": {
+        "item_type": 11,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 4,
+            "mpftMpPE": 4,
+            "mpftMpM": 4
+        }
+    },
+    "bcfrea03_2": {
+        "item_type": 12,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 4,
+            "mpftMpPE": 4,
+            "mpftMpM": 4
+        }
+    },
+    "bcfrea03_3": {
+        "item_type": 12,
+        "mpft": {
+            "mpftMpCA": 5,
+            "mpftMpGA": 5,
+            "mpftMpPE": 5,
+            "mpftMpM": 5
+        }
+    },
+    "bcfrea04_2": {
+        "item_type": 13,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 1,
+            "mpftMpPE": 1,
+            "mpftMpM": 1
+        }
+    },
+    "bcfrea04_3": {
+        "item_type": 13,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 2,
+            "mpftMpPE": 2,
+            "mpftMpM": 1
+        }
+    },
+    "bcfrea05_2": {
+        "item_type": 14,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 2,
+            "mpftMpPE": 2,
+            "mpftMpM": 1
+        }
+    },
+    "bcfrea05_3": {
+        "item_type": 14,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 2,
+            "mpftMpPE": 2,
+            "mpftMpM": 2
+        }
+    },
+    "bcfrea06_2": {
+        "item_type": 15,
+        "mpft": {
+            "mpftMpCA": 3,
+            "mpftMpGA": 3,
+            "mpftMpPE": 3,
+            "mpftMpM": 2
+        }
+    },
+    "bcfrea06_3": {
+        "item_type": 15,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 3,
+            "mpftMpPE": 3,
+            "mpftMpM": 3
+        }
+    },
+    "bcmrea01_2": {
+        "item_type": 10,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 4,
+            "mpftMpPE": 4,
+            "mpftMpM": 4
+        }
+    },
+    "bcmrea01_3": {
+        "item_type": 10,
+        "mpft": {
+            "mpftMpCA": 5,
+            "mpftMpGA": 5,
+            "mpftMpPE": 5,
+            "mpftMpM": 5
+        }
+    },
+    "bcmrea02_2": {
+        "item_type": 11,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 3,
+            "mpftMpPE": 3,
+            "mpftMpM": 3
+        }
+    },
+    "bcmrea02_3": {
+        "item_type": 11,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 4,
+            "mpftMpPE": 4,
+            "mpftMpM": 4
+        }
+    },
+    "bcmrea03_2": {
+        "item_type": 12,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 4,
+            "mpftMpPE": 4,
+            "mpftMpM": 4
+        }
+    },
+    "bcmrea03_3": {
+        "item_type": 12,
+        "mpft": {
+            "mpftMpCA": 5,
+            "mpftMpGA": 5,
+            "mpftMpPE": 5,
+            "mpftMpM": 5
+        }
+    },
+    "bcmrea04_2": {
+        "item_type": 13,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 1,
+            "mpftMpPE": 1,
+            "mpftMpM": 1
+        }
+    },
+    "bcmrea04_3": {
+        "item_type": 13,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 2,
+            "mpftMpPE": 2,
+            "mpftMpM": 1
+        }
+    },
+    "bcmrea05_2": {
+        "item_type": 14,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 2,
+            "mpftMpPE": 2,
+            "mpftMpM": 1
+        }
+    },
+    "bcmrea05_3": {
+        "item_type": 14,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 2,
+            "mpftMpPE": 2,
+            "mpftMpM": 2
+        }
+    },
+    "bcmrea06_2": {
+        "item_type": 15,
+        "mpft": {
+            "mpftMpCA": 3,
+            "mpftMpGA": 3,
+            "mpftMpPE": 3,
+            "mpftMpM": 2
+        }
+    },
+    "bcmrea06_3": {
+        "item_type": 15,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 3,
+            "mpftMpPE": 3,
+            "mpftMpM": 3
+        }
+    },
+    "bctrea01_2": {
+        "item_type": 10,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 4,
+            "mpftMpPE": 4,
+            "mpftMpM": 4
+        }
+    },
+    "bctrea01_3": {
+        "item_type": 10,
+        "mpft": {
+            "mpftMpCA": 5,
+            "mpftMpGA": 5,
+            "mpftMpPE": 5,
+            "mpftMpM": 5
+        }
+    },
+    "bctrea02_2": {
+        "item_type": 11,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 3,
+            "mpftMpPE": 3,
+            "mpftMpM": 3
+        }
+    },
+    "bctrea02_3": {
+        "item_type": 11,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 4,
+            "mpftMpPE": 4,
+            "mpftMpM": 4
+        }
+    },
+    "bctrea03_2": {
+        "item_type": 12,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 4,
+            "mpftMpPE": 4,
+            "mpftMpM": 4
+        }
+    },
+    "bctrea03_3": {
+        "item_type": 12,
+        "mpft": {
+            "mpftMpCA": 5,
+            "mpftMpGA": 5,
+            "mpftMpPE": 5,
+            "mpftMpM": 5
+        }
+    },
+    "bctrea04_2": {
+        "item_type": 13,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 1,
+            "mpftMpPE": 1,
+            "mpftMpM": 1
+        }
+    },
+    "bctrea04_3": {
+        "item_type": 13,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 2,
+            "mpftMpPE": 2,
+            "mpftMpM": 1
+        }
+    },
+    "bctrea05_2": {
+        "item_type": 14,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 2,
+            "mpftMpPE": 2,
+            "mpftMpM": 1
+        }
+    },
+    "bctrea05_3": {
+        "item_type": 14,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 2,
+            "mpftMpPE": 2,
+            "mpftMpM": 2
+        }
+    },
+    "bctrea06_2": {
+        "item_type": 15,
+        "mpft": {
+            "mpftMpCA": 3,
+            "mpftMpGA": 3,
+            "mpftMpPE": 3,
+            "mpftMpM": 2
+        }
+    },
+    "bctrea06_3": {
+        "item_type": 15,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 3,
+            "mpftMpPE": 3,
+            "mpftMpM": 3
+        }
+    },
+    "bczrea01_2": {
+        "item_type": 10,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 4,
+            "mpftMpPE": 4,
+            "mpftMpM": 4
+        }
+    },
+    "bczrea01_3": {
+        "item_type": 10,
+        "mpft": {
+            "mpftMpCA": 5,
+            "mpftMpGA": 5,
+            "mpftMpPE": 5,
+            "mpftMpM": 5
+        }
+    },
+    "bczrea02_2": {
+        "item_type": 11,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 3,
+            "mpftMpPE": 3,
+            "mpftMpM": 3
+        }
+    },
+    "bczrea02_3": {
+        "item_type": 11,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 4,
+            "mpftMpPE": 4,
+            "mpftMpM": 4
+        }
+    },
+    "bczrea03_2": {
+        "item_type": 12,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 4,
+            "mpftMpPE": 4,
+            "mpftMpM": 4
+        }
+    },
+    "bczrea03_3": {
+        "item_type": 12,
+        "mpft": {
+            "mpftMpCA": 5,
+            "mpftMpGA": 5,
+            "mpftMpPE": 5,
+            "mpftMpM": 5
+        }
+    },
+    "bczrea04_2": {
+        "item_type": 13,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 1,
+            "mpftMpPE": 1,
+            "mpftMpM": 1
+        }
+    },
+    "bczrea04_3": {
+        "item_type": 13,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 2,
+            "mpftMpPE": 2,
+            "mpftMpM": 1
+        }
+    },
+    "bczrea05_2": {
+        "item_type": 14,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 2,
+            "mpftMpPE": 2,
+            "mpftMpM": 1
+        }
+    },
+    "bczrea05_3": {
+        "item_type": 14,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 2,
+            "mpftMpPE": 2,
+            "mpftMpM": 2
+        }
+    },
+    "bczrea06_2": {
+        "item_type": 15,
+        "mpft": {
+            "mpftMpCA": 3,
+            "mpftMpGA": 3,
+            "mpftMpPE": 3,
+            "mpftMpM": 2
+        }
+    },
+    "bczrea06_3": {
+        "item_type": 15,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 3,
+            "mpftMpPE": 3,
+            "mpftMpM": 3
+        }
+    },
+    "bcfmea01_2": {
+        "item_type": 7,
+        "mpft": {
+            "mpftMpL": 7,
+            "mpftMpM": 7,
+            "mpftMpG": 7,
+            "mpftMpC": 6
+        }
+    },
+    "bcfmea01_3": {
+        "item_type": 7,
+        "mpft": {
+            "mpftMpL": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        }
+    },
+    "bcfmea02_2": {
+        "item_type": 8,
+        "mpft": {
+            "mpftMpP": 9,
+            "mpftMpM": 9,
+            "mpftMpG": 9
+        }
+    },
+    "bcfmea02_3": {
+        "item_type": 8,
+        "mpft": {
+            "mpftMpP": 11,
+            "mpftMpM": 11,
+            "mpftMpG": 11
+        }
+    },
+    "bcfmea03_2": {
+        "item_type": 9,
+        "mpft": {
+            "mpftMpH": 7,
+            "mpftMpM": 7,
+            "mpftMpG": 7,
+            "mpftMpC": 6
+        }
+    },
+    "bcfmea03_3": {
+        "item_type": 9,
+        "mpft": {
+            "mpftMpH": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        }
+    },
+    "bcfmea04_2": {
+        "item_type": 6,
+        "mpft": {
+            "mpftMpL": 7,
+            "mpftMpM": 7,
+            "mpftMpG": 7,
+            "mpftMpC": 6
+        }
+    },
+    "bcfmea04_3": {
+        "item_type": 6,
+        "mpft": {
+            "mpftMpL": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        }
+    },
+    "bcfmea05_2": {
+        "item_type": 3,
+        "mpft": {
+            "mpftMpL": 5,
+            "mpftMpM": 5,
+            "mpftMpG": 5,
+            "mpftMpC": 4
+        }
+    },
+    "bcfmea05_3": {
+        "item_type": 3,
+        "mpft": {
+            "mpftMpL": 6,
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpC": 5
+        }
+    },
+    "bcfmea06_2": {
+        "item_type": 0,
+        "mpft": {
+            "mpftMpL": 2,
+            "mpftMpM": 2,
+            "mpftMpG": 2,
+            "mpftMpC": 2
+        }
+    },
+    "bcfmea06_3": {
+        "item_type": 0,
+        "mpft": {
+            "mpftMpL": 3,
+            "mpftMpM": 3,
+            "mpftMpG": 2,
+            "mpftMpC": 2
+        }
+    },
+    "bcfmea07_2": {
+        "item_type": 4,
+        "mpft": {
+            "mpftMpP": 7,
+            "mpftMpM": 6,
+            "mpftMpG": 6
+        }
+    },
+    "bcfmea07_3": {
+        "item_type": 4,
+        "mpft": {
+            "mpftMpP": 8,
+            "mpftMpM": 8,
+            "mpftMpG": 7
+        }
+    },
+    "bcfmea08_2": {
+        "item_type": 2,
+        "mpft": {
+            "mpftMpH": 5,
+            "mpftMpM": 5,
+            "mpftMpG": 5,
+            "mpftMpC": 4
+        }
+    },
+    "bcfmea08_3": {
+        "item_type": 2,
+        "mpft": {
+            "mpftMpH": 6,
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpC": 5
+        }
+    },
+    "bcfmea09_2": {
+        "item_type": 5,
+        "mpft": {
+            "mpftMpM": 10,
+            "mpftMpG": 9
+        }
+    },
+    "bcfmea09_3": {
+        "item_type": 5,
+        "mpft": {
+            "mpftMpM": 12,
+            "mpftMpG": 11
+        }
+    },
+    "bcfmea10_2": {
+        "item_type": 1,
+        "mpft": {
+            "mpftMpL": 5,
+            "mpftMpM": 5,
+            "mpftMpG": 5,
+            "mpftMpC": 4
+        }
+    },
+    "bcfmea10_3": {
+        "item_type": 1,
+        "mpft": {
+            "mpftMpL": 6,
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpC": 5
+        }
+    },
+    "bcmmea01_2": {
+        "item_type": 7,
+        "mpft": {
+            "mpftMpL": 7,
+            "mpftMpM": 7,
+            "mpftMpG": 7,
+            "mpftMpC": 6
+        }
+    },
+    "bcmmea01_3": {
+        "item_type": 7,
+        "mpft": {
+            "mpftMpL": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        }
+    },
+    "bcmmea02_2": {
+        "item_type": 8,
+        "mpft": {
+            "mpftMpP": 9,
+            "mpftMpM": 9,
+            "mpftMpG": 9
+        }
+    },
+    "bcmmea02_3": {
+        "item_type": 8,
+        "mpft": {
+            "mpftMpP": 11,
+            "mpftMpM": 11,
+            "mpftMpG": 11
+        }
+    },
+    "bcmmea03_2": {
+        "item_type": 9,
+        "mpft": {
+            "mpftMpH": 7,
+            "mpftMpM": 7,
+            "mpftMpG": 7,
+            "mpftMpC": 6
+        }
+    },
+    "bcmmea03_3": {
+        "item_type": 9,
+        "mpft": {
+            "mpftMpH": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        }
+    },
+    "bcmmea04_2": {
+        "item_type": 6,
+        "mpft": {
+            "mpftMpL": 7,
+            "mpftMpM": 7,
+            "mpftMpG": 7,
+            "mpftMpC": 6
+        }
+    },
+    "bcmmea04_3": {
+        "item_type": 6,
+        "mpft": {
+            "mpftMpL": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        }
+    },
+    "bcmmea05_2": {
+        "item_type": 3,
+        "mpft": {
+            "mpftMpL": 5,
+            "mpftMpM": 5,
+            "mpftMpG": 5,
+            "mpftMpC": 4
+        }
+    },
+    "bcmmea05_3": {
+        "item_type": 3,
+        "mpft": {
+            "mpftMpL": 6,
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpC": 5
+        }
+    },
+    "bcmmea06_2": {
+        "item_type": 0,
+        "mpft": {
+            "mpftMpL": 2,
+            "mpftMpM": 2,
+            "mpftMpG": 2,
+            "mpftMpC": 2
+        }
+    },
+    "bcmmea06_3": {
+        "item_type": 0,
+        "mpft": {
+            "mpftMpL": 3,
+            "mpftMpM": 3,
+            "mpftMpG": 2,
+            "mpftMpC": 2
+        }
+    },
+    "bcmmea07_2": {
+        "item_type": 4,
+        "mpft": {
+            "mpftMpP": 7,
+            "mpftMpM": 6,
+            "mpftMpG": 6
+        }
+    },
+    "bcmmea07_3": {
+        "item_type": 4,
+        "mpft": {
+            "mpftMpP": 8,
+            "mpftMpM": 8,
+            "mpftMpG": 7
+        }
+    },
+    "bcmmea08_2": {
+        "item_type": 2,
+        "mpft": {
+            "mpftMpH": 5,
+            "mpftMpM": 5,
+            "mpftMpG": 5,
+            "mpftMpC": 4
+        }
+    },
+    "bcmmea08_3": {
+        "item_type": 2,
+        "mpft": {
+            "mpftMpH": 6,
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpC": 5
+        }
+    },
+    "bcmmea09_2": {
+        "item_type": 5,
+        "mpft": {
+            "mpftMpM": 10,
+            "mpftMpG": 9
+        }
+    },
+    "bcmmea09_3": {
+        "item_type": 5,
+        "mpft": {
+            "mpftMpM": 12,
+            "mpftMpG": 11
+        }
+    },
+    "bcmmea10_2": {
+        "item_type": 1,
+        "mpft": {
+            "mpftMpL": 5,
+            "mpftMpM": 5,
+            "mpftMpG": 5,
+            "mpftMpC": 4
+        }
+    },
+    "bcmmea10_3": {
+        "item_type": 1,
+        "mpft": {
+            "mpftMpL": 6,
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpC": 5
+        }
+    },
+    "bctmea01_2": {
+        "item_type": 7,
+        "mpft": {
+            "mpftMpL": 7,
+            "mpftMpM": 7,
+            "mpftMpG": 7,
+            "mpftMpC": 6
+        }
+    },
+    "bctmea01_3": {
+        "item_type": 7,
+        "mpft": {
+            "mpftMpL": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        }
+    },
+    "bctmea02_2": {
+        "item_type": 8,
+        "mpft": {
+            "mpftMpP": 9,
+            "mpftMpM": 9,
+            "mpftMpG": 9
+        }
+    },
+    "bctmea02_3": {
+        "item_type": 8,
+        "mpft": {
+            "mpftMpP": 11,
+            "mpftMpM": 11,
+            "mpftMpG": 11
+        }
+    },
+    "bctmea03_2": {
+        "item_type": 9,
+        "mpft": {
+            "mpftMpH": 7,
+            "mpftMpM": 7,
+            "mpftMpG": 7,
+            "mpftMpC": 6
+        }
+    },
+    "bctmea03_3": {
+        "item_type": 9,
+        "mpft": {
+            "mpftMpH": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        }
+    },
+    "bctmea04_2": {
+        "item_type": 6,
+        "mpft": {
+            "mpftMpL": 7,
+            "mpftMpM": 7,
+            "mpftMpG": 7,
+            "mpftMpC": 6
+        }
+    },
+    "bctmea04_3": {
+        "item_type": 6,
+        "mpft": {
+            "mpftMpL": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        }
+    },
+    "bctmea05_2": {
+        "item_type": 3,
+        "mpft": {
+            "mpftMpL": 5,
+            "mpftMpM": 5,
+            "mpftMpG": 5,
+            "mpftMpC": 4
+        }
+    },
+    "bctmea05_3": {
+        "item_type": 3,
+        "mpft": {
+            "mpftMpL": 6,
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpC": 5
+        }
+    },
+    "bctmea06_2": {
+        "item_type": 0,
+        "mpft": {
+            "mpftMpL": 2,
+            "mpftMpM": 2,
+            "mpftMpG": 2,
+            "mpftMpC": 2
+        }
+    },
+    "bctmea06_3": {
+        "item_type": 0,
+        "mpft": {
+            "mpftMpL": 3,
+            "mpftMpM": 3,
+            "mpftMpG": 2,
+            "mpftMpC": 2
+        }
+    },
+    "bctmea07_2": {
+        "item_type": 4,
+        "mpft": {
+            "mpftMpP": 7,
+            "mpftMpM": 6,
+            "mpftMpG": 6
+        }
+    },
+    "bctmea07_3": {
+        "item_type": 4,
+        "mpft": {
+            "mpftMpP": 8,
+            "mpftMpM": 8,
+            "mpftMpG": 7
+        }
+    },
+    "bctmea08_2": {
+        "item_type": 2,
+        "mpft": {
+            "mpftMpH": 5,
+            "mpftMpM": 5,
+            "mpftMpG": 5,
+            "mpftMpC": 4
+        }
+    },
+    "bctmea08_3": {
+        "item_type": 2,
+        "mpft": {
+            "mpftMpH": 6,
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpC": 5
+        }
+    },
+    "bctmea09_2": {
+        "item_type": 5,
+        "mpft": {
+            "mpftMpM": 10,
+            "mpftMpG": 9
+        }
+    },
+    "bctmea09_3": {
+        "item_type": 5,
+        "mpft": {
+            "mpftMpM": 12,
+            "mpftMpG": 11
+        }
+    },
+    "bctmea10_2": {
+        "item_type": 1,
+        "mpft": {
+            "mpftMpL": 5,
+            "mpftMpM": 5,
+            "mpftMpG": 5,
+            "mpftMpC": 4
+        }
+    },
+    "bctmea10_3": {
+        "item_type": 1,
+        "mpft": {
+            "mpftMpL": 6,
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpC": 5
+        }
+    },
+    "bczmea01_2": {
+        "item_type": 7,
+        "mpft": {
+            "mpftMpL": 7,
+            "mpftMpM": 7,
+            "mpftMpG": 7,
+            "mpftMpC": 6
+        }
+    },
+    "bczmea01_3": {
+        "item_type": 7,
+        "mpft": {
+            "mpftMpL": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        }
+    },
+    "bczmea02_2": {
+        "item_type": 8,
+        "mpft": {
+            "mpftMpP": 9,
+            "mpftMpM": 9,
+            "mpftMpG": 9
+        }
+    },
+    "bczmea02_3": {
+        "item_type": 8,
+        "mpft": {
+            "mpftMpP": 11,
+            "mpftMpM": 11,
+            "mpftMpG": 11
+        }
+    },
+    "bczmea03_2": {
+        "item_type": 9,
+        "mpft": {
+            "mpftMpH": 7,
+            "mpftMpM": 7,
+            "mpftMpG": 7,
+            "mpftMpC": 6
+        }
+    },
+    "bczmea03_3": {
+        "item_type": 9,
+        "mpft": {
+            "mpftMpH": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        }
+    },
+    "bczmea04_2": {
+        "item_type": 6,
+        "mpft": {
+            "mpftMpL": 7,
+            "mpftMpM": 7,
+            "mpftMpG": 7,
+            "mpftMpC": 6
+        }
+    },
+    "bczmea04_3": {
+        "item_type": 6,
+        "mpft": {
+            "mpftMpL": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        }
+    },
+    "bczmea05_2": {
+        "item_type": 3,
+        "mpft": {
+            "mpftMpL": 5,
+            "mpftMpM": 5,
+            "mpftMpG": 5,
+            "mpftMpC": 4
+        }
+    },
+    "bczmea05_3": {
+        "item_type": 3,
+        "mpft": {
+            "mpftMpL": 6,
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpC": 5
+        }
+    },
+    "bczmea06_2": {
+        "item_type": 0,
+        "mpft": {
+            "mpftMpL": 2,
+            "mpftMpM": 2,
+            "mpftMpG": 2,
+            "mpftMpC": 2
+        }
+    },
+    "bczmea06_3": {
+        "item_type": 0,
+        "mpft": {
+            "mpftMpL": 3,
+            "mpftMpM": 3,
+            "mpftMpG": 2,
+            "mpftMpC": 2
+        }
+    },
+    "bczmea07_2": {
+        "item_type": 4,
+        "mpft": {
+            "mpftMpP": 7,
+            "mpftMpM": 6,
+            "mpftMpG": 6
+        }
+    },
+    "bczmea07_3": {
+        "item_type": 4,
+        "mpft": {
+            "mpftMpP": 8,
+            "mpftMpM": 8,
+            "mpftMpG": 7
+        }
+    },
+    "bczmea08_2": {
+        "item_type": 2,
+        "mpft": {
+            "mpftMpH": 5,
+            "mpftMpM": 5,
+            "mpftMpG": 5,
+            "mpftMpC": 4
+        }
+    },
+    "bczmea08_3": {
+        "item_type": 2,
+        "mpft": {
+            "mpftMpH": 6,
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpC": 5
+        }
+    },
+    "bczmea09_2": {
+        "item_type": 5,
+        "mpft": {
+            "mpftMpM": 10,
+            "mpftMpG": 9
+        }
+    },
+    "bczmea09_3": {
+        "item_type": 5,
+        "mpft": {
+            "mpftMpM": 12,
+            "mpftMpG": 11
+        }
+    },
+    "bczmea10_2": {
+        "item_type": 1,
+        "mpft": {
+            "mpftMpL": 5,
+            "mpftMpM": 5,
+            "mpftMpG": 5,
+            "mpftMpC": 4
+        }
+    },
+    "bczmea10_3": {
+        "item_type": 1,
+        "mpft": {
+            "mpftMpL": 6,
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpC": 5
+        }
+    },
+    "bcfsea01_2": {
+        "item_type": 23,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpAT": 4
+        }
+    },
+    "bcfsea01_3": {
+        "item_type": 23,
+        "mpft": {
+            "mpftMpCR": 6,
+            "mpftMpAT": 5
+        }
+    },
+    "bcfsea02_2": {
+        "item_type": 22,
+        "mpft": {
+            "mpftMpCR": 9,
+            "mpftMpAT": 8
+        }
+    },
+    "bcfsea02_3": {
+        "item_type": 22,
+        "mpft": {
+            "mpftMpCR": 11,
+            "mpftMpAT": 10
+        }
+    },
+    "bcmsea01_2": {
+        "item_type": 23,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpAT": 4
+        }
+    },
+    "bcmsea01_3": {
+        "item_type": 23,
+        "mpft": {
+            "mpftMpCR": 6,
+            "mpftMpAT": 5
+        }
+    },
+    "bcmsea02_2": {
+        "item_type": 22,
+        "mpft": {
+            "mpftMpCR": 9,
+            "mpftMpAT": 8
+        }
+    },
+    "bcmsea02_3": {
+        "item_type": 22,
+        "mpft": {
+            "mpftMpCR": 11,
+            "mpftMpAT": 10
+        }
+    },
+    "bctsea01_2": {
+        "item_type": 23,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpAT": 4
+        }
+    },
+    "bctsea01_3": {
+        "item_type": 23,
+        "mpft": {
+            "mpftMpCR": 6,
+            "mpftMpAT": 5
+        }
+    },
+    "bctsea02_2": {
+        "item_type": 22,
+        "mpft": {
+            "mpftMpCR": 9,
+            "mpftMpAT": 8
+        }
+    },
+    "bctsea02_3": {
+        "item_type": 22,
+        "mpft": {
+            "mpftMpCR": 11,
+            "mpftMpAT": 10
+        }
+    },
+    "bczsea01_2": {
+        "item_type": 23,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpAT": 4
+        }
+    },
+    "bczsea01_3": {
+        "item_type": 23,
+        "mpft": {
+            "mpftMpCR": 6,
+            "mpftMpAT": 5
+        }
+    },
+    "bczsea02_2": {
+        "item_type": 22,
+        "mpft": {
+            "mpftMpCR": 9,
+            "mpftMpAT": 8
+        }
+    },
+    "bczsea02_3": {
+        "item_type": 22,
+        "mpft": {
+            "mpftMpCR": 11,
+            "mpftMpAT": 10
+        }
+    },
+    "bcfmea15": {
+        "item_type": 57,
+        "mpft": {
+            "mpftMpM": 5,
+            "mpftMpG": 5,
+            "mpftMpMF": 10
+        }
+    },
+    "bcfmea15_2": {
+        "item_type": 57,
+        "mpft": {
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpMF": 15
+        }
+    },
+    "bcfmea15_3": {
+        "item_type": 57,
+        "mpft": {
+            "mpftMpM": 7,
+            "mpftMpG": 6,
+            "mpftMpMF": 20
+        }
+    },
+    "bcmmea15": {
+        "item_type": 57,
+        "mpft": {
+            "mpftMpM": 5,
+            "mpftMpG": 5,
+            "mpftMpMF": 10
+        }
+    },
+    "bcmmea15_2": {
+        "item_type": 57,
+        "mpft": {
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpMF": 15
+        }
+    },
+    "bcmmea15_3": {
+        "item_type": 57,
+        "mpft": {
+            "mpftMpM": 7,
+            "mpftMpG": 6,
+            "mpftMpMF": 20
+        }
+    },
+    "bctmea15": {
+        "item_type": 57,
+        "mpft": {
+            "mpftMpM": 5,
+            "mpftMpG": 5,
+            "mpftMpMF": 10
+        }
+    },
+    "bctmea15_2": {
+        "item_type": 57,
+        "mpft": {
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpMF": 15
+        }
+    },
+    "bctmea15_3": {
+        "item_type": 57,
+        "mpft": {
+            "mpftMpM": 7,
+            "mpftMpG": 6,
+            "mpftMpMF": 20
+        }
+    },
+    "bczmea15": {
+        "item_type": 57,
+        "mpft": {
+            "mpftMpM": 5,
+            "mpftMpG": 5,
+            "mpftMpMF": 10
+        }
+    },
+    "bczmea15_2": {
+        "item_type": 57,
+        "mpft": {
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpMF": 15
+        }
+    },
+    "bczmea15_3": {
+        "item_type": 57,
+        "mpft": {
+            "mpftMpM": 7,
+            "mpftMpG": 6,
+            "mpftMpMF": 20
+        }
+    },
+    "bccmea15": {
+        "item_type": 57,
+        "mpft": {
+            "mpftMpM": 4,
+            "mpftMpG": 4,
+            "mpftMpMF": 10
+        }
+    },
+    "bcbmea01": {
+        "item_type": 7,
+        "mpft": {
+            "mpftMpL": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        }
+    },
+    "bcbmea01_2": {
+        "item_type": 7,
+        "mpft": {
+            "mpftMpL": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        }
+    },
+    "bcbmea01_3": {
+        "item_type": 7,
+        "mpft": {
+            "mpftMpL": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        }
+    },
+    "bcbmea02": {
+        "item_type": 8,
+        "mpft": {
+            "mpftMpP": 11,
+            "mpftMpM": 11,
+            "mpftMpG": 11
+        }
+    },
+    "bcbmea02_2": {
+        "item_type": 8,
+        "mpft": {
+            "mpftMpP": 11,
+            "mpftMpM": 11,
+            "mpftMpG": 11
+        }
+    },
+    "bcbmea02_3": {
+        "item_type": 8,
+        "mpft": {
+            "mpftMpP": 11,
+            "mpftMpM": 11,
+            "mpftMpG": 11
+        }
+    },
+    "bcbmea03": {
+        "item_type": 9,
+        "mpft": {
+            "mpftMpH": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        }
+    },
+    "bcbmea03_2": {
+        "item_type": 9,
+        "mpft": {
+            "mpftMpH": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        }
+    },
+    "bcbmea03_3": {
+        "item_type": 9,
+        "mpft": {
+            "mpftMpH": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        }
+    },
+    "bcbmea04": {
+        "item_type": 6,
+        "mpft": {
+            "mpftMpL": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        }
+    },
+    "bcbmea04_2": {
+        "item_type": 6,
+        "mpft": {
+            "mpftMpL": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        }
+    },
+    "bcbmea04_3": {
+        "item_type": 6,
+        "mpft": {
+            "mpftMpL": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        }
+    },
+    "bcbmea05": {
+        "item_type": 3,
+        "mpft": {
+            "mpftMpL": 6,
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpC": 5
+        }
+    },
+    "bcbmea05_2": {
+        "item_type": 3,
+        "mpft": {
+            "mpftMpL": 6,
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpC": 5
+        }
+    },
+    "bcbmea05_3": {
+        "item_type": 3,
+        "mpft": {
+            "mpftMpL": 6,
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpC": 5
+        }
+    },
+    "bcbmea06": {
+        "item_type": 0,
+        "mpft": {
+            "mpftMpL": 3,
+            "mpftMpM": 3,
+            "mpftMpG": 2,
+            "mpftMpC": 2
+        }
+    },
+    "bcbmea06_2": {
+        "item_type": 0,
+        "mpft": {
+            "mpftMpL": 3,
+            "mpftMpM": 3,
+            "mpftMpG": 2,
+            "mpftMpC": 2
+        }
+    },
+    "bcbmea06_3": {
+        "item_type": 0,
+        "mpft": {
+            "mpftMpL": 3,
+            "mpftMpM": 3,
+            "mpftMpG": 2,
+            "mpftMpC": 2
+        }
+    },
+    "bcbmea07": {
+        "item_type": 4,
+        "mpft": {
+            "mpftMpP": 8,
+            "mpftMpM": 8,
+            "mpftMpG": 7
+        }
+    },
+    "bcbmea07_2": {
+        "item_type": 4,
+        "mpft": {
+            "mpftMpP": 8,
+            "mpftMpM": 8,
+            "mpftMpG": 7
+        }
+    },
+    "bcbmea07_3": {
+        "item_type": 4,
+        "mpft": {
+            "mpftMpP": 8,
+            "mpftMpM": 8,
+            "mpftMpG": 7
+        }
+    },
+    "bcbmea08": {
+        "item_type": 2,
+        "mpft": {
+            "mpftMpH": 6,
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpC": 5
+        }
+    },
+    "bcbmea08_2": {
+        "item_type": 2,
+        "mpft": {
+            "mpftMpH": 6,
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpC": 5
+        }
+    },
+    "bcbmea08_3": {
+        "item_type": 2,
+        "mpft": {
+            "mpftMpH": 6,
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpC": 5
+        }
+    },
+    "bcbmea09": {
+        "item_type": 5,
+        "mpft": {
+            "mpftMpM": 12,
+            "mpftMpG": 11
+        }
+    },
+    "bcbmea09_2": {
+        "item_type": 5,
+        "mpft": {
+            "mpftMpM": 12,
+            "mpftMpG": 11
+        }
+    },
+    "bcbmea09_3": {
+        "item_type": 5,
+        "mpft": {
+            "mpftMpM": 12,
+            "mpftMpG": 11
+        }
+    },
+    "bcbmea10": {
+        "item_type": 1,
+        "mpft": {
+            "mpftMpL": 6,
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpC": 5
+        }
+    },
+    "bcbmea10_2": {
+        "item_type": 1,
+        "mpft": {
+            "mpftMpL": 6,
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpC": 5
+        }
+    },
+    "bcbmea10_3": {
+        "item_type": 1,
+        "mpft": {
+            "mpftMpL": 6,
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpC": 5
+        }
+    },
+    "bcbrea01": {
+        "item_type": 10,
+        "mpft": {
+            "mpftMpCA": 5,
+            "mpftMpGA": 5,
+            "mpftMpPE": 5,
+            "mpftMpM": 5
+        }
+    },
+    "bcbrea01_2": {
+        "item_type": 10,
+        "mpft": {
+            "mpftMpCA": 5,
+            "mpftMpGA": 5,
+            "mpftMpPE": 5,
+            "mpftMpM": 5
+        }
+    },
+    "bcbrea01_3": {
+        "item_type": 10,
+        "mpft": {
+            "mpftMpCA": 5,
+            "mpftMpGA": 5,
+            "mpftMpPE": 5,
+            "mpftMpM": 5
+        }
+    },
+    "bcbrea02": {
+        "item_type": 11,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 4,
+            "mpftMpPE": 4,
+            "mpftMpM": 4
+        }
+    },
+    "bcbrea02_2": {
+        "item_type": 11,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 4,
+            "mpftMpPE": 4,
+            "mpftMpM": 4
+        }
+    },
+    "bcbrea02_3": {
+        "item_type": 11,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 4,
+            "mpftMpPE": 4,
+            "mpftMpM": 4
+        }
+    },
+    "bcbrea03": {
+        "item_type": 12,
+        "mpft": {
+            "mpftMpCA": 5,
+            "mpftMpGA": 5,
+            "mpftMpPE": 5,
+            "mpftMpM": 5
+        }
+    },
+    "bcbrea03_2": {
+        "item_type": 12,
+        "mpft": {
+            "mpftMpCA": 5,
+            "mpftMpGA": 5,
+            "mpftMpPE": 5,
+            "mpftMpM": 5
+        }
+    },
+    "bcbrea03_3": {
+        "item_type": 12,
+        "mpft": {
+            "mpftMpCA": 5,
+            "mpftMpGA": 5,
+            "mpftMpPE": 5,
+            "mpftMpM": 5
+        }
+    },
+    "bcbrea04": {
+        "item_type": 13,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 2,
+            "mpftMpPE": 2,
+            "mpftMpM": 1
+        }
+    },
+    "bcbrea04_2": {
+        "item_type": 13,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 2,
+            "mpftMpPE": 2,
+            "mpftMpM": 1
+        }
+    },
+    "bcbrea04_3": {
+        "item_type": 13,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 2,
+            "mpftMpPE": 2,
+            "mpftMpM": 1
+        }
+    },
+    "bcbrea05": {
+        "item_type": 14,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 2,
+            "mpftMpPE": 2,
+            "mpftMpM": 2
+        }
+    },
+    "bcbrea05_2": {
+        "item_type": 14,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 2,
+            "mpftMpPE": 2,
+            "mpftMpM": 2
+        }
+    },
+    "bcbrea05_3": {
+        "item_type": 14,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 2,
+            "mpftMpPE": 2,
+            "mpftMpM": 2
+        }
+    },
+    "bcbrea06": {
+        "item_type": 15,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 3,
+            "mpftMpPE": 3,
+            "mpftMpM": 3
+        }
+    },
+    "bcbrea06_2": {
+        "item_type": 15,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 3,
+            "mpftMpPE": 3,
+            "mpftMpM": 3
+        }
+    },
+    "bcbrea06_3": {
+        "item_type": 15,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 3,
+            "mpftMpPE": 3,
+            "mpftMpM": 3
+        }
+    },
+    "bcbsea02_3": {
+        "item_type": 22,
+        "mpft": {
+            "mpftMpCR": 11,
+            "mpftMpAT": 10
+        }
+    },
+    "bccsea03": {
+        "item_type": 23,
+        "mpft": {
+            "mpftMpCR": 11,
+            "mpftMpAT": 10
+        }
+    },
+    "bcrmea06": {
+        "item_type": 0,
+        "mpft": {
+            "mpftMpL": 3,
+            "mpftMpM": 1,
+            "mpftMpG": 1,
+            "mpftMpC": 1
+        }
+    },
+    "bcrmea10": {
+        "item_type": 1,
+        "mpft": {
+            "mpftMpL": 5,
+            "mpftMpM": 3,
+            "mpftMpG": 3,
+            "mpftMpC": 3
+        }
+    },
+    "bcrmea15": {
+        "item_type": 57,
+        "mpft": {
+            "mpftMpM": 8,
+            "mpftMpG": 2,
+            "mpftMpMF": 10
+        }
+    },
+    "bccaea01": {
+        "item_type": 34,
+        "mpft": {
+            "mpftMpCR": 6,
+            "mpftMpRI": 5,
+            "mpftMpRE": 4,
+            "mpftMpAT": 2
+        }
+    },
+    "bccaea02": {
+        "item_type": 35,
+        "mpft": {
+            "mpftMpCR": 6,
+            "mpftMpRI": 5,
+            "mpftMpRE": 4,
+            "mpftMpAT": 2
+        }
+    },
+    "bccaea03": {
+        "item_type": 39,
+        "mpft": {
+            "mpftMpCR": 9,
+            "mpftMpRI": 8,
+            "mpftMpRE": 7,
+            "mpftMpAT": 2
+        }
+    },
+    "bccaea04": {
+        "item_type": 36,
+        "mpft": {
+            "mpftMpCR": 9,
+            "mpftMpRI": 8,
+            "mpftMpRE": 7,
+            "mpftMpAT": 2
+        }
+    },
+    "bccaea05": {
+        "item_type": 37,
+        "mpft": {
+            "mpftMpCR": 6,
+            "mpftMpRI": 5,
+            "mpftMpRE": 4,
+            "mpftMpAT": 2
+        }
+    },
+    "bccaea06": {
+        "item_type": 38,
+        "mpft": {
+            "mpftMpCR": 9,
+            "mpftMpRI": 8,
+            "mpftMpRE": 7,
+            "mpftMpAT": 2
+        }
+    },
+    "bccmea16": {
+        "item_type": 9,
+        "mpft": {
+            "mpftMpH": 8,
+            "mpftMpM": 4,
+            "mpftMpG": 4,
+            "mpftMpC": 4
+        }
+    },
+    "bccaea19": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpVE": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bccaea07": {
+        "item_type": 24,
+        "mpft": {
+            "mpftMpVE": 2,
+            "mpftMpRI": 2,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bccaea08": {
+        "item_type": 25,
+        "mpft": {
+            "mpftMpVE": 2,
+            "mpftMpRI": 2,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bccaea09": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpVE": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bccaea10": {
+        "item_type": 27,
+        "mpft": {
+            "mpftMpVE": 2,
+            "mpftMpRI": 2,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bccaea11": {
+        "item_type": 28,
+        "mpft": {
+            "mpftMpVE": 3,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bccaea12": {
+        "item_type": 29,
+        "mpft": {
+            "mpftMpCR": 4,
+            "mpftMpRI": 4,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bccaea13": {
+        "item_type": 30,
+        "mpft": {
+            "mpftMpCR": 4,
+            "mpftMpRI": 4,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bccaea14": {
+        "item_type": 31,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 3,
+            "mpftMpAT": 2
+        }
+    },
+    "bccaea15": {
+        "item_type": 32,
+        "mpft": {
+            "mpftMpCR": 4,
+            "mpftMpRI": 4,
+            "mpftMpRE": 2,
+            "mpftMpAT": 2
+        }
+    },
+    "bccaea16": {
+        "item_type": 33,
+        "mpft": {
+            "mpftMpCR": 5,
+            "mpftMpRI": 5,
+            "mpftMpRE": 3,
+            "mpftMpAT": 2
+        }
+    },
+    "bckammi_ep2_large_bark_splinter": {
+        "item_type": 67,
+        "extra": {
+            "m0734dxacc01.sitem": 6,
+            "m0733dxacc01.sitem": 3
+        }
+    },
+    "bckammi_ep2_large_bud": {
+        "item_type": 67,
+        "extra": {
+            "m0736dxacc01.sitem": 3,
+            "m0737dxacc01.sitem": 3
+        }
+    },
+    "bckammi_ep2_large_fibers": {
+        "item_type": 67,
+        "extra": {
+            "m0732dxacc01.sitem": 6,
+            "m0733dxacc01.sitem": 3
+        }
+    },
+    "bckammi_ep2_large_moss_patch": {
+        "item_type": 67,
+        "extra": {
+            "m0735dxacc01.sitem": 6,
+            "m0736dxacc01.sitem": 3
+        }
+    },
+    "bckammi_ep2_large_root_piece": {
+        "item_type": 67,
+        "extra": {
+            "m0729dxacc01.sitem": 6,
+            "m0730dxacc01.sitem": 3
+        }
+    },
+    "bckammi_ep2_large_trunk": {
+        "item_type": 67,
+        "extra": {
+            "m0731dxacc01.sitem": 6,
+            "m0730dxacc01.sitem": 3
+        }
+    },
+    "bckammi_ep2_maj_maduk_core": {
+        "item_type": 67,
+        "extra": {
+            "m0739dxacc01.sitem": 6
+        }
+    },
+    "bckammi_ep2_maj_symbol_part": {
+        "item_type": 67,
+        "extra": {
+            "m0738dxacc01.sitem": 6,
+            "m0737dxacc01.sitem": 3
+        }
+    },
+    "bckammi_ep2_min_maduk_core": {
+        "item_type": 67,
+        "extra": {
+            "m0739dxacc01.sitem": 6
+        }
+    },
+    "bckammi_ep2_min_symbol_part": {
+        "item_type": 67,
+        "extra": {
+            "m0738dxacc01.sitem": 6,
+            "m0737dxacc01.sitem": 3
+        }
+    },
+    "bckammi_ep2_small_bark_splinter": {
+        "item_type": 67,
+        "extra": {
+            "m0734dxacc01.sitem": 6,
+            "m0733dxacc01.sitem": 3
+        }
+    },
+    "bckammi_ep2_small_bud": {
+        "item_type": 67,
+        "extra": {
+            "m0736dxacc01.sitem": 3,
+            "m0737dxacc01.sitem": 3
+        }
+    },
+    "bckammi_ep2_small_fibers": {
+        "item_type": 67,
+        "extra": {
+            "m0732dxacc01.sitem": 6,
+            "m0733dxacc01.sitem": 3
+        }
+    },
+    "bckammi_ep2_small_moss_patch": {
+        "item_type": 67,
+        "extra": {
+            "m0735dxacc01.sitem": 6,
+            "m0736dxacc01.sitem": 3
+        }
+    },
+    "bckammi_ep2_small_root_piece": {
+        "item_type": 67,
+        "extra": {
+            "m0729dxacc01.sitem": 6,
+            "m0730dxacc01.sitem": 3
+        }
+    },
+    "bckammi_ep2_small_trunk": {
+        "item_type": 67,
+        "extra": {
+            "m0731dxacc01.sitem": 6,
+            "m0730dxacc01.sitem": 3
+        }
+    },
+    "bckarmi_ep2_high_brick": {
+        "item_type": 67,
+        "extra": {
+            "m0734dxacc01.sitem": 6,
+            "m0733dxacc01.sitem": 3
+        }
+    },
+    "bckarmi_ep2_large_conglomerate": {
+        "item_type": 67,
+        "extra": {
+            "m0732dxacc01.sitem": 6,
+            "m0733dxacc01.sitem": 3
+        }
+    },
+    "bckarmi_ep2_large_patch_cover": {
+        "item_type": 67,
+        "extra": {
+            "m0735dxacc01.sitem": 6,
+            "m0736dxacc01.sitem": 3
+        }
+    },
+    "bckarmi_ep2_low_brick": {
+        "item_type": 67,
+        "extra": {
+            "m0734dxacc01.sitem": 6,
+            "m0733dxacc01.sitem": 3
+        }
+    },
+    "bckarmi_ep2_maj_column": {
+        "item_type": 67,
+        "extra": {
+            "m0731dxacc01.sitem": 6,
+            "m0730dxacc01.sitem": 3
+        }
+    },
+    "bckarmi_ep2_maj_justice_column": {
+        "item_type": 67,
+        "extra": {
+            "m0740dxacc01.sitem": 6
+        }
+    },
+    "bckarmi_ep2_maj_ornament": {
+        "item_type": 67,
+        "extra": {
+            "m0736dxacc01.sitem": 3,
+            "m0737dxacc01.sitem": 3
+        }
+    },
+    "bckarmi_ep2_maj_statue_part": {
+        "item_type": 67,
+        "extra": {
+            "m0738dxacc01.sitem": 6,
+            "m0737dxacc01.sitem": 3
+        }
+    },
+    "bckarmi_ep2_min_column": {
+        "item_type": 67,
+        "extra": {
+            "m0731dxacc01.sitem": 6,
+            "m0730dxacc01.sitem": 3
+        }
+    },
+    "bckarmi_ep2_min_justice_column": {
+        "item_type": 67,
+        "extra": {
+            "m0740dxacc01.sitem": 6
+        }
+    },
+    "bckarmi_ep2_min_ornament": {
+        "item_type": 67,
+        "extra": {
+            "m0736dxacc01.sitem": 3,
+            "m0737dxacc01.sitem": 3
+        }
+    },
+    "bckarmi_ep2_min_statue_part": {
+        "item_type": 67,
+        "extra": {
+            "m0738dxacc01.sitem": 6,
+            "m0737dxacc01.sitem": 3
+        }
+    },
+    "bckarmi_ep2_small_conglomerate": {
+        "item_type": 67,
+        "extra": {
+            "m0732dxacc01.sitem": 6,
+            "m0733dxacc01.sitem": 3
+        }
+    },
+    "bckarmi_ep2_small_patch_cover": {
+        "item_type": 67,
+        "extra": {
+            "m0735dxacc01.sitem": 6,
+            "m0736dxacc01.sitem": 3
+        }
+    },
+    "bckarmi_ep2_min_pedestal": {
+        "item_type": 67,
+        "extra": {
+            "m0729dxacc01.sitem": 6,
+            "m0730dxacc01.sitem": 3
+        }
+    },
+    "bckarmi_ep2_maj_pedestal": {
+        "item_type": 67,
+        "extra": {
+            "m0729dxacc01.sitem": 6,
+            "m0730dxacc01.sitem": 3
+        }
+    },
+    "bcfjea01_2": {
+        "item_type": 40,
+        "mpft": {
+            "mpftMpSU": 4,
+            "mpftMpED": 4
+        }
+    },
+    "bcfjea01_3": {
+        "item_type": 40,
+        "mpft": {
+            "mpftMpSU": 5,
+            "mpftMpED": 5
+        }
+    },
+    "bcfjea02_2": {
+        "item_type": 41,
+        "mpft": {
+            "mpftMpSU": 4,
+            "mpftMpED": 4
+        }
+    },
+    "bcfjea02_3": {
+        "item_type": 41,
+        "mpft": {
+            "mpftMpSU": 5,
+            "mpftMpED": 5
+        }
+    },
+    "bcfjea03_2": {
+        "item_type": 42,
+        "mpft": {
+            "mpftMpSU": 4,
+            "mpftMpED": 4
+        }
+    },
+    "bcfjea03_3": {
+        "item_type": 42,
+        "mpft": {
+            "mpftMpSU": 5,
+            "mpftMpED": 5
+        }
+    },
+    "bcfjea04_2": {
+        "item_type": 43,
+        "mpft": {
+            "mpftMpSU": 4,
+            "mpftMpED": 4
+        }
+    },
+    "bcfjea04_3": {
+        "item_type": 43,
+        "mpft": {
+            "mpftMpSU": 5,
+            "mpftMpED": 5
+        }
+    },
+    "bcfjea05_2": {
+        "item_type": 44,
+        "mpft": {
+            "mpftMpSU": 4,
+            "mpftMpED": 4
+        }
+    },
+    "bcfjea05_3": {
+        "item_type": 44,
+        "mpft": {
+            "mpftMpSU": 5,
+            "mpftMpED": 5
+        }
+    },
+    "bcfjea06_2": {
+        "item_type": 45,
+        "mpft": {
+            "mpftMpSU": 4,
+            "mpftMpED": 4
+        }
+    },
+    "bcfjea06_3": {
+        "item_type": 45,
+        "mpft": {
+            "mpftMpSU": 5,
+            "mpftMpED": 5
+        }
+    },
+    "bcmjea01_2": {
+        "item_type": 40,
+        "mpft": {
+            "mpftMpSU": 4,
+            "mpftMpED": 4
+        }
+    },
+    "bcmjea01_3": {
+        "item_type": 40,
+        "mpft": {
+            "mpftMpSU": 5,
+            "mpftMpED": 5
+        }
+    },
+    "bcmjea02_2": {
+        "item_type": 41,
+        "mpft": {
+            "mpftMpSU": 4,
+            "mpftMpED": 4
+        }
+    },
+    "bcmjea02_3": {
+        "item_type": 41,
+        "mpft": {
+            "mpftMpSU": 5,
+            "mpftMpED": 5
+        }
+    },
+    "bcmjea03_2": {
+        "item_type": 42,
+        "mpft": {
+            "mpftMpSU": 4,
+            "mpftMpED": 4
+        }
+    },
+    "bcmjea03_3": {
+        "item_type": 42,
+        "mpft": {
+            "mpftMpSU": 5,
+            "mpftMpED": 5
+        }
+    },
+    "bcmjea04_2": {
+        "item_type": 43,
+        "mpft": {
+            "mpftMpSU": 4,
+            "mpftMpED": 4
+        }
+    },
+    "bcmjea04_3": {
+        "item_type": 43,
+        "mpft": {
+            "mpftMpSU": 5,
+            "mpftMpED": 5
+        }
+    },
+    "bcmjea05_2": {
+        "item_type": 44,
+        "mpft": {
+            "mpftMpSU": 4,
+            "mpftMpED": 4
+        }
+    },
+    "bcmjea05_3": {
+        "item_type": 44,
+        "mpft": {
+            "mpftMpSU": 5,
+            "mpftMpED": 5
+        }
+    },
+    "bcmjea06_2": {
+        "item_type": 45,
+        "mpft": {
+            "mpftMpSU": 4,
+            "mpftMpED": 4
+        }
+    },
+    "bcmjea06_3": {
+        "item_type": 45,
+        "mpft": {
+            "mpftMpSU": 5,
+            "mpftMpED": 5
+        }
+    },
+    "bctjea01_2": {
+        "item_type": 40,
+        "mpft": {
+            "mpftMpSU": 4,
+            "mpftMpED": 4
+        }
+    },
+    "bctjea01_3": {
+        "item_type": 40,
+        "mpft": {
+            "mpftMpSU": 5,
+            "mpftMpED": 5
+        }
+    },
+    "bctjea02_2": {
+        "item_type": 41,
+        "mpft": {
+            "mpftMpSU": 4,
+            "mpftMpED": 4
+        }
+    },
+    "bctjea02_3": {
+        "item_type": 41,
+        "mpft": {
+            "mpftMpSU": 5,
+            "mpftMpED": 5
+        }
+    },
+    "bctjea03_2": {
+        "item_type": 42,
+        "mpft": {
+            "mpftMpSU": 4,
+            "mpftMpED": 4
+        }
+    },
+    "bctjea03_3": {
+        "item_type": 42,
+        "mpft": {
+            "mpftMpSU": 5,
+            "mpftMpED": 5
+        }
+    },
+    "bctjea04_2": {
+        "item_type": 43,
+        "mpft": {
+            "mpftMpSU": 4,
+            "mpftMpED": 4
+        }
+    },
+    "bctjea04_3": {
+        "item_type": 43,
+        "mpft": {
+            "mpftMpSU": 5,
+            "mpftMpED": 5
+        }
+    },
+    "bctjea05_2": {
+        "item_type": 44,
+        "mpft": {
+            "mpftMpSU": 4,
+            "mpftMpED": 4
+        }
+    },
+    "bctjea05_3": {
+        "item_type": 44,
+        "mpft": {
+            "mpftMpSU": 5,
+            "mpftMpED": 5
+        }
+    },
+    "bctjea06_2": {
+        "item_type": 45,
+        "mpft": {
+            "mpftMpSU": 4,
+            "mpftMpED": 4
+        }
+    },
+    "bctjea06_3": {
+        "item_type": 45,
+        "mpft": {
+            "mpftMpSU": 5,
+            "mpftMpED": 5
+        }
+    },
+    "bczjea01_2": {
+        "item_type": 40,
+        "mpft": {
+            "mpftMpSU": 4,
+            "mpftMpED": 4
+        }
+    },
+    "bczjea01_3": {
+        "item_type": 40,
+        "mpft": {
+            "mpftMpSU": 5,
+            "mpftMpED": 5
+        }
+    },
+    "bczjea02_2": {
+        "item_type": 41,
+        "mpft": {
+            "mpftMpSU": 4,
+            "mpftMpED": 4
+        }
+    },
+    "bczjea02_3": {
+        "item_type": 41,
+        "mpft": {
+            "mpftMpSU": 5,
+            "mpftMpED": 5
+        }
+    },
+    "bczjea03_2": {
+        "item_type": 42,
+        "mpft": {
+            "mpftMpSU": 4,
+            "mpftMpED": 4
+        }
+    },
+    "bczjea03_3": {
+        "item_type": 42,
+        "mpft": {
+            "mpftMpSU": 5,
+            "mpftMpED": 5
+        }
+    },
+    "bczjea04_2": {
+        "item_type": 43,
+        "mpft": {
+            "mpftMpSU": 4,
+            "mpftMpED": 4
+        }
+    },
+    "bczjea04_3": {
+        "item_type": 43,
+        "mpft": {
+            "mpftMpSU": 5,
+            "mpftMpED": 5
+        }
+    },
+    "bczjea05_2": {
+        "item_type": 44,
+        "mpft": {
+            "mpftMpSU": 4,
+            "mpftMpED": 4
+        }
+    },
+    "bczjea05_3": {
+        "item_type": 44,
+        "mpft": {
+            "mpftMpSU": 5,
+            "mpftMpED": 5
+        }
+    },
+    "bczjea06_2": {
+        "item_type": 45,
+        "mpft": {
+            "mpftMpSU": 4,
+            "mpftMpED": 4
+        }
+    },
+    "bczjea06_3": {
+        "item_type": 45,
+        "mpft": {
+            "mpftMpSU": 5,
+            "mpftMpED": 5
+        }
+    },
+    "bcokamem1bm_1": {
+        "item_type": 2,
+        "mpft": {
+            "mpftMpH": 6,
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpC": 5
+        },
+        "extra": {
+            "m0745dxacc01.sitem": 1
+        }
+    },
+    "bcokamem1bm_2": {
+        "item_type": 2,
+        "mpft": {
+            "mpftMpH": 6,
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpC": 5
+        },
+        "extra": {
+            "m0753dxacc01.sitem": 1
+        }
+    },
+    "bcokamem1bs_1": {
+        "item_type": 5,
+        "mpft": {
+            "mpftMpM": 12,
+            "mpftMpG": 11
+        },
+        "extra": {
+            "m0745dxacc01.sitem": 1
+        }
+    },
+    "bcokamem1bs_2": {
+        "item_type": 5,
+        "mpft": {
+            "mpftMpM": 12,
+            "mpftMpG": 11
+        },
+        "extra": {
+            "m0753dxacc01.sitem": 1
+        }
+    },
+    "bcokamem1pd_1": {
+        "item_type": 0,
+        "mpft": {
+            "mpftMpL": 3,
+            "mpftMpM": 3,
+            "mpftMpG": 2,
+            "mpftMpC": 2
+        },
+        "extra": {
+            "m0745dxacc01.sitem": 1
+        }
+    },
+    "bcokamem1pd_2": {
+        "item_type": 0,
+        "mpft": {
+            "mpftMpL": 3,
+            "mpftMpM": 3,
+            "mpftMpG": 2,
+            "mpftMpC": 2
+        },
+        "extra": {
+            "m0753dxacc01.sitem": 1
+        }
+    },
+    "bcokamem1ps_1": {
+        "item_type": 4,
+        "mpft": {
+            "mpftMpP": 8,
+            "mpftMpM": 8,
+            "mpftMpG": 7
+        },
+        "extra": {
+            "m0745dxacc01.sitem": 1
+        }
+    },
+    "bcokamem1ps_2": {
+        "item_type": 4,
+        "mpft": {
+            "mpftMpP": 8,
+            "mpftMpM": 8,
+            "mpftMpG": 7
+        },
+        "extra": {
+            "m0753dxacc01.sitem": 1
+        }
+    },
+    "bcokamem1sa_1": {
+        "item_type": 3,
+        "mpft": {
+            "mpftMpL": 6,
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpC": 5
+        },
+        "extra": {
+            "m0745dxacc01.sitem": 1
+        }
+    },
+    "bcokamem1sa_2": {
+        "item_type": 3,
+        "mpft": {
+            "mpftMpL": 6,
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpC": 5
+        },
+        "extra": {
+            "m0753dxacc01.sitem": 1
+        }
+    },
+    "bcokamem1ss_1": {
+        "item_type": 1,
+        "mpft": {
+            "mpftMpL": 6,
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpC": 5
+        },
+        "extra": {
+            "m0745dxacc01.sitem": 1
+        }
+    },
+    "bcokamem1ss_2": {
+        "item_type": 1,
+        "mpft": {
+            "mpftMpL": 6,
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpC": 5
+        },
+        "extra": {
+            "m0753dxacc01.sitem": 1
+        }
+    },
+    "bcokamem2bm_1": {
+        "item_type": 9,
+        "mpft": {
+            "mpftMpH": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        },
+        "extra": {
+            "m0745dxacc01.sitem": 1
+        }
+    },
+    "bcokamem2bm_2": {
+        "item_type": 9,
+        "mpft": {
+            "mpftMpH": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        },
+        "extra": {
+            "m0753dxacc01.sitem": 1
+        }
+    },
+    "bcokamem2ms_1": {
+        "item_type": 57,
+        "mpft": {
+            "mpftMpM": 7,
+            "mpftMpG": 6,
+            "mpftMpMF": 20
+        },
+        "extra": {
+            "m0746dxacc01.sitem": 1
+        }
+    },
+    "bcokamem2ms_2": {
+        "item_type": 57,
+        "mpft": {
+            "mpftMpM": 7,
+            "mpftMpG": 6,
+            "mpftMpMF": 20
+        },
+        "extra": {
+            "m0754dxacc01.sitem": 1
+        }
+    },
+    "bcokamem2pp_1": {
+        "item_type": 8,
+        "mpft": {
+            "mpftMpP": 11,
+            "mpftMpM": 11,
+            "mpftMpG": 11
+        },
+        "extra": {
+            "m0745dxacc01.sitem": 1
+        }
+    },
+    "bcokamem2pp_2": {
+        "item_type": 8,
+        "mpft": {
+            "mpftMpP": 11,
+            "mpftMpM": 11,
+            "mpftMpG": 11
+        },
+        "extra": {
+            "m0753dxacc01.sitem": 1
+        }
+    },
+    "bcokamem2sa_1": {
+        "item_type": 7,
+        "mpft": {
+            "mpftMpL": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        },
+        "extra": {
+            "m0745dxacc01.sitem": 1
+        }
+    },
+    "bcokamem2sa_2": {
+        "item_type": 7,
+        "mpft": {
+            "mpftMpL": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        },
+        "extra": {
+            "m0753dxacc01.sitem": 1
+        }
+    },
+    "bcokamem2ss_1": {
+        "item_type": 6,
+        "mpft": {
+            "mpftMpL": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        },
+        "extra": {
+            "m0745dxacc01.sitem": 1
+        }
+    },
+    "bcokamem2ss_2": {
+        "item_type": 6,
+        "mpft": {
+            "mpftMpL": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        },
+        "extra": {
+            "m0753dxacc01.sitem": 1
+        }
+    },
+    "bcokarem1bm_1": {
+        "item_type": 2,
+        "mpft": {
+            "mpftMpH": 6,
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpC": 5
+        },
+        "extra": {
+            "m0741dxacc01.sitem": 1
+        }
+    },
+    "bcokarem1bm_2": {
+        "item_type": 2,
+        "mpft": {
+            "mpftMpH": 6,
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpC": 5
+        },
+        "extra": {
+            "m0749dxacc01.sitem": 1
+        }
+    },
+    "bcokarem1bs_1": {
+        "item_type": 5,
+        "mpft": {
+            "mpftMpM": 12,
+            "mpftMpG": 11
+        },
+        "extra": {
+            "m0741dxacc01.sitem": 1
+        }
+    },
+    "bcokarem1bs_2": {
+        "item_type": 5,
+        "mpft": {
+            "mpftMpM": 12,
+            "mpftMpG": 11
+        },
+        "extra": {
+            "m0749dxacc01.sitem": 1
+        }
+    },
+    "bcokarem1pd_1": {
+        "item_type": 0,
+        "mpft": {
+            "mpftMpL": 3,
+            "mpftMpM": 3,
+            "mpftMpG": 2,
+            "mpftMpC": 2
+        },
+        "extra": {
+            "m0741dxacc01.sitem": 1
+        }
+    },
+    "bcokarem1pd_2": {
+        "item_type": 0,
+        "mpft": {
+            "mpftMpL": 3,
+            "mpftMpM": 3,
+            "mpftMpG": 2,
+            "mpftMpC": 2
+        },
+        "extra": {
+            "m0749dxacc01.sitem": 1
+        }
+    },
+    "bcokarem1ps_1": {
+        "item_type": 4,
+        "mpft": {
+            "mpftMpP": 8,
+            "mpftMpM": 8,
+            "mpftMpG": 7
+        },
+        "extra": {
+            "m0741dxacc01.sitem": 1
+        }
+    },
+    "bcokarem1ps_2": {
+        "item_type": 4,
+        "mpft": {
+            "mpftMpP": 8,
+            "mpftMpM": 8,
+            "mpftMpG": 7
+        },
+        "extra": {
+            "m0749dxacc01.sitem": 1
+        }
+    },
+    "bcokarem1sa_1": {
+        "item_type": 3,
+        "mpft": {
+            "mpftMpL": 6,
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpC": 5
+        },
+        "extra": {
+            "m0741dxacc01.sitem": 1
+        }
+    },
+    "bcokarem1sa_2": {
+        "item_type": 3,
+        "mpft": {
+            "mpftMpL": 6,
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpC": 5
+        },
+        "extra": {
+            "m0749dxacc01.sitem": 1
+        }
+    },
+    "bcokarem1ss_1": {
+        "item_type": 1,
+        "mpft": {
+            "mpftMpL": 6,
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpC": 5
+        },
+        "extra": {
+            "m0741dxacc01.sitem": 1
+        }
+    },
+    "bcokarem1ss_2": {
+        "item_type": 1,
+        "mpft": {
+            "mpftMpL": 6,
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpC": 5
+        },
+        "extra": {
+            "m0749dxacc01.sitem": 1
+        }
+    },
+    "bcokarem2bm_1": {
+        "item_type": 9,
+        "mpft": {
+            "mpftMpH": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        },
+        "extra": {
+            "m0741dxacc01.sitem": 1
+        }
+    },
+    "bcokarem2bm_2": {
+        "item_type": 9,
+        "mpft": {
+            "mpftMpH": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        },
+        "extra": {
+            "m0749dxacc01.sitem": 1
+        }
+    },
+    "bcokarem2ms_1": {
+        "item_type": 57,
+        "mpft": {
+            "mpftMpM": 7,
+            "mpftMpG": 6,
+            "mpftMpMF": 20
+        },
+        "extra": {
+            "m0742dxacc01.sitem": 1
+        }
+    },
+    "bcokarem2ms_2": {
+        "item_type": 57,
+        "mpft": {
+            "mpftMpM": 7,
+            "mpftMpG": 6,
+            "mpftMpMF": 20
+        },
+        "extra": {
+            "m0750dxacc01.sitem": 1
+        }
+    },
+    "bcokarem2pp_1": {
+        "item_type": 8,
+        "mpft": {
+            "mpftMpP": 11,
+            "mpftMpM": 11,
+            "mpftMpG": 11
+        },
+        "extra": {
+            "m0741dxacc01.sitem": 1
+        }
+    },
+    "bcokarem2pp_2": {
+        "item_type": 8,
+        "mpft": {
+            "mpftMpP": 11,
+            "mpftMpM": 11,
+            "mpftMpG": 11
+        },
+        "extra": {
+            "m0749dxacc01.sitem": 1
+        }
+    },
+    "bcokarem2sa_1": {
+        "item_type": 7,
+        "mpft": {
+            "mpftMpL": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        },
+        "extra": {
+            "m0741dxacc01.sitem": 1
+        }
+    },
+    "bcokarem2sa_2": {
+        "item_type": 7,
+        "mpft": {
+            "mpftMpL": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        },
+        "extra": {
+            "m0749dxacc01.sitem": 1
+        }
+    },
+    "bcokarem2ss_1": {
+        "item_type": 6,
+        "mpft": {
+            "mpftMpL": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        },
+        "extra": {
+            "m0741dxacc01.sitem": 1
+        }
+    },
+    "bcokarem2ss_2": {
+        "item_type": 6,
+        "mpft": {
+            "mpftMpL": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        },
+        "extra": {
+            "m0749dxacc01.sitem": 1
+        }
+    },
+    "bcokamer1b_1": {
+        "item_type": 14,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 2,
+            "mpftMpPE": 2
+        },
+        "extra": {
+            "m0745dxacc01.sitem": 1
+        }
+    },
+    "bcokamer1b_2": {
+        "item_type": 14,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 2,
+            "mpftMpPE": 2
+        },
+        "extra": {
+            "m0753dxacc01.sitem": 1
+        }
+    },
+    "bcokamer1p_1": {
+        "item_type": 13,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 2,
+            "mpftMpPE": 2
+        },
+        "extra": {
+            "m0745dxacc01.sitem": 1
+        }
+    },
+    "bcokamer1p_2": {
+        "item_type": 13,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 2,
+            "mpftMpPE": 2
+        },
+        "extra": {
+            "m0753dxacc01.sitem": 1
+        }
+    },
+    "bcokamer2a_1": {
+        "item_type": 10,
+        "mpft": {
+            "mpftMpCA": 5,
+            "mpftMpGA": 5,
+            "mpftMpPE": 5
+        },
+        "extra": {
+            "m0745dxacc01.sitem": 1
+        }
+    },
+    "bcokamer2a_2": {
+        "item_type": 10,
+        "mpft": {
+            "mpftMpCA": 5,
+            "mpftMpGA": 5,
+            "mpftMpPE": 5
+        },
+        "extra": {
+            "m0753dxacc01.sitem": 1
+        }
+    },
+    "bcokamer2b_1": {
+        "item_type": 11,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 4,
+            "mpftMpPE": 4
+        },
+        "extra": {
+            "m0745dxacc01.sitem": 1
+        }
+    },
+    "bcokamer2b_2": {
+        "item_type": 11,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 4,
+            "mpftMpPE": 4
+        },
+        "extra": {
+            "m0753dxacc01.sitem": 1
+        }
+    },
+    "bcokamer2l_1": {
+        "item_type": 12,
+        "mpft": {
+            "mpftMpCA": 5,
+            "mpftMpGA": 5,
+            "mpftMpPE": 5
+        },
+        "extra": {
+            "m0745dxacc01.sitem": 1
+        }
+    },
+    "bcokamer2l_2": {
+        "item_type": 12,
+        "mpft": {
+            "mpftMpCA": 5,
+            "mpftMpGA": 5,
+            "mpftMpPE": 5
+        },
+        "extra": {
+            "m0753dxacc01.sitem": 1
+        }
+    },
+    "bcokamer2r_1": {
+        "item_type": 15,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 3,
+            "mpftMpPE": 3
+        },
+        "extra": {
+            "m0745dxacc01.sitem": 1
+        }
+    },
+    "bcokamer2r_2": {
+        "item_type": 15,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 3,
+            "mpftMpPE": 3
+        },
+        "extra": {
+            "m0753dxacc01.sitem": 1
+        }
+    },
+    "bcokarer1b_1": {
+        "item_type": 14,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 2,
+            "mpftMpPE": 2
+        },
+        "extra": {
+            "m0741dxacc01.sitem": 1
+        }
+    },
+    "bcokarer1b_2": {
+        "item_type": 14,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 2,
+            "mpftMpPE": 2
+        },
+        "extra": {
+            "m0749dxacc01.sitem": 1
+        }
+    },
+    "bcokarer1p_1": {
+        "item_type": 13,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 2,
+            "mpftMpPE": 2
+        },
+        "extra": {
+            "m0741dxacc01.sitem": 1
+        }
+    },
+    "bcokarer1p_2": {
+        "item_type": 13,
+        "mpft": {
+            "mpftMpCA": 2,
+            "mpftMpGA": 2,
+            "mpftMpPE": 2
+        },
+        "extra": {
+            "m0749dxacc01.sitem": 1
+        }
+    },
+    "bcokarer2a_1": {
+        "item_type": 10,
+        "mpft": {
+            "mpftMpCA": 5,
+            "mpftMpGA": 5,
+            "mpftMpPE": 5
+        },
+        "extra": {
+            "m0741dxacc01.sitem": 1
+        }
+    },
+    "bcokarer2a_2": {
+        "item_type": 10,
+        "mpft": {
+            "mpftMpCA": 5,
+            "mpftMpGA": 5,
+            "mpftMpPE": 5
+        },
+        "extra": {
+            "m0749dxacc01.sitem": 1
+        }
+    },
+    "bcokarer2b_1": {
+        "item_type": 11,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 4,
+            "mpftMpPE": 4
+        },
+        "extra": {
+            "m0741dxacc01.sitem": 1
+        }
+    },
+    "bcokarer2b_2": {
+        "item_type": 11,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 4,
+            "mpftMpPE": 4
+        },
+        "extra": {
+            "m0749dxacc01.sitem": 1
+        }
+    },
+    "bcokarer2l_1": {
+        "item_type": 12,
+        "mpft": {
+            "mpftMpCA": 5,
+            "mpftMpGA": 5,
+            "mpftMpPE": 5
+        },
+        "extra": {
+            "m0741dxacc01.sitem": 1
+        }
+    },
+    "bcokarer2l_2": {
+        "item_type": 12,
+        "mpft": {
+            "mpftMpCA": 5,
+            "mpftMpGA": 5,
+            "mpftMpPE": 5
+        },
+        "extra": {
+            "m0749dxacc01.sitem": 1
+        }
+    },
+    "bcokarer2r_1": {
+        "item_type": 15,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 3,
+            "mpftMpPE": 3
+        },
+        "extra": {
+            "m0741dxacc01.sitem": 1
+        }
+    },
+    "bcokarer2r_2": {
+        "item_type": 15,
+        "mpft": {
+            "mpftMpCA": 4,
+            "mpftMpGA": 3,
+            "mpftMpPE": 3
+        },
+        "extra": {
+            "m0749dxacc01.sitem": 1
+        }
+    },
+    "bcokametammo_1": {
+        "item_type": 48,
+        "extra": {
+            "m0747dxacc01.sitem": 1
+        }
+    },
+    "bcokametammo_2": {
+        "item_type": 48,
+        "extra": {
+            "m0755dxacc01.sitem": 1
+        }
+    },
+    "bcokametarmor_1": {
+        "item_type": 47,
+        "extra": {
+            "m0747dxacc01.sitem": 1
+        }
+    },
+    "bcokametarmor_2": {
+        "item_type": 47,
+        "extra": {
+            "m0755dxacc01.sitem": 1
+        }
+    },
+    "bcokametforage_1": {
+        "item_type": 46,
+        "extra": {
+            "m0748dxacc01.sitem": 1
+        }
+    },
+    "bcokametforage_2": {
+        "item_type": 46,
+        "extra": {
+            "m0756dxacc01.sitem": 1
+        }
+    },
+    "bcokametjewel_1": {
+        "item_type": 51,
+        "extra": {
+            "m0747dxacc01.sitem": 1
+        }
+    },
+    "bcokametjewel_2": {
+        "item_type": 51,
+        "extra": {
+            "m0755dxacc01.sitem": 1
+        }
+    },
+    "bcokametmwea_1": {
+        "item_type": 49,
+        "extra": {
+            "m0747dxacc01.sitem": 1
+        }
+    },
+    "bcokametmwea_2": {
+        "item_type": 49,
+        "extra": {
+            "m0755dxacc01.sitem": 1
+        }
+    },
+    "bcokametrwea_1": {
+        "item_type": 50,
+        "extra": {
+            "m0747dxacc01.sitem": 1
+        }
+    },
+    "bcokametrwea_2": {
+        "item_type": 50,
+        "extra": {
+            "m0755dxacc01.sitem": 1
+        }
+    },
+    "bcokaretammo_1": {
+        "item_type": 48,
+        "extra": {
+            "m0743dxacc01.sitem": 1
+        }
+    },
+    "bcokaretammo_2": {
+        "item_type": 48,
+        "extra": {
+            "m0751dxacc01.sitem": 1
+        }
+    },
+    "bcokaretarmor_1": {
+        "item_type": 47,
+        "extra": {
+            "m0743dxacc01.sitem": 1
+        }
+    },
+    "bcokaretarmor_2": {
+        "item_type": 47,
+        "extra": {
+            "m0751dxacc01.sitem": 1
+        }
+    },
+    "bcokaretforage_1": {
+        "item_type": 46,
+        "extra": {
+            "m0744dxacc01.sitem": 1
+        }
+    },
+    "bcokaretforage_2": {
+        "item_type": 46,
+        "extra": {
+            "m0752dxacc01.sitem": 1
+        }
+    },
+    "bcokaretjewel_1": {
+        "item_type": 51,
+        "extra": {
+            "m0743dxacc01.sitem": 1
+        }
+    },
+    "bcokaretjewel_2": {
+        "item_type": 51,
+        "extra": {
+            "m0751dxacc01.sitem": 1
+        }
+    },
+    "bcokaretmwea_1": {
+        "item_type": 49,
+        "extra": {
+            "m0743dxacc01.sitem": 1
+        }
+    },
+    "bcokaretmwea_2": {
+        "item_type": 49,
+        "extra": {
+            "m0751dxacc01.sitem": 1
+        }
+    },
+    "bcokaretrwea_1": {
+        "item_type": 50,
+        "extra": {
+            "m0743dxacc01.sitem": 1
+        }
+    },
+    "bcokaretrwea_2": {
+        "item_type": 50,
+        "extra": {
+            "m0751dxacc01.sitem": 1
+        }
+    },
+    "bcbahb": {
+        "item_type": 34,
+        "mpft": {
+            "mpftMpCR": 10,
+            "mpftMpRI": 10,
+            "mpftMpRE": 6,
+            "mpftMpAT": 6
+        },
+        "extra": {
+            "m0815dxacc01.sitem": 1
+        }
+    },
+    "bcbahg": {
+        "item_type": 35,
+        "mpft": {
+            "mpftMpCR": 10,
+            "mpftMpRI": 10,
+            "mpftMpRE": 6,
+            "mpftMpAT": 6
+        },
+        "extra": {
+            "m0815dxacc01.sitem": 1
+        }
+    },
+    "bcbahh": {
+        "item_type": 39,
+        "mpft": {
+            "mpftMpCR": 12,
+            "mpftMpRI": 12,
+            "mpftMpRE": 8,
+            "mpftMpAT": 8
+        },
+        "extra": {
+            "m0815dxacc01.sitem": 1
+        }
+    },
+    "bcbahp": {
+        "item_type": 36,
+        "mpft": {
+            "mpftMpCR": 12,
+            "mpftMpRI": 12,
+            "mpftMpRE": 8,
+            "mpftMpAT": 8
+        },
+        "extra": {
+            "m0815dxacc01.sitem": 1
+        }
+    },
+    "bcbahs": {
+        "item_type": 37,
+        "mpft": {
+            "mpftMpCR": 10,
+            "mpftMpRI": 10,
+            "mpftMpRE": 6,
+            "mpftMpAT": 6
+        },
+        "extra": {
+            "m0815dxacc01.sitem": 1
+        }
+    },
+    "bcbahv": {
+        "item_type": 38,
+        "mpft": {
+            "mpftMpCR": 12,
+            "mpftMpRI": 12,
+            "mpftMpRE": 8,
+            "mpftMpAT": 8
+        },
+        "extra": {
+            "m0815dxacc01.sitem": 2
+        }
+    },
+    "bccmea17": {
+        "item_type": 5,
+        "mpft": {
+            "mpftMpM": 6,
+            "mpftMpG": 6
+        }
+    },
+    "bckarsea01": {
+        "item_type": 22,
+        "mpft": {
+            "mpftMpCR": 4,
+            "mpftMpAT": 3
+        }
+    },
+    "bckarsea02": {
+        "item_type": 22,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpAT": 6
+        }
+    },
+    "bckarsea03": {
+        "item_type": 22,
+        "mpft": {
+            "mpftMpCR": 11,
+            "mpftMpAT": 10
+        }
+    },
+    "bckamsea01": {
+        "item_type": 22,
+        "mpft": {
+            "mpftMpCR": 4,
+            "mpftMpAT": 3
+        }
+    },
+    "bckamsea02": {
+        "item_type": 22,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpAT": 6
+        }
+    },
+    "bckamsea03": {
+        "item_type": 22,
+        "mpft": {
+            "mpftMpCR": 11,
+            "mpftMpAT": 10
+        }
+    }
+}
