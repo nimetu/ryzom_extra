@@ -47,7 +47,7 @@ class SheetIdExport implements ExportInterface {
 		// reading them back in is a lot faster this way
 		foreach ($data as $id => $array) {
 			$key = floor($id / 1000000);
-			$groups[$key][$id] = array('name' => $array['name'], 'suffix' => $array['sheet']);
+			$groups[$key][$id] = $array['name'].'.'.$array['sheet'];
 		}
 
 		$ext = $this->encoder->name();

@@ -486,7 +486,7 @@ function ryzom_sheetid_bin($sid_bin)
         $cache[$idx] = ryzom_extra_load_dataset(sprintf('%s/sheets-%02x.serial', RYZOM_EXTRA_SHEETS_CACHE, $idx));
     }
     if (isset($cache[$idx][$sid_bin])) {
-        return $cache[$idx][$sid_bin]['name'] . '.' . $cache[$idx][$sid_bin]['suffix'];
+        return $cache[$idx][$sid_bin];
     }
     return false;
 }
