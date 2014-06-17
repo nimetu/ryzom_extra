@@ -33,20 +33,52 @@ define('RYZOM_EXTRA_SHEETS_CACHE', RYZOM_EXTRA_PATH . '/sheets-cache');
 class RyzomExtra
 {
     // Record type - ['type']
-    const TYPE_ARMOR = 0x02;
-    const TYPE_MELEE = 0x03;
-    const TYPE_RANGE = 0x04;
-    const TYPE_AMMO = 0x05;
-    const TYPE_RESOURCE = 0x06;
-    const TYPE_SHIELD = 0x07;
-    const TYPE_TOOLS = 0x08;
-    const TYPE_PICK = 0x09;
-    const TYPE_JEWEL = 0x0f;
-    const TYPE_TPTICKET = 0x15;
-    const TYPE_XPCAT = 0x24;
-    const TYPE_CASINO = 0x28;
+    // <code/ryzom/common/game_share/item_family.h>
+    // undefined = 0
+    // service = 1
+    const TYPE_ARMOR = 2;
+    const TYPE_MELEE = 3;
+    const TYPE_RANGE = 4;
+    const TYPE_AMMO = 5;
+    const TYPE_RESOURCE = 6;
+    const TYPE_SHIELD = 7;
+    const TYPE_TOOLS = 8; // crafting
+    const TYPE_PICK = 9; // harvest
+    // taming tool = 10
+    // training tool = 11
+    // ai = 12
+    // brick = 13
+    // food = 14
+    const TYPE_JEWEL = 15;
+    // corpse = 16
+    // carrion = 17
+    // bag = 18
+    // stack = 19
+    // dead seed = 20
+    const TYPE_TPTICKET = 21;
+    // guild flag = 22
+    // living seed = 23
+    // little seed = 24
+    // medium seed = 25
+    // big seed = 26
+    // very big seed = 27
+    // mission item = 28
+    // crystalized spell = 29
+    // item sap recharge = 30
+    // pet animal ticket = 31
+    // guild option = 32
+    // handled item = 33
+    // cosmetic = 34
+    // consumable = 35
+    const TYPE_XPCAT = 36;
+    // scroll = 37
+    // scroll r2 = 38
+    // command ticket = 39
+    // generic item = 40
+    const TYPE_CASINO = 40;
     //
     // Item type - ['item_type']
+    // <code/ryzom/common/game_share/item_type.h>
     const ITEM_DAGGER = 0;
     const ITEM_SWORD = 1;
     const ITEM_MACE = 2;
@@ -54,7 +86,9 @@ class RyzomExtra
     const ITEM_SPEAR = 4;
     const ITEM_STAFF = 5;
     const ITEM_2H_SWORD = 6;
+    /** @deprecated use ITEM_2H_AXE instead */
     const ITEM_2h_AXE = 7;
+    const ITEM_2H_AXE = 7;
     const ITEM_PIKE = 8;
     const ITEM_2H_MACE = 9;
     //
@@ -108,10 +142,10 @@ class RyzomExtra
     const ITEM_RANGE_CTOOL = 50;
     const ITEM_JEWEL_CTOOL = 51;
     const ITEM_TOOL_CTOOL = 52;
-    // FIXME: 53
+    // 53 - campsfire
     const ITEM_MEKTOUB_PACKER = 54;
     const ITEM_MEKTOUB_MOUNT = 55;
-    const ITEM_FORAGE_BALE = 56; // mek food
+    const ITEM_FORAGE_BALE = 56;
     const ITEM_MAGIC_AMPLIFIER = 57;
     // 58 - hom hairstyle
     // 59 - hom hair color
@@ -119,8 +153,9 @@ class RyzomExtra
     // 61 - hof hairstyle
     // 62 - hof hair color
     // 63 - hof tatoo
+    // 64 - service stable
     const ITEM_T_65 = 65; // sap recharge, casino ticker/token/title
-    const ITEM_OTHER = 66; // mats
+    const ITEM_OTHER = 66; // generic (mats)
     //
     // weapon/ammo damage
     const DMG_SLASH = 0;
@@ -310,13 +345,14 @@ class RyzomExtra
     }
     //
     // item race
+    // <code/ryzom/common/game_share/item_origin.h>
     const RACE_COMMON = 0; // outpost
     const RACE_FYROS = 1; // desert
     const RACE_MATIS = 2; // forest
     const RACE_TRYKER = 3; // lake
     const RACE_ZORAI = 4; // jungle
     const RACE_REFUGEE = 5;
-    const RACE_NPC = 6; // pr
+    const RACE_NPC = 6; // tribe
     const RACE_KAMI = 7;
     const RACE_KARA = 8;
     //
