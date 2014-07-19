@@ -3,12 +3,23 @@ RyzomExtra
 ==========
 Ryzom sheetid related scripts and data files.
 
+Data files in json format are [json-resources](https://github.com/nimetu/ryzom_extra/tree/json-resources) branch
+
+Installing
+----------
+
+With [composer](https://getcomposer.org/)
+
+	composer.phar require nimetu/ryzom_extra=1.*
+
+and in your script, include 'vendor/autoload.php'
+
+
 Exporting sheets
 ----------------
 Requires:
 * PHP 5.3.2 or greater
 * Pimple from https://github.com/fabpot/Pimple
-* Symfony2 ClassLoader from https://github.com/symfony/ClassLoader
 * Ryzom and Nel classes from https://github.com/nimetu/ryzom_sheets
 
 License
