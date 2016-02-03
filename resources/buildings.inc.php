@@ -150,6 +150,12 @@ return array(
 	183500939 => array('type'=>'g', 'pos'=>array('x'=>8622, 'y'=>-2867), 'place'=>'place_zora_p_2.place', 'city'=>'place_zora.place', 'continent'=>'continent_zorai.place'),
 	183500940 => array('type'=>'g', 'pos'=>array('x'=>8571, 'y'=>-2882), 'place'=>'place_zora_p_2.place', 'city'=>'place_zora.place', 'continent'=>'continent_zorai.place'),
 	183500941 => array('type'=>'g', 'pos'=>array('x'=>8583, 'y'=>-2829), 'place'=>'place_zora_p_2.place', 'city'=>'place_zora.place', 'continent'=>'continent_zorai.place'),
+	183500921 => array('type' =>'a', 'pos'=>array('x'=>9534, 'y'=>-3603), 'place'=>'place_hoi_cho.place', 'city'=>'place_hoi_cho.place', 'continent'=>'continent_zorai.place'),
+	183500922 => array('type' =>'g', 'pos'=>array('x'=>9481, 'y'=>-3596), 'place'=>'place_hoi_cho.place', 'city'=>'place_hoi_cho.place', 'continent'=>'continent_zorai.place'),
+	183500926 => array('type' =>'a', 'pos'=>array('x'=>9989, 'y'=>-4203), 'place'=>'place_min_cho.place', 'city'=>'place_min_cho.place', 'continent'=>'continent_zorai.place'),
+	183500927 => array('type' =>'g', 'pos'=>array('x'=>10042, 'y'=>-4224), 'place'=>'place_min_cho.place', 'city'=>'place_min_cho.place', 'continent'=>'continent_zorai.place'),
+	183500934 => array('type' =>'a', 'pos'=>array('x'=>8751, 'y'=>-3594), 'place'=>'place_jen_lai.place', 'city'=>'place_jen_lai.place', 'continent'=>'continent_zorai.place'),
+	183500935 => array('type' =>'g', 'pos'=>array('x'=>8712, 'y'=>-3633), 'place'=>'place_jen_lai.place', 'city'=>'place_jen_lai.place', 'continent'=>'continent_zorai.place'),
 	// mara
 	180355188 => array('type'=>'a', 'pos'=>array('x'=>940, 'y'=>-1354), 'place'=>'place_marauder_camp.place', 'city'=>'place_marauder_camp.place', 'continent'=>'continent_matis.place'),
 	181403764 => array('type'=>'a', 'pos'=>array('x'=>940, 'y'=>-1354), 'place'=>'place_marauder_camp.place', 'city'=>'place_marauder_camp.place', 'continent'=>'continent_matis.place'),
