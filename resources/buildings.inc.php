@@ -105,7 +105,7 @@ return array(
 	181403775 => array('type'=>'a', 'pos'=>array('x'=>4754, 'y'=>-3380), 'place'=>'place_yrk_p_1.place', 'city'=>'place_yrkanis.place', 'continent'=>'continent_matis.place'),
 	181403773 => array('type'=>'a', 'pos'=>array('x'=>4757, 'y'=>-3362), 'place'=>'place_yrk_p_1.place', 'city'=>'place_yrkanis.place', 'continent'=>'continent_matis.place'),
     234881479 => array('type'=>'a', 'pos'=>array('x'=>4888, 'y'=>-4462), 'place'=>'place_avalae.place', 'city'=>'place_avalae.place', 'continent'=>'continent_matis.place'),
-    234881477 => array('type'=>'a', 'pos'=>array('x'=>4300, 'y'=>-4042), 'place'=>'place_daeva.place', 'city'=>'place_daeva.place', 'continent'=>'continent_matis.place'),
+    234881477 => array('type'=>'a', 'pos'=>array('x'=>4300, 'y'=>-4042), 'place'=>'place_davae.place', 'city'=>'place_davae.place', 'continent'=>'continent_matis.place'),
     234881145 => array('type'=>'a', 'pos'=>array('x'=>3700, 'y'=>-3792), 'place'=>'place_natae.place', 'city'=>'place_natae.place', 'continent'=>'continent_matis.place'),
 	181403796 => array('type'=>'g', 'pos'=>array('x'=>4718, 'y'=>-3581), 'place'=>'place_yrk_p_3.place', 'city'=>'place_yrkanis.place', 'continent'=>'continent_matis.place'),
 	181403794 => array('type'=>'g', 'pos'=>array('x'=>4689, 'y'=>-3575), 'place'=>'place_yrk_p_3.place', 'city'=>'place_yrkanis.place', 'continent'=>'continent_matis.place'),
@@ -120,7 +120,7 @@ return array(
 	181403776 => array('type'=>'g', 'pos'=>array('x'=>4754, 'y'=>-3380), 'place'=>'place_yrk_p_1.place', 'city'=>'place_yrkanis.place', 'continent'=>'continent_matis.place'),
 	181403774 => array('type'=>'g', 'pos'=>array('x'=>4757, 'y'=>-3362), 'place'=>'place_yrk_p_1.place', 'city'=>'place_yrkanis.place', 'continent'=>'continent_matis.place'),
     234881480 => array('type'=>'g', 'pos'=>array('x'=>4888, 'y'=>-4462), 'place'=>'place_avalae.place', 'city'=>'place_avalae.place', 'continent'=>'continent_matis.place'),
-    234881478 => array('type'=>'g', 'pos'=>array('x'=>4300, 'y'=>-4042), 'place'=>'place_daeva.place', 'city'=>'place_daeva.place', 'continent'=>'continent_matis.place'),
+    234881478 => array('type'=>'g', 'pos'=>array('x'=>4300, 'y'=>-4042), 'place'=>'place_davae.place', 'city'=>'place_davae.place', 'continent'=>'continent_matis.place'),
     234881146 => array('type'=>'g', 'pos'=>array('x'=>3700, 'y'=>-3792), 'place'=>'place_natae.place', 'city'=>'place_natae.place', 'continent'=>'continent_matis.place'),
 	// tryker
 	182452302 => array('type'=>'a', 'pos'=>array('x'=>17108, 'y'=>-32781), 'place'=>'place_fairhaven_p_2.place', 'city'=>'place_fairhaven.place', 'continent'=>'continent_tryker.place'),
