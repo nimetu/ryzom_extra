@@ -241,109 +241,109 @@
     },
     "bfca01": {
         "name": "Stamina Credit 1",
-        "p": "Stamina Credit 1",
+        "p": "",
         "description": "Consumes '0.33 * weapon weight' Stamina - gives 6 credits.",
         "description2": "Consumption factor: 0.33"
     },
     "bfca02": {
         "name": "Stamina Credit 2",
-        "p": "Stamina Credit 2",
+        "p": "",
         "description": "Consumes '0.56 * weapon weight' Stamina - gives 10 credits.",
         "description2": "Consumption factor: 0.56"
     },
     "bfca03": {
         "name": "Stamina Credit 3",
-        "p": "Stamina Credit 3",
+        "p": "",
         "description": "Consumes '0.78 * weapon weight' Stamina - gives 16 credits.",
         "description2": "Consumption factor: 0.78"
     },
     "bfca04": {
         "name": "Stamina Credit 4",
-        "p": "Stamina Credit 4",
+        "p": "",
         "description": "Consumes '1.11 * weapon weight' Stamina - gives 20 credits.",
         "description2": "Consumption factor: 1.11"
     },
     "bfca05": {
         "name": "Stamina Credit 5",
-        "p": "Stamina Credit 5",
+        "p": "",
         "description": "Consumes '1.45 * weapon weight' Stamina - gives 26 credits.",
         "description2": "Consumption factor: 1.45"
     },
     "bfca06": {
         "name": "Stamina Credit 6",
-        "p": "Stamina Credit 6",
+        "p": "",
         "description": "Consumes '1.78 * weapon weight' Stamina - gives 30 credits.",
         "description2": "Consumption factor: 1.78"
     },
     "bfca07": {
         "name": "Stamina Credit 7",
-        "p": "Stamina Credit 7",
+        "p": "",
         "description": "Consumes '2.22 * weapon weight' Stamina - gives 40 credits.",
         "description2": "Consumption factor: 2.22"
     },
     "bfca08": {
         "name": "Stamina Credit 8",
-        "p": "Stamina Credit 8",
+        "p": "",
         "description": "Consumes '2.78 * weapon weight' Stamina - gives 50 credits.",
         "description2": "Consumption factor: 2.78"
     },
     "bfca09": {
         "name": "Stamina Credit 9",
-        "p": "Stamina Credit 9",
+        "p": "",
         "description": "Consumes '3.67 * weapon weight' Stamina - gives 66 credits.",
         "description2": "Consumption factor: 3.67"
     },
     "bfca10": {
         "name": "Stamina Credit 10",
-        "p": "Stamina Credit 10",
+        "p": "",
         "description": "Consumes '4.45 * weapon weight' Stamina - gives 80 credits.",
         "description2": "Consumption factor: 4.45"
     },
     "bfca11": {
         "name": "Stamina Credit 11",
-        "p": "Stamina Credit 11",
+        "p": "",
         "description": "Consumes '5.56 * weapon weight' Stamina - gives 100 credits.",
         "description2": "Consumption factor: 5.56"
     },
     "bfca12": {
         "name": "Stamina Credit 12",
-        "p": "Stamina Credit 12",
+        "p": "",
         "description": "Consumes '6.67 * weapon weight' Stamina - gives 120 credits.",
         "description2": "Consumption factor: 6.67"
     },
     "bfca13": {
         "name": "Stamina Credit 13",
-        "p": "Stamina Credit 13",
+        "p": "",
         "description": "Consumes '7.78 * weapon weight' Stamina - gives 140 credits.",
         "description2": "Consumption factor: 7.78"
     },
     "bfca14": {
         "name": "Stamina Credit 14",
-        "p": "Stamina Credit 14",
+        "p": "",
         "description": "Consumes '8.89 * weapon weight' Stamina - gives 160 credits.",
         "description2": "Consumption factor: 8.89"
     },
     "bfca15": {
         "name": "Stamina Credit 15",
-        "p": "Stamina Credit 15",
+        "p": "",
         "description": "Consumes '10 * weapon weight' Stamina - gives 180 credits.",
         "description2": "Consumption factor: 10"
     },
     "bfca16": {
         "name": "Stamina Credit 16",
-        "p": "Stamina Credit 16",
+        "p": "",
         "description": "Consumes '11.1 * weapon weight' Stamina - gives 200 credits.",
         "description2": "Consumption factor: 11.1"
     },
     "bfca17": {
         "name": "Stamina Credit 17",
-        "p": "Stamina Credit 17",
+        "p": "",
         "description": "Consumes '12.6 * weapon weight' Stamina - gives 226 credits.",
         "description2": "Consumption factor: 12.6"
     },
     "bfca18": {
         "name": "Stamina Credit 18",
-        "p": "Stamina Credit 18",
+        "p": "",
         "description": "Consumes '14 * weapon weight' Stamina - gives 250 credits.",
         "description2": "Consumption factor: 14"
     },
@@ -3362,7 +3362,7 @@
     "bcraeb10": {
         "name": "Refugee Sleeves",
         "p": "",
-        "description": "",
+        "description": "Crafting plan for refugee sleeves",
         "description2": ""
     },
     "bcfaca01": {
@@ -7405,13 +7405,13 @@
     },
     "bhfpmb12": {
         "name": "Major Amber Group Prospecting",
-        "p": "Major Amber Group Prospecting",
+        "p": "",
         "description": "Search for specific materials, with greater chances of finding sources.",
         "description2": ""
     },
     "bhfpmb13": {
         "name": "Major Node Prospecting",
-        "p": "Major Node Prospecting",
+        "p": "",
         "description": "Search for specific materials, with greater chances of finding sources.",
         "description2": ""
     },
@@ -7459,7 +7459,7 @@
     },
     "bhfprmfma01": {
         "name": "Any Material From Group",
-        "p": "Any Material From Group",
+        "p": "",
         "description": "",
         "description2": ""
     },
@@ -8479,7 +8479,7 @@
     },
     "bhfeof01": {
         "name": "Absorb Source Damage",
-        "p": "Absorb Source Damage",
+        "p": "",
         "description": "Convert part of the impact on source life into damage on your character.",
         "description2": ""
     },
@@ -9121,31 +9121,31 @@
     },
     "bhfemg01": {
         "name": "Absorb Source Damage $FG_ABS_SRC_DMG%",
-        "p": "Absorb Source Damage $FG_ABS_SRC_DMG%",
+        "p": "",
         "description": "Convert $FG_ABS_SRC_DMG% of the impact on the source life to damage on your character.",
         "description2": ""
     },
     "bhfemg02": {
         "name": "Absorb Source Damage $FG_ABS_SRC_DMG%",
-        "p": "Absorb Source Damage $FG_ABS_SRC_DMG%",
+        "p": "",
         "description": "Convert $FG_ABS_SRC_DMG% of the impact on the source life to damage on your character.",
         "description2": ""
     },
     "bhfemg03": {
         "name": "Absorb Source Damage $FG_ABS_SRC_DMG%",
-        "p": "Absorb Source Damage $FG_ABS_SRC_DMG%",
+        "p": "",
         "description": "Convert $FG_ABS_SRC_DMG% of the impact on the source life to damage on your character.",
         "description2": ""
     },
     "bhfemg04": {
         "name": "Absorb Source Damage $FG_ABS_SRC_DMG%",
-        "p": "Absorb Source Damage $FG_ABS_SRC_DMG%",
+        "p": "",
         "description": "Convert $FG_ABS_SRC_DMG% of the impact on the source life to damage on your character.",
         "description2": ""
     },
     "bhfemg05": {
         "name": "Absorb Source Damage $FG_ABS_SRC_DMG%",
-        "p": "Absorb Source Damage $FG_ABS_SRC_DMG%",
+        "p": "",
         "description": "Convert $FG_ABS_SRC_DMG% of the impact on the source life to damage on your character.",
         "description2": ""
     },
@@ -10767,7 +10767,7 @@
         "name": "You are equipping an item",
         "p": "",
         "description": "You are equipping an item.",
-        "description2": "You are equipping an item"
+        "description2": ""
     },
     "bfoa05": {
         "name": "Circular Attack",
@@ -10777,55 +10777,55 @@
     },
     "bfmf01": {
         "name": "Circular Attack 1",
-        "p": "Circular Attacks 1",
+        "p": "",
         "description": "Allows you to inflict damage on all engaged enemies. The total inflicted damage will not exceed 200% of your normal damage. Note that this stanza will not increase the damage for each individual target to above the normal damage.",
         "description2": "Circular Attack 1 - Maximum total damage: 200%"
     },
     "bfmf02": {
         "name": "Circular Attack 2",
-        "p": "Circular Attacks 2",
+        "p": "",
         "description": "Allows you to inflict damage on all engaged enemies. The total inflicted damage will not exceed 240% of your normal damage. Note that this stanza will not increase the damage for each individual target to above the normal damage.",
         "description2": "Circular Attack 2 - Maximum total damage: 240%"
     },
     "bfmf03": {
         "name": "Circular Attack 3",
-        "p": "Circular Attacks 3",
+        "p": "",
         "description": "Allows you to inflict damage on all engaged enemies. The total inflicted damage will not exceed 280% of your normal damage. Note that this stanza will not increase the damage for each individual target to above the normal damage.",
         "description2": "Circular Attack 3 - Maximum total damage: 280%"
     },
     "bfmf04": {
         "name": "Circular Attack 4",
-        "p": "Circular Attacks 4",
+        "p": "",
         "description": "Allows you to inflict damage on all engaged enemies. The total inflicted damage will not exceed 320% of your normal damage. Note that this stanza will not increase the damage for each individual target to above the normal damage.",
         "description2": "Circular Attack 4 - Maximum total damage: 320%"
     },
     "bfmf05": {
         "name": "Circular Attack 5",
-        "p": "Circular Attacks 5",
+        "p": "",
         "description": "Allows you to inflict damage on all engaged enemies. The total inflicted damage will not exceed 360% of your normal damage. Note that this stanza will not increase the damage for each individual target to above the normal damage.",
         "description2": "Circular Attack 5 - Maximum total damage: 360%"
     },
     "bfmf06": {
         "name": "Circular Attack 6",
-        "p": "Circular Attacks 6",
+        "p": "",
         "description": "Allows you to inflict damage on all engaged enemies. The total inflicted damage will not exceed 400% of your normal damage. Note that this stanza will not increase the damage for each individual target to above the normal damage.",
         "description2": "Circular Attack 6 - Maximum total damage: 400%"
     },
     "bfmf07": {
         "name": "Circular Attack 7",
-        "p": "Circular Attacks 7",
+        "p": "",
         "description": "Allows you to inflict damage on all engaged enemies. The total inflicted damage will not exceed 440% of your normal damage. Note that this stanza will not increase the damage for each individual target to above the normal damage.",
         "description2": "Circular Attack 7 - Maximum total damage: 440%"
     },
     "bfmf08": {
         "name": "Circular Attack 8",
-        "p": "Circular Attacks 8",
+        "p": "",
         "description": "Allows you to inflict damage on all engaged enemies. The total inflicted damage will not exceed 470% of your normal damage. Note that this stanza will not increase the damage for each individual target to above the normal damage.",
         "description2": "Circular Attack 8 - Maximum total damage: 470%"
     },
     "bfmf09": {
         "name": "Circular Attack 9",
-        "p": "Circular Attacks 9",
+        "p": "",
         "description": "Allows you to inflict damage on all engaged enemies. The total inflicted damage will not exceed 500% of your normal damage. Note that this stanza will not increase the damage for each individual target to above the normal damage.",
         "description2": "Circular Attack 9 - Maximum total damage: 500%"
     },
@@ -17131,49 +17131,49 @@
     },
     "bsfmf01": {
         "name": "Berserk 1",
-        "p": "Berserks 1",
+        "p": "",
         "description": "Increases damage of 10 for 20 seconds but costs you 12 every 4 seconds.",
         "description2": "Increases damage of 10."
     },
     "bsfmf02": {
         "name": "Berserk 2",
-        "p": "Berserks 2",
+        "p": "",
         "description": "Increases damage of 15 for 22 seconds but costs you 18 every 4 seconds.",
         "description2": "Increases damage of 15."
     },
     "bsfmf03": {
         "name": "Berserk 3",
-        "p": "Berserks 3",
+        "p": "",
         "description": "Increases damage of 20 for 24 seconds but costs you 24 every 4 seconds.",
         "description2": "Increases damage of 20."
     },
     "bsfmf04": {
         "name": "Berserk 4",
-        "p": "Berserks 4",
+        "p": "",
         "description": "Increases damage of 25 for 26 seconds but costs you 30 every 4 seconds.",
         "description2": "Increases damage of 25."
     },
     "bsfmf05": {
         "name": "Berserk 5",
-        "p": "Berserks 5",
+        "p": "",
         "description": "Increases damage of 30 for 28 seconds but costs you 36 every 4 seconds.",
         "description2": "Increases damage of 30."
     },
     "bsfmf06": {
         "name": "Berserk 6",
-        "p": "Berserks 6",
+        "p": "",
         "description": "Increases damage of 35 for 30 seconds but costs you 42 every 4 seconds.",
         "description2": "Increases damage of 35."
     },
     "bsfmf07": {
         "name": "Berserk 7",
-        "p": "Berserks 7",
+        "p": "",
         "description": "Increases damage of 40 for 32 seconds but costs you 48 every 4 seconds.",
         "description2": "Increases damage of 40."
     },
     "bsfmf08": {
         "name": "Berserk 8",
-        "p": "Berserks 8",
+        "p": "",
         "description": "Increases damage of 45 for 34 seconds but costs you 54 every 4 seconds.",
         "description2": "Increases damage of 45."
     },
@@ -20257,31 +20257,31 @@
     },
     "bpbca01": {
         "name": "Increased Durability 1",
-        "p": "Increased Durability 1",
+        "p": "",
         "description": "This permanent bonus increases the durability of items that you craft. The effects of this stanza can be cumulated with other stanzas of the same family: 'Increased Durability'.",
         "description2": ""
     },
     "bpbca02": {
         "name": "Increased Durability 2",
-        "p": "Increased Durability 2",
+        "p": "",
         "description": "This permanent bonus increases the durability of items that you craft. The effects of this stanza can be cumulated with other stanzas of the same family: 'Increased Durability'.",
         "description2": ""
     },
     "bpbca03": {
         "name": "Increased Durability 3",
-        "p": "Increased Durability 3",
+        "p": "",
         "description": "This permanent bonus increases the durability of items that you craft. The effects of this stanza can be cumulated with other stanzas of the same family: 'Increased Durability'.",
         "description2": ""
     },
     "bpbca04": {
         "name": "Increased Durability 4",
-        "p": "Increased Durability 4",
+        "p": "",
         "description": "This permanent bonus increases the durability of items that you craft. The effects of this stanza can be cumulated with other stanzas of the same family: 'Increased Durability'.",
         "description2": ""
     },
     "bpbca05": {
         "name": "Increased Durability 5",
-        "p": "Increased Durability 5",
+        "p": "",
         "description": "This permanent bonus increases the durability of items that you craft. The effects of this stanza can be cumulated with other stanzas of the same family: 'Increased Durability'.",
         "description2": ""
     },
@@ -20407,169 +20407,169 @@
     },
     "mezz": {
         "name": "Sleep",
-        "p": "Sleeps",
+        "p": "",
         "description": "You are asleep.",
         "description2": ""
     },
     "stun": {
         "name": "Stun",
-        "p": "Stuns",
+        "p": "",
         "description": "You are stunned.",
         "description2": ""
     },
     "root": {
         "name": "Root",
-        "p": "Roots",
+        "p": "",
         "description": "You are roooted and cannot move.",
         "description2": ""
     },
     "fear": {
         "name": "Fear",
-        "p": "Fears",
+        "p": "",
         "description": "You are afraid and cannot react.",
         "description2": ""
     },
     "blind": {
         "name": "Blind",
-        "p": "Blinds",
+        "p": "",
         "description": "You are blinded.",
         "description2": ""
     },
     "snare": {
         "name": "Snare",
-        "p": "Snares",
+        "p": "",
         "description": "Your movement is slowed down.",
         "description2": ""
     },
     "slow": {
         "name": "Slow",
-        "p": "Slows",
+        "p": "",
         "description": "Your attacks are slowed down.",
         "description2": ""
     },
     "stench": {
         "name": "Stench",
-        "p": "Stenches",
+        "p": "",
         "description": "An aura of stench envelopes you.",
         "description2": ""
     },
     "rot": {
         "name": "Rot Damage",
-        "p": "Rot Damage",
+        "p": "",
         "description": "You suffer rot damage over time.",
         "description2": ""
     },
     "cold": {
         "name": "Cold Damage",
-        "p": "Cold Damage",
+        "p": "",
         "description": "You suffer cold damage over time.",
         "description2": ""
     },
     "fire": {
         "name": "Fire Damage",
-        "p": "Fire Damage",
+        "p": "",
         "description": "You suffer fire damage over time.",
         "description2": ""
     },
     "electric": {
         "name": "Electricity Damage",
-        "p": "Electricity Damage",
+        "p": "",
         "description": "You suffer electricity damage over time.",
         "description2": ""
     },
     "acid": {
         "name": "Acid Damage",
-        "p": "Acid Damage",
+        "p": "",
         "description": "You suffer acid damage over time.",
         "description2": ""
     },
     "poison": {
         "name": "Poison Damage",
-        "p": "Poison Damage",
+        "p": "",
         "description": "You suffer poison damage over time.",
         "description2": ""
     },
     "shockwave": {
         "name": "Shockwave Damage",
-        "p": "Shockwave Damage",
+        "p": "",
         "description": "You suffer shockwave damage over time.",
         "description2": ""
     },
     "shielding": {
         "name": "Shielding",
-        "p": "Shielding",
+        "p": "",
         "description": "You have a bodyguard.",
         "description2": ""
     },
     "life_aura": {
         "name": "Life Regen Aura",
-        "p": "Life Regen Aura",
+        "p": "",
         "description": "Your hit points regenerate more quickly.",
         "description2": ""
     },
     "stamina_aura": {
         "name": "Stamina Regen Aura",
-        "p": "Stamina Regen Aura",
+        "p": "",
         "description": "Your stamina regenerates more quickly.",
         "description2": ""
     },
     "sap_aura": {
         "name": "Sap Regen Aura",
-        "p": "Sap Regen Aura",
+        "p": "",
         "description": "Your sap regenerates more quickly.",
         "description2": ""
     },
     "umbrella_aura": {
         "name": "Range Protection Aura",
-        "p": "Range Protection Aura",
+        "p": "",
         "description": "You are protected from range attacks.",
         "description2": ""
     },
     "melee_protection_aura": {
         "name": "Melee Protection Aura",
-        "p": "Melee Protection Aura",
+        "p": "",
         "description": "You are protected from melee attacks.",
         "description2": ""
     },
     "anti_magic_shield_aura": {
         "name": "Anti Magic Shield Aura",
-        "p": "Anti Magic Shield Aura",
+        "p": "",
         "description": "You are protected from magic attacks.",
         "description2": ""
     },
     "invulnerability": {
         "name": "Invulnerability",
-        "p": "Invulnerability",
+        "p": "",
         "description": "You are invulnerable but cannot react.",
         "description2": ""
     },
     "war_cry_aura": {
         "name": "War Cry Aura",
-        "p": "War Cry Aura",
+        "p": "",
         "description": "Your close range damage gains a bonus.",
         "description2": ""
     },
     "speeding_up": {
         "name": "Speeding Up",
-        "p": "Speeding Up",
+        "p": "",
         "description": "Your running speed is increased.",
         "description2": ""
     },
     "berserk": {
         "name": "Berserk",
-        "p": "Berserk",
+        "p": "",
         "description": "Your close range damage gains a bonus.",
         "description2": ""
     },
     "debuff_dodge": {
         "name": "Debuff Dodge Skill",
-        "p": "Debuff Dodge Skill",
+        "p": "",
         "description": "You have a penalty on your dodge skill.",
         "description2": ""
     },
     "debuff_combat_skills": {
         "name": "Debuff Combat Skill",
-        "p": "Debuff Combat Skills",
+        "p": "",
         "description": "You have a penalty on your fight skill.",
         "description2": ""
     },
@@ -21523,79 +21523,79 @@
     },
     "bfmb01": {
         "name": "Hit Rate +1",
-        "p": "Hit Rates +1",
+        "p": "",
         "description": "Stanza that increases the firing rate.",
         "description2": ""
     },
     "bfmb02": {
         "name": "Hit Rate +2",
-        "p": "Hit Rates +2",
+        "p": "",
         "description": "Stanza that increases the firing rate.",
         "description2": ""
     },
     "bfmb03": {
         "name": "Hit Rate +3",
-        "p": "Hit Rates +3",
+        "p": "",
         "description": "Stanza that increases the firing rate.",
         "description2": ""
     },
     "bfmb04": {
         "name": "Hit Rate +4",
-        "p": "Hit Rates +4",
+        "p": "",
         "description": "Stanza that increases the firing rate.",
         "description2": ""
     },
     "bfmb05": {
         "name": "Hit Rate +5",
-        "p": "Hit Rates +5",
+        "p": "",
         "description": "Stanza that increases the firing rate.",
         "description2": ""
     },
     "bfmb06": {
         "name": "Hit Rate +6",
-        "p": "Hit Rates +6",
+        "p": "",
         "description": "Stanza that increases the firing rate.",
         "description2": ""
     },
     "bfmb07": {
         "name": "Hit Rate +7",
-        "p": "Hit Rates +7",
+        "p": "",
         "description": "Stanza that increases the firing rate.",
         "description2": ""
     },
     "bfmb08": {
         "name": "Hit Rate +8",
-        "p": "Hit Rates +8",
+        "p": "",
         "description": "Stanza that increases the firing rate.",
         "description2": ""
     },
     "bfmb09": {
         "name": "Hit Rate +9",
-        "p": "Hit Rates +9",
+        "p": "",
         "description": "Stanza that increases the firing rate.",
         "description2": ""
     },
     "bfmb10": {
         "name": "Hit Rate +10",
-        "p": "Hit Rates +10",
+        "p": "",
         "description": "Stanza that increases the firing rate.",
         "description2": ""
     },
     "bfmb11": {
         "name": "Hit Rate +11",
-        "p": "Hit Rates +11",
+        "p": "",
         "description": "Stanza that increases the firing rate.",
         "description2": ""
     },
     "bfmb12": {
         "name": "Hit Rate +12",
-        "p": "Hit Rates +12",
+        "p": "",
         "description": "Stanza that increases the firing rate.",
         "description2": ""
     },
     "bfmb13": {
         "name": "Hit Rate +13",
-        "p": "Hit Rates +13",
+        "p": "",
         "description": "Stanza that increases the firing rate.",
         "description2": ""
     },
@@ -22009,7 +22009,7 @@
     },
     "bepa01": {
         "name": "Enchantment Trigger",
-        "p": "Enchantment Triggers",
+        "p": "",
         "description": "Triggers an enchanted item's enchantment.",
         "description2": ""
     },
@@ -22027,1627 +22027,1627 @@
     },
     "bckammi_ep2_large_bark_splinter": {
         "name": "Large Fragment of Bark",
-        "p": "Large Fragments of Barks",
+        "p": "",
         "description": "Crafting Plan\/Large Fragment of Bark.",
         "description2": ""
     },
     "bckammi_ep2_large_fibers": {
         "name": "Large Handful of Fibers",
-        "p": "Large Handfuls of Fibers",
+        "p": "",
         "description": "Crafting Plan\/Large Handful of Fibers.",
         "description2": ""
     },
     "bckammi_ep2_large_root_piece": {
         "name": "Large Piece of Root",
-        "p": "Large Pieces of Roots",
+        "p": "",
         "description": "Crafting Plan\/Large Piece of Root.",
         "description2": ""
     },
     "bckammi_ep2_large_trunk": {
         "name": "Long Part of Trunk",
-        "p": "Long Parts of Trunks",
+        "p": "",
         "description": "Crafting Plan\/Long Part of Trunk.",
         "description2": ""
     },
     "bckammi_ep2_maj_maduk_core": {
         "name": "Large Part of Ma-Duk's Core",
-        "p": "Large Parts of Ma-Duk's Cores",
+        "p": "",
         "description": "Crafting Plan\/Large Part of Ma-Duk's Core.",
         "description2": ""
     },
     "bckammi_ep2_maj_symbol_part": {
         "name": "Major Part of the Symbol",
-        "p": "Major Parts of the Symbols",
+        "p": "",
         "description": "Crafting Plan\/Major Part of the Symbol.",
         "description2": ""
     },
     "bckammi_ep2_min_maduk_core": {
         "name": "Minor Part of Ma-Duk's Core",
-        "p": "Minor Parts of Ma-Duk's Cores",
+        "p": "",
         "description": "Crafting Plan\/Minor Part of Ma-Duk's Core.",
         "description2": ""
     },
     "bckammi_ep2_min_symbol_part": {
         "name": "Minor Part of the Symbol",
-        "p": "Minor Parts of the Symbols",
+        "p": "",
         "description": "Crafting Plan\/Minor Part of the Symbol.",
         "description2": ""
     },
     "bckammi_ep2_small_bark_splinter": {
         "name": "Small Fragment of Bark",
-        "p": "Small Fragments of Barks",
+        "p": "",
         "description": "Crafting Plan\/Small Fragment of Bark.",
         "description2": ""
     },
     "bckammi_ep2_small_fibers": {
         "name": "Small Handful of Fibers",
-        "p": "Small Handfuls of Fibers",
+        "p": "",
         "description": "Crafting Plan\/Small Handful of Fibers.",
         "description2": ""
     },
     "bckammi_ep2_small_root_piece": {
         "name": "Small Piece of Root",
-        "p": "Small Pieces of Roots",
+        "p": "",
         "description": "Crafting Plan\/Small Piece of Root.",
         "description2": ""
     },
     "bckammi_ep2_small_trunk": {
         "name": "Small Part of Trunk",
-        "p": "Small Parts of Trunks",
+        "p": "",
         "description": "Crafting Plan\/Small Part of Trunk.",
         "description2": ""
     },
     "bckammi_ep2_large_moss_patch": {
         "name": "Large Handful of Moss",
-        "p": "Large Handfuls of Moss",
+        "p": "",
         "description": "Crafting Plan\/Large Handful of Moss.",
         "description2": ""
     },
     "bckammi_ep2_small_bud": {
         "name": "Small Ornamental Bud",
-        "p": "Small Ornamental Buds",
+        "p": "",
         "description": "Crafting Plan\/Small Ornamental Bud.",
         "description2": ""
     },
     "bckammi_ep2_small_moss_patch": {
         "name": "Small Handful of Moss",
-        "p": "Small Handful of Moss",
+        "p": "",
         "description": "Crafting Plan\/Small Handful of Moss.",
         "description2": ""
     },
     "bckammi_ep2_large_bud": {
         "name": "Large Ornament Bud",
-        "p": "Large Ornamental Buds",
+        "p": "",
         "description": "Crafting Plan\/Large Ornamental Bud.",
         "description2": ""
     },
     "bckarmi_ep2_high_brick": {
         "name": "Higher Brick Wall",
-        "p": "Higher Brick Walls",
+        "p": "",
         "description": "Crafting Plan\/Higher Brick Wall.",
         "description2": ""
     },
     "bckarmi_ep2_large_conglomerate": {
         "name": "Big Conglomerate of Attics",
-        "p": "Big Conglomerates of Attics",
+        "p": "",
         "description": "Big Conglomerate of Attics Crafting plan.",
         "description2": ""
     },
     "bckarmi_ep2_low_brick": {
         "name": "Lower Brick Wall",
-        "p": "Lower Brick Walls",
+        "p": "",
         "description": "Crafting Plan\/Lower Brick Wall.",
         "description2": ""
     },
     "bckarmi_ep2_maj_column": {
         "name": "Major Part of Column",
-        "p": "Major Parts of Columns",
+        "p": "",
         "description": "Crafting Plan\/Major Part of Column.",
         "description2": ""
     },
     "bckarmi_ep2_maj_justice_column": {
         "name": "Major Part of the Column of Justice",
-        "p": "Major Parts of the Columns of Justice",
+        "p": "",
         "description": "Crafting Plan\/Major Part of the Column of Justice.",
         "description2": ""
     },
     "bckarmi_ep2_maj_ornament": {
         "name": "Major Ornamental Part",
-        "p": "Major Ornamental Parts",
+        "p": "",
         "description": "Crafting Plan\/Major Ornamental Part.",
         "description2": ""
     },
     "bckarmi_ep2_large_patch_cover": {
         "name": "Major Covering Plate",
-        "p": "Major Covering Plates",
+        "p": "",
         "description": "Crafting Plan\/Major Covering Plate.",
         "description2": ""
     },
     "bckarmi_ep2_maj_pedestal": {
         "name": "Major Part of Pedestal",
-        "p": "Major Parts of Pedestals",
+        "p": "",
         "description": "Crafting Plan\/Major Part of Pedestal.",
         "description2": ""
     },
     "bckarmi_ep2_maj_statue_part": {
         "name": "Major Part of Statue",
-        "p": "Major Parts of Statues",
+        "p": "",
         "description": "Crafting Plan\/Major Part of Statue.",
         "description2": ""
     },
     "bckarmi_ep2_min_column": {
         "name": "Minor Part of Column",
-        "p": "Minor Parts of Columns",
+        "p": "",
         "description": "Crafting Plan\/Minor Part of Column.",
         "description2": ""
     },
     "bckarmi_ep2_min_justice_column": {
         "name": "Minor Part of the Column of Justice",
-        "p": "Minor Parts of the Columns of Justice",
+        "p": "",
         "description": "Crafting Plan\/Minor Part of the Column of Justice.",
         "description2": ""
     },
     "bckarmi_ep2_min_ornament": {
         "name": "Minor Ornamental Part",
-        "p": "Minor Ornamental Parts",
+        "p": "",
         "description": "Crafting Plan\/Minor Ornamental Part.",
         "description2": ""
     },
     "bckarmi_ep2_small_patch_cover": {
         "name": "Minor Covering Plate",
-        "p": "Minor Covering Plates",
+        "p": "",
         "description": "Crafting Plan\/Minor Covering Plate.",
         "description2": ""
     },
     "bckarmi_ep2_min_pedestal": {
         "name": "Minor Part of Pedestal",
-        "p": "Minor Parts of Pedestals",
+        "p": "",
         "description": "Crafting Plan\/Minor Part of Pedestal.",
         "description2": ""
     },
     "bckarmi_ep2_min_statue_part": {
         "name": "Minor Part of Statue",
-        "p": "Minor Parts of Statues",
+        "p": "",
         "description": "Crafting Plan\/Minor Part of Statue.",
         "description2": ""
     },
     "bckarmi_ep2_small_conglomerate": {
         "name": "Small Conglomerate of Attics",
-        "p": "Small Conglomerates of Attics",
+        "p": "",
         "description": "Crafting Plan\/Small Conglomerate of Attic.",
         "description2": ""
     },
     "bcpa28": {
         "name": "Kami Construction",
-        "p": "Kami Constructions",
+        "p": "",
         "description": "Base Crafting plan for kami constructions.",
         "description2": ""
     },
     "bcpa29": {
         "name": "Karavan Construction",
-        "p": "Karavan Constructions",
+        "p": "",
         "description": "Base Crafting plan for karavan constructions.",
         "description2": ""
     },
     "bckarbca01": {
         "name": "Karavan Construction 01",
-        "p": "Karavan Constructions 01",
+        "p": "",
         "description": "Allows you to craft karavan constructions of quality $cr_recommended.",
         "description2": "Karavan Construction 01 - Quality: $cr_recommended"
     },
     "bckarbca02": {
         "name": "Karavan Construction 02",
-        "p": "Karavan Constructions 02",
+        "p": "",
         "description": "Allows you to craft karavan constructions of quality $cr_recommended.",
         "description2": "Karavan Construction 02 - Quality: $cr_recommended"
     },
     "bckarbca03": {
         "name": "Karavan Construction 03",
-        "p": "Karavan Constructions 03",
+        "p": "",
         "description": "Allows you to craft karavan constructions of quality $cr_recommended.",
         "description2": "Karavan Construction 03 - Quality: $cr_recommended"
     },
     "bckarbca04": {
         "name": "Karavan Construction 04",
-        "p": "Karavan Constructions 04",
+        "p": "",
         "description": "Allows you to craft karavan constructions of quality $cr_recommended.",
         "description2": "Karavan Construction 04 - Quality: $cr_recommended"
     },
     "bckarbca05": {
         "name": "Karavan Construction 05",
-        "p": "Karavan Constructions 05",
+        "p": "",
         "description": "Allows you to craft karavan constructions of quality $cr_recommended.",
         "description2": "Karavan Construction 05 - Quality: $cr_recommended"
     },
     "bckarbca06": {
         "name": "Karavan Construction 06",
-        "p": "Karavan Constructions 06",
+        "p": "",
         "description": "Allows you to craft karavan constructions of quality $cr_recommended.",
         "description2": "Karavan Construction 06 - Quality: $cr_recommended"
     },
     "bckarbca07": {
         "name": "Karavan Construction 07",
-        "p": "Karavan Constructions 07",
+        "p": "",
         "description": "Allows you to craft karavan constructions of quality $cr_recommended.",
         "description2": "Karavan Construction 07 - Quality: $cr_recommended"
     },
     "bckarbca08": {
         "name": "Karavan Construction 08",
-        "p": "Karavan Constructions 08",
+        "p": "",
         "description": "Allows you to craft karavan constructions of quality $cr_recommended.",
         "description2": "Karavan Construction 08 - Quality: $cr_recommended"
     },
     "bckarbca09": {
         "name": "Karavan Construction 09",
-        "p": "Karavan Constructions 09",
+        "p": "",
         "description": "Allows you to craft karavan constructions of quality $cr_recommended.",
         "description2": "Karavan Construction 09 - Quality: $cr_recommended"
     },
     "bckarbca10": {
         "name": "Karavan Construction 10",
-        "p": "Karavan Constructions 10",
+        "p": "",
         "description": "Allows you to craft karavan constructions of quality $cr_recommended.",
         "description2": "Karavan Construction 10 - Quality: $cr_recommended"
     },
     "bckarbca11": {
         "name": "Karavan Construction 11",
-        "p": "Karavan Constructions 11",
+        "p": "",
         "description": "Allows you to craft karavan constructions of quality $cr_recommended.",
         "description2": "Karavan Construction 11 - Quality: $cr_recommended"
     },
     "bckarbca12": {
         "name": "Karavan Construction 12",
-        "p": "Karavan Constructions 12",
+        "p": "",
         "description": "Allows you to craft karavan constructions of quality $cr_recommended.",
         "description2": "Karavan Construction 12 - Quality: $cr_recommended"
     },
     "bckarbca13": {
         "name": "Karavan Construction 13",
-        "p": "Karavan Constructions 13",
+        "p": "",
         "description": "Allows you to craft karavan constructions of quality $cr_recommended.",
         "description2": "Karavan Construction 13 - Quality: $cr_recommended"
     },
     "bckarbca14": {
         "name": "Karavan Construction 14",
-        "p": "Karavan Constructions 14",
+        "p": "",
         "description": "Allows you to craft karavan constructions of quality $cr_recommended.",
         "description2": "Karavan Construction 14 - Quality: $cr_recommended"
     },
     "bckarbca15": {
         "name": "Karavan Construction 15",
-        "p": "Karavan Constructions 15",
+        "p": "",
         "description": "Allows you to craft karavan constructions of quality $cr_recommended.",
         "description2": "Karavan Construction 15 - Quality: $cr_recommended"
     },
     "bckarbca16": {
         "name": "Karavan Construction 16",
-        "p": "Karavan Constructions 16",
+        "p": "",
         "description": "Allows you to craft karavan constructions of quality $cr_recommended.",
         "description2": "Karavan Construction 16 - Quality: $cr_recommended"
     },
     "bckarbca17": {
         "name": "Karavan Construction 17",
-        "p": "Karavan Constructions 17",
+        "p": "",
         "description": "Allows you to craft karavan constructions of quality $cr_recommended.",
         "description2": "Karavan Construction 17 - Quality: $cr_recommended"
     },
     "bckarbca18": {
         "name": "Karavan Construction 18",
-        "p": "Karavan Constructions 18",
+        "p": "",
         "description": "Allows you to craft karavan constructions of quality $cr_recommended.",
         "description2": "Karavan Construction 18 - Quality: $cr_recommended"
     },
     "bckarbca19": {
         "name": "Karavan Construction 19",
-        "p": "Karavan Constructions 19",
+        "p": "",
         "description": "Allows you to craft karavan constructions of quality $cr_recommended.",
         "description2": "Karavan Construction 19 - Quality: $cr_recommended"
     },
     "bckarbca20": {
         "name": "Karavan Construction 20",
-        "p": "Karavan Constructions 20",
+        "p": "",
         "description": "Allows you to craft karavan constructions of quality $cr_recommended.",
         "description2": "Karavan Construction 20 - Quality: $cr_recommended"
     },
     "bckarbca21": {
         "name": "Karavan Construction 21",
-        "p": "Karavan Constructions 21",
+        "p": "",
         "description": "Allows you to craft karavan constructions of quality $cr_recommended.",
         "description2": "Karavan Construction 21 - Quality: $cr_recommended"
     },
     "bckarbca22": {
         "name": "Karavan Construction 22",
-        "p": "Karavan Constructions 22",
+        "p": "",
         "description": "Allows you to craft karavan constructions of quality $cr_recommended.",
         "description2": "Karavan Construction 22 - Quality: $cr_recommended"
     },
     "bckarbca23": {
         "name": "Karavan Construction 23",
-        "p": "Karavan Constructions 23",
+        "p": "",
         "description": "Allows you to craft karavan constructions of quality $cr_recommended.",
         "description2": "Karavan Construction 23 - Quality: $cr_recommended"
     },
     "bckarbca24": {
         "name": "Karavan Construction 24",
-        "p": "Karavan Constructions 24",
+        "p": "",
         "description": "Allows you to craft karavan constructions of quality $cr_recommended.",
         "description2": "Karavan Construction 24 - Quality: $cr_recommended"
     },
     "bckarbca25": {
         "name": "Karavan Construction 25",
-        "p": "Karavan Constructions 25",
+        "p": "",
         "description": "Allows you to craft karavan constructions of quality $cr_recommended.",
         "description2": "Karavan Construction 25 - Quality: $cr_recommended"
     },
     "bckambca01": {
         "name": "Kami Construction 01",
-        "p": "Kami Constructions 01",
+        "p": "",
         "description": "Allows you to craft kami constructions of quality $cr_recommended.",
         "description2": "Kami Construction 01 - Quality: $cr_recommended"
     },
     "bckambca02": {
         "name": "Kami Construction 02",
-        "p": "Kami Constructions 02",
+        "p": "",
         "description": "Allows you to craft kami constructions of quality $cr_recommended.",
         "description2": "Kami Construction 02 - Quality: $cr_recommended"
     },
     "bckambca03": {
         "name": "Kami Construction 03",
-        "p": "Kami Constructions 03",
+        "p": "",
         "description": "Allows you to craft kami constructions of quality $cr_recommended.",
         "description2": "Kami Construction 03 - Quality: $cr_recommended"
     },
     "bckambca04": {
         "name": "Kami Construction 04",
-        "p": "Kami Constructions 04",
+        "p": "",
         "description": "Allows you to craft kami constructions of quality $cr_recommended.",
         "description2": "Kami Construction 04 - Quality: $cr_recommended"
     },
     "bckambca05": {
         "name": "Kami Construction 05",
-        "p": "Kami Constructions 05",
+        "p": "",
         "description": "Allows you to craft kami constructions of quality $cr_recommended.",
         "description2": "Kami Construction 05 - Quality: $cr_recommended"
     },
     "bckambca06": {
         "name": "Kami Construction 06",
-        "p": "Kami Constructions 06",
+        "p": "",
         "description": "Allows you to craft kami constructions of quality $cr_recommended.",
         "description2": "Kami Construction 06 - Quality: $cr_recommended"
     },
     "bckambca07": {
         "name": "Kami Construction 07",
-        "p": "Kami Constructions 07",
+        "p": "",
         "description": "Allows you to craft kami constructions of quality $cr_recommended.",
         "description2": "Kami Construction 07 - Quality: $cr_recommended"
     },
     "bckambca08": {
         "name": "Kami Construction 08",
-        "p": "Kami Constructions 08",
+        "p": "",
         "description": "Allows you to craft kami constructions of quality $cr_recommended.",
         "description2": "Kami Construction 08 - Quality: $cr_recommended"
     },
     "bckambca09": {
         "name": "Kami Construction 09",
-        "p": "Kami Constructions 09",
+        "p": "",
         "description": "Allows you to craft kami constructions of quality $cr_recommended.",
         "description2": "Kami Construction 09 - Quality: $cr_recommended"
     },
     "bckambca10": {
         "name": "Kami Construction 10",
-        "p": "Kami Constructions 10",
+        "p": "",
         "description": "Allows you to craft kami constructions of quality $cr_recommended.",
         "description2": "Kami Construction 10 - Quality: $cr_recommended"
     },
     "bckambca11": {
         "name": "Kami Construction 11",
-        "p": "Kami Constructions 11",
+        "p": "",
         "description": "Allows you to craft kami constructions of quality $cr_recommended.",
         "description2": "Kami Construction 11 - Quality: $cr_recommended"
     },
     "bckambca12": {
         "name": "Kami Construction 12",
-        "p": "Kami Constructions 12",
+        "p": "",
         "description": "Allows you to craft kami constructions of quality $cr_recommended.",
         "description2": "Kami Construction 12 - Quality: $cr_recommended"
     },
     "bckambca13": {
         "name": "Kami Construction 13",
-        "p": "Kami Constructions 13",
+        "p": "",
         "description": "Allows you to craft kami constructions of quality $cr_recommended.",
         "description2": "Kami Construction 13 - Quality: $cr_recommended"
     },
     "bckambca14": {
         "name": "Kami Construction 14",
-        "p": "Kami Constructions 14",
+        "p": "",
         "description": "Allows you to craft kami constructions of quality $cr_recommended.",
         "description2": "Kami Construction 14 - Quality: $cr_recommended"
     },
     "bckambca15": {
         "name": "Kami Construction 15",
-        "p": "Kami Constructions 15",
+        "p": "",
         "description": "Allows you to craft kami constructions of quality $cr_recommended.",
         "description2": "Kami Construction 15 - Quality: $cr_recommended"
     },
     "bckambca16": {
         "name": "Kami Construction 16",
-        "p": "Kami Constructions 16",
+        "p": "",
         "description": "Allows you to craft kami constructions of quality $cr_recommended.",
         "description2": "Kami Construction 16 - Quality: $cr_recommended"
     },
     "bckambca17": {
         "name": "Kami Construction 17",
-        "p": "Kami Constructions 17",
+        "p": "",
         "description": "Allows you to craft kami constructions of quality $cr_recommended.",
         "description2": "Kami Construction 17 - Quality: $cr_recommended"
     },
     "bckambca18": {
         "name": "Kami Construction 18",
-        "p": "Kami Constructions 18",
+        "p": "",
         "description": "Allows you to craft kami constructions of quality $cr_recommended.",
         "description2": "Kami Construction 18 - Quality: $cr_recommended"
     },
     "bckambca19": {
         "name": "Kami Construction 19",
-        "p": "Kami Constructions 19",
+        "p": "",
         "description": "Allows you to craft kami constructions of quality $cr_recommended.",
         "description2": "Kami Construction 19 - Quality: $cr_recommended"
     },
     "bckambca20": {
         "name": "Kami Construction 20",
-        "p": "Kami Constructions 20",
+        "p": "",
         "description": "Allows you to craft kami constructions of quality $cr_recommended.",
         "description2": "Kami Construction 20 - Quality: $cr_recommended"
     },
     "bckambca21": {
         "name": "Kami Construction 21",
-        "p": "Kami Constructions 21",
+        "p": "",
         "description": "Allows you to craft kami constructions of quality $cr_recommended.",
         "description2": "Kami Construction 21 - Quality: $cr_recommended"
     },
     "bckambca22": {
         "name": "Kami Construction 22",
-        "p": "Kami Constructions 22",
+        "p": "",
         "description": "Allows you to craft kami constructions of quality $cr_recommended.",
         "description2": "Kami Construction 22 - Quality: $cr_recommended"
     },
     "bckambca23": {
         "name": "Kami Construction 23",
-        "p": "Kami Constructions 23",
+        "p": "",
         "description": "Allows you to craft kami constructions of quality $cr_recommended.",
         "description2": "Kami Construction 23 - Quality: $cr_recommended"
     },
     "bckambca24": {
         "name": "Kami Construction 24",
-        "p": "Kami Constructions 24",
+        "p": "",
         "description": "Allows you to craft kami constructions of quality $cr_recommended.",
         "description2": "Kami Construction 24 - Quality: $cr_recommended"
     },
     "bckambca25": {
         "name": "Kami Construction 25",
-        "p": "Kami Constructions 25",
+        "p": "",
         "description": "Allows you to craft kami constructions of quality $cr_recommended.",
         "description2": "Kami Construction 25 - Quality: $cr_recommended"
     },
     "bcfjea01_2": {
         "name": "Anklet - Medium Quality",
-        "p": "Anklets - Medium Quality",
+        "p": "",
         "description": " Medium Quality Fyros Anklet Crafting Plan.",
         "description2": ""
     },
     "bcfjea02_2": {
         "name": "Bracelet - Medium Quality",
-        "p": "Bracelets - Medium Quality",
+        "p": "",
         "description": " Medium Quality Fyros Bracelet Crafting Plan.",
         "description2": ""
     },
     "bcfjea03_2": {
         "name": "Diadem - Medium Quality",
-        "p": "Diadems - Medium Quality",
+        "p": "",
         "description": " Medium Quality Fyros Diadem Crafting Plan.",
         "description2": ""
     },
     "bcfjea04_2": {
         "name": "Earring - Medium Quality",
-        "p": "Earrings - Medium Quality",
+        "p": "",
         "description": " Medium Quality Fyros Earring Crafting Plan.",
         "description2": ""
     },
     "bcfjea05_2": {
         "name": "Pendant - Medium Quality",
-        "p": "Pendants - Medium Quality",
+        "p": "",
         "description": " Medium Quality Fyros Pendant Crafting Plan.",
         "description2": ""
     },
     "bcfjea06_2": {
         "name": "Ring - Medium Quality",
-        "p": "Rings - Medium Quality",
+        "p": "",
         "description": " Medium Quality Fyros Ring Crafting Plan.",
         "description2": ""
     },
     "bcmjea01_2": {
         "name": "Anklet - Medium Quality",
-        "p": "Anklets - Medium Quality",
+        "p": "",
         "description": " Medium Quality Matis Anklet Crafting Plan.",
         "description2": ""
     },
     "bcmjea02_2": {
         "name": "Bracelet - Medium Quality",
-        "p": "Bracelets - Medium Quality",
+        "p": "",
         "description": " Medium Quality Matis Bracelet Crafting Plan.",
         "description2": ""
     },
     "bcmjea03_2": {
         "name": "Diadem - Medium Quality",
-        "p": "Diadems - Medium Quality",
+        "p": "",
         "description": " Medium Quality Matis Diadem Crafting Plan.",
         "description2": ""
     },
     "bcmjea04_2": {
         "name": "Earring - Medium Quality",
-        "p": "Earrings - Medium Quality",
+        "p": "",
         "description": " Medium Quality Matis Earring Crafting Plan.",
         "description2": ""
     },
     "bcmjea05_2": {
         "name": "Pendant - Medium Quality",
-        "p": "Pendants - Medium Quality",
+        "p": "",
         "description": " Medium Quality Matis Pendant Crafting Plan.",
         "description2": ""
     },
     "bcmjea06_2": {
         "name": "Ring - Medium Quality",
-        "p": "Rings - Medium Quality",
+        "p": "",
         "description": " Medium Quality Matis Ring Crafting Plan.",
         "description2": ""
     },
     "bctjea01_2": {
         "name": "Anklet - Medium Quality",
-        "p": "Anklets - Medium Quality",
+        "p": "",
         "description": " Medium Quality Tryker Anklet Crafting Plan.",
         "description2": ""
     },
     "bctjea02_2": {
         "name": "Bracelet - Medium Quality",
-        "p": "Bracelets - Medium Quality",
+        "p": "",
         "description": " Medium Quality Tryker Bracelet Crafting Plan.",
         "description2": ""
     },
     "bctjea03_2": {
         "name": "Diadem - Medium Quality",
-        "p": "Diadems - Medium Quality",
+        "p": "",
         "description": " Medium Quality Tryker Diadem Crafting Plan.",
         "description2": ""
     },
     "bctjea04_2": {
         "name": "Earring - Medium Quality",
-        "p": "Earrings - Medium Quality",
+        "p": "",
         "description": " Medium Quality Tryker Earring Crafting Plan.",
         "description2": ""
     },
     "bctjea05_2": {
         "name": "Pendant - Medium Quality",
-        "p": "Pendants - Medium Quality",
+        "p": "",
         "description": " Medium Quality Tryker Pendant Crafting Plan.",
         "description2": ""
     },
     "bctjea06_2": {
         "name": "Ring - Medium Quality",
-        "p": "Rings - Medium Quality",
+        "p": "",
         "description": " Medium Quality Tryker Ring Crafting Plan.",
         "description2": ""
     },
     "bczjea01_2": {
         "name": "Anklet - Medium Quality",
-        "p": "Anklets - Medium Quality",
+        "p": "",
         "description": " Medium Quality Zoraï Anklet Crafting Plan.",
         "description2": ""
     },
     "bczjea02_2": {
         "name": "Bracelet - Medium Quality",
-        "p": "Bracelets - Medium Quality",
+        "p": "",
         "description": " Medium Quality Zoraï Bracelet Crafting Plan.",
         "description2": ""
     },
     "bczjea03_2": {
         "name": "Diadem - Medium Quality",
-        "p": "Diadems - Medium Quality",
+        "p": "",
         "description": " Medium Quality Zoraï Diadem Crafting Plan.",
         "description2": ""
     },
     "bczjea04_2": {
         "name": "Earring - Medium Quality",
-        "p": "Earrings - Medium Quality",
+        "p": "",
         "description": " Medium Quality Zoraï Earring Crafting Plan.",
         "description2": ""
     },
     "bczjea05_2": {
         "name": "Pendant - Medium Quality",
-        "p": "Pendants - Medium Quality",
+        "p": "",
         "description": " Medium Quality Zoraï Pendant Crafting Plan.",
         "description2": ""
     },
     "bczjea06_2": {
         "name": "Ring - Medium Quality",
-        "p": "Rings - Medium Quality",
+        "p": "",
         "description": " Medium Quality Zoraï Ring Crafting Plan.",
         "description2": ""
     },
     "bcfjea01_3": {
         "name": "Anklet - High Quality",
-        "p": "Anklets - High Quality",
+        "p": "",
         "description": " High Quality Fyros Anklet Crafting Plan.",
         "description2": ""
     },
     "bcfjea02_3": {
         "name": "Bracelet - High Quality",
-        "p": "Bracelets - High Quality",
+        "p": "",
         "description": " High Quality Fyros Bracelet Crafting Plan.",
         "description2": ""
     },
     "bcfjea03_3": {
         "name": "Diadem - High Quality",
-        "p": "Diadems - High Quality",
+        "p": "",
         "description": " High Quality Fyros Diadem Crafting Plan.",
         "description2": ""
     },
     "bcfjea04_3": {
         "name": "Earring - High Quality",
-        "p": "Earrings - High Quality",
+        "p": "",
         "description": " High Quality Fyros Earring Crafting Plan.",
         "description2": ""
     },
     "bcfjea05_3": {
         "name": "Pendant - High Quality",
-        "p": "Pendants - High Quality",
+        "p": "",
         "description": " High Quality Fyros Pendant Crafting Plan.",
         "description2": ""
     },
     "bcfjea06_3": {
         "name": "Ring - High Quality",
-        "p": "Rings - High Quality",
+        "p": "",
         "description": " High Quality Fyros Ring Crafting Plan.",
         "description2": ""
     },
     "bcmjea01_3": {
         "name": "Anklet - High Quality",
-        "p": "Anklets - High Quality",
+        "p": "",
         "description": " High Quality Matis Anklet Crafting Plan.",
         "description2": ""
     },
     "bcmjea02_3": {
         "name": "Bracelet - High Quality",
-        "p": "Bracelets - High Quality",
+        "p": "",
         "description": " High Quality Matis Bracelet Crafting Plan.",
         "description2": ""
     },
     "bcmjea03_3": {
         "name": "Diadem - High Quality",
-        "p": "Diadems - High Quality",
+        "p": "",
         "description": " High Quality Matis Diadem Crafting Plan.",
         "description2": ""
     },
     "bcmjea04_3": {
         "name": "Earring - High Quality",
-        "p": "Earrings - High Quality",
+        "p": "",
         "description": " High Quality Matis Earring Crafting Plan.",
         "description2": ""
     },
     "bcmjea05_3": {
         "name": "Pendant - High Quality",
-        "p": "Pendants - High Quality",
+        "p": "",
         "description": " High Quality Matis Pendant Crafting Plan.",
         "description2": ""
     },
     "bcmjea06_3": {
         "name": "Ring - High Quality",
-        "p": "Rings - High Quality",
+        "p": "",
         "description": " High Quality Matis Ring Crafting Plan.",
         "description2": ""
     },
     "bctjea01_3": {
         "name": "Anklet - High Quality",
-        "p": "Anklets - High Quality",
+        "p": "",
         "description": " High Quality Tryker Anklet Crafting Plan.",
         "description2": ""
     },
     "bctjea02_3": {
         "name": "Bracelet - High Quality",
-        "p": "Bracelets - High Quality",
+        "p": "",
         "description": " High Quality Tryker Bracelet Crafting Plan.",
         "description2": ""
     },
     "bctjea03_3": {
         "name": "Diadem - High Quality",
-        "p": "Diadems - High Quality",
+        "p": "",
         "description": " High Quality Tryker Diadem Crafting Plan.",
         "description2": ""
     },
     "bctjea04_3": {
         "name": "Earring - High Quality",
-        "p": "Earrings - High Quality",
+        "p": "",
         "description": " High Quality Tryker Earring Crafting Plan.",
         "description2": ""
     },
     "bctjea05_3": {
         "name": "Pendant - High Quality",
-        "p": "Pendants - High Quality",
+        "p": "",
         "description": " High Quality Tryker Pendant Crafting Plan.",
         "description2": ""
     },
     "bctjea06_3": {
         "name": "Ring - High Quality",
-        "p": "Rings - High Quality",
+        "p": "",
         "description": " High Quality Tryker Ring Crafting Plan.",
         "description2": ""
     },
     "bczjea01_3": {
         "name": "Anklet - High Quality",
-        "p": "Anklets - High Quality",
+        "p": "",
         "description": " High Quality Zoraï Anklet Crafting Plan.",
         "description2": ""
     },
     "bczjea02_3": {
         "name": "Bracelet - High Quality",
-        "p": "Bracelets - High Quality",
+        "p": "",
         "description": " High Quality Zoraï Bracelet Crafting Plan.",
         "description2": ""
     },
     "bczjea03_3": {
         "name": "Diadem - High Quality",
-        "p": "Diadems - High Quality",
+        "p": "",
         "description": " High Quality Zoraï Diadem Crafting Plan.",
         "description2": ""
     },
     "bczjea04_3": {
         "name": "Earring - High Quality",
-        "p": "Earrings - High Quality",
+        "p": "",
         "description": " High Quality Zoraï Earring Crafting Plan.",
         "description2": ""
     },
     "bczjea05_3": {
         "name": "Pendant - High Quality",
-        "p": "Pendants - High Quality",
+        "p": "",
         "description": " High Quality Zoraï Pendant Crafting Plan.",
         "description2": ""
     },
     "bczjea06_3": {
         "name": "Ring - High Quality",
-        "p": "Rings - High Quality",
+        "p": "",
         "description": " High Quality Zoraï Ring Crafting Plan.",
         "description2": ""
     },
     "bcokamem1bm_1": {
         "name": "Tekorn-Duk Mace",
-        "p": "Tekorn-Duk Maces",
+        "p": "",
         "description": "Crafting plan for Tekorn-Duk Maces.",
         "description2": ""
     },
     "bcokamem1bs_1": {
         "name": "Tekorn-Duk Staff",
-        "p": "Tekorn-Duk Staffs",
+        "p": "",
         "description": "Crafting plan for Tekorn-Duk Staffs.",
         "description2": ""
     },
     "bcokamem1pd_1": {
         "name": "Tekorn-Duk Dagger",
-        "p": "Tekorn-Duk Daggers",
+        "p": "",
         "description": "Crafting plan for Tekorn-Duk Daggers.",
         "description2": ""
     },
     "bcokamem1ps_1": {
         "name": "Tekorn-Duk Spear",
-        "p": "Tekorn-Duk Spears",
+        "p": "",
         "description": "Crafting plan for Tekorn-Duk Spears.",
         "description2": ""
     },
     "bcokamem1sa_1": {
         "name": "Tekorn-Duk Axe",
-        "p": "Tekorn-Duk Axes",
+        "p": "",
         "description": "Crafting plan for Tekorn-Duk Axes.",
         "description2": ""
     },
     "bcokamem1ss_1": {
         "name": "Tekorn-Duk Sword",
-        "p": "Tekorn-Duk Swords",
+        "p": "",
         "description": "Crafting plan for Tekorn-Duk Swords.",
         "description2": ""
     },
     "bcokamem2bm_1": {
         "name": "Tekorn-Duk Two-handed Mace",
-        "p": "Tekorn-Duk Two-handed Maces",
+        "p": "",
         "description": "Crafting plan for Tekorn-Duk Two-handed Maces.",
         "description2": ""
     },
     "bcokamem2ms_1": {
         "name": "Maga-Duk Magic Amplifier",
-        "p": "Maga-Duk Magic Amplifiers",
+        "p": "",
         "description": "Crafting plan for Maga-Duk Magic Amplifiers.",
         "description2": ""
     },
     "bcokamem2pp_1": {
         "name": "Tekorn-Duk Pike",
-        "p": "Tekorn-Duk Pikes",
+        "p": "",
         "description": "Crafting plan for Tekorn-Duk Pikes.",
         "description2": ""
     },
     "bcokamem2sa_1": {
         "name": "Tekorn-Duk Two-handed Axe",
-        "p": "Tekorn-Duk Two-handed Axes",
+        "p": "",
         "description": "Crafting plan for Tekorn-Duk Two-handed Axes.",
         "description2": ""
     },
     "bcokamem2ss_1": {
         "name": "Tekorn-Duk Two-handed Sword",
-        "p": "Tekorn-Duk Two-handed Swords",
+        "p": "",
         "description": "Crafting plan for Tekorn-Duk Two-handed Swords.",
         "description2": ""
     },
     "bcokamem1bm_2": {
         "name": "Vedice-Duk Mace",
-        "p": "Vedice-Duk Maces",
+        "p": "",
         "description": "Crafting plan for Vedice-Duk Maces.",
         "description2": ""
     },
     "bcokamem1bs_2": {
         "name": "Vedice-Duk Staff",
-        "p": "Vedice-Duk Staffs",
+        "p": "",
         "description": "Crafting plan for Vedice-Duk Staffs.",
         "description2": ""
     },
     "bcokamem1pd_2": {
         "name": "Vedice-Duk Dagger",
-        "p": "Vedice-Duk Daggers",
+        "p": "",
         "description": "Crafting plan for Vedice-Duk Daggers.",
         "description2": ""
     },
     "bcokamem1ps_2": {
         "name": "Vedice-Duk Spear",
-        "p": "Vedice-Duk Spears",
+        "p": "",
         "description": "Crafting plan for Vedice-Duk Spears.",
         "description2": ""
     },
     "bcokamem1sa_2": {
         "name": "Vedice-Duk Axe",
-        "p": "Vedice-Duk Axes",
+        "p": "",
         "description": "Crafting plan for Vedice-Duk Axes.",
         "description2": ""
     },
     "bcokamem1ss_2": {
         "name": "Vedice-Duk Sword",
-        "p": "Vedice-Duk Swords",
+        "p": "",
         "description": "Crafting plan for Vedice-Duk Swords.",
         "description2": ""
     },
     "bcokamem2bm_2": {
         "name": "Vedice-Duk Two-handed Mace",
-        "p": "Vedice-Duk Two-handed Maces",
+        "p": "",
         "description": "Crafting plan for Vedice-Duk Two-handed Maces.",
         "description2": ""
     },
     "bcokamem2ms_2": {
         "name": "Cheng-Duk Magic Amplifier",
-        "p": "Cheng-Duk Magic Amplifiers",
+        "p": "",
         "description": "Crafting plan for Cheng-Duk Magic Amplifiers.",
         "description2": ""
     },
     "bcokamem2pp_2": {
         "name": "Vedice-Duk Pike",
-        "p": "Vedice-Duk Pikes",
+        "p": "",
         "description": "Crafting plan for Vedice-Duk Pikes.",
         "description2": ""
     },
     "bcokamem2sa_2": {
         "name": "Vedice-Duk Two-handed Axe",
-        "p": "Vedice-Duk Two-handed Axes",
+        "p": "",
         "description": "Crafting plan for Vedice-Duk Two-handed Axes.",
         "description2": ""
     },
     "bcokamem2ss_2": {
         "name": "Vedice-Duk Two-handed Sword",
-        "p": "Vedice-Duk Two-handed Swords",
+        "p": "",
         "description": "Crafting plan for Vedice-Duk Two-Handed Swords.",
         "description2": ""
     },
     "bcokarem1bm_1": {
         "name": "Tekorn-Jen Mace",
-        "p": "Tekorn-Jen Maces",
+        "p": "",
         "description": "Crafting plan for Tekorn-Jen Maces.",
         "description2": ""
     },
     "bcokarem1bs_1": {
         "name": "Tekorn-Jen Staff",
-        "p": "Tekorn-Jen Staffs",
+        "p": "",
         "description": "Crafting plan for Tekorn-Jen Staffs.",
         "description2": ""
     },
     "bcokarem1pd_1": {
         "name": "Tekorn-Jen Dagger",
-        "p": "Tekorn-Jen Daggers",
+        "p": "",
         "description": "Crafting plan for Tekorn-Jen Daggers.",
         "description2": ""
     },
     "bcokarem1ps_1": {
         "name": "Tekorn-Jen Spear",
-        "p": "Tekorn-Jen Spears",
+        "p": "",
         "description": "Crafting plan for Tekorn-Jen Spears.",
         "description2": ""
     },
     "bcokarem1sa_1": {
         "name": "Tekorn-Jen Axe",
-        "p": "Tekorn-Jen Axes",
+        "p": "",
         "description": "Crafting plan for Tekorn-Jen Axes.",
         "description2": ""
     },
     "bcokarem1ss_1": {
         "name": "Tekorn-Jen Sword",
-        "p": "Tekorn-Jen Swords",
+        "p": "",
         "description": "Crafting plan for Tekorn-Jen Swords.",
         "description2": ""
     },
     "bcokarem2bm_1": {
         "name": "Tekorn-Jen Two-handed Mace",
-        "p": "Tekorn-Jen Two-handed Maces",
+        "p": "",
         "description": "Crafting plan for Tekorn-Jen Two-handed Maces.",
         "description2": ""
     },
     "bcokarem2ms_1": {
         "name": "Maga-Jen Magic Amplifier",
-        "p": "Maga-Jen Magic Amplifiers",
+        "p": "",
         "description": "Crafting plan for Maga-Jen Magic Amplifiers.",
         "description2": ""
     },
     "bcokarem2pp_1": {
         "name": "Tekorn-Jen Pike",
-        "p": "Tekorn-Jen Pikes",
+        "p": "",
         "description": "Crafting plan for Tekorn-Jen Pikes.",
         "description2": ""
     },
     "bcokarem2sa_1": {
         "name": "Tekorn-Jen Two-handed Axe",
-        "p": "Tekorn-Jen Two-handed Axes",
+        "p": "",
         "description": "Crafting plan for Tekorn-Jen Two-handed Axes.",
         "description2": ""
     },
     "bcokarem2ss_1": {
         "name": "Tekorn-Jen Two-handed Sword",
-        "p": "Tekorn-Jen Two-handed Swords",
+        "p": "",
         "description": "Crafting plan for Tekorn-Jen Two-handed Swords.",
         "description2": ""
     },
     "bcokarem1bm_2": {
         "name": "Vedice-Jen Mace",
-        "p": "Vedice-Jen Maces",
+        "p": "",
         "description": "Crafting plan for Vedice-Jen Maces.",
         "description2": ""
     },
     "bcokarem1bs_2": {
         "name": "Vedice-Jen Staff",
-        "p": "Vedice-Jen Staffs",
+        "p": "",
         "description": "Crafting plan for Vedice-Jen Staffs.",
         "description2": ""
     },
     "bcokarem1pd_2": {
         "name": "Vedice-Jen Dagger",
-        "p": "Vedice-Jen Daggers",
+        "p": "",
         "description": "Crafting plan for Vedice-Jen Daggers.",
         "description2": ""
     },
     "bcokarem1ps_2": {
         "name": "Vedice-Jen Spear",
-        "p": "Vedice-Jen Spears",
+        "p": "",
         "description": "Crafting plan for Vedice-Jen Spears.",
         "description2": ""
     },
     "bcokarem1sa_2": {
         "name": "Vedice-Jen Axe",
-        "p": "Vedice-Jen Axes",
+        "p": "",
         "description": "Crafting plan for Vedice-Jen Axes.",
         "description2": ""
     },
     "bcokarem1ss_2": {
         "name": "Vedice-Jen Sword",
-        "p": "Vedice-Jen Swords",
+        "p": "",
         "description": "Crafting plan for Vedice-Jen Swords.",
         "description2": ""
     },
     "bcokarem2bm_2": {
         "name": "Vedice-Jen Two-handed Mace",
-        "p": "Vedice-Jen Two-handed Maces",
+        "p": "",
         "description": "Crafting plan for Vedice-Jen Two-handed Maces.",
         "description2": ""
     },
     "bcokarem2ms_2": {
         "name": "Cheng-Jen Magic Amplifier",
-        "p": "Cheng-Jen Magic Amplifiers",
+        "p": "",
         "description": "Crafting plan for Cheng-Jen Magic Amplifiers.",
         "description2": ""
     },
     "bcokarem2pp_2": {
         "name": "Vedice-Jen Pike",
-        "p": "Vedice-Jen Pikes",
+        "p": "",
         "description": "Crafting plan for Vedice-Jen Pikes.",
         "description2": ""
     },
     "bcokarem2sa_2": {
         "name": "Vedice-Jen Two-handed Axe",
-        "p": "Vedice-Jen Two-handed Axes",
+        "p": "",
         "description": "Crafting plan for Vedice-Jen Two-handed Axes.",
         "description2": ""
     },
     "bcokarem2ss_2": {
         "name": "Vedice-Jen Two-handed Sword",
-        "p": "Vedice-Jen Two-handed Swords",
+        "p": "",
         "description": "Crafting plan for Vedice-Jen Two-Handed Swords.",
         "description2": ""
     },
     "bcokamer1b_1": {
         "name": "Tekorn-Duk Bowpistol",
-        "p": "Tekorn-Duk Bowpistols",
+        "p": "",
         "description": "Crafting plan for Tekorn-Duk Bowpistols.",
         "description2": ""
     },
     "bcokamer1p_1": {
         "name": "Tekorn-Duk Pistol",
-        "p": "Tekorn-Duk Pistols",
+        "p": "",
         "description": "Crafting plan for Tekorn-Duk Pistols.",
         "description2": ""
     },
     "bcokamer2a_1": {
         "name": "Tekorn-Duk Autolauncher",
-        "p": "Tekorn-Duk Autolaunchers",
+        "p": "",
         "description": "Crafting plan for Tekorn-Duk Autolaunchers.",
         "description2": ""
     },
     "bcokamer2b_1": {
         "name": "Tekorn-Duk Bowrifle",
-        "p": "Tekorn-Duk Bowrifles",
+        "p": "",
         "description": "Crafting plan for Tekorn-Duk Bowrifles.",
         "description2": ""
     },
     "bcokamer2l_1": {
         "name": "Tekorn-Duk Launcher",
-        "p": "Tekorn-Duk Launchers",
+        "p": "",
         "description": "Crafting plan for Tekorn-Duk Launchers.",
         "description2": ""
     },
     "bcokamer2r_1": {
         "name": "Tekorn-Duk Rifle",
-        "p": "Tekorn-Duk Rifles",
+        "p": "",
         "description": "Crafting plan for Tekorn-Duk Rifles.",
         "description2": ""
     },
     "bcokamer1b_2": {
         "name": "Vedice-Duk Bowpistol",
-        "p": "Vedice-Duk Bowpistols",
+        "p": "",
         "description": "Crafting plan for Vedice-Duk Bowpistols.",
         "description2": ""
     },
     "bcokamer1p_2": {
         "name": "Vedice-Duk Pistol",
-        "p": "Vedice-Duk Pistols",
+        "p": "",
         "description": "Crafting plan for Vedice-Duk Pistols.",
         "description2": ""
     },
     "bcokamer2a_2": {
         "name": "Vedice-Duk Autolauncher",
-        "p": "Vedice-Duk Autolaunchers",
+        "p": "",
         "description": "Crafting plan for Vedice-Duk Autolaunchers.",
         "description2": ""
     },
     "bcokamer2b_2": {
         "name": "Vedice-Duk Bowrifle",
-        "p": "Vedice-Duk Bowrifles",
+        "p": "",
         "description": "Crafting plan for Vedice-Duk Bowrifles.",
         "description2": ""
     },
     "bcokamer2l_2": {
         "name": "Vedice-Duk Launcher",
-        "p": "Vedice-Duk Launchers",
+        "p": "",
         "description": "Crafting plan for Vedice-Duk Launchers.",
         "description2": ""
     },
     "bcokamer2r_2": {
         "name": "Vedice-Duk Rifle",
-        "p": "Vedice-Duk Rifles",
+        "p": "",
         "description": "Crafting plan for Vedice-Duk Rifles.",
         "description2": ""
     },
     "bcokarer1b_1": {
         "name": "Tekorn-Jen Bowpistol",
-        "p": "Tekorn-Jen Bowpistols",
+        "p": "",
         "description": "Crafting plan for Tekorn-Jen Bowpistols.",
         "description2": ""
     },
     "bcokarer1p_1": {
         "name": "Tekorn-Jen Pistol",
-        "p": "Tekorn-Jen Pistols",
+        "p": "",
         "description": "Crafting plan for Tekorn-Jen Pistols.",
         "description2": ""
     },
     "bcokarer2a_1": {
         "name": "Tekorn-Jen Autolauncher",
-        "p": "Tekorn-Jen Autolaunchers",
+        "p": "",
         "description": "Crafting plan for Tekorn-Jen Autolaunchers.",
         "description2": ""
     },
     "bcokarer2b_1": {
         "name": "Tekorn-Jen Bowrifle",
-        "p": "Tekorn-Jen Bowrifles",
+        "p": "",
         "description": "Crafting plan for Tekorn-Jen Bowrifles.",
         "description2": ""
     },
     "bcokarer2l_1": {
         "name": "Tekorn-Jen Launcher",
-        "p": "Tekorn-Jen Launchers",
+        "p": "",
         "description": "Crafting plan for Tekorn-Jen Launchers.",
         "description2": ""
     },
     "bcokarer2r_1": {
         "name": "Tekorn-Jen Rifle",
-        "p": "Tekorn-Jen Rifles",
+        "p": "",
         "description": "Crafting plan for Tekorn-Jen Rifles.",
         "description2": ""
     },
     "bcokarer1b_2": {
         "name": "Vedice-Jen Bowpistol",
-        "p": "Vedice-Jen Bowpistols",
+        "p": "",
         "description": "Crafting plan for Vedice-Jen Bowpistols.",
         "description2": ""
     },
     "bcokarer1p_2": {
         "name": "Vedice-Jen Pistol",
-        "p": "Vedice-Jen Pistols",
+        "p": "",
         "description": "Crafting plan for Vedice-Jen Pistols.",
         "description2": ""
     },
     "bcokarer2a_2": {
         "name": "Vedice-Jen Autolauncher",
-        "p": "Vedice-Jen Autolaunchers",
+        "p": "",
         "description": "Crafting plan for Vedice-Jen Autolaunchers.",
         "description2": ""
     },
     "bcokarer2b_2": {
         "name": "Vedice-Jen Bowrifle",
-        "p": "Vedice-Jen Bowrifles",
+        "p": "",
         "description": "Crafting plan for Vedice-Jen Bowrifles.",
         "description2": ""
     },
     "bcokarer2l_2": {
         "name": "Vedice-Jen Launcher",
-        "p": "Vedice-Jen Launchers",
+        "p": "",
         "description": "Crafting plan for Vedice-Jen Launchers.",
         "description2": ""
     },
     "bcokarer2r_2": {
         "name": "Vedice-Jen Rifle",
-        "p": "Vedice-Jen Rifles",
+        "p": "",
         "description": "Crafting plan for Vedice-Jen Rifles.",
         "description2": ""
     },
     "bcokametammo_1": {
         "name": "Armilo-Duk Ammo",
-        "p": "Armilo-Duk Ammo",
+        "p": "",
         "description": "Crafting plan for Armilo-Duk ammo crafting tools.",
         "description2": ""
     },
     "bcokametarmor_1": {
         "name": "Armilo-Duk Armor",
-        "p": "Armilo-Duk Armor",
+        "p": "",
         "description": "Crafting plan for Armilo-Duk armor crafting tools.",
         "description2": ""
     },
     "bcokametjewel_1": {
         "name": "Armilo-Duk Jewel",
-        "p": "Armilo-Duk Jewels",
+        "p": "",
         "description": "Crafting plan for Armilo-Duk jewel crafting tools.",
         "description2": ""
     },
     "bcokametmwea_1": {
         "name": "Armilo-Duk Melee Weapon",
-        "p": "Armilo-Duk Melee Weapons",
+        "p": "",
         "description": "Crafting plan for Armilo-Duk melee weapon crafting tools.",
         "description2": ""
     },
     "bcokametrwea_1": {
         "name": "Armilo-Duk Range Weapon",
-        "p": "Armilo-Duk Range Weapons",
+        "p": "",
         "description": "Crafting plan for Armilo-Duk range weapon crafting tools.",
         "description2": ""
     },
     "bcokametforage_1": {
         "name": "Greslin-Duk Pick",
-        "p": "Greslin-Duk Picks",
+        "p": "",
         "description": "Crafting plan Greslin-Duk Picks.",
         "description2": ""
     },
     "bcokametammo_2": {
         "name": "Rubbarn-Duk Ammo",
-        "p": "Rubbarn-Duk Ammo",
+        "p": "",
         "description": "Crafting plan for Rubbarn-Duk ammo crafting tools.",
         "description2": ""
     },
     "bcokametarmor_2": {
         "name": "Rubbarn-Duk Armor",
-        "p": "Rubbarn-Duk Armor",
+        "p": "",
         "description": "Crafting plan for Rubbarn-Duk armor crafting tools.",
         "description2": ""
     },
     "bcokametjewel_2": {
         "name": "Rubbarn-Duk Jewel",
-        "p": "Rubbarn-Duk Jewels",
+        "p": "",
         "description": "Crafting plan for Rubbarn-Duk jewel crafting tools.",
         "description2": ""
     },
     "bcokametmwea_2": {
         "name": "Rubbarn-Duk Melee Weapon",
-        "p": "Rubbarn-Duk Melee Weapons",
+        "p": "",
         "description": "Crafting plan for Rubbarn-Duk melee weapon crafting tools.",
         "description2": ""
     },
     "bcokametrwea_2": {
         "name": "Rubbarn-Duk Range Weapon",
-        "p": "Rubbarn-Duk Range Weapons",
+        "p": "",
         "description": "Crafting plan for Rubbarn-Duk range weapon crafting tools.",
         "description2": ""
     },
     "bcokametforage_2": {
         "name": "Egiros-Duk Pick",
-        "p": "Egiros-Duk Picks",
+        "p": "",
         "description": "Crafting plan Egiros-Duk Picks.",
         "description2": ""
     },
     "bcokaretammo_1": {
         "name": "Armilo-Jen Ammo",
-        "p": "Armilo-Jen Ammo",
+        "p": "",
         "description": "Crafting plan for Armilo-Jen ammo crafting tools.",
         "description2": ""
     },
     "bcokaretarmor_1": {
         "name": "Armilo-Jen Armor",
-        "p": "Armilo-Jen Armor",
+        "p": "",
         "description": "Crafting plan for Armilo-Jen armor crafting tools.",
         "description2": ""
     },
     "bcokaretjewel_1": {
         "name": "Armilo-Jen Jewel",
-        "p": "Armilo-Jen Jewels",
+        "p": "",
         "description": "Crafting plan for Armilo-Jen jewel crafting tools.",
         "description2": ""
     },
     "bcokaretmwea_1": {
         "name": "Armilo-Jen Melee Weapon",
-        "p": "Armilo-Jen Melee Weapons",
+        "p": "",
         "description": "Crafting plan for Armilo-Jen melee weapon crafting tools.",
         "description2": ""
     },
     "bcokaretrwea_1": {
         "name": "Armilo-Jen Range Weapon",
-        "p": "Armilo-Jen Range Weapons",
+        "p": "",
         "description": "Crafting plan for Armilo-Jen range weapon crafting tools.",
         "description2": ""
     },
     "bcokaretforage_1": {
         "name": "Greslin-Jen Pick",
-        "p": "Greslin-Jen Picks",
+        "p": "",
         "description": "Crafting plan Greslin-Jen Picks.",
         "description2": ""
     },
     "bcokaretammo_2": {
         "name": "Rubbarn-Jen Ammo",
-        "p": "Rubbarn-Jen Ammo",
+        "p": "",
         "description": "Crafting plan for Rubbarn-Jen ammo crafting tools.",
         "description2": ""
     },
     "bcokaretarmor_2": {
         "name": "Rubbarn-Jen Armor",
-        "p": "Rubbarn-Jen Armor",
+        "p": "",
         "description": "Crafting plan for Rubbarn-Jen armor crafting tools.",
         "description2": ""
     },
     "bcokaretjewel_2": {
         "name": "Rubbarn-Jen Jewel",
-        "p": "Rubbarn-Jen Jewels",
+        "p": "",
         "description": "Crafting plan for Rubbarn-Jen jewel crafting tools.",
         "description2": ""
     },
     "bcokaretmwea_2": {
         "name": "Rubbarn-Jen Melee Weapon",
-        "p": "Rubbarn-Jen Melee Weapons",
+        "p": "",
         "description": "Crafting plan for Rubbarn-Jen melee weapon crafting tools.",
         "description2": ""
     },
     "bcokaretrwea_2": {
         "name": "Rubbarn-Jen Range Weapon",
-        "p": "Rubbarn-Jen Range Weapons",
+        "p": "",
         "description": "Crafting plan for Rubbarn-Jen range weapon crafting tools.",
         "description2": ""
     },
     "bcokaretforage_2": {
         "name": "Egiros-Jen Pick",
-        "p": "Egiros-Jen Picks",
+        "p": "",
         "description": "Crafting plan Egiros-Jen Picks.",
         "description2": ""
     },
     "bcpa30": {
         "name": "Fyros Tools",
-        "p": "Fyros Tools",
+        "p": "",
         "description": "Base stanza for crafting Fyros tools.",
         "description2": ""
     },
     "bcpa31": {
         "name": "Matis Tools",
-        "p": "Matis Tools",
+        "p": "",
         "description": "Base stanza for crafting Matis tools.",
         "description2": ""
     },
     "bcpa32": {
         "name": "Tryker Tools",
-        "p": "Tryker Tools",
+        "p": "",
         "description": "Base stanza for crafting Tryker tools.",
         "description2": ""
     },
     "bcpa33": {
         "name": "Zoraï Tools",
-        "p": "Zoraï Tools",
+        "p": "",
         "description": "Base stanza for crafting Zoraï tools.",
         "description2": ""
     },
     "bcztca01": {
         "name": "Zoraï Tools 1",
-        "p": "Zoraï Tools",
+        "p": "",
         "description": "Lets you make Zoraï tools of quality $cr_recommended.",
         "description2": "Zoraï Tools 1 - Quality: $cr_recommended"
     },
     "bcttca01": {
         "name": "Tryker Tools 1",
-        "p": "Tryker Tools",
+        "p": "",
         "description": "Lets you make Tryker tools of quality $cr_recommended.",
         "description2": "Tryker Tools 1 - Quality: $cr_recommended"
     },
     "bcmtca01": {
         "name": "Matis Tools 1",
-        "p": "Matis Tools",
+        "p": "",
         "description": "Lets you make Matis tools of quality $cr_recommended.",
         "description2": "Matis Tools 1 - Quality: $cr_recommended"
     },
     "bcftca01": {
         "name": "Fyros Tools 1",
-        "p": "Fyros Tools",
+        "p": "",
         "description": "Lets you make Fyros tools of quality $cr_recommended.",
         "description2": "Fyros Tools 1 - Quality: $cr_recommended"
     },
     "chg_charac": {
         "name": "Characteristic Improvement",
-        "p": "Characteristic Modification",
+        "p": "",
         "description": "One of your characteristics is temporarily modified.",
         "description2": ""
     },
     "mod_protect_magic": {
         "name": "Protection Modifier",
-        "p": "Protection Modifiers",
+        "p": "",
         "description": "Some of your protection are modified temporarily.",
         "description2": ""
     },
     "mod_defense": {
         "name": "Skill Modifier - Defence",
-        "p": "Skill Modifier - Defence",
+        "p": "",
         "description": "Your Defence Skills have changed. This change will wear off with time.",
         "description2": ""
     },
     "mod_dodge": {
         "name": "Skill Modifier - Dodge",
-        "p": "Skill Modifier - Dodge",
+        "p": "",
         "description": "Your Dodge Skills have changed. This change will wear off with time.",
         "description2": ""
     },
     "mod_parry": {
         "name": "Skill Modifier - Parry",
-        "p": "Skill Modifier - Parry",
+        "p": "",
         "description": "Your Parry Skills have changed. This change will wear off with time.",
         "description2": ""
     },
     "mod_craft_success": {
         "name": "Skill Modifier - Craft",
-        "p": "Skill Modifier - Craft",
+        "p": "",
         "description": "Your Craft Skills have changed. This change will wear off with time.",
         "description2": ""
     },
     "mod_melee_success": {
         "name": "Skill Modifier - Melee",
-        "p": "Skill Modifier - Melee",
+        "p": "",
         "description": "Your Melee Skills have changed. This change will wear off with time.",
         "description2": ""
     },
     "mod_range_success": {
         "name": "Skill Modifier - Range Combat",
-        "p": "Skill Modifier - Range Combat",
+        "p": "",
         "description": "Your Range Combat Skills have changed. This change will wear off with time.",
         "description2": ""
     },
     "mod_magic_success": {
         "name": "Skill Modifier - Magic",
-        "p": "Skill Modifier - Magic",
+        "p": "",
         "description": "Your Magic Skills have changed. This change will wear off with time.",
         "description2": ""
     },
     "mod_forage_success": {
         "name": "Skill Modifier - Forage",
-        "p": "Skill Modifier - Forage",
+        "p": "",
         "description": "Your Forage Skills have changed. This change will wear off with time.",
         "description2": ""
     },
     "mod_desert_forage_success": {
         "name": "Skill Modifier - Desert Forage",
-        "p": "Skill Modifier - Desert Forage",
+        "p": "",
         "description": "Your Desert Forage Skills have changed. This change will wear off with time.",
         "description2": ""
     },
     "mod_forest_forage_success": {
         "name": "Skill Modifier - Forest Forage",
-        "p": "Skill Modifier - Forest Forage",
+        "p": "",
         "description": "Your Forest Forage Skills have changed. This change will wear off with time.",
         "description2": ""
     },
     "mod_lacustre_forage_success": {
         "name": "Skill Modifier - Lakes Forage",
-        "p": "Skill Modifier - Lakes Forage",
+        "p": "",
         "description": "Your Lakes Forage Skills have changed. This change will wear off with time.",
         "description2": ""
     },
     "mod_jungle_forage_success": {
         "name": "Skill Modifier - Jungle Forage",
-        "p": "Skill Modifier - Jungle Forage",
+        "p": "",
         "description": "Your Jungle Forage Skills have changed. This change will wear off with time.",
         "description2": ""
     },
     "mod_primary_root_forage_success": {
         "name": "Skill Modifier - Prime Root Forage",
-        "p": "Skill Modifier - Prime Root Forage",
+        "p": "",
         "description": "Your Prime Root Forage Skills have changed. This change will wear off with time.",
         "description2": ""
     },
     "slaughter_week_title_01": {
         "name": "Title",
-        "p": "Title",
+        "p": "",
         "description": "",
         "description2": ""
     },
     "slaughter_week_title_02": {
         "name": "Title",
-        "p": "Title",
+        "p": "",
         "description": "",
         "description2": ""
     },
     "slaughter_week_title_03": {
         "name": "Title",
-        "p": "Title",
+        "p": "",
         "description": "",
         "description2": ""
     },
     "slaughter_week_title_04": {
         "name": "Title",
-        "p": "Title",
+        "p": "",
         "description": "",
         "description2": ""
     },
     "slaughter_week_title_05": {
         "name": "Title",
-        "p": "Title",
+        "p": "",
         "description": "",
         "description2": ""
     },
     "slaughter_week_title_06": {
         "name": "Title",
-        "p": "Title",
+        "p": "",
         "description": "",
         "description2": ""
     },
     "slaughter_week_title_07": {
         "name": "Title",
-        "p": "Title",
+        "p": "",
         "description": "",
         "description2": ""
     },
     "slaughter_week_title_08": {
         "name": "Title",
-        "p": "Title",
+        "p": "",
         "description": "",
         "description2": ""
     },
     "slaughter_week_title_09": {
         "name": "Title",
-        "p": "Title",
+        "p": "",
         "description": "",
         "description2": ""
     },
     "slaughter_week_title_10": {
         "name": "Title",
-        "p": "Title",
+        "p": "",
         "description": "",
         "description2": ""
     },
     "bcbahb_m": {
         "name": "Marauder's Crafter Knowledge",
-        "p": "Marauder's Crafter Knowledge",
+        "p": "",
         "description": "Marauder's crafter knowledge.",
         "description2": ""
     },
     "bcbahg_m": {
         "name": "Marauder's Crafter Knowledge",
-        "p": "Marauder's Crafter Knowledge",
+        "p": "",
         "description": "Marauder's crafter knowledge.",
         "description2": ""
     },
     "bcbahh_m": {
         "name": "Marauder's Crafter Knowledge",
-        "p": "Marauder's Crafter Knowledge",
+        "p": "",
         "description": "Marauder's crafter knowledge.",
         "description2": ""
     },
     "bcbahp_m": {
         "name": "Marauder's Crafter Knowledge",
-        "p": "Marauder's Crafter Knowledge",
+        "p": "",
         "description": "Marauder's crafter knowledge.",
         "description2": ""
     },
     "bcbahs_m": {
         "name": "Marauder's Crafter Knowledge",
-        "p": "Marauder's Crafter Knowledge",
+        "p": "",
         "description": "Marauder's crafter knowledge.",
         "description2": ""
     },
     "bcbahv_m": {
         "name": "Marauder's Crafter Knowledge",
-        "p": "Marauder's Crafter Knowledge",
+        "p": "",
         "description": "Marauder's crafter knowledge.",
         "description2": ""
     },
     "bcbahb": {
         "name": "Erouk'an's Boots",
-        "p": "Erouk'an's Boots",
+        "p": "",
         "description": "Crafting plan for Erouk'an's Boots.",
         "description2": ""
     },
     "bcbahg": {
         "name": "Erouk'an's Gloves",
-        "p": "Erouk'an's Gloves",
+        "p": "",
         "description": "Crafting plan for Erouk'an's Glove.s.",
         "description2": ""
     },
     "bcbahh": {
         "name": "Erouk'an's Helmet",
-        "p": "Erouk'an's Helmets",
+        "p": "",
         "description": "Crafting plan for Erouk'an's Helmets.",
         "description2": ""
     },
     "bcbahp": {
         "name": "Erouk'an's Leggings",
-        "p": "Erouk'an's Leggings",
+        "p": "",
         "description": "Crafting plan for Erouk'an's Leggings.",
         "description2": ""
     },
     "bcbahs": {
         "name": "Erouk'an's Sleeves",
-        "p": "Erouk'an's Sleeves",
+        "p": "",
         "description": "Crafting plan for Erouk'an's Sleeves.",
         "description2": ""
     },
     "bcbahv": {
         "name": "Erouk'an's Breastplate",
-        "p": "Erouk'an's Breastplates",
+        "p": "",
         "description": "Crafting plan for Erouk'an's Breastplates.",
         "description2": ""
     },
     "casino_title_1_index14": {
         "name": "Title",
-        "p": "Titles",
+        "p": "",
         "description": "",
         "description2": ""
     },
     "casino_title_2_index15": {
         "name": "Title",
-        "p": "Titles",
+        "p": "",
         "description": "",
         "description2": ""
     },
@@ -23659,103 +23659,103 @@
     },
     "hatred": {
         "name": " Halo",
-        "p": "Halos",
+        "p": "",
         "description": "A Halo.",
         "description2": ""
     },
     "bcztca10": {
         "name": "Zoraï Tools 2",
-        "p": "Zoraï Tools",
+        "p": "",
         "description": "Lets you make Zoraï tools of quality $cr_recommended.",
         "description2": "Zoraï Tools 2 - Quality: $cr_recommended"
     },
     "bcztca15": {
         "name": "Zoraï Tools 3",
-        "p": "Zoraï Tools",
+        "p": "",
         "description": "Lets you make Zoraï tools of quality $cr_recommended.",
         "description2": "Zoraï Tools 3 - Quality: $cr_recommended"
     },
     "bcztca20": {
         "name": "Zoraï Tools 4",
-        "p": "Zoraï Tools",
+        "p": "",
         "description": "Lets you make Zoraï tools of quality $cr_recommended.",
         "description2": "Zoraï Tools 4 - Quality: $cr_recommended"
     },
     "bcztca25": {
         "name": "Zoraï Tools 5",
-        "p": "Zoraï Tools",
+        "p": "",
         "description": "Lets you make Zoraï tools of quality $cr_recommended.",
         "description2": "Zoraï Tools 5 - Quality: $cr_recommended"
     },
     "bcttca10": {
         "name": "Tryker Tools 2",
-        "p": "Tryker Tools",
+        "p": "",
         "description": "Lets you make Tryker tools of quality $cr_recommended.",
         "description2": "Tryker Tools 2 - Quality: $cr_recommended"
     },
     "bcttca15": {
         "name": "Tryker Tools 3",
-        "p": "Tryker Tools",
+        "p": "",
         "description": "Lets you make Tryker tools of quality $cr_recommended.",
         "description2": "Tryker Tools 3 - Quality: $cr_recommended"
     },
     "bcttca20": {
         "name": "Tryker Tools 4",
-        "p": "Tryker Tools",
+        "p": "",
         "description": "Lets you make Tryker tools of quality $cr_recommended.",
         "description2": "Tryker Tools 4 - Quality: $cr_recommended"
     },
     "bcttca25": {
         "name": "Tryker Tools 5",
-        "p": "Tryker Tools",
+        "p": "",
         "description": "Lets you make Tryker tools of quality $cr_recommended.",
         "description2": "Tryker Tools 5 - Quality: $cr_recommended"
     },
     "bcmtca10": {
         "name": "Matis Tools 2",
-        "p": "Matis Tools",
+        "p": "",
         "description": "Lets you make Matis tools of quality $cr_recommended.",
         "description2": "Matis Tools 2 - Quality: $cr_recommended"
     },
     "bcmtca15": {
         "name": "Matis Tools 3",
-        "p": "Matis Tools",
+        "p": "",
         "description": "Lets you make Matis tools of quality $cr_recommended.",
         "description2": "Matis Tools 3 - Quality: $cr_recommended"
     },
     "bcmtca20": {
         "name": "Matis Tools 4",
-        "p": "Matis Tools",
+        "p": "",
         "description": "Lets you make Matis tools of quality $cr_recommended.",
         "description2": "Matis Tools 4 - Quality: $cr_recommended"
     },
     "bcmtca25": {
         "name": "Matis Tools 5",
-        "p": "Matis Tools",
+        "p": "",
         "description": "Lets you make Matis tools of quality $cr_recommended.",
         "description2": "Matis Tools 5 - Quality: $cr_recommended"
     },
     "bcftca10": {
         "name": "Fyros Tools 2",
-        "p": "Fyros Tools",
+        "p": "",
         "description": "Lets you make Fyros tools of quality $cr_recommended.",
         "description2": "Fyros Tools 2 - Quality: $cr_recommended"
     },
     "bcftca15": {
         "name": "Fyros Tools 3",
-        "p": "Fyros Tools",
+        "p": "",
         "description": "Lets you make Fyros tools of quality $cr_recommended.",
         "description2": "Fyros Tools 3 - Quality: $cr_recommended"
     },
     "bcftca20": {
         "name": "Fyros Tools 4",
-        "p": "Fyros Tools",
+        "p": "",
         "description": "Lets you make Fyros tools of quality $cr_recommended.",
         "description2": "Fyros Tools 4 - Quality: $cr_recommended"
     },
     "bcftca25": {
         "name": "Fyros Tools 5",
-        "p": "Fyros Tools",
+        "p": "",
         "description": "Lets you make Fyros tools of quality $cr_recommended.",
         "description2": "Fyros Tools 5 - Quality: $cr_recommended"
     }

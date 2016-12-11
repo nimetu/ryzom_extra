@@ -27535,6 +27535,10 @@
         "name": "Materia prima turquesa excelente",
         "p": ""
     },
+    "system_mp_excellent_white": {
+        "name": "Material bruto excelente blanco",
+        "p": "Materiaesl brutos excelentes blancos"
+    },
     "web_transaction": {
         "name": "Transacción ",
         "p": ""
@@ -27546,5 +27550,9 @@
     "rpjobloot_event": {
         "name": "Bolso Misterioso",
         "p": ""
+    },
+    "marauder_teleport_crystal": {
+        "name": "Cristal de Teletransporte Merodeador",
+        "p": "Cristales de Teletransporte Merodeadores"
     }
 }

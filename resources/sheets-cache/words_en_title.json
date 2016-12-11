@@ -216,7 +216,7 @@
         "women_name": ""
     },
     "gn_bandit_knollofdissent_4": {
-        "name": "Cut-throats",
+        "name": "Cutthroats",
         "women_name": ""
     },
     "gn_bandit_knollofdissent_5": {
@@ -792,7 +792,7 @@
         "women_name": ""
     },
     "gn_class_warmaster": {
-        "name": "Warmaster",
+        "name": "War Master",
         "women_name": ""
     },
     "gn_class_warrior": {
@@ -820,7 +820,7 @@
         "women_name": ""
     },
     "gn_green_seed_noble": {
-        "name": "Regular Warchief",
+        "name": "Regular War Chief",
         "women_name": ""
     },
     "gn_green_seed_volunteer": {
@@ -852,7 +852,7 @@
         "women_name": ""
     },
     "gn_leviers_noble": {
-        "name": "Reguglar Warchief",
+        "name": "Regular War Chief",
         "women_name": ""
     },
     "gn_matis_officer": {
@@ -1160,7 +1160,7 @@
         "women_name": ""
     },
     "fct_barman": {
-        "name": " (Barman)",
+        "name": " (Bartender)",
         "women_name": ""
     },
     "fct_mayor": {
@@ -1188,7 +1188,7 @@
         "women_name": ""
     },
     "fct_cutthroat": {
-        "name": " (Matis Cut-throat)",
+        "name": " (Matis Cutthroat)",
         "women_name": ""
     },
     "fct_bandit_chief": {
@@ -3576,7 +3576,7 @@
         "women_name": ""
     },
     "gn_r_10_17_kami_gentil": {
-        "name": "Gentil Kami",
+        "name": "Gentle Kami",
         "women_name": ""
     },
     "gn_cowardly_ragus": {
@@ -3624,7 +3624,7 @@
         "women_name": ""
     },
     "gn_chichai": {
-        "name": "chichai",
+        "name": "Chichai",
         "women_name": ""
     },
     "gn_cockroaches_guards": {
@@ -3892,7 +3892,7 @@
         "women_name": "Disciple of Pei-Ziao"
     },
     "fct_h_tattooer": {
-        "name": "(Male Tattooer)",
+        "name": " (Male Tattooer)",
         "women_name": ""
     },
     "fct_h_hairdresser": {
@@ -5056,23 +5056,23 @@
         "women_name": ""
     },
     "gn_garde_escort_debug": {
-        "name": "Assistant debug de garde",
+        "name": "Assistant debug guard escort",
         "women_name": ""
     },
     "gn_debug_black_circle_bandit": {
-        "name": "Bandit de debug tribu du cercle noir",
+        "name": "Bandit debug Black Circle tribe",
         "women_name": ""
     },
     "gn_debug_black_circle_bandit2": {
-        "name": "Chef Bandit de debug tribu du cercle noir",
+        "name": "Chef Bandit debug Black circle tribe",
         "women_name": ""
     },
     "gn_test_debug_kill": {
-        "name": "Bandit de debug",
+        "name": "Bandit debug",
         "women_name": ""
     },
     "gn_test_debug_kill2": {
-        "name": "Chef Bandit de debug",
+        "name": "Chef Bandit debug",
         "women_name": ""
     },
     "gn_warchief_guard": {
@@ -5184,8 +5184,8 @@
         "women_name": ""
     },
     "gn_bot_squad_artilleryman": {
-        "name": "Artillery",
-        "women_name": ""
+        "name": "Artilleryman",
+        "women_name": "Artillerywoman"
     },
     "gn_bot_squad_defensive_affliction": {
         "name": "Mentalist",
@@ -5400,7 +5400,7 @@
         "women_name": ""
     },
     "gn_jena_priest": {
-        "name": "Jena Priest",
+        "name": "Priest of Jena",
         "women_name": ""
     },
     "gn_karavan_teleporteur_pyr": {
@@ -5596,11 +5596,11 @@
         "women_name": ""
     },
     "fct_jena_priest": {
-        "name": "(Jena Priest)",
+        "name": " (Priest of Jena)",
         "women_name": ""
     },
     "fct_jena_priestress": {
-        "name": " (Jena Priestess)",
+        "name": " (Priestess of Jena)",
         "women_name": ""
     },
     "fct_maduk_bonze": {
@@ -5736,75 +5736,75 @@
         "women_name": ""
     },
     "gn_tcm_extraction_engineer": {
-        "name": "Ingénieur en extraction",
+        "name": "Extraction Engineer",
         "women_name": ""
     },
     "gn_tcm_extraction_guard": {
-        "name": "Commando d'élite",
+        "name": "Elite Commando",
         "women_name": ""
     },
     "gn_tcm_trooper_engineer": {
-        "name": "Éclaireur Karavan",
+        "name": "Karavan Scout",
         "women_name": ""
     },
     "gn_tcm_engineer_guard": {
-        "name": "Escorte Karavan",
+        "name": "Karavan Escort",
         "women_name": ""
     },
     "gn_tcm_squad_leader_alpha": {
-        "name": "Chef d'escadron Alpha",
+        "name": "Alpha Squad Leader",
         "women_name": ""
     },
     "gn_tcm_squad_leader_beta": {
-        "name": "Chef d'escadron Beta",
+        "name": "Beta Squad Leader",
         "women_name": ""
     },
     "gn_tcm_squad_leader_zeta": {
-        "name": "Chef d'escadron Zeta",
+        "name": "Zeta Squad Leader",
         "women_name": ""
     },
     "gn_tcm_trooper_guard": {
-        "name": "Troupe d'élite Karavan",
+        "name": "Karavan Elite Trooper",
         "women_name": ""
     },
     "gn_tcm_trooper_static": {
-        "name": "Garde suprême Karavan",
+        "name": "Karavan Supreme Guard",
         "women_name": ""
     },
     "gn_tcm_trooper_wander": {
-        "name": "Réserviste Karavan",
+        "name": "Karavan Reservices",
         "women_name": ""
     },
     "gn_tcm_training": {
-        "name": "Commando Karavan",
+        "name": "Karavan Commando",
         "women_name": ""
     },
     "gn_tcm_medic": {
-        "name": "Équipe médicale Karavan",
+        "name": "Karavan Medic",
         "women_name": ""
     },
     "gn_tcm_engineer": {
-        "name": "Ingénieur en mécanique Karavan",
+        "name": "Karavan Engineer",
         "women_name": ""
     },
     "gn_tcm_chief_engineer": {
-        "name": "Ingénieur en chef",
+        "name": "Karavan Chief Engineer",
         "women_name": ""
     },
     "gn_tcm_coordinator": {
-        "name": "Coordinateur des opérations",
+        "name": "Operations Coordinator",
         "women_name": ""
     },
     "gn_tcm_officer": {
-        "name": "Officier supérieur Karavan",
+        "name": "Karavan Senior Officer",
         "women_name": ""
     },
     "gn_tcm_quartermaster": {
-        "name": "Quartier maître Karavan",
+        "name": "Karavan Quartermaster",
         "women_name": ""
     },
     "gn_tcm_commander": {
-        "name": "Commandant en chef Karavan",
+        "name": "Karavan Commander in Chief",
         "women_name": ""
     },
     "fct_tcm_chief_forager": {
@@ -5988,7 +5988,7 @@
         "women_name": ""
     },
     "gn_tcm_officer_radar": {
-        "name": "Officier radar",
+        "name": "Radar Officer",
         "women_name": ""
     },
     "gn_tcm_chlorogoo_shaman": {
@@ -5996,7 +5996,7 @@
         "women_name": ""
     },
     "gn_tcm_chlorogoo_shaman_escort": {
-        "name": "Adepte",
+        "name": "Adept",
         "women_name": ""
     },
     "gn_tcm_chlorogoo_prisonners": {
@@ -6040,7 +6040,7 @@
         "women_name": ""
     },
     "fct_tcm_basile": {
-        "name": "Hermite mystérieux",
+        "name": "Mysterious Hermit",
         "women_name": ""
     },
     "gn_tcm_radar_trainee": {
@@ -6072,12 +6072,12 @@
         "women_name": "Journeyer"
     },
     "title00047": {
-        "name": "Machinegunner",
-        "women_name": "Machinegunner"
+        "name": "Machine Gunner",
+        "women_name": "Machine Gunner"
     },
     "title00048": {
-        "name": "Assault Machinegunner",
-        "women_name": "Assault Machinegunner"
+        "name": "Assault Machine Gunner",
+        "women_name": "Assault Machine Gunner"
     },
     "gn_landslide_3_target": {
         "name": "Landslide",
@@ -6900,7 +6900,7 @@
         "women_name": ""
     },
     "gn_prisonner": {
-        "name": "prisonner",
+        "name": "Prisoner",
         "women_name": ""
     },
     "gn_queen_guard": {
@@ -7008,7 +7008,7 @@
         "women_name": ""
     },
     "gn_watchtower": {
-        "name": "watchtower",
+        "name": "Watchtower",
         "women_name": ""
     },
     "gn_xala_rokian": {
@@ -7249,7 +7249,7 @@
     },
     "fct_tryker_vice_governor": {
         "name": "Tryker Vice-Governor",
-        "women_name": ""
+        "women_name": "Tryker Vice-Governess"
     },
     "fct_zorai_sage": {
         "name": "Zoraï Sage",
@@ -7524,7 +7524,7 @@
         "women_name": ""
     },
     "fct_consumable_merchant": {
-        "name": "(Consumables Merchant)",
+        "name": " (Consumables Merchant)",
         "women_name": ""
     },
     "title00031": {

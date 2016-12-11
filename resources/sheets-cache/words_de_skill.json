@@ -1,12 +1,12 @@
 {
     "acuratebleedingshot": {
-        "name": "Akkurater Blend Schuss ",
-        "p": "Akkurate Blend Schüsse ",
+        "name": "Akkurater blutiger Schuss ",
+        "p": "Akkurate blutige Schüsse ",
         "description": ""
     },
     "acuratebreathlessshot": {
-        "name": "Akkurater Atemraub Schuss",
-        "p": "Akkurate Atemraub Schüsse",
+        "name": "Akkurater erstickender Schuss",
+        "p": "Akkurate erstickende Schüsse",
         "description": ""
     },
     "animalslideslip": {
@@ -36,12 +36,12 @@
     },
     "artandcraft": {
         "name": "Kunst und Handwerk",
-        "p": "Kunst und Handwerk",
+        "p": "Künste und Handwerke",
         "description": ""
     },
     "attackkamisknowledge": {
-        "name": "Angriffs-Kami Wissen",
-        "p": "Angriffs-Kami Wissen",
+        "name": "Wissen des Angriffskami",
+        "p": "Wissen des Angriffskami",
         "description": ""
     },
     "atysianregeneration": {
@@ -55,8 +55,8 @@
         "description": ""
     },
     "backdraftstab": {
-        "name": "Backdraft Stab",
-        "p": "Backdraft Stäbe",
+        "name": "Explosiver Stoß",
+        "p": "Explosive Stöße",
         "description": ""
     },
     "badluck": {
@@ -70,18 +70,18 @@
         "description": ""
     },
     "bersekattack": {
-        "name": "Wutangriff",
-        "p": "Wutangriffe",
+        "name": "Wutausbruch",
+        "p": "Wutausbrüche",
         "description": ""
     },
     "blacksmithing": {
         "name": "Schmiedekunst",
-        "p": "Blacksmithing",
+        "p": "Schmiedekünste",
         "description": "Schmiedekunst"
     },
     "bleeding": {
-        "name": "Blendung",
-        "p": "Blendungen",
+        "name": "Blutung",
+        "p": "Blutungen",
         "description": ""
     },
     "blindingrage": {
@@ -95,8 +95,8 @@
         "description": ""
     },
     "bowgun": {
-        "name": "Bogenwaffe",
-        "p": "Bogenwaffen",
+        "name": "Bogengewehr",
+        "p": "Bogengewehre",
         "description": ""
     },
     "bowpistol": {
@@ -110,18 +110,18 @@
         "description": ""
     },
     "bullyraggingblast": {
-        "name": "Bullyragging Blast",
-        "p": "Bullyragging Blasts",
+        "name": "entfesselte Explosion",
+        "p": "entfesselte Explosionen",
         "description": ""
     },
     "camouflage": {
         "name": "Tarnung",
-        "p": "Tarnung",
+        "p": "Tarnungen",
         "description": ""
     },
     "caravan": {
         "name": "Karavan",
-        "p": "Karavans",
+        "p": "Karavan",
         "description": ""
     },
     "cerebralfever": {
@@ -130,8 +130,8 @@
         "description": ""
     },
     "clothtailoring": {
-        "name": "Schneidern",
-        "p": "Schneidern",
+        "name": "Schneiderei",
+        "p": "Schneiderei",
         "description": ""
     },
     "cooking": {
@@ -140,8 +140,8 @@
         "description": ""
     },
     "creaturehatred": {
-        "name": "Kreaturen Hass",
-        "p": "Kreaturen Hass",
+        "name": "Kreaturenhass",
+        "p": "Kreaturenhass",
         "description": ""
     },
     "dagger": {
@@ -155,13 +155,13 @@
         "description": ""
     },
     "desertexoticrawmaterialknowledge": {
-        "name": "Wüste Exotik Rohstoff Wissen",
-        "p": "Wüste Exotik Rohstoff Wissen",
+        "name": "exotisches Rohstoffwissen der Wüste",
+        "p": "exotisches Rohstoffwissen der Wüste",
         "description": ""
     },
     "desertkamisknowledge": {
-        "name": "Wüsten-Kami Wissen",
-        "p": "Wüsten-Kami Wissen",
+        "name": "Wissen des Wüsten-Kami",
+        "p": "Wissen des Wüsten-Kami",
         "description": ""
     },
     "deserttravel": {
@@ -186,7 +186,7 @@
     },
     "dodging": {
         "name": "Ausweichbeherrschung",
-        "p": "Ausweichbeherrschung",
+        "p": "Ausweichbeherrschungen",
         "description": ""
     },
     "dragon": {
@@ -221,12 +221,12 @@
     },
     "feverprotect": {
         "name": "Fieberschutz",
-        "p": "Fieberschutz",
+        "p": "Fieberschutze",
         "description": ""
     },
     "firstaid": {
         "name": "Erste Hilfe",
-        "p": "Erste Hilfe",
+        "p": "Erste Hilfen",
         "description": ""
     },
     "fishing": {
@@ -240,13 +240,13 @@
         "description": ""
     },
     "forestexoticrawmaterialknowledge": {
-        "name": "Wald Exotik Rohstoff Wissen",
-        "p": "Wald Exotik Rohstoff Wissen",
+        "name": "exotisches Rohstoffwissen des Waldes",
+        "p": "exotisches Rohstoffwissen des Waldes",
         "description": ""
     },
     "forestkamisknowledge": {
-        "name": "Wald-Kami Wissen",
-        "p": "Wald-Kami Wissen",
+        "name": "Wissen des Wald-Kami",
+        "p": "Wissen des Wald-Kami",
         "description": ""
     },
     "foresttravel": {
@@ -256,7 +256,7 @@
     },
     "frost": {
         "name": "Frost",
-        "p": "Frost",
+        "p": "Fröste",
         "description": ""
     },
     "fyros": {
@@ -275,13 +275,13 @@
         "description": ""
     },
     "greataxe": {
-        "name": "Grossartige Axt",
-        "p": "Grossartige Äxte",
+        "name": "Große Axt",
+        "p": "Große Äxte",
         "description": ""
     },
     "greatmass": {
-        "name": "Grossartiger Streitkolben",
-        "p": "Grossartige Streitkolben",
+        "name": "Großer Streitkolben",
+        "p": "Große Streitkolben",
         "description": ""
     },
     "grenade": {
@@ -296,7 +296,7 @@
     },
     "handtohand": {
         "name": "Handkampf",
-        "p": "Handkampf",
+        "p": "Handkämpfe",
         "description": ""
     },
     "harpoon": {
@@ -305,8 +305,8 @@
         "description": ""
     },
     "harpoonhunting": {
-        "name": "Unterwasser Jagd",
-        "p": "Unterwasser Jagden",
+        "name": "Harpunenjagd",
+        "p": "Harpunenjagden",
         "description": ""
     },
     "harvest": {
@@ -315,18 +315,18 @@
         "description": ""
     },
     "healingkamisknowledge": {
-        "name": "Heil-Kami Wissen",
-        "p": "Heil-Kami Wissen",
+        "name": "Wissen des Heilkami",
+        "p": "Wissen des Heilkami",
         "description": ""
     },
     "hearwithering": {
-        "name": "Hearing Withering",
-        "p": "Hearing Witherings",
+        "name": "Gehörschwächung",
+        "p": "Gehörschwächungen",
         "description": ""
     },
     "heavyarmourwear": {
         "name": "Schwere Rüstung Tragen",
-        "p": "Schwere Rüstungen Tragen",
+        "p": "Schwere Rüstung Tragen",
         "description": ""
     },
     "heavyweapon": {
@@ -345,8 +345,8 @@
         "description": ""
     },
     "huntingkamisknowledge": {
-        "name": "Jagd-Kami Wissen",
-        "p": "Jagd-Kami Wissen",
+        "name": "Wissen des Jagdkami",
+        "p": "Wissen des Jagdkami",
         "description": ""
     },
     "jewellery": {
@@ -360,13 +360,13 @@
         "description": ""
     },
     "jungleexoticrawmaterialknowledge": {
-        "name": "Dschungel Exotik Rohstoff Wissen",
-        "p": "Dschungel Exotik Rohstoff Wissen",
+        "name": "exotisches Rohstoffwissen des Dschungels",
+        "p": "exotisches Rohstoffwissen des Dschungels",
         "description": ""
     },
     "junglekamisknowledge": {
-        "name": "Dschungel-Kami Wissen",
-        "p": "Dschungel-Kami Wissen",
+        "name": "Wissen des Dschungelkami",
+        "p": "Wissen des Dschungelkami",
         "description": ""
     },
     "jungletravel": {
@@ -376,7 +376,7 @@
     },
     "kami": {
         "name": "Kami",
-        "p": "Kamis",
+        "p": "Kami",
         "description": ""
     },
     "kamicshield": {
@@ -386,7 +386,7 @@
     },
     "kamicshock": {
         "name": "Kamischer Schock",
-        "p": "Kamischer Schock",
+        "p": "Kamische Schocks",
         "description": ""
     },
     "kick": {
@@ -406,17 +406,17 @@
     },
     "lakearmor": {
         "name": "Seenland Rüstung",
-        "p": "Seenland Rüstung",
+        "p": "Seenland Rüstungen",
         "description": ""
     },
     "lakeexoticrawmaterialknowledge": {
-        "name": "Seenland Exotik Rohstoff Wissen",
-        "p": "Seenland Exotik Rohstoff Wissen",
+        "name": "exotisches Rohstoffwissen des Seenlandes",
+        "p": "exotisches Rohstoffwissen des Seenlandes",
         "description": ""
     },
     "lakekamisknowledge": {
-        "name": "Seenland-Kami Wissen",
-        "p": "Seenland-Kamis Wissen",
+        "name": "Wissen des Seenlandkami",
+        "p": "Wissen des Seenlandkami",
         "description": ""
     },
     "laketravel": {
@@ -431,7 +431,7 @@
     },
     "leathertailoring": {
         "name": "Lederverarbeitung",
-        "p": "Lederverarbeitung",
+        "p": "Lederverarbeitungen",
         "description": ""
     },
     "lefthandedattack": {
@@ -445,18 +445,18 @@
         "description": ""
     },
     "lifealchemy": {
-        "name": "Lebens Alchemie",
-        "p": "Lebens Alchemie",
+        "name": "Lebens-Alchemie",
+        "p": "Lebens-Alchemie",
         "description": ""
     },
     "lifegift": {
-        "name": "HP Gabe",
-        "p": "HP Gabe",
+        "name": "Lebens-Spende",
+        "p": "Lebens-Spenden",
         "description": ""
     },
     "lightarmourwear": {
         "name": "Leichte Rüstung Tragen",
-        "p": "Leichte Rüstungen Tragen",
+        "p": "Leichte Rüstung Tragen",
         "description": ""
     },
     "madness": {
@@ -480,428 +480,428 @@
         "description": ""
     },
     "majorheallife": {
-        "name": "höhere HP Heilung",
-        "p": "höhere HP Heilungen",
+        "name": "höhere Lebens-Heilung",
+        "p": "höhere Lebens-Heilungen",
         "description": ""
     },
     "majorliferegeneration": {
-        "name": "höhere HP Regeneration",
-        "p": "höhere HP Regenerationen",
+        "name": "höhere Lebens-Regeneration",
+        "p": "höhere Lebens-Regenerationen",
         "description": ""
     },
     "majormandragore": {
-        "name": "höherer Mandragore",
-        "p": "höhere Mandragore",
+        "name": "höhere Alraune",
+        "p": "höhere Alraunen",
         "description": ""
     },
     "majorsapheal": {
-        "name": "höhere Sap Heilung",
-        "p": "höhere Sap Heilungen",
+        "name": "höhere Sap-Heilung",
+        "p": "höhere Sap-Heilungen",
         "description": ""
     },
     "majorsapregenearation": {
-        "name": "höhere Sap Regeneration",
-        "p": "höhere Sap Regeneration",
+        "name": "höhere Sap-Regeneration",
+        "p": "höhere Sap-Regenerationen",
         "description": ""
     },
     "majorsylve": {
-        "name": "höhere Sylve",
-        "p": "höhere Sylven",
+        "name": "höherer Wald",
+        "p": "höhere Wälder",
         "description": ""
     },
     "majortirednessheal": {
-        "name": "höhere Müdigkeits Heilung",
-        "p": "höhere Müdigkeits Heilungen",
+        "name": "höhere Müdigkeits-Heilung",
+        "p": "höhere Müdigkeits-Heilungen",
         "description": ""
     },
     "majortirednessregenearation": {
-        "name": "höhere Müdigkeits Regeneration",
-        "p": "höhere Müdigkeits Regenerationen",
+        "name": "höhere Müdigkeits-Regeneration",
+        "p": "höhere Müdigkeits-Regenerationen",
         "description": ""
     },
     "makeanklet": {
-        "name": "Fussring Herstellen",
-        "p": "Fussringe Herstellung",
+        "name": "Fußring-Herstellung",
+        "p": "Fußring-Herstellungen",
         "description": ""
     },
     "makeautolaunch": {
-        "name": "Automatikgewehr Herstellen",
-        "p": "Automatikgewehr Herstellung",
+        "name": "Automatikgewehr-Herstellung",
+        "p": "Automatikgewehr-Herstellungen",
         "description": ""
     },
     "makeautolaunchammo": {
-        "name": "Automatikgewehrmunition Herstellen",
-        "p": "Automatikgewehrmunition Herstellung",
+        "name": "Munitionsherstellung für Automatikgewehre",
+        "p": "Munitionsherstellungen für Automatikgewehre",
         "description": ""
     },
     "makeaxe": {
-        "name": "Axt Herstellen",
-        "p": "Äxte Herstellung",
+        "name": "Axt-Herstellung",
+        "p": "Axt-Herstellungen",
         "description": ""
     },
     "makebag": {
-        "name": "Beutel Herstellen",
-        "p": "Beutel Herstellung",
+        "name": "Beutel-Herstellung",
+        "p": "Beutel-Herstellungen",
         "description": ""
     },
     "makebowgun": {
-        "name": "Bogenwaffe Herstellen",
-        "p": "Bogenwaffen Herstellung",
+        "name": "Bogengewehr-Herstellung",
+        "p": "Bogengewehr-Herstellung",
         "description": ""
     },
     "makebowgunammo": {
-        "name": "Bogenwaffenmunition Herstellen",
-        "p": "Bogenwaffenmunition Herstellung",
+        "name": "Munitionsherstellung für Bogengewehre",
+        "p": "Munitionsherstellungen für Bogengewehre",
         "description": ""
     },
     "makebracelet": {
-        "name": "Armband Herstellen",
-        "p": "Armband Herstellung",
+        "name": "Armband-Herstellung",
+        "p": "Armband-Herstellungen",
         "description": ""
     },
     "makebuckler": {
-        "name": "Beschützer Herstellen",
-        "p": "Beschützer Herstellung",
+        "name": "Beschützer-Herstellung",
+        "p": "Beschützer-Herstellungen",
         "description": ""
     },
     "makeclothes": {
-        "name": "Kleidung Herstellen",
-        "p": "Kleidung Herstellung",
+        "name": "Kleidungsherstellung",
+        "p": "Kleidungsherstellungen",
         "description": ""
     },
     "makedagger": {
-        "name": "Dolch Herstellen",
-        "p": "Dolch Herstellung",
+        "name": "Dolch-Herstellung",
+        "p": "Dolch-Herstellungen",
         "description": ""
     },
     "makediadem": {
-        "name": "Diadem Herstellen",
-        "p": "Diadem Herstellung",
+        "name": "Diadem-Herstellung",
+        "p": "Diadem-Herstellungen",
         "description": ""
     },
     "makeearing": {
-        "name": "Ohrring Herstellen",
-        "p": "Ohrring Herstellung",
+        "name": "Ohrring-Herstellung",
+        "p": "Ohrring-Herstellungen",
         "description": ""
     },
     "makefireammos": {
-        "name": "Brandsatzmunition Herstellen",
-        "p": "Brandsatzmunition Herstellung",
+        "name": "Brandsatzmunitions-Herstellung",
+        "p": "Brandsatzmunitions-Herstellungen",
         "description": ""
     },
     "makefiretoughenedarmors": {
-        "name": "Feuergestählte Rüstung Herstellen",
-        "p": "Feuergestählte Rüstung Herstellung",
+        "name": "Feuergestählte Rüstungsherstellung",
+        "p": "Feuergestählte Rüstungsherstellungen",
         "description": ""
     },
     "makefireweapons": {
-        "name": "Feuer Waffen Herstellen",
-        "p": "Feuer Waffen Herstellung",
+        "name": "Feuerwaffen-Herstellung",
+        "p": "Feuerwaffen-Herstellungen",
         "description": ""
     },
     "makeflorallivingjewels": {
-        "name": "Bewachsener Lebender Schmuck Herstellen",
-        "p": "Make Floral Lebende Schmuck",
+        "name": "Herstellung lebendigen Blumenschmucks",
+        "p": "Herstellungen lebendigen Blumenschmucks",
         "description": ""
     },
     "makefloralpatternlivingclothes": {
-        "name": "Bewachsene Lebende Kleidung Herstellen",
-        "p": "Make Floral Lebende Kleidung",
+        "name": "Herstellung lebendiger Blumenkleidung",
+        "p": "Herstellungen lebendiger Blumenkleidung",
         "description": ""
     },
     "makegrenade": {
-        "name": "Granate Herstellen",
-        "p": "Granaten Herstellung",
+        "name": "Granaten-Herstellung",
+        "p": "Granaten-Herstellungen",
         "description": ""
     },
     "makeharpoongun": {
-        "name": "Harpune Herstellen",
-        "p": "Harpunen Herstellung",
+        "name": "Harpunen-Herstellung",
+        "p": "Harpunen-Herstellungen",
         "description": ""
     },
     "makeharpoongunammo": {
-        "name": "Harpunen Munition Herstellen",
-        "p": "Harpunen Munition Herstellung",
+        "name": "Munitionsherstellung für Harpunen",
+        "p": "Munitionsherstellungen für Harpunen",
         "description": ""
     },
     "makeheavyarmors": {
-        "name": "Schwere Rüstung Herstellen",
-        "p": "Schwere Rüstungen Herstellung",
+        "name": "Herstellung schwerer Rüstung",
+        "p": "Herstellungen schwerer Rüstung",
         "description": ""
     },
     "makeheavyboots": {
-        "name": "Schwere Stiefel Herstellen",
-        "p": "Schwere Stiefel Herstellung",
+        "name": "Herstellung schwerer Stiefel",
+        "p": "Herstellungen schwerer Stiefel",
         "description": ""
     },
     "makeheavygloves": {
-        "name": "Schwere Handschuhe Herstellen",
-        "p": "Schwere Handschuhe Herstellung",
+        "name": "Herstellung schwerer Handschuhe",
+        "p": "Herstellungen schwerer Handschuhe",
         "description": ""
     },
     "makeheavyhelmet": {
-        "name": "Schweren Helm Herstellen",
-        "p": "Schweren Helme Herstellung",
+        "name": "Herstellung schwerer Helme",
+        "p": "Herstellungen schwerer Helme",
         "description": ""
     },
     "makeheavypants": {
-        "name": "Schwere Hose Herstellen",
-        "p": "Schwere Hosen Herstellung",
+        "name": "Herstellung schwerer Hosen",
+        "p": "Herstellungen schwerer Hosen",
         "description": ""
     },
     "makeheavysleeves": {
-        "name": "Schwere Armschützer Herstellen",
-        "p": "Schwere Armschützer Herstellung",
+        "name": "Herstellung schwerer Armschützer",
+        "p": "Herstellungen schwerer Armschützer",
         "description": ""
     },
     "makeheavyvest": {
-        "name": "Schwere Weste Herstellen",
-        "p": "Schwere Weste Herstellung",
+        "name": "Herstellung schwerer Westen",
+        "p": "Herstellungen schwerer Westen",
         "description": ""
     },
     "makejewels": {
-        "name": "Schmuck Herstellen",
-        "p": "Schmuck Herstellung",
+        "name": "Schmuck-Herstellung",
+        "p": "Schmuck-Herstellungen",
         "description": ""
     },
     "makekamicclothes": {
-        "name": "Kami Kleidung Herstellen",
-        "p": "Kami Kleidung Herstellung",
+        "name": "Kami Kleidungsherstellung",
+        "p": "Kami Kleidungsherstellungen",
         "description": ""
     },
     "makekamicjewels": {
-        "name": "Kami Schmuck Herstellen",
-        "p": "Kami Schmuck Herstellung",
+        "name": "Kami Schmuckherstellung",
+        "p": "Kami Schmuckherstellungen",
         "description": ""
     },
     "makekamicweapon": {
-        "name": "Kami Waffen Herstellen",
-        "p": "Kami Waffen Herstellung",
+        "name": "Kami Waffenherstellung",
+        "p": "Kami Waffenherstellungen",
         "description": ""
     },
     "makelance": {
-        "name": "Lanze Herstellen",
-        "p": "Lanzen Herstellung",
+        "name": "Lanzenherstellung",
+        "p": "Lanzenherstellungen",
         "description": ""
     },
     "makelauncher": {
-        "name": "Raketenwerfer Herstellen",
-        "p": "Raketenwerfer Herstellung",
+        "name": "Raketenwerfer-Herstellung",
+        "p": "Raketenwerfer-Herstellungen",
         "description": ""
     },
     "makelauncherammo": {
-        "name": "Raketenwerfer Munition Herstellen",
-        "p": "Raketenwerfer Munition Herstellung",
+        "name": "Munitionsherstellung für Raketenwerfer",
+        "p": "Munitionsherstellungen für Raketenwerfer",
         "description": ""
     },
     "makelightboots": {
-        "name": "Leichte Stiefel Herstellen",
-        "p": "Leichte Stiefel Herstellung",
+        "name": "Herstellung leichter Stiefel",
+        "p": "Herstellungen leichter Stiefel",
         "description": ""
     },
     "makelightgloves": {
-        "name": "Leichte Handschuhe Herstellen",
-        "p": "Leichte Handschuhe Herstellung",
+        "name": "Herstellung leichter Handschuhe",
+        "p": "Herstellungen leichter Handschuhe",
         "description": ""
     },
     "makelighthelmet": {
-        "name": "Leichten Helm Herstellen",
-        "p": "Leichten Helme Herstellung",
+        "name": "Herstellung leichter Helme",
+        "p": "Herstellungen leichter Helme",
         "description": ""
     },
     "makelightpants": {
-        "name": "Leichte Hose Herstellen",
-        "p": "Leichte Hose Herstellung",
+        "name": "Herstellung leichter Hosen",
+        "p": "Herstellungen leichter Hosen",
         "description": ""
     },
     "makelightsleeves": {
-        "name": "Leichte Armschützer Herstellen",
-        "p": "Leichte Armschützer Herstellung",
+        "name": "Herstellung leichter Armschützer",
+        "p": "Herstellungen leichter Armschützer",
         "description": ""
     },
     "makelightvest": {
-        "name": "Leichte Weste Herstellen",
-        "p": "Leichte Westen Herstellung",
+        "name": "Herstellung leichter Westen",
+        "p": "Herstellung enleichter Westen",
         "description": ""
     },
     "makelongaxe": {
-        "name": "Langaxt Herstellen",
-        "p": "Langaxt Herstellung",
+        "name": "Langaxt-Herstellung",
+        "p": "Langaxt-Herstellungen",
         "description": ""
     },
     "makelongmace": {
-        "name": "Riesenstreitkolben Herstellen",
-        "p": "Riesenstreitkolben Herstellung",
+        "name": "Zweihand-Streitkolben-Herstellung",
+        "p": "Zweihand-Streitkolben-Herstellungen",
         "description": ""
     },
     "makelongsword": {
-        "name": "Langschwert Herstellen",
-        "p": "Langschwert Herstellung",
+        "name": "Langschwert-Herstellung",
+        "p": "Langschwert-Herstellungen",
         "description": ""
     },
     "makemace": {
-        "name": "Streitkolben Herstellen",
-        "p": "Streitkolben Herstellung",
+        "name": "Streitkolben-Herstellung",
+        "p": "Streitkolben-Herstellungen",
         "description": ""
     },
     "makemediumarmors": {
-        "name": "Mittlere Rüstung Herstellen",
-        "p": "Mittlere Rüstung Herstellung",
+        "name": "Herstellung mittlerer Rüstung",
+        "p": "Herstellungen mittlerer Rüstung",
         "description": ""
     },
     "makemediumboots": {
-        "name": "Mittlere Stiefel Herstellen",
-        "p": "Mittlere Stiefel Herstellung",
+        "name": "Herstellung mittlerer Stiefel",
+        "p": "Herstellungen mittlerer Stiefel",
         "description": ""
     },
     "makemediumgloves": {
-        "name": "Mittlere Handschuhe Herstellen",
-        "p": "Mittlere Handschuhe Herstellung",
+        "name": "Herstellung mittlerer Handschuhe",
+        "p": "Herstellungen mittlerer Handschuhe",
         "description": ""
     },
     "makemediumhelmet": {
-        "name": "Mittleren Helm Herstellen",
-        "p": "Mittlere Helm Herstellung",
+        "name": "Herstellung mittlerer Helme",
+        "p": "Herstellungen mittlerer Helme",
         "description": ""
     },
     "makemediumpants": {
-        "name": "Mittlere Hose Herstellen",
-        "p": "Mittlere Hose Herstellung",
+        "name": "Herstellung mittlerer Hosen",
+        "p": "Herstellungen mittlerer Hosen",
         "description": ""
     },
     "makemediumsleeves": {
-        "name": "Mittlere Armschützer Herstellen",
-        "p": "Mittlere Armschützer Herstellung",
+        "name": "Herstellung mittlerer Armschützer",
+        "p": "Herstellungen mittlerer Armschützer",
         "description": ""
     },
     "makemediumvest": {
-        "name": "Mittlere Weste Herstellen",
-        "p": "Mittlere Westen Herstellung",
+        "name": "Herstellung mittlerer Westen",
+        "p": "Herstellungen mittlerer Westen",
         "description": ""
     },
     "makemeleeweapons": {
-        "name": "Nahkampf Waffe Herstellen",
-        "p": "Nahkampf Waffe Herstellung",
+        "name": "Nahkampfwaffen-Herstellung",
+        "p": "Nahkampfwaffen-Herstellungen",
         "description": ""
     },
     "makependant": {
-        "name": "Anhänger Herstellen",
-        "p": "Anhänger Herstellung",
+        "name": "Anhänger-Herstellung",
+        "p": "Anhänger-Herstellungen",
         "description": ""
     },
     "makepike": {
-        "name": "Pike Herstellen",
-        "p": "Piken Herstellung",
+        "name": "Pikenherstellung",
+        "p": "Pikenherstellungen",
         "description": ""
     },
     "makepistol": {
-        "name": "Pistole Herstellen",
-        "p": "Pistolen Herstellung",
+        "name": "Pistolenherstellung",
+        "p": "Pistolenherstellungen",
         "description": ""
     },
     "makepistolammo": {
-        "name": "Pistolen Munition Herstellen",
-        "p": "Pistolen Munition Herstellung",
+        "name": "Munitionsherstellung für Pistolen",
+        "p": "Munitionsherstellungen für Pistolen",
         "description": ""
     },
     "makepistolarc": {
-        "name": "Bogenpistole Herstellen",
-        "p": "Bogenpistolen Herstellung",
+        "name": "Bogenpistolenherstellung",
+        "p": "Bogenpistolenherstellungen",
         "description": ""
     },
     "makepistolarcammo": {
-        "name": "Bogenpistolen Munition Herstellen",
-        "p": "Bogenpistolen Munition Herstellung",
+        "name": "Munitionsherstellung für Bogenpistolen",
+        "p": "Munitionsherstellungen für Bogenpistolen",
         "description": ""
     },
     "makepoisonnouslivingweapons": {
-        "name": "Giftige Lebende Waffe Herstellen",
-        "p": "Gabeige Lebende Waffen Herstellung",
+        "name": "Herstellung lebendiger Giftwaffen",
+        "p": "Herstellungen lebendiger Giftwaffen",
         "description": ""
     },
     "makerangeweaponammos": {
-        "name": "Fernwaffen Munition Herstellen",
-        "p": "Fernwaffen Munition Herstellung",
+        "name": "Munitionsherstellung für Fernwaffen",
+        "p": "Munitionsherstellungen für Fernwaffen",
         "description": ""
     },
     "makerangeweapons": {
-        "name": "Fernwaffe Herstellen",
-        "p": "Fernwaffen Herstellung",
+        "name": "Fernwaffenherstellung",
+        "p": "Fernwaffenherstellungen",
         "description": ""
     },
     "makerifle": {
-        "name": "Gewehr Herstellen",
-        "p": "Gewehr Herstellung",
+        "name": "Gewehrherstellung",
+        "p": "Gewehrherstellungen",
         "description": ""
     },
     "makerifleammo": {
-        "name": "Gewehr Munition Herstellen",
-        "p": "Gewehr Munition Herstellung",
+        "name": "Munitionsherstellung für Gewehre",
+        "p": "Munitionsherstellungen für Gewehre",
         "description": ""
     },
     "makering": {
-        "name": "Ring Herstellen",
-        "p": "Ring Herstellung",
+        "name": "Ring-Herstellung",
+        "p": "Ring-Herstellungen",
         "description": ""
     },
     "makeshield": {
-        "name": "Schild Herstellen",
-        "p": "Schild Herstellung",
+        "name": "Schild-Herstellung",
+        "p": "Schild-Herstellungen",
         "description": ""
     },
     "makeshiftrepair": {
-        "name": "Notbehelfsreparatur",
-        "p": "Notbehelfsreparaturen",
+        "name": "Notreparatur",
+        "p": "Notreparaturen",
         "description": ""
     },
     "makesurvivaltools": {
-        "name": "Überlebenswerkzeug Herstellen",
-        "p": "Überlebenswerkzeug Herstellung",
+        "name": "Überlebenswerkzeug-Herstellung",
+        "p": "Überlebenswerkzeug-Herstellungen",
         "description": ""
     },
     "makesurvivalweapon": {
-        "name": "Überlebens Waffen Herstellen",
-        "p": "Überlebens Waffen Herstellung",
+        "name": "Überlebenswaffen-Herstellung",
+        "p": "Überlebenswaffen-Herstellungen",
         "description": ""
     },
     "makesword": {
-        "name": "Schwert Herstellen",
-        "p": "Schwert Herstellung",
+        "name": "Schwert-Herstellung",
+        "p": "Schwert-Herstellungen",
         "description": ""
     },
     "makethrowingweapon": {
-        "name": "Wurfwaffen Herstellen",
-        "p": "Wurfwaffen Herstellung",
+        "name": "Wurfwaffen-Herstellung",
+        "p": "Wurfwaffen-Herstellung",
         "description": ""
     },
     "maketools": {
-        "name": "Werkzeug Herstellen",
-        "p": "Werkzeug Herstellung",
+        "name": "Werkzeug-Herstellung",
+        "p": "Werkzeug-Herstellung",
         "description": ""
     },
     "maketwo_handsmeleeweapons": {
-        "name": "Zweihänder Nahkampfwaffen Herstellen",
-        "p": "Zweihänder Nahkampfwaffen Herstellung",
+        "name": "Herstellung zweihändiger Nahkampfwaffen",
+        "p": "Herstellungen zweihändiger Nahkampfwaffen",
         "description": ""
     },
     "maketwo_handsrangeweaponammos": {
-        "name": "Zweihänder Fernwaffen Munition Herstellen",
-        "p": "Zweihänder Fernwaffen Munition Herstellung",
+        "name": "Munitionsherstellung für Zweihand-Fernwaffen",
+        "p": "Munitionsherstellungen für Zweihand-Fernwaffen",
         "description": ""
     },
     "maketwo_handsrangeweapons": {
-        "name": "Zweihänder Fernwaffen Herstellen",
-        "p": "Zweihänder Fernwaffen Herstellung",
+        "name": "Herstellung zweihändiger Fernwaffen",
+        "p": "Herstellungen zweihändiger Fernwaffen",
         "description": ""
     },
     "mandragore": {
-        "name": "Mandragore",
-        "p": "Mandragores",
+        "name": "Alraune",
+        "p": "Alraunen",
         "description": ""
     },
     "mandrakefist": {
-        "name": "Mandrake Faust",
-        "p": "Mandrake Fäuste",
+        "name": "Stich der Alraune",
+        "p": "Stiche der Alraune",
         "description": ""
     },
     "mass": {
@@ -920,13 +920,13 @@
         "description": ""
     },
     "matisgoods": {
-        "name": "Matis Güter",
-        "p": "Matis Güter",
+        "name": "Matis-Güter",
+        "p": "Matis-Güter",
         "description": ""
     },
     "matismystery": {
-        "name": "Matis Geheimnis",
-        "p": "Matis Geheimnisse",
+        "name": "Matis-Geheimnis",
+        "p": "Matis-Geheimnisse",
         "description": ""
     },
     "mechanic": {
@@ -936,22 +936,22 @@
     },
     "mediumarmourwear": {
         "name": "Mittlere Rüstung Tragen",
-        "p": "Mittlere Rüstungen Tragen",
+        "p": "Mittlere Rüstung Tragen",
         "description": ""
     },
     "minorlifeheal": {
-        "name": "niedrige HP Heilung",
-        "p": "niedrige HP Heilungen",
+        "name": "niedrige Lebens-Heilung",
+        "p": "niedrige Lebens-Heilungen",
         "description": ""
     },
     "minorsapheal": {
-        "name": "niedrige Sap Heilung",
-        "p": "niedrige Sap Heilungen",
+        "name": "niedrige Sap-Heilung",
+        "p": "niedrige Sap-Heilungen",
         "description": ""
     },
     "minortirednessheal": {
-        "name": "niedrige Müdigkeits Heilung",
-        "p": "niedrige Müdigkeits Heilungen",
+        "name": "niedrige Müdigkeits-Heilung",
+        "p": "niedrige Müdigkeits-Heilungen",
         "description": ""
     },
     "mirror": {
@@ -965,13 +965,13 @@
         "description": ""
     },
     "nervousfever": {
-        "name": "Nerverfieber",
-        "p": "Nerverfieber",
+        "name": "Nervenfieber",
+        "p": "Nervenfieber",
         "description": ""
     },
     "nightshot": {
         "name": "Nachtschuss",
-        "p": "Nachtschuss",
+        "p": "Nachtschüsse",
         "description": ""
     },
     "nunb": {
@@ -981,12 +981,12 @@
     },
     "onhorsebackmelee": {
         "name": "Mektoub-Reitkampf",
-        "p": "Mektoub-Reitkampf",
+        "p": "Mektoub-Reitkämpfe",
         "description": ""
     },
     "onhorsebackshoot": {
-        "name": "Mektoub-Reitschiessen",
-        "p": "Mektoub-Reitschiessen",
+        "name": "Mektoub-Reitschießen",
+        "p": "Mektoub-Reitschießen",
         "description": ""
     },
     "painshare": {
@@ -1005,8 +1005,8 @@
         "description": ""
     },
     "pikehunting": {
-        "name": "Kreaturen Jagd",
-        "p": "Kreaturen Jagden",
+        "name": "Kreaturen-Jagd",
+        "p": "Kreaturen-Jagden",
         "description": ""
     },
     "pistol": {
@@ -1015,13 +1015,13 @@
         "description": ""
     },
     "planthatred": {
-        "name": "Pflanzen Hass",
-        "p": "Pflanzen Hass",
+        "name": "Pflanzenhass",
+        "p": "Pflanzenhass",
         "description": ""
     },
     "pointblankshot": {
-        "name": "Kernschuss",
-        "p": "Kernschüsse",
+        "name": "Schuss aus nächster Nähe",
+        "p": "Schüsse aus nächster Nähe",
         "description": ""
     },
     "primaryroots": {
@@ -1030,33 +1030,33 @@
         "description": ""
     },
     "protectingkamisknoledge": {
-        "name": "Schutz-Kami Wissen",
-        "p": "Schutz-Kami Wissen",
+        "name": "Wissen des Schutz-Kami",
+        "p": "Wissen des Schutz-Kami",
         "description": ""
     },
     "quartering": {
-        "name": "Ausweiden",
-        "p": "Ausweiden",
+        "name": "Ausnehmen",
+        "p": "Ausnehmen",
         "description": ""
     },
     "quickshot": {
-        "name": "Schnell Schuss",
-        "p": "Schnell Schüsse",
+        "name": "Schnellschuss",
+        "p": "Schnellschüsse",
         "description": ""
     },
     "quickthrow": {
-        "name": "Schnell Wurf",
-        "p": "Schnell Würfe",
+        "name": "Schnellwurf",
+        "p": "Schnellwürfe",
         "description": ""
     },
     "range": {
-        "name": "Entfernung",
-        "p": "Entfernungen",
+        "name": "Reichweite",
+        "p": "Reichweiten",
         "description": ""
     },
     "rapidburst": {
-        "name": "Schneller Feuerstoss",
-        "p": "Schnelle Feuerstösse",
+        "name": "Schneller Feuerstoß",
+        "p": "Schnelle Feuerstöße",
         "description": ""
     },
     "resist": {
@@ -1066,12 +1066,12 @@
     },
     "resistance": {
         "name": "Widerstand",
-        "p": "Widerstand",
+        "p": "Widerstände",
         "description": ""
     },
     "ridepackers": {
-        "name": "Hauptpacker",
-        "p": "Hauptpacker",
+        "name": "Hauptpacktier",
+        "p": "Hauptpacktiere",
         "description": ""
     },
     "riding": {
@@ -1085,8 +1085,8 @@
         "description": ""
     },
     "riflehunting": {
-        "name": "Schiessen",
-        "p": "Schiessen",
+        "name": "Schießen",
+        "p": "Schießen",
         "description": ""
     },
     "rocket": {
@@ -1095,13 +1095,13 @@
         "description": ""
     },
     "rocktabou": {
-        "name": "Rock Taboo",
-        "p": "Rock Taboos",
+        "name": "Stoß-Tabu",
+        "p": "Stoß-Tabus",
         "description": ""
     },
     "rondache": {
-        "name": "Rondache",
-        "p": "Rondachen",
+        "name": "Rundschild",
+        "p": "Rundschilde",
         "description": ""
     },
     "rot": {
@@ -1115,18 +1115,18 @@
         "description": ""
     },
     "sapalchemy": {
-        "name": "Sap Alchemie",
-        "p": "Sap Alchemies",
+        "name": "Sap-Alchemie",
+        "p": "Sap-Alchemie",
         "description": ""
     },
     "saparmor": {
-        "name": "Sap Rüstung",
-        "p": "Sap Rüstungen",
+        "name": "Sap-Rüstung",
+        "p": "Sap-Rüstungen",
         "description": ""
     },
     "sapgift": {
-        "name": "Sap Gabe",
-        "p": "Sap Gaben",
+        "name": "Sap-Spende",
+        "p": "Sap-Spenden",
         "description": ""
     },
     "shield": {
@@ -1135,68 +1135,68 @@
         "description": ""
     },
     "shootandrun": {
-        "name": "Schiessen und Rennen",
-        "p": "Schiessen und Rennen",
+        "name": "Schießen und Ausweichen",
+        "p": "Schießen und Ausweichen",
         "description": ""
     },
     "shotprotect": {
-        "name": "Schuss Schutz",
-        "p": "Schuss Schutz",
+        "name": "Fernkampf-Schutz",
+        "p": "Fernkampf-Schutzauren",
         "description": ""
     },
     "slowingbreath": {
         "name": "Atemverlangsamung",
-        "p": "Atemverlangsamung",
+        "p": "Atemverlangsamungen",
         "description": ""
     },
     "slowinglife": {
         "name": "Lebensverlangsamung",
-        "p": "Lebensverlangsamung",
+        "p": "Lebensverlangsamungen",
         "description": ""
     },
     "spear": {
-        "name": "Speer",
-        "p": "Speere",
+        "name": "Lanze",
+        "p": "Lanzen",
         "description": ""
     },
     "spelldeletion": {
-        "name": "Zauber Tilgung",
-        "p": "Zauber Tilgungen",
+        "name": "Zauberunterdrückung",
+        "p": "Zauberunterdrückungen",
         "description": ""
     },
     "spellprotect": {
-        "name": "Zauber Schutz",
-        "p": "Zauber Schutz",
+        "name": "Zauber-Schutz",
+        "p": "Zauber-Schutzauren",
         "description": ""
     },
     "spurtingfire": {
-        "name": "Spritzendes Feuer",
-        "p": "Spritzendes Feuer",
+        "name": "Sprudelndes Feuer",
+        "p": "Sprudelndes Feuer",
         "description": ""
     },
     "squandering": {
-        "name": "Verstreuung",
-        "p": "Verstreuung",
+        "name": "Verschwendung",
+        "p": "Verschwendungen",
         "description": ""
     },
     "stallsetup": {
         "name": "Hütte errichten",
-        "p": "Hütte errichten",
+        "p": "Hütten errichten",
         "description": ""
     },
     "stealbreath": {
-        "name": "Atem Diebstahl",
-        "p": "Atem Diebstahl",
+        "name": "Atem-Diebstahl",
+        "p": "Atem-Diebstähle",
         "description": ""
     },
     "steallife": {
-        "name": "HP Diebstahl",
-        "p": "HP Diebstahl",
+        "name": "Lebens-Diebstahl",
+        "p": "Lebens-Diebstähle",
         "description": ""
     },
     "stealsap": {
-        "name": "Sap Diebstahl",
-        "p": "Sap Diebstahl",
+        "name": "Sap-Diebstahl",
+        "p": "Sap-Diebstähle",
         "description": ""
     },
     "stick": {
@@ -1205,8 +1205,8 @@
         "description": ""
     },
     "strenghtgift": {
-        "name": "Kraft Gabe",
-        "p": "Kraft Gaben",
+        "name": "Kraft Spende",
+        "p": "Kraft Spenden",
         "description": ""
     },
     "swimming": {
@@ -1220,18 +1220,18 @@
         "description": ""
     },
     "sylphicslide": {
-        "name": "Sylphic Slide",
-        "p": "Sylphic Slide",
+        "name": "Waldrutsch",
+        "p": "Waldrutsche",
         "description": ""
     },
     "sylve": {
-        "name": "Sylve",
-        "p": "Sylven",
+        "name": "Wald",
+        "p": "Wälder",
         "description": ""
     },
     "tactilewithering": {
         "name": "Fühlbare Verwelkung",
-        "p": "Fühlbare Verwelkung",
+        "p": "Fühlbare Verwelkungen",
         "description": ""
     },
     "target": {
@@ -1245,8 +1245,8 @@
         "description": ""
     },
     "tirednessalchemy": {
-        "name": "Müdigkeits Alchemie",
-        "p": "Müdigkeits Alchemie",
+        "name": "Alchemie der Müdigkeit",
+        "p": "Alchemie der Müdigkeit",
         "description": ""
     },
     "tracking": {
@@ -1255,143 +1255,143 @@
         "description": ""
     },
     "tradingcenterknowledge": {
-        "name": "Handelsstations Wissen",
-        "p": "Handelsstations Wissen",
+        "name": "Wissen der Handelsstation",
+        "p": "Wissen der Handelsstation",
         "description": ""
     },
     "trainingagility": {
-        "name": "Training Agilität",
-        "p": "Training Agilität",
+        "name": "Agilitätstraining",
+        "p": "Agilitätstrainings",
         "description": ""
     },
     "traininganimal": {
-        "name": "Training Tier",
-        "p": "Training Tiere",
+        "name": "Training auf Tieren",
+        "p": "Trainings auf Tieren",
         "description": ""
     },
     "trainingcharisme": {
-        "name": "Training Charisma",
-        "p": "Training Charismas",
+        "name": "Charismatraining",
+        "p": "Charismatrainings",
         "description": ""
     },
     "trainingconstitution": {
-        "name": "Training Konstitution",
-        "p": "Training Konstitution",
+        "name": "Konstitutionstraining",
+        "p": "Konstitutionstrainings",
         "description": ""
     },
     "trainingdiseaseresist": {
-        "name": "Training Fluchswiderstand",
-        "p": "Training Fluchswiderstand",
+        "name": "Krankheitswiderstands-Training",
+        "p": "Krankheitswiderstands-Trainings",
         "description": ""
     },
     "trainingempathie": {
-        "name": "Training Einfühlungsvermögen",
-        "p": "Training Einfühlungsvermögen",
+        "name": "Empathietraining",
+        "p": "Empathietrainings",
         "description": ""
     },
     "trainingfearresist": {
-        "name": "Training Angstwiderstand",
-        "p": "Training Angstwiderstand",
+        "name": "Angstwiderstands-Training",
+        "p": "Angstwiderstands-Trainings",
         "description": ""
     },
     "traininghp": {
-        "name": "Training HP",
-        "p": "Training HP",
+        "name": "Lebens-Training",
+        "p": "HP-Trainings",
         "description": ""
     },
     "traininghp2": {
-        "name": "Training HP 2",
-        "p": "Training HP 2",
+        "name": "Lebens-Training 2",
+        "p": "Lebens-Trainings 2",
         "description": ""
     },
     "traininghp3": {
-        "name": "Training HP 3",
-        "p": "Training HP 3",
+        "name": "Lebens-Training 3",
+        "p": "Lebens-Trainings 3",
         "description": ""
     },
     "traininghp4": {
-        "name": "Training HP 4",
-        "p": "Training HP 4",
+        "name": "Lebens-Training 4",
+        "p": "Lebens-Trainings 4",
         "description": ""
     },
     "trainingimpactresist": {
-        "name": "Training Einschlagswiderstand",
-        "p": "Training Einschlagswiderstand",
+        "name": "Einschlagswiderstands-Training",
+        "p": "Einschlagswiderstands-Trainings",
         "description": ""
     },
     "trainingintelligence": {
-        "name": "Training Intelligenz",
-        "p": "Training Intelligenz",
+        "name": "Intelligenztraining",
+        "p": "Intelligenztrainings",
         "description": ""
     },
     "trainingmagicresist": {
-        "name": "Training Magiewiederstand",
-        "p": "Training Magiewiederstand",
+        "name": "Magiewiderstands-Training",
+        "p": "Magiewiderstands-Trainings",
         "description": ""
     },
     "trainingperception": {
-        "name": "Training Empfindung",
-        "p": "Training Empfindung",
+        "name": "Wahrnehmungstraining",
+        "p": "Wahrnehmungstrainings",
         "description": ""
     },
     "trainingseve": {
-        "name": "Training Sap",
-        "p": "Training Sap",
+        "name": "Sap-Training",
+        "p": "Sap-Trainings",
         "description": ""
     },
     "trainingseve2": {
-        "name": "Training Sap 2",
-        "p": "Training Sap 2",
+        "name": "Sap-Training 2",
+        "p": "Sap-Trainings 2",
         "description": ""
     },
     "trainingseve3": {
-        "name": "Training Sap 3",
-        "p": "Training Sap 3",
+        "name": "Sap-Training 3",
+        "p": "Sap-Trainings 3",
         "description": ""
     },
     "trainingseve4": {
-        "name": "Training Sap 4",
-        "p": "Training Sap 4",
+        "name": "Sap-Training 4",
+        "p": "Sap-Trainings 4",
         "description": ""
     },
     "trainingstamina": {
-        "name": "Training Ausdauer",
-        "p": "Training Ausdauer",
+        "name": "Ausdauertraining",
+        "p": "Ausdauertrainings",
         "description": ""
     },
     "trainingstamina2": {
-        "name": "Training Ausdauer 2",
-        "p": "Training Ausdauer 2",
+        "name": "Ausdauertraining 2",
+        "p": "Ausdauertrainings 2",
         "description": ""
     },
     "trainingstamina3": {
-        "name": "Training Ausdauer 3",
-        "p": "Training Ausdauer 3",
+        "name": "Ausdauertraining 3",
+        "p": "Ausdauertrainings 3",
         "description": ""
     },
     "trainingstamina4": {
-        "name": "Training Ausdauer 4",
-        "p": "Training Ausdauer 4",
+        "name": "Ausdauertraining 4",
+        "p": "Ausdauertrainings 4",
         "description": ""
     },
     "trainingstrength": {
-        "name": "Training Kraft",
-        "p": "Training Kraft",
+        "name": "Krafttraining",
+        "p": "Krafttrainings",
         "description": ""
     },
     "trainingtechnoresist": {
-        "name": "Training Technikwiederstand",
-        "p": "Training Technikwiederstand",
+        "name": "Technikwiderstands-Training",
+        "p": "Technikwiderstands-Trainings",
         "description": ""
     },
     "trainingwellbalanced": {
-        "name": "Training Gutes Gleichgewicht",
-        "p": "Training Gutes Gleichgewicht",
+        "name": "Training für gutes Gleichgewicht",
+        "p": "Trainings für gutes Gleichgewicht",
         "description": ""
     },
     "trainingwill": {
-        "name": "Training Willen",
-        "p": "Training Willen",
+        "name": "Willenstraining",
+        "p": "Willenstrainings",
         "description": ""
     },
     "tryker": {
@@ -1400,28 +1400,28 @@
         "description": ""
     },
     "trykergoods": {
-        "name": "Tryker Güter",
-        "p": "Tryker Güter",
+        "name": "Tryker-Güter",
+        "p": "Tryker-Güter",
         "description": ""
     },
     "trykermystery": {
-        "name": "Tryker Geheimnis",
-        "p": "Tryker Geheimnisse",
+        "name": "Tryker-Geheimnis",
+        "p": "Tryker-Geheimnisse",
         "description": ""
     },
     "twohandedcombat": {
-        "name": "Zweihänder Kampf",
-        "p": "Zweihänder Kämpfe",
+        "name": "Zweihand-Kampf",
+        "p": "Zweihand-Kämpfe",
         "description": ""
     },
     "twohandssword": {
-        "name": "Zweihänder Schwert",
-        "p": "Zweihänder Schwerter",
+        "name": "Zweihänder-Schwert",
+        "p": "Zweihand-Schwerter",
         "description": ""
     },
     "underwaterextract": {
-        "name": "Unterwasser Ernte",
-        "p": "Unterwasser Ernten",
+        "name": "Unterwasser-Ernte",
+        "p": "Unterwasser-Ernten",
         "description": ""
     },
     "visualwithering": {
@@ -1435,28 +1435,28 @@
         "description": ""
     },
     "warriorgift": {
-        "name": "Kämpfer Gabe",
-        "p": "Kämpfer Gaben",
+        "name": "Kampf-Spende",
+        "p": "Kampf-Spenden",
         "description": ""
     },
     "weaponscutting": {
-        "name": "Waffen Schnitt",
-        "p": "Waffen Schnitte",
+        "name": "Waffen-Schnitt",
+        "p": "Waffen-Schnitte",
         "description": ""
     },
     "windarmor": {
-        "name": "Wind Rüstung",
-        "p": "Wind Rüstungen",
+        "name": "Wind-Rüstung",
+        "p": "Wind-Rüstungen",
         "description": ""
     },
     "windgift": {
-        "name": "Wind Gabe",
-        "p": "Wind Gaben",
+        "name": "Wind-Spende",
+        "p": "Wind-Spenden",
         "description": ""
     },
     "windshear": {
-        "name": "Windscheren",
-        "p": "Windscheren",
+        "name": "Windkraft",
+        "p": "Windkräfte",
         "description": ""
     },
     "zorai": {
@@ -1465,79 +1465,79 @@
         "description": ""
     },
     "zoraigoods": {
-        "name": "Zoraï Güter",
-        "p": "Zoraï Güter",
+        "name": "Zoraï-Güter",
+        "p": "Zoraï-Güter",
         "description": ""
     },
     "zoraimystery": {
-        "name": "Zoraï Geheimnis",
-        "p": "Zoraï Geheimnisse",
+        "name": "Zoraï-Geheimnis",
+        "p": "Zoraï-Geheimnisse",
         "description": ""
     },
     "trainingimpactresist2": {
-        "name": "Training Einschlagwiderstand 2",
-        "p": "Training Einschlagwiderstand 2",
+        "name": "Einschlagswiderstands-Training 2",
+        "p": "Einschlagswiderstands-Trainings 2",
         "description": ""
     },
     "trainingimpactresist3": {
-        "name": "Training Einschlagwiderstand 3",
-        "p": "Training Einschlagwiderstand 3",
+        "name": "Einschlagswiderstands-Training 3",
+        "p": "Einschlagswiderstands-Trainings 3",
         "description": ""
     },
     "trainingmagicresist2": {
-        "name": "Training Magiewiederstand 2",
-        "p": "Training Magiewiederstand 2",
+        "name": "Magiewiderstands-Training 2",
+        "p": "Magiewiderstands-Trainings 2",
         "description": ""
     },
     "trainingmagicresist3": {
-        "name": "Training Magiewiederstand 3",
-        "p": "Training Magiewiederstand 3",
+        "name": "Magiewiderstands-Training 3",
+        "p": "Magiewiderstands-Trainings 3",
         "description": ""
     },
     "makeenchantedweapons": {
-        "name": "Verzauberte Waffen Herstellen",
-        "p": "Verzauberte Waffen Herstellung",
+        "name": "Herstellung verzauberter Waffen",
+        "p": "Herstellungen verzauberter Waffen",
         "description": ""
     },
     "makeenchantedarmors": {
-        "name": "Verzauberte Rüstungen Herstellen",
-        "p": "Verzauberte Rüstungs Herstellung",
+        "name": "Herstellung verzauberter Rüstung",
+        "p": "Herstellungen verzauberter Rüstung",
         "description": ""
     },
     "makevampiricweapons": {
-        "name": "Vampirische Waffen Herstellen",
-        "p": "Vampirische Waffen Herstellung",
+        "name": "Herstellung vampirischer Waffen",
+        "p": "Herstellungen vampirischer Waffen",
         "description": ""
     },
     "makeenchantedfloralpatternlivingclothes": {
-        "name": "Verzauberte Pflanzenbewachsene Lebende Kleidung Herstellen",
-        "p": "Verzauberte Pflanzenbewachsene Lebende Kleidung Herstellung",
+        "name": "Herstellung verzauberter lebendiger Blumenkleidung",
+        "p": "Herstellungen verzauberter lebendiger Blumenkleidung",
         "description": ""
     },
     "makedeadlyharpoongun": {
-        "name": "Tödliche Harpune Herstellen",
-        "p": "Tödliche Harpunen Herstellung",
+        "name": "Herstellung tödlicher Harpunen",
+        "p": "Herstellungen tödlicher Harpunen",
         "description": ""
     },
     "makehuntingarmors": {
-        "name": "Jagd Rüstung Herstellen",
-        "p": "Jagd Rüstungs Herstellung",
+        "name": "Jagdrüstungsherstellung",
+        "p": "Jagdrüstungsherstellungen",
         "description": ""
     },
     "makeritualclothes": {
-        "name": "Rituelle Kleidung Herstellen",
-        "p": "Rituelle Kleidungs Herstellung",
+        "name": "Herstellung ritueller Kleidung",
+        "p": "Herstellungen ritueller Kleidung",
         "description": ""
     },
     "makeritualjewels": {
-        "name": "Rituellen Schmuck Herstellen",
-        "p": "Rituelle Schmuck Herstellung",
+        "name": "Herstellung rituellen Schmucks",
+        "p": "Herstellungen rituellen Schmucks",
         "description": ""
     },
     "sc": {
         "name": "Handwerk",
-        "p": "Herstellung",
-        "description": "Herstellung"
+        "p": "Handwerke",
+        "description": "Handwerk"
     },
     "sm": {
         "name": "Magie",
@@ -1545,933 +1545,933 @@
         "description": "Magie"
     },
     "smt": {
-        "name": "Freie Magie",
-        "p": "Magie Targeted",
+        "name": "Wirkungsmagie",
+        "p": "Wirkungsmagie",
         "description": "Gezielte Magie"
     },
     "smtm": {
-        "name": "Freie Magie der Zauberart",
-        "p": "Magie Targeted Geschoss",
-        "description": "Gezieltes Magie Geschoss"
+        "name": "Raketenmagie",
+        "p": "Raketenmagie",
+        "description": "Magie gezielter Raketen"
     },
     "smtmr": {
-        "name": "Freie Magie des Urzaubers",
-        "p": "Magie Targeted Geschoss - Ur",
-        "description": "Gezieltes Magie Geschoss - Ur"
+        "name": "Grundmagie",
+        "p": "Grundmagie",
+        "description": "Gezieltes Magie-Geschoss – Ur"
     },
     "smtmg": {
-        "name": "Freie Magie des atysianischen Zaubers",
-        "p": "Magie Targeted Geschoss - Atysianische",
+        "name": "Atysianische Magie",
+        "p": "Atysianische Magie",
         "description": "Gezieltes Magie Geschoss - Atysianische"
     },
     "smtmb": {
-        "name": "Freie Magie des himmlischen Zaubers",
-        "p": "Magie Targeted Geschoss - Himmlische",
+        "name": "himmlische Magie",
+        "p": "himmlische Magie",
         "description": "Gezieltes Magie Geschoss - Himmlische"
     },
     "smto": {
-        "name": "Freie Angriffsmagie",
-        "p": "Magie Targeted Offensive",
+        "name": "Angriffsmagie",
+        "p": "Angriffsmagie",
         "description": "Gezielte Magie Offensiv"
     },
     "smtod": {
-        "name": "Freie Magie des Blutes",
-        "p": "Magie Targeted Offensive Schaden",
+        "name": "körperliche Magie",
+        "p": "körperliche Magie",
         "description": "Gezielte Magie Offensiv Schaden"
     },
     "smtodp": {
-        "name": "Freie Magie der Durchbohrung",
-        "p": "Magie Targeted Offensive Schaden - Durchbohrende",
+        "name": "Magie der Durchbohrung",
+        "p": "Magie der Durchbohrung",
         "description": "Gezielte Magie Offensiv Schaden - Durchbohrende"
     },
     "smtodb": {
-        "name": "Freie Magie der Zertrümmerung",
-        "p": "Magic Targeted Offensive Damage - Smashing",
-        "description": "Magie Offensiv Schaden - Überlegenheit"
+        "name": "Magie der Zertrümmerung",
+        "p": "Magie der Zertrümmerung",
+        "description": "Gezielte Magie Offensiv Schaden – Zertrümmerung"
     },
     "smtods": {
-        "name": "Freie Magie des Schnittes",
-        "p": "Magie Targeted Offensive Schaden - Schneidende",
+        "name": "Magie des Schnittes",
+        "p": "Magie des Schnittes",
         "description": "Gezielte Magie Offensiv Schaden - Schneidende"
     },
     "smtoe": {
-        "name": "Freie Elementarmagie",
-        "p": "Magie Targeted Offensive Special Schaden",
+        "name": "Elementarmagie",
+        "p": "Elementarmagie",
         "description": "Gezielte Magie Offensiv Spezial Schaden"
     },
     "smtoec": {
-        "name": "Freie Kältemagie",
-        "p": "Magie Targeted Offensive Special Schaden - Kälte",
+        "name": "Kältemagie",
+        "p": "Kältemagie",
         "description": "Gezielte Magie Offensiv Spezial Schaden - Kälte"
     },
     "smtoea": {
-        "name": "Freie Säuremagie",
-        "p": "Magie Targeted Offensive Special Schaden - Säure",
+        "name": "Säuremagie",
+        "p": "Säuremagie",
         "description": "Gezielte Magie Offensiv Spezial Schaden - Säure"
     },
     "smtoer": {
-        "name": "Freie Verrottungsmagie",
-        "p": "Magie Targeted Offensive Special Schaden - Verrottungs",
+        "name": "Verrottungsmagie",
+        "p": "Verrottungsmagie",
         "description": "Gezielte Magie Offensiv Spezial Schaden - Verrottung"
     },
     "smtoef": {
-        "name": "Freie Feuermagie",
-        "p": "Magie Targeted Offensive Special Schaden - Feuer",
+        "name": "Feuermagie",
+        "p": "Feuermagie",
         "description": "Gezielte Magie Offensiv Spezial Schaden - Feuer"
     },
     "smtoes": {
-        "name": "Freie Schockwellenmagie",
-        "p": "Magie Targeted Offensive Special Schaden - Schockwellen",
+        "name": "Schockwellenmagie",
+        "p": "Schockwellenmagie",
         "description": "Gezielte Magie Offensiv Spezial Schaden - Schockwelle"
     },
     "smtoep": {
-        "name": "Freie Giftmagie",
-        "p": "Magie Targeted Offensive Special Schaden - Gift",
+        "name": "Giftmagie",
+        "p": "Giftmagie",
         "description": "Gezielte Magie Offensiv Spezial Schaden - Gift"
     },
     "smtoee": {
-        "name": "Freie Elektromagie",
-        "p": "Magie Targeted Offensive Special Schaden - Elektrischer",
+        "name": "Elektromagie",
+        "p": "Elektromagie",
         "description": "Gezielte Magie Offensiv Spezial Schaden - Elektro"
     },
     "smtc": {
-        "name": "Freie Heilende Magie",
-        "p": "Magie Targeted Heilend",
+        "name": "Heilende Magie",
+        "p": "Heilende Magie",
         "description": "Gezielte Magie Heilend"
     },
     "smtch": {
-        "name": "Freie Heilmagie",
-        "p": "Magie Targeted Heilend Heilt",
+        "name": "Heilmagie",
+        "p": "Heilmagie",
         "description": "Gezielte Magie Heilend Heilt"
     },
     "smtchp": {
-        "name": "Freie Hp-Heilungsmagie",
-        "p": "Magie Targeted Heilend Heilt - Hp",
+        "name": "Lebens-Heilungsmagie",
+        "p": "Lebens-Heilungsmagie",
         "description": "Gezielte Magie Heilend Heilt - HP"
     },
     "smtcht": {
-        "name": "Freie Ausdauer-Heilungsmagie",
-        "p": "Magie Targeted Heilend Heilt - Ausdauer",
+        "name": "Ausdauer-Heilungsmagie",
+        "p": "Ausdauer-Heilungsmagie",
         "description": "Gezielte Magie Heilend Heilt - Ausdauer"
     },
     "smtcha": {
-        "name": "Freie Sap-Heilungsmagie",
-        "p": "Magie Targeted Heilend Heilt - Sap",
-        "description": "Gezielte Magie Heilend Heilt - SAP"
+        "name": "Sap-Heilungsmagie",
+        "p": "Sap-Heilungsmagie",
+        "description": "Gezielte Magie Heilend Heilt – Sap"
     },
     "smtchc": {
-        "name": "Freie Fokus-Heilungsmagie",
-        "p": "Magie Targeted Heilend Heilt - Fokus",
+        "name": "Fokus-Heilungsmagie",
+        "p": "Fokus-Heilungsmagie",
         "description": "Gezielte Magie Heilend Heilt - Fokus"
     },
     "smtcb": {
-        "name": "Freie Magie der Entwurzelung",
-        "p": "Magie Targeted Heilend Bindungsbruch",
-        "description": "Gezielte Magie Heilend Bindungsbruch"
+        "name": "Verbindungsabbruch",
+        "p": "Verbindungsabbrüche",
+        "description": ""
     },
     "smtcbd": {
-        "name": "Freie Magie des Entwurzelungsschadens",
-        "p": "Magie Targeted Heilend Bindungsbruch - Schaden",
-        "description": "Gezielte Magie Heilend Bindungsbruch - Schaden"
+        "name": "Schaden durch Verbindungsabbruch",
+        "p": "Schäden durch Verbindungsabbrüche",
+        "description": ""
     },
     "smtcbs": {
-        "name": "Freie Magie der Entwurzelungskrankheit",
-        "p": "Magie Targeted Heilend Bindungsbruch - Krankheit",
-        "description": "Gezielte Magie Heilend Bindungsbruch - Krankheit"
+        "name": "Krankheit durch Verbindungsabbruch",
+        "p": "Krankheiten durch Verbindungsabbrüche",
+        "description": ""
     },
     "smtcbc": {
-        "name": "Freie Magie des Entwurzelungsfluches",
-        "p": "Magie Targeted Heilend Bindungsbruch - Fluch",
-        "description": "Gezielte Magie Heilend Bindungsbruch - Fluch"
+        "name": "Fluch des Verbindungsabbruchs",
+        "p": "Flüche der Verbindungsabbrüche",
+        "description": ""
     },
     "sml": {
-        "name": "Wurzelmagie",
-        "p": "Magie Bindung",
+        "name": "Bindungsmagie",
+        "p": "Bindungsmagie",
         "description": "Link Magie"
     },
     "smlm": {
-        "name": "Wurzelmagie des Zauberart",
-        "p": "Magie Bindung Geschoss",
+        "name": "Geschoss-Bindung",
+        "p": "Geschoss-Bindungen",
         "description": "Link Magie Geschoss"
     },
     "smlmr": {
-        "name": "Wurzelmagie des Urzaubers",
-        "p": "Magie Bindung Geschoss - Ur",
+        "name": "Grundbindung",
+        "p": "Grundbindungen",
         "description": "Link Magie Geschoss - Ur"
     },
     "smlmg": {
-        "name": "Wurzelmagie des atysianischen Zaubers",
-        "p": "Magie Bindung Geschoss - Atysianische",
+        "name": "Atysianische Bindung",
+        "p": "Atysianische Bindungen",
         "description": "Link Magie Geschoss - Atysianische"
     },
     "smlmb": {
-        "name": "Wurzelmagie des himmlische Zaubers",
-        "p": "Magie Bindung Geschoss - Himmlische",
+        "name": "Himmlische Bindung",
+        "p": "Himmlische Bindungen",
         "description": "Link Magie Geschoss - Himmlische"
     },
     "smlo": {
-        "name": "Wurzelmagie des Angriffs",
-        "p": "Magie Bindung Offensive",
+        "name": "Offensive Bindung",
+        "p": "Offensive Bindungen",
         "description": "Link Magie Offensiv"
     },
     "smlos": {
-        "name": "Wurzelmagie der Krankheit",
-        "p": "Magie Bindung Offensive Krankheit",
+        "name": "Krankheitsbindung",
+        "p": "Krankheitsbindungen",
         "description": "Link Magie Offensiv Krankheit"
     },
     "smlosm": {
-        "name": "Wurzelmagie des Wahnsinns",
-        "p": "Magie Bindung Offensive Krankheit - Wahnsinn",
+        "name": "Bindung des Wahnsinns",
+        "p": "Bindungen des Wahnsinns",
         "description": "Link Magie Offensiv Krankheit - Wahnsinn"
     },
     "smloss": {
-        "name": "Wurzelmagie der Verlangsamung",
-        "p": "Magie Bindung Offensive Krankheit - Geschwindigkeit Debuff",
+        "name": "Bindung der Verlangsamung",
+        "p": "Bindungen der Verlangsamung",
         "description": "Link Magie Offensiv Krankheit - Geschwindigkeits Debuff"
     },
     "smlosr": {
-        "name": "Wurzelmagie der Widerstandsverlustes",
-        "p": "Magie Bindung Offensive Krankheit - Widerstand Debuff",
+        "name": "Bindung des Widerstandsverlustes",
+        "p": "Bindungen des Widerstandsverlustes",
         "description": "Link Magie Offensiv Krankheit - Widerstands Debuff"
     },
     "smlosk": {
-        "name": "Wurzelmagie des Vergessens",
-        "p": "Magie Bindung Offensive Krankheit - Fertigkeit Debuff",
+        "name": "Bindung des Vergessens",
+        "p": "Bindungen des Vergessens",
         "description": "Link Magie Offensiv Krankheit - Fertigkeiten Debuff"
     },
     "smloc": {
-        "name": "Wurzelmagie des Fluches",
-        "p": "Magie Bindung Offensive Fluch",
+        "name": "Bindung des Fluchs",
+        "p": "Bindungen des Fluchs",
         "description": "Link Magie Offensiv Fluch"
     },
     "smloci": {
-        "name": "Wurzelmagie der Unfähigkeit",
-        "p": "Magie Bindung Offensive Fluch - Unfähigkeits",
+        "name": "Bindung der Unfähigkeit",
+        "p": "Bindungen der Unfähigkeit",
         "description": "Link Magie Offensiv Fluch - Unfähigkeit"
     },
     "smlocm": {
-        "name": "Wurzelmagie der mentalen Störung",
-        "p": "Magie Bindung Offensive Fluch - Mentale Störungs",
+        "name": "Bindung der mentalen Störung",
+        "p": "Bindungen der mentalen Störung",
         "description": "Link Magie Offensiv Fluch - Mentale Störung"
     },
     "smlocs": {
-        "name": "Wurzelmagie des Missgeschicks",
-        "p": "Magie Bindung Offensive Fluch - Missgeschicks",
+        "name": "Bindung des Missgeschicks",
+        "p": "Bindungen des Missgeschicks",
         "description": "Link Magie Offensiv Fluch - Missgeschick"
     },
     "smloch": {
-        "name": "Wurzelmagie des Hasses",
-        "p": "Magie Bindung Offensive Fluch - Hass",
+        "name": "Bindung des Hasses",
+        "p": "Bindungen des Hasses",
         "description": "Link Magie Offensiv Fluch - Hass"
     },
     "smlod": {
-        "name": "Wurzelmagie des Blutes",
-        "p": "Magie Bindung Offensive Schaden",
+        "name": "körperliche Bindung",
+        "p": "körperliche Bindungen",
         "description": "Link Magie Offensiv Schaden"
     },
     "smlodp": {
-        "name": "Wurzelmagie der Durchbohrung",
-        "p": "Magie Bindung Offensive Schaden - Durchbohrende",
+        "name": "Bindung der Durchbohrung",
+        "p": "Bindungen der Durchbohrung",
         "description": "Link Magie Offensiv Schaden - Durchbohrende"
     },
     "smlodb": {
-        "name": "Wurzelmagie der Zertrümmerung",
-        "p": "Magic Link Offensive Damage - Smashing",
+        "name": "Bindung der Zertrümmerung",
+        "p": "Bindungen der Zertrümmerung",
         "description": "Magic link Offensiv Schaden - Überlegenheit"
     },
     "smlods": {
-        "name": "Wurzelmagie des Schnitts",
-        "p": "Magie Bindung Offensive Schaden - Schneidende",
+        "name": "Bindung des Schnittes",
+        "p": "Bindungen des Schnittes",
         "description": "Link Magie Offensiv Schaden - Schneidende"
     },
     "smloe": {
-        "name": "Wurzelmagie der Elemente",
-        "p": "Magie Bindung Offensive Special Schaden",
+        "name": "Elementarbindung",
+        "p": "Elementarbindungen",
         "description": "Link Magie Offensiv Spezial Schaden"
     },
     "smloec": {
-        "name": "Wurzelmagie der Kälte",
-        "p": "Magie Bindung Offensive Special Schaden - Kälte",
+        "name": "Kältebindung",
+        "p": "Kältebindungen",
         "description": "Link Magie Offensiv Spezial Schaden - Kälte"
     },
     "smloea": {
-        "name": "Wurzelmagie der Säure",
-        "p": "Magie Bindung Offensive Special Schaden - Säure",
+        "name": "Säurebindung",
+        "p": "Säurebindungen",
         "description": "Link Magie Offensiv Spezial Schaden - Säure"
     },
     "smloer": {
-        "name": "Wurzelmagie der Verrottung",
-        "p": "Magie Bindung Offensive Special Schaden - Verrottungs",
+        "name": "Bindung der Verrottung",
+        "p": "Bindungen der Verrottung",
         "description": "Link Magie Offensiv Spezial Schaden - Verrottung"
     },
     "smloef": {
-        "name": "Wurzelmagie des Feuers",
-        "p": "Magie Bindung Offensive Special Schaden - Feuer",
+        "name": "Feuerbindung",
+        "p": "Feuerbindungen",
         "description": "Link Magie Offensiv Spezial Schaden - Feuer"
     },
     "smloes": {
-        "name": "Wurzelmagie der Schockwellen",
-        "p": "Magie Bindung Offensive Special Schaden - Schockwellen",
+        "name": "Schockwellenbindung",
+        "p": "Schockwellenbindungen",
         "description": "Link Magie Offensiv Spezial Schaden - Schockwelle"
     },
     "smloep": {
-        "name": "Wurzelmagie des Giftes",
-        "p": "Magie Bindung Offensive Special Schaden - Gift",
+        "name": "Giftbindung",
+        "p": "Giftbindungen",
         "description": "Link Magie Offensiv Spezial Schaden - Gift"
     },
     "smloee": {
-        "name": "Wurzelmagie der Elektrizität",
-        "p": "Magie Bindung Offensive Special Schaden - Elektrischer",
+        "name": "Elektrobindung",
+        "p": "Elektrobindungen",
         "description": "Link Magie Offensiv Spezial Schaden - Elektro"
     },
     "smlc": {
-        "name": "Heilende Wurzelmagie",
-        "p": "Magie Bindung Heilend",
+        "name": "Heilende Bindung",
+        "p": "Heilende Bindungen",
         "description": "Link Magie Heilend"
     },
     "smlch": {
-        "name": "Wurzelmagie der Heilung",
-        "p": "Magie Bindung Heilend Heilt",
+        "name": "Heilbindung",
+        "p": "Heilbindungen",
         "description": "Link Magie Heilend Heilt"
     },
     "smlchp": {
-        "name": "Wurzelmagie der Hp Heilung",
-        "p": "Magie Bindung Heilend Heilt - Hp",
+        "name": "Lebens-Heilbindung",
+        "p": "Lebens-Heilbindungen",
         "description": "Link Magie Heilend Heilt - HP"
     },
     "smlcht": {
-        "name": "Wurzelmagie der Ausdauer Heilung",
-        "p": "Magie Bindung Heilend Heilt - Ausdauer",
+        "name": "Ausdauer-Heilbindung",
+        "p": "Ausdauer-Heilbindungen",
         "description": "Link Magie Heilend Heilt - Ausdauer"
     },
     "smlcha": {
-        "name": "Wurzelmagie der Sap Heilung",
-        "p": "Magie Bindung Heilend Heilt - Sap",
+        "name": "Sap-Heilbindung",
+        "p": "Sap-Heilbindungen",
         "description": "Link Magie Heilend Heilt - Sap"
     },
     "smlchc": {
-        "name": "Wurzelmagie der Fokus Heilung",
-        "p": "Magie Bindung Heilend Heilt - Fokus",
+        "name": "Fokus-Heilbindung",
+        "p": "Fokus-Heilbindungen",
         "description": "Link Magie Heilend Heilt - Fokus"
     },
     "sma": {
-        "name": "Verzauberung",
-        "p": "Magie Autonome",
+        "name": "Unabhängige Magie",
+        "p": "Unabhängige Magie",
         "description": "Autonome Magie"
     },
     "smae": {
-        "name": "Erweiterte Verzauberung",
-        "p": "Magie Verzauberung",
+        "name": "Magie der Verzauberung",
+        "p": "Magie der Verzauberung",
         "description": "Verzauberungs Magie"
     },
     "smaes": {
-        "name": "Spruch Verzauberung",
-        "p": "Magie Verzauberung - Zauber",
+        "name": "Verzauberung des Schicksals",
+        "p": "Verzauberungen des Schicksals",
         "description": "Magie Verzauberung - Spruch"
     },
     "smaeb": {
-        "name": "Bonus Verzauberung",
-        "p": "Magie Verzauberung - Bonus",
+        "name": "Zauberbonus",
+        "p": "Zauberboni",
         "description": "Magie Verzauberung - Bonus"
     },
     "smap": {
         "name": "Zaubertrankmagie",
-        "p": "Magie Potion Making",
+        "p": "Zaubertrankmagie",
         "description": "Magie Zaubertrankherstellung"
     },
     "sd": {
         "name": "Verteidigung",
-        "p": "Verteidigung",
+        "p": "Verteidigungen",
         "description": "Verteidigung"
     },
     "sda": {
-        "name": "Rüstungsverteidigung",
-        "p": "Rüstungsverteidigung",
+        "name": "Rüstungen tragen",
+        "p": "Rüstungen tragen",
         "description": "Rüstung Verteidigung"
     },
     "sdal": {
-        "name": "Leichte Rüstungsverteidigung",
-        "p": "Leichte Rüstungsverteidigung",
+        "name": "Leichte Rüstungen tragen",
+        "p": "Leichte Rüstungen tragen",
         "description": "Leichte Rüstung Verteidigung"
     },
     "sdalf": {
-        "name": "Leichte Rüstungsverteidigung - Fyros",
-        "p": "Leichte Rüstungsverteidigung - Fyros",
+        "name": "Leichte Fyros-Rüstungen tragen",
+        "p": "Leichte Fyros-Rüstungen tragen",
         "description": "Leichte Rüstung Verteidigung - Fyros"
     },
     "sdalfa": {
-        "name": "Verbesserte Leichte Rüstungsverteidigung - Fyros",
-        "p": "Verbesserte Leichte Rüstungsverteidigung - Fyros",
+        "name": "Experte im Tragen leichter Fyros-Rüstungen",
+        "p": "Experten im Tragen leichter Fyros-Rüstungen",
         "description": "Verbesserte Leichte Rüstung Verteidigung - Fyros"
     },
     "sdalfae": {
-        "name": "Meisterliche Leichte Rüstungsverteidigung - Fyros",
-        "p": "Meisterliche Leichte Rüstungsverteidigung - Fyros",
+        "name": "Meister im Tragen leichter Fyros-Rüstungen",
+        "p": "Meister im Tragen leichter Fyros-Rüstungen",
         "description": "Meisterliche Leichte Rüstung Verteidigung - Fyros"
     },
     "sdalm": {
-        "name": "Leichte Rüstungsverteidigung - Matis",
-        "p": "Leichte Rüstungsverteidigung - Matis",
+        "name": "Leichte Matis-Rüstungen tragen",
+        "p": "Leichte Matis-Rüstungen tragen",
         "description": "Leichte Rüstung Verteidigung - Matis"
     },
     "sdalma": {
-        "name": "Verbesserte Leichte Rüstungsverteidigung - Matis",
-        "p": "Verbesserte Leichte Rüstungsverteidigung - Matis",
+        "name": "Experte im Tragen leichter Matis-Rüstungen",
+        "p": "Experten im Tragen leichter Matis-Rüstungen",
         "description": "Verbesserte Leichte Rüstung Verteidigung - Matis"
     },
     "sdalmae": {
-        "name": "Meisterliche Leichte Rüstungsverteidigung - Matis",
-        "p": "Meisterliche Leichte Rüstungsverteidigung - Matis",
+        "name": "Meister im Tragen leichter Matis-Rüstungen",
+        "p": "Meister im Tragen leichter Matis-Rüstungen",
         "description": "Meisterliche Leichte Rüstung Verteidigung - Matis"
     },
     "sdalt": {
-        "name": "Leichte Rüstungsverteidigung - Tryker",
-        "p": "Leichte Rüstungsverteidigung - Tryker",
+        "name": "Leichte Tryker-Rüstungen tragen",
+        "p": "Leichte Tryker-Rüstungen tragen",
         "description": "Leichte Rüstung Verteidigung - Tryker"
     },
     "sdalta": {
-        "name": "Verbesserte Leichte Rüstungsverteidigung - Tryker",
-        "p": "Verbesserte Leichte Rüstungsverteidigung - Tryker",
+        "name": "Experte im Tragen leichter Tryker-Rüstungen",
+        "p": "Experten im Tragen leichter Tryker-Rüstungen",
         "description": "Verbesserte Leichte Rüstung Verteidigung - Tryker"
     },
     "sdaltae": {
-        "name": "Meisterliche Leichte Rüstungsverteidigung - Tryker",
-        "p": "Meisterliche Leichte Rüstungsverteidigung - Tryker",
+        "name": "Meister im Tragen leichter Tryker-Rüstungen",
+        "p": "Meister im Tragen leichter Tryker-Rüstungen",
         "description": "Meisterliche Leichte Rüstung Verteidigung - Tryker"
     },
     "sdalz": {
-        "name": "Leichte Rüstungsverteidigung - Zoraï",
-        "p": "Leichte Rüstungsverteidigung - Zoraï",
+        "name": "Leichte Zoraï-Rüstungen tragen",
+        "p": "Leichte Zoraï-Rüstungen tragen",
         "description": "Leichte Rüstung Verteidigung - Zoraï"
     },
     "sdalza": {
-        "name": "Verbesserte Leichte Rüstungsverteidigung - Zoraï",
-        "p": "Verbesserte Leichte Rüstungsverteidigung - Zoraï",
+        "name": "Experte im Tragen leichter Zoraï-Rüstungen",
+        "p": "Experten im Tragen leichter Zoraï-Rüstungen",
         "description": "Verbesserte Leichte Rüstung Verteidigung - Zoraï"
     },
     "sdalzae": {
-        "name": "Meisterliche Leichte Rüstungsverteidigung - Zoraï",
-        "p": "Meisterliche Leichte Rüstungsverteidigung - Zoraï",
+        "name": "Meister im Tragen leichter Zoraï-Rüstungen",
+        "p": "Meister im Tragen leichter Zoraï-Rüstungen",
         "description": "Meisterliche Leichte Rüstung Verteidigung - Zoraï"
     },
     "sdam": {
-        "name": "Mittlere Rüstungsverteidigung",
-        "p": "Mittlere Rüstungsverteidigung",
+        "name": "Mittlere Rüstungen tragen",
+        "p": "Mittlere Rüstungen tragen",
         "description": "Mittlere Rüstung Verteidigung"
     },
     "sdamf": {
-        "name": "Mittlere Rüstungsverteidigung - Fyros",
-        "p": "Mittlere Rüstungsverteidigung - Fyros",
+        "name": "Mittlere Fyros-Rüstungen tragen",
+        "p": "Mittlere Fyros-Rüstungen tragen",
         "description": "Mittlere Rüstung Verteidigung - Fyros"
     },
     "sdamfa": {
-        "name": "Verbesserte Mittlere Rüstungsverteidigung - Fyros",
-        "p": "Verbesserte Mittlere Rüstungsverteidigung - Fyros",
+        "name": "Experte im Tragen mittlerer Fyros-Rüstungen",
+        "p": "Experten im Tragen mittlerer Fyros-Rüstungen",
         "description": "Verbesserte Mittlere Rüstung Verteidigung - Fyros"
     },
     "sdamfae": {
-        "name": "Meisterliche Mittlere Rüstungsverteidigung - Fyros",
-        "p": "Meisterliche Mittlere Rüstungsverteidigung - Fyros",
+        "name": "Meister im Tragen mittlerer Fyros-Rüstungen",
+        "p": "Meister im Tragen mittlerer Fyros-Rüstungen",
         "description": "Meisterliche Mittlere Rüstung Verteidigung - Fyros"
     },
     "sdamm": {
-        "name": "Mittlere Rüstungsverteidigung - Matis",
-        "p": "Mittlere Rüstungsverteidigung - Matis",
+        "name": "Mittlere Matis-Rüstungen tragen",
+        "p": "Mittlere Matis-Rüstungen tragen",
         "description": "Mittlere Rüstung Verteidigung - Matis"
     },
     "sdamma": {
-        "name": "Verbesserte Mittlere Rüstungsverteidigung - Matis",
-        "p": "Verbesserte Mittlere Rüstungsverteidigung - Matis",
+        "name": "Experte im Tragen mittlerer Matis-Rüstungen",
+        "p": "Experten im Tragen mittlerer Matis-Rüstungen",
         "description": "Verbesserte Mittlere Rüstung Verteidigung - Matis"
     },
     "sdammae": {
-        "name": "Meisterliche Mittlere Rüstungsverteidigung - Matis",
-        "p": "Meisterliche Mittlere Rüstungsverteidigung - Matis",
+        "name": "Meister im Tragen mittlerer Matis-Rüstungen",
+        "p": "Meister im Tragen mittlerer Matis-Rüstungen",
         "description": "Meisterliche Mittlere Rüstung Verteidigung - Matis"
     },
     "sdamt": {
-        "name": "Mittlere Rüstungsverteidigung - Tryker",
-        "p": "Mittlere Rüstungsverteidigung - Tryker",
+        "name": "Mittlere Tryker-Rüstungen tragen",
+        "p": "Mittlere Tryker-Rüstungen tragen",
         "description": "Mittlere Rüstung Verteidigung - Tryker"
     },
     "sdamta": {
-        "name": "Verbesserte Mittlere Rüstungsverteidigung - Tryker",
-        "p": "Verbesserte Mittlere Rüstungsverteidigung - Tryker",
+        "name": "Experte im Tragen mittlerer Tryker-Rüstungen",
+        "p": "Experten im Tragen mittlerer Tryker-Rüstungen",
         "description": "Verbesserte Mittlere Rüstung Verteidigung - Tryker"
     },
     "sdamtae": {
-        "name": "Meisterliche Mittlere Rüstungsverteidigung - Tryker",
-        "p": "Meisterliche Mittlere Rüstungsverteidigung - Tryker",
+        "name": "Meister im Tragen mittlerer Tryker-Rüstungen",
+        "p": "Meister im Tragen mittlerer Tryker-Rüstungen",
         "description": "Meisterliche Mittlere Rüstung Verteidigung - Tryker"
     },
     "sdamz": {
-        "name": "Mittlere Rüstungsverteidigung - Zoraï",
-        "p": "Mittlere Rüstungsverteidigung - Zoraï",
+        "name": "Mittlere Zoraï-Rüstungen tragen",
+        "p": "Mittlere Zoraï-Rüstungen tragen",
         "description": "Mittlere Rüstung Verteidigung - Zoraï"
     },
     "sdamza": {
-        "name": "Verbesserte Mittlere Rüstungsverteidigung - Zoraï",
-        "p": "Verbesserte Mittlere Rüstungsverteidigung - Zoraï",
+        "name": "Experte im Tragen mittlerer Zoraï-Rüstungen",
+        "p": "Experten im Tragen mittlerer Zoraï-Rüstungen",
         "description": "Verbesserte Mittlere Rüstung Verteidigung - Zoraï"
     },
     "sdamzae": {
-        "name": "Meisterliche Mittlere Rüstungsverteidigung - Zoraï",
-        "p": "Meisterliche Mittlere Rüstungsverteidigung - Zoraï",
+        "name": "Meister im Tragen mittlerer Zoraï-Rüstungen",
+        "p": "Meister im Tragen mittlerer Zoraï-Rüstungen",
         "description": "Meisterliche Mittlere Rüstung Verteidigung - Zoraï"
     },
     "sdah": {
-        "name": "Schwere Rüstungsverteidigung",
-        "p": "Schwere Rüstungsverteidigung",
+        "name": "Schwere Rüstungen tragen",
+        "p": "Schwere Rüstungen tragen",
         "description": "Schwere Rüstung Verteidigung"
     },
     "sdahf": {
-        "name": "Schwere Rüstungsverteidigung - Fyros",
-        "p": "Schwere Rüstungsverteidigung - Fyros",
+        "name": "Schwere Fyros-Rüstungen tragen",
+        "p": "Schwere Fyros-Rüstungen tragen",
         "description": "Schwere Rüstung Verteidigung - Fyros"
     },
     "sdahfa": {
-        "name": "Verbesserte Schwere Rüstungsverteidigung - Fyros",
-        "p": "Verbesserte Schwere Rüstungsverteidigung - Fyros",
+        "name": "Experte im Tragen schwerer Fyros-Rüstungen",
+        "p": "Experten im Tragen schwerer Fyros-Rüstungen",
         "description": "Verbesserte Schwere Rüstung Verteidigung - Fyros"
     },
     "sdahfae": {
-        "name": "Meisterliche Schwere Rüstungsverteidigung - Fyros",
-        "p": "Meisterliche Schwere Rüstungsverteidigung - Fyros",
+        "name": "Meister im Tragen schwerer Fyros-Rüstungen",
+        "p": "Meister im Tragen schwerer Fyros-Rüstungen",
         "description": "Meisterliche Schwere Rüstung Verteidigung - Fyros"
     },
     "sdahm": {
-        "name": "Schwere Rüstungsverteidigung - Matis",
-        "p": "Schwere Rüstungsverteidigung - Matis",
+        "name": "Schwere Matis-Rüstungen tragen",
+        "p": "Schwere Matis-Rüstungen tragen",
         "description": "Schwere Rüstung Verteidigung - Matis"
     },
     "sdahma": {
-        "name": "Verbesserte Schwere Rüstungsverteidigung - Matis",
-        "p": "Verbesserte Schwere Rüstungsverteidigung - Matis",
+        "name": "Experte im Tragen schwerer Matis-Rüstungen",
+        "p": "Experten im Tragen schwerer Matis-Rüstungen",
         "description": "Verbesserte Schwere Rüstung Verteidigung - Matis"
     },
     "sdahmae": {
-        "name": "Meisterliche Schwere Rüstungsverteidigung - Matis",
-        "p": "Meisterliche Schwere Rüstungsverteidigung - Matis",
+        "name": "Meister im Tragen schwerer Matis-Rüstungen",
+        "p": "Meister im Tragen schwerer Matis-Rüstungen",
         "description": "Meisterliche Schwere Rüstung Verteidigung - Matis"
     },
     "sdaht": {
-        "name": "Schwere Rüstungsverteidigung - Tryker",
-        "p": "Schwere Rüstungsverteidigung - Tryker",
+        "name": "Schwere Tryker-Rüstungen tragen",
+        "p": "Schwere Tryker-Rüstungen tragen",
         "description": "Schwere Rüstung Verteidigung - Tryker"
     },
     "sdahta": {
-        "name": "Verbesserte Schwere Rüstungsverteidigung - Tryker",
-        "p": "Verbesserte Schwere Rüstungsverteidigung - Tryker",
+        "name": "Experte im Tragen schwerer Tryker-Rüstungen",
+        "p": "Experten im Tragen schwerer Tryker-Rüstungen",
         "description": "Verbesserte Schwere Rüstung Verteidigung - Tryker"
     },
     "sdahtae": {
-        "name": "Meisterliche Schwere Rüstungsverteidigung - Tryker",
-        "p": "Meisterliche Schwere Rüstungsverteidigung - Tryker",
+        "name": "Meister im Tragen schwerer Tryker-Rüstungen",
+        "p": "Meister im Tragen schwerer Tryker-Rüstungen",
         "description": "Meisterliche Schwere Rüstung Verteidigung - Tryker"
     },
     "sdahz": {
-        "name": "Schwere Rüstungsverteidigung - Zoraï",
-        "p": "Schwere Rüstungsverteidigung - Zoraï",
+        "name": "Schwere Zoraï-Rüstungen tragen",
+        "p": "Schwere Zoraï-Rüstungen tragen",
         "description": "Schwere Rüstung Verteidigung - Zoraï"
     },
     "sdahza": {
-        "name": "Verbesserte Schwere Rüstungsverteidigung - Zoraï",
-        "p": "Verbesserte Schwere Rüstungsverteidigung - Zoraï",
+        "name": "Experte im Tragen schwerer Zoraï-Rüstungen",
+        "p": "Experten im Tragen schwerer Zoraï-Rüstungen",
         "description": "Verbesserte Schwere Rüstung Verteidigung - Zoraï"
     },
     "sdahzae": {
-        "name": "Meisterliche Schwere Rüstungsverteidigung - Zoraï",
-        "p": "Meisterliche Schwere Rüstungsverteidigung - Zoraï",
+        "name": "Meister im Tragen schwerer Zoraï-Rüstungen",
+        "p": "Meister im Tragen schwerer Zoraï-Rüstungen",
         "description": "Meisterliche Schwere Rüstung Verteidigung - Zoraï"
     },
     "sds": {
-        "name": "Schildverteidigung",
-        "p": "Schild Verteidigung",
+        "name": "Schildhandhabung",
+        "p": "Schildhandhabungen",
         "description": "Schild Verteidigung"
     },
     "sdsb": {
-        "name": "Beschützerverteidigung ",
-        "p": "Beschützerverteidigung ",
+        "name": "Beschützerhandhabung",
+        "p": "Beschützerhandhabungen",
         "description": "Beschützerverteidigung "
     },
     "sdsbf": {
-        "name": "Beschützerverteidigung - Fyros",
-        "p": "Beschützerverteidigung - Fyros",
+        "name": "Fyros-Beschützerhandhabung",
+        "p": "Fyros-Beschützerhandhabungen",
         "description": "Beschützerverteidigung - Fyros"
     },
     "sdsbfa": {
-        "name": "Verbesserte Beschützerverteidigung - Fyros",
-        "p": "Verbesserte Beschützerverteidigung - Fyros",
+        "name": "Experte in der Handhabung von Fyros-Beschützern",
+        "p": "Experten in der Handhabung von Fyros-Beschützern",
         "description": "Verbesserte Beschützerverteidigung - Fyros"
     },
     "sdsbfae": {
-        "name": "Meisterliche Beschützerverteidigung - Fyros",
-        "p": "Meisterliche Beschützerverteidigung - Fyros",
+        "name": "Meister in der Handhabung von Fyros-Beschützern",
+        "p": "Meister in der Handhabung von Fyros-Beschützern",
         "description": "Meisterliche Beschützerverteidigung - Fyros"
     },
     "sdsbm": {
-        "name": "Beschützerverteidigung - Matis",
-        "p": "Beschützerverteidigung - Matis",
+        "name": "Matis-Beschützerhandhabung",
+        "p": "Matis-Beschützerhandhabungen",
         "description": "Beschützerverteidigung - Matis"
     },
     "sdsbma": {
-        "name": "Verbesserte Beschützerverteidigung - Matis",
-        "p": "Verbesserte Beschützerverteidigung - Matis",
+        "name": "Experte in der Handhabung von Matis-Beschützern",
+        "p": "Experten in der Handhabung von Matis-Beschützern",
         "description": "Verbesserte Beschützerverteidigung - Matis"
     },
     "sdsbmae": {
-        "name": "Meisterliche Beschützerverteidigung - Matis",
-        "p": "Meisterliche Beschützerverteidigung - Matis",
+        "name": "Meister in der Handhabung von Matis-Beschützern",
+        "p": "Meister in der Handhabung von Matis-Beschützern",
         "description": "Meisterliche Beschützerverteidigung - Matis"
     },
     "sdsbt": {
-        "name": "Beschützerverteidigung - Tryker",
-        "p": "Beschützerverteidigung - Tryker",
+        "name": "Tryker-Beschützerhandhabung",
+        "p": "Tryker-Beschützerhandhabungen",
         "description": "Beschützerverteidigung - Tryker"
     },
     "sdsbta": {
-        "name": "Verbesserte Beschützerverteidigung - Tryker",
-        "p": "Verbesserte Beschützerverteidigung - Tryker",
+        "name": "Experte in der Handhabung von Tryker-Beschützern",
+        "p": "Experten in der Handhabung von Tryker-Beschützern",
         "description": "Verbesserte Beschützerverteidigung - Tryker"
     },
     "sdsbtae": {
-        "name": "Meisterliche Beschützerverteidigung - Tryker",
-        "p": "Meisterliche Beschützerverteidigung - Tryker",
+        "name": "Meister in der Handhabung von Tryker-Beschützern",
+        "p": "Meister in der Handhabung von Tryker-Beschützern",
         "description": "Meisterliche Beschützerverteidigung - Tryker"
     },
     "sdsbz": {
-        "name": "Beschützerverteidigung - Zoraï",
-        "p": "Beschützerverteidigung - Zoraï",
+        "name": "Zoraï-Beschützerhandhabung",
+        "p": "Zoraï-Beschützerhandhabungen",
         "description": "Beschützerverteidigung - Zoraï"
     },
     "sdsbza": {
-        "name": "Verbesserte Beschützerverteidigung - Zoraï",
-        "p": "Verbesserte Beschützerverteidigung - Zoraï",
+        "name": "Experte in der Handhabung von Zoraï-Beschützern",
+        "p": "Experten in der Handhabung von Zoraï-Beschützern",
         "description": "Verbesserte Beschützerverteidigung - Zoraï"
     },
     "sdsbzae": {
-        "name": "Meisterliche Beschützerverteidigung - Zoraï",
-        "p": "Meisterliche Beschützerverteidigung - Zoraï",
+        "name": "Meister in der Handhabung von Zoraï-Beschützern",
+        "p": "Meister in der Handhabung von Zoraï-Beschützern",
         "description": "Meisterliche Beschützerverteidigung - Zoraï"
     },
     "sdss": {
-        "name": "Grossschildverteidigung",
-        "p": "Grossschildverteidigung",
-        "description": "Schild Grosse Schild Verteidigung"
+        "name": "Großschildhandhabung",
+        "p": "Großschildhandhabungen",
+        "description": "Schild Große Schild Verteidigung"
     },
     "sdssf": {
-        "name": "Grossschildverteidigung - Fyros",
-        "p": "Grossschildverteidigung - Fyros",
-        "description": "Schild Grosse Schild Verteidigung - Fyros"
+        "name": "Fyros-Großschildhandhabung",
+        "p": "Fyros-Großschildhandhabungen",
+        "description": "Schild Große Schild Verteidigung - Fyros"
     },
     "sdssfa": {
-        "name": "Verbesserte Grossschildverteidigung - Fyros",
-        "p": "Verbesserte Grossschildverteidigung - Fyros",
-        "description": "Verbesserte Schild Grosse Schild Verteidigung - Fyros"
+        "name": "Experte in der Handhabung von Fyros-Großschilden",
+        "p": "Experte in der Handhabung von Fyros-Großschilden",
+        "description": "Verbesserte Schild Große Schild Verteidigung - Fyros"
     },
     "sdssfae": {
-        "name": "Meisterliche Grossschildverteidigung - Fyros",
-        "p": "Meisterliche Grossschildverteidigung - Fyros",
-        "description": "Meisterliche Schild Grosse Schild Verteidigung - Fyros"
+        "name": "Meister in der Handhabung von Fyros-Großschilden",
+        "p": "Meister in der Handhabung von Fyros-Großschilden",
+        "description": "Meisterliche Schild Große Schild Verteidigung - Fyros"
     },
     "sdssm": {
-        "name": "Grossschildverteidigung - Matis",
-        "p": "Grossschildverteidigung - Matis",
-        "description": "Schild Grosse Schild Verteidigung - Matis"
+        "name": "Matis-Großschildhandhabung",
+        "p": "Matis-Großschildhandhabungen",
+        "description": "Schild Große Schild Verteidigung - Matis"
     },
     "sdssma": {
-        "name": "Verbesserte Grossschildverteidigung - Matis",
-        "p": "Verbesserte Grossschildverteidigung - Matis",
-        "description": "Verbesserte Schild Grosse Schild Verteidigung - Matis"
+        "name": "Experte in der Handhabung von Matis-Großschilden",
+        "p": "Experte in der Handhabung von Matis-Großschilden",
+        "description": "Verbesserte Schild Große Schild Verteidigung - Matis"
     },
     "sdssmae": {
-        "name": "Meisterliche Grossschildverteidigung - Matis",
-        "p": "Meisterliche Grossschildverteidigung - Matis",
-        "description": "Meisterliche Schild Grosse Schild Verteidigung - Matis"
+        "name": "Meister in der Handhabung von Matis-Großschilden",
+        "p": "Meister in der Handhabung von Matis-Großschilden",
+        "description": "Meisterliche Schild Große Schild Verteidigung - Matis"
     },
     "sdsst": {
-        "name": "Grossschildverteidigung - Tryker",
-        "p": "Grossschildverteidigung - Tryker",
-        "description": "Schild Grosse Schild Verteidigung - Tryker"
+        "name": "Tryker-Großschildhandhabung",
+        "p": "Tryker-Großschildhandhabungen",
+        "description": "Schild Große Schild Verteidigung - Tryker"
     },
     "sdssta": {
-        "name": "Verbesserte Grossschildverteidigung - Tryker",
-        "p": "Verbesserte Grossschildverteidigung - Tryker",
-        "description": "Verbesserte Schild Grosse Schild Verteidigung - Tryker"
+        "name": "Experte in der Handhabung von Tryker-Großschilden",
+        "p": "Experte in der Handhabung von Tryker-Großschilden",
+        "description": "Verbesserte Schild Große Schild Verteidigung - Tryker"
     },
     "sdsstae": {
-        "name": "Meisterliche Grossschildverteidigung - Tryker",
-        "p": "Meisterliche Grossschildverteidigung - Tryker",
-        "description": "Meisterliche Schild Grosse Schild Verteidigung - Tryker"
+        "name": "Meister in der Handhabung von Tryker-Großschilden",
+        "p": "Meister in der Handhabung von Tryker-Großschilden",
+        "description": "Meisterliche Schild Große Schild Verteidigung - Tryker"
     },
     "sdssz": {
-        "name": "Grossschildverteidigung - Zoraï",
-        "p": "Grossschildverteidigung - Zoraï",
-        "description": "Schild Grosse Schild Verteidigung - Zoraï"
+        "name": "Zoraï-Großschildhandhabung",
+        "p": "Zoraï-Großschildhandhabungen",
+        "description": "Schild Große Schild Verteidigung - Zoraï"
     },
     "sdssza": {
-        "name": "Verbesserte Grossschildverteidigung - Zoraï",
-        "p": "Verbesserte Grossschildverteidigung - Zoraï",
-        "description": "Verbesserte Schild Grosse Schild Verteidigung - Zoraï"
+        "name": "Experte in der Handhabung von Zoraï-Großschilden",
+        "p": "Experte in der Handhabung von Zoraï-Großschilden",
+        "description": "Verbesserte Schild Große Schild Verteidigung - Zoraï"
     },
     "sdsszae": {
-        "name": "Meisterliche Grossschildverteidigung - Zoraï",
-        "p": "Meisterliche Grossschildverteidigung - Zoraï",
-        "description": "Meisterliche Schild Grosse Schild Verteidigung - Zoraï"
+        "name": "Meister in der Handhabung von Zoraï-Großschilden",
+        "p": "Meister in der Handhabung von Zoraï-Großschilden",
+        "description": "Meisterliche Schild Große Schild Verteidigung - Zoraï"
     },
     "sdd": {
-        "name": "Ausweichbeherrschung",
-        "p": "Verteidigung Ausweichbeherrschung",
+        "name": "Ausweichen",
+        "p": "Ausweichen",
         "description": "Verteidigung Ausweichbeherrschung"
     },
     "sdda": {
-        "name": "Standard Ausweichbeherrschung",
-        "p": "Standard Verteidigung Ausweichbeherrschung",
+        "name": "schnell Ausweichen",
+        "p": "schnell Ausweichen",
         "description": "Verbesserte Verteidigung Ausweichbeherrschung"
     },
     "sddat": {
-        "name": "Verbesserte Ausweichbeherrschung",
-        "p": "Verbesserte Verteidigung Ausweichbeherrschung",
+        "name": "instinktiv Ausweichen",
+        "p": "instinktiv Ausweichen",
         "description": "Technisch Verbesserte Verteidigung Ausweichbeherrschung"
     },
     "sddatm": {
-        "name": "Meisterliche Ausweichbeherrschung",
-        "p": "Meisterliche Verteidigung Ausweichbeherrschung",
+        "name": "Experte im Ausweichen",
+        "p": "Experten im Ausweichen",
         "description": "Perfekte Verteidigung Ausweichbeherrschung"
     },
     "sddatme": {
-        "name": "Perfekte Ausweichbeherrschung",
-        "p": "Perfekte Verteidigung Ausweichbeherrschung",
+        "name": "Meister im Ausweichen",
+        "p": "Meister im Ausweichen",
         "description": "Meisterliche Verbesserte Verteidigung Ausweichbeherrschung"
     },
     "uknown": {
         "name": "Unbekannte Fertigkeit",
-        "p": "Unbekannte Fertigkeit",
+        "p": "Unbekannte Fertigkeiten",
         "description": "Unbekannte Fertigkeit"
     },
     "unknown": {
         "name": "Unbekannte Fertigkeit",
-        "p": "Unbekannte Fertigkeit",
+        "p": "Unbekannte Fertigkeiten",
         "description": "Unbekannte Fertigkeit"
     },
     "sh": {
         "name": "Rohstoffgewinnung",
-        "p": "Ernte",
+        "p": "Rohstoffgewinnungen",
         "description": "Ernte"
     },
     "shf": {
         "name": "Erweiterte Rohstoffgewinnung",
-        "p": "Rohstoffgewinnung",
+        "p": "Erweiterte Rohstoffgewinnungen",
         "description": ""
     },
     "shff": {
         "name": "Wald-Rohstoffgewinnung",
-        "p": "Wald Rohstoffgewinnung",
+        "p": "Wald-Rohstoffgewinnungen",
         "description": ""
     },
     "shffa": {
-        "name": "Verbesserte Wald-Rohstoffgewinnung",
-        "p": "Verbesserte Wald Rohstoffgewinnung",
+        "name": "Fortgeschrittener in Wald-Rohstoffgewinnung",
+        "p": "Fortgeschrittene in Wald-Rohstoffgewinnung",
         "description": ""
     },
     "shffae": {
-        "name": "Meisterliche Wald-Rohstoffgewinnung",
-        "p": "Meisterliche Wald Rohstoffgewinnung",
+        "name": "Experte in Wald-Rohstoffgewinnung",
+        "p": "Experten in Wald-Rohstoffgewinnung",
         "description": ""
     },
     "shffaem": {
-        "name": "Perfekte Wald-Rohstoffgewinnung",
-        "p": "Perfekte Wald Rohstoffgewinnung",
+        "name": "Meister in Wald-Rohstoffgewinnung",
+        "p": "Meister in Wald-Rohstoffgewinnung",
         "description": ""
     },
     "shfd": {
         "name": "Wüsten-Rohstoffgewinnung",
-        "p": "Wüsten Rohstoffgewinnung",
+        "p": "Wüsten-Rohstoffgewinnungen",
         "description": ""
     },
     "shfda": {
-        "name": "Verbesserte Wüsten-Rohstoffgewinnung",
-        "p": "Verbesserte Wüsten Rohstoffgewinnung",
+        "name": "Fortgeschrittener in Wüsten-Rohstoffgewinnung",
+        "p": "Fortgeschrittene in Wüsten-Rohstoffgewinnung",
         "description": ""
     },
     "shfdae": {
-        "name": "Meisterliche Wüsten-Rohstoffgewinnung",
-        "p": "Meisterliche Wüsten Rohstoffgewinnung",
+        "name": "Experte in Wüsten-Rohstoffgewinnung",
+        "p": "Experten in Wüsten-Rohstoffgewinnung",
         "description": ""
     },
     "shfdaem": {
-        "name": "Perfekte Wüsten-Rohstoffgewinnung",
-        "p": "Perfekte Wüsten Rohstoffgewinnung",
+        "name": "Meister in Wüsten-Rohstoffgewinnung",
+        "p": "Meister in Wüsten-Rohstoffgewinnung",
         "description": ""
     },
     "shfj": {
         "name": "Dschungel-Rohstoffgewinnung",
-        "p": "Dschungel Rohstoffgewinnung",
+        "p": "Dschungel-Rohstoffgewinnungen",
         "description": ""
     },
     "shfja": {
-        "name": "Verbesserte Dschungel-Rohstoffgewinnung",
-        "p": "Verbesserte Dschungel Rohstoffgewinnung",
+        "name": "Fortgeschrittener in Dschungel-Rohstoffgewinnung",
+        "p": "Fortgeschrittene in Dschungel-Rohstoffgewinnung",
         "description": ""
     },
     "shfjae": {
-        "name": "Meisterliche Dschungel-Rohstoffgewinnung",
-        "p": "Meisterliche Dschungel Rohstoffgewinnung",
+        "name": "Experte in Dschungel-Rohstoffgewinnung",
+        "p": "Experten in Dschungel-Rohstoffgewinnung",
         "description": ""
     },
     "shfjaem": {
-        "name": "Perfekte Dschungel-Rohstoffgewinnung",
-        "p": "Perfekte Dschungel Rohstoffgewinnung",
+        "name": "Meister in Dschungel-Rohstoffgewinnung",
+        "p": "Meister in Dschungel-Rohstoffgewinnung",
         "description": ""
     },
     "shfl": {
         "name": "Seenland-Rohstoffgewinnung",
-        "p": "Seenland Rohstoffgewinnung",
+        "p": "Seenland-Rohstoffgewinnungen",
         "description": ""
     },
     "shfla": {
-        "name": "Verbesserte Seenland-Rohstoffgewinnung",
-        "p": "Verbesserte Seenland Rohstoffgewinnung",
+        "name": "Fortgeschrittener in Seenland-Rohstoffgewinnung",
+        "p": "Fortgeschrittene in Seenland-Rohstoffgewinnung",
         "description": ""
     },
     "shflae": {
-        "name": "Meisterliche Seenland-Rohstoffgewinnung",
-        "p": "Meisterliche Seenland Rohstoffgewinnung",
+        "name": "Experte in Seenland-Rohstoffgewinnung",
+        "p": "Experten in Seenland-Rohstoffgewinnung",
         "description": ""
     },
     "shflaem": {
-        "name": "Perfekte Seenland-Rohstoffgewinnung",
-        "p": "Perfekte Seenland Rohstoffgewinnung",
+        "name": "Meister in Seenland-Rohstoffgewinnung",
+        "p": "Meister in Seenland-Rohstoffgewinnung",
         "description": ""
     },
     "shfp": {
         "name": "Urwurzeln-Rohstoffgewinnung",
-        "p": "Urwurzeln Rohstoffgewinnung",
+        "p": "Urwurzeln-Rohstoffgewinnungen",
         "description": ""
     },
     "shfpa": {
-        "name": "Verbesserte Urwurzeln-Rohstoffgewinnung",
-        "p": "Verbesserte Urwurzeln Rohstoffgewinnung",
+        "name": "Fortgeschrittener in Urwurzeln-Rohstoffgewinnung",
+        "p": "Fortgeschrittene in Urwurzeln-Rohstoffgewinnung",
         "description": ""
     },
     "shfpae": {
-        "name": "Meisterliche Urwurzeln-Rohstoffgewinnung",
-        "p": "Meisterliche Urwurzeln Rohstoffgewinnung",
+        "name": "Experte in Urwurzeln-Rohstoffgewinnung",
+        "p": "Experten in Urwurzeln-Rohstoffgewinnung",
         "description": ""
     },
     "shfpaem": {
-        "name": "Perfekte Urwurzeln-Rohstoffgewinnung",
-        "p": "Meisterliche Urwurzeln Rohstoffgewinnung",
+        "name": "Meister in Urwurzeln-Rohstoffgewinnung",
+        "p": "Meister in Urwurzeln-Rohstoffgewinnung",
         "description": ""
     },
     "smtoeca": {
-        "name": "Entfesselte Kältemagie",
-        "p": "Verbesserte Magie Targeted Offensive Special Schaden - Kälte",
+        "name": "Fortgeschrittener in Kältemagie",
+        "p": "Fortgeschrittene in Kältemagie",
         "description": "Verbesserte Magie Targeted Offensive Spezial Schaden - Kälte"
     },
     "smtoeaa": {
-        "name": "Entfesselte Säuremagie",
-        "p": "Verbesserte Magie Targeted Offensive Special Schaden - Säure",
+        "name": "Fortgeschrittener in Säuremagie",
+        "p": "Fortgeschrittene in Säuremagie",
         "description": "Verbesserte Magie Targeted Offensive Special Schaden - Säure"
     },
     "smtoera": {
-        "name": "Entfesselte Verrottungsmagie",
-        "p": "Verbesserte Magie Targeted Offensive Special Schaden - Verrottungs",
+        "name": "Fortgeschrittener in Verrottungsmagie",
+        "p": "Fortgeschrittene in Verrottungsmagie",
         "description": "Verbesserte Magie Targeted Offensive Special Schaden - Verrottungs"
     },
     "smtoefa": {
-        "name": "Entfesselte Feuermagie",
-        "p": "Verbesserte Magie Targeted Offensive Special Schaden - Feuer",
+        "name": "Fortgeschrittener in Feuermagie",
+        "p": "Fortgeschrittene in Feuermagie",
         "description": "Verbesserte Magie Targeted Offensive Special Schaden - Feuer"
     },
     "smtoesa": {
-        "name": "Entfesselte Schockwellenmagie",
-        "p": "Verbesserte Magie Targeted Offensive Special Schaden - Schockwellen",
+        "name": "Fortgeschrittener in Schockwellenmagie",
+        "p": "Fortgeschrittene in Schockwellenmagie",
         "description": "Verbesserte Magie Targeted Offensive Special Schaden - Schockwellen"
     },
     "smtoepa": {
-        "name": "Entfesselte Giftmagie",
-        "p": "Verbesserte Magie Targeted Offensive Special Schaden - Gift",
+        "name": "Fortgeschrittener in Giftmagie",
+        "p": "Fortgeschrittene in Giftmagie",
         "description": "Verbesserte Magie Targeted Offensive Special Schaden - Gift"
     },
     "smtoeea": {
-        "name": "Entfesselte Elektromagie",
-        "p": "Verbesserte Magie Targeted Offensive Special Schaden - Elektrischer",
+        "name": "Fortgeschrittener in Elektromagie",
+        "p": "Fortgeschrittene in Elektromagie",
         "description": "Verbesserte Magie Targeted Offensive Special Schaden - Elektrischer"
     },
     "smtchpa": {
-        "name": "Entfesselte Hp-Heilungsmagie",
-        "p": "Verbesserte Magie Targeted Heilend Heilt - Hp",
+        "name": "Fortgeschrittener in Lebens-Heilungsmagie",
+        "p": "Fortgeschrittene in Lebens-Heilungsmagie",
         "description": "Verbesserte Magie Targeted Heilend Heilt - HP"
     },
     "smtchta": {
-        "name": "Entfesselte Ausdauer-Heilungsmagie",
-        "p": "Verbesserte Magie Targeted Heilend Heilt - Sta",
+        "name": "Fortgeschrittener in Ausdauer-Heilungsmagie",
+        "p": "Fortgeschrittene in Ausdauer-Heilungsmagie",
         "description": "Verbesserte Magie Targeted Heilend Heilt - STA"
     },
     "smtchaa": {
-        "name": "Entfesselte Sap-Heilungsmagie",
-        "p": "Verbesserte Magie Targeted Heilend Heilt - Sap",
+        "name": "Fortgeschrittener in Sap-Heilungsmagie",
+        "p": "Fortgeschrittene in Sap-Heilungsmagie",
         "description": "Verbesserte Magie Targeted Heilend Heilt - SAP"
     },
     "smtchca": {
-        "name": "Entfesselte Fokus-Heilungsmagie",
-        "p": "Verbesserte Magie Targeted Heilend Heilt - Fokus",
+        "name": "Fortgeschrittener in Fokus-Heilungsmagie",
+        "p": "Fortgeschrittene in Fokus-Heilungsmagie",
         "description": "Verbesserte Magie Targeted Heilend Heilt - Fokus"
     },
     "smlosma": {
-        "name": "Urwurzelmagie des Wahnsinns",
-        "p": "Verbesserte Magie Bindung Offensive Krankheit - Wahnsinn",
+        "name": "Fortgeschrittener in der Bindung des Wahnsinns",
+        "p": "Fortgeschrittene in der Bindung des Wahnsinns",
         "description": "Verbesserte Magie Bindung Offensive Krankheit - Wahnsinn"
     },
     "smlossa": {
-        "name": "Urwurzelmagie der Verlangsamung",
-        "p": "Verbesserte Magie Bindung Offensive Krankheit - Geschwindigkeit Debuff",
+        "name": "Fortgeschrittener in der Bindung der Verlangsamung",
+        "p": "Fortgeschrittene in der Bindung der Verlangsamung",
         "description": "Verbesserte Magie Bindung Offensive Krankheit - Geschwindigkeit Debuff"
     },
     "smlocia": {
-        "name": "Urwurzelmagie des Unfähigkeit",
-        "p": "Verbesserte Magie Bindung Offensive Fluch - Unfähigkeits",
+        "name": "Fortgeschrittener in der Bindung der Unfähigkeit",
+        "p": "Fortgeschrittene in der Bindung der Unfähigkeit",
         "description": "Verbesserte Magie Bindung Offensive Fluch - Unfähigkeits"
     },
     "smlocsa": {
-        "name": "Urwurzelmagie des Missgeschicks",
-        "p": "Verbesserte Magie Bindung Offensive Fluch - Missgeschicks",
+        "name": "Fortgeschrittener in der Bindung des Missgeschicks",
+        "p": "Fortgeschrittene in der Bindung des Missgeschicks",
         "description": "Verbesserte Magie Bindung Offensive Fluch - Missgeschicks"
     },
     "smloeca": {
-        "name": "Urwurzelmagie der Kälte",
-        "p": "Verbesserte Magie Bindung Offensive Special Schaden - Kälte",
+        "name": "Fortgeschrittener in Kältebindung",
+        "p": "Fortgeschrittene in Kältebindung",
         "description": "Verbesserte Magie Bindung Offensive Special Schaden - Kälte"
     },
     "smloeaa": {
-        "name": "Urwurzelmagie der Säure",
-        "p": "Verbesserte Magie Bindung Offensive Special Schaden - Säure",
+        "name": "Fortgeschrittener in Säurebindung",
+        "p": "Fortgeschrittene in Säurebindung",
         "description": "Verbesserte Magie Bindung Offensive Special Schaden - Säure"
     },
     "smloera": {
-        "name": "Urwurzelmagie der Verrottung",
-        "p": "Verbesserte Magie Bindung Offensive Special Schaden - Verrottungs",
+        "name": "Fortgeschrittener in der Bindung der Verrottung",
+        "p": "Fortgeschrittene in der Bindung der Verrottung",
         "description": "Verbesserte Magie Bindung Offensive Special Schaden - Verrottungs"
     },
     "smloefa": {
-        "name": "Urwurzelmagie des Feuers",
-        "p": "Verbesserte Magie Bindung Offensive Special Schaden - Feuer",
+        "name": "Fortgeschrittener in Feuerbindung",
+        "p": "Fortgeschrittene in Feuerbindung",
         "description": "Verbesserte Magie Bindung Offensive Special Schaden - Feuer"
     },
     "smloesa": {
-        "name": "Urwurzelmagie der Schockwellen",
-        "p": "Verbesserte Magie Bindung Offensive Special Schaden - Schockwellen",
+        "name": "Fortgeschrittener in Schockwellenbindung",
+        "p": "Fortgeschrittener in Schockwellenbindung",
         "description": "Verbesserte Magie Bindung Offensive Special Schaden - Schockwellen"
     },
     "smloepa": {
-        "name": "Urwurzelmagie des Giftes",
-        "p": "Verbesserte Magie Bindung Offensive Special Schaden - Gift",
+        "name": "Fortgeschrittener in Giftbindung",
+        "p": "Fortgeschrittene in Giftbindung",
         "description": "Verbesserte Magie Bindung Offensive Special Schaden - Gift"
     },
     "smloeea": {
-        "name": "Urwurzelmagie des Elektrizität",
-        "p": "Verbesserte Magie Bindung Offensive Special Schaden - Elektrischer",
+        "name": "Fortgeschrittener in Elektrobindung",
+        "p": "Fortgeschrittene in Elektrobindung",
         "description": "Verbesserte Magie Bindung Offensive Special Schaden - Elektrischer"
     },
     "smd": {
@@ -2480,43 +2480,43 @@
         "description": "Defensive Magie"
     },
     "smda": {
-        "name": "Niedere defensive Beherrschungsmagie",
-        "p": "Defensive Schmerzzufügung",
+        "name": "Defensive Beherrschungsmagie",
+        "p": "Defensive Beherrschungsmagie",
         "description": "Standard Defensive Schmerzzufügung"
     },
     "smdaa": {
-        "name": "Normale defensive Beherrschungsmagie",
-        "p": "Verbesserte Defensive Schmerzzufügung",
+        "name": "Fortgeschrittener in defensiver Beherrschungsmagie",
+        "p": "Fortgeschrittene in defensiver Beherrschungsmagie",
         "description": "Verbesserte Defensive Schmerzzufügung"
     },
     "smdaae": {
-        "name": "Hohe defensive Beherrschungsmagie",
-        "p": "Meisterliche Defensive Schmerzzufügung",
+        "name": "Experte in defensiver Beherrschungsmagie",
+        "p": "Experten in defensiver Beherrschungsmagie",
         "description": "Meisterliche Defensive Schmerzzufügung"
     },
     "smdaaem": {
-        "name": "Perfekte defensive Beherrschungsmagie",
-        "p": "Perfekte Defensive Schmerzzufügung",
+        "name": "Meister in defensiver Beherrschungsmagie",
+        "p": "Meister in defensiver Beherrschungsmagie",
         "description": "Perfekte Defensive Schmerzzufügung"
     },
     "smdh": {
-        "name": "Niedere Heilungsmagie",
-        "p": "Standard Heilungs Magie",
+        "name": "Heilungsmagie",
+        "p": "Heilungsmagie",
         "description": "Standard Heilungs Magie"
     },
     "smdha": {
-        "name": "Normale Heilungsmagie",
-        "p": "Verbesserte Heilungs Magie",
+        "name": "Fortgeschrittener in Heilungsmagie",
+        "p": "Fortgeschrittene in Heilungsmagie",
         "description": "Verbesserte Heilungs Magie"
     },
     "smdhae": {
-        "name": "Hohe Heilungsmagie",
-        "p": "Meisterliche Heilungs Magie",
+        "name": "Experte in Heilungsmagie",
+        "p": "Experten in Heilungsmagie",
         "description": "Meisterliche Heilungs Magie"
     },
     "smdhaem": {
-        "name": "Perfekte Heilungsmagie",
-        "p": "Perfekte Heilungs Magie",
+        "name": "Meister in Heilungsmagie",
+        "p": "Meister in Heilungsmagie",
         "description": "Perfekte Heilungs Magie"
     },
     "smo": {
@@ -2525,43 +2525,43 @@
         "description": "Offensive Magie"
     },
     "smoa": {
-        "name": "Niedere offensive Beherrschungsmagie",
-        "p": "Offensive Schmerzzufügung",
+        "name": "Offensive Beherrschungsmagie",
+        "p": "Offensive Beherrschungsmagie",
         "description": "Standard Offensive Schmerzzufügung"
     },
     "smoaa": {
-        "name": "Normale offensive Beherrschungsmagie",
-        "p": "Verbesserte Offensive Schmerzzufügung",
+        "name": "Fortgeschrittener in offensiver Beherrschungsmagie",
+        "p": "Fortgeschrittene in offensiver Beherrschungsmagie",
         "description": "Verbesserte Offensive Schmerzzufügung"
     },
     "smoaae": {
-        "name": "Hohe offensive Beherrschungsmagie",
-        "p": "Meisterliche Offensive Schmerzzufügung",
+        "name": "Experte in offensiver Beherrschungsmagie",
+        "p": "Experten in offensiver Beherrschungsmagie",
         "description": "Meisterliche Offensive Schmerzzufügung"
     },
     "smoaaem": {
-        "name": "Perfekte offensive Beherrschungsmagie",
-        "p": "Perfekte Offensive Schmerzzufügung",
+        "name": "Meister in offensiver Beherrschungsmagie",
+        "p": "Meister in offensiver Beherrschungsmagie",
         "description": "Perfekte Offensive Schmerzzufügung"
     },
     "smoe": {
-        "name": "Niedere Elementarmagie",
-        "p": "Elementare Magie",
+        "name": "Elementarmagie",
+        "p": "Elementarmagie",
         "description": "Standard Elementare Magie"
     },
     "smoea": {
-        "name": "Normale Elementarmagie",
-        "p": "Verbesserte Elementare Magie",
+        "name": "Fortgeschrittener in Elementarmagie",
+        "p": "Fortgeschrittene in Elementarmagie",
         "description": "Verbesserte Elementare Magie"
     },
     "smoeae": {
-        "name": "Hohe Elementarmagie",
-        "p": "Meisterliche Elementare Magie",
+        "name": "Experte in Elementarmagie",
+        "p": "Experten in Elementarmagien",
         "description": "Meisterliche Elementare Magie"
     },
     "smoeaem": {
-        "name": "Perfekte Elementarmagie",
-        "p": "Perfekte Elementare Magie",
+        "name": "Meister in Elementarmagie",
+        "p": "Meister in Elementarmagie",
         "description": "Perfekte Elementare Magie"
     },
     "sms": {
@@ -2570,1088 +2570,1088 @@
         "description": "Selbstgerichtete Magie"
     },
     "smss": {
-        "name": "Standard Selbstgerichtete Magie",
-        "p": "Standard Selbstgerichtete Magie",
+        "name": "Instinktive selbstgerichtete Magie",
+        "p": "Instinktive selbstgerichtete Magie",
         "description": "Standard Selbstgerichtete Magie"
     },
     "smssa": {
-        "name": "Verbesserte Selbstgerichtete Magie",
-        "p": "Verbesserte Selbstgerichtete Magie",
+        "name": "Fortgeschrittener in selbstgerichteter Magie",
+        "p": "Fortgeschrittene in selbstgerichteter Magie",
         "description": "Verbesserte Selbstgerichtete Magie"
     },
     "smssae": {
-        "name": "Meisterliche Selbstgerichtete Magie",
-        "p": "Meisterliche Selbstgerichtete Magie",
+        "name": "Experte in selbstgerichteter Magie",
+        "p": "Experten in selbstgerichteter Magie",
         "description": "Meisterliche Selbstgerichtete Magie"
     },
     "smssaem": {
-        "name": "Perfekte Selbstgerichtete Magie",
-        "p": "Perfekte Selbstgerichtete Magie",
+        "name": "Meister in selbstgerichteter Magie",
+        "p": "Meister in selbstgerichteter Magie",
         "description": "Perfekte Selbstgerichtete Magie"
     },
     "sf": {
         "name": "Kampf",
-        "p": "Waffenlos",
+        "p": "Kampf",
         "description": ""
     },
     "sfm": {
         "name": "Nahkampf",
-        "p": "Nahkampf Waffenlos",
+        "p": "Nahkampf",
         "description": ""
     },
     "sfm1": {
         "name": "Einhand Nahkampf",
-        "p": "Einhand Nahkampf Waffenlos",
+        "p": "Einhand Nahkampf",
         "description": ""
     },
     "sfm1b": {
         "name": "Einhand Nahkampf mit stumpfen Hiebwaffen",
-        "p": "1 Handed Melee Smashings",
+        "p": "Einhand Nahkampf mit stumpfen Hiebwaffen",
         "description": ""
     },
     "sfm1bm": {
         "name": "Streitkolbenbeherrschung",
-        "p": "Streitkolben",
+        "p": "Streitkolbenbeherrschungen",
         "description": ""
     },
     "sfm1bme": {
         "name": "Beherrschung des elektrischen Streitkolbens",
-        "p": "Elektrische Streitkolben",
+        "p": "Beherrschungen des elektrischen Streitkolbens",
         "description": ""
     },
     "sfm1bmm": {
-        "name": "Perfekte Streitkolbenbeherrschung",
-        "p": "Perfekte Streitkolben",
+        "name": "Meister in Streitkolbenbeherrschung",
+        "p": "Meister in Streitkolbenbeherrschung",
         "description": ""
     },
     "sfm1bs": {
         "name": "Stabbeherrschung",
-        "p": "Stäbe",
+        "p": "Stabbeherrschungen",
         "description": ""
     },
     "sfm1bsm": {
-        "name": "Perfekte Stabbeherrschung",
-        "p": "Perfekte Stäbe",
+        "name": "Meister in Stabbeherrschung",
+        "p": "Meister in Stabbeherrschung",
         "description": ""
     },
     "sfm1p": {
         "name": "Einhand Nahkampf mit Stichwaffen",
-        "p": "Einhand Nahkampf Durchbohrend",
+        "p": "Einhand Nahkampf mit Stichwaffen",
         "description": ""
     },
     "sfm1ps": {
-        "name": "Speerbeherrschung",
-        "p": "Speere",
+        "name": "Lanzenbeherrschung",
+        "p": "Lanzenbeherrschungen",
         "description": ""
     },
     "sfm1pse": {
-        "name": "Beherrschung des elektrischen Speeres",
-        "p": "Elektrische Speere",
+        "name": "Beherrschung der elektrischen Lanze",
+        "p": "Beherrschungen der elektrischen Lanze",
         "description": ""
     },
     "sfm1psl": {
-        "name": "Beherrschung des lebenden Speeres",
-        "p": "Lebende Speere",
+        "name": "Beherrschung der lebenden Lanze",
+        "p": "Beherrschungen der lebenden Lanze",
         "description": ""
     },
     "sfm1psm": {
-        "name": "Perfekte Speerbeherrschung",
-        "p": "Perfekte Speere",
+        "name": "Meister in Lanzenbeherrschung",
+        "p": "Meister in Lanzenbeherrschung",
         "description": ""
     },
     "sfm1s": {
         "name": "Einhand Nahkampf mit scharfen Hiebwaffen",
-        "p": "Einhand Nahkampf Schneidende",
+        "p": "Einhand Nahkampf mit scharfen Hiebwaffen",
         "description": ""
     },
     "sfm1sa": {
         "name": "Axtbeherrschung",
-        "p": "Äxte",
+        "p": "Axtbeherrschung",
         "description": ""
     },
     "sfm1sab": {
         "name": "Beherrschung der brennenden Axt",
-        "p": "Brennende Äxte",
+        "p": "Beherrschung der brennenden Axt",
         "description": ""
     },
     "sfm1sam": {
-        "name": "Perfekte Axtbeherrschung",
-        "p": "Perfekte Äxte",
+        "name": "Meister in Axtbeherrschung",
+        "p": "Meister in Axtbeherrschung",
         "description": ""
     },
     "sfm1ss": {
         "name": "Schwertbeherrschung",
-        "p": "Schwerter",
+        "p": "Schwertbeherrschung",
         "description": ""
     },
     "sfm1ssm": {
-        "name": "Perfektes Schwertbeherrschung",
-        "p": "Perfekte Schwerter",
+        "name": "Meister in Schwertbeherrschung",
+        "p": "Meister in Schwertbeherrschung",
         "description": ""
     },
     "sfm1ssw": {
         "name": "Beherrschung des wehenden Schwertes",
-        "p": "Wehende Schwerter",
+        "p": "Beherrschungen des wehenden Schwertes",
         "description": ""
     },
     "sfm2": {
-        "name": "Zweihand Nahkampf",
-        "p": "Zweihand Nahkampf Waffenlos",
+        "name": "Zweihand-Nahkampf",
+        "p": "Zweihand-Nahkampf",
         "description": ""
     },
     "sfm2b": {
-        "name": "Zweihand Nahkampf mit stumpfen Hiebwaffen",
-        "p": "2 Handed Melee Smashings",
+        "name": "Zweihand-Nahkampf mit stumpfen Hiebwaffen",
+        "p": "Zweihand-Nahkampf mit stumpfen Hiebwaffen",
         "description": ""
     },
     "sfm2bm": {
         "name": "Riesenstreitkolbenbeherrschung",
-        "p": "Zweihand Streitkolben",
+        "p": "Riesenstreitkolbenbeherrschungen",
         "description": ""
     },
     "sfm2bme": {
         "name": "Beherrschung des elektrischen Riesenstreitkolbens",
-        "p": "Zweihand Elektrische Streitkolben",
+        "p": "Beherrschungen des elektrischen Riesenstreitkolbens",
         "description": ""
     },
     "sfm2bmm": {
-        "name": "Perfekte Riesenstreitkolbenbeherrschung",
-        "p": "Zweihand Perfekte Streitkolben",
+        "name": "Meister in Riesenstreitkolbenbeherrschung",
+        "p": "Meister in Riesenstreitkolbenbeherrschung",
         "description": ""
     },
     "sfm2p": {
         "name": "Zweihand Nahkampf mit Stichwaffen",
-        "p": "Zweihand Nahkampf Durchbohrend",
+        "p": "Zweihand-Nahkampf mit Stichwaffen",
         "description": ""
     },
     "sfm2pp": {
-        "name": "Pikebeherrschung",
-        "p": "Piken",
+        "name": "Pikenbeherrschung",
+        "p": "Pikenbeherrschungen",
         "description": ""
     },
     "sfm2ppl": {
-        "name": "Beherrschung der lebenden Pieke",
-        "p": "Lebende Piken",
+        "name": "Beherrschung der lebenden Pike",
+        "p": "Beherrschungen der lebenden Pike",
         "description": ""
     },
     "sfm2ppm": {
-        "name": "Perfekte Pikebeherrschung",
-        "p": "Perfekte Piken",
+        "name": "Meister in Pikenbeherrschung",
+        "p": "Meister in Pikenbeherrschung",
         "description": ""
     },
     "sfm2s": {
-        "name": "Zweihand Nahkampf mit scharfen Hiebwaffen",
-        "p": "Zweihand Nahkampf Schneidend",
+        "name": "Zweihand-Nahkampf mit scharfen Hiebwaffen",
+        "p": "Zweihand-Nahkampf mit scharfen Hiebwaffen",
         "description": ""
     },
     "sfm2sa": {
         "name": "Langaxtbeherrschung",
-        "p": "Zweihand Äxte",
+        "p": "Langaxtbeherrschung",
         "description": ""
     },
     "sfm2sab": {
         "name": "Beherrschung der brennenden Langaxt",
-        "p": "Zweihand Brennende Äxte",
+        "p": "Beherrschungen der brennenden Langaxt",
         "description": ""
     },
     "sfm2sam": {
-        "name": "Perfekte Langaxtbeherrschung",
-        "p": "Zweihand Perfekte Äxte",
+        "name": "Meister in Langaxtbeherrschung",
+        "p": "Meister in Langaxtbeherrschung",
         "description": ""
     },
     "sfm2ss": {
         "name": "Langschwertbeherrschung",
-        "p": "Zweihand Schwerter",
+        "p": "Langschwertbeherrschungen",
         "description": ""
     },
     "sfm2ssb": {
         "name": "Beherrschung des brennenden Langschwertes",
-        "p": "Zweihand Brennende Schwerter",
+        "p": "Beherrschungen des brennenden Langschwertes",
         "description": ""
     },
     "sfm2ssl": {
         "name": "Beherrschung des lebenden Langschwertes",
-        "p": "Zweihand Lebendes Schwerter",
+        "p": "Beherrschungen des lebenden Langschwertes",
         "description": ""
     },
     "sfm2ssm": {
-        "name": "Perfekte Langschwertbeherrschung",
-        "p": "Zweihand Perfekte Schwerter",
+        "name": "Meister in Langschwertbeherrschung",
+        "p": "Meister in Langschwertbeherrschung",
         "description": ""
     },
     "sfm2ssw": {
         "name": "Beherrschung des wehenden Langschwertes",
-        "p": "Zweihand Wehender Schwerter",
+        "p": "Beherrschungen des wehenden Langschwertes",
         "description": ""
     },
     "sfmc": {
         "name": "Nahkampf ohne schwere Waffen",
-        "p": "Infigt",
+        "p": "Nahkampf ohne schwere Waffen",
         "description": ""
     },
     "sfmca": {
-        "name": "Verbesserter Nahkampf ohne schwere Waffen",
-        "p": "Verbesserte Infights",
+        "name": "Fortgeschrittener im Nahkampf ohne schwere Waffen",
+        "p": "Fortgeschrittene im Nahkampf ohne schwere Waffen",
         "description": ""
     },
     "sfmcad": {
         "name": "Dolchbeherrschung",
-        "p": "Dolche",
+        "p": "Dolchbeherrschungen",
         "description": ""
     },
     "sfmcadl": {
         "name": "Beherrschung des lebenden Dolches",
-        "p": "Lebende Dolche",
+        "p": "Beherrschungen des lebenden Dolches",
         "description": ""
     },
     "sfmcadm": {
-        "name": "Perfekte Dolchbeherrschung",
-        "p": "Perfekte Dolche",
+        "name": "Meister in Dolchbeherrschung",
+        "p": "Meister in Dolchbeherrschung",
         "description": ""
     },
     "sfmcadw": {
         "name": "Beherrschung des wehenden Dolches",
-        "p": "Wehende Dolche",
+        "p": "Beherrschungen des wehenden Dolches",
         "description": ""
     },
     "sfmcah": {
-        "name": "Waffenlose Kampfkust",
-        "p": "Handkämpfe",
+        "name": "Experte in waffenloser Kampfkunst",
+        "p": "Experten in waffenloser Kampfkunst",
         "description": ""
     },
     "sfmcahm": {
-        "name": "Perfekte waffenlose Kampfkunst",
-        "p": "Perfekte Handkämpfe",
+        "name": "Meister in waffenloser Kampfkunst",
+        "p": "Meister in waffenloser Kampfkunst",
         "description": ""
     },
     "sfr": {
         "name": "Fernkampf",
-        "p": "Fernkämpfe",
+        "p": "Fernkampf",
         "description": ""
     },
     "sfr1": {
-        "name": "Einhand Fernkampf",
-        "p": "Einhand Fernkämpfe",
+        "name": "Einhand-Fernkampf",
+        "p": "Einhand-Fernkampf",
         "description": ""
     },
     "sfr1a": {
-        "name": "Verbesserter Einhand Fernkampf",
-        "p": "Advanced 1 Handed Range Fights",
+        "name": "Fortgeschrittener im Einhand-Fernkampf",
+        "p": "Fortgeschrittene im Einhand-Fernkampf",
         "description": ""
     },
     "sfr1ab": {
         "name": "Bogenpistolenbeherrschung",
-        "p": "Bogenpistolen",
+        "p": "Bogenpistolenbeherrschungen",
         "description": ""
     },
     "sfr1abm": {
-        "name": "Perfekte Bogenpistolenbeherrschung",
-        "p": "Perfekte Bogenpistolen",
+        "name": "Meister in Bogenpistolenbeherrschung",
+        "p": "Meister in Bogenpistolenbeherrschung",
         "description": ""
     },
     "sfr1abw": {
         "name": "Beherrschung der wehenden Bogenpistole",
-        "p": "Wehende Bogenpistolen",
+        "p": "Beherrschungen der wehenden Bogenpistole",
         "description": ""
     },
     "sfr1ap": {
-        "name": "Pistolebeherrschung",
-        "p": "Pistolen",
+        "name": "Pistolenbeherrschung",
+        "p": "Pistolenbeherrschungen",
         "description": ""
     },
     "sfr1apl": {
         "name": "Beherrschung der lebenden Pistole",
-        "p": "Lebende Pistolen",
+        "p": "Beherrschungen der lebenden Pistole",
         "description": ""
     },
     "sfr1apm": {
-        "name": "Perfekte Pistolenbeherrschung",
-        "p": "Perfekte Pistolen",
+        "name": "Meister in Pistolenbeherrschung",
+        "p": "Meister in Pistolenbeherrschung",
         "description": ""
     },
     "sfr2": {
-        "name": "Zweihand Fernkampf",
-        "p": "Zweihand Fernkämpfe",
+        "name": "Zweihand-Fernkampf",
+        "p": "Zweihand-Fernkampf",
         "description": ""
     },
     "sfr2a": {
-        "name": "Verbesserter Zweihand Fernkampf",
-        "p": "Advanced 2 Handed Range Fights",
+        "name": "Fortgeschrittener im Zweihand-Fernkampf",
+        "p": "Fortgeschrittene im Zweihand-Fernkampf",
         "description": ""
     },
     "sfr2aa": {
         "name": "Automatikgewehrbeherrschung",
-        "p": "Automatikgewehr",
+        "p": "Automatikgewehrbeherrschungen",
         "description": ""
     },
     "sfr2aab": {
         "name": "Beherrschung des brennenden Automatikgewehrs",
-        "p": "Brennende Automatikgewehr",
+        "p": "Beherrschungen des brennenden Automatikgewehrs",
         "description": ""
     },
     "sfr2aam": {
-        "name": "Perfekte Automatikgewehrbeherrschung",
-        "p": "Perfekte Automatikgewehr",
+        "name": "Meister in Automatikgewehrbeherrschung",
+        "p": "Meister in Automatikgewehrbeherrschung",
         "description": ""
     },
     "sfr2ab": {
         "name": "Bogengewehrbeherrschung",
-        "p": "Bogengewehre",
+        "p": "Bogengewehrbeherrschungen",
         "description": ""
     },
     "sfr2abe": {
         "name": "Beherrschung des elektrischen Bogengewehrs",
-        "p": "Elektrische Bogengewehre",
+        "p": "Beherrschungen des elektrischen Bogengewehrs",
         "description": ""
     },
     "sfr2abm": {
-        "name": "Perfekte Bogengewehrbeherrschung",
-        "p": "Perfekte Bogengewehre",
+        "name": "Meister in Bogengewehrbeherrschung",
+        "p": "Meister in Bogengewehrbeherrschung",
         "description": ""
     },
     "sfr2al": {
         "name": "Raketenwerferbeherrschung",
-        "p": "Raketenwerfer",
+        "p": "Raketenwerferbeherrschungen",
         "description": ""
     },
     "sfr2alb": {
         "name": "Beherrschung des brennenden Raketenwerfers",
-        "p": "Brennende Raketenwerfer",
+        "p": "Beherrschungen des brennenden Raketenwerfers",
         "description": ""
     },
     "sfr2ale": {
         "name": "Beherrschung des elektrischen Raketenwerfers",
-        "p": "Elektrischer Raketenwerfer",
+        "p": "Beherrschungen des elektrischen Raketenwerfers",
         "description": ""
     },
     "sfr2alm": {
-        "name": "Perfekte Raketenwerferbeherrschung",
-        "p": "Perfekte Raketenwerfer",
+        "name": "Meister in Raketenwerferbeherrschung",
+        "p": "Meister in Raketenwerferbeherrschung",
         "description": ""
     },
     "sfr2ar": {
         "name": "Gewehrbeherrschung",
-        "p": "Gewehre",
+        "p": "Gewehrbeherrschungen",
         "description": ""
     },
     "sfr2arl": {
         "name": "Beherrschung des lebenden Gewehrs",
-        "p": "Lebende Gewehre",
+        "p": "Beherrschungen des lebenden Gewehrs",
         "description": ""
     },
     "sfr2arm": {
-        "name": "Perfekte Gewehrbeherrschung",
-        "p": "Perfekte Gewehre",
+        "name": "Meister in Gewehrbeherrschung",
+        "p": "Meister in Gewehrbeherrschung",
         "description": ""
     },
     "sca": {
         "name": "Rüstungsherstellung",
-        "p": "Armor Crafting",
-        "description": "Rüstung Herstellung"
+        "p": "Rüstungsherstellungen",
+        "description": "Rüstungs-Herstellung"
     },
     "scj": {
         "name": "Schmuckherstellung",
-        "p": "Jewel Crafting",
-        "description": "Schmuck Herstellung"
+        "p": "Schmuckherstellungen",
+        "description": "Schmuck-Herstellung"
     },
     "scm": {
         "name": "Nahkampfwaffenherstellung",
-        "p": "Melee Weapon Crafting",
-        "description": "Nahkampfwaffen Herstellung"
+        "p": "Nahkampfwaffenherstellungen",
+        "description": "Nahkampfwaffen-Herstellung"
     },
     "scr": {
         "name": "Fernkampfwaffenherstellung",
-        "p": "Range Weapon Crafting",
-        "description": "Fernkampfwaffen Herstellung"
+        "p": "Fernkampfwaffenherstellungen",
+        "description": "Fernkampfwaffen-Herstellung"
     },
     "scah": {
         "name": "Herstellung schwerer Rüstungen",
-        "p": "Heavy Armor Crafting",
-        "description": "Schwere Rüstung Herstellung"
+        "p": "Herstellungen schwerer Rüstungen",
+        "description": "Schwere Rüstungs-Herstellung"
     },
     "scal": {
         "name": "Herstellung leichter Rüstungen",
-        "p": "Light Armor Crafting",
-        "description": "Leichte Rüstung Herstellung"
+        "p": "Herstellungen leichter Rüstungen",
+        "description": "Leichte Rüstungs-Herstellung"
     },
     "scam": {
         "name": "Herstellung mittelschwerer Rüstungen",
-        "p": "Medium Armor Crafting",
-        "description": "Mittelschwere Rüstung Herstellung"
+        "p": "Herstellungen mittelschwerer Rüstungen",
+        "description": "Mittelschwere Rüstungs-Herstellung"
     },
     "scas": {
         "name": "Schildherstellung",
-        "p": "Shield Crafting",
-        "description": "Schild Herstellung"
+        "p": "Schildherstellungen",
+        "description": "Schild-Herstellung"
     },
     "scja": {
-        "name": "Fusskettenherstellung",
-        "p": "Anklet Crafting",
-        "description": "Fussring Herstellung"
+        "name": "Fußringherstellung",
+        "p": "Fußringherstellungen",
+        "description": "Fußring-Herstellung"
     },
     "scjb": {
-        "name": "Armreifherstellung",
-        "p": "Bracelet Crafting",
-        "description": "Armband Herstellung"
+        "name": "Armbandherstellung",
+        "p": "Armbandherstellungen",
+        "description": "Armband-Herstellung"
     },
     "scjd": {
         "name": "Diademherstellung",
-        "p": "Diadem Crafting",
-        "description": "Diadem Herstellung"
+        "p": "Diademherstellungen",
+        "description": "Diadem-Herstellung"
     },
     "scje": {
-        "name": "Ohrringsherstellung",
-        "p": "Earring Crafting",
-        "description": "Ohrring Herstellung"
+        "name": "Ohrringherstellung",
+        "p": "Ohrringherstellungen",
+        "description": "Ohrring-Herstellung"
     },
     "scjp": {
-        "name": "Kettenherstellung",
-        "p": "Pendant Crafting",
-        "description": "Anhänger Herstellung"
+        "name": "Anhängerherstellung",
+        "p": "Anhängerherstellungen",
+        "description": "Anhänger-Herstellung"
     },
     "scjr": {
         "name": "Ringherstellung",
-        "p": "Ring Crafting",
-        "description": "Ring Herstellung"
+        "p": "Ringherstellungen",
+        "description": "Ring-Herstellung"
     },
     "scm1": {
         "name": "Herstellung einhändiger Nahkampfwaffen",
-        "p": "One-handed Melee Weapon Craftings",
-        "description": "Einhand Nahkampfwaffen Herstellung"
+        "p": "Herstellungen einhändiger Nahkampfwaffen",
+        "description": "Einhand-Nahkampfwaffen Herstellung"
     },
     "scm2": {
         "name": "Herstellung zweihändiger Nahkampfwaffen",
-        "p": "Two-handed Melee Weapon Craftings",
-        "description": "Zweihand Nahkampfwaffen Herstellung"
+        "p": "Herstellungen zweihändiger Nahkampfwaffen",
+        "description": "Zweihand-Nahkampfwaffen Herstellung"
     },
     "scr1": {
         "name": "Herstellung einhändiger Fernkampfwaffen",
-        "p": "One-handed Range Weapon Craftings",
-        "description": "Einhand Fernkampfwaffen Herstellung"
+        "p": "Herstellungen einhändiger Fernkampfwaffen",
+        "description": "Einhand-Fernkampfwaffen Herstellung"
     },
     "scr2": {
         "name": "Herstellung zweihändiger Fernkampfwaffen",
-        "p": "Two-handed Range Weapon Craftings",
-        "description": "Zweihand Fernkampfwaffen Herstellung"
+        "p": "Herstellungen zweihändiger Fernkampfwaffen",
+        "description": "Zweihand-Fernkampfwaffen-Herstellung"
     },
     "scahb": {
         "name": "Herstellung schwerer Stiefel",
-        "p": "Heavy Boots Crafting",
-        "description": "Schwere Stiefel Herstellung"
+        "p": "Herstellungen schwerer Stiefel",
+        "description": "Schwere Stiefel-Herstellung"
     },
     "scahg": {
         "name": "Herstellung schwerer Handschuhe",
-        "p": "Heavy Gloves Crafting",
-        "description": "Schwere Handschuhe Herstellung"
+        "p": "Herstellungen schwerer Handschuhe",
+        "description": "Schwere Handschuhe-Herstellung"
     },
     "scahh": {
         "name": "Herstellung schwerer Helme",
-        "p": "Heavy Helmet Crafting",
-        "description": "Schwere Helm Herstellung"
+        "p": "Herstellungen schwerer Helme",
+        "description": "Schwere Helm-Herstellung"
     },
     "scahp": {
         "name": "Herstellung schwerer Hosen",
-        "p": "Heavy Pants Crafting",
-        "description": "Schwere Hosen Herstellung"
+        "p": "Herstellungen schwerer Hosen",
+        "description": "Schwere Hosen-Herstellung"
     },
     "scahs": {
         "name": "Herstellung schwerer Armschützer",
-        "p": "Heavy Sleeves Crafting",
-        "description": "Schwere Armschützer Herstellung"
+        "p": "Herstellungen schwerer Armschützer",
+        "description": "Schwere Armschützer-Herstellung"
     },
     "scahv": {
         "name": "Herstellung schwerer Westen",
-        "p": "Heavy Vest Crafting",
-        "description": "Schwere Westen Herstellung"
+        "p": "Herstellungen schwerer Westen",
+        "description": "Schwere Westen-Herstellung"
     },
     "scalb": {
         "name": "Herstellung leichter Stiefel",
-        "p": "Light Boots Crafting",
-        "description": "Leichte Stiefel Herstellung"
+        "p": "Herstellungen leichter Stiefel",
+        "description": "Leichte Stiefel-Herstellung"
     },
     "scalg": {
         "name": "Herstellung leichter Handschuhe",
-        "p": "Light Gloves Crafting",
-        "description": "Leichte Handschuhe Herstellung"
+        "p": "Herstellungen leichter Handschuhe",
+        "description": "Leichte Handschuhe-Herstellung"
     },
     "scalp": {
         "name": "Herstellung leichter Hosen",
-        "p": "Light Pants Crafting",
-        "description": "Leichte Hosen Herstellung"
+        "p": "Herstellungen leichter Hosen",
+        "description": "Leichte Hosen-Herstellung"
     },
     "scals": {
         "name": "Herstellung leichter Armschützer",
-        "p": "Light Sleeves Crafting",
-        "description": "Leichte Armschützer Herstellung"
+        "p": "Herstellungen leichter Armschützer",
+        "description": "Leichte Armschützer-Herstellung"
     },
     "scalv": {
         "name": "Herstellung leichter Westen",
-        "p": "Light Vest Crafting",
-        "description": "Leichte Westen Herstellung"
+        "p": "Herstellungen leichter Westen",
+        "description": "Leichte Westen-Herstellung"
     },
     "scamb": {
         "name": "Herstellung mittelschwerer Stiefel",
-        "p": "Medium Boots Crafting",
-        "description": "Mittelschwere Stiefel Herstellung"
+        "p": "Herstellungen mittelschwerer Stiefel",
+        "description": "Mittelschwere Stiefel-Herstellung"
     },
     "scamg": {
         "name": "Herstellung mittelschwerer Handschuhe",
-        "p": "Medium Gloves Crafting",
-        "description": "Mittelschwere Handschuhe Herstellung"
+        "p": "Herstellungen mittelschwerer Handschuhe",
+        "description": "Mittelschwere Handschuhe-Herstellung"
     },
     "scamp": {
         "name": "Herstellung mittelschwerer Hosen",
-        "p": "Medium Pants Crafting",
-        "description": "Mittelschwere Hosen Herstellung"
+        "p": "Herstellungen mittelschwerer Hosen",
+        "description": "Mittelschwere Hosen-Herstellung"
     },
     "scams": {
         "name": "Herstellung mittelschwerer Armschützer",
-        "p": "Medium Sleeves Crafting",
-        "description": "Mittelschwere Armschützer Herstellung"
+        "p": "Herstellungen mittelschwerer Armschützer",
+        "description": "Mittelschwere Armschützer-Herstellung"
     },
     "scamv": {
         "name": "Herstellung mittelschwerer Westen",
-        "p": "Medium Vest Crafting",
-        "description": "Mittelschwere Westen Herstellung"
+        "p": "Herstellungen mittelschwerer Westen",
+        "description": "Mittelschwere Westen-Herstellung"
     },
     "scass": {
-        "name": "Herstellung grosser Schilder",
-        "p": "Large Shield Craftings",
-        "description": "Grosses Schild Herstellung"
+        "name": "Herstellung großer Schilde",
+        "p": "Herstellungen großer Schilde",
+        "description": "Große Schilde-Herstellung"
     },
     "scasb": {
         "name": "Beschützerherstellung",
-        "p": "Buckler Crafting",
-        "description": "Beschützer Herstellung"
+        "p": "Beschützerherstellungen",
+        "description": "Beschützer-Herstellung"
     },
     "scjaa": {
-        "name": "Verbesserte Fusskettenherstellung",
-        "p": "Advanced Anklet Crafting",
-        "description": "Verbesserte Fussring Herstellung"
+        "name": "Fortgeschrittener in Fußringherstellung",
+        "p": "Fortgeschrittene in Fußringherstellung",
+        "description": "Verbesserte Fußring-Herstellung"
     },
     "scjba": {
-        "name": "Verbesserte Armreifherstellung",
-        "p": "Advanced Bracelet Crafting",
-        "description": "Verbesserte Armband Herstellung"
+        "name": "Fortgeschrittener in Armbandherstellung",
+        "p": "Fortgeschrittene in Armbandherstellung",
+        "description": "Verbesserte Armband-Herstellung"
     },
     "scjda": {
-        "name": "Verbesserte Diademherstellung",
-        "p": "Advanced Diadem Crafting",
-        "description": "Verbesserte Diadem Herstellung"
+        "name": "Fortgeschrittener in Diademherstellung",
+        "p": "Fortgeschrittene in Diademherstellung",
+        "description": "Verbesserte Diadem-Herstellung"
     },
     "scjea": {
-        "name": "Verbesserte Ohrringsherstellung",
-        "p": "Advanced Earring Crafting",
-        "description": "Verbesserte Ohrring Herstellung"
+        "name": "Fortgeschrittener in Ohrringsherstellung",
+        "p": "Fortgeschrittene in Ohrringsherstellung",
+        "description": "Verbesserte Ohrring-Herstellung"
     },
     "scjpa": {
-        "name": "Verbesserte Kettenherstellung",
-        "p": "Advanced Pendant Crafting",
-        "description": "Verbesserte Anhänger Herstellung"
+        "name": "Fortgeschrittener in Anhängerherstellung",
+        "p": "Fortgeschrittene in Anhängerherstellung",
+        "description": "Verbesserte Anhänger-Herstellung"
     },
     "scjra": {
-        "name": "Verbesserte Ringherstellung",
-        "p": "Advanced Ring Crafting",
-        "description": "Verbesserte Ring Herstellung"
+        "name": "Fortgeschrittener in Ringherstellung",
+        "p": "Fortgeschrittene in Ringherstellung",
+        "description": "Verbesserte Ring-Herstellung"
     },
     "scm1m": {
-        "name": "Streitkolbenherstellung",
-        "p": "Mace Crafting",
-        "description": "Streitkolben Herstellung"
+        "name": "Streitkolben-Herstellung",
+        "p": "Streitkolben-Herstellungen",
+        "description": "Streitkolben-Herstellung"
     },
     "scm1t": {
         "name": "Stabherstellung",
-        "p": "Staff Crafting",
-        "description": "Stab Herstellung"
+        "p": "Stabherstellungen",
+        "description": "Stab-Herstellung"
     },
     "scm1p": {
-        "name": "Speerherstellung",
-        "p": "Spear Crafting",
-        "description": "Speer Herstellung"
+        "name": "Lanzenherstellung",
+        "p": "Lanzenherstellungen",
+        "description": "Lanzen-\/Speer-Herstellung"
     },
     "scm1a": {
         "name": "Axtherstellung",
-        "p": "Axe Crafting",
-        "description": "Axt Herstellung"
+        "p": "Axtherstellungen",
+        "description": "Axt-Herstellung"
     },
     "scm1s": {
         "name": "Schwertherstellung",
-        "p": "Sword Crafting",
-        "description": "Schwert Herstellung"
+        "p": "Schwertherstellungen",
+        "description": "Schwert-Herstellung"
     },
     "scm1d": {
         "name": "Dolchherstellung",
-        "p": "Dagger Crafting",
-        "description": "Dolch Herstellung"
+        "p": "Dolchherstellungen",
+        "description": "Dolch-Herstellung"
     },
     "scm2m": {
-        "name": "Riesenstreitkolbenherstellung",
-        "p": "Two-handed Mace Crafting",
-        "description": "Zweihand Streitkolben Herstellung"
+        "name": "Zweihand-Streitkolben-Herstellung",
+        "p": "Zweihand-Streitkolben-Herstellung",
+        "description": "Zweihand Streitkolben-Herstellung"
     },
     "scm2p": {
-        "name": "Piekenherstellung",
-        "p": "Pike Crafting",
-        "description": "Pieke Herstellung"
+        "name": "Pikenherstellung",
+        "p": "Pikenherstellungen",
+        "description": "Piken-Herstellung"
     },
     "scm2a": {
-        "name": "Zweihand Axt Herstellung",
-        "p": "Two-handed Axe Crafting",
-        "description": "Zweihand Axt Herstellung"
+        "name": "Zweihand-Axt-Herstellung",
+        "p": "Zweihand-Axt-Herstellungen",
+        "description": "Zweihand-Axt-Herstellung"
     },
     "scm2s": {
-        "name": "Zweihand Schwert Herstellung",
-        "p": "Two-handed Sword Crafting",
-        "description": "Zweihand Schwert Herstellung"
+        "name": "Zweihand-Schwert-Herstellung",
+        "p": "Zweihand-Schwert-Herstellungen",
+        "description": "Zweihand-Schwert-Herstellung"
     },
     "scr1b": {
-        "name": "Bogenpistole Herstellung",
-        "p": "Bowpistol Crafting",
-        "description": "Bogenpistole Herstellung"
+        "name": "Bogenpistolenherstellung",
+        "p": "Bogenpistolenherstellungen",
+        "description": "Bogenpistolen-Herstellung"
     },
     "scr1p": {
         "name": "Pistolenherstellung",
-        "p": "Pistol Crafting",
-        "description": "Pistole Herstellung"
+        "p": "Pistolenherstellungen",
+        "description": "Pistolen-Herstellung"
     },
     "scr2a": {
-        "name": "Automatikgewehrherstellung",
-        "p": "Autolauncher Crafting",
-        "description": "Automatikgewehr Herstellung"
+        "name": "Automatikgewehr-Herstellung",
+        "p": "Automatikgewehr-Herstellungen",
+        "description": "Automatikgewehr-Herstellung"
     },
     "scr2b": {
-        "name": "Bogengewehrherstellung",
-        "p": "Bowrifle Crafting",
-        "description": "Bogengewehr Herstellung"
+        "name": "Bogengewehr-Herstellung",
+        "p": "Bogengewehr-Herstellungen",
+        "description": "Bogengewehr-Herstellung"
     },
     "scr2l": {
-        "name": "Raketenwerferherstellung",
-        "p": "Launcher Crafting",
-        "description": "Raketenwerfer Herstellung"
+        "name": "Raketenwerfer-Herstellung",
+        "p": "Raketenwerfer-Herstellungen",
+        "description": "Raketenwerfer-Herstellung"
     },
     "scr2r": {
         "name": "Gewehrherstellung",
-        "p": "Rifle Crafting",
-        "description": "Gewehr Herstellung"
+        "p": "Gewehrherstellungen",
+        "description": "Gewehr-Herstellung"
     },
     "scahbe": {
-        "name": "Fachmännische Herstellung schwerer Stiefel",
-        "p": "Expert Heavy Boots Crafting",
-        "description": "Fachmännische Schwere Stiefel Herstellung"
+        "name": "Experte in der Herstellung schwerer Stiefel",
+        "p": "Experten in der Herstellung schwerer Stiefel",
+        "description": "Fachmännische Schwere Stiefel-Herstellung"
     },
     "scahge": {
-        "name": "Fachmännische Herstellung schwerer Handschuhe",
-        "p": "Expert Heavy Gloves Crafting",
-        "description": "Fachmännische Schwere Handschuhe Herstellung"
+        "name": "Experte in der Herstellung schwerer Handschuhe",
+        "p": "Experten in der Herstellung schwerer Handschuhe",
+        "description": "Fachmännische Schwere Handschuh-Herstellung"
     },
     "scahhe": {
-        "name": "Fachmännische Herstellung schwerer Helme",
-        "p": "Expert Heavy Helmet Crafting",
-        "description": "Fachmännische Schwere Helm Herstellung"
+        "name": "Experte in der Herstellung schwerer Helme",
+        "p": "Experten in der Herstellung schwerer Helme",
+        "description": "Fachmännische Schwere Helm-Herstellung"
     },
     "scahpe": {
-        "name": "Fachmännische Herstellung schwerer Hosen",
-        "p": "Expert Heavy Pants Crafting",
-        "description": "Fachmännische Schwere Hosen Herstellung"
+        "name": "Experte in der Herstellung schwerer Hosen",
+        "p": "Experten in der Herstellung schwerer Hosen",
+        "description": "Fachmännische Schwere Hosen-Herstellung"
     },
     "scahse": {
-        "name": "Fachmännische Herstellung schwerer Armschützer",
-        "p": "Expert Heavy Sleeves Crafting",
-        "description": "Fachmännische Schwere Armschützer Herstellung"
+        "name": "Experte in der Herstellung schwerer Armschützer",
+        "p": "Experten in der Herstellung schwerer Armschützer",
+        "description": "Fachmännische Schwere Armschützer-Herstellung"
     },
     "scahve": {
-        "name": "Fachmännische Herstellung schwerer Westen",
-        "p": "Expert Heavy Vest Crafting",
-        "description": "Fachmännische Schwere Westen Herstellung"
+        "name": "Experte in der Herstellung schwerer Westen",
+        "p": "Experten in der Herstellung schwerer Westen",
+        "description": "Fachmännische Schwere Westen-Herstellung"
     },
     "scalbe": {
-        "name": "Fachmännische Herstellung leichter Stiefel",
-        "p": "Expert Light Boots Crafting",
-        "description": "Fachmännische Leichte Stiefel Herstellung"
+        "name": "Experte in der Herstellung leichter Stiefel",
+        "p": "Experten in der Herstellung leichter Stiefel",
+        "description": "Fachmännische Leichte Stiefel-Herstellung"
     },
     "scalge": {
-        "name": "Fachmännische Herstellung leichter Handschuhe",
-        "p": "Expert Light Gloves Crafting",
-        "description": "Fachmännische Leichte Handschuhe Herstellung"
+        "name": "Experte in der Herstellung leichter Handschuhe",
+        "p": "Experten in der Herstellung leichter Handschuhe",
+        "description": "Fachmännische Leichte Handschuh-Herstellung"
     },
     "scalpe": {
-        "name": "Fachmännische Herstellung leichter Hosen",
-        "p": "Expert Light Pants Crafting",
-        "description": "Fachmännische Leichte Hosen Herstellung"
+        "name": "Experte in der Herstellung leichter Hosen",
+        "p": "Experten in der Herstellung leichter Hosen",
+        "description": "Fachmännische Leichte Hosen-Herstellung"
     },
     "scalse": {
-        "name": "Fachmännische Herstellung leichter Armschützer",
-        "p": "Expert Light Sleeves Crafting",
-        "description": "Fachmännische Leichte Armschützer Herstellung"
+        "name": "Experte in der Herstellung leichter Armschützer",
+        "p": "Experten in der Herstellung leichter Armschützer",
+        "description": "Fachmännische Leichte Armschützer-Herstellung"
     },
     "scalve": {
-        "name": "Fachmännische Herstellung leichter Westen",
-        "p": "Expert Light Vest Crafting",
-        "description": "Fachmännische Leichte Westen Herstellung"
+        "name": "Experte in der Herstellung leichter Westen",
+        "p": "Experten in der Herstellung leichter Westen",
+        "description": "Fachmännische Leichte Westen-Herstellung"
     },
     "scambe": {
-        "name": "Fachmännische Herstellung mittelschwerer Stiefel",
-        "p": "Expert Medium Boots Crafting",
-        "description": "Fachmännische Mittelschwere Stiefel Herstellung"
+        "name": "Experte in der Herstellung mittelschwerer Stiefel",
+        "p": "Experten in der Herstellung mittelschwerer Stiefel",
+        "description": "Fachmännische Mittelschwere Stiefel-Herstellung"
     },
     "scamge": {
-        "name": "Fachmännische Herstellung mittelschwerer Handschuhe",
-        "p": "Expert Medium Gloves Crafting",
-        "description": "Fachmännische Mittelschwere Handschuhe Herstellung"
+        "name": "Experte in der Herstellung mittelschwerer Handschuhe",
+        "p": "Experten in der Herstellung mittelschwerer Handschuhe",
+        "description": "Fachmännische Mittelschwere Handschuh-Herstellung"
     },
     "scampe": {
-        "name": "Fachmännische Herstellung mittelschwerer Hosen",
-        "p": "Expert Medium Pants Crafting",
-        "description": "Fachmännische Mittelschwere Hosen Herstellung"
+        "name": "Experte in der Herstellung mittelschwerer Hosen",
+        "p": "Experten in der Herstellung mittelschwerer Hosen",
+        "description": "Fachmännische Mittelschwere Hosen-Herstellung"
     },
     "scamse": {
-        "name": "Fachmännische Herstellung mittelschwerer Armschützer",
-        "p": "Expert Medium Sleeves Crafting",
-        "description": "Fachmännische Mittelschwere Armschützer Herstellung"
+        "name": "Experte in der Herstellung mittelschwerer Armschützer",
+        "p": "Experten in der Herstellung mittelschwerer Armschützer",
+        "description": "Fachmännische Mittelschwere Armschützer-Herstellung"
     },
     "scamve": {
-        "name": "Fachmännische Herstellung mittelschwerer Westen",
-        "p": "Expert Medium Vest Crafting",
-        "description": "Fachmännische Mittelschwere Westen Herstellung"
+        "name": "Experte in der Herstellung mittelschwerer Westen",
+        "p": "Experten in der Herstellung mittelschwerer Westen",
+        "description": "Fachmännische Mittelschwere Westen-Herstellung"
     },
     "scasse": {
-        "name": "Fachmännische Schildherstellung",
-        "p": "Expert Shield Crafting",
-        "description": "Fachmännische Schild Herstellung"
+        "name": "Experte in der Schildherstellung",
+        "p": "Experten in der Schildherstellung",
+        "description": "Fachmännische Schild-Herstellung"
     },
     "scasbe": {
-        "name": "Fachmännische Beschützerherstellung",
-        "p": "Expert Buckler Crafting",
-        "description": "Fachmännische Beschützer Herstellung"
+        "name": "Experte in der Beschützerherstellung",
+        "p": "Experten in der Beschützerherstellung",
+        "description": "Fachmännische Beschützer-Herstellung"
     },
     "scjaae": {
-        "name": "Fachmännische Fusskettenherstellung",
-        "p": "Expert Anklet Crafting",
-        "description": "Fachmännische Fussring Herstellung"
+        "name": "Experte in der Fußringherstellung",
+        "p": "Experten in der Fußringherstellung",
+        "description": "Fachmännische Fußring-Herstellung"
     },
     "scjbae": {
-        "name": "Fachmännische Armreifherstellung",
-        "p": "Expert Bracelet Crafting",
-        "description": "Fachmännische Armband Herstellung"
+        "name": "Experte in der Armbandherstellung",
+        "p": "Experten in der Armbandherstellung",
+        "description": "Fachmännische Armband-Herstellung"
     },
     "scjdae": {
-        "name": "Fachmännische Diademherstellung",
-        "p": "Expert Diadem Crafting",
-        "description": "Fachmännische Diadem Herstellung"
+        "name": "Experte in der Diademherstellung",
+        "p": "Experten in der Diademherstellung",
+        "description": "Fachmännische Diadem-Herstellung"
     },
     "scjeae": {
-        "name": "Fachmännische Ohrringsherstellung",
-        "p": "Expert Earring Crafting",
-        "description": "Fachmännische Ohrring Herstellung"
+        "name": "Experte in der Ohrringsherstellung",
+        "p": "Experten in der Ohrringsherstellung",
+        "description": "Fachmännische Ohrring-Herstellung"
     },
     "scjpae": {
-        "name": "Fachmännische Kettenherstellung",
-        "p": "Expert Pendant Crafting",
-        "description": "Fachmännische Anhänger Herstellung"
+        "name": "Experte in der Anhängerherstellung",
+        "p": "Experten in der Anhängerherstellung",
+        "description": "Fachmännische Anhänger-Herstellung"
     },
     "scjrae": {
-        "name": "Fachmännische Ringherstellung",
-        "p": "Expert Ring Crafting",
-        "description": "Fachmännische Ring Herstellung"
+        "name": "Experte in der Ringherstellung",
+        "p": "Experten in der Ringherstellung",
+        "description": "Fachmännische Ring-Herstellung"
     },
     "scm1me": {
-        "name": "Fachmännische Streitkolbenherstellung",
-        "p": "Expert Mace Crafting",
-        "description": "Fachmännische Streitkolben Herstellung"
+        "name": "Experte in der Streitkolben-Herstellung",
+        "p": "Experten in der Streitkolben-Herstellung",
+        "description": "Fachmännische Streitkolben-Herstellung"
     },
     "scm1te": {
-        "name": "Fachmännische Stabherstellung",
-        "p": "Expert Staff Crafting",
+        "name": "Experte in der Stabherstellung",
+        "p": "Experten in der Stabherstellung",
         "description": "Fachmännische Stab Herstellung"
     },
     "scm1pe": {
-        "name": "Fachmännische Speerherstellung",
-        "p": "Expert Spear Crafting",
-        "description": "Fachmännische Speer Herstellung"
+        "name": "Experte in der Lanzenherstellung",
+        "p": "Experten in der Lanzenherstellung",
+        "description": "Fachmännische Lanzen-\/Speer-Herstellung"
     },
     "scm1ae": {
-        "name": "Fachmännische Axtherstellung",
-        "p": "Expert Axe Crafting",
+        "name": "Experte in der Axtherstellung",
+        "p": "Experten in der Axtherstellung",
         "description": "Fachmännische Axt Herstellung"
     },
     "scm1se": {
-        "name": "Fachmännische Schwertherstellung",
-        "p": "Expert Sword Crafting",
-        "description": "Fachmännische Schwert Herstellung"
+        "name": "Experte in der Schwertherstellung",
+        "p": "Experten in der Schwertherstellung",
+        "description": "Fachmännische Schwert-Herstellung"
     },
     "scm1de": {
-        "name": "Fachmännische Dolchherstellung",
-        "p": "Expert Dagger Crafting",
+        "name": "Experte in der Dolchherstellung",
+        "p": "Experten in der Dolchherstellung",
         "description": "Fachmännische Dolch Herstellung"
     },
     "scm2me": {
-        "name": "Fachmännische Riesenstreitkolbenherstellung",
-        "p": "Expert Two-handed Mace Crafting",
-        "description": "Fachmännische Zweihand Streitkolben Herstellung"
+        "name": "Experte in der Zweihand-Streitkolben-Herstellung",
+        "p": "Experten in der Zweihand-Streitkolben-Herstellung",
+        "description": "Fachmännische Zweihand-Streitkolben-Herstellung"
     },
     "scm2pe": {
-        "name": "Fachmännische Piekenherstellung",
-        "p": "Expert Pike Crafting",
-        "description": "Fachmännische Pieke Herstellung"
+        "name": "Experte in der Pikenherstellung",
+        "p": "Experten in der Pikenherstellung",
+        "description": "Fachmännische Pike Herstellung"
     },
     "scm2ae": {
-        "name": "Fachmännische Langaxtherstellung",
-        "p": "Expert Two-handed Axe Crafting",
-        "description": "Fachmännische Zweihand Axt Herstellung"
+        "name": "Experte in der Zweihand-Axt-Herstellung",
+        "p": "Experten in der Zweihand-Axt-Herstellung",
+        "description": "Fachmännische Zweihand-Axt-Herstellung"
     },
     "scm2se": {
-        "name": "Fachmännische Langschwertherstellung",
-        "p": "Expert Two-handed Sword Crafting",
-        "description": "Fachmännische Zweihand Schwert Herstellung"
+        "name": "Experte in der Zweihand-Schwert-Herstellung",
+        "p": "Experten in der Zweihand-Schwert-Herstellung",
+        "description": "Fachmännische Zweihand-Schwert-Herstellung"
     },
     "scr1be": {
-        "name": "Fachmännische Bogenpistolenherstellung",
-        "p": "Expert Bowpistol Crafting",
+        "name": "Experte in der Bogenpistolenherstellung",
+        "p": "Experten in der Bogenpistolenherstellung",
         "description": "Fachmännische Bogenpistole Herstellung"
     },
     "scr1pe": {
-        "name": "Fachmännische Pistolenherstellung",
-        "p": "Expert Pistol Crafting",
+        "name": "Experte in der Pistolenherstellung",
+        "p": "Experten in der Pistolenherstellung",
         "description": "Fachmännische Pistole Herstellung"
     },
     "scr2ae": {
-        "name": "Fachmännische Automatikgewehrherstellung",
-        "p": "Expert Autolauncher Crafting",
-        "description": "Fachmännische Automatikgewehr Herstellung"
+        "name": "Experte in der Automatikgewehr-Herstellung",
+        "p": "Experten in der Automatikgewehr-Herstellung",
+        "description": "Fachmännische Automatikgewehr-Herstellung"
     },
     "scr2be": {
-        "name": "Fachmännische Bogengewehrherstellung",
-        "p": "Expert Bowrifle Crafting",
+        "name": "Experte in der Bogengewehr-Herstellung",
+        "p": "Experten in der Bogengewehr-Herstellung",
         "description": "Fachmännische Bogengewehr Herstellung"
     },
     "scr2le": {
-        "name": "Fachmännische Raketenwerferherstellung",
-        "p": "Expert Launcher Crafting",
-        "description": "Fachmännische Raketenwerfer Herstellung"
+        "name": "Experte in der Raketenwerfer-Herstellung",
+        "p": "Experten in der Raketenwerfer-Herstellung",
+        "description": "Fachmännische Raketenwerfer-Herstellung"
     },
     "scr2re": {
-        "name": "Fachmännische Gewehrherstellung",
-        "p": "Expert Rifle Crafting",
+        "name": "Experte in der Gewehrherstellung",
+        "p": "Experten in der Gewehrherstellung",
         "description": "Fachmännische Gewehr Herstellung"
     },
     "scahbem": {
-        "name": "Meisterliche Herstellung schwerer Stiefel",
-        "p": "Master Heavy Boots Crafting",
-        "description": "Meisterliche Schwere Stiefel Herstellung"
+        "name": "Meister in der Herstellung schwerer Stiefel",
+        "p": "Meister in der Herstellung schwerer Stiefel",
+        "description": "Meisterliche Schwere Stiefel-Herstellung"
     },
     "scahgem": {
-        "name": "Meisterliche Herstellung schwerer Handschuhe",
-        "p": "Master Heavy Gloves Crafting",
-        "description": "Meisterliche Schwere Handschuhe Herstellung"
+        "name": "Meister in der Herstellung schwerer Handschuhe",
+        "p": "Meister in der Herstellung schwerer Handschuhe",
+        "description": "Meisterliche Schwere Handschuh-Herstellung"
     },
     "scahhem": {
-        "name": "Meisterliche Herstellung schwerer Helme",
-        "p": "Master Heavy Helmet Crafting",
-        "description": "Meisterliche Schwere Helm Herstellung"
+        "name": "Meister in der Herstellung schwerer Helme",
+        "p": "Meister in der Herstellung schwerer Helme",
+        "description": "Meisterliche Schwere Helm-Herstellung"
     },
     "scahpem": {
-        "name": "Meisterliche Herstellung schwerer Hosen",
-        "p": "Master Heavy Pants Crafting",
-        "description": "Meisterliche Schwere Hosen Herstellung"
+        "name": "Meister in der Herstellung schwerer Hosen",
+        "p": "Meister in der Herstellung schwerer Hosen",
+        "description": "Meisterliche Schwere Hosen-Herstellung"
     },
     "scahsem": {
-        "name": "Meisterliche Herstellung schwerer Armschützer",
-        "p": "Master Heavy Sleeves Crafting",
-        "description": "Meisterliche Schwere Armschützer Herstellung"
+        "name": "Meister in der Herstellung schwerer Armschützer",
+        "p": "Meister in der Herstellung schwerer Armschützer",
+        "description": "Meisterliche Schwere Armschützer-Herstellung"
     },
     "scahvem": {
-        "name": "Meisterliche Herstellung schwerer Westen",
-        "p": "Master Heavy Vest Crafting",
-        "description": "Meisterliche Schwere Westen Herstellung"
+        "name": "Meister in der Herstellung schwerer Westen",
+        "p": "Meister in der Herstellung schwerer Westen",
+        "description": "Meisterliche Schwere Westen-Herstellung"
     },
     "scalbem": {
-        "name": "Meisterliche Herstellung leichter Stiefel",
-        "p": "Master Light Boots Crafting",
-        "description": "Meisterliche Leichte Stiefel Herstellung"
+        "name": "Meister in der Herstellung leichter Stiefel",
+        "p": "Meister in der Herstellung leichter Stiefel",
+        "description": "Meisterliche Leichte Stiefel-Herstellung"
     },
     "scalgem": {
-        "name": "Meisterliche Herstellung leichter Handschuhe",
-        "p": "Master Light Gloves Crafting",
-        "description": "Meisterliche Leichte Handschuhe Herstellung"
+        "name": "Meister in der Herstellung leichter Handschuhe",
+        "p": "Meister in der Herstellung leichter Handschuhe",
+        "description": "Meisterliche Leichte Handschuh-Herstellung"
     },
     "scalpem": {
-        "name": "Meisterliche Herstellung leichter Hosen",
-        "p": "Master Light Pants Crafting",
-        "description": "Meisterliche Leichte Hosen Herstellung"
+        "name": "Meister in der Herstellung leichter Hosen",
+        "p": "Meister in der Herstellung leichter Hosen",
+        "description": "Meisterliche Leichte Hosen-Herstellung"
     },
     "scalsem": {
-        "name": "Meisterliche Herstellung leichter Armschützer",
-        "p": "Master Light Sleeves Crafting",
-        "description": "Meisterliche Leichte Armschützer Herstellung"
+        "name": "Meister in der Herstellung leichter Armschützer",
+        "p": "Meister in der Herstellung leichter Armschützer",
+        "description": "Meisterliche Leichte Armschützer-Herstellung"
     },
     "scalvem": {
-        "name": "Meisterliche Herstellung leichter Westen",
-        "p": "Master Light Vest Crafting",
-        "description": "Meisterliche Leichte Westen Herstellung"
+        "name": "Meister in der Herstellung leichter Westen",
+        "p": "Meister in der Herstellung leichter Westen",
+        "description": "Meisterliche Leichte Westen-Herstellung"
     },
     "scambem": {
-        "name": "Meisterliche Herstellung mittelschwerer Stiefel",
-        "p": "Master Medium Boots Crafting",
-        "description": "Meisterliche Mittelschwere Stiefel Herstellung"
+        "name": "Meister in der Herstellung mittelschwerer Stiefel",
+        "p": "Meister in der Herstellung mittelschwerer Stiefel",
+        "description": "Meisterliche Mittelschwere Stiefel-Herstellung"
     },
     "scamgem": {
-        "name": "Meisterliche Herstellung mittelschwerer Handschuhe",
-        "p": "Master Medium Gloves Crafting",
-        "description": "Meisterliche Mittelschwere Handschuhe Herstellung"
+        "name": "Meister in der Herstellung mittelschwerer Handschuhe",
+        "p": "Meister in der Herstellung mittelschwerer Handschuhe",
+        "description": "Meisterliche Mittelschwere Handschuh-Herstellung"
     },
     "scampem": {
-        "name": "Meisterliche Herstellung mittelschwerer Hosen",
-        "p": "Master Medium Pants Crafting",
-        "description": "Meisterliche Mittelschwere Hosen Herstellung"
+        "name": "Meister in der Herstellung mittelschwerer Hosen",
+        "p": "Meister in der Herstellung mittelschwerer Hosen",
+        "description": "Meisterliche Mittelschwere Hosen-Herstellung"
     },
     "scamsem": {
-        "name": "Meisterliche Herstellung mittelschwerer Armschützer",
-        "p": "Master Medium Sleeves Crafting",
-        "description": "Meisterliche Mittelschwere Armschützer Herstellung"
+        "name": "Meister in der Herstellung mittelschwerer Armschützer",
+        "p": "Meister in der Herstellung mittelschwerer Armschützer",
+        "description": "Meisterliche Mittelschwere Armschützer-Herstellung"
     },
     "scamvem": {
-        "name": "Meisterliche Herstellung mittelschwerer Westen",
-        "p": "Master Medium Vest Crafting",
-        "description": "Meisterliche Mittelschwere Westen Herstellung"
+        "name": "Meister in der Herstellung mittelschwerer Westen",
+        "p": "Meister in der Herstellung mittelschwerer Westen",
+        "description": "Meisterliche Mittelschwere Westen-Herstellung"
     },
     "scassem": {
-        "name": "Meisterliche Schildherstellung",
-        "p": "Master Shield Crafting",
-        "description": "Meisterliche Schild Herstellung"
+        "name": "Meister in der Schildherstellung",
+        "p": "Meister in der Schildherstellung",
+        "description": "Meisterliche Schild-Herstellung"
     },
     "scasbem": {
-        "name": "Meisterliche Beschützerherstellung",
-        "p": "Master Buckler Crafting",
-        "description": "Meisterliche Beschützer Herstellung"
+        "name": "Meister in der Beschützerherstellung",
+        "p": "Meister in der Beschützerherstellung",
+        "description": "Meisterliche Beschützer-Herstellung"
     },
     "scjaaem": {
-        "name": "Meisterliche Fusskettenherstellung",
-        "p": "Master Anklet Crafting",
-        "description": "Meisterliche Fussring Herstellung"
+        "name": "Meister in der Fußringherstellung",
+        "p": "Meister in der Fußringherstellung",
+        "description": "Meisterliche Fußring-Herstellung"
     },
     "scjbaem": {
-        "name": "Meisterliche Armreifherstellung",
-        "p": "Master Bracelet Crafting",
-        "description": "Meisterliche Armband Herstellung"
+        "name": "Meister in der Armbandherstellung",
+        "p": "Meister in der Armbandherstellung",
+        "description": "Meisterliche Armband-Herstellung"
     },
     "scjdaem": {
-        "name": "Meisterliche Diademherstellung",
-        "p": "Master Diadem Crafting",
-        "description": "Meisterliche Diadem Herstellung"
+        "name": "Meister in der Diademherstellung",
+        "p": "Meister in der Diademherstellung",
+        "description": "Meisterliche Diadem-Herstellung"
     },
     "scjeaem": {
-        "name": "Meisterliche Ohrringsherstellung",
-        "p": "Master Earring Crafting",
-        "description": "Meisterliche Ohrring Herstellung"
+        "name": "Meister in der Ohrringsherstellung",
+        "p": "Meister in der Ohrringsherstellung",
+        "description": "Meisterliche Ohrring-Herstellung"
     },
     "scjpaem": {
-        "name": "Meisterliche Kettenherstellung",
-        "p": "Master Pendant Crafting",
-        "description": "Meisterliche Anhänger Herstellung"
+        "name": "Meister in der Anhängerherstellung",
+        "p": "Meister in der Anhängerherstellung",
+        "description": "Meisterliche Anhänger-Herstellung"
     },
     "scjraem": {
-        "name": "Meisterliche Ringherstellung",
-        "p": "Master Ring Crafting",
-        "description": "Meisterliche Ring Herstellung"
+        "name": "Meister in der Ringherstellung",
+        "p": "Meister in der Ringherstellung",
+        "description": "Meisterliche Ring-Herstellung"
     },
     "scm1mem": {
-        "name": "Meisterliche Streitkolbenherstellung",
-        "p": "Master Mace Crafting",
-        "description": "Meisterliche Streitkolben Herstellung"
+        "name": "Meister in der Streitkolben-Herstellung",
+        "p": "Meister in der Streitkolben-Herstellung",
+        "description": "Meisterliche Streitkolben-Herstellung"
     },
     "scm1tem": {
-        "name": "Meisterliche Stabherstellung",
-        "p": "Master Staff Crafting",
-        "description": "Meisterliche Stab Herstellung"
+        "name": "Meister in der Stabherstellung",
+        "p": "Meister in der Stabherstellung",
+        "description": "Meisterliche Stab-Herstellung"
     },
     "scm1pem": {
-        "name": "Meisterliche Speerherstellung",
-        "p": "Master Spear Crafting",
-        "description": "Meisterliche Speer Herstellung"
+        "name": "Meister in der Lanzenherstellung",
+        "p": "Meister in der Lanzenherstellung",
+        "description": "Meisterliche Lanzen-\/Speer-Herstellung"
     },
     "scm1aem": {
-        "name": "Meisterliche Axtherstellung",
-        "p": "Master Axe Crafting",
-        "description": "Meisterliche Axt Herstellung"
+        "name": "Meister in der Axtherstellung",
+        "p": "Meister in der Axtherstellung",
+        "description": "Meisterliche Axt-Herstellung"
     },
     "scm1sem": {
-        "name": "Meisterliche Schwertherstellung",
-        "p": "Master Sword Crafting",
-        "description": "Meisterliche Schwert Herstellung"
+        "name": "Meister in der Schwertherstellung",
+        "p": "Meister in der Schwertherstellung",
+        "description": "Meisterliche Schwert-Herstellung"
     },
     "scm1dem": {
-        "name": "Meisterliche Dolchherstellung",
-        "p": "Master Dagger Crafting",
-        "description": "Meisterliche Dolch Herstellung"
+        "name": "Meister in der Dolchherstellung",
+        "p": "Meister in der Dolchherstellung",
+        "description": "Meisterliche Dolch-Herstellung"
     },
     "scm2mem": {
-        "name": "Meisterliche Riesenstreitkolbenherstellung",
-        "p": "Master Two-handed Mace Crafting",
-        "description": "Meisterliche Zweihand Streitkolben Herstellung"
+        "name": "Meister in der Zweihand-Streitkolben-Herstellung",
+        "p": "Meister in der Zweihand-Streitkolben-Herstellung",
+        "description": "Meisterliche Zweihand-Streitkolben-Herstellung"
     },
     "scm2pem": {
-        "name": "Meisterliche Piekenherstellung",
-        "p": "Master Pike Crafting",
-        "description": "Meisterliche Pieke Herstellung"
+        "name": "Meister in der Pikenherstellung",
+        "p": "Meister in der Pikenherstellung",
+        "description": "Meisterliche Piken-Herstellung"
     },
     "scm2aem": {
-        "name": "Meisterliche Langaxtherstellung",
-        "p": "Master Two-handed Axe Crafting",
-        "description": "Meisterliche Zweihand Axt Herstellung"
+        "name": "Meister in der Zweihand-Axt-Herstellung",
+        "p": "Meister in der Zweihand-Axt-Herstellung",
+        "description": "Meisterliche Zweihand-Axt-Herstellung"
     },
     "scm2sem": {
-        "name": "Meisterliche Langschwertherstellung",
-        "p": "Master Two-handed Sword Crafting",
-        "description": "Meisterliche Zweihand Schwert Herstellung"
+        "name": "Meister in der Zweihand-Schwert-Herstellung",
+        "p": "Meister in der Zweihand-Schwert-Herstellung",
+        "description": "Meisterliche Zweihand-Schwert-Herstellung"
     },
     "scr1bem": {
-        "name": "Meisterliche Bogenpistolenherstellung",
-        "p": "Master Bowpistol Crafting",
-        "description": "Meisterliche Bogenpistole Herstellung"
+        "name": "Meister in der Bogenpistolenherstellung",
+        "p": "Meister in der Bogenpistolenherstellung",
+        "description": "Meisterliche Bogenpistolen-Herstellung"
     },
     "scr1pem": {
-        "name": "Meisterliche Pistolenherstellung",
-        "p": "Master Pistol Crafting",
-        "description": "Meisterliche Pistole Herstellung"
+        "name": "Meister in der Pistolenherstellung",
+        "p": "Meister in der Pistolenherstellung",
+        "description": "Meisterliche Pistolen-Herstellung"
     },
     "scr2aem": {
-        "name": "Meisterliche Automatikgewehrherstellung",
-        "p": "Master Autolauncher Crafting",
-        "description": "Meisterliche Automatikgewehr Herstellung"
+        "name": "Meister in der Automatikgewehr-Herstellung",
+        "p": "Meister in der Automatikgewehr-Herstellung",
+        "description": "Meisterliche Automatikgewehr-Herstellung"
     },
     "scr2bem": {
-        "name": "Meisterliche Bogengewehrherstellung",
-        "p": "Master Bowrifle Crafting",
-        "description": "Meisterliche Bogengewehr Herstellung"
+        "name": "Meister in der Bogengewehr-Herstellung",
+        "p": "Meister in der Bogengewehr-Herstellung",
+        "description": "Meisterliche Bogengewehr-Herstellung"
     },
     "scr2lem": {
-        "name": "Meisterliche Raketenwerferherstellung",
-        "p": "Master Launcher Crafting",
-        "description": "Meisterliche Raketenwerfer Herstellung"
+        "name": "Meister in der Raketenwerfer-Herstellung",
+        "p": "Meister in der Raketenwerfer-Herstellung",
+        "description": "Meisterliche Raketenwerfer-Herstellung"
     },
     "scr2rem": {
-        "name": "Meisterliche Gewehrherstellung",
-        "p": "Master Rifle Crafting",
-        "description": "Meisterliche Gewehr Herstellung"
+        "name": "Meister in der Gewehrherstellung",
+        "p": "Meister in der Gewehrherstellung",
+        "description": "Meisterliche Gewehr-Herstellung"
     },
     "scmc": {
-        "name": "Close Combat Weapon Crafting",
-        "p": "Leichtwaffen Herstellung",
-        "description": "Leichtwaffen Herstellung"
+        "name": "Magieverstärker-Herstellung",
+        "p": "Magieverstärker-Herstellungen",
+        "description": "Magieverstärker-Herstellung"
     },
     "scmca": {
-        "name": "Fortgeschrittene Zauberverstärker Herstellung ",
-        "p": "Fortgeschrittene Zauberverstärker Herstellungen",
-        "description": "Herstellung fortgeschrittener Zauberverstärker"
+        "name": "Fortgeschrittener in Magieverstärker-Herstellung",
+        "p": "Fortgeschrittene in Magieverstärker-Herstellung",
+        "description": "fortgeschrittene Zauberverstärker-Herstellung"
     },
     "scmcae": {
-        "name": "Experten Zauberverstärker Herstellung ",
-        "p": "Experten Zauberverstärker Herstellungen ",
-        "description": "Herstellung Zauberverstärker für Experten"
+        "name": "Experte in Magieverstärker-Herstellung",
+        "p": "Experten in Magieverstärker-Herstellung",
+        "description": "Fachmännische Zauberverstärker-Herstellung"
     },
     "scmcaem": {
-        "name": "Meister Zauberverstärker Herstellung ",
-        "p": "Meister Zauberverstärker Herstellungen ",
-        "description": "Herstellung Zauberverstärker für Meister"
+        "name": "Meister Magieverstärker-Herstellung",
+        "p": "Meister Magieverstärker-Herstellung",
+        "description": "Meisterliche Zauberverstärker-Herstellung"
     }
 }

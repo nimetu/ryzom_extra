@@ -42,7 +42,7 @@
         "name": "Matisianischer Forst"
     },
     "matis_nland": {
-        "name": "Matis-Insel"
+        "name": "Matisianische Insel"
     },
     "place_stalli": {
         "name": "Stalli"
@@ -279,16 +279,16 @@
         "name": "Gildenrat"
     },
     "guild_rm_fight": {
-        "name": "Gilden-Kampflehrer"
+        "name": "Gilden-Kampflehrer-Quartier"
     },
     "guild_rm_magic": {
-        "name": "Gilden-Magielehrer"
+        "name": "Gilden-Magielehrer-Quartier"
     },
     "guild_rm_harvest": {
-        "name": "Gilden-Rohstoffabbaulehrer"
+        "name": "Gilden-Rohstoffabbaulehrer-Quartier"
     },
     "guild_rm_craft": {
-        "name": "Gilden-Handwerkslehrer"
+        "name": "Gilden-Handwerkslehrer-Quartier"
     },
     "player_room": {
         "name": "Spielerraum"
@@ -645,7 +645,7 @@
         "name": "Klippendurchgang"
     },
     "place_lieudit_gateofobscurity_2": {
-        "name": "Oberer Steinkreis"
+        "name": "Oberer Pfeilerkreis"
     },
     "place_lieudit_gateofobscurity_3": {
         "name": "Kleine Hügel"
@@ -753,7 +753,7 @@
         "name": "Handelsposten am Psykopla-Hügel"
     },
     "place_outpost_matis_05": {
-        "name": "Grenzposten der Erhebung"
+        "name": "Grenzposten bei der Erhebung"
     },
     "place_outpost_matis_06": {
         "name": "Südöstlicher Handelsposten"
@@ -762,10 +762,10 @@
         "name": "Hof des Entdeckers"
     },
     "place_outpost_matis_08": {
-        "name": "Werkstatt des Horts"
+        "name": "Werkstatt am Hort"
     },
     "place_outpost_matis_09": {
-        "name": "Magischer Ort des Kami-Kreises"
+        "name": "Magischer Ort am Kami-Kreis"
     },
     "place_outpost_matis_16": {
         "name": "Gebirgspass-Grenzposten"
@@ -774,16 +774,16 @@
         "name": "Wooky-Werkstatt"
     },
     "place_outpost_matis_18": {
-        "name": "Festung der Ödlandpforte"
+        "name": "Festung an der Ödlandpforte"
     },
     "place_outpost_matis_19": {
         "name": "Gebirgspass-Forschungszentrum"
     },
     "place_outpost_matis_20": {
-        "name": "Festung der Klippe von Rye"
+        "name": "Festung an der Klippe von Rye"
     },
     "place_outpost_matis_21": {
-        "name": "Hof der Anhöhe der Torbaks"
+        "name": "Hof an der Anhöhe der Torbaks"
     },
     "place_outpost_matis_22": {
         "name": "Werkstatt am Berg der Pein"
@@ -804,10 +804,10 @@
         "name": "Moorteiche-Werkstatt"
     },
     "place_outpost_matis_28": {
-        "name": "Werkstatt des Kleinen Berges"
+        "name": "Werkstatt am Kleinen Berg"
     },
     "place_outpost_matis_29": {
-        "name": "Festung des Kleinen Berges"
+        "name": "Festung am Kleinen Berg"
     },
     "place_outpost_matis_30": {
         "name": "Berello-Schlucht-Grenzposten"
@@ -822,10 +822,10 @@
         "name": "Diplomatischer Außenposten der Oberen Hütte"
     },
     "place_outpost_matis_11": {
-        "name": "Hof der Ebene der Torheit"
+        "name": "Hof in der Ebene der Torheit"
     },
     "place_outpost_matis_12": {
-        "name": "Werkstatt des Grünen Beckens"
+        "name": "Werkstatt im Grünen Becken"
     },
     "place_outpost_matis_13": {
         "name": "Forschungszentrum am Sumpf der Angst"
@@ -858,7 +858,7 @@
         "name": "Jungfernteich-Werkstatt"
     },
     "place_outpost_zorai_12": {
-        "name": "Grenzposten der Großen Hand"
+        "name": "Grenzposten an der Großen Hand"
     },
     "place_outpost_zorai_13": {
         "name": "Werkstatt am Großen Brocken"
@@ -870,7 +870,7 @@
         "name": "Kincherbogen-Grenzposten"
     },
     "place_outpost_zorai_21": {
-        "name": "Werkstatt am Stickenden See"
+        "name": "Werkstatt am Stinkenden See"
     },
     "place_outpost_zorai_22": {
         "name": "Diplomatischer Außenposten der Dämonenkreuzung"
@@ -885,7 +885,7 @@
         "name": "Gu-Qin-Werkstatt"
     },
     "place_outpost_zorai_03": {
-        "name": "Hof des Verdammten Labyrinths"
+        "name": "Hof am Verdammten Labyrinth"
     },
     "place_outpost_zorai_04": {
         "name": "Wölbung-Festung"
@@ -912,7 +912,7 @@
         "name": "Fleckenmoor-Grenzposten"
     },
     "place_outpost_zorai_28": {
-        "name": "Hof des Trockenen Stamms"
+        "name": "Hof am Trockenen Stamm"
     },
     "place_outpost_zorai_29": {
         "name": "Werkstatt des Großen Buschlandes"
@@ -933,7 +933,7 @@
         "name": "Festung der Kontemplation"
     },
     "place_outpost_zorai_19": {
-        "name": "Hof des Verdorrten Stamms"
+        "name": "Hof am Verdorrten Stamm"
     },
     "place_outpost_fyros_14": {
         "name": "Schwarzbrand-Handelsposten"
@@ -957,7 +957,7 @@
         "name": "Rindenschlucht-Hof"
     },
     "place_outpost_fyros_19": {
-        "name": "Diplomatischer Außenposten des Hohen Riffs"
+        "name": "Diplomatischer Außenposten am Hohen Riff"
     },
     "place_outpost_fyros_20": {
         "name": "Werkstatt des Untergangs"
@@ -978,7 +978,7 @@
         "name": "Hochtürme-Hof"
     },
     "place_outpost_fyros_22": {
-        "name": "Festung der Thesos-Quelle"
+        "name": "Festung an der Thesos-Quelle"
     },
     "place_outpost_fyros_23": {
         "name": "Werkstatt am Langen Grat"
@@ -996,7 +996,7 @@
         "name": "Grenzposten der Dyron-Anhöhe"
     },
     "place_outpost_fyros_02": {
-        "name": "Norddyron-Festung"
+        "name": "Nord-Dyron-Festung"
     },
     "place_outpost_fyros_03": {
         "name": "Drachenschwanz-Werkstatt"
@@ -1014,7 +1014,7 @@
         "name": "Stachel-des-Drachen-Werkstatt"
     },
     "place_outpost_fyros_27": {
-        "name": "Holzbrand - Magischer Ort"
+        "name": "Magischer Ort am Holzbrand"
     },
     "place_outpost_fyros_28": {
         "name": "Holzbrand-Festung"
@@ -1023,7 +1023,7 @@
         "name": "Schwarzmoor-Grenzposten"
     },
     "place_outpost_tryker_03": {
-        "name": "Werkstatt der Anmutigen Insel"
+        "name": "Werkstatt auf der Anmutigen Insel"
     },
     "place_outpost_tryker_04": {
         "name": "Sandy-Werkstatt"
@@ -1038,7 +1038,7 @@
         "name": "Windermeer-Hof"
     },
     "place_outpost_tryker_23": {
-        "name": "Grenzposten des Tors von Loria"
+        "name": "Grenzposten am Tor von Loria"
     },
     "place_outpost_tryker_24": {
         "name": "Weg der Winde - Werkstatt"
@@ -1050,7 +1050,7 @@
         "name": "Drei-Säulen-Hof"
     },
     "place_outpost_tryker_27": {
-        "name": "Werkstatt der Verträumten Seen"
+        "name": "Werkstatt an den Verträumten Seen"
     },
     "place_outpost_tryker_08": {
         "name": "Quellsee-Werkstatt"
@@ -1065,16 +1065,16 @@
         "name": "Corrie-Finley-Hof"
     },
     "place_outpost_tryker_12": {
-        "name": "Werkstatt der Säulen der Besinnung"
+        "name": "Werkstatt an den Säulen der Besinnung"
     },
     "place_outpost_tryker_18": {
         "name": "Cute-Quellsee-Forschungszentrum"
     },
     "place_outpost_tryker_19": {
-        "name": "Grenzposten des Tors zur Freiheit"
+        "name": "Grenzposten am Tor zur Freiheit"
     },
     "place_outpost_tryker_20": {
-        "name": "Festung der Sprudelnden Cute-Quellen"
+        "name": "Festung an den Sprudelnden Cute-Quellen"
     },
     "place_outpost_tryker_21": {
         "name": "Tupile-Handelsposten"
@@ -1083,19 +1083,19 @@
         "name": "Zwillingsgipfel-Werkstatt"
     },
     "place_outpost_tryker_13": {
-        "name": "Diplomatischer Außenposten der Brüchigen Gipfel"
+        "name": "Diplomatischer Außenposten auf den Brüchigen Gipfeln"
     },
     "place_outpost_tryker_14": {
-        "name": "Werkstatt des Sinkenden Sandes"
+        "name": "Werkstatt im Sinkenden Sand"
     },
     "place_outpost_tryker_15": {
-        "name": "Magischer Ort der Ostküste"
+        "name": "Magischer Ort an der Ostküste"
     },
     "place_outpost_tryker_16": {
         "name": "Friedhofspforte-Forschungszentrum"
     },
     "place_outpost_tryker_17": {
-        "name": "Festung des Grässlichen Morasts"
+        "name": "Festung im Grässlichen Morast"
     },
     "place_outpost_tryker_28": {
         "name": "Wasserpforte-Grenzposten"
@@ -1110,28 +1110,28 @@
         "name": "Wirbelwind-Festung"
     },
     "place_outpost_tryker_32": {
-        "name": "Werkstatt der Stürmischen Schlucht"
+        "name": "Werkstatt in der Stürmischen Schlucht"
     },
     "place_outpost_pr_04": {
-        "name": "Werkstatt der Ruinen von Leron"
+        "name": "Werkstatt in den Ruinen von Leron"
     },
     "place_outpost_pr_05": {
-        "name": "Forschungszentrum der Hallen des Schwarzen Rings"
+        "name": "Forschungszentrum in den Hallen des Schwarzen Rings"
     },
     "place_outpost_pr_06": {
         "name": "Gefallener-Baum-Werkstatt"
     },
     "place_outpost_pr_10": {
-        "name": "Festung des Klippendurchgangs"
+        "name": "Festung am Klippendurchgang"
     },
     "place_outpost_pr_11": {
-        "name": "Forschungszentrum des Oberen Steinkreises"
+        "name": "Forschungszentrum am Oberen Steinkreis"
     },
     "place_outpost_pr_12": {
-        "name": "Festung der Kleinen Hügel"
+        "name": "Festung in den Kleinen Hügeln"
     },
     "place_outpost_pr_13": {
-        "name": "Forschungszentrum der Kleinen Hügel"
+        "name": "Forschungszentrum in den Kleinen Hügeln"
     },
     "place_outpost_nexus_01": {
         "name": "Tor von Ichor - Forschungszentrum"
@@ -1143,7 +1143,7 @@
         "name": "Tor nach Umbra - Hof"
     },
     "place_outpost_nexus_04": {
-        "name": "Schicksalsende - Diplomatischer Außenposten"
+        "name": "Diplomatischer Außenposten am Schicksalsende"
     },
     "place_outpost_nexus_05": {
         "name": "Talwacht-Werkstatt"
@@ -1155,16 +1155,16 @@
         "name": "Tor ins Niemandsland – Grenzposten"
     },
     "place_outpost_pr_01": {
-        "name": "Forschungszentrum der Westlichen Sapquelle"
+        "name": "Forschungszentrum an der Westlichen Sapquelle"
     },
     "place_outpost_pr_02": {
-        "name": "Werkstatt der Östlichen Sapquelle"
+        "name": "Werkstatt an der Östlichen Sapquelle"
     },
     "place_outpost_pr_03": {
-        "name": "Festung der Nexuspforte"
+        "name": "Festung an der Nexuspforte"
     },
     "place_outpost_pr_14": {
-        "name": "Schauriges Tal - Magischer Ort"
+        "name": "Magischer Ort im Schaurigen Tal"
     },
     "place_outpost_pr_15": {
         "name": "Aedenpforte-Werkstatt"
@@ -1182,31 +1182,31 @@
         "name": "Dreitotempass-Werkstatt"
     },
     "place_outpost_pr_17": {
-        "name": "Festung des Toten Baumes"
+        "name": "Festung am Toten Baum"
     },
     "place_outpost_pr_18": {
         "name": "Sapsumpf-Handelsposten"
     },
     "place_outpost_pr_19": {
-        "name": "Grenzposten der Stechenden Wiese"
+        "name": "Grenzposten in der Stechenden Wiese"
     },
     "place_outpost_pr_20": {
         "name": "Grottenweg-Forschungszentrum"
     },
     "place_outpost_pr_21": {
-        "name": "Festung der Verfluchten Höhle"
+        "name": "Festung in der Verfluchten Höhle"
     },
     "place_outpost_pr_22": {
         "name": "Werkstatt im Großen Pilzwald"
     },
     "place_outpost_pr_23": {
-        "name": "Hof des Flügels der Feindschaft"
+        "name": "Hof im Flügel der Feindschaft"
     },
     "place_outpost_pr_24": {
         "name": "Diplomatischer Außenposten in der Wegkehre der Kontinuität"
     },
     "place_outpost_pr_25": {
-        "name": "Festung des Großen Sapsees"
+        "name": "Festung am Großen Sapsee"
     },
     "place_outpost_pr_26": {
         "name": "Werkstatt im Freundlichen Tal"
@@ -1218,10 +1218,10 @@
         "name": "Drachenhorn-Werkstatt"
     },
     "place_outpost_pr_29": {
-        "name": "Hof der Ruinen von Cryton"
+        "name": "Hof an den Ruinen von Cryton"
     },
     "place_outpost_pr_30": {
-        "name": "Festung des vergifteten Berges"
+        "name": "Festung am Vergifteten Berg"
     },
     "indoors_rolemaster_craft": {
         "name": "Handwerkslehrmeister"
@@ -1341,10 +1341,10 @@
         "name": "Kaufmannsgasse"
     },
     "continent_matis_newbie": {
-        "name": "Matis-Insel"
+        "name": "Matis-Startinsel"
     },
     "continent_zorai_newbie": {
-        "name": "Zoraï-Insel"
+        "name": "Zoraï-Startinsel"
     },
     "place_aegus_indoors": {
         "name": "Aegus Lehrmeister"
@@ -1407,7 +1407,7 @@
         "name": "Dingleton Lehrmeister"
     },
     "place_zora_p_cimetiere": {
-        "name": "Friedhof"
+        "name": "Friedhof von Zora"
     },
     "place_zora_p_marche_commun": {
         "name": "Vorderer Markt"
@@ -1425,10 +1425,10 @@
         "name": "Win-Cho-Viertel"
     },
     "continent_indoors": {
-        "name": "ein Gebäude"
+        "name": "Gebäude"
     },
     "faihaven_stable": {
-        "name": "Ställe"
+        "name": "Stall von Fairhaven"
     },
     "place_yrk_p_1": {
         "name": "Zachini-Bezirk"
@@ -1446,13 +1446,13 @@
         "name": "Libia-Bezirk"
     },
     "yrkanis_stable": {
-        "name": "Stall"
+        "name": "Stall von Yrkanis"
     },
     "place_zora_p_1": {
         "name": "Goo-Chase-Distrikt"
     },
     "zora_stable": {
-        "name": "Stall"
+        "name": "Stall von Zora"
     },
     "place_yrkanis_bar_indoor": {
         "name": "Yrkanis Gasthauseingang"
@@ -1515,13 +1515,13 @@
         "name": "Avalae Intendantenquartier"
     },
     "zo_jenlai_captain_quarter": {
-        "name": "Jen Laï Captainsquartier"
+        "name": "Jen-Laï Captainsquartier"
     },
     "zo_jenlai_foreman_quarter": {
-        "name": "Jen Laï Aufseherquartier"
+        "name": "Jen-Laï Aufseherquartier"
     },
     "zo_jenlai_messenger_quarter": {
-        "name": "Jen Laï Botenquartier"
+        "name": "Jen-Laï Botenquartier"
     },
     "zo_jenlai_sage_quarter": {
         "name": "Jen-Laï Weisenquartier"
@@ -1533,13 +1533,13 @@
         "name": "Jen-Laï Hauptmannsquartier"
     },
     "zo_mincho_captain_quarter": {
-        "name": "Min Cho Captainsquartier"
+        "name": "Min-Cho Captainsquartier"
     },
     "zo_mincho_foreman_quarter": {
-        "name": "Min Cho Aufseherquartier"
+        "name": "Min-Cho Aufseherquartier"
     },
     "zo_mincho_messenger_quarter": {
-        "name": "Min Cho Botenquartier"
+        "name": "Min-Cho Botenquartier"
     },
     "zo_mincho_sage_quarter": {
         "name": "Min-Cho Weisenquartier"
@@ -1551,13 +1551,13 @@
         "name": "Min-Cho Hauptwächterquartier"
     },
     "zo_hoicho_captain_quarter": {
-        "name": "Hoï Cho Captainsquartier"
+        "name": "Hoï-Cho Captainsquartier"
     },
     "zo_hoicho_foreman_quarter": {
-        "name": "Hoï Cho Aufseherquartier"
+        "name": "Hoï-Cho Aufseherquartier"
     },
     "zo_hoicho_messenger_quarter": {
-        "name": "Hoï Cho Botenquartier"
+        "name": "Hoï-Cho Botenquartier"
     },
     "zo_hoicho_sage_quarter": {
         "name": "Hoï-Cho Weisenquartier"
@@ -1593,7 +1593,7 @@
         "name": "Lorias Aufstieg"
     },
     "place_fairhaven_s_1": {
-        "name": "Rigan-Strasse"
+        "name": "Rigan-Straße"
     },
     "place_fairhaven_s_2": {
         "name": "Glockengasse"
@@ -1671,7 +1671,7 @@
         "name": "Crystabell Intendantenquartier"
     },
     "zo_zora_mairie_ss": {
-        "name": "Hauptraum"
+        "name": "Zora-Hauptraum"
     },
     "zo_zora_mairie_mainroom": {
         "name": "Hauptraum"
@@ -1683,49 +1683,49 @@
         "name": "Festung Erste Ebene"
     },
     "hoi_cho_stable": {
-        "name": "Hoi-Cho-Ställe"
+        "name": "Stall von Hoï-Cho "
     },
     "jen_lai_stable": {
-        "name": "Jen-Lai-Ställe"
+        "name": "Stall von Jen-Laï"
     },
     "min_cho_stable": {
-        "name": "Min-Cho-Ställe"
+        "name": "Stall von Min-Cho"
     },
     "pyr_stable1": {
-        "name": "Pyr Nord-Ställe"
+        "name": "Nord-Stall von Pyr "
     },
     "pyr_stable2": {
-        "name": "Pyr Süd-Ställe"
+        "name": "Süd-Stall von Pyr"
     },
     "pyr_stable3": {
-        "name": "Pyr Ost-Ställe"
+        "name": "Ost-Stall von Pyr"
     },
     "natae_stable": {
-        "name": "Natae Ställe"
+        "name": "Stall von Natae"
     },
     "davae_stable": {
-        "name": "Davae Ställe"
+        "name": "Stall von Davae"
     },
     "avalae_stable": {
-        "name": "Avalae Ställe"
+        "name": "Stall von Avalae"
     },
     "thesos_stable": {
-        "name": "Thesos Ställe"
+        "name": "Stall von Thesos"
     },
     "dyron_stable": {
-        "name": "Dyron Ställe"
+        "name": "Stall von Dyron"
     },
     "fairhaven_stable": {
-        "name": "Fairhaven Ställe"
+        "name": "Stall von Fairhaven "
     },
     "windermeer_stable": {
-        "name": "Windermeer Ställe"
+        "name": "Stall von Windermeer "
     },
     "avendale_stable": {
-        "name": "Avendale Ställe"
+        "name": "Stall von Avendale "
     },
     "crystabell_stable": {
-        "name": "Crystabell Ställe"
+        "name": "Stall von Crystabell "
     },
     "place_pyr_p_forge": {
         "name": "Schmiede"
@@ -1743,10 +1743,10 @@
         "name": "Alte Lande"
     },
     "region_fyros_island1pvp 3": {
-        "name": "< fyros insel 1 (pvp)>"
+        "name": "Fyros Insel 1 PvP"
     },
     "region_fyros_island2": {
-        "name": "< fyros insel 2>"
+        "name": "Fyros Insel 2"
     },
     "region_fyros_island3": {
         "name": "Aelius-Dünen"
@@ -1800,10 +1800,10 @@
         "name": "Obergeschoss der Leibwächter"
     },
     "zo_hoicho_sergent_quarter": {
-        "name": "Hoi-Cho Sergeantenquartier"
+        "name": "Hoï-Cho Sergeantenquartier"
     },
     "region_matis_island": {
-        "name": ""
+        "name": "Almati-Wald"
     },
     "place_arrival_from_fyros": {
         "name": "Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: place_arrival_from_fyros."
@@ -1848,7 +1848,7 @@
         "name": "Zweiter Hinterhalt"
     },
     "r_08_16_mission_place_5": {
-        "name": "Der Chef sucht Sie"
+        "name": "Der Anführer sucht Euch"
     },
     "ava_bar_ext1": {
         "name": "Avalae"
@@ -1872,7 +1872,7 @@
         "name": "Bar von Natae"
     },
     "nat_bar_int2": {
-        "name": "Bar de Natae"
+        "name": "Bar von Natae"
     },
     "serre2": {
         "name": "Yrkanis"
@@ -1908,19 +1908,19 @@
         "name": "Alte Lande"
     },
     "region_tryker_island1": {
-        "name": "<tryker Insel 1>"
+        "name": "Tryker Insel 1"
     },
     "region_tryker_island2": {
-        "name": "<tryker Insel 2>"
+        "name": "Tryker Insel 2"
     },
     "region_tryker_island3": {
-        "name": "<tryker Inseln 3>"
+        "name": "Tryker Inseln 3"
     },
     "region_tryker_island4": {
         "name": "Olkern-See"
     },
     "region_tryker_island5": {
-        "name": "<tryker Inseln 5>"
+        "name": "Tryker Inseln 5"
     },
     "r_01_28_mission_tp_1a": {
         "name": "Grotte des Wirbels nach Tautropfen"
@@ -1947,19 +1947,19 @@
         "name": "Gang der Winde der Muse"
     },
     "continent_zorai_island": {
-        "name": "<zorai Inseln>"
+        "name": "Zorai Inseln"
     },
     "region_zorai_island1": {
-        "name": "<Insel zorai 1>"
+        "name": "Zorai Insel 1"
     },
     "region_zorai_island2": {
-        "name": "<Insel zorai 2>"
+        "name": "Zorai Insel 2"
     },
     "region_zorai_island3": {
-        "name": "<Insel zorai 3>"
+        "name": "Zorai Insel 3"
     },
     "region_zorai_island4": {
-        "name": "<Insel zorai 4>"
+        "name": "Zorai Insel 4"
     },
     "r_06_12_forage_1": {
         "name": "Harzquelle"
@@ -1989,7 +1989,7 @@
         "name": "Atrium Insel"
     },
     "gmisland_stable": {
-        "name": "Atrium Ställe"
+        "name": "Atrium Stall"
     },
     "gmcampfire": {
         "name": "Atrium Lager"
@@ -2019,70 +2019,70 @@
         "name": "Rohmaterial-Lager"
     },
     "place_r_09_09_arrivee_bagne": {
-        "name": "Abgrund von Ichor Ankunftspunkt"
+        "name": "Abgrund von Ichor – Ankunftspunkt"
     },
     "welcomer_natae_guardchief": {
-        "name": "Natae Anführer der Wache"
+        "name": "Anführer der Wache von Natae "
     },
     "welcomer_natae_intendant": {
-        "name": "Natae Intendant"
+        "name": "Intendant von Natae "
     },
     "welcomer_natae_sage": {
-        "name": "Natae Weiser"
+        "name": "Weiser von Natae"
     },
     "welcomer_davae_intendant": {
-        "name": "Davae Intendant"
+        "name": "Intendant von Davae "
     },
     "welcomer_davae_sage": {
-        "name": "Davae Weiser"
+        "name": "Weiser von Davae"
     },
     "welcomer_davae_guardchief": {
-        "name": "Davae Anführer der Wache"
+        "name": "Anführer der Wache von Davae "
     },
     "welcomer_avalae_guardchief": {
-        "name": "Avalae Anführer der Wache"
+        "name": "Anführer der Wache von Avalae "
     },
     "welcomer_avalae_sage": {
-        "name": "Avalae Weiser"
+        "name": "Weiser von Avalae"
     },
     "welcomer_avalae_intendant": {
-        "name": "Avalae Intendant"
+        "name": "Intendant von Avalae "
     },
     "welcomer_avendale": {
-        "name": "Avendale Offizier"
+        "name": "Offizier von Avendale "
     },
     "welcomer_windermeer": {
-        "name": "Windermeer Offizier"
+        "name": "Offizier von Windermeer "
     },
     "welcomer_crystabell": {
-        "name": "Crystabell Offizier"
+        "name": "Offizier von Crystabell "
     },
     "welcomer_jenlai_guardchief": {
-        "name": "Jen Lai Anführer der Wache"
+        "name": "Anführer der Wache von Jen-Laï "
     },
     "welcomer_jenlai_intendant": {
-        "name": "Jen Lai Intendant"
+        "name": "Intendant von Jen-Laï "
     },
     "welcomer_jenlai_sage": {
-        "name": "Jen Lai Weiser"
+        "name": "Weiser von Jen-Laï"
     },
     "welcomer_mincho_intendant": {
-        "name": "Min Cho Intendant"
+        "name": "Intendant von Min-Cho "
     },
     "welcomer_mincho_guardchief": {
-        "name": "Min Cho Anführer der Wache"
+        "name": "Anführer der Wache von Min-Cho "
     },
     "welcomer_mincho_sage": {
-        "name": "Min Cho Weiser"
+        "name": "Weiser von Min-Cho"
     },
     "welcomer_hoicho_intendant": {
-        "name": "Hoi Cho Intendant"
+        "name": "Intendant von Hoï-Cho "
     },
     "welcomer_hoicho_sage": {
-        "name": "Hoi Cho Weiser"
+        "name": "Weiser von Hoï-Cho"
     },
     "welcomer_hoicho_guardchief": {
-        "name": "Hoi Cho Anführer der Wache"
+        "name": "Anführer der Wache von Hoï-Cho "
     },
     "episode2_camp_karavan_fyros_island": {
         "name": "Karavan-Lager der Aelius-Dünen"
@@ -2148,10 +2148,10 @@
         "name": "Rohstoffsuchzone"
     },
     "mission_place_ranger_01": {
-        "name": ""
+        "name": "Ranger-Stätte"
     },
     "mission_place_ranger_02": {
-        "name": ""
+        "name": "Ranger-Stätte"
     },
     "mission_place_ilot": {
         "name": "Versuchsfeld"
@@ -2160,7 +2160,7 @@
         "name": "Kontrollierte Lande"
     },
     "region_newbieland": {
-        "name": "Die Entdeckenswerten Gefilde"
+        "name": "Entdeckenswerte Gefilde"
     },
     "mission_place_tryker_04": {
         "name": "Rohstoffsuchzone"
@@ -2187,7 +2187,7 @@
         "name": "Archäologische Basis der Keeper"
     },
     "place_tcm_tutors": {
-        "name": "Tutor-Altar"
+        "name": "Tutoren-Altar"
     },
     "region_northspire": {
         "name": "Gipfel des Nordens"
@@ -2208,7 +2208,7 @@
         "name": "Nebeltal"
     },
     "fyre_village": {
-        "name": "Fyre-Ruinen"
+        "name": "Fyros-Ruinen"
     },
     "place_tcm_karavan_south_west": {
         "name": "Patrouillenzone"
@@ -2229,7 +2229,7 @@
         "name": "Kami-Mission"
     },
     "place_tcm_shaman_tent": {
-        "name": "Wenn Sie diesen Text sehen, handelt es sich um einen Fehler: place_tcm_shaman_tent Bitte wende dich an den Kundenservice indem du ein Ticket diesbezüglich einreichst! Danke."
+        "name": "Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: place_tcm_shaman_tent"
     },
     "place_tcm_rock_fall": {
         "name": "Ehemaliges Karavan-Depot"
@@ -2277,7 +2277,7 @@
         "name": "Pipo-Platz"
     },
     "place_mission_fyros_02_huntingground_t2": {
-        "name": "Yubo-herde"
+        "name": "Yubo-Herde"
     },
     "place_mission_fyros_02_huntingground": {
         "name": "Jagdgrund"
@@ -2286,7 +2286,7 @@
         "name": "Ort des Verbrechens"
     },
     "place_mission_fyros_04_ragus": {
-        "name": "Höhle der Ragus"
+        "name": "Höhle des Ragus"
     },
     "place_mission_zorai_rendor": {
         "name": "Rendor-Weide"
@@ -2310,7 +2310,7 @@
         "name": "multiple Rohstoffsuchzone"
     },
     "place_forage_chloro": {
-        "name": "Goo-Spots"
+        "name": "Goo-Zone"
     },
     "gerder_food": {
         "name": "Route von Gerder"
@@ -2376,10 +2376,10 @@
         "name": "Magnetismus-Messgebiet D"
     },
     "kitinslair_zone_1": {
-        "name": "Erste zugängliche Zone des Kitin-Nestes"
+        "name": "Erste zugängliche Kitin-Nest-Zone"
     },
     "place_matis_island_2": {
-        "name": "Dante's Gipfel"
+        "name": "Dantes Gipfel"
     },
     "region_matis_island_1": {
         "name": "Almati-Wald"
@@ -2388,7 +2388,7 @@
         "name": "Dantes Lager"
     },
     "region_matis_island_3": {
-        "name": ""
+        "name": "Almati-Insel"
     },
     "continent_matis_island": {
         "name": "Alte Lande"
@@ -2400,7 +2400,7 @@
         "name": "Ranger-Lager"
     },
     "place_matis_island_3": {
-        "name": ""
+        "name": "Ranger-Insel"
     },
     "boss_zorai_light_maincamp": {
         "name": "Pei-Ruz' geheimes Lager"
@@ -2454,12 +2454,12 @@
         "name": "Ort der Nachricht"
     },
     "place_marauder_camp": {
-        "name": "Marodeure-Lager"
+        "name": "Marodeur-Lager"
     },
     "place_lieudit_marauder_arena": {
-        "name": "Marodeure-Arena"
+        "name": "Marodeur-Arena"
     },
     "marauder_stable": {
-        "name": "Marodeure-Ställe"
+        "name": "Marodeur-Stall"
     }
 }

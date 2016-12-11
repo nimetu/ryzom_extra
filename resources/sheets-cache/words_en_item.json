@@ -51,7 +51,7 @@
     },
     "crystalized_spell": {
         "name": "Crystalized Spell",
-        "p": "Crystalized Spells",
+        "p": "Crystallized Spells",
         "description": ""
     },
     "cure_expert_letter": {
@@ -106,7 +106,7 @@
     },
     "goo_vampignon_fungus": {
         "name": "Goo Vampignon Fungus",
-        "p": "Goo Vampignon Fungus",
+        "p": "Goo Vampignon Fungi",
         "description": ""
     },
     "goo_varinx_blood": {
@@ -1805,13 +1805,13 @@
         "description": "Zoraï Shield"
     },
     "itammo": {
-        "name": "Crafting Tool for Ammo",
-        "p": "Crafting Tool for Ammo",
+        "name": "Ammo Crafting Tool",
+        "p": "Ammo Crafting Tools",
         "description": ""
     },
     "itarmor": {
         "name": "Crafting Tool for Armor",
-        "p": "Crafting Tool for Armors",
+        "p": "Crafting Tools for Armors",
         "description": ""
     },
     "item_sap_recharge": {
@@ -1826,17 +1826,17 @@
     },
     "itjewel": {
         "name": "Crafting Tool for Jewelry",
-        "p": "Crafting Tool for Jewelry",
+        "p": "Crafting Tools for Jewelry",
         "description": ""
     },
     "itmwea": {
         "name": "Crafting Tool for Melee Weapons",
-        "p": "Crafting Tool for Melee Weapons",
+        "p": "Crafting Tools for Melee Weapons",
         "description": ""
     },
     "itrwea": {
         "name": "Crafting Tool for Range Weapons",
-        "p": "Crafting Tool for Range Weapons",
+        "p": "Crafting Tools for Range Weapons",
         "description": ""
     },
     "ka_cheveux_medium01": {
@@ -1961,7 +1961,7 @@
     },
     "ma_note": {
         "name": "Note for Fight Master",
-        "p": "Note for Fight Masters",
+        "p": "Notes for Fight Master",
         "description": ""
     },
     "ma_underwear_armpad": {
@@ -2086,7 +2086,7 @@
     },
     "money_for_remedy": {
         "name": "Money for Remedy",
-        "p": "Money for Remedys",
+        "p": "Monies for Remedies",
         "description": ""
     },
     "old_man_materials": {
@@ -2146,7 +2146,7 @@
     },
     "ring_of_vows": {
         "name": "Ring of Vows",
-        "p": "Ring of Vows",
+        "p": "Rings of Vows",
         "description": ""
     },
     "sage_flower": {
@@ -2300,8 +2300,8 @@
         "description": ""
     },
     "tp_kami_forbidden_depths": {
-        "name": "Kami teleporter pact for the Forbidden Depths",
-        "p": "Kami teleporter pact for the Forbidden Depths",
+        "name": "Kami Teleporter Pact for the Forbidden Depths",
+        "p": "Kami Teleporter Pacts for the Forbidden Depths",
         "description": ""
     },
     "tp_kami_frahartowers": {
@@ -2420,8 +2420,8 @@
         "description": ""
     },
     "tp_kami_the_trench_of_trials_tryker": {
-        "name": "Kami Teleporter Pact for the tunnel from the Trench of Trials to Tryker",
-        "p": "Kami Teleporter Pacts for the tunnel from Trench of Trials to Tryker",
+        "name": "Kami Teleporter Pact for the Tunnel from the Trench of Trials to Tryker",
+        "p": "Kami Teleporter Pacts for the Tunnel from Trench of Trials to Tryker",
         "description": ""
     },
     "tp_kami_the_trench_of_trials_zorai": {
@@ -2435,8 +2435,8 @@
         "description": ""
     },
     "tp_kami_the_abyss_of_ichor_nexus": {
-        "name": "Kami Teleporter Pact for the tunnel from the Abyss of Ichor to Nexus",
-        "p": "Kami Teleporter Pacts for the tunnel from the Abyss of Ichor to Nexus",
+        "name": "Kami Teleporter Pact for the Tunnel from the Abyss of Ichor to Nexus",
+        "p": "Kami Teleporter Pacts for the Tunnel from the Abyss of Ichor to Nexus",
         "description": ""
     },
     "tp_kami_the_elusive_forest": {
@@ -2460,8 +2460,8 @@
         "description": ""
     },
     "tp_kami_the_under_spring_zorai": {
-        "name": "Kami Teleporter Pact for the tunnel from Under Spring to Zoraï",
-        "p": "Kami Teleporter Pacts for the tunnel from Under Spring to Zoraï",
+        "name": "Kami Teleporter Pact for the Tunnel from Under Spring to Zoraï",
+        "p": "Kami Teleporter Pacts for the Tunnel from Under Spring to Zoraï",
         "description": ""
     },
     "tp_kami_the_windy_gate": {
@@ -2675,8 +2675,8 @@
         "description": ""
     },
     "tp_karavan_nexus_route_gouffre": {
-        "name": "Karavan Teleporter Pact for the tunnel from Nexus to the Lands of Umbra",
-        "p": "Karavan Teleporter Pacts for the tunnel from Nexus to the Lands of Umbra",
+        "name": "Karavan Teleporter Pact for the Tunnel from Nexus to the Lands of Umbra",
+        "p": "Karavan Teleporter Pacts for the Tunnel from Nexus to the Lands of Umbra",
         "description": ""
     },
     "tp_karavan_nexus_terre": {
@@ -2715,8 +2715,8 @@
         "description": ""
     },
     "tp_karavan_the_abyss_of_ichor_nexus": {
-        "name": "Karavan Teleporter Pact for the tunnel from the Abyss of Ichor to Nexus",
-        "p": "Karavan Teleporter Pacts for the tunnel from the Abyss of Ichor to Nexus",
+        "name": "Karavan Teleporter Pact for the Tunnel from the Abyss of Ichor to Nexus",
+        "p": "Karavan Teleporter Pacts for the Tunnel from the Abyss of Ichor to Nexus",
         "description": ""
     },
     "tp_karavan_the_elusive_forest": {
@@ -2735,7 +2735,7 @@
         "description": ""
     },
     "tp_karavan_the_trench_of_trials_tryker": {
-        "name": "Karavan Teleporter Pact for the tunnel from Trench of Trials to Tryker",
+        "name": "Karavan Teleporter Pact for the Tunnel from Trench of Trials to Tryker",
         "p": "Karavan Teleporter Pacts for the Tunnel from Trench of Trials to Tryker",
         "description": ""
     },
@@ -2750,7 +2750,7 @@
         "description": ""
     },
     "tp_karavan_the_under_spring_zorai": {
-        "name": "Karavan Teleporter Pact for the tunnel from the Under Spring to Zoraï",
+        "name": "Karavan Teleporter Pact for the Tunnel from the Under Spring to Zoraï",
         "p": "Karavan Teleporter Pacts for the Tunnel from the Under Spring to Zoraï",
         "description": ""
     },
@@ -3561,32 +3561,32 @@
     },
     "icmm1sa_2": {
         "name": "Modi Haque Axe",
-        "p": "Modi Haques Axe",
+        "p": "Modi Haques Axes",
         "description": "One-handed Medium Quality Matis Axe"
     },
     "icmm1ss_2": {
         "name": "Modi Klyde Sword",
-        "p": "Modi Klydes Sword",
+        "p": "Modi Klydes Swords",
         "description": "One-handed Medium Quality Matis Sword"
     },
     "icmm2bm_2": {
         "name": "Modi Gondo Mace",
-        "p": "Modi Gondos Mace",
+        "p": "Modi Gondos Maces",
         "description": "Two-handed Medium Quality Matis Long Mace"
     },
     "icmm2pp_2": {
         "name": "Modi Krop Pike",
-        "p": "Modi Krops Pike",
+        "p": "Modi Krops Pikes",
         "description": "Two-handed Medium Quality Matis Pike"
     },
     "icmm2sa_2": {
         "name": "Modi Klout Axe",
-        "p": "Modi Klouts Axe",
+        "p": "Modi Klouts Axes",
         "description": "Two-handed Medium Quality Matis Long Axe"
     },
     "icmm2ss_2": {
         "name": "Modi Slathe Sword",
-        "p": " Swords",
+        "p": "Modi Slathe Swords",
         "description": "Two-handed Medium Quality Matis Long Sword"
     },
     "icmr1b_2": {
@@ -3966,7 +3966,7 @@
     },
     "iczr1p_2": {
         "name": "Li'Tchaï Pistol",
-        "p": "Li'Tchaïs Pistol",
+        "p": "Li'Tchaïs Pistols",
         "description": "One-handed Medium Quality Zoraï Pistol"
     },
     "iczr2a_2": {
@@ -5181,87 +5181,87 @@
     },
     "m0015dxacb01": {
         "name": "Basic Beng Amber",
-        "p": "Basic Beng Ambers",
+        "p": "Basic Beng Amber",
         "description": ""
     },
     "m0015dxacc01": {
         "name": "Fine Beng Amber",
-        "p": "Fine Beng Ambers",
+        "p": "Fine Beng Amber",
         "description": ""
     },
     "m0015dxadd01": {
         "name": "Choice Desert Beng Amber",
-        "p": "Choice Desert Beng Ambers",
+        "p": "Choice Desert Beng Amber",
         "description": ""
     },
     "m0015dxade01": {
         "name": "Excellent Desert Beng Amber",
-        "p": "Excellent Desert Beng Ambers",
+        "p": "Excellent Desert Beng Amber",
         "description": ""
     },
     "m0015dxadf01": {
         "name": "Supreme Desert Beng Amber",
-        "p": "Supreme Desert Beng Ambers",
+        "p": "Supreme Desert Beng Amber",
         "description": ""
     },
     "m0015dxafd01": {
         "name": "Choice Forest Beng Amber",
-        "p": "Choice Forest Beng Ambers",
+        "p": "Choice Forest Beng Amber",
         "description": ""
     },
     "m0015dxafe01": {
         "name": "Excellent Forest Beng Amber",
-        "p": "Excellent Forest Beng Ambers",
+        "p": "Excellent Forest Beng Amber",
         "description": ""
     },
     "m0015dxaff01": {
         "name": "Supreme Forest Beng Amber",
-        "p": "Supreme Forest Beng Ambers",
+        "p": "Supreme Forest Beng Amber",
         "description": ""
     },
     "m0015dxajd01": {
         "name": "Choice Jungle Beng Amber",
-        "p": "Choice Jungle Beng Ambers",
+        "p": "Choice Jungle Beng Amber",
         "description": ""
     },
     "m0015dxaje01": {
         "name": "Excellent Jungle Beng Amber",
-        "p": "Excellent Jungle Beng Ambers",
+        "p": "Excellent Jungle Beng Amber",
         "description": ""
     },
     "m0015dxajf01": {
         "name": "Supreme Jungle Beng Amber",
-        "p": "Supreme Jungle Beng Ambers",
+        "p": "Supreme Jungle Beng Amber",
         "description": ""
     },
     "m0015dxald01": {
         "name": "Choice Lakes Beng Amber",
-        "p": "Choice Lakes Beng Ambers",
+        "p": "Choice Lakes Beng Amber",
         "description": ""
     },
     "m0015dxale01": {
         "name": "Excellent Lakes Beng Amber",
-        "p": "Excellent Lakes Beng Ambers",
+        "p": "Excellent Lakes Beng Amber",
         "description": ""
     },
     "m0015dxalf01": {
         "name": "Supreme Lakes Beng Amber",
-        "p": "Supreme Lakes Beng Ambers",
+        "p": "Supreme Lakes Beng Amber",
         "description": ""
     },
     "m0015dxapd01": {
         "name": "Choice Prime Root Beng Amber",
-        "p": "Choice Prime Root Beng Ambers",
+        "p": "Choice Prime Root Beng Amber",
         "description": ""
     },
     "m0015dxape01": {
         "name": "Excellent Prime Root Beng Amber",
-        "p": "Excellent Prime Root Beng Ambers",
+        "p": "Excellent Prime Root Beng Amber",
         "description": ""
     },
     "m0015dxapf01": {
         "name": "Supreme Prime Root Beng Amber",
-        "p": "Supreme Prime Root Beng Ambers",
+        "p": "Supreme Prime Root Beng Amber",
         "description": ""
     },
     "m0016dxacb01": {
@@ -6151,87 +6151,87 @@
     },
     "m0050dxacb01": {
         "name": "Basic Hash Amber",
-        "p": "Basic Hash Ambers",
+        "p": "Basic Hash Amber",
         "description": ""
     },
     "m0050dxacc01": {
         "name": "Fine Hash Amber",
-        "p": "Fine Hash Ambers",
+        "p": "Fine Hash Amber",
         "description": ""
     },
     "m0050dxadd01": {
         "name": "Choice Desert Hash Amber",
-        "p": "Choice Desert Hash Ambers",
+        "p": "Choice Desert Hash Amber",
         "description": ""
     },
     "m0050dxade01": {
         "name": "Excellent Desert Hash Amber",
-        "p": "Excellent Desert Hash Ambers",
+        "p": "Excellent Desert Hash Amber",
         "description": ""
     },
     "m0050dxadf01": {
         "name": "Supreme Desert Hash Amber",
-        "p": "Supreme Desert Hash Ambers",
+        "p": "Supreme Desert Hash Amber",
         "description": ""
     },
     "m0050dxafd01": {
         "name": "Choice Forest Hash Amber",
-        "p": "Choice Forest Hash Ambers",
+        "p": "Choice Forest Hash Amber",
         "description": ""
     },
     "m0050dxafe01": {
         "name": "Excellent Forest Hash Amber",
-        "p": "Excellent Forest Hash Ambers",
+        "p": "Excellent Forest Hash Amber",
         "description": ""
     },
     "m0050dxaff01": {
         "name": "Supreme Forest Hash Amber",
-        "p": "Supreme Forest Hash Ambers",
+        "p": "Supreme Forest Hash Amber",
         "description": ""
     },
     "m0050dxajd01": {
         "name": "Choice Jungle Hash Amber",
-        "p": "Choice Jungle Hash Ambers",
+        "p": "Choice Jungle Hash Amber",
         "description": ""
     },
     "m0050dxaje01": {
         "name": "Excellent Jungle Hash Amber",
-        "p": "Excellent Jungle Hash Ambers",
+        "p": "Excellent Jungle Hash Amber",
         "description": ""
     },
     "m0050dxajf01": {
         "name": "Supreme Jungle Hash Amber",
-        "p": "Supreme Jungle Hash Ambers",
+        "p": "Supreme Jungle Hash Amber",
         "description": ""
     },
     "m0050dxald01": {
         "name": "Choice Lakes Hash Amber",
-        "p": "Choice Lakes Hash Ambers",
+        "p": "Choice Lakes Hash Amber",
         "description": ""
     },
     "m0050dxale01": {
         "name": "Excellent Lakes Hash Amber",
-        "p": "Excellent Lakes Hash Ambers",
+        "p": "Excellent Lakes Hash Amber",
         "description": ""
     },
     "m0050dxalf01": {
         "name": "Supreme Lakes Hash Amber",
-        "p": "Supreme Lakes Hash Ambers",
+        "p": "Supreme Lakes Hash Amber",
         "description": ""
     },
     "m0050dxapd01": {
         "name": "Choice Prime Root Hash Amber",
-        "p": "Choice Prime Root Hash Ambers",
+        "p": "Choice Prime Root Hash Amber",
         "description": ""
     },
     "m0050dxape01": {
         "name": "Excellent Prime Root Hash Amber",
-        "p": "Excellent Prime Root Hash Ambers",
+        "p": "Excellent Prime Root Hash Amber",
         "description": ""
     },
     "m0050dxapf01": {
         "name": "Supreme Prime Root Hash Amber",
-        "p": "Supreme Prime Root Hash Ambers",
+        "p": "Supreme Prime Root Hash Amber",
         "description": ""
     },
     "m0053dxacb01": {
@@ -7201,7 +7201,7 @@
     },
     "m0093dxacb01": {
         "name": "Bundle of Basic Motega Wood",
-        "p": "",
+        "p": "Bundles of Basic Motega Wood",
         "description": ""
     },
     "m0093dxacc01": {
@@ -7456,87 +7456,87 @@
     },
     "m0102dxacb01": {
         "name": "Basic Pha Amber",
-        "p": "Basic Pha Ambers",
+        "p": "Basic Pha Amber",
         "description": ""
     },
     "m0102dxacc01": {
         "name": "Fine Pha Amber",
-        "p": "Fine Pha Ambers",
+        "p": "Fine Pha Amber",
         "description": ""
     },
     "m0102dxadd01": {
         "name": "Choice Desert Pha Amber",
-        "p": "Choice Desert Pha Ambers",
+        "p": "Choice Desert Pha Amber",
         "description": ""
     },
     "m0102dxade01": {
         "name": "Excellent Desert Pha Amber",
-        "p": "Excellent Desert Pha Ambers",
+        "p": "Excellent Desert Pha Amber",
         "description": ""
     },
     "m0102dxadf01": {
         "name": "Supreme Desert Pha Amber",
-        "p": "Supreme Desert Pha Ambers",
+        "p": "Supreme Desert Pha Amber",
         "description": ""
     },
     "m0102dxafd01": {
         "name": "Choice Forest Pha Amber",
-        "p": "Choice Forest Pha Ambers",
+        "p": "Choice Forest Pha Amber",
         "description": ""
     },
     "m0102dxafe01": {
         "name": "Excellent Forest Pha Amber",
-        "p": "Excellent Forest Pha Ambers",
+        "p": "Excellent Forest Pha Amber",
         "description": ""
     },
     "m0102dxaff01": {
         "name": "Supreme Forest Pha Amber",
-        "p": "Supreme Forest Pha Ambers",
+        "p": "Supreme Forest Pha Amber",
         "description": ""
     },
     "m0102dxajd01": {
         "name": "Choice Jungle Pha Amber",
-        "p": "Choice Jungle Pha Ambers",
+        "p": "Choice Jungle Pha Amber",
         "description": ""
     },
     "m0102dxaje01": {
         "name": "Excellent Jungle Pha Amber",
-        "p": "Excellent Jungle Pha Ambers",
+        "p": "Excellent Jungle Pha Amber",
         "description": ""
     },
     "m0102dxajf01": {
         "name": "Supreme Jungle Pha Amber",
-        "p": "Supreme Jungle Pha Ambers",
+        "p": "Supreme Jungle Pha Amber",
         "description": ""
     },
     "m0102dxald01": {
         "name": "Choice Lakes Pha Amber",
-        "p": "Choice Lakes Pha Ambers",
+        "p": "Choice Lakes Pha Amber",
         "description": ""
     },
     "m0102dxale01": {
         "name": "Excellent Lakes Pha Amber",
-        "p": "Excellent Lakes Pha Ambers",
+        "p": "Excellent Lakes Pha Amber",
         "description": ""
     },
     "m0102dxalf01": {
         "name": "Supreme Lakes Pha Amber",
-        "p": "Supreme Lakes Pha Ambers",
+        "p": "Supreme Lakes Pha Amber",
         "description": ""
     },
     "m0102dxapd01": {
         "name": "Choice Prime Root Pha Amber",
-        "p": "Choice Prime Root Pha Ambers",
+        "p": "Choice Prime Root Pha Amber",
         "description": ""
     },
     "m0102dxape01": {
         "name": "Excellent Prime Root Pha Amber",
-        "p": "Excellent Prime Root Pha Ambers",
+        "p": "Excellent Prime Root Pha Amber",
         "description": ""
     },
     "m0102dxapf01": {
         "name": "Supreme Prime Root Pha Amber",
-        "p": "Supreme Prime Root Pha Ambers",
+        "p": "Supreme Prime Root Pha Amber",
         "description": ""
     },
     "m0103dxacb01": {
@@ -7971,87 +7971,87 @@
     },
     "m0117dxacb01": {
         "name": "Basic Sha Amber",
-        "p": "Basic Sha Ambers",
+        "p": "Basic Sha Amber",
         "description": ""
     },
     "m0117dxacc01": {
         "name": "Fine Sha Amber",
-        "p": "Fine Sha Ambers",
+        "p": "Fine Sha Amber",
         "description": ""
     },
     "m0117dxadd01": {
         "name": "Choice Desert Sha Amber",
-        "p": "Choice Desert Sha Ambers",
+        "p": "Choice Desert Sha Amber",
         "description": ""
     },
     "m0117dxade01": {
         "name": "Excellent Desert Sha Amber",
-        "p": "Excellent Desert Sha Ambers",
+        "p": "Excellent Desert Sha Amber",
         "description": ""
     },
     "m0117dxadf01": {
         "name": "Supreme Desert Sha Amber",
-        "p": "Supreme Desert Sha Ambers",
+        "p": "Supreme Desert Sha Amber",
         "description": ""
     },
     "m0117dxafd01": {
         "name": "Choice Forest Sha Amber",
-        "p": "Choice Forest Sha Ambers",
+        "p": "Choice Forest Sha Amber",
         "description": ""
     },
     "m0117dxafe01": {
         "name": "Excellent Forest Sha Amber",
-        "p": "Excellent Forest Sha Ambers",
+        "p": "Excellent Forest Sha Amber",
         "description": ""
     },
     "m0117dxaff01": {
         "name": "Supreme Forest Sha Amber",
-        "p": "Supreme Forest Sha Ambers",
+        "p": "Supreme Forest Sha Amber",
         "description": ""
     },
     "m0117dxajd01": {
         "name": "Choice Jungle Sha Amber",
-        "p": "Choice Jungle Sha Ambers",
+        "p": "Choice Jungle Sha Amber",
         "description": ""
     },
     "m0117dxaje01": {
         "name": "Excellent Jungle Sha Amber",
-        "p": "Excellent Jungle Sha Ambers",
+        "p": "Excellent Jungle Sha Amber",
         "description": ""
     },
     "m0117dxajf01": {
         "name": "Supreme Jungle Sha Amber",
-        "p": "Supreme Jungle Sha Ambers",
+        "p": "Supreme Jungle Sha Amber",
         "description": ""
     },
     "m0117dxald01": {
         "name": "Choice Lakes Sha Amber",
-        "p": "Choice Lakes Sha Ambers",
+        "p": "Choice Lakes Sha Amber",
         "description": ""
     },
     "m0117dxale01": {
         "name": "Excellent Lakes Sha Amber",
-        "p": "Excellent Lakes Sha Ambers",
+        "p": "Excellent Lakes Sha Amber",
         "description": ""
     },
     "m0117dxalf01": {
         "name": "Supreme Lakes Sha Amber",
-        "p": "Supreme Lakes Sha Ambers",
+        "p": "Supreme Lakes Sha Amber",
         "description": ""
     },
     "m0117dxapd01": {
         "name": "Choice Prime Root Sha Amber",
-        "p": "Choice Prime Root Sha Ambers",
+        "p": "Choice Prime Root Sha Amber",
         "description": ""
     },
     "m0117dxape01": {
         "name": "Excellent Prime Root Sha Amber",
-        "p": "Excellent Prime Root Sha Ambers",
+        "p": "Excellent Prime Root Sha Amber",
         "description": ""
     },
     "m0117dxapf01": {
         "name": "Supreme Prime Root Sha Amber",
-        "p": "Supreme Prime Root Sha Ambers",
+        "p": "Supreme Prime Root Sha Amber",
         "description": ""
     },
     "m0118dxacb01": {
@@ -8311,87 +8311,87 @@
     },
     "m0124dxacb01": {
         "name": "Basic Soo Amber",
-        "p": "Basic Soo Ambers",
+        "p": "Basic Soo Amber",
         "description": ""
     },
     "m0124dxacc01": {
         "name": "Fine Soo Amber",
-        "p": "Fine Soo Ambers",
+        "p": "Fine Soo Amber",
         "description": ""
     },
     "m0124dxadd01": {
         "name": "Choice Desert Soo Amber",
-        "p": "Choice Desert Soo Ambers",
+        "p": "Choice Desert Soo Amber",
         "description": ""
     },
     "m0124dxade01": {
         "name": "Excellent Desert Soo Amber",
-        "p": "Excellent Desert Soo Ambers",
+        "p": "Excellent Desert Soo Amber",
         "description": ""
     },
     "m0124dxadf01": {
         "name": "Supreme Desert Soo Amber",
-        "p": "Supreme Desert Soo Ambers",
+        "p": "Supreme Desert Soo Amber",
         "description": ""
     },
     "m0124dxafd01": {
         "name": "Choice Forest Soo Amber",
-        "p": "Choice Forest Soo Ambers",
+        "p": "Choice Forest Soo Amber",
         "description": ""
     },
     "m0124dxafe01": {
         "name": "Excellent Forest Soo Amber",
-        "p": "Excellent Forest Soo Ambers",
+        "p": "Excellent Forest Soo Amber",
         "description": ""
     },
     "m0124dxaff01": {
         "name": "Supreme Forest Soo Amber",
-        "p": "Supreme Forest Soo Ambers",
+        "p": "Supreme Forest Soo Amber",
         "description": ""
     },
     "m0124dxajd01": {
         "name": "Choice Jungle Soo Amber",
-        "p": "Choice Jungle Soo Ambers",
+        "p": "Choice Jungle Soo Amber",
         "description": ""
     },
     "m0124dxaje01": {
         "name": "Excellent Jungle Soo Amber",
-        "p": "Excellent Jungle Soo Ambers",
+        "p": "Excellent Jungle Soo Amber",
         "description": ""
     },
     "m0124dxajf01": {
         "name": "Supreme Jungle Soo Amber",
-        "p": "Supreme Jungle Soo Ambers",
+        "p": "Supreme Jungle Soo Amber",
         "description": ""
     },
     "m0124dxald01": {
         "name": "Choice Lakes Soo Amber",
-        "p": "Choice Lakes Soo Ambers",
+        "p": "Choice Lakes Soo Amber",
         "description": ""
     },
     "m0124dxale01": {
         "name": "Excellent Lakes Soo Amber",
-        "p": "Excellent Lakes Soo Ambers",
+        "p": "Excellent Lakes Soo Amber",
         "description": ""
     },
     "m0124dxalf01": {
         "name": "Supreme Lakes Soo Amber",
-        "p": "Supreme Lakes Soo Ambers",
+        "p": "Supreme Lakes Soo Amber",
         "description": ""
     },
     "m0124dxapd01": {
         "name": "Choice Prime Root Soo Amber",
-        "p": "Choice Prime Root Soo Ambers",
+        "p": "Choice Prime Root Soo Amber",
         "description": ""
     },
     "m0124dxape01": {
         "name": "Excellent Prime Root Soo Amber",
-        "p": "Excellent Prime Root Soo Ambers",
+        "p": "Excellent Prime Root Soo Amber",
         "description": ""
     },
     "m0124dxapf01": {
         "name": "Supreme Prime Root Soo Amber",
-        "p": "Supreme Prime Root Soo Ambers",
+        "p": "Supreme Prime Root Soo Amber",
         "description": ""
     },
     "m0125dxacb01": {
@@ -9246,102 +9246,102 @@
     },
     "m0155dxacb01": {
         "name": "Basic Zun Amber",
-        "p": "Basic Zun Ambers",
+        "p": "Basic Zun Amber",
         "description": ""
     },
     "m0155dxacc01": {
         "name": "Fine Zun Amber",
-        "p": "Fine Zun Ambers",
+        "p": "Fine Zun Amber",
         "description": ""
     },
     "m0155dxadd01": {
         "name": "Choice Desert Zun Amber",
-        "p": "Choice Desert Zun Ambers",
+        "p": "Choice Desert Zun Amber",
         "description": ""
     },
     "m0155dxade01": {
         "name": "Excellent Desert Zun Amber",
-        "p": "Excellent Desert Zun Ambers",
+        "p": "Excellent Desert Zun Amber",
         "description": ""
     },
     "m0155dxadf01": {
         "name": "Supreme Desert Zun Amber",
-        "p": "Supreme Desert Zun Ambers",
+        "p": "Supreme Desert Zun Amber",
         "description": ""
     },
     "m0155dxafd01": {
         "name": "Choice Forest Zun Amber",
-        "p": "Choice Forest Zun Ambers",
+        "p": "Choice Forest Zun Amber",
         "description": ""
     },
     "m0155dxafe01": {
         "name": "Excellent Forest Zun Amber",
-        "p": "Excellent Forest Zun Ambers",
+        "p": "Excellent Forest Zun Amber",
         "description": ""
     },
     "m0155dxaff01": {
         "name": "Supreme Forest Zun Amber",
-        "p": "Supreme Forest Zun Ambers",
+        "p": "Supreme Forest Zun Amber",
         "description": ""
     },
     "m0155dxajd01": {
         "name": "Choice Jungle Zun Amber",
-        "p": "Choice Jungle Zun Ambers",
+        "p": "Choice Jungle Zun Amber",
         "description": ""
     },
     "m0155dxaje01": {
         "name": "Excellent Jungle Zun Amber",
-        "p": "Excellent Jungle Zun Ambers",
+        "p": "Excellent Jungle Zun Amber",
         "description": ""
     },
     "m0155dxajf01": {
         "name": "Supreme Jungle Zun Amber",
-        "p": "Supreme Jungle Zun Ambers",
+        "p": "Supreme Jungle Zun Amber",
         "description": ""
     },
     "m0155dxald01": {
         "name": "Choice Lakes Zun Amber",
-        "p": "Choice Lakes Zun Ambers",
+        "p": "Choice Lakes Zun Amber",
         "description": ""
     },
     "m0155dxale01": {
         "name": "Excellent Lakes Zun Amber",
-        "p": "Excellent Lakes Zun Ambers",
+        "p": "Excellent Lakes Zun Amber",
         "description": ""
     },
     "m0155dxalf01": {
         "name": "Supreme Lakes Zun Amber",
-        "p": "Supreme Lakes Zun Ambers",
+        "p": "Supreme Lakes Zun Amber",
         "description": ""
     },
     "m0155dxapd01": {
         "name": "Choice Prime Root Zun Amber",
-        "p": "Choice Prime Root Zun Ambers",
+        "p": "Choice Prime Root Zun Amber",
         "description": ""
     },
     "m0155dxape01": {
         "name": "Excellent Prime Root Zun Amber",
-        "p": "Excellent Prime Root Zun Ambers",
+        "p": "Excellent Prime Root Zun Amber",
         "description": ""
     },
     "m0155dxapf01": {
         "name": "Supreme Prime Root Zun Amber",
-        "p": "Supreme Prime Root Zun Ambers",
+        "p": "Supreme Prime Root Zun Amber",
         "description": ""
     },
     "m0162cpefd01": {
         "name": "Select Forest Cratcha Leaf",
-        "p": "Select Forest Cratcha Leafs",
+        "p": "Select Forest Cratcha Leaves",
         "description": ""
     },
     "m0162cpefe01": {
         "name": "Superb Forest Cratcha Leaf",
-        "p": "Superb Forest Cratcha Leafs",
+        "p": "Superb Forest Cratcha Leaves",
         "description": ""
     },
     "m0162cpejf01": {
         "name": "Magnificient Jungle Cratcha Leaf",
-        "p": "Magnificient Jungle Cratcha Leafs",
+        "p": "Magnificient Jungle Cratcha Leaves",
         "description": ""
     },
     "m0163cpefd01": {
@@ -9361,22 +9361,22 @@
     },
     "m0164cpblb01": {
         "name": "Average Lakes Stinga Leaf",
-        "p": "Average Lakes Stinga Leafs",
+        "p": "Average Lakes Stinga Leaves",
         "description": ""
     },
     "m0164cpblc01": {
         "name": "Prime Lakes Stinga Leaf",
-        "p": "Prime Lakes Stinga Leafs",
+        "p": "Prime Lakes Stinga Leaves",
         "description": ""
     },
     "m0164cpbld01": {
         "name": "Select Lakes Stinga Leaf",
-        "p": "Select Lakes Stinga Leafs",
+        "p": "Select Lakes Stinga Leaves",
         "description": ""
     },
     "m0164cpblf01": {
         "name": "Magnificent Lakes Stinga Leaf",
-        "p": "Magnificent Lakes Stinga Leafs",
+        "p": "Magnificent Lakes Stinga Leaves",
         "description": ""
     },
     "m0165cpblb01": {
@@ -9401,17 +9401,17 @@
     },
     "m0166cpapd01": {
         "name": "Select Prime Root Jubla Leaf",
-        "p": "Select Prime Root Jubla Leafs",
+        "p": "Select Prime Root Jubla Leaves",
         "description": ""
     },
     "m0166cpape01": {
         "name": "Superb Prime Root Jubla Leaf",
-        "p": "Superb Prime Root Jubla Leafs",
+        "p": "Superb Prime Root Jubla Leaves",
         "description": ""
     },
     "m0166cpapf01": {
         "name": "Magnificient Prime Root Jubla Leaf",
-        "p": "Magnificient Prime Root Jubla Leafs",
+        "p": "Magnificient Prime Root Jubla Leaves",
         "description": ""
     },
     "m0167cpapd01": {
@@ -9431,27 +9431,27 @@
     },
     "m0168cpcfb01": {
         "name": "Average Forest Psykopla Leaf",
-        "p": "Average Forest Psykopla Leafs",
+        "p": "Average Forest Psykopla Leaves",
         "description": ""
     },
     "m0168cpcfc01": {
         "name": "Prime Forest Psykopla Leaf",
-        "p": "Prime Forest Psykopla Leafs",
+        "p": "Prime Forest Psykopla Leaves",
         "description": ""
     },
     "m0168cpcjd01": {
         "name": "Select Jungle Psykopla Leaf",
-        "p": "Select Jungle Psykopla Leafs",
+        "p": "Select Jungle Psykopla Leaves",
         "description": ""
     },
     "m0168cpcje01": {
         "name": "Superb Jungle Psykopla Leaf",
-        "p": "Superb Jungle Psykopla Leafs",
+        "p": "Superb Jungle Psykopla Leaves",
         "description": ""
     },
     "m0168cpcpf01": {
         "name": "Magnificent Prime Root Psykopla Leaf",
-        "p": "Magnificent Prime Root Psykopla Leafs",
+        "p": "Magnificent Prime Root Psykopla Leaves",
         "description": ""
     },
     "m0169cpcfb01": {
@@ -9481,27 +9481,27 @@
     },
     "m0170cpdfe01": {
         "name": "Superb Forest Slaveni Leaf",
-        "p": "Superb Forest Slaveni Leafs",
+        "p": "Superb Forest Slaveni Leaves",
         "description": ""
     },
     "m0170cpdff01": {
         "name": "Magnificient Forest Slaveni Leaf",
-        "p": "Magnificient Forest Slaveni Leafs",
+        "p": "Magnificient Forest Slaveni Leaves",
         "description": ""
     },
     "m0170cpdjb01": {
         "name": "Average Jungle Slaveni Leaf",
-        "p": "Average Jungle Slaveni Leafs",
+        "p": "Average Jungle Slaveni Leaves",
         "description": ""
     },
     "m0170cpdjc01": {
         "name": "Prime Jungle Slaveni Leaf",
-        "p": "Prime Jungle Slaveni Leafs",
+        "p": "Prime Jungle Slaveni Leaves",
         "description": ""
     },
     "m0170cpdje01": {
         "name": "Superb Jungle Slaveni Leaf",
-        "p": "Superb Jungle Slaveni Leafs",
+        "p": "Superb Jungle Slaveni Leaves",
         "description": ""
     },
     "m0171cpdfe01": {
@@ -9531,22 +9531,22 @@
     },
     "m0172cpfdb01": {
         "name": "Average Desert Shooki Leaf",
-        "p": "Average Desert Shooki Leafs",
+        "p": "Average Desert Shooki Leaves",
         "description": ""
     },
     "m0172cpfdc01": {
         "name": "Prime Desert Shooki Leaf",
-        "p": "Prime Desert Shooki Leafs",
+        "p": "Prime Desert Shooki Leaves",
         "description": ""
     },
     "m0172cpfdd01": {
         "name": "Select Desert Shooki Leaf",
-        "p": "Select Desert Shooki Leafs",
+        "p": "Select Desert Shooki Leaves",
         "description": ""
     },
     "m0172cpfdf01": {
         "name": "Magnificent Desert Shooki Leaf",
-        "p": "Magnificent Desert Shooki Leafs",
+        "p": "Magnificent Desert Shooki Leaves",
         "description": ""
     },
     "m0173cpfdb01": {
@@ -9571,92 +9571,92 @@
     },
     "m0174dxaca01": {
         "name": "Plain Green Leaf",
-        "p": "Plain Green Leafs",
+        "p": "Plain Green Leaves",
         "description": ""
     },
     "m0174dxacb01": {
         "name": "Average Green Leaf",
-        "p": "Average Green Leafs",
+        "p": "Average Green Leaves",
         "description": ""
     },
     "m0174dxacc01": {
         "name": "Prime Green Leaf",
-        "p": "Prime Green Leafs",
+        "p": "Prime Green Leaves",
         "description": ""
     },
     "m0174dxacd01": {
         "name": "Select Green Leaf",
-        "p": "Select Green Leafs",
+        "p": "Select Green Leaves",
         "description": ""
     },
     "m0174dxace01": {
         "name": "Superb Green Leaf",
-        "p": "Superb Green Leafs",
+        "p": "Superb Green Leaves",
         "description": ""
     },
     "m0174dxacf01": {
         "name": "Magnificient Green Leaf",
-        "p": "Magnificient Green Leafs",
+        "p": "Magnificient Green Leaves",
         "description": ""
     },
     "m0175dxaca01": {
         "name": "Plain Dead Leaf",
-        "p": "Plain Dead Leafs",
+        "p": "Plain Dead Leaves",
         "description": ""
     },
     "m0175dxacb01": {
         "name": "Average Dead Leaf",
-        "p": "Average Dead Leafs",
+        "p": "Average Dead Leaves",
         "description": ""
     },
     "m0175dxacc01": {
         "name": "Prime Dead Leaf",
-        "p": "Prime Dead Leafs",
+        "p": "Prime Dead Leaves",
         "description": ""
     },
     "m0175dxacd01": {
         "name": "Select Dead Leaf",
-        "p": "Select Dead Leafs",
+        "p": "Select Dead Leaves",
         "description": ""
     },
     "m0175dxace01": {
         "name": "Superb Dead Leaf",
-        "p": "Superb Dead Leafs",
+        "p": "Superb Dead Leaves",
         "description": ""
     },
     "m0175dxacf01": {
         "name": "Magnificient Dead Leaf",
-        "p": "Magnificient Dead Leafs",
+        "p": "Magnificient Dead Leaves",
         "description": ""
     },
     "m0176dxaca01": {
         "name": "Plain Rotting Leaf",
-        "p": "Plain Rotting Leafs",
+        "p": "Plain Rotting Leaves",
         "description": ""
     },
     "m0176dxacb01": {
         "name": "Average Rotting Leaf",
-        "p": "Average Rotting Leafs",
+        "p": "Average Rotting Leaves",
         "description": ""
     },
     "m0176dxacc01": {
         "name": "Prime Rotting Leaf",
-        "p": "Prime Rotting Leafs",
+        "p": "Prime Rotting Leaves",
         "description": ""
     },
     "m0176dxacd01": {
         "name": "Select Rotting Leaf",
-        "p": "Select Rotting Leafs",
+        "p": "Select Rotting Leaves",
         "description": ""
     },
     "m0176dxace01": {
         "name": "Superb Rotting Leaf",
-        "p": "Superb Rotting Leafs",
+        "p": "Superb Rotting Leaves",
         "description": ""
     },
     "m0176dxacf01": {
         "name": "Magnificient Rotting Leaf",
-        "p": "Magnificient Rotting Leafs",
+        "p": "Magnificient Rotting Leaves",
         "description": ""
     },
     "m0177dxaca01": {
@@ -9871,92 +9871,92 @@
     },
     "m0184dxaca01": {
         "name": "Plain Small Reed Leaf",
-        "p": "Plain Small Reed Leafs",
+        "p": "Plain Small Reed Leaves",
         "description": ""
     },
     "m0184dxacb01": {
         "name": "Average Small Reed Leaf",
-        "p": "Average Small Reed Leafs",
+        "p": "Average Small Reed Leaves",
         "description": ""
     },
     "m0184dxacc01": {
         "name": "Prime Small Reed Leaf",
-        "p": "Prime Small Reed Leafs",
+        "p": "Prime Small Reed Leaves",
         "description": ""
     },
     "m0184dxacd01": {
         "name": "Select Small Reed Leaf",
-        "p": "Select Small Reed Leafs",
+        "p": "Select Small Reed Leaves",
         "description": ""
     },
     "m0184dxace01": {
         "name": "Superb Small Reed Leaf",
-        "p": "Superb Small Reed Leafs",
+        "p": "Superb Small Reed Leaves",
         "description": ""
     },
     "m0184dxacf01": {
         "name": "Magnificient Small Reed Leaf",
-        "p": "Magnificient Small Reed Leafs",
+        "p": "Magnificient Small Reed Leaves",
         "description": ""
     },
     "m0185dxaca01": {
         "name": "Plain Large Reed Leaf",
-        "p": "Plain Large Reed Leafs",
+        "p": "Plain Large Reed Leaves",
         "description": ""
     },
     "m0185dxacb01": {
         "name": "Average Large Reed Leaf",
-        "p": "Average Large Reed Leafs",
+        "p": "Average Large Reed Leaves",
         "description": ""
     },
     "m0185dxacc01": {
         "name": "Prime Large Reed Leaf",
-        "p": "Prime Large Reed Leafs",
+        "p": "Prime Large Reed Leaves",
         "description": ""
     },
     "m0185dxacd01": {
         "name": "Select Large Reed Leaf",
-        "p": "Select Large Reed Leafs",
+        "p": "Select Large Reed Leaves",
         "description": ""
     },
     "m0185dxace01": {
         "name": "Superb Large Reed Leaf",
-        "p": "Superb Large Reed Leafs",
+        "p": "Superb Large Reed Leaves",
         "description": ""
     },
     "m0185dxacf01": {
         "name": "Magnificient Large Reed Leaf",
-        "p": "Magnificient Large Reed Leafs",
+        "p": "Magnificient Large Reed Leaves",
         "description": ""
     },
     "m0186dxaca01": {
         "name": "Plain Giant Reed Leaf",
-        "p": "Plain Giant Reed Leafs",
+        "p": "Plain Giant Reed Leaves",
         "description": ""
     },
     "m0186dxacb01": {
         "name": "Average Giant Reed Leaf",
-        "p": "Average Giant Reed Leafs",
+        "p": "Average Giant Reed Leaves",
         "description": ""
     },
     "m0186dxacc01": {
         "name": "Prime Giant Reed Leaf",
-        "p": "Prime Giant Reed Leafs",
+        "p": "Prime Giant Reed Leaves",
         "description": ""
     },
     "m0186dxacd01": {
         "name": "Select Giant Reed Leaf",
-        "p": "Select Giant Reed Leafs",
+        "p": "Select Giant Reed Leaves",
         "description": ""
     },
     "m0186dxace01": {
         "name": "Superb Giant Reed Leaf",
-        "p": "Superb Giant Reed Leafs",
+        "p": "Superb Giant Reed Leaves",
         "description": ""
     },
     "m0186dxacf01": {
         "name": "Magnificient Giant Reed Leaf",
-        "p": "Magnificient Giant Reed Leafs",
+        "p": "Magnificient Giant Reed Leaves",
         "description": ""
     },
     "m0187dxaca01": {
@@ -10590,63 +10590,63 @@
         "description": ""
     },
     "m0208dxaca01": {
-        "name": "Plain Small Spiders Web",
-        "p": "Plain Small Spiders Webs",
+        "name": "Plain Small Spider Web",
+        "p": "Plain Small Spider Webs",
         "description": ""
     },
     "m0208dxacb01": {
-        "name": "Average Small Spiders Web",
-        "p": "Average Small Spiders Webs",
+        "name": "Average Small Spider Web",
+        "p": "Average Small Spider Webs",
         "description": ""
     },
     "m0208dxacc01": {
-        "name": "Prime Small Spiders Web",
-        "p": "Prime Small Spiders Webs",
+        "name": "Prime Small Spider Web",
+        "p": "Prime Small Spider Webs",
         "description": ""
     },
     "m0208dxacd01": {
-        "name": "Select Small Spiders Web",
-        "p": "Select Small Spiders Webs",
+        "name": "Select Small Spider Web",
+        "p": "Select Small Spider Webs",
         "description": ""
     },
     "m0208dxace01": {
-        "name": "Superb Small Spiders Web",
-        "p": "Superb Small Spiders Webs",
+        "name": "Superb Small Spider Web",
+        "p": "Superb Small Spider Webs",
         "description": ""
     },
     "m0208dxacf01": {
-        "name": "Magnificient Small Spiders Web",
-        "p": "Magnificient Small Spiders Webs",
+        "name": "Magnificient Small Spider Web",
+        "p": "Magnificient Small Spider Webs",
         "description": ""
     },
     "m0209dxaca01": {
-        "name": "Plain Large Spiders Web",
-        "p": "Plain Large Spiders Webs",
+        "name": "Plain Large Spider Web",
+        "p": "Plain Large Spider Webs",
         "description": ""
     },
     "m0209dxacb01": {
-        "name": "Average Large Spiders Web",
-        "p": "Average Large Spiders Webs",
+        "name": "Average Large Spider Web",
+        "p": "Average Large Spider Webs",
         "description": ""
     },
     "m0209dxacc01": {
-        "name": "Prime Large Spiders Web",
-        "p": "Prime Large Spiders Webs",
+        "name": "Prime Large Spider Web",
+        "p": "Prime Large Spider Webs",
         "description": ""
     },
     "m0209dxacd01": {
-        "name": "Select Large Spiders Web",
-        "p": "Select Large Spiders Webs",
+        "name": "Select Large Spider Web",
+        "p": "Select Large Spider Webs",
         "description": ""
     },
     "m0209dxace01": {
-        "name": "Superb Large Spiders Web",
-        "p": "Superb Large Spiders Webs",
+        "name": "Superb Large Spider Web",
+        "p": "Superb Large Spider Webs",
         "description": ""
     },
     "m0209dxacf01": {
-        "name": "Magnificient Large Spiders Web",
-        "p": "Magnificient Large Spiders Webs",
+        "name": "Magnificient Large Spider Web",
+        "p": "Magnificient Large Spider Webs",
         "description": ""
     },
     "m0210dxaca01": {
@@ -24716,7 +24716,7 @@
     },
     "m0717dxacc01": {
         "name": "Fragment of Aelius Shell",
-        "p": "Fragments of Aelius Shells",
+        "p": "Fragments of Aelius Shell",
         "description": ""
     },
     "m0718dxacc01": {
@@ -24746,7 +24746,7 @@
     },
     "m0723dxacc01": {
         "name": "Fragment of Almati Shell",
-        "p": "Fragments of Almati Shells",
+        "p": "Fragments of Almati Shell",
         "description": ""
     },
     "m0724dxacc01": {
@@ -24771,12 +24771,12 @@
     },
     "m0728dxacc01": {
         "name": "Stellar Amber",
-        "p": "Stellar Ambers",
+        "p": "Stellar Amber",
         "description": ""
     },
     "m0729dxacc01": {
         "name": "Fragment of Refined Aelius Shell",
-        "p": "Fragments of Refined Aelius Shells",
+        "p": "Fragments of Refined Aelius Shell",
         "description": ""
     },
     "m0730dxacc01": {
@@ -24806,7 +24806,7 @@
     },
     "m0735dxacc01": {
         "name": "Fragment of Refined Almati Shell",
-        "p": "Fragments of Refined Almati Shells",
+        "p": "Fragments of Refined Almati Shell",
         "description": ""
     },
     "m0736dxacc01": {
@@ -24831,7 +24831,7 @@
     },
     "m0740dxacc01": {
         "name": "Refined Stellar Amber",
-        "p": "Refined Stellar Ambers",
+        "p": "Refined Stellar Amber",
         "description": ""
     },
     "m0741dxacc01": {
@@ -24946,7 +24946,7 @@
     },
     "m0763dxacb01": {
         "name": "Basic Corrupted Cratcha Leaf",
-        "p": "Basic Corrupted Cratcha Leafs",
+        "p": "Basic Corrupted Cratcha Leaves",
         "description": ""
     },
     "m0764dxacb01": {
@@ -25091,7 +25091,7 @@
     },
     "m0793dxacb01": {
         "name": "Basic Corrupted Thick Amber",
-        "p": "Basic Corrupted Thick Ambers",
+        "p": "Basic Corrupted Thick Amber",
         "description": ""
     },
     "m0794dxacb01": {
@@ -25106,7 +25106,7 @@
     },
     "m0796dxacb01": {
         "name": "Basic Corrupted Solid Amber",
-        "p": "Basic Corrupted Solid Ambers",
+        "p": "Basic Corrupted Solid Amber",
         "description": ""
     },
     "m0797dxacb01": {
@@ -25200,8 +25200,8 @@
         "description": ""
     },
     "itrtam": {
-        "name": "Refugee Crafting Tool for Ammo",
-        "p": "Refugee Crafting Tools for Ammo",
+        "name": "Refugee Ammo Crafting Tool",
+        "p": "Refugee Ammo Crafting Tools",
         "description": ""
     },
     "itrtar": {
@@ -25581,3402 +25581,3402 @@
     },
     "fy_hof_tatoo0": {
         "name": "No Tattoo",
-        "p": "",
+        "p": "No Tattoos",
         "description": ""
     },
     "fy_hof_tatoo1": {
-        "name": "Eye Ticks",
-        "p": "",
+        "name": "Eye Ticks Tatoo",
+        "p": "Eye Ticks Tatoos",
         "description": ""
     },
     "fy_hof_tatoo10": {
-        "name": "Hyton Cheek Highlights",
-        "p": "",
+        "name": "Hyton Cheek Highlights Tatoo",
+        "p": "Hyton Cheek Highlights Tatoos",
         "description": ""
     },
     "fy_hof_tatoo11": {
-        "name": "Mark of Ioda",
-        "p": "",
+        "name": "Mark of Ioda Tatoo",
+        "p": "Mark of Ioda Tatoos",
         "description": ""
     },
     "fy_hof_tatoo12": {
-        "name": "Cheek Strokes",
-        "p": "",
+        "name": "Cheek Strokes Tatoo",
+        "p": "Cheek Strokes Tatoos",
         "description": ""
     },
     "fy_hof_tatoo13": {
-        "name": "Black Look",
-        "p": "",
+        "name": "Black Look Tatoo",
+        "p": "Black Look Tatoos",
         "description": ""
     },
     "fy_hof_tatoo14": {
-        "name": "Ripples in the Sand",
-        "p": "",
+        "name": "Ripples in the Sand Tatoo",
+        "p": "Ripples in the Sand Tatoos",
         "description": ""
     },
     "fy_hof_tatoo15": {
-        "name": "Sand Blast",
-        "p": "",
+        "name": "Sand Blast Tatoo",
+        "p": "Sand Blast Tatoos",
         "description": ""
     },
     "fy_hof_tatoo16": {
-        "name": "Sand Blast Shadow",
-        "p": "",
+        "name": "Sand Blast Shadow Tatoo",
+        "p": "Sand Blast Shadow Tatoos",
         "description": ""
     },
     "fy_hof_tatoo17": {
-        "name": "Mask of Menace",
-        "p": "",
+        "name": "Mask of Menace Tatoo",
+        "p": "Mask of Menace Tatoos",
         "description": ""
     },
     "fy_hof_tatoo18": {
-        "name": "Ominous Elegance",
-        "p": "",
+        "name": "Ominous Elegance Tatoo",
+        "p": "Ominous Elegance Tatoos",
         "description": ""
     },
     "fy_hof_tatoo19": {
-        "name": "Lifton Cheek Highlights",
-        "p": "",
+        "name": "Lifton Cheek Highlights Tatoo",
+        "p": "Lifton Cheek Highlights Tatoos",
         "description": ""
     },
     "fy_hof_tatoo2": {
-        "name": "Fine Mascara",
-        "p": "",
+        "name": "Fine Mascara Tatoo",
+        "p": "Fine Mascara Tatoos",
         "description": ""
     },
     "fy_hof_tatoo20": {
-        "name": "Madding Mascara",
-        "p": "",
+        "name": "Madding Mascara Tatoo",
+        "p": "Madding Mascara Tatoos",
         "description": ""
     },
     "fy_hof_tatoo21": {
-        "name": "Watching Wings",
-        "p": "",
+        "name": "Watching Wings Tatoo",
+        "p": "Watching Wings Tatoos",
         "description": ""
     },
     "fy_hof_tatoo22": {
-        "name": "Mascara Mask",
-        "p": "",
+        "name": "Mascara Mask Tatoo",
+        "p": "Mascara Mask Tatoos",
         "description": ""
     },
     "fy_hof_tatoo23": {
-        "name": "Pyph Crown Flecks",
-        "p": "",
+        "name": "Pyph Crown Flecks Tatoo",
+        "p": "Pyph Crown Flecks Tatoos",
         "description": ""
     },
     "fy_hof_tatoo24": {
-        "name": "Spearing Mascara",
-        "p": "",
+        "name": "Spearing Mascara Tatoo",
+        "p": "Spearing Mascara Tatoos",
         "description": ""
     },
     "fy_hof_tatoo25": {
-        "name": "Fina Crown Flecks",
-        "p": "",
+        "name": "Fina Crown Flecks Tatoo",
+        "p": "Fina Crown Flecks Tatoos",
         "description": ""
     },
     "fy_hof_tatoo26": {
-        "name": "Spearing Shadow",
-        "p": "",
+        "name": "Spearing Shadow Tatoo",
+        "p": "Spearing Shadow Tatoos",
         "description": ""
     },
     "fy_hof_tatoo27": {
-        "name": "Crown Flecks and Shadow",
-        "p": "",
+        "name": "Crown Flecks and Shadow Tatoo",
+        "p": "Crown Flecks and Shadow Tatoos",
         "description": ""
     },
     "fy_hof_tatoo28": {
-        "name": "Sandy Face",
-        "p": "",
+        "name": "Sandy Face Tatoo",
+        "p": "Sandy Face Tatoos",
         "description": ""
     },
     "fy_hof_tatoo29": {
-        "name": "Floryx Crown Flecks",
-        "p": "",
+        "name": "Floryx Crown Flecks Tatoo",
+        "p": "Floryx Crown Flecks Tatoos",
         "description": ""
     },
     "fy_hof_tatoo3": {
-        "name": "Fine Streaks",
-        "p": "",
+        "name": "Fine Streaks Tatoo",
+        "p": "Fine Streaks Tatoos",
         "description": ""
     },
     "fy_hof_tatoo30": {
-        "name": "Shadow Flecks",
-        "p": "",
+        "name": "Shadow Flecks Tatoo",
+        "p": "Shadow Flecks Tatoos",
         "description": ""
     },
     "fy_hof_tatoo31": {
-        "name": "Shadow Ripples",
-        "p": "",
+        "name": "Shadow Ripples Tatoo",
+        "p": "Shadow Ripples Tatoos",
         "description": ""
     },
     "fy_hof_tatoo32": {
-        "name": "Starry Shadow",
-        "p": "",
+        "name": "Starry Shadow Tatoo",
+        "p": "Starry Shadow Tatoos",
         "description": ""
     },
     "fy_hof_tatoo33": {
-        "name": "Starry",
-        "p": "",
+        "name": "Starry Tatoo",
+        "p": "Starry Tatoos",
         "description": ""
     },
     "fy_hof_tatoo34": {
-        "name": "Flaming Eyes",
-        "p": "",
+        "name": "Flaming Eyes Tatoo",
+        "p": "Flaming Eyes Tatoos",
         "description": ""
     },
     "fy_hof_tatoo35": {
-        "name": "Tithon Streak",
-        "p": "",
+        "name": "Tithon Streak Tatoo",
+        "p": "Tithon Streak Tatoos",
         "description": ""
     },
     "fy_hof_tatoo36": {
-        "name": "Continuity Streaks",
-        "p": "",
+        "name": "Continuity Streaks Tatoo",
+        "p": "Continuity Streaks Tatoos",
         "description": ""
     },
     "fy_hof_tatoo37": {
-        "name": "Elegant Streaks",
-        "p": "",
+        "name": "Elegant Streaks Tatoo",
+        "p": "Elegant Streaks Tatoos",
         "description": ""
     },
     "fy_hof_tatoo38": {
-        "name": "Styled Flanks",
-        "p": "",
+        "name": "Styled Flanks Tatoo",
+        "p": "Styled Flanks Tatoos",
         "description": ""
     },
     "fy_hof_tatoo39": {
-        "name": "Lifton Streaks",
-        "p": "",
+        "name": "Lifton Streaks Tatoo",
+        "p": "Lifton Streaks Tatoos",
         "description": ""
     },
     "fy_hof_tatoo4": {
-        "name": "Eye Shadow Ticks",
-        "p": "",
+        "name": "Eye Shadow Ticks Tatoo",
+        "p": "Eye Shadow Ticks Tatoos",
         "description": ""
     },
     "fy_hof_tatoo40": {
-        "name": "Lifton Blue",
-        "p": "",
+        "name": "Lifton Blue Tatoo",
+        "p": "Lifton Blue Tatoos",
         "description": ""
     },
     "fy_hof_tatoo41": {
-        "name": "Wings and Sreaks",
-        "p": "",
+        "name": "Wings and Sreaks Tatoo",
+        "p": "Wings and Sreaks Tatoos",
         "description": ""
     },
     "fy_hof_tatoo42": {
-        "name": "Think Blink",
-        "p": "",
+        "name": "Think Blink Tatoo",
+        "p": "Think Blink Tatoos",
         "description": ""
     },
     "fy_hof_tatoo43": {
-        "name": "Tyloth Patch",
-        "p": "",
+        "name": "Tyloth Patch Tatoo",
+        "p": "Tyloth Patch Tatoos",
         "description": ""
     },
     "fy_hof_tatoo44": {
-        "name": "War Triangles",
-        "p": "",
+        "name": "War Triangles Tatoo",
+        "p": "War Triangles Tatoos",
         "description": ""
     },
     "fy_hof_tatoo45": {
-        "name": "Flepos Streaks",
-        "p": "",
+        "name": "Flepos Streaks Tatoo",
+        "p": "Flepos Streaks Tatoos",
         "description": ""
     },
     "fy_hof_tatoo46": {
-        "name": "Hyte Streaks",
-        "p": "",
+        "name": "Hyte Streaks Tatoo",
+        "p": "Hyte Streaks Tatoos",
         "description": ""
     },
     "fy_hof_tatoo47": {
-        "name": "Shadow Brow",
-        "p": "",
+        "name": "Shadow Brow Tatoo",
+        "p": "Shadow Brow Tatoos",
         "description": ""
     },
     "fy_hof_tatoo48": {
-        "name": "High Serenity",
-        "p": "",
+        "name": "High Serenity Tatoo",
+        "p": "High Serenity Tatoos",
         "description": ""
     },
     "fy_hof_tatoo49": {
-        "name": "Dragon Wings",
-        "p": "",
+        "name": "Dragon Wings Tatoo",
+        "p": "Dragon Wings Tatoos",
         "description": ""
     },
     "fy_hof_tatoo5": {
-        "name": "Ripples",
-        "p": "",
+        "name": "Ripples Tatoo",
+        "p": "Ripples Tatoos",
         "description": ""
     },
     "fy_hof_tatoo50": {
-        "name": "Wavy Eyelines",
-        "p": "",
+        "name": "Wavy Eyelines Tatoo",
+        "p": "Wavy Eyelines Tatoos",
         "description": ""
     },
     "fy_hof_tatoo51": {
-        "name": "Avenger Dabs",
-        "p": "",
+        "name": "Avenger Dabs Tatoo",
+        "p": "Avenger Dabs Tatoos",
         "description": ""
     },
     "fy_hof_tatoo52": {
-        "name": "Eye Tabs",
-        "p": "",
+        "name": "Eye Tabs Tatoo",
+        "p": "Eye Tabs Tatoos",
         "description": ""
     },
     "fy_hof_tatoo53": {
-        "name": "Thick Flecks",
-        "p": "",
+        "name": "Thick Flecks Tatoo",
+        "p": "Thick Flecks Tatoos",
         "description": ""
     },
     "fy_hof_tatoo54": {
-        "name": "Munshia Bridge",
-        "p": "",
+        "name": "Munshia Bridge Tatoo",
+        "p": "Munshia Bridge Tatoos",
         "description": ""
     },
     "fy_hof_tatoo55": {
-        "name": "Thunder Eyes",
-        "p": "",
+        "name": "Thunder Eyes Tatoo",
+        "p": "Thunder Eyes Tatoos",
         "description": ""
     },
     "fy_hof_tatoo56": {
-        "name": "Spearing Sands",
-        "p": "",
+        "name": "Spearing Sands Tatoo",
+        "p": "Spearing Sands Tatoos",
         "description": ""
     },
     "fy_hof_tatoo57": {
-        "name": "Mindful",
-        "p": "",
+        "name": "Mindful Tatoo",
+        "p": "Mindful Tatoos",
         "description": ""
     },
     "fy_hof_tatoo58": {
-        "name": "Mindful Flecks",
-        "p": "",
+        "name": "Mindful Flecks Tatoo",
+        "p": "Mindful Flecks Tatoos",
         "description": ""
     },
     "fy_hof_tatoo59": {
-        "name": "Simple Elegance",
-        "p": "",
+        "name": "Simple Elegance Tatoo",
+        "p": "Simple Elegance Tatoos",
         "description": ""
     },
     "fy_hof_tatoo6": {
-        "name": "Shadow Ripples",
-        "p": "",
+        "name": "Shadow Ripples Tatoo",
+        "p": "Shadow Ripples Tatoos",
         "description": ""
     },
     "fy_hof_tatoo60": {
-        "name": "Ceremonial Elegance",
-        "p": "",
+        "name": "Ceremonial Elegance Tatoo",
+        "p": "Ceremonial Elegance Tatoos",
         "description": ""
     },
     "fy_hof_tatoo61": {
-        "name": "Elegance",
-        "p": "",
+        "name": "Elegance Tatoo",
+        "p": "Elegance Tatoos",
         "description": ""
     },
     "fy_hof_tatoo62": {
-        "name": "Mascara Star",
-        "p": "",
+        "name": "Mascara Star Tatoo",
+        "p": "Mascara Star Tatoos",
         "description": ""
     },
     "fy_hof_tatoo63": {
-        "name": "Full Elegance",
-        "p": "",
+        "name": "Full Elegance Tatoo",
+        "p": "Full Elegance Tatoos",
         "description": ""
     },
     "fy_hof_tatoo7": {
-        "name": "Delicate Brush Traits",
-        "p": "",
+        "name": "Delicate Brush Traits Tatoo",
+        "p": "Delicate Brush Traits Tatoos",
         "description": ""
     },
     "fy_hof_tatoo8": {
-        "name": "Lifton Cheek Highlights",
-        "p": "",
+        "name": "Lifton Cheek Highlights Tatoo",
+        "p": "Lifton Cheek Highlights Tatoos",
         "description": ""
     },
     "fy_hof_tatoo9": {
-        "name": "Brush Traits",
-        "p": "",
+        "name": "Brush Traits Tatoo",
+        "p": "Brush Traits Tatoos",
         "description": ""
     },
     "fy_hom_tatoo0": {
-        "name": "No Tattoo",
-        "p": "",
+        "name": "No Tattoo Tatoo",
+        "p": "No Tattoo Tatoos",
         "description": ""
     },
     "fy_hom_tatoo1": {
-        "name": "Eye Ticks",
-        "p": "",
+        "name": "Eye Ticks Tatoo",
+        "p": "Eye Ticks Tatoos",
         "description": ""
     },
     "fy_hom_tatoo10": {
-        "name": "Wykson Ripples",
-        "p": "",
+        "name": "Wykson Ripples Tatoo",
+        "p": "Wykson Ripples Tatoos",
         "description": ""
     },
     "fy_hom_tatoo11": {
-        "name": "Sandy Face",
-        "p": "",
+        "name": "Sandy Face Tatoo",
+        "p": "Sandy Face Tatoos",
         "description": ""
     },
     "fy_hom_tatoo12": {
-        "name": "Blood Stripes",
-        "p": "",
+        "name": "Blood Stripes Tatoo",
+        "p": "Blood Stripes Tatoos",
         "description": ""
     },
     "fy_hom_tatoo13": {
-        "name": "Ominous Stripes",
-        "p": "",
+        "name": "Ominous Stripes Tatoo",
+        "p": "Ominous Stripes Tatoos",
         "description": ""
     },
     "fy_hom_tatoo14": {
-        "name": "Thunder Stripes",
-        "p": "",
+        "name": "Thunder Stripes Tatoo",
+        "p": "Thunder Stripes Tatoos",
         "description": ""
     },
     "fy_hom_tatoo15": {
-        "name": "Trooper Glare",
-        "p": "",
+        "name": "Trooper Glare Tatoo",
+        "p": "Trooper Glare Tatoos",
         "description": ""
     },
     "fy_hom_tatoo16": {
-        "name": "Livith Shadow",
-        "p": "",
+        "name": "Livith Shadow Tatoo",
+        "p": "Livith Shadow Tatoos",
         "description": ""
     },
     "fy_hom_tatoo17": {
-        "name": "Tano Shadow",
-        "p": "",
+        "name": "Tano Shadow Tatoo",
+        "p": "Tano Shadow Tatoos",
         "description": ""
     },
     "fy_hom_tatoo18": {
-        "name": "Malax Shadow",
-        "p": "",
+        "name": "Malax Shadow Tatoo",
+        "p": "Malax Shadow Tatoos",
         "description": ""
     },
     "fy_hom_tatoo19": {
-        "name": "Nalyx Shadow",
-        "p": "",
+        "name": "Nalyx Shadow Tatoo",
+        "p": "Nalyx Shadow Tatoos",
         "description": ""
     },
     "fy_hom_tatoo2": {
-        "name": "Red Eye Ticks",
-        "p": "",
+        "name": "Red Eye Ticks Tatoo",
+        "p": "Red Eye Ticks Tatoos",
         "description": ""
     },
     "fy_hom_tatoo20": {
-        "name": "Palyx Shadow",
-        "p": "",
+        "name": "Palyx Shadow Tatoo",
+        "p": "Palyx Shadow Tatoos",
         "description": ""
     },
     "fy_hom_tatoo21": {
-        "name": "Dark Dune Ripples",
-        "p": "",
+        "name": "Dark Dune Ripples Tatoo",
+        "p": "Dark Dune Ripples Tatoos",
         "description": ""
     },
     "fy_hom_tatoo22": {
-        "name": "Tenos Stripes",
-        "p": "",
+        "name": "Tenos Stripes Tatoo",
+        "p": "Tenos Stripes Tatoos",
         "description": ""
     },
     "fy_hom_tatoo23": {
-        "name": "Shadow Ticks",
-        "p": "",
+        "name": "Shadow Ticks Tatoo",
+        "p": "Shadow Ticks Tatoos",
         "description": ""
     },
     "fy_hom_tatoo24": {
-        "name": "Crown Flecks and Streaks",
-        "p": "",
+        "name": "Crown Flecks and Streaks Tatoo",
+        "p": "Crown Flecks and Streaks Tatoos",
         "description": ""
     },
     "fy_hom_tatoo25": {
-        "name": "Tatyn Crossed",
-        "p": "",
+        "name": "Tatyn Crossed Tatoo",
+        "p": "Tatyn Crossed Tatoos",
         "description": ""
     },
     "fy_hom_tatoo26": {
-        "name": "Ticks Crossed",
-        "p": "",
+        "name": "Ticks Crossed Tatoo",
+        "p": "Ticks Crossed Tatoos",
         "description": ""
     },
     "fy_hom_tatoo27": {
-        "name": "Sandy Frown",
-        "p": "",
+        "name": "Sandy Frown Tatoo",
+        "p": "Sandy Frown Tatoos",
         "description": ""
     },
     "fy_hom_tatoo28": {
-        "name": "Desert Eyes",
-        "p": "",
+        "name": "Desert Eyes Tatoo",
+        "p": "Desert Eyes Tatoos",
         "description": ""
     },
     "fy_hom_tatoo29": {
-        "name": "Desert Peril",
-        "p": "",
+        "name": "Desert Peril Tatoo",
+        "p": "Desert Peril Tatoos",
         "description": ""
     },
     "fy_hom_tatoo3": {
-        "name": "Eye Ticks and Chin Stripes",
-        "p": "",
+        "name": "Eye Ticks and Chin Stripes Tatoo",
+        "p": "Eye Ticks and Chin Stripes Tatoos",
         "description": ""
     },
     "fy_hom_tatoo30": {
-        "name": "Dryton Crossed",
-        "p": "",
+        "name": "Dryton Crossed Tatoo",
+        "p": "Dryton Crossed Tatoos",
         "description": ""
     },
     "fy_hom_tatoo31": {
-        "name": "Ocyx Claws",
-        "p": "",
+        "name": "Ocyx Claws Tatoo",
+        "p": "Ocyx Claws Tatoos",
         "description": ""
     },
     "fy_hom_tatoo32": {
-        "name": "Hevon Flecks",
-        "p": "",
+        "name": "Hevon Flecks Tatoo",
+        "p": "Hevon Flecks Tatoos",
         "description": ""
     },
     "fy_hom_tatoo33": {
-        "name": "Styne Spear",
-        "p": "",
+        "name": "Styne Spear Tatoo",
+        "p": "Styne Spear Tatoos",
         "description": ""
     },
     "fy_hom_tatoo34": {
-        "name": "Pacton Spearhead",
-        "p": "",
+        "name": "Pacton Spearhead Tatoo",
+        "p": "Pacton Spearhead Tatoos",
         "description": ""
     },
     "fy_hom_tatoo35": {
-        "name": "Hyte Streaks",
-        "p": "",
+        "name": "Hyte Streaks Tatoo",
+        "p": "Hyte Streaks Tatoos",
         "description": ""
     },
     "fy_hom_tatoo36": {
-        "name": "Flopos Streaks",
-        "p": "",
+        "name": "Flopos Streaks Tatoo",
+        "p": "Flopos Streaks Tatoos",
         "description": ""
     },
     "fy_hom_tatoo37": {
-        "name": "Liftons Streaks",
-        "p": "",
+        "name": "Liftons Streaks Tatoo",
+        "p": "Liftons Streaks Tatoos",
         "description": ""
     },
     "fy_hom_tatoo38": {
-        "name": "Sy Band",
-        "p": "",
+        "name": "Sy Band Tatoo",
+        "p": "Sy Band Tatoos",
         "description": ""
     },
     "fy_hom_tatoo39": {
-        "name": "Wizeth Spear Shadow",
-        "p": "",
+        "name": "Wizeth Spear Shadow Tatoo",
+        "p": "Wizeth Spear Shadow Tatoos",
         "description": ""
     },
     "fy_hom_tatoo4": {
-        "name": "Pledix Stripe",
-        "p": "",
+        "name": "Pledix Stripe Tatoo",
+        "p": "Pledix Stripe Tatoos",
         "description": ""
     },
     "fy_hom_tatoo40": {
-        "name": "War Paint",
-        "p": "",
+        "name": "War Paint Tatoo",
+        "p": "War Paint Tatoos",
         "description": ""
     },
     "fy_hom_tatoo41": {
-        "name": "War Shadow",
-        "p": "",
+        "name": "War Shadow Tatoo",
+        "p": "War Shadow Tatoos",
         "description": ""
     },
     "fy_hom_tatoo42": {
-        "name": "Oktis Spear Shadow",
-        "p": "",
+        "name": "Oktis Spear Shadow Tatoo",
+        "p": "Oktis Spear Shadow Tatoos",
         "description": ""
     },
     "fy_hom_tatoo43": {
-        "name": "Dykon Spear Shadow",
-        "p": "",
+        "name": "Dykon Spear Shadow Tatoo",
+        "p": "Dykon Spear Shadow Tatoos",
         "description": ""
     },
     "fy_hom_tatoo44": {
-        "name": "Pyto's Revenge",
-        "p": "",
+        "name": "Pyto's Revenge Tatoo",
+        "p": "Pyto's Revenge Tatoos",
         "description": ""
     },
     "fy_hom_tatoo45": {
-        "name": "Torbak Claws",
-        "p": "",
+        "name": "Torbak Claws Tatoo",
+        "p": "Torbak Claws Tatoos",
         "description": ""
     },
     "fy_hom_tatoo46": {
-        "name": "Ragus Claws",
-        "p": "",
+        "name": "Ragus Claws Tatoo",
+        "p": "Ragus Claws Tatoos",
         "description": ""
     },
     "fy_hom_tatoo47": {
-        "name": "Paxer Patch",
-        "p": "",
+        "name": "Paxer Patch Tatoo",
+        "p": "Paxer Patch Tatoos",
         "description": ""
     },
     "fy_hom_tatoo48": {
-        "name": "Tithon Streak",
-        "p": "",
+        "name": "Tithon Streak Tatoo",
+        "p": "Tithon Streak Tatoos",
         "description": ""
     },
     "fy_hom_tatoo49": {
-        "name": "Rydon's Gaze",
-        "p": "",
+        "name": "Rydon's Gaze Tatoo",
+        "p": "Rydon's Gaze Tatoos",
         "description": ""
     },
     "fy_hom_tatoo5": {
-        "name": "Bolus Stripes",
-        "p": "",
+        "name": "Bolus Stripes Tatoo",
+        "p": "Bolus Stripes Tatoos",
         "description": ""
     },
     "fy_hom_tatoo50": {
-        "name": "Tri Band",
-        "p": "",
+        "name": "Tri Band Tatoo",
+        "p": "Tri Band Tatoos",
         "description": ""
     },
     "fy_hom_tatoo51": {
-        "name": "Wavy Eyelines",
-        "p": "",
+        "name": "Wavy Eyelines Tatoo",
+        "p": "Wavy Eyelines Tatoos",
         "description": ""
     },
     "fy_hom_tatoo52": {
-        "name": "Ryx Streak",
-        "p": "",
+        "name": "Ryx Streak Tatoo",
+        "p": "Ryx Streak Tatoos",
         "description": ""
     },
     "fy_hom_tatoo53": {
-        "name": "Hy Blend",
-        "p": "",
+        "name": "Hy Blend Tatoo",
+        "p": "Hy Blend Tatoos",
         "description": ""
     },
     "fy_hom_tatoo54": {
-        "name": "Warrior Strokes",
-        "p": "",
+        "name": "Warrior Strokes Tatoo",
+        "p": "Warrior Strokes Tatoos",
         "description": ""
     },
     "fy_hom_tatoo55": {
-        "name": "Fryn Spear",
-        "p": "",
+        "name": "Fryn Spear Tatoo",
+        "p": "Fryn Spear Tatoos",
         "description": ""
     },
     "fy_hom_tatoo56": {
-        "name": "Thunder Eyes",
-        "p": "",
+        "name": "Thunder Eyes Tatoo",
+        "p": "Thunder Eyes Tatoos",
         "description": ""
     },
     "fy_hom_tatoo57": {
-        "name": "Mouth Band",
-        "p": "",
+        "name": "Mouth Band Tatoo",
+        "p": "Mouth Band Tatoos",
         "description": ""
     },
     "fy_hom_tatoo58": {
-        "name": "Munshia Bridge",
-        "p": "",
+        "name": "Munshia Bridge Tatoo",
+        "p": "Munshia Bridge Tatoos",
         "description": ""
     },
     "fy_hom_tatoo59": {
-        "name": "Dakton Blood Slash",
-        "p": "",
+        "name": "Dakton Blood Slash Tatoo",
+        "p": "Dakton Blood Slash Tatoos",
         "description": ""
     },
     "fy_hom_tatoo6": {
-        "name": "Fina Crossed",
-        "p": "",
+        "name": "Fina Crossed Tatoo",
+        "p": "Fina Crossed Tatoos",
         "description": ""
     },
     "fy_hom_tatoo60": {
-        "name": "Blazing Eyes",
-        "p": "",
+        "name": "Blazing Eyes Tatoo",
+        "p": "Blazing Eyes Tatoos",
         "description": ""
     },
     "fy_hom_tatoo61": {
-        "name": "Flaming Cheeks",
-        "p": "",
+        "name": "Flaming Cheeks Tatoo",
+        "p": "Flaming Cheeks Tatoos",
         "description": ""
     },
     "fy_hom_tatoo62": {
-        "name": "Flaming Eyes",
-        "p": "",
+        "name": "Flaming Eyes Tatoo",
+        "p": "Flaming Eyes Tatoos",
         "description": ""
     },
     "fy_hom_tatoo63": {
-        "name": "Coriolis Flames",
-        "p": "",
+        "name": "Coriolis Flames Tatoo",
+        "p": "Coriolis Flames Tatoos",
         "description": ""
     },
     "fy_hom_tatoo7": {
-        "name": "Delicate Brush Traits",
-        "p": "",
+        "name": "Delicate Brush Traits Tatoo",
+        "p": "Delicate Brush Traits Tatoos",
         "description": ""
     },
     "fy_hom_tatoo8": {
-        "name": "Four Ripples",
-        "p": "",
+        "name": "Four Ripples Tatoo",
+        "p": "Four Ripples Tatoos",
         "description": ""
     },
     "fy_hom_tatoo9": {
-        "name": "Six Ripples",
-        "p": "",
+        "name": "Six Ripples Tatoo",
+        "p": "Six Ripples Tatoos",
         "description": ""
     },
     "ma_hof_tatoo0": {
-        "name": "No Tattoo",
-        "p": "",
+        "name": "No Tattoo Tatoo",
+        "p": "No Tattoo Tatoos",
         "description": ""
     },
     "ma_hof_tatoo1": {
-        "name": "Mascara Outline",
-        "p": "",
+        "name": "Mascara Outline Tatoo",
+        "p": "Mascara Outline Tatoos",
         "description": ""
     },
     "ma_hof_tatoo10": {
-        "name": "Brown Mottled Shading",
-        "p": "",
+        "name": "Brown Mottled Shading Tatoo",
+        "p": "Brown Mottled Shading Tatoos",
         "description": ""
     },
     "ma_hof_tatoo11": {
-        "name": "Green Mottled Shading",
-        "p": "",
+        "name": "Green Mottled Shading Tatoo",
+        "p": "Green Mottled Shading Tatoos",
         "description": ""
     },
     "ma_hof_tatoo12": {
-        "name": "Autumn Dance",
-        "p": "",
+        "name": "Autumn Dance Tatoo",
+        "p": "Autumn Dance Tatoos",
         "description": ""
     },
     "ma_hof_tatoo13": {
-        "name": "Brown Highbrow",
-        "p": "",
+        "name": "Brown Highbrow Tatoo",
+        "p": "Brown Highbrow Tatoos",
         "description": ""
     },
     "ma_hof_tatoo14": {
-        "name": "Indigo Highbrow",
-        "p": "",
+        "name": "Indigo Highbrow Tatoo",
+        "p": "Indigo Highbrow Tatoos",
         "description": ""
     },
     "ma_hof_tatoo15": {
-        "name": "Fawn Highbrow",
-        "p": "",
+        "name": "Fawn Highbrow Tatoo",
+        "p": "Fawn Highbrow Tatoos",
         "description": ""
     },
     "ma_hof_tatoo16": {
-        "name": "Green Highbrow",
-        "p": "",
+        "name": "Green Highbrow Tatoo",
+        "p": "Green Highbrow Tatoos",
         "description": ""
     },
     "ma_hof_tatoo17": {
-        "name": "Purple Highbrow",
-        "p": "",
+        "name": "Purple Highbrow Tatoo",
+        "p": "Purple Highbrow Tatoos",
         "description": ""
     },
     "ma_hof_tatoo18": {
-        "name": "Dark Bird of Omen",
-        "p": "",
+        "name": "Dark Bird of Omen Tatoo",
+        "p": "Dark Bird of Omen Tatoos",
         "description": ""
     },
     "ma_hof_tatoo19": {
-        "name": "Indigo Bird of Omen",
-        "p": "",
+        "name": "Indigo Bird of Omen Tatoo",
+        "p": "Indigo Bird of Omen Tatoos",
         "description": ""
     },
     "ma_hof_tatoo2": {
-        "name": "Bloody Strias",
-        "p": "",
+        "name": "Bloody Strias Tatoo",
+        "p": "Bloody Strias Tatoos",
         "description": ""
     },
     "ma_hof_tatoo20": {
-        "name": "Blue Dancing Flames",
-        "p": "",
+        "name": "Blue Dancing Flames Tatoo",
+        "p": "Blue Dancing Flames Tatoos",
         "description": ""
     },
     "ma_hof_tatoo21": {
-        "name": "Brown Dancing Flames",
-        "p": "",
+        "name": "Brown Dancing Flames Tatoo",
+        "p": "Brown Dancing Flames Tatoos",
         "description": ""
     },
     "ma_hof_tatoo22": {
-        "name": "Green Dancing Flames",
-        "p": "",
+        "name": "Green Dancing Flames Tatoo",
+        "p": "Green Dancing Flames Tatoos",
         "description": ""
     },
     "ma_hof_tatoo23": {
-        "name": "Autumn Curling",
-        "p": "",
+        "name": "Autumn Curling Tatoo",
+        "p": "Autumn Curling Tatoos",
         "description": ""
     },
     "ma_hof_tatoo24": {
-        "name": "Night Curling",
-        "p": "",
+        "name": "Night Curling Tatoo",
+        "p": "Night Curling Tatoos",
         "description": ""
     },
     "ma_hof_tatoo25": {
-        "name": "Blood Curling",
-        "p": "",
+        "name": "Blood Curling Tatoo",
+        "p": "Blood Curling Tatoos",
         "description": ""
     },
     "ma_hof_tatoo26": {
-        "name": "Blue Stylish Shading",
-        "p": "",
+        "name": "Blue Stylish Shading Tatoo",
+        "p": "Blue Stylish Shading Tatoos",
         "description": ""
     },
     "ma_hof_tatoo27": {
-        "name": "Brown Stylish Shading",
-        "p": "",
+        "name": "Brown Stylish Shading Tatoo",
+        "p": "Brown Stylish Shading Tatoos",
         "description": ""
     },
     "ma_hof_tatoo28": {
-        "name": "Lenardi Lace",
-        "p": "",
+        "name": "Lenardi Lace Tatoo",
+        "p": "Lenardi Lace Tatoos",
         "description": ""
     },
     "ma_hof_tatoo29": {
-        "name": "Red Ornate Wonder",
-        "p": "",
+        "name": "Red Ornate Wonder Tatoo",
+        "p": "Red Ornate Wonder Tatoos",
         "description": ""
     },
     "ma_hof_tatoo3": {
-        "name": "Green Strias",
-        "p": "",
+        "name": "Green Strias Tatoo",
+        "p": "Green Strias Tatoos",
         "description": ""
     },
     "ma_hof_tatoo30": {
-        "name": "Green Ornate Wonder",
-        "p": "",
+        "name": "Green Ornate Wonder Tatoo",
+        "p": "Green Ornate Wonder Tatoos",
         "description": ""
     },
     "ma_hof_tatoo31": {
-        "name": "Purple Ornate Wonder",
-        "p": "",
+        "name": "Purple Ornate Wonder Tatoo",
+        "p": "Purple Ornate Wonder Tatoos",
         "description": ""
     },
     "ma_hof_tatoo32": {
-        "name": "Scrolling Eyes",
-        "p": "",
+        "name": "Scrolling Eyes Tatoo",
+        "p": "Scrolling Eyes Tatoos",
         "description": ""
     },
     "ma_hof_tatoo33": {
-        "name": "Musing Imprint",
-        "p": "",
+        "name": "Musing Imprint Tatoo",
+        "p": "Musing Imprint Tatoos",
         "description": ""
     },
     "ma_hof_tatoo34": {
-        "name": "Purple Undergrowth",
-        "p": "",
+        "name": "Purple Undergrowth Tatoo",
+        "p": "Purple Undergrowth Tatoos",
         "description": ""
     },
     "ma_hof_tatoo35": {
-        "name": "Isabella Leaves",
-        "p": "",
+        "name": "Isabella Leaves Tatoo",
+        "p": "Isabella Leaves Tatoos",
         "description": ""
     },
     "ma_hof_tatoo36": {
-        "name": "Harvest",
-        "p": "",
+        "name": "Harvest Tatoo",
+        "p": "Harvest Tatoos",
         "description": ""
     },
     "ma_hof_tatoo37": {
-        "name": "Vendetta",
-        "p": "",
+        "name": "Vendetta Tatoo",
+        "p": "Vendetta Tatoos",
         "description": ""
     },
     "ma_hof_tatoo38": {
-        "name": "Purple Mist",
-        "p": "",
+        "name": "Purple Mist Tatoo",
+        "p": "Purple Mist Tatoos",
         "description": ""
     },
     "ma_hof_tatoo39": {
-        "name": "Serrated Wings",
-        "p": "",
+        "name": "Serrated Wings Tatoo",
+        "p": "Serrated Wings Tatoos",
         "description": ""
     },
     "ma_hof_tatoo4": {
-        "name": "Green Eye-Surround",
-        "p": "",
+        "name": "Green Eye-Surround Tatoo",
+        "p": "Green Eye-Surround Tatoos",
         "description": ""
     },
     "ma_hof_tatoo40": {
-        "name": "Bloody Fury",
-        "p": "",
+        "name": "Bloody Fury Tatoo",
+        "p": "Bloody Fury Tatoos",
         "description": ""
     },
     "ma_hof_tatoo41": {
-        "name": "Sunshine Butterfly",
-        "p": "",
+        "name": "Sunshine Butterfly Tatoo",
+        "p": "Sunshine Butterfly Tatoos",
         "description": ""
     },
     "ma_hof_tatoo42": {
-        "name": "Maiden Ribbons",
-        "p": "",
+        "name": "Maiden Ribbons Tatoo",
+        "p": "Maiden Ribbons Tatoos",
         "description": ""
     },
     "ma_hof_tatoo43": {
-        "name": "Ruddy Eye Surround",
-        "p": "",
+        "name": "Ruddy Eye Surround Tatoo",
+        "p": "Ruddy Eye Surround Tatoos",
         "description": ""
     },
     "ma_hof_tatoo44": {
-        "name": "Worlds Divided",
-        "p": "",
+        "name": "Worlds Divided Tatoo",
+        "p": "Worlds Divided Tatoos",
         "description": ""
     },
     "ma_hof_tatoo45": {
-        "name": "Wings of Wrath",
-        "p": "",
+        "name": "Wings of Wrath Tatoo",
+        "p": "Wings of Wrath Tatoos",
         "description": ""
     },
     "ma_hof_tatoo46": {
-        "name": "Frown of Defiance",
-        "p": "",
+        "name": "Frown of Defiance Tatoo",
+        "p": "Frown of Defiance Tatoos",
         "description": ""
     },
     "ma_hof_tatoo47": {
-        "name": "Pink Morning",
-        "p": "",
+        "name": "Pink Morning Tatoo",
+        "p": "Pink Morning Tatoos",
         "description": ""
     },
     "ma_hof_tatoo48": {
-        "name": "Purple Sunset",
-        "p": "",
+        "name": "Purple Sunset Tatoo",
+        "p": "Purple Sunset Tatoos",
         "description": ""
     },
     "ma_hof_tatoo49": {
-        "name": "Flecked Fury",
-        "p": "",
+        "name": "Flecked Fury Tatoo",
+        "p": "Flecked Fury Tatoos",
         "description": ""
     },
     "ma_hof_tatoo5": {
-        "name": "Mark of Devotion",
-        "p": "",
+        "name": "Mark of Devotion Tatoo",
+        "p": "Mark of Devotion Tatoos",
         "description": ""
     },
     "ma_hof_tatoo50": {
-        "name": "Carapace Face",
-        "p": "",
+        "name": "Carapace Face Tatoo",
+        "p": "Carapace Face Tatoos",
         "description": ""
     },
     "ma_hof_tatoo51": {
-        "name": "Scrolling Revenge",
-        "p": "",
+        "name": "Scrolling Revenge Tatoo",
+        "p": "Scrolling Revenge Tatoos",
         "description": ""
     },
     "ma_hof_tatoo52": {
-        "name": "Crown Streaks",
-        "p": "",
+        "name": "Crown Streaks Tatoo",
+        "p": "Crown Streaks Tatoos",
         "description": ""
     },
     "ma_hof_tatoo53": {
-        "name": "Vendetta Streaks",
-        "p": "",
+        "name": "Vendetta Streaks Tatoo",
+        "p": "Vendetta Streaks Tatoos",
         "description": ""
     },
     "ma_hof_tatoo54": {
-        "name": "Double Strike Through",
-        "p": "",
+        "name": "Double Strike Through Tatoo",
+        "p": "Double Strike Through Tatoos",
         "description": ""
     },
     "ma_hof_tatoo55": {
-        "name": "Streaks of Wrath",
-        "p": "",
+        "name": "Streaks of Wrath Tatoo",
+        "p": "Streaks of Wrath Tatoos",
         "description": ""
     },
     "ma_hof_tatoo56": {
-        "name": "Lush Gaze",
-        "p": "",
+        "name": "Lush Gaze Tatoo",
+        "p": "Lush Gaze Tatoos",
         "description": ""
     },
     "ma_hof_tatoo57": {
-        "name": "Dotted Brow",
-        "p": "",
+        "name": "Dotted Brow Tatoo",
+        "p": "Dotted Brow Tatoos",
         "description": ""
     },
     "ma_hof_tatoo58": {
-        "name": "Perching Rocco Birds",
-        "p": "",
+        "name": "Perching Rocco Birds Tatoo",
+        "p": "Perching Rocco Birds Tatoos",
         "description": ""
     },
     "ma_hof_tatoo59": {
-        "name": "Homin Crossed",
-        "p": "",
+        "name": "Homin Crossed Tatoo",
+        "p": "Homin Crossed Tatoos",
         "description": ""
     },
     "ma_hof_tatoo6": {
-        "name": "Dappled Autumn",
-        "p": "",
+        "name": "Dappled Autumn Tatoo",
+        "p": "Dappled Autumn Tatoos",
         "description": ""
     },
     "ma_hof_tatoo60": {
-        "name": "Wings of Sight",
-        "p": "",
+        "name": "Wings of Sight Tatoo",
+        "p": "Wings of Sight Tatoos",
         "description": ""
     },
     "ma_hof_tatoo61": {
-        "name": "Musing Pink",
-        "p": "",
+        "name": "Musing Pink Tatoo",
+        "p": "Musing Pink Tatoos",
         "description": ""
     },
     "ma_hof_tatoo62": {
-        "name": "Ominous Streaks",
-        "p": "",
+        "name": "Ominous Streaks Tatoo",
+        "p": "Ominous Streaks Tatoos",
         "description": ""
     },
     "ma_hof_tatoo63": {
-        "name": "Green Pastures",
-        "p": "",
+        "name": "Green Pastures Tatoo",
+        "p": "Green Pastures Tatoos",
         "description": ""
     },
     "ma_hof_tatoo7": {
-        "name": "Green Mottled Eye Surround",
-        "p": "",
+        "name": "Green Mottled Eye Surround Tatoo",
+        "p": "Green Mottled Eye Surround Tatoos",
         "description": ""
     },
     "ma_hof_tatoo8": {
-        "name": "Boding Mottled Eye surround",
-        "p": "",
+        "name": "Boding Mottled Eye surround Tatoo",
+        "p": "Boding Mottled Eye surround Tatoos",
         "description": ""
     },
     "ma_hof_tatoo9": {
-        "name": "Ruddy Mottled Eye Surround",
-        "p": "",
+        "name": "Ruddy Mottled Eye Surround Tatoo",
+        "p": "Ruddy Mottled Eye Surround Tatoos",
         "description": ""
     },
     "ma_hom_tatoo0": {
-        "name": "No Tattoo",
-        "p": "",
+        "name": "No Tattoo Tatoo",
+        "p": "No Tattoo Tatoos",
         "description": ""
     },
     "ma_hom_tatoo1": {
-        "name": "Rapier Traits",
-        "p": "",
+        "name": "Rapier Traits Tatoo",
+        "p": "Rapier Traits Tatoos",
         "description": ""
     },
     "ma_hom_tatoo10": {
-        "name": "Autumn Leaves",
-        "p": "",
+        "name": "Autumn Leaves Tatoo",
+        "p": "Autumn Leaves Tatoos",
         "description": ""
     },
     "ma_hom_tatoo11": {
-        "name": "Brown Eye Shadow",
-        "p": "",
+        "name": "Brown Eye Shadow Tatoo",
+        "p": "Brown Eye Shadow Tatoos",
         "description": ""
     },
     "ma_hom_tatoo12": {
-        "name": "Indigo Eye Shadow",
-        "p": "",
+        "name": "Indigo Eye Shadow Tatoo",
+        "p": "Indigo Eye Shadow Tatoos",
         "description": ""
     },
     "ma_hom_tatoo13": {
-        "name": "Indigo Blusher Scroll",
-        "p": "",
+        "name": "Indigo Blusher Scroll Tatoo",
+        "p": "Indigo Blusher Scroll Tatoos",
         "description": ""
     },
     "ma_hom_tatoo14": {
-        "name": "Green Blusher Scroll",
-        "p": "",
+        "name": "Green Blusher Scroll Tatoo",
+        "p": "Green Blusher Scroll Tatoos",
         "description": ""
     },
     "ma_hom_tatoo15": {
-        "name": "Brown Shadow Looming",
-        "p": "",
+        "name": "Brown Shadow Looming Tatoo",
+        "p": "Brown Shadow Looming Tatoos",
         "description": ""
     },
     "ma_hom_tatoo16": {
-        "name": "Green Shadow Looming",
-        "p": "",
+        "name": "Green Shadow Looming Tatoo",
+        "p": "Green Shadow Looming Tatoos",
         "description": ""
     },
     "ma_hom_tatoo17": {
-        "name": "Purple Shadow Looming",
-        "p": "",
+        "name": "Purple Shadow Looming Tatoo",
+        "p": "Purple Shadow Looming Tatoos",
         "description": ""
     },
     "ma_hom_tatoo18": {
-        "name": "Dark Ornate Wonder",
-        "p": "",
+        "name": "Dark Ornate Wonder Tatoo",
+        "p": "Dark Ornate Wonder Tatoos",
         "description": ""
     },
     "ma_hom_tatoo19": {
-        "name": "Blue Ornate Wonder",
-        "p": "",
+        "name": "Blue Ornate Wonder Tatoo",
+        "p": "Blue Ornate Wonder Tatoos",
         "description": ""
     },
     "ma_hom_tatoo2": {
-        "name": "Mark of Devotion",
-        "p": "",
+        "name": "Mark of Devotion Tatoo",
+        "p": "Mark of Devotion Tatoos",
         "description": ""
     },
     "ma_hom_tatoo20": {
-        "name": "Brown Ornate Wonder",
-        "p": "",
+        "name": "Brown Ornate Wonder Tatoo",
+        "p": "Brown Ornate Wonder Tatoos",
         "description": ""
     },
     "ma_hom_tatoo21": {
-        "name": "Ruddy Dragon Dance",
-        "p": "",
+        "name": "Ruddy Dragon Dance Tatoo",
+        "p": "Ruddy Dragon Dance Tatoos",
         "description": ""
     },
     "ma_hom_tatoo22": {
-        "name": "Green Dragon Dance",
-        "p": "",
+        "name": "Green Dragon Dance Tatoo",
+        "p": "Green Dragon Dance Tatoos",
         "description": ""
     },
     "ma_hom_tatoo23": {
-        "name": "Ruddy Shaded Devotion",
-        "p": "",
+        "name": "Ruddy Shaded Devotion Tatoo",
+        "p": "Ruddy Shaded Devotion Tatoos",
         "description": ""
     },
     "ma_hom_tatoo24": {
-        "name": "Purple Shaded Devotion",
-        "p": "",
+        "name": "Purple Shaded Devotion Tatoo",
+        "p": "Purple Shaded Devotion Tatoos",
         "description": ""
     },
     "ma_hom_tatoo25": {
-        "name": "Brown Flaming Menace",
-        "p": "",
+        "name": "Brown Flaming Menace Tatoo",
+        "p": "Brown Flaming Menace Tatoos",
         "description": ""
     },
     "ma_hom_tatoo26": {
-        "name": "Green Flaming Menace",
-        "p": "",
+        "name": "Green Flaming Menace Tatoo",
+        "p": "Green Flaming Menace Tatoos",
         "description": ""
     },
     "ma_hom_tatoo27": {
-        "name": "Blue Flaming Menace",
-        "p": "",
+        "name": "Blue Flaming Menace Tatoo",
+        "p": "Blue Flaming Menace Tatoos",
         "description": ""
     },
     "ma_hom_tatoo28": {
-        "name": "Scorn Shadow",
-        "p": "",
+        "name": "Scorn Shadow Tatoo",
+        "p": "Scorn Shadow Tatoos",
         "description": ""
     },
     "ma_hom_tatoo29": {
-        "name": "Night Fury",
-        "p": "",
+        "name": "Night Fury Tatoo",
+        "p": "Night Fury Tatoos",
         "description": ""
     },
     "ma_hom_tatoo3": {
-        "name": "Mark of Fervor",
-        "p": "",
+        "name": "Mark of Fervor Tatoo",
+        "p": "Mark of Fervor Tatoos",
         "description": ""
     },
     "ma_hom_tatoo30": {
-        "name": "Dark Fury",
-        "p": "",
+        "name": "Dark Fury Tatoo",
+        "p": "Dark Fury Tatoos",
         "description": ""
     },
     "ma_hom_tatoo31": {
-        "name": "Tylini's Wrath",
-        "p": "",
+        "name": "Tylini's Wrath Tatoo",
+        "p": "Tylini's Wrath Tatoos",
         "description": ""
     },
     "ma_hom_tatoo32": {
-        "name": "Golden Brown",
-        "p": "",
+        "name": "Golden Brown Tatoo",
+        "p": "Golden Brown Tatoos",
         "description": ""
     },
     "ma_hom_tatoo33": {
-        "name": "Fawn Flecked Wings",
-        "p": "",
+        "name": "Fawn Flecked Wings Tatoo",
+        "p": "Fawn Flecked Wings Tatoos",
         "description": ""
     },
     "ma_hom_tatoo34": {
-        "name": "Blue Wings on the Wind",
-        "p": "",
+        "name": "Blue Wings on the Wind Tatoo",
+        "p": "Blue Wings on the Wind Tatoos",
         "description": ""
     },
     "ma_hom_tatoo35": {
-        "name": "Venging Streaks",
-        "p": "",
+        "name": "Venging Streaks Tatoo",
+        "p": "Venging Streaks Tatoos",
         "description": ""
     },
     "ma_hom_tatoo36": {
-        "name": "Streak of Ill Omen",
-        "p": "",
+        "name": "Streak of Ill Omen Tatoo",
+        "p": "Streak of Ill Omen Tatoos",
         "description": ""
     },
     "ma_hom_tatoo37": {
-        "name": "Khaki Carapace",
-        "p": "",
+        "name": "Khaki Carapace Tatoo",
+        "p": "Khaki Carapace Tatoos",
         "description": ""
     },
     "ma_hom_tatoo38": {
-        "name": "Vendetta Eyes",
-        "p": "",
+        "name": "Vendetta Eyes Tatoo",
+        "p": "Vendetta Eyes Tatoos",
         "description": ""
     },
     "ma_hom_tatoo39": {
-        "name": "Mark of Victory",
-        "p": "",
+        "name": "Mark of Victory Tatoo",
+        "p": "Mark of Victory Tatoos",
         "description": ""
     },
     "ma_hom_tatoo4": {
-        "name": "Mark of Holy Ardor",
-        "p": "",
+        "name": "Mark of Holy Ardor Tatoo",
+        "p": "Mark of Holy Ardor Tatoos",
         "description": ""
     },
     "ma_hom_tatoo40": {
-        "name": "War Horns",
-        "p": "",
+        "name": "War Horns Tatoo",
+        "p": "War Horns Tatoos",
         "description": ""
     },
     "ma_hom_tatoo41": {
-        "name": "Purple Victory",
-        "p": "",
+        "name": "Purple Victory Tatoo",
+        "p": "Purple Victory Tatoos",
         "description": ""
     },
     "ma_hom_tatoo42": {
-        "name": "Bravichi Leaf",
-        "p": "",
+        "name": "Bravichi Leaf Tatoo",
+        "p": "Bravichi Leaf Tatoos",
         "description": ""
     },
     "ma_hom_tatoo43": {
-        "name": "Scrolls on Flecked Wings",
-        "p": "",
+        "name": "Scrolls on Flecked Wings Tatoo",
+        "p": "Scrolls on Flecked Wings Tatoos",
         "description": ""
     },
     "ma_hom_tatoo44": {
-        "name": "Scrolls",
-        "p": "",
+        "name": "Scrolls Tatoo",
+        "p": "Scrolls Tatoos",
         "description": ""
     },
     "ma_hom_tatoo45": {
-        "name": "Fawn Wings on the Wind",
-        "p": "",
+        "name": "Fawn Wings on the Wind Tatoo",
+        "p": "Fawn Wings on the Wind Tatoos",
         "description": ""
     },
     "ma_hom_tatoo46": {
-        "name": "Tylini Streaks",
-        "p": "",
+        "name": "Tylini Streaks Tatoo",
+        "p": "Tylini Streaks Tatoos",
         "description": ""
     },
     "ma_hom_tatoo47": {
-        "name": "Fury Stance",
-        "p": "",
+        "name": "Fury Stance Tatoo",
+        "p": "Fury Stance Tatoos",
         "description": ""
     },
     "ma_hom_tatoo48": {
-        "name": "Fury Streaks",
-        "p": "",
+        "name": "Fury Streaks Tatoo",
+        "p": "Fury Streaks Tatoos",
         "description": ""
     },
     "ma_hom_tatoo49": {
-        "name": "Benevolence",
-        "p": "",
+        "name": "Benevolence Tatoo",
+        "p": "Benevolence Tatoos",
         "description": ""
     },
     "ma_hom_tatoo5": {
-        "name": "Brown Mottled Eye Surround",
-        "p": "",
+        "name": "Brown Mottled Eye Surround Tatoo",
+        "p": "Brown Mottled Eye Surround Tatoos",
         "description": ""
     },
     "ma_hom_tatoo50": {
-        "name": "Fiery Eyes",
-        "p": "",
+        "name": "Fiery Eyes Tatoo",
+        "p": "Fiery Eyes Tatoos",
         "description": ""
     },
     "ma_hom_tatoo51": {
-        "name": "Roqvini Streaks",
-        "p": "",
+        "name": "Roqvini Streaks Tatoo",
+        "p": "Roqvini Streaks Tatoos",
         "description": ""
     },
     "ma_hom_tatoo52": {
-        "name": "Peachy Pink Shades",
-        "p": "",
+        "name": "Peachy Pink Shades Tatoo",
+        "p": "Peachy Pink Shades Tatoos",
         "description": ""
     },
     "ma_hom_tatoo53": {
-        "name": "Brow of Discord",
-        "p": "",
+        "name": "Brow of Discord Tatoo",
+        "p": "Brow of Discord Tatoos",
         "description": ""
     },
     "ma_hom_tatoo54": {
-        "name": "Brow of Dispute",
-        "p": "",
+        "name": "Brow of Dispute Tatoo",
+        "p": "Brow of Dispute Tatoos",
         "description": ""
     },
     "ma_hom_tatoo55": {
-        "name": "Serrated Eye Surround",
-        "p": "",
+        "name": "Serrated Eye Surround Tatoo",
+        "p": "Serrated Eye Surround Tatoos",
         "description": ""
     },
     "ma_hom_tatoo56": {
-        "name": "Streaks on Fire",
-        "p": "",
+        "name": "Streaks on Fire Tatoo",
+        "p": "Streaks on Fire Tatoos",
         "description": ""
     },
     "ma_hom_tatoo57": {
-        "name": "Bravichi's Victory",
-        "p": "",
+        "name": "Bravichi's Victory Tatoo",
+        "p": "Bravichi's Victory Tatoos",
         "description": ""
     },
     "ma_hom_tatoo58": {
-        "name": "Scrolls on Violet",
-        "p": "",
+        "name": "Scrolls on Violet Tatoo",
+        "p": "Scrolls on Violet Tatoos",
         "description": ""
     },
     "ma_hom_tatoo59": {
-        "name": "Ruddy Vendetta",
-        "p": "",
+        "name": "Ruddy Vendetta Tatoo",
+        "p": "Ruddy Vendetta Tatoos",
         "description": ""
     },
     "ma_hom_tatoo6": {
-        "name": "Blue Mottled Eye Surround",
-        "p": "",
+        "name": "Blue Mottled Eye Surround Tatoo",
+        "p": "Blue Mottled Eye Surround Tatoos",
         "description": ""
     },
     "ma_hom_tatoo60": {
-        "name": "Autumn Scrolls",
-        "p": "",
+        "name": "Autumn Scrolls Tatoo",
+        "p": "Autumn Scrolls Tatoos",
         "description": ""
     },
     "ma_hom_tatoo61": {
-        "name": "Brown Wings on the Wind",
-        "p": "",
+        "name": "Brown Wings on the Wind Tatoo",
+        "p": "Brown Wings on the Wind Tatoos",
         "description": ""
     },
     "ma_hom_tatoo62": {
-        "name": "Scrolled Wings",
-        "p": "",
+        "name": "Scrolled Wings Tatoo",
+        "p": "Scrolled Wings Tatoos",
         "description": ""
     },
     "ma_hom_tatoo63": {
-        "name": "War Streaks",
-        "p": "",
+        "name": "War Streaks Tatoo",
+        "p": "War Streaks Tatoos",
         "description": ""
     },
     "ma_hom_tatoo7": {
-        "name": "Ruddy Mottled Eye Surround",
-        "p": "",
+        "name": "Ruddy Mottled Eye Surround Tatoo",
+        "p": "Ruddy Mottled Eye Surround Tatoos",
         "description": ""
     },
     "ma_hom_tatoo8": {
-        "name": "Green Mottled Shading",
-        "p": "",
+        "name": "Green Mottled Shading Tatoo",
+        "p": "Green Mottled Shading Tatoos",
         "description": ""
     },
     "ma_hom_tatoo9": {
-        "name": "Brown Mottled Shading",
-        "p": "",
+        "name": "Brown Mottled Shading Tatoo",
+        "p": "Brown Mottled Shading Tatoos",
         "description": ""
     },
     "tr_hof_tatoo0": {
-        "name": "No Tattoo",
-        "p": "",
+        "name": "No Tattoo Tatoo",
+        "p": "No Tattoo Tatoos",
         "description": ""
     },
     "tr_hof_tatoo1": {
-        "name": "Fine Eye Lines",
-        "p": "",
+        "name": "Fine Eye Lines Tatoo",
+        "p": "Fine Eye Lines Tatoos",
         "description": ""
     },
     "tr_hof_tatoo10": {
-        "name": "Ornate Eye Surround",
-        "p": "",
+        "name": "Ornate Eye Surround Tatoo",
+        "p": "Ornate Eye Surround Tatoos",
         "description": ""
     },
     "tr_hof_tatoo11": {
-        "name": "Green Scales",
-        "p": "",
+        "name": "Green Scales Tatoo",
+        "p": "Green Scales Tatoos",
         "description": ""
     },
     "tr_hof_tatoo12": {
-        "name": "Mauve Scales",
-        "p": "",
+        "name": "Mauve Scales Tatoo",
+        "p": "Mauve Scales Tatoos",
         "description": ""
     },
     "tr_hof_tatoo13": {
-        "name": "Shadow Scales",
-        "p": "",
+        "name": "Shadow Scales Tatoo",
+        "p": "Shadow Scales Tatoos",
         "description": ""
     },
     "tr_hof_tatoo14": {
-        "name": "Lance-eye Scales",
-        "p": "",
+        "name": "Lance-eye Scales Tatoo",
+        "p": "Lance-eye Scales Tatoos",
         "description": ""
     },
     "tr_hof_tatoo15": {
-        "name": "Sun on Scales",
-        "p": "",
+        "name": "Sun on Scales Tatoo",
+        "p": "Sun on Scales Tatoos",
         "description": ""
     },
     "tr_hof_tatoo16": {
-        "name": "Pink Spray",
-        "p": "",
+        "name": "Pink Spray Tatoo",
+        "p": "Pink Spray Tatoos",
         "description": ""
     },
     "tr_hof_tatoo17": {
-        "name": "Green Spray",
-        "p": "",
+        "name": "Green Spray Tatoo",
+        "p": "Green Spray Tatoos",
         "description": ""
     },
     "tr_hof_tatoo18": {
-        "name": "Yellow Spray",
-        "p": "",
+        "name": "Yellow Spray Tatoo",
+        "p": "Yellow Spray Tatoos",
         "description": ""
     },
     "tr_hof_tatoo19": {
-        "name": "Green Wash",
-        "p": "",
+        "name": "Green Wash Tatoo",
+        "p": "Green Wash Tatoos",
         "description": ""
     },
     "tr_hof_tatoo2": {
-        "name": "Blusher",
-        "p": "",
+        "name": "Blusher Tatoo",
+        "p": "Blusher Tatoos",
         "description": ""
     },
     "tr_hof_tatoo20": {
-        "name": "Yellow Spray and Red Eye",
-        "p": "",
+        "name": "Yellow Spray and Red Eye Tatoo",
+        "p": "Yellow Spray and Red Eye Tatoos",
         "description": ""
     },
     "tr_hof_tatoo21": {
-        "name": "Blue Spray",
-        "p": "",
+        "name": "Blue Spray Tatoo",
+        "p": "Blue Spray Tatoos",
         "description": ""
     },
     "tr_hof_tatoo22": {
-        "name": "Orange Leaf",
-        "p": "",
+        "name": "Orange Leaf Tatoo",
+        "p": "Orange Leaf Tatoos",
         "description": ""
     },
     "tr_hof_tatoo23": {
-        "name": "Pink Leaf",
-        "p": "",
+        "name": "Pink Leaf Tatoo",
+        "p": "Pink Leaf Tatoos",
         "description": ""
     },
     "tr_hof_tatoo24": {
-        "name": "Orange Lapping Shore",
-        "p": "",
+        "name": "Orange Lapping Shore Tatoo",
+        "p": "Orange Lapping Shore Tatoos",
         "description": ""
     },
     "tr_hof_tatoo25": {
-        "name": "Violet Lapping Shore",
-        "p": "",
+        "name": "Violet Lapping Shore Tatoo",
+        "p": "Violet Lapping Shore Tatoos",
         "description": ""
     },
     "tr_hof_tatoo26": {
-        "name": "Scales on Lapping Shore",
-        "p": "",
+        "name": "Scales on Lapping Shore Tatoo",
+        "p": "Scales on Lapping Shore Tatoos",
         "description": ""
     },
     "tr_hof_tatoo27": {
-        "name": "Pinky Flanks",
-        "p": "",
+        "name": "Pinky Flanks Tatoo",
+        "p": "Pinky Flanks Tatoos",
         "description": ""
     },
     "tr_hof_tatoo28": {
-        "name": "Flanked Eye Surround",
-        "p": "",
+        "name": "Flanked Eye Surround Tatoo",
+        "p": "Flanked Eye Surround Tatoos",
         "description": ""
     },
     "tr_hof_tatoo29": {
-        "name": "Pink Coral Way",
-        "p": "",
+        "name": "Pink Coral Way Tatoo",
+        "p": "Pink Coral Way Tatoos",
         "description": ""
     },
     "tr_hof_tatoo3": {
-        "name": "Blusher and Eyelines",
-        "p": "",
+        "name": "Blusher and Eyelines Tatoo",
+        "p": "Blusher and Eyelines Tatoos",
         "description": ""
     },
     "tr_hof_tatoo30": {
-        "name": "Green Coral Way",
-        "p": "",
+        "name": "Green Coral Way Tatoo",
+        "p": "Green Coral Way Tatoos",
         "description": ""
     },
     "tr_hof_tatoo31": {
-        "name": "Blue Coral Way",
-        "p": "",
+        "name": "Blue Coral Way Tatoo",
+        "p": "Blue Coral Way Tatoos",
         "description": ""
     },
     "tr_hof_tatoo32": {
-        "name": "Fertility",
-        "p": "",
+        "name": "Fertility Tatoo",
+        "p": "Fertility Tatoos",
         "description": ""
     },
     "tr_hof_tatoo33": {
-        "name": "Fish Dance",
-        "p": "",
+        "name": "Fish Dance Tatoo",
+        "p": "Fish Dance Tatoos",
         "description": ""
     },
     "tr_hof_tatoo34": {
-        "name": "Rolling Waves",
-        "p": "",
+        "name": "Rolling Waves Tatoo",
+        "p": "Rolling Waves Tatoos",
         "description": ""
     },
     "tr_hof_tatoo35": {
-        "name": "Sundown",
-        "p": "",
+        "name": "Sundown Tatoo",
+        "p": "Sundown Tatoos",
         "description": ""
     },
     "tr_hof_tatoo36": {
-        "name": "Prakker Teeth",
-        "p": "",
+        "name": "Prakker Teeth Tatoo",
+        "p": "Prakker Teeth Tatoos",
         "description": ""
     },
     "tr_hof_tatoo37": {
-        "name": "Devotion",
-        "p": "",
+        "name": "Devotion Tatoo",
+        "p": "Devotion Tatoos",
         "description": ""
     },
     "tr_hof_tatoo38": {
-        "name": "Cactus Eyes",
-        "p": "",
+        "name": "Cactus Eyes Tatoo",
+        "p": "Cactus Eyes Tatoos",
         "description": ""
     },
     "tr_hof_tatoo39": {
-        "name": "Balance",
-        "p": "",
+        "name": "Balance Tatoo",
+        "p": "Balance Tatoos",
         "description": ""
     },
     "tr_hof_tatoo4": {
-        "name": "Sun Swing Rouge",
-        "p": "",
+        "name": "Sun Swing Rouge Tatoo",
+        "p": "Sun Swing Rouge Tatoos",
         "description": ""
     },
     "tr_hof_tatoo40": {
-        "name": "Hooked Tabs",
-        "p": "",
+        "name": "Hooked Tabs Tatoo",
+        "p": "Hooked Tabs Tatoos",
         "description": ""
     },
     "tr_hof_tatoo41": {
-        "name": "Over the Wave",
-        "p": "",
+        "name": "Over the Wave Tatoo",
+        "p": "Over the Wave Tatoos",
         "description": ""
     },
     "tr_hof_tatoo42": {
-        "name": "Twilight Dance",
-        "p": "",
+        "name": "Twilight Dance Tatoo",
+        "p": "Twilight Dance Tatoos",
         "description": ""
     },
     "tr_hof_tatoo43": {
-        "name": "The Wake",
-        "p": "",
+        "name": "The Wake Tatoo",
+        "p": "The Wake Tatoos",
         "description": ""
     },
     "tr_hof_tatoo44": {
-        "name": "Marine Dance",
-        "p": "",
+        "name": "Marine Dance Tatoo",
+        "p": "Marine Dance Tatoos",
         "description": ""
     },
     "tr_hof_tatoo45": {
-        "name": "Winding Across",
-        "p": "",
+        "name": "Winding Across Tatoo",
+        "p": "Winding Across Tatoos",
         "description": ""
     },
     "tr_hof_tatoo46": {
-        "name": "Twinings",
-        "p": "",
+        "name": "Twinings Tatoo",
+        "p": "Twinings Tatoos",
         "description": ""
     },
     "tr_hof_tatoo47": {
-        "name": "Winding Pink",
-        "p": "",
+        "name": "Winding Pink Tatoo",
+        "p": "Winding Pink Tatoos",
         "description": ""
     },
     "tr_hof_tatoo48": {
-        "name": "Messab Feet",
-        "p": "",
+        "name": "Messab Feet Tatoo",
+        "p": "Messab Feet Tatoos",
         "description": ""
     },
     "tr_hof_tatoo49": {
-        "name": "Budding",
-        "p": "",
+        "name": "Budding Tatoo",
+        "p": "Budding Tatoos",
         "description": ""
     },
     "tr_hof_tatoo5": {
-        "name": "Think Spots and Blusher",
-        "p": "",
+        "name": "Think Spots and Blusher Tatoo",
+        "p": "Think Spots and Blusher Tatoos",
         "description": ""
     },
     "tr_hof_tatoo50": {
-        "name": "Harpoons",
-        "p": "",
+        "name": "Harpoons Tatoo",
+        "p": "Harpoons Tatoos",
         "description": ""
     },
     "tr_hof_tatoo51": {
-        "name": "Twin Prakkers",
-        "p": "",
+        "name": "Twin Prakkers Tatoo",
+        "p": "Twin Prakkers Tatoos",
         "description": ""
     },
     "tr_hof_tatoo52": {
-        "name": "Angel Fish",
-        "p": "",
+        "name": "Angel Fish Tatoo",
+        "p": "Angel Fish Tatoos",
         "description": ""
     },
     "tr_hof_tatoo53": {
-        "name": "Seaweed Stalks",
-        "p": "",
+        "name": "Seaweed Stalks Tatoo",
+        "p": "Seaweed Stalks Tatoos",
         "description": ""
     },
     "tr_hof_tatoo54": {
-        "name": "Bloody Vengeance",
-        "p": "",
+        "name": "Bloody Vengeance Tatoo",
+        "p": "Bloody Vengeance Tatoos",
         "description": ""
     },
     "tr_hof_tatoo55": {
-        "name": "Blood Strokes",
-        "p": "",
+        "name": "Blood Strokes Tatoo",
+        "p": "Blood Strokes Tatoos",
         "description": ""
     },
     "tr_hof_tatoo56": {
-        "name": "Blood Slash",
-        "p": "",
+        "name": "Blood Slash Tatoo",
+        "p": "Blood Slash Tatoos",
         "description": ""
     },
     "tr_hof_tatoo57": {
-        "name": "Green Knowledge",
-        "p": "",
+        "name": "Green Knowledge Tatoo",
+        "p": "Green Knowledge Tatoos",
         "description": ""
     },
     "tr_hof_tatoo58": {
-        "name": "Madakam Amble",
-        "p": "",
+        "name": "Madakam Amble Tatoo",
+        "p": "Madakam Amble Tatoos",
         "description": ""
     },
     "tr_hof_tatoo59": {
-        "name": "Bolobi Dance",
-        "p": "",
+        "name": "Bolobi Dance Tatoo",
+        "p": "Bolobi Dance Tatoos",
         "description": ""
     },
     "tr_hof_tatoo6": {
-        "name": "Natural Sun Swing",
-        "p": "",
+        "name": "Natural Sun Swing Tatoo",
+        "p": "Natural Sun Swing Tatoos",
         "description": ""
     },
     "tr_hof_tatoo60": {
-        "name": "Trooper Watch",
-        "p": "",
+        "name": "Trooper Watch Tatoo",
+        "p": "Trooper Watch Tatoos",
         "description": ""
     },
     "tr_hof_tatoo61": {
-        "name": "Streaming Pink",
-        "p": "",
+        "name": "Streaming Pink Tatoo",
+        "p": "Streaming Pink Tatoos",
         "description": ""
     },
     "tr_hof_tatoo62": {
-        "name": "Clopper Carapace",
-        "p": "",
+        "name": "Clopper Carapace Tatoo",
+        "p": "Clopper Carapace Tatoos",
         "description": ""
     },
     "tr_hof_tatoo63": {
-        "name": "Spearing Head",
-        "p": "",
+        "name": "Spearing Head Tatoo",
+        "p": "Spearing Head Tatoos",
         "description": ""
     },
     "tr_hof_tatoo7": {
-        "name": "Red Eye Lines",
-        "p": "",
+        "name": "Red Eye Lines Tatoo",
+        "p": "Red Eye Lines Tatoos",
         "description": ""
     },
     "tr_hof_tatoo8": {
-        "name": "Think Spots and Eyelines",
-        "p": "",
+        "name": "Think Spots and Eyelines Tatoo",
+        "p": "Think Spots and Eyelines Tatoos",
         "description": ""
     },
     "tr_hof_tatoo9": {
-        "name": "Anchored Watch",
-        "p": "",
+        "name": "Anchored Watch Tatoo",
+        "p": "Anchored Watch Tatoos",
         "description": ""
     },
     "tr_hom_tatoo0": {
-        "name": "No Tattoo",
-        "p": "",
+        "name": "No Tattoo Tatoo",
+        "p": "No Tattoo Tatoos",
         "description": ""
     },
     "tr_hom_tatoo1": {
-        "name": "Tufty",
-        "p": "",
+        "name": "Tufty Tatoo",
+        "p": "Tufty Tatoos",
         "description": ""
     },
     "tr_hom_tatoo10": {
-        "name": "Anchored Blood Watch",
-        "p": "",
+        "name": "Anchored Blood Watch Tatoo",
+        "p": "Anchored Blood Watch Tatoos",
         "description": ""
     },
     "tr_hom_tatoo11": {
-        "name": "Anchored Lake Watch",
-        "p": "",
+        "name": "Anchored Lake Watch Tatoo",
+        "p": "Anchored Lake Watch Tatoos",
         "description": ""
     },
     "tr_hom_tatoo12": {
-        "name": "Green Run-Through",
-        "p": "",
+        "name": "Green Run-Through Tatoo",
+        "p": "Green Run-Through Tatoos",
         "description": ""
     },
     "tr_hom_tatoo13": {
-        "name": "Wooky Trail",
-        "p": "",
+        "name": "Wooky Trail Tatoo",
+        "p": "Wooky Trail Tatoos",
         "description": ""
     },
     "tr_hom_tatoo14": {
-        "name": "Jeniah Bridge",
-        "p": "",
+        "name": "Jeniah Bridge Tatoo",
+        "p": "Jeniah Bridge Tatoos",
         "description": ""
     },
     "tr_hom_tatoo15": {
-        "name": "Green Double Streaks",
-        "p": "",
+        "name": "Green Double Streaks Tatoo",
+        "p": "Green Double Streaks Tatoos",
         "description": ""
     },
     "tr_hom_tatoo16": {
-        "name": "Jeniah Bridge Watch",
-        "p": "",
+        "name": "Jeniah Bridge Watch Tatoo",
+        "p": "Jeniah Bridge Watch Tatoos",
         "description": ""
     },
     "tr_hom_tatoo17": {
-        "name": "Purple Gaze",
-        "p": "",
+        "name": "Purple Gaze Tatoo",
+        "p": "Purple Gaze Tatoos",
         "description": ""
     },
     "tr_hom_tatoo18": {
-        "name": "Green Strokes",
-        "p": "",
+        "name": "Green Strokes Tatoo",
+        "p": "Green Strokes Tatoos",
         "description": ""
     },
     "tr_hom_tatoo19": {
-        "name": "Harmony Strokes",
-        "p": "",
+        "name": "Harmony Strokes Tatoo",
+        "p": "Harmony Strokes Tatoos",
         "description": ""
     },
     "tr_hom_tatoo2": {
-        "name": "Barbs",
-        "p": "",
+        "name": "Barbs Tatoo",
+        "p": "Barbs Tatoos",
         "description": ""
     },
     "tr_hom_tatoo20": {
-        "name": "Ornate Harmony",
-        "p": "",
+        "name": "Ornate Harmony Tatoo",
+        "p": "Ornate Harmony Tatoos",
         "description": ""
     },
     "tr_hom_tatoo21": {
-        "name": "Harmony",
-        "p": "",
+        "name": "Harmony Tatoo",
+        "p": "Harmony Tatoos",
         "description": ""
     },
     "tr_hom_tatoo22": {
-        "name": "Green Scales",
-        "p": "",
+        "name": "Green Scales Tatoo",
+        "p": "Green Scales Tatoos",
         "description": ""
     },
     "tr_hom_tatoo23": {
-        "name": "Yellow Spray",
-        "p": "",
+        "name": "Yellow Spray Tatoo",
+        "p": "Yellow Spray Tatoos",
         "description": ""
     },
     "tr_hom_tatoo24": {
-        "name": "Red Spray",
-        "p": "",
+        "name": "Red Spray Tatoo",
+        "p": "Red Spray Tatoos",
         "description": ""
     },
     "tr_hom_tatoo25": {
-        "name": "Sun Splash",
-        "p": "",
+        "name": "Sun Splash Tatoo",
+        "p": "Sun Splash Tatoos",
         "description": ""
     },
     "tr_hom_tatoo26": {
-        "name": "Purple Scales",
-        "p": "",
+        "name": "Purple Scales Tatoo",
+        "p": "Purple Scales Tatoos",
         "description": ""
     },
     "tr_hom_tatoo27": {
-        "name": "Purple Sun Splash",
-        "p": "",
+        "name": "Purple Sun Splash Tatoo",
+        "p": "Purple Sun Splash Tatoos",
         "description": ""
     },
     "tr_hom_tatoo28": {
-        "name": "Elegant Harmony",
-        "p": "",
+        "name": "Elegant Harmony Tatoo",
+        "p": "Elegant Harmony Tatoos",
         "description": ""
     },
     "tr_hom_tatoo29": {
-        "name": "Dots and Stokes",
-        "p": "",
+        "name": "Dots and Stokes Tatoo",
+        "p": "Dots and Stokes Tatoos",
         "description": ""
     },
     "tr_hom_tatoo3": {
-        "name": "Tufty Barbs",
-        "p": "",
+        "name": "Tufty Barbs Tatoo",
+        "p": "Tufty Barbs Tatoos",
         "description": ""
     },
     "tr_hom_tatoo30": {
-        "name": "Lapping Shore",
-        "p": "",
+        "name": "Lapping Shore Tatoo",
+        "p": "Lapping Shore Tatoos",
         "description": ""
     },
     "tr_hom_tatoo31": {
-        "name": "Streaming in the Fields",
-        "p": "",
+        "name": "Streaming in the Fields Tatoo",
+        "p": "Streaming in the Fields Tatoos",
         "description": ""
     },
     "tr_hom_tatoo32": {
-        "name": "Face of Vengeance",
-        "p": "",
+        "name": "Face of Vengeance Tatoo",
+        "p": "Face of Vengeance Tatoos",
         "description": ""
     },
     "tr_hom_tatoo33": {
-        "name": "Thrusting Prakkers",
-        "p": "",
+        "name": "Thrusting Prakkers Tatoo",
+        "p": "Thrusting Prakkers Tatoos",
         "description": ""
     },
     "tr_hom_tatoo34": {
-        "name": "Returning Trail",
-        "p": "",
+        "name": "Returning Trail Tatoo",
+        "p": "Returning Trail Tatoos",
         "description": ""
     },
     "tr_hom_tatoo35": {
-        "name": "Bloody Vengeance",
-        "p": "",
+        "name": "Bloody Vengeance Tatoo",
+        "p": "Bloody Vengeance Tatoos",
         "description": ""
     },
     "tr_hom_tatoo36": {
-        "name": "Blood Run",
-        "p": "",
+        "name": "Blood Run Tatoo",
+        "p": "Blood Run Tatoos",
         "description": ""
     },
     "tr_hom_tatoo37": {
-        "name": "Deep Frown",
-        "p": "",
+        "name": "Deep Frown Tatoo",
+        "p": "Deep Frown Tatoos",
         "description": ""
     },
     "tr_hom_tatoo38": {
-        "name": "Messab Feet",
-        "p": "",
+        "name": "Messab Feet Tatoo",
+        "p": "Messab Feet Tatoos",
         "description": ""
     },
     "tr_hom_tatoo39": {
-        "name": "Lofty Rise",
-        "p": "",
+        "name": "Lofty Rise Tatoo",
+        "p": "Lofty Rise Tatoos",
         "description": ""
     },
     "tr_hom_tatoo4": {
-        "name": "Ink Spots",
-        "p": "",
+        "name": "Ink Spots Tatoo",
+        "p": "Ink Spots Tatoos",
         "description": ""
     },
     "tr_hom_tatoo40": {
-        "name": "Pink Strokes",
-        "p": "",
+        "name": "Pink Strokes Tatoo",
+        "p": "Pink Strokes Tatoos",
         "description": ""
     },
     "tr_hom_tatoo41": {
-        "name": "Broad Strokes",
-        "p": "",
+        "name": "Broad Strokes Tatoo",
+        "p": "Broad Strokes Tatoos",
         "description": ""
     },
     "tr_hom_tatoo42": {
-        "name": "Trykoth Lakes",
-        "p": "",
+        "name": "Trykoth Lakes Tatoo",
+        "p": "Trykoth Lakes Tatoos",
         "description": ""
     },
     "tr_hom_tatoo43": {
-        "name": "Broad Yellow Tabs",
-        "p": "",
+        "name": "Broad Yellow Tabs Tatoo",
+        "p": "Broad Yellow Tabs Tatoos",
         "description": ""
     },
     "tr_hom_tatoo44": {
-        "name": "Great Rift",
-        "p": "",
+        "name": "Great Rift Tatoo",
+        "p": "Great Rift Tatoos",
         "description": ""
     },
     "tr_hom_tatoo45": {
-        "name": "Bush Watching",
-        "p": "",
+        "name": "Bush Watching Tatoo",
+        "p": "Bush Watching Tatoos",
         "description": ""
     },
     "tr_hom_tatoo46": {
-        "name": "Twin Prakkers",
-        "p": "",
+        "name": "Twin Prakkers Tatoo",
+        "p": "Twin Prakkers Tatoos",
         "description": ""
     },
     "tr_hom_tatoo47": {
-        "name": "Devotion",
-        "p": "",
+        "name": "Devotion Tatoo",
+        "p": "Devotion Tatoos",
         "description": ""
     },
     "tr_hom_tatoo48": {
-        "name": "Clopper Carapace",
-        "p": "",
+        "name": "Clopper Carapace Tatoo",
+        "p": "Clopper Carapace Tatoos",
         "description": ""
     },
     "tr_hom_tatoo49": {
-        "name": "Budding Bulbs",
-        "p": "",
+        "name": "Budding Bulbs Tatoo",
+        "p": "Budding Bulbs Tatoos",
         "description": ""
     },
     "tr_hom_tatoo5": {
-        "name": "Think Spots",
-        "p": "",
+        "name": "Think Spots Tatoo",
+        "p": "Think Spots Tatoos",
         "description": ""
     },
     "tr_hom_tatoo50": {
-        "name": "Cheeky Boots",
-        "p": "",
+        "name": "Cheeky Boots Tatoo",
+        "p": "Cheeky Boots Tatoos",
         "description": ""
     },
     "tr_hom_tatoo51": {
-        "name": "Barbed Tips",
-        "p": "",
+        "name": "Barbed Tips Tatoo",
+        "p": "Barbed Tips Tatoos",
         "description": ""
     },
     "tr_hom_tatoo52": {
-        "name": "Amber Thirst",
-        "p": "",
+        "name": "Amber Thirst Tatoo",
+        "p": "Amber Thirst Tatoos",
         "description": ""
     },
     "tr_hom_tatoo53": {
-        "name": "Amber Strokes",
-        "p": "",
+        "name": "Amber Strokes Tatoo",
+        "p": "Amber Strokes Tatoos",
         "description": ""
     },
     "tr_hom_tatoo54": {
-        "name": "Arch of Breneth",
-        "p": "",
+        "name": "Arch of Breneth Tatoo",
+        "p": "Arch of Breneth Tatoos",
         "description": ""
     },
     "tr_hom_tatoo55": {
-        "name": "Swing Dance",
-        "p": "",
+        "name": "Swing Dance Tatoo",
+        "p": "Swing Dance Tatoos",
         "description": ""
     },
     "tr_hom_tatoo56": {
-        "name": "Streaming Seaweed",
-        "p": "",
+        "name": "Streaming Seaweed Tatoo",
+        "p": "Streaming Seaweed Tatoos",
         "description": ""
     },
     "tr_hom_tatoo57": {
-        "name": "Seaweed Dance",
-        "p": "",
+        "name": "Seaweed Dance Tatoo",
+        "p": "Seaweed Dance Tatoos",
         "description": ""
     },
     "tr_hom_tatoo58": {
-        "name": "War Dance",
-        "p": "",
+        "name": "War Dance Tatoo",
+        "p": "War Dance Tatoos",
         "description": ""
     },
     "tr_hom_tatoo59": {
-        "name": "Thanksgiving Dance",
-        "p": "",
+        "name": "Thanksgiving Dance Tatoo",
+        "p": "Thanksgiving Dance Tatoos",
         "description": ""
     },
     "tr_hom_tatoo6": {
-        "name": "Green Harmony",
-        "p": "",
+        "name": "Green Harmony Tatoo",
+        "p": "Green Harmony Tatoos",
         "description": ""
     },
     "tr_hom_tatoo60": {
-        "name": "Seaweed Stalks",
-        "p": "",
+        "name": "Seaweed Stalks Tatoo",
+        "p": "Seaweed Stalks Tatoos",
         "description": ""
     },
     "tr_hom_tatoo61": {
-        "name": "Tidican's Hold",
-        "p": "",
+        "name": "Tidican's Hold Tatoo",
+        "p": "Tidican's Hold Tatoos",
         "description": ""
     },
     "tr_hom_tatoo62": {
-        "name": "Blood Strokes",
-        "p": "",
+        "name": "Blood Strokes Tatoo",
+        "p": "Blood Strokes Tatoos",
         "description": ""
     },
     "tr_hom_tatoo63": {
-        "name": "Blood Slash",
-        "p": "",
+        "name": "Blood Slash Tatoo",
+        "p": "Blood Slash Tatoos",
         "description": ""
     },
     "tr_hom_tatoo7": {
-        "name": "Orange Harmony",
-        "p": "",
+        "name": "Orange Harmony Tatoo",
+        "p": "Orange Harmony Tatoos",
         "description": ""
     },
     "tr_hom_tatoo8": {
-        "name": "Purple Harmony",
-        "p": "",
+        "name": "Purple Harmony Tatoo",
+        "p": "Purple Harmony Tatoos",
         "description": ""
     },
     "tr_hom_tatoo9": {
-        "name": "Ink Spots and Barbs",
-        "p": "",
+        "name": "Ink Spots and Barbs Tatoo",
+        "p": "Ink Spots and Barbs Tatoos",
         "description": ""
     },
     "zo_hof_tatoo0": {
-        "name": "No Tattoo",
-        "p": "",
+        "name": "No Tattoo Tatoo",
+        "p": "No Tattoo Tatoos",
         "description": ""
     },
     "zo_hof_tatoo1": {
-        "name": "Beng-Do Pink",
-        "p": "",
+        "name": "Beng-Do Pink Tatoo",
+        "p": "Beng-Do Pink Tatoos",
         "description": ""
     },
     "zo_hof_tatoo10": {
-        "name": "Spiral Pink",
-        "p": "",
+        "name": "Spiral Pink Tatoo",
+        "p": "Spiral Pink Tatoos",
         "description": ""
     },
     "zo_hof_tatoo11": {
-        "name": "Len-Sen Yellow",
-        "p": "",
+        "name": "Len-Sen Yellow Tatoo",
+        "p": "Len-Sen Yellow Tatoos",
         "description": ""
     },
     "zo_hof_tatoo12": {
-        "name": "Mad-Kan Blue",
-        "p": "",
+        "name": "Mad-Kan Blue Tatoo",
+        "p": "Mad-Kan Blue Tatoos",
         "description": ""
     },
     "zo_hof_tatoo13": {
-        "name": "Scrolling Mauve",
-        "p": "",
+        "name": "Scrolling Mauve Tatoo",
+        "p": "Scrolling Mauve Tatoos",
         "description": ""
     },
     "zo_hof_tatoo14": {
-        "name": "Indeng Orange",
-        "p": "",
+        "name": "Indeng Orange Tatoo",
+        "p": "Indeng Orange Tatoos",
         "description": ""
     },
     "zo_hof_tatoo15": {
-        "name": "Jesting Traits",
-        "p": "",
+        "name": "Jesting Traits Tatoo",
+        "p": "Jesting Traits Tatoos",
         "description": ""
     },
     "zo_hof_tatoo16": {
-        "name": "Blood Eyes",
-        "p": "",
+        "name": "Blood Eyes Tatoo",
+        "p": "Blood Eyes Tatoos",
         "description": ""
     },
     "zo_hof_tatoo17": {
-        "name": "Blu-Too Orange",
-        "p": "",
+        "name": "Blu-Too Orange Tatoo",
+        "p": "Blu-Too Orange Tatoos",
         "description": ""
     },
     "zo_hof_tatoo18": {
-        "name": "Pa-Zin Pink",
-        "p": "",
+        "name": "Pa-Zin Pink Tatoo",
+        "p": "Pa-Zin Pink Tatoos",
         "description": ""
     },
     "zo_hof_tatoo19": {
-        "name": "Butterfly Blue",
-        "p": "",
+        "name": "Butterfly Blue Tatoo",
+        "p": "Butterfly Blue Tatoos",
         "description": ""
     },
     "zo_hof_tatoo2": {
-        "name": "Sinaï Poise",
-        "p": "",
+        "name": "Sinaï Poise Tatoo",
+        "p": "Sinaï Poise Tatoos",
         "description": ""
     },
     "zo_hof_tatoo20": {
-        "name": "Zon Amber",
-        "p": "",
+        "name": "Zon Amber Tatoo",
+        "p": "Zon Amber Tatoos",
         "description": ""
     },
     "zo_hof_tatoo21": {
-        "name": "Pink Striation",
-        "p": "",
+        "name": "Pink Striation Tatoo",
+        "p": "Pink Striation Tatoos",
         "description": ""
     },
     "zo_hof_tatoo22": {
-        "name": "Bloody Thoughts",
-        "p": "",
+        "name": "Bloody Thoughts Tatoo",
+        "p": "Bloody Thoughts Tatoos",
         "description": ""
     },
     "zo_hof_tatoo23": {
-        "name": "Fa-Ta Green",
-        "p": "",
+        "name": "Fa-Ta Green Tatoo",
+        "p": "Fa-Ta Green Tatoos",
         "description": ""
     },
     "zo_hof_tatoo24": {
-        "name": "Tin-Too Blue",
-        "p": "",
+        "name": "Tin-Too Blue Tatoo",
+        "p": "Tin-Too Blue Tatoos",
         "description": ""
     },
     "zo_hof_tatoo25": {
-        "name": "Criss-Cross",
-        "p": "",
+        "name": "Criss-Cross Tatoo",
+        "p": "Criss-Cross Tatoos",
         "description": ""
     },
     "zo_hof_tatoo26": {
-        "name": "Ornate Bleeding",
-        "p": "",
+        "name": "Ornate Bleeding Tatoo",
+        "p": "Ornate Bleeding Tatoos",
         "description": ""
     },
     "zo_hof_tatoo27": {
-        "name": "Avenging Red",
-        "p": "",
+        "name": "Avenging Red Tatoo",
+        "p": "Avenging Red Tatoos",
         "description": ""
     },
     "zo_hof_tatoo28": {
-        "name": "Ornate Pink",
-        "p": "",
+        "name": "Ornate Pink Tatoo",
+        "p": "Ornate Pink Tatoos",
         "description": ""
     },
     "zo_hof_tatoo29": {
-        "name": "Orange Frown",
-        "p": "",
+        "name": "Orange Frown Tatoo",
+        "p": "Orange Frown Tatoos",
         "description": ""
     },
     "zo_hof_tatoo3": {
-        "name": "Stin-Byn Multicolor",
-        "p": "",
+        "name": "Stin-Byn Multicolor Tatoo",
+        "p": "Stin-Byn Multicolor Tatoos",
         "description": ""
     },
     "zo_hof_tatoo30": {
-        "name": "Za-Chin Purple",
-        "p": "",
+        "name": "Za-Chin Purple Tatoo",
+        "p": "Za-Chin Purple Tatoos",
         "description": ""
     },
     "zo_hof_tatoo31": {
-        "name": "Two Tone Fold",
-        "p": "",
+        "name": "Two Tone Fold Tatoo",
+        "p": "Two Tone Fold Tatoos",
         "description": ""
     },
     "zo_hof_tatoo32": {
-        "name": "Amber Striation",
-        "p": "",
+        "name": "Amber Striation Tatoo",
+        "p": "Amber Striation Tatoos",
         "description": ""
     },
     "zo_hof_tatoo33": {
-        "name": "Sen Smooth",
-        "p": "",
+        "name": "Sen Smooth Tatoo",
+        "p": "Sen Smooth Tatoos",
         "description": ""
     },
     "zo_hof_tatoo34": {
-        "name": "Bing Smooth",
-        "p": "",
+        "name": "Bing Smooth Tatoo",
+        "p": "Bing Smooth Tatoos",
         "description": ""
     },
     "zo_hof_tatoo35": {
-        "name": "Wo Smooth",
-        "p": "",
+        "name": "Wo Smooth Tatoo",
+        "p": "Wo Smooth Tatoos",
         "description": ""
     },
     "zo_hof_tatoo36": {
-        "name": "Seng Kiss",
-        "p": "",
+        "name": "Seng Kiss Tatoo",
+        "p": "Seng Kiss Tatoos",
         "description": ""
     },
     "zo_hof_tatoo37": {
-        "name": "Serenity Kiss",
-        "p": "",
+        "name": "Serenity Kiss Tatoo",
+        "p": "Serenity Kiss Tatoos",
         "description": ""
     },
     "zo_hof_tatoo38": {
-        "name": "Ominous Howl",
-        "p": "",
+        "name": "Ominous Howl Tatoo",
+        "p": "Ominous Howl Tatoos",
         "description": ""
     },
     "zo_hof_tatoo39": {
-        "name": "Tonab Leaf",
-        "p": "",
+        "name": "Tonab Leaf Tatoo",
+        "p": "Tonab Leaf Tatoos",
         "description": ""
     },
     "zo_hof_tatoo4": {
-        "name": "Fung Deep Red",
-        "p": "",
+        "name": "Fung Deep Red Tatoo",
+        "p": "Fung Deep Red Tatoos",
         "description": ""
     },
     "zo_hof_tatoo40": {
-        "name": "Shian Grain",
-        "p": "",
+        "name": "Shian Grain Tatoo",
+        "p": "Shian Grain Tatoos",
         "description": ""
     },
     "zo_hof_tatoo41": {
-        "name": "Xia Grain",
-        "p": "",
+        "name": "Xia Grain Tatoo",
+        "p": "Xia Grain Tatoos",
         "description": ""
     },
     "zo_hof_tatoo42": {
-        "name": "Green Leaf",
-        "p": "",
+        "name": "Green Leaf Tatoo",
+        "p": "Green Leaf Tatoos",
         "description": ""
     },
     "zo_hof_tatoo43": {
-        "name": "Old Leaf",
-        "p": "",
+        "name": "Old Leaf Tatoo",
+        "p": "Old Leaf Tatoos",
         "description": ""
     },
     "zo_hof_tatoo44": {
-        "name": "Foresight",
-        "p": "",
+        "name": "Foresight Tatoo",
+        "p": "Foresight Tatoos",
         "description": ""
     },
     "zo_hof_tatoo45": {
-        "name": "Cho Etching",
-        "p": "",
+        "name": "Cho Etching Tatoo",
+        "p": "Cho Etching Tatoos",
         "description": ""
     },
     "zo_hof_tatoo46": {
-        "name": "Woven Howl",
-        "p": "",
+        "name": "Woven Howl Tatoo",
+        "p": "Woven Howl Tatoos",
         "description": ""
     },
     "zo_hof_tatoo47": {
-        "name": "Green Serenity",
-        "p": "",
+        "name": "Green Serenity Tatoo",
+        "p": "Green Serenity Tatoos",
         "description": ""
     },
     "zo_hof_tatoo48": {
-        "name": "Purple Serenity",
-        "p": "",
+        "name": "Purple Serenity Tatoo",
+        "p": "Purple Serenity Tatoos",
         "description": ""
     },
     "zo_hof_tatoo49": {
-        "name": "Red Serenity",
-        "p": "",
+        "name": "Red Serenity Tatoo",
+        "p": "Red Serenity Tatoos",
         "description": ""
     },
     "zo_hof_tatoo5": {
-        "name": "Wyn Pink",
-        "p": "",
+        "name": "Wyn Pink Tatoo",
+        "p": "Wyn Pink Tatoos",
         "description": ""
     },
     "zo_hof_tatoo50": {
-        "name": "Dark Serenity",
-        "p": "",
+        "name": "Dark Serenity Tatoo",
+        "p": "Dark Serenity Tatoos",
         "description": ""
     },
     "zo_hof_tatoo51": {
-        "name": "Brow of Wrath",
-        "p": "",
+        "name": "Brow of Wrath Tatoo",
+        "p": "Brow of Wrath Tatoos",
         "description": ""
     },
     "zo_hof_tatoo52": {
-        "name": "Amber Inlay",
-        "p": "",
+        "name": "Amber Inlay Tatoo",
+        "p": "Amber Inlay Tatoos",
         "description": ""
     },
     "zo_hof_tatoo53": {
-        "name": "Amber Sap Inlay",
-        "p": "",
+        "name": "Amber Sap Inlay Tatoo",
+        "p": "Amber Sap Inlay Tatoos",
         "description": ""
     },
     "zo_hof_tatoo54": {
-        "name": "Reeds",
-        "p": "",
+        "name": "Reeds Tatoo",
+        "p": "Reeds Tatoos",
         "description": ""
     },
     "zo_hof_tatoo55": {
-        "name": "Venging Howl",
-        "p": "",
+        "name": "Venging Howl Tatoo",
+        "p": "Venging Howl Tatoos",
         "description": ""
     },
     "zo_hof_tatoo56": {
-        "name": "Blue Striation",
-        "p": "",
+        "name": "Blue Striation Tatoo",
+        "p": "Blue Striation Tatoos",
         "description": ""
     },
     "zo_hof_tatoo57": {
-        "name": "Fung Etching",
-        "p": "",
+        "name": "Fung Etching Tatoo",
+        "p": "Fung Etching Tatoos",
         "description": ""
     },
     "zo_hof_tatoo58": {
-        "name": "Tubular Stems",
-        "p": "",
+        "name": "Tubular Stems Tatoo",
+        "p": "Tubular Stems Tatoos",
         "description": ""
     },
     "zo_hof_tatoo59": {
-        "name": "Brow Inlay",
-        "p": "",
+        "name": "Brow Inlay Tatoo",
+        "p": "Brow Inlay Tatoos",
         "description": ""
     },
     "zo_hof_tatoo6": {
-        "name": "Orange Tinge",
-        "p": "",
+        "name": "Orange Tinge Tatoo",
+        "p": "Orange Tinge Tatoos",
         "description": ""
     },
     "zo_hof_tatoo60": {
-        "name": "Daïsha Scroll",
-        "p": "",
+        "name": "Daïsha Scroll Tatoo",
+        "p": "Daïsha Scroll Tatoos",
         "description": ""
     },
     "zo_hof_tatoo61": {
-        "name": "Kami Wink",
-        "p": "",
+        "name": "Kami Wink Tatoo",
+        "p": "Kami Wink Tatoos",
         "description": ""
     },
     "zo_hof_tatoo62": {
-        "name": "Pure Bliss",
-        "p": "",
+        "name": "Pure Bliss Tatoo",
+        "p": "Pure Bliss Tatoos",
         "description": ""
     },
     "zo_hof_tatoo63": {
-        "name": "Kami Sphere",
-        "p": "",
+        "name": "Kami Sphere Tatoo",
+        "p": "Kami Sphere Tatoos",
         "description": ""
     },
     "zo_hof_tatoo7": {
-        "name": "Zin Ripples",
-        "p": "",
+        "name": "Zin Ripples Tatoo",
+        "p": "Zin Ripples Tatoos",
         "description": ""
     },
     "zo_hof_tatoo8": {
-        "name": "Fuchsia Thoughts",
-        "p": "",
+        "name": "Fuchsia Thoughts Tatoo",
+        "p": "Fuchsia Thoughts Tatoos",
         "description": ""
     },
     "zo_hof_tatoo9": {
-        "name": "Spiral Blue",
-        "p": "",
+        "name": "Spiral Blue Tatoo",
+        "p": "Spiral Blue Tatoos",
         "description": ""
     },
     "zo_hom_tatoo0": {
-        "name": "No Tattoo",
-        "p": "",
+        "name": "No Tattoo Tatoo",
+        "p": "No Tattoo Tatoos",
         "description": ""
     },
     "zo_hom_tatoo1": {
-        "name": "Tan-Li Tabs",
-        "p": "",
+        "name": "Tan-Li Tabs Tatoo",
+        "p": "Tan-Li Tabs Tatoos",
         "description": ""
     },
     "zo_hom_tatoo10": {
-        "name": "Undergrowth Streaks",
-        "p": "",
+        "name": "Undergrowth Streaks Tatoo",
+        "p": "Undergrowth Streaks Tatoos",
         "description": ""
     },
     "zo_hom_tatoo11": {
-        "name": "Belligerent Glare",
-        "p": "",
+        "name": "Belligerent Glare Tatoo",
+        "p": "Belligerent Glare Tatoos",
         "description": ""
     },
     "zo_hom_tatoo12": {
-        "name": "Maï-Laï Red",
-        "p": "",
+        "name": "Maï-Laï Red Tatoo",
+        "p": "Maï-Laï Red Tatoos",
         "description": ""
     },
     "zo_hom_tatoo13": {
-        "name": "Campaign Green",
-        "p": "",
+        "name": "Campaign Green Tatoo",
+        "p": "Campaign Green Tatoos",
         "description": ""
     },
     "zo_hom_tatoo14": {
-        "name": "Ci-Lyn Mauve",
-        "p": "",
+        "name": "Ci-Lyn Mauve Tatoo",
+        "p": "Ci-Lyn Mauve Tatoos",
         "description": ""
     },
     "zo_hom_tatoo15": {
-        "name": "Mark of Taï-Lo",
-        "p": "",
+        "name": "Mark of Taï-Lo Tatoo",
+        "p": "Mark of Taï-Lo Tatoos",
         "description": ""
     },
     "zo_hom_tatoo16": {
-        "name": "Livid Glare",
-        "p": "",
+        "name": "Livid Glare Tatoo",
+        "p": "Livid Glare Tatoos",
         "description": ""
     },
     "zo_hom_tatoo17": {
-        "name": "Warrior Red",
-        "p": "",
+        "name": "Warrior Red Tatoo",
+        "p": "Warrior Red Tatoos",
         "description": ""
     },
     "zo_hom_tatoo18": {
-        "name": "Wavy Blue",
-        "p": "",
+        "name": "Wavy Blue Tatoo",
+        "p": "Wavy Blue Tatoos",
         "description": ""
     },
     "zo_hom_tatoo19": {
-        "name": "Frowning Mauve",
-        "p": "",
+        "name": "Frowning Mauve Tatoo",
+        "p": "Frowning Mauve Tatoos",
         "description": ""
     },
     "zo_hom_tatoo2": {
-        "name": "Ran-Yi Blue",
-        "p": "",
+        "name": "Ran-Yi Blue Tatoo",
+        "p": "Ran-Yi Blue Tatoos",
         "description": ""
     },
     "zo_hom_tatoo20": {
-        "name": "Becoming Gaze",
-        "p": "",
+        "name": "Becoming Gaze Tatoo",
+        "p": "Becoming Gaze Tatoos",
         "description": ""
     },
     "zo_hom_tatoo21": {
-        "name": "Budding Leaves",
-        "p": "",
+        "name": "Budding Leaves Tatoo",
+        "p": "Budding Leaves Tatoos",
         "description": ""
     },
     "zo_hom_tatoo22": {
-        "name": "Severe Glare",
-        "p": "",
+        "name": "Severe Glare Tatoo",
+        "p": "Severe Glare Tatoos",
         "description": ""
     },
     "zo_hom_tatoo23": {
-        "name": "Bloody Silence",
-        "p": "",
+        "name": "Bloody Silence Tatoo",
+        "p": "Bloody Silence Tatoos",
         "description": ""
     },
     "zo_hom_tatoo24": {
-        "name": "Dan-Yo Smooth",
-        "p": "",
+        "name": "Dan-Yo Smooth Tatoo",
+        "p": "Dan-Yo Smooth Tatoos",
         "description": ""
     },
     "zo_hom_tatoo25": {
-        "name": "Blue Harmony",
-        "p": "",
+        "name": "Blue Harmony Tatoo",
+        "p": "Blue Harmony Tatoos",
         "description": ""
     },
     "zo_hom_tatoo26": {
-        "name": "Remembrance Ceremony",
-        "p": "",
+        "name": "Remembrance Ceremony Tatoo",
+        "p": "Remembrance Ceremony Tatoos",
         "description": ""
     },
     "zo_hom_tatoo27": {
-        "name": "Crossing Blue",
-        "p": "",
+        "name": "Crossing Blue Tatoo",
+        "p": "Crossing Blue Tatoos",
         "description": ""
     },
     "zo_hom_tatoo28": {
-        "name": "Fury Bleeding",
-        "p": "",
+        "name": "Fury Bleeding Tatoo",
+        "p": "Fury Bleeding Tatoos",
         "description": ""
     },
     "zo_hom_tatoo29": {
-        "name": "Mo-Chi Blue",
-        "p": "",
+        "name": "Mo-Chi Blue Tatoo",
+        "p": "Mo-Chi Blue Tatoos",
         "description": ""
     },
     "zo_hom_tatoo3": {
-        "name": "Si-Len Wrath",
-        "p": "",
+        "name": "Si-Len Wrath Tatoo",
+        "p": "Si-Len Wrath Tatoos",
         "description": ""
     },
     "zo_hom_tatoo30": {
-        "name": "Li-Green",
-        "p": "",
+        "name": "Li-Green Tatoo",
+        "p": "Li-Green Tatoos",
         "description": ""
     },
     "zo_hom_tatoo31": {
-        "name": "Pink Spiral",
-        "p": "",
+        "name": "Pink Spiral Tatoo",
+        "p": "Pink Spiral Tatoos",
         "description": ""
     },
     "zo_hom_tatoo32": {
-        "name": "Amber of Seng",
-        "p": "",
+        "name": "Amber of Seng Tatoo",
+        "p": "Amber of Seng Tatoos",
         "description": ""
     },
     "zo_hom_tatoo33": {
-        "name": "Fibre Inlay",
-        "p": "",
+        "name": "Fibre Inlay Tatoo",
+        "p": "Fibre Inlay Tatoos",
         "description": ""
     },
     "zo_hom_tatoo34": {
-        "name": "Woven Inlay",
-        "p": "",
+        "name": "Woven Inlay Tatoo",
+        "p": "Woven Inlay Tatoos",
         "description": ""
     },
     "zo_hom_tatoo35": {
-        "name": "Fibre Kiss",
-        "p": "",
+        "name": "Fibre Kiss Tatoo",
+        "p": "Fibre Kiss Tatoos",
         "description": ""
     },
     "zo_hom_tatoo36": {
-        "name": "Notched Inlay",
-        "p": "",
+        "name": "Notched Inlay Tatoo",
+        "p": "Notched Inlay Tatoos",
         "description": ""
     },
     "zo_hom_tatoo37": {
-        "name": "Mystic Inlay",
-        "p": "",
+        "name": "Mystic Inlay Tatoo",
+        "p": "Mystic Inlay Tatoos",
         "description": ""
     },
     "zo_hom_tatoo38": {
-        "name": "Woven Howl",
-        "p": "",
+        "name": "Woven Howl Tatoo",
+        "p": "Woven Howl Tatoos",
         "description": ""
     },
     "zo_hom_tatoo39": {
-        "name": "Yin Grain",
-        "p": "",
+        "name": "Yin Grain Tatoo",
+        "p": "Yin Grain Tatoos",
         "description": ""
     },
     "zo_hom_tatoo4": {
-        "name": "Go-Ni Green",
-        "p": "",
+        "name": "Go-Ni Green Tatoo",
+        "p": "Go-Ni Green Tatoos",
         "description": ""
     },
     "zo_hom_tatoo40": {
-        "name": "Capryni Overlay",
-        "p": "",
+        "name": "Capryni Overlay Tatoo",
+        "p": "Capryni Overlay Tatoos",
         "description": ""
     },
     "zo_hom_tatoo41": {
-        "name": "Amber Inlay",
-        "p": "",
+        "name": "Amber Inlay Tatoo",
+        "p": "Amber Inlay Tatoos",
         "description": ""
     },
     "zo_hom_tatoo42": {
-        "name": "Red Serenity",
-        "p": "",
+        "name": "Red Serenity Tatoo",
+        "p": "Red Serenity Tatoos",
         "description": ""
     },
     "zo_hom_tatoo43": {
-        "name": "Zo-Baï Slit",
-        "p": "",
+        "name": "Zo-Baï Slit Tatoo",
+        "p": "Zo-Baï Slit Tatoos",
         "description": ""
     },
     "zo_hom_tatoo44": {
-        "name": "Kiss of Wrath",
-        "p": "",
+        "name": "Kiss of Wrath Tatoo",
+        "p": "Kiss of Wrath Tatoos",
         "description": ""
     },
     "zo_hom_tatoo45": {
-        "name": "Sifting Spirit",
-        "p": "",
+        "name": "Sifting Spirit Tatoo",
+        "p": "Sifting Spirit Tatoos",
         "description": ""
     },
     "zo_hom_tatoo46": {
-        "name": "Foresight",
-        "p": "",
+        "name": "Foresight Tatoo",
+        "p": "Foresight Tatoos",
         "description": ""
     },
     "zo_hom_tatoo47": {
-        "name": "Remembrance Mask",
-        "p": "",
+        "name": "Remembrance Mask Tatoo",
+        "p": "Remembrance Mask Tatoos",
         "description": ""
     },
     "zo_hom_tatoo48": {
-        "name": "Continuity Etching",
-        "p": "",
+        "name": "Continuity Etching Tatoo",
+        "p": "Continuity Etching Tatoos",
         "description": ""
     },
     "zo_hom_tatoo49": {
-        "name": "Peeling Fibre",
-        "p": "",
+        "name": "Peeling Fibre Tatoo",
+        "p": "Peeling Fibre Tatoos",
         "description": ""
     },
     "zo_hom_tatoo5": {
-        "name": "Tree of Cho",
-        "p": "",
+        "name": "Tree of Cho Tatoo",
+        "p": "Tree of Cho Tatoos",
         "description": ""
     },
     "zo_hom_tatoo50": {
-        "name": "Brow of Wrath",
-        "p": "",
+        "name": "Brow of Wrath Tatoo",
+        "p": "Brow of Wrath Tatoos",
         "description": ""
     },
     "zo_hom_tatoo51": {
-        "name": "Green Serenity",
-        "p": "",
+        "name": "Green Serenity Tatoo",
+        "p": "Green Serenity Tatoos",
         "description": ""
     },
     "zo_hom_tatoo52": {
-        "name": "Golden Serenity",
-        "p": "",
+        "name": "Golden Serenity Tatoo",
+        "p": "Golden Serenity Tatoos",
         "description": ""
     },
     "zo_hom_tatoo53": {
-        "name": "Purple Serenity",
-        "p": "",
+        "name": "Purple Serenity Tatoo",
+        "p": "Purple Serenity Tatoos",
         "description": ""
     },
     "zo_hom_tatoo54": {
-        "name": "Brow of Fancy",
-        "p": "",
+        "name": "Brow of Fancy Tatoo",
+        "p": "Brow of Fancy Tatoos",
         "description": ""
     },
     "zo_hom_tatoo55": {
-        "name": "Brow of Serenity",
-        "p": "",
+        "name": "Brow of Serenity Tatoo",
+        "p": "Brow of Serenity Tatoos",
         "description": ""
     },
     "zo_hom_tatoo56": {
-        "name": "Red Inlay",
-        "p": "",
+        "name": "Red Inlay Tatoo",
+        "p": "Red Inlay Tatoos",
         "description": ""
     },
     "zo_hom_tatoo57": {
-        "name": "Purple Inlay",
-        "p": "",
+        "name": "Purple Inlay Tatoo",
+        "p": "Purple Inlay Tatoos",
         "description": ""
     },
     "zo_hom_tatoo58": {
-        "name": "Scripture of Devotion",
-        "p": "",
+        "name": "Scripture of Devotion Tatoo",
+        "p": "Scripture of Devotion Tatoos",
         "description": ""
     },
     "zo_hom_tatoo59": {
-        "name": "Casting Eye",
-        "p": "",
+        "name": "Casting Eye Tatoo",
+        "p": "Casting Eye Tatoos",
         "description": ""
     },
     "zo_hom_tatoo6": {
-        "name": "Tree of Zin",
-        "p": "",
+        "name": "Tree of Zin Tatoo",
+        "p": "Tree of Zin Tatoos",
         "description": ""
     },
     "zo_hom_tatoo60": {
-        "name": "Ty-Win Inlay",
-        "p": "",
+        "name": "Ty-Win Inlay Tatoo",
+        "p": "Ty-Win Inlay Tatoos",
         "description": ""
     },
     "zo_hom_tatoo61": {
-        "name": "Ominous Howl",
-        "p": "",
+        "name": "Ominous Howl Tatoo",
+        "p": "Ominous Howl Tatoos",
         "description": ""
     },
     "zo_hom_tatoo62": {
-        "name": "Kami Sphere",
-        "p": "",
+        "name": "Kami Sphere Tatoo",
+        "p": "Kami Sphere Tatoos",
         "description": ""
     },
     "zo_hom_tatoo63": {
-        "name": "Grain Inlay",
-        "p": "",
+        "name": "Grain Inlay Tatoo",
+        "p": "Grain Inlay Tatoos",
         "description": ""
     },
     "zo_hom_tatoo7": {
-        "name": "Mul-Zo Mauve",
-        "p": "",
+        "name": "Mul-Zo Mauve Tatoo",
+        "p": "Mul-Zo Mauve Tatoos",
         "description": ""
     },
     "zo_hom_tatoo8": {
-        "name": "Won-Tu Stripes",
-        "p": "",
+        "name": "Won-Tu Stripes Tatoo",
+        "p": "Won-Tu Stripes Tatoos",
         "description": ""
     },
     "zo_hom_tatoo9": {
-        "name": "Sli-Teng Mauve",
-        "p": "",
+        "name": "Sli-Teng Mauve Tatoo",
+        "p": "Sli-Teng Mauve Tatoos",
         "description": ""
     },
     "fy_hof_haircolor0": {
         "name": "Grey",
-        "p": "",
+        "p": "Grey",
         "description": ""
     },
     "fy_hof_haircolor1": {
         "name": "Blond",
-        "p": "",
+        "p": "Blond",
         "description": ""
     },
     "fy_hof_haircolor2": {
         "name": "Auburn",
-        "p": "",
+        "p": "Auburn",
         "description": ""
     },
     "fy_hof_haircolor3": {
         "name": "Red",
-        "p": "",
+        "p": "Red",
         "description": ""
     },
     "fy_hof_haircolor4": {
         "name": "Brown",
-        "p": "",
+        "p": "Brown",
         "description": ""
     },
     "fy_hof_haircolor5": {
         "name": "Black",
-        "p": "",
+        "p": "Black",
         "description": ""
     },
     "fy_hom_haircolor0": {
         "name": "Grey",
-        "p": "",
+        "p": "Grey",
         "description": ""
     },
     "fy_hom_haircolor1": {
         "name": "Blond",
-        "p": "",
+        "p": "Blond",
         "description": ""
     },
     "fy_hom_haircolor2": {
         "name": "Auburn",
-        "p": "",
+        "p": "Auburn",
         "description": ""
     },
     "fy_hom_haircolor3": {
         "name": "Red",
-        "p": "",
+        "p": "Red",
         "description": ""
     },
     "fy_hom_haircolor4": {
         "name": "Brown",
-        "p": "",
+        "p": "Brown",
         "description": ""
     },
     "fy_hom_haircolor5": {
         "name": "Black",
-        "p": "",
+        "p": "Black",
         "description": ""
     },
     "ma_hof_haircolor0": {
         "name": "Light Brown",
-        "p": "",
+        "p": "Light Brown",
         "description": ""
     },
     "ma_hof_haircolor1": {
         "name": "Blond",
-        "p": "",
+        "p": "Blond",
         "description": ""
     },
     "ma_hof_haircolor2": {
         "name": "Auburn",
-        "p": "",
+        "p": "Auburn",
         "description": ""
     },
     "ma_hof_haircolor3": {
         "name": "Ginger",
-        "p": "",
+        "p": "Ginger",
         "description": ""
     },
     "ma_hof_haircolor4": {
         "name": "Green",
-        "p": "",
+        "p": "Green",
         "description": ""
     },
     "ma_hof_haircolor5": {
         "name": "Black",
-        "p": "",
+        "p": "Black",
         "description": ""
     },
     "ma_hom_haircolor0": {
         "name": "Light Brown",
-        "p": "",
+        "p": "Light Brown",
         "description": ""
     },
     "ma_hom_haircolor1": {
         "name": "Blond",
-        "p": "",
+        "p": "Blond",
         "description": ""
     },
     "ma_hom_haircolor2": {
         "name": "Auburn",
-        "p": "",
+        "p": "Auburn",
         "description": ""
     },
     "ma_hom_haircolor3": {
         "name": "Ginger",
-        "p": "",
+        "p": "Ginger",
         "description": ""
     },
     "ma_hom_haircolor4": {
         "name": "Green",
-        "p": "",
+        "p": "Green",
         "description": ""
     },
     "ma_hom_haircolor5": {
         "name": "Black",
-        "p": "",
+        "p": "Black",
         "description": ""
     },
     "tr_hof_haircolor0": {
         "name": "Light Green",
-        "p": "",
+        "p": "Light Green",
         "description": ""
     },
     "tr_hof_haircolor1": {
         "name": "Blond",
-        "p": "",
+        "p": "Blond",
         "description": ""
     },
     "tr_hof_haircolor2": {
         "name": "Brown",
-        "p": "",
+        "p": "Brown",
         "description": ""
     },
     "tr_hof_haircolor3": {
         "name": "Pink",
-        "p": "",
+        "p": "Pink",
         "description": ""
     },
     "tr_hof_haircolor4": {
         "name": "Violet",
-        "p": "",
+        "p": "Violet",
         "description": ""
     },
     "tr_hof_haircolor5": {
         "name": "Dark Green",
-        "p": "",
+        "p": "Dark Green",
         "description": ""
     },
     "tr_hom_haircolor0": {
         "name": "Light Green",
-        "p": "",
+        "p": "Light Green",
         "description": ""
     },
     "tr_hom_haircolor1": {
         "name": "Blond",
-        "p": "",
+        "p": "Blond",
         "description": ""
     },
     "tr_hom_haircolor2": {
         "name": "Brown",
-        "p": "",
+        "p": "Brown",
         "description": ""
     },
     "tr_hom_haircolor3": {
         "name": "Pink",
-        "p": "",
+        "p": "Pink",
         "description": ""
     },
     "tr_hom_haircolor4": {
         "name": "Violet",
-        "p": "",
+        "p": "Violet",
         "description": ""
     },
     "tr_hom_haircolor5": {
         "name": "Dark Green",
-        "p": "",
+        "p": "Dark Green",
         "description": ""
     },
     "zo_hof_haircolor0": {
         "name": "Blond",
-        "p": "",
+        "p": "Blond",
         "description": ""
     },
     "zo_hof_haircolor1": {
         "name": "Light Green",
-        "p": "",
+        "p": "Light Green",
         "description": ""
     },
     "zo_hof_haircolor2": {
         "name": "Dark Green",
-        "p": "",
+        "p": "Dark Green",
         "description": ""
     },
     "zo_hof_haircolor3": {
         "name": "Auburn",
-        "p": "",
+        "p": "Auburn",
         "description": ""
     },
     "zo_hof_haircolor4": {
         "name": "Blue",
-        "p": "",
+        "p": "Blue",
         "description": ""
     },
     "zo_hof_haircolor5": {
         "name": "Violet",
-        "p": "",
+        "p": "Violet",
         "description": ""
     },
     "zo_hom_haircolor0": {
         "name": "Blond",
-        "p": "",
+        "p": "Blond",
         "description": ""
     },
     "zo_hom_haircolor1": {
         "name": "Light Green",
-        "p": "",
+        "p": "Light Green",
         "description": ""
     },
     "zo_hom_haircolor2": {
         "name": "Dark Green",
-        "p": "",
+        "p": "Dark Green",
         "description": ""
     },
     "zo_hom_haircolor3": {
         "name": "Auburn",
-        "p": "",
+        "p": "Auburn",
         "description": ""
     },
     "zo_hom_haircolor4": {
         "name": "Blue",
-        "p": "",
+        "p": "Blue",
         "description": ""
     },
     "zo_hom_haircolor5": {
         "name": "Violet",
-        "p": "",
+        "p": "Violet",
         "description": ""
     },
     "fy_hof_hair_artistic01": {
         "name": "Artistic Stiff Back Hairstyle",
-        "p": "",
+        "p": "Artistic Stiff Back Hairstyles",
         "description": ""
     },
     "fy_hof_hair_artistic02": {
         "name": "Artistic Fringe and Tails Hairstyle",
-        "p": "",
+        "p": "Artistic Fringe and Tails Hairstyles",
         "description": ""
     },
     "fy_hof_hair_artistic03": {
         "name": "Artistic Long Bunched Hairstyle",
-        "p": "",
+        "p": "Artistic Long Bunched Hairstyles",
         "description": ""
     },
     "fy_hof_hair_artistic04": {
         "name": "Artistic Choppy Hairstyle",
-        "p": "",
+        "p": "Artistic Choppy Hairstyles",
         "description": ""
     },
     "fy_hof_hair_artistic05": {
         "name": "Artistic High Chignon Hairstyle",
-        "p": "",
+        "p": "Artistic High Chignon Hairstyles",
         "description": ""
     },
     "fy_hof_hair_basic01": {
         "name": "Basic Shaved Hairstyle",
-        "p": "",
+        "p": "Basic Shaved Hairstyles",
         "description": ""
     },
     "fy_hof_hair_basic02": {
         "name": "Basic Tousled Hairstyle",
-        "p": "",
+        "p": "Basic Tousled Hairstyles",
         "description": ""
     },
     "fy_hof_hair_basic03": {
         "name": "Basic Long Fringe Hairstyle",
-        "p": "",
+        "p": "Basic Long Fringe Hairstyles",
         "description": ""
     },
     "fy_hof_hair_basic04": {
         "name": "Basic Flicked Hairstyle",
-        "p": "",
+        "p": "Basic Flicked Hairstyles",
         "description": ""
     },
     "fy_hof_hair_basic05": {
         "name": "Basic Flame Hairstyle",
-        "p": "",
+        "p": "Basic Flame Hairstyles",
         "description": ""
     },
     "fy_hof_hair_style01": {
         "name": "Stylish Streaky Fringe Hairstyle",
-        "p": "",
+        "p": "Stylish Streaky Fringe Hairstyles",
         "description": ""
     },
     "fy_hof_hair_style02": {
         "name": "Stylish Stiff Back Hairstyle",
-        "p": "",
+        "p": "Stylish Stiff Back Hairstyles",
         "description": ""
     },
     "fy_hof_hair_style03": {
         "name": "Stylish Long Silky Hairstyle",
-        "p": "",
+        "p": "Stylish Long Silky Hairstyles",
         "description": ""
     },
     "fy_hof_hair_style04": {
         "name": "Stylish Gubani Hairstyle",
-        "p": "",
+        "p": "Stylish Gubani Hairstyles",
         "description": ""
     },
     "fy_hof_hair_style05": {
         "name": "Bicorn Hairstyle",
-        "p": "",
+        "p": "Bicorn Hairstyles",
         "description": ""
     },
     "fy_hom_hair_artistic01": {
         "name": "Artistic Swept Back Hairstyle",
-        "p": "",
+        "p": "Artistic Swept Back Hairstyles",
         "description": ""
     },
     "fy_hom_hair_artistic02": {
         "name": "Artistic Top Tail Hairstyle",
-        "p": "",
+        "p": "Artistic Top Tail Hairstyles",
         "description": ""
     },
     "fy_hom_hair_artistic03": {
         "name": "Artistic Choppy Hairstyle",
-        "p": "",
+        "p": "Artistic Choppy Hairstyles",
         "description": ""
     },
     "fy_hom_hair_artistic04": {
         "name": "Artistic Crown and Tail Hairstyle",
-        "p": "",
+        "p": "Artistic Crown and Tail Hairstyles",
         "description": ""
     },
     "fy_hom_hair_artistic05": {
         "name": "Artistic Pride Hairstyle",
-        "p": "",
+        "p": "Artistic Pride Hairstyles",
         "description": ""
     },
     "fy_hom_hair_basic01": {
         "name": "Basic Shaved Hairstyle",
-        "p": "",
+        "p": "Basic Shaved Hairstyles",
         "description": ""
     },
     "fy_hom_hair_basic02": {
         "name": "Basic Stubby Tail Hairstyle",
-        "p": "",
+        "p": "Basic Stubby Tail Hairstyles",
         "description": ""
     },
     "fy_hom_hair_basic03": {
         "name": "Basic Stiff Back Hairstyle",
-        "p": "",
+        "p": "Basic Stiff Back Hairstyles",
         "description": ""
     },
     "fy_hom_hair_basic04": {
         "name": "Basic Shaggy Hairstyle",
-        "p": "",
+        "p": "Basic Shaggy Hairstyles",
         "description": ""
     },
     "fy_hom_hair_basic05": {
         "name": "Basic Izam Wings Hairstyle",
-        "p": "",
+        "p": "Basic Izam Wings Hairstyles",
         "description": ""
     },
     "fy_hom_hair_style01": {
         "name": "Stylish Flaming Sides Hairstyle",
-        "p": "",
+        "p": "Stylish Flaming Sides Hairstyles",
         "description": ""
     },
     "fy_hom_hair_style02": {
         "name": "Stylish Stiff Back Hairstyle",
-        "p": "",
+        "p": "Stylish Stiff Back Hairstyles",
         "description": ""
     },
     "fy_hom_hair_style03": {
         "name": "Stylish Twin Tails Hairstyle",
-        "p": "",
+        "p": "Stylish Twin Tails Hairstyles",
         "description": ""
     },
     "fy_hom_hair_style04": {
         "name": "Stylish Bodoc Horns Hairstyle",
-        "p": "",
+        "p": "Stylish Bodoc Horns Hairstyles",
         "description": ""
     },
     "fy_hom_hair_style05": {
         "name": "Bicorn Hairstyle",
-        "p": "",
+        "p": "Bicorn Hairstyles",
         "description": ""
     },
     "ma_hof_hair_artistic01": {
         "name": "Artistic Long Headbanded Hairstyle",
-        "p": "",
+        "p": "Artistic Long Headbanded Hairstyles",
         "description": ""
     },
     "ma_hof_hair_artistic02": {
         "name": "Artistic Bow Tail Hairstyle",
-        "p": "",
+        "p": "Artistic Bow Tail Hairstyles",
         "description": ""
     },
     "ma_hof_hair_artistic03": {
         "name": "Artistic Side Buns Hairstyle",
-        "p": "",
+        "p": "Artistic Side Buns Hairstyles",
         "description": ""
     },
     "ma_hof_hair_artistic04": {
         "name": "Artistic High Piled Hairstyle",
-        "p": "",
+        "p": "Artistic High Piled Hairstyles",
         "description": ""
     },
     "ma_hof_hair_artistic05": {
         "name": "Artistic Virgo\/Blank Hairstyle",
-        "p": "",
+        "p": "Artistic Virgo\/Blank Hairstyle",
         "description": ""
     },
     "ma_hof_hair_basic01": {
         "name": "Basic Shaved Hairstyle",
-        "p": "",
+        "p": "Basic Shaved Hairstyles",
         "description": ""
     },
     "ma_hof_hair_basic02": {
         "name": "Bais Part Left Wedge Hairstyle",
-        "p": "",
+        "p": "Bais Part Left Wedge Hairstyles",
         "description": ""
     },
     "ma_hof_hair_basic03": {
         "name": "Basic Left Flicked Hairstyle",
-        "p": "",
+        "p": "Basic Left Flicked Hairstyles",
         "description": ""
     },
     "ma_hof_hair_basic04": {
         "name": "Basic Tabs Hairstyle",
-        "p": "",
+        "p": "Basic Tabs Hairstyles",
         "description": ""
     },
     "ma_hof_hair_basic05": {
         "name": "Basic Long Wick Hairstyle",
-        "p": "",
+        "p": "Basic Long Wick Hairstyle",
         "description": ""
     },
     "ma_hof_hair_style01": {
         "name": "Stylish Part Left Braided Hairstyle",
-        "p": "",
+        "p": "Stylish Part Left Braided Hairstyles",
         "description": ""
     },
     "ma_hof_hair_style02": {
         "name": "Stylish High Tail Hairstyle",
-        "p": "",
+        "p": "Stylish High Tail Hairstyles",
         "description": ""
     },
     "ma_hof_hair_style03": {
         "name": "Stylish Yubo Tail Hairstyle",
-        "p": "",
+        "p": "Stylish Yubo Tail Hairstyles",
         "description": ""
     },
     "ma_hof_hair_style04": {
         "name": "Stylish Long Headbanded Hairstyle",
-        "p": "",
+        "p": "Stylish Long Headbanded Hairstyles",
         "description": ""
     },
     "ma_hof_hair_style05": {
         "name": "Noble Chignon Hairstyle",
-        "p": "",
+        "p": "Noble Chignon Hairstyle",
         "description": ""
     },
     "ma_hom_hair_artistic01": {
         "name": "Artistic Bushy Tail Hairstyle",
-        "p": "",
+        "p": "Artistic Bushy Tail Hairstyles",
         "description": ""
     },
     "ma_hom_hair_artistic02": {
         "name": "Artistic Long Braided Hairstyle",
-        "p": "",
+        "p": "Artistic Long Braided Hairstyles",
         "description": ""
     },
     "ma_hom_hair_artistic03": {
         "name": "Artistic Baggy Tail Hairstyle",
-        "p": "",
+        "p": "Artistic Baggy Tail Hairstyles",
         "description": ""
     },
     "ma_hom_hair_artistic04": {
         "name": "Artistic Tabs Hairstyle",
-        "p": "",
+        "p": "Artistic Tabs Hairstyles",
         "description": ""
     },
     "ma_hom_hair_artistic05": {
         "name": "Artistic Bevel Square with Ornament Hairstyle",
-        "p": "",
+        "p": "Artistic Bevel Square with Ornament Hairstyle",
         "description": ""
     },
     "ma_hom_hair_basic01": {
         "name": "Basic Shaved Hairstyle",
-        "p": "",
+        "p": "Basic Shaved Hairstyles",
         "description": ""
     },
     "ma_hom_hair_basic02": {
         "name": "Basic Long Quiff Hairstyle",
-        "p": "",
+        "p": "Basic Long Quiff Hairstyles",
         "description": ""
     },
     "ma_hom_hair_basic03": {
         "name": "Basic Flat Top Hairstyle",
-        "p": "",
+        "p": "Basic Flat Top Hairstyles",
         "description": ""
     },
     "ma_hom_hair_basic04": {
         "name": "Basic Tabs Hairstyle",
-        "p": "",
+        "p": "Basic Tabs Hairstyles",
         "description": ""
     },
     "ma_hom_hair_basic05": {
         "name": "Basic Square Bob Hairstyle",
-        "p": "",
+        "p": "Basic Square Bob Hairstyle",
         "description": ""
     },
     "ma_hom_hair_style01": {
         "name": "Stylish Short Wedge Hairstyle",
-        "p": "",
+        "p": "Stylish Short Wedge Hairstyles",
         "description": ""
     },
     "ma_hom_hair_style02": {
         "name": "Stylish Undercut Hairstyle",
-        "p": "",
+        "p": "Stylish Undercut Hairstyles",
         "description": ""
     },
     "ma_hom_hair_style03": {
         "name": "Stylish Tight Plaits Hairstyle",
-        "p": "",
+        "p": "Stylish Tight Plaits Hairstyles",
         "description": ""
     },
     "ma_hom_hair_style04": {
         "name": "Stylish Long Headbanded Hairstyle",
-        "p": "",
+        "p": "Stylish Long Headbanded Hairstyles",
         "description": ""
     },
     "ma_hom_hair_style05": {
         "name": "Mektoub's Trunk Hairstyle",
-        "p": "",
+        "p": "Mektoub's Trunk Hairstyle",
         "description": ""
     },
     "tr_hof_hair_artistic01": {
         "name": "Artistic Bow Tail Hairstyle",
-        "p": "",
+        "p": "Artistic Bow Tail Hairstyles",
         "description": ""
     },
     "tr_hof_hair_artistic02": {
         "name": "Artistic Moppy Hair and Cap Hairstyle",
-        "p": "",
+        "p": "Artistic Moppy Hair and Cap Hairstyles",
         "description": ""
     },
     "tr_hof_hair_artistic03": {
         "name": "Artistic Chignon Hairstyle",
-        "p": "",
+        "p": "Artistic Chignon Hairstyles",
         "description": ""
     },
     "tr_hof_hair_artistic04": {
         "name": "Artistic Choppy Hairstyle",
-        "p": "",
+        "p": "Artistic Choppy Hairstyles",
         "description": ""
     },
     "tr_hof_hair_artistic05": {
         "name": "Artistic Glasses Hairstyle",
-        "p": "",
+        "p": "Artistic Glasses Hairstyle",
         "description": ""
     },
     "tr_hof_hair_basic01": {
         "name": "Basic Shaved Hairstyle",
-        "p": "",
+        "p": "Basic Shaved Hairstyles",
         "description": ""
     },
     "tr_hof_hair_basic02": {
         "name": "Basic Short Back and Sides Hairstyle",
-        "p": "",
+        "p": "Basic Short Back and Sides Hairstyles",
         "description": ""
     },
     "tr_hof_hair_basic03": {
         "name": "Basic Side Wave Hairstyle",
-        "p": "",
+        "p": "Basic Side Wave Hairstyles",
         "description": ""
     },
     "tr_hof_hair_basic04": {
         "name": "Basic Tousled Hairstyle",
-        "p": "",
+        "p": "Basic Tousled Hairstyles",
         "description": ""
     },
     "tr_hof_hair_basic05": {
         "name": "Basic Savage Bangs Hairstyle",
-        "p": "",
+        "p": "Basic Savage Bangs Hairstyle",
         "description": ""
     },
     "tr_hof_hair_style01": {
         "name": "Stylish High Twin Tails Hairstyle",
-        "p": "",
+        "p": "Stylish High Twin Tails Hairstyles",
         "description": ""
     },
     "tr_hof_hair_style02": {
         "name": "Stylish Twin Tails and Fringe Hairstyle",
-        "p": "",
+        "p": "Stylish Twin Tails and Fringe Hairstyles",
         "description": ""
     },
     "tr_hof_hair_style03": {
         "name": "Stylish Piled-up Hairstyle",
-        "p": "",
+        "p": "Stylish Piled-up Hairstyles",
         "description": ""
     },
     "tr_hof_hair_style04": {
         "name": "Stylish Twin Tails Hairstyle",
-        "p": "",
+        "p": "Stylish Twin Tails Hairstyles",
         "description": ""
     },
     "tr_hof_hair_style05": {
         "name": "Tight Plait Hairstyle",
-        "p": "",
+        "p": "Tight Plait Hairstyle",
         "description": ""
     },
     "tr_hom_hair_artistic01": {
         "name": "Artistic Bushy Tail Hairstyle",
-        "p": "",
+        "p": "Artistic Bushy Tail Hairstyles",
         "description": ""
     },
     "tr_hom_hair_artistic02": {
         "name": "Artistic Bandana Hairstyle",
-        "p": "",
+        "p": "Artistic Bandana Hairstyles",
         "description": ""
     },
     "tr_hom_hair_artistic03": {
         "name": "Artistic Spiky Hairstyle",
-        "p": "",
+        "p": "Artistic Spiky Hairstyles",
         "description": ""
     },
     "tr_hom_hair_artistic04": {
         "name": "Artistic Peaked Bob Hairstyle",
-        "p": "",
+        "p": "Artistic Peaked Bob Hairstyles",
         "description": ""
     },
     "tr_hom_hair_artistic05": {
         "name": "Artistic Shoulder-length with Ribbon Hairstyle",
-        "p": "",
+        "p": "Artistic Shoulder-length with Ribbon Hairstyle",
         "description": ""
     },
     "tr_hom_hair_basic01": {
         "name": "Basic Shaved Hairstyle",
-        "p": "",
+        "p": "Basic Shaved Hairstyles",
         "description": ""
     },
     "tr_hom_hair_basic02": {
         "name": "Basic Short Spiky Hairstyle",
-        "p": "",
+        "p": "Basic Short Spiky Hairstyles",
         "description": ""
     },
     "tr_hom_hair_basic03": {
         "name": "Basic Beaded Fringe Hairstyle",
-        "p": "",
+        "p": "Basic Beaded Fringe Hairstyles",
         "description": ""
     },
     "tr_hom_hair_basic04": {
         "name": "Basic Short Back and Sides Hairstyle",
-        "p": "",
+        "p": "Basic Short Back and Sides Hairstyles",
         "description": ""
     },
     "tr_hom_hair_basic05": {
         "name": "Basic Short Flame Hairstyle",
-        "p": "",
+        "p": "Basic Short Flame Hairstyle",
         "description": ""
     },
     "tr_hom_hair_style01": {
         "name": "Stylish Toggles Hairstyle",
-        "p": "",
+        "p": "Stylish Toggles Hairstyles",
         "description": ""
     },
     "tr_hom_hair_style02": {
         "name": "Srylish Plaited Tail Hairstyle",
-        "p": "",
+        "p": "Srylish Plaited Tail Hairstyles",
         "description": ""
     },
     "tr_hom_hair_style03": {
         "name": "Stylish Tufty Fringe Hairstyle",
-        "p": "",
+        "p": "Stylish Tufty Fringe Hairstyles",
         "description": ""
     },
     "tr_hom_hair_style04": {
         "name": "Stylish Crested Hairstyle",
-        "p": "",
+        "p": "Stylish Crested Hairstyles",
         "description": ""
     },
     "tr_hom_hair_style05": {
         "name": "Powder Puff Hairstyle",
-        "p": "",
+        "p": "Powder Puff Hairstyle",
         "description": ""
     },
     "zo_hof_hair_artistic01": {
         "name": "Artistic Crown Horns Hairstyle",
-        "p": "",
+        "p": "Artistic Crown Horns Hairstyles",
         "description": ""
     },
     "zo_hof_hair_artistic02": {
         "name": "Artistic Crested Hairstyle",
-        "p": "",
+        "p": "Artistic Crested Hairstyles",
         "description": ""
     },
     "zo_hof_hair_artistic03": {
         "name": "Artistic Dreads Hairstyle",
-        "p": "",
+        "p": "Artistic Dreads Hairstyles",
         "description": ""
     },
     "zo_hof_hair_artistic04": {
         "name": "Artistic Wedge Hairstyle",
-        "p": "",
+        "p": "Artistic Wedge Hairstyles",
         "description": ""
     },
     "zo_hof_hair_artistic05": {
         "name": "Artistic Wick with Ornament Hairstyle",
-        "p": "",
+        "p": "Artistic Wick with Ornament Hairstyle",
         "description": ""
     },
     "zo_hof_hair_basic01": {
         "name": "Basic Shaved Hairstyle",
-        "p": "",
+        "p": "Basic Shaved Hairstyles",
         "description": ""
     },
     "zo_hof_hair_basic02": {
         "name": "Basic Long Spiky Hairstyle",
-        "p": "",
+        "p": "Basic Long Spiky Hairstyles",
         "description": ""
     },
     "zo_hof_hair_basic03": {
         "name": "Basic Dreads Hairstyle",
-        "p": "",
+        "p": "Basic Dreads Hairstyles",
         "description": ""
     },
     "zo_hof_hair_basic04": {
         "name": "Basic Spiky Hairstyle",
-        "p": "",
+        "p": "Basic Spiky Hairstyles",
         "description": ""
     },
     "zo_hof_hair_basic05": {
         "name": "Basic Wicks Plated Behind Hairstyle",
-        "p": "",
+        "p": "Basic Wicks Plated Behind Hairstyle",
         "description": ""
     },
     "zo_hof_hair_style01": {
         "name": "Stylish Side Draped Hairstyle",
-        "p": "",
+        "p": "Stylish Side Draped Hairstyles",
         "description": ""
     },
     "zo_hof_hair_style02": {
         "name": "Stylish Side Twined Hairstyle",
-        "p": "",
+        "p": "Stylish Side Twined Hairstyles",
         "description": ""
     },
     "zo_hof_hair_style03": {
         "name": "Stylish Top Twined Hairstyle",
-        "p": "",
+        "p": "Stylish Top Twined Hairstyles",
         "description": ""
     },
     "zo_hof_hair_style04": {
         "name": "Stylish High Piled Hairstyle",
-        "p": "",
+        "p": "Stylish High Piled Hairstyles",
         "description": ""
     },
     "zo_hof_hair_style05": {
         "name": "Springlike Hairstyle",
-        "p": "",
+        "p": "Springlike Hairstyle",
         "description": ""
     },
     "zo_hom_hair_artistic01": {
         "name": "Artistic High Top Hairstyle",
-        "p": "",
+        "p": "Artistic High Top Hairstyles",
         "description": ""
     },
     "zo_hom_hair_artistic02": {
         "name": "Artistic Crown Horns Hairstyle",
-        "p": "",
+        "p": "Artistic Crown Horns Hairstyles",
         "description": ""
     },
     "zo_hom_hair_artistic03": {
         "name": "Artistic Long Spiky Hairstyle",
-        "p": "",
+        "p": "Artistic Long Spiky Hairstyles",
         "description": ""
     },
     "zo_hom_hair_artistic04": {
         "name": "Artistic Trident Hairstyle",
-        "p": "",
+        "p": "Artistic Trident Hairstyles",
         "description": ""
     },
     "zo_hom_hair_artistic05": {
         "name": "Artistic Leaves with Complement to the Mask Hairstyle",
-        "p": "",
+        "p": "Artistic Leaves with Complement to the Mask Hairstyle",
         "description": ""
     },
     "zo_hom_hair_basic01": {
         "name": "Basic Shaved Hairstyle",
-        "p": "",
+        "p": "Basic Shaved Hairstyles",
         "description": ""
     },
     "zo_hom_hair_basic02": {
         "name": "Basic Long Spiky Hairstyle",
-        "p": "",
+        "p": "Basic Long Spiky Hairstyles",
         "description": ""
     },
     "zo_hom_hair_basic03": {
         "name": "Basic Short Spiky Hairstyle",
-        "p": "",
+        "p": "Basic Short Spiky Hairstyles",
         "description": ""
     },
     "zo_hom_hair_basic04": {
         "name": "Basic Dreads Hairstyle",
-        "p": "",
+        "p": "Basic Dreads Hairstyles",
         "description": ""
     },
     "zo_hom_hair_basic05": {
         "name": "Basic Seed Hairstyle",
-        "p": "",
+        "p": "Basic Seed Hairstyle",
         "description": ""
     },
     "zo_hom_hair_style01": {
         "name": "Stylish High Twined Hairstyle",
-        "p": "",
+        "p": "Stylish High Twined Hairstyles",
         "description": ""
     },
     "zo_hom_hair_style02": {
         "name": "Stylish Back Twined Hairstyle",
-        "p": "",
+        "p": "Stylish Back Twined Hairstyles",
         "description": ""
     },
     "zo_hom_hair_style03": {
         "name": "Stylish Long Twined Hairstyle",
-        "p": "",
+        "p": "Stylish Long Twined Hairstyles",
         "description": ""
     },
     "zo_hom_hair_style04": {
         "name": "Stylish Dreads Hairstyle",
-        "p": "",
+        "p": "Stylish Dreads Hairstyles",
         "description": ""
     },
     "zo_hom_hair_style05": {
         "name": "Autumnal Hairstyle",
-        "p": "",
+        "p": "Autumnal Hairstyle",
         "description": ""
     },
     "ic_candy_stick": {
@@ -29625,8 +29625,8 @@
         "description": ""
     },
     "ep2_major_maduk_core": {
-        "name": "Large Part of Ma-Duk's Core",
-        "p": "Large Parts of Ma-Duk's Core",
+        "name": "Major Part of Ma-Duk's Core",
+        "p": "Major Parts of Ma-Duk's Core",
         "description": ""
     },
     "ep2_major_symbol_part": {
@@ -29875,33 +29875,33 @@
         "description": ""
     },
     "ikaracp_ep2_1": {
-        "name": "Karavaneer Dress",
-        "p": "Karavaneer Dresses",
+        "name": "Karavaneer Skirt",
+        "p": "Karavaneer Skirts",
         "description": ""
     },
     "ikaracp_ep2_2": {
-        "name": "Karavaneer Dress",
-        "p": "Karavaneer Dresses",
+        "name": "Karavaneer Skirt",
+        "p": "Karavaneer Skirts",
         "description": ""
     },
     "ikaracp_ep2_3": {
-        "name": "Karavaneer Dress",
-        "p": "Karavaneer Dresses",
+        "name": "Karavaneer Skirt",
+        "p": "Karavaneer Skirts",
         "description": ""
     },
     "ikamacp_ep2_1": {
-        "name": "Kamist Dress",
-        "p": "Kamist Dresses",
+        "name": "Kamist Skirt",
+        "p": "Kamist Skirts",
         "description": ""
     },
     "ikamacp_ep2_2": {
-        "name": "Kamist Dress",
-        "p": "Kamist Dresses",
+        "name": "Kamist Skirt",
+        "p": "Kamist Skirts",
         "description": ""
     },
     "ikamacp_ep2_3": {
-        "name": "Kamist Dress",
-        "p": "Kamist Dresses",
+        "name": "Kamist Skirt",
+        "p": "Kamist Skirts",
         "description": ""
     },
     "ickamss_ep2_1": {
@@ -29965,123 +29965,123 @@
         "description": ""
     },
     "icfahb_leader01": {
-        "name": "Dexton Boots",
-        "p": "Dexton Boots",
+        "name": "Dexton's Boots",
+        "p": "Dexton's Boots",
         "description": ""
     },
     "icfahp_leader01": {
-        "name": "Dexton Pants",
-        "p": "Dexton Pants",
+        "name": "Dexton's Pants",
+        "p": "Dexton's Pants",
         "description": ""
     },
     "icfahs_leader01": {
-        "name": "Dexton Sleeves",
-        "p": "Dexton Sleeves",
+        "name": "Dexton's Sleeves",
+        "p": "Dexton's Sleeves",
         "description": ""
     },
     "icfahv_leader01": {
-        "name": "Dexton Vest",
-        "p": "Dexton Vests",
+        "name": "Dexton's Vest",
+        "p": "Dexton's Vests",
         "description": ""
     },
     "icmahb_leader01": {
-        "name": "Yrkanis Boots",
-        "p": "Yrkanis Boots",
+        "name": "Yrkanis' Boots",
+        "p": "Yrkanis' Boots",
         "description": ""
     },
     "icmahp_leader01": {
-        "name": "Yrkanis Pants",
-        "p": "Yrkanis Pants",
+        "name": "Yrkanis' Pants",
+        "p": "Yrkanis' Pants",
         "description": ""
     },
     "icmahs_leader01": {
-        "name": "Yrkanis Sleeves",
-        "p": "Yrkanis Sleeves",
+        "name": "Yrkanis' Sleeves",
+        "p": "Yrkanis' Sleeves",
         "description": ""
     },
     "icmahv_leader01": {
-        "name": "Yrkanis Vest",
-        "p": "Yrkanis Vests",
+        "name": "Yrkanis' Vest",
+        "p": "Yrkanis' Vests",
         "description": ""
     },
     "ictamb_leader01": {
-        "name": "Still Wyler Boots",
-        "p": "Still Wyler Boots",
+        "name": "Still Wyler's Boots",
+        "p": "Still Wyler's Boots",
         "description": ""
     },
     "ictamp_leader01": {
-        "name": "Still Wyler Pants",
-        "p": "Still Wyler Pants",
+        "name": "Still Wyler's Pants",
+        "p": "Still Wyler's Pants",
         "description": ""
     },
     "ictams_leader01": {
-        "name": "Still Wyler Sleeves",
-        "p": "Still Wyler Sleeves",
+        "name": "Still Wyler's Sleeves",
+        "p": "Still Wyler's Sleeves",
         "description": ""
     },
     "ictamv_leader01": {
-        "name": "Still Wyler Vest",
-        "p": "Still Wyler Vests",
+        "name": "Still Wyler's Vest",
+        "p": "Still Wyler's Vests",
         "description": ""
     },
     "iczacb_leader01": {
-        "name": "Mabreka Boots",
-        "p": "Mabreka Boots",
+        "name": "Mabreka's Boots",
+        "p": "Mabreka's Boots",
         "description": ""
     },
     "iczacp_leader01": {
-        "name": "Mabreka Dress",
-        "p": "Mabreka Dresses",
+        "name": "Mabreka's Robe",
+        "p": "Mabreka's Robes",
         "description": ""
     },
     "iczacs_leader01": {
-        "name": "Mabreka Sleeves",
-        "p": "Mabreka Sleeves",
+        "name": "Mabreka's Sleeves",
+        "p": "Mabreka's Sleeves",
         "description": ""
     },
     "iczacv_leader01": {
-        "name": "Mabreka Vest",
-        "p": "Mabreka Vests",
+        "name": "Mabreka's Vest",
+        "p": "Mabreka's Vests",
         "description": ""
     },
     "fy_weapon_leader_dexton": {
-        "name": "Dexton Long Sword",
-        "p": "Dexton Long Swords",
+        "name": "Dexton's Long Sword",
+        "p": "Dexton's Long Swords",
         "description": ""
     },
     "ma_weapon_leader_yrkanis": {
-        "name": "Yrkanis Pike",
-        "p": "Yrkanis Pikes",
+        "name": "Yrkanis' Pike",
+        "p": "Yrkanis' Pikes",
         "description": ""
     },
     "tr_weapon_leader_still_wyler": {
-        "name": "Still Wyler Pike",
-        "p": "Still Wyler Pikes",
+        "name": "Still Wyler's Pike",
+        "p": "Still Wyler's Pikes",
         "description": ""
     },
     "zo_weapon_leader_mabreka": {
-        "name": "Mabreka Mace",
-        "p": "Mabreka Maces",
+        "name": "Mabreka's Mace",
+        "p": "Mabreka's Maces",
         "description": ""
     },
     "fy_leader_01": {
-        "name": "Dexton Haircut",
-        "p": "Dexton Haircuts",
+        "name": "Dexton's Haircut",
+        "p": "Dexton's Haircuts",
         "description": ""
     },
     "ma_leader_01": {
-        "name": "Yrkanis Haircut",
-        "p": "Yrkanis Haircuts",
+        "name": "Yrkanis' Haircut",
+        "p": "Yrkanis' Haircuts",
         "description": ""
     },
     "tr_leader_01": {
-        "name": "Still Wyler Haircut",
-        "p": "Still Wyler Haircuts",
+        "name": "Still Wyler's Haircut",
+        "p": "Still Wyler's Haircuts",
         "description": ""
     },
     "zo_leader_01": {
-        "name": "Mabreka Haircut",
-        "p": "Mabreka Haircuts",
+        "name": "Mabreka's Haircut",
+        "p": "Mabreka's Haircuts",
         "description": ""
     },
     "icfja_2": {
@@ -30516,7 +30516,7 @@
     },
     "icokamr2l_2": {
         "name": "Vedice-Duk Launcher",
-        "p": "Vedice-Duk Launcher",
+        "p": "Vedice-Duk Launchers",
         "description": ""
     },
     "icokamr2r_2": {
@@ -30631,7 +30631,7 @@
     },
     "icokarr2l_1": {
         "name": "Tekorn-Jen Launcher",
-        "p": "Tekorn-Jen Launcher",
+        "p": "Tekorn-Jen Launchers",
         "description": ""
     },
     "icokarr2r_1": {
@@ -30746,7 +30746,7 @@
     },
     "icokarr2l_2": {
         "name": "Vedice-Jen Launcher",
-        "p": "Vedice-Jen Launcher",
+        "p": "Vedice-Jen Launchers",
         "description": ""
     },
     "icokarr2r_2": {
@@ -31006,12 +31006,12 @@
     },
     "ittool": {
         "name": "Tool Crafting Tool",
-        "p": "Tool Crafting Tool",
+        "p": "Tool Crafting Tools",
         "description": ""
     },
     "citizenship_bothaya_fire": {
         "name": "Bothaya Fire",
-        "p": "Bothaya Fire",
+        "p": "Bothaya Fires",
         "description": ""
     },
     "citizenship_cold_pearl": {
@@ -31180,28 +31180,28 @@
         "description": ""
     },
     "conso_constit_mineskitins": {
-        "name": "Fleur de résistance de la kitinière",
-        "p": "Fleurs de résistance de la kitinière",
+        "name": "Kitin's Lair Resitance Flower",
+        "p": "Kitin's Lair Resitance Flower",
         "description": ""
     },
     "conso_focus_mineskitins": {
-        "name": "Fleur de concentration de la kitinière",
-        "p": "Fleurs de concentration de la kitinière",
+        "name": "Kitin's Lair Focus Flower",
+        "p": "Kitin's Lair Focus Flower",
         "description": ""
     },
     "conso_sap_mineskitins": {
-        "name": "Fleur de sève de la kitinière",
-        "p": "Fleurs de sève de la kitinière",
+        "name": "Kitin's Lair Sap Flower",
+        "p": "Kitin's Lair Sap Flower",
         "description": ""
     },
     "conso_strength_mineskitins": {
-        "name": "Fleur de puissance de la kitinière",
-        "p": "Fleurs de puissance de la kitinière",
+        "name": "Kitin's Lair Strength Flower",
+        "p": "Kitin's Lair Strength Flower",
         "description": ""
     },
     "lettre_echantillon_kitiniere": {
-        "name": "Lettre à remettre à Xan Mi Chong",
-        "p": "Lettres à remettre à Xan Mi Chong",
+        "name": "Letter to give to Xan Mi Chong",
+        "p": "Letters to give to Xan Mi Chong",
         "description": ""
     },
     "cartographier_kitiniere_parchemin_vierge": {
@@ -31226,7 +31226,7 @@
     },
     "fragment_carapace_kitin_encore_plus_solide": {
         "name": "Fragment of Kitin Shell",
-        "p": "Fragment of Kitin Shell",
+        "p": "Fragments of Kitin Shell",
         "description": ""
     },
     "extrait_substance_question_de_force": {
@@ -31296,7 +31296,7 @@
     },
     "tcm_tete_chad": {
         "name": "Chad's Head",
-        "p": "",
+        "p": "Chad's Heads",
         "description": ""
     },
     "conso_strength_substance_royale": {
@@ -31311,7 +31311,7 @@
     },
     "materiau2_encore_plus_resistante": {
         "name": "Kitin Amber",
-        "p": "Kitin Ambers",
+        "p": "Kitin Amber",
         "description": ""
     },
     "materiau3_encore_plus_resistante": {
@@ -31490,28 +31490,28 @@
         "description": ""
     },
     "lettre_reco_zorai_larvek": {
-        "name": "Lettre de recommandation à remettre au sage de la capitale zorai",
-        "p": "",
+        "name": "Letter of Recommentation to be given to the Sage in the Zoraï capital",
+        "p": "Letters of Recommentation to be given to the Sage in the Zoraï capital",
         "description": ""
     },
     "lettre_reco_fyros_larvek": {
-        "name": "Lettre de recommandation à remettre au sage de la capitale fyros",
-        "p": "",
+        "name": "Letter of Recommentation to be given to the Sage in the Fyros capital",
+        "p": "Letters of Recommentation to be given to the Sage in the Fyros capital",
         "description": ""
     },
     "lettre_reco_matis_larvek": {
-        "name": "Lettre de recommandation à remettre au sage de la capitale matis",
-        "p": "",
+        "name": "Letter of Recommentation to be given to the Sage in the Matis capital",
+        "p": "Letters of Recommentation to be given to the Sage in the Matis capital",
         "description": ""
     },
     "lettre_reco_tryker_larvek": {
         "name": "Letter of recommendation to be given to the Sage of the Tryker capital",
-        "p": "",
+        "p": "Letters of recommendation to be given to the Sage of the Tryker capital",
         "description": ""
     },
     "tcm_crate_id": {
         "name": "Karavan Supply Fund Identification",
-        "p": "",
+        "p": "Karavan Supply Fund Identifications",
         "description": ""
     },
     "m0789dxapd01": {
@@ -31566,17 +31566,17 @@
     },
     "m0793dxapd01": {
         "name": "Choice Corrupted Fine Amber",
-        "p": "Choice Corrupted Fine Ambers",
+        "p": "Choice Corrupted Fine Amber",
         "description": ""
     },
     "m0793dxape01": {
         "name": "Excellent Corrupted Fine Amber",
-        "p": "Excellent Corrupted Fine Ambers",
+        "p": "Excellent Corrupted Fine Amber",
         "description": ""
     },
     "m0793dxapf01": {
         "name": "Supreme Corrupted Fine Amber",
-        "p": "Supreme Corrupted Fine Ambers",
+        "p": "Supreme Corrupted Fine Amber",
         "description": ""
     },
     "m0794dxapd01": {
@@ -31601,17 +31601,17 @@
     },
     "m0796dxapd01": {
         "name": "Choice Corrupted Dark Amber",
-        "p": "Choice Corrupted Dark Ambers",
+        "p": "Choice Corrupted Dark Amber",
         "description": ""
     },
     "m0796dxape01": {
         "name": "Excellent Choice Corrupted Hard Amber",
-        "p": "Excellent Choice Corrupted Hard Ambers",
+        "p": "Excellent Choice Corrupted Hard Amber",
         "description": ""
     },
     "m0796dxapf01": {
         "name": "Supreme Corrupted Hard Amber",
-        "p": "Supreme Corrupted Hard Ambers",
+        "p": "Supreme Corrupted Hard Amber",
         "description": ""
     },
     "ipd_dodge": {
@@ -31626,12 +31626,12 @@
     },
     "tcm_soulkey": {
         "name": "Key to the Souls",
-        "p": "",
+        "p": "Keys to the Souls",
         "description": ""
     },
     "tcm_rewardkey": {
         "name": "Key to the Treasure",
-        "p": "",
+        "p": "Keys to the Treasure",
         "description": ""
     },
     "ipc_craft_success": {
@@ -31651,47 +31651,47 @@
     },
     "slaughter_week_token_boss_fyros": {
         "name": "Piece of Fyros Exterminator",
-        "p": "",
+        "p": "Pieces of Fyros Exterminator",
         "description": ""
     },
     "slaughter_week_token_boss_matis": {
         "name": "Piece of Matis Exterminator",
-        "p": "",
+        "p": "Pieces of Matis Exterminator",
         "description": ""
     },
     "slaughter_week_token_boss_tryker": {
         "name": "Piece of Tryker Exterminator",
-        "p": "",
+        "p": "Pieces of Tryker Exterminator",
         "description": ""
     },
     "slaughter_week_token_boss_zorai": {
         "name": "Piece of Zoraï Exterminator",
-        "p": "",
+        "p": "Pieces of Zoraï Exterminator",
         "description": ""
     },
     "kitiniere_teleport_test_cartographier": {
-        "name": "Ticket de téléportation vers la région de la kitinière",
-        "p": "Tickets de téléportation vers la région de la kitinière",
+        "name": "Teleportation Ticket to the Kitin's Liar Region",
+        "p": "Teleportation Tickets to the Kitin's Liar Region",
         "description": ""
     },
     "boss_mainland_zorai_token": {
         "name": "Pei-Ziao's Trinket",
-        "p": "",
+        "p": "Pei-Ziao's Trinkets",
         "description": ""
     },
     "boss_mainland_tryker_token": {
         "name": "Lixie's Trinket",
-        "p": "",
+        "p": "Lixie's Trinkets",
         "description": ""
     },
     "boss_mainland_fyros_token": {
         "name": "Aen's Trinket",
-        "p": "",
+        "p": "Aen's Trinkets",
         "description": ""
     },
     "boss_mainland_matis_token": {
         "name": "Sirgio's Trinket",
-        "p": "",
+        "p": "Sirgio's Trinkets",
         "description": ""
     },
     "marauder_armor_recipe_helm_part1": {
@@ -31851,17 +31851,17 @@
     },
     "test_command_ticket": {
         "name": "<TEST>Command Ticket",
-        "p": "",
+        "p": "<TEST>Command Tickets",
         "description": "Test Item"
     },
     "test_conso": {
         "name": "<TEST>Consumable",
-        "p": "",
+        "p": "<TEST>Consumables",
         "description": "Test Item"
     },
     "test_conso_emot": {
         "name": "<TEST>Consumable - Emote",
-        "p": "",
+        "p": "<TEST>Consumables - Emote",
         "description": "Test Item"
     },
     "system_mp_basic": {
@@ -31896,22 +31896,22 @@
     },
     "ct_gmisland_aniro": {
         "name": "<CS> Aniro GM Island Teleport",
-        "p": "",
+        "p": "<CS> Aniro GM Island Teleports",
         "description": "This is a GM Item."
     },
     "ct_gmisland_arispotle": {
         "name": "<CS> Arispotle GM Island Teleport",
-        "p": "",
+        "p": "<CS> Arispotle GM Island Teleports",
         "description": "This is a GM Item."
     },
     "ct_gmisland_leanon": {
         "name": "<CS> Leanon GM Island Teleport",
-        "p": "",
+        "p": "<CS> Leanon GM Island Teleports",
         "description": "This is a GM Item."
     },
     "ct_gmisland_cho": {
         "name": "<CS> Cho GM Island Teleport",
-        "p": "",
+        "p": "<CS> Cho GM Island Teleports",
         "description": "This is a GM Item."
     },
     "tf60_ailes": {
@@ -31996,7 +31996,7 @@
     },
     "tc100_bois": {
         "name": "Zabar Wood",
-        "p": "Zabar Wood",
+        "p": "Zabar Woods",
         "description": ""
     },
     "th50_pioche": {
@@ -32011,7 +32011,7 @@
     },
     "th70_graines": {
         "name": "Yubo Food",
-        "p": "Yubo Food",
+        "p": "Yubo Foods",
         "description": ""
     },
     "th80_plantes": {
@@ -32291,7 +32291,7 @@
     },
     "zm60_bouclier": {
         "name": "Buckler of Protection",
-        "p": "Buckler of Protection",
+        "p": "Bucklers of Protection",
         "description": ""
     },
     "zm60_artefact": {
@@ -32306,7 +32306,7 @@
     },
     "zm70_epurateur": {
         "name": "Purifier",
-        "p": "Purifier",
+        "p": "Purifiers",
         "description": ""
     },
     "zm80_anneau": {
@@ -32641,42 +32641,42 @@
     },
     "micro_boss_loot_yubo": {
         "name": "Yuboth's Tongue",
-        "p": "",
+        "p": "Yuboth's Tongues",
         "description": "Someone in the city would maybe be interested in this trophy."
     },
     "micro_boss_loot_yelk": {
         "name": "Yelkoth's Blood",
-        "p": "",
+        "p": "Yelkoth's Blood",
         "description": "Someone in the city would maybe be interested in this trophy."
     },
     "micro_boss_loot_messab": {
         "name": "Messaboth's Hoof",
-        "p": "",
+        "p": "Messaboth's Hoofs",
         "description": "Someone in the city would maybe be interested in this trophy."
     },
     "micro_boss_loot_mektoub": {
         "name": "Mektoth's Heart",
-        "p": "",
+        "p": "Mektoth's Hearts",
         "description": "Someone in the city would maybe be interested in this trophy."
     },
     "micro_boss_loot_lumper": {
         "name": "Lumperoth's Eye",
-        "p": "",
+        "p": "Lumperoth's Eyes",
         "description": "Someone in the city would maybe be interested in this trophy."
     },
     "micro_boss_loot_igara": {
         "name": "Igaroth's Beak",
-        "p": "",
+        "p": "Crayoth's Carapace",
         "description": "Someone in the city would maybe be interested in this trophy."
     },
     "micro_boss_loot_cray": {
         "name": "Crayoth's Carapace",
-        "p": "",
+        "p": "Crayoth's Carapaces",
         "description": "Someone in the city would maybe be interested in this trophy."
     },
     "micro_boss_loot_capryni": {
         "name": "Caprynoth's Ear",
-        "p": "",
+        "p": "Caprynoth's Ears",
         "description": "Someone in the city would maybe be interested in this trophy."
     },
     "casino_token": {
@@ -33151,7 +33151,7 @@
     },
     "event_meat": {
         "name": "Meat",
-        "p": "Meat",
+        "p": "Meats",
         "description": ""
     },
     "event_missive": {
@@ -33476,7 +33476,7 @@
     },
     "rpjobitem_200_c2": {
         "name": "Giblet of Arma",
-        "p": "Giblet of Arma",
+        "p": "Giblets of Arma",
         "description": ""
     },
     "rpjobitem_200_c3": {
@@ -33701,12 +33701,12 @@
     },
     "rpjobitem_203_a0": {
         "name": "Fragment of Magnetic Fields Map",
-        "p": "Fragments of Magnetic Fields Maps",
+        "p": "Fragments of Magnetic Fields Map",
         "description": ""
     },
     "rpjobitem_203_a1": {
         "name": "Fragment of Precise Magnetic Fields Map",
-        "p": "Fragments of Precise Magnetic Fields Maps",
+        "p": "Fragments of Precise Magnetic Fields Map",
         "description": ""
     },
     "rpjobitem_203_b0": {
@@ -34330,8 +34330,8 @@
         "description": ""
     },
     "icoanimtammo": {
-        "name": "SGM Ammo Craft Tool",
-        "p": "SGM Ammo Craft Tools",
+        "name": "SGM Ammo Crafting Tool",
+        "p": "SGM Ammo Crafting Tools",
         "description": ""
     },
     "icoanimtarmor": {

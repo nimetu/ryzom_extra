@@ -24,28 +24,28 @@
         "member": "Zivilisten"
     },
     "degen": {
-        "name": "Verrückter Stamm",
-        "member": "Verrückten"
+        "name": "Degenerierte",
+        "member": "Degenerierte"
     },
     "fauna": {
-        "name": "Fauna",
-        "member": "Fauna"
+        "name": "Tiere",
+        "member": "Tiere"
     },
     "fauna_carnivore": {
-        "name": "Fleischfressende Fauna",
+        "name": "Fleischfresser",
         "member": "Fleischfresser"
     },
     "fauna_herbivore": {
-        "name": "Pflanzenfressende Fauna",
+        "name": "Pflanzenfresser",
         "member": "Pflanzenfresser"
     },
     "flora": {
-        "name": "Flora",
-        "member": "Flora"
+        "name": "Pflanzen",
+        "member": "Pflanzen"
     },
     "goo": {
-        "name": "Goo",
-        "member": "Goo"
+        "name": "Goovorkommen",
+        "member": "Goovorkommen"
     },
     "kami": {
         "name": "Kami",
@@ -56,8 +56,8 @@
         "member": "Karavan"
     },
     "kitin": {
-        "name": "Kitin",
-        "member": "Kitin"
+        "name": "Kitins",
+        "member": "Kitins"
     },
     "tribe_ancient_dryads": {
         "name": "Alte Dryaden",
@@ -77,11 +77,11 @@
     },
     "tribe_black_circle": {
         "name": "Schwarze Kreis",
-        "member": "Mitglieder des Schwarzen Kreis"
+        "member": "Mitglieder des Schwarzen Kreises"
     },
     "tribe_cholorogoos": {
-        "name": "Chlorogoos",
-        "member": "Chlorogoos"
+        "name": "Cholorogoos",
+        "member": "Cholorogoos"
     },
     "tribe_cockroaches": {
         "name": "Kakerlaken",
@@ -93,15 +93,15 @@
     },
     "tribe_corsair": {
         "name": "Korsaren",
-        "member": "Mitglieder der Korsaren"
+        "member": "Korsaren"
     },
     "tribe_cute": {
         "name": "Cuzane",
         "member": "Cuzane"
     },
     "tribe_darkening_sap": {
-        "name": "Matiagoo",
-        "member": "Matiagoo"
+        "name": "Matiagoo Verdunkelnder Sap",
+        "member": "Matiagoo-Mitglieder"
     },
     "tribe_dune_riders": {
         "name": "Dünenreiter",
@@ -112,8 +112,8 @@
         "member": "Ökokrieger"
     },
     "tribe_firebrands": {
-        "name": "Blutrünstige",
-        "member": "Mitglieder der Blutrünstigen"
+        "name": "Heißsporne",
+        "member": "Heißsporne"
     },
     "tribe_first_deserter": {
         "name": "Erste Deserteure",
@@ -124,24 +124,24 @@
         "member": "Fraider"
     },
     "tribe_frahar_hunters": {
-        "name": "Fraharjäger",
-        "member": "Fraharjäger"
+        "name": "Frahar-Jäger",
+        "member": "Frahar-Jäger"
     },
     "tribe_gibbay": {
         "name": "Gibads",
-        "member": "Gibad"
+        "member": "Gibads"
     },
     "tribe_goo_heads": {
-        "name": "Erleuchtete des Goos",
-        "member": "Mitglieder der Erleuchteten des Goos"
+        "name": "Erleuchtete des Goo",
+        "member": "Erleuchteten des Goo"
     },
     "tribe_green_seed": {
-        "name": "Grünen Samen",
+        "name": "Grüne Samen",
         "member": "Mitglieder der Grünen Samen"
     },
     "tribe_hamazans_of_the_dead_seed": {
-        "name": "Matis-Amazonen",
-        "member": "Matis-Amazonen"
+        "name": "Matis-Amazonen Hamazans",
+        "member": "Matis-Amazonen Hamazans"
     },
     "tribe_icon_workshipers": {
         "name": "Ikonenschnitzer",
@@ -204,7 +204,7 @@
         "member": "Unterwasserwurzel-Extrahierer"
     },
     "tribe_sacred_sap": {
-        "name": "Heiliges Sap",
+        "name": "Heiliger Sap",
         "member": "Mitglieder des Heiligen Saps"
     },
     "tribe_sap_gleaners": {

@@ -3880,18 +3880,28 @@
     "igfpu": {
         "sheetid": "igfpu",
         "type": 2,
-        "item_type": 67,
+        "item_type": 26,
         "race": 1,
         "quality": 0,
-        "bulk": 0
+        "bulk": 0,
+        "icon": {
+            "main": "ar_pantabotte.png",
+            "back": "bk_fyros.png",
+            "over": "pw_light.png"
+        }
     },
     "igfvu": {
         "sheetid": "igfvu",
         "type": 2,
-        "item_type": 67,
+        "item_type": 28,
         "race": 1,
         "quality": 0,
-        "bulk": 0
+        "bulk": 0,
+        "icon": {
+            "main": "ar_gilet.png",
+            "back": "bk_fyros.png",
+            "over": "pw_light.png"
+        }
     },
     "igmau": {
         "sheetid": "igmau",
@@ -3920,18 +3930,28 @@
     "igmpu": {
         "sheetid": "igmpu",
         "type": 2,
-        "item_type": 67,
+        "item_type": 26,
         "race": 2,
         "quality": 0,
-        "bulk": 0
+        "bulk": 0,
+        "icon": {
+            "main": "ar_pantabotte.png",
+            "back": "bk_matis.png",
+            "over": "pw_light.png"
+        }
     },
     "igmvu": {
         "sheetid": "igmvu",
         "type": 2,
-        "item_type": 67,
+        "item_type": 28,
         "race": 2,
         "quality": 0,
-        "bulk": 0
+        "bulk": 0,
+        "icon": {
+            "main": "ar_gilet.png",
+            "back": "bk_matis.png",
+            "over": "pw_light.png"
+        }
     },
     "igtau": {
         "sheetid": "igtau",
@@ -3960,18 +3980,28 @@
     "igtpu": {
         "sheetid": "igtpu",
         "type": 2,
-        "item_type": 67,
+        "item_type": 26,
         "race": 3,
         "quality": 0,
-        "bulk": 0
+        "bulk": 0,
+        "icon": {
+            "main": "ar_pantabotte.png",
+            "back": "bk_tryker.png",
+            "over": "pw_light.png"
+        }
     },
     "igtvu": {
         "sheetid": "igtvu",
         "type": 2,
-        "item_type": 67,
+        "item_type": 28,
         "race": 3,
         "quality": 0,
-        "bulk": 0
+        "bulk": 0,
+        "icon": {
+            "main": "ar_gilet.png",
+            "back": "bk_tryker.png",
+            "over": "pw_light.png"
+        }
     },
     "igzau": {
         "sheetid": "igzau",
@@ -4000,18 +4030,28 @@
     "igzpu": {
         "sheetid": "igzpu",
         "type": 2,
-        "item_type": 67,
+        "item_type": 26,
         "race": 4,
         "quality": 0,
-        "bulk": 0
+        "bulk": 0,
+        "icon": {
+            "main": "ar_pantabotte.png",
+            "back": "bk_zorai.png",
+            "over": "pw_light.png"
+        }
     },
     "igzvu": {
         "sheetid": "igzvu",
         "type": 2,
-        "item_type": 67,
+        "item_type": 28,
         "race": 4,
         "quality": 0,
-        "bulk": 0
+        "bulk": 0,
+        "icon": {
+            "main": "ar_gilet.png",
+            "back": "bk_zorai.png",
+            "over": "pw_light.png"
+        }
     },
     "icfja": {
         "sheetid": "icfja",

@@ -23394,28 +23394,28 @@
         "description2": ""
     },
     "bcztca01": {
-        "name": "Herramientas Zoraï",
-        "p": "Herramientas Zoraï",
-        "description": "Te permite fabricar herramientas Zoraï.",
-        "description2": "herramientas Zoraï "
+        "name": "Herramienta Zoraï 1",
+        "p": "Herramientas Zoraï ",
+        "description": "Te permite hacer herramientas Zoraï de cualidad $cr_recommended.",
+        "description2": "Herramientas Zoraïs 1 - Calidad: $cr_recommended"
     },
     "bcttca01": {
-        "name": "Herramientas Tryker",
+        "name": "Herramienta Tryker 1",
         "p": "Herramientas Tryker",
-        "description": "Te permite fabricar herramientas Tryker.",
-        "description2": "herramientas Tryker"
+        "description": "Te permite hacer herramientas Tryker de cualidad $cr_recommended.",
+        "description2": "Herramientas Trykers 1 - Calidad: $cr_recommended"
     },
     "bcmtca01": {
-        "name": "Herramientas Matis",
-        "p": "Herramientas Matis",
-        "description": "Te permite fabricar herramientas Matis.",
-        "description2": "herramientas Matis"
+        "name": "Herramienta Matis 1",
+        "p": "Herramientas Matis ",
+        "description": "Te permite hacer herramientas Matis de cualidad $cr_recommended.",
+        "description2": "Herramientas Matis 1 - Calidad: $cr_recommended"
     },
     "bcftca01": {
-        "name": "Herramientas Fyros",
-        "p": "Herramientas Fyros",
-        "description": "Te permite fabricar herramientas Fyros.",
-        "description2": "herramientas Fyros"
+        "name": "Herramienta Fyros 1",
+        "p": "Herramientas Fyros ",
+        "description": "Te permite hacer herramientas Fyros de cualidad $cr_recommended.",
+        "description2": "Herramientas Fyros 1 - Calidad: $cr_recommended"
     },
     "chg_charac": {
         "name": "Mejora de las Características",
@@ -23662,5 +23662,101 @@
         "p": "",
         "description": "Halo",
         "description2": ""
+    },
+    "bcztca10": {
+        "name": "Herramienta Zoraï 2",
+        "p": "Herramientas Zoraï ",
+        "description": "Te permite hacer herramientas Zoraï de cualidad $cr_recommended.",
+        "description2": "Herramientas Zoraïs 2 - Calidad: $cr_recommended"
+    },
+    "bcztca15": {
+        "name": "Herramienta Zoraï 3",
+        "p": "Herramientas Zoraï ",
+        "description": "Te permite hacer herramientas Zoraï de cualidad $cr_recommended.",
+        "description2": "Herramientas Zoraïs 3 - Calidad: $cr_recommended"
+    },
+    "bcztca20": {
+        "name": "Herramienta Zoraï 4",
+        "p": "Herramientas Zoraï ",
+        "description": "Te permite hacer herramientas Zoraï de cualidad $cr_recommended.",
+        "description2": "Herramientas Zoraïs 4 - Calidad: $cr_recommended"
+    },
+    "bcztca25": {
+        "name": "Herramienta Zoraï 5",
+        "p": "Herramientas Zoraï ",
+        "description": "Te permite hacer herramientas Zoraï de cualidad $cr_recommended.",
+        "description2": "Herramientas Zoraïs 5 - Calidad: $cr_recommended"
+    },
+    "bcttca10": {
+        "name": "Herramienta Tryker 2",
+        "p": "Herramientas Tryker ",
+        "description": "Te permite hacer herramientas Tryker de cualidad $cr_recommended.",
+        "description2": "Herramientas Trykers 2 - Calidad: $cr_recommended"
+    },
+    "bcttca15": {
+        "name": "Herramienta Tryker 3",
+        "p": "Herramientas Tryker ",
+        "description": "Te permite hacer herramientas Tryker de cualidad $cr_recommended.",
+        "description2": "Herramientas Trykers 3 - Calidad: $cr_recommended"
+    },
+    "bcttca20": {
+        "name": "Herramienta Tryker 4",
+        "p": "Herramientas Tryker ",
+        "description": "Te permite hacer herramientas Tryker de cualidad $cr_recommended.",
+        "description2": "Herramientas Trykers 4 - Calidad: $cr_recommended"
+    },
+    "bcttca25": {
+        "name": "Herramienta Tryker 5",
+        "p": "Herramientas Tryker ",
+        "description": "Te permite hacer herramientas Tryker de cualidad $cr_recommended.",
+        "description2": "Herramientas Trykers 5 - Calidad: $cr_recommended"
+    },
+    "bcmtca10": {
+        "name": "Herramienta Matis 2",
+        "p": "Herramientas Matis ",
+        "description": "Te permite hacer herramientas Matis de cualidad $cr_recommended.",
+        "description2": "Herramientas Matis 2 - Calidad: $cr_recommended"
+    },
+    "bcmtca15": {
+        "name": "Herramienta Matis 3",
+        "p": "Herramientas Matis ",
+        "description": "Te permite hacer herramientas Matis de cualidad $cr_recommended.",
+        "description2": "Herramientas Matis 3 - Calidad: $cr_recommended"
+    },
+    "bcmtca20": {
+        "name": "Herramienta Matis 4",
+        "p": "Herramientas Matis ",
+        "description": "Te permite hacer herramientas Matis de cualidad $cr_recommended.",
+        "description2": "Herramientas Matis 4 - Calidad: $cr_recommended"
+    },
+    "bcmtca25": {
+        "name": "Herramienta Matis 5",
+        "p": "Herramientas Matis ",
+        "description": "Te permite hacer herramientas Matis de cualidad $cr_recommended.",
+        "description2": "Herramientas Matis 5 - Calidad: $cr_recommended"
+    },
+    "bcftca10": {
+        "name": "Herramienta Fyros 2",
+        "p": "Herramientas Fyros",
+        "description": "Te permite hacer herramientas Fyros de cualidad $cr_recommended.",
+        "description2": "Herramientas Fyros 2 - Calidad: $cr_recommended"
+    },
+    "bcftca15": {
+        "name": "Herramienta Fyros 3",
+        "p": "Herramientas Fyros ",
+        "description": "Te permite hacer herramientas Fyros de cualidad $cr_recommended.",
+        "description2": "Herramientas Fyros 3 - Calidad: $cr_recommended"
+    },
+    "bcftca20": {
+        "name": "Herramienta Fyros 4",
+        "p": "Herramientas Fyros ",
+        "description": "Te permite hacer herramientas Fyros de cualidad $cr_recommended.",
+        "description2": "Herramientas Fyros 4 - Calidad: $cr_recommended"
+    },
+    "bcftca25": {
+        "name": "Herramienta Fyros 5",
+        "p": "Herramientas Fyros ",
+        "description": "Te permite hacer herramientas Fyros de cualidad $cr_recommended.",
+        "description2": "Herramientas Fyros 5 - Calidad: $cr_recommended"
     }
 }
