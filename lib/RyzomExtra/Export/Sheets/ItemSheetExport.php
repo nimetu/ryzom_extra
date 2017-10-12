@@ -77,6 +77,7 @@ class ItemSheetExport extends AbstractSheetExport {
 				'race' => $item->ItemOrigin,
 				'quality' => $item->MapVariant,
 				'bulk' => $item->Bulk,
+				//'consumable' => $item->IsConsumable,
 			);
 
 			$iconKeys = array('main', 'back', 'over', 'over2');
@@ -175,13 +176,21 @@ class ItemSheetExport extends AbstractSheetExport {
 			case EItemFamily::CONSUMABLE:
 				//$array['_overdose_timer'] = $item->Consumable->OverdoseTimer;
 				//$array['_consumption_time'] = $item->Consumable->ConsumptionTime;
-				//$array['_properties'] = $item->Consumable->Properties;
+				if (!empty($item->Consumable->Properties)) {
+					$array['properties'] = $item->Consumable->Properties;
+				}
 				break;
 			case EItemFamily::SCROLL:
 				//$array['_texture'] = $item->Scroll->Texture;
 				break;
 			default:
 				// nothing
+			}
+
+			foreach($item->Effect as $effect) {
+				if (!empty($effect)){
+					$array['effects'][] = $effect;
+				}
 			}
 
 			// replace numeric skill code with string code

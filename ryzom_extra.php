@@ -69,7 +69,7 @@ class RyzomExtra
     // guild option = 32
     // handled item = 33
     // cosmetic = 34
-    // consumable = 35
+    const CONSUMABLE = 35;
     const TYPE_XPCAT = 36;
     // scroll = 37
     // scroll r2 = 38
@@ -291,6 +291,7 @@ class RyzomExtra
     const GRADE_CHOICE = 50; // select
     const GRADE_EXCELLENT = 65; // superb
     const GRADE_SUPREME = 80; // magnificient
+
     //
     static function uxt_grade($grade)
     {
@@ -402,6 +403,216 @@ class RyzomExtra
     const ACTION_SHIELD_USE = 8;
     const ACTION_RECHARGE = 9;
     const ACTION_NEUTRAL = 10;
+
+    // game_share/characteristics.h
+    static $characteristic_to_int = array(
+        'constitution' => 0,
+        'metabolism' => 1,
+        'intelligence' => 2,
+        'wisdom' => 3,
+        'strength' => 4,
+        'wellbalanced' => 5,
+        'dexterity' => 6,
+        'will' => 7,
+    );
+
+    /**
+     * Return translated consumable effects from $sheet for quality.
+     * $sheet can be either string sheet id or item array from ryzom_item_info()
+     *
+     * @param string|array $sheet
+     * @param int $quality
+     * @param string $lang
+     *
+     * @return array
+     */
+    static function consumable_effects($sheet, $quality, $lang)
+    {
+        if (!is_array($sheet)) {
+            $sheet = ryzom_item_info($sheet);
+        }
+
+        if ($sheet === false || empty($sheet['properties'])) {
+            return array();
+        }
+
+        $effects = array();
+        foreach ($sheet['properties'] as $property) {
+            $params = explode(':', $property);
+            if (empty($params)) {
+                continue;
+            }
+
+            $name = strtoupper(array_shift($params));
+            switch ($name) {
+                case 'SP_CHG_CHARAC':
+                    if (isset(self::$characteristic_to_int[strtolower($params[0])])) {
+                        $ui = ryzom_translate('uiCaracId' . self::$characteristic_to_int[strtolower($params[0])] . '.uxt', $lang);
+                        $bonus = (int)($params[1] * $quality + $params[2]);
+                        $time = (int)$params[3];
+                        if ($bonus > 0) {
+                            $tt = ryzom_translate('uiItemConsumableEffectUpCharac.uxt', $lang);
+                        } else {
+                            $tt = ryzom_translate('uiItemConsumableEffectDownCharac.uxt', $lang);
+                        }
+
+                        $effects[] = strtr($tt, array(
+                            '%charac' => $ui,
+                            '%bonus' => $bonus,
+                            '%minutes' => (int)($time / 60),
+                            '%secondes' => (int)($time % 60),
+                        ));
+                    }
+                    break;
+                case 'SP_LIFE_AURA':
+                case 'SP_LIFE_AURA2':
+                case 'SP_STAMINA_AURA':
+                case 'SP_STAMINA_AURA2':
+                case 'SP_SAP_AURA':
+                case 'SP_SAP_AURA2':
+                    $uiKeys = array(
+                        'SP_LIFE_AURA' => 'uiItemConsumableEffectLifeAura.uxt',
+                        'SP_LIFE_AURA2' => 'uiItemConsumableEffectLifeAura.uxt',
+                        'SP_STAMINA_AURA' => 'uiItemConsumableEffectStaminaAura.uxt',
+                        'SP_STAMINA_AURA2' => 'uiItemConsumableEffectStaminaAura.uxt',
+                        'SP_SAP_AURA' => 'uiItemConsumableEffectSapAura.uxt',
+                        'SP_SAP_AURA2' => 'uiItemConsumableEffectSapAura.uxt',
+                    );
+
+                    $tt = ryzom_translate($uiKeys[$name], $lang);
+
+                    if (substr($name, -1) == '2') {
+                        $params[0] *= $quality;
+                        $params[3] = 0;
+                        $params[4] = 0;
+                    }
+                    $effects[] = strtr($tt, array(
+                        '%modifier' => (int)$params[0],
+                        '%minutes' => (int)($params[1] / 60),
+                        '%secondes' => (int)($params[1] % 60),
+                        '%radius' => (int)$params[2],
+                        '%targetDisableTime' => (int)$params[3],
+                        '%userDisableTime' => (int)$params[4],
+                    ));
+                    break;
+                case 'SP_MOD_DEFENSE':
+                case 'SP_MOD_MELEE_SUCCESS':
+                case 'SP_MOD_RANGE_SUCCESS':
+                case 'SP_MOD_MAGIC_SUCCESS':
+                case 'SP_MOD_CRAFT_SUCCESS':
+                case 'SP_MOD_FORAGE_SUCCESS':
+                    $array = array(
+                        'SP_MOD_DEFENSE_SUCCESS' => array(
+                            0 => 'uiItemConsumableEffectModDefenseSuccess.uxt',
+                            'dodge' => 'uiItemConsumableEffectModDodgeSuccess.uxt',
+                            'parry' => 'uiItemConsumableEffectModParrySuccess.uxt',
+                        ),
+                        'SP_MOD_MELEE_SUCCESS' => 'uiItemConsumableEffectModMeleeSuccess.uxt',
+                        'SP_MOD_RANGE_SUCCESS' => 'uiItemConsumableEffectModRangeSuccess.uxt',
+                        'SP_MOD_MAGIC_SUCCESS' => 'uiItemConsumableEffectModMagicSuccess.uxt',
+                        'SP_MOD_CRAFT_SUCCESS' => 'uiItemConsumableEffectModCraftSuccess.uxt',
+                        'SP_MOD_FORAGE_SUCCESS' => array(
+                            'commonecosystem' => 'uiItemConsumableEffectModForageSuccess.uxt',
+                            'desert' => 'uiItemConsumableEffectModDesertForageSuccess.uxt',
+                            'forest' => 'uiItemConsumableEffectModForestForageSuccess.uxt',
+                            'lacustre' => 'uiItemConsumableEffectModLacustreForageSuccess.uxt',
+                            'jungle' => 'uiItemConsumableEffectModJungleForageSuccess.uxt',
+                            'primaryroot' => 'uiItemConsumableEffectModPrimaryRootForageSuccess.uxt',
+                        ),
+                    );
+                    if (isset($array[$name])) {
+                        $tt = $array[$name];
+                        $index = 0;
+                        if (is_array($tt)) {
+                            if (isset($tt[strtolower($params[0])])) {
+                                $tt = $tt[strtolower($params[0])];
+                            } else if (isset($tt[0])) {
+                                $tt = $tt[0];
+                            } else {
+                                $tt = false;
+                            }
+                            $index = 1;
+                        }
+                        if ($tt !== false) {
+                            $tt = ryzom_translate($tt, $lang);
+                            $effects[] = strtr($tt, array(
+                                '%modifier' => ($params[$index] * $quality + $params[$index + 1]),
+                                '%minutes' => (int)($params[$index + 2] / 60),
+                                '%secondes' => (int)($params[$index + 2] % 60),
+                            ));
+                        }
+                    }
+                    break;
+                default:
+                    //
+                    break;
+            }
+        }
+
+        return $effects;
+    }
+
+    /**
+     * Return translated special effects from $sheet.
+     * $sheet can be either string sheet id or item array from ryzom_item_info()
+     *
+     * @param string|array $sheet
+     * @param string $lang
+     *
+     * @return array
+     */
+    static function special_effects($sheet, $lang)
+    {
+        if (!is_array($sheet)) {
+            $sheet = ryzom_item_info($sheet);
+        }
+
+        if ($sheet === false || empty($sheet['effects'])) {
+            return array();
+        }
+
+        $effects = array();
+        foreach ($sheet['effects'] as $effect) {
+            $params = explode(":", $effect);
+            if (empty($params)) {
+                continue;
+            }
+
+            $name = strtoupper(array_shift($params));
+
+            $tt = ryzom_translate('uiItemFX_' . $name . '.uxt', $lang);
+            $chunks = preg_split('/(%[pnrs])\d?/', $tt, -1, PREG_SPLIT_NO_EMPTY | PREG_SPLIT_DELIM_CAPTURE);
+            $i = 0;
+            $ret = '';
+            foreach ($chunks as $c) {
+                switch ($c) {
+                    case '%p':
+                        $ret .= sprintf('%.1f', $params[$i] * 100);
+                        $i++;
+                        break;
+                    case '%n':
+                        $ret .= (int)$params[$i];
+                        $i++;
+                        break;
+                    case '%r':
+                        $ret .= sprintf('%.1f', $params[$i]);
+                        $i++;
+                        break;
+                    case '%s':
+                        $ret .= $params[$i];
+                        $i++;
+                        break;
+                    default:
+                        $ret .= $c;
+                        break;
+                }
+            }
+
+            $effects[] = $ret;
+        }
+
+        return $effects;
+    }
 }
 
 /**
