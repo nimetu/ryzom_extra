@@ -7317,16 +7317,16 @@
         "name": "Basis"
     },
     "uiitemrmclass1": {
-        "name": "feine."
+        "name": "feine\/s\/r"
     },
     "uiitemrmclass2": {
-        "name": "vorzügliche."
+        "name": "vorzügliche\/s\/r"
     },
     "uiitemrmclass3": {
-        "name": "exzellente."
+        "name": "exzellente\/s\/r"
     },
     "uiitemrmclass4": {
-        "name": "erhabene."
+        "name": "erhabene\/s\/r"
     },
     "uiitemfx_ise_fight_add_critical": {
         "name": "@{2F2F}+%p% @{FFFF}Chance, einen kritischen Schlag zu versetzen."
@@ -19444,5 +19444,92 @@
     },
     "uiplaylistrefresh": {
         "name": "Aktualisieren"
+    },
+    "uifreeviewtablet": {
+        "name": "Tablet oder Touchscreen"
+    },
+    "uicopy": {
+        "name": "Kopiere"
+    },
+    "uibrowse": {
+        "name": "Durchsuche"
+    },
+    "cmdcreategroupusage1": {
+        "name": "createGroup Befehls-Verwendung :"
+    },
+    "cmdcreategroupusage2": {
+        "name": "\/createGroup group_name : erstelle eine Gruppe mit dem Namen group_name mit all deinen ausgerüsteten Gegenständen."
+    },
+    "cmdcreategroupusage3": {
+        "name": "\/createGroup group_name true : erstelle eine Gruppe mit dem Namen group_name mit all deinen ausgerüsteten Gegenständen, und erstelle einen Entfernungs-Befehl für jeden leeren Slotplatz"
+    },
+    "cmdcreategrouperror": {
+        "name": "Eine Gruppe mit dem Namen %name existiert bereits, es kann keine mit demselben Namen erstellt werden."
+    },
+    "cmdcreategroupsuccess1": {
+        "name": "Gruppe %name wurde erfolgreich erstellt."
+    },
+    "cmdcreategroupsuccess2": {
+        "name": "Gruppe %name wurde erfolgreich erstellt, mitsamt Entfernung aller nicht-ausgerüsteten Gegenstände."
+    },
+    "cmdequipgroupusage1": {
+        "name": "equipGroup Befehls-Verwendung :"
+    },
+    "cmdequipgroupusage2": {
+        "name": "\/equipGroup group_name : ziehe die Gegenstände aus der Gruppe group_name aus dem verfügbaren Inventar und rüste sie aus."
+    },
+    "cmdequipgrouperror": {
+        "name": "Kann Gruppe %name nicht ausrüsten, weil keine Gruppe dieses Namens gefunden wurde."
+    },
+    "cmdequipgroupsuccess": {
+        "name": "Gruppe %name erfolgreich ausgerüstet."
+    },
+    "cmddeletegroupusage1": {
+        "name": "deleteGroup Befehls-Verwendung :"
+    },
+    "cmddeletegroupusage2": {
+        "name": "\/deleteGroup group_name : entferne die Gruppe namens group_name , wenn sie existiert."
+    },
+    "cmddeletegrouperror": {
+        "name": "Kann Gruppe %name nicht löschen : keine Gruppe mit diesem Namen gefunden."
+    },
+    "cmddeletegroupsuccess": {
+        "name": "Gruppe %name erfolgreich gelöscht."
+    },
+    "cmdmovegroupusage1": {
+        "name": "moveGroup Befehls-Verwendung :"
+    },
+    "cmdmovegroupusage2": {
+        "name": "\/moveGroup group_name destination : verschiebe Gegenstände von allen verfügbaren Inventaren zum Ziel."
+    },
+    "cmdmovegroupusage3": {
+        "name": "Das Ziel kann sein : bag, player_room, guild, pet_animal1, pet_animal2, pet_animal3, pet_animal4"
+    },
+    "cmdmovegrouperror": {
+        "name": "Konnte die Gruppe  %name nicht in %inventory verschieben, weil keine Gruppe dieses Namens gefunden wurde, und\/oder es kein gültiges Inventar war."
+    },
+    "cmdmovegroupsuccess": {
+        "name": "Gruppe %name erfolgreich zu %inventory verschoben."
+    },
+    "cmdlistgroupheader": {
+        "name": "Verfügbare Gegenstands-Gruppe :"
+    },
+    "cmdlistgroupline": {
+        "name": "* %name, mit %size enthaltenen Gegenständen."
+    },
+    "uimgroup": {
+        "name": "Gruppe"
+    },
+    "uimacroitemgroupequip": {
+        "name": "Rüste eine Gegenstands-Gruppe aus"
+    },
+    "uimacroitemgroupname": {
+        "name": "Gegenstands-Gruppen-Name"
+    },
+    "uimacroitemgroupmove": {
+        "name": "Verschiebe eine Gegenstands-Gruppe"
+    },
+    "uimacroitemgroupdestination": {
+        "name": "Ziel der Gegenstands-Gruppe"
     }
 }

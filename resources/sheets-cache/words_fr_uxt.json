@@ -19444,5 +19444,92 @@
     },
     "uiplaylistrefresh": {
         "name": "Rafraîchir"
+    },
+    "uifreeviewtablet": {
+        "name": "Tablette ou écran tactile"
+    },
+    "uicopy": {
+        "name": "Copier"
+    },
+    "uibrowse": {
+        "name": "Atteindre"
+    },
+    "cmdcreategroupusage1": {
+        "name": "Syntaxe de la commande createGroup :"
+    },
+    "cmdcreategroupusage2": {
+        "name": "\/createGroup nom_groupe : crée un groupe nom_groupe avec tous vos objets équippés"
+    },
+    "cmdcreategroupusage3": {
+        "name": "\/createGroup nom_groupe true : crée un groupe nom_groupe avec tous vos objets équippés, et crée une commande de suppression pour chaque emplacement vide"
+    },
+    "cmdcreategrouperror": {
+        "name": "Le groupe %name existe déjà, impossible d'en créer un autre avec le même nom."
+    },
+    "cmdcreategroupsuccess1": {
+        "name": "Le groupe %name a été créé avec succès."
+    },
+    "cmdcreategroupsuccess2": {
+        "name": "Le groupe %name a été créé avec succès avec la suppression de tous les objets non équipés."
+    },
+    "cmdequipgroupusage1": {
+        "name": "Syntaxe de la commande equipGroup :"
+    },
+    "cmdequipgroupusage2": {
+        "name": "\/equipGroup nom_groupe : Prend les objets du groupe nom_groupe à partir de l'inventaire et les équipe."
+    },
+    "cmdequipgrouperror": {
+        "name": "Impossible d'équiper le groupe %name parce qu'il est introuvable."
+    },
+    "cmdequipgroupsuccess": {
+        "name": "Le groupe %name a été équipé avec succès."
+    },
+    "cmddeletegroupusage1": {
+        "name": "Syntaxe de la commande deleteGroup :"
+    },
+    "cmddeletegroupusage2": {
+        "name": "\/deleteGroup nom_groupe : Supprimer le groupe nom_groupe s'il existe."
+    },
+    "cmddeletegrouperror": {
+        "name": "Impossible de supprimer le groupe %name : aucun groupe ne correspond à ce nom."
+    },
+    "cmddeletegroupsuccess": {
+        "name": "Le groupe %name a été supprimé avec succès."
+    },
+    "cmdmovegroupusage1": {
+        "name": "Syntaxe de la commande moveGroup :"
+    },
+    "cmdmovegroupusage2": {
+        "name": "\/moveGroup nom_groupe destination : déplace les objets de tous les inventaires vers la destination."
+    },
+    "cmdmovegroupusage3": {
+        "name": "destination peut être : bag, player_room, guild, pet_animal1, pet_animal2, pet_animal3, pet_animal4"
+    },
+    "cmdmovegrouperror": {
+        "name": "Impossible de déplacer le groupe %name vers %inventory parce qu'aucun groupe correspondant n'a été trouvé et\/ou l'inventaire n'était pas valide."
+    },
+    "cmdmovegroupsuccess": {
+        "name": "Le groupe %name a été déplacé vers %inventory avec succès."
+    },
+    "cmdlistgroupheader": {
+        "name": "Groupes d'objets disponibles :"
+    },
+    "cmdlistgroupline": {
+        "name": "* %name, contenant %size objets."
+    },
+    "uimgroup": {
+        "name": "Groupes"
+    },
+    "uimacroitemgroupequip": {
+        "name": "Équiper un groupe d'objets"
+    },
+    "uimacroitemgroupname": {
+        "name": "Nom du groupe d'objets"
+    },
+    "uimacroitemgroupmove": {
+        "name": "Déplacer un groupe d'objets"
+    },
+    "uimacroitemgroupdestination": {
+        "name": "Destination du groupe d'objets"
     }
 }

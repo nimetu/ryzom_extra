@@ -94444,7 +94444,10 @@
         },
         "icon_color": {
             "over": -14803216
-        }
+        },
+        "properties": [
+            "SP_CALM_ANIMAL:quadruped:200:10:20"
+        ]
     },
     "goo_covered_seeds": {
         "sheetid": "goo_covered_seeds",
@@ -101632,7 +101635,10 @@
         "craftplan": "bcokamem1bm_1",
         "skill": "sfm1bmm",
         "damage": 2,
-        "reach": 5
+        "reach": 5,
+        "effects": [
+            "ise_fight_add_critical:0.1"
+        ]
     },
     "icokamm1bm_2": {
         "sheetid": "icokamm1bm_2",
@@ -101648,7 +101654,10 @@
         "craftplan": "bcokamem1bm_2",
         "skill": "sfm1bmm",
         "damage": 2,
-        "reach": 5
+        "reach": 5,
+        "effects": [
+            "ise_fight_vampirism:0.05"
+        ]
     },
     "icokamm1bs_1": {
         "sheetid": "icokamm1bs_1",
@@ -101664,7 +101673,10 @@
         "craftplan": "bcokamem1bs_1",
         "skill": "sfm1bsm",
         "damage": 2,
-        "reach": 5
+        "reach": 5,
+        "effects": [
+            "ise_fight_add_critical:0.1"
+        ]
     },
     "icokamm1bs_2": {
         "sheetid": "icokamm1bs_2",
@@ -101680,7 +101692,10 @@
         "craftplan": "bcokamem1bs_2",
         "skill": "sfm1bsm",
         "damage": 2,
-        "reach": 5
+        "reach": 5,
+        "effects": [
+            "ise_fight_vampirism:0.05"
+        ]
     },
     "icokamm1pd_1": {
         "sheetid": "icokamm1pd_1",
@@ -101696,7 +101711,10 @@
         "craftplan": "bcokamem1pd_1",
         "skill": "sfmcadm",
         "damage": 1,
-        "reach": 0
+        "reach": 0,
+        "effects": [
+            "ise_fight_add_critical:0.1"
+        ]
     },
     "icokamm1pd_2": {
         "sheetid": "icokamm1pd_2",
@@ -101712,7 +101730,10 @@
         "craftplan": "bcokamem1pd_2",
         "skill": "sfmcadm",
         "damage": 1,
-        "reach": 0
+        "reach": 0,
+        "effects": [
+            "ise_fight_vampirism:0.05"
+        ]
     },
     "icokamm1ps_1": {
         "sheetid": "icokamm1ps_1",
@@ -101728,7 +101749,10 @@
         "craftplan": "bcokamem1ps_1",
         "skill": "sfm1psm",
         "damage": 1,
-        "reach": 10
+        "reach": 10,
+        "effects": [
+            "ise_fight_add_critical:0.1"
+        ]
     },
     "icokamm1ps_2": {
         "sheetid": "icokamm1ps_2",
@@ -101744,7 +101768,10 @@
         "craftplan": "bcokamem1ps_2",
         "skill": "sfm1psm",
         "damage": 1,
-        "reach": 10
+        "reach": 10,
+        "effects": [
+            "ise_fight_vampirism:0.05"
+        ]
     },
     "icokamm1sa_1": {
         "sheetid": "icokamm1sa_1",
@@ -101760,7 +101787,10 @@
         "craftplan": "bcokamem1sa_1",
         "skill": "sfm1sam",
         "damage": 0,
-        "reach": 5
+        "reach": 5,
+        "effects": [
+            "ise_fight_add_critical:0.1"
+        ]
     },
     "icokamm1sa_2": {
         "sheetid": "icokamm1sa_2",
@@ -101776,7 +101806,10 @@
         "craftplan": "bcokamem1sa_2",
         "skill": "sfm1sam",
         "damage": 0,
-        "reach": 5
+        "reach": 5,
+        "effects": [
+            "ise_fight_vampirism:0.05"
+        ]
     },
     "icokamm1ss_1": {
         "sheetid": "icokamm1ss_1",
@@ -101792,7 +101825,10 @@
         "craftplan": "bcokamem1ss_1",
         "skill": "sfm1ssm",
         "damage": 0,
-        "reach": 5
+        "reach": 5,
+        "effects": [
+            "ise_fight_add_critical:0.1"
+        ]
     },
     "icokamm1ss_2": {
         "sheetid": "icokamm1ss_2",
@@ -101808,7 +101844,10 @@
         "craftplan": "bcokamem1ss_2",
         "skill": "sfm1ssm",
         "damage": 0,
-        "reach": 5
+        "reach": 5,
+        "effects": [
+            "ise_fight_vampirism:0.05"
+        ]
     },
     "icokamm2bm_1": {
         "sheetid": "icokamm2bm_1",
@@ -101824,7 +101863,10 @@
         "craftplan": "bcokamem2bm_1",
         "skill": "sfm2bmm",
         "damage": 2,
-        "reach": 10
+        "reach": 10,
+        "effects": [
+            "ise_fight_add_critical:0.1"
+        ]
     },
     "icokamm2bm_2": {
         "sheetid": "icokamm2bm_2",
@@ -101840,7 +101882,10 @@
         "craftplan": "bcokamem2bm_2",
         "skill": "sfm2bmm",
         "damage": 2,
-        "reach": 10
+        "reach": 10,
+        "effects": [
+            "ise_fight_vampirism:0.05"
+        ]
     },
     "icokamm2ms_1": {
         "sheetid": "icokamm2ms_1",
@@ -101856,7 +101901,10 @@
         "craftplan": "bcokamem2ms_1",
         "skill": "sfmcahm",
         "damage": 2,
-        "reach": 5
+        "reach": 5,
+        "effects": [
+            "ise_magic_divine_intervention:0.2"
+        ]
     },
     "icokamm2ms_2": {
         "sheetid": "icokamm2ms_2",
@@ -101872,7 +101920,10 @@
         "craftplan": "bcokamem2ms_2",
         "skill": "sfmcahm",
         "damage": 2,
-        "reach": 5
+        "reach": 5,
+        "effects": [
+            "ise_magic_shoot_again:0.2:10"
+        ]
     },
     "icokamm2pp_1": {
         "sheetid": "icokamm2pp_1",
@@ -101888,7 +101939,10 @@
         "craftplan": "bcokamem2pp_1",
         "skill": "sfm2ppm",
         "damage": 1,
-        "reach": 20
+        "reach": 20,
+        "effects": [
+            "ise_fight_add_critical:0.1"
+        ]
     },
     "icokamm2pp_2": {
         "sheetid": "icokamm2pp_2",
@@ -101904,7 +101958,10 @@
         "craftplan": "bcokamem2pp_2",
         "skill": "sfm2ppm",
         "damage": 1,
-        "reach": 20
+        "reach": 20,
+        "effects": [
+            "ise_fight_vampirism:0.05"
+        ]
     },
     "icokamm2sa_1": {
         "sheetid": "icokamm2sa_1",
@@ -101920,7 +101977,10 @@
         "craftplan": "bcokamem2sa_1",
         "skill": "sfm2sam",
         "damage": 0,
-        "reach": 10
+        "reach": 10,
+        "effects": [
+            "ise_fight_add_critical:0.1"
+        ]
     },
     "icokamm2sa_2": {
         "sheetid": "icokamm2sa_2",
@@ -101936,7 +101996,10 @@
         "craftplan": "bcokamem2sa_2",
         "skill": "sfm2sam",
         "damage": 0,
-        "reach": 10
+        "reach": 10,
+        "effects": [
+            "ise_fight_vampirism:0.05"
+        ]
     },
     "icokamm2ss_1": {
         "sheetid": "icokamm2ss_1",
@@ -101952,7 +102015,10 @@
         "craftplan": "bcokamem2ss_1",
         "skill": "sfm2ssm",
         "damage": 0,
-        "reach": 10
+        "reach": 10,
+        "effects": [
+            "ise_fight_add_critical:0.1"
+        ]
     },
     "icokamm2ss_2": {
         "sheetid": "icokamm2ss_2",
@@ -101968,7 +102034,10 @@
         "craftplan": "bcokamem2ss_2",
         "skill": "sfm2ssm",
         "damage": 0,
-        "reach": 10
+        "reach": 10,
+        "effects": [
+            "ise_fight_vampirism:0.05"
+        ]
     },
     "icokarm1bm_1": {
         "sheetid": "icokarm1bm_1",
@@ -101984,7 +102053,10 @@
         "craftplan": "bcokarem1bm_1",
         "skill": "sfm1bmm",
         "damage": 2,
-        "reach": 5
+        "reach": 5,
+        "effects": [
+            "ise_fight_add_critical:0.1"
+        ]
     },
     "icokarm1bm_2": {
         "sheetid": "icokarm1bm_2",
@@ -102000,7 +102072,10 @@
         "craftplan": "bcokarem1bm_2",
         "skill": "sfm1bmm",
         "damage": 2,
-        "reach": 5
+        "reach": 5,
+        "effects": [
+            "ise_fight_vampirism:0.05"
+        ]
     },
     "icokarm1bs_1": {
         "sheetid": "icokarm1bs_1",
@@ -102016,7 +102091,10 @@
         "craftplan": "bcokarem1bs_1",
         "skill": "sfm1bsm",
         "damage": 2,
-        "reach": 5
+        "reach": 5,
+        "effects": [
+            "ise_fight_add_critical:0.1"
+        ]
     },
     "icokarm1bs_2": {
         "sheetid": "icokarm1bs_2",
@@ -102032,7 +102110,10 @@
         "craftplan": "bcokarem1bs_2",
         "skill": "sfm1bsm",
         "damage": 2,
-        "reach": 5
+        "reach": 5,
+        "effects": [
+            "ise_fight_vampirism:0.05"
+        ]
     },
     "icokarm1pd_1": {
         "sheetid": "icokarm1pd_1",
@@ -102048,7 +102129,10 @@
         "craftplan": "bcokarem1pd_1",
         "skill": "sfmcadm",
         "damage": 1,
-        "reach": 0
+        "reach": 0,
+        "effects": [
+            "ise_fight_add_critical:0.1"
+        ]
     },
     "icokarm1pd_2": {
         "sheetid": "icokarm1pd_2",
@@ -102064,7 +102148,10 @@
         "craftplan": "bcokarem1pd_2",
         "skill": "sfmcadm",
         "damage": 1,
-        "reach": 0
+        "reach": 0,
+        "effects": [
+            "ise_fight_vampirism:0.05"
+        ]
     },
     "icokarm1ps_1": {
         "sheetid": "icokarm1ps_1",
@@ -102080,7 +102167,10 @@
         "craftplan": "bcokarem1ps_1",
         "skill": "sfm1psm",
         "damage": 1,
-        "reach": 10
+        "reach": 10,
+        "effects": [
+            "ise_fight_add_critical:0.1"
+        ]
     },
     "icokarm1ps_2": {
         "sheetid": "icokarm1ps_2",
@@ -102096,7 +102186,10 @@
         "craftplan": "bcokarem1ps_2",
         "skill": "sfm1psm",
         "damage": 1,
-        "reach": 10
+        "reach": 10,
+        "effects": [
+            "ise_fight_vampirism:0.05"
+        ]
     },
     "icokarm1sa_1": {
         "sheetid": "icokarm1sa_1",
@@ -102112,7 +102205,10 @@
         "craftplan": "bcokarem1sa_1",
         "skill": "sfm1sam",
         "damage": 0,
-        "reach": 5
+        "reach": 5,
+        "effects": [
+            "ise_fight_add_critical:0.1"
+        ]
     },
     "icokarm1sa_2": {
         "sheetid": "icokarm1sa_2",
@@ -102128,7 +102224,10 @@
         "craftplan": "bcokarem1sa_2",
         "skill": "sfm1sam",
         "damage": 0,
-        "reach": 5
+        "reach": 5,
+        "effects": [
+            "ise_fight_vampirism:0.05"
+        ]
     },
     "icokarm1ss_1": {
         "sheetid": "icokarm1ss_1",
@@ -102144,7 +102243,10 @@
         "craftplan": "bcokarem1ss_1",
         "skill": "sfm1ssm",
         "damage": 0,
-        "reach": 5
+        "reach": 5,
+        "effects": [
+            "ise_fight_add_critical:0.1"
+        ]
     },
     "icokarm1ss_2": {
         "sheetid": "icokarm1ss_2",
@@ -102160,7 +102262,10 @@
         "craftplan": "bcokarem1ss_2",
         "skill": "sfm1ssm",
         "damage": 0,
-        "reach": 5
+        "reach": 5,
+        "effects": [
+            "ise_fight_vampirism:0.05"
+        ]
     },
     "icokarm2bm_1": {
         "sheetid": "icokarm2bm_1",
@@ -102176,7 +102281,10 @@
         "craftplan": "bcokarem2bm_1",
         "skill": "sfm2bmm",
         "damage": 2,
-        "reach": 10
+        "reach": 10,
+        "effects": [
+            "ise_fight_add_critical:0.1"
+        ]
     },
     "icokarm2bm_2": {
         "sheetid": "icokarm2bm_2",
@@ -102192,7 +102300,10 @@
         "craftplan": "bcokarem2bm_2",
         "skill": "sfm2bmm",
         "damage": 2,
-        "reach": 10
+        "reach": 10,
+        "effects": [
+            "ise_fight_vampirism:0.05"
+        ]
     },
     "icokarm2ms_1": {
         "sheetid": "icokarm2ms_1",
@@ -102208,7 +102319,10 @@
         "craftplan": "bcokarem2ms_1",
         "skill": "sfmcahm",
         "damage": 2,
-        "reach": 5
+        "reach": 5,
+        "effects": [
+            "ise_magic_divine_intervention:0.2"
+        ]
     },
     "icokarm2ms_2": {
         "sheetid": "icokarm2ms_2",
@@ -102224,7 +102338,10 @@
         "craftplan": "bcokarem2ms_2",
         "skill": "sfmcahm",
         "damage": 2,
-        "reach": 5
+        "reach": 5,
+        "effects": [
+            "ise_magic_shoot_again:0.2:10"
+        ]
     },
     "icokarm2pp_1": {
         "sheetid": "icokarm2pp_1",
@@ -102240,7 +102357,10 @@
         "craftplan": "bcokarem2pp_1",
         "skill": "sfm2ppm",
         "damage": 1,
-        "reach": 20
+        "reach": 20,
+        "effects": [
+            "ise_fight_add_critical:0.1"
+        ]
     },
     "icokarm2pp_2": {
         "sheetid": "icokarm2pp_2",
@@ -102256,7 +102376,10 @@
         "craftplan": "bcokarem2pp_2",
         "skill": "sfm2ppm",
         "damage": 1,
-        "reach": 20
+        "reach": 20,
+        "effects": [
+            "ise_fight_vampirism:0.05"
+        ]
     },
     "icokarm2sa_1": {
         "sheetid": "icokarm2sa_1",
@@ -102272,7 +102395,10 @@
         "craftplan": "bcokarem2sa_1",
         "skill": "sfm2sam",
         "damage": 0,
-        "reach": 10
+        "reach": 10,
+        "effects": [
+            "ise_fight_add_critical:0.1"
+        ]
     },
     "icokarm2sa_2": {
         "sheetid": "icokarm2sa_2",
@@ -102288,7 +102414,10 @@
         "craftplan": "bcokarem2sa_2",
         "skill": "sfm2sam",
         "damage": 0,
-        "reach": 10
+        "reach": 10,
+        "effects": [
+            "ise_fight_vampirism:0.05"
+        ]
     },
     "icokarm2ss_1": {
         "sheetid": "icokarm2ss_1",
@@ -102304,7 +102433,10 @@
         "craftplan": "bcokarem2ss_1",
         "skill": "sfm2ssm",
         "damage": 0,
-        "reach": 10
+        "reach": 10,
+        "effects": [
+            "ise_fight_add_critical:0.1"
+        ]
     },
     "icokarm2ss_2": {
         "sheetid": "icokarm2ss_2",
@@ -102320,7 +102452,10 @@
         "craftplan": "bcokarem2ss_2",
         "skill": "sfm2ssm",
         "damage": 0,
-        "reach": 10
+        "reach": 10,
+        "effects": [
+            "ise_fight_vampirism:0.05"
+        ]
     },
     "icokamr1b_1": {
         "sheetid": "icokamr1b_1",
@@ -102334,7 +102469,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokamer1b_1",
-        "skill": "sfr1apm"
+        "skill": "sfr1apm",
+        "effects": [
+            "ise_fight_add_critical:0.1"
+        ]
     },
     "icokamr1b_2": {
         "sheetid": "icokamr1b_2",
@@ -102348,7 +102486,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokamer1b_2",
-        "skill": "sfr1apm"
+        "skill": "sfr1apm",
+        "effects": [
+            "ise_fight_vampirism:0.05"
+        ]
     },
     "icokamr1p_1": {
         "sheetid": "icokamr1p_1",
@@ -102362,7 +102503,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokamer1p_1",
-        "skill": "sfr1apm"
+        "skill": "sfr1apm",
+        "effects": [
+            "ise_fight_add_critical:0.1"
+        ]
     },
     "icokamr1p_2": {
         "sheetid": "icokamr1p_2",
@@ -102376,7 +102520,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokamer1p_2",
-        "skill": "sfr1apm"
+        "skill": "sfr1apm",
+        "effects": [
+            "ise_fight_vampirism:0.05"
+        ]
     },
     "icokamr2a_1": {
         "sheetid": "icokamr2a_1",
@@ -102390,7 +102537,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokamer2a_1",
-        "skill": "sfr2aam"
+        "skill": "sfr2aam",
+        "effects": [
+            "ise_fight_add_critical:0.1"
+        ]
     },
     "icokamr2a_2": {
         "sheetid": "icokamr2a_2",
@@ -102404,7 +102554,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokamer2a_2",
-        "skill": "sfr2aam"
+        "skill": "sfr2aam",
+        "effects": [
+            "ise_fight_vampirism:0.05"
+        ]
     },
     "icokamr2b_1": {
         "sheetid": "icokamr2b_1",
@@ -102418,7 +102571,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokamer2b_1",
-        "skill": "sfr2arm"
+        "skill": "sfr2arm",
+        "effects": [
+            "ise_fight_add_critical:0.1"
+        ]
     },
     "icokamr2b_2": {
         "sheetid": "icokamr2b_2",
@@ -102432,7 +102588,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokamer2b_2",
-        "skill": "sfr2arm"
+        "skill": "sfr2arm",
+        "effects": [
+            "ise_fight_vampirism:0.05"
+        ]
     },
     "icokamr2l_1": {
         "sheetid": "icokamr2l_1",
@@ -102446,7 +102605,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokamer2l_1",
-        "skill": "sfr2alm"
+        "skill": "sfr2alm",
+        "effects": [
+            "ise_fight_add_critical:0.1"
+        ]
     },
     "icokamr2l_2": {
         "sheetid": "icokamr2l_2",
@@ -102460,7 +102622,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokamer2l_2",
-        "skill": "sfr2alm"
+        "skill": "sfr2alm",
+        "effects": [
+            "ise_fight_vampirism:0.05"
+        ]
     },
     "icokamr2r_1": {
         "sheetid": "icokamr2r_1",
@@ -102474,7 +102639,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokamer2r_1",
-        "skill": "sfr2arm"
+        "skill": "sfr2arm",
+        "effects": [
+            "ise_fight_add_critical:0.1"
+        ]
     },
     "icokamr2r_2": {
         "sheetid": "icokamr2r_2",
@@ -102488,7 +102656,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokamer2r_2",
-        "skill": "sfr2arm"
+        "skill": "sfr2arm",
+        "effects": [
+            "ise_fight_vampirism:0.05"
+        ]
     },
     "icokarr1b_1": {
         "sheetid": "icokarr1b_1",
@@ -102502,7 +102673,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokarer1b_1",
-        "skill": "sfr1apm"
+        "skill": "sfr1apm",
+        "effects": [
+            "ise_fight_add_critical:0.1"
+        ]
     },
     "icokarr1b_2": {
         "sheetid": "icokarr1b_2",
@@ -102516,7 +102690,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokarer1b_2",
-        "skill": "sfr1apm"
+        "skill": "sfr1apm",
+        "effects": [
+            "ise_fight_vampirism:0.05"
+        ]
     },
     "icokarr1p_1": {
         "sheetid": "icokarr1p_1",
@@ -102530,7 +102707,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokarer1p_1",
-        "skill": "sfr1apm"
+        "skill": "sfr1apm",
+        "effects": [
+            "ise_fight_add_critical:0.1"
+        ]
     },
     "icokarr1p_2": {
         "sheetid": "icokarr1p_2",
@@ -102544,7 +102724,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokarer1p_2",
-        "skill": "sfr1apm"
+        "skill": "sfr1apm",
+        "effects": [
+            "ise_fight_vampirism:0.05"
+        ]
     },
     "icokarr2a_1": {
         "sheetid": "icokarr2a_1",
@@ -102558,7 +102741,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokarer2a_1",
-        "skill": "sfr2aam"
+        "skill": "sfr2aam",
+        "effects": [
+            "ise_fight_add_critical:0.1"
+        ]
     },
     "icokarr2a_2": {
         "sheetid": "icokarr2a_2",
@@ -102572,7 +102758,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokarer2a_2",
-        "skill": "sfr2aam"
+        "skill": "sfr2aam",
+        "effects": [
+            "ise_fight_vampirism:0.05"
+        ]
     },
     "icokarr2b_1": {
         "sheetid": "icokarr2b_1",
@@ -102586,7 +102775,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokarer2b_1",
-        "skill": "sfr2arm"
+        "skill": "sfr2arm",
+        "effects": [
+            "ise_fight_add_critical:0.1"
+        ]
     },
     "icokarr2b_2": {
         "sheetid": "icokarr2b_2",
@@ -102600,7 +102792,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokarer2b_2",
-        "skill": "sfr2arm"
+        "skill": "sfr2arm",
+        "effects": [
+            "ise_fight_vampirism:0.05"
+        ]
     },
     "icokarr2l_1": {
         "sheetid": "icokarr2l_1",
@@ -102614,7 +102809,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokarer2l_1",
-        "skill": "sfr2alm"
+        "skill": "sfr2alm",
+        "effects": [
+            "ise_fight_add_critical:0.1"
+        ]
     },
     "icokarr2l_2": {
         "sheetid": "icokarr2l_2",
@@ -102628,7 +102826,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokarer2l_2",
-        "skill": "sfr2alm"
+        "skill": "sfr2alm",
+        "effects": [
+            "ise_fight_vampirism:0.05"
+        ]
     },
     "icokarr2r_1": {
         "sheetid": "icokarr2r_1",
@@ -102642,7 +102843,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokarer2r_1",
-        "skill": "sfr2arm"
+        "skill": "sfr2arm",
+        "effects": [
+            "ise_fight_add_critical:0.1"
+        ]
     },
     "icokarr2r_2": {
         "sheetid": "icokarr2r_2",
@@ -102656,7 +102860,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokarer2r_2",
-        "skill": "sfr2arm"
+        "skill": "sfr2arm",
+        "effects": [
+            "ise_fight_vampirism:0.05"
+        ]
     },
     "m0741dxacc01": {
         "sheetid": "m0741dxacc01",
@@ -102958,7 +103165,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokametammo_1",
-        "skill": "scah"
+        "skill": "scah",
+        "effects": [
+            "ise_craft_add_stat_bonus:0.1:15"
+        ]
     },
     "icokamtammo_2": {
         "sheetid": "icokamtammo_2",
@@ -102972,7 +103182,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokametammo_2",
-        "skill": "scah"
+        "skill": "scah",
+        "effects": [
+            "ise_craft_add_limit:0.05:0.2"
+        ]
     },
     "icokamtarmor_1": {
         "sheetid": "icokamtarmor_1",
@@ -102986,7 +103199,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokametarmor_1",
-        "skill": "scah"
+        "skill": "scah",
+        "effects": [
+            "ise_craft_add_stat_bonus:0.1:15"
+        ]
     },
     "icokamtarmor_2": {
         "sheetid": "icokamtarmor_2",
@@ -103000,7 +103216,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokametarmor_2",
-        "skill": "scah"
+        "skill": "scah",
+        "effects": [
+            "ise_craft_add_limit:0.05:0.2"
+        ]
     },
     "icokamtjewel_1": {
         "sheetid": "icokamtjewel_1",
@@ -103014,7 +103233,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokametjewel_1",
-        "skill": "scah"
+        "skill": "scah",
+        "effects": [
+            "ise_craft_add_stat_bonus:0.1:15"
+        ]
     },
     "icokamtjewel_2": {
         "sheetid": "icokamtjewel_2",
@@ -103028,7 +103250,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokametjewel_2",
-        "skill": "scah"
+        "skill": "scah",
+        "effects": [
+            "ise_craft_add_limit:0.05:0.2"
+        ]
     },
     "icokamtmwea_1": {
         "sheetid": "icokamtmwea_1",
@@ -103042,7 +103267,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokametmwea_1",
-        "skill": "scah"
+        "skill": "scah",
+        "effects": [
+            "ise_craft_add_stat_bonus:0.1:15"
+        ]
     },
     "icokamtmwea_2": {
         "sheetid": "icokamtmwea_2",
@@ -103056,7 +103284,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokametmwea_2",
-        "skill": "scah"
+        "skill": "scah",
+        "effects": [
+            "ise_craft_add_limit:0.05:0.2"
+        ]
     },
     "icokamtrwea_1": {
         "sheetid": "icokamtrwea_1",
@@ -103070,7 +103301,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokametrwea_1",
-        "skill": "scah"
+        "skill": "scah",
+        "effects": [
+            "ise_craft_add_stat_bonus:0.1:15"
+        ]
     },
     "icokamtrwea_2": {
         "sheetid": "icokamtrwea_2",
@@ -103084,7 +103318,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokametrwea_2",
-        "skill": "scah"
+        "skill": "scah",
+        "effects": [
+            "ise_craft_add_limit:0.05:0.2"
+        ]
     },
     "icokartammo_1": {
         "sheetid": "icokartammo_1",
@@ -103098,7 +103335,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokaretammo_1",
-        "skill": "scah"
+        "skill": "scah",
+        "effects": [
+            "ise_craft_add_stat_bonus:0.1:15"
+        ]
     },
     "icokartammo_2": {
         "sheetid": "icokartammo_2",
@@ -103112,7 +103352,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokaretammo_2",
-        "skill": "scah"
+        "skill": "scah",
+        "effects": [
+            "ise_craft_add_limit:0.05:0.2"
+        ]
     },
     "icokartarmor_1": {
         "sheetid": "icokartarmor_1",
@@ -103126,7 +103369,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokaretarmor_1",
-        "skill": "scah"
+        "skill": "scah",
+        "effects": [
+            "ise_craft_add_stat_bonus:0.1:15"
+        ]
     },
     "icokartarmor_2": {
         "sheetid": "icokartarmor_2",
@@ -103140,7 +103386,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokaretarmor_2",
-        "skill": "scah"
+        "skill": "scah",
+        "effects": [
+            "ise_craft_add_limit:0.05:0.2"
+        ]
     },
     "icokartjewel_1": {
         "sheetid": "icokartjewel_1",
@@ -103154,7 +103403,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokaretjewel_1",
-        "skill": "scah"
+        "skill": "scah",
+        "effects": [
+            "ise_craft_add_stat_bonus:0.1:15"
+        ]
     },
     "icokartjewel_2": {
         "sheetid": "icokartjewel_2",
@@ -103168,7 +103420,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokaretjewel_2",
-        "skill": "scah"
+        "skill": "scah",
+        "effects": [
+            "ise_craft_add_limit:0.05:0.2"
+        ]
     },
     "icokartmwea_1": {
         "sheetid": "icokartmwea_1",
@@ -103182,7 +103437,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokaretmwea_1",
-        "skill": "scah"
+        "skill": "scah",
+        "effects": [
+            "ise_craft_add_stat_bonus:0.1:15"
+        ]
     },
     "icokartmwea_2": {
         "sheetid": "icokartmwea_2",
@@ -103196,7 +103454,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokaretmwea_2",
-        "skill": "scah"
+        "skill": "scah",
+        "effects": [
+            "ise_craft_add_limit:0.05:0.2"
+        ]
     },
     "icokartrwea_1": {
         "sheetid": "icokartrwea_1",
@@ -103210,7 +103471,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokaretrwea_1",
-        "skill": "scah"
+        "skill": "scah",
+        "effects": [
+            "ise_craft_add_stat_bonus:0.1:15"
+        ]
     },
     "icokartrwea_2": {
         "sheetid": "icokartrwea_2",
@@ -103224,7 +103488,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokaretrwea_2",
-        "skill": "scah"
+        "skill": "scah",
+        "effects": [
+            "ise_craft_add_limit:0.05:0.2"
+        ]
     },
     "icokamtforage_1": {
         "sheetid": "icokamtforage_1",
@@ -103238,7 +103505,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokametforage_1",
-        "skill": "sh"
+        "skill": "sh",
+        "effects": [
+            "ise_forage_no_risk:0.05"
+        ]
     },
     "icokamtforage_2": {
         "sheetid": "icokamtforage_2",
@@ -103252,7 +103522,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokametforage_2",
-        "skill": "sh"
+        "skill": "sh",
+        "effects": [
+            "ise_forage_add_rm:0.05:1"
+        ]
     },
     "icokartforage_1": {
         "sheetid": "icokartforage_1",
@@ -103266,7 +103539,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokaretforage_1",
-        "skill": "sh"
+        "skill": "sh",
+        "effects": [
+            "ise_forage_no_risk:0.05"
+        ]
     },
     "icokartforage_2": {
         "sheetid": "icokartforage_2",
@@ -103280,7 +103556,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokaretforage_2",
-        "skill": "sh"
+        "skill": "sh",
+        "effects": [
+            "ise_forage_add_rm:0.05:1"
+        ]
     },
     "ittool": {
         "sheetid": "ittool",
@@ -103310,7 +103589,10 @@
         },
         "icon_color": {
             "over": -9563001
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:WellBalanced:0.1:0:3600:0"
+        ]
     },
     "ipoc_con": {
         "sheetid": "ipoc_con",
@@ -103327,7 +103609,10 @@
         },
         "icon_color": {
             "over": -14803216
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Constitution:0.1:0:3600:0"
+        ]
     },
     "ipoc_dex": {
         "sheetid": "ipoc_dex",
@@ -103344,7 +103629,10 @@
         },
         "icon_color": {
             "over": -820724
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Dexterity:0.1:0:3600:0"
+        ]
     },
     "ipoc_foc": {
         "sheetid": "ipoc_foc",
@@ -103361,7 +103649,11 @@
         },
         "icon_color": {
             "over": -820724
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Dexterity:0.1:0:3600:0",
+            "SP_CHG_CHARAC:Will:0.1:0:3600:0"
+        ]
     },
     "ipoc_hp": {
         "sheetid": "ipoc_hp",
@@ -103378,7 +103670,11 @@
         },
         "icon_color": {
             "over": -14803216
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Metabolism:0.1:0:3600:0",
+            "SP_CHG_CHARAC:Constitution:0.1:0:3600:0"
+        ]
     },
     "ipoc_int": {
         "sheetid": "ipoc_int",
@@ -103395,7 +103691,10 @@
         },
         "icon_color": {
             "over": -14767531
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Intelligence:0.1:0:3600:0"
+        ]
     },
     "ipoc_met": {
         "sheetid": "ipoc_met",
@@ -103412,7 +103711,10 @@
         },
         "icon_color": {
             "over": -14803216
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Metabolism:0.1:0:3600:0"
+        ]
     },
     "ipoc_sap": {
         "sheetid": "ipoc_sap",
@@ -103429,7 +103731,11 @@
         },
         "icon_color": {
             "over": -14767531
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Intelligence:0.1:0:3600:0",
+            "SP_CHG_CHARAC:Wisdom:0.1:0:3600:0"
+        ]
     },
     "ipoc_sta": {
         "sheetid": "ipoc_sta",
@@ -103446,7 +103752,11 @@
         },
         "icon_color": {
             "over": -9563001
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Strength:0.1:0:3600:0",
+            "SP_CHG_CHARAC:WellBalanced:0.1:0:3600:0"
+        ]
     },
     "ipoc_str": {
         "sheetid": "ipoc_str",
@@ -103463,7 +103773,10 @@
         },
         "icon_color": {
             "over": -9563001
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Strength:0.1:0:3600:0"
+        ]
     },
     "ipoc_wil": {
         "sheetid": "ipoc_wil",
@@ -103480,7 +103793,10 @@
         },
         "icon_color": {
             "over": -820724
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Will:0.1:0:3600:0"
+        ]
     },
     "ipoc_wis": {
         "sheetid": "ipoc_wis",
@@ -103497,7 +103813,10 @@
         },
         "icon_color": {
             "over": -14767531
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Wisdom:0.1:0:3600:0"
+        ]
     },
     "ipoi_fy": {
         "sheetid": "ipoi_fy",
@@ -103596,7 +103915,10 @@
         },
         "icon_color": {
             "main": -16515875
-        }
+        },
+        "properties": [
+            "SP_MOD_MAGIC_PROTECTION:Acid:0.1:0:3600"
+        ]
     },
     "ipop_col": {
         "sheetid": "ipop_col",
@@ -103613,7 +103935,10 @@
         },
         "icon_color": {
             "main": -8629962
-        }
+        },
+        "properties": [
+            "SP_MOD_MAGIC_PROTECTION:Cold:0.1:0:3600"
+        ]
     },
     "ipop_elc": {
         "sheetid": "ipop_elc",
@@ -103630,7 +103955,10 @@
         },
         "icon_color": {
             "main": -4498537
-        }
+        },
+        "properties": [
+            "SP_MOD_MAGIC_PROTECTION:Electricity:0.1:0:3600"
+        ]
     },
     "ipop_fir": {
         "sheetid": "ipop_fir",
@@ -103647,7 +103975,10 @@
         },
         "icon_color": {
             "main": -14337551
-        }
+        },
+        "properties": [
+            "SP_MOD_MAGIC_PROTECTION:Fire:0.1:0:3600"
+        ]
     },
     "ipop_poi": {
         "sheetid": "ipop_poi",
@@ -103664,7 +103995,10 @@
         },
         "icon_color": {
             "main": -13057463
-        }
+        },
+        "properties": [
+            "SP_MOD_MAGIC_PROTECTION:Poison:0.1:0:3600"
+        ]
     },
     "ipop_rot": {
         "sheetid": "ipop_rot",
@@ -103681,7 +104015,10 @@
         },
         "icon_color": {
             "main": -13215876
-        }
+        },
+        "properties": [
+            "SP_MOD_MAGIC_PROTECTION:Rot:0.1:0:3600"
+        ]
     },
     "ipop_sho": {
         "sheetid": "ipop_sho",
@@ -103698,7 +104035,10 @@
         },
         "icon_color": {
             "main": -1980381
-        }
+        },
+        "properties": [
+            "SP_MOD_MAGIC_PROTECTION:Shockwave:0.1:0:3600"
+        ]
     },
     "ipor_des": {
         "sheetid": "ipor_des",
@@ -103943,7 +104283,13 @@
         },
         "icon_color": {
             "over": -13372
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Constitution:0:100:7200:0",
+            "SP_CHG_CHARAC:Metabolism:0:100:7200:0",
+            "SP_CHG_CHARAC:Dexterity:0:100:7200:0",
+            "SP_CHG_CHARAC:Will:0:100:7200:0"
+        ]
     },
     "ipk_almati_mage": {
         "sheetid": "ipk_almati_mage",
@@ -103959,7 +104305,13 @@
         },
         "icon_color": {
             "over": -2687030
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Constitution:0:100:7200:0",
+            "SP_CHG_CHARAC:Metabolism:0:100:7200:0",
+            "SP_CHG_CHARAC:Intelligence:0:100:7200:0",
+            "SP_CHG_CHARAC:Wisdom:0:100:7200:0"
+        ]
     },
     "ipk_almati_warrior": {
         "sheetid": "ipk_almati_warrior",
@@ -103975,7 +104327,13 @@
         },
         "icon_color": {
             "over": -4474369
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Constitution:0:100:7200:0",
+            "SP_CHG_CHARAC:Metabolism:0:100:7200:0",
+            "SP_CHG_CHARAC:Strength:0:100:7200:0",
+            "SP_CHG_CHARAC:WellBalanced:0:100:7200:0"
+        ]
     },
     "ipk_major_artisan": {
         "sheetid": "ipk_major_artisan",
@@ -103991,7 +104349,13 @@
         },
         "icon_color": {
             "over": -13094
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Constitution:0:50:3600:0",
+            "SP_CHG_CHARAC:Metabolism:0:50:3600:0",
+            "SP_CHG_CHARAC:Dexterity:0:50:3600:0",
+            "SP_CHG_CHARAC:Will:0:50:3600:0"
+        ]
     },
     "ipk_major_dext": {
         "sheetid": "ipk_major_dext",
@@ -104007,7 +104371,11 @@
         },
         "icon_color": {
             "over": -11885
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Dexterity:0:100:1800:0",
+            "SP_CHG_CHARAC:Will:0:100:1800:0"
+        ]
     },
     "ipk_major_intel": {
         "sheetid": "ipk_major_intel",
@@ -104023,7 +104391,11 @@
         },
         "icon_color": {
             "over": -4916561
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Intelligence:0:100:1800:0",
+            "SP_CHG_CHARAC:Wisdom:0:100:1800:0"
+        ]
     },
     "ipk_major_life": {
         "sheetid": "ipk_major_life",
@@ -104039,7 +104411,11 @@
         },
         "icon_color": {
             "over": -4013569
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Metabolism:0:100:1800:0",
+            "SP_CHG_CHARAC:Constitution:0:100:1800:0"
+        ]
     },
     "ipk_major_mage": {
         "sheetid": "ipk_major_mage",
@@ -104055,7 +104431,13 @@
         },
         "icon_color": {
             "over": -9634456
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Constitution:0:50:3600:0",
+            "SP_CHG_CHARAC:Metabolism:0:50:3600:0",
+            "SP_CHG_CHARAC:Intelligence:0:50:3600:0",
+            "SP_CHG_CHARAC:Wisdom:0:50:3600:0"
+        ]
     },
     "ipk_major_power": {
         "sheetid": "ipk_major_power",
@@ -104067,7 +104449,13 @@
         "icon": {
             "main": "ico_mission_medicine.png",
             "back": "bk_fyros.png"
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Constitution:0:50:3600:0",
+            "SP_CHG_CHARAC:Strength:0:50:3600:0",
+            "SP_CHG_CHARAC:Intelligence:0:50:3600:0",
+            "SP_CHG_CHARAC:Dexterity:0:50:3600:0"
+        ]
     },
     "ipk_major_reju": {
         "sheetid": "ipk_major_reju",
@@ -104079,7 +104467,13 @@
         "icon": {
             "main": "ico_mission_medicine.png",
             "back": "bk_fyros.png"
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Metabolism:0:50:3600:0",
+            "SP_CHG_CHARAC:WellBalanced:0:50:3600:0",
+            "SP_CHG_CHARAC:Wisdom:0:50:3600:0",
+            "SP_CHG_CHARAC:Will:0:50:3600:0"
+        ]
     },
     "ipk_major_strength": {
         "sheetid": "ipk_major_strength",
@@ -104095,7 +104489,11 @@
         },
         "icon_color": {
             "over": -15123
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Strength:0:100:1800:0",
+            "SP_CHG_CHARAC:WellBalanced:0:100:1800:0"
+        ]
     },
     "ipk_major_warrior": {
         "sheetid": "ipk_major_warrior",
@@ -104111,7 +104509,13 @@
         },
         "icon_color": {
             "over": -4342785
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Constitution:0:50:3600:0",
+            "SP_CHG_CHARAC:Metabolism:0:50:3600:0",
+            "SP_CHG_CHARAC:Strength:0:50:3600:0",
+            "SP_CHG_CHARAC:WellBalanced:0:50:3600:0"
+        ]
     },
     "ipk_minor_artisan": {
         "sheetid": "ipk_minor_artisan",
@@ -104127,7 +104531,13 @@
         },
         "icon_color": {
             "over": -5426
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Constitution:0:25:3600:0",
+            "SP_CHG_CHARAC:Metabolism:0:25:3600:0",
+            "SP_CHG_CHARAC:Dexterity:0:25:3600:0",
+            "SP_CHG_CHARAC:Will:0:25:3600:0"
+        ]
     },
     "ipk_minor_dext": {
         "sheetid": "ipk_minor_dext",
@@ -104143,7 +104553,11 @@
         },
         "icon_color": {
             "over": -11388
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Dexterity:0:50:1800:0",
+            "SP_CHG_CHARAC:Will:0:50:1800:0"
+        ]
     },
     "ipk_minor_intel": {
         "sheetid": "ipk_minor_intel",
@@ -104159,7 +104573,11 @@
         },
         "icon_color": {
             "over": -4719179
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Intelligence:0:50:1800:0",
+            "SP_CHG_CHARAC:Wisdom:0:50:1800:0"
+        ]
     },
     "ipk_minor_life": {
         "sheetid": "ipk_minor_life",
@@ -104175,7 +104593,11 @@
         },
         "icon_color": {
             "over": -3752961
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Metabolism:0:50:1800:0",
+            "SP_CHG_CHARAC:Constitution:0:50:1800:0"
+        ]
     },
     "ipk_minor_mage": {
         "sheetid": "ipk_minor_mage",
@@ -104191,7 +104613,13 @@
         },
         "icon_color": {
             "over": -7013742
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Constitution:0:25:3600:0",
+            "SP_CHG_CHARAC:Metabolism:0:25:3600:0",
+            "SP_CHG_CHARAC:Intelligence:0:25:3600:0",
+            "SP_CHG_CHARAC:Wisdom:0:25:3600:0"
+        ]
     },
     "ipk_minor_power": {
         "sheetid": "ipk_minor_power",
@@ -104204,7 +104632,13 @@
             "main": "ico_mission_medicine.png",
             "back": "bk_zorai.png",
             "over": "ico_mission_medicine.png"
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Constitution:0:25:3600:0",
+            "SP_CHG_CHARAC:Strength:0:25:3600:0",
+            "SP_CHG_CHARAC:Intelligence:0:25:3600:0",
+            "SP_CHG_CHARAC:Dexterity:0:25:3600:0"
+        ]
     },
     "ipk_minor_reju": {
         "sheetid": "ipk_minor_reju",
@@ -104216,7 +104650,13 @@
         "icon": {
             "main": "ico_mission_medicine.png",
             "back": "bk_zorai.png"
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Metabolism:0:25:3600:0",
+            "SP_CHG_CHARAC:WellBalanced:0:25:3600:0",
+            "SP_CHG_CHARAC:Wisdom:0:25:3600:0",
+            "SP_CHG_CHARAC:Will:0:25:3600:0"
+        ]
     },
     "ipk_minor_strength": {
         "sheetid": "ipk_minor_strength",
@@ -104232,7 +104672,11 @@
         },
         "icon_color": {
             "over": -547591
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Strength:0:50:1800:0",
+            "SP_CHG_CHARAC:WellBalanced:0:50:1800:0"
+        ]
     },
     "ipk_minor_warrior": {
         "sheetid": "ipk_minor_warrior",
@@ -104248,7 +104692,13 @@
         },
         "icon_color": {
             "over": -4605953
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Constitution:0:25:3600:0",
+            "SP_CHG_CHARAC:Metabolism:0:25:3600:0",
+            "SP_CHG_CHARAC:Strength:0:25:3600:0",
+            "SP_CHG_CHARAC:WellBalanced:0:25:3600:0"
+        ]
     },
     "nbland_flasque": {
         "sheetid": "nbland_flasque",
@@ -106859,7 +107309,10 @@
         },
         "icon_color": {
             "over": -14803216
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Constitution:0.1:-50:1800:1800"
+        ]
     },
     "conso_focus_mineskitins": {
         "sheetid": "conso_focus_mineskitins",
@@ -106876,7 +107329,10 @@
         },
         "icon_color": {
             "over": -14803216
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Dexterity:0.1:50:1800:1800"
+        ]
     },
     "conso_sap_mineskitins": {
         "sheetid": "conso_sap_mineskitins",
@@ -106893,7 +107349,10 @@
         },
         "icon_color": {
             "over": -14803216
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Sap:0.1:50:1800:1800"
+        ]
     },
     "conso_strength_mineskitins": {
         "sheetid": "conso_strength_mineskitins",
@@ -106910,7 +107369,10 @@
         },
         "icon_color": {
             "over": -14803216
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Strength:0.1:50:1800:1800"
+        ]
     },
     "m0757dxapd01": {
         "sheetid": "m0757dxapd01",
@@ -108628,7 +109090,10 @@
         },
         "icon_color": {
             "over": -14803216
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Strength:0.5:90:1800:3600"
+        ]
     },
     "extrait_substance_question_de_force": {
         "sheetid": "extrait_substance_question_de_force",
@@ -109273,7 +109738,10 @@
         },
         "icon_color": {
             "over": -9563001
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:WellBalanced:0.1:0:300:0"
+        ]
     },
     "iprc_con": {
         "sheetid": "iprc_con",
@@ -109289,7 +109757,10 @@
         },
         "icon_color": {
             "over": -14803216
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Constitution:0.1:0:300:0"
+        ]
     },
     "iprc_dex": {
         "sheetid": "iprc_dex",
@@ -109305,7 +109776,10 @@
         },
         "icon_color": {
             "over": -820724
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Dexterity:0.1:0:300:0"
+        ]
     },
     "iprc_int": {
         "sheetid": "iprc_int",
@@ -109321,7 +109795,10 @@
         },
         "icon_color": {
             "over": -14767531
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Intelligence:0.1:0:300:0"
+        ]
     },
     "iprc_met": {
         "sheetid": "iprc_met",
@@ -109337,7 +109814,10 @@
         },
         "icon_color": {
             "over": -14803216
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Metabolism:0.1:0:300:0"
+        ]
     },
     "iprc_str": {
         "sheetid": "iprc_str",
@@ -109353,7 +109833,10 @@
         },
         "icon_color": {
             "over": -9563001
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Strength:0.1:0:300:0"
+        ]
     },
     "iprc_wil": {
         "sheetid": "iprc_wil",
@@ -109369,7 +109852,10 @@
         },
         "icon_color": {
             "over": -820724
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Will:0.1:0:300:0"
+        ]
     },
     "iprc_wis": {
         "sheetid": "iprc_wis",
@@ -109385,7 +109871,10 @@
         },
         "icon_color": {
             "over": -14767531
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Wisdom:0.1:0:300:0"
+        ]
     },
     "iprp_aci": {
         "sheetid": "iprp_aci",
@@ -109402,7 +109891,10 @@
         },
         "icon_color": {
             "main": -16515875
-        }
+        },
+        "properties": [
+            "SP_MOD_MAGIC_PROTECTION:Acid:0.1:0:300"
+        ]
     },
     "iprp_col": {
         "sheetid": "iprp_col",
@@ -109419,7 +109911,10 @@
         },
         "icon_color": {
             "main": -8629962
-        }
+        },
+        "properties": [
+            "SP_MOD_MAGIC_PROTECTION:Cold:0.1:0:300"
+        ]
     },
     "iprp_elc": {
         "sheetid": "iprp_elc",
@@ -109436,7 +109931,10 @@
         },
         "icon_color": {
             "main": -4498537
-        }
+        },
+        "properties": [
+            "SP_MOD_MAGIC_PROTECTION:Electricity:0.1:0:300"
+        ]
     },
     "iprp_fir": {
         "sheetid": "iprp_fir",
@@ -109453,7 +109951,10 @@
         },
         "icon_color": {
             "main": -14337551
-        }
+        },
+        "properties": [
+            "SP_MOD_MAGIC_PROTECTION:Fire:0.1:0:300"
+        ]
     },
     "iprp_poi": {
         "sheetid": "iprp_poi",
@@ -109470,7 +109971,10 @@
         },
         "icon_color": {
             "main": -13057463
-        }
+        },
+        "properties": [
+            "SP_MOD_MAGIC_PROTECTION:Poison:0.1:0:300"
+        ]
     },
     "iprp_rot": {
         "sheetid": "iprp_rot",
@@ -109487,7 +109991,10 @@
         },
         "icon_color": {
             "main": -13215876
-        }
+        },
+        "properties": [
+            "SP_MOD_MAGIC_PROTECTION:Rot:0.1:0:300"
+        ]
     },
     "iprp_sho": {
         "sheetid": "iprp_sho",
@@ -109504,7 +110011,10 @@
         },
         "icon_color": {
             "main": -1980381
-        }
+        },
+        "properties": [
+            "SP_MOD_MAGIC_PROTECTION:Shockwave:0.1:0:300"
+        ]
     },
     "fc100_bois": {
         "sheetid": "fc100_bois",
@@ -111929,7 +112439,10 @@
         },
         "icon_color": {
             "over": -4916561
-        }
+        },
+        "properties": [
+            "SP_MOD_CRAFT_SUCCESS:1:0:600:0"
+        ]
     },
     "test_conso_dodge": {
         "sheetid": "test_conso_dodge",
@@ -111945,7 +112458,10 @@
         },
         "icon_color": {
             "over": -4916561
-        }
+        },
+        "properties": [
+            "SP_MOD_DEFENSE:Dodge:1:0:600:0"
+        ]
     },
     "test_conso_forage_success": {
         "sheetid": "test_conso_forage_success",
@@ -111961,7 +112477,10 @@
         },
         "icon_color": {
             "over": -4916561
-        }
+        },
+        "properties": [
+            "SP_MOD_FORAGE_SUCCESS:CommonEcosystem:1:0:600:0"
+        ]
     },
     "test_conso_magic_success": {
         "sheetid": "test_conso_magic_success",
@@ -111977,7 +112496,10 @@
         },
         "icon_color": {
             "over": -4916561
-        }
+        },
+        "properties": [
+            "SP_MOD_MAGIC_SUCCESS:1:0:600"
+        ]
     },
     "test_conso_melee_success": {
         "sheetid": "test_conso_melee_success",
@@ -111993,7 +112515,10 @@
         },
         "icon_color": {
             "over": -4916561
-        }
+        },
+        "properties": [
+            "SP_MOD_MELEE_SUCCESS:1:0:600"
+        ]
     },
     "test_conso_parry": {
         "sheetid": "test_conso_parry",
@@ -112009,7 +112534,10 @@
         },
         "icon_color": {
             "over": -4916561
-        }
+        },
+        "properties": [
+            "SP_MOD_DEFENSE:Parry:1:0:600:0"
+        ]
     },
     "test_conso_range_success": {
         "sheetid": "test_conso_range_success",
@@ -112025,7 +112553,10 @@
         },
         "icon_color": {
             "over": -4916561
-        }
+        },
+        "properties": [
+            "SP_MOD_RANGE_SUCCESS:1:0:600"
+        ]
     },
     "fy_hof_hair_artistic05": {
         "sheetid": "fy_hof_hair_artistic05",
@@ -113453,7 +113984,10 @@
         },
         "icon_color": {
             "over": -6776584
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Constitution:0.1:0:600:0"
+        ]
     },
     "ipoc_dex_10min": {
         "sheetid": "ipoc_dex_10min",
@@ -113470,7 +114004,10 @@
         },
         "icon_color": {
             "over": -342120
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Dexterity:0.1:0:600:0"
+        ]
     },
     "ipoc_int_10min": {
         "sheetid": "ipoc_int_10min",
@@ -113487,7 +114024,10 @@
         },
         "icon_color": {
             "over": -7935314
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Intelligence:0.1:0:600:0"
+        ]
     },
     "ipoc_str_10min": {
         "sheetid": "ipoc_str_10min",
@@ -113504,7 +114044,10 @@
         },
         "icon_color": {
             "over": -4375070
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Strength:0.1:0:600:0"
+        ]
     },
     "cwth02_mp1": {
         "sheetid": "cwth02_mp1",
@@ -113838,7 +114381,10 @@
         },
         "icon_color": {
             "over": -4916561
-        }
+        },
+        "properties": [
+            "SP_MOD_FORAGE_SUCCESS:desert:1:0:600:0"
+        ]
     },
     "test_conso_defense": {
         "sheetid": "test_conso_defense",
@@ -113854,7 +114400,10 @@
         },
         "icon_color": {
             "over": -4916561
-        }
+        },
+        "properties": [
+            "SP_MOD_DEFENSE:all:1:0:600:0"
+        ]
     },
     "amber_cube_common_very_ancient": {
         "sheetid": "amber_cube_common_very_ancient",
@@ -115752,7 +116301,10 @@
         },
         "icon_color": {
             "back": -15947348
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Wisdom:10:0:10:0"
+        ]
     },
     "rpjob_003": {
         "sheetid": "rpjob_003",
@@ -115872,7 +116424,11 @@
         },
         "icon_color": {
             "back": -13334460
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Metabolism:65:0:10:0",
+            "SP_CHG_CHARAC:Intelligence:0:-500:10:0"
+        ]
     },
     "rpjobitem_216_a0": {
         "sheetid": "rpjobitem_216_a0",
@@ -115933,7 +116489,11 @@
         },
         "icon_color": {
             "back": -25600
-        }
+        },
+        "properties": [
+            "SP_SAP_AURA:400:10:10:70:70",
+            "SP_LIFE_AURA:200:10:10:70:70"
+        ]
     },
     "rpjobitem_219_c1": {
         "sheetid": "rpjobitem_219_c1",
@@ -115978,7 +116538,11 @@
         },
         "icon_color": {
             "back": -36472
-        }
+        },
+        "properties": [
+            "SP_STAMINA_AURA:200:10:10:60:20",
+            "SP_LIFE_AURA:100:10:10:60:20"
+        ]
     },
     "rpjobitem_202_a0": {
         "sheetid": "rpjobitem_202_a0",
@@ -116128,7 +116692,10 @@
         },
         "icon_color": {
             "back": -16000769
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:WellBalanced:10:0:10:0"
+        ]
     },
     "rpjobitem_217_a0": {
         "sheetid": "rpjobitem_217_a0",
@@ -116188,7 +116755,11 @@
         },
         "icon_color": {
             "back": -36472
-        }
+        },
+        "properties": [
+            "SP_STAMINA_AURA:400:10:10:70:70",
+            "SP_LIFE_AURA:200:10:10:70:70"
+        ]
     },
     "rpjobitem_216_c1": {
         "sheetid": "rpjobitem_216_c1",
@@ -116248,7 +116819,10 @@
         },
         "icon_color": {
             "back": -4325386
-        }
+        },
+        "properties": [
+            "SP_MOD_CRAFT_SUCCESS:0.2:0:1600"
+        ]
     },
     "rpjobitem_203_b0": {
         "sheetid": "rpjobitem_203_b0",
@@ -116609,7 +117183,10 @@
         },
         "icon_color": {
             "back": -672257
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Will:45:0:10:0"
+        ]
     },
     "rpjobitem_204_a1": {
         "sheetid": "rpjobitem_204_a1",
@@ -116699,7 +117276,10 @@
         },
         "icon_color": {
             "back": -4325386
-        }
+        },
+        "properties": [
+            "SP_MOD_CRAFT_SUCCESS:0.2:0:1200"
+        ]
     },
     "rpjobitem_210_c0": {
         "sheetid": "rpjobitem_210_c0",
@@ -116789,7 +117369,11 @@
         },
         "icon_color": {
             "back": -16776961
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Metabolism:45:0:10:0",
+            "SP_CHG_CHARAC:Strength:0:-500:10:0"
+        ]
     },
     "rpjob_201": {
         "sheetid": "rpjob_201",
@@ -116879,7 +117463,11 @@
         },
         "icon_color": {
             "back": -25600
-        }
+        },
+        "properties": [
+            "SP_SAP_AURA:200:10:10:60:20",
+            "SP_LIFE_AURA:100:10:10:60:20"
+        ]
     },
     "rpjobitem_215_b1": {
         "sheetid": "rpjobitem_215_b1",
@@ -116924,7 +117512,11 @@
         },
         "icon_color": {
             "back": -16776961
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Metabolism:40:0:10:0",
+            "SP_CHG_CHARAC:Strength:0:-100:10:0"
+        ]
     },
     "rpjobitem_207_a1": {
         "sheetid": "rpjobitem_207_a1",
@@ -117720,7 +118312,10 @@
         },
         "icon_color": {
             "back": -672257
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Will:40:0:10:0"
+        ]
     },
     "rpjob_202": {
         "sheetid": "rpjob_202",
@@ -118036,7 +118631,10 @@
         },
         "icon_color": {
             "back": -15947348
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Wisdom:15:0:10:0"
+        ]
     },
     "rpjobitem_217_b0": {
         "sheetid": "rpjobitem_217_b0",
@@ -118081,7 +118679,10 @@
         },
         "icon_color": {
             "back": -16000769
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:WellBalanced:15:0:10:0"
+        ]
     },
     "rpjobitem_205_c0": {
         "sheetid": "rpjobitem_205_c0",
@@ -118096,7 +118697,11 @@
         },
         "icon_color": {
             "back": -13334460
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Metabolism:60:0:10:0",
+            "SP_CHG_CHARAC:Intelligence:0:-100:10:0"
+        ]
     },
     "rpjobitem_206_a1": {
         "sheetid": "rpjobitem_206_a1",
@@ -118157,7 +118762,10 @@
         },
         "icon_color": {
             "over": -4916561
-        }
+        },
+        "properties": [
+            "SP_MOD_DEFENSE:Dodge:1:0:600:0"
+        ]
     },
     "test_fast_regen": {
         "sheetid": "test_fast_regen",
@@ -118169,7 +118777,10 @@
         "icon": {
             "main": "mp_egg.png",
             "back": "bk_tryker.png"
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Intelligence:10000:0:20:0"
+        ]
     },
     "test_conso_nobreak": {
         "sheetid": "test_conso_nobreak",
@@ -118185,7 +118796,10 @@
         },
         "icon_color": {
             "over": -4916561
-        }
+        },
+        "properties": [
+            "SP_MOD_DEFENSE:Dodge:1:0:600:0"
+        ]
     },
     "test_conso_swim": {
         "sheetid": "test_conso_swim",
@@ -118201,7 +118815,10 @@
         },
         "icon_color": {
             "over": -4916561
-        }
+        },
+        "properties": [
+            "SP_MOD_DEFENSE:Dodge:1:0:600:0"
+        ]
     },
     "test_long_regen": {
         "sheetid": "test_long_regen",
@@ -118213,7 +118830,10 @@
         "icon": {
             "main": "mp_egg.png",
             "back": "bk_tryker.png"
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Intelligence:10000:0:60:0"
+        ]
     },
     "test_conso_sit": {
         "sheetid": "test_conso_sit",
@@ -118229,7 +118849,10 @@
         },
         "icon_color": {
             "over": -4916561
-        }
+        },
+        "properties": [
+            "SP_MOD_DEFENSE:Dodge:1:0:600:0"
+        ]
     },
     "iasp": {
         "sheetid": "iasp",
@@ -118399,7 +119022,10 @@
         },
         "icon_color": {
             "back": -16000769
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:WellBalanced:20:0:10:0"
+        ]
     },
     "rpjobitem_201_c4": {
         "sheetid": "rpjobitem_201_c4",
@@ -118414,7 +119040,10 @@
         },
         "icon_color": {
             "back": -15947348
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Wisdom:30:0:10:0"
+        ]
     },
     "rpjobitem_206_c5": {
         "sheetid": "rpjobitem_206_c5",
@@ -118429,7 +119058,10 @@
         },
         "icon_color": {
             "back": -672257
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Will:65:0:10:0"
+        ]
     },
     "protect_amber": {
         "sheetid": "protect_amber",
@@ -118456,7 +119088,10 @@
         },
         "icon_color": {
             "back": -16000769
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:WellBalanced:30:0:10:0"
+        ]
     },
     "rpjobitem_207_c2": {
         "sheetid": "rpjobitem_207_c2",
@@ -118471,7 +119106,10 @@
         },
         "icon_color": {
             "back": -4325386
-        }
+        },
+        "properties": [
+            "SP_MOD_CRAFT_SUCCESS:0.2:0:640"
+        ]
     },
     "rpjobitem_207_c4": {
         "sheetid": "rpjobitem_207_c4",
@@ -118486,7 +119124,10 @@
         },
         "icon_color": {
             "back": -4325386
-        }
+        },
+        "properties": [
+            "SP_MOD_CRAFT_SUCCESS:0.2:0:240"
+        ]
     },
     "rpjobitem_202_c3": {
         "sheetid": "rpjobitem_202_c3",
@@ -118501,7 +119142,11 @@
         },
         "icon_color": {
             "back": -25600
-        }
+        },
+        "properties": [
+            "SP_SAP_AURA:1000:10:10:90:170",
+            "SP_LIFE_AURA:500:10:10:90:170"
+        ]
     },
     "rpjobitem_206_c3": {
         "sheetid": "rpjobitem_206_c3",
@@ -118516,7 +119161,10 @@
         },
         "icon_color": {
             "back": -672257
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Will:55:0:10:0"
+        ]
     },
     "rpjobitem_202_c4": {
         "sheetid": "rpjobitem_202_c4",
@@ -118531,7 +119179,11 @@
         },
         "icon_color": {
             "back": -25600
-        }
+        },
+        "properties": [
+            "SP_SAP_AURA:1300:10:10:100:220",
+            "SP_LIFE_AURA:650:10:10:100:220"
+        ]
     },
     "rpjobitem_201_c2": {
         "sheetid": "rpjobitem_201_c2",
@@ -118546,7 +119198,10 @@
         },
         "icon_color": {
             "back": -15947348
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Wisdom:20:0:10:0"
+        ]
     },
     "rpjobitem_203_c2": {
         "sheetid": "rpjobitem_203_c2",
@@ -118561,7 +119216,11 @@
         },
         "icon_color": {
             "back": -36472
-        }
+        },
+        "properties": [
+            "SP_STAMINA_AURA:700:10:10:80:120",
+            "SP_LIFE_AURA:350:10:10:80:120"
+        ]
     },
     "rpjobitem_200_c2": {
         "sheetid": "rpjobitem_200_c2",
@@ -118576,7 +119235,11 @@
         },
         "icon_color": {
             "back": -16776961
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Metabolism:50:0:10:0",
+            "SP_CHG_CHARAC:Strength:0:-1000:10:0"
+        ]
     },
     "rpjobitem_204_c5": {
         "sheetid": "rpjobitem_204_c5",
@@ -118591,7 +119254,10 @@
         },
         "icon_color": {
             "back": -16000769
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:WellBalanced:35:0:10:0"
+        ]
     },
     "rpjobitem_202_c2": {
         "sheetid": "rpjobitem_202_c2",
@@ -118606,7 +119272,11 @@
         },
         "icon_color": {
             "back": -25600
-        }
+        },
+        "properties": [
+            "SP_SAP_AURA:700:10:10:80:120",
+            "SP_LIFE_AURA:350:10:10:80:120"
+        ]
     },
     "rpjobitem_200_c5": {
         "sheetid": "rpjobitem_200_c5",
@@ -118621,7 +119291,11 @@
         },
         "icon_color": {
             "back": -16776961
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Metabolism:65:0:10:0",
+            "SP_CHG_CHARAC:Strength:0:-2500:10:0"
+        ]
     },
     "rpjobitem_200_c3": {
         "sheetid": "rpjobitem_200_c3",
@@ -118636,7 +119310,11 @@
         },
         "icon_color": {
             "back": -16776961
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Metabolism:55:0:10:0",
+            "SP_CHG_CHARAC:Strength:0:-1500:10:0"
+        ]
     },
     "rpjobitem_201_c3": {
         "sheetid": "rpjobitem_201_c3",
@@ -118651,7 +119329,10 @@
         },
         "icon_color": {
             "back": -15947348
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Wisdom:25:0:10:0"
+        ]
     },
     "rpjobitem_205_c2": {
         "sheetid": "rpjobitem_205_c2",
@@ -118666,7 +119347,11 @@
         },
         "icon_color": {
             "back": -13334460
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Metabolism:70:0:10:0",
+            "SP_CHG_CHARAC:Intelligence:0:-1000:10:0"
+        ]
     },
     "rpjobitem_205_c5": {
         "sheetid": "rpjobitem_205_c5",
@@ -118681,7 +119366,11 @@
         },
         "icon_color": {
             "back": -13334460
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Metabolism:85:0:10:0",
+            "SP_CHG_CHARAC:Intelligence:0:-2500:10:0"
+        ]
     },
     "rpjobitem_205_c4": {
         "sheetid": "rpjobitem_205_c4",
@@ -118696,7 +119385,11 @@
         },
         "icon_color": {
             "back": -13334460
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Metabolism:80:0:10:0",
+            "SP_CHG_CHARAC:Intelligence:0:-2000:10:0"
+        ]
     },
     "rpjobitem_204_c3": {
         "sheetid": "rpjobitem_204_c3",
@@ -118711,7 +119404,10 @@
         },
         "icon_color": {
             "back": -16000769
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:WellBalanced:25:0:10:0"
+        ]
     },
     "rpjobitem_206_c4": {
         "sheetid": "rpjobitem_206_c4",
@@ -118726,7 +119422,10 @@
         },
         "icon_color": {
             "back": -672257
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Will:60:0:10:0"
+        ]
     },
     "tools_ticket": {
         "sheetid": "tools_ticket",
@@ -118753,7 +119452,11 @@
         },
         "icon_color": {
             "back": -25600
-        }
+        },
+        "properties": [
+            "SP_SAP_AURA:1600:10:10:110:270",
+            "SP_LIFE_AURA:800:10:10:110:270"
+        ]
     },
     "rpjobitem_203_c3": {
         "sheetid": "rpjobitem_203_c3",
@@ -118768,7 +119471,11 @@
         },
         "icon_color": {
             "back": -36472
-        }
+        },
+        "properties": [
+            "SP_STAMINA_AURA:1000:10:10:90:170",
+            "SP_LIFE_AURA:500:10:10:90:170"
+        ]
     },
     "rpjobitem_201_c5": {
         "sheetid": "rpjobitem_201_c5",
@@ -118783,7 +119490,10 @@
         },
         "icon_color": {
             "back": -15947348
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Wisdom:35:0:10:0"
+        ]
     },
     "rpjobitem_206_c2": {
         "sheetid": "rpjobitem_206_c2",
@@ -118798,7 +119508,10 @@
         },
         "icon_color": {
             "back": -672257
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Will:50:0:10:0"
+        ]
     },
     "rpjobitem_207_c3": {
         "sheetid": "rpjobitem_207_c3",
@@ -118813,7 +119526,10 @@
         },
         "icon_color": {
             "back": -4325386
-        }
+        },
+        "properties": [
+            "SP_MOD_CRAFT_SUCCESS:0.2:0:320"
+        ]
     },
     "rpjobitem_203_c5": {
         "sheetid": "rpjobitem_203_c5",
@@ -118828,7 +119544,11 @@
         },
         "icon_color": {
             "back": -36472
-        }
+        },
+        "properties": [
+            "SP_STAMINA_AURA:1600:10:10:110:270",
+            "SP_LIFE_AURA:800:10:10:110:270"
+        ]
     },
     "rpjobitem_203_c4": {
         "sheetid": "rpjobitem_203_c4",
@@ -118843,7 +119563,11 @@
         },
         "icon_color": {
             "back": -36472
-        }
+        },
+        "properties": [
+            "SP_STAMINA_AURA:1300:10:10:100:220",
+            "SP_LIFE_AURA:650:10:10:100:220"
+        ]
     },
     "water_barrel": {
         "sheetid": "water_barrel",
@@ -118885,7 +119609,11 @@
         },
         "icon_color": {
             "back": -16776961
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Metabolism:60:0:10:0",
+            "SP_CHG_CHARAC:Strength:0:-2000:10:0"
+        ]
     },
     "rpjobitem_207_c5": {
         "sheetid": "rpjobitem_207_c5",
@@ -118900,7 +119628,10 @@
         },
         "icon_color": {
             "back": -4325386
-        }
+        },
+        "properties": [
+            "SP_MOD_CRAFT_SUCCESS:0.2:0:120"
+        ]
     },
     "rpjobitem_205_c3": {
         "sheetid": "rpjobitem_205_c3",
@@ -118915,7 +119646,11 @@
         },
         "icon_color": {
             "back": -13334460
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Metabolism:75:0:10:0",
+            "SP_CHG_CHARAC:Intelligence:0:-1500:10:0"
+        ]
     },
     "supreme_heal": {
         "sheetid": "supreme_heal",
@@ -118930,7 +119665,12 @@
         },
         "icon_color": {
             "back": -25600
-        }
+        },
+        "properties": [
+            "SP_HEAL_AURA:3000:10:10:10:10",
+            "SP_STAMINA_AURA:2000:10:10:10:10",
+            "SP_SAP_AURA:2000:10:10:10:10"
+        ]
     },
     "very_small_barrel": {
         "sheetid": "very_small_barrel",
@@ -118957,7 +119697,10 @@
         },
         "icon_color": {
             "back": -16000769
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:WellBalanced:40:0:10:0"
+        ]
     },
     "rpjobitem_203_c6": {
         "sheetid": "rpjobitem_203_c6",
@@ -118972,7 +119715,11 @@
         },
         "icon_color": {
             "back": -36472
-        }
+        },
+        "properties": [
+            "SP_STAMINA_AURA:1900:10:10:120:320",
+            "SP_LIFE_AURA:950:10:10:120:320"
+        ]
     },
     "rpjobitem_202_c6": {
         "sheetid": "rpjobitem_202_c6",
@@ -118987,7 +119734,11 @@
         },
         "icon_color": {
             "back": -25600
-        }
+        },
+        "properties": [
+            "SP_SAP_AURA:1900:10:10:120:320",
+            "SP_LIFE_AURA:950:10:10:120:320"
+        ]
     },
     "rpjobitem_207_c6": {
         "sheetid": "rpjobitem_207_c6",
@@ -119002,7 +119753,10 @@
         },
         "icon_color": {
             "back": -4325386
-        }
+        },
+        "properties": [
+            "SP_MOD_CRAFT_SUCCESS:0.2:0:60"
+        ]
     },
     "rpjobitem_201_c6": {
         "sheetid": "rpjobitem_201_c6",
@@ -119017,7 +119771,10 @@
         },
         "icon_color": {
             "back": -15947348
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Wisdom:40:0:10:0"
+        ]
     },
     "very_big_barrel": {
         "sheetid": "very_big_barrel",
@@ -119044,7 +119801,11 @@
         },
         "icon_color": {
             "back": -16776961
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Metabolism:70:0:10:0",
+            "SP_CHG_CHARAC:Strength:0:-3000:10:0"
+        ]
     },
     "rpjobitem_206_c6": {
         "sheetid": "rpjobitem_206_c6",
@@ -119059,7 +119820,10 @@
         },
         "icon_color": {
             "back": -672257
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Will:70:0:10:0"
+        ]
     },
     "rpjobitem_205_c6": {
         "sheetid": "rpjobitem_205_c6",
@@ -119074,7 +119838,11 @@
         },
         "icon_color": {
             "back": -13334460
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Metabolism:90:0:10:0",
+            "SP_CHG_CHARAC:Intelligence:0:-3000:10:0"
+        ]
     },
     "nanka_mace_crate": {
         "sheetid": "nanka_mace_crate",
@@ -119152,7 +119920,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -16737461
-        }
+        },
+        "properties": [
+            "SP_SAP_AURA2:4:10:10:120:150",
+            "SP_LIFE_AURA2:2:10:10:120:120"
+        ]
     },
     "pvp_boost_stamlife_c1": {
         "sheetid": "pvp_boost_stamlife_c1",
@@ -119170,7 +119942,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -11861861
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:WellBalanced:30:0:5:0",
+            "SP_CHG_CHARAC:Metabolism:15:0:5:0"
+        ]
     },
     "pvp_aura_lifemage_c3": {
         "sheetid": "pvp_aura_lifemage_c3",
@@ -119188,7 +119964,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -11861761
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Strength:-80:0:10:0",
+            "SP_LIFE_AURA2:5:10:10:90:90"
+        ]
     },
     "pvp_boost_saplife_c4": {
         "sheetid": "pvp_boost_saplife_c4",
@@ -119206,7 +119986,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -16737461
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Wisdom:60:0:5:0",
+            "SP_CHG_CHARAC:Metabolism:30:0:5:0"
+        ]
     },
     "pvp_aura_lifemage_c4": {
         "sheetid": "pvp_aura_lifemage_c4",
@@ -119224,7 +120008,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -11861761
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Strength:-80:0:10:0",
+            "SP_LIFE_AURA2:6:10:10:60:60"
+        ]
     },
     "pvp_boost_lifemage_c5": {
         "sheetid": "pvp_boost_lifemage_c5",
@@ -119242,7 +120030,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -11861761
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Strength:-80:0:5:0",
+            "SP_CHG_CHARAC:Metabolism:70:0:5:0"
+        ]
     },
     "pvp_boost_lifetank_c5": {
         "sheetid": "pvp_boost_lifetank_c5",
@@ -119260,7 +120052,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -16757761
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Intelligence:-80:0:5:0",
+            "SP_CHG_CHARAC:Metabolism:140:0:5:0"
+        ]
     },
     "pvp_aura_stamlife_c2": {
         "sheetid": "pvp_aura_stamlife_c2",
@@ -119278,7 +120074,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -11861861
-        }
+        },
+        "properties": [
+            "SP_STAMINA_AURA2:4:10:10:120:120",
+            "SP_LIFE_AURA2:2:10:10:120:120"
+        ]
     },
     "pvp_boost_saplife_c6": {
         "sheetid": "pvp_boost_saplife_c6",
@@ -119296,7 +120096,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -16737461
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Wisdom:80:0:5:0",
+            "SP_CHG_CHARAC:Metabolism:40:0:5:0"
+        ]
     },
     "pvp_aura_stamlife_c0": {
         "sheetid": "pvp_aura_stamlife_c0",
@@ -119314,7 +120118,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -11861861
-        }
+        },
+        "properties": [
+            "SP_STAMINA_AURA2:2:10:10:180:180",
+            "SP_LIFE_AURA2:1:10:10:180:180"
+        ]
     },
     "pvp_aura_lifemage_c5": {
         "sheetid": "pvp_aura_lifemage_c5",
@@ -119332,7 +120140,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -11861761
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Strength:-80:0:10:0",
+            "SP_LIFE_AURA2:7:10:10:30:30"
+        ]
     },
     "pvp_boost_stamlife_c2": {
         "sheetid": "pvp_boost_stamlife_c2",
@@ -119350,7 +120162,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -11861861
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:WellBalanced:40:0:5:0",
+            "SP_CHG_CHARAC:Metabolism:20:0:5:0"
+        ]
     },
     "pvp_boost_lifetank_c3": {
         "sheetid": "pvp_boost_lifetank_c3",
@@ -119368,7 +120184,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -16757761
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Intelligence:-80:0:5:0",
+            "SP_CHG_CHARAC:Metabolism:100:0:5:0"
+        ]
     },
     "pvp_aura_stamlife_c1": {
         "sheetid": "pvp_aura_stamlife_c1",
@@ -119386,7 +120206,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -11861861
-        }
+        },
+        "properties": [
+            "SP_STAMINA_AURA2:3:10:10:150:150",
+            "SP_LIFE_AURA2:1.5:10:10:150:150"
+        ]
     },
     "pvp_aura_lifetank_c6": {
         "sheetid": "pvp_aura_lifetank_c6",
@@ -119404,7 +120228,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -16757761
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Intelligence:-80:0:10:0",
+            "SP_LIFE_AURA2:8:10:10:10:10"
+        ]
     },
     "pvp_aura_saplife_c4": {
         "sheetid": "pvp_aura_saplife_c4",
@@ -119422,7 +120250,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -16737461
-        }
+        },
+        "properties": [
+            "SP_SAP_AURA2:6:10:10:60:60",
+            "SP_LIFE_AURA2:3:10:10:60:60"
+        ]
     },
     "pvp_boost_stamlife_c3": {
         "sheetid": "pvp_boost_stamlife_c3",
@@ -119440,7 +120272,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -11861861
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:WellBalanced:50:0:5:0",
+            "SP_CHG_CHARAC:Metabolism:25:0:5:0"
+        ]
     },
     "pvp_aura_stamlife_c3": {
         "sheetid": "pvp_aura_stamlife_c3",
@@ -119458,7 +120294,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -11861861
-        }
+        },
+        "properties": [
+            "SP_STAMINA_AURA2:5:10:10:90:90",
+            "SP_LIFE_AURA2:2.5:10:10:90:90"
+        ]
     },
     "pvp_boost_lifetank_c2": {
         "sheetid": "pvp_boost_lifetank_c2",
@@ -119476,7 +120316,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -16757761
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Intelligence:-80:0:5:0",
+            "SP_CHG_CHARAC:Metabolism:80:0:5:0"
+        ]
     },
     "pvp_aura_lifetank_c0": {
         "sheetid": "pvp_aura_lifetank_c0",
@@ -119494,7 +120338,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -16757761
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Intelligence:-80:0:10:0",
+            "SP_LIFE_AURA2:2:10:10:180:180"
+        ]
     },
     "pvp_aura_stamlife_c5": {
         "sheetid": "pvp_aura_stamlife_c5",
@@ -119512,7 +120360,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -11861861
-        }
+        },
+        "properties": [
+            "SP_STAMINA_AURA2:7:10:10:30:30",
+            "SP_LIFE_AURA2:3.5:10:10:30:30"
+        ]
     },
     "pvp_aura_lifemage_c6": {
         "sheetid": "pvp_aura_lifemage_c6",
@@ -119530,7 +120382,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -11861761
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Strength:-80:0:10:0",
+            "SP_LIFE_AURA2:8:10:10:10:10"
+        ]
     },
     "pvp_aura_stamlife_c6": {
         "sheetid": "pvp_aura_stamlife_c6",
@@ -119548,7 +120404,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -11861861
-        }
+        },
+        "properties": [
+            "SP_STAMINA_AURA2:8:10:10:10:10",
+            "SP_LIFE_AURA2:4:10:10:10:10"
+        ]
     },
     "pvp_aura_lifemage_c2": {
         "sheetid": "pvp_aura_lifemage_c2",
@@ -119566,7 +120426,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -11861761
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Strength:-80:0:10:0",
+            "SP_LIFE_AURA2:4:10:10:120:120"
+        ]
     },
     "pvp_aura_lifetank_c4": {
         "sheetid": "pvp_aura_lifetank_c4",
@@ -119584,7 +120448,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -16757761
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Intelligence:-80:0:10:0",
+            "SP_LIFE_AURA2:6:10:10:60:60"
+        ]
     },
     "pvp_aura_saplife_c6": {
         "sheetid": "pvp_aura_saplife_c6",
@@ -119602,7 +120470,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -16737461
-        }
+        },
+        "properties": [
+            "SP_SAP_AURA2:8:10:10:10:10",
+            "SP_LIFE_AURA2:4:10:10:10:10"
+        ]
     },
     "pvp_boost_saplife_c3": {
         "sheetid": "pvp_boost_saplife_c3",
@@ -119620,7 +120492,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -16737461
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Wisdom:50:0:5:0",
+            "SP_CHG_CHARAC:Metabolism:25:0:5:0"
+        ]
     },
     "pvp_boost_saplife_c0": {
         "sheetid": "pvp_boost_saplife_c0",
@@ -119638,7 +120514,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -16737461
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Wisdom:10:0:10:0",
+            "SP_CHG_CHARAC:Metabolism:5:0:10:0"
+        ]
     },
     "pvp_aura_saplife_c0": {
         "sheetid": "pvp_aura_saplife_c0",
@@ -119656,7 +120536,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -16737461
-        }
+        },
+        "properties": [
+            "SP_SAP_AURA2:2:10:10:180:180",
+            "SP_LIFE_AURA2:1:10:10:180:180"
+        ]
     },
     "pvp_aura_lifetank_c3": {
         "sheetid": "pvp_aura_lifetank_c3",
@@ -119674,7 +120558,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -16757761
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Intelligence:-80:0:10:0",
+            "SP_LIFE_AURA2:5:10:10:90:90"
+        ]
     },
     "pvp_aura_lifetank_c1": {
         "sheetid": "pvp_aura_lifetank_c1",
@@ -119692,7 +120580,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -16757761
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Intelligence:-80:0:10:0",
+            "SP_LIFE_AURA2:3:10:10:150:150"
+        ]
     },
     "pvp_aura_saplife_c3": {
         "sheetid": "pvp_aura_saplife_c3",
@@ -119710,7 +120602,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -16737461
-        }
+        },
+        "properties": [
+            "SP_SAP_AURA2:5:10:10:90:90",
+            "SP_LIFE_AURA2:2.5:10:10:90:90"
+        ]
     },
     "pvp_boost_stamlife_c4": {
         "sheetid": "pvp_boost_stamlife_c4",
@@ -119728,7 +120624,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -11861861
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:WellBalanced:60:0:5:0",
+            "SP_CHG_CHARAC:Metabolism:30:0:5:0"
+        ]
     },
     "pvp_boost_lifemage_c1": {
         "sheetid": "pvp_boost_lifemage_c1",
@@ -119746,7 +120646,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -11861761
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Strength:-80:0:5:0",
+            "SP_CHG_CHARAC:Metabolism:30:0:5:0"
+        ]
     },
     "pvp_boost_lifemage_c2": {
         "sheetid": "pvp_boost_lifemage_c2",
@@ -119764,7 +120668,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -11861761
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Strength:-80:0:5:0",
+            "SP_CHG_CHARAC:Metabolism:40:0:5:0"
+        ]
     },
     "pvp_boost_lifetank_c0": {
         "sheetid": "pvp_boost_lifetank_c0",
@@ -119782,7 +120690,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -16757761
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Intelligence:-80:0:10:0",
+            "SP_CHG_CHARAC:Metabolism:20:0:10:0"
+        ]
     },
     "pvp_aura_lifetank_c5": {
         "sheetid": "pvp_aura_lifetank_c5",
@@ -119800,7 +120712,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -16757761
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Intelligence:-80:0:10:0",
+            "SP_LIFE_AURA2:7:10:10:30:30"
+        ]
     },
     "pvp_boost_stamlife_c0": {
         "sheetid": "pvp_boost_stamlife_c0",
@@ -119818,7 +120734,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -11861861
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:WellBalanced:10:0:10:0",
+            "SP_CHG_CHARAC:Metabolism:5:0:10:0"
+        ]
     },
     "pvp_aura_stamlife_c4": {
         "sheetid": "pvp_aura_stamlife_c4",
@@ -119836,7 +120756,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -11861861
-        }
+        },
+        "properties": [
+            "SP_STAMINA_AURA2:6:10:10:60:60",
+            "SP_LIFE_AURA2:3:10:10:60:60"
+        ]
     },
     "pvp_aura_lifemage_c0": {
         "sheetid": "pvp_aura_lifemage_c0",
@@ -119854,7 +120778,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -11861761
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Strength:-80:0:10:0",
+            "SP_LIFE_AURA2:2:10:10:180:180"
+        ]
     },
     "pvp_boost_saplife_c5": {
         "sheetid": "pvp_boost_saplife_c5",
@@ -119872,7 +120800,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -16737461
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Wisdom:70:0:5:0",
+            "SP_CHG_CHARAC:Metabolism:35:0:5:0"
+        ]
     },
     "pvp_aura_saplife_c1": {
         "sheetid": "pvp_aura_saplife_c1",
@@ -119890,7 +120822,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -16737461
-        }
+        },
+        "properties": [
+            "SP_SAP_AURA2:3:10:10:150:150",
+            "SP_LIFE_AURA2:1.5:10:10:150:150"
+        ]
     },
     "pvp_boost_stamlife_c5": {
         "sheetid": "pvp_boost_stamlife_c5",
@@ -119908,7 +120844,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -11861861
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:WellBalanced:70:0:5:0",
+            "SP_CHG_CHARAC:Metabolism:35:0:5:0"
+        ]
     },
     "pvp_boost_lifemage_c0": {
         "sheetid": "pvp_boost_lifemage_c0",
@@ -119926,7 +120866,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -11861761
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Strength:-80:0:10:0",
+            "SP_CHG_CHARAC:Metabolism:10:0:10:0"
+        ]
     },
     "pvp_boost_lifemage_c6": {
         "sheetid": "pvp_boost_lifemage_c6",
@@ -119944,7 +120888,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -11861761
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Strength:-80:0:5:0",
+            "SP_CHG_CHARAC:Metabolism:80:0:5:0"
+        ]
     },
     "pvp_boost_stamlife_c6": {
         "sheetid": "pvp_boost_stamlife_c6",
@@ -119962,7 +120910,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -11861861
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:WellBalanced:80:0:5:0",
+            "SP_CHG_CHARAC:Metabolism:40:0:5:0"
+        ]
     },
     "pvp_boost_lifemage_c4": {
         "sheetid": "pvp_boost_lifemage_c4",
@@ -119980,7 +120932,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -11861761
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Strength:-80:0:5:0",
+            "SP_CHG_CHARAC:Metabolism:60:0:5:0"
+        ]
     },
     "pvp_boost_lifetank_c6": {
         "sheetid": "pvp_boost_lifetank_c6",
@@ -119998,7 +120954,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -16757761
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Intelligence:-80:0:5:0",
+            "SP_CHG_CHARAC:Metabolism:160:0:5:0"
+        ]
     },
     "pvp_boost_lifetank_c4": {
         "sheetid": "pvp_boost_lifetank_c4",
@@ -120016,7 +120976,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -16757761
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Intelligence:-80:0:5:0",
+            "SP_CHG_CHARAC:Metabolism:120:0:5:0"
+        ]
     },
     "pvp_aura_lifetank_c2": {
         "sheetid": "pvp_aura_lifetank_c2",
@@ -120034,7 +120998,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -16757761
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Intelligence:-80:0:10:0",
+            "SP_LIFE_AURA2:4:10:10:120:120"
+        ]
     },
     "pvp_boost_saplife_c2": {
         "sheetid": "pvp_boost_saplife_c2",
@@ -120052,7 +121020,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -16737461
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Wisdom:40:0:5:0",
+            "SP_CHG_CHARAC:Metabolism:20:0:5:0"
+        ]
     },
     "pvp_aura_lifemage_c1": {
         "sheetid": "pvp_aura_lifemage_c1",
@@ -120070,7 +121042,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -11861761
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Strength:-80:0:10:0",
+            "SP_LIFE_AURA2:3:10:10:150:150"
+        ]
     },
     "pvp_aura_saplife_c5": {
         "sheetid": "pvp_aura_saplife_c5",
@@ -120088,7 +121064,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -16737461
-        }
+        },
+        "properties": [
+            "SP_SAP_AURA2:7:10:10:30:30",
+            "SP_LIFE_AURA2:3.5:10:10:30:30"
+        ]
     },
     "pvp_boost_lifemage_c3": {
         "sheetid": "pvp_boost_lifemage_c3",
@@ -120106,7 +121086,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -11861761
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Strength:-80:0:5:0",
+            "SP_CHG_CHARAC:Metabolism:50:0:5:0"
+        ]
     },
     "pvp_boost_lifetank_c1": {
         "sheetid": "pvp_boost_lifetank_c1",
@@ -120124,7 +121108,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -16757761
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Intelligence:-80:0:5:0",
+            "SP_CHG_CHARAC:Metabolism:60:0:5:0"
+        ]
     },
     "pvp_boost_saplife_c1": {
         "sheetid": "pvp_boost_saplife_c1",
@@ -120142,7 +121130,11 @@
         "icon_color": {
             "back": -16777216,
             "over": -16737461
-        }
+        },
+        "properties": [
+            "SP_CHG_CHARAC:Wisdom:30:0:5:0",
+            "SP_CHG_CHARAC:Metabolism:15:0:5:0"
+        ]
     },
     "icoanimtjewel": {
         "sheetid": "icoanimtjewel",
@@ -120156,7 +121148,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokametjewel_1",
-        "skill": "scah"
+        "skill": "scah",
+        "effects": [
+            "ise_craft_add_limit:1:0.2"
+        ]
     },
     "icoanimtarmor": {
         "sheetid": "icoanimtarmor",
@@ -120170,7 +121165,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokametarmor_1",
-        "skill": "scah"
+        "skill": "scah",
+        "effects": [
+            "ise_craft_add_limit:1:0.2"
+        ]
     },
     "icoanimtmwea": {
         "sheetid": "icoanimtmwea",
@@ -120183,7 +121181,10 @@
             "main": "to_ammo.png",
             "back": "bk_outpost.png"
         },
-        "skill": "scah"
+        "skill": "scah",
+        "effects": [
+            "ise_craft_add_limit:1:0.2"
+        ]
     },
     "icoanimtammo": {
         "sheetid": "icoanimtammo",
@@ -120197,7 +121198,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokaretammo_1",
-        "skill": "scah"
+        "skill": "scah",
+        "effects": [
+            "ise_craft_add_limit:1:0.2"
+        ]
     },
     "icoanimtrwea": {
         "sheetid": "icoanimtrwea",
@@ -120211,7 +121215,10 @@
             "back": "bk_outpost.png"
         },
         "craftplan": "bcokametrwea_1",
-        "skill": "scah"
+        "skill": "scah",
+        "effects": [
+            "ise_craft_add_limit:1:0.2"
+        ]
     },
     "system_mp_xl_blue": {
         "sheetid": "system_mp_xl_blue",
@@ -120512,5 +121519,137 @@
             "back": "bk_mission2.png"
         },
         "craftplan": "bcbsea02_3"
+    },
+    "cm_banner_sgm": {
+        "sheetid": "cm_banner_sgm",
+        "type": 33,
+        "item_type": 67,
+        "race": 2,
+        "quality": 0,
+        "bulk": 10,
+        "icon": {
+            "main": "mw_staff.png",
+            "back": "bk_generic.png"
+        }
+    },
+    "rite_mat_geo_1_brush": {
+        "sheetid": "rite_mat_geo_1_brush",
+        "type": 33,
+        "item_type": 5,
+        "race": 0,
+        "quality": 0,
+        "bulk": 5,
+        "icon": {
+            "main": "icon_pinceau.png",
+            "back": "bk_generic.png"
+        }
+    },
+    "rite_mat_geo_1_scraper": {
+        "sheetid": "rite_mat_geo_1_scraper",
+        "type": 33,
+        "item_type": 5,
+        "race": 0,
+        "quality": 0,
+        "bulk": 5,
+        "icon": {
+            "main": "icon_ciseau_bios.png",
+            "back": "bk_generic.png"
+        }
+    },
+    "rite_mat_geo_1_secator": {
+        "sheetid": "rite_mat_geo_1_secator",
+        "type": 33,
+        "item_type": 5,
+        "race": 0,
+        "quality": 2,
+        "bulk": 5,
+        "icon": {
+            "main": "icon_faucille.png",
+            "back": "bk_generic.png"
+        }
+    },
+    "rite_mat_geo_1_plank": {
+        "sheetid": "rite_mat_geo_1_plank",
+        "type": 28,
+        "item_type": 67,
+        "race": 0,
+        "quality": 0,
+        "bulk": 0,
+        "icon": {
+            "main": "icon_plank.png",
+            "back": "bk_mission.png"
+        }
+    },
+    "rite_mat_geo_1_white_linen": {
+        "sheetid": "rite_mat_geo_1_white_linen",
+        "type": 28,
+        "item_type": 67,
+        "race": 0,
+        "quality": 0,
+        "bulk": 0,
+        "icon": {
+            "main": "icon_white_linen.png",
+            "back": "bk_mission.png"
+        }
+    },
+    "toxic_mushroom": {
+        "sheetid": "toxic_mushroom",
+        "type": 28,
+        "item_type": 67,
+        "race": 0,
+        "quality": 0,
+        "bulk": 0.20000000298023,
+        "icon": {
+            "main": "toxic_mushroom.png",
+            "back": "bk_event.png"
+        }
+    },
+    "rite_mat_geo_tool_handcolor": {
+        "sheetid": "rite_mat_geo_tool_handcolor",
+        "type": 7,
+        "item_type": 23,
+        "race": 0,
+        "quality": 0,
+        "bulk": 5,
+        "icon": {
+            "main": "sh_buckler.png",
+            "back": "bk_generic.png"
+        }
+    },
+    "rite_mat_geo_1_butterfly_net": {
+        "sheetid": "rite_mat_geo_1_butterfly_net",
+        "type": 33,
+        "item_type": 5,
+        "race": 0,
+        "quality": 0,
+        "bulk": 5,
+        "icon": {
+            "main": "icon_butterfly_net.png",
+            "back": "bk_generic.png"
+        }
+    },
+    "xmas_gingerbread": {
+        "sheetid": "xmas_gingerbread",
+        "type": 33,
+        "item_type": 5,
+        "race": 0,
+        "quality": 0,
+        "bulk": 5,
+        "icon": {
+            "main": "icon_gingerbread.png",
+            "back": "bk_generic.png"
+        }
+    },
+    "xmas_gingeryubo": {
+        "sheetid": "xmas_gingeryubo",
+        "type": 33,
+        "item_type": 5,
+        "race": 0,
+        "quality": 0,
+        "bulk": 5,
+        "icon": {
+            "main": "icon_gingeryubo.png",
+            "back": "bk_generic.png"
+        }
     }
 }

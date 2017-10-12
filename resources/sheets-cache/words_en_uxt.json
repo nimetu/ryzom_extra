@@ -19444,5 +19444,92 @@
     },
     "uiplaylistrefresh": {
         "name": "Refresh"
+    },
+    "uifreeviewtablet": {
+        "name": "Tablet or touchscreen"
+    },
+    "uicopy": {
+        "name": "Copy"
+    },
+    "uibrowse": {
+        "name": "Browse"
+    },
+    "cmdcreategroupusage1": {
+        "name": "createGroup command usage:"
+    },
+    "cmdcreategroupusage2": {
+        "name": "\/createGroup group_name: create a group named group_name with all your equipped items"
+    },
+    "cmdcreategroupusage3": {
+        "name": "\/createGroup group_name true: create a group named group_name with all your equipped items, and create a remove command for every empty slot"
+    },
+    "cmdcreategrouperror": {
+        "name": "A group named %name already exists, cannot create one with the same name."
+    },
+    "cmdcreategroupsuccess1": {
+        "name": "Group %name successfully created."
+    },
+    "cmdcreategroupsuccess2": {
+        "name": "Group %name successfully created with removal for all unequiped items."
+    },
+    "cmdequipgroupusage1": {
+        "name": "equipGroup command usage:"
+    },
+    "cmdequipgroupusage2": {
+        "name": "\/equipGroup group_name: Pull the items from the group group_name from available inventory and equip them."
+    },
+    "cmdequipgrouperror": {
+        "name": "Could not equip group %name because no group named like this was found."
+    },
+    "cmdequipgroupsuccess": {
+        "name": "Group %name successfully equipped."
+    },
+    "cmddeletegroupusage1": {
+        "name": "deleteGroup command usage:"
+    },
+    "cmddeletegroupusage2": {
+        "name": "\/deleteGroup group_name: Remove the group named group_name if it exists."
+    },
+    "cmddeletegrouperror": {
+        "name": "Cannot delete group %name: no group with this name found."
+    },
+    "cmddeletegroupsuccess": {
+        "name": "Group %name successfully deleted."
+    },
+    "cmdmovegroupusage1": {
+        "name": "moveGroup command usage:"
+    },
+    "cmdmovegroupusage2": {
+        "name": "\/moveGroup group_name destination: move items from all available inventories to destination"
+    },
+    "cmdmovegroupusage3": {
+        "name": "destination can be either bag, player_room, guild, pet_animal1, pet_animal2, pet_animal3, pet_animal4"
+    },
+    "cmdmovegrouperror": {
+        "name": "Could not move group %name to %inventory because no group named like this was found, and\/or it wasn't a valid inventory."
+    },
+    "cmdmovegroupsuccess": {
+        "name": "Group %name successfully moved to %inventory."
+    },
+    "cmdlistgroupheader": {
+        "name": "Available item groups:"
+    },
+    "cmdlistgroupline": {
+        "name": "* %name, with %size items inside."
+    },
+    "uimgroup": {
+        "name": "Groups"
+    },
+    "uimacroitemgroupequip": {
+        "name": "Equip an item group"
+    },
+    "uimacroitemgroupname": {
+        "name": "Item group name"
+    },
+    "uimacroitemgroupmove": {
+        "name": "Move an item group"
+    },
+    "uimacroitemgroupdestination": {
+        "name": "Item group destination"
     }
 }
