@@ -69,7 +69,7 @@ class RyzomExtra
     // guild option = 32
     // handled item = 33
     // cosmetic = 34
-    const CONSUMABLE = 35;
+    const TYPE_CONSUMABLE = 35;
     const TYPE_XPCAT = 36;
     // scroll = 37
     // scroll r2 = 38
