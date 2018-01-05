@@ -121651,5 +121651,31 @@
             "main": "icon_gingeryubo.png",
             "back": "bk_generic.png"
         }
+    },
+    "event_sheet_music": {
+        "sheetid": "event_sheet_music",
+        "type": 37,
+        "item_type": 67,
+        "race": 0,
+        "quality": 0,
+        "bulk": 0.10000000149012,
+        "icon": {
+            "main": "ico_task_generic.png"
+        }
+    },
+    "ic_ice_stick": {
+        "sheetid": "ic_ice_stick",
+        "type": 3,
+        "item_type": 67,
+        "race": 0,
+        "quality": 0,
+        "bulk": 30,
+        "icon": {
+            "main": "icon_ic_ice_stick.png",
+            "back": "bk_generic.png"
+        },
+        "skill": 226,
+        "damage": 10,
+        "reach": 5
     }
 }
