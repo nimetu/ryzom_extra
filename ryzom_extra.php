@@ -391,6 +391,121 @@ class RyzomExtra
         return 'NotExist:color #' . $color;
     }
 
+    //
+    // creature race from <game_share/people_pd.h>
+    const PEOPLE_HUMANOID      = 0;
+    //
+    const PEOPLE_PLAYABLE      = 0;
+    const PEOPLE_FYROS         = 0;
+    const PEOPLE_MATIS         = 1;
+    const PEOPLE_TRYKER        = 2;
+    const PEOPLE_ZORAI         = 3;
+    const PEOPLE_ENDPLAYABLE   = 4;
+    //
+    const PEOPLE_KARAVAN       = 4;
+    const PEOPLE_TRIBE         = 5;
+    const PEOPLE_COMMON        = 6;
+    const PEOPLE_ENDHUMANOID   = 7;
+    //
+    const PEOPLE_CREATURE      = 7;
+    //
+    const PEOPLE_FAUNA         = 7;
+    const PEOPLE_ARMA          = 7;
+    const PEOPLE_BALDUSE       = 8;
+    const PEOPLE_BUL           = 9;
+    const PEOPLE_CAPRYNI       = 10;
+    const PEOPLE_CHONARI       = 11;
+    const PEOPLE_CLAPCLAP      = 12;
+    const PEOPLE_COCOCLAW      = 13;
+    const PEOPLE_CUTE          = 14;
+    const PEOPLE_DAG           = 15;
+    const PEOPLE_DIRANAK       = 16;
+    const PEOPLE_ESTRASSON     = 17;
+    const PEOPLE_FILIN         = 18;
+    const PEOPLE_FRAHAR        = 19;
+    const PEOPLE_GIBBAI        = 20;
+    const PEOPLE_HACHTAHA      = 21;
+    const PEOPLE_JUNGLER       = 22;
+    const PEOPLE_KAKTY         = 23;
+    const PEOPLE_KALAB         = 24;
+    const PEOPLE_KAMI          = 25;
+    const PEOPLE_KAZOAR        = 26;
+    const PEOPLE_KITIN         = 27;
+    //
+    const PEOPLE_KITINS        = 28;
+    const PEOPLE_KITIFLY       = 28;
+    const PEOPLE_KITIHANK      = 29;
+    const PEOPLE_KITIHARAK     = 30;
+    const PEOPLE_KITIKIL       = 31;
+    const PEOPLE_KITIMANDIB    = 32;
+    const PEOPLE_KITINAGAN     = 33;
+    const PEOPLE_KITINEGA      = 34;
+    const PEOPLE_KITINOKTO     = 35;
+    const PEOPLE_ENDKITINS     = 36;
+    //
+    const PEOPLE_LIGHTBIRD     = 36;
+    const PEOPLE_MEKTOUB       = 37;
+    const PEOPLE_MEKTOUBPACKER = 38;
+    const PEOPLE_MEKTOUBMOUNT  = 39;
+    const PEOPLE_PUCETRON      = 40;
+    const PEOPLE_REGUS         = 41;
+    const PEOPLE_RYZERB        = 42;
+    const PEOPLE_RYZOHOLO      = 43;
+    const PEOPLE_RYZOHOLOK     = 44;
+    const PEOPLE_VAMPIGNON     = 45;
+    const PEOPLE_VARINX        = 46;
+    const PEOPLE_YBER          = 47;
+    const PEOPLE_ZERX          = 48;
+    const PEOPLE_RACE_C1       = 49;
+    const PEOPLE_RACE_C2       = 50;
+    const PEOPLE_RACE_C3       = 51;
+    const PEOPLE_RACE_C4       = 52;
+    const PEOPLE_RACE_C5       = 53;
+    const PEOPLE_RACE_C6       = 54;
+    const PEOPLE_RACE_C7       = 55;
+    const PEOPLE_RACE_H1       = 56;
+    const PEOPLE_RACE_H2       = 57;
+    const PEOPLE_RACE_H3       = 58;
+    const PEOPLE_RACE_H4       = 59;
+    const PEOPLE_RACE_H5       = 60;
+    const PEOPLE_RACE_H6       = 61;
+    const PEOPLE_RACE_H7       = 62;
+    const PEOPLE_RACE_H8       = 63;
+    const PEOPLE_RACE_H9       = 64;
+    const PEOPLE_RACE_H10      = 65;
+    const PEOPLE_RACE_H11      = 66;
+    const PEOPLE_RACE_H12      = 67;
+    const PEOPLE_ENDFAUNA      = 68;
+    //
+    const PEOPLE_FLORA         = 68;
+    const PEOPLE_CEPHALOPLANT  = 68;
+    const PEOPLE_ELECTROALGS   = 69;
+    const PEOPLE_PHYTOPSY      = 70;
+    const PEOPLE_SAPENSLAVER   = 71;
+    const PEOPLE_SPITTINGWEEDS = 72;
+    const PEOPLE_SWARMPLANTS   = 73;
+    const PEOPLE_ENDFLORA      = 74;
+    //
+    const PEOPLE_GOO           = 74;
+    // goo mobs starting from GooArma=74, ending with GooSwarmplants=140
+    //
+    // GooKitin is out-of-order, normal list goes: Kazoar, Kitin, Kitifly
+    // GooKazoar = 93;
+    // GooKitifly = 94;
+    // GooKitihank = 95;
+    // GooKitiharak = 96;
+    // GooKitikil = 97;
+    // GooKitimandib = 98;
+    // GooKitin = 99;
+    // GooKitinagan = 100;
+    // GooKitinega = 101;
+    // GooKitinokto = 102;
+    //
+    const PEOPLE_ENDGOO        = 141;
+    //
+    const PEOPLE_ENDCREATURE   = 141;
+
+    //
     // sbrick 'action_nature'
     const ACTION_FIGHT = 0;
     const ACTION_OFFENSIVE_MAGIC = 1;
@@ -612,6 +727,30 @@ class RyzomExtra
         }
 
         return $effects;
+    }
+
+    /**
+     * Return dataset file where sheet info is located
+     *
+     * @param string $sheet creature, title, item, etc
+     * @param string|int $extra optional full sheet name or numerid id
+     *
+     * @return string
+     */
+    static public function get_dataset_name($sheet, $extra = false) {
+        switch($sheet) {
+        case 'creature':
+            $keys = array_flip(str_split('abcdefghijklmnopqrstuvwxyz', 1));
+            $k = substr($extra, 0, 1);
+            if (!isset($keys[$k])) {
+                $k = '_';
+            }
+            $ret = 'creature-'.$k;
+            break;
+        default:
+            $ret = $sheet;
+        }
+        return $ret;
     }
 }
 
@@ -913,6 +1052,37 @@ function ryzom_skilltree()
     }
 
     return $cache;
+}
+
+/**
+ * Return creature info
+ *
+ * @param strring $sheetid
+ *
+ * @return array
+ */
+function ryzom_creature_info($sheetid){
+    static $cache = array(); // ~40MiB (php7), creature
+
+    // include data file if needed
+    $fname = RyzomExtra::get_dataset_name('creature', $sheetid);
+    if(empty($cache[$fname])){
+        $file = RYZOM_EXTRA_SHEETS_CACHE.'/'.$fname.'.serial';
+        $cache[$fname] = ryzom_extra_load_dataset($file);
+    }
+
+    $_id = strtolower($sheetid);
+    if(preg_match('/^(.*)\.creature$/', $_id, $m)){
+        $_id=$m[1];
+	} else {
+		$_id = $sheetid;
+	}
+
+    if(!isset($cache[$fname][$_id])){
+        $result = false;
+        return $result;
+    }
+    return $cache[$fname][$_id];
 }
 
 /**

@@ -37,6 +37,9 @@ class PackedSheetsExport extends AbstractSheetExport {
 	 */
 	function export(array $data, $sheet) {
 		switch ($sheet) {
+		case 'creature':
+			$export = new Sheets\CharacterSheetExport($this->sheetIds, $this->sheetsManager, $this->path, $this->encoder);
+			break;
 		case 'item':
 		case 'sitem':
 			$export = new Sheets\ItemSheetExport($this->sheetIds, $this->sheetsManager, $this->path, $this->encoder);
