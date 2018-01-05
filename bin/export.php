@@ -31,10 +31,14 @@ $mem = memory_get_usage(true);
 require_once __DIR__.'/../vendor/autoload.php';
 
 /***/
-if (!file_exists(__DIR__.'/config.php')) {
-	die('- unable to find config.php'.PHP_EOL);
+$opts = getopt("", array("config:"));
+if (empty($opts['config'])) {
+	$opts['config'] = __DIR__.'/config.php';
 }
-$config = require_once __DIR__.'/config.php';
+if (!file_exists($opts['config'])) {
+	die("- unable to find {$opts['config']}".PHP_EOL);
+}
+$config = require_once $opts['config'];
 
 /***/
 $app = new \RyzomExtra\Export\Application();
@@ -51,13 +55,7 @@ if ($config['encoder'] == 'json') {
 $app->exportSheetIds();
 
 // .packed_sheets
-$app->exportSheets(array(
-	//'item',
-	'sitem', 'skill_tree', 'sbrick', 'sphrase',
-	//'creature',
-	//'outpost', 'outpost_squad', 'outpost_building',
-	//'faction',
-));
+$app->exportSheets($config['sheets']);
 
 // visual_slot.tab
 $app->exportVisualSlots();
