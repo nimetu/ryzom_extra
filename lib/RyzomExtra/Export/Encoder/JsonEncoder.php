@@ -28,7 +28,42 @@ class JsonEncoder implements EncoderInterface {
 
 	/** {@inheritdoc} */
 	function encode(array $array) {
-		return json_encode($array, JSON_PRETTY_PRINT|JSON_UNESCAPED_UNICODE);
+		$ret = json_encode($array, JSON_PRETTY_PRINT|JSON_UNESCAPED_UNICODE);
+		if ($ret === false) {
+			echo "!! json encoding error\n";
+			// monkey patch extended ascii chars that give utf8 errors
+			// these does not appear to be used (16 in total)
+			// 107155: filament_de_greslin_modifi<E9>_744.mp -> filament_de_greslin_modifié_744.mp
+			// 108691: lichen_d<92>armilo_modifi<E9>_743.mp -> lichen_d’armilo_modifié_743.mp
+			$fixes = array(
+				"\xE9" => 'é',
+				"\x92" => '’',
+			);
+			foreach($array as $key => $value) {
+				$fixed = false;
+				foreach($fixes as $find => $replace) {
+					// test agains $value, but do replacement in $array
+					if (strpos($value, $find) !== false) {
+						$fixed = str_replace($find, $replace, $array[$key]);
+						$array[$key] = $fixed;
+					}
+				}
+				if ($fixed !== false) {
+					echo "  $key: $value -> $fixed\n";
+				}
+			}
+
+			$ret = json_encode($array, JSON_PRETTY_PRINT|JSON_UNESCAPED_UNICODE);
+			if ($ret === false) {
+				foreach($array as $key => $value) {
+					if (json_encode(array($key => $value)) !== false) {
+						throw new \RuntimeException("Invalid value for json encoder: [$key]($value)");
+					}
+				}
+			}
+		}
+
+		return $ret;
 	}
 
 	/** {@inheritdoc} */
