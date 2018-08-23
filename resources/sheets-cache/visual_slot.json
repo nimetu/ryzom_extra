@@ -197,7 +197,8 @@
         "101": "iczacp_leader01.sitem",
         "102": "iccahp_b.sitem",
         "103": "eroukan_p.sitem",
-        "104": "iccacp_pvp.sitem"
+        "104": "iccacp_pvp.sitem",
+        "105": "iccacp_ranger.sitem"
     },
     "3": {
         "1": "fy_cheveux_long01.sitem",
@@ -1198,7 +1199,14 @@
         "516": "rite_mat_geo_1_butterfly_net.sitem",
         "517": "xmas_gingerbread.sitem",
         "518": "xmas_gingeryubo.sitem",
-        "519": "ic_ice_stick.sitem"
+        "519": "ic_ice_stick.sitem",
+        "520": "ic_star_stick.sitem",
+        "521": "teddarma.sitem",
+        "522": "teddgubani.sitem",
+        "523": "teddlumper.sitem",
+        "524": "teddmadakam.sitem",
+        "525": "teddploderos.sitem",
+        "526": "teddragus.sitem"
     },
     "9": {
         "1": "icfm1pd.sitem",
@@ -1265,6 +1273,7 @@
         "62": "casinoshield_pre_order.sitem",
         "63": "icbss_marauder.sitem",
         "64": "icbss_pvp.sitem",
-        "65": "rite_mat_geo_tool_handcolor.sitem"
+        "65": "rite_mat_geo_tool_handcolor.sitem",
+        "66": "icbss_ranger.sitem"
     }
 }

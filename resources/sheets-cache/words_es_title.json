@@ -7594,5 +7594,33 @@
     "gn_room_access": {
         "name": "Terminal",
         "women_name": ""
+    },
+    "gn_karavan_altar_silan_ranger_camp": {
+        "name": "Altar de la Karavan en el Campo Ranger",
+        "women_name": ""
+    },
+    "gn_kami_altar_silan_ranger_camp": {
+        "name": "Altar de los Kamis en el Campo Ranger",
+        "women_name": ""
+    },
+    "gn_karavan_altar_silan_shattered_ruins": {
+        "name": "Altar de las Ruinas devastadas",
+        "women_name": ""
+    },
+    "gn_kami_altar_silan_shining_lake": {
+        "name": "Altar del Lago reluciente",
+        "women_name": ""
+    },
+    "fct_ranger_instructor": {
+        "name": "Ranger instructor",
+        "women_name": "Ranger instructora"
+    },
+    "fct_ranger_assistant": {
+        "name": "Instructor ayudante",
+        "women_name": "Instructora ayudante"
+    },
+    "fct_ranger_veteran": {
+        "name": "Ranger veterano",
+        "women_name": "Ranger veterana"
     }
 }

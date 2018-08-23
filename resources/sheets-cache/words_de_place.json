@@ -1548,7 +1548,7 @@
         "name": "Min-Cho Intendantenquartier"
     },
     "zo_mincho_guard_chief_quarter": {
-        "name": "Min-Cho Hauptwächterquartier"
+        "name": "Min-Cho Hauptquartier der Wache"
     },
     "zo_hoicho_captain_quarter": {
         "name": "Hoï-Cho Captainsquartier"
@@ -1566,7 +1566,7 @@
         "name": "Hoï-Cho Intendantenquartier"
     },
     "zo_hoicho_guard_chief_quarter": {
-        "name": "Hoï-Cho Hauptwächterquartier"
+        "name": "Hoï-Cho Hauptquartier der Wache"
     },
     "place_fairhaven_p_1": {
         "name": "Fairhaven Trödelmarkt"
@@ -2454,12 +2454,618 @@
         "name": "Ort der Nachricht"
     },
     "place_marauder_camp": {
-        "name": "Marodeur-Lager"
+        "name": "Lager der Marodeure"
     },
     "place_lieudit_marauder_arena": {
-        "name": "Marodeur-Arena"
+        "name": "Arena der Marodeure"
     },
     "marauder_stable": {
-        "name": "Marodeur-Stall"
+        "name": "Stall der Marodeure"
+    },
+    "continent_r2_forest": {
+        "name": "Leewindsteg"
+    },
+    "region_zorai_islands": {
+        "name": "Oflovak's Straße - Dschungel"
+    },
+    "continent_r2_roots": {
+        "name": "Unerforschte Prims"
+    },
+    "continent_r2_desert": {
+        "name": "Unerforschte Desert"
+    },
+    "continent_r2_lakes": {
+        "name": "Unerforscht Lakes"
+    },
+    "continent_r2_jungle": {
+        "name": "Unerforscht Jungle"
+    },
+    "uir2_jungle30": {
+        "name": "Großes Tal"
+    },
+    "uir2_jungle47": {
+        "name": "Gebirgskette der Mutigen"
+    },
+    "uir2_jungle36": {
+        "name": "Die vergessene Lagune"
+    },
+    "uir2_jungle33": {
+        "name": "Der Keller"
+    },
+    "uir2_jungle39": {
+        "name": "Wombaïs Durchgang"
+    },
+    "uir2_jungle23": {
+        "name": "Berg Bambus"
+    },
+    "uir2_jungle16": {
+        "name": "Hoch-Plateau"
+    },
+    "uir2_jungle01": {
+        "name": "Wald aus Wellen"
+    },
+    "uir2_jungle50": {
+        "name": "Verdorbene Quelle"
+    },
+    "uir2_jungle02": {
+        "name": "Seen"
+    },
+    "uir2_jungle45": {
+        "name": "Homins Ebene"
+    },
+    "uir2_jungle15": {
+        "name": "Beschmutzte Ebene"
+    },
+    "uir2_jungle44": {
+        "name": "Fels der Tränen"
+    },
+    "uir2_jungle19": {
+        "name": "Wasserdschungel"
+    },
+    "uir2_jungle07": {
+        "name": "Hand"
+    },
+    "uir2_jungle27": {
+        "name": "Leeres Tal"
+    },
+    "uir2_jungle21": {
+        "name": "Uneben und Vielfalt"
+    },
+    "uir2_jungle03": {
+        "name": "Goo und Bambus"
+    },
+    "uir2_jungle38": {
+        "name": "Zwillingsteiche"
+    },
+    "uir2_jungle48": {
+        "name": "Fels der Blumen"
+    },
+    "uir2_jungle34": {
+        "name": "Plateau des Goo"
+    },
+    "uir2_jungle31": {
+        "name": "Kleiner Kreis"
+    },
+    "uir2_jungle52": {
+        "name": "Die Tränen von Atys"
+    },
+    "uir2_jungle32": {
+        "name": "Goo Stellen"
+    },
+    "uir2_jungle49": {
+        "name": "Die Kette"
+    },
+    "uir2_jungle28": {
+        "name": "Kleiner Brunnen"
+    },
+    "uir2_jungle42": {
+        "name": "Die Enklave"
+    },
+    "uir2_jungle13": {
+        "name": "Spiegel des Goo"
+    },
+    "uir2_jungle51": {
+        "name": "Grüner Geist"
+    },
+    "uir2_jungle18": {
+        "name": "Herz des Dschungels"
+    },
+    "uir2_jungle29": {
+        "name": "Wasserseite"
+    },
+    "uir2_jungle06": {
+        "name": "Steiles Tal"
+    },
+    "uir2_jungle17": {
+        "name": "Promontories und Firsten"
+    },
+    "uir2_jungle26": {
+        "name": "Weiter geht das Goo"
+    },
+    "uir2_jungle11": {
+        "name": "Kahle Ebene"
+    },
+    "uir2_jungle35": {
+        "name": "Ebene der Verwüstung"
+    },
+    "uir2_jungle22": {
+        "name": "Tropischer Korridor"
+    },
+    "uir2_jungle14": {
+        "name": "Pflanzliche Vielfalt"
+    },
+    "uir2_jungle53": {
+        "name": "Maske der Zoraï"
+    },
+    "uir2_jungle43": {
+        "name": "Der geheimnisvolle Wald"
+    },
+    "uir2_jungle08": {
+        "name": "Hügel der Geister"
+    },
+    "uir2_jungle24": {
+        "name": "Bergseite"
+    },
+    "uir2_jungle25": {
+        "name": "Der Kreis"
+    },
+    "uir2_jungle05": {
+        "name": "Geschmack des Paradieses"
+    },
+    "uir2_jungle12": {
+        "name": "Wege des Irrgartens"
+    },
+    "uir2_jungle46": {
+        "name": "Der Herbst"
+    },
+    "uir2_jungle41": {
+        "name": "Große Kami-Ebene"
+    },
+    "uir2_jungle04": {
+        "name": "Mini-Goo"
+    },
+    "uir2_jungle09": {
+        "name": "Untergrundpfade"
+    },
+    "uir2_forest38": {
+        "name": "Garten der Belohnung"
+    },
+    "uir2_forest35": {
+        "name": "Mauer aus Rinde"
+    },
+    "uir2_forest44": {
+        "name": "Hain des Jen-Mawk"
+    },
+    "uir2_forest28": {
+        "name": "Klippe der Wolken"
+    },
+    "uir2_forest30": {
+        "name": "Fels des Chaos"
+    },
+    "uir2_forest39": {
+        "name": "Drei Lichtungen"
+    },
+    "uir2_forest33": {
+        "name": "Kluft des Kinchers"
+    },
+    "uir2_forest46": {
+        "name": "Die wilde Klamm"
+    },
+    "uir2_forest06": {
+        "name": "Vier-Waaserfälle"
+    },
+    "uir2_forest32": {
+        "name": "Ausgetrocknete Quellen"
+    },
+    "uir2_forest14": {
+        "name": "Große Arena"
+    },
+    "uir2_forest10": {
+        "name": "Wurweln der Erinnerung"
+    },
+    "uir2_forest09": {
+        "name": "Die weißen Hügel"
+    },
+    "uir2_forest20": {
+        "name": "Dunkelpass"
+    },
+    "uir2_forest23": {
+        "name": "Leerer Durchgang"
+    },
+    "uir2_forest17": {
+        "name": "Bawaab First"
+    },
+    "uir2_forest18": {
+        "name": "Ebene der Stacheln"
+    },
+    "uir2_forest12": {
+        "name": "Begrenzte Lichtung"
+    },
+    "uir2_forest07": {
+        "name": "Brunnen aus Geheimnissen"
+    },
+    "uir2_forest31": {
+        "name": "Teich der Träume"
+    },
+    "uir2_forest03": {
+        "name": "Reste Grünzeug"
+    },
+    "uir2_forest08": {
+        "name": "Raspals First"
+    },
+    "uir2_forest15": {
+        "name": "Kitin First"
+    },
+    "uir2_forest16": {
+        "name": "Wirbelberg"
+    },
+    "uir2_forest42": {
+        "name": "üppiger Wakd"
+    },
+    "uir2_forest11": {
+        "name": "Madakam First"
+    },
+    "uir2_forest24": {
+        "name": "Nördliche Insel"
+    },
+    "uir2_forest41": {
+        "name": "Magierturm"
+    },
+    "uir2_forest29": {
+        "name": "Wälder der Verwunderung"
+    },
+    "uir2_forest21": {
+        "name": "Durchgang des Schachts"
+    },
+    "uir2_forest01": {
+        "name": "Matis Balkon"
+    },
+    "uir2_forest36": {
+        "name": "Der letzte Brunnen"
+    },
+    "uir2_forest43": {
+        "name": "Lässiger Wald"
+    },
+    "uir2_forest27": {
+        "name": "Vergessene Ebene"
+    },
+    "uir2_forest05": {
+        "name": "Getrennte Stümpfe"
+    },
+    "uir2_forest37": {
+        "name": "Hinter dem Dschungel"
+    },
+    "uir2_forest40": {
+        "name": "Madakam Spur"
+    },
+    "uir2_forest19": {
+        "name": "Verfluchter Korridor"
+    },
+    "uir2_forest34": {
+        "name": "Kiefer des Tobaks"
+    },
+    "uir2_forest25": {
+        "name": "Schlucht des Tanzes"
+    },
+    "uir2_forest26": {
+        "name": "Lange-Insel"
+    },
+    "uir2_forest04": {
+        "name": "Zynische Sümpfe"
+    },
+    "uir2_forest45": {
+        "name": "Rindenspalte"
+    },
+    "uir2_forest22": {
+        "name": "Fang-Insel"
+    },
+    "uir2_forest13": {
+        "name": "Der Winter Steg"
+    },
+    "uir2_forest02": {
+        "name": "Klippe des Konflikts"
+    },
+    "uir2_deserts27": {
+        "name": "Versteckte Reserven"
+    },
+    "uir2_deserts25": {
+        "name": "Das große Circuit"
+    },
+    "uir2_deserts12": {
+        "name": "Drachental"
+    },
+    "uir2_deserts10": {
+        "name": "Alte Höhle"
+    },
+    "uir2_deserts20": {
+        "name": "Das Labyrinth"
+    },
+    "uir2_deserts30": {
+        "name": "Die zwei Hallen"
+    },
+    "uir2_deserts14": {
+        "name": "Bewaldeter Canyon"
+    },
+    "uir2_deserts04": {
+        "name": "Windige Schlaufe"
+    },
+    "uir2_deserts01": {
+        "name": "Der Botoga-Tropfen"
+    },
+    "uir2_deserts29": {
+        "name": "Der dunkle Durchgang"
+    },
+    "uir2_deserts24": {
+        "name": "Anhöhe der Lässigkeit"
+    },
+    "uir2_deserts18": {
+        "name": "Die Krone"
+    },
+    "uir2_deserts23": {
+        "name": "Verbundene Pfade"
+    },
+    "uir2_deserts11": {
+        "name": "Blaue Oase"
+    },
+    "uir2_deserts26": {
+        "name": "Der Bienenstock"
+    },
+    "uir2_deserts05": {
+        "name": "Die Backenden Felswände"
+    },
+    "uir2_deserts22": {
+        "name": "Sande der Einsamkeit"
+    },
+    "uir2_deserts06": {
+        "name": "Tal des Feuers"
+    },
+    "uir2_deserts31": {
+        "name": "Die Furche"
+    },
+    "uir2_deserts28": {
+        "name": "Verräterischer Durchgang"
+    },
+    "uir2_deserts15": {
+        "name": "Der Schweif der Einweihung"
+    },
+    "uir2_deserts32": {
+        "name": "Shalah Fußabdrücke"
+    },
+    "uir2_deserts17": {
+        "name": "Drei äste"
+    },
+    "uir2_deserts19": {
+        "name": "Kampf um die Macht"
+    },
+    "uir2_deserts09": {
+        "name": "Zwillingsseen"
+    },
+    "uir2_deserts13": {
+        "name": "Dünen der Mässigung"
+    },
+    "uir2_deserts33": {
+        "name": "Meditationen des Streitkolbenmeisters"
+    },
+    "uir2_deserts07": {
+        "name": "Dünen der Vergesslichkeit"
+    },
+    "uir2_deserts03": {
+        "name": "Der Schlafende Bodoc"
+    },
+    "uir2_deserts16": {
+        "name": "Unterschlupf in den Höhen"
+    },
+    "uir2_deserts21": {
+        "name": "Der Hinterhalt"
+    },
+    "uir2_deserts02": {
+        "name": "Mektoub Durchgang"
+    },
+    "uir2_deserts08": {
+        "name": "Dürrer Pass"
+    },
+    "uir2_lakes40": {
+        "name": "The High Plains"
+    },
+    "uir2_lakes34": {
+        "name": "Der gewundene Irrgarten"
+    },
+    "uir2_lakes06": {
+        "name": "Zwielicht Pass"
+    },
+    "uir2_lakes01": {
+        "name": "Grüne Lagune"
+    },
+    "uir2_lakes25": {
+        "name": "Schluchten von Sitra"
+    },
+    "uir2_lakes20": {
+        "name": "Hundert Wege"
+    },
+    "uir2_lakes23": {
+        "name": "Der Yubo Keller"
+    },
+    "uir2_lakes17": {
+        "name": "Durch die Felswand"
+    },
+    "uir2_lakes24": {
+        "name": "Der Nacken"
+    },
+    "uir2_lakes39": {
+        "name": "Die Bolas"
+    },
+    "uir2_lakes30": {
+        "name": "Das K"
+    },
+    "uir2_lakes32": {
+        "name": "Sonniger Pfad"
+    },
+    "uir2_lakes15": {
+        "name": "Der Inlandssee"
+    },
+    "uir2_lakes28": {
+        "name": "Tränen des Himmels"
+    },
+    "uir2_lakes35": {
+        "name": "Die zwei Lager"
+    },
+    "uir2_lakes10": {
+        "name": "Mystischer Weiher"
+    },
+    "uir2_lakes08": {
+        "name": "Messab Dreieck"
+    },
+    "uir2_lakes12": {
+        "name": "Tal der Teiche"
+    },
+    "uir2_lakes16": {
+        "name": "Verlangte Dünen"
+    },
+    "uir2_lakes33": {
+        "name": "Das schmale Treppenhaus"
+    },
+    "uir2_lakes27": {
+        "name": "Dacoco Strand"
+    },
+    "uir2_lakes22": {
+        "name": "Versteckte Verstecke"
+    },
+    "uir2_lakes02": {
+        "name": "Verstecktes Archipel"
+    },
+    "uir2_lakes19": {
+        "name": "Verstecktes Tal"
+    },
+    "uir2_lakes36": {
+        "name": "Raskous Ecke"
+    },
+    "uir2_lakes26": {
+        "name": "Die Wanderung"
+    },
+    "uir2_lakes11": {
+        "name": "Der Dreizack"
+    },
+    "uir2_lakes03": {
+        "name": "Zwei-Inseln"
+    },
+    "uir2_lakes05": {
+        "name": "Tal der drei Anhöhen"
+    },
+    "uir2_lakes29": {
+        "name": "Clopper Klaue"
+    },
+    "uir2_lakes31": {
+        "name": "Der Zusammenprall"
+    },
+    "uir2_lakes37": {
+        "name": "Die Ausgrabungen"
+    },
+    "uir2_lakes04": {
+        "name": "Clopper Bad"
+    },
+    "uir2_lakes14": {
+        "name": "Der Torbogen"
+    },
+    "uir2_lakes09": {
+        "name": "Wasserdellensee"
+    },
+    "uir2_lakes07": {
+        "name": "Dünen der Morgendämmerung"
+    },
+    "uir2_lakes21": {
+        "name": "Reise der Träume"
+    },
+    "uir2_lakes18": {
+        "name": "Freiheitsland"
+    },
+    "uir2_lakes38": {
+        "name": "Die Nischen"
+    },
+    "uir2_primes30": {
+        "name": "Ein altes Versteck"
+    },
+    "uir2_primes22": {
+        "name": "Hügel der Verfluchungen"
+    },
+    "uir2_primes21": {
+        "name": "Quellen des Lebens"
+    },
+    "uir2_primes23": {
+        "name": "Unbekannter Hügel"
+    },
+    "uir2_primes15": {
+        "name": "Stalagmiten der Ruhe"
+    },
+    "uir2_primes05": {
+        "name": "Bad aus Sap"
+    },
+    "uir2_primes29": {
+        "name": "Der scheinende Keller"
+    },
+    "uir2_primes20": {
+        "name": "Tal des Todes"
+    },
+    "uir2_primes01": {
+        "name": "Halle des Schicksals"
+    },
+    "uir2_primes19": {
+        "name": "Tunnel von Oblvion"
+    },
+    "uir2_primes09": {
+        "name": "Fluss der Zweifel"
+    },
+    "uir2_primes14": {
+        "name": "Heiligenstätte"
+    },
+    "uir2_primes16": {
+        "name": "Auge des Ma-Duk"
+    },
+    "uir2_primes25": {
+        "name": "Maros Schritte"
+    },
+    "uir2_primes28": {
+        "name": "Wald des Lichts"
+    },
+    "uir2_primes27": {
+        "name": "Gefallener Stumpf"
+    },
+    "uir2_primes18": {
+        "name": "zumEnde des Albtraums"
+    },
+    "uir2_primes10": {
+        "name": "Kitin-Unterschlupf"
+    },
+    "uir2_primes08": {
+        "name": "Das Nest"
+    },
+    "uir2_primes26": {
+        "name": "Unendlicher Spaziergang"
+    },
+    "uir2_primes03": {
+        "name": "Grüner-Keller"
+    },
+    "uir2_primes13": {
+        "name": "Die Arena"
+    },
+    "uir2_primes17": {
+        "name": "Verlassener Keller"
+    },
+    "uir2_primes06": {
+        "name": "Die Pfeiler"
+    },
+    "uir2_primes04": {
+        "name": "Ebene der Qualen"
+    },
+    "uir2_primes24": {
+        "name": "Kitin Verwüstung"
+    },
+    "uir2_primes07": {
+        "name": "Ruinen der Vergangenheit"
+    },
+    "uir2_primes11": {
+        "name": "Tal der Sporen"
+    },
+    "uir2_primes12": {
+        "name": "Der Bienenstock"
     }
 }

@@ -88211,5 +88211,56 @@
                 "heal_power": 65
             }
         }
+    },
+    "m0817googf01": {
+        "sheetid": "m0817googf01",
+        "stats": {
+            "mpftMpG": {
+                "durability": 90,
+                "lightness": 30,
+                "sap_load": 90,
+                "speed": 60,
+                "dodge_modifier": 100,
+                "parry_modifier": 90,
+                "adversary_dodge_modifier": 100,
+                "adversary_parry_modifier": 90
+            },
+            "mpftMpCR": {
+                "durability": 90,
+                "lightness": 90,
+                "dodge_modifier": 100,
+                "parry_modifier": 90,
+                "protection_factor": 90,
+                "max_slashing_protection": 60,
+                "max_smashing_protection": 30,
+                "max_piercing_protection": 100
+            }
+        }
+    },
+    "m0818googf01": {
+        "sheetid": "m0818googf01",
+        "stats": {
+            "mpftMpL": {
+                "durability": 90,
+                "lightness": 90,
+                "sap_load": 30,
+                "dmg": 60,
+                "speed": 90,
+                "dodge_modifier": 90,
+                "parry_modifier": 90,
+                "adversary_dodge_modifier": 100,
+                "adversary_parry_modifier": 100
+            },
+            "mpftMpRE": {
+                "durability": 60,
+                "lightness": 90,
+                "dodge_modifier": 30,
+                "parry_modifier": 90,
+                "protection_factor": 100,
+                "max_slashing_protection": 90,
+                "max_smashing_protection": 60,
+                "max_piercing_protection": 100
+            }
+        }
     }
 }

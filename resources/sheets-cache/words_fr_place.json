@@ -2596,7 +2596,7 @@
         "p": "Passages vers Vents du Songe"
     },
     "continent_zorai_island": {
-        "name": "Ilôts zoraï",
+        "name": "Route d’Oflovak",
         "p": ""
     },
     "region_zorai_island1": {
@@ -3286,5 +3286,809 @@
     "continent_r2_forest": {
         "name": "Terres Sous le Vent",
         "p": "Terres Sous le Vent"
+    },
+    "continent_r2_roots": {
+        "name": "Inexploré Prims",
+        "p": ""
+    },
+    "continent_r2_desert": {
+        "name": "Inexploré Desert",
+        "p": ""
+    },
+    "continent_r2_lakes": {
+        "name": "Inexploré Lakes",
+        "p": ""
+    },
+    "continent_r2_jungle": {
+        "name": "Inexploré Jungle",
+        "p": ""
+    },
+    "region_zorai_islands": {
+        "name": "Route d’Oflovak – Jungle",
+        "p": "Routes d’Oflovak – Jungle"
+    },
+    "uir2_jungle30": {
+        "name": "Grand vallon",
+        "p": ""
+    },
+    "uir2_jungle47": {
+        "name": "Région des braves",
+        "p": ""
+    },
+    "uir2_jungle36": {
+        "name": "Le lagon oublié",
+        "p": ""
+    },
+    "uir2_jungle33": {
+        "name": "La grotte",
+        "p": ""
+    },
+    "uir2_jungle39": {
+        "name": "Passage de Wombaï",
+        "p": ""
+    },
+    "uir2_jungle23": {
+        "name": "Bambous des montages",
+        "p": ""
+    },
+    "uir2_jungle16": {
+        "name": "Haut Plateau",
+        "p": ""
+    },
+    "uir2_jungle01": {
+        "name": "Forêt des ondes",
+        "p": ""
+    },
+    "uir2_jungle50": {
+        "name": "Source souillée",
+        "p": ""
+    },
+    "uir2_jungle02": {
+        "name": "Lacs",
+        "p": ""
+    },
+    "uir2_jungle45": {
+        "name": "Prairie des homins",
+        "p": ""
+    },
+    "uir2_jungle15": {
+        "name": "Prairie boueuse",
+        "p": ""
+    },
+    "uir2_jungle44": {
+        "name": "Rocher des lamentations",
+        "p": ""
+    },
+    "uir2_jungle19": {
+        "name": "Jungle aquatique",
+        "p": ""
+    },
+    "uir2_jungle07": {
+        "name": "Emprise",
+        "p": ""
+    },
+    "uir2_jungle27": {
+        "name": "Vallée vierge",
+        "p": ""
+    },
+    "uir2_jungle21": {
+        "name": "Irrégularité et diversité",
+        "p": ""
+    },
+    "uir2_jungle03": {
+        "name": "Goo et Bambous",
+        "p": ""
+    },
+    "uir2_jungle38": {
+        "name": "Mares jumelles",
+        "p": ""
+    },
+    "uir2_jungle48": {
+        "name": "Pierre de fleurs",
+        "p": ""
+    },
+    "uir2_jungle34": {
+        "name": "Plateau de Goo",
+        "p": ""
+    },
+    "uir2_jungle31": {
+        "name": "Petit cercle",
+        "p": ""
+    },
+    "uir2_jungle52": {
+        "name": "Les larmes d`Atys",
+        "p": ""
+    },
+    "uir2_jungle32": {
+        "name": "Taches de Goo",
+        "p": ""
+    },
+    "uir2_jungle49": {
+        "name": "La chaîne",
+        "p": ""
+    },
+    "uir2_jungle28": {
+        "name": "Petite source",
+        "p": ""
+    },
+    "uir2_jungle42": {
+        "name": "L`enclave",
+        "p": ""
+    },
+    "uir2_jungle13": {
+        "name": "Miroir de la Goo",
+        "p": ""
+    },
+    "uir2_jungle51": {
+        "name": "Esprit verdoyant",
+        "p": ""
+    },
+    "uir2_jungle18": {
+        "name": "Coeur de la jungle",
+        "p": ""
+    },
+    "uir2_jungle29": {
+        "name": "Berge",
+        "p": ""
+    },
+    "uir2_jungle06": {
+        "name": "Vallée escarpée",
+        "p": ""
+    },
+    "uir2_jungle17": {
+        "name": "Promontoires et crêtes",
+        "p": ""
+    },
+    "uir2_jungle26": {
+        "name": "Avancée de la Goo",
+        "p": ""
+    },
+    "uir2_jungle11": {
+        "name": "Plateau vierge",
+        "p": ""
+    },
+    "uir2_jungle35": {
+        "name": "Prairie de la désolation",
+        "p": ""
+    },
+    "uir2_jungle22": {
+        "name": "Couloir des tropiques",
+        "p": ""
+    },
+    "uir2_jungle14": {
+        "name": "Diversité végétale",
+        "p": ""
+    },
+    "uir2_jungle53": {
+        "name": "Masque du Zoraï",
+        "p": ""
+    },
+    "uir2_jungle43": {
+        "name": "La forêt mystérieuse",
+        "p": ""
+    },
+    "uir2_jungle08": {
+        "name": "Monticule des esprits",
+        "p": ""
+    },
+    "uir2_jungle24": {
+        "name": "Versant de la montagne",
+        "p": ""
+    },
+    "uir2_jungle25": {
+        "name": "Le cercle",
+        "p": ""
+    },
+    "uir2_jungle05": {
+        "name": "Goût de paradis",
+        "p": ""
+    },
+    "uir2_jungle12": {
+        "name": "Couloirs du labyrinthe",
+        "p": ""
+    },
+    "uir2_jungle46": {
+        "name": "La chute",
+        "p": ""
+    },
+    "uir2_jungle41": {
+        "name": "Grande prairie des Kamis",
+        "p": ""
+    },
+    "uir2_jungle04": {
+        "name": "Mini-Goo",
+        "p": ""
+    },
+    "uir2_jungle09": {
+        "name": "Sentiers souterrains",
+        "p": ""
+    },
+    "uir2_forest38": {
+        "name": "Jardin des récompenses",
+        "p": ""
+    },
+    "uir2_forest35": {
+        "name": "Mur d`écorce",
+        "p": ""
+    },
+    "uir2_forest44": {
+        "name": "Bosquet de Jen-Mawk",
+        "p": ""
+    },
+    "uir2_forest28": {
+        "name": "Falaise des nuages",
+        "p": ""
+    },
+    "uir2_forest30": {
+        "name": "Rocher du chaos",
+        "p": ""
+    },
+    "uir2_forest39": {
+        "name": "Trois clairières",
+        "p": ""
+    },
+    "uir2_forest33": {
+        "name": "Gouffre des Kinchers",
+        "p": ""
+    },
+    "uir2_forest46": {
+        "name": "Le ravin sauvage",
+        "p": ""
+    },
+    "uir2_forest06": {
+        "name": "Quatre-chutes",
+        "p": ""
+    },
+    "uir2_forest32": {
+        "name": "Souches asséchées",
+        "p": ""
+    },
+    "uir2_forest14": {
+        "name": "Grande arène",
+        "p": ""
+    },
+    "uir2_forest10": {
+        "name": "Racines de la mémoire",
+        "p": ""
+    },
+    "uir2_forest09": {
+        "name": "Les collines blanches",
+        "p": ""
+    },
+    "uir2_forest20": {
+        "name": "Passage sinistre",
+        "p": ""
+    },
+    "uir2_forest23": {
+        "name": "Passage vide",
+        "p": ""
+    },
+    "uir2_forest17": {
+        "name": "Crête des Bawaabs",
+        "p": ""
+    },
+    "uir2_forest18": {
+        "name": "Prairie des épines",
+        "p": ""
+    },
+    "uir2_forest12": {
+        "name": "Clairière perdue",
+        "p": ""
+    },
+    "uir2_forest07": {
+        "name": "Puits aux secrets",
+        "p": ""
+    },
+    "uir2_forest31": {
+        "name": "Etang des rêves",
+        "p": ""
+    },
+    "uir2_forest03": {
+        "name": "Vestiges de la végétation",
+        "p": ""
+    },
+    "uir2_forest08": {
+        "name": "Crête des Raspals",
+        "p": ""
+    },
+    "uir2_forest15": {
+        "name": "Crête des Kitins",
+        "p": ""
+    },
+    "uir2_forest16": {
+        "name": "Mont du tourbillon",
+        "p": ""
+    },
+    "uir2_forest42": {
+        "name": "Forêt luxuriante",
+        "p": ""
+    },
+    "uir2_forest11": {
+        "name": "Crête des Madakams",
+        "p": ""
+    },
+    "uir2_forest24": {
+        "name": "Ile du nord",
+        "p": ""
+    },
+    "uir2_forest41": {
+        "name": "Tour du Mage",
+        "p": ""
+    },
+    "uir2_forest29": {
+        "name": "Bois des merveilles",
+        "p": ""
+    },
+    "uir2_forest21": {
+        "name": "Passage de la mine",
+        "p": ""
+    },
+    "uir2_forest01": {
+        "name": "Balcon des Matis",
+        "p": ""
+    },
+    "uir2_forest36": {
+        "name": "Le dernier puits",
+        "p": ""
+    },
+    "uir2_forest43": {
+        "name": "Forêt de la sérénité",
+        "p": ""
+    },
+    "uir2_forest27": {
+        "name": "Plateau oublié",
+        "p": ""
+    },
+    "uir2_forest05": {
+        "name": "Grosse souche",
+        "p": ""
+    },
+    "uir2_forest37": {
+        "name": "Au-delà de la Jungle",
+        "p": ""
+    },
+    "uir2_forest40": {
+        "name": "Piste des Madakams",
+        "p": ""
+    },
+    "uir2_forest19": {
+        "name": "Couloir hanté",
+        "p": ""
+    },
+    "uir2_forest34": {
+        "name": "Lacération des Tobaks",
+        "p": ""
+    },
+    "uir2_forest25": {
+        "name": "Gorge de la danse",
+        "p": ""
+    },
+    "uir2_forest26": {
+        "name": "Ile infinie",
+        "p": ""
+    },
+    "uir2_forest04": {
+        "name": "Marais cyniques",
+        "p": ""
+    },
+    "uir2_forest45": {
+        "name": "Fendécorce",
+        "p": ""
+    },
+    "uir2_forest22": {
+        "name": "Ile aux crocs",
+        "p": ""
+    },
+    "uir2_forest13": {
+        "name": "La jetée de l`hiver",
+        "p": ""
+    },
+    "uir2_forest02": {
+        "name": "Falaise du conflit",
+        "p": ""
+    },
+    "uir2_deserts27": {
+        "name": "Réserves secrètes",
+        "p": ""
+    },
+    "uir2_deserts25": {
+        "name": "Le grand circuit",
+        "p": ""
+    },
+    "uir2_deserts12": {
+        "name": "Vallée du dragon",
+        "p": ""
+    },
+    "uir2_deserts10": {
+        "name": "Caverne antique",
+        "p": ""
+    },
+    "uir2_deserts20": {
+        "name": "Le labyrinthe",
+        "p": ""
+    },
+    "uir2_deserts30": {
+        "name": "Les deux chambres",
+        "p": ""
+    },
+    "uir2_deserts14": {
+        "name": "Canyon boisé",
+        "p": ""
+    },
+    "uir2_deserts04": {
+        "name": "La boucle venteuse",
+        "p": ""
+    },
+    "uir2_deserts01": {
+        "name": "La chute de Botoga",
+        "p": ""
+    },
+    "uir2_deserts29": {
+        "name": "Le sentier obscur",
+        "p": ""
+    },
+    "uir2_deserts24": {
+        "name": "Sommet de la sérénité",
+        "p": ""
+    },
+    "uir2_deserts18": {
+        "name": "La couronne",
+        "p": ""
+    },
+    "uir2_deserts23": {
+        "name": "Chemins reliés",
+        "p": ""
+    },
+    "uir2_deserts11": {
+        "name": "Oasis bleue",
+        "p": ""
+    },
+    "uir2_deserts26": {
+        "name": "La ruche",
+        "p": ""
+    },
+    "uir2_deserts05": {
+        "name": "Les falaises gloutonnes",
+        "p": ""
+    },
+    "uir2_deserts22": {
+        "name": "Sables de la solitude",
+        "p": ""
+    },
+    "uir2_deserts06": {
+        "name": "Vallée du feu",
+        "p": ""
+    },
+    "uir2_deserts31": {
+        "name": "Le sillon",
+        "p": ""
+    },
+    "uir2_deserts28": {
+        "name": "Passage perfide",
+        "p": ""
+    },
+    "uir2_deserts15": {
+        "name": "La piste initiatique",
+        "p": ""
+    },
+    "uir2_deserts32": {
+        "name": "Empreintes de Shalah",
+        "p": ""
+    },
+    "uir2_deserts17": {
+        "name": "Trois branches",
+        "p": ""
+    },
+    "uir2_deserts19": {
+        "name": "Lutte de pouvoirs",
+        "p": ""
+    },
+    "uir2_deserts09": {
+        "name": "Lacs jumeaux",
+        "p": ""
+    },
+    "uir2_deserts13": {
+        "name": "Dunes de la sagesse",
+        "p": ""
+    },
+    "uir2_deserts33": {
+        "name": "Réflexions sur le maître des massues",
+        "p": ""
+    },
+    "uir2_deserts07": {
+        "name": "Dunes de l`oubli",
+        "p": ""
+    },
+    "uir2_deserts03": {
+        "name": "Le Bodoc endormi",
+        "p": ""
+    },
+    "uir2_deserts16": {
+        "name": "Repaire aux sommets",
+        "p": ""
+    },
+    "uir2_deserts21": {
+        "name": "L`embuscade",
+        "p": ""
+    },
+    "uir2_deserts02": {
+        "name": "Passage de Mektoubs",
+        "p": ""
+    },
+    "uir2_deserts08": {
+        "name": "Col aride",
+        "p": ""
+    },
+    "uir2_lakes40": {
+        "name": "Les hautes plaines",
+        "p": ""
+    },
+    "uir2_lakes34": {
+        "name": "Le labyrinthe sinueux",
+        "p": ""
+    },
+    "uir2_lakes06": {
+        "name": "Col du crépuscule",
+        "p": ""
+    },
+    "uir2_lakes01": {
+        "name": "Lagon vert",
+        "p": ""
+    },
+    "uir2_lakes25": {
+        "name": "Gorges de Sitra",
+        "p": ""
+    },
+    "uir2_lakes20": {
+        "name": "Les cent chemins",
+        "p": ""
+    },
+    "uir2_lakes23": {
+        "name": "La grotte des Yubos",
+        "p": ""
+    },
+    "uir2_lakes17": {
+        "name": "A travers la falaise",
+        "p": ""
+    },
+    "uir2_lakes24": {
+        "name": "Le collet",
+        "p": ""
+    },
+    "uir2_lakes39": {
+        "name": "Les Bolas",
+        "p": ""
+    },
+    "uir2_lakes30": {
+        "name": "Le K",
+        "p": ""
+    },
+    "uir2_lakes32": {
+        "name": "Chemin ensoleillé",
+        "p": ""
+    },
+    "uir2_lakes15": {
+        "name": "La mer intérieure",
+        "p": ""
+    },
+    "uir2_lakes28": {
+        "name": "Larmes des cieux",
+        "p": ""
+    },
+    "uir2_lakes35": {
+        "name": "Les deux cachettes",
+        "p": ""
+    },
+    "uir2_lakes10": {
+        "name": "Etang mystique",
+        "p": ""
+    },
+    "uir2_lakes08": {
+        "name": "Triangle des Messabs",
+        "p": ""
+    },
+    "uir2_lakes12": {
+        "name": "Vallée des mares",
+        "p": ""
+    },
+    "uir2_lakes16": {
+        "name": "Dunes reconquises",
+        "p": ""
+    },
+    "uir2_lakes33": {
+        "name": "L`escalier étroit",
+        "p": ""
+    },
+    "uir2_lakes27": {
+        "name": "Plage Dacoco",
+        "p": ""
+    },
+    "uir2_lakes22": {
+        "name": "Failles cachées",
+        "p": ""
+    },
+    "uir2_lakes02": {
+        "name": "Archipel caché",
+        "p": ""
+    },
+    "uir2_lakes19": {
+        "name": "Vallée cachée",
+        "p": ""
+    },
+    "uir2_lakes36": {
+        "name": "Coin de Raskous",
+        "p": ""
+    },
+    "uir2_lakes26": {
+        "name": "La randonnée",
+        "p": ""
+    },
+    "uir2_lakes11": {
+        "name": "Le trident",
+        "p": ""
+    },
+    "uir2_lakes03": {
+        "name": "Deux-îles",
+        "p": ""
+    },
+    "uir2_lakes05": {
+        "name": "Vallée aux trois pics",
+        "p": ""
+    },
+    "uir2_lakes29": {
+        "name": "Griffe du Clopper",
+        "p": ""
+    },
+    "uir2_lakes31": {
+        "name": "Le conflit",
+        "p": ""
+    },
+    "uir2_lakes37": {
+        "name": "Les excavations",
+        "p": ""
+    },
+    "uir2_lakes04": {
+        "name": "Baignade des Cloppers",
+        "p": ""
+    },
+    "uir2_lakes14": {
+        "name": "La voûte",
+        "p": ""
+    },
+    "uir2_lakes09": {
+        "name": "Lac de Valloneau",
+        "p": ""
+    },
+    "uir2_lakes07": {
+        "name": "Dunes de l`aube",
+        "p": ""
+    },
+    "uir2_lakes21": {
+        "name": "Voyage féerique",
+        "p": ""
+    },
+    "uir2_lakes18": {
+        "name": "Terre de la liberté",
+        "p": ""
+    },
+    "uir2_lakes38": {
+        "name": "Les niches",
+        "p": ""
+    },
+    "uir2_primes30": {
+        "name": "Une ancienne cachette",
+        "p": ""
+    },
+    "uir2_primes22": {
+        "name": "Mont des malédictions",
+        "p": ""
+    },
+    "uir2_primes21": {
+        "name": "Sources de vie",
+        "p": ""
+    },
+    "uir2_primes23": {
+        "name": "Monticule mystérieux",
+        "p": ""
+    },
+    "uir2_primes15": {
+        "name": "Stalagmites de la tranquillité",
+        "p": ""
+    },
+    "uir2_primes05": {
+        "name": "Le bain de sève",
+        "p": ""
+    },
+    "uir2_primes29": {
+        "name": "La grotte scintillante",
+        "p": ""
+    },
+    "uir2_primes20": {
+        "name": "Vallée de la mort",
+        "p": ""
+    },
+    "uir2_primes01": {
+        "name": "Salle du destin",
+        "p": ""
+    },
+    "uir2_primes19": {
+        "name": "Galeries de l`oubli",
+        "p": ""
+    },
+    "uir2_primes09": {
+        "name": "Fleuve des doutes",
+        "p": ""
+    },
+    "uir2_primes14": {
+        "name": "Sanctuaire",
+        "p": ""
+    },
+    "uir2_primes16": {
+        "name": "Oeil de Ma-Duk",
+        "p": ""
+    },
+    "uir2_primes25": {
+        "name": "Marches de Maro",
+        "p": ""
+    },
+    "uir2_primes28": {
+        "name": "Forêt de la lumière",
+        "p": ""
+    },
+    "uir2_primes27": {
+        "name": "Souche brisée",
+        "p": ""
+    },
+    "uir2_primes18": {
+        "name": "A la fin du cauchemar",
+        "p": ""
+    },
+    "uir2_primes10": {
+        "name": "Repaire des Kitins",
+        "p": ""
+    },
+    "uir2_primes08": {
+        "name": "Le nid",
+        "p": ""
+    },
+    "uir2_primes26": {
+        "name": "Marche éternelle",
+        "p": ""
+    },
+    "uir2_primes03": {
+        "name": "Grotte-verte",
+        "p": ""
+    },
+    "uir2_primes13": {
+        "name": "L`arène",
+        "p": ""
+    },
+    "uir2_primes17": {
+        "name": "Grotte abandonnée",
+        "p": ""
+    },
+    "uir2_primes06": {
+        "name": "Les statues",
+        "p": ""
+    },
+    "uir2_primes04": {
+        "name": "Prairie des tourments",
+        "p": ""
+    },
+    "uir2_primes24": {
+        "name": "Désolation des Kitins",
+        "p": ""
+    },
+    "uir2_primes07": {
+        "name": "Ruines du passé",
+        "p": ""
+    },
+    "uir2_primes11": {
+        "name": "Vallée des spores",
+        "p": ""
+    },
+    "uir2_primes12": {
+        "name": "La ruche",
+        "p": ""
     }
 }

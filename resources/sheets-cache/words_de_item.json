@@ -32825,8 +32825,8 @@
         "description": ""
     },
     "teddyubo": {
-        "name": "Plüschyubo",
-        "p": "Plüschyubos",
+        "name": "Plüsch",
+        "p": "Plüsch",
         "description": ""
     },
     "casinoshield_pre_order": {
@@ -33421,7 +33421,7 @@
     },
     "rpjob_elementary": {
         "name": "Basis-Beruf",
-        "p": "Basis-Berufe",
+        "p": "Basisberufe",
         "description": ""
     },
     "rpjob_advanced": {
@@ -33431,7 +33431,7 @@
     },
     "rpjob_roleplay": {
         "name": "Basis-Beruf",
-        "p": "Basis-Berufe",
+        "p": "Basisberufe",
         "description": ""
     },
     "rpjobitem_certifications": {
@@ -34444,6 +34444,4596 @@
         "p": "Marauders-Teleportationskristalle",
         "description": ""
     },
+    "npc_caravan_pistol_p": {
+        "name": "<GEN>npc_caravan_pistol_p",
+        "p": "",
+        "description": ""
+    },
+    "arma_mount": {
+        "name": "<GEN>arma_mount",
+        "p": "",
+        "description": ""
+    },
+    "iapd1": {
+        "name": "<GEN>iapd1",
+        "p": "",
+        "description": ""
+    },
+    "iapd2": {
+        "name": "<GEN>iapd2",
+        "p": "",
+        "description": ""
+    },
+    "iapd3": {
+        "name": "<GEN>iapd3",
+        "p": "",
+        "description": ""
+    },
+    "iapd4": {
+        "name": "<GEN>iapd4",
+        "p": "",
+        "description": ""
+    },
+    "iapdc1": {
+        "name": "<GEN>iapdc1",
+        "p": "",
+        "description": ""
+    },
+    "iapdc2": {
+        "name": "<GEN>iapdc2",
+        "p": "",
+        "description": ""
+    },
+    "iapdc3": {
+        "name": "<GEN>iapdc3",
+        "p": "",
+        "description": ""
+    },
+    "iapdc4": {
+        "name": "<GEN>iapdc4",
+        "p": "",
+        "description": ""
+    },
+    "iapdd1": {
+        "name": "<GEN>iapdd1",
+        "p": "",
+        "description": ""
+    },
+    "iapdd2": {
+        "name": "<GEN>iapdd2",
+        "p": "",
+        "description": ""
+    },
+    "iapdd3": {
+        "name": "<GEN>iapdd3",
+        "p": "",
+        "description": ""
+    },
+    "iapdd4": {
+        "name": "<GEN>iapdd4",
+        "p": "",
+        "description": ""
+    },
+    "iapde1": {
+        "name": "<GEN>iapde1",
+        "p": "",
+        "description": ""
+    },
+    "iapde2": {
+        "name": "<GEN>iapde2",
+        "p": "",
+        "description": ""
+    },
+    "iapde3": {
+        "name": "<GEN>iapde3",
+        "p": "",
+        "description": ""
+    },
+    "iapde4": {
+        "name": "<GEN>iapde4",
+        "p": "",
+        "description": ""
+    },
+    "iapdf1": {
+        "name": "<GEN>iapdf1",
+        "p": "",
+        "description": ""
+    },
+    "iapdf2": {
+        "name": "<GEN>iapdf2",
+        "p": "",
+        "description": ""
+    },
+    "iapdf3": {
+        "name": "<GEN>iapdf3",
+        "p": "",
+        "description": ""
+    },
+    "iapdf4": {
+        "name": "<GEN>iapdf4",
+        "p": "",
+        "description": ""
+    },
+    "iapf1": {
+        "name": "<GEN>iapf1",
+        "p": "",
+        "description": ""
+    },
+    "iapf2": {
+        "name": "<GEN>iapf2",
+        "p": "",
+        "description": ""
+    },
+    "iapf3": {
+        "name": "<GEN>iapf3",
+        "p": "",
+        "description": ""
+    },
+    "iapf4": {
+        "name": "<GEN>iapf4",
+        "p": "",
+        "description": ""
+    },
+    "iapfc1": {
+        "name": "<GEN>iapfc1",
+        "p": "",
+        "description": ""
+    },
+    "iapfc2": {
+        "name": "<GEN>iapfc2",
+        "p": "",
+        "description": ""
+    },
+    "iapfc3": {
+        "name": "<GEN>iapfc3",
+        "p": "",
+        "description": ""
+    },
+    "iapfc4": {
+        "name": "<GEN>iapfc4",
+        "p": "",
+        "description": ""
+    },
+    "iapfd1": {
+        "name": "<GEN>iapfd1",
+        "p": "",
+        "description": ""
+    },
+    "iapfd2": {
+        "name": "<GEN>iapfd2",
+        "p": "",
+        "description": ""
+    },
+    "iapfd3": {
+        "name": "<GEN>iapfd3",
+        "p": "",
+        "description": ""
+    },
+    "iapfd4": {
+        "name": "<GEN>iapfd4",
+        "p": "",
+        "description": ""
+    },
+    "iapfe1": {
+        "name": "<GEN>iapfe1",
+        "p": "",
+        "description": ""
+    },
+    "iapfe2": {
+        "name": "<GEN>iapfe2",
+        "p": "",
+        "description": ""
+    },
+    "iapfe3": {
+        "name": "<GEN>iapfe3",
+        "p": "",
+        "description": ""
+    },
+    "iapfe4": {
+        "name": "<GEN>iapfe4",
+        "p": "",
+        "description": ""
+    },
+    "iapff1": {
+        "name": "<GEN>iapff1",
+        "p": "",
+        "description": ""
+    },
+    "iapff2": {
+        "name": "<GEN>iapff2",
+        "p": "",
+        "description": ""
+    },
+    "iapff3": {
+        "name": "<GEN>iapff3",
+        "p": "",
+        "description": ""
+    },
+    "iapff4": {
+        "name": "<GEN>iapff4",
+        "p": "",
+        "description": ""
+    },
+    "iapj1": {
+        "name": "<GEN>iapj1",
+        "p": "",
+        "description": ""
+    },
+    "iapj2": {
+        "name": "<GEN>iapj2",
+        "p": "",
+        "description": ""
+    },
+    "iapj3": {
+        "name": "<GEN>iapj3",
+        "p": "",
+        "description": ""
+    },
+    "iapj4": {
+        "name": "<GEN>iapj4",
+        "p": "",
+        "description": ""
+    },
+    "iapjc1": {
+        "name": "<GEN>iapjc1",
+        "p": "",
+        "description": ""
+    },
+    "iapjc2": {
+        "name": "<GEN>iapjc2",
+        "p": "",
+        "description": ""
+    },
+    "iapjc3": {
+        "name": "<GEN>iapjc3",
+        "p": "",
+        "description": ""
+    },
+    "iapjc4": {
+        "name": "<GEN>iapjc4",
+        "p": "",
+        "description": ""
+    },
+    "iapjd1": {
+        "name": "<GEN>iapjd1",
+        "p": "",
+        "description": ""
+    },
+    "iapjd2": {
+        "name": "<GEN>iapjd2",
+        "p": "",
+        "description": ""
+    },
+    "iapjd3": {
+        "name": "<GEN>iapjd3",
+        "p": "",
+        "description": ""
+    },
+    "iapjd4": {
+        "name": "<GEN>iapjd4",
+        "p": "",
+        "description": ""
+    },
+    "iapje1": {
+        "name": "<GEN>iapje1",
+        "p": "",
+        "description": ""
+    },
+    "iapje2": {
+        "name": "<GEN>iapje2",
+        "p": "",
+        "description": ""
+    },
+    "iapje3": {
+        "name": "<GEN>iapje3",
+        "p": "",
+        "description": ""
+    },
+    "iapje4": {
+        "name": "<GEN>iapje4",
+        "p": "",
+        "description": ""
+    },
+    "iapjf1": {
+        "name": "<GEN>iapjf1",
+        "p": "",
+        "description": ""
+    },
+    "iapjf2": {
+        "name": "<GEN>iapjf2",
+        "p": "",
+        "description": ""
+    },
+    "iapjf3": {
+        "name": "<GEN>iapjf3",
+        "p": "",
+        "description": ""
+    },
+    "iapjf4": {
+        "name": "<GEN>iapjf4",
+        "p": "",
+        "description": ""
+    },
+    "iapl1": {
+        "name": "<GEN>iapl1",
+        "p": "",
+        "description": ""
+    },
+    "iapl2": {
+        "name": "<GEN>iapl2",
+        "p": "",
+        "description": ""
+    },
+    "iapl3": {
+        "name": "<GEN>iapl3",
+        "p": "",
+        "description": ""
+    },
+    "iapl4": {
+        "name": "<GEN>iapl4",
+        "p": "",
+        "description": ""
+    },
+    "iaplc1": {
+        "name": "<GEN>iaplc1",
+        "p": "",
+        "description": ""
+    },
+    "iaplc2": {
+        "name": "<GEN>iaplc2",
+        "p": "",
+        "description": ""
+    },
+    "iaplc3": {
+        "name": "<GEN>iaplc3",
+        "p": "",
+        "description": ""
+    },
+    "iaplc4": {
+        "name": "<GEN>iaplc4",
+        "p": "",
+        "description": ""
+    },
+    "iapld1": {
+        "name": "<GEN>iapld1",
+        "p": "",
+        "description": ""
+    },
+    "iapld2": {
+        "name": "<GEN>iapld2",
+        "p": "",
+        "description": ""
+    },
+    "iapld3": {
+        "name": "<GEN>iapld3",
+        "p": "",
+        "description": ""
+    },
+    "iapld4": {
+        "name": "<GEN>iapld4",
+        "p": "",
+        "description": ""
+    },
+    "iaple1": {
+        "name": "<GEN>iaple1",
+        "p": "",
+        "description": ""
+    },
+    "iaple2": {
+        "name": "<GEN>iaple2",
+        "p": "",
+        "description": ""
+    },
+    "iaple3": {
+        "name": "<GEN>iaple3",
+        "p": "",
+        "description": ""
+    },
+    "iaple4": {
+        "name": "<GEN>iaple4",
+        "p": "",
+        "description": ""
+    },
+    "iaplf1": {
+        "name": "<GEN>iaplf1",
+        "p": "",
+        "description": ""
+    },
+    "iaplf2": {
+        "name": "<GEN>iaplf2",
+        "p": "",
+        "description": ""
+    },
+    "iaplf3": {
+        "name": "<GEN>iaplf3",
+        "p": "",
+        "description": ""
+    },
+    "iaplf4": {
+        "name": "<GEN>iaplf4",
+        "p": "",
+        "description": ""
+    },
+    "iapsd1": {
+        "name": "<GEN>iapsd1",
+        "p": "",
+        "description": ""
+    },
+    "iapsd2": {
+        "name": "<GEN>iapsd2",
+        "p": "",
+        "description": ""
+    },
+    "iapsd3": {
+        "name": "<GEN>iapsd3",
+        "p": "",
+        "description": ""
+    },
+    "iapsd4": {
+        "name": "<GEN>iapsd4",
+        "p": "",
+        "description": ""
+    },
+    "iapsdc1": {
+        "name": "<GEN>iapsdc1",
+        "p": "",
+        "description": ""
+    },
+    "iapsdc2": {
+        "name": "<GEN>iapsdc2",
+        "p": "",
+        "description": ""
+    },
+    "iapsdc3": {
+        "name": "<GEN>iapsdc3",
+        "p": "",
+        "description": ""
+    },
+    "iapsdc4": {
+        "name": "<GEN>iapsdc4",
+        "p": "",
+        "description": ""
+    },
+    "iapsdd1": {
+        "name": "<GEN>iapsdd1",
+        "p": "",
+        "description": ""
+    },
+    "iapsdd2": {
+        "name": "<GEN>iapsdd2",
+        "p": "",
+        "description": ""
+    },
+    "iapsdd3": {
+        "name": "<GEN>iapsdd3",
+        "p": "",
+        "description": ""
+    },
+    "iapsdd4": {
+        "name": "<GEN>iapsdd4",
+        "p": "",
+        "description": ""
+    },
+    "iapsde1": {
+        "name": "<GEN>iapsde1",
+        "p": "",
+        "description": ""
+    },
+    "iapsde2": {
+        "name": "<GEN>iapsde2",
+        "p": "",
+        "description": ""
+    },
+    "iapsde3": {
+        "name": "<GEN>iapsde3",
+        "p": "",
+        "description": ""
+    },
+    "iapsde4": {
+        "name": "<GEN>iapsde4",
+        "p": "",
+        "description": ""
+    },
+    "iapsdf1": {
+        "name": "<GEN>iapsdf1",
+        "p": "",
+        "description": ""
+    },
+    "iapsdf2": {
+        "name": "<GEN>iapsdf2",
+        "p": "",
+        "description": ""
+    },
+    "iapsdf3": {
+        "name": "<GEN>iapsdf3",
+        "p": "",
+        "description": ""
+    },
+    "iapsdf4": {
+        "name": "<GEN>iapsdf4",
+        "p": "",
+        "description": ""
+    },
+    "iapsf1": {
+        "name": "<GEN>iapsf1",
+        "p": "",
+        "description": ""
+    },
+    "iapsf2": {
+        "name": "<GEN>iapsf2",
+        "p": "",
+        "description": ""
+    },
+    "iapsf3": {
+        "name": "<GEN>iapsf3",
+        "p": "",
+        "description": ""
+    },
+    "iapsf4": {
+        "name": "<GEN>iapsf4",
+        "p": "",
+        "description": ""
+    },
+    "iapsfc1": {
+        "name": "<GEN>iapsfc1",
+        "p": "",
+        "description": ""
+    },
+    "iapsfc2": {
+        "name": "<GEN>iapsfc2",
+        "p": "",
+        "description": ""
+    },
+    "iapsfc3": {
+        "name": "<GEN>iapsfc3",
+        "p": "",
+        "description": ""
+    },
+    "iapsfc4": {
+        "name": "<GEN>iapsfc4",
+        "p": "",
+        "description": ""
+    },
+    "iapsfd1": {
+        "name": "<GEN>iapsfd1",
+        "p": "",
+        "description": ""
+    },
+    "iapsfd2": {
+        "name": "<GEN>iapsfd2",
+        "p": "",
+        "description": ""
+    },
+    "iapsfd3": {
+        "name": "<GEN>iapsfd3",
+        "p": "",
+        "description": ""
+    },
+    "iapsfd4": {
+        "name": "<GEN>iapsfd4",
+        "p": "",
+        "description": ""
+    },
+    "iapsfe1": {
+        "name": "<GEN>iapsfe1",
+        "p": "",
+        "description": ""
+    },
+    "iapsfe2": {
+        "name": "<GEN>iapsfe2",
+        "p": "",
+        "description": ""
+    },
+    "iapsfe3": {
+        "name": "<GEN>iapsfe3",
+        "p": "",
+        "description": ""
+    },
+    "iapsfe4": {
+        "name": "<GEN>iapsfe4",
+        "p": "",
+        "description": ""
+    },
+    "iapsff1": {
+        "name": "<GEN>iapsff1",
+        "p": "",
+        "description": ""
+    },
+    "iapsff2": {
+        "name": "<GEN>iapsff2",
+        "p": "",
+        "description": ""
+    },
+    "iapsff3": {
+        "name": "<GEN>iapsff3",
+        "p": "",
+        "description": ""
+    },
+    "iapsff4": {
+        "name": "<GEN>iapsff4",
+        "p": "",
+        "description": ""
+    },
+    "iapsj1": {
+        "name": "<GEN>iapsj1",
+        "p": "",
+        "description": ""
+    },
+    "iapsj2": {
+        "name": "<GEN>iapsj2",
+        "p": "",
+        "description": ""
+    },
+    "iapsj3": {
+        "name": "<GEN>iapsj3",
+        "p": "",
+        "description": ""
+    },
+    "iapsj4": {
+        "name": "<GEN>iapsj4",
+        "p": "",
+        "description": ""
+    },
+    "iapsjc1": {
+        "name": "<GEN>iapsjc1",
+        "p": "",
+        "description": ""
+    },
+    "iapsjc2": {
+        "name": "<GEN>iapsjc2",
+        "p": "",
+        "description": ""
+    },
+    "iapsjc3": {
+        "name": "<GEN>iapsjc3",
+        "p": "",
+        "description": ""
+    },
+    "iapsjc4": {
+        "name": "<GEN>iapsjc4",
+        "p": "",
+        "description": ""
+    },
+    "iapsjd1": {
+        "name": "<GEN>iapsjd1",
+        "p": "",
+        "description": ""
+    },
+    "iapsjd2": {
+        "name": "<GEN>iapsjd2",
+        "p": "",
+        "description": ""
+    },
+    "iapsjd3": {
+        "name": "<GEN>iapsjd3",
+        "p": "",
+        "description": ""
+    },
+    "iapsjd4": {
+        "name": "<GEN>iapsjd4",
+        "p": "",
+        "description": ""
+    },
+    "iapsje1": {
+        "name": "<GEN>iapsje1",
+        "p": "",
+        "description": ""
+    },
+    "iapsje2": {
+        "name": "<GEN>iapsje2",
+        "p": "",
+        "description": ""
+    },
+    "iapsje3": {
+        "name": "<GEN>iapsje3",
+        "p": "",
+        "description": ""
+    },
+    "iapsje4": {
+        "name": "<GEN>iapsje4",
+        "p": "",
+        "description": ""
+    },
+    "iapsjf1": {
+        "name": "<GEN>iapsjf1",
+        "p": "",
+        "description": ""
+    },
+    "iapsjf2": {
+        "name": "<GEN>iapsjf2",
+        "p": "",
+        "description": ""
+    },
+    "iapsjf3": {
+        "name": "<GEN>iapsjf3",
+        "p": "",
+        "description": ""
+    },
+    "iapsjf4": {
+        "name": "<GEN>iapsjf4",
+        "p": "",
+        "description": ""
+    },
+    "iapsl1": {
+        "name": "<GEN>iapsl1",
+        "p": "",
+        "description": ""
+    },
+    "iapsl2": {
+        "name": "<GEN>iapsl2",
+        "p": "",
+        "description": ""
+    },
+    "iapsl3": {
+        "name": "<GEN>iapsl3",
+        "p": "",
+        "description": ""
+    },
+    "iapsl4": {
+        "name": "<GEN>iapsl4",
+        "p": "",
+        "description": ""
+    },
+    "iapslc1": {
+        "name": "<GEN>iapslc1",
+        "p": "",
+        "description": ""
+    },
+    "iapslc2": {
+        "name": "<GEN>iapslc2",
+        "p": "",
+        "description": ""
+    },
+    "iapslc3": {
+        "name": "<GEN>iapslc3",
+        "p": "",
+        "description": ""
+    },
+    "iapslc4": {
+        "name": "<GEN>iapslc4",
+        "p": "",
+        "description": ""
+    },
+    "iapsld1": {
+        "name": "<GEN>iapsld1",
+        "p": "",
+        "description": ""
+    },
+    "iapsld2": {
+        "name": "<GEN>iapsld2",
+        "p": "",
+        "description": ""
+    },
+    "iapsld3": {
+        "name": "<GEN>iapsld3",
+        "p": "",
+        "description": ""
+    },
+    "iapsld4": {
+        "name": "<GEN>iapsld4",
+        "p": "",
+        "description": ""
+    },
+    "iapsle1": {
+        "name": "<GEN>iapsle1",
+        "p": "",
+        "description": ""
+    },
+    "iapsle2": {
+        "name": "<GEN>iapsle2",
+        "p": "",
+        "description": ""
+    },
+    "iapsle3": {
+        "name": "<GEN>iapsle3",
+        "p": "",
+        "description": ""
+    },
+    "iapsle4": {
+        "name": "<GEN>iapsle4",
+        "p": "",
+        "description": ""
+    },
+    "iapslf1": {
+        "name": "<GEN>iapslf1",
+        "p": "",
+        "description": ""
+    },
+    "iapslf2": {
+        "name": "<GEN>iapslf2",
+        "p": "",
+        "description": ""
+    },
+    "iapslf3": {
+        "name": "<GEN>iapslf3",
+        "p": "",
+        "description": ""
+    },
+    "iapslf4": {
+        "name": "<GEN>iapslf4",
+        "p": "",
+        "description": ""
+    },
+    "iasd1": {
+        "name": "<GEN>iasd1",
+        "p": "",
+        "description": ""
+    },
+    "iasd2": {
+        "name": "<GEN>iasd2",
+        "p": "",
+        "description": ""
+    },
+    "iasd3": {
+        "name": "<GEN>iasd3",
+        "p": "",
+        "description": ""
+    },
+    "iasd4": {
+        "name": "<GEN>iasd4",
+        "p": "",
+        "description": ""
+    },
+    "iasf1": {
+        "name": "<GEN>iasf1",
+        "p": "",
+        "description": ""
+    },
+    "iasf2": {
+        "name": "<GEN>iasf2",
+        "p": "",
+        "description": ""
+    },
+    "iasf3": {
+        "name": "<GEN>iasf3",
+        "p": "",
+        "description": ""
+    },
+    "iasf4": {
+        "name": "<GEN>iasf4",
+        "p": "",
+        "description": ""
+    },
+    "iasj1": {
+        "name": "<GEN>iasj1",
+        "p": "",
+        "description": ""
+    },
+    "iasj2": {
+        "name": "<GEN>iasj2",
+        "p": "",
+        "description": ""
+    },
+    "iasj3": {
+        "name": "<GEN>iasj3",
+        "p": "",
+        "description": ""
+    },
+    "iasj4": {
+        "name": "<GEN>iasj4",
+        "p": "",
+        "description": ""
+    },
+    "iasl1": {
+        "name": "<GEN>iasl1",
+        "p": "",
+        "description": ""
+    },
+    "iasl2": {
+        "name": "<GEN>iasl2",
+        "p": "",
+        "description": ""
+    },
+    "iasl3": {
+        "name": "<GEN>iasl3",
+        "p": "",
+        "description": ""
+    },
+    "iasl4": {
+        "name": "<GEN>iasl4",
+        "p": "",
+        "description": ""
+    },
+    "iasp": {
+        "name": "<GEN>iasp",
+        "p": "",
+        "description": ""
+    },
+    "eroukan_b": {
+        "name": "<GEN>eroukan_b",
+        "p": "",
+        "description": ""
+    },
+    "eroukan_g": {
+        "name": "<GEN>eroukan_g",
+        "p": "",
+        "description": ""
+    },
+    "eroukan_h": {
+        "name": "<GEN>eroukan_h",
+        "p": "",
+        "description": ""
+    },
+    "eroukan_p": {
+        "name": "<GEN>eroukan_p",
+        "p": "",
+        "description": ""
+    },
+    "eroukan_s": {
+        "name": "<GEN>eroukan_s",
+        "p": "",
+        "description": ""
+    },
+    "eroukan_v": {
+        "name": "<GEN>eroukan_v",
+        "p": "",
+        "description": ""
+    },
+    "iccacp": {
+        "name": "<GEN>iccacp",
+        "p": "",
+        "description": ""
+    },
+    "iccacp_boss_fyros_e1": {
+        "name": "<GEN>iccacp_boss_fyros_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccacp_boss_matis_e1": {
+        "name": "<GEN>iccacp_boss_matis_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccacp_boss_tryker_e1": {
+        "name": "<GEN>iccacp_boss_tryker_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccacp_boss_zorai_e1": {
+        "name": "<GEN>iccacp_boss_zorai_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccacp_pvp": {
+        "name": "<GEN>iccacp_pvp",
+        "p": "",
+        "description": ""
+    },
+    "iccahb_boss_fyros_e1": {
+        "name": "<GEN>iccahb_boss_fyros_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccahb_boss_matis_e1": {
+        "name": "<GEN>iccahb_boss_matis_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccahb_boss_tryker_e1": {
+        "name": "<GEN>iccahb_boss_tryker_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccahb_boss_zorai_e1": {
+        "name": "<GEN>iccahb_boss_zorai_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccahg_boss_fyros_e1": {
+        "name": "<GEN>iccahg_boss_fyros_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccahg_boss_matis_e1": {
+        "name": "<GEN>iccahg_boss_matis_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccahg_boss_tryker_e1": {
+        "name": "<GEN>iccahg_boss_tryker_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccahg_boss_zorai_e1": {
+        "name": "<GEN>iccahg_boss_zorai_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccahh_boss_fyros_e1": {
+        "name": "<GEN>iccahh_boss_fyros_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccahh_boss_matis_e1": {
+        "name": "<GEN>iccahh_boss_matis_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccahh_boss_tryker_e1": {
+        "name": "<GEN>iccahh_boss_tryker_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccahh_boss_zorai_e1": {
+        "name": "<GEN>iccahh_boss_zorai_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccahp_boss_fyros_e1": {
+        "name": "<GEN>iccahp_boss_fyros_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccahp_boss_matis_e1": {
+        "name": "<GEN>iccahp_boss_matis_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccahp_boss_tryker_e1": {
+        "name": "<GEN>iccahp_boss_tryker_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccahp_boss_zorai_e1": {
+        "name": "<GEN>iccahp_boss_zorai_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccahs_boss_fyros_e1": {
+        "name": "<GEN>iccahs_boss_fyros_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccahs_boss_matis_e1": {
+        "name": "<GEN>iccahs_boss_matis_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccahs_boss_tryker_e1": {
+        "name": "<GEN>iccahs_boss_tryker_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccahs_boss_zorai_e1": {
+        "name": "<GEN>iccahs_boss_zorai_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccahv_boss_fyros_e1": {
+        "name": "<GEN>iccahv_boss_fyros_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccahv_boss_matis_e1": {
+        "name": "<GEN>iccahv_boss_matis_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccahv_boss_tryker_e1": {
+        "name": "<GEN>iccahv_boss_tryker_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccahv_boss_zorai_e1": {
+        "name": "<GEN>iccahv_boss_zorai_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccalb_boss_fyros_e1": {
+        "name": "<GEN>iccalb_boss_fyros_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccalb_boss_matis_e1": {
+        "name": "<GEN>iccalb_boss_matis_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccalb_boss_tryker_e1": {
+        "name": "<GEN>iccalb_boss_tryker_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccalb_boss_zorai_e1": {
+        "name": "<GEN>iccalb_boss_zorai_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccalg_boss_fyros_e1": {
+        "name": "<GEN>iccalg_boss_fyros_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccalg_boss_matis_e1": {
+        "name": "<GEN>iccalg_boss_matis_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccalg_boss_tryker_e1": {
+        "name": "<GEN>iccalg_boss_tryker_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccalg_boss_zorai_e1": {
+        "name": "<GEN>iccalg_boss_zorai_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccalp_boss_fyros_e1": {
+        "name": "<GEN>iccalp_boss_fyros_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccalp_boss_matis_e1": {
+        "name": "<GEN>iccalp_boss_matis_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccalp_boss_tryker_e1": {
+        "name": "<GEN>iccalp_boss_tryker_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccalp_boss_zorai_e1": {
+        "name": "<GEN>iccalp_boss_zorai_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccals_boss_fyros_e1": {
+        "name": "<GEN>iccals_boss_fyros_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccals_boss_matis_e1": {
+        "name": "<GEN>iccals_boss_matis_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccals_boss_tryker_e1": {
+        "name": "<GEN>iccals_boss_tryker_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccals_boss_zorai_e1": {
+        "name": "<GEN>iccals_boss_zorai_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccalv_boss_fyros_e1": {
+        "name": "<GEN>iccalv_boss_fyros_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccalv_boss_matis_e1": {
+        "name": "<GEN>iccalv_boss_matis_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccalv_boss_tryker_e1": {
+        "name": "<GEN>iccalv_boss_tryker_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccalv_boss_zorai_e1": {
+        "name": "<GEN>iccalv_boss_zorai_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccamb": {
+        "name": "<GEN>iccamb",
+        "p": "",
+        "description": ""
+    },
+    "iccamb_boss_fyros_e1": {
+        "name": "<GEN>iccamb_boss_fyros_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccamb_boss_matis_e1": {
+        "name": "<GEN>iccamb_boss_matis_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccamb_boss_tryker_e1": {
+        "name": "<GEN>iccamb_boss_tryker_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccamb_boss_zorai_e1": {
+        "name": "<GEN>iccamb_boss_zorai_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccamg": {
+        "name": "<GEN>iccamg",
+        "p": "",
+        "description": ""
+    },
+    "iccamg_boss_fyros_e1": {
+        "name": "<GEN>iccamg_boss_fyros_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccamg_boss_matis_e1": {
+        "name": "<GEN>iccamg_boss_matis_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccamg_boss_tryker_e1": {
+        "name": "<GEN>iccamg_boss_tryker_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccamg_boss_zorai_e1": {
+        "name": "<GEN>iccamg_boss_zorai_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccamp": {
+        "name": "<GEN>iccamp",
+        "p": "",
+        "description": ""
+    },
+    "iccamp_boss_fyros_e1": {
+        "name": "<GEN>iccamp_boss_fyros_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccamp_boss_matis_e1": {
+        "name": "<GEN>iccamp_boss_matis_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccamp_boss_tryker_e1": {
+        "name": "<GEN>iccamp_boss_tryker_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccamp_boss_zorai_e1": {
+        "name": "<GEN>iccamp_boss_zorai_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccams": {
+        "name": "<GEN>iccams",
+        "p": "",
+        "description": ""
+    },
+    "iccams_boss_fyros_e1": {
+        "name": "<GEN>iccams_boss_fyros_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccams_boss_matis_e1": {
+        "name": "<GEN>iccams_boss_matis_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccams_boss_tryker_e1": {
+        "name": "<GEN>iccams_boss_tryker_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccams_boss_zorai_e1": {
+        "name": "<GEN>iccams_boss_zorai_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccamv": {
+        "name": "<GEN>iccamv",
+        "p": "",
+        "description": ""
+    },
+    "iccamv_boss_fyros_e1": {
+        "name": "<GEN>iccamv_boss_fyros_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccamv_boss_matis_e1": {
+        "name": "<GEN>iccamv_boss_matis_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccamv_boss_tryker_e1": {
+        "name": "<GEN>iccamv_boss_tryker_e1",
+        "p": "",
+        "description": ""
+    },
+    "iccamv_boss_zorai_e1": {
+        "name": "<GEN>iccamv_boss_zorai_e1",
+        "p": "",
+        "description": ""
+    },
+    "ikamaab": {
+        "name": "<GEN>ikamaab",
+        "p": "",
+        "description": ""
+    },
+    "ikamaag": {
+        "name": "<GEN>ikamaag",
+        "p": "",
+        "description": ""
+    },
+    "ikamaah": {
+        "name": "<GEN>ikamaah",
+        "p": "",
+        "description": ""
+    },
+    "ikamaap": {
+        "name": "<GEN>ikamaap",
+        "p": "",
+        "description": ""
+    },
+    "ikamaas": {
+        "name": "<GEN>ikamaas",
+        "p": "",
+        "description": ""
+    },
+    "ikamaav": {
+        "name": "<GEN>ikamaav",
+        "p": "",
+        "description": ""
+    },
+    "ikaraab": {
+        "name": "<GEN>ikaraab",
+        "p": "",
+        "description": ""
+    },
+    "ikaraag": {
+        "name": "<GEN>ikaraag",
+        "p": "",
+        "description": ""
+    },
+    "ikaraah": {
+        "name": "<GEN>ikaraah",
+        "p": "",
+        "description": ""
+    },
+    "ikaraap": {
+        "name": "<GEN>ikaraap",
+        "p": "",
+        "description": ""
+    },
+    "ikaraas": {
+        "name": "<GEN>ikaraas",
+        "p": "",
+        "description": ""
+    },
+    "ikaraav": {
+        "name": "<GEN>ikaraav",
+        "p": "",
+        "description": ""
+    },
+    "ikarabb": {
+        "name": "<GEN>ikarabb",
+        "p": "",
+        "description": ""
+    },
+    "ikarabg": {
+        "name": "<GEN>ikarabg",
+        "p": "",
+        "description": ""
+    },
+    "ikarabh": {
+        "name": "<GEN>ikarabh",
+        "p": "",
+        "description": ""
+    },
+    "ikarabp": {
+        "name": "<GEN>ikarabp",
+        "p": "",
+        "description": ""
+    },
+    "ikarabs": {
+        "name": "<GEN>ikarabs",
+        "p": "",
+        "description": ""
+    },
+    "ikarabv": {
+        "name": "<GEN>ikarabv",
+        "p": "",
+        "description": ""
+    },
+    "ikaracb": {
+        "name": "<GEN>ikaracb",
+        "p": "",
+        "description": ""
+    },
+    "ikaracg": {
+        "name": "<GEN>ikaracg",
+        "p": "",
+        "description": ""
+    },
+    "ikarach": {
+        "name": "<GEN>ikarach",
+        "p": "",
+        "description": ""
+    },
+    "ikaracp": {
+        "name": "<GEN>ikaracp",
+        "p": "",
+        "description": ""
+    },
+    "ikaracs": {
+        "name": "<GEN>ikaracs",
+        "p": "",
+        "description": ""
+    },
+    "ikaracv": {
+        "name": "<GEN>ikaracv",
+        "p": "",
+        "description": ""
+    },
+    "ikaraeb": {
+        "name": "<GEN>ikaraeb",
+        "p": "",
+        "description": ""
+    },
+    "ikaraeg": {
+        "name": "<GEN>ikaraeg",
+        "p": "",
+        "description": ""
+    },
+    "ikaraeh": {
+        "name": "<GEN>ikaraeh",
+        "p": "",
+        "description": ""
+    },
+    "ikaraep": {
+        "name": "<GEN>ikaraep",
+        "p": "",
+        "description": ""
+    },
+    "ikaraes": {
+        "name": "<GEN>ikaraes",
+        "p": "",
+        "description": ""
+    },
+    "ikaraev": {
+        "name": "<GEN>ikaraev",
+        "p": "",
+        "description": ""
+    },
+    "ikaramb": {
+        "name": "<GEN>ikaramb",
+        "p": "",
+        "description": ""
+    },
+    "ikaramg": {
+        "name": "<GEN>ikaramg",
+        "p": "",
+        "description": ""
+    },
+    "ikaramh": {
+        "name": "<GEN>ikaramh",
+        "p": "",
+        "description": ""
+    },
+    "ikaramp": {
+        "name": "<GEN>ikaramp",
+        "p": "",
+        "description": ""
+    },
+    "ikarams": {
+        "name": "<GEN>ikarams",
+        "p": "",
+        "description": ""
+    },
+    "ikaramv": {
+        "name": "<GEN>ikaramv",
+        "p": "",
+        "description": ""
+    },
+    "ikarasb": {
+        "name": "<GEN>ikarasb",
+        "p": "",
+        "description": ""
+    },
+    "ikarasb_b": {
+        "name": "<GEN>ikarasb_b",
+        "p": "",
+        "description": ""
+    },
+    "ikarasb_j": {
+        "name": "<GEN>ikarasb_j",
+        "p": "",
+        "description": ""
+    },
+    "ikarasb_r": {
+        "name": "<GEN>ikarasb_r",
+        "p": "",
+        "description": ""
+    },
+    "ikarasg": {
+        "name": "<GEN>ikarasg",
+        "p": "",
+        "description": ""
+    },
+    "ikarasg_b": {
+        "name": "<GEN>ikarasg_b",
+        "p": "",
+        "description": ""
+    },
+    "ikarasg_j": {
+        "name": "<GEN>ikarasg_j",
+        "p": "",
+        "description": ""
+    },
+    "ikarasg_r": {
+        "name": "<GEN>ikarasg_r",
+        "p": "",
+        "description": ""
+    },
+    "ikarash": {
+        "name": "<GEN>ikarash",
+        "p": "",
+        "description": ""
+    },
+    "ikarash_b": {
+        "name": "<GEN>ikarash_b",
+        "p": "",
+        "description": ""
+    },
+    "ikarash_j": {
+        "name": "<GEN>ikarash_j",
+        "p": "",
+        "description": ""
+    },
+    "ikarash_r": {
+        "name": "<GEN>ikarash_r",
+        "p": "",
+        "description": ""
+    },
+    "ikarasp": {
+        "name": "<GEN>ikarasp",
+        "p": "",
+        "description": ""
+    },
+    "ikarasp_b": {
+        "name": "<GEN>ikarasp_b",
+        "p": "",
+        "description": ""
+    },
+    "ikarasp_j": {
+        "name": "<GEN>ikarasp_j",
+        "p": "",
+        "description": ""
+    },
+    "ikarasp_r": {
+        "name": "<GEN>ikarasp_r",
+        "p": "",
+        "description": ""
+    },
+    "ikarass": {
+        "name": "<GEN>ikarass",
+        "p": "",
+        "description": ""
+    },
+    "ikarass_b": {
+        "name": "<GEN>ikarass_b",
+        "p": "",
+        "description": ""
+    },
+    "ikarass_j": {
+        "name": "<GEN>ikarass_j",
+        "p": "",
+        "description": ""
+    },
+    "ikarass_r": {
+        "name": "<GEN>ikarass_r",
+        "p": "",
+        "description": ""
+    },
+    "ikarasv": {
+        "name": "<GEN>ikarasv",
+        "p": "",
+        "description": ""
+    },
+    "ikarasv_b": {
+        "name": "<GEN>ikarasv_b",
+        "p": "",
+        "description": ""
+    },
+    "ikarasv_j": {
+        "name": "<GEN>ikarasv_j",
+        "p": "",
+        "description": ""
+    },
+    "ikarasv_r": {
+        "name": "<GEN>ikarasv_r",
+        "p": "",
+        "description": ""
+    },
+    "ikaratb": {
+        "name": "<GEN>ikaratb",
+        "p": "",
+        "description": ""
+    },
+    "ikaratg": {
+        "name": "<GEN>ikaratg",
+        "p": "",
+        "description": ""
+    },
+    "ikarath": {
+        "name": "<GEN>ikarath",
+        "p": "",
+        "description": ""
+    },
+    "ikaratp": {
+        "name": "<GEN>ikaratp",
+        "p": "",
+        "description": ""
+    },
+    "ikarats": {
+        "name": "<GEN>ikarats",
+        "p": "",
+        "description": ""
+    },
+    "ikaratv": {
+        "name": "<GEN>ikaratv",
+        "p": "",
+        "description": ""
+    },
+    "igfau": {
+        "name": "<GEN>igfau",
+        "p": "",
+        "description": ""
+    },
+    "igfbu": {
+        "name": "<GEN>igfbu",
+        "p": "",
+        "description": ""
+    },
+    "igfgu": {
+        "name": "<GEN>igfgu",
+        "p": "",
+        "description": ""
+    },
+    "igfpu": {
+        "name": "<GEN>igfpu",
+        "p": "",
+        "description": ""
+    },
+    "igfvu": {
+        "name": "<GEN>igfvu",
+        "p": "",
+        "description": ""
+    },
+    "igmau": {
+        "name": "<GEN>igmau",
+        "p": "",
+        "description": ""
+    },
+    "igmbu": {
+        "name": "<GEN>igmbu",
+        "p": "",
+        "description": ""
+    },
+    "igmgu": {
+        "name": "<GEN>igmgu",
+        "p": "",
+        "description": ""
+    },
+    "igmpu": {
+        "name": "<GEN>igmpu",
+        "p": "",
+        "description": ""
+    },
+    "igmvu": {
+        "name": "<GEN>igmvu",
+        "p": "",
+        "description": ""
+    },
+    "igtau": {
+        "name": "<GEN>igtau",
+        "p": "",
+        "description": ""
+    },
+    "igtbu": {
+        "name": "<GEN>igtbu",
+        "p": "",
+        "description": ""
+    },
+    "igtgu": {
+        "name": "<GEN>igtgu",
+        "p": "",
+        "description": ""
+    },
+    "igtpu": {
+        "name": "<GEN>igtpu",
+        "p": "",
+        "description": ""
+    },
+    "igtvu": {
+        "name": "<GEN>igtvu",
+        "p": "",
+        "description": ""
+    },
+    "igzau": {
+        "name": "<GEN>igzau",
+        "p": "",
+        "description": ""
+    },
+    "igzbu": {
+        "name": "<GEN>igzbu",
+        "p": "",
+        "description": ""
+    },
+    "igzgu": {
+        "name": "<GEN>igzgu",
+        "p": "",
+        "description": ""
+    },
+    "igzpu": {
+        "name": "<GEN>igzpu",
+        "p": "",
+        "description": ""
+    },
+    "igzvu": {
+        "name": "<GEN>igzvu",
+        "p": "",
+        "description": ""
+    },
+    "ipma15_kam": {
+        "name": "<GEN>ipma15_kam",
+        "p": "",
+        "description": ""
+    },
+    "ipma15_kar": {
+        "name": "<GEN>ipma15_kar",
+        "p": "",
+        "description": ""
+    },
+    "ipma20_kam": {
+        "name": "<GEN>ipma20_kam",
+        "p": "",
+        "description": ""
+    },
+    "ipma20_kar": {
+        "name": "<GEN>ipma20_kar",
+        "p": "",
+        "description": ""
+    },
+    "ipma25_kam": {
+        "name": "<GEN>ipma25_kam",
+        "p": "",
+        "description": ""
+    },
+    "ipma25_kar": {
+        "name": "<GEN>ipma25_kar",
+        "p": "",
+        "description": ""
+    },
+    "ipmb15_kam": {
+        "name": "<GEN>ipmb15_kam",
+        "p": "",
+        "description": ""
+    },
+    "ipmb15_kar": {
+        "name": "<GEN>ipmb15_kar",
+        "p": "",
+        "description": ""
+    },
+    "ipmb20_kam": {
+        "name": "<GEN>ipmb20_kam",
+        "p": "",
+        "description": ""
+    },
+    "ipmb20_kar": {
+        "name": "<GEN>ipmb20_kar",
+        "p": "",
+        "description": ""
+    },
+    "ipmb25_kam": {
+        "name": "<GEN>ipmb25_kam",
+        "p": "",
+        "description": ""
+    },
+    "ipmb25_kar": {
+        "name": "<GEN>ipmb25_kar",
+        "p": "",
+        "description": ""
+    },
+    "ipmc15_kam": {
+        "name": "<GEN>ipmc15_kam",
+        "p": "",
+        "description": ""
+    },
+    "ipmc15_kar": {
+        "name": "<GEN>ipmc15_kar",
+        "p": "",
+        "description": ""
+    },
+    "ipmc20_kam": {
+        "name": "<GEN>ipmc20_kam",
+        "p": "",
+        "description": ""
+    },
+    "ipmc20_kar": {
+        "name": "<GEN>ipmc20_kar",
+        "p": "",
+        "description": ""
+    },
+    "ipmc25_kam": {
+        "name": "<GEN>ipmc25_kam",
+        "p": "",
+        "description": ""
+    },
+    "ipmc25_kar": {
+        "name": "<GEN>ipmc25_kar",
+        "p": "",
+        "description": ""
+    },
+    "ipmd15_kam": {
+        "name": "<GEN>ipmd15_kam",
+        "p": "",
+        "description": ""
+    },
+    "ipmd15_kar": {
+        "name": "<GEN>ipmd15_kar",
+        "p": "",
+        "description": ""
+    },
+    "ipmd20_kam": {
+        "name": "<GEN>ipmd20_kam",
+        "p": "",
+        "description": ""
+    },
+    "ipmd20_kar": {
+        "name": "<GEN>ipmd20_kar",
+        "p": "",
+        "description": ""
+    },
+    "ipmd25_kam": {
+        "name": "<GEN>ipmd25_kam",
+        "p": "",
+        "description": ""
+    },
+    "ipmd25_kar": {
+        "name": "<GEN>ipmd25_kar",
+        "p": "",
+        "description": ""
+    },
+    "ipme03_kam": {
+        "name": "<GEN>ipme03_kam",
+        "p": "",
+        "description": ""
+    },
+    "ipme03_kar": {
+        "name": "<GEN>ipme03_kar",
+        "p": "",
+        "description": ""
+    },
+    "ipme04_kam": {
+        "name": "<GEN>ipme04_kam",
+        "p": "",
+        "description": ""
+    },
+    "ipme04_kar": {
+        "name": "<GEN>ipme04_kar",
+        "p": "",
+        "description": ""
+    },
+    "ipme05_kam": {
+        "name": "<GEN>ipme05_kam",
+        "p": "",
+        "description": ""
+    },
+    "ipme05_kar": {
+        "name": "<GEN>ipme05_kar",
+        "p": "",
+        "description": ""
+    },
+    "supreme_heal": {
+        "name": "<GEN>supreme_heal",
+        "p": "",
+        "description": ""
+    },
+    "test_conso_breakdance": {
+        "name": "<GEN>test_conso_breakdance",
+        "p": "",
+        "description": ""
+    },
+    "test_conso_craft_success": {
+        "name": "<GEN>test_conso_craft_success",
+        "p": "",
+        "description": ""
+    },
+    "test_conso_defense": {
+        "name": "<GEN>test_conso_defense",
+        "p": "",
+        "description": ""
+    },
+    "test_conso_desert_forage_success": {
+        "name": "<GEN>test_conso_desert_forage_success",
+        "p": "",
+        "description": ""
+    },
+    "test_conso_dodge": {
+        "name": "<GEN>test_conso_dodge",
+        "p": "",
+        "description": ""
+    },
+    "test_conso_forage_success": {
+        "name": "<GEN>test_conso_forage_success",
+        "p": "",
+        "description": ""
+    },
+    "test_conso_magic_success": {
+        "name": "<GEN>test_conso_magic_success",
+        "p": "",
+        "description": ""
+    },
+    "test_conso_melee_success": {
+        "name": "<GEN>test_conso_melee_success",
+        "p": "",
+        "description": ""
+    },
+    "test_conso_nobreak": {
+        "name": "<GEN>test_conso_nobreak",
+        "p": "",
+        "description": ""
+    },
+    "test_conso_parry": {
+        "name": "<GEN>test_conso_parry",
+        "p": "",
+        "description": ""
+    },
+    "test_conso_range_success": {
+        "name": "<GEN>test_conso_range_success",
+        "p": "",
+        "description": ""
+    },
+    "test_conso_sit": {
+        "name": "<GEN>test_conso_sit",
+        "p": "",
+        "description": ""
+    },
+    "test_conso_swim": {
+        "name": "<GEN>test_conso_swim",
+        "p": "",
+        "description": ""
+    },
+    "test_conso_toub": {
+        "name": "<GEN>test_conso_toub",
+        "p": "",
+        "description": ""
+    },
+    "test_fast_regen": {
+        "name": "<GEN>test_fast_regen",
+        "p": "",
+        "description": ""
+    },
+    "test_long_regen": {
+        "name": "<GEN>test_long_regen",
+        "p": "",
+        "description": ""
+    },
+    "light_sap_recharge": {
+        "name": "<GEN>light_sap_recharge",
+        "p": "",
+        "description": ""
+    },
+    "fy_cheveux_medium02": {
+        "name": "<GEN>fy_cheveux_medium02",
+        "p": "",
+        "description": ""
+    },
+    "fy_cheveux_medium03": {
+        "name": "<GEN>fy_cheveux_medium03",
+        "p": "",
+        "description": ""
+    },
+    "fy_cheveux_short02": {
+        "name": "<GEN>fy_cheveux_short02",
+        "p": "",
+        "description": ""
+    },
+    "fy_helmet_01": {
+        "name": "<GEN>fy_helmet_01",
+        "p": "",
+        "description": ""
+    },
+    "ka_helmet_01": {
+        "name": "<GEN>ka_helmet_01",
+        "p": "",
+        "description": ""
+    },
+    "ma_cheveux_long02": {
+        "name": "<GEN>ma_cheveux_long02",
+        "p": "",
+        "description": ""
+    },
+    "ma_cheveux_medium02": {
+        "name": "<GEN>ma_cheveux_medium02",
+        "p": "",
+        "description": ""
+    },
+    "ma_cheveux_short02": {
+        "name": "<GEN>ma_cheveux_short02",
+        "p": "",
+        "description": ""
+    },
+    "ma_helmet_01": {
+        "name": "<GEN>ma_helmet_01",
+        "p": "",
+        "description": ""
+    },
+    "tr_cheveux_medium02": {
+        "name": "<GEN>tr_cheveux_medium02",
+        "p": "",
+        "description": ""
+    },
+    "tr_cheveux_short02": {
+        "name": "<GEN>tr_cheveux_short02",
+        "p": "",
+        "description": ""
+    },
+    "tr_cheveux_short03": {
+        "name": "<GEN>tr_cheveux_short03",
+        "p": "",
+        "description": ""
+    },
+    "tr_helmet_01": {
+        "name": "<GEN>tr_helmet_01",
+        "p": "",
+        "description": ""
+    },
+    "zo_cheveux_long02": {
+        "name": "<GEN>zo_cheveux_long02",
+        "p": "",
+        "description": ""
+    },
+    "zo_cheveux_medium02": {
+        "name": "<GEN>zo_cheveux_medium02",
+        "p": "",
+        "description": ""
+    },
+    "zo_cheveux_medium03": {
+        "name": "<GEN>zo_cheveux_medium03",
+        "p": "",
+        "description": ""
+    },
+    "zo_helmet_01": {
+        "name": "<GEN>zo_helmet_01",
+        "p": "",
+        "description": ""
+    },
+    "sfxitforage_marauder": {
+        "name": "<GEN>sfxitforage_marauder",
+        "p": "",
+        "description": ""
+    },
+    "sfxitforage_pvp": {
+        "name": "<GEN>sfxitforage_pvp",
+        "p": "",
+        "description": ""
+    },
+    "sfxitforagefyros2": {
+        "name": "<GEN>sfxitforagefyros2",
+        "p": "",
+        "description": ""
+    },
+    "sfxitforagematis_2": {
+        "name": "<GEN>sfxitforagematis_2",
+        "p": "",
+        "description": ""
+    },
+    "sfxitforagetryker_2": {
+        "name": "<GEN>sfxitforagetryker_2",
+        "p": "",
+        "description": ""
+    },
+    "sfxitforagezorai_2": {
+        "name": "<GEN>sfxitforagezorai_2",
+        "p": "",
+        "description": ""
+    },
+    "bag": {
+        "name": "<GEN>bag",
+        "p": "",
+        "description": ""
+    },
+    "bag_inventory": {
+        "name": "<GEN>bag_inventory",
+        "p": "",
+        "description": ""
+    },
+    "bot_gift_inventory": {
+        "name": "<GEN>bot_gift_inventory",
+        "p": "",
+        "description": ""
+    },
+    "equipment_inventory": {
+        "name": "<GEN>equipment_inventory",
+        "p": "",
+        "description": ""
+    },
+    "guild_inventory": {
+        "name": "<GEN>guild_inventory",
+        "p": "",
+        "description": ""
+    },
+    "hand_inventory": {
+        "name": "<GEN>hand_inventory",
+        "p": "",
+        "description": ""
+    },
+    "pack_animal_inventory": {
+        "name": "<GEN>pack_animal_inventory",
+        "p": "",
+        "description": ""
+    },
+    "pickup": {
+        "name": "<GEN>pickup",
+        "p": "",
+        "description": ""
+    },
+    "player_room_inventory": {
+        "name": "<GEN>player_room_inventory",
+        "p": "",
+        "description": ""
+    },
+    "stack": {
+        "name": "<GEN>stack",
+        "p": "",
+        "description": ""
+    },
+    "steed_inventory": {
+        "name": "<GEN>steed_inventory",
+        "p": "",
+        "description": ""
+    },
+    "temporary_inventory": {
+        "name": "<GEN>temporary_inventory",
+        "p": "",
+        "description": ""
+    },
+    "ickamm2ms": {
+        "name": "<GEN>ickamm2ms",
+        "p": "",
+        "description": ""
+    },
+    "ickamm2ms_2": {
+        "name": "<GEN>ickamm2ms_2",
+        "p": "",
+        "description": ""
+    },
+    "ickamm2ms_3": {
+        "name": "<GEN>ickamm2ms_3",
+        "p": "",
+        "description": ""
+    },
+    "ickarm2ms": {
+        "name": "<GEN>ickarm2ms",
+        "p": "",
+        "description": ""
+    },
+    "ickarm2ms_2": {
+        "name": "<GEN>ickarm2ms_2",
+        "p": "",
+        "description": ""
+    },
+    "ickarm2ms_3": {
+        "name": "<GEN>ickarm2ms_3",
+        "p": "",
+        "description": ""
+    },
+    "ichm2bm_hom": {
+        "name": "<GEN>ichm2bm_hom",
+        "p": "",
+        "description": ""
+    },
+    "ichm2bm_kam": {
+        "name": "<GEN>ichm2bm_kam",
+        "p": "",
+        "description": ""
+    },
+    "ichm2bm_kar": {
+        "name": "<GEN>ichm2bm_kar",
+        "p": "",
+        "description": ""
+    },
+    "ichm2bm_kit": {
+        "name": "<GEN>ichm2bm_kit",
+        "p": "",
+        "description": ""
+    },
+    "ichm2pp_hom": {
+        "name": "<GEN>ichm2pp_hom",
+        "p": "",
+        "description": ""
+    },
+    "ichm2pp_kam": {
+        "name": "<GEN>ichm2pp_kam",
+        "p": "",
+        "description": ""
+    },
+    "ichm2pp_kar": {
+        "name": "<GEN>ichm2pp_kar",
+        "p": "",
+        "description": ""
+    },
+    "ichm2pp_kit": {
+        "name": "<GEN>ichm2pp_kit",
+        "p": "",
+        "description": ""
+    },
+    "ichm2ss_hom": {
+        "name": "<GEN>ichm2ss_hom",
+        "p": "",
+        "description": ""
+    },
+    "ichm2ss_kam": {
+        "name": "<GEN>ichm2ss_kam",
+        "p": "",
+        "description": ""
+    },
+    "ichm2ss_kar": {
+        "name": "<GEN>ichm2ss_kar",
+        "p": "",
+        "description": ""
+    },
+    "ichm2ss_kit": {
+        "name": "<GEN>ichm2ss_kit",
+        "p": "",
+        "description": ""
+    },
+    "npc_eroukan_sword": {
+        "name": "<GEN>npc_eroukan_sword",
+        "p": "",
+        "description": ""
+    },
+    "icbm2bm_3": {
+        "name": "<GEN>icbm2bm_3",
+        "p": "",
+        "description": ""
+    },
+    "icbm2ss_3": {
+        "name": "<GEN>icbm2ss_3",
+        "p": "",
+        "description": ""
+    },
+    "tcm_louche": {
+        "name": "<GEN>tcm_louche",
+        "p": "",
+        "description": ""
+    },
+    "cartographier_kitiniere_parchemin": {
+        "name": "<GEN>cartographier_kitiniere_parchemin",
+        "p": "",
+        "description": ""
+    },
+    "copie de cartographier_kitiniere_parchemin_full": {
+        "name": "<GEN>copie de cartographier_kitiniere_parchemin_full",
+        "p": "",
+        "description": ""
+    },
+    "botanist_list": {
+        "name": "<GEN>botanist_list",
+        "p": "",
+        "description": ""
+    },
+    "botanist_remedy": {
+        "name": "<GEN>botanist_remedy",
+        "p": "",
+        "description": ""
+    },
+    "clopper_flute": {
+        "name": "<GEN>clopper_flute",
+        "p": "",
+        "description": ""
+    },
+    "cwfh01_mp1": {
+        "name": "<GEN>cwfh01_mp1",
+        "p": "",
+        "description": ""
+    },
+    "cwfh02_mp1": {
+        "name": "<GEN>cwfh02_mp1",
+        "p": "",
+        "description": ""
+    },
+    "cwfh03_mp1": {
+        "name": "<GEN>cwfh03_mp1",
+        "p": "",
+        "description": ""
+    },
+    "cwmh01_mp1": {
+        "name": "<GEN>cwmh01_mp1",
+        "p": "",
+        "description": ""
+    },
+    "cwmh02_mp1": {
+        "name": "<GEN>cwmh02_mp1",
+        "p": "",
+        "description": ""
+    },
+    "cwmh03_mp1": {
+        "name": "<GEN>cwmh03_mp1",
+        "p": "",
+        "description": ""
+    },
+    "cwth01_mp1": {
+        "name": "<GEN>cwth01_mp1",
+        "p": "",
+        "description": ""
+    },
+    "cwth02_mp1": {
+        "name": "<GEN>cwth02_mp1",
+        "p": "",
+        "description": ""
+    },
+    "cwth02_mp2": {
+        "name": "<GEN>cwth02_mp2",
+        "p": "",
+        "description": ""
+    },
+    "cwth03_mp1": {
+        "name": "<GEN>cwth03_mp1",
+        "p": "",
+        "description": ""
+    },
+    "cwzh01_mp1": {
+        "name": "<GEN>cwzh01_mp1",
+        "p": "",
+        "description": ""
+    },
+    "cwzh02_mp1": {
+        "name": "<GEN>cwzh02_mp1",
+        "p": "",
+        "description": ""
+    },
+    "cwzh02_mp2": {
+        "name": "<GEN>cwzh02_mp2",
+        "p": "",
+        "description": ""
+    },
+    "cwzh03_mp1": {
+        "name": "<GEN>cwzh03_mp1",
+        "p": "",
+        "description": ""
+    },
+    "diseased_sprouts": {
+        "name": "<GEN>diseased_sprouts",
+        "p": "",
+        "description": ""
+    },
+    "flowers_medicine": {
+        "name": "<GEN>flowers_medicine",
+        "p": "",
+        "description": ""
+    },
+    "fragment_magik_echantillon_kitiniere": {
+        "name": "<GEN>fragment_magik_echantillon_kitiniere",
+        "p": "",
+        "description": ""
+    },
+    "fruit_medicine": {
+        "name": "<GEN>fruit_medicine",
+        "p": "",
+        "description": ""
+    },
+    "kitiniere_map": {
+        "name": "<GEN>kitiniere_map",
+        "p": "",
+        "description": ""
+    },
+    "kitiniere_prince_head": {
+        "name": "<GEN>kitiniere_prince_head",
+        "p": "",
+        "description": ""
+    },
+    "kitiniere_queen_head": {
+        "name": "<GEN>kitiniere_queen_head",
+        "p": "",
+        "description": ""
+    },
+    "light_armors_acreditation": {
+        "name": "<GEN>light_armors_acreditation",
+        "p": "",
+        "description": ""
+    },
+    "mb_seal1": {
+        "name": "<GEN>mb_seal1",
+        "p": "",
+        "description": ""
+    },
+    "mb_seal2": {
+        "name": "<GEN>mb_seal2",
+        "p": "",
+        "description": ""
+    },
+    "mc100_bon_clips": {
+        "name": "<GEN>mc100_bon_clips",
+        "p": "",
+        "description": ""
+    },
+    "melee_weapons_acreditation": {
+        "name": "<GEN>melee_weapons_acreditation",
+        "p": "",
+        "description": ""
+    },
+    "merchant_purse": {
+        "name": "<GEN>merchant_purse",
+        "p": "",
+        "description": ""
+    },
+    "nbland_msg_sivaldo": {
+        "name": "<GEN>nbland_msg_sivaldo",
+        "p": "",
+        "description": ""
+    },
+    "newbie_parchemin": {
+        "name": "<GEN>newbie_parchemin",
+        "p": "",
+        "description": ""
+    },
+    "newbie_tool": {
+        "name": "<GEN>newbie_tool",
+        "p": "",
+        "description": ""
+    },
+    "outpost_parchment": {
+        "name": "<GEN>outpost_parchment",
+        "p": "",
+        "description": ""
+    },
+    "pearl_black": {
+        "name": "<GEN>pearl_black",
+        "p": "",
+        "description": ""
+    },
+    "pearl_blue": {
+        "name": "<GEN>pearl_blue",
+        "p": "",
+        "description": ""
+    },
+    "pearl_violet": {
+        "name": "<GEN>pearl_violet",
+        "p": "",
+        "description": ""
+    },
+    "piece_of_cloth": {
+        "name": "<GEN>piece_of_cloth",
+        "p": "",
+        "description": ""
+    },
+    "r_05_39_varinx_skull": {
+        "name": "<GEN>r_05_39_varinx_skull",
+        "p": "",
+        "description": ""
+    },
+    "report_councellor": {
+        "name": "<GEN>report_councellor",
+        "p": "",
+        "description": ""
+    },
+    "rpjob_001": {
+        "name": "<GEN>rpjob_001",
+        "p": "",
+        "description": ""
+    },
+    "rpjob_002": {
+        "name": "<GEN>rpjob_002",
+        "p": "",
+        "description": ""
+    },
+    "rpjob_003": {
+        "name": "<GEN>rpjob_003",
+        "p": "",
+        "description": ""
+    },
+    "rpjob_004": {
+        "name": "<GEN>rpjob_004",
+        "p": "",
+        "description": ""
+    },
+    "rpjob_005": {
+        "name": "<GEN>rpjob_005",
+        "p": "",
+        "description": ""
+    },
+    "rpjob_006": {
+        "name": "<GEN>rpjob_006",
+        "p": "",
+        "description": ""
+    },
+    "rpjob_007": {
+        "name": "<GEN>rpjob_007",
+        "p": "",
+        "description": ""
+    },
+    "rpjob_008": {
+        "name": "<GEN>rpjob_008",
+        "p": "",
+        "description": ""
+    },
+    "rpjob_009": {
+        "name": "<GEN>rpjob_009",
+        "p": "",
+        "description": ""
+    },
+    "rpjob_010": {
+        "name": "<GEN>rpjob_010",
+        "p": "",
+        "description": ""
+    },
+    "rpjob_011": {
+        "name": "<GEN>rpjob_011",
+        "p": "",
+        "description": ""
+    },
+    "rpjob_012": {
+        "name": "<GEN>rpjob_012",
+        "p": "",
+        "description": ""
+    },
+    "rpjob_013": {
+        "name": "<GEN>rpjob_013",
+        "p": "",
+        "description": ""
+    },
+    "rpjob_014": {
+        "name": "<GEN>rpjob_014",
+        "p": "",
+        "description": ""
+    },
+    "rpjob_015": {
+        "name": "<GEN>rpjob_015",
+        "p": "",
+        "description": ""
+    },
+    "rpjob_016": {
+        "name": "<GEN>rpjob_016",
+        "p": "",
+        "description": ""
+    },
+    "rpjob_017": {
+        "name": "<GEN>rpjob_017",
+        "p": "",
+        "description": ""
+    },
+    "rpjob_018": {
+        "name": "<GEN>rpjob_018",
+        "p": "",
+        "description": ""
+    },
+    "rpjob_019": {
+        "name": "<GEN>rpjob_019",
+        "p": "",
+        "description": ""
+    },
+    "rpjob_020": {
+        "name": "<GEN>rpjob_020",
+        "p": "",
+        "description": ""
+    },
+    "rpjob_208": {
+        "name": "<GEN>rpjob_208",
+        "p": "",
+        "description": ""
+    },
+    "rpjob_209": {
+        "name": "<GEN>rpjob_209",
+        "p": "",
+        "description": ""
+    },
+    "rpjob_210": {
+        "name": "<GEN>rpjob_210",
+        "p": "",
+        "description": ""
+    },
+    "rpjob_211": {
+        "name": "<GEN>rpjob_211",
+        "p": "",
+        "description": ""
+    },
+    "rpjob_212": {
+        "name": "<GEN>rpjob_212",
+        "p": "",
+        "description": ""
+    },
+    "rpjob_213": {
+        "name": "<GEN>rpjob_213",
+        "p": "",
+        "description": ""
+    },
+    "rpjob_214": {
+        "name": "<GEN>rpjob_214",
+        "p": "",
+        "description": ""
+    },
+    "rpjob_215": {
+        "name": "<GEN>rpjob_215",
+        "p": "",
+        "description": ""
+    },
+    "rpjob_216": {
+        "name": "<GEN>rpjob_216",
+        "p": "",
+        "description": ""
+    },
+    "rpjob_217": {
+        "name": "<GEN>rpjob_217",
+        "p": "",
+        "description": ""
+    },
+    "rpjob_218": {
+        "name": "<GEN>rpjob_218",
+        "p": "",
+        "description": ""
+    },
+    "rpjob_219": {
+        "name": "<GEN>rpjob_219",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_208_a0": {
+        "name": "<GEN>rpjobitem_208_a0",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_208_a1": {
+        "name": "<GEN>rpjobitem_208_a1",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_208_b0": {
+        "name": "<GEN>rpjobitem_208_b0",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_208_b1": {
+        "name": "<GEN>rpjobitem_208_b1",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_208_c0": {
+        "name": "<GEN>rpjobitem_208_c0",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_208_c1": {
+        "name": "<GEN>rpjobitem_208_c1",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_209_a0": {
+        "name": "<GEN>rpjobitem_209_a0",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_209_a1": {
+        "name": "<GEN>rpjobitem_209_a1",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_209_b0": {
+        "name": "<GEN>rpjobitem_209_b0",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_209_b1": {
+        "name": "<GEN>rpjobitem_209_b1",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_209_c0": {
+        "name": "<GEN>rpjobitem_209_c0",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_209_c1": {
+        "name": "<GEN>rpjobitem_209_c1",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_210_a0": {
+        "name": "<GEN>rpjobitem_210_a0",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_210_a1": {
+        "name": "<GEN>rpjobitem_210_a1",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_210_b0": {
+        "name": "<GEN>rpjobitem_210_b0",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_210_b1": {
+        "name": "<GEN>rpjobitem_210_b1",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_210_c0": {
+        "name": "<GEN>rpjobitem_210_c0",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_210_c1": {
+        "name": "<GEN>rpjobitem_210_c1",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_211_a0": {
+        "name": "<GEN>rpjobitem_211_a0",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_211_a1": {
+        "name": "<GEN>rpjobitem_211_a1",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_211_b0": {
+        "name": "<GEN>rpjobitem_211_b0",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_211_b1": {
+        "name": "<GEN>rpjobitem_211_b1",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_211_c0": {
+        "name": "<GEN>rpjobitem_211_c0",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_211_c1": {
+        "name": "<GEN>rpjobitem_211_c1",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_212_a0": {
+        "name": "<GEN>rpjobitem_212_a0",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_212_a1": {
+        "name": "<GEN>rpjobitem_212_a1",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_212_b0": {
+        "name": "<GEN>rpjobitem_212_b0",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_212_b1": {
+        "name": "<GEN>rpjobitem_212_b1",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_212_c0": {
+        "name": "<GEN>rpjobitem_212_c0",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_212_c1": {
+        "name": "<GEN>rpjobitem_212_c1",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_213_a0": {
+        "name": "<GEN>rpjobitem_213_a0",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_213_a1": {
+        "name": "<GEN>rpjobitem_213_a1",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_213_b0": {
+        "name": "<GEN>rpjobitem_213_b0",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_213_b1": {
+        "name": "<GEN>rpjobitem_213_b1",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_213_c0": {
+        "name": "<GEN>rpjobitem_213_c0",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_213_c1": {
+        "name": "<GEN>rpjobitem_213_c1",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_214_a0": {
+        "name": "<GEN>rpjobitem_214_a0",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_214_a1": {
+        "name": "<GEN>rpjobitem_214_a1",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_214_b0": {
+        "name": "<GEN>rpjobitem_214_b0",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_214_b1": {
+        "name": "<GEN>rpjobitem_214_b1",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_214_c0": {
+        "name": "<GEN>rpjobitem_214_c0",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_214_c1": {
+        "name": "<GEN>rpjobitem_214_c1",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_215_a0": {
+        "name": "<GEN>rpjobitem_215_a0",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_215_a1": {
+        "name": "<GEN>rpjobitem_215_a1",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_215_b0": {
+        "name": "<GEN>rpjobitem_215_b0",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_215_b1": {
+        "name": "<GEN>rpjobitem_215_b1",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_215_c0": {
+        "name": "<GEN>rpjobitem_215_c0",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_215_c1": {
+        "name": "<GEN>rpjobitem_215_c1",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_216_a0": {
+        "name": "<GEN>rpjobitem_216_a0",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_216_a1": {
+        "name": "<GEN>rpjobitem_216_a1",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_216_b0": {
+        "name": "<GEN>rpjobitem_216_b0",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_216_b1": {
+        "name": "<GEN>rpjobitem_216_b1",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_216_c0": {
+        "name": "<GEN>rpjobitem_216_c0",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_216_c1": {
+        "name": "<GEN>rpjobitem_216_c1",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_217_a0": {
+        "name": "<GEN>rpjobitem_217_a0",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_217_a1": {
+        "name": "<GEN>rpjobitem_217_a1",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_217_b0": {
+        "name": "<GEN>rpjobitem_217_b0",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_217_b1": {
+        "name": "<GEN>rpjobitem_217_b1",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_217_c0": {
+        "name": "<GEN>rpjobitem_217_c0",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_217_c1": {
+        "name": "<GEN>rpjobitem_217_c1",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_218_a0": {
+        "name": "<GEN>rpjobitem_218_a0",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_218_a1": {
+        "name": "<GEN>rpjobitem_218_a1",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_218_b0": {
+        "name": "<GEN>rpjobitem_218_b0",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_218_b1": {
+        "name": "<GEN>rpjobitem_218_b1",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_218_c0": {
+        "name": "<GEN>rpjobitem_218_c0",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_218_c1": {
+        "name": "<GEN>rpjobitem_218_c1",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_219_a0": {
+        "name": "<GEN>rpjobitem_219_a0",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_219_a1": {
+        "name": "<GEN>rpjobitem_219_a1",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_219_b0": {
+        "name": "<GEN>rpjobitem_219_b0",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_219_b1": {
+        "name": "<GEN>rpjobitem_219_b1",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_219_c0": {
+        "name": "<GEN>rpjobitem_219_c0",
+        "p": "",
+        "description": ""
+    },
+    "rpjobitem_219_c1": {
+        "name": "<GEN>rpjobitem_219_c1",
+        "p": "",
+        "description": ""
+    },
+    "sacred_tryker_book": {
+        "name": "<GEN>sacred_tryker_book",
+        "p": "",
+        "description": ""
+    },
+    "tax_receipt": {
+        "name": "<GEN>tax_receipt",
+        "p": "",
+        "description": ""
+    },
+    "tcm_flower": {
+        "name": "<GEN>tcm_flower",
+        "p": "",
+        "description": ""
+    },
+    "tf60_ailes_grillees": {
+        "name": "<GEN>tf60_ailes_grillees",
+        "p": "",
+        "description": ""
+    },
+    "thief_letter": {
+        "name": "<GEN>thief_letter",
+        "p": "",
+        "description": ""
+    },
+    "very_big_barrel": {
+        "name": "<GEN>very_big_barrel",
+        "p": "",
+        "description": ""
+    },
+    "very_small_barrel": {
+        "name": "<GEN>very_small_barrel",
+        "p": "",
+        "description": ""
+    },
+    "warmap_goo_miasm": {
+        "name": "<GEN>warmap_goo_miasm",
+        "p": "",
+        "description": ""
+    },
+    "warmap_kami_merit": {
+        "name": "<GEN>warmap_kami_merit",
+        "p": "",
+        "description": ""
+    },
+    "warmap_karavan_merit": {
+        "name": "<GEN>warmap_karavan_merit",
+        "p": "",
+        "description": ""
+    },
+    "warmap_kitin_egg": {
+        "name": "<GEN>warmap_kitin_egg",
+        "p": "",
+        "description": ""
+    },
+    "warmap_nano": {
+        "name": "<GEN>warmap_nano",
+        "p": "",
+        "description": ""
+    },
+    "warmap_sap_cristaux": {
+        "name": "<GEN>warmap_sap_cristaux",
+        "p": "",
+        "description": ""
+    },
+    "icbr2l_3": {
+        "name": "<GEN>icbr2l_3",
+        "p": "",
+        "description": ""
+    },
+    "karavan_gun": {
+        "name": "<GEN>karavan_gun",
+        "p": "",
+        "description": ""
+    },
+    "npc_caravan_pistol": {
+        "name": "<GEN>npc_caravan_pistol",
+        "p": "",
+        "description": ""
+    },
+    "m0077ixxcc02": {
+        "name": "<GEN>m0077ixxcc02",
+        "p": "",
+        "description": ""
+    },
+    "m0180dxaca02": {
+        "name": "<GEN>m0180dxaca02",
+        "p": "",
+        "description": ""
+    },
+    "m0180dxaca03": {
+        "name": "<GEN>m0180dxaca03",
+        "p": "",
+        "description": ""
+    },
+    "m0180dxaca04": {
+        "name": "<GEN>m0180dxaca04",
+        "p": "",
+        "description": ""
+    },
+    "m0708dxaca02": {
+        "name": "<GEN>m0708dxaca02",
+        "p": "",
+        "description": ""
+    },
+    "m0802dxacf01": {
+        "name": "<GEN>m0802dxacf01",
+        "p": "",
+        "description": ""
+    },
+    "m0803dxacf01": {
+        "name": "<GEN>m0803dxacf01",
+        "p": "",
+        "description": ""
+    },
+    "m0804dxacf01": {
+        "name": "<GEN>m0804dxacf01",
+        "p": "",
+        "description": ""
+    },
+    "m0805dxacf01": {
+        "name": "<GEN>m0805dxacf01",
+        "p": "",
+        "description": ""
+    },
+    "m0806dxacf01": {
+        "name": "<GEN>m0806dxacf01",
+        "p": "",
+        "description": ""
+    },
+    "m0807dxacf01": {
+        "name": "<GEN>m0807dxacf01",
+        "p": "",
+        "description": ""
+    },
+    "m0808dxacf01": {
+        "name": "<GEN>m0808dxacf01",
+        "p": "",
+        "description": ""
+    },
+    "m0809dxacf01": {
+        "name": "<GEN>m0809dxacf01",
+        "p": "",
+        "description": ""
+    },
+    "m0810dxacf01": {
+        "name": "<GEN>m0810dxacf01",
+        "p": "",
+        "description": ""
+    },
+    "m0811dxacf01": {
+        "name": "<GEN>m0811dxacf01",
+        "p": "",
+        "description": ""
+    },
+    "m0812dxacf01": {
+        "name": "<GEN>m0812dxacf01",
+        "p": "",
+        "description": ""
+    },
+    "m0813dxacf01": {
+        "name": "<GEN>m0813dxacf01",
+        "p": "",
+        "description": ""
+    },
+    "m0490ckcpf01": {
+        "name": "<GEN>m0490ckcpf01",
+        "p": "",
+        "description": ""
+    },
+    "m0491ckcpf01": {
+        "name": "<GEN>m0491ckcpf01",
+        "p": "",
+        "description": ""
+    },
+    "m0492ckcpf01": {
+        "name": "<GEN>m0492ckcpf01",
+        "p": "",
+        "description": ""
+    },
+    "m0604ckcpf01": {
+        "name": "<GEN>m0604ckcpf01",
+        "p": "",
+        "description": ""
+    },
+    "m0605ckcpf01": {
+        "name": "<GEN>m0605ckcpf01",
+        "p": "",
+        "description": ""
+    },
+    "m0757dxape01": {
+        "name": "<GEN>m0757dxape01",
+        "p": "",
+        "description": ""
+    },
+    "m0757dxapf01": {
+        "name": "<GEN>m0757dxapf01",
+        "p": "",
+        "description": ""
+    },
+    "m0758dxapd01": {
+        "name": "<GEN>m0758dxapd01",
+        "p": "",
+        "description": ""
+    },
+    "m0758dxapf01": {
+        "name": "<GEN>m0758dxapf01",
+        "p": "",
+        "description": ""
+    },
+    "m0759dxapd01": {
+        "name": "<GEN>m0759dxapd01",
+        "p": "",
+        "description": ""
+    },
+    "m0759dxapf01": {
+        "name": "<GEN>m0759dxapf01",
+        "p": "",
+        "description": ""
+    },
+    "m0760dxapd01": {
+        "name": "<GEN>m0760dxapd01",
+        "p": "",
+        "description": ""
+    },
+    "m0760dxapf01": {
+        "name": "<GEN>m0760dxapf01",
+        "p": "",
+        "description": ""
+    },
+    "m0761dxape01": {
+        "name": "<GEN>m0761dxape01",
+        "p": "",
+        "description": ""
+    },
+    "m0761dxapf01": {
+        "name": "<GEN>m0761dxapf01",
+        "p": "",
+        "description": ""
+    },
+    "m0762dxape01": {
+        "name": "<GEN>m0762dxape01",
+        "p": "",
+        "description": ""
+    },
+    "m0762dxapf01": {
+        "name": "<GEN>m0762dxapf01",
+        "p": "",
+        "description": ""
+    },
+    "m0763dxapd01": {
+        "name": "<GEN>m0763dxapd01",
+        "p": "",
+        "description": ""
+    },
+    "m0763dxapf01": {
+        "name": "<GEN>m0763dxapf01",
+        "p": "",
+        "description": ""
+    },
+    "m0764dxapd01": {
+        "name": "<GEN>m0764dxapd01",
+        "p": "",
+        "description": ""
+    },
+    "m0764dxapf01": {
+        "name": "<GEN>m0764dxapf01",
+        "p": "",
+        "description": ""
+    },
+    "m0765dxapd01": {
+        "name": "<GEN>m0765dxapd01",
+        "p": "",
+        "description": ""
+    },
+    "m0765dxape01": {
+        "name": "<GEN>m0765dxape01",
+        "p": "",
+        "description": ""
+    },
+    "m0766dxape01": {
+        "name": "<GEN>m0766dxape01",
+        "p": "",
+        "description": ""
+    },
+    "m0766dxapf01": {
+        "name": "<GEN>m0766dxapf01",
+        "p": "",
+        "description": ""
+    },
+    "m0767dxapd01": {
+        "name": "<GEN>m0767dxapd01",
+        "p": "",
+        "description": ""
+    },
+    "m0767dxapf01": {
+        "name": "<GEN>m0767dxapf01",
+        "p": "",
+        "description": ""
+    },
+    "m0768dxapd01": {
+        "name": "<GEN>m0768dxapd01",
+        "p": "",
+        "description": ""
+    },
+    "m0768dxapf01": {
+        "name": "<GEN>m0768dxapf01",
+        "p": "",
+        "description": ""
+    },
+    "m0769dxapd01": {
+        "name": "<GEN>m0769dxapd01",
+        "p": "",
+        "description": ""
+    },
+    "m0769dxapf01": {
+        "name": "<GEN>m0769dxapf01",
+        "p": "",
+        "description": ""
+    },
+    "m0770dxape01": {
+        "name": "<GEN>m0770dxape01",
+        "p": "",
+        "description": ""
+    },
+    "m0770dxapf01": {
+        "name": "<GEN>m0770dxapf01",
+        "p": "",
+        "description": ""
+    },
+    "m0771dxapd01": {
+        "name": "<GEN>m0771dxapd01",
+        "p": "",
+        "description": ""
+    },
+    "m0771dxapf01": {
+        "name": "<GEN>m0771dxapf01",
+        "p": "",
+        "description": ""
+    },
+    "m0772dxapd01": {
+        "name": "<GEN>m0772dxapd01",
+        "p": "",
+        "description": ""
+    },
+    "m0772dxapf01": {
+        "name": "<GEN>m0772dxapf01",
+        "p": "",
+        "description": ""
+    },
+    "m0773dxapd01": {
+        "name": "<GEN>m0773dxapd01",
+        "p": "",
+        "description": ""
+    },
+    "m0773dxapf01": {
+        "name": "<GEN>m0773dxapf01",
+        "p": "",
+        "description": ""
+    },
+    "m0774dxapd01": {
+        "name": "<GEN>m0774dxapd01",
+        "p": "",
+        "description": ""
+    },
+    "m0774dxape01": {
+        "name": "<GEN>m0774dxape01",
+        "p": "",
+        "description": ""
+    },
+    "m0775dxape01": {
+        "name": "<GEN>m0775dxape01",
+        "p": "",
+        "description": ""
+    },
+    "m0775dxapf01": {
+        "name": "<GEN>m0775dxapf01",
+        "p": "",
+        "description": ""
+    },
+    "m0776dxape01": {
+        "name": "<GEN>m0776dxape01",
+        "p": "",
+        "description": ""
+    },
+    "m0776dxapf01": {
+        "name": "<GEN>m0776dxapf01",
+        "p": "",
+        "description": ""
+    },
+    "m0777dxapd01": {
+        "name": "<GEN>m0777dxapd01",
+        "p": "",
+        "description": ""
+    },
+    "m0777dxapf01": {
+        "name": "<GEN>m0777dxapf01",
+        "p": "",
+        "description": ""
+    },
+    "m0778dxapd01": {
+        "name": "<GEN>m0778dxapd01",
+        "p": "",
+        "description": ""
+    },
+    "m0778dxape01": {
+        "name": "<GEN>m0778dxape01",
+        "p": "",
+        "description": ""
+    },
+    "m0779dxape01": {
+        "name": "<GEN>m0779dxape01",
+        "p": "",
+        "description": ""
+    },
+    "m0779dxapf01": {
+        "name": "<GEN>m0779dxapf01",
+        "p": "",
+        "description": ""
+    },
+    "m0780dxape01": {
+        "name": "<GEN>m0780dxape01",
+        "p": "",
+        "description": ""
+    },
+    "m0780dxapf01": {
+        "name": "<GEN>m0780dxapf01",
+        "p": "",
+        "description": ""
+    },
+    "m0781dxapd01": {
+        "name": "<GEN>m0781dxapd01",
+        "p": "",
+        "description": ""
+    },
+    "m0781dxapf01": {
+        "name": "<GEN>m0781dxapf01",
+        "p": "",
+        "description": ""
+    },
+    "m0782dxapd01": {
+        "name": "<GEN>m0782dxapd01",
+        "p": "",
+        "description": ""
+    },
+    "m0782dxapf01": {
+        "name": "<GEN>m0782dxapf01",
+        "p": "",
+        "description": ""
+    },
+    "m0783dxape01": {
+        "name": "<GEN>m0783dxape01",
+        "p": "",
+        "description": ""
+    },
+    "m0783dxapf01": {
+        "name": "<GEN>m0783dxapf01",
+        "p": "",
+        "description": ""
+    },
+    "m0784dxape01": {
+        "name": "<GEN>m0784dxape01",
+        "p": "",
+        "description": ""
+    },
+    "m0784dxapf01": {
+        "name": "<GEN>m0784dxapf01",
+        "p": "",
+        "description": ""
+    },
+    "m0785dxapd01": {
+        "name": "<GEN>m0785dxapd01",
+        "p": "",
+        "description": ""
+    },
+    "m0785dxapf01": {
+        "name": "<GEN>m0785dxapf01",
+        "p": "",
+        "description": ""
+    },
+    "m0786dxapd01": {
+        "name": "<GEN>m0786dxapd01",
+        "p": "",
+        "description": ""
+    },
+    "m0786dxapf01": {
+        "name": "<GEN>m0786dxapf01",
+        "p": "",
+        "description": ""
+    },
+    "m0787dxapd01": {
+        "name": "<GEN>m0787dxapd01",
+        "p": "",
+        "description": ""
+    },
+    "m0787dxapf01": {
+        "name": "<GEN>m0787dxapf01",
+        "p": "",
+        "description": ""
+    },
+    "m0797dxapd01": {
+        "name": "<GEN>m0797dxapd01",
+        "p": "",
+        "description": ""
+    },
+    "m0797dxape01": {
+        "name": "<GEN>m0797dxape01",
+        "p": "",
+        "description": ""
+    },
+    "m0797dxapf01": {
+        "name": "<GEN>m0797dxapf01",
+        "p": "",
+        "description": ""
+    },
+    "m0798dxapd01": {
+        "name": "<GEN>m0798dxapd01",
+        "p": "",
+        "description": ""
+    },
+    "m0798dxape01": {
+        "name": "<GEN>m0798dxape01",
+        "p": "",
+        "description": ""
+    },
+    "m0798dxapf01": {
+        "name": "<GEN>m0798dxapf01",
+        "p": "",
+        "description": ""
+    },
+    "m0799dxapd01": {
+        "name": "<GEN>m0799dxapd01",
+        "p": "",
+        "description": ""
+    },
+    "m0799dxape01": {
+        "name": "<GEN>m0799dxape01",
+        "p": "",
+        "description": ""
+    },
+    "m0799dxapf01": {
+        "name": "<GEN>m0799dxapf01",
+        "p": "",
+        "description": ""
+    },
+    "m0800dxapd01": {
+        "name": "<GEN>m0800dxapd01",
+        "p": "",
+        "description": ""
+    },
+    "m0800dxape01": {
+        "name": "<GEN>m0800dxape01",
+        "p": "",
+        "description": ""
+    },
+    "m0800dxapf01": {
+        "name": "<GEN>m0800dxapf01",
+        "p": "",
+        "description": ""
+    },
+    "m0801dxapd01": {
+        "name": "<GEN>m0801dxapd01",
+        "p": "",
+        "description": ""
+    },
+    "m0801dxape01": {
+        "name": "<GEN>m0801dxape01",
+        "p": "",
+        "description": ""
+    },
+    "m0801dxapf01": {
+        "name": "<GEN>m0801dxapf01",
+        "p": "",
+        "description": ""
+    },
+    "system_mp_xl_black": {
+        "name": "<GEN>system_mp_xl_black",
+        "p": "",
+        "description": ""
+    },
+    "system_mp_xl_blue": {
+        "name": "<GEN>system_mp_xl_blue",
+        "p": "",
+        "description": ""
+    },
+    "system_mp_xl_green": {
+        "name": "<GEN>system_mp_xl_green",
+        "p": "",
+        "description": ""
+    },
+    "system_mp_xl_purple": {
+        "name": "<GEN>system_mp_xl_purple",
+        "p": "",
+        "description": ""
+    },
+    "system_mp_xl_red": {
+        "name": "<GEN>system_mp_xl_red",
+        "p": "",
+        "description": ""
+    },
+    "system_mp_xl_turquoise": {
+        "name": "<GEN>system_mp_xl_turquoise",
+        "p": "",
+        "description": ""
+    },
+    "system_mp_xl_white": {
+        "name": "<GEN>system_mp_xl_white",
+        "p": "",
+        "description": ""
+    },
+    "r2_create_new_plot_item": {
+        "name": "<GEN>r2_create_new_plot_item",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_0": {
+        "name": "<GEN>r2_plot_item_0",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_1": {
+        "name": "<GEN>r2_plot_item_1",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_10": {
+        "name": "<GEN>r2_plot_item_10",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_100": {
+        "name": "<GEN>r2_plot_item_100",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_101": {
+        "name": "<GEN>r2_plot_item_101",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_102": {
+        "name": "<GEN>r2_plot_item_102",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_103": {
+        "name": "<GEN>r2_plot_item_103",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_104": {
+        "name": "<GEN>r2_plot_item_104",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_105": {
+        "name": "<GEN>r2_plot_item_105",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_106": {
+        "name": "<GEN>r2_plot_item_106",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_107": {
+        "name": "<GEN>r2_plot_item_107",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_108": {
+        "name": "<GEN>r2_plot_item_108",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_109": {
+        "name": "<GEN>r2_plot_item_109",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_11": {
+        "name": "<GEN>r2_plot_item_11",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_110": {
+        "name": "<GEN>r2_plot_item_110",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_111": {
+        "name": "<GEN>r2_plot_item_111",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_112": {
+        "name": "<GEN>r2_plot_item_112",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_113": {
+        "name": "<GEN>r2_plot_item_113",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_114": {
+        "name": "<GEN>r2_plot_item_114",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_115": {
+        "name": "<GEN>r2_plot_item_115",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_116": {
+        "name": "<GEN>r2_plot_item_116",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_117": {
+        "name": "<GEN>r2_plot_item_117",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_118": {
+        "name": "<GEN>r2_plot_item_118",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_119": {
+        "name": "<GEN>r2_plot_item_119",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_12": {
+        "name": "<GEN>r2_plot_item_12",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_120": {
+        "name": "<GEN>r2_plot_item_120",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_121": {
+        "name": "<GEN>r2_plot_item_121",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_122": {
+        "name": "<GEN>r2_plot_item_122",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_123": {
+        "name": "<GEN>r2_plot_item_123",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_124": {
+        "name": "<GEN>r2_plot_item_124",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_125": {
+        "name": "<GEN>r2_plot_item_125",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_126": {
+        "name": "<GEN>r2_plot_item_126",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_127": {
+        "name": "<GEN>r2_plot_item_127",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_128": {
+        "name": "<GEN>r2_plot_item_128",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_129": {
+        "name": "<GEN>r2_plot_item_129",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_13": {
+        "name": "<GEN>r2_plot_item_13",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_130": {
+        "name": "<GEN>r2_plot_item_130",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_131": {
+        "name": "<GEN>r2_plot_item_131",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_132": {
+        "name": "<GEN>r2_plot_item_132",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_133": {
+        "name": "<GEN>r2_plot_item_133",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_134": {
+        "name": "<GEN>r2_plot_item_134",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_135": {
+        "name": "<GEN>r2_plot_item_135",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_136": {
+        "name": "<GEN>r2_plot_item_136",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_137": {
+        "name": "<GEN>r2_plot_item_137",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_138": {
+        "name": "<GEN>r2_plot_item_138",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_139": {
+        "name": "<GEN>r2_plot_item_139",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_14": {
+        "name": "<GEN>r2_plot_item_14",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_140": {
+        "name": "<GEN>r2_plot_item_140",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_141": {
+        "name": "<GEN>r2_plot_item_141",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_142": {
+        "name": "<GEN>r2_plot_item_142",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_143": {
+        "name": "<GEN>r2_plot_item_143",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_144": {
+        "name": "<GEN>r2_plot_item_144",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_145": {
+        "name": "<GEN>r2_plot_item_145",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_146": {
+        "name": "<GEN>r2_plot_item_146",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_147": {
+        "name": "<GEN>r2_plot_item_147",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_148": {
+        "name": "<GEN>r2_plot_item_148",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_149": {
+        "name": "<GEN>r2_plot_item_149",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_15": {
+        "name": "<GEN>r2_plot_item_15",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_150": {
+        "name": "<GEN>r2_plot_item_150",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_151": {
+        "name": "<GEN>r2_plot_item_151",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_152": {
+        "name": "<GEN>r2_plot_item_152",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_153": {
+        "name": "<GEN>r2_plot_item_153",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_154": {
+        "name": "<GEN>r2_plot_item_154",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_155": {
+        "name": "<GEN>r2_plot_item_155",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_156": {
+        "name": "<GEN>r2_plot_item_156",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_157": {
+        "name": "<GEN>r2_plot_item_157",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_158": {
+        "name": "<GEN>r2_plot_item_158",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_159": {
+        "name": "<GEN>r2_plot_item_159",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_16": {
+        "name": "<GEN>r2_plot_item_16",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_160": {
+        "name": "<GEN>r2_plot_item_160",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_161": {
+        "name": "<GEN>r2_plot_item_161",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_162": {
+        "name": "<GEN>r2_plot_item_162",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_163": {
+        "name": "<GEN>r2_plot_item_163",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_164": {
+        "name": "<GEN>r2_plot_item_164",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_165": {
+        "name": "<GEN>r2_plot_item_165",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_166": {
+        "name": "<GEN>r2_plot_item_166",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_167": {
+        "name": "<GEN>r2_plot_item_167",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_168": {
+        "name": "<GEN>r2_plot_item_168",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_169": {
+        "name": "<GEN>r2_plot_item_169",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_17": {
+        "name": "<GEN>r2_plot_item_17",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_170": {
+        "name": "<GEN>r2_plot_item_170",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_171": {
+        "name": "<GEN>r2_plot_item_171",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_172": {
+        "name": "<GEN>r2_plot_item_172",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_173": {
+        "name": "<GEN>r2_plot_item_173",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_174": {
+        "name": "<GEN>r2_plot_item_174",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_175": {
+        "name": "<GEN>r2_plot_item_175",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_176": {
+        "name": "<GEN>r2_plot_item_176",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_177": {
+        "name": "<GEN>r2_plot_item_177",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_178": {
+        "name": "<GEN>r2_plot_item_178",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_179": {
+        "name": "<GEN>r2_plot_item_179",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_18": {
+        "name": "<GEN>r2_plot_item_18",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_180": {
+        "name": "<GEN>r2_plot_item_180",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_181": {
+        "name": "<GEN>r2_plot_item_181",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_182": {
+        "name": "<GEN>r2_plot_item_182",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_183": {
+        "name": "<GEN>r2_plot_item_183",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_184": {
+        "name": "<GEN>r2_plot_item_184",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_19": {
+        "name": "<GEN>r2_plot_item_19",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_2": {
+        "name": "<GEN>r2_plot_item_2",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_20": {
+        "name": "<GEN>r2_plot_item_20",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_21": {
+        "name": "<GEN>r2_plot_item_21",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_22": {
+        "name": "<GEN>r2_plot_item_22",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_23": {
+        "name": "<GEN>r2_plot_item_23",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_24": {
+        "name": "<GEN>r2_plot_item_24",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_25": {
+        "name": "<GEN>r2_plot_item_25",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_26": {
+        "name": "<GEN>r2_plot_item_26",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_27": {
+        "name": "<GEN>r2_plot_item_27",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_28": {
+        "name": "<GEN>r2_plot_item_28",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_29": {
+        "name": "<GEN>r2_plot_item_29",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_3": {
+        "name": "<GEN>r2_plot_item_3",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_30": {
+        "name": "<GEN>r2_plot_item_30",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_31": {
+        "name": "<GEN>r2_plot_item_31",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_32": {
+        "name": "<GEN>r2_plot_item_32",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_33": {
+        "name": "<GEN>r2_plot_item_33",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_34": {
+        "name": "<GEN>r2_plot_item_34",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_35": {
+        "name": "<GEN>r2_plot_item_35",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_36": {
+        "name": "<GEN>r2_plot_item_36",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_37": {
+        "name": "<GEN>r2_plot_item_37",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_38": {
+        "name": "<GEN>r2_plot_item_38",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_39": {
+        "name": "<GEN>r2_plot_item_39",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_4": {
+        "name": "<GEN>r2_plot_item_4",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_40": {
+        "name": "<GEN>r2_plot_item_40",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_41": {
+        "name": "<GEN>r2_plot_item_41",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_42": {
+        "name": "<GEN>r2_plot_item_42",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_43": {
+        "name": "<GEN>r2_plot_item_43",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_44": {
+        "name": "<GEN>r2_plot_item_44",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_45": {
+        "name": "<GEN>r2_plot_item_45",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_46": {
+        "name": "<GEN>r2_plot_item_46",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_47": {
+        "name": "<GEN>r2_plot_item_47",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_48": {
+        "name": "<GEN>r2_plot_item_48",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_49": {
+        "name": "<GEN>r2_plot_item_49",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_5": {
+        "name": "<GEN>r2_plot_item_5",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_50": {
+        "name": "<GEN>r2_plot_item_50",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_51": {
+        "name": "<GEN>r2_plot_item_51",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_52": {
+        "name": "<GEN>r2_plot_item_52",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_53": {
+        "name": "<GEN>r2_plot_item_53",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_54": {
+        "name": "<GEN>r2_plot_item_54",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_55": {
+        "name": "<GEN>r2_plot_item_55",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_56": {
+        "name": "<GEN>r2_plot_item_56",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_57": {
+        "name": "<GEN>r2_plot_item_57",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_58": {
+        "name": "<GEN>r2_plot_item_58",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_59": {
+        "name": "<GEN>r2_plot_item_59",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_6": {
+        "name": "<GEN>r2_plot_item_6",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_60": {
+        "name": "<GEN>r2_plot_item_60",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_61": {
+        "name": "<GEN>r2_plot_item_61",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_62": {
+        "name": "<GEN>r2_plot_item_62",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_63": {
+        "name": "<GEN>r2_plot_item_63",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_64": {
+        "name": "<GEN>r2_plot_item_64",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_65": {
+        "name": "<GEN>r2_plot_item_65",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_66": {
+        "name": "<GEN>r2_plot_item_66",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_67": {
+        "name": "<GEN>r2_plot_item_67",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_68": {
+        "name": "<GEN>r2_plot_item_68",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_69": {
+        "name": "<GEN>r2_plot_item_69",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_7": {
+        "name": "<GEN>r2_plot_item_7",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_70": {
+        "name": "<GEN>r2_plot_item_70",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_71": {
+        "name": "<GEN>r2_plot_item_71",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_72": {
+        "name": "<GEN>r2_plot_item_72",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_73": {
+        "name": "<GEN>r2_plot_item_73",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_74": {
+        "name": "<GEN>r2_plot_item_74",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_75": {
+        "name": "<GEN>r2_plot_item_75",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_76": {
+        "name": "<GEN>r2_plot_item_76",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_77": {
+        "name": "<GEN>r2_plot_item_77",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_78": {
+        "name": "<GEN>r2_plot_item_78",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_79": {
+        "name": "<GEN>r2_plot_item_79",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_8": {
+        "name": "<GEN>r2_plot_item_8",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_80": {
+        "name": "<GEN>r2_plot_item_80",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_81": {
+        "name": "<GEN>r2_plot_item_81",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_82": {
+        "name": "<GEN>r2_plot_item_82",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_83": {
+        "name": "<GEN>r2_plot_item_83",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_84": {
+        "name": "<GEN>r2_plot_item_84",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_85": {
+        "name": "<GEN>r2_plot_item_85",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_86": {
+        "name": "<GEN>r2_plot_item_86",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_87": {
+        "name": "<GEN>r2_plot_item_87",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_88": {
+        "name": "<GEN>r2_plot_item_88",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_89": {
+        "name": "<GEN>r2_plot_item_89",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_9": {
+        "name": "<GEN>r2_plot_item_9",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_90": {
+        "name": "<GEN>r2_plot_item_90",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_91": {
+        "name": "<GEN>r2_plot_item_91",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_92": {
+        "name": "<GEN>r2_plot_item_92",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_93": {
+        "name": "<GEN>r2_plot_item_93",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_94": {
+        "name": "<GEN>r2_plot_item_94",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_95": {
+        "name": "<GEN>r2_plot_item_95",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_96": {
+        "name": "<GEN>r2_plot_item_96",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_97": {
+        "name": "<GEN>r2_plot_item_97",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_98": {
+        "name": "<GEN>r2_plot_item_98",
+        "p": "",
+        "description": ""
+    },
+    "r2_plot_item_99": {
+        "name": "<GEN>r2_plot_item_99",
+        "p": "",
+        "description": ""
+    },
+    "test_scroll_r2": {
+        "name": "<GEN>test_scroll_r2",
+        "p": "",
+        "description": ""
+    },
+    "icbss_marauder": {
+        "name": "<GEN>icbss_marauder",
+        "p": "",
+        "description": ""
+    },
+    "icbss_pvp": {
+        "name": "<GEN>icbss_pvp",
+        "p": "",
+        "description": ""
+    },
+    "tp_kami_corrupted_moor": {
+        "name": "<GEN>tp_kami_corrupted_moor",
+        "p": "",
+        "description": ""
+    },
+    "tp_kami_corrupted_moor_fairhaven": {
+        "name": "<GEN>tp_kami_corrupted_moor_fairhaven",
+        "p": "",
+        "description": ""
+    },
+    "tp_kami_corrupted_moor_pyr": {
+        "name": "<GEN>tp_kami_corrupted_moor_pyr",
+        "p": "",
+        "description": ""
+    },
+    "tp_kami_corrupted_moor_yrkanis": {
+        "name": "<GEN>tp_kami_corrupted_moor_yrkanis",
+        "p": "",
+        "description": ""
+    },
+    "tp_kami_corrupted_moor_zora": {
+        "name": "<GEN>tp_kami_corrupted_moor_zora",
+        "p": "",
+        "description": ""
+    },
+    "tp_karavan_corrupted_moor": {
+        "name": "<GEN>tp_karavan_corrupted_moor",
+        "p": "",
+        "description": ""
+    },
+    "tp_karavan_corrupted_moor_fairhaven": {
+        "name": "<GEN>tp_karavan_corrupted_moor_fairhaven",
+        "p": "",
+        "description": ""
+    },
+    "tp_karavan_corrupted_moor_pyr": {
+        "name": "<GEN>tp_karavan_corrupted_moor_pyr",
+        "p": "",
+        "description": ""
+    },
+    "tp_karavan_corrupted_moor_yrkanis": {
+        "name": "<GEN>tp_karavan_corrupted_moor_yrkanis",
+        "p": "",
+        "description": ""
+    },
+    "tp_karavan_corrupted_moor_zora": {
+        "name": "<GEN>tp_karavan_corrupted_moor_zora",
+        "p": "",
+        "description": ""
+    },
     "xmas_gingeryubo": {
         "name": "Lebkuchen Yubo",
         "p": "Lebkuchen Yubo",
@@ -34458,5 +39048,120 @@
         "name": "Blatt",
         "p": "Blatt",
         "description": ""
+    },
+    "ic_ice_stick": {
+        "name": "Stab des Frosts",
+        "p": "Stäbe des Frosts",
+        "description": ""
+    },
+    "ic_star_stick": {
+        "name": "Sternenstab",
+        "p": "Sternenstäbe",
+        "description": ""
+    },
+    "tp_kami_ranger_camp": {
+        "name": "Kami Teleportationspakt für das Rangerlager",
+        "p": "ein",
+        "description": ""
+    },
+    "tp_kami_shining_lake": {
+        "name": "Kami Teleportationspakt für den Funkelnden See",
+        "p": "ein",
+        "description": ""
+    },
+    "tp_karavan_ranger_camp": {
+        "name": "Karavan Teleportationspakt für das Rangerlager",
+        "p": "ein",
+        "description": ""
+    },
+    "tp_karavan_shattered_ruins": {
+        "name": "Karavan Teleportationspakt für Zerstörte Ruinen",
+        "p": "ein",
+        "description": ""
+    },
+    "rite_ranger_map_book": {
+        "name": "Karte",
+        "p": "eine",
+        "description": "die"
+    },
+    "ranger_rite_leader_tool": {
+        "name": "Listeneditor",
+        "p": "Listeneditoren",
+        "description": ""
+    },
+    "ranger_rite_flare_gun": {
+        "name": "Leuchtpistole",
+        "p": "Leuchtpistolen",
+        "description": ""
+    },
+    "m0817googf01": {
+        "name": "Erhabenes Blatt eines verdorbenen Cratcha",
+        "p": "ein",
+        "description": ""
+    },
+    "m0818googf01": {
+        "name": "Erhabener Stiel eines verdorbenen Cratcha",
+        "p": "ein",
+        "description": ""
+    },
+    "teddragus": {
+        "name": "Plüsch",
+        "p": "Plüsch",
+        "description": ""
+    },
+    "teddploderos": {
+        "name": "Plüsch",
+        "p": "Plüsch",
+        "description": ""
+    },
+    "teddmadakam": {
+        "name": "Plüsch",
+        "p": "Plüsch",
+        "description": ""
+    },
+    "teddlumper": {
+        "name": "Plüsch",
+        "p": "Plüsch",
+        "description": ""
+    },
+    "teddgubani": {
+        "name": "Plüsch",
+        "p": "Plüsch",
+        "description": ""
+    },
+    "teddarma": {
+        "name": "Plüsch",
+        "p": "Plüsch",
+        "description": ""
+    },
+    "gubani_mount_0": {
+        "name": "Reit-Gubani",
+        "p": "Reit-Gubanis",
+        "description": "Reit-Gubani, schnelles Reittier mit etwas Taschenplatz"
+    },
+    "gubani_mount_1": {
+        "name": "Reit-Gubani",
+        "p": "Reit-Gubanis",
+        "description": "Reit-Gubani, schnelles Reittier mit etwas Taschenplatz"
+    },
+    "gubani_mount_2": {
+        "name": "Reit-Gubani",
+        "p": "Reit-Gubanis",
+        "description": "Reit-Gubani, schnelles Reittier mit etwas Taschenplatz"
+    },
+    "gubani_mount_3": {
+        "name": "Reit-Gubani",
+        "p": "Reit-Gubanis",
+        "description": "Reit-Gubani, schnelles Reittier mit etwas Taschenplatz"
+    },
+    "gubani_mount_4": {
+        "name": "Reit-Gubani",
+        "p": "Reit-Gubanis",
+        "description": "Reit-Gubani, schnelles Reittier mit etwas Taschenplatz"
+    },
+    "iaad": {
+        "name": "Zig-Gubani",
+        "p": "Zigs-Gubani",
+        "description": "relativ langsames Tier, das nur tragen und folgen, aber nicht geritten werden kann"
     }
 }

@@ -100760,7 +100760,7 @@
         "brick_family": 451,
         "index_in_family": 26,
         "level": 26,
-        "sabrina_cost": 250,
+        "sabrina_cost": 260,
         "sabrina_relative_cost": 0,
         "action_nature": 11,
         "cast_time": [
@@ -101681,7 +101681,7 @@
         "brick_family": 460,
         "index_in_family": 26,
         "level": 26,
-        "sabrina_cost": 250,
+        "sabrina_cost": 260,
         "sabrina_relative_cost": 0,
         "action_nature": 11,
         "cast_time": [
@@ -102588,7 +102588,7 @@
         "brick_family": 472,
         "index_in_family": 26,
         "level": 26,
-        "sabrina_cost": 250,
+        "sabrina_cost": 260,
         "sabrina_relative_cost": 0,
         "action_nature": 11,
         "cast_time": [
@@ -103530,7 +103530,7 @@
         "brick_family": 458,
         "index_in_family": 26,
         "level": 26,
-        "sabrina_cost": 250,
+        "sabrina_cost": 260,
         "sabrina_relative_cost": 0,
         "action_nature": 11,
         "cast_time": [
@@ -132868,6 +132868,66 @@
             "sm": 0,
             "sh": 0,
             "sc": 0
+        }
+    },
+    "bccmea18": {
+        "sheet_id": "bccmea18",
+        "brick_family": 148,
+        "index_in_family": 45,
+        "level": 18,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 3,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            111
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mw_2h_mace.png",
+            "back": "bk_generic_brick.png",
+            "over": "fp_over.png"
+        },
+        "required_skills": {
+            "sc": 2500
+        }
+    },
+    "bccmea19": {
+        "sheet_id": "bccmea19",
+        "brick_family": 148,
+        "index_in_family": 45,
+        "level": 19,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 3,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            111
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mw_2h_mace.png",
+            "back": "bk_generic_brick.png",
+            "over": "fp_over.png"
+        },
+        "required_skills": {
+            "sc": 2500
         }
     }
 }

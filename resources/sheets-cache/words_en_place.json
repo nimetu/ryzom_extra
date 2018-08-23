@@ -1947,7 +1947,7 @@
         "name": "Passage near the Winds of Muse"
     },
     "continent_zorai_island": {
-        "name": "<zoraï islets>"
+        "name": "Oflovak Road"
     },
     "region_zorai_island1": {
         "name": "<zoraï islet 1>"
@@ -2464,5 +2464,608 @@
     },
     "continent_r2_forest": {
         "name": "Leewind Lands"
+    },
+    "continent_r2_roots": {
+        "name": "Unexplored Prims"
+    },
+    "continent_r2_desert": {
+        "name": "Unexplored Desert"
+    },
+    "continent_r2_lakes": {
+        "name": "Unexplored Lakes"
+    },
+    "continent_r2_jungle": {
+        "name": "Unexplored Jungle"
+    },
+    "region_zorai_islands": {
+        "name": "Oflovak Road -- Jungle"
+    },
+    "uir2_jungle30": {
+        "name": "Great Dale"
+    },
+    "uir2_jungle47": {
+        "name": "Range of the Brave"
+    },
+    "uir2_jungle36": {
+        "name": "The Forgotten Lagoon"
+    },
+    "uir2_jungle33": {
+        "name": "The Cave"
+    },
+    "uir2_jungle39": {
+        "name": "Wombaï`s passage"
+    },
+    "uir2_jungle23": {
+        "name": "Mountain Bamboos"
+    },
+    "uir2_jungle16": {
+        "name": "High-Plateau"
+    },
+    "uir2_jungle01": {
+        "name": "Forest of Waves"
+    },
+    "uir2_jungle50": {
+        "name": "Spoiled Spring"
+    },
+    "uir2_jungle02": {
+        "name": "Lakes"
+    },
+    "uir2_jungle45": {
+        "name": "Homin`s Plain"
+    },
+    "uir2_jungle15": {
+        "name": "Soiled Plain"
+    },
+    "uir2_jungle44": {
+        "name": "Rock of Tears"
+    },
+    "uir2_jungle19": {
+        "name": "Aquatic Jungle"
+    },
+    "uir2_jungle07": {
+        "name": "Hand"
+    },
+    "uir2_jungle27": {
+        "name": "Empty Valley"
+    },
+    "uir2_jungle21": {
+        "name": "Uneven and Variety"
+    },
+    "uir2_jungle03": {
+        "name": "Goo and Bamboos"
+    },
+    "uir2_jungle38": {
+        "name": "Twin Ponds"
+    },
+    "uir2_jungle48": {
+        "name": "Rock of Flowers"
+    },
+    "uir2_jungle34": {
+        "name": "Plateau of Goo"
+    },
+    "uir2_jungle31": {
+        "name": "Small Circle"
+    },
+    "uir2_jungle52": {
+        "name": "The Tears of Atys"
+    },
+    "uir2_jungle32": {
+        "name": "Goo Patches"
+    },
+    "uir2_jungle49": {
+        "name": "The Chain"
+    },
+    "uir2_jungle28": {
+        "name": "Small Spring"
+    },
+    "uir2_jungle42": {
+        "name": "The Enclave"
+    },
+    "uir2_jungle13": {
+        "name": "Mirror of Goo"
+    },
+    "uir2_jungle51": {
+        "name": "Green Spirit"
+    },
+    "uir2_jungle18": {
+        "name": "Heart of the Jungle"
+    },
+    "uir2_jungle29": {
+        "name": "Waterside"
+    },
+    "uir2_jungle06": {
+        "name": "Steepsided Valley"
+    },
+    "uir2_jungle17": {
+        "name": "Promontories and Ridges"
+    },
+    "uir2_jungle26": {
+        "name": "Further Goes the Goo"
+    },
+    "uir2_jungle11": {
+        "name": "Bald Plateau"
+    },
+    "uir2_jungle35": {
+        "name": "Plain of Desolation"
+    },
+    "uir2_jungle22": {
+        "name": "Tropical Corridor"
+    },
+    "uir2_jungle14": {
+        "name": "Vegetable Diversity"
+    },
+    "uir2_jungle53": {
+        "name": "Mask of the Zoraï"
+    },
+    "uir2_jungle43": {
+        "name": "The Mysterious Forest"
+    },
+    "uir2_jungle08": {
+        "name": "Mound of Spirits"
+    },
+    "uir2_jungle24": {
+        "name": "Mountainside"
+    },
+    "uir2_jungle25": {
+        "name": "The Circle"
+    },
+    "uir2_jungle05": {
+        "name": "Taste of Paradise"
+    },
+    "uir2_jungle12": {
+        "name": "Ways of the Maze"
+    },
+    "uir2_jungle46": {
+        "name": "The Fall"
+    },
+    "uir2_jungle41": {
+        "name": "Great Kami Plain"
+    },
+    "uir2_jungle04": {
+        "name": "Mini-Goo"
+    },
+    "uir2_jungle09": {
+        "name": "Underground Pathways"
+    },
+    "uir2_forest38": {
+        "name": "Garden of Reward"
+    },
+    "uir2_forest35": {
+        "name": "Wall of Bark"
+    },
+    "uir2_forest44": {
+        "name": "Grove of Jen-Mawk"
+    },
+    "uir2_forest28": {
+        "name": "Cliff of Clouds"
+    },
+    "uir2_forest30": {
+        "name": "Crag of chaos"
+    },
+    "uir2_forest39": {
+        "name": "Three Clearings"
+    },
+    "uir2_forest33": {
+        "name": "Chasm of the Kincher"
+    },
+    "uir2_forest46": {
+        "name": "The Wild Ravine"
+    },
+    "uir2_forest06": {
+        "name": "Four-Waterfalls"
+    },
+    "uir2_forest32": {
+        "name": "Dried-up Springs"
+    },
+    "uir2_forest14": {
+        "name": "Great Arena"
+    },
+    "uir2_forest10": {
+        "name": "Roots of Memory"
+    },
+    "uir2_forest09": {
+        "name": "The White Hills"
+    },
+    "uir2_forest20": {
+        "name": "Darkpass"
+    },
+    "uir2_forest23": {
+        "name": "Empty Passage"
+    },
+    "uir2_forest17": {
+        "name": "Bawaab Ridge"
+    },
+    "uir2_forest18": {
+        "name": "Plain of Spines"
+    },
+    "uir2_forest12": {
+        "name": "Confined Clearing"
+    },
+    "uir2_forest07": {
+        "name": "Well of Secrets"
+    },
+    "uir2_forest31": {
+        "name": "Mere of dreams"
+    },
+    "uir2_forest03": {
+        "name": "Remnants of Verdure"
+    },
+    "uir2_forest08": {
+        "name": "Raspals Ridge"
+    },
+    "uir2_forest15": {
+        "name": "Kitins Ridge"
+    },
+    "uir2_forest16": {
+        "name": "Whirlmount"
+    },
+    "uir2_forest42": {
+        "name": "Lush Forest"
+    },
+    "uir2_forest11": {
+        "name": "Madakam Ridge"
+    },
+    "uir2_forest24": {
+        "name": "Northern Island"
+    },
+    "uir2_forest41": {
+        "name": "Mage Tower"
+    },
+    "uir2_forest29": {
+        "name": "Woods of wonder"
+    },
+    "uir2_forest21": {
+        "name": "Passage of the Pit"
+    },
+    "uir2_forest01": {
+        "name": "Matis Balcony"
+    },
+    "uir2_forest36": {
+        "name": "The Last Well"
+    },
+    "uir2_forest43": {
+        "name": "Serene Forest"
+    },
+    "uir2_forest27": {
+        "name": "Forgotten Plateau"
+    },
+    "uir2_forest05": {
+        "name": "Severed-Stump"
+    },
+    "uir2_forest37": {
+        "name": "Beyond the Jungle"
+    },
+    "uir2_forest40": {
+        "name": "Madakam Track"
+    },
+    "uir2_forest19": {
+        "name": "Haunted Corridor"
+    },
+    "uir2_forest34": {
+        "name": "Jaws of the Tobak"
+    },
+    "uir2_forest25": {
+        "name": "Gorge of the Dance"
+    },
+    "uir2_forest26": {
+        "name": "Long-Island"
+    },
+    "uir2_forest04": {
+        "name": "Cynical Marshes"
+    },
+    "uir2_forest45": {
+        "name": "Barkcleft"
+    },
+    "uir2_forest22": {
+        "name": "Fang-Island"
+    },
+    "uir2_forest13": {
+        "name": "The Winter Pier"
+    },
+    "uir2_forest02": {
+        "name": "Cliff of Conflict"
+    },
+    "uir2_deserts27": {
+        "name": "Hidden Reserves"
+    },
+    "uir2_deserts25": {
+        "name": "The Great Circuit"
+    },
+    "uir2_deserts12": {
+        "name": "Dragon Valley"
+    },
+    "uir2_deserts10": {
+        "name": "Ancient Hollow"
+    },
+    "uir2_deserts20": {
+        "name": "The Labyrinth"
+    },
+    "uir2_deserts30": {
+        "name": "The Two Halls"
+    },
+    "uir2_deserts14": {
+        "name": "Wooded Canyon"
+    },
+    "uir2_deserts04": {
+        "name": "Windy Loop"
+    },
+    "uir2_deserts01": {
+        "name": "The Botoga`s Drop"
+    },
+    "uir2_deserts29": {
+        "name": "The Dark Pathway"
+    },
+    "uir2_deserts24": {
+        "name": "Height of Serenity"
+    },
+    "uir2_deserts18": {
+        "name": "The Crown"
+    },
+    "uir2_deserts23": {
+        "name": "Connected Paths"
+    },
+    "uir2_deserts11": {
+        "name": "Blue Oasis"
+    },
+    "uir2_deserts26": {
+        "name": "The Hive"
+    },
+    "uir2_deserts05": {
+        "name": "The Baking Cliffs"
+    },
+    "uir2_deserts22": {
+        "name": "Sands of Solitude"
+    },
+    "uir2_deserts06": {
+        "name": "Valley of Fire"
+    },
+    "uir2_deserts31": {
+        "name": "The Furrow"
+    },
+    "uir2_deserts28": {
+        "name": "Treacherous Passage"
+    },
+    "uir2_deserts15": {
+        "name": "The Trail of Initiation"
+    },
+    "uir2_deserts32": {
+        "name": "Shalah Footprints"
+    },
+    "uir2_deserts17": {
+        "name": "Three Branches"
+    },
+    "uir2_deserts19": {
+        "name": "Struggle for Power"
+    },
+    "uir2_deserts09": {
+        "name": "Twin Lakes"
+    },
+    "uir2_deserts13": {
+        "name": "Dunes of Temperance"
+    },
+    "uir2_deserts33": {
+        "name": "Meditations of the Mace Master"
+    },
+    "uir2_deserts07": {
+        "name": "Dunes of forgetfulness"
+    },
+    "uir2_deserts03": {
+        "name": "The Sleeping Bodoc"
+    },
+    "uir2_deserts16": {
+        "name": "Lair in the Heights"
+    },
+    "uir2_deserts21": {
+        "name": "The Ambush"
+    },
+    "uir2_deserts02": {
+        "name": "Mektoub Passage"
+    },
+    "uir2_deserts08": {
+        "name": "Arid Pass"
+    },
+    "uir2_lakes40": {
+        "name": "The High Plains"
+    },
+    "uir2_lakes34": {
+        "name": "The winding maze"
+    },
+    "uir2_lakes06": {
+        "name": "Twilight Pass"
+    },
+    "uir2_lakes01": {
+        "name": "Green Lagoon"
+    },
+    "uir2_lakes25": {
+        "name": "Gorges of Sitra"
+    },
+    "uir2_lakes20": {
+        "name": "Hundred Ways"
+    },
+    "uir2_lakes23": {
+        "name": "The Yubo Cave"
+    },
+    "uir2_lakes17": {
+        "name": "Through the Cliff"
+    },
+    "uir2_lakes24": {
+        "name": "The Neck"
+    },
+    "uir2_lakes39": {
+        "name": "The Bolas"
+    },
+    "uir2_lakes30": {
+        "name": "The K"
+    },
+    "uir2_lakes32": {
+        "name": "Sunny Path"
+    },
+    "uir2_lakes15": {
+        "name": "The Inland Sea"
+    },
+    "uir2_lakes28": {
+        "name": "Tears of Sky"
+    },
+    "uir2_lakes35": {
+        "name": "The Two Caches"
+    },
+    "uir2_lakes10": {
+        "name": "Mystic Mere"
+    },
+    "uir2_lakes08": {
+        "name": "Messab Triangle"
+    },
+    "uir2_lakes12": {
+        "name": "Vale of Ponds"
+    },
+    "uir2_lakes16": {
+        "name": "Reclaimed Dunes"
+    },
+    "uir2_lakes33": {
+        "name": "The Narrow staircase"
+    },
+    "uir2_lakes27": {
+        "name": "Dacoco Beach"
+    },
+    "uir2_lakes22": {
+        "name": "Hidden crannies"
+    },
+    "uir2_lakes02": {
+        "name": "Hidden Archipelago"
+    },
+    "uir2_lakes19": {
+        "name": "Hidden Valley"
+    },
+    "uir2_lakes36": {
+        "name": "Raskous Corner"
+    },
+    "uir2_lakes26": {
+        "name": "The Hike"
+    },
+    "uir2_lakes11": {
+        "name": "The Trident"
+    },
+    "uir2_lakes03": {
+        "name": "Two-Isles"
+    },
+    "uir2_lakes05": {
+        "name": "Three Peaks Valley"
+    },
+    "uir2_lakes29": {
+        "name": "Clopper`s claw"
+    },
+    "uir2_lakes31": {
+        "name": "The Clash"
+    },
+    "uir2_lakes37": {
+        "name": "The Excavations"
+    },
+    "uir2_lakes04": {
+        "name": "Clopper Bath"
+    },
+    "uir2_lakes14": {
+        "name": "The Archway"
+    },
+    "uir2_lakes09": {
+        "name": "Waterdell Lake"
+    },
+    "uir2_lakes07": {
+        "name": "Dunes of Dawn"
+    },
+    "uir2_lakes21": {
+        "name": "Voyage of Dreams"
+    },
+    "uir2_lakes18": {
+        "name": "Liberty Land"
+    },
+    "uir2_lakes38": {
+        "name": "The Niches"
+    },
+    "uir2_primes30": {
+        "name": "An Ancient Hide"
+    },
+    "uir2_primes22": {
+        "name": "Mount of Curses"
+    },
+    "uir2_primes21": {
+        "name": "Springs of Life"
+    },
+    "uir2_primes23": {
+        "name": "Unknown Mound"
+    },
+    "uir2_primes15": {
+        "name": "Stalagmites of Quietude"
+    },
+    "uir2_primes05": {
+        "name": "The Bath of Sap"
+    },
+    "uir2_primes29": {
+        "name": "The Shining Cave"
+    },
+    "uir2_primes20": {
+        "name": "Valley of Death"
+    },
+    "uir2_primes01": {
+        "name": "Hall of Destiny"
+    },
+    "uir2_primes19": {
+        "name": "Tunnels of Oblvion"
+    },
+    "uir2_primes09": {
+        "name": "River of Doubts"
+    },
+    "uir2_primes14": {
+        "name": "Sanctuary"
+    },
+    "uir2_primes16": {
+        "name": "Eye of Ma-Duk"
+    },
+    "uir2_primes25": {
+        "name": "Maro`s Steps"
+    },
+    "uir2_primes28": {
+        "name": "Forest of Light"
+    },
+    "uir2_primes27": {
+        "name": "Fallen Stump"
+    },
+    "uir2_primes18": {
+        "name": "To the End of the Nightmare"
+    },
+    "uir2_primes10": {
+        "name": "Kitins Lair"
+    },
+    "uir2_primes08": {
+        "name": "The Nest"
+    },
+    "uir2_primes26": {
+        "name": "Neverending Walk"
+    },
+    "uir2_primes03": {
+        "name": "Green-cave"
+    },
+    "uir2_primes13": {
+        "name": "The Arena"
+    },
+    "uir2_primes17": {
+        "name": "Abandoned Cave"
+    },
+    "uir2_primes06": {
+        "name": "The Pillars"
+    },
+    "uir2_primes04": {
+        "name": "Plain of Torments"
+    },
+    "uir2_primes24": {
+        "name": "Kitin Desolation"
+    },
+    "uir2_primes07": {
+        "name": "Ruins of the Past"
+    },
+    "uir2_primes11": {
+        "name": "Valley of Spores"
+    },
+    "uir2_primes12": {
+        "name": "The Hive"
     }
 }
