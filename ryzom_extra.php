@@ -85,9 +85,8 @@ class RyzomExtra
     const ITEM_AXE = 3;
     const ITEM_SPEAR = 4;
     const ITEM_STAFF = 5;
+    //
     const ITEM_2H_SWORD = 6;
-    /** @deprecated use ITEM_2H_AXE instead */
-    const ITEM_2h_AXE = 7;
     const ITEM_2H_AXE = 7;
     const ITEM_PIKE = 8;
     const ITEM_2H_MACE = 9;
@@ -145,17 +144,24 @@ class RyzomExtra
     // 53 - campsfire
     const ITEM_MEKTOUB_PACKER = 54;
     const ITEM_MEKTOUB_MOUNT = 55;
-    const ITEM_FORAGE_BALE = 56;
-    const ITEM_MAGIC_AMPLIFIER = 57;
-    // 58 - hom hairstyle
-    // 59 - hom hair color
-    // 60 - hom tatoo
-    // 61 - hof hairstyle
-    // 62 - hof hair color
-    // 63 - hof tatoo
-    // 64 - service stable
-    const ITEM_T_65 = 65; // sap recharge, casino ticker/token/title
-    const ITEM_OTHER = 66; // generic (mats)
+    const ITEM_ANIMAL_TICKET = 56;
+    const ITEM_FORAGE_BALE = 57;
+    const ITEM_MAGIC_AMPLIFIER = 58;
+    // 59 - hom hairstyle
+    // 60 - hom hair color
+    // 61 - hom tatoo
+    // 62 - hof hairstyle
+    // 63 - hof hair color
+    // 64 - hof tatoo
+    // 65 - service stable
+    // 66 - job element
+    const ITEM_GENERIC = 67; // sap recharge, casino ticker/token/title
+    const ITEM_UNDEFINED = 68;
+    //
+    // @deprecated should not be used, probably removed in next major version
+    const ITEM_2h_AXE = 7;// use ITEM_2H_AXE instead
+    const ITEM_T_65 = 67; // sap recharge, casino ticker/token/title
+    const ITEM_OTHER = 68; // generic (mats)
     //
     // weapon/ammo damage
     const DMG_SLASH = 0;
