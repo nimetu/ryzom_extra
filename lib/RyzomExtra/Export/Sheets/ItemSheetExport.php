@@ -76,7 +76,7 @@ class ItemSheetExport extends AbstractSheetExport {
 				'item_type' => $item->ItemType,
 				'race' => $item->ItemOrigin,
 				'quality' => $item->MapVariant,
-				'bulk' => $item->Bulk,
+				'bulk' => round($item->Bulk, 2),
 				//'consumable' => $item->IsConsumable,
 			);
 

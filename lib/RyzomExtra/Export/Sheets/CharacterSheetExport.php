@@ -52,7 +52,7 @@ class CharacterSheetExport extends AbstractSheetExport {
 				'gender' => (int)$creature->Gender,
 				'race' => (string)$creature->Race,
 				'fame' => (string)$creature->Fame,
-				'speed' => sprintf("%.1f", $creature->MaxSpeed),
+				'speed' => round($creature->MaxSpeed, 1),
 				'region_force' => (int)$creature->RegionForce,
 				'force_level' => (int)$creature->ForceLevel,
 				'level' => (int)$creature->Level,

@@ -64,7 +64,7 @@ class SbrickSheetExport extends AbstractSheetExport {
 				'index_in_family' => $sbrick->IndexInFamily,
 				'level' => $sbrick->Level,
 				'sabrina_cost' => $sbrick->SabrinaCost,
-				'sabrina_relative_cost' => $sbrick->SabrinaRelativeCost,
+				'sabrina_relative_cost' => round($sbrick->SabrinaRelativeCost, 2),
 				'action_nature' => $sbrick->ActionNature,
 				'cast_time' => array($sbrick->MinCastTime, $sbrick->MaxCastTime),
 				'range' => array($sbrick->MinRange, $sbrick->MaxRange),
