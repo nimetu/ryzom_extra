@@ -999,7 +999,7 @@
         "name": "NOTAS DE LA VERSIÓN"
     },
     "uigameconfiguration": {
-        "name": "CONFIGURACIÓN DEL JUEGO"
+        "name": "CONFIGURACIÓN"
     },
     "uicreateaccount": {
         "name": "CREAR CUENTA"
@@ -4143,7 +4143,7 @@
         "name": "Hominista"
     },
     "uifamemarauders": {
-        "name": "Merodeador"
+        "name": "Marauder"
     },
     "uifameagnos": {
         "name": "Ateo"
@@ -5227,6 +5227,9 @@
     },
     "uittfiltertool": {
         "name": "Filtrar @{6F6F}Herramientas\n@{FFFF}Click derecho para seleccionar sólo @{6F6F}Herramientas@{FFFF}."
+    },
+    "uittfilterpet": {
+        "name": "Filter @{6F6F}Animal\n@{FFFF}Haga clic con el botón derecho del ratón para seleccionar sólo@{6F6F}Animal@{FFFF}."
     },
     "uittfiltermp": {
         "name": "Filtrar @{6F6F}Materiales\n@{FFFF}Haga un click derecho para seleccionar sólo @{6F6F}Materiales@{FFFF}."
@@ -6579,7 +6582,7 @@
         "name": "MEMORIA ESPECIAL"
     },
     "uimwcolors": {
-        "name": "CONFIGURACIÓN DEL JUEGO"
+        "name": "CONFIGURACIÓN"
     },
     "uimwconnection": {
         "name": "CONEXIÓN"
@@ -7749,7 +7752,7 @@
         "name": "FS Perdido"
     },
     "uiglobalsettingstitle": {
-        "name": "CONFIGURACIÓN DEL JUEGO"
+        "name": "CONFIGURACIÓN"
     },
     "fct_steward": {
         "name": " (Administrador)"
@@ -14043,7 +14046,7 @@
         "name": "El animal está vivo y fuera del establo.\n@{6F6F}Hacer clic izquierdo @{FFFF}para seleccionar.\n@{6F6F}Hacer clic derecho @{FFFF}para dar una orden."
     },
     "uittstable": {
-        "name": "El animal está en el establo.\n@{6F6F}Hacer clic izquierdo @{FFFF}para seleccionar.\n@{6F6F}Hacer clic derecho @{FFFF}para dar una orden."
+        "name": "El animal está en el establo.\n@{6F6F}Hacer clic derecho @{FFFF}para dar una orden."
     },
     "uittdead": {
         "name": "El animal está muerto.\n@{6F6F}Hacer clic izquierdo @{FFFF}para seleccionar.\n@{6F6F}Hacer clic derecho @{FFFF}para dar una orden."
@@ -14610,7 +14613,7 @@
         "name": "SALIR DEL JUEGO"
     },
     "uimk_game_8": {
-        "name": "CONFIGURACIÓN DEL JUEGO"
+        "name": "CONFIGURACIÓN"
     },
     "uimk_game_desk": {
         "name": "ESCRITORIOS"
@@ -16031,6 +16034,9 @@
     "uimp3pause": {
         "name": "Pausa"
     },
+    "uimp3stop": {
+        "name": "Parar"
+    },
     "uimp3next": {
         "name": "Siguiente"
     },
@@ -16213,6 +16219,12 @@
     },
     "uifactionpointtable": {
         "name": "PUNTOS DE FACCIÓN Y NACIÓN"
+    },
+    "uiorgpointtable": {
+        "name": "ORGANIZATION POINTS"
+    },
+    "uittidentityorganization": {
+        "name": "Los puntos de la organización se ganan cuando tú participas en @{6F6F}eventos especiales o misiones@{FFFF} para la organización: Marauder y Ranger. Estos puntos pueden ser intercambiados para obtener objetos útiles y únicos en las capitales.."
     },
     "uiafk": {
         "name": "{AFK}"
@@ -17076,7 +17088,7 @@
         "name": "Ryzom Ring"
     },
     "uimk_system1": {
-        "name": "Configuración del Juego"
+        "name": "Configuración"
     },
     "uimk_system2": {
         "name": "Teclas"
@@ -19451,6 +19463,9 @@
     "uimwappzone": {
         "name": "AppZone"
     },
+    "uiappzone": {
+        "name": "Zona App"
+    },
     "uiplayedtime": {
         "name": "Has jugado con este personaje %time."
     },
@@ -19550,11 +19565,20 @@
     "uittmapsearch": {
         "name": "Búsqueda en el mapa"
     },
+    "uittinventorysearch": {
+        "name": "Buscar"
+    },
     "uimmacrocopy": {
         "name": "COPIA"
     },
     "uimmccopy": {
         "name": "COPIA"
+    },
+    "uisaveui": {
+        "name": "Guardar"
+    },
+    "uiinterfacescale": {
+        "name": "Escala de interfaz"
     },
     "uitabinvpazig1": {
         "name": "ZIG 1"
@@ -19582,5 +19606,92 @@
     },
     "uipatitlemount7": {
         "name": "Zig 3"
+    },
+    "uittinbag": {
+        "name": "El animal está en tu saco.\n@{6F6F}Hacer clic derecho @{FFFF}para dar una orden."
+    },
+    "uimenterbag": {
+        "name": "Entrar en la bolsa"
+    },
+    "uimleavebag": {
+        "name": "Salir de la bolsa"
+    },
+    "msgrolldicelocal": {
+        "name": "&SYS&@{FF1F}Tiraste de la %roll en un empate entre un %min y un %max."
+    },
+    "uiguildtabisland": {
+        "name": "Isla"
+    },
+    "uiartefactrestrict": {
+        "name": "@{C02F}Su lealtad o nivel de fama no le permite usar este artículo."
+    },
+    "uiartefacthelp": {
+        "name": "Compra un pacto antes de que se agoten las existencias."
+    },
+    "uimihidebanner": {
+        "name": "Ocultar estandarte de facción"
+    },
+    "uimishowbanner": {
+        "name": "Mostrar estandarte de la facción"
+    },
+    "uimicloseontp": {
+        "name": "Ventana de cierre de teletransporte"
+    },
+    "uimiopenontp": {
+        "name": "Ventana de teletransporte"
+    },
+    "uimirefresh": {
+        "name": "Renovar"
+    },
+    "uimicompact": {
+        "name": "Conmutar el modo compacto"
+    },
+    "uimchansave": {
+        "name": "Guardar"
+    },
+    "uichansavecb": {
+        "name": "Guardar canales dinámicos"
+    },
+    "uichanautocb": {
+        "name": "Restaurar canales dinámicos"
+    },
+    "uittchansave": {
+        "name": "Si está marcada, los canales de chat dinámico se almacenan al desconectarse o al seleccionar un carácter.\nTambién puede utilizar el comando @{6F6F}\/saveChannel@{FFFF} para exportar canales manualmente."
+    },
+    "uittchanauto": {
+        "name": "Si está marcada, sus canales de chat dinámico se restaurarán si no están abiertos.\nEvitará la pérdida de canales al reiniciar o en caso de caída del servidor."
+    },
+    "uiwelcome_around": {
+        "name": "El juego de roles es uno de los principales intereses de Ryzom, y alrededor del canal es un lugar importante para practicarlo."
+    },
+    "uiwelcome_region": {
+        "name": "Chatea aquí con otros jugadores que tengan su avatar en la misma región que el tuyo."
+    },
+    "uiwelcome_universe": {
+        "name": "El Canal Universo es multilingüe está destinado en primer lugar a los jugadores que piden ayuda sobre el juego y a los que les ayudan. Es un canal amigable que también puede ser utilizado para chatear relacionado con Ryzom."
+    },
+    "uiwelcome_kami": {
+        "name": "Chatea aquí con jugadores que tienen su avatar compartiendo el mismo culto que el tuyo."
+    },
+    "uiwelcome_karavan": {
+        "name": "Chatea aquí con jugadores que tienen su avatar compartiendo el mismo culto que el tuyo."
+    },
+    "uiwelcome_fyros": {
+        "name": "Chatea aquí con jugadores cuyo avatar es también un patriota."
+    },
+    "uiwelcome_tryker": {
+        "name": "Chatea aquí con jugadores cuyo avatar es también ciudadano."
+    },
+    "uiwelcome_zorai": {
+        "name": "Chatea aquí con jugadores cuyo avatar también es un iniciado."
+    },
+    "uiwelcome_matis": {
+        "name": "Chatea aquí con jugadores cuyo avatar también es un vasallo."
+    },
+    "uiwelcome_marauder": {
+        "name": "Chatea aquí con jugadores cuyo avatar también es un marauder."
+    },
+    "uiwelcome_ranger": {
+        "name": "Chatea aquí con jugadores cuyo avatar también es un ranger."
     }
 }

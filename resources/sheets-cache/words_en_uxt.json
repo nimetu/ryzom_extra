@@ -999,7 +999,7 @@
         "name": "VERSION NOTES"
     },
     "uigameconfiguration": {
-        "name": "GAME CONFIGURATION"
+        "name": "CONFIGURATION"
     },
     "uicreateaccount": {
         "name": "CREATE ACCOUNT"
@@ -5228,6 +5228,9 @@
     "uittfiltertool": {
         "name": "Filter @{6F6F}Tools\n@{FFFF}Right click to select only @{6F6F}Tools@{FFFF}."
     },
+    "uittfilterpet": {
+        "name": "Filter @{6F6F}Animal\n@{FFFF}Right click to select only @{6F6F}Animal@{FFFF}."
+    },
     "uittfiltermp": {
         "name": "Filter @{6F6F}Materials\n@{FFFF}Right click to select only @{6F6F}Materials@{FFFF}."
     },
@@ -6579,7 +6582,7 @@
         "name": "MEMORY SPECIAL"
     },
     "uimwcolors": {
-        "name": "GAME CONFIGURATION"
+        "name": "CONFIGURATION"
     },
     "uimwconnection": {
         "name": "CONNECTION"
@@ -7749,7 +7752,7 @@
         "name": "FS Lost"
     },
     "uiglobalsettingstitle": {
-        "name": "GAME CONFIGURATION"
+        "name": "CONFIGURATION"
     },
     "fct_steward": {
         "name": " (Steward)"
@@ -14043,7 +14046,7 @@
         "name": "The animal is alive and out of the stable.\n@{6F6F}Left click @{FFFF}to select.\n@{6F6F}Right click @{FFFF}to give an order."
     },
     "uittstable": {
-        "name": "The animal is in the stable.\n@{6F6F}Left click @{FFFF}to select.\n@{6F6F}Right click @{FFFF}to give an order."
+        "name": "The animal is in the stable.\n@{6F6F}Right click @{FFFF}to give an order."
     },
     "uittdead": {
         "name": "The animal is dead.\n@{6F6F}Left click @{FFFF}to select.\n@{6F6F}Right click @{FFFF}to give an order."
@@ -14610,7 +14613,7 @@
         "name": "QUIT GAME"
     },
     "uimk_game_8": {
-        "name": "GAME CONFIGURATION"
+        "name": "CONFIGURATION"
     },
     "uimk_game_desk": {
         "name": "DESKTOPS"
@@ -16031,6 +16034,9 @@
     "uimp3pause": {
         "name": "Pause"
     },
+    "uimp3stop": {
+        "name": "Stop"
+    },
     "uimp3next": {
         "name": "Next"
     },
@@ -16213,6 +16219,12 @@
     },
     "uifactionpointtable": {
         "name": "FACTION AND NATION POINTS"
+    },
+    "uiorgpointtable": {
+        "name": "ORGANIZATION POINTS"
+    },
+    "uittidentityorganization": {
+        "name": "Organization points are gained when you participate in @{6F6F}special events or missions@{FFFF} for the organization: Marauder and Ranger. This points can be traded to get useful and unique items on the capitals."
     },
     "uiafk": {
         "name": "{AFK}"
@@ -17076,7 +17088,7 @@
         "name": "Ryzom Ring"
     },
     "uimk_system1": {
-        "name": "Game Configuration"
+        "name": "Configuration"
     },
     "uimk_system2": {
         "name": "Keys"
@@ -19451,6 +19463,9 @@
     "uimwappzone": {
         "name": "AppZone"
     },
+    "uiappzone": {
+        "name": "App Zone"
+    },
     "uiplayedtime": {
         "name": "You played with this character for %time."
     },
@@ -19550,11 +19565,20 @@
     "uittmapsearch": {
         "name": "Map search"
     },
+    "uittinventorysearch": {
+        "name": "Search"
+    },
     "uimmacrocopy": {
         "name": "COPY"
     },
     "uimmccopy": {
         "name": "COPY"
+    },
+    "uisaveui": {
+        "name": "Save"
+    },
+    "uiinterfacescale": {
+        "name": "Interface scale"
     },
     "uitabinvpazig1": {
         "name": "ZIG 1"
@@ -19582,5 +19606,92 @@
     },
     "uipatitlemount7": {
         "name": "Zig 3"
+    },
+    "uittinbag": {
+        "name": "The animal is in your bag.\n@{6F6F}Right click @{FFFF}to give an order."
+    },
+    "uimenterbag": {
+        "name": "Enter on the bag"
+    },
+    "uimleavebag": {
+        "name": "Leave from the bag"
+    },
+    "msgrolldicelocal": {
+        "name": "&SYS&@{FF1F}You pulled %roll in a draw between %min and %max."
+    },
+    "uiguildtabisland": {
+        "name": "Island"
+    },
+    "uiartefactrestrict": {
+        "name": "@{C02F}Your allegiance or level of fame does not allow the use of this item."
+    },
+    "uiartefacthelp": {
+        "name": "Purchase a pact before running out of stock."
+    },
+    "uimihidebanner": {
+        "name": "Hide faction banner"
+    },
+    "uimishowbanner": {
+        "name": "Show faction banner"
+    },
+    "uimicloseontp": {
+        "name": "Close window after teleport "
+    },
+    "uimiopenontp": {
+        "name": "Reopen window after teleport "
+    },
+    "uimirefresh": {
+        "name": "Refresh"
+    },
+    "uimicompact": {
+        "name": "Toggle compact mode"
+    },
+    "uimchansave": {
+        "name": "Save"
+    },
+    "uichansavecb": {
+        "name": "Save Dynamic Channels"
+    },
+    "uichanautocb": {
+        "name": "Restore Dynamic Channels"
+    },
+    "uittchansave": {
+        "name": "If checked, dynamic chat channels are stored at disconnection or character selection.\nYou can also use the command @{6F6F}\/saveChannel@{FFFF} to export channels manually."
+    },
+    "uittchanauto": {
+        "name": "If checked, your dynamic chat channels will be restored if not already opened.\nWill prevent the loss of channels at reboot or in case of server crash."
+    },
+    "uiwelcome_around": {
+        "name": "Roleplay is one of major interests of Ryzom, and around channel is an important place to practice it."
+    },
+    "uiwelcome_region": {
+        "name": "Chat here with other players having their avatar in the same region as where yours is."
+    },
+    "uiwelcome_universe": {
+        "name": "The Universe channel is a multilingual channel primarily intended for players to ask for help with the game and those who provide it to them. In addition it is a user-friendly channel that can be used to discuss Ryzom."
+    },
+    "uiwelcome_kami": {
+        "name": "Chat here with players whose avatar shares the same cult as yours."
+    },
+    "uiwelcome_karavan": {
+        "name": "Chat here with players whose avatar shares the same cult as yours."
+    },
+    "uiwelcome_fyros": {
+        "name": "Chat here with players whose avatar is also a patriot."
+    },
+    "uiwelcome_tryker": {
+        "name": "Chat here with players whose avatar is also a citizen."
+    },
+    "uiwelcome_zorai": {
+        "name": "Chat here with players whose avatar is also an initiate."
+    },
+    "uiwelcome_matis": {
+        "name": "Chat here with players whose avatar is also a vassal."
+    },
+    "uiwelcome_marauder": {
+        "name": "Chat here with players whose avatar is also a marauder."
+    },
+    "uiwelcome_ranger": {
+        "name": "Chat here with players whose avatar is also a ranger."
     }
 }

@@ -2756,6 +2756,31 @@
             }
         }
     },
+    "m0152chdfe01": {
+        "sheetid": "m0152chdfe01",
+        "stats": {
+            "mpftMpG": {
+                "durability": 60,
+                "lightness": 60,
+                "sap_load": 84,
+                "speed": 84,
+                "dodge_modifier": 84,
+                "parry_modifier": 100,
+                "adversary_dodge_modifier": 84,
+                "adversary_parry_modifier": 84
+            },
+            "mpftMpVE": {
+                "durability": 84,
+                "lightness": 84,
+                "dodge_modifier": 60,
+                "parry_modifier": 84,
+                "protection_factor": 84,
+                "max_slashing_protection": 100,
+                "max_smashing_protection": 84,
+                "max_piercing_protection": 60
+            }
+        }
+    },
     "m0009chajc01": {
         "sheetid": "m0009chajc01",
         "stats": {
@@ -88260,6 +88285,106 @@
                 "max_slashing_protection": 90,
                 "max_smashing_protection": 60,
                 "max_piercing_protection": 100
+            }
+        }
+    },
+    "m0688chdfe01": {
+        "sheetid": "m0688chdfe01",
+        "stats": {
+            "mpftMpED": {
+                "durability": 100,
+                "lightness": 83,
+                "acid_protection": 83,
+                "cold_protection": 60,
+                "rot_protection": 83,
+                "fire_protection": 60,
+                "shockwave_protection": 83,
+                "poison_protection": 83,
+                "electric_protection": 83
+            },
+            "mpftMpMF": {
+                "durability": 60,
+                "lightness": 82,
+                "sap_load": 82,
+                "elemental_cast_speed": 82,
+                "elemental_power": 100,
+                "off_affliction_cast_speed": 82,
+                "off_affliction_power": 82,
+                "def_affliction_cast_speed": 82,
+                "def_affliction_power": 60,
+                "heal_cast_speed": 82,
+                "heal_power": 82
+            }
+        }
+    },
+    "m0690chdfe01": {
+        "sheetid": "m0690chdfe01",
+        "stats": {
+            "mpftMpGA": {
+                "durability": 100,
+                "lightness": 60,
+                "sap_load": 84,
+                "speed": 84,
+                "dodge_modifier": 84,
+                "parry_modifier": 60,
+                "adversary_dodge_modifier": 84,
+                "adversary_parry_modifier": 84
+            },
+            "mpftMpSU": {
+                "durability": 100,
+                "lightness": 85,
+                "desert_resistance": 85,
+                "forest_resistance": 85,
+                "jungle_resistance": 60,
+                "lake_resistance": 85,
+                "prime_roots_resistance": 60
+            }
+        }
+    },
+    "m0691chdfe01": {
+        "sheetid": "m0691chdfe01",
+        "stats": {
+            "mpftMpH": {
+                "durability": 60,
+                "lightness": 83,
+                "sap_load": 83,
+                "dmg": 83,
+                "speed": 83,
+                "dodge_modifier": 83,
+                "parry_modifier": 100,
+                "adversary_dodge_modifier": 83,
+                "adversary_parry_modifier": 60
+            },
+            "mpftMpC": {
+                "durability": 84,
+                "lightness": 84,
+                "sap_load": 84,
+                "speed": 84,
+                "dodge_modifier": 84,
+                "parry_modifier": 60,
+                "adversary_dodge_modifier": 60,
+                "adversary_parry_modifier": 100
+            }
+        }
+    },
+    "m0692chdfe01": {
+        "sheetid": "m0692chdfe01",
+        "stats": {
+            "mpftMpEN": {
+                "durability": 100,
+                "lightness": 100,
+                "speed": 60,
+                "range": 60
+            },
+            "mpftMpRI": {
+                "durability": 100,
+                "lightness": 84,
+                "dodge_modifier": 84,
+                "parry_modifier": 84,
+                "protection_factor": 84,
+                "max_slashing_protection": 84,
+                "max_smashing_protection": 60,
+                "max_piercing_protection": 60
             }
         }
     }

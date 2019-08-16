@@ -7961,6 +7961,78 @@
             "mpftMpAT": 10
         }
     },
+    "bcfaea22": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpVE": 1,
+            "mpftMpRI": 1,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcfaea23": {
+        "item_type": 28,
+        "mpft": {
+            "mpftMpVE": 1,
+            "mpftMpRI": 1,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcmaea22": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpVE": 1,
+            "mpftMpRI": 1,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bcmaea23": {
+        "item_type": 28,
+        "mpft": {
+            "mpftMpVE": 1,
+            "mpftMpRI": 1,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bctaea22": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpVE": 1,
+            "mpftMpRI": 1,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bctaea23": {
+        "item_type": 28,
+        "mpft": {
+            "mpftMpVE": 1,
+            "mpftMpRI": 1,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bczaea22": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpVE": 1,
+            "mpftMpRI": 1,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
+    "bczaea23": {
+        "item_type": 28,
+        "mpft": {
+            "mpftMpVE": 1,
+            "mpftMpRI": 1,
+            "mpftMpRE": 1,
+            "mpftMpAT": 1
+        }
+    },
     "bccmea18": {
         "item_type": 9,
         "mpft": {
@@ -7977,6 +8049,69 @@
             "mpftMpM": 4,
             "mpftMpG": 4,
             "mpftMpC": 4
+        }
+    },
+    "cp_anlor_helmet01": {
+        "item_type": 39,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpRI": 7,
+            "mpftMpRE": 5,
+            "mpftMpAT": 5
+        }
+    },
+    "cp_anlor_handled01": {
+        "item_type": 9,
+        "mpft": {
+            "mpftMpH": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        }
+    },
+    "bccmea20": {
+        "item_type": 9,
+        "mpft": {
+            "mpftMpH": 8,
+            "mpftMpM": 4,
+            "mpftMpG": 4,
+            "mpftMpC": 4
+        }
+    },
+    "cp_anlor_weapon01": {
+        "item_type": 7,
+        "mpft": {
+            "mpftMpL": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        }
+    },
+    "cp_anlor_weapon01b": {
+        "item_type": 7,
+        "mpft": {
+            "mpftMpL": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 8,
+            "mpftMpC": 8
+        }
+    },
+    "cp_anlor_weapon02": {
+        "item_type": 3,
+        "mpft": {
+            "mpftMpL": 6,
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpC": 5
+        }
+    },
+    "cp_anlor_weapon02b": {
+        "item_type": 3,
+        "mpft": {
+            "mpftMpL": 6,
+            "mpftMpM": 6,
+            "mpftMpG": 6,
+            "mpftMpC": 5
         }
     }
 }

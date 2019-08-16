@@ -999,7 +999,7 @@
         "name": "NOTES DE VERSION"
     },
     "uigameconfiguration": {
-        "name": "CONFIGURATION DE RYZOM"
+        "name": "CONFIGURATION"
     },
     "uicreateaccount": {
         "name": "CRÉER UN COMPTE"
@@ -1584,7 +1584,7 @@
         "name": "Fanatique"
     },
     "uiem_fastidious": {
-        "name": "Méticulleux"
+        "name": "Méticuleux"
     },
     "uiem_fearful": {
         "name": "Effrayé"
@@ -1626,7 +1626,7 @@
         "name": "Formidable"
     },
     "uiem_grin": {
-        "name": "Large sourire"
+        "name": "Sourire"
     },
     "uiem_grumpy": {
         "name": "Grognon"
@@ -5228,6 +5228,9 @@
     "uittfiltertool": {
         "name": "Filtre d'@{6F6F}outils\n@{FFFF}Clic-droit pour sélectionner seulement les @{6F6F}outils@{FFFF}."
     },
+    "uittfilterpet": {
+        "name": "Filter @{6F6F}Animal\n@{FFFF}Cliquez droit pour sélectionner @{6F6F}Animal@{FFFF} seulement."
+    },
     "uittfiltermp": {
         "name": "Filtre de @{6F6F}matières premières\n@{FFFF}Clic-droit pour sélectionner seulement les @{6F6F}matières premières@{FFFF}."
     },
@@ -6579,7 +6582,7 @@
         "name": "Mémoire spéciale"
     },
     "uimwcolors": {
-        "name": "Configuration du jeu"
+        "name": "Configuration"
     },
     "uimwconnection": {
         "name": "Connexion"
@@ -14043,7 +14046,7 @@
         "name": "L'animal est en vie, et en dehors de l'étable.\n@{6F6F}Clic-gauche @{FFFF}pour sélectionner.\n@{6F6F}Clic-droit @{FFFF}pour donner un ordre."
     },
     "uittstable": {
-        "name": "L'animal est à l'étable.\n@{6F6F}Clic-gauche @{FFFF}pour sélectionner.\n@{6F6F}Clic-droit @{FFFF}pour donner un ordre."
+        "name": "L'animal est à l'étable.\n@{6F6F}Clic-droit @{FFFF}pour donner un ordre."
     },
     "uittdead": {
         "name": "L'animal est mort.\n@{6F6F}Clic-gauche @{FFFF}pour sélectionner.\n@{6F6F}Clic-droit @{FFFF}pour donner un ordre."
@@ -16031,6 +16034,9 @@
     "uimp3pause": {
         "name": "Pause"
     },
+    "uimp3stop": {
+        "name": "Arrêt"
+    },
     "uimp3next": {
         "name": "Suiv."
     },
@@ -16213,6 +16219,12 @@
     },
     "uifactionpointtable": {
         "name": "POINTS DE FACTION"
+    },
+    "uiorgpointtable": {
+        "name": "POINTS D'ORGANISATION"
+    },
+    "uittidentityorganization": {
+        "name": "Les points d'organisations sont gagnés en récompense d'Events ou de Missions pour les organisations Maraudeurs et Rangers. Ces points peuvent être échangés dans les capitales pour obtenir des objets utiles et uniques."
     },
     "uiafk": {
         "name": "{Absent}"
@@ -19451,6 +19463,9 @@
     "uimwappzone": {
         "name": "AppZone"
     },
+    "uiappzone": {
+        "name": "App Zone"
+    },
     "uiplayedtime": {
         "name": "Vous avez joué avec ce personnage pendant %time."
     },
@@ -19545,16 +19560,25 @@
         "name": "Destination du groupe d'objets"
     },
     "uimapsearch": {
-        "name": "Map search"
+        "name": "Rechercher"
     },
     "uittmapsearch": {
         "name": "Rechercher sur toute la carte"
+    },
+    "uittinventorysearch": {
+        "name": "Recherche"
     },
     "uimmacrocopy": {
         "name": "COPIE"
     },
     "uimmccopy": {
         "name": "COPIE"
+    },
+    "uisaveui": {
+        "name": "Sauvegarder"
+    },
+    "uiinterfacescale": {
+        "name": "Échelle d’interface"
     },
     "uitabinvpazig1": {
         "name": "ZIG 1"
@@ -19582,5 +19606,92 @@
     },
     "uipatitlemount7": {
         "name": "Zig 3"
+    },
+    "uittinbag": {
+        "name": "L'animal est dans votre sac.\n@{6F6F}Clic-droit @{FFFF}pour donner un ordre."
+    },
+    "uimenterbag": {
+        "name": "Mettre dans le sac"
+    },
+    "uimleavebag": {
+        "name": "Sortir du sac"
+    },
+    "msgrolldicelocal": {
+        "name": "&SYS&@{FF1F}Vous avez fait %roll sur un lancer entre %min et %max."
+    },
+    "uiguildtabisland": {
+        "name": "Île"
+    },
+    "uiartefactrestrict": {
+        "name": "@{C02F}Votre allégeance ou le niveau de votre renommée ne vous permet pas d'utiliser cet objet."
+    },
+    "uiartefacthelp": {
+        "name": "Achetez un pacte avant d'en manquer."
+    },
+    "uimihidebanner": {
+        "name": "Masquer la bannière de faction"
+    },
+    "uimishowbanner": {
+        "name": "Montrer la bannière de faction"
+    },
+    "uimicloseontp": {
+        "name": "Fermer la fenêtre lors des téléportations"
+    },
+    "uimiopenontp": {
+        "name": "Conserver la fenêtre ouverte lors des téléportations"
+    },
+    "uimirefresh": {
+        "name": "Rafraîchir"
+    },
+    "uimicompact": {
+        "name": "Basculer en mode compact"
+    },
+    "uimchansave": {
+        "name": "Sauvegarder"
+    },
+    "uichansavecb": {
+        "name": "Enregistrer les canaux dynamiques"
+    },
+    "uichanautocb": {
+        "name": "Restauration des canaux dynamiques"
+    },
+    "uittchansave": {
+        "name": "Si coché, les canaux de discussion dynamiques sont stockés lors de la déconnexion ou de la sélection des caractères.\nVous pouvez également utiliser la commande @{6F6F6F}\/saveChannel@{FFFFFF} pour exporter les canaux manuellement."
+    },
+    "uittchanauto": {
+        "name": "Si coché, vos canaux de discussion dynamiques seront restaurés s'ils ne sont pas déjà ouverts.\nPrévient la perte de canaux au redémarrage ou en cas de panne du serveur."
+    },
+    "uiwelcome_around": {
+        "name": "Le jeu de rôle est l'un des intérêts majeurs de Ryzom, et le canal Alentours est un lieu privilégié pour le pratiquer."
+    },
+    "uiwelcome_region": {
+        "name": "Discutez ici avec les joueurs dont l'avatar se trouve dans la même région que le vôtre."
+    },
+    "uiwelcome_universe": {
+        "name": "Le canal Univers est un canal multilingue essentiellement destiné aux joueurs qui demandent de l'aide sur le jeu et à ceux qui la leur apportent. Mais c'est aussi un canal convivial qui peut être utilisé pour discuter de Ryzom."
+    },
+    "uiwelcome_kami": {
+        "name": "Discutez ici avec les joueurs dont l'avatar partage le même culte que le vôtre."
+    },
+    "uiwelcome_karavan": {
+        "name": "Discutez ici avec les joueurs dont l'avatar partage le même culte que le vôtre."
+    },
+    "uiwelcome_fyros": {
+        "name": "Discutez ici avec les joueurs dont l'avatar est lui aussi un patriote."
+    },
+    "uiwelcome_tryker": {
+        "name": "Discutez ici avec les joueurs dont l'avatar est lui aussi un citoyen."
+    },
+    "uiwelcome_zorai": {
+        "name": "Discutez ici avec les joueurs dont l'avatar est lui aussi un initié."
+    },
+    "uiwelcome_matis": {
+        "name": "Discutez ici avec les joueurs dont l'avatar est lui aussi un vassal."
+    },
+    "uiwelcome_marauder": {
+        "name": "Discutez ici avec les joueurs dont l'avatar est lui aussi un maraudeur."
+    },
+    "uiwelcome_ranger": {
+        "name": "Discutez ici avec les joueurs dont l'avatar est lui aussi un ranger."
     }
 }

@@ -9139,6 +9139,11 @@
         "p": "exzellente Yubo-Hautstücke, Waldtyp",
         "description": ""
     },
+    "m0152chdfe01": {
+        "name": "Fragment einer erhabenen Haut eines Waldyubo",
+        "p": "",
+        "description": ""
+    },
     "m0152chdlc01": {
         "name": "vorzügliches Yubo-Hautstück, Seenlandtyp",
         "p": "vorzügliche Yubo-Hautstücke, Seenlandtyp",
@@ -23944,6 +23949,11 @@
         "p": "exzellente Yubo-Augen, Waldtyp",
         "description": ""
     },
+    "m0688chdfe01": {
+        "name": "Fragment eines erhabenen Auges eines Waldyubo",
+        "p": "Fragmente eines erhabenen Auges eines Waldyubo",
+        "description": ""
+    },
     "m0688chdlc01": {
         "name": "vorzügliches Yubo-Auge, Seenlandtyp",
         "p": "vorzügliche Yubo-Augen, Seenlandtyp",
@@ -23967,6 +23977,11 @@
     "m0690chdfd01": {
         "name": "exzellenter Yubo-Nagel, Waldtyp",
         "p": "exzellente Yubo-Nägel, Waldtyp",
+        "description": ""
+    },
+    "m0690chdfe01": {
+        "name": "Erhabener Nagel eines Waldyubo",
+        "p": "",
         "description": ""
     },
     "m0690chdlc01": {
@@ -23994,6 +24009,11 @@
         "p": "exzellente Yubo-Beckenstücke, Waldtyp",
         "description": ""
     },
+    "m0691chdfe01": {
+        "name": "Fragment eines erhabenen Beckenknochens eines Waldyubo",
+        "p": "Fragmente eines erhabenen Beckenknochens eines Waldyubo",
+        "description": ""
+    },
     "m0691chdlc01": {
         "name": "vorzügliches Yubo-Beckenstück, Seenlandtyp",
         "p": "vorzügliche Yubo-Beckenstücke, Seenlandtyp",
@@ -24017,6 +24037,11 @@
     "m0692chdfd01": {
         "name": "exzellenter Yubo-Zahn, Waldtyp",
         "p": "exzellente Yubo-Zähne, Waldtyp",
+        "description": ""
+    },
+    "m0692chdfe01": {
+        "name": "Erhabener Zahn eines Waldyubo",
+        "p": "",
         "description": ""
     },
     "m0692chdlc01": {
@@ -39163,5 +39188,85 @@
         "name": "Zig-Gubani",
         "p": "Zigs-Gubani",
         "description": "relativ langsames Tier, das nur tragen und folgen, aber nicht geritten werden kann"
+    },
+    "ic_halloween_stick": {
+        "name": "Kürbisstange",
+        "p": "Kürbisstange",
+        "description": ""
+    },
+    "ic_anlor_weapon01": {
+        "name": "Sense des Schreckens",
+        "p": "Sense des Schreckens",
+        "description": ""
+    },
+    "ic_anlor_weapon01b": {
+        "name": "Sense des Schreckens",
+        "p": "Sense des Schreckens",
+        "description": ""
+    },
+    "ic_anlor_weapon02": {
+        "name": "Bösartige Waffe",
+        "p": "Bösartige Waffe",
+        "description": ""
+    },
+    "ic_anlor_weapon02b": {
+        "name": "Bösartige Waffe",
+        "p": "",
+        "description": ""
+    },
+    "ic_anlor_helmet01": {
+        "name": "Anlor Winn Helm",
+        "p": "",
+        "description": ""
+    },
+    "icfaup": {
+        "name": "Hoben-Unterhose",
+        "p": "Hoben-Unterhose",
+        "description": "leichte Fyros-Rüstung in Basis-Qualität"
+    },
+    "icfauv": {
+        "name": "Hoben-Büstenhalter",
+        "p": "Hoben-Büstenhalter",
+        "description": "leichte Fyros-Rüstung in Basis-Qualität"
+    },
+    "icmaup": {
+        "name": "Wiva-Unterhose",
+        "p": "Wiva-Unterhose",
+        "description": "leichte Matis-Rüstung in Basis-Qualität"
+    },
+    "icmauv": {
+        "name": "Wiva-Büstenhalter",
+        "p": "Wiva-Büstenhalter",
+        "description": "leichte Matis-Rüstung in Basis-Qualität"
+    },
+    "ictaup": {
+        "name": "Tissan-Unterhose",
+        "p": "Tissan-Unterhose",
+        "description": "leichte Tryker-Rüstung in Basis-Qualität"
+    },
+    "ictauv": {
+        "name": "Tissan-Büstenhalter",
+        "p": "Tissan-Büstenhalter",
+        "description": "leichte Tryker-Rüstung in Basis-Qualität"
+    },
+    "iczaup": {
+        "name": "Nin-ka-Unterhose",
+        "p": "Nin-ka-Unterhose",
+        "description": "leichte Zoraï-Rüstung in Basis-Qualität"
+    },
+    "iczauv": {
+        "name": "Nin-ka-Büstenhalter",
+        "p": "Nin-ka-Büstenhalter",
+        "description": "leichte Zoraï-Rüstung in Basis-Qualität"
+    },
+    "tp_interface_kami": {
+        "name": "Kami Teleportations-Artefakt",
+        "p": "Kami Teleportations-Artefakt",
+        "description": ""
+    },
+    "tp_interface_karavan": {
+        "name": "Karavan Teleportations-Artefakt",
+        "p": "Karavan Teleportations-Artefakt",
+        "description": ""
     }
 }

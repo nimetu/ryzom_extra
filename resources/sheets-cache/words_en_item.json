@@ -4072,27 +4072,27 @@
     "icfamb_3": {
         "name": "Rilonyx Boots",
         "p": "Rilonyx Boots",
-        "description": "High Quality Fyros High Boots"
+        "description": "High Quality Fyros Medium Boots"
     },
     "icfamg_3": {
         "name": "Rilonyx Gloves",
         "p": "Rilonyx Gloves",
-        "description": "High Quality Fyros High Gloves"
+        "description": "High Quality Fyros Medium Gloves"
     },
     "icfamp_3": {
         "name": "Rilonyx Pants",
         "p": "Rilonyx Pants",
-        "description": "High Quality Fyros High Pants"
+        "description": "High Quality Fyros Medium Pants"
     },
     "icfams_3": {
         "name": "Rilonyx Sleeves",
         "p": "Rilonyx Sleeves",
-        "description": "High Quality Fyros High Sleeves"
+        "description": "High Quality Fyros Medium Sleeves"
     },
     "icfamv_3": {
         "name": "Rilonyx Vest",
         "p": "Rilonyx Vests",
-        "description": "High Quality Fyros High Vest"
+        "description": "High Quality Fyros Medium Vest"
     },
     "icfm1bm_3": {
         "name": "Massonyx Mace",
@@ -4442,27 +4442,27 @@
     "ictamb_3": {
         "name": "Ry-Fabren Boots",
         "p": "Ry-Fabren Boots",
-        "description": "High Quality Tryker High Boots"
+        "description": "High Quality Tryker Medium Boots"
     },
     "ictamg_3": {
         "name": "Ry-Fabren Gloves",
         "p": "Ry-Fabren Gloves",
-        "description": "High Quality Tryker High Gloves"
+        "description": "High Quality Tryker Medium Gloves"
     },
     "ictamp_3": {
         "name": "Ry-Fabren Pants",
         "p": "Ry-Fabren Pants",
-        "description": "High Quality Tryker High Pants"
+        "description": "High Quality Tryker Medium Pants"
     },
     "ictams_3": {
         "name": "Ry-Fabren Sleeves",
         "p": "Ry-Fabren Sleeves",
-        "description": "High Quality Tryker High Sleeves"
+        "description": "High Quality Tryker Medium Sleeves"
     },
     "ictamv_3": {
         "name": "Ry-Fabren Vest",
         "p": "Ry-Fabren Vests",
-        "description": "High Quality Tryker High Vest"
+        "description": "High Quality Tryker Medium Vest"
     },
     "ictm1bm_3": {
         "name": "Ry-Tumbler Mace",
@@ -9137,6 +9137,11 @@
     "m0152chdfd01": {
         "name": "Fragment of Excellent Forest Yubo Skin",
         "p": "Fragments of Excellent Forest Yubo Skin",
+        "description": ""
+    },
+    "m0152chdfe01": {
+        "name": "Fragment of Supreme Forest Yubo Skin",
+        "p": "Fragments of Supreme Forest Yubo Skin",
         "description": ""
     },
     "m0152chdlc01": {
@@ -23944,6 +23949,11 @@
         "p": "Fragments of Excellent Forest Yubo Eye",
         "description": ""
     },
+    "m0688chdfe01": {
+        "name": "Fragment of Supreme Forest Yubo Eye",
+        "p": "Fragments of Supreme Forest Yubo Eye",
+        "description": ""
+    },
     "m0688chdlc01": {
         "name": "Fragment of Choice Lakes Yubo Eye",
         "p": "Fragments of Choice Lakes Yubo Eye",
@@ -23967,6 +23977,11 @@
     "m0690chdfd01": {
         "name": "Excellent Forest Yubo Nail",
         "p": "Excellent Forest Yubo Nails",
+        "description": ""
+    },
+    "m0690chdfe01": {
+        "name": "Supreme Forest Yubo Nail",
+        "p": "Supreme Forest Yubo Nails",
         "description": ""
     },
     "m0690chdlc01": {
@@ -23994,6 +24009,11 @@
         "p": "Fragments of Excellent Forest Yubo Pelvis",
         "description": ""
     },
+    "m0691chdfe01": {
+        "name": "Fragment of Supreme Forest Yubo Pelvis",
+        "p": "Fragments of Supreme Forest Yubo Pelvis",
+        "description": ""
+    },
     "m0691chdlc01": {
         "name": "Fragment of Choice Lakes Yubo Pelvis",
         "p": "Fragments of Choice Lakes Yubo Pelvis",
@@ -24017,6 +24037,11 @@
     "m0692chdfd01": {
         "name": "Excellent Forest Yubo Tooth",
         "p": "Excellent Forest Yubo Teeth",
+        "description": ""
+    },
+    "m0692chdfe01": {
+        "name": "Supreme Forest Yubo Tooth",
+        "p": "Supreme Forest Yubo Tooths",
         "description": ""
     },
     "m0692chdlc01": {
@@ -39162,6 +39187,86 @@
     "iaad": {
         "name": "Gubani Zig",
         "p": "Gubani Zig",
+        "description": ""
+    },
+    "ic_halloween_stick": {
+        "name": "Pumpkin Stick",
+        "p": "Pumpkin Stick",
+        "description": ""
+    },
+    "ic_anlor_weapon01": {
+        "name": "Scythe of Terror",
+        "p": "Scythe of Terror",
+        "description": ""
+    },
+    "ic_anlor_weapon01b": {
+        "name": "Scythe of Terror",
+        "p": "Scythe of Terror",
+        "description": ""
+    },
+    "ic_anlor_weapon02": {
+        "name": "Evil weapon",
+        "p": "Evil weapon",
+        "description": ""
+    },
+    "ic_anlor_weapon02b": {
+        "name": "Evil weapon",
+        "p": "Evil weapon",
+        "description": ""
+    },
+    "ic_anlor_helmet01": {
+        "name": "Anlor Winn helmet",
+        "p": "Anlor Winn helmet",
+        "description": ""
+    },
+    "icfaup": {
+        "name": "Hoben Panties",
+        "p": "Hoben Panties",
+        "description": "Fyros Light Panties"
+    },
+    "icfauv": {
+        "name": "Hoben Bra",
+        "p": "Hoben Bra",
+        "description": "Fyros Light Bra"
+    },
+    "icmaup": {
+        "name": "Wiva Panties",
+        "p": "Wiva Panties",
+        "description": "Matis Light Panties"
+    },
+    "icmauv": {
+        "name": "Wiva Bra",
+        "p": "Wiva Bra",
+        "description": "Matis Light Bra"
+    },
+    "ictaup": {
+        "name": "Tissan Panties",
+        "p": "Tissan Panties",
+        "description": "Tryker Light Panties"
+    },
+    "ictauv": {
+        "name": "Tissan Bra",
+        "p": "Tissan Bra",
+        "description": "Tryker Light Bra"
+    },
+    "iczaup": {
+        "name": "Nin-Ka Panties",
+        "p": "Nin-Ka Panties",
+        "description": "Zoraï Light Panties"
+    },
+    "iczauv": {
+        "name": "Nin-Ka Bra",
+        "p": "Nin-Ka Bra",
+        "description": "Zoraï Light Bra"
+    },
+    "tp_interface_kami": {
+        "name": "Kami Teleportation Artefact",
+        "p": "Kami Teleportation Artefact",
+        "description": ""
+    },
+    "tp_interface_karavan": {
+        "name": "Karavan Teleportation Artefact",
+        "p": "Karavan Teleportation Artefact",
         "description": ""
     }
 }

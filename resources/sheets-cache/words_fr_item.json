@@ -9139,6 +9139,11 @@
         "p": "Fragments de peau excellente \/ Yubo des Forêts",
         "description": ""
     },
+    "m0152chdfe01": {
+        "name": "Fragment de peau suprême \/ Yubo des Forêts",
+        "p": "Fragments de peau suprême \/ Yubo des Forêts",
+        "description": ""
+    },
     "m0152chdlc01": {
         "name": "Fragment de peau de choix \/ Yubo des Lacs",
         "p": "Fragments de peau de choix \/ Yubo des Lacs",
@@ -23944,6 +23949,11 @@
         "p": "Fragments d'oeil excellent \/ Yubo des Forêts",
         "description": ""
     },
+    "m0688chdfe01": {
+        "name": "Fragment d’œil suprême \/ Yubo des Forêts",
+        "p": "Fragments d’œil suprême \/ Yubo des Forêts",
+        "description": ""
+    },
     "m0688chdlc01": {
         "name": "Fragment d'oeil de choix \/ Yubo des Lacs",
         "p": "Fragments d'oeil de choix \/ Yubo des Lacs",
@@ -23967,6 +23977,11 @@
     "m0690chdfd01": {
         "name": "Ongle excellent \/ Yubo des Forêts",
         "p": "Ongles excellents \/ Yubo des Forêts",
+        "description": ""
+    },
+    "m0690chdfe01": {
+        "name": "Ongle suprême \/ Yubo des Forêts",
+        "p": "Ongles  suprêmes \/ Yubo des Forêts",
         "description": ""
     },
     "m0690chdlc01": {
@@ -23994,6 +24009,11 @@
         "p": "Fragments de bassin excellent \/ Yubo des Forêts",
         "description": ""
     },
+    "m0691chdfe01": {
+        "name": "Fragment de bassin suprême \/ Yubo des Forêts",
+        "p": "Fragments de bassin suprême \/ Yubo des Forêts",
+        "description": ""
+    },
     "m0691chdlc01": {
         "name": "Fragment de bassin de choix \/ Yubo des Lacs",
         "p": "Fragments de bassin de choix \/ Yubo des Lacs",
@@ -24017,6 +24037,11 @@
     "m0692chdfd01": {
         "name": "Dent excellente \/ Yubo des Forêts ",
         "p": "Dents excellentes \/ Yubo des Forêts ",
+        "description": ""
+    },
+    "m0692chdfe01": {
+        "name": "Dent suprême \/ Yubo des Forêts",
+        "p": "Dents suprêmes \/ Yubo des Forêts",
         "description": ""
     },
     "m0692chdlc01": {
@@ -39162,6 +39187,86 @@
     "iaad": {
         "name": "Zig Gubani",
         "p": "Zigs Gubani",
+        "description": ""
+    },
+    "ic_halloween_stick": {
+        "name": "Bâton citrouille",
+        "p": "Bâtons Citrouilles",
+        "description": ""
+    },
+    "ic_anlor_weapon01": {
+        "name": "Fauchard de la terreur",
+        "p": "Fauchards de la terreur",
+        "description": ""
+    },
+    "ic_anlor_weapon01b": {
+        "name": "Fauchard de la Peur",
+        "p": "Fauchards de la Peur",
+        "description": ""
+    },
+    "ic_anlor_weapon02": {
+        "name": "Arme maudite",
+        "p": "Armes maudites",
+        "description": ""
+    },
+    "ic_anlor_weapon02b": {
+        "name": "Arme maléfique",
+        "p": "Armes maléfiques",
+        "description": ""
+    },
+    "ic_anlor_helmet01": {
+        "name": "Casque d'Anlor Winn",
+        "p": "Casque d'Anlor Winn",
+        "description": ""
+    },
+    "icfaup": {
+        "name": "Culotte Hobens",
+        "p": "Culotte Hobens",
+        "description": ""
+    },
+    "icfauv": {
+        "name": "Soutien-gorge Hobens",
+        "p": "Soutien-gorge Hobens",
+        "description": ""
+    },
+    "icmaup": {
+        "name": "Culotte Wivas",
+        "p": "Culotte Wivas",
+        "description": ""
+    },
+    "icmauv": {
+        "name": "Soutien-gorge Wivas",
+        "p": "Soutien-gorge Wivas",
+        "description": ""
+    },
+    "ictaup": {
+        "name": "Culotte Tissans",
+        "p": "Culotte Tissans",
+        "description": ""
+    },
+    "ictauv": {
+        "name": "Soutien-gorge Tissans",
+        "p": "Soutien-gorge Tissans",
+        "description": ""
+    },
+    "iczaup": {
+        "name": "Culotte Nin-kas",
+        "p": "Culotte Nin-kas",
+        "description": ""
+    },
+    "iczauv": {
+        "name": "Soutien-gorge Nin-kas",
+        "p": "Soutien-gorge Nin-kas",
+        "description": ""
+    },
+    "tp_interface_kami": {
+        "name": "Kami Artefact de téléportation",
+        "p": "Kami Artefact de téléportation",
+        "description": ""
+    },
+    "tp_interface_karavan": {
+        "name": "Karavan Artefact de téléportation",
+        "p": "Karavan Artefact de téléportation",
         "description": ""
     }
 }

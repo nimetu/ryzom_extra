@@ -999,7 +999,7 @@
         "name": "VERSIONS-INFORMATIONEN"
     },
     "uigameconfiguration": {
-        "name": "SPIEL-KONFIGURATION"
+        "name": "KONFIGURATION"
     },
     "uicreateaccount": {
         "name": "ACCOUNT ERSTELLEN"
@@ -5227,6 +5227,9 @@
     },
     "uittfiltertool": {
         "name": "Werkzeugfilter @{6F6F}\n@{FFFF}Rechtsklick, um ausschließlich @{6F6F}Werkzeug@{FFFF} anzuzeigen."
+    },
+    "uittfilterpet": {
+        "name": "Filter @{6F6F}Tier\n@{FFFF}Rechtsklick, um ausschließlich @{6F6F}Tier@{FFFF} anzuzeigen."
     },
     "uittfiltermp": {
         "name": "Rohstofffilter @{6F6F}\n@{FFFF}Rechtsklick, um ausschließlich @{6F6F}Rohstoffe@{FFFF} anzuzeigen."
@@ -9813,16 +9816,16 @@
         "name": "Waffenkompatibilität: "
     },
     "uittphraseeditnewoptional": {
-        "name": "Optionen zugeben"
+        "name": "Optionen"
     },
     "uittphraseeditnewcredit": {
-        "name": "Ausgleich zugeben"
+        "name": "Ausgleichen"
     },
     "uiphraseeditnewoptional": {
-        "name": "Optionen zugeben"
+        "name": "Optionen"
     },
     "uiphraseeditnewcredit": {
-        "name": "Ausgleich zugeben"
+        "name": "Ausgleichen"
     },
     "uittphraseeditvalidate": {
         "name": "Aktion lernen"
@@ -14043,7 +14046,7 @@
         "name": "Das Tier ist am Leben und außerhalb des Stalls.\n@{6F6F}Linksklick, @{FFFF}um es auszuwählen.\n@{6F6F}Rechtsklick, @{FFFF}um ihm eine Anweisung zu geben."
     },
     "uittstable": {
-        "name": "Das Tier ist im Stall.\n@{6F6F}Linksklick, @{FFFF}um es auszuwählen.\n@{6F6F}Rechtsklick, @{FFFF}um ihm eine Anweisung zu geben."
+        "name": "Das Tier ist im Stall.\n@{6F6F}Rechtsklick, @{FFFF}um ihm eine Anweisung zu geben."
     },
     "uittdead": {
         "name": "Das Tier ist tot.\n@{6F6F}Linksklick, @{FFFF}um es auszuwählen.\n@{6F6F}Rechtsklick, @{FFFF}um ihm eine Anweisung zu geben."
@@ -16031,6 +16034,9 @@
     "uimp3pause": {
         "name": "Pause"
     },
+    "uimp3stop": {
+        "name": "Stop"
+    },
     "uimp3next": {
         "name": "Weiter"
     },
@@ -16212,7 +16218,13 @@
         "name": "Zoraï"
     },
     "uifactionpointtable": {
-        "name": "Fraktionspunkte"
+        "name": "Fraktions- & Nationspunkte"
+    },
+    "uiorgpointtable": {
+        "name": "ORGANISATIONS-PUNKTE"
+    },
+    "uittidentityorganization": {
+        "name": "Organisationspunkte können gesammelt werden, wenn Du an @{6F6F}speziellen Events oder Missionen@{FFFF} für die Organisationen Marauder und Ranger teilnimmst. Diese Punkte können in den Hauptstädten gegen nützliche und einzigartige Gegenstände eingetauscht werden."
     },
     "uiafk": {
         "name": "{AFK}"
@@ -18300,19 +18312,19 @@
         "name": "Allgemein"
     },
     "uir2eddesertpoints": {
-        "name": "Wüstenkenntnis"
+        "name": "Wüste"
     },
     "uir2edsubtropicpoints": {
-        "name": "Seenlandkenntnis"
+        "name": "Seenland"
     },
     "uir2edforestpoints": {
-        "name": "Waldlandkenntnis"
+        "name": "Waldland"
     },
     "uir2edjunglepoints": {
-        "name": "Dschungelkenntnis"
+        "name": "Dschungel"
     },
     "uir2edprimerootpoints": {
-        "name": "Urwurzelkenntnis"
+        "name": "Urwurzel"
     },
     "uir2edbasicpointstooltip": {
         "name": "@{6F6F}Allgemein@{FFFF}: %n\/%p\n"
@@ -19451,6 +19463,9 @@
     "uimwappzone": {
         "name": "APP-ZONE"
     },
+    "uiappzone": {
+        "name": "App Zone"
+    },
     "uiplayedtime": {
         "name": "Du hast diesen Charakter %time lang gespielt."
     },
@@ -19550,11 +19565,20 @@
     "uittmapsearch": {
         "name": "Karten suche"
     },
+    "uittinventorysearch": {
+        "name": "suchen"
+    },
     "uimmacrocopy": {
         "name": "KOPIEREN"
     },
     "uimmccopy": {
         "name": "KOPIEREN"
+    },
+    "uisaveui": {
+        "name": "Speichern"
+    },
+    "uiinterfacescale": {
+        "name": "Skalierung UI"
     },
     "uitabinvpazig1": {
         "name": "ZIG 1"
@@ -19582,5 +19606,92 @@
     },
     "uipatitlemount7": {
         "name": "Zig 3"
+    },
+    "uittinbag": {
+        "name": "Das Tier ist in deiner Tasche.\n@{6F6F}Rechtsklick, @{FFFF}um ihm eine Anweisung zu geben."
+    },
+    "uimenterbag": {
+        "name": "Auf der Tasche einsteigen"
+    },
+    "uimleavebag": {
+        "name": "Aus der Tasche lassen"
+    },
+    "msgrolldicelocal": {
+        "name": "&SYS&@{FF1F}Du hast %roll gezogen, in einer Ziehung zwischen %min und %max."
+    },
+    "uiguildtabisland": {
+        "name": "Insel"
+    },
+    "uiartefactrestrict": {
+        "name": "@{C02F}Deine Nationszugehörigkeit oder Ruhmstufe steht der Benutzung dieses Gegenstandes im Wege."
+    },
+    "uiartefacthelp": {
+        "name": "Kaufe einen Pakt, bevor Du keine mehr hast."
+    },
+    "uimihidebanner": {
+        "name": "Fraktionswappen verbergen"
+    },
+    "uimishowbanner": {
+        "name": "Fraktionswappen anzeigen"
+    },
+    "uimicloseontp": {
+        "name": "Teleportfenster schliessen"
+    },
+    "uimiopenontp": {
+        "name": "Teleportfenster behalten"
+    },
+    "uimirefresh": {
+        "name": "Erneut laden"
+    },
+    "uimicompact": {
+        "name": "Kompakten Modus ein\/ausschalten"
+    },
+    "uimchansave": {
+        "name": "Speichern"
+    },
+    "uichansavecb": {
+        "name": "Speichern von Dynamischen Kanälen"
+    },
+    "uichanautocb": {
+        "name": "Wiederherstellen Dynamischer Kanäle"
+    },
+    "uittchansave": {
+        "name": "Wenn diese Option aktiviert ist, werden dynamische Chat-Kanäle bei der Trennung oder Charakterauswahl gespeichert.\nSie können auch den Befehl @{6F6F}\/saveChannel@{FFFF} verwenden, um Kanäle manuell zu exportieren."
+    },
+    "uittchanauto": {
+        "name": "Wenn dieses Kontrollkästchen aktiviert ist, werden Ihre dynamischen Chat-Kanäle wiederhergestellt, sofern sie nicht bereits geöffnet sind.\nVerhindert den Verlust von Kanälen beim Neustart oder im Falle eines Serverausfalls."
+    },
+    "uiwelcome_around": {
+        "name": "Rollenspiel ist eines der maßgeblichsten Merkmale von Ryzom, und der Umgebungs-Kanal ist ein wichtiger Ort, um es zu auszuüben."
+    },
+    "uiwelcome_region": {
+        "name": "Chatte hier mit anderen Spielern, die sich in der gleichen Region befinden wie Du."
+    },
+    "uiwelcome_universe": {
+        "name": "Der Universumskanal ist in erster Linie für Spieler gedacht, die um Hilfe zum Spiel bitten und für diejenigen, die ihnen helfen. Es ist ein freundlicher Kanal, der auch für Chats im Zusammenhang mit Ryzom verwendet werden kann."
+    },
+    "uiwelcome_kami": {
+        "name": "Chatte hier mit Spielern, die dem gleichen Kult wie Du angehören."
+    },
+    "uiwelcome_karavan": {
+        "name": "Chatte hier mit Spielern, die dem gleichen Kult wie Du angehören."
+    },
+    "uiwelcome_fyros": {
+        "name": "Chatte hier mit Spielern, die ebenfalls Patrioten sind."
+    },
+    "uiwelcome_tryker": {
+        "name": "Chatte hier mit Spielern, die ebenfalls Bürger sind."
+    },
+    "uiwelcome_zorai": {
+        "name": "Chatte hier mit Spielern, die ebenfalls Initiierte sind."
+    },
+    "uiwelcome_matis": {
+        "name": "Chatte hier mit Spielern, die ebenfalls Vasallen sind."
+    },
+    "uiwelcome_marauder": {
+        "name": "Chatte hier mit Spielern, die ebenfalls Marodeure sind."
+    },
+    "uiwelcome_ranger": {
+        "name": "Chatte hier mit Spielern, die ebenfalls Ranger sind."
     }
 }
