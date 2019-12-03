@@ -1,270 +1,538 @@
 {
     "fyros": {
         "name": "Fyros",
-        "member": "Fyros"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Fyros",
+        "mda": "the",
+        "mia": "a"
     },
     "matis": {
         "name": "Matis",
-        "member": "Matis"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Matis",
+        "mda": "the",
+        "mia": "a"
     },
     "tryker": {
         "name": "Tryker",
-        "member": "Tryker"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Tryker",
+        "mda": "the",
+        "mia": "a"
     },
     "zorai": {
         "name": "Zoraï",
-        "member": "Zoraï"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Zoraï",
+        "mda": "the",
+        "mia": "a"
     },
     "bandit": {
         "name": "Bandit",
-        "member": "Bandit"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Bandit",
+        "mda": "the",
+        "mia": "a"
     },
     "civil": {
         "name": "Civil",
-        "member": "Civil"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Civil",
+        "mda": "the",
+        "mia": "a"
     },
     "black_kami": {
         "name": "Marauder",
-        "member": "Marauder"
+        "da": "the",
+        "ia": "a",
+        "member": "Marauder",
+        "mda": "the",
+        "mia": "a"
     },
     "degen": {
         "name": "Degenerates",
-        "member": "Degenerate"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Degenerate",
+        "mda": "the",
+        "mia": "a"
     },
     "fauna": {
         "name": "Fauna",
-        "member": "Fauna"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Fauna",
+        "mda": "the",
+        "mia": "a"
     },
     "fauna_carnivore": {
         "name": "Carnivores",
-        "member": "Carnivore"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Carnivore",
+        "mda": "the",
+        "mia": "a"
     },
     "fauna_herbivore": {
         "name": "Herbivores",
-        "member": "Herbivore"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Herbivore",
+        "mda": "the",
+        "mia": "a"
     },
     "flora": {
         "name": "Flora",
-        "member": "Flora"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Flora",
+        "mda": "the",
+        "mia": "a"
     },
     "goo": {
         "name": "Goo",
-        "member": "Goo"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Goo",
+        "mda": "the",
+        "mia": "\\d"
     },
     "kami": {
         "name": "Kamis",
-        "member": "Kami"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Kami",
+        "mda": "the",
+        "mia": "a"
     },
     "karavan": {
         "name": "Karavan",
-        "member": "Karavan"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Karavan",
+        "mda": "the",
+        "mia": "a"
     },
     "kitin": {
         "name": "Kitins",
-        "member": "Kitin"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Kitin",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_ancient_dryads": {
         "name": "Ancient Dryads",
-        "member": "Ancient Dryad"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Ancient Dryad",
+        "mda": "the",
+        "mia": "an"
     },
     "tribe_antikamis": {
         "name": "Antikamis",
-        "member": "Antikami"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Antikami",
+        "mda": "the",
+        "mia": "an"
     },
     "tribe_barkers": {
         "name": "Barkers",
-        "member": "Barker"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Barker",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_beachcombers": {
         "name": "Beachcombers",
-        "member": "Beachcomber"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Beachcomber",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_black_circle": {
         "name": "Black Circle",
-        "member": "Black Circle"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Black Circle",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_cholorogoos": {
         "name": "Chlorogoos",
-        "member": "Chlorogoo"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Chlorogoo",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_cockroaches": {
         "name": "Cockroaches",
-        "member": "Cockroach"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Cockroach",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_company_of_the_eternal_tree": {
         "name": "Company of the Eternal Tree",
-        "member": "Company of the Eternal Tree"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Company of the Eternal Tree",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_corsair": {
         "name": "Corsairs",
-        "member": "Corsair"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Corsair",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_cute": {
         "name": "Cuzans",
-        "member": "Cuzan"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Cuzan",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_darkening_sap": {
         "name": "Darkening Sap",
-        "member": "Darkening Sap"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Darkening Sap",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_dune_riders": {
         "name": "Dune Riders",
-        "member": "Dune Rider"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Dune Rider",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_ecowarriors": {
         "name": "Ecowarriors",
-        "member": "Ecowarrior"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Ecowarrior",
+        "mda": "the",
+        "mia": "an"
     },
     "tribe_firebrands": {
         "name": "Firebrands",
-        "member": "Firebrand"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Firebrand",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_first_deserter": {
         "name": "First Deserters",
-        "member": "First Deserter"
+        "da": "the",
+        "ia": "\\d",
+        "member": "First Deserter",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_frahar": {
         "name": "Fraiders",
-        "member": "Fraider"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Fraider",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_frahar_hunters": {
         "name": "Frahar Hunters",
-        "member": "Frahar Hunter"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Frahar Hunter",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_gibbay": {
         "name": "Gibads",
-        "member": "Gibad"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Gibad",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_goo_heads": {
         "name": "Goo Heads",
-        "member": "Goo Head"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Goo Head",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_green_seed": {
         "name": "Green Seed",
-        "member": "Green Seed"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Green Seed",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_hamazans_of_the_dead_seed": {
         "name": "Hamazans of the Dead Seed",
-        "member": "Hamazan of the Dead Seed"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Hamazan of the Dead Seed",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_icon_workshipers": {
         "name": "Icon Worshippers",
-        "member": "Icon Worshipper"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Icon Worshipper",
+        "mda": "the",
+        "mia": "an"
     },
     "tribe_keepers": {
         "name": "Keepers",
-        "member": "Keeper"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Keeper",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_kitin_gatheres": {
         "name": "Kitin Gatherers",
-        "member": "Kitin Gatherer"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Kitin Gatherer",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_lagoon_brothers": {
         "name": "Lagoon Brothers",
-        "member": "Lagoon Brother"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Lagoon Brother",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_lawless": {
         "name": "Lawless",
-        "member": "Lawless"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Lawless",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_leviers": {
         "name": "Leviers",
-        "member": "Levier"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Levier",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_master_of_the_goo": {
         "name": "Masters of the Goo",
-        "member": "Master of the Goo"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Master of the Goo",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_matisian_border_guards": {
         "name": "Matisian Border Guards",
-        "member": "Matisian Border Guard"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Matisian Border Guard",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_night_turners": {
         "name": "Night Turners",
-        "member": "Night Turner"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Night Turner",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_oasis_diggers": {
         "name": "Oasis Diggers",
-        "member": "Oasis Digger"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Oasis Digger",
+        "mda": "the",
+        "mia": "an"
     },
     "tribe_pyromancers": {
         "name": "Pyromancers",
-        "member": "Pyromancer"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Pyromancer",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_recoverers": {
         "name": "Recoverers",
-        "member": "Recoverer"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Recoverer",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_renegades": {
         "name": "Renegades",
-        "member": "Renegade"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Renegade",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_restorers": {
         "name": "Watchers",
-        "member": "Watcher"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Watcher",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_root_tappers": {
         "name": "Root Tappers",
-        "member": "Root Tapper"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Root Tapper",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_sacred_sap": {
         "name": "Sacred Sap",
-        "member": "Sacred Sap"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Sacred Sap",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_sap_gleaners": {
         "name": "Sap Gleaners",
-        "member": "Sap Gleaner"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Sap Gleaner",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_sap_slaves": {
         "name": "Sap Slaves",
-        "member": "Sap Slave"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Sap Slave",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_scorchers": {
         "name": "Scorchers",
-        "member": "Scorcher"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Scorcher",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_shadow_runners": {
         "name": "Shadow Runners",
-        "member": "Shadow Runner"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Shadow Runner",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_siblings_of_the_weeds": {
         "name": "Siblings of the Weeds",
-        "member": "Sibling of the Weeds"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Sibling of the Weeds",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_silt_sculptors": {
         "name": "Silt Sculptors",
-        "member": "Silt Sculptor"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Silt Sculptor",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_slavers": {
         "name": "Slavers",
-        "member": "Slaver"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Slaver",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_smuglers": {
         "name": "Smugglers",
-        "member": "Smuggler"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Smuggler",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_the_arid_matis": {
         "name": "Arid Matis",
-        "member": "Arid Matis"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Arid Matis",
+        "mda": "the",
+        "mia": "an"
     },
     "tribe_the_kuilde": {
         "name": "Kuilde",
-        "member": "Kuilde"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Kuilde",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_the_slash_and_burn": {
         "name": "Slash and Burn",
-        "member": "Slash and Burn"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Slash and Burn",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_tutors": {
         "name": "Tutors",
-        "member": "Tutor"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Tutor",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_water_breakers": {
         "name": "Water Breakers",
-        "member": "Water Breaker"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Water Breaker",
+        "mda": "the",
+        "mia": "a"
     },
     "tribe_woven_bridles": {
         "name": "Woven Bridles",
-        "member": "Woven Bridle"
+        "da": "the",
+        "ia": "\\d",
+        "member": "Woven Bridle",
+        "mda": "the",
+        "mia": "a"
     }
 }

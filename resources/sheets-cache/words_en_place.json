@@ -1,3071 +1,4094 @@
 {
     "region_majesticgarden": {
-        "name": "Majestic Garden"
+        "name": "Majestic Garden",
+        "da": "\\d"
     },
     "region_fleetinggarden": {
-        "name": "Fleeting Garden"
+        "name": "Fleeting Garden",
+        "da": "\\d"
     },
     "region_groveofconfusion": {
-        "name": "Grove of Confusion"
+        "name": "Grove of Confusion",
+        "da": "the"
     },
     "region_hiddensource": {
-        "name": "Hidden Source"
+        "name": "Hidden Source",
+        "da": "\\d"
     },
     "region_knollofdissent": {
-        "name": "Knoll of Dissent"
+        "name": "Knoll of Dissent",
+        "da": "the"
     },
     "region_upperbog": {
-        "name": "Upper Bog"
+        "name": "Upper Bog",
+        "da": "the"
     },
     "region_hereticshovel": {
-        "name": "Heretic's Hovel"
+        "name": "Heretic's Hovel",
+        "da": "the"
     },
     "place_yrkanis": {
-        "name": "Yrkanis"
+        "name": "Yrkanis",
+        "da": "\\d"
     },
     "place_davae": {
-        "name": "Davae"
+        "name": "Davae",
+        "da": "\\d"
     },
     "place_natae": {
-        "name": "Natae"
+        "name": "Natae",
+        "da": "\\d"
     },
     "place_arena": {
-        "name": "Arena"
+        "name": "Arena",
+        "da": "\\d"
     },
     "place_avalae": {
-        "name": "Avalae"
+        "name": "Avalae",
+        "da": "\\d"
     },
     "continent_matis": {
-        "name": "Verdant Heights"
+        "name": "Verdant Heights",
+        "da": "the"
     },
     "region_nland": {
-        "name": "Matisian Forest"
+        "name": "Matisian Forest",
+        "da": "the"
     },
     "matis_nland": {
-        "name": "Matis Island"
+        "name": "Matis Island",
+        "da": "\\d"
     },
     "place_stalli": {
-        "name": "Stalli"
+        "name": "Stalli",
+        "da": "\\d"
     },
     "place_borea": {
-        "name": "Borea"
+        "name": "Borea",
+        "da": "\\d"
     },
     "place_nistia": {
-        "name": "Nistia"
+        "name": "Nistia",
+        "da": "\\d"
     },
     "place_rosilio": {
-        "name": "Rosilio"
+        "name": "Rosilio",
+        "da": "\\d"
     },
     "place_miani": {
-        "name": "Miani"
+        "name": "Miani",
+        "da": "\\d"
     },
     "region_nexus": {
-        "name": "Nexus"
+        "name": "Nexus",
+        "da": "the"
     },
     "continent_nexus": {
-        "name": "Nexus Minor"
+        "name": "Nexus Minor",
+        "da": "\\d"
     },
     "region_the_under_spring": {
-        "name": "Under Spring"
+        "name": "Under Spring",
+        "da": "\\d"
     },
     "continent_sources": {
-        "name": "Under Spring"
+        "name": "Under Spring",
+        "da": "\\d"
     },
     "region_the_abyss_of_ichor": {
-        "name": "Abyss of Ichor"
+        "name": "Abyss of Ichor",
+        "da": "the"
     },
     "continent_bagne": {
-        "name": "Abyss of Ichor"
+        "name": "Abyss of Ichor",
+        "da": "the"
     },
     "region_the_land_of_continuty": {
-        "name": "Land of Continuity"
+        "name": "Land of Continuity",
+        "da": "the"
     },
     "region_the_sunken_city": {
-        "name": "Sunken City"
+        "name": "Sunken City",
+        "da": "the"
     },
     "region_forbidden_depths": {
-        "name": "Forbidden Depths"
+        "name": "Forbidden Depths",
+        "da": "the"
     },
     "continent_terre": {
-        "name": "Wastelands"
+        "name": "Wastelands",
+        "da": "the"
     },
     "region_the_windy_gate": {
-        "name": "Windy Gate"
+        "name": "Windy Gate",
+        "da": "the"
     },
     "region_gate_of_obscurity": {
-        "name": "Gate of Obscurity"
+        "name": "Gate of Obscurity",
+        "da": "the"
     },
     "region_the_trench_of_trials": {
-        "name": "Trench of Trials"
+        "name": "Trench of Trials",
+        "da": "the"
     },
     "region_the_elusive_forest": {
-        "name": "Elusive Forest"
+        "name": "Elusive Forest",
+        "da": "\\d"
     },
     "continent_route_gouffre": {
-        "name": "Lands of Umbra"
+        "name": "Lands of Umbra",
+        "da": "the"
     },
     "region_citiesofintuition": {
-        "name": "Cities of Intuition"
+        "name": "Cities of Intuition",
+        "da": "the"
     },
     "region_maidengrove": {
-        "name": "Maiden Grove"
+        "name": "Maiden Grove",
+        "da": "the"
     },
     "region_havenofpurity": {
-        "name": "Haven of Purity"
+        "name": "Haven of Purity",
+        "da": "the"
     },
     "region_groveofumbra": {
-        "name": "Grove of Umbra"
+        "name": "Grove of Umbra",
+        "da": "the"
     },
     "region_knotofdementia": {
-        "name": "Knot of Dementia"
+        "name": "Knot of Dementia",
+        "da": "the"
     },
     "region_thevoid": {
-        "name": "Void"
+        "name": "Void",
+        "da": "the"
     },
     "place_zora": {
-        "name": "Zora"
+        "name": "Zora",
+        "da": "\\d"
     },
     "place_jen_lai": {
-        "name": "Jen-Laï"
+        "name": "Jen-Laï",
+        "da": "\\d"
     },
     "place_min_cho": {
-        "name": "Min-Cho"
+        "name": "Min-Cho",
+        "da": "\\d"
     },
     "place_hoi_cho": {
-        "name": "Hoï-Cho"
+        "name": "Hoï-Cho",
+        "da": "\\d"
     },
     "continent_zorai": {
-        "name": "Witherings"
+        "name": "Witherings",
+        "da": "the"
     },
     "zorai_nland": {
-        "name": "Zoraï Island"
+        "name": "Zoraï Island",
+        "da": "\\d"
     },
     "place_qai_lo": {
-        "name": "Qaï Lo"
+        "name": "Qaï Lo",
+        "da": "\\d"
     },
     "place_men_xing": {
-        "name": "Nen Xing"
+        "name": "Nen Xing",
+        "da": "\\d"
     },
     "place_sheng_wo": {
-        "name": "Sheng Wo"
+        "name": "Sheng Wo",
+        "da": "\\d"
     },
     "place_koi_zun": {
-        "name": "Koï Zun"
+        "name": "Koï Zun",
+        "da": "\\d"
     },
     "place_yin_piang": {
-        "name": "Yin Piang"
+        "name": "Yin Piang",
+        "da": "\\d"
     },
     "region_imperialdunes": {
-        "name": "Imperial Dunes"
+        "name": "Imperial Dunes",
+        "da": "the"
     },
     "region_oflovaksoasis": {
-        "name": "Oflovak's Oasis"
+        "name": "Oflovak's Oasis",
+        "da": "\\d"
     },
     "region_sawdustmines": {
-        "name": "Sawdust Mines"
+        "name": "Sawdust Mines",
+        "da": "the"
     },
     "region_frahartowers": {
-        "name": "Frahar Towers"
+        "name": "Frahar Towers",
+        "da": "the"
     },
     "region_thesavagedunes": {
-        "name": "Savage Dunes"
+        "name": "Savage Dunes",
+        "da": "the"
     },
     "region_dunesofexil": {
-        "name": "Dunes of Exile"
+        "name": "Dunes of Exile",
+        "da": "the"
     },
     "region_outlawcanyon": {
-        "name": "Outlaw Canyon"
+        "name": "Outlaw Canyon",
+        "da": "\\d"
     },
     "region_thescorchedcorridor": {
-        "name": "Scorched Corridor"
+        "name": "Scorched Corridor",
+        "da": "\\d"
     },
     "place_pyr": {
-        "name": "Pyr"
+        "name": "Pyr",
+        "da": "\\d"
     },
     "place_thesos": {
-        "name": "Thesos"
+        "name": "Thesos",
+        "da": "\\d"
     },
     "place_dyron": {
-        "name": "Dyron"
+        "name": "Dyron",
+        "da": "\\d"
     },
     "continent_fyros": {
-        "name": "Burning Desert"
+        "name": "Burning Desert",
+        "da": "the"
     },
     "continent_fyros_newbie": {
-        "name": "Burning Desert"
+        "name": "Burning Desert",
+        "da": "the"
     },
     "fyros_nland": {
-        "name": "Fyros Island"
+        "name": "Fyros Island",
+        "da": "\\d"
     },
     "place_aegus": {
-        "name": "Aegus"
+        "name": "Aegus",
+        "da": "\\d"
     },
     "place_kaemon": {
-        "name": "Kaemon"
+        "name": "Kaemon",
+        "da": "\\d"
     },
     "place_sekovix": {
-        "name": "Sekovix"
+        "name": "Sekovix",
+        "da": "\\d"
     },
     "place_phyxon": {
-        "name": "Phyxon"
+        "name": "Phyxon",
+        "da": "\\d"
     },
     "place_galemus": {
-        "name": "Galemus"
+        "name": "Galemus",
+        "da": "\\d"
     },
     "region_libertylake": {
-        "name": "Liberty Lake"
+        "name": "Liberty Lake",
+        "da": "\\d"
     },
     "region_dewdrops": {
-        "name": "Dew Drops"
+        "name": "Dew Drops",
+        "da": "\\d"
     },
     "region_restingwater": {
-        "name": "Resting Water"
+        "name": "Resting Water",
+        "da": "\\d"
     },
     "region_windsofmuse": {
-        "name": "Winds of Muse"
+        "name": "Winds of Muse",
+        "da": "the"
     },
     "region_thefount": {
-        "name": "Fount"
+        "name": "Fount",
+        "da": "\\d"
     },
     "region_bountybeaches": {
-        "name": "Bounty Beaches"
+        "name": "Bounty Beaches",
+        "da": "the"
     },
     "region_enchantedisle": {
-        "name": "Enchanted Isle"
+        "name": "Enchanted Isle",
+        "da": "\\d"
     },
     "region_lagoonsofloria": {
-        "name": "Lagoons of Loria"
+        "name": "Lagoons of Loria",
+        "da": "the"
     },
     "place_fairhaven": {
-        "name": "Fairhaven"
+        "name": "Fairhaven",
+        "da": "\\d"
     },
     "place_avendale": {
-        "name": "Avendale"
+        "name": "Avendale",
+        "da": "\\d"
     },
     "place_crystabell": {
-        "name": "Crystabell"
+        "name": "Crystabell",
+        "da": "\\d"
     },
     "place_windermeer": {
-        "name": "Windermeer"
+        "name": "Windermeer",
+        "da": "\\d"
     },
     "continent_tryker": {
-        "name": "Aeden Aqueous"
+        "name": "Aeden Aqueous",
+        "da": "\\d"
     },
     "continent_tryker_newbie": {
-        "name": "Aeden Aqueous"
+        "name": "Aeden Aqueous",
+        "da": "\\d"
     },
     "tryker_nland": {
-        "name": "Tryker Island"
+        "name": "Tryker Island",
+        "da": "\\d"
     },
     "place_aubermouth": {
-        "name": "Aubermouth"
+        "name": "Aubermouth",
+        "da": "\\d"
     },
     "place_barkdell": {
-        "name": "Barkdell"
+        "name": "Barkdell",
+        "da": "\\d"
     },
     "place_hobwelly": {
-        "name": "Hobwelly"
+        "name": "Hobwelly",
+        "da": "\\d"
     },
     "place_waverton": {
-        "name": "Waverton"
+        "name": "Waverton",
+        "da": "\\d"
     },
     "place_dingleton": {
-        "name": "Dingleton"
+        "name": "Dingleton",
+        "da": "\\d"
     },
     "guild_hall": {
-        "name": "Guild Hall"
+        "name": "Guild Hall",
+        "da": "the"
     },
     "guild_council": {
-        "name": "Guild Council"
+        "name": "Guild Council",
+        "da": "the"
     },
     "guild_rm_fight": {
-        "name": "Guild Fight Trainer"
+        "name": "Guild Fight Trainer",
+        "da": "the"
     },
     "guild_rm_magic": {
-        "name": "Guild Magic Trainer"
+        "name": "Guild Magic Trainer",
+        "da": "the"
     },
     "guild_rm_harvest": {
-        "name": "Guild Harvest Trainer"
+        "name": "Guild Harvest Trainer",
+        "da": "the"
     },
     "guild_rm_craft": {
-        "name": "Guild Craft Trainer"
+        "name": "Guild Craft Trainer",
+        "da": "the"
     },
     "player_room": {
-        "name": "Player Room"
+        "name": "Player Room",
+        "da": "the"
     },
     "exit": {
-        "name": "Exit"
+        "name": "Exit",
+        "da": "the"
     },
     "place_lieudit_majesticgarden_1": {
-        "name": "Psykopla Knoll"
+        "name": "Psykopla Knoll",
+        "da": "\\d"
     },
     "place_lieudit_majesticgarden_2": {
-        "name": "Matis Arena"
+        "name": "Matis Arena",
+        "da": "the"
     },
     "place_lieudit_majesticgarden_3": {
-        "name": "Charmers' Way"
+        "name": "Charmers' Way",
+        "da": "\\d"
     },
     "place_lieudit_fleetinggarden_1": {
-        "name": "Kami Circle"
+        "name": "Kami Circle",
+        "da": "the"
     },
     "place_lieudit_fleetinggarden_2": {
-        "name": "The Trove"
+        "name": "The Trove",
+        "da": "\\d"
     },
     "place_lieudit_fleetinggarden_3": {
-        "name": "Den of Fury"
+        "name": "Den of Fury",
+        "da": "the"
     },
     "place_lieudit_fleetinggarden_4": {
-        "name": "The Rising"
+        "name": "The Rising",
+        "da": "\\d"
     },
     "place_lieudit_knollofdissent_1": {
-        "name": "Tunnel of Woe"
+        "name": "Tunnel of Woe",
+        "da": "the"
     },
     "place_lieudit_knollofdissent_2": {
-        "name": "Runninghill Pass"
+        "name": "Runninghill Pass",
+        "da": "\\d"
     },
     "place_lieudit_knollofdissent_3": {
-        "name": "Towerbridge Way"
+        "name": "Towerbridge Way",
+        "da": "\\d"
     },
     "place_lieudit_knollofdissent_4": {
-        "name": "Torbak Trail Hill"
+        "name": "Torbak Trail Hill",
+        "da": "\\d"
     },
     "place_lieudit_knollofdissent_5": {
-        "name": "Killing Tree"
+        "name": "Killing Tree",
+        "da": "the"
     },
     "place_lieudit_knollofdissent_6": {
-        "name": "Smitten Mount"
+        "name": "Smitten Mount",
+        "da": "\\d"
     },
     "place_lieudit_upperbog_1": {
-        "name": "Fencoomb Ponds "
+        "name": "Fencoomb Ponds",
+        "da": "the"
     },
     "place_lieudit_upperbog_2": {
-        "name": "Fearing Fens"
+        "name": "Fearing Fens",
+        "da": "the"
     },
     "place_lieudit_upperbog_3": {
-        "name": "Slough of the Demon"
+        "name": "Slough of the Demon",
+        "da": "the"
     },
     "place_lieudit_upperbog_4": {
-        "name": "Panting Pass"
+        "name": "Panting Pass",
+        "da": "\\d"
     },
     "place_lieudit_hereticshovel_1": {
-        "name": "Maze of Sprite"
+        "name": "Maze of Sprite",
+        "da": "the"
     },
     "place_lieudit_hereticshovel_2": {
-        "name": "Chilling Swamp"
+        "name": "Chilling Swamp",
+        "da": "the"
     },
     "place_lieudit_hereticshovel_3": {
-        "name": "Falls of the Two Totems"
+        "name": "Falls of the Two Totems",
+        "da": "the"
     },
     "place_lieudit_hereticshovel_4": {
-        "name": "Folly Plain"
+        "name": "Folly Plain",
+        "da": "\\d"
     },
     "place_lieudit_hiddensource_1": {
-        "name": "Little Mountain"
+        "name": "Little Mountain",
+        "da": "\\d"
     },
     "place_lieudit_hiddensource_2": {
-        "name": "Virginia Falls"
+        "name": "Virginia Falls",
+        "da": "the"
     },
     "place_lieudit_hiddensource_3": {
-        "name": "Tylini Gate"
+        "name": "Tylini Gate",
+        "da": "\\d"
     },
     "place_lieudit_groveofconfusion_1": {
-        "name": "Mullgrove"
+        "name": "Mullgrove",
+        "da": "\\d"
     },
     "place_lieudit_groveofconfusion_2": {
-        "name": "Eastgrove Gate"
+        "name": "Eastgrove Gate",
+        "da": "\\d"
     },
     "place_lieudit_groveofconfusion_3": {
-        "name": "Westgrove Gate"
+        "name": "Westgrove Gate",
+        "da": "\\d"
     },
     "place_lieudit_groveofconfusion_4": {
-        "name": "Highgrove"
+        "name": "Highgrove",
+        "da": "\\d"
     },
     "place_lieudit_citiesofintuition_1": {
-        "name": "Still Waters"
+        "name": "Still Waters",
+        "da": "\\d"
     },
     "place_lieudit_citiesofintuition_2": {
-        "name": "Mossy Scarp"
+        "name": "Mossy Scarp",
+        "da": "\\d"
     },
     "place_lieudit_citiesofintuition_3": {
-        "name": "Mektoub Waterhole"
+        "name": "Mektoub Waterhole",
+        "da": "the"
     },
     "place_lieudit_citiesofintuition_4": {
-        "name": "Mystic Falls"
+        "name": "Mystic Falls",
+        "da": "the"
     },
     "place_lieudit_maidengrove_1": {
-        "name": "Palm Valley"
+        "name": "Palm Valley",
+        "da": "\\d"
     },
     "place_lieudit_maidengrove_2": {
-        "name": "Maiden Pond"
+        "name": "Maiden Pond",
+        "da": "\\d"
     },
     "place_lieudit_maidengrove_3": {
-        "name": "Slavenhurst"
+        "name": "Slavenhurst",
+        "da": "\\d"
     },
     "place_lieudit_maidengrove_4": {
-        "name": "Fowling Lake"
+        "name": "Fowling Lake",
+        "da": "\\d"
     },
     "place_lieudit_maidengrove_5": {
-        "name": "Great Boulder Tunnel"
+        "name": "Great Boulder Tunnel",
+        "da": "\\d"
     },
     "place_lieudit_havenofpurity_1": {
-        "name": "Bighorn Mountain"
+        "name": "Bighorn Mountain",
+        "da": "\\d"
     },
     "place_lieudit_havenofpurity_2": {
-        "name": "Fustylake"
+        "name": "Fustylake",
+        "da": "\\d"
     },
     "place_lieudit_havenofpurity_3": {
-        "name": "Kincher Arch"
+        "name": "Kincher Arch",
+        "da": "\\d"
     },
     "place_lieudit_groveofumbra_1": {
-        "name": "Kipee Mull"
+        "name": "Kipee Mull",
+        "da": "\\d"
     },
     "place_lieudit_groveofumbra_2": {
-        "name": "Sly Lake"
+        "name": "Sly Lake",
+        "da": "\\d"
     },
     "place_lieudit_groveofumbra_3": {
-        "name": "Underway Arch"
+        "name": "Underway Arch",
+        "da": "\\d"
     },
     "place_lieudit_groveofumbra_4": {
-        "name": "Withered Stock"
+        "name": "Withered Stock",
+        "da": "\\d"
     },
     "place_lieudit_knotofdementia_1": {
-        "name": "The Great Outback"
+        "name": "The Great Outback",
+        "da": "\\d"
     },
     "place_lieudit_knotofdementia_2": {
-        "name": "Desertstock"
+        "name": "Desertstock",
+        "da": "\\d"
     },
     "place_lieudit_knotofdementia_3": {
-        "name": "Stainmoor"
+        "name": "Stainmoor",
+        "da": "\\d"
     },
     "place_lieudit_knotofdementia_4": {
-        "name": "Stainmoor Gate"
+        "name": "Stainmoor Gate",
+        "da": "\\d"
     },
     "place_lieudit_knotofdementia_5": {
-        "name": "Highland Impasse"
+        "name": "Highland Impasse",
+        "da": "\\d"
     },
     "place_lieudit_knotofdementia_6": {
-        "name": "Hopedell"
+        "name": "Hopedell",
+        "da": "\\d"
     },
     "place_lieudit_thevoid_1": {
-        "name": "Paramount Stock"
+        "name": "Paramount Stock",
+        "da": "\\d"
     },
     "place_lieudit_thevoid_2": {
-        "name": "The Lost Valley"
+        "name": "The Lost Valley",
+        "da": "\\d"
     },
     "place_lieudit_thevoid_3": {
-        "name": "Mull of Despond"
+        "name": "Mull of Despond",
+        "da": "the"
     },
     "place_lieudit_imperialdunes_1": {
-        "name": "Valley of Emperors"
+        "name": "Valley of Emperors",
+        "da": "the"
     },
     "place_lieudit_imperialdunes_2": {
-        "name": "Fourways"
+        "name": "Fourways",
+        "da": "\\d"
     },
     "place_lieudit_imperialdunes_3": {
-        "name": "Canyon Pass"
+        "name": "Canyon Pass",
+        "da": "\\d"
     },
     "place_lieudit_oflovaksoasis_1": {
-        "name": "Oasis Rift"
+        "name": "Oasis Rift",
+        "da": "\\d"
     },
     "place_lieudit_oflovaksoasis_2": {
-        "name": "Clopper Hill"
+        "name": "Clopper Hill",
+        "da": "\\d"
     },
     "place_lieudit_oflovaksoasis_3": {
-        "name": "Midpeaks"
+        "name": "Midpeaks",
+        "da": "\\d"
     },
     "place_lieudit_oflovaksoasis_4": {
-        "name": "Barkgully"
+        "name": "Barkgully",
+        "da": "\\d"
     },
     "place_lieudit_oflovaksoasis_5": {
-        "name": "Route of the Flaming Forest"
+        "name": "Route of the Flaming Forest",
+        "da": "the"
     },
     "place_lieudit_sawdustmines_1": {
-        "name": "The Waste"
+        "name": "The Waste",
+        "da": "\\d"
     },
     "place_lieudit_sawdustmines_2": {
-        "name": "Highridges"
+        "name": "Highridges",
+        "da": "\\d"
     },
     "place_lieudit_sawdustmines_3": {
-        "name": "Barker Dunes"
+        "name": "Barker Dunes",
+        "da": "the"
     },
     "place_lieudit_sawdustmines_4": {
-        "name": "Varynx Rise"
+        "name": "Varynx Rise",
+        "da": "\\d"
     },
     "place_lieudit_sawdustmines_5": {
-        "name": "Troubled Water"
+        "name": "Troubled Water",
+        "da": "\\d"
     },
     "place_lieudit_frahartowers_1": {
-        "name": "Lonesome Pass"
+        "name": "Lonesome Pass",
+        "da": "\\d"
     },
     "place_lieudit_frahartowers_2": {
-        "name": "The Vast Expanse"
+        "name": "The Vast Expanse",
+        "da": "\\d"
     },
     "place_lieudit_frahartowers_3": {
-        "name": "Hightowers"
+        "name": "Hightowers",
+        "da": "\\d"
     },
     "place_lieudit_thesavagedunes_1": {
-        "name": "Ash Gorge"
+        "name": "Ash Gorge",
+        "da": "\\d"
     },
     "place_lieudit_thesavagedunes_2": {
-        "name": "Thesos Springs"
+        "name": "Thesos Springs",
+        "da": "\\d"
     },
     "place_lieudit_thesavagedunes_3": {
-        "name": "Thesos Billabong"
+        "name": "Thesos Billabong",
+        "da": "the"
     },
     "place_lieudit_thesavagedunes_4": {
-        "name": "South Range"
+        "name": "South Range",
+        "da": "\\d"
     },
     "place_lieudit_thesavagedunes_5": {
-        "name": "Thesos Falls Tor"
+        "name": "Thesos Falls Tor",
+        "da": "\\d"
     },
     "place_lieudit_thesavagedunes_6": {
-        "name": "Kipucka Plain"
+        "name": "Kipucka Plain",
+        "da": "\\d"
     },
     "place_lieudit_dunesofexile_1": {
-        "name": "Dyron Hill"
+        "name": "Dyron Hill",
+        "da": "\\d"
     },
     "place_lieudit_dunesofexile_2": {
-        "name": "Dragon's Tail"
+        "name": "Dragon's Tail",
+        "da": "\\d"
     },
     "place_lieudit_dunesofexile_3": {
-        "name": "Malmont"
+        "name": "Malmont",
+        "da": "\\d"
     },
     "place_lieudit_dunesofexile_4": {
-        "name": "Ruins of Mossok"
+        "name": "Ruins of Mossok",
+        "da": "the"
     },
     "place_lieudit_outlawcanyon_1": {
-        "name": "Dragon's Spine"
+        "name": "Dragon's Spine",
+        "da": "\\d"
     },
     "place_lieudit_outlawcanyon_2": {
-        "name": "Lucenthead Hurst"
+        "name": "Lucenthead Hurst",
+        "da": "\\d"
     },
     "place_lieudit_outlawcanyon_3": {
-        "name": "Dragon's Gullet Impasse"
+        "name": "Dragon's Gullet Impasse",
+        "da": "\\d"
     },
     "place_lieudit_thescorchedcorridor_1": {
-        "name": "Flaming Forest"
+        "name": "Flaming Forest",
+        "da": "the"
     },
     "place_lieudit_thescorchedcorridor_2": {
-        "name": "Varynx Haunt"
+        "name": "Varynx Haunt",
+        "da": "\\d"
     },
     "place_lieudit_thescorchedcorridor_3": {
-        "name": "Secret Kami Oasis"
+        "name": "Secret Kami Oasis",
+        "da": "the"
     },
     "place_lieudit_libertylake_1": {
-        "name": "Darkmoor"
+        "name": "Darkmoor",
+        "da": "\\d"
     },
     "place_lieudit_libertylake_2": {
-        "name": "Lakenisle"
+        "name": "Lakenisle",
+        "da": "\\d"
     },
     "place_lieudit_libertylake_3": {
-        "name": "Blackwater"
+        "name": "Blackwater",
+        "da": "\\d"
     },
     "place_lieudit_windsofmuse_1": {
-        "name": "Witchy Coves"
+        "name": "Witchy Coves",
+        "da": "the"
     },
     "place_lieudit_windsofmuse_2": {
-        "name": "Muse Watch Lake"
+        "name": "Muse Watch Lake",
+        "da": "\\d"
     },
     "place_lieudit_windsofmuse_3": {
-        "name": "Big Sleep Mountain"
+        "name": "Big Sleep Mountain",
+        "da": "\\d"
     },
     "place_lieudit_windsofmuse_4": {
-        "name": "Windy Way"
+        "name": "Windy Way",
+        "da": "\\d"
     },
     "place_lieudit_thefount_1": {
-        "name": "Deathfly Plain"
+        "name": "Deathfly Plain",
+        "da": "\\d"
     },
     "place_lieudit_thefount_2": {
-        "name": "Fount Porch"
+        "name": "Fount Porch",
+        "da": "\\d"
     },
     "place_lieudit_thefount_3": {
-        "name": "Fount Lake"
+        "name": "Fount Lake",
+        "da": "\\d"
     },
     "place_lieudit_thefount_4": {
-        "name": "Southlakes"
+        "name": "Southlakes",
+        "da": "the"
     },
     "place_lieudit_thefount_5": {
-        "name": "Ponders End Pillars"
+        "name": "Ponders End Pillars",
+        "da": "\\d"
     },
     "place_lieudit_bountybeaches_1": {
-        "name": "Torbak Spread"
+        "name": "Torbak Spread",
+        "da": "\\d"
     },
     "place_lieudit_bountybeaches_2": {
-        "name": "Cute Springs"
+        "name": "Cute Springs",
+        "da": "\\d"
     },
     "place_lieudit_bountybeaches_3": {
-        "name": "Cute Springs Twining"
+        "name": "Cute Springs Twining",
+        "da": "\\d"
     },
     "place_lieudit_bountybeaches_4": {
-        "name": "Liberty Gateway"
+        "name": "Liberty Gateway",
+        "da": "\\d"
     },
     "place_lieudit_bountybeaches_5": {
-        "name": "Twin Tops"
+        "name": "Twin Tops",
+        "da": "\\d"
     },
     "place_lieudit_bountybeaches_6": {
-        "name": "Rift of Strife"
+        "name": "Rift of Strife",
+        "da": "the"
     },
     "place_lieudit_enchantedisle_1": {
-        "name": "Tippy Peaks"
+        "name": "Tippy Peaks",
+        "da": "\\d"
     },
     "place_lieudit_enchantedisle_2": {
-        "name": "Baily Lagoon"
+        "name": "Baily Lagoon",
+        "da": "\\d"
     },
     "place_lieudit_enchantedisle_3": {
-        "name": "Mire of the Dire"
+        "name": "Mire of the Dire",
+        "da": "the"
     },
     "place_lieudit_enchantedisle_4": {
-        "name": "Graveyard Walk"
+        "name": "Graveyard Walk",
+        "da": "\\d"
     },
     "place_lieudit_enchantedisle_5": {
-        "name": "Enchanted Circle"
+        "name": "Enchanted Circle",
+        "da": "\\d"
     },
     "place_lieudit_lagoonsofloria_1": {
-        "name": "Gusty Gorge"
+        "name": "Gusty Gorge",
+        "da": "\\d"
     },
     "place_lieudit_lagoonsofloria_2": {
-        "name": "Lake Superior"
+        "name": "Lake Superior",
+        "da": "\\d"
     },
     "place_lieudit_lagoonsofloria_3": {
-        "name": "Hush Hole"
+        "name": "Hush Hole",
+        "da": "\\d"
     },
     "place_lieudit_the_windy_gate_1": {
-        "name": "Ruins of Leron"
+        "name": "Ruins of Leron",
+        "da": "the"
     },
     "place_lieudit_the_windy_gate_2": {
-        "name": "Halls of Darkring"
+        "name": "Halls of Darkring",
+        "da": "the"
     },
     "place_lieudit_the_windy_gate_3": {
-        "name": "The Fallen Tree"
+        "name": "The Fallen Tree",
+        "da": "\\d"
     },
     "place_lieudit_the_windy_gate_4": {
-        "name": "Windygate Column"
+        "name": "Windygate Column",
+        "da": "\\d"
     },
     "place_lieudit_gateofobscurity_1": {
-        "name": "Alleyways Bluff"
+        "name": "Alleyways Bluff",
+        "da": "\\d"
     },
     "place_lieudit_gateofobscurity_2": {
-        "name": "High Henge"
+        "name": "High Henge",
+        "da": "\\d"
     },
     "place_lieudit_gateofobscurity_3": {
-        "name": "Lowhills"
+        "name": "Lowhills",
+        "da": "\\d"
     },
     "place_lieudit_gateofobscurity_4": {
-        "name": "Darkenwell"
+        "name": "Darkenwell",
+        "da": "\\d"
     },
     "place_lieudit_nexus_1": {
-        "name": "The Concha"
+        "name": "The Concha",
+        "da": "\\d"
     },
     "place_lieudit_nexus_2": {
-        "name": "Destiny's End"
+        "name": "Destiny's End",
+        "da": "\\d"
     },
     "place_lieudit_nexus_3": {
-        "name": "Hammer Hills"
+        "name": "Hammer Hills",
+        "da": "the"
     },
     "place_lieudit_nexus_4": {
-        "name": "The Forsaken Camp"
+        "name": "The Forsaken Camp",
+        "da": "\\d"
     },
     "place_lieudit_the_abyss_of_ichor_1": {
-        "name": "Hallowed Mountain"
+        "name": "Hallowed Mountain",
+        "da": "\\d"
     },
     "place_lieudit_the_abyss_of_ichor_2": {
-        "name": "Saprun Watch"
+        "name": "Saprun Watch",
+        "da": "\\d"
     },
     "place_lieudit_the_abyss_of_ichor_3": {
-        "name": "Templedoom"
+        "name": "Templedoom",
+        "da": "\\d"
     },
     "place_lieudit_the_trench_of_trials_1": {
-        "name": "Eerie Valley"
+        "name": "Eerie Valley",
+        "da": "\\d"
     },
     "place_lieudit_the_trench_of_trials_2": {
-        "name": "Yelkgrove"
+        "name": "Yelkgrove",
+        "da": "\\d"
     },
     "place_lieudit_the_trench_of_trials_3": {
-        "name": "Spooky End"
+        "name": "Spooky End",
+        "da": "\\d"
     },
     "place_lieudit_the_elusive_forest_1": {
-        "name": "Land of Plenty"
+        "name": "Land of Plenty",
+        "da": "the"
     },
     "place_lieudit_the_elusive_forest_2": {
-        "name": "Highwell"
+        "name": "Highwell",
+        "da": "\\d"
     },
     "place_lieudit_the_elusive_forest_3": {
-        "name": "Underwood Woe"
+        "name": "Underwood Woe",
+        "da": "\\d"
     },
     "place_lieudit_the_elusive_forest_4": {
-        "name": "Grotto Pass"
+        "name": "Grotto Pass",
+        "da": "\\d"
     },
     "place_lieudit_the_elusive_forest_5": {
-        "name": "Three Totems Pass"
+        "name": "Three Totems Pass",
+        "da": "\\d"
     },
     "place_lieudit_the_elusive_forest_6": {
-        "name": "Giant Mushroom Pass"
+        "name": "Giant Mushroom Pass",
+        "da": "\\d"
     },
     "place_lieudit_the_under_spring_1": {
-        "name": "Deadtree Hole"
+        "name": "Deadtree Hole",
+        "da": "\\d"
     },
     "place_lieudit_the_under_spring_2": {
-        "name": "Sap Marsh"
+        "name": "Sap Marsh",
+        "da": "\\d"
     },
     "place_lieudit_the_under_spring_3": {
-        "name": "Furtive Waters"
+        "name": "Furtive Waters",
+        "da": "\\d"
     },
     "place_lieudit_the_under_spring_4": {
-        "name": "Ruins of Tryde"
+        "name": "Ruins of Tryde",
+        "da": "the"
     },
     "place_lieudit_the_under_spring_5": {
-        "name": "Shooting Meadow"
+        "name": "Shooting Meadow",
+        "da": "\\d"
     },
     "place_lieudit_the_land_of_continuity_1": {
-        "name": "Wings of Spite"
+        "name": "Wings of Spite",
+        "da": "the"
     },
     "place_lieudit_the_land_of_continuity_2": {
-        "name": "Great Mushroom Wood"
+        "name": "Great Mushroom Wood",
+        "da": "\\d"
     },
     "place_lieudit_the_land_of_continuity_3": {
-        "name": "The Cursed Cavern"
+        "name": "The Cursed Cavern",
+        "da": "\\d"
     },
     "place_lieudit_the_land_of_continuity_4": {
-        "name": "Grotto Walk"
+        "name": "Grotto Walk",
+        "da": "\\d"
     },
     "place_lieudit_the_land_of_continuity_5": {
-        "name": "Midway Point"
+        "name": "Midway Point",
+        "da": "\\d"
     },
     "place_lieudit_the_sunken_city_1": {
-        "name": "Saplake Major"
+        "name": "Saplake Major",
+        "da": "\\d"
     },
     "place_lieudit_the_sunken_city_2": {
-        "name": "Haunted Gorge"
+        "name": "Haunted Gorge",
+        "da": "\\d"
     },
     "place_lieudit_the_sunken_city_3": {
-        "name": "Dragon Horns Valley"
+        "name": "Dragon Horns Valley",
+        "da": "\\d"
     },
     "place_lieudit_forbidden_depths_1": {
-        "name": "Cursed Impasse"
+        "name": "Cursed Impasse",
+        "da": "\\d"
     },
     "place_lieudit_forbidden_depths_2": {
-        "name": "Hall of the Mountain Bane"
+        "name": "Hall of the Mountain Bane",
+        "da": "the"
     },
     "place_lieudit_forbidden_depths_3": {
-        "name": "Demon's Lap"
+        "name": "Demon's Lap",
+        "da": "\\d"
     },
     "place_outpost_matis_15": {
-        "name": "Psykopla Knoll Trading Post"
+        "name": "Psykopla Knoll Trading Post",
+        "da": "\\d"
     },
     "place_outpost_matis_05": {
-        "name": "The Rising Border Post"
+        "name": "The Rising Border Post",
+        "da": "\\d"
     },
     "place_outpost_matis_06": {
-        "name": "Southeast Trade Post"
+        "name": "Southeast Trade Post",
+        "da": "\\d"
     },
     "place_outpost_matis_07": {
-        "name": "Finder's Farm"
+        "name": "Finder's Farm",
+        "da": "\\d"
     },
     "place_outpost_matis_08": {
-        "name": "Trove Workshop"
+        "name": "Trove Workshop",
+        "da": "\\d"
     },
     "place_outpost_matis_09": {
-        "name": "Kami Circle Magic Pole"
+        "name": "Kami Circle Magic Pole",
+        "da": "\\d"
     },
     "place_outpost_matis_16": {
-        "name": "Runninghill Border Post"
+        "name": "Runninghill Border Post",
+        "da": "\\d"
     },
     "place_outpost_matis_17": {
-        "name": "Wooky Workshop"
+        "name": "Wooky Workshop",
+        "da": "\\d"
     },
     "place_outpost_matis_18": {
-        "name": "Dryland Gate Stronghold"
+        "name": "Dryland Gate Stronghold",
+        "da": "\\d"
     },
     "place_outpost_matis_19": {
-        "name": "Runninghill Research Center"
+        "name": "Runninghill Research Center",
+        "da": "\\d"
     },
     "place_outpost_matis_20": {
-        "name": "Ryecliff Stronghold"
+        "name": "Ryecliff Stronghold",
+        "da": "\\d"
     },
     "place_outpost_matis_21": {
-        "name": "Torbak Hill Farm"
+        "name": "Torbak Hill Farm",
+        "da": "\\d"
     },
     "place_outpost_matis_22": {
-        "name": "Smitten Mount Workshop"
+        "name": "Smitten Mount Workshop",
+        "da": "\\d"
     },
     "place_outpost_matis_23": {
-        "name": "Smitten Mount Farm"
+        "name": "Smitten Mount Farm",
+        "da": "\\d"
     },
     "place_outpost_matis_01": {
-        "name": "Panting Pass Research Center"
+        "name": "Panting Pass Research Center",
+        "da": "\\d"
     },
     "place_outpost_matis_02": {
-        "name": "Stalia Stronghold"
+        "name": "Stalia Stronghold",
+        "da": "\\d"
     },
     "place_outpost_matis_03": {
-        "name": "Fearing Fen Farm"
+        "name": "Fearing Fen Farm",
+        "da": "\\d"
     },
     "place_outpost_matis_04": {
-        "name": "Fencoomb Workshop"
+        "name": "Fencoomb Workshop",
+        "da": "\\d"
     },
     "place_outpost_matis_28": {
-        "name": "Little Mountain Workshop"
+        "name": "Little Mountain Workshop",
+        "da": "\\d"
     },
     "place_outpost_matis_29": {
-        "name": "Little Mountain Stronghold"
+        "name": "Little Mountain Stronghold",
+        "da": "\\d"
     },
     "place_outpost_matis_30": {
-        "name": "Berello Gorge Border Post"
+        "name": "Berello Gorge Border Post",
+        "da": "\\d"
     },
     "place_outpost_matis_31": {
-        "name": "Virginia Falls Diplomatic Outpost"
+        "name": "Virginia Falls Diplomatic Outpost",
+        "da": "\\d"
     },
     "place_outpost_matis_32": {
-        "name": "Virginia Falls Magic Pole"
+        "name": "Virginia Falls Magic Pole",
+        "da": "\\d"
     },
     "place_outpost_matis_10": {
-        "name": "Upper Hovel Diplomatic Outpost"
+        "name": "Upper Hovel Diplomatic Outpost",
+        "da": "\\d"
     },
     "place_outpost_matis_11": {
-        "name": "Folly Farm"
+        "name": "Folly Farm",
+        "da": "\\d"
     },
     "place_outpost_matis_12": {
-        "name": "Greenpool Workshop"
+        "name": "Greenpool Workshop",
+        "da": "\\d"
     },
     "place_outpost_matis_13": {
-        "name": "Chilling Swamp Research Center"
+        "name": "Chilling Swamp Research Center",
+        "da": "\\d"
     },
     "place_outpost_matis_14": {
-        "name": "Maze of Sprite Border Post"
+        "name": "Maze of Sprite Border Post",
+        "da": "\\d"
     },
     "place_outpost_matis_24": {
-        "name": "Westgrove Stronghold"
+        "name": "Westgrove Stronghold",
+        "da": "\\d"
     },
     "place_outpost_matis_25": {
-        "name": "Eastgrove Workshop"
+        "name": "Eastgrove Workshop",
+        "da": "\\d"
     },
     "place_outpost_matis_26": {
-        "name": "Highgrove Research Center"
+        "name": "Highgrove Research Center",
+        "da": "\\d"
     },
     "place_outpost_matis_27": {
-        "name": "Ginti Workshop"
+        "name": "Ginti Workshop",
+        "da": "\\d"
     },
     "place_outpost_zorai_08": {
-        "name": "Qai-Du Workshop"
+        "name": "Qai-Du Workshop",
+        "da": "\\d"
     },
     "place_outpost_zorai_09": {
-        "name": "Land's End Farm"
+        "name": "Land's End Farm",
+        "da": "\\d"
     },
     "place_outpost_zorai_10": {
-        "name": "Sai-Shun Stronghold"
+        "name": "Sai-Shun Stronghold",
+        "da": "\\d"
     },
     "place_outpost_zorai_11": {
-        "name": "Maiden Pond Workshop"
+        "name": "Maiden Pond Workshop",
+        "da": "\\d"
     },
     "place_outpost_zorai_12": {
-        "name": "Bighand Border Post"
+        "name": "Bighand Border Post",
+        "da": "\\d"
     },
     "place_outpost_zorai_13": {
-        "name": "Great Boulder Workshop"
+        "name": "Great Boulder Workshop",
+        "da": "\\d"
     },
     "place_outpost_zorai_14": {
-        "name": "Great Boulder Trade Post"
+        "name": "Great Boulder Trade Post",
+        "da": "\\d"
     },
     "place_outpost_zorai_20": {
-        "name": "Kincher Arch Border Post"
+        "name": "Kincher Arch Border Post",
+        "da": "\\d"
     },
     "place_outpost_zorai_21": {
-        "name": "Fustylake Workshop"
+        "name": "Fustylake Workshop",
+        "da": "\\d"
     },
     "place_outpost_zorai_22": {
-        "name": "Demon's Crossroads Diplomatic Outpost"
+        "name": "Demon's Crossroads Diplomatic Outpost",
+        "da": "\\d"
     },
     "place_outpost_zorai_23": {
-        "name": "Bighorn Mountain Farm"
+        "name": "Bighorn Mountain Farm",
+        "da": "\\d"
     },
     "place_outpost_zorai_01": {
-        "name": "Withered Stock Magic Pole"
+        "name": "Withered Stock Magic Pole",
+        "da": "\\d"
     },
     "place_outpost_zorai_02": {
-        "name": "Gu-Qin Workshop"
+        "name": "Gu-Qin Workshop",
+        "da": "\\d"
     },
     "place_outpost_zorai_03": {
-        "name": "Doomed Maze Farm"
+        "name": "Doomed Maze Farm",
+        "da": "\\d"
     },
     "place_outpost_zorai_04": {
-        "name": "Underway Arch Stronghold"
+        "name": "Underway Arch Stronghold",
+        "da": "\\d"
     },
     "place_outpost_zorai_05": {
-        "name": "Gu-Qin Research Center"
+        "name": "Gu-Qin Research Center",
+        "da": "\\d"
     },
     "place_outpost_zorai_06": {
-        "name": "Umbra Highback Workshop"
+        "name": "Umbra Highback Workshop",
+        "da": "\\d"
     },
     "place_outpost_zorai_07": {
-        "name": "Sly Lake Crossroads Border Post"
+        "name": "Sly Lake Crossroads Border Post",
+        "da": "\\d"
     },
     "place_outpost_zorai_24": {
-        "name": "Jen-Laï Research Center"
+        "name": "Jen-Laï Research Center",
+        "da": "\\d"
     },
     "place_outpost_zorai_25": {
-        "name": "Lonview Stronghold"
+        "name": "Lonview Stronghold",
+        "da": "\\d"
     },
     "place_outpost_zorai_26": {
-        "name": "Stainmoor Stronghold"
+        "name": "Stainmoor Stronghold",
+        "da": "\\d"
     },
     "place_outpost_zorai_27": {
-        "name": "Stainmoor Border Post"
+        "name": "Stainmoor Border Post",
+        "da": "\\d"
     },
     "place_outpost_zorai_28": {
-        "name": "Desertstock Farm"
+        "name": "Desertstock Farm",
+        "da": "\\d"
     },
     "place_outpost_zorai_29": {
-        "name": "Great Outback Workshop"
+        "name": "Great Outback Workshop",
+        "da": "\\d"
     },
     "place_outpost_zorai_30": {
-        "name": "Ni-Jing Farm"
+        "name": "Ni-Jing Farm",
+        "da": "\\d"
     },
     "place_outpost_zorai_15": {
-        "name": "Zo-Kian Ruins Workshop"
+        "name": "Zo-Kian Ruins Workshop",
+        "da": "\\d"
     },
     "place_outpost_zorai_16": {
-        "name": "Lost Valley Stronghold"
+        "name": "Lost Valley Stronghold",
+        "da": "\\d"
     },
     "place_outpost_zorai_17": {
-        "name": "Paramount Stock Workshop"
+        "name": "Paramount Stock Workshop",
+        "da": "\\d"
     },
     "place_outpost_zorai_18": {
-        "name": "Staring Stronghold"
+        "name": "Staring Stronghold",
+        "da": "\\d"
     },
     "place_outpost_zorai_19": {
-        "name": "Witherstock Farm"
+        "name": "Witherstock Farm",
+        "da": "\\d"
     },
     "place_outpost_fyros_14": {
-        "name": "Blackburn Trade Post"
+        "name": "Blackburn Trade Post",
+        "da": "\\d"
     },
     "place_outpost_fyros_10": {
-        "name": "Northlake Farm"
+        "name": "Northlake Farm",
+        "da": "\\d"
     },
     "place_outpost_fyros_11": {
-        "name": "Northlake Trade Post"
+        "name": "Northlake Trade Post",
+        "da": "\\d"
     },
     "place_outpost_fyros_12": {
-        "name": "Barkgully Workshop"
+        "name": "Barkgully Workshop",
+        "da": "\\d"
     },
     "place_outpost_fyros_13": {
-        "name": "West Blackburn Border Post"
+        "name": "West Blackburn Border Post",
+        "da": "\\d"
     },
     "place_outpost_fyros_17": {
-        "name": "Barker Canyon Stronghold"
+        "name": "Barker Canyon Stronghold",
+        "da": "\\d"
     },
     "place_outpost_fyros_18": {
-        "name": "Barker Canyon Farm"
+        "name": "Barker Canyon Farm",
+        "da": "\\d"
     },
     "place_outpost_fyros_19": {
-        "name": "Highridges Diplomatic Outpost"
+        "name": "Highridges Diplomatic Outpost",
+        "da": "\\d"
     },
     "place_outpost_fyros_20": {
-        "name": "Workshop of the Waste "
+        "name": "Workshop of the Waste",
+        "da": "\\d"
     },
     "place_outpost_fyros_21": {
-        "name": "Thesos Research Center"
+        "name": "Thesos Research Center",
+        "da": "\\d"
     },
     "place_outpost_fyros_06": {
-        "name": "East Dyron Workshop"
+        "name": "East Dyron Workshop",
+        "da": "\\d"
     },
     "place_outpost_fyros_07": {
-        "name": "Frahar Towers Border Post"
+        "name": "Frahar Towers Border Post",
+        "da": "\\d"
     },
     "place_outpost_fyros_08": {
-        "name": "Hightowers Stronghold"
+        "name": "Hightowers Stronghold",
+        "da": "\\d"
     },
     "place_outpost_fyros_09": {
-        "name": "Hightowers Farm"
+        "name": "Hightowers Farm",
+        "da": "\\d"
     },
     "place_outpost_fyros_22": {
-        "name": "Thesos Springs Stronghold"
+        "name": "Thesos Springs Stronghold",
+        "da": "\\d"
     },
     "place_outpost_fyros_23": {
-        "name": "Running Ridge Workshop"
+        "name": "Running Ridge Workshop",
+        "da": "\\d"
     },
     "place_outpost_fyros_24": {
-        "name": "South Range Diplomatic Outpost"
+        "name": "South Range Diplomatic Outpost",
+        "da": "\\d"
     },
     "place_outpost_fyros_25": {
-        "name": "Southend Dune Farm"
+        "name": "Southend Dune Farm",
+        "da": "\\d"
     },
     "place_outpost_fyros_26": {
-        "name": "Kipucka Plain Border Post"
+        "name": "Kipucka Plain Border Post",
+        "da": "\\d"
     },
     "place_outpost_fyros_01": {
-        "name": "Dyron Hill Border Post"
+        "name": "Dyron Hill Border Post",
+        "da": "\\d"
     },
     "place_outpost_fyros_02": {
-        "name": "North Dyron Stronghold"
+        "name": "North Dyron Stronghold",
+        "da": "\\d"
     },
     "place_outpost_fyros_03": {
-        "name": "Dragon's Tail Workshop"
+        "name": "Dragon's Tail Workshop",
+        "da": "\\d"
     },
     "place_outpost_fyros_04": {
-        "name": "Malmont Farm"
+        "name": "Malmont Farm",
+        "da": "\\d"
     },
     "place_outpost_fyros_05": {
-        "name": "Canyon Road Workshop"
+        "name": "Canyon Road Workshop",
+        "da": "\\d"
     },
     "place_outpost_fyros_15": {
-        "name": "Dragon's Spine Stronghold"
+        "name": "Dragon's Spine Stronghold",
+        "da": "\\d"
     },
     "place_outpost_fyros_16": {
-        "name": "Dragon's Spine Workshop"
+        "name": "Dragon's Spine Workshop",
+        "da": "\\d"
     },
     "place_outpost_fyros_27": {
-        "name": "Woodburn Magic Pole"
+        "name": "Woodburn Magic Pole",
+        "da": "\\d"
     },
     "place_outpost_fyros_28": {
-        "name": "Woodburn Stronghold"
+        "name": "Woodburn Stronghold",
+        "da": "\\d"
     },
     "place_outpost_tryker_02": {
-        "name": "Darkmoor Border Post"
+        "name": "Darkmoor Border Post",
+        "da": "\\d"
     },
     "place_outpost_tryker_03": {
-        "name": "Dainty Isle Workshop"
+        "name": "Dainty Isle Workshop",
+        "da": "\\d"
     },
     "place_outpost_tryker_04": {
-        "name": "Sandy Workshop"
+        "name": "Sandy Workshop",
+        "da": "\\d"
     },
     "place_outpost_tryker_05": {
-        "name": "Farely Farm"
+        "name": "Farely Farm",
+        "da": "\\d"
     },
     "place_outpost_tryker_06": {
-        "name": "Greenvale Trade Post"
+        "name": "Greenvale Trade Post",
+        "da": "\\d"
     },
     "place_outpost_tryker_07": {
-        "name": "Windermeer Farm"
+        "name": "Windermeer Farm",
+        "da": "\\d"
     },
     "place_outpost_tryker_23": {
-        "name": "Loriagate Border Post"
+        "name": "Loriagate Border Post",
+        "da": "\\d"
     },
     "place_outpost_tryker_24": {
-        "name": "Windyway Workshop"
+        "name": "Windyway Workshop",
+        "da": "\\d"
     },
     "place_outpost_tryker_25": {
-        "name": "Muse Watch Lake Farm"
+        "name": "Muse Watch Lake Farm",
+        "da": "\\d"
     },
     "place_outpost_tryker_26": {
-        "name": "Threepillars Farm"
+        "name": "Threepillars Farm",
+        "da": "\\d"
     },
     "place_outpost_tryker_27": {
-        "name": "Musemere Workshop"
+        "name": "Musemere Workshop",
+        "da": "\\d"
     },
     "place_outpost_tryker_08": {
-        "name": "Fount Lake Workshop"
+        "name": "Fount Lake Workshop",
+        "da": "\\d"
     },
     "place_outpost_tryker_09": {
-        "name": "Bountygate Border Post"
+        "name": "Bountygate Border Post",
+        "da": "\\d"
     },
     "place_outpost_tryker_10": {
-        "name": "Fount Porch Trade Post"
+        "name": "Fount Porch Trade Post",
+        "da": "\\d"
     },
     "place_outpost_tryker_11": {
-        "name": "Corrie Finley Farm"
+        "name": "Corrie Finley Farm",
+        "da": "\\d"
     },
     "place_outpost_tryker_12": {
-        "name": "Ponders End Workshop"
+        "name": "Ponders End Workshop",
+        "da": "\\d"
     },
     "place_outpost_tryker_18": {
-        "name": "Cute Springs Research Center"
+        "name": "Cute Springs Research Center",
+        "da": "\\d"
     },
     "place_outpost_tryker_19": {
-        "name": "Liberty Gateway Border Post"
+        "name": "Liberty Gateway Border Post",
+        "da": "\\d"
     },
     "place_outpost_tryker_20": {
-        "name": "Cute Springs Twining Stronghold"
+        "name": "Cute Springs Twining Stronghold",
+        "da": "\\d"
     },
     "place_outpost_tryker_21": {
-        "name": "Tupile Trade Post"
+        "name": "Tupile Trade Post",
+        "da": "\\d"
     },
     "place_outpost_tryker_22": {
-        "name": "Twintops Workshop"
+        "name": "Twintops Workshop",
+        "da": "\\d"
     },
     "place_outpost_tryker_13": {
-        "name": "Tippy Peaks Diplomatic Outpost"
+        "name": "Tippy Peaks Diplomatic Outpost",
+        "da": "\\d"
     },
     "place_outpost_tryker_14": {
-        "name": "Sinking Sands Workshop"
+        "name": "Sinking Sands Workshop",
+        "da": "\\d"
     },
     "place_outpost_tryker_15": {
-        "name": "Eastshore Magic Pole"
+        "name": "Eastshore Magic Pole",
+        "da": "\\d"
     },
     "place_outpost_tryker_16": {
-        "name": "Graveyard Gate Research Center"
+        "name": "Graveyard Gate Research Center",
+        "da": "\\d"
     },
     "place_outpost_tryker_17": {
-        "name": "Mire of the Dire Stronghold"
+        "name": "Mire of the Dire Stronghold",
+        "da": "\\d"
     },
     "place_outpost_tryker_28": {
-        "name": "Watergate Border Post"
+        "name": "Watergate Border Post",
+        "da": "\\d"
     },
     "place_outpost_tryker_29": {
-        "name": "Loria Stronghold"
+        "name": "Loria Stronghold",
+        "da": "\\d"
     },
     "place_outpost_tryker_30": {
-        "name": "Loria Ponds Research Center"
+        "name": "Loria Ponds Research Center",
+        "da": "\\d"
     },
     "place_outpost_tryker_31": {
-        "name": "Whirling Stronghold"
+        "name": "Whirling Stronghold",
+        "da": "\\d"
     },
     "place_outpost_tryker_32": {
-        "name": "Gusty Gorge Workshop"
+        "name": "Gusty Gorge Workshop",
+        "da": "\\d"
     },
     "place_outpost_pr_04": {
-        "name": "Ruins of Leron Workshop"
+        "name": "Ruins of Leron Workshop",
+        "da": "\\d"
     },
     "place_outpost_pr_05": {
-        "name": "Halls of Darkring Research Center"
+        "name": "Halls of Darkring Research Center",
+        "da": "\\d"
     },
     "place_outpost_pr_06": {
-        "name": "The Fallen Tree Workshop"
+        "name": "The Fallen Tree Workshop",
+        "da": "\\d"
     },
     "place_outpost_pr_10": {
-        "name": "Alleyways Bluff Stronghold"
+        "name": "Alleyways Bluff Stronghold",
+        "da": "\\d"
     },
     "place_outpost_pr_11": {
-        "name": "High Henge Research Center"
+        "name": "High Henge Research Center",
+        "da": "\\d"
     },
     "place_outpost_pr_12": {
-        "name": "Lowhills Stronghold"
+        "name": "Lowhills Stronghold",
+        "da": "\\d"
     },
     "place_outpost_pr_13": {
-        "name": "Lowhills Research Center"
+        "name": "Lowhills Research Center",
+        "da": "\\d"
     },
     "place_outpost_nexus_01": {
-        "name": "Ichorgate Research Center"
+        "name": "Ichorgate Research Center",
+        "da": "\\d"
     },
     "place_outpost_nexus_02": {
-        "name": "Hammer Hills Trade Post"
+        "name": "Hammer Hills Trade Post",
+        "da": "\\d"
     },
     "place_outpost_nexus_03": {
-        "name": "Umbragate Farm"
+        "name": "Umbragate Farm",
+        "da": "\\d"
     },
     "place_outpost_nexus_04": {
-        "name": "Destiny's End Diplomatic Outpost"
+        "name": "Destiny's End Diplomatic Outpost",
+        "da": "\\d"
     },
     "place_outpost_nexus_05": {
-        "name": "Watchcomb Workshop"
+        "name": "Watchcomb Workshop",
+        "da": "\\d"
     },
     "place_outpost_nexus_06": {
-        "name": "Highwatch Farm"
+        "name": "Highwatch Farm",
+        "da": "\\d"
     },
     "place_outpost_nexus_07": {
-        "name": "Wastegate Border Post"
+        "name": "Wastegate Border Post",
+        "da": "\\d"
     },
     "place_outpost_pr_01": {
-        "name": "West Saprun Research Center"
+        "name": "West Saprun Research Center",
+        "da": "\\d"
     },
     "place_outpost_pr_02": {
-        "name": "East Saprun Workshop"
+        "name": "East Saprun Workshop",
+        "da": "\\d"
     },
     "place_outpost_pr_03": {
-        "name": "Nexusgate Stronghold"
+        "name": "Nexusgate Stronghold",
+        "da": "\\d"
     },
     "place_outpost_pr_14": {
-        "name": "Eerie Valley Magic Pole"
+        "name": "Eerie Valley Magic Pole",
+        "da": "\\d"
     },
     "place_outpost_pr_15": {
-        "name": "Aedengate Workshop"
+        "name": "Aedengate Workshop",
+        "da": "\\d"
     },
     "place_outpost_pr_16": {
-        "name": "Yelkgrove Border Post"
+        "name": "Yelkgrove Border Post",
+        "da": "\\d"
     },
     "place_outpost_pr_07": {
-        "name": "Land of Plenty Research Center"
+        "name": "Land of Plenty Research Center",
+        "da": "\\d"
     },
     "place_outpost_pr_08": {
-        "name": "Underwood Woe Stronghold"
+        "name": "Underwood Woe Stronghold",
+        "da": "\\d"
     },
     "place_outpost_pr_09": {
-        "name": "Three Totems Pass Workshop"
+        "name": "Three Totems Pass Workshop",
+        "da": "\\d"
     },
     "place_outpost_pr_17": {
-        "name": "Deadtree Stronghold"
+        "name": "Deadtree Stronghold",
+        "da": "\\d"
     },
     "place_outpost_pr_18": {
-        "name": "Sap Marsh Trade Post"
+        "name": "Sap Marsh Trade Post",
+        "da": "\\d"
     },
     "place_outpost_pr_19": {
-        "name": "Shooting Meadow Border Post"
+        "name": "Shooting Meadow Border Post",
+        "da": "\\d"
     },
     "place_outpost_pr_20": {
-        "name": "Grotto Walk Research Center"
+        "name": "Grotto Walk Research Center",
+        "da": "\\d"
     },
     "place_outpost_pr_21": {
-        "name": "Cursed Cavern Stronghold"
+        "name": "Cursed Cavern Stronghold",
+        "da": "\\d"
     },
     "place_outpost_pr_22": {
-        "name": "Great Mushroom Wood Workshop"
+        "name": "Great Mushroom Wood Workshop",
+        "da": "\\d"
     },
     "place_outpost_pr_23": {
-        "name": "Wings of Spite Farm"
+        "name": "Wings of Spite Farm",
+        "da": "\\d"
     },
     "place_outpost_pr_24": {
-        "name": "Continuity Corner Diplomatic Outpost"
+        "name": "Continuity Corner Diplomatic Outpost",
+        "da": "\\d"
     },
     "place_outpost_pr_25": {
-        "name": "Saplake Major Stronghold"
+        "name": "Saplake Major Stronghold",
+        "da": "\\d"
     },
     "place_outpost_pr_26": {
-        "name": "Stockdell Workshop"
+        "name": "Stockdell Workshop",
+        "da": "\\d"
     },
     "place_outpost_pr_27": {
-        "name": "Haunted Gorge Farm"
+        "name": "Haunted Gorge Farm",
+        "da": "\\d"
     },
     "place_outpost_pr_28": {
-        "name": "Dragon Horns Workshop"
+        "name": "Dragon Horns Workshop",
+        "da": "\\d"
     },
     "place_outpost_pr_29": {
-        "name": "Ruins of Cryton Farm"
+        "name": "Ruins of Cryton Farm",
+        "da": "\\d"
     },
     "place_outpost_pr_30": {
-        "name": "Hall of the Mountain Bane Stronghold"
+        "name": "Hall of the Mountain Bane Stronghold",
+        "da": "\\d"
     },
     "indoors_rolemaster_craft": {
-        "name": "Craft Trainer"
+        "name": "Craft Trainer",
+        "da": "\\d"
     },
     "indoors_rolemaster_fight": {
-        "name": "Fight Trainer"
+        "name": "Fight Trainer",
+        "da": "\\d"
     },
     "indoors_rolemaster_magic": {
-        "name": "Magic Trainer"
+        "name": "Magic Trainer",
+        "da": "\\d"
     },
     "indoors_rolemaster_harvest": {
-        "name": "Harvest Trainer"
+        "name": "Harvest Trainer",
+        "da": "\\d"
     },
     "tryker_nland_terrace": {
-        "name": "Terrace"
+        "name": "Terrace",
+        "da": "\\d"
     },
     "tryker_terrace_1st": {
-        "name": "Terrace 1st Floor"
+        "name": "Terrace 1st Floor",
+        "da": "\\d"
     },
     "tryker_terrace_2nd": {
-        "name": "Terrace 2nd Floor"
+        "name": "Terrace 2nd Floor",
+        "da": "\\d"
     },
     "place_pyr_p_market_1": {
-        "name": "Cheapside Market"
+        "name": "Cheapside Market",
+        "da": "\\d"
     },
     "place_pyr_p_west_entrance": {
-        "name": "Cerakos Gate"
+        "name": "Cerakos Gate",
+        "da": "\\d"
     },
     "place_pyr_p_market_2": {
-        "name": "Highmarket"
+        "name": "Highmarket",
+        "da": "\\d"
     },
     "place_pyr_p_place_warschool": {
-        "name": "Academy Place"
+        "name": "Academy Place",
+        "da": "\\d"
     },
     "place_pyr_p_fontaine": {
-        "name": "Oasis Fountain Square"
+        "name": "Oasis Fountain Square",
+        "da": "\\d"
     },
     "place_pyr_p_sheriff": {
-        "name": "Guardhouse Place"
+        "name": "Guardhouse Place",
+        "da": "\\d"
     },
     "place_pyr_p_place_mairie_1": {
-        "name": "Imperial Hall Square"
+        "name": "Imperial Hall Square",
+        "da": "\\d"
     },
     "place_pyr_p_place_mairie_2": {
-        "name": "Karavia Square"
+        "name": "Karavia Square",
+        "da": "\\d"
     },
     "place_pyr_p_place_agora": {
-        "name": "Agora"
+        "name": "Agora",
+        "da": "the"
     },
     "place_pyr_p_street_1": {
-        "name": "Market Lane"
+        "name": "Market Lane",
+        "da": "\\d"
     },
     "place_pyr_p_street_2": {
-        "name": "Cheapside Way"
+        "name": "Cheapside Way",
+        "da": "\\d"
     },
     "place_pyr_p_street_3": {
-        "name": "Trader's Way"
+        "name": "Trader's Way",
+        "da": "\\d"
     },
     "place_pyr_p_street_4": {
-        "name": "Pyr High Street"
+        "name": "Pyr High Street",
+        "da": "\\d"
     },
     "place_pyr_p_street_5": {
-        "name": "Northgate Road"
+        "name": "Northgate Road",
+        "da": "\\d"
     },
     "place_pyr_p_street_6": {
-        "name": "Cerakos Avenue"
+        "name": "Cerakos Avenue",
+        "da": "\\d"
     },
     "place_pyr_p_street_7": {
-        "name": "Arispotle Avenue"
+        "name": "Arispotle Avenue",
+        "da": "\\d"
     },
     "place_pyr_p_street_8": {
-        "name": "Coriolis Circus"
+        "name": "Coriolis Circus",
+        "da": "\\d"
     },
     "place_pyr_p_street_9": {
-        "name": "Rydon's Walk"
+        "name": "Rydon's Walk",
+        "da": "\\d"
     },
     "place_pyr_p_street_10": {
-        "name": "Central Lane"
+        "name": "Central Lane",
+        "da": "\\d"
     },
     "place_pyr_p_street_11": {
-        "name": "Leanon Street"
+        "name": "Leanon Street",
+        "da": "\\d"
     },
     "place_pyr_p_street_12": {
-        "name": "Dexton Street"
+        "name": "Dexton Street",
+        "da": "\\d"
     },
     "place_pyr_p_street_13": {
-        "name": "Guardhouse Way"
+        "name": "Guardhouse Way",
+        "da": "\\d"
     },
     "place_pyr_p_street_14": {
-        "name": "Upper Piros Street"
+        "name": "Upper Piros Street",
+        "da": "\\d"
     },
     "place_pyr_p_street_15": {
-        "name": "Karavia Road"
+        "name": "Karavia Road",
+        "da": "\\d"
     },
     "place_pyr_p_street_16": {
-        "name": "Forge and Hammer Way"
+        "name": "Forge and Hammer Way",
+        "da": "\\d"
     },
     "place_pyr_p_street_17": {
-        "name": "Lower Piros Street"
+        "name": "Lower Piros Street",
+        "da": "\\d"
     },
     "place_pyr_p_street_18": {
-        "name": "Southgate Road"
+        "name": "Southgate Road",
+        "da": "\\d"
     },
     "place_pyr_p_street_19": {
-        "name": "Bath Lane"
+        "name": "Bath Lane",
+        "da": "\\d"
     },
     "place_pyr_p_street_20": {
-        "name": "Abylus Circus"
+        "name": "Abylus Circus",
+        "da": "\\d"
     },
     "place_pyr_p_street_21": {
-        "name": "Fountain Road"
+        "name": "Fountain Road",
+        "da": "\\d"
     },
     "place_pyr_p_street_22": {
-        "name": "Miners' Row"
+        "name": "Miners' Row",
+        "da": "\\d"
     },
     "place_pyr_p_street_23": {
-        "name": "Merchant's Walk"
+        "name": "Merchant's Walk",
+        "da": "\\d"
     },
     "continent_matis_newbie": {
-        "name": "Matis Island"
+        "name": "Matis Island",
+        "da": "\\d"
     },
     "continent_zorai_newbie": {
-        "name": "Zoraï Island"
+        "name": "Zoraï Island",
+        "da": "\\d"
     },
     "place_aegus_indoors": {
-        "name": "Aegus trainers"
+        "name": "Aegus trainers",
+        "da": "\\d"
     },
     "place_kaemon_indoors": {
-        "name": "Kaemon trainers"
+        "name": "Kaemon trainers",
+        "da": "\\d"
     },
     "place_sekovix_indoors": {
-        "name": "Sekovix trainers"
+        "name": "Sekovix trainers",
+        "da": "\\d"
     },
     "place_phyxon_indoors": {
-        "name": "Phyxon trainers"
+        "name": "Phyxon trainers",
+        "da": "\\d"
     },
     "place_galemus_indoors": {
-        "name": "Galemus trainers"
+        "name": "Galemus trainers",
+        "da": "\\d"
     },
     "place_stalli_indoors": {
-        "name": "Stalli trainers"
+        "name": "Stalli trainers",
+        "da": "\\d"
     },
     "place_borea_indoors": {
-        "name": "Borea trainers"
+        "name": "Borea trainers",
+        "da": "\\d"
     },
     "place_nistia_indoors": {
-        "name": "Nistia trainers"
+        "name": "Nistia trainers",
+        "da": "\\d"
     },
     "place_rosilio_indoors": {
-        "name": "Rosilio trainers"
+        "name": "Rosilio trainers",
+        "da": "\\d"
     },
     "place_miani_indoors": {
-        "name": "Miani trainers"
+        "name": "Miani trainers",
+        "da": "\\d"
     },
     "place_qai_lo_indoors": {
-        "name": "Qaï-Lo trainers"
+        "name": "Qaï-Lo trainers",
+        "da": "\\d"
     },
     "place_sheng_wo_indoors": {
-        "name": "Sheng-Wo trainers"
+        "name": "Sheng-Wo trainers",
+        "da": "\\d"
     },
     "place_men_xing_indoors": {
-        "name": "Nen-Xing trainers"
+        "name": "Nen-Xing trainers",
+        "da": "\\d"
     },
     "place_koi_zun_indoors": {
-        "name": "Koï-Zun trainers"
+        "name": "Koï-Zun trainers",
+        "da": "\\d"
     },
     "place_yin_piang_indoors": {
-        "name": "Yin-Piang trainers"
+        "name": "Yin-Piang trainers",
+        "da": "\\d"
     },
     "place_aubermouth_indoors": {
-        "name": "Aubermouth trainers"
+        "name": "Aubermouth trainers",
+        "da": "\\d"
     },
     "place_barkdell_indoors": {
-        "name": "Barkdell trainers"
+        "name": "Barkdell trainers",
+        "da": "\\d"
     },
     "place_hobwelly_indoors": {
-        "name": "Hobwelly trainers"
+        "name": "Hobwelly trainers",
+        "da": "\\d"
     },
     "place_waverton_indoors": {
-        "name": "Waverton trainers"
+        "name": "Waverton trainers",
+        "da": "\\d"
     },
     "place_dingleton_indoors": {
-        "name": "Dingleton trainers"
+        "name": "Dingleton trainers",
+        "da": "\\d"
     },
     "place_zora_p_cimetiere": {
-        "name": "Cemetery District"
+        "name": "Cemetery District",
+        "da": "\\d"
     },
     "place_zora_p_marche_commun": {
-        "name": "Highmart District"
+        "name": "Highmart District",
+        "da": "\\d"
     },
     "place_zora_p_2": {
-        "name": "Temple Hall District"
+        "name": "Temple Hall District",
+        "da": "\\d"
     },
     "place_zora_p_3": {
-        "name": "West Hollow District"
+        "name": "West Hollow District",
+        "da": "\\d"
     },
     "place_zora_p_4": {
-        "name": "Daïsha Estate"
+        "name": "Daïsha Estate",
+        "da": "\\d"
     },
     "place_zora_p_5": {
-        "name": "Win-Cho Estate"
+        "name": "Win-Cho Estate",
+        "da": "\\d"
     },
     "continent_indoors": {
-        "name": "a building"
+        "name": "a building",
+        "da": "\\d"
     },
     "faihaven_stable": {
-        "name": "Fairhaven Stables"
+        "name": "Fairhaven Stables",
+        "da": "the"
     },
     "place_yrk_p_1": {
-        "name": "Zachini Ward"
+        "name": "Zachini Ward",
+        "da": "\\d"
     },
     "place_yrk_p_2": {
-        "name": "Yasson Ward"
+        "name": "Yasson Ward",
+        "da": "\\d"
     },
     "place_yrk_p_3": {
-        "name": "Aniro Ward"
+        "name": "Aniro Ward",
+        "da": "\\d"
     },
     "place_yrk_p_4": {
-        "name": "Tylini Ward"
+        "name": "Tylini Ward",
+        "da": "\\d"
     },
     "place_yrk_p_5": {
-        "name": "Libia Ward"
+        "name": "Libia Ward",
+        "da": "\\d"
     },
     "yrkanis_stable": {
-        "name": "Yrkanis Stables"
+        "name": "Yrkanis Stables",
+        "da": "the"
     },
     "place_zora_p_1": {
-        "name": "Goo Chase District"
+        "name": "Goo Chase District",
+        "da": "\\d"
     },
     "zora_stable": {
-        "name": "Zora Stables"
+        "name": "Zora Stables",
+        "da": "the"
     },
     "place_yrkanis_bar_indoor": {
-        "name": "Yrkanis Bar Entry"
+        "name": "Yrkanis Bar Entry",
+        "da": "\\d"
     },
     "place_yrkanis_greenhouse_indoor": {
-        "name": "Yrkanis Intendant's Room Entry"
+        "name": "Yrkanis Intendant's Room Entry",
+        "da": "\\d"
     },
     "ma_natae_captain_quarter": {
-        "name": "Natae Captain's Quarters"
+        "name": "Natae Captain's Quarters",
+        "da": "\\d"
     },
     "ma_natae_foreman_quarter": {
-        "name": "Natae Overseer's Quarters"
+        "name": "Natae Overseer's Quarters",
+        "da": "\\d"
     },
     "ma_natae_messenger_quarter": {
-        "name": "Natae Messenger's Quarters"
+        "name": "Natae Messenger's Quarters",
+        "da": "\\d"
     },
     "ma_natae_sage_quarter": {
-        "name": "Natae Sage's Quarters"
+        "name": "Natae Sage's Quarters",
+        "da": "\\d"
     },
     "ma_natae_guard_chief_quarter": {
-        "name": "Natae Guard Chief's Quarters"
+        "name": "Natae Guard Chief's Quarters",
+        "da": "\\d"
     },
     "ma_natae_intendant_quarter": {
-        "name": "Natae Intendant's Quarters"
+        "name": "Natae Intendant's Quarters",
+        "da": "\\d"
     },
     "ma_davae_sergent_quarter": {
-        "name": "Davae Sergeant's Quarters"
+        "name": "Davae Sergeant's Quarters",
+        "da": "\\d"
     },
     "ma_davae_foreman_quarter": {
-        "name": "Davae Overseer's Quarters"
+        "name": "Davae Overseer's Quarters",
+        "da": "\\d"
     },
     "ma_davae_messenger_quarter": {
-        "name": "Davae Messenger's Quarters"
+        "name": "Davae Messenger's Quarters",
+        "da": "\\d"
     },
     "ma_davae_sage_quarter": {
-        "name": "Davae Sage's Quarters"
+        "name": "Davae Sage's Quarters",
+        "da": "\\d"
     },
     "ma_davae_guard_chief_quarter": {
-        "name": "Davae Guard Chief's Quarters"
+        "name": "Davae Guard Chief's Quarters",
+        "da": "\\d"
     },
     "ma_davae_intendant_quarter": {
-        "name": "Davae Intendant's Quarters"
+        "name": "Davae Intendant's Quarters",
+        "da": "\\d"
     },
     "ma_avalae_captain_quarter": {
-        "name": "Avalae Captain's Quarters"
+        "name": "Avalae Captain's Quarters",
+        "da": "\\d"
     },
     "ma_avalae_foreman_quarter": {
-        "name": "Avalae Overseer's Quarters"
+        "name": "Avalae Overseer's Quarters",
+        "da": "\\d"
     },
     "ma_avalae_messenger_quarter": {
-        "name": "Avalae Messenger's Quarters"
+        "name": "Avalae Messenger's Quarters",
+        "da": "\\d"
     },
     "ma_avalae_sage_quarter": {
-        "name": "Avalae Sage's Quarters"
+        "name": "Avalae Sage's Quarters",
+        "da": "\\d"
     },
     "ma_avalae_guard_chief_quarter": {
-        "name": "Avalae Guard Chief's Quarters"
+        "name": "Avalae Guard Chief's Quarters",
+        "da": "\\d"
     },
     "ma_avalae_intendant_quarter": {
-        "name": "Avalae Intendant's Quarters"
+        "name": "Avalae Intendant's Quarters",
+        "da": "\\d"
     },
     "zo_jenlai_captain_quarter": {
-        "name": "Jen-Laï Captain's Quarters"
+        "name": "Jen-Laï Captain's Quarters",
+        "da": "\\d"
     },
     "zo_jenlai_foreman_quarter": {
-        "name": "Jen-Laï Overseer's Quarters"
+        "name": "Jen-Laï Overseer's Quarters",
+        "da": "\\d"
     },
     "zo_jenlai_messenger_quarter": {
-        "name": "Jen-Laï Messenger's Quarters"
+        "name": "Jen-Laï Messenger's Quarters",
+        "da": "\\d"
     },
     "zo_jenlai_sage_quarter": {
-        "name": "Jen-Laï Sage's Quarters"
+        "name": "Jen-Laï Sage's Quarters",
+        "da": "\\d"
     },
     "zo_jenlai_intendant_quarter": {
-        "name": "Jen-Laï Intendant's Quarters"
+        "name": "Jen-Laï Intendant's Quarters",
+        "da": "\\d"
     },
     "zo_jenlai_guard_chief_quarter": {
-        "name": "Jen-Laï Guard Chief's Quarters"
+        "name": "Jen-Laï Guard Chief's Quarters",
+        "da": "\\d"
     },
     "zo_mincho_captain_quarter": {
-        "name": "Min-Cho Captain's Quarters"
+        "name": "Min-Cho Captain's Quarters",
+        "da": "\\d"
     },
     "zo_mincho_foreman_quarter": {
-        "name": "Min-Cho Overseer's Quarters"
+        "name": "Min-Cho Overseer's Quarters",
+        "da": "\\d"
     },
     "zo_mincho_messenger_quarter": {
-        "name": "Min-Cho Messenger's Quarters"
+        "name": "Min-Cho Messenger's Quarters",
+        "da": "\\d"
     },
     "zo_mincho_sage_quarter": {
-        "name": "Min-Cho Sage's Quarters"
+        "name": "Min-Cho Sage's Quarters",
+        "da": "\\d"
     },
     "zo_mincho_intendant_quarter": {
-        "name": "Min-Cho Intendant's Quarters"
+        "name": "Min-Cho Intendant's Quarters",
+        "da": "\\d"
     },
     "zo_mincho_guard_chief_quarter": {
-        "name": "Min-Cho Guard Chief's Quarters"
+        "name": "Min-Cho Guard Chief's Quarters",
+        "da": "\\d"
     },
     "zo_hoicho_captain_quarter": {
-        "name": "Hoï-Cho Captain's Quarters"
+        "name": "Hoï-Cho Captain's Quarters",
+        "da": "\\d"
     },
     "zo_hoicho_foreman_quarter": {
-        "name": "Hoï-Cho Overseer's Quarters"
+        "name": "Hoï-Cho Overseer's Quarters",
+        "da": "\\d"
     },
     "zo_hoicho_messenger_quarter": {
-        "name": "Hoï-Cho Messenger's Quarters"
+        "name": "Hoï-Cho Messenger's Quarters",
+        "da": "\\d"
     },
     "zo_hoicho_sage_quarter": {
-        "name": "Hoï-Cho Sage's Quarters"
+        "name": "Hoï-Cho Sage's Quarters",
+        "da": "\\d"
     },
     "zo_hoicho_intendant_quarter": {
-        "name": "Hoï-Cho Intendant's Quarters"
+        "name": "Hoï-Cho Intendant's Quarters",
+        "da": "\\d"
     },
     "zo_hoicho_guard_chief_quarter": {
-        "name": "Hoï-Cho Guard Chief's Quarters"
+        "name": "Hoï-Cho Guard Chief's Quarters",
+        "da": "\\d"
     },
     "place_fairhaven_p_1": {
-        "name": "Fairmarket Fork"
+        "name": "Fairmarket Fork",
+        "da": "\\d"
     },
     "place_fairhaven_p_2": {
-        "name": "Land's End"
+        "name": "Land's End",
+        "da": "\\d"
     },
     "place_fairhaven_p_3": {
-        "name": "Windy Head"
+        "name": "Windy Head",
+        "da": "\\d"
     },
     "place_fairhaven_p_4": {
-        "name": "Hartley Point"
+        "name": "Hartley Point",
+        "da": "\\d"
     },
     "place_fairhaven_p_5": {
-        "name": "Council Chamber Square"
+        "name": "Council Chamber Square",
+        "da": "\\d"
     },
     "place_fairhaven_p_6": {
-        "name": "Eastmarket"
+        "name": "Eastmarket",
+        "da": "\\d"
     },
     "place_fairhaven_p_7": {
-        "name": "Frogmore Place"
+        "name": "Frogmore Place",
+        "da": "\\d"
     },
     "place_fairhaven_p_8": {
-        "name": "Loria's Rise"
+        "name": "Loria's Rise",
+        "da": "\\d"
     },
     "place_fairhaven_s_1": {
-        "name": "Rigan Road"
+        "name": "Rigan Road",
+        "da": "\\d"
     },
     "place_fairhaven_s_2": {
-        "name": "Bell Lane"
+        "name": "Bell Lane",
+        "da": "\\d"
     },
     "place_fairhaven_s_3": {
-        "name": "Upper Chamber Avenue"
+        "name": "Upper Chamber Avenue",
+        "da": "\\d"
     },
     "place_fairhaven_s_4": {
-        "name": "Lower Chamber Avenue"
+        "name": "Lower Chamber Avenue",
+        "da": "\\d"
     },
     "place_fairhaven_s_5": {
-        "name": "Hartley's Way"
+        "name": "Hartley's Way",
+        "da": "\\d"
     },
     "place_fairhaven_s_6": {
-        "name": "Eastmarket Walk"
+        "name": "Eastmarket Walk",
+        "da": "\\d"
     },
     "place_fairhaven_s_7": {
-        "name": "Hobelen Walk"
+        "name": "Hobelen Walk",
+        "da": "\\d"
     },
     "place_fairhaven_s_8": {
-        "name": "Frogmore Lane"
+        "name": "Frogmore Lane",
+        "da": "\\d"
     },
     "tr_windermeer_captain_quarter": {
-        "name": "Windermeer Captain's Quarters"
+        "name": "Windermeer Captain's Quarters",
+        "da": "\\d"
     },
     "tr_windermeer_foreman_quarter": {
-        "name": "Windermeer Overseer's Quarters"
+        "name": "Windermeer Overseer's Quarters",
+        "da": "\\d"
     },
     "tr_windermeer_messenger_quarter": {
-        "name": "Windermeer Messenger's Quarters"
+        "name": "Windermeer Messenger's Quarters",
+        "da": "\\d"
     },
     "tr_windermeer_sage_quarter": {
-        "name": "Windermeer Sage's Quarters"
+        "name": "Windermeer Sage's Quarters",
+        "da": "\\d"
     },
     "tr_windermeer_guard_chief_quarter": {
-        "name": "Windermeer Guard Chief's Quarters"
+        "name": "Windermeer Guard Chief's Quarters",
+        "da": "\\d"
     },
     "tr_windermeer_intendant_quarter": {
-        "name": "Windermeer Intendant's Quarters"
+        "name": "Windermeer Intendant's Quarters",
+        "da": "\\d"
     },
     "tr_avendale_captain_quarter": {
-        "name": "Avendale Captain's Quarters"
+        "name": "Avendale Captain's Quarters",
+        "da": "\\d"
     },
     "tr_avendale_foreman_quarter": {
-        "name": "Avendale Overseer's Quarters"
+        "name": "Avendale Overseer's Quarters",
+        "da": "\\d"
     },
     "tr_avendale_messenger_quarter": {
-        "name": "Avendale Messenger's Quarters"
+        "name": "Avendale Messenger's Quarters",
+        "da": "\\d"
     },
     "tr_avendale_sage_quarter": {
-        "name": "Avendale Sage's Quarters"
+        "name": "Avendale Sage's Quarters",
+        "da": "\\d"
     },
     "tr_avendale_guard_chief_quarter": {
-        "name": "Avendale Guard Chief's Quarters"
+        "name": "Avendale Guard Chief's Quarters",
+        "da": "\\d"
     },
     "tr_avendale_intendant_quarter": {
-        "name": "Avendale Intendant's Quarters"
+        "name": "Avendale Intendant's Quarters",
+        "da": "\\d"
     },
     "tr_crystabell_sergent_quarter": {
-        "name": "Crystabell Sergeant's Quarters"
+        "name": "Crystabell Sergeant's Quarters",
+        "da": "\\d"
     },
     "tr_crystabell_foreman_quarter": {
-        "name": "Crystabell Overseer's Quarters"
+        "name": "Crystabell Overseer's Quarters",
+        "da": "\\d"
     },
     "tr_crystabell_messenger_quarter": {
-        "name": "Crystabell Messenger's Quarters"
+        "name": "Crystabell Messenger's Quarters",
+        "da": "\\d"
     },
     "tr_crystabell_sage_quarter": {
-        "name": "Crystabell Sage's Quarters"
+        "name": "Crystabell Sage's Quarters",
+        "da": "\\d"
     },
     "tr_crystabell_guard_chief_quarter": {
-        "name": "Crystabell Guard Chief's Quarters"
+        "name": "Crystabell Guard Chief's Quarters",
+        "da": "\\d"
     },
     "tr_crystabell_intendant_quarter": {
-        "name": "Crystabell Intendant's Quarters"
+        "name": "Crystabell Intendant's Quarters",
+        "da": "\\d"
     },
     "zo_zora_mairie_ss": {
-        "name": "Mainroom"
+        "name": "Mainroom",
+        "da": "the"
     },
     "zo_zora_mairie_mainroom": {
-        "name": "Mainroom"
+        "name": "Mainroom",
+        "da": "the"
     },
     "fy_fortress_rdc": {
-        "name": "Fortress Ground Level"
+        "name": "Fortress Ground Level",
+        "da": "the"
     },
     "fy_fortress_1st": {
-        "name": "Fortress 1st Floor"
+        "name": "Fortress 1st Floor",
+        "da": "the"
     },
     "hoi_cho_stable": {
-        "name": "Hoï-Cho Stables"
+        "name": "Hoï-Cho Stables",
+        "da": "the"
     },
     "jen_lai_stable": {
-        "name": "Jen-Laï Stables"
+        "name": "Jen-Laï Stables",
+        "da": "the"
     },
     "min_cho_stable": {
-        "name": "Min-Cho Stables"
+        "name": "Min-Cho Stables",
+        "da": "the"
     },
     "pyr_stable1": {
-        "name": "North Pyr Stables"
+        "name": "North Pyr Stables",
+        "da": "the"
     },
     "pyr_stable2": {
-        "name": "South Pyr Stables"
+        "name": "South Pyr Stables",
+        "da": "the"
     },
     "pyr_stable3": {
-        "name": "East Pyr Stables"
+        "name": "East Pyr Stables",
+        "da": "the"
     },
     "natae_stable": {
-        "name": "Natae Stables"
+        "name": "Natae Stables",
+        "da": "the"
     },
     "davae_stable": {
-        "name": "Davae Stables"
+        "name": "Davae Stables",
+        "da": "the"
     },
     "avalae_stable": {
-        "name": "Avalae Stables"
+        "name": "Avalae Stables",
+        "da": "the"
     },
     "thesos_stable": {
-        "name": "Thesos Stables"
+        "name": "Thesos Stables",
+        "da": "the"
     },
     "dyron_stable": {
-        "name": "Dyron Stables"
+        "name": "Dyron Stables",
+        "da": "the"
     },
     "fairhaven_stable": {
-        "name": "Fairhaven Stables"
+        "name": "Fairhaven Stables",
+        "da": "the"
     },
     "windermeer_stable": {
-        "name": "Windermeer Stables"
+        "name": "Windermeer Stables",
+        "da": "the"
     },
     "avendale_stable": {
-        "name": "Avendale Stables"
+        "name": "Avendale Stables",
+        "da": "the"
     },
     "crystabell_stable": {
-        "name": "Crystabell Stables"
+        "name": "Crystabell Stables",
+        "da": "the"
     },
     "place_pyr_p_forge": {
-        "name": "Forge"
+        "name": "Forge",
+        "da": "the"
     },
     "r_01_06_forage_place_1": {
-        "name": "Special Deposit"
+        "name": "Special Deposit",
+        "da": "the"
     },
     "r_05_36_mission_place_hunting_1": {
-        "name": "Ragus Hunting Spot"
+        "name": "Ragus Hunting Spot",
+        "da": "the"
     },
     "place_r_08_03_espionnage": {
-        "name": "observation point"
+        "name": "observation point",
+        "da": "the"
     },
     "continent_fyros_islands": {
-        "name": "Old Lands"
+        "name": "Old Lands",
+        "da": "the"
     },
     "region_fyros_island1pvp 3": {
-        "name": "<fyros islets 1 (pvp)>"
+        "name": "<fyros islets 1 (pvp)>",
+        "da": "\\d"
     },
     "region_fyros_island2": {
-        "name": "<fyros islets 2>"
+        "name": "<fyros islets 2>",
+        "da": "\\d"
     },
     "region_fyros_island3": {
-        "name": "Aelius Dunes"
+        "name": "Aelius Dunes",
+        "da": "the"
     },
     "r_11_10_kitin_hunting_1": {
-        "name": "The First Hunting Ground"
+        "name": "The First Hunting Ground",
+        "da": "\\d"
     },
     "r_11_10_kitin_hunting_2": {
-        "name": "The Second Hunting Ground"
+        "name": "The Second Hunting Ground",
+        "da": "\\d"
     },
     "r_08_04_kitin_boss_1": {
-        "name": "The Challenge"
+        "name": "The Challenge",
+        "da": "\\d"
     },
     "r_05_34_place_lake_1": {
-        "name": "Lakeside"
+        "name": "Lakeside",
+        "da": "\\d"
     },
     "place_arrival_from_sources": {
-        "name": "If you see this text, it's a bug: place_arrival_from_sources."
+        "name": "If you see this text, it's a bug: place_arrival_from_sources.",
+        "da": "\\d"
     },
     "place_arrival_from_zorai": {
-        "name": "If you see this text, it's a bug: place_arrival_from_zoraï."
+        "name": "If you see this text, it's a bug: place_arrival_from_zoraï.",
+        "da": "\\d"
     },
     "place_arrival_from_matis": {
-        "name": "If you see this text, it's a bug: place_arrival_from_matis."
+        "name": "If you see this text, it's a bug: place_arrival_from_matis.",
+        "da": "\\d"
     },
     "place_arrival_from_route_gouffre": {
-        "name": "If you see this text, it's a bug: place_arrival_from_route_gouffre."
+        "name": "If you see this text, it's a bug: place_arrival_from_route_gouffre.",
+        "da": "\\d"
     },
     "oasis_rdc": {
-        "name": "Dyron"
+        "name": "Dyron",
+        "da": "\\d"
     },
     "oasis_1st": {
-        "name": "The Oasis Tavern"
+        "name": "The Oasis Tavern",
+        "da": "\\d"
     },
     "war_school_rdc": {
-        "name": "Ground Floor of the Military School"
+        "name": "Ground Floor of the Military School",
+        "da": "\\d"
     },
     "war_school_ss": {
-        "name": "Basement of the Military School"
+        "name": "Basement of the Military School",
+        "da": "\\d"
     },
     "sherif_armory_rdc": {
-        "name": "Ground floor of the armory"
+        "name": "Ground floor of the armory",
+        "da": "\\d"
     },
     "sherif_armory_1st": {
-        "name": "First floor of the armory"
+        "name": "First floor of the armory",
+        "da": "\\d"
     },
     "sherif_rdc": {
-        "name": "Guardroom Square"
+        "name": "Guardroom Square",
+        "da": "\\d"
     },
     "sherif_1st": {
-        "name": "Guardroom Floor"
+        "name": "Guardroom Floor",
+        "da": "\\d"
     },
     "zo_hoicho_sergent_quarter": {
-        "name": "Hoï-Cho Sergeant's Quarters"
+        "name": "Hoï-Cho Sergeant's Quarters",
+        "da": "\\d"
     },
     "region_matis_island": {
-        "name": ""
+        "name": "",
+        "da": "\\d"
     },
     "place_arrival_from_fyros": {
-        "name": "If you see this text, it's a bug: place_arrival_from_fyros."
+        "name": "If you see this text, it's a bug: place_arrival_from_fyros.",
+        "da": "\\d"
     },
     "place_arrival_from_tryker": {
-        "name": "If you see this text, it's a bug: place_arrival_from_tryker."
+        "name": "If you see this text, it's a bug: place_arrival_from_tryker.",
+        "da": "\\d"
     },
     "place_arrival_from_bagne": {
-        "name": "If you see this text, it's a bug: place_arrival_from_bagne."
+        "name": "If you see this text, it's a bug: place_arrival_from_bagne.",
+        "da": "\\d"
     },
     "place_r_07_13_boss_kill": {
-        "name": "Mercenaries"
+        "name": "Mercenaries",
+        "da": "\\d"
     },
     "place_r_01_10_escort": {
-        "name": "Meeting Point"
+        "name": "Meeting Point",
+        "da": "\\d"
     },
     "place_arena_warning": {
-        "name": "If you see this text, it's a bug: place_arena_warning"
+        "name": "If you see this text, it's a bug: place_arena_warning",
+        "da": "\\d"
     },
     "r_01_06_hill_light": {
-        "name": "If you see this text, it's a bug: r_01_06_hill_light."
+        "name": "If you see this text, it's a bug: r_01_06_hill_light.",
+        "da": "\\d"
     },
     "r_05_36_mission_place_hunting_2": {
-        "name": "If you see this text, it's a bug: r_05_36_mission_place_hunting_2."
+        "name": "If you see this text, it's a bug: r_05_36_mission_place_hunting_2.",
+        "da": "\\d"
     },
     "r_05_36_mission_place_hunting_3": {
-        "name": "If you see this text, it's a bug: r_05_36_mission_place_hunting_3."
+        "name": "If you see this text, it's a bug: r_05_36_mission_place_hunting_3.",
+        "da": "\\d"
     },
     "r_09_10_mission_forage_1": {
-        "name": "Gather Sawdust"
+        "name": "Gather Sawdust",
+        "da": "\\d"
     },
     "r_09_10_mission_forage_2": {
-        "name": "Gather Wax"
+        "name": "Gather Wax",
+        "da": "\\d"
     },
     "r_09_10_mission_forage_3": {
-        "name": "Gather Wood"
+        "name": "Gather Wood",
+        "da": "\\d"
     },
     "r_08_16_mission_place_2": {
-        "name": "First Ambush "
+        "name": "First Ambush",
+        "da": "\\d"
     },
     "r_08_16_mission_place_4": {
-        "name": "Second Ambush"
+        "name": "Second Ambush",
+        "da": "\\d"
     },
     "r_08_16_mission_place_5": {
-        "name": "The leader is looking for you"
+        "name": "The leader is looking for you",
+        "da": "\\d"
     },
     "ava_bar_ext1": {
-        "name": "Avalae"
+        "name": "Avalae",
+        "da": "\\d"
     },
     "ava_bar_int2": {
-        "name": "Avalae Bar"
+        "name": "Avalae Bar",
+        "da": "the"
     },
     "ava_bar_int_2": {
-        "name": "Avalae Bar"
+        "name": "Avalae Bar",
+        "da": "the"
     },
     "dav_bar_ext2": {
-        "name": "Davae"
+        "name": "Davae",
+        "da": "\\d"
     },
     "dav_bar_int2": {
-        "name": "Davae Bar"
+        "name": "Davae Bar",
+        "da": "the"
     },
     "nat_bar_ext2": {
-        "name": "Natae"
+        "name": "Natae",
+        "da": "\\d"
     },
     "nat_bar_int_2": {
-        "name": "Natae Bar"
+        "name": "Natae Bar",
+        "da": "the"
     },
     "nat_bar_int2": {
-        "name": "Natae Bar"
+        "name": "Natae Bar",
+        "da": "the"
     },
     "serre2": {
-        "name": "Yrkanis"
+        "name": "Yrkanis",
+        "da": "\\d"
     },
     "serre1": {
-        "name": "Yrkanis"
+        "name": "Yrkanis",
+        "da": "\\d"
     },
     "yrk_serre_ncp2": {
-        "name": "Yrkanis Greenhouse"
+        "name": "Yrkanis Greenhouse",
+        "da": "the"
     },
     "yrk_serre_npc1": {
-        "name": "Yrkanis Greenhouse"
+        "name": "Yrkanis Greenhouse",
+        "da": "the"
     },
     "yrk_bar_ext": {
-        "name": "Yrkanis"
+        "name": "Yrkanis",
+        "da": "\\d"
     },
     "yrk_bar_int1": {
-        "name": "Yrkanis Bar"
+        "name": "Yrkanis Bar",
+        "da": "the"
     },
     "mairie_rdc": {
-        "name": "Ground floor"
+        "name": "Ground floor",
+        "da": "\\d"
     },
     "yrkanis mairie ss": {
-        "name": "Basement of the town hall"
+        "name": "Basement of the town hall",
+        "da": "\\d"
     },
     "place_arrival_from_nexus": {
-        "name": "If you see this text, it's a bug: place_arrival_from_nexus."
+        "name": "If you see this text, it's a bug: place_arrival_from_nexus.",
+        "da": "\\d"
     },
     "place_arrival_from_terre": {
-        "name": "If you see this text, it's a bug: place_arrival_from_terre."
+        "name": "If you see this text, it's a bug: place_arrival_from_terre.",
+        "da": "\\d"
     },
     "continent_tryker_island": {
-        "name": "Old Lands"
+        "name": "Old Lands",
+        "da": "the"
     },
     "region_tryker_island1": {
-        "name": "<tryker islet 1>"
+        "name": "<tryker islet 1>",
+        "da": "\\d"
     },
     "region_tryker_island2": {
-        "name": "<tryker islet 2>"
+        "name": "<tryker islet 2>",
+        "da": "\\d"
     },
     "region_tryker_island3": {
-        "name": "<tryker islet 3>"
+        "name": "<tryker islet 3>",
+        "da": "\\d"
     },
     "region_tryker_island4": {
-        "name": "Olkern Lake"
+        "name": "Olkern Lake",
+        "da": "\\d"
     },
     "region_tryker_island5": {
-        "name": "<tryker islet 5>"
+        "name": "<tryker islet 5>",
+        "da": "\\d"
     },
     "r_01_28_mission_tp_1a": {
-        "name": "Vortex Cave near Dew Drops"
+        "name": "Vortex Cave near Dew Drops",
+        "da": "the"
     },
     "r_01_28_mission_tp_2a": {
-        "name": "Passage near Dew Drops"
+        "name": "Passage near Dew Drops",
+        "da": "the"
     },
     "r_05_33_creek_1": {
-        "name": "Clopper Creek"
+        "name": "Clopper Creek",
+        "da": "\\d"
     },
     "r_01_27_place_libertylake": {
-        "name": "Dangerous beach"
+        "name": "Dangerous beach",
+        "da": "\\d"
     },
     "r_01_27_place_libertylake_2": {
-        "name": "Clopper beach"
+        "name": "Clopper beach",
+        "da": "\\d"
     },
     "r_12_04": {
-        "name": "If you see this text, it's a bug: r_12_04"
+        "name": "If you see this text, it's a bug: r_12_04",
+        "da": "\\d"
     },
     "r_01_28_mission_tp_1": {
-        "name": "Vortex Cave near the Winds of Muse"
+        "name": "Vortex Cave near the Winds of Muse",
+        "da": "the"
     },
     "r_01_28_mission_tp_2": {
-        "name": "Passage near the Winds of Muse"
+        "name": "Passage near the Winds of Muse",
+        "da": "the"
     },
     "continent_zorai_island": {
-        "name": "Oflovak Road"
+        "name": "Oflovak Road",
+        "da": "\\d"
     },
     "region_zorai_island1": {
-        "name": "<zoraï islet 1>"
+        "name": "<zoraï islet 1>",
+        "da": "\\d"
     },
     "region_zorai_island2": {
-        "name": "<zoraï islet 2>"
+        "name": "<zoraï islet 2>",
+        "da": "\\d"
     },
     "region_zorai_island3": {
-        "name": "<zoraï islet 3>"
+        "name": "<zoraï islet 3>",
+        "da": "\\d"
     },
     "region_zorai_island4": {
-        "name": "<zoraï islet 4>"
+        "name": "<zoraï islet 4>",
+        "da": "\\d"
     },
     "r_06_12_forage_1": {
-        "name": "Resin Source"
+        "name": "Resin Source",
+        "da": "\\d"
     },
     "r_06_12_forage_2": {
-        "name": "Rotten Fiber Source"
+        "name": "Rotten Fiber Source",
+        "da": "\\d"
     },
     "r_06_12_hunting_1": {
-        "name": "The Hunt"
+        "name": "The Hunt",
+        "da": "\\d"
     },
     "r_10_10_goo_hunting": {
-        "name": "Infected Area"
+        "name": "Infected Area",
+        "da": "\\d"
     },
     "zora_mairie_ss": {
-        "name": "Basement of the Town Hall"
+        "name": "Basement of the Town Hall",
+        "da": "\\d"
     },
     "zora_mairie_mainroom": {
-        "name": "Town Hall"
+        "name": "Town Hall",
+        "da": "the"
     },
     "r_07_04_place_adept_spawn": {
-        "name": "Kami Ritual Place"
+        "name": "Kami Ritual Place",
+        "da": "\\d"
     },
     "place_zora_puits_aux_offrandes": {
-        "name": "Well of Offerings"
+        "name": "Well of Offerings",
+        "da": "the"
     },
     "gmisland": {
-        "name": "Atrium Island"
+        "name": "Atrium Island",
+        "da": "\\d"
     },
     "gmisland_stable": {
-        "name": "Atrium Stables"
+        "name": "Atrium Stables",
+        "da": "the"
     },
     "gmcampfire": {
-        "name": "Atrium Camp"
+        "name": "Atrium Camp",
+        "da": "the"
     },
     "gmarena": {
-        "name": "Atrium Arena"
+        "name": "Atrium Arena",
+        "da": "the"
     },
     "r_06_13_kitin": {
-        "name": "exploration area"
+        "name": "exploration area",
+        "da": "the"
     },
     "debug_place_visit": {
-        "name": "place de test 1"
+        "name": "place de test 1",
+        "da": "the"
     },
     "debug_place_visit2": {
-        "name": "place de test 2"
+        "name": "place de test 2",
+        "da": "the"
     },
     "debug_place_teleport": {
-        "name": "place de teleport"
+        "name": "place de teleport",
+        "da": "the"
     },
     "r_05_15_repere_bandits": {
-        "name": "Bandits' hideout"
+        "name": "Bandits' hideout",
+        "da": "the"
     },
     "r_03_38_village_shadowrunners": {
-        "name": "Camp"
+        "name": "Camp",
+        "da": "the"
     },
     "place_r_05_41_foreuses": {
-        "name": "Raw material deposit"
+        "name": "Raw material deposit",
+        "da": "the"
     },
     "place_r_09_09_arrivee_bagne": {
-        "name": "Abyss of Ichor Arrival Point"
+        "name": "Abyss of Ichor Arrival Point",
+        "da": "the"
     },
     "welcomer_natae_guardchief": {
-        "name": "Natae Guard Chief"
+        "name": "Natae Guard Chief",
+        "da": "the"
     },
     "welcomer_natae_intendant": {
-        "name": "Natae Intendant"
+        "name": "Natae Intendant",
+        "da": "the"
     },
     "welcomer_natae_sage": {
-        "name": "Natae Sage"
+        "name": "Natae Sage",
+        "da": "the"
     },
     "welcomer_davae_intendant": {
-        "name": "Davae Intendant"
+        "name": "Davae Intendant",
+        "da": "the"
     },
     "welcomer_davae_sage": {
-        "name": "Davae Sage"
+        "name": "Davae Sage",
+        "da": "the"
     },
     "welcomer_davae_guardchief": {
-        "name": "Davae Guard Chief"
+        "name": "Davae Guard Chief",
+        "da": "the"
     },
     "welcomer_avalae_guardchief": {
-        "name": "Avalae Guard Chief"
+        "name": "Avalae Guard Chief",
+        "da": "the"
     },
     "welcomer_avalae_sage": {
-        "name": "Avalae Sage"
+        "name": "Avalae Sage",
+        "da": "the"
     },
     "welcomer_avalae_intendant": {
-        "name": "Avalae Intendant"
+        "name": "Avalae Intendant",
+        "da": "the"
     },
     "welcomer_avendale": {
-        "name": "Avendale Official"
+        "name": "Avendale Official",
+        "da": "the"
     },
     "welcomer_windermeer": {
-        "name": "Windermeer Official"
+        "name": "Windermeer Official",
+        "da": "the"
     },
     "welcomer_crystabell": {
-        "name": "Crystabell Official"
+        "name": "Crystabell Official",
+        "da": "the"
     },
     "welcomer_jenlai_guardchief": {
-        "name": "Jen-Laï Guard Chief"
+        "name": "Jen-Laï Guard Chief",
+        "da": "the"
     },
     "welcomer_jenlai_intendant": {
-        "name": "Jen-Laï Intendant"
+        "name": "Jen-Laï Intendant",
+        "da": "the"
     },
     "welcomer_jenlai_sage": {
-        "name": "Jen-Laï Sage"
+        "name": "Jen-Laï Sage",
+        "da": "the"
     },
     "welcomer_mincho_intendant": {
-        "name": "Min-Cho Intendant"
+        "name": "Min-Cho Intendant",
+        "da": "the"
     },
     "welcomer_mincho_guardchief": {
-        "name": "Min-Cho Guard Chief"
+        "name": "Min-Cho Guard Chief",
+        "da": "the"
     },
     "welcomer_mincho_sage": {
-        "name": "Min-Cho Sage"
+        "name": "Min-Cho Sage",
+        "da": "the"
     },
     "welcomer_hoicho_intendant": {
-        "name": "Hoï-Cho Intendant"
+        "name": "Hoï-Cho Intendant",
+        "da": "the"
     },
     "welcomer_hoicho_sage": {
-        "name": "Hoï-Cho Sage"
+        "name": "Hoï-Cho Sage",
+        "da": "the"
     },
     "welcomer_hoicho_guardchief": {
-        "name": "Hoï-Cho Guard Chief"
+        "name": "Hoï-Cho Guard Chief",
+        "da": "the"
     },
     "episode2_camp_karavan_fyros_island": {
-        "name": "Karavan Camp of Aelius Dunes"
+        "name": "Karavan Camp of Aelius Dunes",
+        "da": "the"
     },
     "episode2_camp_kami_fyros_island": {
-        "name": "Kami Camp of Aelius Dunes"
+        "name": "Kami Camp of Aelius Dunes",
+        "da": "the"
     },
     "episode2_camp_kami_matis_island": {
-        "name": "Kami Camp of Almati Wood"
+        "name": "Kami Camp of Almati Wood",
+        "da": "the"
     },
     "episode2_camp_karavan_matis_island": {
-        "name": "Karavan Camp of Almati Wood"
+        "name": "Karavan Camp of Almati Wood",
+        "da": "the"
     },
     "episode2_camp_karavan_tryker_island": {
-        "name": "Karavan Camp of Olkern Lake"
+        "name": "Karavan Camp of Olkern Lake",
+        "da": "the"
     },
     "episode_2_camp_kami_tryker_island": {
-        "name": "Kami Camp of Olkern Lake"
+        "name": "Kami Camp of Olkern Lake",
+        "da": "the"
     },
     "region_newbieland_hunting_grounds": {
-        "name": "Hunting Grounds"
+        "name": "Hunting Grounds",
+        "da": "the"
     },
     "region_newbieland_the_shattered_ruins": {
-        "name": "Shattered Ruins"
+        "name": "Shattered Ruins",
+        "da": "the"
     },
     "place_shattered_ruins_silan": {
-        "name": "Ruins of Silan"
+        "name": "Ruins of Silan",
+        "da": "the"
     },
     "place_shattered_ruins_trone": {
-        "name": "Throne Room"
+        "name": "Throne Room",
+        "da": "the"
     },
     "region_newbieland_starting_zone": {
-        "name": "Rangers' Land"
+        "name": "Rangers' Land",
+        "da": "the"
     },
     "place_starting_zone_starting_city": {
-        "name": "Ranger Camp"
+        "name": "Ranger Camp",
+        "da": "the"
     },
     "place_starting_zone_arena": {
-        "name": "Arena"
+        "name": "Arena",
+        "da": "the"
     },
     "region_newbieland_blight_zone": {
-        "name": "Blight Zone"
+        "name": "Blight Zone",
+        "da": "the"
     },
     "region_newbieland_shining_lake": {
-        "name": "Shining Lake"
+        "name": "Shining Lake",
+        "da": "\\d"
     },
     "region_newbieland_kitins_jungle": {
-        "name": "Kitins Jungle"
+        "name": "Kitins Jungle",
+        "da": "the"
     },
     "karavan embassy": {
-        "name": "Karavan Embassy"
+        "name": "Karavan Embassy",
+        "da": "the"
     },
     "kami_enclave": {
-        "name": "Kami Enclave"
+        "name": "Kami Enclave",
+        "da": "the"
     },
     "place_hunting_grounds_gingo_lair": {
-        "name": "Ragus Lair"
+        "name": "Ragus Lair",
+        "da": "the"
     },
     "mission_place_tryker_02": {
-        "name": "Prospection Zone"
+        "name": "Prospection Zone",
+        "da": "the"
     },
     "mission_place_tryker_03": {
-        "name": "Prospection Zone"
+        "name": "Prospection Zone",
+        "da": "the"
     },
     "mission_place_ranger_01": {
-        "name": ""
+        "name": "",
+        "da": ""
     },
     "mission_place_ranger_02": {
-        "name": ""
+        "name": "",
+        "da": ""
     },
     "mission_place_ilot": {
-        "name": "experimentation terrain"
+        "name": "experimentation terrain",
+        "da": "the"
     },
     "newbieland": {
-        "name": "Controlled Lands"
+        "name": "Controlled Lands",
+        "da": "the"
     },
     "region_newbieland": {
-        "name": "Lands to Explore"
+        "name": "Lands to Explore",
+        "da": "the"
     },
     "mission_place_tryker_04": {
-        "name": "Prospection Zone"
+        "name": "Prospection Zone",
+        "da": "the"
     },
     "continent_corrupted_moor": {
-        "name": "Corrupted Moors"
+        "name": "Corrupted Moors",
+        "da": "the"
     },
     "region_karavanexclusionzone": {
-        "name": "Lacerated Plains"
+        "name": "Lacerated Plains",
+        "da": "the"
     },
     "place_tcm_karavan_camp": {
-        "name": "Karavan Experimentation Camp"
+        "name": "Karavan Experimentation Camp",
+        "da": "the"
     },
     "region_hopeforest": {
-        "name": "Forest of Dreams"
+        "name": "Forest of Dreams",
+        "da": "the"
     },
     "place_tcm_company_camp": {
-        "name": "Kami Mission"
+        "name": "Kami Mission",
+        "da": "the"
     },
     "place_tcm_company_eternal_tree": {
-        "name": "Camp of the Company of the Eternal Tree"
+        "name": "Camp of the Company of the Eternal Tree",
+        "da": "the"
     },
     "place_tcm_keepers": {
-        "name": "Keepers Archeological Base"
+        "name": "Keepers Archeological Base",
+        "da": "the"
     },
     "place_tcm_tutors": {
-        "name": "Tutors' Sanctuary"
+        "name": "Tutors' Sanctuary",
+        "da": "the"
     },
     "region_northspire": {
-        "name": "Northern Peaks"
+        "name": "Northern Peaks",
+        "da": "the"
     },
     "place_tcm_chlorogoo_camp": {
-        "name": "Chlorogoo Fort"
+        "name": "Chlorogoo Fort",
+        "da": "the"
     },
     "region_fyreruins": {
-        "name": "Fyros Old City"
+        "name": "Fyros Old City",
+        "da": "the"
     },
     "place_tcm_arena": {
-        "name": "Arena of Sacrifice"
+        "name": "Arena of Sacrifice",
+        "da": "the"
     },
     "place_tcm_kitin_nest": {
-        "name": "Former Karavan Depot"
+        "name": "Former Karavan Depot",
+        "da": "the"
     },
     "region_mistvalley": {
-        "name": "Valley of Mists"
+        "name": "Valley of Mists",
+        "da": "the"
     },
     "fyre_village": {
-        "name": "Ruins of Fyre Village"
+        "name": "Ruins of Fyre Village",
+        "da": "the"
     },
     "place_tcm_karavan_south_west": {
-        "name": "Patrol Zone"
+        "name": "Patrol Zone",
+        "da": "the"
     },
     "place_tcm_karavan_south_east": {
-        "name": "Patrol Zone"
+        "name": "Patrol Zone",
+        "da": "the"
     },
     "place_tcm_karavan_raid_ceremony_trigger": {
-        "name": "Karavan Experimentation Camp"
+        "name": "Karavan Experimentation Camp",
+        "da": "the"
     },
     "place_tcm_karavan_raid_ceremony_target": {
-        "name": "Karavan Experimentation Camp"
+        "name": "Karavan Experimentation Camp",
+        "da": "the"
     },
     "place_tcm_company_raid_ceremony_trigger": {
-        "name": "Kami Mission"
+        "name": "Kami Mission",
+        "da": "the"
     },
     "place_tcm_company_raid_ceremony_target": {
-        "name": "Kami Mission"
+        "name": "Kami Mission",
+        "da": "the"
     },
     "place_tcm_shaman_tent": {
-        "name": "If you see this text, it's a bug: place_tcm_shaman_tent"
+        "name": "If you see this text, it's a bug: place_tcm_shaman_tent",
+        "da": ""
     },
     "place_tcm_rock_fall": {
-        "name": "Former Karavan Depot"
+        "name": "Former Karavan Depot",
+        "da": "the"
     },
     "place_tcm_karavan_outpost": {
-        "name": "Karavan Outpost"
+        "name": "Karavan Outpost",
+        "da": "the"
     },
     "kitiniere_cattle_room": {
-        "name": "Cattle Room"
+        "name": "Cattle Room",
+        "da": "the"
     },
     "kitiniere_dark_mines": {
-        "name": "Dark Mines"
+        "name": "Dark Mines",
+        "da": "the"
     },
     "kitiniere_eggs_room": {
-        "name": "Prime Eggs Room"
+        "name": "Prime Eggs Room",
+        "da": "the"
     },
     "kitiniere_entrance": {
-        "name": "Entrance"
+        "name": "Entrance",
+        "da": "the"
     },
     "kitiniere_old_mines": {
-        "name": "Old Mines"
+        "name": "Old Mines",
+        "da": "the"
     },
     "kitiniere_princes_room": {
-        "name": "Princes' Room"
+        "name": "Princes' Room",
+        "da": "the"
     },
     "kitiniere_queen_room": {
-        "name": "Queen's Room"
+        "name": "Queen's Room",
+        "da": "the"
     },
     "kitiniere": {
-        "name": "Kitins' Lair"
+        "name": "Kitins' Lair",
+        "da": "the"
     },
     "continent_kitiniere": {
-        "name": "Kitins' Lair"
+        "name": "Kitins' Lair",
+        "da": "the"
     },
     "place_mission_fyros_01_yubo": {
-        "name": "Yubo Garden"
+        "name": "Yubo Garden",
+        "da": "\\d"
     },
     "place_mission_fyros_02_huntingground_t1": {
-        "name": "Group of Bodocs"
+        "name": "Group of Bodocs",
+        "da": "the"
     },
     "place_mission_fyros_02_huntingground_t1exit": {
-        "name": "Place pipo"
+        "name": "Place pipo",
+        "da": "\\d"
     },
     "place_mission_fyros_02_huntingground_t2exit": {
-        "name": "Place pipo"
+        "name": "Place pipo",
+        "da": "\\d"
     },
     "place_mission_fyros_02_huntingground_t2": {
-        "name": "Group of Yubos"
+        "name": "Group of Yubos",
+        "da": "the"
     },
     "place_mission_fyros_02_huntingground": {
-        "name": "Hunting Grounds"
+        "name": "Hunting Grounds",
+        "da": "\\d"
     },
     "place_mission_fyros_04_carcasse": {
-        "name": "Crime Scene"
+        "name": "Crime Scene",
+        "da": "the"
     },
     "place_mission_fyros_04_ragus": {
-        "name": "Ragus Pack"
+        "name": "Ragus Pack",
+        "da": "\\d"
     },
     "place_mission_zorai_rendor": {
-        "name": "Rendor Plains"
+        "name": "Rendor Plains",
+        "da": "the"
     },
     "place_shooting_range": {
-        "name": "Training Area"
+        "name": "Training Area",
+        "da": "the"
     },
     "place_mission_javezone": {
-        "name": "Javing Woods"
+        "name": "Javing Woods",
+        "da": "the"
     },
     "place_mission_slavezone": {
-        "name": "Slaveni Fields"
+        "name": "Slaveni Fields",
+        "da": "the"
     },
     "place_forage_start": {
-        "name": "Prospection Zone"
+        "name": "Prospection Zone",
+        "da": "the"
     },
     "place_forage_zun": {
-        "name": "Zun Prospection Zone"
+        "name": "Zun Prospection Zone",
+        "da": "the"
     },
     "place_forage_shat": {
-        "name": "Multiple Prospection Zone"
+        "name": "Multiple Prospection Zone",
+        "da": "the"
     },
     "place_forage_chloro": {
-        "name": "Spots of Goo"
+        "name": "Spots of Goo",
+        "da": "the"
     },
     "gerder_food": {
-        "name": "Passage of Gerder"
+        "name": "Passage of Gerder",
+        "da": "the"
     },
     "rpjob_magnecarto_1_a": {
-        "name": "Magnetics Measuring Area A"
+        "name": "Magnetics Measuring Area A",
+        "da": "\\d"
     },
     "rpjob_magnecarto_1_b": {
-        "name": "Magnetics Measuring Area B"
+        "name": "Magnetics Measuring Area B",
+        "da": "\\d"
     },
     "rpjob_magnecarto_1_c": {
-        "name": "Magnetics Measuring Area C"
+        "name": "Magnetics Measuring Area C",
+        "da": "\\d"
     },
     "rpjob_magnecarto_1_d": {
-        "name": "Magnetics Measuring Area D"
+        "name": "Magnetics Measuring Area D",
+        "da": "\\d"
     },
     "rpjob_magnecarto_2_a": {
-        "name": "Magnetics Measuring Area A"
+        "name": "Magnetics Measuring Area A",
+        "da": "\\d"
     },
     "rpjob_magnecarto_2_b": {
-        "name": "Magnetics Measuring Area B"
+        "name": "Magnetics Measuring Area B",
+        "da": "\\d"
     },
     "rpjob_magnecarto_2_c": {
-        "name": "Magnetics Measuring Area C"
+        "name": "Magnetics Measuring Area C",
+        "da": "\\d"
     },
     "rpjob_magnecarto_2_d": {
-        "name": "Magnetics Measuring Area D"
+        "name": "Magnetics Measuring Area D",
+        "da": "\\d"
     },
     "rpjob_magnecarto_3_a": {
-        "name": "Magnetics Measuring Area A"
+        "name": "Magnetics Measuring Area A",
+        "da": "\\d"
     },
     "rpjob_magnecarto_3_b": {
-        "name": "Magnetics Measuring Area B"
+        "name": "Magnetics Measuring Area B",
+        "da": "\\d"
     },
     "rpjob_magnecarto_3_c": {
-        "name": "Magnetics Measuring Area C"
+        "name": "Magnetics Measuring Area C",
+        "da": "\\d"
     },
     "rpjob_magnecarto_3_d": {
-        "name": "Magnetics Measuring Area D"
+        "name": "Magnetics Measuring Area D",
+        "da": "\\d"
     },
     "rpjob_magnecarto_4_a": {
-        "name": "Magnetics Measuring Area A"
+        "name": "Magnetics Measuring Area A",
+        "da": "\\d"
     },
     "rpjob_magnecarto_4_b": {
-        "name": "Magnetics Measuring Area B"
+        "name": "Magnetics Measuring Area B",
+        "da": "\\d"
     },
     "rpjob_magnecarto_4_c": {
-        "name": "Magnetics Measuring Area C"
+        "name": "Magnetics Measuring Area C",
+        "da": "\\d"
     },
     "rpjob_magnecarto_4_d": {
-        "name": "Magnetics Measuring Area D"
+        "name": "Magnetics Measuring Area D",
+        "da": "\\d"
     },
     "rpjob_magnecarto_5_a": {
-        "name": "Magnetics Measuring Area A"
+        "name": "Magnetics Measuring Area A",
+        "da": "\\d"
     },
     "rpjob_magnecarto_5_b": {
-        "name": "Magnetics Measuring Area B"
+        "name": "Magnetics Measuring Area B",
+        "da": "\\d"
     },
     "rpjob_magnecarto_5_c": {
-        "name": "Magnetics Measuring Area C"
+        "name": "Magnetics Measuring Area C",
+        "da": "\\d"
     },
     "rpjob_magnecarto_5_d": {
-        "name": "Magnetics Measuring Area D"
+        "name": "Magnetics Measuring Area D",
+        "da": "\\d"
     },
     "kitinslair_zone_1": {
-        "name": "Kitin's Lair First Open Zone"
+        "name": "Kitin's Lair First Open Zone",
+        "da": "\\d"
     },
     "place_matis_island_2": {
-        "name": "Dante's Peak"
+        "name": "Dante's Peak",
+        "da": "\\d"
     },
     "region_matis_island_1": {
-        "name": "Almati Wood"
+        "name": "Almati Wood",
+        "da": "\\d"
     },
     "region_matis_island_2": {
-        "name": "Dante's Camp"
+        "name": "Dante's Camp",
+        "da": "\\d"
     },
     "region_matis_island_3": {
-        "name": ""
+        "name": "",
+        "da": "\\d"
     },
     "continent_matis_island": {
-        "name": "Old Lands"
+        "name": "Old Lands",
+        "da": "the"
     },
     "boss_tryker_light_island_zone": {
-        "name": "Dante's Camp"
+        "name": "Dante's Camp",
+        "da": "\\d"
     },
     "place_matis_island_1": {
-        "name": "Ranger Camp"
+        "name": "Ranger Camp",
+        "da": "the"
     },
     "place_matis_island_3": {
-        "name": ""
+        "name": "",
+        "da": "\\d"
     },
     "boss_zorai_light_maincamp": {
-        "name": "Pei-Ruz's Secret Camp"
+        "name": "Pei-Ruz's Secret Camp",
+        "da": "\\d"
     },
     "boss_zorai_light_startcamp": {
-        "name": "Pei-Ruz's Camp"
+        "name": "Pei-Ruz's Camp",
+        "da": "\\d"
     },
     "place_cwmh01_mp1": {
-        "name": "Bone Prospection Zone"
+        "name": "Bone Prospection Zone",
+        "da": "the"
     },
     "place_cwmh02_mp1": {
-        "name": "Root Prospection Zone"
+        "name": "Root Prospection Zone",
+        "da": "the"
     },
     "place_cwmh03_mp1": {
-        "name": "Spore Prospection Zone"
+        "name": "Spore Prospection Zone",
+        "da": "the"
     },
     "cwfh01_mp1": {
-        "name": "Garbage Prospection Zone"
+        "name": "Garbage Prospection Zone",
+        "da": "the"
     },
     "cwfh02_mp1": {
-        "name": "Bone Prospection Zone"
+        "name": "Bone Prospection Zone",
+        "da": "the"
     },
     "cwfh03_mp1": {
-        "name": "Mud Prospection Zone"
+        "name": "Mud Prospection Zone",
+        "da": "the"
     },
     "cwff03_termites": {
-        "name": "Termite Mound"
+        "name": "Termite Mound",
+        "da": "the"
     },
     "place_cwth01_mp1": {
-        "name": "Shell Prospection Zone"
+        "name": "Shell Prospection Zone",
+        "da": "the"
     },
     "place_cwth02_mp1": {
-        "name": "Peat Prospection Zone"
+        "name": "Peat Prospection Zone",
+        "da": "the"
     },
     "place_cwth03_mp1": {
-        "name": "Root Prospection Zone"
+        "name": "Root Prospection Zone",
+        "da": "the"
     },
     "place_cwzh01_mp1": {
-        "name": "Moss Prospection Zone"
+        "name": "Moss Prospection Zone",
+        "da": "the"
     },
     "place_cwzh02_mp1": {
-        "name": "Dung Prospection Zone"
+        "name": "Dung Prospection Zone",
+        "da": "the"
     },
     "place_cwzh03_mp1": {
-        "name": "Pearl Prospection Zone"
+        "name": "Pearl Prospection Zone",
+        "da": "the"
     },
     "place_cimetiere_avalae": {
-        "name": "Avalae Cemetery"
+        "name": "Avalae Cemetery",
+        "da": "the"
     },
     "mission_ff60_emplacement_message": {
-        "name": "Messages Location"
+        "name": "Messages Location",
+        "da": "the"
     },
     "place_marauder_camp": {
-        "name": "Marauder Camp"
+        "name": "Marauder Camp",
+        "da": "the"
     },
     "place_lieudit_marauder_arena": {
-        "name": "Marauder Arena"
+        "name": "Marauder Arena",
+        "da": "the"
     },
     "marauder_stable": {
-        "name": "Marauder Stables"
+        "name": "Marauder Stables",
+        "da": "the"
     },
     "continent_r2_forest": {
-        "name": "Leewind Lands"
+        "name": "Leewind Lands",
+        "da": "the"
     },
     "continent_r2_roots": {
-        "name": "Unexplored Prims"
+        "name": "Unexplored Prims",
+        "da": "the"
     },
     "continent_r2_desert": {
-        "name": "Unexplored Desert"
+        "name": "Unexplored Desert",
+        "da": "the"
     },
     "continent_r2_lakes": {
-        "name": "Unexplored Lakes"
+        "name": "Unexplored Lakes",
+        "da": "the"
     },
     "continent_r2_jungle": {
-        "name": "Unexplored Jungle"
+        "name": "Unexplored Jungle",
+        "da": "the"
     },
     "region_zorai_islands": {
-        "name": "Oflovak Road -- Jungle"
+        "name": "Oflovak Road -- Jungle",
+        "da": "the"
     },
     "uir2_jungle30": {
-        "name": "Great Dale"
+        "name": "Great Dale",
+        "da": "the"
     },
     "uir2_jungle47": {
-        "name": "Range of the Brave"
+        "name": "Range of the Brave",
+        "da": "the"
     },
     "uir2_jungle36": {
-        "name": "The Forgotten Lagoon"
+        "name": "The Forgotten Lagoon",
+        "da": "the"
     },
     "uir2_jungle33": {
-        "name": "The Cave"
+        "name": "The Cave",
+        "da": "the"
     },
     "uir2_jungle39": {
-        "name": "Wombaï`s passage"
+        "name": "Wombaï`s passage",
+        "da": "the"
     },
     "uir2_jungle23": {
-        "name": "Mountain Bamboos"
+        "name": "Mountain Bamboos",
+        "da": "the"
     },
     "uir2_jungle16": {
-        "name": "High-Plateau"
+        "name": "High-Plateau",
+        "da": "the"
     },
     "uir2_jungle01": {
-        "name": "Forest of Waves"
+        "name": "Forest of Waves",
+        "da": "the"
     },
     "uir2_jungle50": {
-        "name": "Spoiled Spring"
+        "name": "Spoiled Spring",
+        "da": "the"
     },
     "uir2_jungle02": {
-        "name": "Lakes"
+        "name": "Lakes",
+        "da": "the"
     },
     "uir2_jungle45": {
-        "name": "Homin`s Plain"
+        "name": "Homin`s Plain",
+        "da": "the"
     },
     "uir2_jungle15": {
-        "name": "Soiled Plain"
+        "name": "Soiled Plain",
+        "da": "the"
     },
     "uir2_jungle44": {
-        "name": "Rock of Tears"
+        "name": "Rock of Tears",
+        "da": "the"
     },
     "uir2_jungle19": {
-        "name": "Aquatic Jungle"
+        "name": "Aquatic Jungle",
+        "da": "the"
     },
     "uir2_jungle07": {
-        "name": "Hand"
+        "name": "Hand",
+        "da": "the"
     },
     "uir2_jungle27": {
-        "name": "Empty Valley"
+        "name": "Empty Valley",
+        "da": "the"
     },
     "uir2_jungle21": {
-        "name": "Uneven and Variety"
+        "name": "Uneven and Variety",
+        "da": "the"
     },
     "uir2_jungle03": {
-        "name": "Goo and Bamboos"
+        "name": "Goo and Bamboos",
+        "da": "the"
     },
     "uir2_jungle38": {
-        "name": "Twin Ponds"
+        "name": "Twin Ponds",
+        "da": "the"
     },
     "uir2_jungle48": {
-        "name": "Rock of Flowers"
+        "name": "Rock of Flowers",
+        "da": "the"
     },
     "uir2_jungle34": {
-        "name": "Plateau of Goo"
+        "name": "Plateau of Goo",
+        "da": "the"
     },
     "uir2_jungle31": {
-        "name": "Small Circle"
+        "name": "Small Circle",
+        "da": "the"
     },
     "uir2_jungle52": {
-        "name": "The Tears of Atys"
+        "name": "The Tears of Atys",
+        "da": "the"
     },
     "uir2_jungle32": {
-        "name": "Goo Patches"
+        "name": "Goo Patches",
+        "da": "the"
     },
     "uir2_jungle49": {
-        "name": "The Chain"
+        "name": "The Chain",
+        "da": "the"
     },
     "uir2_jungle28": {
-        "name": "Small Spring"
+        "name": "Small Spring",
+        "da": "the"
     },
     "uir2_jungle42": {
-        "name": "The Enclave"
+        "name": "The Enclave",
+        "da": "the"
     },
     "uir2_jungle13": {
-        "name": "Mirror of Goo"
+        "name": "Mirror of Goo",
+        "da": "the"
     },
     "uir2_jungle51": {
-        "name": "Green Spirit"
+        "name": "Green Spirit",
+        "da": "the"
     },
     "uir2_jungle18": {
-        "name": "Heart of the Jungle"
+        "name": "Heart of the Jungle",
+        "da": "the"
     },
     "uir2_jungle29": {
-        "name": "Waterside"
+        "name": "Waterside",
+        "da": "the"
     },
     "uir2_jungle06": {
-        "name": "Steepsided Valley"
+        "name": "Steepsided Valley",
+        "da": "the"
     },
     "uir2_jungle17": {
-        "name": "Promontories and Ridges"
+        "name": "Promontories and Ridges",
+        "da": "the"
     },
     "uir2_jungle26": {
-        "name": "Further Goes the Goo"
+        "name": "Further Goes the Goo",
+        "da": "the"
     },
     "uir2_jungle11": {
-        "name": "Bald Plateau"
+        "name": "Bald Plateau",
+        "da": "the"
     },
     "uir2_jungle35": {
-        "name": "Plain of Desolation"
+        "name": "Plain of Desolation",
+        "da": "the"
     },
     "uir2_jungle22": {
-        "name": "Tropical Corridor"
+        "name": "Tropical Corridor",
+        "da": "the"
     },
     "uir2_jungle14": {
-        "name": "Vegetable Diversity"
+        "name": "Vegetable Diversity",
+        "da": "the"
     },
     "uir2_jungle53": {
-        "name": "Mask of the Zoraï"
+        "name": "Mask of the Zoraï",
+        "da": "the"
     },
     "uir2_jungle43": {
-        "name": "The Mysterious Forest"
+        "name": "The Mysterious Forest",
+        "da": "the"
     },
     "uir2_jungle08": {
-        "name": "Mound of Spirits"
+        "name": "Mound of Spirits",
+        "da": "the"
     },
     "uir2_jungle24": {
-        "name": "Mountainside"
+        "name": "Mountainside",
+        "da": "the"
     },
     "uir2_jungle25": {
-        "name": "The Circle"
+        "name": "The Circle",
+        "da": "the"
     },
     "uir2_jungle05": {
-        "name": "Taste of Paradise"
+        "name": "Taste of Paradise",
+        "da": "the"
     },
     "uir2_jungle12": {
-        "name": "Ways of the Maze"
+        "name": "Ways of the Maze",
+        "da": "the"
     },
     "uir2_jungle46": {
-        "name": "The Fall"
+        "name": "The Fall",
+        "da": "the"
     },
     "uir2_jungle41": {
-        "name": "Great Kami Plain"
+        "name": "Great Kami Plain",
+        "da": "the"
     },
     "uir2_jungle04": {
-        "name": "Mini-Goo"
+        "name": "Mini-Goo",
+        "da": "the"
     },
     "uir2_jungle09": {
-        "name": "Underground Pathways"
+        "name": "Underground Pathways",
+        "da": "the"
     },
     "uir2_forest38": {
-        "name": "Garden of Reward"
+        "name": "Garden of Reward",
+        "da": "the"
     },
     "uir2_forest35": {
-        "name": "Wall of Bark"
+        "name": "Wall of Bark",
+        "da": "the"
     },
     "uir2_forest44": {
-        "name": "Grove of Jen-Mawk"
+        "name": "Grove of Jen-Mawk",
+        "da": "the"
     },
     "uir2_forest28": {
-        "name": "Cliff of Clouds"
+        "name": "Cliff of Clouds",
+        "da": "the"
     },
     "uir2_forest30": {
-        "name": "Crag of chaos"
+        "name": "Crag of chaos",
+        "da": "the"
     },
     "uir2_forest39": {
-        "name": "Three Clearings"
+        "name": "Three Clearings",
+        "da": "the"
     },
     "uir2_forest33": {
-        "name": "Chasm of the Kincher"
+        "name": "Chasm of the Kincher",
+        "da": "the"
     },
     "uir2_forest46": {
-        "name": "The Wild Ravine"
+        "name": "The Wild Ravine",
+        "da": "the"
     },
     "uir2_forest06": {
-        "name": "Four-Waterfalls"
+        "name": "Four-Waterfalls",
+        "da": "the"
     },
     "uir2_forest32": {
-        "name": "Dried-up Springs"
+        "name": "Dried-up Springs",
+        "da": "the"
     },
     "uir2_forest14": {
-        "name": "Great Arena"
+        "name": "Great Arena",
+        "da": "the"
     },
     "uir2_forest10": {
-        "name": "Roots of Memory"
+        "name": "Roots of Memory",
+        "da": "the"
     },
     "uir2_forest09": {
-        "name": "The White Hills"
+        "name": "The White Hills",
+        "da": "the"
     },
     "uir2_forest20": {
-        "name": "Darkpass"
+        "name": "Darkpass",
+        "da": "the"
     },
     "uir2_forest23": {
-        "name": "Empty Passage"
+        "name": "Empty Passage",
+        "da": "the"
     },
     "uir2_forest17": {
-        "name": "Bawaab Ridge"
+        "name": "Bawaab Ridge",
+        "da": "the"
     },
     "uir2_forest18": {
-        "name": "Plain of Spines"
+        "name": "Plain of Spines",
+        "da": "the"
     },
     "uir2_forest12": {
-        "name": "Confined Clearing"
+        "name": "Confined Clearing",
+        "da": "the"
     },
     "uir2_forest07": {
-        "name": "Well of Secrets"
+        "name": "Well of Secrets",
+        "da": "the"
     },
     "uir2_forest31": {
-        "name": "Mere of dreams"
+        "name": "Mere of dreams",
+        "da": "the"
     },
     "uir2_forest03": {
-        "name": "Remnants of Verdure"
+        "name": "Remnants of Verdure",
+        "da": "the"
     },
     "uir2_forest08": {
-        "name": "Raspals Ridge"
+        "name": "Raspals Ridge",
+        "da": "the"
     },
     "uir2_forest15": {
-        "name": "Kitins Ridge"
+        "name": "Kitins Ridge",
+        "da": "the"
     },
     "uir2_forest16": {
-        "name": "Whirlmount"
+        "name": "Whirlmount",
+        "da": "the"
     },
     "uir2_forest42": {
-        "name": "Lush Forest"
+        "name": "Lush Forest",
+        "da": "the"
     },
     "uir2_forest11": {
-        "name": "Madakam Ridge"
+        "name": "Madakam Ridge",
+        "da": "the"
     },
     "uir2_forest24": {
-        "name": "Northern Island"
+        "name": "Northern Island",
+        "da": "the"
     },
     "uir2_forest41": {
-        "name": "Mage Tower"
+        "name": "Mage Tower",
+        "da": "the"
     },
     "uir2_forest29": {
-        "name": "Woods of wonder"
+        "name": "Woods of wonder",
+        "da": "the"
     },
     "uir2_forest21": {
-        "name": "Passage of the Pit"
+        "name": "Passage of the Pit",
+        "da": "the"
     },
     "uir2_forest01": {
-        "name": "Matis Balcony"
+        "name": "Matis Balcony",
+        "da": "the"
     },
     "uir2_forest36": {
-        "name": "The Last Well"
+        "name": "The Last Well",
+        "da": "the"
     },
     "uir2_forest43": {
-        "name": "Serene Forest"
+        "name": "Serene Forest",
+        "da": "the"
     },
     "uir2_forest27": {
-        "name": "Forgotten Plateau"
+        "name": "Forgotten Plateau",
+        "da": "the"
     },
     "uir2_forest05": {
-        "name": "Severed-Stump"
+        "name": "Severed-Stump",
+        "da": "the"
     },
     "uir2_forest37": {
-        "name": "Beyond the Jungle"
+        "name": "Beyond the Jungle",
+        "da": "the"
     },
     "uir2_forest40": {
-        "name": "Madakam Track"
+        "name": "Madakam Track",
+        "da": "the"
     },
     "uir2_forest19": {
-        "name": "Haunted Corridor"
+        "name": "Haunted Corridor",
+        "da": "the"
     },
     "uir2_forest34": {
-        "name": "Jaws of the Tobak"
+        "name": "Jaws of the Tobak",
+        "da": "the"
     },
     "uir2_forest25": {
-        "name": "Gorge of the Dance"
+        "name": "Gorge of the Dance",
+        "da": "the"
     },
     "uir2_forest26": {
-        "name": "Long-Island"
+        "name": "Long-Island",
+        "da": "the"
     },
     "uir2_forest04": {
-        "name": "Cynical Marshes"
+        "name": "Cynical Marshes",
+        "da": "the"
     },
     "uir2_forest45": {
-        "name": "Barkcleft"
+        "name": "Barkcleft",
+        "da": "the"
     },
     "uir2_forest22": {
-        "name": "Fang-Island"
+        "name": "Fang-Island",
+        "da": "the"
     },
     "uir2_forest13": {
-        "name": "The Winter Pier"
+        "name": "The Winter Pier",
+        "da": "the"
     },
     "uir2_forest02": {
-        "name": "Cliff of Conflict"
+        "name": "Cliff of Conflict",
+        "da": "the"
     },
     "uir2_deserts27": {
-        "name": "Hidden Reserves"
+        "name": "Hidden Reserves",
+        "da": "the"
     },
     "uir2_deserts25": {
-        "name": "The Great Circuit"
+        "name": "The Great Circuit",
+        "da": "the"
     },
     "uir2_deserts12": {
-        "name": "Dragon Valley"
+        "name": "Dragon Valley",
+        "da": "the"
     },
     "uir2_deserts10": {
-        "name": "Ancient Hollow"
+        "name": "Ancient Hollow",
+        "da": "the"
     },
     "uir2_deserts20": {
-        "name": "The Labyrinth"
+        "name": "The Labyrinth",
+        "da": "the"
     },
     "uir2_deserts30": {
-        "name": "The Two Halls"
+        "name": "The Two Halls",
+        "da": "the"
     },
     "uir2_deserts14": {
-        "name": "Wooded Canyon"
+        "name": "Wooded Canyon",
+        "da": "the"
     },
     "uir2_deserts04": {
-        "name": "Windy Loop"
+        "name": "Windy Loop",
+        "da": "the"
     },
     "uir2_deserts01": {
-        "name": "The Botoga`s Drop"
+        "name": "The Botoga`s Drop",
+        "da": "the"
     },
     "uir2_deserts29": {
-        "name": "The Dark Pathway"
+        "name": "The Dark Pathway",
+        "da": "the"
     },
     "uir2_deserts24": {
-        "name": "Height of Serenity"
+        "name": "Height of Serenity",
+        "da": "the"
     },
     "uir2_deserts18": {
-        "name": "The Crown"
+        "name": "The Crown",
+        "da": "the"
     },
     "uir2_deserts23": {
-        "name": "Connected Paths"
+        "name": "Connected Paths",
+        "da": "the"
     },
     "uir2_deserts11": {
-        "name": "Blue Oasis"
+        "name": "Blue Oasis",
+        "da": "the"
     },
     "uir2_deserts26": {
-        "name": "The Hive"
+        "name": "The Hive",
+        "da": "the"
     },
     "uir2_deserts05": {
-        "name": "The Baking Cliffs"
+        "name": "The Baking Cliffs",
+        "da": "the"
     },
     "uir2_deserts22": {
-        "name": "Sands of Solitude"
+        "name": "Sands of Solitude",
+        "da": "the"
     },
     "uir2_deserts06": {
-        "name": "Valley of Fire"
+        "name": "Valley of Fire",
+        "da": "the"
     },
     "uir2_deserts31": {
-        "name": "The Furrow"
+        "name": "The Furrow",
+        "da": "the"
     },
     "uir2_deserts28": {
-        "name": "Treacherous Passage"
+        "name": "Treacherous Passage",
+        "da": "the"
     },
     "uir2_deserts15": {
-        "name": "The Trail of Initiation"
+        "name": "The Trail of Initiation",
+        "da": "the"
     },
     "uir2_deserts32": {
-        "name": "Shalah Footprints"
+        "name": "Shalah Footprints",
+        "da": "the"
     },
     "uir2_deserts17": {
-        "name": "Three Branches"
+        "name": "Three Branches",
+        "da": "the"
     },
     "uir2_deserts19": {
-        "name": "Struggle for Power"
+        "name": "Struggle for Power",
+        "da": "the"
     },
     "uir2_deserts09": {
-        "name": "Twin Lakes"
+        "name": "Twin Lakes",
+        "da": "the"
     },
     "uir2_deserts13": {
-        "name": "Dunes of Temperance"
+        "name": "Dunes of Temperance",
+        "da": "the"
     },
     "uir2_deserts33": {
-        "name": "Meditations of the Mace Master"
+        "name": "Meditations of the Mace Master",
+        "da": "the"
     },
     "uir2_deserts07": {
-        "name": "Dunes of forgetfulness"
+        "name": "Dunes of forgetfulness",
+        "da": "the"
     },
     "uir2_deserts03": {
-        "name": "The Sleeping Bodoc"
+        "name": "The Sleeping Bodoc",
+        "da": "the"
     },
     "uir2_deserts16": {
-        "name": "Lair in the Heights"
+        "name": "Lair in the Heights",
+        "da": "the"
     },
     "uir2_deserts21": {
-        "name": "The Ambush"
+        "name": "The Ambush",
+        "da": "the"
     },
     "uir2_deserts02": {
-        "name": "Mektoub Passage"
+        "name": "Mektoub Passage",
+        "da": "the"
     },
     "uir2_deserts08": {
-        "name": "Arid Pass"
+        "name": "Arid Pass",
+        "da": "the"
     },
     "uir2_lakes40": {
-        "name": "The High Plains"
+        "name": "The High Plains",
+        "da": "the"
     },
     "uir2_lakes34": {
-        "name": "The winding maze"
+        "name": "The winding maze",
+        "da": "the"
     },
     "uir2_lakes06": {
-        "name": "Twilight Pass"
+        "name": "Twilight Pass",
+        "da": "the"
     },
     "uir2_lakes01": {
-        "name": "Green Lagoon"
+        "name": "Green Lagoon",
+        "da": "the"
     },
     "uir2_lakes25": {
-        "name": "Gorges of Sitra"
+        "name": "Gorges of Sitra",
+        "da": "the"
     },
     "uir2_lakes20": {
-        "name": "Hundred Ways"
+        "name": "Hundred Ways",
+        "da": "the"
     },
     "uir2_lakes23": {
-        "name": "The Yubo Cave"
+        "name": "The Yubo Cave",
+        "da": "the"
     },
     "uir2_lakes17": {
-        "name": "Through the Cliff"
+        "name": "Through the Cliff",
+        "da": "the"
     },
     "uir2_lakes24": {
-        "name": "The Neck"
+        "name": "The Neck",
+        "da": "the"
     },
     "uir2_lakes39": {
-        "name": "The Bolas"
+        "name": "The Bolas",
+        "da": "the"
     },
     "uir2_lakes30": {
-        "name": "The K"
+        "name": "The K",
+        "da": "the"
     },
     "uir2_lakes32": {
-        "name": "Sunny Path"
+        "name": "Sunny Path",
+        "da": "the"
     },
     "uir2_lakes15": {
-        "name": "The Inland Sea"
+        "name": "The Inland Sea",
+        "da": "the"
     },
     "uir2_lakes28": {
-        "name": "Tears of Sky"
+        "name": "Tears of Sky",
+        "da": "the"
     },
     "uir2_lakes35": {
-        "name": "The Two Caches"
+        "name": "The Two Caches",
+        "da": "the"
     },
     "uir2_lakes10": {
-        "name": "Mystic Mere"
+        "name": "Mystic Mere",
+        "da": "the"
     },
     "uir2_lakes08": {
-        "name": "Messab Triangle"
+        "name": "Messab Triangle",
+        "da": "the"
     },
     "uir2_lakes12": {
-        "name": "Vale of Ponds"
+        "name": "Vale of Ponds",
+        "da": "the"
     },
     "uir2_lakes16": {
-        "name": "Reclaimed Dunes"
+        "name": "Reclaimed Dunes",
+        "da": "the"
     },
     "uir2_lakes33": {
-        "name": "The Narrow staircase"
+        "name": "The Narrow staircase",
+        "da": "the"
     },
     "uir2_lakes27": {
-        "name": "Dacoco Beach"
+        "name": "Dacoco Beach",
+        "da": "the"
     },
     "uir2_lakes22": {
-        "name": "Hidden crannies"
+        "name": "Hidden crannies",
+        "da": "the"
     },
     "uir2_lakes02": {
-        "name": "Hidden Archipelago"
+        "name": "Hidden Archipelago",
+        "da": "the"
     },
     "uir2_lakes19": {
-        "name": "Hidden Valley"
+        "name": "Hidden Valley",
+        "da": "the"
     },
     "uir2_lakes36": {
-        "name": "Raskous Corner"
+        "name": "Raskous Corner",
+        "da": "the"
     },
     "uir2_lakes26": {
-        "name": "The Hike"
+        "name": "The Hike",
+        "da": "the"
     },
     "uir2_lakes11": {
-        "name": "The Trident"
+        "name": "The Trident",
+        "da": "the"
     },
     "uir2_lakes03": {
-        "name": "Two-Isles"
+        "name": "Two-Isles",
+        "da": "the"
     },
     "uir2_lakes05": {
-        "name": "Three Peaks Valley"
+        "name": "Three Peaks Valley",
+        "da": "the"
     },
     "uir2_lakes29": {
-        "name": "Clopper`s claw"
+        "name": "Clopper`s claw",
+        "da": "the"
     },
     "uir2_lakes31": {
-        "name": "The Clash"
+        "name": "The Clash",
+        "da": "the"
     },
     "uir2_lakes37": {
-        "name": "The Excavations"
+        "name": "The Excavations",
+        "da": "the"
     },
     "uir2_lakes04": {
-        "name": "Clopper Bath"
+        "name": "Clopper Bath",
+        "da": "the"
     },
     "uir2_lakes14": {
-        "name": "The Archway"
+        "name": "The Archway",
+        "da": "the"
     },
     "uir2_lakes09": {
-        "name": "Waterdell Lake"
+        "name": "Waterdell Lake",
+        "da": "the"
     },
     "uir2_lakes07": {
-        "name": "Dunes of Dawn"
+        "name": "Dunes of Dawn",
+        "da": "the"
     },
     "uir2_lakes21": {
-        "name": "Voyage of Dreams"
+        "name": "Voyage of Dreams",
+        "da": "the"
     },
     "uir2_lakes18": {
-        "name": "Liberty Land"
+        "name": "Liberty Land",
+        "da": "the"
     },
     "uir2_lakes38": {
-        "name": "The Niches"
+        "name": "The Niches",
+        "da": "the"
     },
     "uir2_primes30": {
-        "name": "An Ancient Hide"
+        "name": "An Ancient Hide",
+        "da": "the"
     },
     "uir2_primes22": {
-        "name": "Mount of Curses"
+        "name": "Mount of Curses",
+        "da": "the"
     },
     "uir2_primes21": {
-        "name": "Springs of Life"
+        "name": "Springs of Life",
+        "da": "the"
     },
     "uir2_primes23": {
-        "name": "Unknown Mound"
+        "name": "Unknown Mound",
+        "da": "the"
     },
     "uir2_primes15": {
-        "name": "Stalagmites of Quietude"
+        "name": "Stalagmites of Quietude",
+        "da": "the"
     },
     "uir2_primes05": {
-        "name": "The Bath of Sap"
+        "name": "The Bath of Sap",
+        "da": "the"
     },
     "uir2_primes29": {
-        "name": "The Shining Cave"
+        "name": "The Shining Cave",
+        "da": "the"
     },
     "uir2_primes20": {
-        "name": "Valley of Death"
+        "name": "Valley of Death",
+        "da": "the"
     },
     "uir2_primes01": {
-        "name": "Hall of Destiny"
+        "name": "Hall of Destiny",
+        "da": "the"
     },
     "uir2_primes19": {
-        "name": "Tunnels of Oblvion"
+        "name": "Tunnels of Oblvion",
+        "da": "the"
     },
     "uir2_primes09": {
-        "name": "River of Doubts"
+        "name": "River of Doubts",
+        "da": "the"
     },
     "uir2_primes14": {
-        "name": "Sanctuary"
+        "name": "Sanctuary",
+        "da": "the"
     },
     "uir2_primes16": {
-        "name": "Eye of Ma-Duk"
+        "name": "Eye of Ma-Duk",
+        "da": "the"
     },
     "uir2_primes25": {
-        "name": "Maro`s Steps"
+        "name": "Maro`s Steps",
+        "da": "the"
     },
     "uir2_primes28": {
-        "name": "Forest of Light"
+        "name": "Forest of Light",
+        "da": "the"
     },
     "uir2_primes27": {
-        "name": "Fallen Stump"
+        "name": "Fallen Stump",
+        "da": "the"
     },
     "uir2_primes18": {
-        "name": "To the End of the Nightmare"
+        "name": "To the End of the Nightmare",
+        "da": "the"
     },
     "uir2_primes10": {
-        "name": "Kitins Lair"
+        "name": "Kitins Lair",
+        "da": "the"
     },
     "uir2_primes08": {
-        "name": "The Nest"
+        "name": "The Nest",
+        "da": "the"
     },
     "uir2_primes26": {
-        "name": "Neverending Walk"
+        "name": "Neverending Walk",
+        "da": "the"
     },
     "uir2_primes03": {
-        "name": "Green-cave"
+        "name": "Green-cave",
+        "da": "the"
     },
     "uir2_primes13": {
-        "name": "The Arena"
+        "name": "The Arena",
+        "da": "the"
     },
     "uir2_primes17": {
-        "name": "Abandoned Cave"
+        "name": "Abandoned Cave",
+        "da": "the"
     },
     "uir2_primes06": {
-        "name": "The Pillars"
+        "name": "The Pillars",
+        "da": "the"
     },
     "uir2_primes04": {
-        "name": "Plain of Torments"
+        "name": "Plain of Torments",
+        "da": "the"
     },
     "uir2_primes24": {
-        "name": "Kitin Desolation"
+        "name": "Kitin Desolation",
+        "da": "the"
     },
     "uir2_primes07": {
-        "name": "Ruins of the Past"
+        "name": "Ruins of the Past",
+        "da": "the"
     },
     "uir2_primes11": {
-        "name": "Valley of Spores"
+        "name": "Valley of Spores",
+        "da": "the"
     },
     "uir2_primes12": {
-        "name": "The Hive"
+        "name": "The Hive",
+        "da": "the"
     }
 }

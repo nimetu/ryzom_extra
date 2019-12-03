@@ -1,3657 +1,6581 @@
 {
     "acuratebleedingshot": {
         "name": "Disparo Sangrante Certero",
+        "ia": "un",
+        "da": "el",
         "p": "Disparos Sangrantes Certeros",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "acuratebreathlessshot": {
         "name": "Disparo sin Aliento Certero",
+        "ia": "un",
+        "da": "el",
         "p": "Disparos sin Aliento Certeros",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "animalslideslip": {
         "name": "Deslizamiento Animal",
+        "ia": "un",
+        "da": "el",
         "p": "Deslizamientos de animal",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "animalstalking": {
         "name": "Animal al Acecho",
+        "ia": "un",
+        "da": "el",
         "p": "Animales en Acecho",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "apothecary": {
         "name": "Boticario",
+        "ia": "un",
+        "da": "el",
         "p": "Boticarios",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "area": {
         "name": "Área",
+        "ia": "un",
+        "da": "el",
         "p": "Aéreas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "armorandweaponsmithing": {
         "name": "Herrería de armadura y Arma",
+        "ia": "",
+        "da": "",
         "p": "Herrería de armaduras y Armas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "artandcraft": {
         "name": "Arte y Artesanía",
+        "ia": "",
+        "da": "el",
         "p": "Artes y Artesanías",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "attackkamisknowledge": {
         "name": "Ataque al Conocimiento Kamis",
+        "ia": "un",
+        "da": "el",
         "p": "Ataques al Conocimiento Kamis",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "atysianregeneration": {
         "name": "Regeneración atysiana",
+        "ia": "una",
+        "da": "la",
         "p": "Regeneraciones atysianas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "axe": {
         "name": "Hacha",
+        "ia": "un",
+        "da": "el",
         "p": "Hachas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "backdraftstab": {
         "name": "Puñalada trasera o por la espalda",
+        "ia": "a",
+        "da": "la",
         "p": "Puñaladas traseras o por la espalda",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "badluck": {
         "name": "Mala Suerte",
+        "ia": "un",
+        "da": "la",
         "p": "Mala Suerte",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "barehandedcombat": {
         "name": "Combate con las manos Vacías",
+        "ia": "un",
+        "da": "el",
         "p": "Combates con las manos Vacías",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "bersekattack": {
         "name": "Ataque Enloquecido",
+        "ia": "un",
+        "da": "el",
         "p": "Ataques Enloquecidos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "blacksmithing": {
         "name": "Herrería",
+        "ia": "",
+        "da": "",
         "p": "Herrería",
+        "pia": "",
+        "pda": "",
         "description": ""
     },
     "bleeding": {
         "name": "Sangrado",
+        "ia": "",
+        "da": "",
         "p": "Sangrados",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "blindingrage": {
         "name": "Furia Cegadora",
+        "ia": "una",
+        "da": "la",
         "p": "Furias Cegadoras",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "blindshot": {
         "name": "Disparo a Ciegas",
+        "ia": "un",
+        "da": "e",
         "p": "Disparos a Ciegas",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "bowgun": {
         "name": "Arma de arco",
+        "ia": "un",
+        "da": "el",
         "p": "Armas de arco",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "bowpistol": {
         "name": "Pistola de arco",
+        "ia": "una",
+        "da": "la",
         "p": "Pistolas de arco",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "building": {
         "name": "Edificio",
+        "ia": "",
+        "da": "",
         "p": "Edificios",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "bullyraggingblast": {
         "name": "",
+        "ia": "unas",
+        "da": "las",
         "p": "Explosiones de Ofensas y Burlas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "camouflage": {
         "name": "Camuflaje",
+        "ia": "un",
+        "da": "el",
         "p": "Camuflajes",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "caravan": {
         "name": "Karavan",
+        "ia": "un",
+        "da": "el",
         "p": "Karavans",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "cerebralfever": {
         "name": "Fiebre Cerebral",
+        "ia": "una",
+        "da": "la",
         "p": "Fiebres Cerebrales",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "clothtailoring": {
         "name": "Tela de confección",
+        "ia": "",
+        "da": "",
         "p": "Telas de confección",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "cooking": {
         "name": "Cocina",
+        "ia": "",
+        "da": "",
         "p": "Cocina",
+        "pia": "",
+        "pda": "la",
         "description": ""
     },
     "creaturehatred": {
         "name": "Criatura Odiada",
+        "ia": "una",
+        "da": "la",
         "p": "Criaturas Odiadas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "dagger": {
         "name": "Daga",
+        "ia": "un",
+        "da": "la",
         "p": "Dagas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "desert": {
         "name": "Desierto",
+        "ia": "un",
+        "da": "el",
         "p": "Desiertos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "desertexoticrawmaterialknowledge": {
         "name": "Conocimiento de materias primas exóticas del desierto",
+        "ia": "un",
+        "da": "e",
         "p": "Conocimientos de materias primas exóticas del desierto",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "desertkamisknowledge": {
         "name": "Conocimiento del desierto-Kamis",
+        "ia": "un",
+        "da": "el",
         "p": "Conocimiento del desierto-Kamis",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "deserttravel": {
         "name": "Viaje al Desierto",
+        "ia": "un",
+        "da": "e",
         "p": "Viajes al Desierto",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "digging": {
         "name": "Excavación",
+        "ia": "",
+        "da": "",
         "p": "Excavaciones",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "discreetapproach": {
         "name": "Acercamiento Discreto",
+        "ia": "un",
+        "da": "el",
         "p": "Acercamientos Discretos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "diving": {
         "name": "Buceo",
+        "ia": "",
+        "da": "",
         "p": "Buceos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "dodging": {
         "name": "Evasión",
+        "ia": "una",
+        "da": "la",
         "p": "Evasiones",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "dragon": {
         "name": "Dragón",
+        "ia": "un",
+        "da": "el",
         "p": "Dragones",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "dryade": {
         "name": "Driada",
+        "ia": "una",
+        "da": "la",
         "p": "Driadas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "dualwield": {
         "name": "Arma en Cada mano",
+        "ia": "un",
+        "da": "el",
         "p": "Armas en Ambas manos",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "evaluate": {
         "name": "Huida",
+        "ia": "una",
+        "da": "la",
         "p": "Huidas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "farshot": {
         "name": "Tiro Lejano",
+        "ia": "un",
+        "da": "el",
         "p": "Tiros Lejanos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "farthrow": {
         "name": "Lanzamiento Lejano",
+        "ia": "un",
+        "da": "el",
         "p": "Lanzamientos Lejanos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "feverprotect": {
         "name": "Protector contra la fiebre",
+        "ia": "un",
+        "da": "el",
         "p": "Protectores contra la Fiebre",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "firstaid": {
         "name": "Primeros Auxilios",
+        "ia": "unos",
+        "da": "los",
         "p": "Primeros Auxilios",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "fishing": {
         "name": "Pesca",
+        "ia": "",
+        "da": "",
         "p": "Pescas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "forest": {
         "name": "Bosque",
+        "ia": "una",
+        "da": "el",
         "p": "Bosques",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "forestexoticrawmaterialknowledge": {
         "name": "Conocimiento de materia Prima de exótica del Bosque",
+        "ia": "un",
+        "da": "el",
         "p": "Conocimientos de materia Prima Exótica del Bosque",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "forestkamisknowledge": {
         "name": "Conocimiento del Bosque-Kami",
+        "ia": "un",
+        "da": "el",
         "p": "Conocimientos del Bosque-Kami",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "foresttravel": {
         "name": "Viaje al Bosque",
+        "ia": "un",
+        "da": "el",
         "p": "Viajes al Bosque",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "frost": {
         "name": "Escarcha\/Helada",
+        "ia": "una",
+        "da": "la",
         "p": "Escarchas\/Heladas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "fyros": {
         "name": "Fyros",
+        "ia": "un",
+        "da": "el",
         "p": "Fyros",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "fyrosgoods": {
         "name": "Mercancía Fyros",
+        "ia": "",
+        "da": "",
         "p": "Mercancías Fyros",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "goo": {
         "name": "Goo",
+        "ia": "",
+        "da": "el",
         "p": "Goo",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "greataxe": {
         "name": "Gran Hacha",
+        "ia": "un",
+        "da": "el",
         "p": "Grandes Hachas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "greatmass": {
         "name": "Gran mazo",
+        "ia": "un",
+        "da": "el",
         "p": "Grandes mazos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "grenade": {
         "name": "Granada",
+        "ia": "una",
+        "da": "la",
         "p": "Granadas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "groundextract": {
         "name": "Extracto del Suelo",
+        "ia": "un",
+        "da": "el",
         "p": "Extractos del Suelo",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "handtohand": {
         "name": "Mano a mano",
+        "ia": "una",
+        "da": "la",
         "p": "Mano a mano",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "harpoon": {
         "name": "Arpón",
+        "ia": "un",
+        "da": "el",
         "p": "Arpones",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "harpoonhunting": {
         "name": "Cacería Bajo el Agua",
+        "ia": "una",
+        "da": "la",
         "p": "Cacerías Bajo el Agua",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "harvest": {
         "name": "Cosecha",
+        "ia": "una",
+        "da": "la",
         "p": "Cosechas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "healingkamisknowledge": {
         "name": "Conocimiento de curacion-Kami",
+        "ia": "un",
+        "da": "el",
         "p": "Conocimientos de curación Kami",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "hearwithering": {
         "name": "Marchitez sonora",
+        "ia": "una",
+        "da": "la",
         "p": "Marchiteces Sonoras",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "heavyarmourwear": {
         "name": "Vestir Armadura Pesada",
+        "ia": "una",
+        "da": "la",
         "p": "Vestir Armaduras Pesadas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "heavyweapon": {
         "name": "Arma Pesada",
+        "ia": "un",
+        "da": "el",
         "p": "Armas Pesadas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "hide": {
         "name": "Escondites",
+        "ia": "un",
+        "da": "el",
         "p": "Escondites",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "hominopponentconsiderweapon": {
         "name": "Homin",
+        "ia": "a",
+        "da": "the",
         "p": "Consideraciones Homin",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "huntingkamisknowledge": {
         "name": "Conocimiento de caceria-Kami",
+        "ia": "un",
+        "da": "el",
         "p": "Conocimientos de caceria-Kami",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "jewellery": {
         "name": "Joya",
+        "ia": "",
+        "da": "la",
         "p": "Joyas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "jungle": {
         "name": "Selva",
+        "ia": "una",
+        "da": "la",
         "p": "Selvas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "jungleexoticrawmaterialknowledge": {
         "name": "Conocimiento de materia Prima Exótica de la Selva",
+        "ia": "un",
+        "da": "el",
         "p": "Conocimientos de materias Primas Exóticas de la Selva",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "junglekamisknowledge": {
         "name": "Conocimiento Kami de la Selva",
+        "ia": "un",
+        "da": "el",
         "p": "Conocimientos Kami de la Selva",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "jungletravel": {
         "name": "Viaje a la Jungla",
+        "ia": "un",
+        "da": "el",
         "p": "Viajes a la Jungla",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "kami": {
         "name": "Kami",
+        "ia": "un",
+        "da": "el",
         "p": "Kamis",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "kamicshield": {
         "name": "Escudo Kamic",
+        "ia": "un",
+        "da": "el",
         "p": "Escudos Kamis",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "kamicshock": {
         "name": "Choque Kami",
+        "ia": "un",
+        "da": "e",
         "p": "Choques Kamkis",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "kick": {
         "name": "Patada",
+        "ia": "una",
+        "da": "la",
         "p": "Patadas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "kitin": {
         "name": "Kitin",
+        "ia": "un",
+        "da": "el",
         "p": "Kitin",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "lake": {
         "name": "Lago",
+        "ia": "un",
+        "da": "el",
         "p": "Lagos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "lakearmor": {
         "name": "Armadura los Lagos",
+        "ia": "",
+        "da": "la",
         "p": "Armaduras los Lagos",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "lakeexoticrawmaterialknowledge": {
         "name": "Conocimiento de la materia prima exótica del lago",
+        "ia": "un",
+        "da": "el",
         "p": "Conocimientos de la materia prima exótica del lago",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "lakekamisknowledge": {
         "name": "Conocimiento Kami del lago",
+        "ia": "un",
+        "da": "el",
         "p": "Conocimientos Kamis del lago",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "laketravel": {
         "name": "Viaje al Lago",
+        "ia": "un",
+        "da": "el",
         "p": "Viajes al Lago",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "leadanimal": {
         "name": "Animal Guía",
+        "ia": "un",
+        "da": "el",
         "p": "Animales Guías",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "leathertailoring": {
         "name": "Confección de cuero",
+        "ia": "una",
+        "da": "la",
         "p": "Confecciones de cueros",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "lefthandedattack": {
         "name": "Ataque con la mano izquierda",
+        "ia": "un",
+        "da": "el",
         "p": "Ataques con la mano izquierda",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "lefthandedparry": {
         "name": "Desvío entregado por la izquierda",
+        "ia": "un",
+        "da": "el",
         "p": "Desvíos entregados por la izquierda",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "lifealchemy": {
         "name": "Alquimia de Vida",
+        "ia": "una",
+        "da": "la",
         "p": "Alquimias de Vida",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "lifegift": {
         "name": "Regalo de Vida",
+        "ia": "un",
+        "da": "el",
         "p": "Regalos de Vida",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "lightarmourwear": {
         "name": "Llevar\/portar Armadura liviana",
+        "ia": "una",
+        "da": "la",
         "p": "Llevar\/portar Armaduras livianas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "madness": {
         "name": "Locura",
+        "ia": "una",
+        "da": "la",
         "p": "Locuras",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "magicobjects": {
         "name": "Objeto mágico",
+        "ia": "",
+        "da": "",
         "p": "Objetos mágicos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "magictransfert": {
         "name": "Transferencia mágica",
+        "ia": "una",
+        "da": "la",
         "p": "Transferencias mágicas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "majordryade": {
         "name": "Driada Principal",
+        "ia": "una",
+        "da": "la",
         "p": "Driadas Principales",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "majorheallife": {
         "name": "Curacion de Vida Principal",
+        "ia": "una",
+        "da": "la",
         "p": "Curaciones de Vida Principales",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "majorliferegeneration": {
         "name": "Regeneracion de Vida Principal",
+        "ia": "una",
+        "da": "la",
         "p": "Regeneraciones de Vida Principales",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "majormandragore": {
         "name": "Mandragore Principal",
+        "ia": "un",
+        "da": "el",
         "p": "Mandragores Principales",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "majorsapheal": {
         "name": "Curacion de Savia Principal",
+        "ia": "una",
+        "da": "la",
         "p": "Curaciones de Savia Principales",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "majorsapregenearation": {
         "name": "Regeneracion de Savia Principal",
+        "ia": "una",
+        "da": "la",
         "p": "Regeneraciones de Savia Principales",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "majorsylve": {
         "name": "Sylve Principal",
+        "ia": "una",
+        "da": "la",
         "p": "Sylves Principales",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "majortirednessheal": {
         "name": "Curacion del Cansancio Principal",
+        "ia": "una",
+        "da": "la",
         "p": "Curaciones del Cansancio Principales",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "majortirednessregenearation": {
         "name": "Regeneracion del Cansancio Principal",
+        "ia": "una",
+        "da": "la",
         "p": "Regeneraciones del Cansancio Principales",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makeanklet": {
         "name": "Fabricar Tobillera",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricar Tobilleras",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makeautolaunch": {
         "name": "Fabricar Autolanzador",
+        "ia": "un",
+        "da": "el",
         "p": "Fabricar Autolanzadores",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "makeautolaunchammo": {
         "name": "Make Autolauncher Ammo",
+        "ia": "a",
+        "da": "the",
         "p": "Make Autolauncher Ammo",
+        "pia": "",
+        "pda": "the",
         "description": ""
     },
     "makeaxe": {
         "name": "Fabricar Hacha",
+        "ia": "un",
+        "da": "el",
         "p": "Fabricar Hachas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makebag": {
         "name": "Fabricar Bolso",
+        "ia": "un",
+        "da": "el",
         "p": "Fabricar Bolsos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "makebowgun": {
         "name": "Fabricar Arma de arco",
+        "ia": "un",
+        "da": "la",
         "p": "Fabricar Armas de arco",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makebowgunammo": {
         "name": "Fabricar munición de armas de arco",
+        "ia": "un",
+        "da": "la",
         "p": "Fabricar municiones de arma de arco",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makebracelet": {
         "name": "Fabricar Brazalete",
+        "ia": "un",
+        "da": "el",
         "p": "Fabricar Brazaletes",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "makebuckler": {
         "name": "Fabricar Escudos de defensa",
+        "ia": "un",
+        "da": "el",
         "p": "Fabricar Escudos de defensa",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "makeclothes": {
         "name": "Fabricar Ropa",
+        "ia": "un",
+        "da": "la",
         "p": "Fabricar Ropas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makedagger": {
         "name": "Fabricar Daga",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricar Dagas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makediadem": {
         "name": "Fabricar Diadema",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricar Diademas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makeearing": {
         "name": "Fabricar Arete",
+        "ia": "un",
+        "da": "el",
         "p": "Fabricar Aretes",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "makefireammos": {
         "name": "Fabricar munición Incendiaria",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricar municiones Incendiarias",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makefiretoughenedarmors": {
         "name": "Fabricar Armadura Templada al Fuego",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricar Armaduras Templadas al Fuego",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makefireweapons": {
         "name": "Fabricar Arma de Fuego",
+        "ia": "un",
+        "da": "el",
         "p": "Fabricar Armas de Fuego",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makeflorallivingjewels": {
         "name": "Fabricar joya  de flores vivas",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricar joyas de flores vivas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makefloralpatternlivingclothes": {
         "name": "Fabricar ropa de flores viva",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricar ropas de flores vivas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makegrenade": {
         "name": "Fabricar Granada",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricar Granadas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makeharpoongun": {
         "name": "Fabricar un Arma de arpón",
+        "ia": "un",
+        "da": "el",
         "p": "Fabricar Armas de arpón",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makeharpoongunammo": {
         "name": "Fabricar munición del Arma de arpón",
+        "ia": "una",
+        "da": "el",
         "p": "Fabricar municiones de armas de arpón",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makeheavyarmors": {
         "name": "Fabricar Armadura Pesada",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricar Armaduras Pesadas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makeheavyboots": {
         "name": "Fabricar Botas Pesadas",
+        "ia": "unas",
+        "da": "las",
         "p": "Fabricar Botas Pesadas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makeheavygloves": {
         "name": "Fabricar Guantes pesados",
+        "ia": "unos",
+        "da": "los",
         "p": "Fabricar Guantes pesados",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "makeheavyhelmet": {
         "name": "Fabricar Cascos pesados",
+        "ia": "unos",
+        "da": "los",
         "p": "Fabricar Cascos pesados",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "makeheavypants": {
         "name": "Fabricar Pantalones pesados",
+        "ia": "unos",
+        "da": "los",
         "p": "Fabricar Pantalones pesados",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "makeheavysleeves": {
         "name": "Fabricar mangas Pesadas",
+        "ia": "unas",
+        "da": "las",
         "p": "Fabricar mangas Pesadas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makeheavyvest": {
         "name": "Fabricar Chalecos pesados",
+        "ia": "unos",
+        "da": "los",
         "p": "Fabricar Chalecos pesados",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "makejewels": {
         "name": "Fabricar Joyas",
+        "ia": "unas",
+        "da": "las",
         "p": "Fabricar Joyas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makekamicclothes": {
         "name": "Fabricar Ropa Kami",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricar Ropas Kami",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makekamicjewels": {
         "name": "Fabricar Joyas Kami",
+        "ia": "unas",
+        "da": "las",
         "p": "Fabricar Joyas Kami",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makekamicweapon": {
         "name": "Fabricar Armas Kami",
+        "ia": "unas",
+        "da": "las",
         "p": "Fabricar Armas Kami",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makelance": {
         "name": "Fabricar Lanza",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricar Lanzas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makelauncher": {
         "name": "Fabricar Lanzador",
+        "ia": "un",
+        "da": "el",
         "p": "Fabricar Lanzadores",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "makelauncherammo": {
         "name": "Fabricar munición de Lanzador",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricar municiones de Lanzador",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makelightboots": {
         "name": "Fabricar Botas ligeras",
+        "ia": "unas",
+        "da": "las",
         "p": "Fabricar Botas ligeras",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makelightgloves": {
         "name": "Fabricar Guantes liviano",
+        "ia": "unos",
+        "da": "los",
         "p": "Fabricar Guantes ligeros",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "makelighthelmet": {
         "name": "Fabricar Casco liviano",
+        "ia": "un",
+        "da": "el",
         "p": "Fabricar Cascos livianos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "makelightpants": {
         "name": "Fabricar Pantalones livianos",
+        "ia": "unos",
+        "da": "los",
         "p": "Fabricar Pantalones livianos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "makelightsleeves": {
         "name": "Fabricar mangas livianas",
+        "ia": "unas",
+        "da": "las",
         "p": "Fabricar mangas livianas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makelightvest": {
         "name": "Fabricar Chaleco liviano",
+        "ia": "un",
+        "da": "el",
         "p": "Fabricar Chaleco liviano",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "makelongaxe": {
         "name": "Fabricar Hacha Larga",
+        "ia": "una",
+        "da": "el",
         "p": "Fabricar Hachas Largas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makelongmace": {
         "name": "Fabricar mazo Largo",
+        "ia": "un",
+        "da": "el",
         "p": "Fabricar mazos Largos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "makelongsword": {
         "name": "Fabricar Espada Larga",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricar Espadas Largas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makemace": {
         "name": "Fabricar mazo",
+        "ia": "un",
+        "da": "el",
         "p": "Fabricar mazos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "makemediumarmors": {
         "name": "Fabricar Armadura mediana",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricar Armaduras medianas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makemediumboots": {
         "name": "Fabricar Botas medianas",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricar Botas medianas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makemediumgloves": {
         "name": "Fabricar Guantes medianos",
+        "ia": "unos",
+        "da": "los",
         "p": "Fabricar Guantes medianos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "makemediumhelmet": {
         "name": "Fabricar Casco mediano",
+        "ia": "un",
+        "da": "el",
         "p": "Fabricar Cascos medianos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "makemediumpants": {
         "name": "Fabricar Pantalones medianos",
+        "ia": "unos",
+        "da": "los",
         "p": "Fabricar Pantalones medianos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "makemediumsleeves": {
         "name": "Fabricar mangas medianas",
+        "ia": "unas",
+        "da": "las",
         "p": "Fabricar mangas medianas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makemediumvest": {
         "name": "Fabricar Chaleco mediano",
+        "ia": "un",
+        "da": "el",
         "p": "Fabricar Chalecos medianos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "makemeleeweapons": {
         "name": "Fabricar Arma de lucha cuerpo a cuerpo",
+        "ia": "un",
+        "da": "el",
         "p": "Fabricar Armas de lucha cuerpo a cuerpo",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makependant": {
         "name": "Fabricar Pendiente",
+        "ia": "un",
+        "da": "el",
         "p": "Fabricar Pendientes",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "makepike": {
         "name": "Fabricar Pico",
+        "ia": "un",
+        "da": "el",
         "p": "Fabricar Picos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "makepistol": {
         "name": "Fabricar Pistola",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricar Pistolas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makepistolammo": {
         "name": "Fabricar munición de pistola",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricar municiones de pistola",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makepistolarc": {
         "name": "Fabricar Pistola de arco",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricar Pistolas de arco",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makepistolarcammo": {
         "name": "Fabricar munición de pistola de arco",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricar municiones de pistola de arco",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makepoisonnouslivingweapons": {
         "name": "Fabricar Arma Venenosa Viva",
+        "ia": "un",
+        "da": "el",
         "p": "Fabricar Armas Venenosas Vivas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makerangeweaponammos": {
         "name": "Fabricar munición de arma de alcance",
+        "ia": "una",
+        "da": "el",
         "p": "Fabricar municiones de armas de tiro",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makerangeweapons": {
         "name": "Fabricar Arma de alcance",
+        "ia": "un",
+        "da": "el",
         "p": "Fabricar Armas de alcance",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makerifle": {
         "name": "Fabricar Rifle",
+        "ia": "un",
+        "da": "el",
         "p": "Fabricar Rifles",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "makerifleammo": {
         "name": "Fabricar munición de rifle",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricar municiones de rifle",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makering": {
         "name": "Fabricar Anillo",
+        "ia": "un",
+        "da": "el",
         "p": "Fabricar Anillos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "makeshield": {
         "name": "Fabricar Escudo",
+        "ia": "un",
+        "da": "el",
         "p": "Fabricar Escudos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "makeshiftrepair": {
         "name": "Reparación Improvisada",
+        "ia": "una",
+        "da": "la",
         "p": "Reparaciones Improvisadas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makesurvivaltools": {
         "name": "Fabricar Herramienta de Supervivencia",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricar Herramientas de Supervivencia",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makesurvivalweapon": {
         "name": "Fabricar Arma de Supervivencia",
+        "ia": "un",
+        "da": "el",
         "p": "Fabricar Armas de Supervivencia",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makesword": {
         "name": "Fabricar Espada",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricar Espadas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makethrowingweapon": {
         "name": "Fabricar Arma de Lanzamiento",
+        "ia": "un",
+        "da": "el",
         "p": "Fabricar Armas de Lanzamiento",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "maketools": {
         "name": "Fabricar Herramienta",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricar Herramientas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "maketwo_handsmeleeweapons": {
         "name": "Fabricar Arma de Lucha Cuerpo de cuerpo de dos manos",
+        "ia": "una",
+        "da": "el",
         "p": "Fabricar Arma de lucha cuerpo a cuerpo de dos manos",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "maketwo_handsrangeweaponammos": {
         "name": "Fabricar munición de armas de lucha cuerpo a cuerpo de dos manos",
+        "ia": "una",
+        "da": "ka",
         "p": "Fabricar municiones de armas de lucha cuerpo a cuerpo",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "maketwo_handsrangeweapons": {
         "name": "Fabricar Arma de alcance de dos manos",
+        "ia": "un",
+        "da": "el",
         "p": "Fabricar Armas de alcance de dos manos",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "mandragore": {
         "name": "Mandrágora",
+        "ia": "un",
+        "da": "el",
         "p": "Mandrágoras",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "mandrakefist": {
         "name": "Puno de madrake",
+        "ia": "un",
+        "da": "el",
         "p": "Puños de mandrake",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "mass": {
         "name": "Mazos",
+        "ia": "un",
+        "da": "el",
         "p": "Mazos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "massivethrow": {
         "name": "Lanzamiento masivo",
+        "ia": "un",
+        "da": "el",
         "p": "Lanzamientos masivos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "matis": {
         "name": "Matis",
+        "ia": "un",
+        "da": "el",
         "p": "Matis",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "matisgoods": {
         "name": "Mercancía Matis",
+        "ia": "",
+        "da": "",
         "p": "Mercancías Matis",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "matismystery": {
         "name": "Misterio Matis",
+        "ia": "un",
+        "da": "el",
         "p": "Misterios Matis",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "mechanic": {
         "name": "Mecánico",
+        "ia": "un",
+        "da": "el",
         "p": "Mecánicos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "mediumarmourwear": {
         "name": "Llevar Armadura mediana",
+        "ia": "una",
+        "da": "la",
         "p": "Llevar Armaduras medianas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "minorlifeheal": {
         "name": "Curación de Vida menor",
+        "ia": "una",
+        "da": "la",
         "p": "Curaciones de Vida menores",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "minorsapheal": {
         "name": "Curación de Sabia menor",
+        "ia": "una",
+        "da": "la",
         "p": "Curacionones de Savia menores",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "minortirednessheal": {
         "name": "Sanación de cansancio menor",
+        "ia": "una",
+        "da": "la",
         "p": "Sanaciones de cansancio menores",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "mirror": {
         "name": "Espejo",
+        "ia": "un",
+        "da": "el",
         "p": "Espejos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "muscularfever": {
         "name": "Fiebre muscular",
+        "ia": "una",
+        "da": "la",
         "p": "Fiebres musculares",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "nervousfever": {
         "name": "Fiebre Nerviosa",
+        "ia": "una",
+        "da": "la",
         "p": "Fiebres Nerviosas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "nightshot": {
         "name": "Disparo Nocturno",
+        "ia": "un",
+        "da": "el",
         "p": "Disparos Nocturnos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "nunb": {
         "name": "Adormedicimento",
+        "ia": "un",
+        "da": "el",
         "p": "Adormecimientos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "onhorsebackmelee": {
         "name": "Combate montado",
+        "ia": "un",
+        "da": "el",
         "p": "Combates montados",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "onhorsebackshoot": {
         "name": "Disparo montado",
+        "ia": "un",
+        "da": "el",
         "p": "Disparos montados",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "painshare": {
         "name": "Compartir el Dolor",
+        "ia": "un",
+        "da": "el",
         "p": "Compartir el Dolor",
+        "pia": "",
+        "pda": "el",
         "description": ""
     },
     "paralysis": {
         "name": "Parálisis",
+        "ia": "una",
+        "da": "la",
         "p": "Parálisis",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "pike": {
         "name": "Pico",
+        "ia": "un",
+        "da": "el",
         "p": "Picos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "pikehunting": {
         "name": "Cacería de la Criatura",
+        "ia": "una",
+        "da": "la",
         "p": "Cacerías de la Criatura",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "pistol": {
         "name": "Pistola",
+        "ia": "una",
+        "da": "la",
         "p": "Pistolas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "planthatred": {
         "name": "Planta de Odio",
+        "ia": "una",
+        "da": "la",
         "p": "Plantas de Odio",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "pointblankshot": {
         "name": "Disparo a Quemarropa",
+        "ia": "un",
+        "da": "el",
         "p": "Disparos a Quemarropa",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "primaryroots": {
         "name": "Primeras Raíces",
+        "ia": "unas",
+        "da": "las",
         "p": "Primeras Raíces",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "protectingkamisknoledge": {
         "name": "Protección de los Conocimientos Kamis",
+        "ia": "una",
+        "da": "la",
         "p": "Protección de los Conocimientos Kami",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "quartering": {
         "name": "Descuartizamiento",
+        "ia": "un",
+        "da": "el",
         "p": "Descuartizamientos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "quickshot": {
         "name": "Disparos Rápidos",
+        "ia": "un",
+        "da": "el",
         "p": "Disparos Rápidos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "quickthrow": {
         "name": "Tiro Rápido",
+        "ia": "un",
+        "da": "el",
         "p": "Tiros Rápidos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "range": {
         "name": "Guardabosque",
+        "ia": "un",
+        "da": "el",
         "p": "Guardabosques",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "rapidburst": {
         "name": "Ráfaga Rápida",
+        "ia": "una",
+        "da": "la",
         "p": "Ráfagas Rápidas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "resist": {
         "name": "Resistencia\/Oponerse",
+        "ia": "una",
+        "da": "la",
         "p": "Resistencias\/Oponerse",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "resistance": {
         "name": "Resistencia",
+        "ia": "una",
+        "da": "la",
         "p": "Resisencias",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "ridepackers": {
         "name": "Animal de carga Líder",
+        "ia": "un",
+        "da": "el",
         "p": "Animales de carga lideres",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "riding": {
         "name": "Cabalgata",
+        "ia": "una",
+        "da": "la",
         "p": "Cabalgatas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "rifle": {
         "name": "Rifle",
+        "ia": "un",
+        "da": "el",
         "p": "Rifles",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "riflehunting": {
         "name": "Disparo",
+        "ia": "un",
+        "da": "el",
         "p": "Disparos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "rocket": {
         "name": "Rocket",
+        "ia": "un",
+        "da": "el",
         "p": "Rockets",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "rocktabou": {
         "name": "Piedra Taboo",
+        "ia": "una",
+        "da": "la",
         "p": "Piedras Tabúes",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "rondache": {
         "name": "Rondache",
+        "ia": "un",
+        "da": "el",
         "p": "Rondaches",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "rot": {
         "name": "Podredumbre",
+        "ia": "un",
+        "da": "la",
         "p": "Prodredumbres",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "running": {
         "name": "Carrera",
+        "ia": "una",
+        "da": "la",
         "p": "Carreras",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "sapalchemy": {
         "name": "Alquimia de la Savia",
+        "ia": "una",
+        "da": "la",
         "p": "Alquimias de la Savia",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "saparmor": {
         "name": "Armadura de Savia",
+        "ia": "una",
+        "da": "la",
         "p": "Armaduras de Savia",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "sapgift": {
         "name": "Regalo de Savia",
+        "ia": "un",
+        "da": "el",
         "p": "Regalos de Savia",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "shield": {
         "name": "Escudo Kamic",
+        "ia": "un",
+        "da": "el",
         "p": "Escudos Kamis",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "shootandrun": {
         "name": "Tiro y Carrera",
+        "ia": "un",
+        "da": "el",
         "p": "Tiro y Carreras",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "shotprotect": {
         "name": "Protección del Tiro",
+        "ia": "una",
+        "da": "la",
         "p": "Protecciones a los Tiros",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "slowingbreath": {
         "name": "Desaceleración de la Respiración",
+        "ia": "una",
+        "da": "la",
         "p": "Desaceleración de las Reparaciones",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "slowinglife": {
         "name": "Desaceleración de la Vida",
+        "ia": "una",
+        "da": "la",
         "p": "Desaceleración de las Vidas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "spear": {
         "name": "Lanza",
+        "ia": "un",
+        "da": "la",
         "p": "Lanzas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "spelldeletion": {
         "name": "Cancelación del Hechizo",
+        "ia": "una",
+        "da": "la",
         "p": "Cancelación de los Hechizos",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "spellprotect": {
         "name": "Protección contra un Hechizo",
+        "ia": "un",
+        "da": "el",
         "p": "Protección contra los Hechizos",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "spurtingfire": {
         "name": "Brote de Fuego",
+        "ia": "un",
+        "da": "el",
         "p": "Brotes de Fuego",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "squandering": {
         "name": "Desperdicio",
+        "ia": "un",
+        "da": "el",
         "p": "Desperdicios",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "stallsetup": {
         "name": "Establecimiento de puesto",
+        "ia": "un",
+        "da": "el",
         "p": "Establecimiento de puestos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "stealbreath": {
         "name": "Robando Aliento",
+        "ia": "un",
+        "da": "el",
         "p": "Robando Alientos",
+        "pia": "",
+        "pda": "el",
         "description": ""
     },
     "steallife": {
         "name": "Robo de Vida",
+        "ia": "un",
+        "da": "el",
         "p": "Robo de Vidas",
+        "pia": "",
+        "pda": "el",
         "description": ""
     },
     "stealsap": {
         "name": "Robo de Savia",
+        "ia": "un",
+        "da": "el",
         "p": "Robo de Savia",
+        "pia": "",
+        "pda": "el",
         "description": ""
     },
     "stick": {
         "name": "Pentagrama",
+        "ia": "un",
+        "da": "el",
         "p": "Pentagramas",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "strenghtgift": {
         "name": "Regalo de Fuerza",
+        "ia": "un",
+        "da": "el",
         "p": "Regalos de Fuerza",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "swimming": {
         "name": "Nado",
+        "ia": "un",
+        "da": "el",
         "p": "Nados",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sword": {
         "name": "Espada",
+        "ia": "una",
+        "da": "la",
         "p": "Espadas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "sylphicslide": {
         "name": "Diapositiva de Silfide",
+        "ia": "una",
+        "da": "la",
         "p": "Diapositiva de Silfide",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "sylve": {
         "name": "Sylve",
+        "ia": "una",
+        "da": "la",
         "p": "Sylves",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "tactilewithering": {
         "name": "Marchitez táctil",
+        "ia": "una",
+        "da": "la",
         "p": "Marchiteces Táctiles",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "target": {
         "name": "Objetivo",
+        "ia": "un",
+        "da": "el",
         "p": "Objetivos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "terror": {
         "name": "Terror",
+        "ia": "un",
+        "da": "el",
         "p": "Terrores",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "tirednessalchemy": {
         "name": "Alquimia del Cansancio",
+        "ia": "una",
+        "da": "la",
         "p": "Alquimias del Cansancio",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "tracking": {
         "name": "Rastreo",
+        "ia": "un",
+        "da": "el",
         "p": "Rastreos\/Seguimientos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "tradingcenterknowledge": {
         "name": "Conocimiento del Centro de comercio",
+        "ia": "un",
+        "da": "el",
         "p": "Conocimientos del Centro de comercio",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "trainingagility": {
         "name": "Entrenamiento de agilidad",
+        "ia": "un",
+        "da": "el",
         "p": "Entrenamiento de agilidades",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "traininganimal": {
         "name": "Adiestramiento Animal",
+        "ia": "un",
+        "da": "el",
         "p": "Adiestramiento de animales",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "trainingcharisme": {
         "name": "Formación de carisma",
+        "ia": "una",
+        "da": "la",
         "p": "Formación de carismas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "trainingconstitution": {
         "name": "Constitución de entrenamiento",
+        "ia": "una",
+        "da": "la",
         "p": "Constituciones de entrenamiento",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "trainingdiseaseresist": {
         "name": "Entrenamiento para la Resistencia a la Enfermedad",
+        "ia": "un",
+        "da": "el",
         "p": "Entrenamiento para la Resistencia a las Enfermedades",
+        "pia": "",
+        "pda": "el",
         "description": ""
     },
     "trainingempathie": {
         "name": "Entrenamiento de la Empatía",
+        "ia": "un",
+        "da": "el",
         "p": "Entrenamiento de las Empatías",
+        "pia": "",
+        "pda": "el",
         "description": ""
     },
     "trainingfearresist": {
         "name": "Entrenamiento de resistencia al miedo",
+        "ia": "un",
+        "da": "el",
         "p": "Entrenamiento de resistencias al miedo",
+        "pia": "",
+        "pda": "el",
         "description": ""
     },
     "traininghp": {
         "name": "Entrenamiento de puntos de golpe 1",
+        "ia": "",
+        "da": "",
         "p": "Entrenamiento de puntos de golpe 1",
+        "pia": "",
+        "pda": "",
         "description": ""
     },
     "traininghp2": {
         "name": "Entrenamiento de puntos de golpe 2",
+        "ia": "",
+        "da": "",
         "p": "Entrenamiento de puntos de golpe 2",
+        "pia": "",
+        "pda": "",
         "description": ""
     },
     "traininghp3": {
         "name": "Entrenamiento de puntos de golpe 3",
+        "ia": "",
+        "da": "",
         "p": "Entrenamiento de puntos de golpe 3",
+        "pia": "",
+        "pda": "",
         "description": ""
     },
     "traininghp4": {
         "name": "Entrenamiento de puntos de golpe 4",
+        "ia": "",
+        "da": "",
         "p": "Entrenamiento de puntos de golpe 4",
+        "pia": "",
+        "pda": "",
         "description": ""
     },
     "trainingimpactresist": {
         "name": "Entrenamiento de la Resistencia al Impacto",
+        "ia": "un",
+        "da": "el",
         "p": "Entrenamiento de la Resistencias al Impacto",
+        "pia": "",
+        "pda": "el",
         "description": ""
     },
     "trainingintelligence": {
         "name": "Entrenamiento de la Inteligencia",
+        "ia": "un",
+        "da": "el",
         "p": "Entrenamiento de la Inteligencia",
+        "pia": "",
+        "pda": "el",
         "description": ""
     },
     "trainingmagicresist": {
         "name": "Entrenamiento de la Resistencia a la magia",
+        "ia": "un",
+        "da": "el",
         "p": "Entrenamiento de las Resistencias a la magia",
+        "pia": "",
+        "pda": "el",
         "description": ""
     },
     "trainingperception": {
         "name": "Entrenamiento de la Percepción",
+        "ia": "un",
+        "da": "el",
         "p": "Entrenamiento de las Percepciones",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "trainingseve": {
         "name": "Entrenamiento de la Savia",
+        "ia": "",
+        "da": "",
         "p": "Entrenamiento de la Savia",
+        "pia": "",
+        "pda": "",
         "description": ""
     },
     "trainingseve2": {
         "name": "Entrenamiento de la Savia 2",
+        "ia": "",
+        "da": "",
         "p": "Entrenamiento de la Savia 2",
+        "pia": "",
+        "pda": "",
         "description": ""
     },
     "trainingseve3": {
         "name": "Entrenamiento de la Savia 3",
+        "ia": "",
+        "da": "",
         "p": "Entrenamiento de la Savia 3",
+        "pia": "",
+        "pda": "",
         "description": ""
     },
     "trainingseve4": {
         "name": "Entrenamiento de la Savia 4",
+        "ia": "",
+        "da": "",
         "p": "Entrenamiento de la Savia 4",
+        "pia": "",
+        "pda": "",
         "description": ""
     },
     "trainingstamina": {
         "name": "Entrenamiento de la Resistencia",
+        "ia": "un",
+        "da": "el",
         "p": "Entrenamiento de la Resistencia",
+        "pia": "",
+        "pda": "el",
         "description": ""
     },
     "trainingstamina2": {
         "name": "Entrenamiento de la Resistencia 2",
+        "ia": "un",
+        "da": "el",
         "p": "Entrenamiento de la Resistencia 2",
+        "pia": "",
+        "pda": "",
         "description": ""
     },
     "trainingstamina3": {
         "name": "Entrenamiento de la Resistencia 3",
+        "ia": "un",
+        "da": "el",
         "p": "Entrenamiento de la Resistencia 3",
+        "pia": "",
+        "pda": "",
         "description": ""
     },
     "trainingstamina4": {
         "name": "Entrenamiento de la Resistencia 4",
+        "ia": "un",
+        "da": "el",
         "p": "Entrenamiento de la Resistencia 4",
+        "pia": "",
+        "pda": "",
         "description": ""
     },
     "trainingstrength": {
         "name": "Entrenamiento de la Fuerza",
+        "ia": "un",
+        "da": "el",
         "p": "Entrenamientos de las Fuerzas",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "trainingtechnoresist": {
         "name": "Entrenamiento de la Tecno Resistencia",
+        "ia": "un",
+        "da": "el",
         "p": "Entrenamientos de las Tecno Resistencias",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "trainingwellbalanced": {
         "name": "Entrenamiento del Buen Equilibrio",
+        "ia": "un",
+        "da": "el",
         "p": "Entrenamiento del Buen Equilibrio",
+        "pia": "",
+        "pda": "el",
         "description": ""
     },
     "trainingwill": {
         "name": "Entrenamiento de la Voluntad",
+        "ia": "un",
+        "da": "el",
         "p": "Entrenamiento de la Voluntad",
+        "pia": "",
+        "pda": "el",
         "description": ""
     },
     "tryker": {
         "name": "Tryker",
+        "ia": "un",
+        "da": "el",
         "p": "Trykers",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "trykergoods": {
         "name": "Mercancías Tryker",
+        "ia": "",
+        "da": "",
         "p": "Mercancías Trykers",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "trykermystery": {
         "name": "Misterio Tryker",
+        "ia": "un",
+        "da": "el",
         "p": "Misterios Trykers",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "twohandedcombat": {
         "name": "Combate a Dos manos",
+        "ia": "un",
+        "da": "el",
         "p": "Combates a Dos manos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "twohandssword": {
         "name": "Espadas de dos manos",
+        "ia": "una",
+        "da": "la",
         "p": "Espadas de dos manos",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "underwaterextract": {
         "name": "Extracto Submarino",
+        "ia": "un",
+        "da": "el",
         "p": "Extractos Submarinos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "visualwithering": {
         "name": "Marchitez Visual",
+        "ia": "una",
+        "da": "la",
         "p": "Marchiteces Visuales",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "vitalburst": {
         "name": "Estallido Vital",
+        "ia": "un",
+        "da": "el",
         "p": "Estallidos Vitales",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "warriorgift": {
         "name": "Regalo de guerrero",
+        "ia": "un",
+        "da": "el",
         "p": "Regalos de guerreros",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "weaponscutting": {
         "name": "Cortaduras de armas",
+        "ia": "unas",
+        "da": "las",
         "p": "Cortaduras de armas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "windarmor": {
         "name": "Armadura de Viento",
+        "ia": "una",
+        "da": "la",
         "p": "Armaduras de Viento",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "windgift": {
         "name": "Regalo de Viento",
+        "ia": "un",
+        "da": "el",
         "p": "Regalos de Viento",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "windshear": {
         "name": "Esquilado del Viento",
+        "ia": "un",
+        "da": "el",
         "p": "Esquilados del Viento",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "zorai": {
         "name": "Zoraï",
+        "ia": "un",
+        "da": "el",
         "p": "Zoraïs",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "zoraigoods": {
         "name": "Mercancías Zoraï",
+        "ia": "",
+        "da": "",
         "p": "Mercancías Zoraï",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "zoraimystery": {
         "name": "Misterio Zoraï",
+        "ia": "un",
+        "da": "el",
         "p": "Misterios Zoraï",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "trainingimpactresist2": {
         "name": "Entrenamiento para Resistir el Impacto 2",
+        "ia": "un",
+        "da": "el",
         "p": "Entrenamiento para Resistir los Impactos 2",
+        "pia": "",
+        "pda": "el",
         "description": ""
     },
     "trainingimpactresist3": {
         "name": "Entrenamiento para Resistir el Impacto 3",
+        "ia": "un",
+        "da": "el",
         "p": "Entrenamiento para Resistir el Impacto 3",
+        "pia": "",
+        "pda": "el",
         "description": ""
     },
     "trainingmagicresist2": {
         "name": "Entrenamiento para Resistir a la magia 2",
+        "ia": "un",
+        "da": "el",
         "p": "Entrenamiento para Resistir a la magia 3",
+        "pia": "",
+        "pda": "el",
         "description": ""
     },
     "trainingmagicresist3": {
         "name": "Entrenamiento para Resistir a la magia 3",
+        "ia": "un",
+        "da": "el",
         "p": "Entrenamiento para Resistir a la magia 3",
+        "pia": "",
+        "pda": "el",
         "description": ""
     },
     "makeenchantedweapons": {
         "name": "Fabricar Armas Encantadas",
+        "ia": "una",
+        "da": "el",
         "p": "Fabricar Armas Encantadas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makeenchantedarmors": {
         "name": "Fabricar Armadura Encantada",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricar Armaduras Encantadas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makevampiricweapons": {
         "name": "Fabricar Armas Vampíricas",
+        "ia": "unas",
+        "da": "las",
         "p": "Fabricar Armas Vampíricas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makeenchantedfloralpatternlivingclothes": {
         "name": "Fabricar Ropa Viva de estampado Floral Encantado",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricar Ropas Vivas de estampado Floral Encantado",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makedeadlyharpoongun": {
         "name": "Fabricar Arma de arpón mortal",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricar Armas de arpón mortal",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makehuntingarmors": {
         "name": "Fabricar Armadura para Cazar",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricar Armaduras para Cazar",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makeritualclothes": {
         "name": "Fabricar Traje de ritual",
+        "ia": "un",
+        "da": "el",
         "p": "Fabricar Trajes de ritual",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "makeritualjewels": {
         "name": "Fabricar Joyas de ritual",
+        "ia": "unas",
+        "da": "las",
         "p": "Fabricar Joyas de ritual",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "sc": {
         "name": "Artesanía",
+        "ia": "una",
+        "da": "la",
         "p": "Artesanías",
+        "pia": "",
+        "pda": "las",
         "description": "Artesanía"
     },
     "sm": {
         "name": "Magia",
+        "ia": "una",
+        "da": "la",
         "p": "Magias",
+        "pia": "",
+        "pda": "las",
         "description": "Magia"
     },
     "smt": {
         "name": "Magia de impacto",
+        "ia": "una",
+        "da": "la",
         "p": "Magias de impacto",
+        "pia": "",
+        "pda": "las",
         "description": "Magia dirigida"
     },
     "smtm": {
         "name": "Proyección mágica",
+        "ia": "una",
+        "da": "la",
         "p": "Proyecciones mágicas",
+        "pia": "",
+        "pda": "las",
         "description": "Misil mágico dirigido"
     },
     "smtmr": {
         "name": "Magia fundamental",
+        "ia": "una",
+        "da": "la",
         "p": "Magias fundamentales",
+        "pia": "",
+        "pda": "las",
         "description": "Misil mágico dirigido - Fundamental"
     },
     "smtmg": {
         "name": "Magia atysiana",
+        "ia": "una",
+        "da": "la",
         "p": "Magias atysianas",
+        "pia": "",
+        "pda": "las",
         "description": "Misil mágico dirigido - atysiano"
     },
     "smtmb": {
         "name": "Magia celestial",
+        "ia": "una",
+        "da": "la",
         "p": "Magias celestiales",
+        "pia": "",
+        "pda": "las",
         "description": "Misil mágico dirigido - celestial"
     },
     "smto": {
         "name": "Magia ofensiva",
+        "ia": "una",
+        "da": "la",
         "p": "Magias ofensivas",
+        "pia": "",
+        "pda": "las",
         "description": "Misil mágico dirigido ofensivo"
     },
     "smtod": {
         "name": "Magia física",
+        "ia": "una",
+        "da": "la",
         "p": "Magias físicas",
+        "pia": "",
+        "pda": "las",
         "description": "Misil mágico dirigido con daños físicos"
     },
     "smtodp": {
         "name": "Magia punzante",
+        "ia": "una",
+        "da": "la",
         "p": "Magias punzantes",
+        "pia": "",
+        "pda": "las",
         "description": "Misil mágico dirigido - perforación"
     },
     "smtodb": {
         "name": "Magia contundente",
+        "ia": "una",
+        "da": "la",
         "p": "Magias contundentes",
+        "pia": "",
+        "pda": "las",
         "description": "Misil mágico dirigido - demoledora"
     },
     "smtods": {
         "name": "Magia cortante",
+        "ia": "una",
+        "da": "la",
         "p": "Magias cortantes",
+        "pia": "",
+        "pda": "las",
         "description": "Misil mágico dirigido - cuchillada"
     },
     "smtoe": {
         "name": "Magia elemental",
+        "ia": "una",
+        "da": "la",
         "p": "Magias elementales",
+        "pia": "",
+        "pda": "las",
         "description": "Misil mágico dirigido elemental"
     },
     "smtoec": {
         "name": "Magia de frío",
+        "ia": "una",
+        "da": "la",
         "p": "Magias de frío",
+        "pia": "",
+        "pda": "las",
         "description": "Misil mágico dirigido - Frío"
     },
     "smtoea": {
         "name": "Magia de ácido",
+        "ia": "una",
+        "da": "la",
         "p": "Magias de ácido",
+        "pia": "",
+        "pda": "las",
         "description": "Misil mágico dirigido - Ácido"
     },
     "smtoer": {
         "name": "Magia de pudrición",
+        "ia": "una",
+        "da": "la",
         "p": "Magias de pudrición",
+        "pia": "",
+        "pda": "las",
         "description": "Misil mágico dirigido - Pudrición"
     },
     "smtoef": {
         "name": "Magia de fuego",
+        "ia": "una",
+        "da": "la",
         "p": "Magias de fuego",
+        "pia": "",
+        "pda": "las",
         "description": "Misil mágico dirigido - Fuego"
     },
     "smtoes": {
         "name": "Magia de onda de choque",
+        "ia": "una",
+        "da": "la",
         "p": "Magias de onda de choque",
+        "pia": "",
+        "pda": "las",
         "description": "Misil mágico dirigido - Onda de choque"
     },
     "smtoep": {
         "name": "Magia de veneno",
+        "ia": "una",
+        "da": "la",
         "p": "Magias de veneno",
+        "pia": "",
+        "pda": "las",
         "description": "Misil mágico dirigido - Veneno"
     },
     "smtoee": {
         "name": "Magia de electricidad",
+        "ia": "una",
+        "da": "la",
         "p": "Magias de electricidad",
+        "pia": "",
+        "pda": "las",
         "description": "Misil mágico dirigido - Electricidad"
     },
     "smtc": {
         "name": "Magia de curación",
+        "ia": "una",
+        "da": "la",
         "p": "Magias de curación",
+        "pia": "",
+        "pda": "las",
         "description": "Magia dirigida de curación"
     },
     "smtch": {
         "name": "Magia de auxilios",
+        "ia": "una",
+        "da": "la",
         "p": "Magias de auxilioss",
+        "pia": "",
+        "pda": "las",
         "description": "Magia dirigida de curación de auxilios"
     },
     "smtchp": {
         "name": "Magia de auxilios de la salud",
+        "ia": "una",
+        "da": "la",
         "p": "Magias de auxilios de la salud",
+        "pia": "",
+        "pda": "las",
         "description": "Magia dirigida de curación de auxilios - Puntos de vida"
     },
     "smtcht": {
         "name": "Magia de auxilios de la resist.",
+        "ia": "una",
+        "da": "la",
         "p": "Magias de auxilios de la resist.",
+        "pia": "",
+        "pda": "las",
         "description": "Magia dirigida de curación de auxilios - Resist."
     },
     "smtcha": {
         "name": "Magia de auxilios de la savia",
+        "ia": "una",
+        "da": "la",
         "p": "Magias de auxilios de la savia",
+        "pia": "",
+        "pda": "las",
         "description": "Magia dirigida de curación de auxilios - Savia"
     },
     "smtchc": {
         "name": "Magia de auxilios del enfoque",
+        "ia": "una",
+        "da": "la",
         "p": "Magias de auxilios del enfoque",
+        "pia": "",
+        "pda": "las",
         "description": "Magia dirigida de curación de auxilios - Enfoque"
     },
     "smtcb": {
         "name": "Deshecho de enlace",
+        "ia": "un",
+        "da": "el",
         "p": "Deshechos de enlace",
+        "pia": "",
+        "pda": "los",
         "description": "Magia dirigida de curación para el deshecho de enlace"
     },
     "smtcbd": {
         "name": "Daño de deshecho de enlace",
+        "ia": "un",
+        "da": "el",
         "p": "Daños de deshecho de enlace",
+        "pia": "",
+        "pda": "los",
         "description": "Magia dirigida de curación para el deshecho de enlace - Daño"
     },
     "smtcbs": {
         "name": "Enfermedad de deshecho de enlace",
+        "ia": "una",
+        "da": "la",
         "p": "Enfermedades de deshecho de enlace",
+        "pia": "",
+        "pda": "las",
         "description": "Magia dirigida de curación para el deshecho de enlace - Enfermedad"
     },
     "smtcbc": {
         "name": "Maldición de deshecho de enlace",
+        "ia": "una",
+        "da": "la",
         "p": "Maldiciones de deshecho de enlace",
+        "pia": "",
+        "pda": "las",
         "description": "Magia dirigida de curación para el deshecho de enlace - maldición"
     },
     "sml": {
         "name": "Enlace de magia",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces de magia",
+        "pia": "",
+        "pda": "los",
         "description": "Enlace de magia"
     },
     "smlm": {
         "name": "Enlace de misil",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces de misil",
+        "pia": "",
+        "pda": "los",
         "description": "Enlace de typo proyectil mágico"
     },
     "smlmr": {
         "name": "Enlace primario",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces primarios",
+        "pia": "",
+        "pda": "los",
         "description": "Enlace de typo proyectil mágico - Primario"
     },
     "smlmg": {
         "name": "Enlace atysiano",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces atysianos",
+        "pia": "",
+        "pda": "los",
         "description": "Enlace de typo proyectil mágico - atysiano"
     },
     "smlmb": {
         "name": "Enlace celestial",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces celestiales",
+        "pia": "",
+        "pda": "los",
         "description": "Enlace de typo proyectil mágico - Celestial"
     },
     "smlo": {
         "name": "Enlace ofensivo",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces ofensivos",
+        "pia": "",
+        "pda": "los",
         "description": "Enlace de magia ofensiva"
     },
     "smlos": {
         "name": "Enlace de enfermedad",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces de enfermedad",
+        "pia": "",
+        "pda": "los",
         "description": "Enlace de magia ofensiva de enfermedad"
     },
     "smlosm": {
         "name": "Enlace de locura",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces de locura",
+        "pia": "",
+        "pda": "los",
         "description": "Enlace de magia ofensiva de enfermedad - Locura"
     },
     "smloss": {
         "name": "Enlace de disminución de velocidad",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces de disminución de velocidad",
+        "pia": "",
+        "pda": "los",
         "description": "Enlace de magia ofensiva de debilidad - Velocidad"
     },
     "smlosr": {
         "name": "Enlace de disminución de resistencia",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces de disminución de resistencia",
+        "pia": "",
+        "pda": "los",
         "description": "Enlace de magia ofensiva de debilidad - Resistencia"
     },
     "smlosk": {
         "name": "Enlace de disminución de habilidad",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces de disminución de habilidad",
+        "pia": "",
+        "pda": "los",
         "description": "Enlace de magia ofensiva de debilidad - Habilidad"
     },
     "smloc": {
         "name": "Enlace de maldición",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces de maldición",
+        "pia": "",
+        "pda": "los",
         "description": "Enlace de magia ofensiva de maldición"
     },
     "smloci": {
         "name": "Enlace de incapacidad",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces de incapacidad",
+        "pia": "",
+        "pda": "los",
         "description": "Enlace de magia ofensiva de maldición - Incapacidad"
     },
     "smlocm": {
         "name": "Enlace de trastorno mental",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces de trastorno mental",
+        "pia": "",
+        "pda": "los",
         "description": "Enlace de magia ofensiva de maldición - Trastorno mental"
     },
     "smlocs": {
         "name": "Enlace de infortunio",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces de infortunio",
+        "pia": "",
+        "pda": "los",
         "description": "Enlace de magia ofensiva de maldición - Infortunio"
     },
     "smloch": {
         "name": "Enlace de odio",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces de odio",
+        "pia": "",
+        "pda": "los",
         "description": "Enlace de magia ofensiva de maldición - Odio"
     },
     "smlod": {
         "name": "Enlace físico",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces físicos",
+        "pia": "",
+        "pda": "los",
         "description": "Enlace mágico con daños físicos"
     },
     "smlodp": {
         "name": "Enlace punzante",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces punzantes",
+        "pia": "",
+        "pda": "los",
         "description": "Enlace mágico con daños físicos - perforación"
     },
     "smlodb": {
         "name": "Enlace contundente",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces contundentes",
+        "pia": "",
+        "pda": "los",
         "description": "Enlace mágico con daños físicos - demoledora"
     },
     "smlods": {
         "name": "Enlace cortante",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces cortantes",
+        "pia": "",
+        "pda": "los",
         "description": "DEnlace mágico con daños físicos - Cortadura\/Cuchillada"
     },
     "smloe": {
         "name": "Enlace elemental",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces elementals",
+        "pia": "",
+        "pda": "los",
         "description": "Daño especial ofensivo del enlace mágico"
     },
     "smloec": {
         "name": "Enlace de frio",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces de frio",
+        "pia": "",
+        "pda": "los",
         "description": "Daño especial ofensivo del enlace mágico - Frio"
     },
     "smloea": {
         "name": "Enlace de ácido",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces de ácido",
+        "pia": "",
+        "pda": "los",
         "description": "Daño especial ofensivo del enlace mágico - Acido"
     },
     "smloer": {
         "name": "Enlace de pudrición",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces de pudrición",
+        "pia": "",
+        "pda": "los",
         "description": "Daño especial ofensivo del enlace mágico - Pudrición"
     },
     "smloef": {
         "name": "Enlace de fuego",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces de fuego",
+        "pia": "",
+        "pda": "los",
         "description": "Daño especial ofensivo del enlace mágico - Fuego"
     },
     "smloes": {
         "name": "Enlace de onda de choque",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces de onda de choque",
+        "pia": "",
+        "pda": "los",
         "description": "Daño especial ofensivo del enlace mágico - Onda de choque"
     },
     "smloep": {
         "name": "Enlace de veneno",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces de veneno",
+        "pia": "",
+        "pda": "los",
         "description": "Daño especial ofensivo del enlace mágico - Envenenamiento"
     },
     "smloee": {
         "name": "Enlace de electricidad",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces de electricidad",
+        "pia": "",
+        "pda": "los",
         "description": "Daño especial ofensivo del enlace mágico - Electricidad"
     },
     "smlc": {
         "name": "Enlace de curación",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces de curación",
+        "pia": "",
+        "pda": "los",
         "description": "Enlace mágico de curación"
     },
     "smlch": {
         "name": "Enlace de auxilios",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces de auxilios",
+        "pia": "",
+        "pda": "los",
         "description": "Enlace mágico de curación de auxilios"
     },
     "smlchp": {
         "name": "Enlace de auxilios de la salud",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces de auxilios de la salud",
-        "description": " Enlace mágico de curación de auxilios - Puntos de vida"
+        "pia": "",
+        "pda": "los",
+        "description": "Enlace mágico de curación de auxilios - Puntos de vida"
     },
     "smlcht": {
         "name": "Enlace de auxilios de la resist.",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces de auxilios de la resist.",
+        "pia": "",
+        "pda": "los",
         "description": "Enlace mágico de curación de auxilios - Resist."
     },
     "smlcha": {
         "name": "Enlace de auxilios de la savia",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces de auxilios de la savia",
+        "pia": "",
+        "pda": "los",
         "description": "Enlace mágico de curación de auxilios - Savia"
     },
     "smlchc": {
         "name": "Enlace de auxilios del enfoque",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces de auxilios del enfoque",
+        "pia": "",
+        "pda": "los",
         "description": "Enlace mágico de curación de auxilios - Enfoque"
     },
     "sma": {
         "name": "Magia instintiva",
+        "ia": "una",
+        "da": "la",
         "p": "Magias instintivas",
+        "pia": "",
+        "pda": "las",
         "description": "Magia instintiva"
     },
     "smae": {
         "name": "Magia de encantamiento",
+        "ia": "una",
+        "da": "la",
         "p": "Magias de encantamiento",
+        "pia": "",
+        "pda": "las",
         "description": "Magia de encantamiento"
     },
     "smaes": {
         "name": "Hechizo de encantamiento",
+        "ia": "un",
+        "da": "el",
         "p": "Hechizos de encantamiento",
+        "pia": "",
+        "pda": "los",
         "description": "Encantamiento mágico - Hechizo"
     },
     "smaeb": {
         "name": "Bono de encantamiento",
+        "ia": "un",
+        "da": "el",
         "p": "Bonos de encantamiento",
+        "pia": "",
+        "pda": "los",
         "description": "Encantamiento mágico - Bono"
     },
     "smap": {
         "name": "Magia para la elaboración de pociones",
+        "ia": "una",
+        "da": "la",
         "p": "Magias para la elaboración de pociones",
+        "pia": "",
+        "pda": "las",
         "description": "Magias para la elaboración de pociones"
     },
     "sd": {
         "name": "Defensa",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa"
     },
     "sda": {
         "name": "Defensa con armadura",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas con armadura",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa con armadura"
     },
     "sdal": {
         "name": "Defensa con armadura liviana",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas con armadura liviana",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa con armadura liviana"
     },
     "sdalf": {
         "name": "Defensa con armadura liviana - Fyros",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas con armadura liviana - Fyros",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa con armadura liviana - Fyros"
     },
     "sdalfa": {
         "name": "Defensa avanzada con armadura liviana - Fyros",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas con armadura avanzada liviana - Fyros",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa con armadura avanzada liviana - Fyros"
     },
     "sdalfae": {
         "name": "Ciencia de defensa con armadura liviana - Fyros",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias en defensa con armadura liviana - Fyros",
+        "pia": "",
+        "pda": "las",
         "description": "Ciencia de defensa con armadura liviana - Fyros"
     },
     "sdalm": {
         "name": "Defensa con armadura liviana - Matis",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas con armadura liviana - Matis",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa con armadura liviana - Matis"
     },
     "sdalma": {
         "name": "Defensa avanzada con armadura liviana - Matis",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas con armadura avanzada liviana - Matis",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa con armadura avanzada liviana -Matis"
     },
     "sdalmae": {
         "name": "Ciencia de defensa con armadura liviana - Matis",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias en defensa con armadura liviana - Matis",
+        "pia": "",
+        "pda": "las",
         "description": "Ciencia de defensa con armadura liviana - Matis"
     },
     "sdalt": {
         "name": "Defensa con armadura liviana - Tryker",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas con armadura liviana - Tryker",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa con armadura liviana - Tryker"
     },
     "sdalta": {
         "name": "Defensa avanzada con armadura avanzada liviana - Tryker",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas con armadura avanzada liviana - Tryker",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa con armadura avanzada liviana - Tryker"
     },
     "sdaltae": {
         "name": "Ciencia de defensa con armadura liviana - Tryker",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias en defensa con armadura liviana - Tryker",
+        "pia": "",
+        "pda": "las",
         "description": "Ciencia de defensa con armadura liviana - Tryker"
     },
     "sdalz": {
         "name": "Defensa con armadura liviana - Zoraï",
+        "ia": "un",
+        "da": "la",
         "p": "Defensas con armadura liviana - Zoraï",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa con armadura liviana - Zoraï"
     },
     "sdalza": {
         "name": "Defensa avanzada con armadura avanzada liviana - Zoraï",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas con armadura avanzada - Zoraï",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa con armadura avanzada liviana - Zoraï"
     },
     "sdalzae": {
         "name": "Ciencia de defensa con armadura liviana - Zoraï",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias en defensa con armadura liviana - Zoraï",
+        "pia": "",
+        "pda": "las",
         "description": "Ciencia de defensa con armadura liviana  - Zoraï"
     },
     "sdam": {
         "name": "Defensa con armadura mediana",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas con armadura mediana",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa con armadura mediana"
     },
     "sdamf": {
         "name": "Defensa con armadura mediana - Fyros",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas con armadura mediana - Fyros",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa con armadura mediana - Fyros"
     },
     "sdamfa": {
         "name": "Defensa avanzada con armadura avanzada mediana - Fyros",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas con armadura avanzada mediana - Fyros",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa con armadura avanzada mediana - Fyros"
     },
     "sdamfae": {
         "name": "Ciencia de defensa con armadura mediana - Fyros",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias en defensa con armadura mediana - Fyros",
+        "pia": "",
+        "pda": "las",
         "description": "Ciencia de defensa con armadura mediana - Fyros"
     },
     "sdamm": {
         "name": "Defensa con armadura mediana - Matis",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas con armadura mediana - Matis",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa con armadura mediana - Matis"
     },
     "sdamma": {
         "name": "Defensa avanzada con armadura avanzada mediana - Matis",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas con armadura avanzada mediana - Matis",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa con armadura mediana - Matis"
     },
     "sdammae": {
         "name": "Ciencia de defensa con armadura mediana - Matis",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias en defensa con armadura mediana - Matis",
+        "pia": "",
+        "pda": "las",
         "description": "Ciencia de defensa con armadura mediana - Matis"
     },
     "sdamt": {
         "name": "Defensa con armadura mediana -Tryker",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas con armadura mediana - Tryker",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa con armadura mediana - Tryker"
     },
     "sdamta": {
         "name": "Defensa avanzada con armadura avanzada mediana - Tryker",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas con armadura avanzada mediana - Tryker",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa con armadura avanzada mediana - Tryker"
     },
     "sdamtae": {
         "name": "Ciencia de defensa con armadura mediana - Tryker",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias en defensa con armadura mediana - Tryker",
+        "pia": "",
+        "pda": "las",
         "description": "Ciencia de defensa con armadura mediana - Tryker"
     },
     "sdamz": {
         "name": "Defensa con armadura mediana - Zoraï",
+        "ia": "una",
+        "da": "el",
         "p": "Defensas con armadura mediana  - Zoraï",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa con armadura mediana  - Zoraï"
     },
     "sdamza": {
         "name": "Defensa avanzada con armadura avanzada mediana - Zoraï",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas con armadura avanzada mediana - Zoraï",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa con armadura avanzada mediana - Zoraï"
     },
     "sdamzae": {
         "name": "Ciencia de defensa con armadura mediana - Zoraï",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias en defensa con armadura mediana - Zoraï",
+        "pia": "",
+        "pda": "las",
         "description": "Ciencia de defensa con armadura mediana - Zoraï"
     },
     "sdah": {
         "name": "Defensa con armadura pesada",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas con armadura pesada",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa con armadura pesada"
     },
     "sdahf": {
         "name": "Defensa con armadura pesada - Fyros",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas con armadura pesada - Fyros",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa con armadura pesada - Fyros"
     },
     "sdahfa": {
         "name": "Defensa avanzada con armadura avanzada pesada - Fyros",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas avanzada con armadura pesada - Fyros",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa con armadura avanzada pesada - Fyros"
     },
     "sdahfae": {
         "name": "Ciencia de defensa con armadura pesada - Fyros",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias en defensa con armadura pesada - Fyros",
+        "pia": "",
+        "pda": "las",
         "description": "Ciencia de defensa con armadura pesada - Fyros"
     },
     "sdahm": {
         "name": "Defensa con armadura pesada - Matis",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas con armadura pesada - Matis",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa con armadura pesada - Matis"
     },
     "sdahma": {
         "name": "Defensa con armadura avanzada pesada - Matis",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas con armadura avanzada pesada - Matis",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa con armadura avanzada pesada - Matis"
     },
     "sdahmae": {
         "name": "Ciencia de defensa con armadura pesada - Matis",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias en defensa con armadura pesada - Matis",
+        "pia": "",
+        "pda": "las",
         "description": "Ciencia de defensa con armadura pesada - Matis"
     },
     "sdaht": {
         "name": "Defensa con armadura pesada - Tryker",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas con armadura pesada - Tryker",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa con armadura pesada - Tryker"
     },
     "sdahta": {
         "name": "Defensa avanzada con armadura avanzada pesada - Tryker",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas con armadura avanzada pesada - Tryker",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa con armadura avanzada pesada - Tryker"
     },
     "sdahtae": {
         "name": "Ciencia de defensa con armadura pesada - Tryker",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias en defensa con armadura pesada - Tryker",
+        "pia": "",
+        "pda": "las",
         "description": "Ciencia de defensa con armadura pesada - Tryker"
     },
     "sdahz": {
         "name": "Defensa con armadura pesada - Zoraï",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas con armadura pesada - Zoraï",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa con armadura pesada - Zoraï"
     },
     "sdahza": {
         "name": "Defensa avanzada con armadura avanzada pesada - Zoraï",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas con armadura avanzada Pesaa - Zoraï",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa con armadura avanzada pesada - Zoraï"
     },
     "sdahzae": {
         "name": "Ciencia de defensa con armadura pesada - Zoraï",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias en defensa con armadura pesada - Zoraï",
+        "pia": "",
+        "pda": "las",
         "description": "Ciencia de defensa con armadura pesada - Zoraï"
     },
     "sds": {
         "name": "Defensa con escudo",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas con escudo",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa con escudo"
     },
     "sdsb": {
         "name": "Defensa con adarga",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas con adarga",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa con adarga"
     },
     "sdsbf": {
         "name": "Defensa con adarga - Fyros",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas con adarga - Fyros",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa con adarga - Fyros"
     },
     "sdsbfa": {
         "name": "Defensa avanzada con adarga - Fyros",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas avanzada con adarga - Fyros",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa avanzada con adarga - Fyros"
     },
     "sdsbfae": {
         "name": "Ciencia de defensa con adarga - Fyros",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias en defensa con adarga - Fyros",
+        "pia": "",
+        "pda": "las",
         "description": "Ciencia de defensa con adarga - Fyros"
     },
     "sdsbm": {
         "name": "Defensa con adarga - Matis",
+        "ia": "un",
+        "da": "el",
         "p": "Defensas con adarga - Matis",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa con adarga - Matis"
     },
     "sdsbma": {
         "name": "Defensa avanzada con adarga - Matis",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas avanzadas con adarga - Matis",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa avanzada con adarga - Matis"
     },
     "sdsbmae": {
         "name": "Ciencia de defensa con adarga - Matis",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias en defensa con adarga - Matis",
+        "pia": "",
+        "pda": "las",
         "description": "Ciencia de defensa con adarga - Matis"
     },
     "sdsbt": {
         "name": "Defensa con adarga - Tryker",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas con adarga - Tryker",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa con adarga - Tryker"
     },
     "sdsbta": {
         "name": "Defensa avanzada con adarga - Tryker",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas avanzadas con adarga - Tryker",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa avanzada con adarga - Tryker"
     },
     "sdsbtae": {
         "name": "Ciencia de defensa con adarga - Tryker",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias en defensa con adarga - Tryker",
+        "pia": "",
+        "pda": "las",
         "description": "Ciencia de defensa con adarga - Tryker"
     },
     "sdsbz": {
         "name": "Defensa con adarga - Zoraï",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas con adarga - Zoraï",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa con adarga - Zoraï"
     },
     "sdsbza": {
         "name": "Defensa avanzada con adarga - Zoraï",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas avanzadas con adarga - Zoraï",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa avanzada con adarga - Zoraï"
     },
     "sdsbzae": {
         "name": "Ciencia de defensa con adarga - Zoraï",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias en defensa con adarga - Zoraï",
+        "pia": "",
+        "pda": "las",
         "description": "Ciencia de defensa con adarga - Zoraï"
     },
     "sdss": {
         "name": "Defensa con escudo grande",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas con escudo grande",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa con escudo grande"
     },
     "sdssf": {
         "name": "Defensa con escudo grande - Fyros",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas con escudo grande - Fyros",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa con escudo grande - Fyros"
     },
     "sdssfa": {
         "name": "Defensa avanzada con escudo grande - Fyros",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas avanzadas con escudo grande - Fyros",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa avanzada con escudo grande - Fyros"
     },
     "sdssfae": {
         "name": "Ciencia de defensa con escudo grande - Fyros",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias en defensa con escudo grande - Fyros",
+        "pia": "",
+        "pda": "las",
         "description": "Ciencia de defensa con escudo grande - Fyros"
     },
     "sdssm": {
         "name": "Defensa con escudo grande - Matis",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas con escudo grande - Matis",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa con escudo grande - Matis"
     },
     "sdssma": {
         "name": "Defensa avanzada con escudo grande - Matis",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas avanzadas con escudo grande - Matis",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa avanzada con escudo grande - Matis"
     },
     "sdssmae": {
         "name": "Ciencia de defensa con escudo grande - Matis",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias en defensa con escudo grande - Matis",
+        "pia": "",
+        "pda": "las",
         "description": "Ciencia de defensa con escudo grande - Matis"
     },
     "sdsst": {
         "name": "Defensa con escudo grande - Tryker",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas con escudo grande - Tryker",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa con escudo grande - Tryker"
     },
     "sdssta": {
         "name": "Defensa avanzada con escudo grande - Tryker",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas avanzadas con escudo grande - Tryker",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa avanzada con escudo grande - Tryker"
     },
     "sdsstae": {
         "name": "Ciencia de defensa con escudo grande - Tryker",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias en defensa con escudo grande - Tryker",
+        "pia": "",
+        "pda": "las",
         "description": "Ciencia de defensa con escudo grande - Tryker"
     },
     "sdssz": {
         "name": "Defensa con escudo grande - Zoraï",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas con escudo grande - Zoraï",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa con escudo grande  - Zoraï"
     },
     "sdssza": {
         "name": "Defensa avanzada con escudo grande - Zoraï",
+        "ia": "una",
+        "da": "la",
         "p": "Defensas avanzadas con escudo grande - Zoraï",
+        "pia": "",
+        "pda": "las",
         "description": "Defensa avanzada con escudo grande - Zoraï"
     },
     "sdsszae": {
         "name": "Ciencia de defensa con escudo grande - Zoraï",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias en defensa con escudo grande - Zoraï",
+        "pia": "",
+        "pda": "las",
         "description": "Ciencia de defensa con escudo grande - Zoraï"
     },
     "sdd": {
         "name": "Finta",
+        "ia": "una",
+        "da": "la",
         "p": "Fintas",
+        "pia": "",
+        "pda": "las",
         "description": "Finta"
     },
     "sdda": {
         "name": "Finta veloz",
+        "ia": "una",
+        "da": "la",
         "p": "Fintas veloces",
+        "pia": "",
+        "pda": "las",
         "description": "Finta veloz"
     },
     "sddat": {
         "name": "Finta instintiva",
+        "ia": "una",
+        "da": "la",
         "p": "Fintas instintivas",
+        "pia": "",
+        "pda": "las",
         "description": "Finta instintiva"
     },
     "sddatm": {
         "name": "Ciencia de finta",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias en finta",
+        "pia": "",
+        "pda": "las",
         "description": "Ciencia de finta"
     },
     "sddatme": {
         "name": "Maestría en finta",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en finta",
+        "pia": "",
+        "pda": "las",
         "description": "Maestría en finta"
     },
     "uknown": {
         "name": "Habilidad Desconocida",
+        "ia": "",
+        "da": "",
         "p": "Habilidades Desconocidas",
+        "pia": "",
+        "pda": "",
         "description": "Habilidad Desconocida"
     },
     "unknown": {
         "name": "Habilidad Desconocida",
+        "ia": "",
+        "da": "",
         "p": "Habilidades Desconocidas",
+        "pia": "",
+        "pda": "",
         "description": "Habilidad Desconocida"
     },
     "sh": {
         "name": "Extracción de materias primas",
+        "ia": "una",
+        "da": "la",
         "p": "Extracciones de materias primas",
+        "pia": "",
+        "pda": "las",
         "description": "Extracción de materias primas"
     },
     "shf": {
         "name": "Prospección",
+        "ia": "un",
+        "da": "el",
         "p": "Prospecciones",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "shff": {
         "name": "Prospección en el Bosque",
+        "ia": "una",
+        "da": "la",
         "p": "Prospecciones en el Bosque",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "shffa": {
         "name": "Prospección avanzada en el Bosque",
+        "ia": "una",
+        "da": "la",
         "p": "Prospecciones avanzadas en el Bosque",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "shffae": {
         "name": "Ciencia de prospección en el Bosque",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias en prospección en el Bosque",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "shffaem": {
         "name": "Maestría en prospección en el Bosque",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en prospección en el Bosque",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "shfd": {
         "name": "Prospección en el Desierto",
+        "ia": "una",
+        "da": "la",
         "p": "Prospecciones en el Desierto",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "shfda": {
         "name": "Prospección avanzada en el Desierto",
+        "ia": "una",
+        "da": "la",
         "p": "Prospecciones avanzadas en el Desierto",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "shfdae": {
         "name": "Ciencia de prospección en el Desierto",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias en prospección en el Desierto",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "shfdaem": {
         "name": "Maestría en prospección en el Desierto",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en prospección en el Desierto",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "shfj": {
         "name": "Prospección en la Selva",
+        "ia": "una",
+        "da": "la",
         "p": "Prospecciones en la Selva",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "shfja": {
         "name": "Prospección avanzada en la Selva",
+        "ia": "una",
+        "da": "la",
         "p": "Prospecciones avanzadas en la Selva",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "shfjae": {
         "name": "Ciencia de prospección en la Selva",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias en prospección en la Selva",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "shfjaem": {
         "name": "Maestría en prospección en la Selva",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en prospección en la Selva",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "shfl": {
         "name": "Prospección en los Lagos",
+        "ia": "una",
+        "da": "la",
         "p": "Prospecciones en los Lagos",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "shfla": {
         "name": "Prospección avanzada en los Lagos",
+        "ia": "una",
+        "da": "la",
         "p": "Prospecciones avanzadas en los Lagos",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "shflae": {
         "name": "Ciencia de prospección en los Lagos",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias en prospección en los Lagos",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "shflaem": {
         "name": "Maestría en Prospección en los Lagos",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en prospección en los Lagos",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "shfp": {
         "name": "Prospección en las Raíces Primitivas",
+        "ia": "un",
+        "da": "la",
         "p": "Prospecciones en las Raíces Primitivas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "shfpa": {
         "name": "Prospección avanzada en las Raíces Primitivas",
+        "ia": "una",
+        "da": "la",
         "p": "Prospecciones avanzadas en las Primera Raíz",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "shfpae": {
         "name": "Ciencia de prospección en las Raíces Primitivas",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias en prospección en las Raíces Primitivas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "shfpaem": {
         "name": "Maestría en prospección en las Raíces Primitivas",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en prospección en las Raíces Primitivas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "smtoeca": {
         "name": "Magia avanzada de frío",
+        "ia": "una",
+        "da": "la",
         "p": "Magias avanzadas de frío",
+        "pia": "",
+        "pda": "las",
         "description": "Iniciado en misil mágico dirigido - Frío"
     },
     "smtoeaa": {
         "name": "Magia avanzada de ácido",
+        "ia": "una",
+        "da": "la",
         "p": "Magias avanzadas de ácido",
+        "pia": "",
+        "pda": "las",
         "description": "Iniciado en misil mágico dirigido - Ácido"
     },
     "smtoera": {
         "name": "Magia avanzada de pudrición",
+        "ia": "una",
+        "da": "la",
         "p": "Magias avanzadas de pudrición",
+        "pia": "",
+        "pda": "las",
         "description": "Iniciado en misil mágico dirigido - Pudrición"
     },
     "smtoefa": {
         "name": "Magia avanzada de fuego",
+        "ia": "una",
+        "da": "la",
         "p": "Magias avanzadas de fuego",
+        "pia": "",
+        "pda": "las",
         "description": "Iniciado en misil mágico dirigido - Fuego"
     },
     "smtoesa": {
         "name": "Magia avanzada de onda de choque",
+        "ia": "una",
+        "da": "la",
         "p": "Magias avanzadas de onda de choque",
+        "pia": "",
+        "pda": "las",
         "description": "Iniciado en misil mágico dirigido - Onda de choque"
     },
     "smtoepa": {
         "name": "Magia avanzada de veneno",
+        "ia": "una",
+        "da": "la",
         "p": "Magias avanzadas de veneno",
+        "pia": "",
+        "pda": "las",
         "description": "Iniciado en misil mágico dirigido - Veneno"
     },
     "smtoeea": {
         "name": "Magia avanzada de electricidad",
+        "ia": "una",
+        "da": "la",
         "p": "Magias avanzadas de electricidad",
+        "pia": "",
+        "pda": "las",
         "description": "Iniciado en misil mágico dirigido - Electricidad"
     },
     "smtchpa": {
         "name": "Magia avanzada de auxilios de la salud",
+        "ia": "una",
+        "da": "la",
         "p": "Magias avanzadas de auxilios de la salud",
+        "pia": "",
+        "pda": "las",
         "description": "Magia avanzada dirigida de curación de auxilios - Puntos de vida"
     },
     "smtchta": {
         "name": "Magia avanzada de auxilios de la resist.",
+        "ia": "una",
+        "da": "la",
         "p": "Magias avanzadas de auxilios de la resist.",
+        "pia": "",
+        "pda": "las",
         "description": "Magia avanzada dirigida de curación de auxilios - Resist."
     },
     "smtchaa": {
         "name": "Magia avanzada de auxilios de la savia",
+        "ia": "una",
+        "da": "la",
         "p": "Magias avanzadas de auxilios de la savia",
+        "pia": "",
+        "pda": "las",
         "description": "Magia avanzada dirigida de curación de auxilios - Savia"
     },
     "smtchca": {
         "name": "Magia avanzada de auxilios del enfoque",
+        "ia": "una",
+        "da": "la",
         "p": "Magias avanzadas de auxilios del enfoque",
+        "pia": "",
+        "pda": "las",
         "description": "Magia avanzada dirigida de curación de auxilios - Enfoque"
     },
     "smlosma": {
         "name": "Enlace avanzado de locura",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces avanzados de locura",
+        "pia": "",
+        "pda": "los",
         "description": "Enlace avanzado de magia ofensiva de enfermedad - Locura"
     },
     "smlossa": {
         "name": "Enlace avanzado de disminución de velocidad",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces avanzados de disminución de velocidad",
+        "pia": "",
+        "pda": "los",
         "description": "Enlace avanzado de magia ofensiva de debilidad - Velocidad"
     },
     "smlocia": {
         "name": "Enlace avanzado de incapacidad",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces avanzados de incapacidad",
+        "pia": "",
+        "pda": "los",
         "description": "Enlace avanzado de magia ofensiva de maldición - Incapacidad"
     },
     "smlocsa": {
         "name": "Enlace avanzado de infortunio",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces avanzados de infortunio",
+        "pia": "",
+        "pda": "los",
         "description": "Enlace avanzado de magia ofensiva de maldición - Infortunio"
     },
     "smloeca": {
         "name": "Enlace avanzado de frio",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces avanzados de frio",
+        "pia": "",
+        "pda": "los",
         "description": "Daño especial del enlace avanzado de magia ofensiva - Frio"
     },
     "smloeaa": {
         "name": "Enlace avanzado de ácido",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces avanzados de ácido",
+        "pia": "",
+        "pda": "los",
         "description": "Daño especial del enlace avanzado de magia ofensiva - Acido"
     },
     "smloera": {
         "name": "Enlace avanzado de pudrición",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces avanzados de pudrición",
+        "pia": "",
+        "pda": "los",
         "description": "Daño especial del enlace avanzado de magia ofensiva - Pudrición"
     },
     "smloefa": {
         "name": "Enlace avanzado de fuego",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces avanzados de fuego",
+        "pia": "",
+        "pda": "los",
         "description": "Daño especial del enlace avanzado de magia ofensiva - Fuego"
     },
     "smloesa": {
         "name": "Enlace avanzado de onda de choque",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces avanzados de onda de choque",
+        "pia": "",
+        "pda": "los",
         "description": "Daño especial del enlace avanzado de magia ofensiva - Onda de choque"
     },
     "smloepa": {
         "name": "Enlace avanzado de veneno",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces avanzados de veneno",
+        "pia": "",
+        "pda": "los",
         "description": "Daño especial del enlace avanzado de magia ofensiva - Envenenamiento"
     },
     "smloeea": {
         "name": "Enlace avanzado de electricidad",
+        "ia": "un",
+        "da": "el",
         "p": "Enlaces avanzados de electricidad",
+        "pia": "",
+        "pda": "los",
         "description": "Daño especial del enlace avanzado de magia ofensiva - Electricidad"
     },
     "smd": {
         "name": "Magia protectora",
+        "ia": "una",
+        "da": "la",
         "p": "Magias protectoras",
+        "pia": "",
+        "pda": "las",
         "description": "Magia protectora"
     },
     "smda": {
         "name": "Neutralización mágica",
+        "ia": "una",
+        "da": "la",
         "p": "Neutralizaciones mágicas",
+        "pia": "",
+        "pda": "las",
         "description": "Neutralización mágica"
     },
     "smdaa": {
         "name": "Neutralización mágica avanzada",
+        "ia": "una",
+        "da": "la",
         "p": "Neutralizaciones mágicas avanzadas",
+        "pia": "",
+        "pda": "las",
         "description": "Neutralización mágica avanzada"
     },
     "smdaae": {
         "name": "Ciencia de neutralización mágica",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de neutralización mágica",
+        "pia": "",
+        "pda": "las",
         "description": "Ciencia de eutralización mágica"
     },
     "smdaaem": {
         "name": "Maestría en neutralización mágica",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en neutralización mágica",
+        "pia": "",
+        "pda": "las",
         "description": "Maestría en neutralización mágica"
     },
     "smdh": {
         "name": "Magia curativa",
+        "ia": "una",
+        "da": "la",
         "p": "Magias curativas",
+        "pia": "",
+        "pda": "las",
         "description": "Magia curativa"
     },
     "smdha": {
         "name": "Magia curativa avanzada",
+        "ia": "una",
+        "da": "la",
         "p": "Magias curativas avanzadas",
+        "pia": "",
+        "pda": "las",
         "description": "Magia curativa avanzada"
     },
     "smdhae": {
         "name": "Ciencia de magia curativa",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias en magia curativa",
+        "pia": "",
+        "pda": "las",
         "description": "Ciencia de magia curativa"
     },
     "smdhaem": {
         "name": "Maestría en magia curativa",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en magia curativa",
+        "pia": "",
+        "pda": "las",
         "description": "Maestría en magia curativa"
     },
     "smo": {
         "name": "Magia de combate",
+        "ia": "una",
+        "da": "la",
         "p": "Magias de combate",
+        "pia": "",
+        "pda": "las",
         "description": "Magia de combate"
     },
     "smoa": {
         "name": "Magia debilitadora",
+        "ia": "una",
+        "da": "la",
         "p": "Magias debilitadoras",
+        "pia": "",
+        "pda": "las",
         "description": "Magia debilitadora"
     },
     "smoaa": {
         "name": "Magia debilitadora avanzada",
+        "ia": "una",
+        "da": "la",
         "p": "Magias debilitadoras avanzadas",
+        "pia": "",
+        "pda": "las",
         "description": "Magia debilitadora avanzada"
     },
     "smoaae": {
         "name": "Ciencia de magia debilitadora",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias en magia debilitadora",
+        "pia": "",
+        "pda": "las",
         "description": "Ciencia de magia debilitadora"
     },
     "smoaaem": {
         "name": "Maestría en magia debilitadora",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en magia debilitadora",
+        "pia": "",
+        "pda": "las",
         "description": "Maestría en magia debilitadora"
     },
     "smoe": {
         "name": "Magia ofensiva",
+        "ia": "una",
+        "da": "la",
         "p": "Magias ofensivas",
+        "pia": "",
+        "pda": "las",
         "description": "Magia ofensiva"
     },
     "smoea": {
         "name": "Magia ofensiva avanzada",
+        "ia": "una",
+        "da": "la",
         "p": "Magias ofensivas avanzadas",
+        "pia": "",
+        "pda": "las",
         "description": "Magia ofensiva avanzada"
     },
     "smoeae": {
         "name": "Ciencia de magia ofensiva",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias en magia ofensiva",
+        "pia": "",
+        "pda": "las",
         "description": "Ciencia de magia ofensiva"
     },
     "smoeaem": {
         "name": "Maestría en magia ofensiva",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en magia ofensiva",
+        "pia": "",
+        "pda": "las",
         "description": "Maestría en magia ofensiva"
     },
     "sms": {
         "name": "Magia sobre sí mismo",
+        "ia": "una",
+        "da": "la",
         "p": "Magias sobre sí mismo",
+        "pia": "",
+        "pda": "las",
         "description": "Magia sobre sí mismo"
     },
     "smss": {
         "name": "Magia personal",
+        "ia": "una",
+        "da": "la",
         "p": "Magias personales",
+        "pia": "",
+        "pda": "las",
         "description": "Magia personal"
     },
     "smssa": {
         "name": "Magia personal avanzada",
+        "ia": "una",
+        "da": "la",
         "p": "Magias personales avanzadas",
+        "pia": "",
+        "pda": "las",
         "description": "Magia personal avanzada"
     },
     "smssae": {
         "name": "Ciencia de magia personal",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias en magia personal",
+        "pia": "",
+        "pda": "las",
         "description": "Ciencia de magia personal"
     },
     "smssaem": {
         "name": "Maestría en magia personal",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrísa en magia personal",
+        "pia": "",
+        "pda": "las",
         "description": "Maestría en magia personal"
     },
     "sf": {
         "name": "Combate",
+        "ia": "un",
+        "da": "el",
         "p": "Combates",
+        "pia": "",
+        "pda": "los",
         "description": "Combate"
     },
     "sfm": {
         "name": "Combate cerrado",
+        "ia": "un",
+        "da": "el",
         "p": "Combates cerrados",
+        "pia": "",
+        "pda": "los",
         "description": "Combate cerrado o cuerpe a cuerpo"
     },
     "sfm1": {
         "name": "Combate con arma a una mano",
+        "ia": "un",
+        "da": "el",
         "p": "Combates con a una mano",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfm1b": {
         "name": "Combate con arma contundente a una mano",
+        "ia": "un",
+        "da": "el",
         "p": "Combates con arma contundente a una mano",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfm1bm": {
         "name": "Combate con porra",
+        "ia": "un",
+        "da": "el",
         "p": "Combates con porra",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfm1bme": {
         "name": "Combate con porra eléctrica",
+        "ia": "un",
+        "da": "el",
         "p": "Combates con porra eléctrica",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfm1bmm": {
         "name": "Maestría en porra",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en porra",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "sfm1bs": {
         "name": "Combate con palo",
+        "ia": "un",
+        "da": "el",
         "p": "Combates con palo",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfm1bsm": {
         "name": "Maestría en palo",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en palo",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "sfm1p": {
         "name": "Combate con arma punzante a una mano",
+        "ia": "un",
+        "da": "el",
         "p": "Combates con arma punzante a una mano",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfm1ps": {
         "name": "Combate con pica",
+        "ia": "un",
+        "da": "el",
         "p": "Combates con pica",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfm1pse": {
         "name": "Combate con pica eléctrica",
+        "ia": "un",
+        "da": "el",
         "p": "Combates con pica eléctrica",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfm1psl": {
         "name": "Combate con pica viviente",
+        "ia": "un",
+        "da": "el",
         "p": "Combates con pica viviente",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfm1psm": {
         "name": "Maestría en pica",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en pica",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "sfm1s": {
         "name": "Combate con arma cortante a una mano",
+        "ia": "un",
+        "da": "el",
         "p": "Combates con arma cortante a una mano",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfm1sa": {
         "name": "Combate con hacha pequeña",
+        "ia": "un",
+        "da": "el",
         "p": "Combates con hacha pequeña",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfm1sab": {
         "name": "Combate con hacha pequeña ardiente",
+        "ia": "un",
+        "da": "el",
         "p": "Combates con hacha pequeña ardiente",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfm1sam": {
         "name": "Maestría en hacha pequeña",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en hacha pequeña",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "sfm1ss": {
         "name": "Combate con espada a una mano",
+        "ia": "un",
+        "da": "el",
         "p": "Combates con espada a una mano",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfm1ssm": {
         "name": "Maestría en espada a una mano",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en espada a una mano",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "sfm1ssw": {
         "name": "Combate con espada ondulante a una mano",
+        "ia": "un",
+        "da": "el",
         "p": "Combates con espada ondulante a una mano",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfm2": {
         "name": "Combate con arma a dos manos",
+        "ia": "un",
+        "da": "el",
         "p": "Combates con arma a dos manos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfm2b": {
         "name": "Combate con arma contundente a dos manos",
+        "ia": "un",
+        "da": "el",
         "p": "Combates con arma contundente a dos manos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfm2bm": {
         "name": "Combate con maza",
+        "ia": "un",
+        "da": "el",
         "p": "Combates con maza",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfm2bme": {
         "name": "Combate con maza eléctrica",
+        "ia": "un",
+        "da": "el",
         "p": "Combates con maza eléctrica",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfm2bmm": {
         "name": "Maestría en maza",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en maza",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "sfm2p": {
         "name": "Combate con arma punzante a dos manos",
+        "ia": "un",
+        "da": "el",
         "p": "Combate con arma punzante a dos manos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfm2pp": {
         "name": "Combate con lanza",
+        "ia": "un",
+        "da": "el",
         "p": "Combates con lanza",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfm2ppl": {
         "name": "Combate con lanza viviente",
+        "ia": "un",
+        "da": "el",
         "p": "Combates con lanza viviente",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfm2ppm": {
         "name": "Maestría en lanza",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en lanza",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "sfm2s": {
         "name": "Combate con arma cortante a dos manos",
+        "ia": "un",
+        "da": "el",
         "p": "Combates con arma cortante a dos manos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfm2sa": {
         "name": "Combate con hacha grande",
+        "ia": "un",
+        "da": "el",
         "p": "Combates con hacha grande",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfm2sab": {
         "name": "Combate con hacha ardiente grande",
+        "ia": "un",
+        "da": "el",
         "p": "Combates con hacha ardiente grande",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfm2sam": {
         "name": "Maestría en hacha grande",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en hacha grande",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "sfm2ss": {
         "name": "Combate con espada a dos manos",
+        "ia": "un",
+        "da": "el",
         "p": "Combates con espada a dos manos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfm2ssb": {
         "name": "Combate con espada ardiente",
+        "ia": "un",
+        "da": "el",
         "p": "Combates con espada ardiente",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfm2ssl": {
         "name": "Combate con espada viviente",
+        "ia": "un",
+        "da": "el",
         "p": "Combates con espada viviente",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfm2ssm": {
         "name": "Maestría en espada a dos manos",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en espada a dos manoss",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "sfm2ssw": {
         "name": "Combate con espada ondulante a dos manos",
+        "ia": "un",
+        "da": "el",
         "p": "Combates con espada ondulante a dos manos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfmc": {
         "name": "Combate cuerpo a cuerpo",
+        "ia": "un",
+        "da": "el",
         "p": "Combates cuerpo a cuerpo",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfmca": {
         "name": "Ciencia del combate cuerpo a cuerpo",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias dels combate cuerpo a cuerpo",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "sfmcad": {
         "name": "Combate con daga",
+        "ia": "un",
+        "da": "el",
         "p": "Combates con daga",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfmcadl": {
         "name": "Combate con daga viviente",
+        "ia": "un",
+        "da": "el",
         "p": "Combates con daga viviente",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfmcadm": {
         "name": "Maestría en daga",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en daga",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "sfmcadw": {
         "name": "Combate con daga ondulante",
+        "ia": "un",
+        "da": "el",
         "p": "Combates con daga ondulante",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfmcah": {
         "name": "Combate sin armas",
+        "ia": "un",
+        "da": "el",
         "p": "Combates sin armas",
+        "pia": "",
+        "pda": "los",
         "description": "Combate sin armas, mano a mano"
     },
     "sfmcahm": {
         "name": "Maestría en combate sin armas",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en combate sin armas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "sfr": {
         "name": "Combate a distancia",
+        "ia": "un",
+        "da": "el",
         "p": "Combates a distancia",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfr1": {
         "name": "Tiro con arma a una mano",
+        "ia": "un",
+        "da": "el",
         "p": "Tiros con arma a una mano",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfr1a": {
         "name": "Ciencia de las armas de tiro a una mano",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencia de las armas de tiro a una mano",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "sfr1ab": {
         "name": "Tiro con ballesta liviana",
+        "ia": "un",
+        "da": "el",
         "p": "Tiros con ballesta liviana",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfr1abm": {
         "name": "Maestría en ballesta liviana",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en ballesta liviana",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "sfr1abw": {
         "name": "Tiro con ballesta ondulante",
+        "ia": "un",
+        "da": "el",
         "p": "Tiros con ballesta ondulante",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfr1ap": {
         "name": "Tiro con pistola",
+        "ia": "un",
+        "da": "el",
         "p": "Tiros con pistola",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfr1apl": {
         "name": "Tiro con pistola viviente",
+        "ia": "un",
+        "da": "el",
         "p": "Tiros con pistola viviente",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfr1apm": {
         "name": "Maestría en pistola viviente",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en pistola viviente",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "sfr2": {
         "name": "Tiro con arma a dos manos",
+        "ia": "un",
+        "da": "el",
         "p": "Tiros con arma a dos manos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfr2a": {
         "name": "Ciencia de las armas de tiro a dos manos",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de las armas de tiro a dos manos",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "sfr2aa": {
         "name": "Tiro con metralleta",
+        "ia": "un",
+        "da": "el",
         "p": "Tiros con metralleta",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfr2aab": {
         "name": "Tiro con metralleta ardiente",
+        "ia": "un",
+        "da": "el",
         "p": "Tiros con metralleta ardiente",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfr2aam": {
         "name": "Maestría en metralleta",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en metralleta",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "sfr2ab": {
         "name": "Tiro con ballesta",
+        "ia": "un",
+        "da": "el",
         "p": "Tiros con ballesta",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfr2abe": {
         "name": "Tiro con ballesta eléctrico",
+        "ia": "un",
+        "da": "el",
         "p": "Tiros con ballesta eléctrico",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfr2abm": {
         "name": "Maestría en ballesta",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en ballesta",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "sfr2al": {
         "name": "Tiro con lanzagranadas",
+        "ia": "un",
+        "da": "el",
         "p": "Tiros con lanzagranadas",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfr2alb": {
         "name": "Tiro con lanzagranadas ardiente",
+        "ia": "un",
+        "da": "el",
         "p": "Tiros con lanzagranadas ardiente",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfr2ale": {
         "name": "Tiro con lanzagranadas eléctrico",
+        "ia": "un",
+        "da": "el",
         "p": "Tiros con lanzagranadas eléctrico",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfr2alm": {
         "name": "Maestría en lanzagranadas",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en lanzagranadas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "sfr2ar": {
         "name": "Tiro con fusil",
+        "ia": "un",
+        "da": "el",
         "p": "Tiros con fusil",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfr2arl": {
         "name": "Tiro con fusil viviente",
+        "ia": "un",
+        "da": "el",
         "p": "Tiros con fusil viviente",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
     "sfr2arm": {
         "name": "Maestría en fusil",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en fusil",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "sca": {
         "name": "Fabricación de armadura",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de armadura",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scj": {
         "name": "Fabricación de joya",
+        "ia": "una",
+        "da": "el",
         "p": "Fabricaciones de joya",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scm": {
         "name": "Fabricación de arma de lucha cuerpo a cuerpo",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de arma de lucha cuerpo a cuerpo",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scr": {
         "name": "Fabricación de arma de tiro",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de arma de tiro",
+        "pia": "",
+        "pda": "la",
         "description": ""
     },
     "scah": {
         "name": "Fabricación de armadura pesada",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de armadura pesada",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scal": {
         "name": "Fabricación de armadura liviana",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de armadura liviana",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scam": {
         "name": "Fabricación de armadura mediana",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de armadura mediana",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scas": {
         "name": "Fabricación de escudo",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de escudo",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scja": {
         "name": "Fabricación de tobillera",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de tobillera",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scjb": {
         "name": "Fabricación de brazalete",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de brazalete",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scjd": {
         "name": "Fabricación de diadema",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de diadema",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scje": {
         "name": "Fabricación de arete",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de arete",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scjp": {
         "name": "Fabricación de colgante",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de colgante",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scjr": {
         "name": "Fabricación de anillo",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de anillo",
+        "pia": "",
+        "pda": "la",
         "description": ""
     },
     "scm1": {
         "name": "Fabricación de arma de una mano para el cuerpo a cuerpo",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de arma de una mano para el cuerpo a cuerpo",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scm2": {
         "name": "Fabricación de arma de dos manos para el cuerpo a cuerpo",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de arma de dos manos para el cuerpo a cuerpo",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scr1": {
         "name": "Fabricación de arma de tiro de una mano",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de arma de tiro de una mano",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scr2": {
         "name": "Fabricación de arma de tiro de una mano",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de arma de tiro de dos manos",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scahb": {
         "name": "Fabricación de botas pesadas",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de botas pesadas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scahg": {
         "name": "Fabricación de guantes pesados",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de guantes pesados",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scahh": {
         "name": "Fabricación de casco pesado",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de casco pesado",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scahp": {
         "name": "Fabricación de pantalón pesado",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de pantalón pesado",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scahs": {
         "name": "Fabricación de mangas pesadas",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de mangas pesadas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scahv": {
         "name": "Fabricación de chaleco pesado",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de chaleco pesado",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scalb": {
         "name": "Fabricación de botas livianas",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de botas livianas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scalg": {
         "name": "Fabricación de guantes livianos",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de guantes livianos",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scalp": {
         "name": "Fabricaciones de pantalón liviano",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de pantalón liviano",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scals": {
         "name": "Fabricación de mangas livianos",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de mangas livianos",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scalv": {
         "name": "Fabricación de chaleco liviano",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de chaleco liviano",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scamb": {
         "name": "Fabricación de botas medianas",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de botas medianas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scamg": {
         "name": "Fabricación de guantes medianos",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de guantes medianos",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scamp": {
         "name": "Fabricación de pantalón mediano",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de pantalón mediano",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scams": {
         "name": "Fabricación de mangas medianas",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de mangas medianas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scamv": {
         "name": "Fabricación de chaleco mediano",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de chaleco mediano",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scass": {
         "name": "Fabricación de escudo",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de escudo",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scasb": {
         "name": "Fabricación de adarga",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de adarga",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scjaa": {
         "name": "Fabricación avanzada de tobillera",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de tobillera",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scjba": {
         "name": "Fabricación avanzada de brazalete",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de brazalete",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scjda": {
         "name": "Fabricación avanzada de diadema",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de diadema",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scjea": {
         "name": "Fabricación avanzada de arete",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de arete",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scjpa": {
         "name": "Fabricación avanzada de colgante",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de colgante",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scjra": {
         "name": "Fabricación avanzada de anillo",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de anillo",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scm1m": {
         "name": "Fabricación de porra",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de porra",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scm1t": {
         "name": "Fabricación de palo",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de palo",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scm1p": {
         "name": "Fabricación de pica",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de pica",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scm1a": {
         "name": "Fabricación de hacha pequeña",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de hacha pequeña",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scm1s": {
         "name": "Fabricación de espada a una mano",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de espada a una mano",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scm1d": {
         "name": "Fabricación de daga",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de daga",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scm2m": {
         "name": "Fabricación de maza",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de maza",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scm2p": {
         "name": "Fabricación de lanza",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de lanza",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scm2a": {
         "name": "Fabricación de hacha grande",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de hacha grande",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scm2s": {
         "name": "Fabricación de espada a dos manos",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de espada a dos manos",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scr1b": {
         "name": "Fabricación de ballesta liviana",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de ballesta liviana",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scr1p": {
         "name": "Fabricación de pistola",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de pistola",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scr2a": {
         "name": "Fabricación de metralleta",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de metralleta",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scr2b": {
         "name": "Fabricación de ballesta",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de ballesta",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scr2l": {
         "name": "Fabricación de lanzagranadas",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de lanzagranadas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scr2r": {
         "name": "Fabricación de fusil",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de fusil",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scahbe": {
         "name": "Ciencia de fabricación de botas pesadas",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de fabricación de botas pesadas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scahge": {
         "name": "Ciencia de fabricación de guantes pesados",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de fabricación de guantes pesados",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scahhe": {
         "name": "Ciencia de la fabricación de casco pesado",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de la fabricación de casco pesado",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scahpe": {
         "name": "Ciencia de la fabricación de pantalón pesados",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de la fabricación de pantalón pesados",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scahse": {
         "name": "Ciencia de la fabricación de mangas pesadas",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de la fabricación de mangas pesadas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scahve": {
         "name": "Ciencia de la fabricación de chaleco pesado",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de la fabricación de chaleco pesado",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scalbe": {
         "name": "Ciencia de la fabricación de botas livianas",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de la fabricación de botas livianas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scalge": {
         "name": "Ciencia de la fabricación de guantes livianos",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de la fabricación de guantes livianos",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scalpe": {
         "name": "Ciencia de la fabricación de pantalón livianos",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de la fabricación de pantalón livianos",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scalse": {
         "name": "Ciencia de la fabricación de mangas livianas",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de la fabricación de mangas livianas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scalve": {
         "name": "Ciencia de la fabricación de chaleco liviano",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de la fabricación de chaleco liviano",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scambe": {
         "name": "Ciencia de la fabricación de botas medianas",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de la fabricación de botas medianas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scamge": {
         "name": "Ciencia de la fabricación de guantes medianos",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de la fabricación de guantes medianos",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scampe": {
         "name": "Ciencia de la fabricación de pantalón medianos",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de la fabricación de pantalón medianos",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scamse": {
         "name": "Ciencia de la fabricación de mangas medianas",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de la fabricación de mangas medianas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scamve": {
         "name": "Ciencia de la fabricación de chaleco mediano",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de la fabricación de chaleco mediano",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scasse": {
         "name": "Ciencia de la fabricación de escudo",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de la fabricación de escudo",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scasbe": {
         "name": "Ciencia de la fabricación de adarga",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de la fabricación de adarga",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scjaae": {
         "name": "Ciencia de la fabricación de tobillera",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de la fabricación de tobillera",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scjbae": {
         "name": "Ciencia de la fabricación de brazalete",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de la fabricación de brazalete",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scjdae": {
         "name": "Ciencia de la fabricación de diadema",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de la fabricación de diadema",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scjeae": {
         "name": "Ciencia de la fabricación de arete",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de la fabricación de arete",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scjpae": {
         "name": "Ciencia de la fabricación de colgante",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de la fabricación de colgante",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scjrae": {
         "name": "Ciencia de la fabricación de anillo",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de la fabricación de anillo",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scm1me": {
         "name": "Ciencia de la fabricación de porra",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de la fabricación de porra",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scm1te": {
         "name": "Ciencia de la fabricación de palo",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de la fabricación de palo",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scm1pe": {
         "name": "Ciencia de la fabricación de pica",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de la fabricación de pica",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scm1ae": {
         "name": "Ciencia de la fabricación de hacha pequeña",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de la fabricación de hacha pequeña",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scm1se": {
         "name": "Ciencia de la fabricación de espada a una mano",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de la fabricación de espada a una mano",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scm1de": {
         "name": "Ciencia de la fabricación de daga",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de la fabricación de daga",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scm2me": {
         "name": "Ciencia de la fabricación de maza",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de la fabricación de maza",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scm2pe": {
         "name": "Ciencia de la fabricación de lanza",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de la fabricación de lanza",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scm2ae": {
         "name": "Ciencia de la fabricación de hacha grande",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de la fabricación de hacha grande",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scm2se": {
         "name": "Ciencia de la fabricación de espada a dos manos",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de la fabricación de espada a dos manos",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scr1be": {
         "name": "Ciencia de la fabricación de ballesta liviana",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de la fabricación de ballesta liviana",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scr1pe": {
         "name": "Ciencia de la fabricación de pistola",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de la fabricación de pistola",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scr2ae": {
         "name": "Ciencia de la fabricación de metralleta",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de la fabricación de metralleta",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scr2be": {
         "name": "Ciencia de la fabricación de ballesta",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de la fabricación de ballesta",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scr2le": {
         "name": "Ciencia de la fabricación de lanzagranadas",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de la fabricación de lanzagranadas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scr2re": {
         "name": "Ciencia de la fabricación de fusil",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de la fabricación de fusil",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scahbem": {
         "name": "Maestría en la fabricación de botas pesadas",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de botas pesadas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scahgem": {
         "name": "Maestría en la fabricación de guantes pesados",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de guantes pesados",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scahhem": {
         "name": "Maestría en la fabricación de casco pesado",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de casco pesado",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scahpem": {
         "name": "Maestría en la fabricación de pantalón pesado",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de pantalón pesado",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scahsem": {
         "name": "Maestría en la fabricación de mangas pesadas",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de mangas pesadas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scahvem": {
         "name": "Maestría en la fabricación de chaleco pesado",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de chaleco pesado",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scalbem": {
         "name": "Maestría en la fabricación de botas livianas",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de botas livianas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scalgem": {
         "name": "Maestría en la fabricación de guantes livianos",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de guantes livianos",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scalpem": {
         "name": "Maestría en la fabricación de pantalón liviano",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de pantalón liviano",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scalsem": {
         "name": "Maestría en la fabricación de mangas livianas",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de mangas livianas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scalvem": {
         "name": "Maestría en la fabricación de chaleco liviano",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de chaleco liviano",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scambem": {
         "name": "Maestría en la fabricación de botas medianas",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de botas medianas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scamgem": {
         "name": "Maestría en la fabricación de guantes medianos",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de guantes medianos",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scampem": {
         "name": "Maestría en la fabricación de pantalón medianos",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de pantalón medianos",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scamsem": {
         "name": "Maestría en la fabricación de mangas medianas",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de mangas medianas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scamvem": {
         "name": "Maestría en la fabricación de chaleco mediano",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de chaleco mediano",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scassem": {
         "name": "Maestría en la fabricación de escudo",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de escudo",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scasbem": {
         "name": "Maestría en la fabricación de adarga",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de adarga",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scjaaem": {
         "name": "Maestría en la fabricación de tobillera",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de tobillera",
+        "pia": "",
+        "pda": "lsa",
         "description": ""
     },
     "scjbaem": {
         "name": "Maestría en la fabricación de brazalete",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías e la fabricación de brazalete",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scjdaem": {
         "name": "Maestría en la fabricación de diadema",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de diadema",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scjeaem": {
         "name": "Maestría en la fabricación de arete",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de arete",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scjpaem": {
         "name": "Maestría en la fabricación de colgante",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de colgante",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scjraem": {
         "name": "Maestría en la fabricación de anillo",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de anillo",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scm1mem": {
         "name": "Maestría en la fabricación de porra",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de porra",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scm1tem": {
         "name": "Maestría en la fabricación de palo",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de palo",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scm1pem": {
         "name": "Maestría en la fabricación de pica",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de pica",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scm1aem": {
         "name": "Maestría en la fabricación de hacha pequeña",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de hacha pequeña",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scm1sem": {
         "name": "Maestría en la fabricación de espada a una mano",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de espada a una mano",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scm1dem": {
         "name": "Maestría en la fabricación de daga",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de daga",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scm2mem": {
         "name": "Maestría en la fabricación de maza",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de maza",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scm2pem": {
         "name": "Maestría en la fabricación de lanza",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de lanza",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scm2aem": {
         "name": "Maestría en la fabricación de hacha grande",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de hacha grande",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scm2sem": {
         "name": "Maestría en la fabricación de espada a dos manos",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de espada a dos manos",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scr1bem": {
         "name": "Maestría en la fabricación de ballesta liviana",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de ballesta liviana",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scr1pem": {
         "name": "Maestría en la fabricación de pistola",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de pistola",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scr2aem": {
         "name": "Maestría en la fabricación de metralleta",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de metralleta",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scr2bem": {
         "name": "Maestría en la fabricación de ballesta",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de ballesta",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scr2lem": {
         "name": "Maestría en la fabricación de lanzagranadas",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de lanzagranadas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scr2rem": {
         "name": "Maestría en la fabricación de fusil",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de fusil",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scmc": {
         "name": "Fabricación de amplificador mágico",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones de amplificador mágico",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scmca": {
         "name": "Fabricación avanzada de amplificador mágico",
+        "ia": "una",
+        "da": "la",
         "p": "Fabricaciones avanzadas de amplificador mágico",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scmcae": {
         "name": "Ciencia de la fabricación de amplificador mágico",
+        "ia": "una",
+        "da": "la",
         "p": "Ciencias de la fabricación de amplificador mágico",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "scmcaem": {
         "name": "Maestría en la fabricación de amplificador mágico",
+        "ia": "una",
+        "da": "la",
         "p": "Maestrías en la fabricación de amplificador mágico",
+        "pia": "",
+        "pda": "las",
         "description": ""
     }
 }

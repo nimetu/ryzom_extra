@@ -19379,6 +19379,12 @@
     "uigcfxanisotropicfilternone": {
         "name": "None"
     },
+    "uishowiconbuffs": {
+        "name": "Show item stat and enchant on item icon"
+    },
+    "uittshowiconbuffs": {
+        "name": "Show item stat and enchant on item icon"
+    },
     "uishowclock12h": {
         "name": "Use 12-hour clock"
     },
@@ -19565,6 +19571,12 @@
     "uittmapsearch": {
         "name": "Map search"
     },
+    "uitargetlandmarkcmd": {
+        "name": "Target map landmark"
+    },
+    "uitargetlandmarkcmdentity": {
+        "name": "Landmark search keywords"
+    },
     "uittinventorysearch": {
         "name": "Search"
     },
@@ -19622,6 +19634,39 @@
     "uiguildtabisland": {
         "name": "Island"
     },
+    "uiwelcome_around": {
+        "name": "Roleplay is one of major interests of Ryzom, and around channel is an important place to practice it."
+    },
+    "uiwelcome_region": {
+        "name": "Chat here with other players having their avatar in the same region as where yours is."
+    },
+    "uiwelcome_universe": {
+        "name": "The Universe channel is a multilingual channel primarily intended for players to ask for help with the game and those who provide it to them. In addition it is a user-friendly channel that can be used to discuss Ryzom."
+    },
+    "uiwelcome_kami": {
+        "name": "Chat here with players whose avatar shares the same cult as yours."
+    },
+    "uiwelcome_karavan": {
+        "name": "Chat here with players whose avatar shares the same cult as yours."
+    },
+    "uiwelcome_fyros": {
+        "name": "Chat here with players whose avatar is also a patriot."
+    },
+    "uiwelcome_tryker": {
+        "name": "Chat here with players whose avatar is also a citizen."
+    },
+    "uiwelcome_zorai": {
+        "name": "Chat here with players whose avatar is also an initiate."
+    },
+    "uiwelcome_matis": {
+        "name": "Chat here with players whose avatar is also a vassal."
+    },
+    "uiwelcome_marauder": {
+        "name": "Chat here with players whose avatar is also a marauder."
+    },
+    "uiwelcome_ranger": {
+        "name": "Chat here with players whose avatar is also a ranger."
+    },
     "uiartefactrestrict": {
         "name": "@{C02F}Your allegiance or level of fame does not allow the use of this item."
     },
@@ -19661,37 +19706,7 @@
     "uittchanauto": {
         "name": "If checked, your dynamic chat channels will be restored if not already opened.\nWill prevent the loss of channels at reboot or in case of server crash."
     },
-    "uiwelcome_around": {
-        "name": "Roleplay is one of major interests of Ryzom, and around channel is an important place to practice it."
-    },
-    "uiwelcome_region": {
-        "name": "Chat here with other players having their avatar in the same region as where yours is."
-    },
-    "uiwelcome_universe": {
-        "name": "The Universe channel is a multilingual channel primarily intended for players to ask for help with the game and those who provide it to them. In addition it is a user-friendly channel that can be used to discuss Ryzom."
-    },
-    "uiwelcome_kami": {
-        "name": "Chat here with players whose avatar shares the same cult as yours."
-    },
-    "uiwelcome_karavan": {
-        "name": "Chat here with players whose avatar shares the same cult as yours."
-    },
-    "uiwelcome_fyros": {
-        "name": "Chat here with players whose avatar is also a patriot."
-    },
-    "uiwelcome_tryker": {
-        "name": "Chat here with players whose avatar is also a citizen."
-    },
-    "uiwelcome_zorai": {
-        "name": "Chat here with players whose avatar is also an initiate."
-    },
-    "uiwelcome_matis": {
-        "name": "Chat here with players whose avatar is also a vassal."
-    },
-    "uiwelcome_marauder": {
-        "name": "Chat here with players whose avatar is also a marauder."
-    },
-    "uiwelcome_ranger": {
-        "name": "Chat here with players whose avatar is also a ranger."
+    "uimissioncatalog": {
+        "name": "Mission Booklet"
     }
 }

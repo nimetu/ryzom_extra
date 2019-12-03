@@ -1,266 +1,398 @@
 {
     "fyros": {
         "name": "файросы",
-        "member": "файрос"
+        "member": "файрос",
+        "membergen": "файросов",
+        "memberdat": "файросам"
     },
     "matis": {
         "name": "матисы",
-        "member": "матис"
+        "member": "матис",
+        "membergen": "матисов",
+        "memberdat": "матисам"
     },
     "tryker": {
         "name": "трайкеры",
-        "member": "трайкер"
+        "member": "трайкер",
+        "membergen": "трайкеров",
+        "memberdat": "трайкерам"
     },
     "zorai": {
         "name": "Зораи",
-        "member": "Зораи"
+        "member": "Зораи",
+        "membergen": "Зораи",
+        "memberdat": "Зораи"
     },
     "bandit": {
         "name": "бандиты",
-        "member": "бандит"
+        "member": "бандит",
+        "membergen": "бандитов",
+        "memberdat": "бандитам"
     },
     "civil": {
         "name": "мирные жители",
-        "member": "Мирные жители"
+        "member": "Мирные жители",
+        "membergen": "Мирных жителей",
+        "memberdat": "Мирным жителям"
     },
     "degen": {
         "name": "вырожденцы",
-        "member": "вырожденец"
+        "member": "вырожденец",
+        "membergen": "вырожденцев",
+        "memberdat": "вырожденцам"
     },
     "fauna": {
         "name": "фауна",
-        "member": "животное"
+        "member": "животное",
+        "membergen": "животных",
+        "memberdat": "животным"
     },
     "fauna_carnivore": {
         "name": "хищники",
-        "member": "хищник"
+        "member": "хищник",
+        "membergen": "хищников",
+        "memberdat": "хищникам"
     },
     "fauna_herbivore": {
         "name": "травоядные",
-        "member": "травоядное"
+        "member": "травоядное",
+        "membergen": "травоядных",
+        "memberdat": "травоядным"
     },
     "flora": {
         "name": "флора",
-        "member": "растение"
+        "member": "растение",
+        "membergen": "растений",
+        "memberdat": "растениям"
     },
     "goo": {
         "name": "Гуу",
-        "member": "зараженный Гуу"
+        "member": "зараженный Гуу",
+        "membergen": "зараженных Гуу",
+        "memberdat": "зараженным Гуу"
     },
     "kami": {
         "name": "Ками",
-        "member": "Ками"
+        "member": "Ками",
+        "membergen": "Ками",
+        "memberdat": "Ками"
     },
     "karavan": {
         "name": "Караван",
-        "member": "Караван"
+        "member": "Караван",
+        "membergen": "Каравана",
+        "memberdat": "Каравану"
     },
     "kitin": {
         "name": "китины",
-        "member": "китин"
+        "member": "китин",
+        "membergen": "китинов",
+        "memberdat": "хитинам"
     },
     "tribe_ancient_dryads": {
         "name": "Древние Дриады",
-        "member": "Древняя Дриада"
+        "member": "Древняя Дриада",
+        "membergen": "Древних Дриад",
+        "memberdat": "Древним Дриадам"
     },
     "tribe_antikamis": {
         "name": "Антиками",
-        "member": "Антиками"
+        "member": "Антиками",
+        "membergen": "Антиками",
+        "memberdat": "Антиками"
     },
     "tribe_barkers": {
         "name": "Короеды",
-        "member": "Короеды"
+        "member": "Короеды",
+        "membergen": "Короедов",
+        "memberdat": "Короедам"
     },
     "tribe_beachcombers": {
         "name": "Прочесывающие Берег",
-        "member": "Прочесывающий Берег"
+        "member": "Прочесывающий Берег",
+        "membergen": "Прочесывающих Берег",
+        "memberdat": "Прочесывающим Берег"
     },
     "tribe_black_circle": {
         "name": "Черный Круг",
-        "member": "Адепт Черного круга"
+        "member": "Адепт Черного круга",
+        "membergen": "Адептов Черного круга",
+        "memberdat": "Адептам Черного круга"
     },
     "tribe_cholorogoos": {
         "name": "Хлорогуу",
-        "member": "Хлорогуу"
+        "member": "Хлорогуу",
+        "membergen": "Хлорогуу",
+        "memberdat": "Хлорогуу"
     },
     "tribe_cockroaches": {
         "name": "Тараканы",
-        "member": "Таракан"
+        "member": "Таракан",
+        "membergen": "Тараканов",
+        "memberdat": "Тараканам"
     },
     "tribe_company_of_the_eternal_tree": {
         "name": "Гвардия Вечного Древа",
-        "member": "Гвардеец Вечного Древа"
+        "member": "Гвардеец Вечного Древа",
+        "membergen": "Гвардейцев Вечного Древа",
+        "memberdat": "Гвардейцам Вечного Древа"
     },
     "tribe_corsair": {
         "name": "Корсары",
-        "member": "Корсар"
+        "member": "Корсар",
+        "membergen": "Корсаров",
+        "memberdat": "Корсарам"
     },
     "tribe_cute": {
         "name": "Кьюзан",
-        "member": "Кьюзан"
+        "member": "Кьюзан",
+        "membergen": "Кьюзанов",
+        "memberdat": "Кьюзанам"
     },
     "tribe_darkening_sap": {
         "name": "Затмение Сэпа",
-        "member": "Затмение Сэпа"
+        "member": "Затмение Сэпа",
+        "membergen": "Затмения Сэпа",
+        "memberdat": "Затмению Сэпа"
     },
     "tribe_dune_riders": {
         "name": "Наездники Дюн",
-        "member": "Наездник Дюн"
+        "member": "Наездник Дюн",
+        "membergen": "Наездников Дюн",
+        "memberdat": "Наездникам Дюн"
     },
     "tribe_ecowarriors": {
         "name": "Эковоины",
-        "member": "Эковоин"
+        "member": "Эковоин",
+        "membergen": "Эковоинов",
+        "memberdat": "Эковоинам"
     },
     "tribe_firebrands": {
         "name": "Заклейменные Пламенем",
-        "member": "Заклейменный Пламенем"
+        "member": "Заклейменный Пламенем",
+        "membergen": "Заклейменных Пламенем",
+        "memberdat": "Заклейменным Пламенем"
     },
     "tribe_first_deserter": {
         "name": "Первые Дезертиры",
-        "member": "Первый Дезертир"
+        "member": "Первый Дезертир",
+        "membergen": "Первых Дезертиров",
+        "memberdat": "Первым Дезертирам"
     },
     "tribe_frahar": {
         "name": "Фрэйдеры",
-        "member": "Фрэйдер"
+        "member": "Фрэйдер",
+        "membergen": "Фрэйдеров",
+        "memberdat": "Фрэйдерам"
     },
     "tribe_frahar_hunters": {
         "name": "Охотники на Фрахаров",
-        "member": "Охотник на Фрахаров"
+        "member": "Охотник на Фрахаров",
+        "membergen": "Охотников на Фрахаров",
+        "memberdat": "Охотникам на Фрахаров"
     },
     "tribe_gibbay": {
         "name": "Гиббаи",
-        "member": "Гиббай"
+        "member": "Гиббай",
+        "membergen": "Гиббаев",
+        "memberdat": "Гиббаям"
     },
     "tribe_goo_heads": {
         "name": "Безумцы Гуу",
-        "member": "Безумец Гуу"
+        "member": "Безумец Гуу",
+        "membergen": "Безумцев Гуу",
+        "memberdat": "Безумцам Гуу"
     },
     "tribe_green_seed": {
         "name": "Зеленое Семя",
-        "member": "Зеленое Семя"
+        "member": "Зеленое Семя",
+        "membergen": "Зеленого Семени",
+        "memberdat": "Зеленому Семени"
     },
     "tribe_hamazans_of_the_dead_seed": {
-        "name": "Амазонки Мертвого Семени ",
-        "member": "Амазонка Мертвого Семени "
+        "name": "Амазонки Мертвого Семени",
+        "member": "Амазонка Мертвого Семени",
+        "membergen": "Амазонок Мертвого Семени",
+        "memberdat": "Амазонкам Мертвого Семени"
     },
     "tribe_icon_workshipers": {
         "name": "Почитатели Образа",
-        "member": "Почитатель Образа"
+        "member": "Почитатель Образа",
+        "membergen": "Почитателей Образа",
+        "memberdat": "Почитателям Образа"
     },
     "tribe_keepers": {
         "name": "Хранители",
-        "member": "Хранитель"
+        "member": "Хранитель",
+        "membergen": "Хранителей",
+        "memberdat": "Хранителям"
     },
     "tribe_kitin_gatheres": {
         "name": "Собиратели Хитина",
-        "member": "Собиратель Хитина"
+        "member": "Собиратель Хитина",
+        "membergen": "Собирателей Хитина",
+        "memberdat": "Собирателям Хитина"
     },
     "tribe_lagoon_brothers": {
         "name": "Лагунное Братство",
-        "member": "Лагунное Братство"
+        "member": "Лагунное Братство",
+        "membergen": "Лагунного Братства",
+        "memberdat": "Лагунному Братству"
     },
     "tribe_lawless": {
         "name": "Беззаконники",
-        "member": "Беззаконник"
+        "member": "Беззаконник",
+        "membergen": "Беззаконников",
+        "memberdat": "Беззаконникам"
     },
     "tribe_leviers": {
         "name": "Мытари",
-        "member": "Мытарь"
+        "member": "Мытарь",
+        "membergen": "Мытарей",
+        "memberdat": "Мытарям"
     },
     "tribe_master_of_the_goo": {
         "name": "Повелители Гуу",
-        "member": "Повелитель Гуу"
+        "member": "Повелитель Гуу",
+        "membergen": "Повелителей Гуу",
+        "memberdat": "Повелителям Гуу"
     },
     "tribe_matisian_border_guards": {
         "name": "Пограничная Стража Матисов",
-        "member": "Пограничный Страж Матисов"
+        "member": "Пограничный Страж Матисов",
+        "membergen": "Пограничной Стражи Матисов",
+        "memberdat": "Пограничной Страже Матисов"
     },
     "tribe_night_turners": {
         "name": "Повернувшие Ночь",
-        "member": "Повернувший Ночь"
+        "member": "Повернувший Ночь",
+        "membergen": "Повернувших Ночь",
+        "memberdat": "Повернувшим Ночь"
     },
     "tribe_oasis_diggers": {
         "name": "Копатели Оазиса",
-        "member": "Копатель Оазиса"
+        "member": "Копатель Оазиса",
+        "membergen": "Копателей Оазиса",
+        "memberdat": "Копателям Оазиса"
     },
     "tribe_pyromancers": {
         "name": "Пироманты",
-        "member": "Пиромант"
+        "member": "Пиромант",
+        "membergen": "Пиромантов",
+        "memberdat": "Пиромантам"
     },
     "tribe_recoverers": {
         "name": "Восстановители",
-        "member": "Восстановитель"
+        "member": "Восстановитель",
+        "membergen": "Восстановителей",
+        "memberdat": "Восстановителям"
     },
     "tribe_renegades": {
         "name": "Изменники",
-        "member": "Изменник"
+        "member": "Изменник",
+        "membergen": "Изменников",
+        "memberdat": "Изменникам"
     },
     "tribe_restorers": {
         "name": "Пожарная Стража",
-        "member": "Пожарный Страж"
+        "member": "Пожарный Страж",
+        "membergen": "Пожарной Стражи",
+        "memberdat": "Пожарной Страже"
     },
     "tribe_root_tappers": {
         "name": "Осушающие Корень",
-        "member": "Осушающий Корень"
+        "member": "Осушающий Корень",
+        "membergen": "Осушающих Корень",
+        "memberdat": "Осушающим Корень"
     },
     "tribe_sacred_sap": {
         "name": "Священный Сэп",
-        "member": "Священный Сэп"
+        "member": "Священный Сэп",
+        "membergen": "Священного Сэпа",
+        "memberdat": "Священному Сэпу"
     },
     "tribe_sap_gleaners": {
         "name": "Жнецы Сэпа",
-        "member": "Жнец Сэпа"
+        "member": "Жнец Сэпа",
+        "membergen": "Жнецов Сэпа",
+        "memberdat": "Жнецам Сэпа"
     },
     "tribe_sap_slaves": {
         "name": "Рабы Сэпа",
-        "member": "Рабы Сэпа"
+        "member": "Рабы Сэпа",
+        "membergen": "Рабов Сэпа",
+        "memberdat": "Рабам Сэпа"
     },
     "tribe_scorchers": {
         "name": "Поджигатели",
-        "member": "Поджигатель"
+        "member": "Поджигатель",
+        "membergen": "Поджигателей",
+        "memberdat": "Поджигателям"
     },
     "tribe_shadow_runners": {
         "name": "Бегущие-в-Тени",
-        "member": "Бегущие Тени"
+        "member": "Бегущие Тени",
+        "membergen": "Бегущих Теней",
+        "memberdat": "Бегущим Теням"
     },
     "tribe_siblings_of_the_weeds": {
         "name": "Потомство Сорных Трав",
-        "member": "Потомок Сорных Трав"
+        "member": "Потомок Сорных Трав",
+        "membergen": "Потомков Сорных Трав",
+        "memberdat": "Потомкам Сорных Трав"
     },
     "tribe_silt_sculptors": {
         "name": "Скульпторы Ила",
-        "member": "Скульптор Ила"
+        "member": "Скульптор Ила",
+        "membergen": "Скульпторов Ила",
+        "memberdat": "Скульпторам Ила"
     },
     "tribe_slavers": {
         "name": "Работорговцы",
-        "member": "Работорговец"
+        "member": "Работорговец",
+        "membergen": "Работорговцев",
+        "memberdat": "Работорговцам"
     },
     "tribe_smuglers": {
         "name": "Контрабандисты",
-        "member": "Контрабандист"
+        "member": "Контрабандист",
+        "membergen": "Контрабандистов",
+        "memberdat": "Контрабандистам"
     },
     "tribe_the_arid_matis": {
         "name": "Матисы Засухи",
-        "member": "Матис Засухи"
+        "member": "Матис Засухи",
+        "membergen": "Матисов Засухи",
+        "memberdat": "Матисам Засухи"
     },
     "tribe_the_kuilde": {
         "name": "Куилд",
-        "member": "Куилд"
+        "member": "Куилд",
+        "membergen": "Куилда",
+        "memberdat": "Куилду"
     },
     "tribe_the_slash_and_burn": {
         "name": "Огнем и Мечом",
-        "member": "Огнем и Мечом"
+        "member": "Огнем и Мечом",
+        "membergen": "Огнем и Мечом",
+        "memberdat": "Огнем и Мечом"
     },
     "tribe_tutors": {
         "name": "Наставники",
-        "member": "Наставник"
+        "member": "Наставник",
+        "membergen": "Наставников",
+        "memberdat": "Наставникам"
     },
     "tribe_water_breakers": {
         "name": "Рассекающие Воду",
-        "member": "Рассекающий Воду"
+        "member": "Рассекающий Воду",
+        "membergen": "Рассекающих Воду",
+        "memberdat": "Рассекающим Воду"
     },
     "tribe_woven_bridles": {
         "name": "Плетеные Поводья",
-        "member": "Плетеные Поводья"
+        "member": "Плетеные Поводья",
+        "membergen": "Плетеных Поводьев",
+        "memberdat": "Плетеным Поводьям"
     }
 }

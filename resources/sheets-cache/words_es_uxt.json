@@ -19379,6 +19379,12 @@
     "uigcfxanisotropicfilternone": {
         "name": "Ninguno"
     },
+    "uishowiconbuffs": {
+        "name": "Mostrar las estadísticas y el hechizo del artículo"
+    },
+    "uittshowiconbuffs": {
+        "name": "Mostrar las estadísticas y el hechizo del artículo"
+    },
     "uishowclock12h": {
         "name": "Usar reloj de 12 horas"
     },
@@ -19565,6 +19571,12 @@
     "uittmapsearch": {
         "name": "Búsqueda en el mapa"
     },
+    "uitargetlandmarkcmd": {
+        "name": "Punto de referencia del Mapa"
+    },
+    "uitargetlandmarkcmdentity": {
+        "name": "Palabras clave de la búsqueda de referencia"
+    },
     "uittinventorysearch": {
         "name": "Buscar"
     },
@@ -19622,6 +19634,39 @@
     "uiguildtabisland": {
         "name": "Isla"
     },
+    "uiwelcome_around": {
+        "name": "El juego de roles es uno de los principales intereses de Ryzom, y alrededor del canal es un lugar importante para practicarlo."
+    },
+    "uiwelcome_region": {
+        "name": "Chatea aquí con otros jugadores que tengan su avatar en la misma región que el tuyo."
+    },
+    "uiwelcome_universe": {
+        "name": "El Canal Universo es multilingüe está destinado en primer lugar a los jugadores que piden ayuda sobre el juego y a los que les ayudan. Es un canal amigable que también puede ser utilizado para chatear relacionado con Ryzom."
+    },
+    "uiwelcome_kami": {
+        "name": "Chatea aquí con jugadores que tienen su avatar compartiendo el mismo culto que el tuyo."
+    },
+    "uiwelcome_karavan": {
+        "name": "Chatea aquí con jugadores que tienen su avatar compartiendo el mismo culto que el tuyo."
+    },
+    "uiwelcome_fyros": {
+        "name": "Chatea aquí con jugadores cuyo avatar es también un patriota."
+    },
+    "uiwelcome_tryker": {
+        "name": "Chatea aquí con jugadores cuyo avatar es también ciudadano."
+    },
+    "uiwelcome_zorai": {
+        "name": "Chatea aquí con jugadores cuyo avatar también es un iniciado."
+    },
+    "uiwelcome_matis": {
+        "name": "Chatea aquí con jugadores cuyo avatar también es un vasallo."
+    },
+    "uiwelcome_marauder": {
+        "name": "Chatea aquí con jugadores cuyo avatar también es un marauder."
+    },
+    "uiwelcome_ranger": {
+        "name": "Chatea aquí con jugadores cuyo avatar también es un ranger."
+    },
     "uiartefactrestrict": {
         "name": "@{C02F}Su lealtad o nivel de fama no le permite usar este artículo."
     },
@@ -19661,37 +19706,7 @@
     "uittchanauto": {
         "name": "Si está marcada, sus canales de chat dinámico se restaurarán si no están abiertos.\nEvitará la pérdida de canales al reiniciar o en caso de caída del servidor."
     },
-    "uiwelcome_around": {
-        "name": "El juego de roles es uno de los principales intereses de Ryzom, y alrededor del canal es un lugar importante para practicarlo."
-    },
-    "uiwelcome_region": {
-        "name": "Chatea aquí con otros jugadores que tengan su avatar en la misma región que el tuyo."
-    },
-    "uiwelcome_universe": {
-        "name": "El Canal Universo es multilingüe está destinado en primer lugar a los jugadores que piden ayuda sobre el juego y a los que les ayudan. Es un canal amigable que también puede ser utilizado para chatear relacionado con Ryzom."
-    },
-    "uiwelcome_kami": {
-        "name": "Chatea aquí con jugadores que tienen su avatar compartiendo el mismo culto que el tuyo."
-    },
-    "uiwelcome_karavan": {
-        "name": "Chatea aquí con jugadores que tienen su avatar compartiendo el mismo culto que el tuyo."
-    },
-    "uiwelcome_fyros": {
-        "name": "Chatea aquí con jugadores cuyo avatar es también un patriota."
-    },
-    "uiwelcome_tryker": {
-        "name": "Chatea aquí con jugadores cuyo avatar es también ciudadano."
-    },
-    "uiwelcome_zorai": {
-        "name": "Chatea aquí con jugadores cuyo avatar también es un iniciado."
-    },
-    "uiwelcome_matis": {
-        "name": "Chatea aquí con jugadores cuyo avatar también es un vasallo."
-    },
-    "uiwelcome_marauder": {
-        "name": "Chatea aquí con jugadores cuyo avatar también es un marauder."
-    },
-    "uiwelcome_ranger": {
-        "name": "Chatea aquí con jugadores cuyo avatar también es un ranger."
+    "uimissioncatalog": {
+        "name": "Diario de Misiones"
     }
 }

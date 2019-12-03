@@ -1,270 +1,605 @@
 {
     "fyros": {
         "name": "Fyros",
-        "member": "Fyros"
+        "da": "die",
+        "daa": "den",
+        "ia": "ein",
+        "member": "Fyros",
+        "mda": "die",
+        "mia": "einige"
     },
     "matis": {
         "name": "Matis",
-        "member": "Matis"
+        "da": "die",
+        "daa": "den",
+        "ia": "ein",
+        "member": "Matis",
+        "mda": "die",
+        "mia": "einige"
     },
     "tryker": {
         "name": "Tryker",
-        "member": "Tryker"
+        "da": "die",
+        "daa": "den",
+        "ia": "ein",
+        "member": "Tryker",
+        "mda": "die",
+        "mia": "einige"
     },
     "zorai": {
         "name": "Zoraï",
-        "member": "Zoraï"
+        "da": "die",
+        "daa": "den",
+        "ia": "ein",
+        "member": "Zoraï",
+        "mda": "die",
+        "mia": "einige"
     },
     "bandit": {
         "name": "Banditen",
-        "member": "Banditen"
+        "da": "die",
+        "daa": "den",
+        "ia": "einer der",
+        "member": "Banditen",
+        "mda": "die",
+        "mia": "einige"
     },
     "civil": {
         "name": "Zivilisten",
-        "member": "Zivilisten"
+        "da": "die",
+        "daa": "den",
+        "ia": "einer der",
+        "member": "Zivilisten",
+        "mda": "die",
+        "mia": "einige"
     },
     "black_kami": {
         "name": "Marodeure",
-        "member": "Marodeure"
+        "da": "die",
+        "daa": "den",
+        "ia": "ein",
+        "member": "Marodeure",
+        "mda": "die",
+        "mia": "einige"
     },
     "degen": {
         "name": "Degenerierte",
-        "member": "Degenerierte"
+        "da": "der",
+        "daa": "den",
+        "ia": "ein",
+        "member": "Degenerierte",
+        "mda": "die",
+        "mia": "einige"
     },
     "fauna": {
         "name": "Tiere",
-        "member": "Tiere"
+        "da": "die",
+        "daa": "der",
+        "ia": "eines der",
+        "member": "Tiere",
+        "mda": "die",
+        "mia": "einige"
     },
     "fauna_carnivore": {
         "name": "Fleischfresser",
-        "member": "Fleischfresser"
+        "da": "die",
+        "daa": "der",
+        "ia": "ein",
+        "member": "Fleischfresser",
+        "mda": "die",
+        "mia": "einige"
     },
     "fauna_herbivore": {
         "name": "Pflanzenfresser",
-        "member": "Pflanzenfresser"
+        "da": "die",
+        "daa": "der",
+        "ia": "ein",
+        "member": "Pflanzenfresser",
+        "mda": "die",
+        "mia": "einige"
     },
     "flora": {
         "name": "Pflanzen",
-        "member": "Pflanzen"
+        "da": "die",
+        "daa": "der",
+        "ia": "eine der",
+        "member": "Pflanzen",
+        "mda": "die",
+        "mia": "einige"
     },
     "goo": {
         "name": "Goovorkommen",
-        "member": "Goovorkommen"
+        "da": "das",
+        "daa": "den",
+        "ia": "ein",
+        "member": "Goovorkommen",
+        "mda": "die",
+        "mia": "einige"
     },
     "kami": {
         "name": "Kami",
-        "member": "Kamis"
+        "da": "die",
+        "daa": "den",
+        "ia": "ein",
+        "member": "Kamis",
+        "mda": "die",
+        "mia": "einige"
     },
     "karavan": {
         "name": "Karavan",
-        "member": "Karavan"
+        "da": "die",
+        "daa": "den",
+        "ia": "ein",
+        "member": "Karavan",
+        "mda": "die",
+        "mia": "einige"
     },
     "kitin": {
         "name": "Kitins",
-        "member": "Kitins"
+        "da": "die",
+        "daa": "den",
+        "ia": "ein",
+        "member": "Kitins",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_ancient_dryads": {
         "name": "Alte Dryaden",
-        "member": "Mitglieder der Alten Dryaden"
+        "da": "die",
+        "daa": "den",
+        "ia": "eine der",
+        "member": "Mitglieder der Alten Dryaden",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_antikamis": {
         "name": "Antikami",
-        "member": "Antikami"
+        "da": "die",
+        "daa": "den",
+        "ia": "ein",
+        "member": "Antikami",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_barkers": {
         "name": "Rindengräber",
-        "member": "Rindengräber"
+        "da": "die",
+        "daa": "den",
+        "ia": "ein",
+        "member": "Rindengräber",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_beachcombers": {
         "name": "Gischtläufer",
-        "member": "Gischtläufer"
+        "da": "die",
+        "daa": "den",
+        "ia": "ein",
+        "member": "Gischtläufer",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_black_circle": {
         "name": "Schwarze Kreis",
-        "member": "Mitglieder des Schwarzen Kreises"
+        "da": "der",
+        "daa": "den",
+        "ia": "einer vom",
+        "member": "Mitglieder des Schwarzen Kreises",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_cholorogoos": {
         "name": "Cholorogoos",
-        "member": "Cholorogoos"
+        "da": "die",
+        "daa": "den",
+        "ia": "einer der",
+        "member": "Cholorogoos",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_cockroaches": {
         "name": "Kakerlaken",
-        "member": "Mitglieder der Kakerlaken"
+        "da": "die",
+        "daa": "den",
+        "ia": "einer der",
+        "member": "Mitglieder der Kakerlaken",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_company_of_the_eternal_tree": {
         "name": "Gemeinschaft des Ewigen Baumes",
-        "member": "Mitglieder des Ewigen Baumes"
+        "da": "die",
+        "daa": "der",
+        "ia": "einer der",
+        "member": "Mitglieder des Ewigen Baumes",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_corsair": {
         "name": "Korsaren",
-        "member": "Korsaren"
+        "da": "die",
+        "daa": "den",
+        "ia": "einer der",
+        "member": "Korsaren",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_cute": {
         "name": "Cuzane",
-        "member": "Cuzane"
+        "da": "die",
+        "daa": "den",
+        "ia": "einer der",
+        "member": "Cuzane",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_darkening_sap": {
         "name": "Matiagoo Verdunkelnder Sap",
-        "member": "Matiagoo-Mitglieder"
+        "da": "der",
+        "daa": "den",
+        "ia": "ein",
+        "member": "Matiagoo-Mitglieder",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_dune_riders": {
         "name": "Dünenreiter",
-        "member": "Dünenreiter"
+        "da": "die",
+        "daa": "den",
+        "ia": "ein",
+        "member": "Dünenreiter",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_ecowarriors": {
         "name": "Ökokrieger",
-        "member": "Ökokrieger"
+        "da": "die",
+        "daa": "den",
+        "ia": "ein",
+        "member": "Ökokrieger",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_firebrands": {
         "name": "Heißsporne",
-        "member": "Heißsporne"
+        "da": "die",
+        "daa": "den",
+        "ia": "einer der",
+        "member": "Heißsporne",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_first_deserter": {
         "name": "Erste Deserteure",
-        "member": "Mitglieder der Ersten Deserteure"
+        "da": "die",
+        "daa": "den",
+        "ia": "einer der",
+        "member": "Mitglieder der Ersten Deserteure",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_frahar": {
         "name": "Fraiders",
-        "member": "Fraider"
+        "da": "die",
+        "daa": "den",
+        "ia": "einer der",
+        "member": "Fraider",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_frahar_hunters": {
         "name": "Frahar-Jäger",
-        "member": "Frahar-Jäger"
+        "da": "die",
+        "daa": "den",
+        "ia": "ein",
+        "member": "Frahar-Jäger",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_gibbay": {
         "name": "Gibads",
-        "member": "Gibads"
+        "da": "die",
+        "daa": "den",
+        "ia": "einer der",
+        "member": "Gibads",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_goo_heads": {
         "name": "Erleuchtete des Goo",
-        "member": "Erleuchteten des Goo"
+        "da": "die",
+        "daa": "den",
+        "ia": "einer der",
+        "member": "Erleuchteten des Goo",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_green_seed": {
         "name": "Grüne Samen",
-        "member": "Mitglieder der Grünen Samen"
+        "da": "die",
+        "daa": "den",
+        "ia": "einer der",
+        "member": "Mitglieder der Grünen Samen",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_hamazans_of_the_dead_seed": {
         "name": "Matis-Amazonen Hamazans",
-        "member": "Matis-Amazonen Hamazans"
+        "da": "die",
+        "daa": "den",
+        "ia": "eine der",
+        "member": "Matis-Amazonen Hamazans",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_icon_workshipers": {
         "name": "Ikonenschnitzer",
-        "member": "Ikonenschnitzer"
+        "da": "die",
+        "daa": "den",
+        "ia": "ein",
+        "member": "Ikonenschnitzer",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_keepers": {
         "name": "Erinnerer",
-        "member": "Erinnerer"
+        "da": "die",
+        "daa": "den",
+        "ia": "ein",
+        "member": "Erinnerer",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_kitin_gatheres": {
         "name": "Kitin-Jäger",
-        "member": "Kitin-Jäger"
+        "da": "die",
+        "daa": "den",
+        "ia": "ein",
+        "member": "Kitin-Jäger",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_lagoon_brothers": {
         "name": "Lagunenbrüder",
-        "member": "Lagunenbrüder"
+        "da": "die",
+        "daa": "den",
+        "ia": "einer der",
+        "member": "Lagunenbrüder",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_lawless": {
         "name": "Gesetzlose",
-        "member": "Mitglieder der Gesetzlosen"
+        "da": "die",
+        "daa": "den",
+        "ia": "einer der",
+        "member": "Mitglieder der Gesetzlosen",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_leviers": {
         "name": "Zöllner",
-        "member": "Zöllner"
+        "da": "die",
+        "daa": "den",
+        "ia": "ein",
+        "member": "Zöllner",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_master_of_the_goo": {
         "name": "Meister des Goo",
-        "member": "Meister des Goo"
+        "da": "die",
+        "daa": "den",
+        "ia": "einer der",
+        "member": "Meister des Goo",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_matisian_border_guards": {
         "name": "Matisianische Grenzwächter",
-        "member": "Mitglieder der Matisianischen Grenzwächter"
+        "da": "die",
+        "daa": "den",
+        "ia": "einer der",
+        "member": "Mitglieder der Matisianischen Grenzwächter",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_night_turners": {
         "name": "Nachtwender",
-        "member": "Nachtwender"
+        "da": "die",
+        "daa": "den",
+        "ia": "ein",
+        "member": "Nachtwender",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_oasis_diggers": {
         "name": "Brunnengräber",
-        "member": "Brunnengräber"
+        "da": "die",
+        "daa": "den",
+        "ia": "ein",
+        "member": "Brunnengräber",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_pyromancers": {
         "name": "Feuermagierinnen",
-        "member": "Feuermagierinnen"
+        "da": "die",
+        "daa": "den",
+        "ia": "eine der",
+        "member": "Feuermagierinnen",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_recoverers": {
         "name": "Recycler",
-        "member": "Recycler"
+        "da": "die",
+        "daa": "den",
+        "ia": "ein",
+        "member": "Recycler",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_renegades": {
         "name": "Abtrünnigen",
-        "member": "Mitglieder der Abtrünnigen"
+        "da": "die",
+        "daa": "den",
+        "ia": "einer der",
+        "member": "Mitglieder der Abtrünnigen",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_restorers": {
         "name": "Aufpasser",
-        "member": "Aufpasser"
+        "da": "die",
+        "daa": "den",
+        "ia": "ein",
+        "member": "Aufpasser",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_root_tappers": {
         "name": "Unterwasserwurzel-Extrahierer",
-        "member": "Unterwasserwurzel-Extrahierer"
+        "da": "die",
+        "daa": "den",
+        "ia": "ein",
+        "member": "Unterwasserwurzel-Extrahierer",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_sacred_sap": {
         "name": "Heiliger Sap",
-        "member": "Mitglieder des Heiligen Saps"
+        "da": "der",
+        "daa": "dem",
+        "ia": "einer des",
+        "member": "Mitglieder des Heiligen Saps",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_sap_gleaners": {
         "name": "Sapsammler",
-        "member": "Sapsammler"
+        "da": "die",
+        "daa": "den",
+        "ia": "ein",
+        "member": "Sapsammler",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_sap_slaves": {
         "name": "Sapsklaven",
-        "member": "Sapsklaven"
+        "da": "die",
+        "daa": "den",
+        "ia": "einer der",
+        "member": "Sapsklaven",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_scorchers": {
         "name": "Enthäutete",
-        "member": "Mitglieder der Enthäuteten"
+        "da": "die",
+        "daa": "den",
+        "ia": "einer der",
+        "member": "Mitglieder der Enthäuteten",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_shadow_runners": {
         "name": "Schattenschmuggler",
-        "member": "Schattenschmuggler"
+        "da": "die",
+        "daa": "den",
+        "ia": "ein",
+        "member": "Schattenschmuggler",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_siblings_of_the_weeds": {
         "name": "Geschwister der Pflanzen",
-        "member": "Mitglieder der Geschwister der Pflanzen"
+        "da": "die",
+        "daa": "den",
+        "ia": "einer der",
+        "member": "Mitglieder der Geschwister der Pflanzen",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_silt_sculptors": {
         "name": "Lehmbildhauer",
-        "member": "Lehmbildhauer"
+        "da": "die",
+        "daa": "den",
+        "ia": "ein",
+        "member": "Lehmbildhauer",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_slavers": {
         "name": "Sklaventreiber",
-        "member": "Sklaventreiber"
+        "da": "die",
+        "daa": "den",
+        "ia": "ein",
+        "member": "Sklaventreiber",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_smuglers": {
         "name": "Schmuggler",
-        "member": "Schmuggler"
+        "da": "die",
+        "daa": "den",
+        "ia": "ein",
+        "member": "Schmuggler",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_the_arid_matis": {
         "name": "Dörre Matis",
-        "member": "Mitglieder von Dörre Matis"
+        "da": "die",
+        "daa": "den",
+        "ia": "einer der",
+        "member": "Mitglieder von Dörre Matis",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_the_kuilde": {
         "name": "Kuilde",
-        "member": "Mitglieder der Kuilde"
+        "da": "die",
+        "daa": "den",
+        "ia": "einer der",
+        "member": "Mitglieder der Kuilde",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_the_slash_and_burn": {
         "name": "Scharlachrote Söldner",
-        "member": "Mitglieder der Scharlachroten Söldner"
+        "da": "die",
+        "daa": "den",
+        "ia": "einer der",
+        "member": "Mitglieder der Scharlachroten Söldner",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_tutors": {
         "name": "Tutoren",
-        "member": "Mitglieder der Tutoren"
+        "da": "die",
+        "daa": "den",
+        "ia": "einer der",
+        "member": "Mitglieder der Tutoren",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_water_breakers": {
         "name": "Wasserbrecher",
-        "member": "Wasserbrecher"
+        "da": "die",
+        "daa": "den",
+        "ia": "ein",
+        "member": "Wasserbrecher",
+        "mda": "die",
+        "mia": "einige"
     },
     "tribe_woven_bridles": {
         "name": "Wüstenplünderer",
-        "member": "Wüstenplünderer"
+        "da": "die",
+        "daa": "den",
+        "ia": "ein",
+        "member": "Wüstenplünderer",
+        "mda": "die",
+        "mia": "einige"
     }
 }

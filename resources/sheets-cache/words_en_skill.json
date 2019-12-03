@@ -1,3657 +1,6581 @@
 {
     "acuratebleedingshot": {
-        "name": "Accurate Bleeding Shot ",
-        "p": "Accurate Bleeding Shots ",
+        "name": "Accurate Bleeding Shot",
+        "ia": "an",
+        "da": "the",
+        "p": "Accurate Bleeding Shots",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "acuratebreathlessshot": {
         "name": "Accurate Breathless Shot",
+        "ia": "an",
+        "da": "the",
         "p": "Accurate Breathless Shots",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "animalslideslip": {
         "name": "Animal Slideslip",
+        "ia": "an",
+        "da": "the",
         "p": "Animal Slideslips",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "animalstalking": {
         "name": "Animal Stalking",
+        "ia": "an",
+        "da": "the",
         "p": "Animal Stalkings",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "apothecary": {
         "name": "Apothecary",
+        "ia": "an",
+        "da": "the",
         "p": "Apothecaries",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "area": {
         "name": "Area",
+        "ia": "an",
+        "da": "the",
         "p": "Areas",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "armorandweaponsmithing": {
         "name": "Armor and Weapon Smithing",
+        "ia": "\\d",
+        "da": "the",
         "p": "Armor and Weapon Smithing",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "artandcraft": {
         "name": "Art and Craft",
+        "ia": "\\d",
+        "da": "the",
         "p": "Arts and Crafts",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "attackkamisknowledge": {
         "name": "Attack-Kamis Knowledge",
+        "ia": "an",
+        "da": "the",
         "p": "Attack-Kamis Knowledge",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "atysianregeneration": {
         "name": "Atysian Regeneration",
+        "ia": "an",
+        "da": "the",
         "p": "Atysian Regenerations",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "axe": {
         "name": "Axe",
+        "ia": "an",
+        "da": "the",
         "p": "Axes",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "backdraftstab": {
         "name": "Backdraft Stab",
+        "ia": "a",
+        "da": "the",
         "p": "Backdraft Stabs",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "badluck": {
         "name": "Bad Luck",
+        "ia": "a",
+        "da": "the",
         "p": "Bad Lucks",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "barehandedcombat": {
         "name": "Barehanded Combat",
+        "ia": "a",
+        "da": "the",
         "p": "Barehanded Combats",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "bersekattack": {
         "name": "Berserk Attack",
+        "ia": "a",
+        "da": "the",
         "p": "Berserk Attacks",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "blacksmithing": {
         "name": "Blacksmithing",
+        "ia": "\\d",
+        "da": "the",
         "p": "Blacksmithing",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "bleeding": {
         "name": "Bleeding",
+        "ia": "\\d",
+        "da": "the",
         "p": "Bleedings",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "blindingrage": {
         "name": "Blinding Rage",
+        "ia": "a",
+        "da": "the",
         "p": "Blinding Rages",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "blindshot": {
-        "name": "Blind Shot ",
+        "name": "Blind Shot",
+        "ia": "a",
+        "da": "the",
         "p": "Blind Shots",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "bowgun": {
         "name": "Bowgun",
+        "ia": "a",
+        "da": "the",
         "p": "Bowguns",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "bowpistol": {
         "name": "Bowpistol",
+        "ia": "a",
+        "da": "the",
         "p": "Bowpistols",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "building": {
         "name": "Building",
+        "ia": "\\d",
+        "da": "the",
         "p": "Buildings",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "bullyraggingblast": {
         "name": "Bullyragging Blast",
+        "ia": "a",
+        "da": "the",
         "p": "Bullyragging Blasts",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "camouflage": {
         "name": "Camouflage",
+        "ia": "a",
+        "da": "the",
         "p": "Camouflage",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "caravan": {
         "name": "Karavan",
+        "ia": "a",
+        "da": "the",
         "p": "Karavans",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "cerebralfever": {
         "name": "Cerebral Fever",
+        "ia": "a",
+        "da": "the",
         "p": "Cerebral Fevers",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "clothtailoring": {
         "name": "Cloth Tailoring",
+        "ia": "\\d",
+        "da": "the",
         "p": "Cloth Tailoring",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "cooking": {
         "name": "Cooking",
+        "ia": "\\d",
+        "da": "the",
         "p": "Cooking",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "creaturehatred": {
         "name": "Creature Hatred",
+        "ia": "a",
+        "da": "the",
         "p": "Creature Hatred",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "dagger": {
         "name": "Dagger",
+        "ia": "a",
+        "da": "the",
         "p": "Daggers",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "desert": {
         "name": "Desert",
+        "ia": "a",
+        "da": "the",
         "p": "Deserts",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "desertexoticrawmaterialknowledge": {
         "name": "Desert Exotic Raw Material Knowledge",
+        "ia": "a",
+        "da": "the",
         "p": "Desert Exotic Raw Material Knowledge",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "desertkamisknowledge": {
         "name": "Desert-Kami Knowledge",
+        "ia": "a",
+        "da": "the",
         "p": "Desert-Kamis Knowledge",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "deserttravel": {
         "name": "Desert Travel",
+        "ia": "a",
+        "da": "the",
         "p": "Desert Travels",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "digging": {
         "name": "Digging",
+        "ia": "\\d",
+        "da": "the",
         "p": "Diggings",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "discreetapproach": {
         "name": "Discreet Approach",
+        "ia": "a",
+        "da": "the",
         "p": "Discreet Approaches",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "diving": {
         "name": "Diving",
+        "ia": "\\d",
+        "da": "the",
         "p": "Divings",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "dodging": {
         "name": "Dodging",
+        "ia": "a",
+        "da": "the",
         "p": "Dodgings",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "dragon": {
         "name": "Dragon",
+        "ia": "a",
+        "da": "the",
         "p": "Dragons",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "dryade": {
         "name": "Dryad",
+        "ia": "a",
+        "da": "the",
         "p": "Dryads",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "dualwield": {
         "name": "Dual Wield",
+        "ia": "a",
+        "da": "the",
         "p": "Dual Wields",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "evaluate": {
         "name": "Evaluate",
+        "ia": "an",
+        "da": "the",
         "p": "Evaluates",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "farshot": {
         "name": "Far Shot",
+        "ia": "a",
+        "da": "the",
         "p": "Far Shots",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "farthrow": {
         "name": "Far Throw",
+        "ia": "a",
+        "da": "the",
         "p": "Far Throws",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "feverprotect": {
         "name": "Fever Protect",
+        "ia": "a",
+        "da": "the",
         "p": "Fever Protects",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "firstaid": {
         "name": "First Aid",
+        "ia": "a",
+        "da": "the",
         "p": "First Aids",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "fishing": {
         "name": "Fishing",
+        "ia": "\\d",
+        "da": "the",
         "p": "Fishings",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "forest": {
         "name": "Forest",
+        "ia": "a",
+        "da": "the",
         "p": "Forests",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "forestexoticrawmaterialknowledge": {
         "name": "Forest Exotic Raw Material Knowledge",
+        "ia": "a",
+        "da": "the",
         "p": "Forest Exotic Raw Material Knowledge",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "forestkamisknowledge": {
         "name": "Forest-Kami Knowledge",
+        "ia": "a",
+        "da": "the",
         "p": "Forest-Kamis Knowledge",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "foresttravel": {
         "name": "Forest Travel",
+        "ia": "a",
+        "da": "the",
         "p": "Forest Traveling",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "frost": {
         "name": "Frost",
+        "ia": "a",
+        "da": "the",
         "p": "Frosts",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "fyros": {
         "name": "Fyros",
+        "ia": "a",
+        "da": "the",
         "p": "Fyros",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "fyrosgoods": {
         "name": "Fyros Goods",
+        "ia": "\\d",
+        "da": "the",
         "p": "Fyros Goods",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "goo": {
         "name": "Goo",
+        "ia": "\\d",
+        "da": "the",
         "p": "Goo",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "greataxe": {
         "name": "Great Axe",
+        "ia": "a",
+        "da": "the",
         "p": "Great Axes",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "greatmass": {
         "name": "Great Mace",
+        "ia": "a",
+        "da": "the",
         "p": "Great Maces",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "grenade": {
         "name": "Grenade",
+        "ia": "a",
+        "da": "the",
         "p": "Grenades",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "groundextract": {
         "name": "Ground Extraction",
+        "ia": "a",
+        "da": "the",
         "p": "Ground Extractions",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "handtohand": {
         "name": "Hand to Hand",
+        "ia": "a",
+        "da": "the",
         "p": "Hand to Hand",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "harpoon": {
-        "name": "Harpoon ",
+        "name": "Harpoon",
+        "ia": "a",
+        "da": "the",
         "p": "Harpoons",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "harpoonhunting": {
         "name": "Harpoon Hunting",
+        "ia": "an",
+        "da": "the",
         "p": "Harpoon Huntings",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "harvest": {
         "name": "Harvest",
+        "ia": "a",
+        "da": "the",
         "p": "Harvests",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "healingkamisknowledge": {
         "name": "Healing-Kami Knowledge",
+        "ia": "a",
+        "da": "the",
         "p": "Healing Kamis Knowledge",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "hearwithering": {
         "name": "Hearing Withering",
+        "ia": "a",
+        "da": "the",
         "p": "Hearing Witherings",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "heavyarmourwear": {
         "name": "Wear Heavy Armor",
+        "ia": "a",
+        "da": "the",
         "p": "Wear Heavy Armor",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "heavyweapon": {
         "name": "Heavy Weapon",
+        "ia": "a",
+        "da": "the",
         "p": "Heavy Weapons",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "hide": {
         "name": "Hiding",
+        "ia": "a",
+        "da": "the",
         "p": "Hidings",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "hominopponentconsiderweapon": {
         "name": "Homin Considering",
+        "ia": "a",
+        "da": "the",
         "p": "Homin Considerings",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "huntingkamisknowledge": {
         "name": "Hunting-Kami Knowledge",
+        "ia": "a",
+        "da": "the",
         "p": "Hunting Kamis Knowledge",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "jewellery": {
         "name": "Jewelry",
+        "ia": "\\d",
+        "da": "the",
         "p": "Jewelry",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "jungle": {
         "name": "Jungle",
+        "ia": "a",
+        "da": "the",
         "p": "Jungles",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "jungleexoticrawmaterialknowledge": {
         "name": "Jungle Exotic Raw Material Knowledge",
+        "ia": "a",
+        "da": "the",
         "p": "Jungle Exotic Raw Material Knowledge",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "junglekamisknowledge": {
         "name": "Jungle-Kami Knowledge",
+        "ia": "a",
+        "da": "the",
         "p": "Jungle-Kamis Knowledge",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "jungletravel": {
         "name": "Jungle Travel",
+        "ia": "a",
+        "da": "the",
         "p": "Jungle Traveling",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "kami": {
         "name": "Kami",
+        "ia": "a",
+        "da": "the",
         "p": "Kamis",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "kamicshield": {
         "name": "Kamic Shield",
+        "ia": "a",
+        "da": "the",
         "p": "Kamic Shields",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "kamicshock": {
         "name": "Kamic Shock",
+        "ia": "a",
+        "da": "the",
         "p": "Kamic Shocks",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "kick": {
         "name": "Kick",
+        "ia": "a",
+        "da": "the",
         "p": "Kicks",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "kitin": {
         "name": "Kitin",
+        "ia": "a",
+        "da": "the",
         "p": "Kitin",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "lake": {
         "name": "Lake",
+        "ia": "a",
+        "da": "the",
         "p": "Lakes",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "lakearmor": {
         "name": "Lake Armor",
+        "ia": "\\d",
+        "da": "the",
         "p": "Lake Armor",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "lakeexoticrawmaterialknowledge": {
         "name": "Lake Exotic Raw Material Knowledge",
+        "ia": "a",
+        "da": "the",
         "p": "Lake Exotic Raw Material Knowledge",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "lakekamisknowledge": {
         "name": "Lake-Kami Knowledge",
+        "ia": "a",
+        "da": "the",
         "p": "Lake-Kamis Knowledge",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "laketravel": {
         "name": "Lake Travel",
+        "ia": "a",
+        "da": "the",
         "p": "Lake Traveling",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "leadanimal": {
         "name": "Leading Animal",
+        "ia": "a",
+        "da": "the",
         "p": "Leading Animals",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "leathertailoring": {
         "name": "Leather Tailoring",
+        "ia": "a",
+        "da": "the",
         "p": "Leather Tailorings",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "lefthandedattack": {
         "name": "Left Handed Attack",
+        "ia": "a",
+        "da": "the",
         "p": "Left Handed Attacks",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "lefthandedparry": {
         "name": "Left Handed Parry",
+        "ia": "a",
+        "da": "the",
         "p": "Left Handed Parrying",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "lifealchemy": {
         "name": "Life Alchemy",
+        "ia": "a",
+        "da": "the",
         "p": "Life Alchemies",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "lifegift": {
         "name": "Life Gift",
+        "ia": "a",
+        "da": "the",
         "p": "Life Gifts",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "lightarmourwear": {
-        "name": "Wear Light Armor ",
+        "name": "Wear Light Armor",
+        "ia": "a",
+        "da": "the",
         "p": "Wear Light Armor",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "madness": {
         "name": "Madness",
+        "ia": "a",
+        "da": "the",
         "p": "Madnesses",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "magicobjects": {
         "name": "Magic Object",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Objects",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "magictransfert": {
         "name": "Magic Transfer",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Transfers",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "majordryade": {
         "name": "Major Dryad",
+        "ia": "a",
+        "da": "the",
         "p": "Major Dryads",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "majorheallife": {
         "name": "Major Life Healing",
+        "ia": "a",
+        "da": "the",
         "p": "Major Life Healing",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "majorliferegeneration": {
         "name": "Major Life Regeneration",
+        "ia": "a",
+        "da": "the",
         "p": "Major Life Regenerations",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "majormandragore": {
         "name": "Major Mandragore",
+        "ia": "a",
+        "da": "the",
         "p": "Major Mandragores",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "majorsapheal": {
         "name": "Major Sap Healing",
+        "ia": "a",
+        "da": "the",
         "p": "Major Sap Healing",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "majorsapregenearation": {
         "name": "Major Sap Regeneration",
+        "ia": "a",
+        "da": "the",
         "p": "Major Sap Regenerations",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "majorsylve": {
         "name": "Major Sylve",
+        "ia": "a",
+        "da": "the",
         "p": "Major Sylves",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "majortirednessheal": {
         "name": "Major Tiredness Healing",
+        "ia": "a",
+        "da": "the",
         "p": "Major Tiredness Healing",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "majortirednessregenearation": {
         "name": "Major Tiredness Regeneration",
+        "ia": "a",
+        "da": "the",
         "p": "Major Tiredness Regenerations",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makeanklet": {
         "name": "Make Anklet",
+        "ia": "a",
+        "da": "the",
         "p": "Make Anklets",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makeautolaunch": {
         "name": "Make Autolauncher",
+        "ia": "a",
+        "da": "the",
         "p": "Make Autolaunchers",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makeautolaunchammo": {
         "name": "Make Autolauncher Ammo",
+        "ia": "a",
+        "da": "the",
         "p": "Make Autolauncher Ammo",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makeaxe": {
         "name": "Make Axe",
+        "ia": "a",
+        "da": "the",
         "p": "Make Axes",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makebag": {
         "name": "Make Bag",
+        "ia": "a",
+        "da": "the",
         "p": "Make Bags",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makebowgun": {
         "name": "Make Bowgun",
+        "ia": "a",
+        "da": "the",
         "p": "Make Bowguns",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makebowgunammo": {
         "name": "Make Bowgun Ammo",
+        "ia": "a",
+        "da": "the",
         "p": "Make Bowgun Ammo",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makebracelet": {
         "name": "Make Bracelet",
+        "ia": "a",
+        "da": "the",
         "p": "Make Bracelets",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makebuckler": {
         "name": "Make Buckler",
+        "ia": "a",
+        "da": "the",
         "p": "Make Bucklers",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makeclothes": {
         "name": "Make Clothes",
+        "ia": "a",
+        "da": "the",
         "p": "Make Clothes",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makedagger": {
         "name": "Make Dagger",
+        "ia": "a",
+        "da": "the",
         "p": "Make Daggers",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makediadem": {
         "name": "Make Diadem",
+        "ia": "a",
+        "da": "the",
         "p": "Make Diadems",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makeearing": {
         "name": "Make Earring",
+        "ia": "a",
+        "da": "the",
         "p": "Make Earrings",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makefireammos": {
         "name": "Make Incendiary Ammo",
+        "ia": "a",
+        "da": "the",
         "p": "Make Incendiary Ammo",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makefiretoughenedarmors": {
         "name": "Make Fire Toughened Armor",
+        "ia": "a",
+        "da": "the",
         "p": "Make Fire Toughened Armor",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makefireweapons": {
         "name": "Make Fire Weapon",
+        "ia": "a",
+        "da": "the",
         "p": "Make Fire Weapons",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makeflorallivingjewels": {
         "name": "Make Floral Living Jewel",
+        "ia": "a",
+        "da": "the",
         "p": "Make Floral Living Jewels",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makefloralpatternlivingclothes": {
         "name": "Make Floral Living Clothes",
+        "ia": "a",
+        "da": "the",
         "p": "Make Floral Living Clothes",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makegrenade": {
         "name": "Make Grenade",
+        "ia": "a",
+        "da": "the",
         "p": "Make Grenades",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makeharpoongun": {
         "name": "Make Harpoon Gun",
+        "ia": "a",
+        "da": "the",
         "p": "Make Harpoon Guns",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makeharpoongunammo": {
         "name": "Make Harpoon Gun Ammo",
+        "ia": "a",
+        "da": "the",
         "p": "Make Harpoon Gun Ammo",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makeheavyarmors": {
         "name": "Make Heavy Armor",
+        "ia": "a",
+        "da": "the",
         "p": "Make Heavy Armor",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makeheavyboots": {
         "name": "Make Heavy Boots",
+        "ia": "a",
+        "da": "the",
         "p": "Make Heavy Boots",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makeheavygloves": {
         "name": "Make Heavy Gloves",
+        "ia": "a",
+        "da": "the",
         "p": "Make Heavy Gloves",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makeheavyhelmet": {
         "name": "Make Heavy Helmet",
+        "ia": "a",
+        "da": "the",
         "p": "Make Heavy Helmets",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makeheavypants": {
         "name": "Make Heavy Pants",
+        "ia": "a",
+        "da": "the",
         "p": "Make Heavy Pants",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makeheavysleeves": {
         "name": "Make Heavy Sleeves",
+        "ia": "a",
+        "da": "the",
         "p": "Make Heavy Sleeves",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makeheavyvest": {
         "name": "Make Heavy Vest",
+        "ia": "a",
+        "da": "the",
         "p": "Make Heavy Vests",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makejewels": {
         "name": "Make Jewel",
+        "ia": "a",
+        "da": "the",
         "p": "Make Jewels",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makekamicclothes": {
         "name": "Make Kami Clothes",
+        "ia": "a",
+        "da": "the",
         "p": "Make Kami Clothes",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makekamicjewels": {
         "name": "Make Kami Jewel",
+        "ia": "a",
+        "da": "the",
         "p": "Make Kami Jewels",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makekamicweapon": {
         "name": "Make Kami Weapon",
+        "ia": "a",
+        "da": "the",
         "p": "Make Kami Weapons",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makelance": {
         "name": "Make Spear",
+        "ia": "a",
+        "da": "the",
         "p": "Make Spears",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makelauncher": {
         "name": "Make Launcher",
+        "ia": "a",
+        "da": "the",
         "p": "Make Launchers",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makelauncherammo": {
         "name": "Make Launcher Ammo",
+        "ia": "a",
+        "da": "the",
         "p": "Make Launcher Ammo",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makelightboots": {
         "name": "Make Light Boots",
+        "ia": "a",
+        "da": "the",
         "p": "Make Light Boots",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makelightgloves": {
         "name": "Make Light Gloves",
+        "ia": "a",
+        "da": "the",
         "p": "Make Light Gloves",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makelighthelmet": {
         "name": "Make Light Helmet",
+        "ia": "a",
+        "da": "the",
         "p": "Make Light Helmets",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makelightpants": {
         "name": "Make Light Pants",
+        "ia": "a",
+        "da": "the",
         "p": "Make Light Pants",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makelightsleeves": {
         "name": "Make Light Sleeves",
+        "ia": "a",
+        "da": "the",
         "p": "Make Light Sleeves",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makelightvest": {
         "name": "Make Light Vest",
+        "ia": "a",
+        "da": "the",
         "p": "Make Light Vests",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makelongaxe": {
         "name": "Make Long Axe",
+        "ia": "a",
+        "da": "the",
         "p": "Make Long Axes",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makelongmace": {
         "name": "Make Long Mace",
+        "ia": "a",
+        "da": "the",
         "p": "Make Long Maces",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makelongsword": {
         "name": "Make Long Sword",
+        "ia": "a",
+        "da": "the",
         "p": "Make Long Swords",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makemace": {
         "name": "Make Mace",
+        "ia": "a",
+        "da": "the",
         "p": "Make Maces",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makemediumarmors": {
         "name": "Make Medium Armor",
+        "ia": "a",
+        "da": "the",
         "p": "Make Medium Armors",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makemediumboots": {
         "name": "Make Medium Boots",
+        "ia": "a",
+        "da": "the",
         "p": "Make Medium Boots",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makemediumgloves": {
         "name": "Make Medium Gloves",
+        "ia": "a",
+        "da": "the",
         "p": "Make Medium Gloves",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makemediumhelmet": {
         "name": "Make Medium Helmet",
+        "ia": "a",
+        "da": "the",
         "p": "Make Medium Helmets",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makemediumpants": {
         "name": "Make Medium Pants",
+        "ia": "a",
+        "da": "the",
         "p": "Make Medium Pants",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makemediumsleeves": {
         "name": "Make Medium Sleeves",
+        "ia": "a",
+        "da": "the",
         "p": "Make Medium Sleeves",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makemediumvest": {
         "name": "Make Medium Vest",
+        "ia": "a",
+        "da": "the",
         "p": "Make Medium Vests",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makemeleeweapons": {
         "name": "Make Melee Weapon",
+        "ia": "a",
+        "da": "the",
         "p": "Make Melee Weapons",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makependant": {
         "name": "Make Pendant",
+        "ia": "a",
+        "da": "the",
         "p": "Make Pendants",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makepike": {
         "name": "Make Pike",
+        "ia": "a",
+        "da": "the",
         "p": "Make Pikes",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makepistol": {
         "name": "Make Pistol",
+        "ia": "a",
+        "da": "the",
         "p": "Make Pistols",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makepistolammo": {
         "name": "Make Pistol Ammo",
+        "ia": "a",
+        "da": "the",
         "p": "Make Pistol Ammo",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makepistolarc": {
         "name": "Make Bowpistol",
+        "ia": "a",
+        "da": "the",
         "p": "Make Bowpistols",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makepistolarcammo": {
         "name": "Make Bowpistol Ammo",
+        "ia": "a",
+        "da": "the",
         "p": "Make Bowpistol Ammo",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makepoisonnouslivingweapons": {
-        "name": "Make Poisonous Living Weapon ",
+        "name": "Make Poisonous Living Weapon",
+        "ia": "a",
+        "da": "the",
         "p": "Make Poisonous Living Weapons",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makerangeweaponammos": {
         "name": "Make Range Weapon Ammo",
+        "ia": "a",
+        "da": "the",
         "p": "Make Range Weapon Ammo",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makerangeweapons": {
         "name": "Make Range Weapon",
+        "ia": "a",
+        "da": "the",
         "p": "Make Range Weapons",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makerifle": {
         "name": "Make Rifle",
+        "ia": "a",
+        "da": "the",
         "p": "Make Rifles",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makerifleammo": {
         "name": "Make Rifle Ammo",
+        "ia": "a",
+        "da": "the",
         "p": "Make Rifle Ammo",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makering": {
         "name": "Make Ring",
+        "ia": "a",
+        "da": "the",
         "p": "Make Rings",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makeshield": {
         "name": "Make Shield",
+        "ia": "a",
+        "da": "the",
         "p": "Make Shields",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makeshiftrepair": {
         "name": "Makeshift Repair",
+        "ia": "a",
+        "da": "the",
         "p": "Makeshift Repairs",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makesurvivaltools": {
         "name": "Make Survival Tool",
+        "ia": "a",
+        "da": "the",
         "p": "Make Survival Tools",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makesurvivalweapon": {
         "name": "Make Survival Weapon",
+        "ia": "a",
+        "da": "the",
         "p": "Make Survival Weapons",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makesword": {
         "name": "Make Sword",
+        "ia": "a",
+        "da": "the",
         "p": "Make Swords",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makethrowingweapon": {
         "name": "Make Throwing Weapon",
+        "ia": "a",
+        "da": "the",
         "p": "Make Throwing Weapons",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "maketools": {
         "name": "Make Tool",
+        "ia": "a",
+        "da": "the",
         "p": "Make Tools",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "maketwo_handsmeleeweapons": {
         "name": "Make Two-Handed Melee Weapon",
+        "ia": "a",
+        "da": "the",
         "p": "Make Two-Handed Melee Weapons",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "maketwo_handsrangeweaponammos": {
         "name": "Make Two-Handed Range Weapon Ammo",
+        "ia": "a",
+        "da": "the",
         "p": "Make Two-Handed Range Weapon Ammo",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "maketwo_handsrangeweapons": {
         "name": "Make Two-Handed Range Weapon",
+        "ia": "a",
+        "da": "the",
         "p": "Make Two-Handed Range Weapons",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "mandragore": {
         "name": "Mandragore",
+        "ia": "a",
+        "da": "the",
         "p": "Mandragores",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "mandrakefist": {
         "name": "Mandrake Fist",
+        "ia": "a",
+        "da": "the",
         "p": "Mandrake Fists",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "mass": {
         "name": "Mace",
+        "ia": "a",
+        "da": "the",
         "p": "Maces",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "massivethrow": {
         "name": "Massive Throw",
+        "ia": "a",
+        "da": "the",
         "p": "Massive Throws",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "matis": {
         "name": "Matis",
+        "ia": "a",
+        "da": "the",
         "p": "Matis",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "matisgoods": {
         "name": "Matis Goods",
+        "ia": "\\d",
+        "da": "the",
         "p": "Matis Goods",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "matismystery": {
         "name": "Matis Mystery",
+        "ia": "a",
+        "da": "the",
         "p": "Matis Mysteries",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "mechanic": {
         "name": "Mechanic",
+        "ia": "a",
+        "da": "the",
         "p": "Mechanics",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "mediumarmourwear": {
         "name": "Wear Medium Armor",
+        "ia": "a",
+        "da": "the",
         "p": "Wear Medium Armors",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "minorlifeheal": {
         "name": "Minor Life Healing",
+        "ia": "a",
+        "da": "the",
         "p": "Minor Life Healing",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "minorsapheal": {
         "name": "Minor Sap Healing",
+        "ia": "a",
+        "da": "the",
         "p": "Minor Sap Healing",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "minortirednessheal": {
         "name": "Minor Tiredness Healing",
+        "ia": "a",
+        "da": "the",
         "p": "Minor Tiredness Healing",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "mirror": {
         "name": "Mirror",
+        "ia": "a",
+        "da": "the",
         "p": "Mirrors",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "muscularfever": {
         "name": "Muscular Fever",
+        "ia": "a",
+        "da": "the",
         "p": "Muscular Fever",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "nervousfever": {
         "name": "Nervous Fever",
+        "ia": "a",
+        "da": "the",
         "p": "Nervous Fever",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "nightshot": {
         "name": "Night Shot",
+        "ia": "a",
+        "da": "the",
         "p": "Night Shots",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "nunb": {
         "name": "Numb",
+        "ia": "a",
+        "da": "the",
         "p": "Numbs",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "onhorsebackmelee": {
         "name": "Mounted Fighting",
+        "ia": "a",
+        "da": "the",
         "p": "Mounted Fighting",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "onhorsebackshoot": {
         "name": "Mounted Shooting",
+        "ia": "a",
+        "da": "the",
         "p": "Mounted Shootings",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "painshare": {
         "name": "Pain Share",
+        "ia": "a",
+        "da": "the",
         "p": "Pain Shares",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "paralysis": {
         "name": "Paralysis",
+        "ia": "a",
+        "da": "the",
         "p": "Paralyses",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "pike": {
         "name": "Pike",
+        "ia": "a",
+        "da": "the",
         "p": "Pikes",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "pikehunting": {
         "name": "Creature Hunting",
+        "ia": "a",
+        "da": "the",
         "p": "Creature Huntings",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "pistol": {
         "name": "Pistol",
+        "ia": "a",
+        "da": "the",
         "p": "Pistols",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "planthatred": {
         "name": "Plant Hatred",
+        "ia": "a",
+        "da": "the",
         "p": "Plant Hatreds",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "pointblankshot": {
         "name": "Point Blank Shot",
+        "ia": "a",
+        "da": "the",
         "p": "Point Blank Shots",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "primaryroots": {
         "name": "Primary Roots",
+        "ia": "a",
+        "da": "the",
         "p": "Primary Roots",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "protectingkamisknoledge": {
         "name": "Protecting-Kamis Knowledge",
+        "ia": "a",
+        "da": "the",
         "p": "Protecting-Kamis Knowledge",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "quartering": {
         "name": "Quartering",
+        "ia": "a",
+        "da": "the",
         "p": "Quarterings",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "quickshot": {
         "name": "Quick Shot",
+        "ia": "a",
+        "da": "the",
         "p": "Quick Shots",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "quickthrow": {
         "name": "Quick Throw",
+        "ia": "a",
+        "da": "the",
         "p": "Quick Throws",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "range": {
         "name": "Range",
+        "ia": "a",
+        "da": "the",
         "p": "Range",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "rapidburst": {
         "name": "Rapid Burst",
+        "ia": "a",
+        "da": "the",
         "p": "Rapid Bursts",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "resist": {
         "name": "Resist",
+        "ia": "a",
+        "da": "the",
         "p": "Resists",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "resistance": {
         "name": "Resistance",
+        "ia": "a",
+        "da": "the",
         "p": "Resistances",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "ridepackers": {
         "name": "Leading Packer",
+        "ia": "a",
+        "da": "the",
         "p": "Leading Packers",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "riding": {
         "name": "Riding",
+        "ia": "a",
+        "da": "the",
         "p": "Ridings",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "rifle": {
         "name": "Rifle",
+        "ia": "a",
+        "da": "the",
         "p": "Rifles",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "riflehunting": {
         "name": "Shooting",
+        "ia": "a",
+        "da": "the",
         "p": "Shootings",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "rocket": {
         "name": "Rocket",
+        "ia": "a",
+        "da": "the",
         "p": "Rockets",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "rocktabou": {
         "name": "Rock Taboo",
+        "ia": "a",
+        "da": "the",
         "p": "Rock Taboos",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "rondache": {
         "name": "Rondache",
+        "ia": "a",
+        "da": "the",
         "p": "Rondaches",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "rot": {
         "name": "Rot",
+        "ia": "a",
+        "da": "the",
         "p": "Rots",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "running": {
         "name": "Running",
+        "ia": "a",
+        "da": "the",
         "p": "Running",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sapalchemy": {
         "name": "Sap Alchemy",
+        "ia": "a",
+        "da": "the",
         "p": "Sap Alchemies",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "saparmor": {
         "name": "Sap Armor",
+        "ia": "a",
+        "da": "the",
         "p": "Sap Armor",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sapgift": {
         "name": "Sap Gift",
+        "ia": "a",
+        "da": "the",
         "p": "Sap Gifts",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "shield": {
         "name": "Shield",
+        "ia": "a",
+        "da": "the",
         "p": "Shields",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "shootandrun": {
         "name": "Shoot and Run",
+        "ia": "a",
+        "da": "the",
         "p": "Shoot and Runs",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "shotprotect": {
         "name": "Shot Protect",
+        "ia": "a",
+        "da": "the",
         "p": "Shot Protects",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "slowingbreath": {
         "name": "Slowing Breath",
+        "ia": "a",
+        "da": "the",
         "p": "Slowing Breaths",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "slowinglife": {
         "name": "Slowing Life",
+        "ia": "a",
+        "da": "the",
         "p": "Slowing Lives",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "spear": {
         "name": "Spear",
+        "ia": "a",
+        "da": "the",
         "p": "Spears",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "spelldeletion": {
         "name": "Spell Deletion",
+        "ia": "a",
+        "da": "the",
         "p": "Spell Deletions",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "spellprotect": {
         "name": "Spell Protect",
+        "ia": "a",
+        "da": "the",
         "p": "Spell Protects",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "spurtingfire": {
         "name": "Spurting Fire",
+        "ia": "a",
+        "da": "the",
         "p": "Spurting Fires",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "squandering": {
         "name": "Squandering",
+        "ia": "a",
+        "da": "the",
         "p": "Squanderings",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "stallsetup": {
         "name": "Stall Set Up",
+        "ia": "a",
+        "da": "the",
         "p": "Stall Set Ups",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "stealbreath": {
         "name": "Stealing Breath",
+        "ia": "a",
+        "da": "the",
         "p": "Stealing Breaths",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "steallife": {
         "name": "Stealing Life",
+        "ia": "a",
+        "da": "the",
         "p": "Stealing Lives",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "stealsap": {
         "name": "Stealing Sap",
+        "ia": "a",
+        "da": "the",
         "p": "Stealing Sap",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "stick": {
         "name": "Staff",
+        "ia": "a",
+        "da": "the",
         "p": "Staves",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "strenghtgift": {
         "name": "Strength Gift",
+        "ia": "a",
+        "da": "the",
         "p": "Strength Gifts",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "swimming": {
         "name": "Swimming",
+        "ia": "a",
+        "da": "the",
         "p": "Swimmings",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sword": {
         "name": "Sword",
+        "ia": "a",
+        "da": "the",
         "p": "Swords",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sylphicslide": {
         "name": "Sylphic Slide",
+        "ia": "a",
+        "da": "the",
         "p": "Sylphic Slide",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sylve": {
         "name": "Sylve",
+        "ia": "a",
+        "da": "the",
         "p": "Sylves",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "tactilewithering": {
         "name": "Tactile Withering",
+        "ia": "a",
+        "da": "the",
         "p": "Tactile Witherings",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "target": {
         "name": "Target",
+        "ia": "a",
+        "da": "the",
         "p": "Targets",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "terror": {
         "name": "Terror",
+        "ia": "a",
+        "da": "the",
         "p": "Terrors",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "tirednessalchemy": {
         "name": "Tiredness Alchemy",
+        "ia": "a",
+        "da": "the",
         "p": "Tiredness Alchemies",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "tracking": {
         "name": "Tracking",
+        "ia": "a",
+        "da": "the",
         "p": "Trackings",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "tradingcenterknowledge": {
         "name": "Trading Center Knowledge",
+        "ia": "a",
+        "da": "the",
         "p": "Trading Center Knowledges",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "trainingagility": {
         "name": "Training Agility",
+        "ia": "a",
+        "da": "the",
         "p": "Training Agilities",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "traininganimal": {
         "name": "Training Animal",
+        "ia": "a",
+        "da": "the",
         "p": "Training Animals",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "trainingcharisme": {
         "name": "Training Charisma",
+        "ia": "a",
+        "da": "the",
         "p": "Training Charismata",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "trainingconstitution": {
         "name": "Training Constitution",
+        "ia": "a",
+        "da": "the",
         "p": "Training Constitution",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "trainingdiseaseresist": {
         "name": "Training Disease Resistance",
+        "ia": "a",
+        "da": "the",
         "p": "Training Disease Resistances",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "trainingempathie": {
         "name": "Training Empathy",
+        "ia": "a",
+        "da": "the",
         "p": "Training Empathies",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "trainingfearresist": {
         "name": "Training Fear Resistance",
+        "ia": "a",
+        "da": "the",
         "p": "Training Fear Resistances",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "traininghp": {
         "name": "Training Hit Points",
+        "ia": "\\d",
+        "da": "the",
         "p": "Training Hit Points",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "traininghp2": {
         "name": "Training Hit Points 2",
+        "ia": "\\d",
+        "da": "the",
         "p": "Training Hit Points 2",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "traininghp3": {
         "name": "Training Hit Points 3",
+        "ia": "\\d",
+        "da": "the",
         "p": "Training Hit Points 3",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "traininghp4": {
         "name": "Training Hit Points 4",
+        "ia": "\\d",
+        "da": "the",
         "p": "Training Hit Points 4",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "trainingimpactresist": {
         "name": "Training Impact Resistance",
+        "ia": "a",
+        "da": "the",
         "p": "Training Impact Resistances",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "trainingintelligence": {
         "name": "Training Intelligence",
+        "ia": "a",
+        "da": "the",
         "p": "Training Intelligences",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "trainingmagicresist": {
         "name": "Training Magic Resistance",
+        "ia": "a",
+        "da": "the",
         "p": "Training Magic Resistances",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "trainingperception": {
         "name": "Training Perception",
+        "ia": "a",
+        "da": "the",
         "p": "Training Perceptions",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "trainingseve": {
         "name": "Training Sap",
+        "ia": "\\d",
+        "da": "the",
         "p": "Training Sap",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "trainingseve2": {
         "name": "Training Sap 2",
+        "ia": "\\d",
+        "da": "the",
         "p": "Training Sap 2",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "trainingseve3": {
         "name": "Training Sap 3",
+        "ia": "\\d",
+        "da": "the",
         "p": "Training Sap 3",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "trainingseve4": {
         "name": "Training Sap 4",
+        "ia": "\\d",
+        "da": "the",
         "p": "Training Sap 4",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "trainingstamina": {
         "name": "Training Stamina",
+        "ia": "a",
+        "da": "the",
         "p": "Training Stamina",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "trainingstamina2": {
         "name": "Training Stamina 2",
+        "ia": "a",
+        "da": "the",
         "p": "Training Stamina 2",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "trainingstamina3": {
         "name": "Training Stamina 3",
+        "ia": "a",
+        "da": "the",
         "p": "Training Stamina 3",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "trainingstamina4": {
         "name": "Training Stamina 4",
+        "ia": "a",
+        "da": "the",
         "p": "Training Stamina 4",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "trainingstrength": {
         "name": "Training Strength",
+        "ia": "a",
+        "da": "the",
         "p": "Training Strengths",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "trainingtechnoresist": {
         "name": "Training Techno Resistance",
+        "ia": "a",
+        "da": "the",
         "p": "Training Techno Resistances",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "trainingwellbalanced": {
         "name": "Training Balance",
+        "ia": "a",
+        "da": "the",
         "p": "Training Balance",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "trainingwill": {
         "name": "Training Will",
+        "ia": "a",
+        "da": "the",
         "p": "Training Wills",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "tryker": {
         "name": "Tryker",
+        "ia": "a",
+        "da": "the",
         "p": "Trykers",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "trykergoods": {
         "name": "Tryker Goods",
+        "ia": "\\d",
+        "da": "the",
         "p": "Tryker Goods",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "trykermystery": {
         "name": "Tryker Mystery",
+        "ia": "a",
+        "da": "the",
         "p": "Tryker Mysteries",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "twohandedcombat": {
         "name": "Two-Handed Combat",
+        "ia": "a",
+        "da": "the",
         "p": "Two-Handed Combats",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "twohandssword": {
         "name": "Two-Handed Sword",
+        "ia": "a",
+        "da": "the",
         "p": "Two-Handed Swords",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "underwaterextract": {
         "name": "Underwater Extract",
+        "ia": "an",
+        "da": "the",
         "p": "Underwater Extracts",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "visualwithering": {
         "name": "Visual Withering",
+        "ia": "a",
+        "da": "the",
         "p": "Visual Witherings",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "vitalburst": {
         "name": "Vital Burst",
+        "ia": "a",
+        "da": "the",
         "p": "Vital Bursts",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "warriorgift": {
         "name": "Warrior Gift",
+        "ia": "a",
+        "da": "the",
         "p": "Warrior Gifts",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "weaponscutting": {
         "name": "Weapons Cutting",
+        "ia": "a",
+        "da": "the",
         "p": "Weapons Cuttings",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "windarmor": {
         "name": "Wind Armor",
+        "ia": "a",
+        "da": "the",
         "p": "Wind Armor",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "windgift": {
         "name": "Wind Gift",
+        "ia": "a",
+        "da": "the",
         "p": "Wind Gifts",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "windshear": {
         "name": "Wind Shear",
+        "ia": "a",
+        "da": "the",
         "p": "Wind Shears",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "zorai": {
         "name": "Zoraï",
+        "ia": "a",
+        "da": "the",
         "p": "Zoraïs",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "zoraigoods": {
         "name": "Zoraï Goods",
+        "ia": "\\d",
+        "da": "the",
         "p": "Zoraï Goods",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "zoraimystery": {
         "name": "Zoraï Mystery",
+        "ia": "a",
+        "da": "the",
         "p": "Zoraï Mysteries",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "trainingimpactresist2": {
         "name": "Training Impact Resist 2",
+        "ia": "a",
+        "da": "the",
         "p": "Training Impact Resists 2",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "trainingimpactresist3": {
         "name": "Training Impact Resist 3",
+        "ia": "a",
+        "da": "the",
         "p": "Training Impact Resists 3",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "trainingmagicresist2": {
         "name": "Training Magic Resist 2",
+        "ia": "a",
+        "da": "the",
         "p": "Training Magic Resists 2",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "trainingmagicresist3": {
         "name": "Training Magic Resist 3",
+        "ia": "a",
+        "da": "the",
         "p": "Training Magic Resists 3",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makeenchantedweapons": {
         "name": "Make Enchanted Weapons",
+        "ia": "a",
+        "da": "the",
         "p": "Make Enchanted Weapons",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makeenchantedarmors": {
         "name": "Make Enchanted Armors",
+        "ia": "a",
+        "da": "the",
         "p": "Make Enchanted Armor",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makevampiricweapons": {
         "name": "Make Vampiric Weapons",
+        "ia": "a",
+        "da": "the",
         "p": "Make Vampiric Weapons",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makeenchantedfloralpatternlivingclothes": {
         "name": "Make Enchanted Floral Pattern Living Clothes",
+        "ia": "a",
+        "da": "the",
         "p": "Make Enchanted Floral Pattern Living Clothes",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makedeadlyharpoongun": {
         "name": "Make Deadly Harpoongun",
+        "ia": "a",
+        "da": "the",
         "p": "Make Deadly Harpoonguns",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makehuntingarmors": {
         "name": "Make Hunting Armors",
+        "ia": "a",
+        "da": "the",
         "p": "Make Hunting Armor",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makeritualclothes": {
         "name": "Make Ritual Clothes",
+        "ia": "a",
+        "da": "the",
         "p": "Make Ritual Clothes",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "makeritualjewels": {
         "name": "Make Ritual Jewels",
+        "ia": "a",
+        "da": "the",
         "p": "Make Ritual Jewels",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sc": {
         "name": "Craft",
+        "ia": "a",
+        "da": "the",
         "p": "Craft",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Craft"
     },
     "sm": {
         "name": "Magic",
+        "ia": "a",
+        "da": "the",
         "p": "Magic",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic"
     },
     "smt": {
         "name": "Impact Magic",
+        "ia": "an",
+        "da": "the",
         "p": "Magic Targeted",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic targeted"
     },
     "smtm": {
         "name": "Missile Magic",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Targeted Missile",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic targeted missile"
     },
     "smtmr": {
         "name": "Primal Magic",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Targeted Missile - Primal",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic targeted missile - Primal"
     },
     "smtmg": {
         "name": "Atysian Magic",
+        "ia": "an",
+        "da": "the",
         "p": "Magic Targeted Missile - Atysian",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic targeted missile - Atysian"
     },
     "smtmb": {
         "name": "Celestial Magic",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Targeted Missile - Celestial",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic targeted missile - Celestial"
     },
     "smto": {
         "name": "Offensive Magic",
+        "ia": "an",
+        "da": "the",
         "p": "Magic Targeted Offensive",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic targeted offensive"
     },
     "smtod": {
         "name": "Physical Magic",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Targeted Offensive Damage",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic targeted offensive damage"
     },
     "smtodp": {
         "name": "Piercing Magic",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Targeted Offensive Damage - Piercing",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic targeted offensive damage - piercing"
     },
     "smtodb": {
         "name": "Smashing Magic",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Targeted Offensive Damage - Smashing",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic targeted offensive damage - smashing"
     },
     "smtods": {
         "name": "Slashing Magic",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Targeted Offensive Damage - Slashing",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic targeted offensive damage - slashing"
     },
     "smtoe": {
         "name": "Elemental Magic",
+        "ia": "an",
+        "da": "the",
         "p": "Magic Targeted Offensive Special Damage",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic targeted offensive special damage"
     },
     "smtoec": {
         "name": "Cold Magic",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Targeted Offensive Special Damage - Cold",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic targeted offensive special damage - cold"
     },
     "smtoea": {
         "name": "Acid Magic",
+        "ia": "an",
+        "da": "the",
         "p": "Magic Targeted Offensive Special Damage - Acid",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic targeted offensive special damage - acid"
     },
     "smtoer": {
         "name": "Rot Magic",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Targeted Offensive Special Damage - Rot",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic targeted offensive special damage - rot"
     },
     "smtoef": {
         "name": "Fire Magic",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Targeted Offensive Special Damage - Fire",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic targeted offensive special damage - fire"
     },
     "smtoes": {
         "name": "Shockwave Magic",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Targeted Offensive Special Damage - Shockwave",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic targeted offensive special damage - shockwave"
     },
     "smtoep": {
         "name": "Poison Magic",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Targeted Offensive Special Damage - Poison",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic targeted offensive special damage - poison"
     },
     "smtoee": {
         "name": "Electricity Magic",
+        "ia": "an",
+        "da": "the",
         "p": "Magic Targeted Offensive Special Damage - Electricity",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic targeted offensive special damage - electricity"
     },
     "smtc": {
         "name": "Curative Magic",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Targeted Curative",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic targeted curative"
     },
     "smtch": {
         "name": "Healing Magic",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Targeted Curative Heal",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic targeted curative heal"
     },
     "smtchp": {
         "name": "Hp Healing Magic",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Targeted Curative Heal - hit points",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic targeted curative heal - hit points"
     },
     "smtcht": {
         "name": "Sta Healing Magic",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Targeted Curative Heal – Stamina",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic targeted curative heal - STA"
     },
     "smtcha": {
         "name": "Sap Healing Magic",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Targeted Curative Heal - Sap",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic targeted curative heal - SAP"
     },
     "smtchc": {
         "name": "Focus Healing Magic",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Targeted Curative Heal - Focus",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic targeted curative heal - Focus"
     },
     "smtcb": {
         "name": "Break Link",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Targeted Curative Break Link",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic targeted curative break link"
     },
     "smtcbd": {
         "name": "Break Link Damage",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Targeted Curative Break Link - Damage",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic targeted curative break link - damage"
     },
     "smtcbs": {
         "name": "Break Link Sickness",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Targeted Curative Break Link - Sickness",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic targeted curative break link - sickness"
     },
     "smtcbc": {
         "name": "Break Link Curse",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Targeted Curative Break Link - Curse",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic targeted curative break link - curse"
     },
     "sml": {
         "name": "Magic Link",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Link",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic link"
     },
     "smlm": {
         "name": "Missile Link",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Link Missile",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic link missile"
     },
     "smlmr": {
         "name": "Primal Link",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Link Missile - Primal",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic link missile - Primal"
     },
     "smlmg": {
         "name": "Atysian Link",
+        "ia": "an",
+        "da": "the",
         "p": "Magic Link Missile - Atysian",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic link missile - Atysian"
     },
     "smlmb": {
         "name": "Celestial Link",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Link Missile - Celestial",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic link missile - Celestial"
     },
     "smlo": {
         "name": "Offensive Link",
+        "ia": "an",
+        "da": "the",
         "p": "Magic Link Offensive",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic link offensive"
     },
     "smlos": {
         "name": "Sickness Link",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Link Offensive Sickness",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic link offensive sickness"
     },
     "smlosm": {
         "name": "Madness Link",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Link Offensive Sickness - Madness",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic link offensive sickness - madness"
     },
     "smloss": {
         "name": "Speed Debuff Link",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Link Offensive Sickness - Speed Debuff",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic link offensive sickness - speed debuff"
     },
     "smlosr": {
         "name": "Resist Debuff Link",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Link Offensive Sickness - Resist Debuff",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic link offensive sickness - resist debuff"
     },
     "smlosk": {
         "name": "Skill Debuff Link",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Link Offensive Sickness - Skill Debuff",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic link offensive sickness - skill debuff"
     },
     "smloc": {
         "name": "Curse Link",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Link Offensive Curse",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic link offensive curse"
     },
     "smloci": {
         "name": "Incapacity Link",
+        "ia": "an",
+        "da": "the",
         "p": "Magic Link Offensive Curse - Incapacity",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic link offensive curse - incapacity"
     },
     "smlocm": {
         "name": "Mental Disturbance Link",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Link Offensive Curse - Mental Disturbance",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic link offensive curse - mental disturbance"
     },
     "smlocs": {
         "name": "Misfortune Link",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Link Offensive Curse - Misfortune",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic link offensive curse - misfortune"
     },
     "smloch": {
         "name": "Hatred Link",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Link Offensive Curse - Hatred",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic link offensive curse - hatred"
     },
     "smlod": {
         "name": "Physical Link",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Link Offensive Damage",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic link offensive damage"
     },
     "smlodp": {
         "name": "Piercing Link",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Link Offensive Damage - Piercing",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic link offensive damage - piercing"
     },
     "smlodb": {
         "name": "Smashing Link",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Link Offensive Damage - Smashing",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic link offensive damage - smashing"
     },
     "smlods": {
         "name": "Slashing Link",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Link Offensive Damage - Slashing",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic link offensive damage - slashing"
     },
     "smloe": {
         "name": "Elemental Link",
+        "ia": "an",
+        "da": "the",
         "p": "Magic Link Offensive Special Damage",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic link offensive special damage"
     },
     "smloec": {
         "name": "Cold Link",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Link Offensive Special Damage - Cold",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic link offensive special damage - cold"
     },
     "smloea": {
         "name": "Acid Link",
+        "ia": "an",
+        "da": "the",
         "p": "Magic Link Offensive Special Damage - Acid",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic link offensive special damage - acid"
     },
     "smloer": {
         "name": "Rot Link",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Link Offensive Special Damage - Rot",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic link offensive special damage - rot"
     },
     "smloef": {
         "name": "Fire Link",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Link Offensive Special Damage - Fire",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic link offensive special damage - fire"
     },
     "smloes": {
         "name": "Shockwave Link",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Link Offensive Special Damage - Shockwave",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic link offensive special damage - shockwave"
     },
     "smloep": {
         "name": "Poison Link",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Link Offensive Special Damage - Poison",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic link offensive special damage - poison"
     },
     "smloee": {
         "name": "Electricity Link",
+        "ia": "an",
+        "da": "the",
         "p": "Magic Link Offensive Special Damage - Electricity",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic link offensive special damage - electricity"
     },
     "smlc": {
         "name": "Curative Link",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Link Curative",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic link curative"
     },
     "smlch": {
         "name": "Healing Link",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Link Curative Heal",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic link curative heal"
     },
     "smlchp": {
         "name": "Hp Healing Link",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Link Curative Heal - hit points",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic link curative heal - hit points"
     },
     "smlcht": {
         "name": "Sta Healing Link",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Link Curative Heal – Stamina",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic link curative heal - STA"
     },
     "smlcha": {
         "name": "Sap Healing Link",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Link Curative Heal - Sap",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic link curative heal - SAP"
     },
     "smlchc": {
         "name": "Focus Healing Link",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Link Curative Heal - Focus",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic link curative heal - Focus"
     },
     "sma": {
         "name": "Autonomous Magic",
+        "ia": "an",
+        "da": "the",
         "p": "Magic Autonomous",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic autonomous"
     },
     "smae": {
         "name": "Enchantment Magic",
+        "ia": "an",
+        "da": "the",
         "p": "Magic Enchantment",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic enchantment"
     },
     "smaes": {
         "name": "Spell Enchantment",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Enchantment - Spell",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic enchantment - spell"
     },
     "smaeb": {
         "name": "Bonus Enchantment",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Enchantment - Bonus",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic enchantment - bonus"
     },
     "smap": {
         "name": "Potion Making Magic",
+        "ia": "a",
+        "da": "the",
         "p": "Magic Potion Making",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Magic potion making"
     },
     "sd": {
         "name": "Defense",
+        "ia": "a",
+        "da": "the",
         "p": "Defense",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Defense"
     },
     "sda": {
         "name": "Armor Defense",
+        "ia": "an",
+        "da": "the",
         "p": "Armor Defense",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Armor defense"
     },
     "sdal": {
         "name": "Light Armor Defense",
+        "ia": "a",
+        "da": "the",
         "p": "Light Armor Defense",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Light armor defense"
     },
     "sdalf": {
         "name": "Light Armor Defense - Fyros",
+        "ia": "a",
+        "da": "the",
         "p": "Light Armor Defense - Fyros",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Light armor defense - Fyros"
     },
     "sdalfa": {
         "name": "Advanced Light Armor Defense - Fyros",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Light Armor Defense - Fyros",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced light armor defense - Fyros"
     },
     "sdalfae": {
         "name": "Expert Light Armor Defense - Fyros",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Light Armor Defense - Fyros",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert light armor defense - Fyros"
     },
     "sdalm": {
         "name": "Light Armor Defense - Matis",
+        "ia": "a",
+        "da": "the",
         "p": "Light Armor Defense - Matis",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Light armor defense - Matis"
     },
     "sdalma": {
         "name": "Advanced Light Armor Defense - Matis",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Light Armor Defense - Matis",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced light armor defense - Matis"
     },
     "sdalmae": {
         "name": "Expert Light Armor Defense - Matis",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Light Armor Defense - Matis",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert light armor defense - Matis"
     },
     "sdalt": {
         "name": "Light Armor Defense - Tryker",
+        "ia": "a",
+        "da": "the",
         "p": "Light Armor Defense - Tryker",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Light armor defense - Tryker"
     },
     "sdalta": {
         "name": "Advanced Light Armor Defense - Tryker",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Light Armor Defense - Tryker",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced light armor defense - Tryker"
     },
     "sdaltae": {
         "name": "Expert Light Armor Defense - Tryker",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Light Armor Defense - Tryker",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert light armor defense - Tryker"
     },
     "sdalz": {
         "name": "Light Armor Defense - Zoraï",
+        "ia": "a",
+        "da": "the",
         "p": "Light Armor Defense - Zoraï",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Light armor defense - Zoraï"
     },
     "sdalza": {
         "name": "Advanced Light Armor Defense - Zoraï",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Light Armor Defense - Zoraï",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced light armor defense - Zoraï"
     },
     "sdalzae": {
         "name": "Expert Light Armor Defense - Zoraï",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Light Armor Defense - Zoraï",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert light armor defense - Zoraï"
     },
     "sdam": {
         "name": "Medium Armor Defense",
+        "ia": "a",
+        "da": "the",
         "p": "Medium Armor Defense",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Medium armor defense"
     },
     "sdamf": {
         "name": "Medium Armor Defense - Fyros",
+        "ia": "a",
+        "da": "the",
         "p": "Medium Armor Defense - Fyros",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Medium armor defense - Fyros"
     },
     "sdamfa": {
         "name": "Advanced Medium Armor Defense - Fyros",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Medium Armor Defense - Fyros",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced medium armor defense - Fyros"
     },
     "sdamfae": {
         "name": "Expert Medium Armor Defense - Fyros",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Medium Armor Defense - Fyros",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert medium armor defense - Fyros"
     },
     "sdamm": {
         "name": "Medium Armor Defense - Matis",
+        "ia": "a",
+        "da": "the",
         "p": "Medium Armor Defense - Matis",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Medium armor defense - Matis"
     },
     "sdamma": {
         "name": "Advanced Medium Armor Defense - Matis",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Medium Armor Defense - Matis",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced medium armor defense - Matis"
     },
     "sdammae": {
         "name": "Expert Medium Armor Defense - Matis",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Medium Armor Defense - Matis",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert medium armor defense - Matis"
     },
     "sdamt": {
         "name": "Medium Armor Defense - Tryker",
+        "ia": "a",
+        "da": "the",
         "p": "Medium Armor Defense - Tryker",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Medium armor defense - Tryker"
     },
     "sdamta": {
         "name": "Advanced Medium Armor Defense - Tryker",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Medium Armor Defense - Tryker",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced medium armor defense - Tryker"
     },
     "sdamtae": {
         "name": "Expert Medium Armor Defense - Tryker",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Medium Armor Defense - Tryker",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert medium armor defense - Tryker"
     },
     "sdamz": {
         "name": "Medium Armor Defense - Zoraï",
+        "ia": "a",
+        "da": "the",
         "p": "Medium Armor Defense - Zoraï",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Medium armor defense - Zoraï"
     },
     "sdamza": {
         "name": "Advanced Medium Armor Defense - Zoraï",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Medium Armor Defense - Zoraï",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced medium armor defense - Zoraï"
     },
     "sdamzae": {
         "name": "Expert Medium Armor Defense - Zoraï",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Medium Armor Defense - Zoraï",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert medium armor defense - Zoraï"
     },
     "sdah": {
         "name": "Heavy Armor Defense",
+        "ia": "an",
+        "da": "the",
         "p": "Heavy Armor Defense",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Heavy armor defense"
     },
     "sdahf": {
         "name": "Heavy Armor Defense - Fyros",
+        "ia": "an",
+        "da": "the",
         "p": "Heavy Armor Defense - Fyros",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Heavy armor defense - Fyros"
     },
     "sdahfa": {
         "name": "Advanced Heavy Armor Defense - Fyros",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Heavy Armor Defense - Fyros",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced Heavy armor defense - Fyros"
     },
     "sdahfae": {
         "name": "Expert Heavy Armor Defense - Fyros",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Heavy Armor Defense - Fyros",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Heavy armor defense - Fyros"
     },
     "sdahm": {
         "name": "Heavy Armor Defense - Matis",
+        "ia": "an",
+        "da": "the",
         "p": "Heavy Armor Defense - Matis",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Heavy armor defense - Matis"
     },
     "sdahma": {
         "name": "Advanced Heavy Armor Defense - Matis",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Heavy Armor Defense - Matis",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced Heavy armor defense - Matis"
     },
     "sdahmae": {
         "name": "Expert Heavy Armor Defense - Matis",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Heavy Armor Defense - Matis",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Heavy armor defense - Matis"
     },
     "sdaht": {
         "name": "Heavy Armor Defense - Tryker",
+        "ia": "an",
+        "da": "the",
         "p": "Heavy Armor Defense - Tryker",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Heavy armor defense - Tryker"
     },
     "sdahta": {
         "name": "Advanced Heavy Armor Defense - Tryker",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Heavy Armor Defense - Tryker",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced Heavy armor defense - Tryker"
     },
     "sdahtae": {
         "name": "Expert Heavy Armor Defense - Tryker",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Heavy Armor Defense - Tryker",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Heavy armor defense - Tryker"
     },
     "sdahz": {
         "name": "Heavy Armor Defense - Zoraï",
+        "ia": "an",
+        "da": "the",
         "p": "Heavy Armor Defense - Zoraï",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Heavy armor defense - Zoraï"
     },
     "sdahza": {
         "name": "Advanced Heavy Armor Defense - Zoraï",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Heavy Armor Defense - Zoraï",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced Heavy armor defense - Zoraï"
     },
     "sdahzae": {
         "name": "Expert Heavy Armor Defense - Zoraï",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Heavy Armor Defense - Zoraï",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Heavy armor defense - Zoraï"
     },
     "sds": {
         "name": "Shield Defense",
+        "ia": "a",
+        "da": "the",
         "p": "Shield Defense",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Shield defense"
     },
     "sdsb": {
-        "name": "Shield Buckler Defense ",
-        "p": "Shield Buckler Defense ",
-        "description": "Shield buckler defense "
+        "name": "Shield Buckler Defense",
+        "ia": "a",
+        "da": "the",
+        "p": "Shield Buckler Defense",
+        "pia": "\\d",
+        "pda": "the",
+        "description": "Shield buckler defense"
     },
     "sdsbf": {
         "name": "Shield Buckler Defense - Fyros",
+        "ia": "a",
+        "da": "the",
         "p": "Shield Buckler Defense - Fyros",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Shield buckler defense - Fyros"
     },
     "sdsbfa": {
         "name": "Advanced Shield Buckler Defense - Fyros",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Shield Buckler Defense - Fyros",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced shield buckler defense - Fyros"
     },
     "sdsbfae": {
         "name": "Expert Shield Buckler Defense - Fyros",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Shield Buckler Defense - Fyros",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert shield buckler defense - Fyros"
     },
     "sdsbm": {
         "name": "Shield Buckler Defense - Matis",
+        "ia": "a",
+        "da": "the",
         "p": "Shield Buckler Defense - Matis",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Shield buckler defense - Matis"
     },
     "sdsbma": {
         "name": "Advanced Shield Buckler Defense - Matis",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Shield Buckler Defense - Matis",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced shield buckler defense - Matis"
     },
     "sdsbmae": {
         "name": "Expert Shield Buckler Defense - Matis",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Shield Buckler Defense - Matis",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert shield buckler defense - Matis"
     },
     "sdsbt": {
         "name": "Shield Buckler Defense - Tryker",
+        "ia": "a",
+        "da": "the",
         "p": "Shield Buckler Defense - Tryker",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Shield buckler defense - Tryker"
     },
     "sdsbta": {
         "name": "Advanced Shield Buckler Defense - Tryker",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Shield Buckler Defense - Tryker",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced shield buckler defense - Tryker"
     },
     "sdsbtae": {
         "name": "Expert Shield Buckler Defense - Tryker",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Shield Buckler Defense - Tryker",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert shield buckler defense - Tryker"
     },
     "sdsbz": {
         "name": "Shield Buckler Defense - Zoraï",
+        "ia": "a",
+        "da": "the",
         "p": "Shield Buckler Defense - Zoraï",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Shield buckler defense - Zoraï"
     },
     "sdsbza": {
         "name": "Advanced Shield Buckler Defense - Zoraï",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Shield Buckler Defense - Zoraï",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced shield buckler defense - Zoraï"
     },
     "sdsbzae": {
         "name": "Expert Shield Buckler Defense - Zoraï",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Shield Buckler Defense - Zoraï",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert shield buckler defense - Zoraï"
     },
     "sdss": {
         "name": "Shield Large Shield Defense",
+        "ia": "a",
+        "da": "the",
         "p": "Shield Large Shield Defense",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Shield large shield defense"
     },
     "sdssf": {
         "name": "Shield Large Shield Defense - Fyros",
+        "ia": "a",
+        "da": "the",
         "p": "Shield Large Shield Defense - Fyros",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Shield large shield defense - Fyros"
     },
     "sdssfa": {
         "name": "Advanced Shield Large Shield Defense - Fyros",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Shield Large Shield Defense - Fyros",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced shield large shield defense - Fyros"
     },
     "sdssfae": {
         "name": "Expert Shield Large Shield Defense - Fyros",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Shield Large Shield Defense - Fyros",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert shield large shield defense - Fyros"
     },
     "sdssm": {
         "name": "Shield Large Shield Defense - Matis",
+        "ia": "a",
+        "da": "the",
         "p": "Shield Large Shield Defense - Matis",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Shield large shield defense - Matis"
     },
     "sdssma": {
         "name": "Advanced Shield Large Shield Defense - Matis",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Shield Large Shield Defense - Matis",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced shield large shield defense - Matis"
     },
     "sdssmae": {
         "name": "Expert Shield Large Shield Defense - Matis",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Shield Large Shield Defense - Matis",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert shield large shield defense - Matis"
     },
     "sdsst": {
         "name": "Shield Large Shield Defense - Tryker",
+        "ia": "a",
+        "da": "the",
         "p": "Shield Large Shield Defense - Tryker",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Shield large shield defense - Tryker"
     },
     "sdssta": {
         "name": "Advanced Shield Large Shield Defense - Tryker",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Shield Large Shield Defense - Tryker",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced shield large shield defense - Tryker"
     },
     "sdsstae": {
         "name": "Expert Shield Large Shield Defense - Tryker",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Shield Large Shield Defense - Tryker",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert shield large shield defense - Tryker"
     },
     "sdssz": {
         "name": "Shield Large Shield Defense - Zoraï",
+        "ia": "a",
+        "da": "the",
         "p": "Shield Large Shield Defense - Zoraï",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Shield large shield defense - Zoraï"
     },
     "sdssza": {
         "name": "Advanced Shield Large Shield Defense - Zoraï",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Shield Large Shield Defense - Zoraï",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced shield large shield defense - Zoraï"
     },
     "sdsszae": {
         "name": "Expert Shield Large Shield Defense - Zoraï",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Shield Large Shield Defense - Zoraï",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert shield large shield defense - Zoraï"
     },
     "sdd": {
         "name": "Defense Dodge",
+        "ia": "a",
+        "da": "the",
         "p": "Defense Dodge",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Defense dodge"
     },
     "sdda": {
         "name": "Standard Defense Dodge",
+        "ia": "an",
+        "da": "the",
         "p": "Standard Defense Dodge",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced defense dodge"
     },
     "sddat": {
         "name": "Advanced Defense Dodge",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Defense Dodge",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Technical advanced defense dodge"
     },
     "sddatm": {
         "name": "Expert Defense Dodge",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Defense Dodge",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Mastery defense dodge"
     },
     "sddatme": {
         "name": "Master Defense Dodge",
+        "ia": "an",
+        "da": "the",
         "p": "Master Defense Dodge",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert advanced defense dodge"
     },
     "uknown": {
         "name": "Unknown Skill",
+        "ia": "an",
+        "da": "the",
         "p": "Unknown Skills",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "unknown": {
         "name": "Unknown Skill",
+        "ia": "an",
+        "da": "the",
         "p": "Unknown Skills",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sh": {
         "name": "Harvest",
+        "ia": "a",
+        "da": "the",
         "p": "Harvest",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Harvest"
     },
     "shf": {
         "name": "Forage",
+        "ia": "a",
+        "da": "the",
         "p": "Foraging",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "shff": {
         "name": "Forest Forage",
+        "ia": "a",
+        "da": "the",
         "p": "Forest Foraging",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "shffa": {
         "name": "Advanced Forest Forage",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Forest Foraging",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "shffae": {
         "name": "Expert Forest Forage",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Forest Foraging",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "shffaem": {
         "name": "Master Forest Forage",
+        "ia": "a",
+        "da": "the",
         "p": "Master Forest Foraging",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "shfd": {
         "name": "Desert Forage",
+        "ia": "a",
+        "da": "the",
         "p": "Desert Foraging",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "shfda": {
         "name": "Advanced Desert Forage",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Desert Foraging",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "shfdae": {
         "name": "Expert Desert Forage",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Desert Foraging",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "shfdaem": {
         "name": "Master Desert Forage",
+        "ia": "a",
+        "da": "the",
         "p": "Master Desert Foraging",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "shfj": {
         "name": "Jungle Forage",
+        "ia": "a",
+        "da": "the",
         "p": "Jungle Foraging",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "shfja": {
         "name": "Advanced Jungle Forage",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Jungle Foraging",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "shfjae": {
         "name": "Expert Jungle Forage",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Jungle Foraging",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "shfjaem": {
         "name": "Master Jungle Forage",
+        "ia": "a",
+        "da": "the",
         "p": "Master Jungle Foraging",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "shfl": {
         "name": "Lake Forage",
+        "ia": "a",
+        "da": "the",
         "p": "Lake Foraging",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "shfla": {
         "name": "Advanced Lake Forage",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Lake Foraging",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "shflae": {
         "name": "Expert Lake Forage",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Lake Foraging",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "shflaem": {
         "name": "Master Lake Forage",
+        "ia": "a",
+        "da": "the",
         "p": "Master Lake Foraging",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "shfp": {
         "name": "Prime Root Forage",
+        "ia": "a",
+        "da": "the",
         "p": "Prime Root Foraging",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "shfpa": {
         "name": "Advanced Prime Root Forage",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Prime Root Foraging",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "shfpae": {
         "name": "Expert Prime Root Forage",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Prime Root Foraging",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "shfpaem": {
         "name": "Master Prime Root Forage",
+        "ia": "a",
+        "da": "the",
         "p": "Expert Prime Root Foraging",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "smtoeca": {
         "name": "Advanced Cold Magic",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Magic Targeted Offensive Special Damage - Cold",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced Magic Targeted Offensive special Damage - Cold"
     },
     "smtoeaa": {
         "name": "Advanced Acid Magic",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Magic Targeted Offensive Special Damage - Acid",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced Magic Targeted Offensive Special Damage - Acid"
     },
     "smtoera": {
         "name": "Advanced Rot Magic",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Magic Targeted Offensive Special Damage - Rot",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced Magic Targeted Offensive Special Damage - Rot"
     },
     "smtoefa": {
         "name": "Advanced Fire Magic",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Magic Targeted Offensive Special Damage - Fire",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced Magic Targeted Offensive Special Damage - Fire"
     },
     "smtoesa": {
         "name": "Advanced Shockwave Magic",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Magic Targeted Offensive Special Damage - Shockwave",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced Magic Targeted Offensive Special Damage - Shockwave"
     },
     "smtoepa": {
         "name": "Advanced Poison Magic",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Magic Targeted Offensive Special Damage - Poison",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced Magic Targeted Offensive Special Damage - Poison"
     },
     "smtoeea": {
         "name": "Advanced Electricity Magic",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Magic Targeted Offensive Special Damage - Electricity",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced Magic Targeted Offensive Special Damage - Electricity"
     },
     "smtchpa": {
         "name": "Advanced Healing Magic",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Magic Targeted Curative Heal - hit points",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced Magic Targeted Curative Heal - hit points"
     },
     "smtchta": {
         "name": "Advanced Stamina Healing Magic",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Magic Targeted Curative Heal - Stam",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced Magic Targeted Curative Heal - STA"
     },
     "smtchaa": {
         "name": "Advanced Sap Healing Magic",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Magic Targeted Curative Heal - Sap",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced Magic Targeted Curative Heal - SAP"
     },
     "smtchca": {
         "name": "Advanced Focus Healing Magic",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Magic Targeted Curative Heal - Focus",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced Magic Targeted Curative Heal - Focus"
     },
     "smlosma": {
         "name": "Advanced Madness Link",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Magic Link Offensive Sickness - Madness",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced Magic Link Offensive Sickness - Madness"
     },
     "smlossa": {
         "name": "Advanced Speed Debuff Link",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Magic Link Offensive Sickness - Speed Debuff",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced Magic Link Offensive Sickness - Speed Debuff"
     },
     "smlocia": {
         "name": "Advanced Incapacity Link",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Magic Link Offensive Curse - Incapacity",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced Magic Link Offensive Curse - Incapacity"
     },
     "smlocsa": {
         "name": "Advanced Misfortune Link",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Magic Link Offensive Curse - Misfortune",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced Magic Link Offensive Curse - Misfortune"
     },
     "smloeca": {
         "name": "Advanced Cold Link",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Magic Link Offensive Special Damage - Cold",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced Magic Link Offensive Special Damage - Cold"
     },
     "smloeaa": {
         "name": "Advanced Acid Link",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Magic Link Offensive Special Damage - Acid",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced Magic Link Offensive Special Damage - Acid"
     },
     "smloera": {
         "name": "Advanced Rot Link",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Magic Link Offensive Special Damage - Rot",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced Magic Link Offensive Special Damage - Rot"
     },
     "smloefa": {
         "name": "Advanced Fire Link",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Magic Link Offensive Special Damage - Fire",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced Magic Link Offensive Special Damage - Fire"
     },
     "smloesa": {
         "name": "Advanced Shockwave Link",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Magic Link Offensive Special Damage - Shockwave",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced Magic Link Offensive Special Damage - Shockwave"
     },
     "smloepa": {
         "name": "Advanced Poison Link",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Magic Link Offensive Special Damage - Poison",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced Magic Link Offensive Special Damage - Poison"
     },
     "smloeea": {
         "name": "Advanced Electricity Link",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Magic Link Offensive Special Damage - Electricity",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced Magic Link Offensive Special Damage - Electricity"
     },
     "smd": {
         "name": "Defensive Magic",
+        "ia": "a",
+        "da": "the",
         "p": "Defensive Magic",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Defensive Magic"
     },
     "smda": {
         "name": "Defensive Affliction",
+        "ia": "a",
+        "da": "the",
         "p": "Defensive Affliction",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Standard Defensive Affliction"
     },
     "smdaa": {
         "name": "Advanced Defensive Affliction",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Defensive Affliction",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced Defensive Affliction"
     },
     "smdaae": {
         "name": "Expert Defensive Affliction",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Defensive Affliction",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Defensive Affliction"
     },
     "smdaaem": {
         "name": "Master Defensive Affliction",
+        "ia": "a",
+        "da": "the",
         "p": "Master Defensive Affliction",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Defensive Affliction"
     },
     "smdh": {
         "name": "Standard Healing Magic",
+        "ia": "a",
+        "da": "the",
         "p": "Standard Healing Magic",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Standard Healing Magic"
     },
     "smdha": {
         "name": "Advanced Healing Magic",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Healing Magic",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced Healing Magic"
     },
     "smdhae": {
         "name": "Expert Healing Magic",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Healing Magic",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Healing Magic"
     },
     "smdhaem": {
         "name": "Master Healing Magic",
+        "ia": "a",
+        "da": "the",
         "p": "Master Healing Magic",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Healing Magic"
     },
     "smo": {
         "name": "Offensive Magic",
+        "ia": "an",
+        "da": "the",
         "p": "Offensive Magic",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Offensive Magic"
     },
     "smoa": {
         "name": "Offensive Affliction",
+        "ia": "an",
+        "da": "the",
         "p": "Offensive Affliction",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Standard Offensive Affliction"
     },
     "smoaa": {
         "name": "Advanced Offensive Affliction",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Offensive Affliction",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced Offensive Affliction"
     },
     "smoaae": {
         "name": "Expert Offensive Affliction",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Offensive Affliction",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Offensive Affliction"
     },
     "smoaaem": {
         "name": "Master Offensive Affliction",
+        "ia": "a",
+        "da": "the",
         "p": "Master Offensive Affliction",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Offensive Affliction"
     },
     "smoe": {
         "name": "Elemental Magic",
+        "ia": "an",
+        "da": "the",
         "p": "Elemental Magic",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Standard Elemental Magic"
     },
     "smoea": {
         "name": "Advanced Elemental Magic",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Elemental Magic",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced Elemental Magic"
     },
     "smoeae": {
         "name": "Expert Elemental Magic",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Elemental Magic",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Elemental Magic"
     },
     "smoeaem": {
         "name": "Master Elemental Magic",
+        "ia": "a",
+        "da": "the",
         "p": "Master Elemental Magic",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Elemental Magic"
     },
     "sms": {
         "name": "Self Magic",
+        "ia": "a",
+        "da": "the",
         "p": "Self Magic",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Self Magic"
     },
     "smss": {
         "name": "Standard Self Magic",
+        "ia": "a",
+        "da": "the",
         "p": "Standard Self Magic",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Standard Self Magic"
     },
     "smssa": {
         "name": "Advanced Self Magic",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Self Magic",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced Self Magic"
     },
     "smssae": {
         "name": "Expert Self Magic",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Self Magic",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Self Magic"
     },
     "smssaem": {
         "name": "Master Self Magic",
+        "ia": "a",
+        "da": "the",
         "p": "Master Self Magic",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Self Magic"
     },
     "sf": {
         "name": "Fight",
+        "ia": "a",
+        "da": "the",
         "p": "Fight",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfm": {
         "name": "Melee Fight",
+        "ia": "a",
+        "da": "the",
         "p": "Melee Fights",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfm1": {
         "name": "One-handed Melee Fight",
+        "ia": "a",
+        "da": "the",
         "p": "One-handed Melee Fights",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfm1b": {
         "name": "One-handed Melee Smashing",
+        "ia": "a",
+        "da": "the",
         "p": "One-handed Melee Smashing",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfm1bm": {
         "name": "Mace",
+        "ia": "a",
+        "da": "the",
         "p": "Maces",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfm1bme": {
         "name": "Electric Mace",
+        "ia": "an",
+        "da": "the",
         "p": "Electric Maces",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfm1bmm": {
         "name": "Master Mace",
+        "ia": "a",
+        "da": "the",
         "p": "Master Maces",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfm1bs": {
         "name": "Staff",
+        "ia": "a",
+        "da": "the",
         "p": "Staffs",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfm1bsm": {
         "name": "Master Staff",
+        "ia": "a",
+        "da": "the",
         "p": "Master Staffs",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfm1p": {
         "name": "One-handed Melee Piercing",
+        "ia": "a",
+        "da": "the",
         "p": "One-handed Melee Piercings",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfm1ps": {
         "name": "Spear",
+        "ia": "a",
+        "da": "the",
         "p": "Spears",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfm1pse": {
         "name": "Electric Spear",
+        "ia": "an",
+        "da": "the",
         "p": "Electric Spears",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfm1psl": {
         "name": "Living Spear",
+        "ia": "a",
+        "da": "the",
         "p": "Living Spears",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfm1psm": {
         "name": "Master Spear",
+        "ia": "a",
+        "da": "the",
         "p": "Master Spears",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfm1s": {
         "name": "One-handed Melee Slashing",
+        "ia": "a",
+        "da": "the",
         "p": "One-handed Melee Slashings",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfm1sa": {
         "name": "Axe",
+        "ia": "an",
+        "da": "the",
         "p": "Axes",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfm1sab": {
         "name": "Burning Axe",
+        "ia": "a",
+        "da": "the",
         "p": "Burning Axes",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfm1sam": {
         "name": "Master Axe",
+        "ia": "a",
+        "da": "the",
         "p": "Master Axes",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfm1ss": {
         "name": "Sword",
+        "ia": "a",
+        "da": "the",
         "p": "Swords",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfm1ssm": {
         "name": "Master Sword",
+        "ia": "a",
+        "da": "the",
         "p": "Master Swords",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfm1ssw": {
         "name": "Waving Sword",
+        "ia": "a",
+        "da": "the",
         "p": "Waving Swords",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfm2": {
         "name": "Two-handed Melee Fight",
+        "ia": "a",
+        "da": "the",
         "p": "Two-handed Melee Fights",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfm2b": {
         "name": "Two-handed Melee Smashing",
+        "ia": "a",
+        "da": "the",
         "p": "Two-handed Melee Smashing",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfm2bm": {
         "name": "Two-handed Mace",
+        "ia": "a",
+        "da": "the",
         "p": "Two-handed Maces",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfm2bme": {
         "name": "Two-handed Electric Mace",
+        "ia": "a",
+        "da": "the",
         "p": "Two-handed Electric Maces",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfm2bmm": {
         "name": "Two-handed Master Mace",
+        "ia": "a",
+        "da": "the",
         "p": "Two-handed Master Maces",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfm2p": {
         "name": "Two-handed Melee Piercing",
+        "ia": "a",
+        "da": "the",
         "p": "Two-handed Melee Piercing",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfm2pp": {
         "name": "Pike",
+        "ia": "a",
+        "da": "the",
         "p": "Pikes",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfm2ppl": {
         "name": "Living Pike",
+        "ia": "a",
+        "da": "the",
         "p": "Living Pikes",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfm2ppm": {
         "name": "Master Pike",
+        "ia": "a",
+        "da": "the",
         "p": "Master Pikes",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfm2s": {
         "name": "Two-handed Melee Slashing",
+        "ia": "a",
+        "da": "the",
         "p": "Two-handed Melee Slashing",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfm2sa": {
         "name": "Two-handed Axe",
+        "ia": "a",
+        "da": "the",
         "p": "Two-handed Axes",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfm2sab": {
         "name": "Two-handed Burning Axe",
+        "ia": "a",
+        "da": "the",
         "p": "Two-handed Burning Axes",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfm2sam": {
         "name": "Two-handed Master Axe",
+        "ia": "a",
+        "da": "the",
         "p": "Two-handed Master Axes",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfm2ss": {
         "name": "Two-handed Sword",
+        "ia": "a",
+        "da": "the",
         "p": "Two-handed Swords",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfm2ssb": {
         "name": "Two-handed Burning Sword",
+        "ia": "a",
+        "da": "the",
         "p": "Two-handed Burning Swords",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfm2ssl": {
         "name": "Two-handed Living Sword",
+        "ia": "a",
+        "da": "the",
         "p": "Two-handed Living Swords",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfm2ssm": {
         "name": "Two-handed Master Sword",
+        "ia": "a",
+        "da": "the",
         "p": "Two-handed Master Swords",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfm2ssw": {
         "name": "Two-handed Waving Sword",
+        "ia": "a",
+        "da": "the",
         "p": "Two-handed Waving Swords",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfmc": {
         "name": "Close Combat",
+        "ia": "a",
+        "da": "the",
         "p": "Close Combats",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfmca": {
         "name": "Advanced Close Combat",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Close Combats",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfmcad": {
         "name": "Dagger",
+        "ia": "a",
+        "da": "the",
         "p": "Daggers",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfmcadl": {
         "name": "Living Dagger",
+        "ia": "a",
+        "da": "the",
         "p": "Living Daggers",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfmcadm": {
         "name": "Master Dagger",
+        "ia": "a",
+        "da": "the",
         "p": "Master Daggers",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfmcadw": {
         "name": "Waving Dagger",
+        "ia": "a",
+        "da": "the",
         "p": "Waving Daggers",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfmcah": {
         "name": "Hand To Hand",
+        "ia": "a",
+        "da": "the",
         "p": "Hand To Hands",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfmcahm": {
         "name": "Master Hand To Hand",
+        "ia": "a",
+        "da": "the",
         "p": "Master Hand To Hands",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfr": {
         "name": "Range Fight",
+        "ia": "a",
+        "da": "the",
         "p": "Range Fights",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfr1": {
         "name": "One-handed Range Fight",
+        "ia": "a",
+        "da": "the",
         "p": "One-handed Range Fights",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfr1a": {
         "name": "Advanced One-handed Range Fight",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced One-handed Range Fights",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfr1ab": {
-        "name": "Bowpistol ",
+        "name": "Bowpistol",
+        "ia": "a",
+        "da": "the",
         "p": "Bowpistols",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfr1abm": {
         "name": "Master Bowpistol",
+        "ia": "a",
+        "da": "the",
         "p": "Master Bowpistols",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfr1abw": {
         "name": "Waving Bowpistol",
+        "ia": "a",
+        "da": "the",
         "p": "Waving Bowpistols",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfr1ap": {
         "name": "Pistol",
+        "ia": "a",
+        "da": "the",
         "p": "Pistols",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfr1apl": {
         "name": "Living Pistol",
+        "ia": "a",
+        "da": "the",
         "p": "Living Pistols",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfr1apm": {
         "name": "Master Pistol",
+        "ia": "a",
+        "da": "the",
         "p": "Master Pistols",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfr2": {
         "name": "Two-handed Range Fight",
+        "ia": "a",
+        "da": "the",
         "p": "Two-handed Range Fights",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfr2a": {
         "name": "Advanced Two-handed Range Fight",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Two-handed Range Fights",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfr2aa": {
         "name": "Autolauncher",
+        "ia": "an",
+        "da": "the",
         "p": "Autolaunchers",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfr2aab": {
         "name": "Burning Autolauncher",
+        "ia": "a",
+        "da": "the",
         "p": "Burning Autolaunchers",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfr2aam": {
         "name": "Master Autolauncher",
+        "ia": "a",
+        "da": "the",
         "p": "Master Autolaunchers",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfr2ab": {
         "name": "Bowrifle",
+        "ia": "a",
+        "da": "the",
         "p": "Bowrifles",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfr2abe": {
         "name": "Electric Bowrifle",
+        "ia": "an",
+        "da": "the",
         "p": "Electric Bowrifles",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfr2abm": {
         "name": "Master Bowrifle",
+        "ia": "a",
+        "da": "the",
         "p": "Master Bowrifles",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfr2al": {
         "name": "Launcher",
+        "ia": "a",
+        "da": "the",
         "p": "Launchers",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfr2alb": {
         "name": "Burning Launcher",
+        "ia": "a",
+        "da": "the",
         "p": "Burning Launchers",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfr2ale": {
         "name": "Electric Launcher",
+        "ia": "an",
+        "da": "the",
         "p": "Electric Launchers",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfr2alm": {
         "name": "Master Launcher",
+        "ia": "a",
+        "da": "the",
         "p": "Master Launchers",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfr2ar": {
         "name": "Rifle",
+        "ia": "a",
+        "da": "the",
         "p": "Rifles",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfr2arl": {
         "name": "Living Rifle",
+        "ia": "a",
+        "da": "the",
         "p": "Living Rifles",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sfr2arm": {
         "name": "Master Rifle",
+        "ia": "a",
+        "da": "the",
         "p": "Master Rifles",
+        "pia": "\\d",
+        "pda": "the",
         "description": ""
     },
     "sca": {
         "name": "Armor Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Armor Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Armor Crafting"
     },
     "scj": {
         "name": "Jewel Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Jewel Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Jewel Crafting"
     },
     "scm": {
         "name": "Melee Weapon Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Melee Weapon Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Melee Weapon Crafting"
     },
     "scr": {
         "name": "Range Weapon Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Range Weapon Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Range Weapon Crafting"
     },
     "scah": {
         "name": "Heavy Armor Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Heavy Armor Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Heavy Armor Crafting"
     },
     "scal": {
         "name": "Light Armor Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Light Armor Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Light Armor Crafting"
     },
     "scam": {
         "name": "Medium Armor Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Medium Armor Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Medium Armor Crafting"
     },
     "scas": {
         "name": "Shield Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Shield Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Shield Crafting"
     },
     "scja": {
         "name": "Anklet Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Anklet Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Anklet Crafting"
     },
     "scjb": {
         "name": "Bracelet Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Bracelet Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Bracelet Crafting"
     },
     "scjd": {
         "name": "Diadem Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Diadem Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Diadem Crafting"
     },
     "scje": {
         "name": "Earring Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Earring Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Earring Crafting"
     },
     "scjp": {
         "name": "Pendant Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Pendant Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Pendant Crafting"
     },
     "scjr": {
         "name": "Ring Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Ring Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Ring Crafting"
     },
     "scm1": {
         "name": "One-handed Melee Weapon Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "One-handed Melee Weapon Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "One-handed Melee Weapon Crafting"
     },
     "scm2": {
         "name": "Two-handed Melee Weapon Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Two-handed Melee Weapon Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Two-handed Melee Weapon Crafting"
     },
     "scr1": {
         "name": "One-handed Range Weapon Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "One-handed Range Weapon Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "One-handed Range Weapon Crafting"
     },
     "scr2": {
         "name": "Two-handed Range Weapon Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Two-handed Range Weapon Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Two-handed Range Weapon Crafting"
     },
     "scahb": {
         "name": "Heavy Boots Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Heavy Boots Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Heavy Boots Crafting"
     },
     "scahg": {
         "name": "Heavy Gloves Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Heavy Gloves Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Heavy Gloves Crafting"
     },
     "scahh": {
         "name": "Heavy Helmet Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Heavy Helmet Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Heavy Helmet Crafting"
     },
     "scahp": {
         "name": "Heavy Pants Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Heavy Pants Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Heavy Pants Crafting"
     },
     "scahs": {
         "name": "Heavy Sleeves Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Heavy Sleeves Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Heavy Sleeves Crafting"
     },
     "scahv": {
         "name": "Heavy Vest Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Heavy Vest Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Heavy Vest Crafting"
     },
     "scalb": {
         "name": "Light Boots Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Light Boots Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Light Boots Crafting"
     },
     "scalg": {
         "name": "Light Gloves Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Light Gloves Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Light Gloves Crafting"
     },
     "scalp": {
         "name": "Light Pants Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Light Pants Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Light Pants Crafting"
     },
     "scals": {
         "name": "Light Sleeves Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Light Sleeves Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Light Sleeves Crafting"
     },
     "scalv": {
         "name": "Light Vest Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Light Vest Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Light Vest Crafting"
     },
     "scamb": {
         "name": "Medium Boots Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Medium Boots Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Medium Boots Crafting"
     },
     "scamg": {
         "name": "Medium Gloves Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Medium Gloves Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Medium Gloves Crafting"
     },
     "scamp": {
         "name": "Medium Pants Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Medium Pants Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Medium Pants Crafting"
     },
     "scams": {
         "name": "Medium Sleeves Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Medium Sleeves Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Medium Sleeves Crafting"
     },
     "scamv": {
         "name": "Medium Vest Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Medium Vest Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Medium Vest Crafting"
     },
     "scass": {
         "name": "Large Shield Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Large Shield Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Large Shield Crafting"
     },
     "scasb": {
         "name": "Buckler Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Buckler Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Buckler Crafting"
     },
     "scjaa": {
         "name": "Advanced Anklet Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Anklet Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced Anklet Crafting"
     },
     "scjba": {
         "name": "Advanced Bracelet Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Bracelet Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced Bracelet Crafting"
     },
     "scjda": {
         "name": "Advanced Diadem Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Diadem Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced Diadem Crafting"
     },
     "scjea": {
         "name": "Advanced Earring Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Earring Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced Earring Crafting"
     },
     "scjpa": {
         "name": "Advanced Pendant Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Pendant Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced Pendant Crafting"
     },
     "scjra": {
         "name": "Advanced Ring Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Ring Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced Ring Crafting"
     },
     "scm1m": {
         "name": "Mace Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Mace Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Mace Crafting"
     },
     "scm1t": {
         "name": "Staff Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Staff Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Staff Crafting"
     },
     "scm1p": {
         "name": "Spear Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Spear Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Spear Crafting"
     },
     "scm1a": {
         "name": "Axe Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Axe Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Axe Crafting"
     },
     "scm1s": {
         "name": "Sword Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Sword Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Sword Crafting"
     },
     "scm1d": {
         "name": "Dagger Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Dagger Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Dagger Crafting"
     },
     "scm2m": {
         "name": "Two-handed Mace Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Two-handed Mace Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Two-handed Mace Crafting"
     },
     "scm2p": {
         "name": "Pike Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Pike Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Pike Crafting"
     },
     "scm2a": {
         "name": "Two-handed Axe Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Two-handed Axe Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Two-handed Axe Crafting"
     },
     "scm2s": {
         "name": "Two-handed Sword Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Two-handed Sword Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Two-handed Sword Crafting"
     },
     "scr1b": {
         "name": "Bowpistol Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Bowpistol Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Bowpistol Crafting"
     },
     "scr1p": {
         "name": "Pistol Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Pistol Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Pistol Crafting"
     },
     "scr2a": {
         "name": "Autolauncher Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Autolauncher Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Autolauncher Crafting"
     },
     "scr2b": {
         "name": "Bowrifle Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Bowrifle Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Bowrifle Crafting"
     },
     "scr2l": {
         "name": "Launcher Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Launcher Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Launcher Crafting"
     },
     "scr2r": {
         "name": "Rifle Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Rifle Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Rifle Crafting"
     },
     "scahbe": {
         "name": "Expert Heavy Boots Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Heavy Boots Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Heavy Boots Crafting"
     },
     "scahge": {
         "name": "Expert Heavy Gloves Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Heavy Gloves Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Heavy Gloves Crafting"
     },
     "scahhe": {
         "name": "Expert Heavy Helmet Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Heavy Helmet Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Heavy Helmet Crafting"
     },
     "scahpe": {
         "name": "Expert Heavy Pants Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Heavy Pants Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Heavy Pants Crafting"
     },
     "scahse": {
         "name": "Expert Heavy Sleeves Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Heavy Sleeves Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Heavy Sleeves Crafting"
     },
     "scahve": {
         "name": "Expert Heavy Vest Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Heavy Vest Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Heavy Vest Crafting"
     },
     "scalbe": {
         "name": "Expert Light Boots Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Light Boots Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Light Boots Crafting"
     },
     "scalge": {
         "name": "Expert Light Gloves Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Light Gloves Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Light Gloves Crafting"
     },
     "scalpe": {
         "name": "Expert Light Pants Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Light Pants Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Light Pants Crafting"
     },
     "scalse": {
         "name": "Expert Light Sleeves Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Light Sleeves Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Light Sleeves Crafting"
     },
     "scalve": {
         "name": "Expert Light Vest Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Light Vest Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Light Vest Crafting"
     },
     "scambe": {
         "name": "Expert Medium Boots Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Medium Boots Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Medium Boots Crafting"
     },
     "scamge": {
         "name": "Expert Medium Gloves Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Medium Gloves Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Medium Gloves Crafting"
     },
     "scampe": {
         "name": "Expert Medium Pants Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Medium Pants Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Medium Pants Crafting"
     },
     "scamse": {
         "name": "Expert Medium Sleeves Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Medium Sleeves Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Medium Sleeves Crafting"
     },
     "scamve": {
         "name": "Expert Medium Vest Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Medium Vest Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Medium Vest Crafting"
     },
     "scasse": {
         "name": "Expert Shield Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Shield Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Shield Crafting"
     },
     "scasbe": {
         "name": "Expert Buckler Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Buckler Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Buckler Crafting"
     },
     "scjaae": {
         "name": "Expert Anklet Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Anklet Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Anklet Crafting"
     },
     "scjbae": {
         "name": "Expert Bracelet Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Bracelet Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Bracelet Crafting"
     },
     "scjdae": {
         "name": "Expert Diadem Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Diadem Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Diadem Crafting"
     },
     "scjeae": {
         "name": "Expert Earring Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Earring Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Earring Crafting"
     },
     "scjpae": {
         "name": "Expert Pendant Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Pendant Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Pendant Crafting"
     },
     "scjrae": {
         "name": "Expert Ring Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Ring Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Ring Crafting"
     },
     "scm1me": {
         "name": "Expert Mace Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Mace Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Mace Crafting"
     },
     "scm1te": {
         "name": "Expert Staff Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Staff Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Staff Crafting"
     },
     "scm1pe": {
         "name": "Expert Spear Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Spear Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Spear Crafting"
     },
     "scm1ae": {
         "name": "Expert Axe Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Axe Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Axe Crafting"
     },
     "scm1se": {
         "name": "Expert Sword Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Sword Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Sword Crafting"
     },
     "scm1de": {
         "name": "Expert Dagger Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Dagger Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Dagger Crafting"
     },
     "scm2me": {
         "name": "Expert Two-handed Mace Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Two-handed Mace Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Two-handed Mace Crafting"
     },
     "scm2pe": {
         "name": "Expert Pike Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Pike Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Pike Crafting"
     },
     "scm2ae": {
         "name": "Expert Two-handed Axe Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Two-handed Axe Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Two-handed Axe Crafting"
     },
     "scm2se": {
         "name": "Expert Two-handed Sword Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Two-handed Sword Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Two-handed Sword Crafting"
     },
     "scr1be": {
         "name": "Expert Bowpistol Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Bowpistol Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Bowpistol Crafting"
     },
     "scr1pe": {
         "name": "Expert Pistol Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Pistol Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Pistol Crafting"
     },
     "scr2ae": {
         "name": "Expert Autolauncher Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Autolauncher Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Autolauncher Crafting"
     },
     "scr2be": {
         "name": "Expert Bowrifle Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Bowrifle Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Bowrifle Crafting"
     },
     "scr2le": {
         "name": "Expert Launcher Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Launcher Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Launcher Crafting"
     },
     "scr2re": {
         "name": "Expert Rifle Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Rifle Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Rifle Crafting"
     },
     "scahbem": {
         "name": "Master Heavy Boots Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Heavy Boots Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Heavy Boots Crafting"
     },
     "scahgem": {
         "name": "Master Heavy Gloves Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Heavy Gloves Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Heavy Gloves Crafting"
     },
     "scahhem": {
         "name": "Master Heavy Helmet Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Heavy Helmet Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Heavy Helmet Crafting"
     },
     "scahpem": {
         "name": "Master Heavy Pants Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Heavy Pants Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Heavy Pants Crafting"
     },
     "scahsem": {
         "name": "Master Heavy Sleeves Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Heavy Sleeves Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Heavy Sleeves Crafting"
     },
     "scahvem": {
         "name": "Master Heavy Vest Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Heavy Vest Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Heavy Vest Crafting"
     },
     "scalbem": {
         "name": "Master Light Boots Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Light Boots Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Light Boots Crafting"
     },
     "scalgem": {
         "name": "Master Light Gloves Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Light Gloves Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Light Gloves Crafting"
     },
     "scalpem": {
         "name": "Master Light Pants Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Light Pants Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Light Pants Crafting"
     },
     "scalsem": {
         "name": "Master Light Sleeves Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Light Sleeves Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Light Sleeves Crafting"
     },
     "scalvem": {
         "name": "Master Light Vest Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Light Vest Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Light Vest Crafting"
     },
     "scambem": {
         "name": "Master Medium Boots Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Medium Boots Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Medium Boots Crafting"
     },
     "scamgem": {
         "name": "Master Medium Gloves Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Medium Gloves Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Medium Gloves Crafting"
     },
     "scampem": {
         "name": "Master Medium Pants Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Medium Pants Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Medium Pants Crafting"
     },
     "scamsem": {
         "name": "Master Medium Sleeves Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Medium Sleeves Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Medium Sleeves Crafting"
     },
     "scamvem": {
         "name": "Master Medium Vest Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Medium Vest Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Medium Vest Crafting"
     },
     "scassem": {
         "name": "Master Shield Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Shield Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Shield Crafting"
     },
     "scasbem": {
         "name": "Master Buckler Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Buckler Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Buckler Crafting"
     },
     "scjaaem": {
         "name": "Master Anklet Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Anklet Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Anklet Crafting"
     },
     "scjbaem": {
         "name": "Master Bracelet Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Bracelet Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Bracelet Crafting"
     },
     "scjdaem": {
         "name": "Master Diadem Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Diadem Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Diadem Crafting"
     },
     "scjeaem": {
         "name": "Master Earring Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Earring Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Earring Crafting"
     },
     "scjpaem": {
         "name": "Master Pendant Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Pendant Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Pendant Crafting"
     },
     "scjraem": {
         "name": "Master Ring Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Ring Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Ring Crafting"
     },
     "scm1mem": {
         "name": "Master Mace Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Mace Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Mace Crafting"
     },
     "scm1tem": {
         "name": "Master Staff Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Staff Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Staff Crafting"
     },
     "scm1pem": {
         "name": "Master Spear Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Spear Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Spear Crafting"
     },
     "scm1aem": {
         "name": "Master Axe Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Axe Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Axe Crafting"
     },
     "scm1sem": {
         "name": "Master Sword Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Sword Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Sword Crafting"
     },
     "scm1dem": {
         "name": "Master Dagger Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Dagger Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Dagger Crafting"
     },
     "scm2mem": {
         "name": "Master Two-handed Mace Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Two-handed Mace Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Two-handed Mace Crafting"
     },
     "scm2pem": {
         "name": "Master Pike Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Pike Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Pike Crafting"
     },
     "scm2aem": {
         "name": "Master Two-handed Axe Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Two-handed Axe Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Two-handed Axe Crafting"
     },
     "scm2sem": {
         "name": "Master Two-handed Sword Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Two-handed Sword Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Two-handed Sword Crafting"
     },
     "scr1bem": {
         "name": "Master Bowpistol Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Bowpistol Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Bowpistol Crafting"
     },
     "scr1pem": {
         "name": "Master Pistol Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Pistol Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Pistol Crafting"
     },
     "scr2aem": {
         "name": "Master Autolauncher Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Autolauncher Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Autolauncher Crafting"
     },
     "scr2bem": {
         "name": "Master Bowrifle Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Bowrifle Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Bowrifle Crafting"
     },
     "scr2lem": {
         "name": "Master Launcher Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Launcher Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Launcher Crafting"
     },
     "scr2rem": {
         "name": "Master Rifle Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Rifle Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Rifle Crafting"
     },
     "scmc": {
         "name": "Close Combat Weapon Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Close Combat Weapon Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Close Combat Weapon Crafting"
     },
     "scmca": {
         "name": "Advanced Magic Amplifier Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Advanced Magic Amplifier Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Advanced Magic Amplifier Crafting"
     },
     "scmcae": {
         "name": "Expert Magic Amplifier Crafting",
+        "ia": "an",
+        "da": "the",
         "p": "Expert Magic Amplifier Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Expert Magic Amplifier Crafting"
     },
     "scmcaem": {
         "name": "Master Magic Amplifier Crafting",
+        "ia": "a",
+        "da": "the",
         "p": "Master Magic Amplifier Crafting",
+        "pia": "\\d",
+        "pda": "the",
         "description": "Master Magic Amplifier Crafting"
     }
 }

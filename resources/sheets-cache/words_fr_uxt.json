@@ -19379,6 +19379,12 @@
     "uigcfxanisotropicfilternone": {
         "name": "Aucun"
     },
+    "uishowiconbuffs": {
+        "name": "Afficher les statistiques et les enchantements sur les icônes"
+    },
+    "uittshowiconbuffs": {
+        "name": "Afficher les statistiques et les enchantements sur les icônes"
+    },
     "uishowclock12h": {
         "name": "Utiliser le système horaire sur 12 heures"
     },
@@ -19565,6 +19571,12 @@
     "uittmapsearch": {
         "name": "Rechercher sur toute la carte"
     },
+    "uitargetlandmarkcmd": {
+        "name": "Cibler un repère de la carte"
+    },
+    "uitargetlandmarkcmdentity": {
+        "name": "Mots-clés de recherche des repères"
+    },
     "uittinventorysearch": {
         "name": "Recherche"
     },
@@ -19622,6 +19634,39 @@
     "uiguildtabisland": {
         "name": "Île"
     },
+    "uiwelcome_around": {
+        "name": "Le jeu de rôle est l'un des intérêts majeurs de Ryzom, et le canal Alentours est un lieu privilégié pour le pratiquer."
+    },
+    "uiwelcome_region": {
+        "name": "Discutez ici avec les joueurs dont l'avatar se trouve dans la même région que le vôtre."
+    },
+    "uiwelcome_universe": {
+        "name": "Le canal Univers est un canal multilingue essentiellement destiné aux joueurs qui demandent de l'aide sur le jeu et à ceux qui la leur apportent. Mais c'est aussi un canal convivial qui peut être utilisé pour discuter de Ryzom."
+    },
+    "uiwelcome_kami": {
+        "name": "Discutez ici avec les joueurs dont l'avatar partage le même culte que le vôtre."
+    },
+    "uiwelcome_karavan": {
+        "name": "Discutez ici avec les joueurs dont l'avatar partage le même culte que le vôtre."
+    },
+    "uiwelcome_fyros": {
+        "name": "Discutez ici avec les joueurs dont l'avatar est lui aussi un patriote."
+    },
+    "uiwelcome_tryker": {
+        "name": "Discutez ici avec les joueurs dont l'avatar est lui aussi un citoyen."
+    },
+    "uiwelcome_zorai": {
+        "name": "Discutez ici avec les joueurs dont l'avatar est lui aussi un initié."
+    },
+    "uiwelcome_matis": {
+        "name": "Discutez ici avec les joueurs dont l'avatar est lui aussi un vassal."
+    },
+    "uiwelcome_marauder": {
+        "name": "Discutez ici avec les joueurs dont l'avatar est lui aussi un maraudeur."
+    },
+    "uiwelcome_ranger": {
+        "name": "Discutez ici avec les joueurs dont l'avatar est lui aussi un ranger."
+    },
     "uiartefactrestrict": {
         "name": "@{C02F}Votre allégeance ou le niveau de votre renommée ne vous permet pas d'utiliser cet objet."
     },
@@ -19661,37 +19706,7 @@
     "uittchanauto": {
         "name": "Si coché, vos canaux de discussion dynamiques seront restaurés s'ils ne sont pas déjà ouverts.\nPrévient la perte de canaux au redémarrage ou en cas de panne du serveur."
     },
-    "uiwelcome_around": {
-        "name": "Le jeu de rôle est l'un des intérêts majeurs de Ryzom, et le canal Alentours est un lieu privilégié pour le pratiquer."
-    },
-    "uiwelcome_region": {
-        "name": "Discutez ici avec les joueurs dont l'avatar se trouve dans la même région que le vôtre."
-    },
-    "uiwelcome_universe": {
-        "name": "Le canal Univers est un canal multilingue essentiellement destiné aux joueurs qui demandent de l'aide sur le jeu et à ceux qui la leur apportent. Mais c'est aussi un canal convivial qui peut être utilisé pour discuter de Ryzom."
-    },
-    "uiwelcome_kami": {
-        "name": "Discutez ici avec les joueurs dont l'avatar partage le même culte que le vôtre."
-    },
-    "uiwelcome_karavan": {
-        "name": "Discutez ici avec les joueurs dont l'avatar partage le même culte que le vôtre."
-    },
-    "uiwelcome_fyros": {
-        "name": "Discutez ici avec les joueurs dont l'avatar est lui aussi un patriote."
-    },
-    "uiwelcome_tryker": {
-        "name": "Discutez ici avec les joueurs dont l'avatar est lui aussi un citoyen."
-    },
-    "uiwelcome_zorai": {
-        "name": "Discutez ici avec les joueurs dont l'avatar est lui aussi un initié."
-    },
-    "uiwelcome_matis": {
-        "name": "Discutez ici avec les joueurs dont l'avatar est lui aussi un vassal."
-    },
-    "uiwelcome_marauder": {
-        "name": "Discutez ici avec les joueurs dont l'avatar est lui aussi un maraudeur."
-    },
-    "uiwelcome_ranger": {
-        "name": "Discutez ici avec les joueurs dont l'avatar est lui aussi un ranger."
+    "uimissioncatalog": {
+        "name": "Carnet de Missions"
     }
 }

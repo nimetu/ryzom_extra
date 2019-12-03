@@ -19379,6 +19379,12 @@
     "uigcfxanisotropicfilternone": {
         "name": "Keiner"
     },
+    "uishowiconbuffs": {
+        "name": "Zeige Gegenstandswerte und Verzauberung im Icon an"
+    },
+    "uittshowiconbuffs": {
+        "name": "Zeige Gegenstandswerte und Verzauberung im Icon an"
+    },
     "uishowclock12h": {
         "name": "Verwende 12-Stunden-Uhrzeit-Anzeige."
     },
@@ -19565,6 +19571,12 @@
     "uittmapsearch": {
         "name": "Karten suche"
     },
+    "uitargetlandmarkcmd": {
+        "name": "Visiere Kartenmarkierung an"
+    },
+    "uitargetlandmarkcmdentity": {
+        "name": "Schlüsselwörter für die Suche"
+    },
     "uittinventorysearch": {
         "name": "suchen"
     },
@@ -19622,6 +19634,39 @@
     "uiguildtabisland": {
         "name": "Insel"
     },
+    "uiwelcome_around": {
+        "name": "Rollenspiel ist eines der maßgeblichsten Merkmale von Ryzom, und der Umgebungs-Kanal ist ein wichtiger Ort, um es zu auszuüben."
+    },
+    "uiwelcome_region": {
+        "name": "Chatte hier mit anderen Spielern, die sich in der gleichen Region befinden wie Du."
+    },
+    "uiwelcome_universe": {
+        "name": "Der Universumskanal ist in erster Linie für Spieler gedacht, die um Hilfe zum Spiel bitten und für diejenigen, die ihnen helfen. Es ist ein freundlicher Kanal, der auch für Chats im Zusammenhang mit Ryzom verwendet werden kann."
+    },
+    "uiwelcome_kami": {
+        "name": "Chatte hier mit Spielern, die dem gleichen Kult wie Du angehören."
+    },
+    "uiwelcome_karavan": {
+        "name": "Chatte hier mit Spielern, die dem gleichen Kult wie Du angehören."
+    },
+    "uiwelcome_fyros": {
+        "name": "Chatte hier mit Spielern, die ebenfalls Patrioten sind."
+    },
+    "uiwelcome_tryker": {
+        "name": "Chatte hier mit Spielern, die ebenfalls Bürger sind."
+    },
+    "uiwelcome_zorai": {
+        "name": "Chatte hier mit Spielern, die ebenfalls Initiierte sind."
+    },
+    "uiwelcome_matis": {
+        "name": "Chatte hier mit Spielern, die ebenfalls Vasallen sind."
+    },
+    "uiwelcome_marauder": {
+        "name": "Chatte hier mit Spielern, die ebenfalls Marodeure sind."
+    },
+    "uiwelcome_ranger": {
+        "name": "Chatte hier mit Spielern, die ebenfalls Ranger sind."
+    },
     "uiartefactrestrict": {
         "name": "@{C02F}Deine Nationszugehörigkeit oder Ruhmstufe steht der Benutzung dieses Gegenstandes im Wege."
     },
@@ -19661,37 +19706,7 @@
     "uittchanauto": {
         "name": "Wenn dieses Kontrollkästchen aktiviert ist, werden Ihre dynamischen Chat-Kanäle wiederhergestellt, sofern sie nicht bereits geöffnet sind.\nVerhindert den Verlust von Kanälen beim Neustart oder im Falle eines Serverausfalls."
     },
-    "uiwelcome_around": {
-        "name": "Rollenspiel ist eines der maßgeblichsten Merkmale von Ryzom, und der Umgebungs-Kanal ist ein wichtiger Ort, um es zu auszuüben."
-    },
-    "uiwelcome_region": {
-        "name": "Chatte hier mit anderen Spielern, die sich in der gleichen Region befinden wie Du."
-    },
-    "uiwelcome_universe": {
-        "name": "Der Universumskanal ist in erster Linie für Spieler gedacht, die um Hilfe zum Spiel bitten und für diejenigen, die ihnen helfen. Es ist ein freundlicher Kanal, der auch für Chats im Zusammenhang mit Ryzom verwendet werden kann."
-    },
-    "uiwelcome_kami": {
-        "name": "Chatte hier mit Spielern, die dem gleichen Kult wie Du angehören."
-    },
-    "uiwelcome_karavan": {
-        "name": "Chatte hier mit Spielern, die dem gleichen Kult wie Du angehören."
-    },
-    "uiwelcome_fyros": {
-        "name": "Chatte hier mit Spielern, die ebenfalls Patrioten sind."
-    },
-    "uiwelcome_tryker": {
-        "name": "Chatte hier mit Spielern, die ebenfalls Bürger sind."
-    },
-    "uiwelcome_zorai": {
-        "name": "Chatte hier mit Spielern, die ebenfalls Initiierte sind."
-    },
-    "uiwelcome_matis": {
-        "name": "Chatte hier mit Spielern, die ebenfalls Vasallen sind."
-    },
-    "uiwelcome_marauder": {
-        "name": "Chatte hier mit Spielern, die ebenfalls Marodeure sind."
-    },
-    "uiwelcome_ranger": {
-        "name": "Chatte hier mit Spielern, die ebenfalls Ranger sind."
+    "uimissioncatalog": {
+        "name": "Missions-Tagebuch"
     }
 }
