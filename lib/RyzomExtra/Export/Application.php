@@ -28,6 +28,7 @@ use Nel\Misc\BnpFile;
 use Ryzom\Sheets\PackedSheetsLoader;
 use Ryzom\Sheets\SheetsManager;
 use Ryzom\Sheets\VisualSlotManager;
+use Ryzom\Translation\Loader\LoaderInterface;
 use Ryzom\Translation\Loader\WordsLoader;
 use Ryzom\Translation\Loader\UxtLoader;
 use RyzomExtra\Export\Encoder\SerializeEncoder;
@@ -167,20 +168,44 @@ class Application extends Pimple {
 			}
 
 			$data = $bnp->readFile($name);
-			// TODO: use StringsManager->load($sheet);
 			$array = $this[$loader]->load($sheet, $data);
-
-			$groups = count($array);
-			$count = 0;
-			foreach ($array as $group => $messages) {
-				$count += count($messages);
-				// for sbrick, replace placeholders with real values
-				if ($group == 'sbrick') {
-					$array[$group] = $this->fixStubDescription($messages, $group);
-				}
+			// for sbrick, replace placeholders with real values
+			if (!empty($array['sbrick'])) {
+				$array['sbrick'] = $this->fixStubDescription($array['sbrick'], 'sbrick');
 			}
-			$this->debug('>> %s has %d group(s) with %d strings', $name, $groups, $count);
 			$this['export.words']->export($array, $lang);
+		}
+	}
+
+	/**
+	 * Export from files.
+	 *
+	 * @param array $sheetLangFiles sheet/lang/file array like
+	 *                              array(
+	 *                                'title' => array(
+	 *                                  'en' => 'title_words_en.txt'
+	 *                                  'fr' => 'title_words_fr.txt'
+	 *                                )
+	 *                              )
+	 */
+	function exportTranslationFromFiles($sheetLangFiles) {
+		$this->debug('loading translations for sheets (%s)', join(', ', array_keys($sheetLangFiles)));
+		foreach ($sheetLangFiles as $sheet => $langFiles) {
+			if ($sheet == 'ext') {
+				$loader = 'load.uxt';
+			} else {
+				$loader = 'load.words';
+			}
+
+			foreach($langFiles as $lang => $file) {
+				if (!file_exists($file)) {
+					$this->debug('sheet(%s), lang(%s), file(%s) not found', $sheet, $lang, $file);
+					continue;
+				}
+				$data = file_get_contents($file);
+				$array = $this[$loader]->load($sheet, $data);
+				$this['export.words']->export($array, $lang);
+			}
 		}
 	}
 

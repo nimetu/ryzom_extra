@@ -9,6 +9,11 @@ $config['languages'] = ['en', 'fr', 'de', 'ru', 'es'];
 // with .packed_sheets and .bnp files
 $config['data.path'] = '/srv/ryzom-client/data';
 
+// path to directory where ryzom-data translated files are (ie, race_words_en.txt)
+// these files are from https://gitlab.com/ryzom/ryzom-data repository.
+// if left empty (default), then this is ignored
+$config['words_extra.path'] = '';// <path-to-ryzom-data>/translations/translated';
+
 // RyzomExtra directory for .serial files
 $config['cache.path'] = __DIR__.'/../resources/sheets-cache';
 
@@ -35,6 +40,15 @@ $config['words'] = [
 	'sphrase',
 	'title',
 	'outpost'
+];
+
+// <sheet>_words_<lang>.txt from ryzom-data
+$config['words_extra'] = [
+	'characteristic',
+	'damagetype',
+	'ecosystem',
+	'race',
+	'score',
 ];
 
 return $config;

@@ -61,10 +61,20 @@ $app->exportSheets($config['sheets']);
 $app->exportVisualSlots();
 
 // <sheet>_words_<lang>.txt
-$langArray = array('en', 'fr', 'de', 'ru', 'es');
-$sheets = array('uxt', 'skill', 'faction', 'place', 'item', 'creature', 'sbrick', 'sphrase', 'title', 'outpost');
-foreach ($langArray as $lang) {
-	$app->exportTranslations($lang, $sheets);
+foreach ($config['languages'] as $lang) {
+	$app->exportTranslations($lang, $config['words']);
+}
+
+// export translations from https://gitlab.com/ryzom/ryzom-data
+if (!empty($config['words_extra.path'])) {
+	$sheetLangFiles = [];
+	foreach($config['languages'] as $lang) {
+		foreach($config['words_extra'] as $sheet) {
+			$sheetLangFiles[$sheet][$lang] = $config['words_extra.path']."/${sheet}_words_${lang}.txt";
+		}
+	}
+
+	$app->exportTranslationFromFiles($sheetLangFiles);
 }
 
 printf("+ DEBUG: memory used %s bytes\n", number_format(memory_get_usage(true) - $mem));
