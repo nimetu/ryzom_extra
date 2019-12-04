@@ -22,4 +22,19 @@ $config['sheets'] = [
 	//'faction',
 ];
 
+
+// <sheet>_words_<lang>.txt from client
+$config['words'] = [
+	'uxt',
+	'skill',
+	'faction',
+	'place',
+	'item',
+	'creature',
+	'sbrick',
+	'sphrase',
+	'title',
+	'outpost'
+];
+
 return $config;
