@@ -2,6 +2,9 @@
 
 $config = array();
 
+// languages to export
+$config['languages'] = ['en', 'fr', 'de', 'ru', 'es'];
+
 // Ryzom client data directory location
 // with .packed_sheets and .bnp files
 $config['data.path'] = '/srv/ryzom-client/data';
