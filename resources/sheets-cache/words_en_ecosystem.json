@@ -1,0 +1,47 @@
+{
+    "desert": {
+        "name": "Desert",
+        "* nom en français": "désert",
+        "ia": "a",
+        "da": "the",
+        "p": "Deserts",
+        "pia": "\\d",
+        "pda": "the"
+    },
+    "forest": {
+        "name": "Forest",
+        "* nom en français": "forêt",
+        "ia": "a",
+        "da": "the",
+        "p": "Forests",
+        "pia": "\\d",
+        "pda": "the"
+    },
+    "lake": {
+        "name": "Lakes",
+        "* nom en français": "lacustre",
+        "ia": "a",
+        "da": "the",
+        "p": "Lakes",
+        "pia": "\\d",
+        "pda": "the"
+    },
+    "jungle": {
+        "name": "Jungle",
+        "* nom en français": "jungle",
+        "ia": "a",
+        "da": "the",
+        "p": "Jungles",
+        "pia": "\\d",
+        "pda": "the"
+    },
+    "primeroots": {
+        "name": "Prime Roots",
+        "* nom en français": "primes racines",
+        "ia": "a",
+        "da": "the",
+        "p": "Prime Roots",
+        "pia": "\\d",
+        "pda": "the"
+    }
+}

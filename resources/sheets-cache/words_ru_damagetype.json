@@ -1,0 +1,52 @@
+{
+    "slashing": {
+        "name": "Рубящий",
+        "p": "Рубящие",
+        "description": ""
+    },
+    "piercing": {
+        "name": "Колющий",
+        "p": "Колющие",
+        "description": ""
+    },
+    "blunt": {
+        "name": "Дробящий",
+        "p": "Дробящие",
+        "description": ""
+    },
+    "rot": {
+        "name": "Гниль",
+        "p": "Гниль",
+        "description": ""
+    },
+    "acid": {
+        "name": "Кислота",
+        "p": "Кислоты",
+        "description": ""
+    },
+    "cold": {
+        "name": "Холод",
+        "p": "Холод",
+        "description": ""
+    },
+    "fire": {
+        "name": "Огонь",
+        "p": "Огни",
+        "description": ""
+    },
+    "poison": {
+        "name": "Яд",
+        "p": "Яды",
+        "description": ""
+    },
+    "electricity": {
+        "name": "Электрошок",
+        "p": "Электрошоки",
+        "description": ""
+    },
+    "shock": {
+        "name": "Ударная волна",
+        "p": "Ударные волны",
+        "description": ""
+    }
+}

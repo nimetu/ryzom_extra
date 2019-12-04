@@ -1,0 +1,1352 @@
+{
+    "fyros": {
+        "name": "Fyros",
+        "named": "Fyros",
+        "ia": "ein",
+        "da": "der",
+        "p": "Fyros",
+        "pd": "Fyros",
+        "pia": "",
+        "pda": "die"
+    },
+    "matis": {
+        "name": "Matis",
+        "named": "Matis",
+        "ia": "ein",
+        "da": "der",
+        "p": "Matis",
+        "pd": "Matis",
+        "pia": "",
+        "pda": "die"
+    },
+    "tryker": {
+        "name": "Tryker",
+        "named": "Tryker",
+        "ia": "ein",
+        "da": "der",
+        "p": "Tryker",
+        "pd": "Tryker",
+        "pia": "",
+        "pda": "die"
+    },
+    "zorai": {
+        "name": "Zoraï",
+        "named": "Zoraï",
+        "ia": "ein",
+        "da": "der",
+        "p": "Zoraï",
+        "pd": "Zoraï",
+        "pia": "",
+        "pda": "die"
+    },
+    "karavan": {
+        "name": "Karavan",
+        "named": "Karavan",
+        "ia": "ein",
+        "da": "der",
+        "p": "Karavans",
+        "pd": "Karavans",
+        "pia": "",
+        "pda": "die"
+    },
+    "tribe": {
+        "name": "Stamm",
+        "named": "Stamm",
+        "ia": "ein",
+        "da": "der",
+        "p": "Stämme",
+        "pd": "Stämme",
+        "pia": "",
+        "pda": "die"
+    },
+    "common": {
+        "name": "Allgemein",
+        "named": "Allgemein",
+        "ia": "",
+        "da": "",
+        "p": "Allgemeine",
+        "pd": "Allgemeine",
+        "pia": "",
+        "pda": ""
+    },
+    "arma": {
+        "name": "Arma",
+        "named": "Arma",
+        "ia": "ein",
+        "da": "der",
+        "p": "Armas",
+        "pd": "Armas",
+        "pia": "",
+        "pda": "die"
+    },
+    "balduse": {
+        "name": "Baldusa",
+        "named": "Baldusa",
+        "ia": "ein",
+        "da": "der",
+        "p": "Baldusas",
+        "pd": "Baldusas",
+        "pia": "",
+        "pda": "die"
+    },
+    "bul": {
+        "name": "Bodoc",
+        "named": "Bodoc",
+        "ia": "ein",
+        "da": "der",
+        "p": "Bodocs",
+        "pd": "Bodocs",
+        "pia": "",
+        "pda": "die"
+    },
+    "capryni": {
+        "name": "Capryni",
+        "named": "Capryni",
+        "ia": "ein",
+        "da": "der",
+        "p": "Caprynis",
+        "pd": "Caprynis",
+        "pia": "",
+        "pda": "die"
+    },
+    "cephaloplant": {
+        "name": "Jubla",
+        "named": "Jubla",
+        "ia": "ein",
+        "da": "der",
+        "p": "Jublas",
+        "pd": "Jublas",
+        "pia": "",
+        "pda": "die"
+    },
+    "chonari": {
+        "name": "Gingo",
+        "named": "Gingo",
+        "ia": "ein",
+        "da": "der",
+        "p": "Gingos",
+        "pd": "Gingos",
+        "pia": "",
+        "pda": "die"
+    },
+    "clapclap": {
+        "name": "Prakker",
+        "named": "Prakker",
+        "ia": "ein",
+        "da": "der",
+        "p": "Prakker",
+        "pd": "Prakker",
+        "pia": "",
+        "pda": "die"
+    },
+    "cococlaw": {
+        "name": "Clopper",
+        "named": "Clopper",
+        "ia": "ein",
+        "da": "der",
+        "p": "Clopper",
+        "pd": "Clopper",
+        "pia": "",
+        "pda": "die"
+    },
+    "cute": {
+        "name": "Cute",
+        "named": "Cute",
+        "ia": "ein",
+        "da": "der",
+        "p": "Cutes",
+        "pd": "Cutes",
+        "pia": "",
+        "pda": "die"
+    },
+    "dag": {
+        "name": "Yubo",
+        "named": "Yubo",
+        "ia": "ein",
+        "da": "der",
+        "p": "Yubos",
+        "pd": "Yubos",
+        "pia": "",
+        "pda": "die"
+    },
+    "diranak": {
+        "name": "Horncher",
+        "named": "Horncher",
+        "ia": "ein",
+        "da": "der",
+        "p": "Horncher",
+        "pd": "Horncher",
+        "pia": "",
+        "pda": "die"
+    },
+    "electroalgs": {
+        "name": "Stinga",
+        "named": "Stinga",
+        "ia": "ein",
+        "da": "der",
+        "p": "Stingas",
+        "pd": "Stingas",
+        "pia": "",
+        "pda": "die"
+    },
+    "estrasson": {
+        "name": "Cray",
+        "named": "Cray",
+        "ia": "ein",
+        "da": "der",
+        "p": "Crays",
+        "pd": "Crays",
+        "pia": "",
+        "pda": "die"
+    },
+    "filin": {
+        "name": "Messab",
+        "named": "Messab",
+        "ia": "ein",
+        "da": "der",
+        "p": "Messabs",
+        "pd": "Messabs",
+        "pia": "",
+        "pda": "die"
+    },
+    "frahar": {
+        "name": "Frahar",
+        "named": "Frahar",
+        "ia": "ein",
+        "da": "der",
+        "p": "Frahar",
+        "pd": "Frahar",
+        "pia": "",
+        "pda": "die"
+    },
+    "gibbai": {
+        "name": "Gibbaï",
+        "named": "Gibbaï",
+        "ia": "ein",
+        "da": "der",
+        "p": "Gibbaïs",
+        "pd": "Gibbaïs",
+        "pia": "",
+        "pda": "die"
+    },
+    "hachtaha": {
+        "name": "Goari",
+        "named": "Goari",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goaris",
+        "pd": "Goaris",
+        "pia": "",
+        "pda": "die"
+    },
+    "jungler": {
+        "name": "Torbak",
+        "named": "Torbak",
+        "ia": "ein",
+        "da": "der",
+        "p": "Torbaks",
+        "pd": "Torbaks",
+        "pia": "",
+        "pda": "die"
+    },
+    "kakty": {
+        "name": "Lumper",
+        "named": "Lumper",
+        "ia": "ein",
+        "da": "der",
+        "p": "Lumper",
+        "pd": "Lumper",
+        "pia": "",
+        "pda": "die"
+    },
+    "kalab": {
+        "name": "Kalab",
+        "named": "Kalab",
+        "ia": "ein",
+        "da": "der",
+        "p": "Kalabs",
+        "pd": "Kalabs",
+        "pia": "",
+        "pda": "die"
+    },
+    "kami": {
+        "name": "Kami",
+        "named": "Kami",
+        "ia": "ein",
+        "da": "der",
+        "p": "Kamis",
+        "pd": "Kamis",
+        "pia": "",
+        "pda": "die"
+    },
+    "kazoar": {
+        "name": "Igara",
+        "named": "Igara",
+        "ia": "ein",
+        "da": "der",
+        "p": "Igaras",
+        "pd": "Igaras",
+        "pia": "",
+        "pda": "die"
+    },
+    "kitifly": {
+        "name": "Kizoar",
+        "named": "Kizoar",
+        "ia": "ein",
+        "da": "der",
+        "p": "Kizoars",
+        "pd": "Kizoars",
+        "pia": "",
+        "pda": "die"
+    },
+    "kitihank": {
+        "name": "Kinrey",
+        "named": "Kinrey",
+        "ia": "ein",
+        "da": "der",
+        "p": "Kinreys",
+        "pd": "Kinreys",
+        "pia": "",
+        "pda": "die"
+    },
+    "kitiharak": {
+        "name": "Kizarak",
+        "named": "Kizarak",
+        "ia": "ein",
+        "da": "der",
+        "p": "Kizaraks",
+        "pd": "Kizaraks",
+        "pia": "",
+        "pda": "die"
+    },
+    "kitikil": {
+        "name": "Kipesta",
+        "named": "Kipesta",
+        "ia": "ein",
+        "da": "der",
+        "p": "Kipestas",
+        "pd": "Kipestas",
+        "pia": "",
+        "pda": "die"
+    },
+    "kitimandib": {
+        "name": "Kincher",
+        "named": "Kincher",
+        "ia": "ein",
+        "da": "der",
+        "p": "Kincher",
+        "pd": "Kincher",
+        "pia": "",
+        "pda": "die"
+    },
+    "kitin": {
+        "name": "Kitin",
+        "named": "Kitin",
+        "ia": "ein",
+        "da": "der",
+        "p": "Kitins",
+        "pd": "Kitins",
+        "pia": "",
+        "pda": "die"
+    },
+    "kitinagan": {
+        "name": "Kipucka",
+        "named": "Kipucka",
+        "ia": "ein",
+        "da": "der",
+        "p": "Kipuckas",
+        "pd": "Kipuckas",
+        "pia": "",
+        "pda": "die"
+    },
+    "kitinega": {
+        "name": "Kirosta",
+        "named": "Kirosta",
+        "ia": "ein",
+        "da": "der",
+        "p": "Kirostas",
+        "pd": "Kirostas",
+        "pia": "",
+        "pda": "die"
+    },
+    "kitinokto": {
+        "name": "Kiban",
+        "named": "Kiban",
+        "ia": "ein",
+        "da": "der",
+        "p": "Kibans",
+        "pd": "Kibans",
+        "pia": "",
+        "pda": "die"
+    },
+    "lightbird": {
+        "name": "Izam",
+        "named": "Izam",
+        "ia": "ein",
+        "da": "der",
+        "p": "Izams",
+        "pd": "Izams",
+        "pia": "",
+        "pda": "die"
+    },
+    "mektoub": {
+        "name": "Mektoub",
+        "named": "Mektoub",
+        "ia": "ein",
+        "da": "das",
+        "p": "Mektoubs",
+        "pd": "Mektoubs",
+        "pia": "",
+        "pda": "die"
+    },
+    "phytopsy": {
+        "name": "Psykopla",
+        "named": "Psykopla",
+        "ia": "ein",
+        "da": "der",
+        "p": "Psykoplas",
+        "pd": "Psykoplas",
+        "pia": "",
+        "pda": "die"
+    },
+    "pucetron": {
+        "name": "Kipee",
+        "named": "Kipee",
+        "ia": "ein",
+        "da": "der",
+        "p": "Kipees",
+        "pd": "Kipees",
+        "pia": "",
+        "pda": "die"
+    },
+    "regus": {
+        "name": "Ragus",
+        "named": "Ragus",
+        "ia": "ein",
+        "da": "der",
+        "p": "Ragusse",
+        "pd": "Ragusse",
+        "pia": "",
+        "pda": "die"
+    },
+    "ryzerb": {
+        "name": "Najab",
+        "named": "Najab",
+        "ia": "ein",
+        "da": "der",
+        "p": "Najabs",
+        "pd": "Najabs",
+        "pia": "",
+        "pda": "die"
+    },
+    "ryzoholo": {
+        "name": "Timari",
+        "named": "Timari",
+        "ia": "ein",
+        "da": "der",
+        "p": "Timaris",
+        "pd": "Timaris",
+        "pia": "",
+        "pda": "die"
+    },
+    "ryzoholok": {
+        "name": "Vorax",
+        "named": "Vorax",
+        "ia": "ein",
+        "da": "der",
+        "p": "Voraxe",
+        "pd": "Voraxe",
+        "pia": "",
+        "pda": "die"
+    },
+    "sapenslaver": {
+        "name": "Slaveni",
+        "named": "Slaveni",
+        "ia": "ein",
+        "da": "der",
+        "p": "Slavenis",
+        "pd": "Slavenis",
+        "pia": "",
+        "pda": "die"
+    },
+    "spittingweeds": {
+        "name": "Cratcha",
+        "named": "Cratcha",
+        "ia": "ein",
+        "da": "der",
+        "p": "Cratchas",
+        "pd": "Cratchas",
+        "pia": "",
+        "pda": "die"
+    },
+    "swarmplants": {
+        "name": "Shooki",
+        "named": "Shooki",
+        "ia": "ein",
+        "da": "der",
+        "p": "Shookis",
+        "pd": "Shookis",
+        "pia": "",
+        "pda": "die"
+    },
+    "vampignon": {
+        "name": "Yelk",
+        "named": "Yelk",
+        "ia": "ein",
+        "da": "der",
+        "p": "Yelks",
+        "pd": "Yelks",
+        "pia": "",
+        "pda": "die"
+    },
+    "varinx": {
+        "name": "Varinx",
+        "named": "Varinx",
+        "ia": "ein",
+        "da": "der",
+        "p": "Varinxe",
+        "pd": "Varinxe",
+        "pia": "",
+        "pda": "die"
+    },
+    "yber": {
+        "name": "Yber",
+        "named": "Yber",
+        "ia": "ein",
+        "da": "der",
+        "p": "Yber",
+        "pd": "Yber",
+        "pia": "",
+        "pda": "die"
+    },
+    "zerx": {
+        "name": "Zerx",
+        "named": "Zerx",
+        "ia": "ein",
+        "da": "der",
+        "p": "Zerxe",
+        "pd": "Zerxe",
+        "pia": "",
+        "pda": "die"
+    },
+    "race_c1": {
+        "name": "Javing",
+        "named": "Javing",
+        "ia": "ein",
+        "da": "der",
+        "p": "Javings",
+        "pd": "Javings",
+        "pia": "",
+        "pda": "die"
+    },
+    "race_c2": {
+        "name": "Cuttler",
+        "named": "Cuttler",
+        "ia": "ein",
+        "da": "der",
+        "p": "Cuttler",
+        "pd": "Cuttler",
+        "pia": "",
+        "pda": "die"
+    },
+    "race_c3": {
+        "name": "Ocyx",
+        "named": "Ocyx",
+        "ia": "ein",
+        "da": "der",
+        "p": "Ocyxe",
+        "pd": "Ocyxe",
+        "pia": "",
+        "pda": "die"
+    },
+    "race_c4": {
+        "name": "Jugula",
+        "named": "Jugula",
+        "ia": "ein",
+        "da": "der",
+        "p": "Jugulas",
+        "pd": "Jugulas",
+        "pia": "",
+        "pda": "die"
+    },
+    "race_c5": {
+        "name": "Kidinak",
+        "named": "Kidinak",
+        "ia": "ein",
+        "da": "der",
+        "p": "Kidinaks",
+        "pd": "Kidinaks",
+        "pia": "",
+        "pda": "die"
+    },
+    "race_h1": {
+        "name": "Raspal",
+        "named": "Raspal",
+        "ia": "ein",
+        "da": "der",
+        "p": "Raspals",
+        "pd": "Raspals",
+        "pia": "",
+        "pda": "die"
+    },
+    "race_h2": {
+        "name": "Bawaab",
+        "named": "Bawaab",
+        "ia": "ein",
+        "da": "der",
+        "p": "Bawaabs",
+        "pd": "Bawaabs",
+        "pia": "",
+        "pda": "die"
+    },
+    "race_h3": {
+        "name": "Frippo",
+        "named": "Frippo",
+        "ia": "ein",
+        "da": "der",
+        "p": "Frippos",
+        "pd": "Frippos",
+        "pia": "",
+        "pda": "die"
+    },
+    "race_h4": {
+        "name": "Rendor",
+        "named": "Rendor",
+        "ia": "ein",
+        "da": "der",
+        "p": "Rendors",
+        "pd": "Rendors",
+        "pia": "",
+        "pda": "die"
+    },
+    "race_h5": {
+        "name": "Gnoof",
+        "named": "Gnoof",
+        "ia": "ein",
+        "da": "der",
+        "p": "Gnoofs",
+        "pd": "Gnoofs",
+        "pia": "",
+        "pda": "die"
+    },
+    "race_h6": {
+        "name": "Bolobi",
+        "named": "Bolobi",
+        "ia": "ein",
+        "da": "der",
+        "p": "Bolobis",
+        "pd": "Bolobis",
+        "pia": "",
+        "pda": "die"
+    },
+    "race_h7": {
+        "name": "Shalah",
+        "named": "Shalah",
+        "ia": "ein",
+        "da": "der",
+        "p": "Shalahs",
+        "pd": "Shalahs",
+        "pia": "",
+        "pda": "die"
+    },
+    "race_h8": {
+        "name": "Ploderos",
+        "named": "Ploderos",
+        "ia": "ein",
+        "da": "der",
+        "p": "Ploderosse",
+        "pd": "Ploderosse",
+        "pia": "",
+        "pda": "die"
+    },
+    "race_h9": {
+        "name": "Wombaï",
+        "named": "Wombaï",
+        "ia": "ein",
+        "da": "der",
+        "p": "Wombaïs",
+        "pd": "Wombaïs",
+        "pia": "",
+        "pda": "die"
+    },
+    "race_h10": {
+        "name": "Madakam",
+        "named": "Madakam",
+        "ia": "ein",
+        "da": "der",
+        "p": "Madakams",
+        "pd": "Madakams",
+        "pia": "",
+        "pda": "die"
+    },
+    "race_h11": {
+        "name": "Arana",
+        "named": "Arana",
+        "ia": "ein",
+        "da": "der",
+        "p": "Aranas",
+        "pd": "Aranas",
+        "pia": "",
+        "pda": "die"
+    },
+    "race_h12": {
+        "name": "Gubani",
+        "named": "Gubani",
+        "ia": "ein",
+        "da": "der",
+        "p": "Gubanis",
+        "pd": "Gubanis",
+        "pia": "",
+        "pda": "die"
+    },
+    "race_c6": {
+        "name": "Tyrancha",
+        "named": "Tryancha",
+        "ia": "ein",
+        "da": "der",
+        "p": "Tyranchas",
+        "pd": "Tryanchas",
+        "pia": "",
+        "pda": "die"
+    },
+    "race_c7": {
+        "name": "Yetin",
+        "named": "Yetin",
+        "ia": "ein",
+        "da": "der",
+        "p": "Yetins",
+        "pd": "Yetins",
+        "pia": "",
+        "pda": "die"
+    },
+    "gooarma": {
+        "name": "Goo-Arma",
+        "named": "Goo-Arma",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Armas",
+        "pd": "Goo-Armas",
+        "pia": "",
+        "pda": "die"
+    },
+    "goobalduse": {
+        "name": "Goo-Baldusa",
+        "named": "Goo-Baldusa",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Baldusas",
+        "pd": "Goo-Baldusas",
+        "pia": "",
+        "pda": "die"
+    },
+    "goobul": {
+        "name": "Goo-Bodoc",
+        "named": "Goo-Bodoc",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Bodocs",
+        "pd": "Goo-Bodocs",
+        "pia": "",
+        "pda": "die"
+    },
+    "goocapryni": {
+        "name": "Goo-Capryni",
+        "named": "Goo-Capryni",
+        "ia": "ein",
+        "da": "das",
+        "p": "Goo-Caprynis",
+        "pd": "Goo-Caprynis",
+        "pia": "",
+        "pda": "die"
+    },
+    "goocephaloplant": {
+        "name": "Goo-Jubla",
+        "named": "Goo-Jubla",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Jublas",
+        "pd": "Goo-Jublas",
+        "pia": "",
+        "pda": "die"
+    },
+    "goochonari": {
+        "name": "Goo-Gingo",
+        "named": "Goo-Gingo",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Gingos",
+        "pd": "Goo-Gingos",
+        "pia": "",
+        "pda": "die"
+    },
+    "gooclapclap": {
+        "name": "Goo-Prakker",
+        "named": "Goo-Prakker",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Prakkers",
+        "pd": "Goo-Prakkers",
+        "pia": "",
+        "pda": "die"
+    },
+    "goocococlaw": {
+        "name": "Goo-Clopper",
+        "named": "Goo-Clopper",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Clopper",
+        "pd": "Goo-Clopper",
+        "pia": "",
+        "pda": "die"
+    },
+    "goocute": {
+        "name": "Goo-Cute",
+        "named": "Goo-Cute",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Cutes",
+        "pd": "Goo-Cutes",
+        "pia": "",
+        "pda": "die"
+    },
+    "goodag": {
+        "name": "Goo-Yubo",
+        "named": "Goo-Yubo",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Yubos",
+        "pd": "Goo-Yubos",
+        "pia": "",
+        "pda": "die"
+    },
+    "goodiranak": {
+        "name": "Goo-Horncher",
+        "named": "Goo-Horncher",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Horncher",
+        "pd": "Goo-Horncher",
+        "pia": "",
+        "pda": "die"
+    },
+    "gooelectroalgs": {
+        "name": "Goo-Stinga",
+        "named": "Goo-Stinga",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Stingas",
+        "pd": "Goo-Stingas",
+        "pia": "",
+        "pda": "die"
+    },
+    "gooestrasson": {
+        "name": "Goo-Cray",
+        "named": "Goo-Cray",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Crays",
+        "pd": "Goo-Crays",
+        "pia": "",
+        "pda": "die"
+    },
+    "goofilin": {
+        "name": "Goo-Messab",
+        "named": "Goo-Messab",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Messabs",
+        "pd": "Goo-Messabs",
+        "pia": "",
+        "pda": "die"
+    },
+    "goofrahar": {
+        "name": "Goo-Frahar",
+        "named": "Goo-Frahar",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Frahars",
+        "pd": "Goo-Frahars",
+        "pia": "",
+        "pda": "die"
+    },
+    "googibbai": {
+        "name": "Goo-Gibbaï",
+        "named": "Goo-Gibbaï",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Gibbaïs",
+        "pd": "Goo-Gibbaïs",
+        "pia": "",
+        "pda": "die"
+    },
+    "goohachtaha": {
+        "name": "Goo-Goari",
+        "named": "Goo-Goari",
+        "ia": "ein",
+        "da": "das",
+        "p": "Goo-Goaris",
+        "pd": "Goo-Goaris",
+        "pia": "",
+        "pda": "die"
+    },
+    "goojungler": {
+        "name": "Goo-Torbak",
+        "named": "Goo-Torbak",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Torbaks",
+        "pd": "Goo-Torbaks",
+        "pia": "",
+        "pda": "die"
+    },
+    "gookakty": {
+        "name": "Goo-Lumper",
+        "named": "Goo-Lumper",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Lumper",
+        "pd": "Goo-Lumper",
+        "pia": "",
+        "pda": "die"
+    },
+    "gookalab": {
+        "name": "Goo-Kalab",
+        "named": "Goo-Kalab",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Kalabs",
+        "pd": "Goo-Kalabs",
+        "pia": "",
+        "pda": "die"
+    },
+    "gookami": {
+        "name": "Goo-Kami",
+        "named": "Goo-Kami",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Kamis",
+        "pd": "Goo-Kamis",
+        "pia": "",
+        "pda": "die"
+    },
+    "gookazoar": {
+        "name": "Goo-Igara",
+        "named": "Goo-Igara",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Igaras",
+        "pd": "Goo-Igaras",
+        "pia": "",
+        "pda": "die"
+    },
+    "gookitifly": {
+        "name": "Goo-Kizoar",
+        "named": "Goo-Kizoar",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Kizoars",
+        "pd": "Goo-Kizoars",
+        "pia": "",
+        "pda": "die"
+    },
+    "gookitihank": {
+        "name": "Goo-Kinrey",
+        "named": "Goo-Kinrey",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Kinreys",
+        "pd": "Goo-Kinreys",
+        "pia": "",
+        "pda": "die"
+    },
+    "gookitiharak": {
+        "name": "Goo-Kizarak",
+        "named": "Goo-Kizarak",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Kizaraks",
+        "pd": "Goo-Kizaraks",
+        "pia": "",
+        "pda": "die"
+    },
+    "gookitikil": {
+        "name": "Goo-Kipesta",
+        "named": "Goo-Kipesta",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Kipestas",
+        "pd": "Goo-Kipestas",
+        "pia": "",
+        "pda": "die"
+    },
+    "gookitimandib": {
+        "name": "Goo-Kincher",
+        "named": "Goo-Kincher",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Kincher",
+        "pd": "Goo-Kincher",
+        "pia": "",
+        "pda": "die"
+    },
+    "gookitin": {
+        "name": "Goo-Kitin",
+        "named": "Goo-Kitin",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Kitins",
+        "pd": "Goo-Kitins",
+        "pia": "",
+        "pda": "die"
+    },
+    "gookitinagan": {
+        "name": "Goo-Kipucka",
+        "named": "Goo-Kipucka",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Kipuckas",
+        "pd": "Goo-Kipuckas",
+        "pia": "",
+        "pda": "die"
+    },
+    "gookitinega": {
+        "name": "Goo-Kirosta",
+        "named": "Goo-Kirosta",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Kirostas",
+        "pd": "Goo-Kirostas",
+        "pia": "",
+        "pda": "die"
+    },
+    "gookitinokto": {
+        "name": "Goo-Kiban",
+        "named": "Goo-Kiban",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Kibans",
+        "pd": "Goo-Kibans",
+        "pia": "",
+        "pda": "die"
+    },
+    "goolightbird": {
+        "name": "Goo-Izam",
+        "named": "Goo-Izam",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Izams",
+        "pd": "Goo-Izams",
+        "pia": "",
+        "pda": "die"
+    },
+    "goomektoub": {
+        "name": "Goo-Mektoub",
+        "named": "Goo-Mektoub",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Mektoubs",
+        "pd": "Goo-Mektoubs",
+        "pia": "",
+        "pda": "die"
+    },
+    "goophytopsy": {
+        "name": "Goo-Psykopla",
+        "named": "Goo-Psykopla",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Psykoplas",
+        "pd": "Goo-Psykoplas",
+        "pia": "",
+        "pda": "die"
+    },
+    "goopucetron": {
+        "name": "Goo-Kipee",
+        "named": "Goo-Kipee",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Kipees",
+        "pd": "Goo-Kipees",
+        "pia": "",
+        "pda": "die"
+    },
+    "gooregus": {
+        "name": "Goo-Ragus",
+        "named": "Goo-Ragus",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Ragusse",
+        "pd": "Goo-Ragusse",
+        "pia": "",
+        "pda": "die"
+    },
+    "gooryzerb": {
+        "name": "Goo-Najab",
+        "named": "Goo-Najab",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Najabs",
+        "pd": "Goo-Najabs",
+        "pia": "",
+        "pda": "die"
+    },
+    "gooryzoholo": {
+        "name": "Goo-Timari",
+        "named": "Goo-Timari",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Timaris",
+        "pd": "Goo-Timaris",
+        "pia": "",
+        "pda": "die"
+    },
+    "gooryzoholok": {
+        "name": "Goo-Vorax",
+        "named": "Goo-Vorax",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Voraxe",
+        "pd": "Goo-Voraxe",
+        "pia": "",
+        "pda": "die"
+    },
+    "goosapenslaver": {
+        "name": "Goo-Slaveni",
+        "named": "Goo-Slaveni",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Slavenis",
+        "pd": "Goo-Slavenis",
+        "pia": "",
+        "pda": "die"
+    },
+    "goospittingweeds": {
+        "name": "Goo-Cratcha",
+        "named": "Goo-Cratcha",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Cratchas",
+        "pd": "Goo-Cratchas",
+        "pia": "",
+        "pda": "die"
+    },
+    "gooswarmplants": {
+        "name": "Goo-Shooki",
+        "named": "Goo-Shooki",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Shookis",
+        "pd": "Goo-Shookis",
+        "pia": "",
+        "pda": "die"
+    },
+    "goovampignon": {
+        "name": "Goo-Yelk",
+        "named": "Goo-Yelk",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Yelks",
+        "pd": "Goo-Yelks",
+        "pia": "",
+        "pda": "die"
+    },
+    "goovarinx": {
+        "name": "Goo-Varinx",
+        "named": "Goo-Varinx",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Varinxe",
+        "pd": "Goo-Varinxe",
+        "pia": "",
+        "pda": "die"
+    },
+    "gooyber": {
+        "name": "Goo-Yber",
+        "named": "Goo-Yber",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Ybers",
+        "pd": "Goo-Ybers",
+        "pia": "",
+        "pda": "die"
+    },
+    "goozerx": {
+        "name": "Goo-Zerx",
+        "named": "Goo-Zerx",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Zerxe",
+        "pd": "Goo-Zerxe",
+        "pia": "",
+        "pda": "die"
+    },
+    "gooc1": {
+        "name": "Goo-Javing",
+        "named": "Goo-Javing",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Javings",
+        "pd": "Goo-Javings",
+        "pia": "",
+        "pda": "die"
+    },
+    "gooc2": {
+        "name": "Goo-Cuttler",
+        "named": "Goo-Cuttler",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Cuttler",
+        "pd": "Goo-Cuttler",
+        "pia": "",
+        "pda": "die"
+    },
+    "gooc3": {
+        "name": "Goo-Ocyx",
+        "named": "Goo-Ocyx",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Ocyxe",
+        "pd": "Goo-Ocyxe",
+        "pia": "",
+        "pda": "die"
+    },
+    "gooc4": {
+        "name": "Goo-Jugula",
+        "named": "Goo-Jugula",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Jugulas",
+        "pd": "Goo-Jugulas",
+        "pia": "",
+        "pda": "die"
+    },
+    "gooc5": {
+        "name": "Goo-Kidinak",
+        "named": "Goo-Kidinak",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Kidinaks",
+        "pd": "Goo-Kidinaks",
+        "pia": "",
+        "pda": "die"
+    },
+    "gooh1": {
+        "name": "Goo-Raspal",
+        "named": "Goo-Raspal",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Raspals",
+        "pd": "Goo-Raspals",
+        "pia": "",
+        "pda": "die"
+    },
+    "gooh2": {
+        "name": "Goo-Bawaab",
+        "named": "Goo-Bawaab",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Bawaabs",
+        "pd": "Goo-Bawaabs",
+        "pia": "",
+        "pda": "die"
+    },
+    "gooh3": {
+        "name": "Goo-Frippo",
+        "named": "Goo-Frippo",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Frippos",
+        "pd": "Goo-Frippos",
+        "pia": "",
+        "pda": "die"
+    },
+    "gooh4": {
+        "name": "Goo-Rendor",
+        "named": "Goo-Rendor",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Rendors",
+        "pd": "Goo-Rendors",
+        "pia": "",
+        "pda": "die"
+    },
+    "gooh5": {
+        "name": "Goo-Gnoof",
+        "named": "Goo-Gnoof",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Gnoofs",
+        "pd": "Goo-Gnoofs",
+        "pia": "",
+        "pda": "die"
+    },
+    "gooh6": {
+        "name": "Goo-Bolobi",
+        "named": "Goo-Bolobi",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Bolobis",
+        "pd": "Goo-Bolobis",
+        "pia": "",
+        "pda": "die"
+    },
+    "gooh7": {
+        "name": "Goo-Shalah",
+        "named": "Goo-Shalah",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Shalahs",
+        "pd": "Goo-Shalahs",
+        "pia": "",
+        "pda": "die"
+    },
+    "gooh8": {
+        "name": "Goo-Ploderos",
+        "named": "Goo-Ploderos",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Ploderosse",
+        "pd": "Goo-Ploderosse",
+        "pia": "",
+        "pda": "die"
+    },
+    "gooh9": {
+        "name": "Goo-Wombaï",
+        "named": "Goo-Wombaï",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Wombaïs",
+        "pd": "Goo-Wombaïs",
+        "pia": "",
+        "pda": "die"
+    },
+    "gooh10": {
+        "name": "Goo-Madakam",
+        "named": "Goo-Madakam",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Madakams",
+        "pd": "Goo-Madakams",
+        "pia": "",
+        "pda": "die"
+    },
+    "gooh11": {
+        "name": "Goo-Arana",
+        "named": "Goo-Arana",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Aranas",
+        "pd": "Goo-Aranas",
+        "pia": "",
+        "pda": "die"
+    },
+    "gooh12": {
+        "name": "Goo-Gubani",
+        "named": "Goo-Gubani",
+        "ia": "ein",
+        "da": "der",
+        "p": "Goo-Gubanis",
+        "pd": "Goo-Gubanis",
+        "pia": "",
+        "pda": "die"
+    }
+}
