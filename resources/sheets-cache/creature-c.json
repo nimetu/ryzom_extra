@@ -77550,5 +77550,37 @@
         "givable": 0,
         "mountable": 0,
         "display_in_radar": 1
+    },
+    "chxjf3_zig": {
+        "sheetid": "chxjf3_zig",
+        "gender": 0,
+        "race": "64",
+        "fame": "none",
+        "speed": 9,
+        "region_force": 6,
+        "force_level": 1,
+        "level": 181,
+        "selectable": 1,
+        "talkable": 0,
+        "attackable": 0,
+        "givable": 0,
+        "mountable": 0,
+        "display_in_radar": 1
+    },
+    "chxjf4_zig": {
+        "sheetid": "chxjf4_zig",
+        "gender": 0,
+        "race": "36",
+        "fame": "none",
+        "speed": 9,
+        "region_force": 6,
+        "force_level": 1,
+        "level": 181,
+        "selectable": 1,
+        "talkable": 0,
+        "attackable": 0,
+        "givable": 0,
+        "mountable": 0,
+        "display_in_radar": 1
     }
 }
