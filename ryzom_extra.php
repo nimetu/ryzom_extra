@@ -769,8 +769,9 @@ class RyzomExtra
  *
  * @param string sheetid
  * @param string lang
- * @param mixed $index for titles 0=male and 1=female.
- *                     for anything else 'name', 'p', 'description', 'tooltip' (depends on sheetid type)
+ * @param string|int $index return 'name' column by default if it exists.
+ *                     for 'title', 0 == male, 1 == female
+ *                     for 'title', if 'women_name' it empty, then 'name' is returned.
  *
  * @return string translated text, error message if language file or sheet id is not found
  */
@@ -822,42 +823,18 @@ function ryzom_translate($sheetid, $lang, $index = 0)
 
     // return translation - each may have different array 'key' for translation
     $word = $cache[$_ext][$lang][$_id];
-    switch ($_ext) {
-        case 'creature': // keys name and p
-            // fall thru
-        case 'faction' : // keys name, member
-            // fall thru
-        case 'item'    : // keys name, p, description
-            // fall thru
-        case 'outpost' : // keys name, description
-            // fall thru
-        case 'outpost_squad':
-            // fall thru
-        case 'outpost_building':
-            // fall thru
-        case 'place'   : // keys name
-            // fall thru
-        case 'sbrick'  : // keys name, p, description, tooltip
-            // fall thru
-        case 'skill'   : // keys name, p, description
-            // fall thru
-        case 'sphrase' : // keys name, p, description
-            if (isset($word[$index])) {
-                return $word[$index];
-            }
-            // fall back to 'name' index
-            return $word['name'];
-        case 'title'   : // keys name, women_name
-            if ((int)$index == 0) {
-                return $word['name'];
-            } else {
-                return $word['women_name'];
-            }
-        // ui???? translations
-        case 'uxt': //
-            return $word['name'];
+
+    if ($index === 0) {
+        $index = 'name';
+    } else if ($_ext === 'title' && $index === 1) {
+        $index = empty($word['women_name']) ? 'name' : 'women_name';
     }
-    // should never reach here, but incase it does...
+
+    if (isset($word[$index])) {
+        return $word[$index];
+    }
+
+    // unknown column index
     return 'Unknown:' . $_ext . '.' . $_id;
 }
 
