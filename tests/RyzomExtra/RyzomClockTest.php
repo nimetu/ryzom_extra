@@ -5,7 +5,7 @@ namespace RyzomExtra;
 /**
  * Class RyzomClockTest
  */
-class RyzomClockTest extends \PHPUnit_Framework_TestCase
+class RyzomClockTest extends \PHPUnit\Framework\TestCase
 {
 
     /** @var RyzomClock */
