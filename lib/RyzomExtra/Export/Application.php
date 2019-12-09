@@ -212,9 +212,7 @@ class Application extends Pimple {
 	function exportVisualSlots() {
 		$this->debug('loading visual_slot.tab');
 
-		/** @var $bnp BnpFile */
-		$bnp = $this['bnp.data_common'];
-		$buf = $bnp->readFile('visual_slot.tab');
+		$buf = file_get_contents($this['data.path'].'/visual_slot.tab');
 
 		$vs = new VisualSlotManager();
 		$vs->load($buf);

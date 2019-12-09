@@ -5,8 +5,10 @@ $config = array();
 // languages to export
 $config['languages'] = ['en', 'fr', 'de', 'ru', 'es'];
 
-// Ryzom client data directory location
-// with .packed_sheets and .bnp files
+// Ryzom client data directory location with .packed_sheets and .bnp files
+// - ./              (packed_sheets, visual_slot.tab)
+// - leveldesign.bnp (sheet_id.bin)
+// - gamedev.bnp     (words, uxt translations)
 $config['data.path'] = '/srv/ryzom-client/data';
 
 // path to directory where ryzom-data translated files are (ie, race_words_en.txt)
