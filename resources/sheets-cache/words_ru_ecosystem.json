@@ -1,27 +1,22 @@
 {
     "desert": {
         "name": "Пустыня",
-        "* nom en français": "désert",
         "p": "Пустыни"
     },
     "forest": {
         "name": "Лес",
-        "* nom en français": "forêt",
         "p": "Леса"
     },
     "lake": {
         "name": "Озеро",
-        "* nom en français": "lacustre",
         "p": "Озера"
     },
     "jungle": {
         "name": "Джунгли",
-        "* nom en français": "jungle",
         "p": "Джунгли"
     },
     "primeroots": {
         "name": "Изначальные Корни",
-        "* nom en français": "primes racines",
         "p": "Изначальные Корни"
     }
 }
