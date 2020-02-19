@@ -138,6 +138,14 @@ class SbrickSheetExport extends AbstractSheetExport {
 				}
 			}
 
+			if (!empty($sbrick->RequireAllSkills)) {
+				/** @var CRequiredSkill $skill */
+				foreach ($sbrick->RequireAllSkills as $skill) {
+					$skillCode = strtolower($skilltree->get($skill->Skill)->SkillCode);
+					$array['require_all_skills'][$skillCode] = $skill->Value;
+				}
+			}
+
 			// brick has craft plan info
 			if ($sbrick->FaberPlan->ItemBuilt > 0) {
 				/** @var $item ItemSheet */

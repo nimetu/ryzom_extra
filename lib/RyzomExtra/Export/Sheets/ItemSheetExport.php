@@ -97,6 +97,10 @@ class ItemSheetExport extends AbstractSheetExport {
 				}
 			}
 
+			if (!empty($item->IconText)) {
+				$array['txt'] = $item->IconText;
+			}
+
 			if ($item->CraftPlan > 0) {
 				$array['craftplan'] = $this->sheetIds->getSheetIdName($item->CraftPlan, false);
 			}
@@ -137,7 +141,6 @@ class ItemSheetExport extends AbstractSheetExport {
 				$array['is_looted'] = $isLooted;
 				$array['is_mission'] = $isMission;
 				$array['index'] = $item->Mp->Family;
-				$array['txt'] = $item->IconText;
 				//$array['mp_category'] = $item->Mp->MpCategory; // == 1
 				//$array['harvest_skill'] = $item->Mp->HarvestSkill; // == 226
 				if ($item->Mp->ItemPartBF > 0) {
