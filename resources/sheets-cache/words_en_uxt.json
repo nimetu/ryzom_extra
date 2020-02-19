@@ -4374,7 +4374,7 @@
         "name": "Renegades"
     },
     "uifame_tribe_restorers": {
-        "name": "Restorers"
+        "name": "Watchers"
     },
     "uifame_tribe_root_tappers": {
         "name": "Root Tappers"
@@ -7473,7 +7473,7 @@
         "name": "@{FFF9}@{HuittInfoOrigin}Origin:@{H}@{T10}@{FFFF}%origin\n@{FFF9}@{HuittInfoToolQuality}Quality:@{H}@{T10}@{FFFF}%quality\n@{FFF9}@{HuittInfoWeight}Weight:@{H}@{T10}@{FFFF}%weight Kg\n@{FFF9}@{HuittInfoBulk}Bulk:@{H}@{T10}@{FFFF}%bulk\n@{FFF9}@{HuittInfoHP}Hit Points:@{H}@{T10}@{FFFF}%hp\/%hpmax\n@{FFF9}@{HuittInfoItemSkill}Skill:@{H}@{T10}@{FFFF}%skill\n%cansell\n@{FFF9}Command Range:@{T12}@{FFFF}%cmdrange\n@{FFF9}Max Packers:@{T12}@{FFFF}%maxpacker\n\n@{FFFF}%desc%custom_text"
     },
     "uihelpitemjewelformat": {
-        "name": "@{FFF9}@{HuittInfoOrigin}Origin:@{H}@{T10}@{FFFF}%origin\n@{FFF9}@{HuittInfoJewelryQuality}Quality:@{H}@{T10}@{FFFF}%quality\n@{FFF9}@{HuittInfoWeight}Weight:@{H}@{T10}@{FFFF}%weight Kg\n@{FFF9}@{HuittInfoBulk}Bulk:@{H}@{T10}@{FFFF}%bulk\n@{FFF9}@{HuittInfoHP}Hit Points:@{H}@{T10}@{FFFF}%hp\/%hpmax\n%cansell\n@{FFF9}@{HuittInfoRequirement}Requirements:@{H}@{T16}@{FFFF}%caracreq@{FFFF}%skillreq@{FFFF}%skillreq2\n\n%magic_protection%magic_resistance%buffs%desc%custom_text"
+        "name": "@{FFF9}@{HuittInfoOrigin}Origin:@{H}@{T10}@{FFFF}%origin\n@{FFF9}@{HuittInfoJewelryQuality}Quality:@{H}@{T10}@{FFFF}%quality\n@{FFF9}@{HuittInfoWeight}Weight:@{H}@{T10}@{FFFF}%weight Kg\n@{FFF9}@{HuittInfoBulk}Bulk:@{H}@{T10}@{FFFF}%bulk\n@{FFF9}@{HuittInfoHP}Hit Points:@{H}@{T10}@{FFFF}%hp\/%hpmax\n%cansell\n@{FFF9}@{HuittInfoRequirement}Requirements:@{H}@{T16}@{FFFF}%caracreq@{FFFF}%skillreq@{FFFF}%skillreq2\n\n%magic_protection%magic_resistance%buffs%desc%enchantment%custom_text"
     },
     "uihelpitemcrystalspell": {
         "name": "This item can be used to\nenchant a weapon.\n\nPlace the weapon you want to enchant in your right hand.\n\nThen right-click on this crystal, and choose \"Enchant Right Hand\".\n\nNote that applying a Crystallized Spell overwrites any previous enchantment on the item.\n\n%cansell\n%enchantment%custom_text"
@@ -7515,7 +7515,7 @@
         "name": " - Aura Disabled"
     },
     "uihelpphraseheaderbricks": {
-        "name": "@{FFFF}--- Stanzas ---"
+        "name": " "
     },
     "uihelpphrasecombatformat": {
         "name": "@{FFF9}Action Name:@{T14}@{FFFF}%name\n@{FFF9}Action Cost:@{T14}@{FFFF}%cost\n@{FFF9}Action Credit:@{T14}@{FFFF}%credit\n@{FFF9}Usable With:@{T14}@{FFFF}%wcomp\n\n%compostartThese stats depend on your equipped weapon.\n@{FFF9}@{HuittActionSuccessRateSF}Success Rate:@{H}@{T20}@{FFFF}%success%\n@{FFF9}Stamina Cost:@{T20}@{FFFF}%energy_cost\n@{FFF9}HP Cost:@{T20}@{FFFF}%hp_cost\n@{FFFF}%desc%req"
@@ -19707,6 +19707,18 @@
         "name": "If checked, your dynamic chat channels will be restored if not already opened.\nWill prevent the loss of channels at reboot or in case of server crash."
     },
     "uimissioncatalog": {
-        "name": "Mission Booklet"
+        "name": "Open Mission Booklet"
+    },
+    "uis2": {
+        "name": "The season in black against white"
+    },
+    "uis2e0": {
+        "name": "Episode \"Prologue\": The one where you get informed"
+    },
+    "uimgcmchat": {
+        "name": "Ask politely"
+    },
+    "uimgcmbullying": {
+        "name": "Question roughly"
     }
 }

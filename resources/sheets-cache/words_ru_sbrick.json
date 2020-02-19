@@ -6114,6 +6114,11 @@
         "description": "Сокращает расход внимания при поиске месторождений и обеспечивает бонус к извлечению ресурсов из обнаруженного месторождения.",
         "description2": ""
     },
+    "bhfpma06": {
+        "name": "Специализация на Atys",
+        "description": "Сокращает расход внимания при поиске месторождений и обеспечивает бонус к извлечению ресурсов из обнаруженного месторождения.",
+        "description2": ""
+    },
     "bhfpmb01": {
         "name": "Базовый поиск сэпа",
         "description": "Поиск определенного материала.",
@@ -6212,6 +6217,41 @@
     "bhfpmb20": {
         "name": "Продвинутый поиск масла",
         "description": "Поиск определенного материала, вероятность обнаружить нужное месторождение повышается..",
+        "description2": ""
+    },
+    "bhfpmb21": {
+        "name": "поиск Конструкция",
+        "description": "Поиск определенного материала.",
+        "description2": ""
+    },
+    "bhfpmb22": {
+        "name": "поиск Пища",
+        "description": "Поиск определенного материала.",
+        "description2": ""
+    },
+    "bhfpmb23": {
+        "name": "поиск Гуу",
+        "description": "Поиск определенного материала.",
+        "description2": ""
+    },
+    "bhfpmb24": {
+        "name": "поиск Насекомое",
+        "description": "Поиск определенного материала.",
+        "description2": ""
+    },
+    "bhfpmb25": {
+        "name": "поиск Китин",
+        "description": "Поиск определенного материала.",
+        "description2": ""
+    },
+    "bhfpmb26": {
+        "name": "поиск Вредоносное вещество",
+        "description": "Поиск определенного материала.",
+        "description2": ""
+    },
+    "bhfpmb27": {
+        "name": "поиск Консервант",
+        "description": "Поиск определенного материала.",
         "description2": ""
     },
     "bhfprmfma01": {
@@ -6471,6 +6511,506 @@
     },
     "bhfprmfmj06": {
         "name": "Поиск древесины тама",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk01": {
+        "name": "Поиск любого материала данного типа",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk02": {
+        "name": "Поиск Мертвый лист",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk03": {
+        "name": "Поиск Свежий каучук",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk04": {
+        "name": "Поиск Свежее дерево",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk05": {
+        "name": "Поиск Сухое дерево",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk06": {
+        "name": "Поиск Опилки влажного дерева",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk07": {
+        "name": "Поиск Маленький лист камыша",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk08": {
+        "name": "Поиск Большой лист камыша",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk09": {
+        "name": "Поиск Гигантский лист камыша",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk10": {
+        "name": "Поиск Свежая кора",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk11": {
+        "name": "Поиск Сухая кора",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk12": {
+        "name": "Поиск Сухое волокно",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk13": {
+        "name": "Поиск Влажное волокно",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk14": {
+        "name": "Поиск Маленькая раковина-жемужница",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk15": {
+        "name": "Поиск Большая раковина-жемужница",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk16": {
+        "name": "Поиск Гигантская раковина-жемужница",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk17": {
+        "name": "Поиск Маленькая жемчужина",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk18": {
+        "name": "Поиск Большая жемчужина",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk19": {
+        "name": "Поиск Гигантская жемчужина",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk20": {
+        "name": "Поиск Серебристая рыбья чешуйка",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk21": {
+        "name": "Поиск Золотистая рыбья чешуйка",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk22": {
+        "name": "Поиск Тутовый шелк",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk23": {
+        "name": "Поиск Паучий шелк",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk24": {
+        "name": "Поиск Маленький стебель камыша",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk25": {
+        "name": "Поиск Большой стебель камыша",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk26": {
+        "name": "Поиск Свежая разрыхленная почва",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk27": {
+        "name": "Поиск Сухая разрыхленная почва",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk28": {
+        "name": "Поиск Маленькое окаменелое растение",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk29": {
+        "name": "Поиск Большое окаменелое растение",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk30": {
+        "name": "Поиск Красный пигмент",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk31": {
+        "name": "Поиск Зеленый пигмент",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk32": {
+        "name": "Поиск Синий пигмент",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk33": {
+        "name": "Поиск Желтый пигмент",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk34": {
+        "name": "Поиск Черный пигмент",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml01": {
+        "name": "Поиск любого материала данного типа",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml02": {
+        "name": "Поиск Зеленый лист",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml03": {
+        "name": "Поиск Свежий цветочный лепесток",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml04": {
+        "name": "Поиск Сухой цветочный лепесток",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml05": {
+        "name": "Поиск Маленький бутон",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml06": {
+        "name": "Поиск Большой бутон",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml07": {
+        "name": "Поиск Свежий одуванчик",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml08": {
+        "name": "Поиск Сухой одуванчик",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml09": {
+        "name": "Поиск Цветущий одуванчик",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml10": {
+        "name": "Поиск Маленький гриб",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml11": {
+        "name": "Поиск Большой гриб",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml12": {
+        "name": "Поиск Живая личинка насекомого",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml13": {
+        "name": "Поиск Свежий овес",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml14": {
+        "name": "Поиск Сухой овес",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml15": {
+        "name": "Поиск Мертвая личинка насекомого",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml16": {
+        "name": "Поиск Маленькое яйцо",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml17": {
+        "name": "Поиск Большое яйцо",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml18": {
+        "name": "Поиск Свежий мед",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml19": {
+        "name": "Поиск Сухой мед",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml20": {
+        "name": "Поиск Перечное ароматическое растение",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml21": {
+        "name": "Поиск Пряное ароматическое растение",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml22": {
+        "name": "Поиск Горькое ароматическое растение",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml23": {
+        "name": "Поиск Свежая дикая ягода",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml24": {
+        "name": "Поиск Сухая дикая ягода",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml25": {
+        "name": "Поиск Маленький фрукт",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml26": {
+        "name": "Поиск Большой фрукт",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmm01": {
+        "name": "Поиск любого материала данного типа",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmm02": {
+        "name": "Поиск Свежий модифицированный сэп",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmm03": {
+        "name": "Поиск Сухой модифицированный сэп",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmm04": {
+        "name": "Поиск Свежий осадок гуу",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmm05": {
+        "name": "Поиск Сухой осадок гуу",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmn01": {
+        "name": "Поиск любого материала данного типа",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmn02": {
+        "name": "Поиск Живой паразит",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmn03": {
+        "name": "Поиск Мертвый паразит",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmn04": {
+        "name": "Поиск Маленькое брюшко стрекозы",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmn05": {
+        "name": "Поиск Большое брюшко стрекозы",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmn06": {
+        "name": "Поиск Красное крыло бабочки",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmn07": {
+        "name": "Поиск Зеленое крыло бабочки",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmn08": {
+        "name": "Поиск Синее крыло бабочки",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmn09": {
+        "name": "Поиск Желтое крыло бабочки",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmn10": {
+        "name": "Поиск Маленькое окаменелое насекомое",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmn11": {
+        "name": "Поиск Большое окаменелое насекомое",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmo01": {
+        "name": "Поиск любого материала данного типа",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmo02": {
+        "name": "Поиск Свежий кокон китина",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmo03": {
+        "name": "Поиск Старый кокон китина",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmo04": {
+        "name": "Поиск Слюна китина",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmo05": {
+        "name": "Поиск Личинка китина",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmp01": {
+        "name": "Поиск любого материала данного типа",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmp02": {
+        "name": "Поиск Гниющий лист",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmp03": {
+        "name": "Поиск Гниющее дерево",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmp04": {
+        "name": "Поиск Маленький шип",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmp05": {
+        "name": "Поиск Большой шип",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmp06": {
+        "name": "Поиск Гигантский шип",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmp07": {
+        "name": "Поиск Пыль",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmp08": {
+        "name": "Поиск Гниющее волокно",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmp09": {
+        "name": "Поиск Маленькая паутина",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmp10": {
+        "name": "Поиск Большая паутина",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmq01": {
+        "name": "Поиск любого материала данного типа",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmq02": {
+        "name": "Поиск Сухой каучук",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmq03": {
+        "name": "Поиск Опилки сухого дерева",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmq04": {
+        "name": "Поиск Сухая солома",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmq05": {
+        "name": "Поиск Влажная солома",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmq06": {
+        "name": "Поиск Свежий воск",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmq07": {
+        "name": "Поиск Сухой воск",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmq08": {
+        "name": "Поиск Свежий мох",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmq09": {
+        "name": "Поиск Сухой мох",
         "description": "",
         "description2": ""
     },
@@ -7474,6 +8014,11 @@
         "description": "Снижает разрушительное воздействие ускоренной или увеличенной добычи ресурсов.",
         "description2": ""
     },
+    "bhfema06": {
+        "name": "Специализация на добыче Atys",
+        "description": "Снижает разрушительное воздействие ускоренной или увеличенной добычи ресурсов.",
+        "description2": ""
+    },
     "bhfemb01": {
         "name": "Специализация на добыче растительного сэпа",
         "description": "Повышает качество добытых ресурсов и снижает разрушительное воздействие ускоренной добычи.",
@@ -7516,6 +8061,41 @@
     },
     "bhfemb10": {
         "name": "Специализация на добыче древесины",
+        "description": "Повышает качество добытых ресурсов и снижает разрушительное воздействие ускоренной добычи.",
+        "description2": ""
+    },
+    "bhfemb11": {
+        "name": "Специализация на добыче Конструкция",
+        "description": "Повышает качество добытых ресурсов и снижает разрушительное воздействие ускоренной добычи.",
+        "description2": ""
+    },
+    "bhfemb12": {
+        "name": "Специализация на добыче Пища",
+        "description": "Повышает качество добытых ресурсов и снижает разрушительное воздействие ускоренной добычи.",
+        "description2": ""
+    },
+    "bhfemb13": {
+        "name": "Специализация на добыче Гуу",
+        "description": "Повышает качество добытых ресурсов и снижает разрушительное воздействие ускоренной добычи.",
+        "description2": ""
+    },
+    "bhfemb14": {
+        "name": "Специализация на добыче Насекомое",
+        "description": "Повышает качество добытых ресурсов и снижает разрушительное воздействие ускоренной добычи.",
+        "description2": ""
+    },
+    "bhfemb15": {
+        "name": "Специализация на добыче Китин",
+        "description": "Повышает качество добытых ресурсов и снижает разрушительное воздействие ускоренной добычи.",
+        "description2": ""
+    },
+    "bhfemb16": {
+        "name": "Специализация на добыче Вредоносное вещество",
+        "description": "Повышает качество добытых ресурсов и снижает разрушительное воздействие ускоренной добычи.",
+        "description2": ""
+    },
+    "bhfemb17": {
+        "name": "Специализация на добыче Консервант",
         "description": "Повышает качество добытых ресурсов и снижает разрушительное воздействие ускоренной добычи.",
         "description2": ""
     },
@@ -17831,7 +18411,7 @@
     },
     "bmor00180": {
         "name": "Концентрация 11",
-        "description": "Увеличивает вашу сопротивляемость прерыванию действий на $MA_BREAK_RES. Наиболее эффективно для заклинаний, уровень которых не превышает 255.",
+        "description": "Увеличивает вашу сопротивляемость прерыванию действий на $MA_BREAK_RES. Наиболее эффективно для заклинаний, уровень которых не превышает 225.",
         "description2": ""
     },
     "bmor00200": {

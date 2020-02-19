@@ -12671,6 +12671,15 @@
         "pda": "",
         "description": "Reduces the focus consumption of deposit tracking actions and adds a bonus to the extraction rate of the prospected sources."
     },
+    "abhfpma06": {
+        "name": "Atys prospection specialization",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "\"Reduce the focus consumption of deposit tracking actions; add a bonus to the extraction rate of the prospected sources\""
+    },
     "abhfpmb01": {
         "name": "Minor Plant Sap Prospection",
         "ia": "a",
@@ -12850,6 +12859,69 @@
         "pia": "",
         "pda": "",
         "description": "Search for specific material sources, with increased chance of success."
+    },
+    "abhfpmb21": {
+        "name": "Construction Group Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific materials"
+    },
+    "abhfpmb22": {
+        "name": "Food Group Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific materials"
+    },
+    "abhfpmb23": {
+        "name": "Goo Group Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific materials"
+    },
+    "abhfpmb24": {
+        "name": "Insect Group Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific materials"
+    },
+    "abhfpmb25": {
+        "name": "Kitin Group Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific materials"
+    },
+    "abhfpmb26": {
+        "name": "Harmful Group Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific materials"
+    },
+    "abhfpmb27": {
+        "name": "Preservative Group Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific materials"
     },
     "abhfprmfma02": {
         "name": "Redhot Sap Prospection",
@@ -13231,6 +13303,843 @@
     },
     "abhfprmfmj06": {
         "name": "Tama Wood Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmk02": {
+        "name": "Dead Leaf Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmk03": {
+        "name": "Fresh Resin Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmk04": {
+        "name": "Fresh Wood Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmk05": {
+        "name": "Dry Wood Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmk06": {
+        "name": "Damp Wood Sawdust Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmk07": {
+        "name": "Small Reed Leaf Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmk08": {
+        "name": "Large Reed Leaf Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmk09": {
+        "name": "Giant Reed Leaf Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmk10": {
+        "name": "Fresh Bark Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmk11": {
+        "name": "Dry Bark Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmk12": {
+        "name": "Dry Fiber Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmk13": {
+        "name": "Damp Fiber Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmk14": {
+        "name": "Small Pearly Shell Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmk15": {
+        "name": "Large Pearly Shell Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmk16": {
+        "name": "Giant Pearly Shell Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmk17": {
+        "name": "Small Pearl Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmk18": {
+        "name": "Large Pearl Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmk19": {
+        "name": "Giant Pearl Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmk20": {
+        "name": "Silvery Fish Scale Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmk21": {
+        "name": "Golden Fish Scale Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmk22": {
+        "name": "Worm Silk Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmk23": {
+        "name": "Spider Silk Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmk24": {
+        "name": "Small Reed Stem Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmk25": {
+        "name": "Large Reed Stem Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmk26": {
+        "name": "Fresh Loose Soil Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmk27": {
+        "name": "Dried Loose Soil Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmk28": {
+        "name": "Small Plant Fossil Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmk29": {
+        "name": "Large Plant Fossil Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmk30": {
+        "name": "Red Pigment Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmk31": {
+        "name": "Green Pigment Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmk32": {
+        "name": "Blue Pigment Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmk33": {
+        "name": "Yellow Pigment Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmk34": {
+        "name": "Black Pigment Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfml02": {
+        "name": "Green Leaf Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfml03": {
+        "name": "Fresh Flower Petal Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfml04": {
+        "name": "Dried Flower Petal Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfml05": {
+        "name": "Small Bud Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfml06": {
+        "name": "Large Bud Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfml07": {
+        "name": "Fresh Dandelion Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfml08": {
+        "name": "Dried Dandelion Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfml09": {
+        "name": "Blooming Dandelion Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfml10": {
+        "name": "Small Mushroom Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfml11": {
+        "name": "Large Mushroom Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfml12": {
+        "name": "Living Insect Larva Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfml13": {
+        "name": "Fresh Cereal Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfml14": {
+        "name": "Dried Cereal Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfml15": {
+        "name": "Dead Insect Larva Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfml16": {
+        "name": "Small Egg Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfml17": {
+        "name": "Large Egg Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfml18": {
+        "name": "Fresh Honey Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfml19": {
+        "name": "Dried Honey Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfml20": {
+        "name": "Peppery Aromatic Plant Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfml21": {
+        "name": "Spicy Aromatic Plant Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfml22": {
+        "name": "Bitter Aromatic Plant Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfml23": {
+        "name": "Fresh Wild Berry Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfml24": {
+        "name": "Dried Wild Berry Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfml25": {
+        "name": "Small Fruit Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfml26": {
+        "name": "Large Fruit Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmm02": {
+        "name": "Fresh Modified Sap Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmm03": {
+        "name": "Dried Modified Sap Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmm04": {
+        "name": "Fresh Goo Residue Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmm05": {
+        "name": "Dried Goo Residue Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmn02": {
+        "name": "Living Parasite Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmn03": {
+        "name": "Dead Parasite Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmn04": {
+        "name": "Small Firefly Abdomen Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmn05": {
+        "name": "Large Firefly Abdomen Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmn06": {
+        "name": "Red Butterfly Wing Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmn07": {
+        "name": "Green Butterfly Wing Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmn08": {
+        "name": "Blue Butterfly Wing Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmn09": {
+        "name": "Yellow Butterfly Wing Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmn10": {
+        "name": "Small Insect Fossil Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmn11": {
+        "name": "Large Insect Fossil Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmo02": {
+        "name": "Fresh Kitin Cocoon Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmo03": {
+        "name": "Old Kitin Cocoon Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmo04": {
+        "name": "Kitin Saliva Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmo05": {
+        "name": "Kitin Larva Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmp02": {
+        "name": "Rotting Leaf Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmp03": {
+        "name": "Rotting Wood Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmp04": {
+        "name": "Small Thorn Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmp05": {
+        "name": "Large Thorn Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmp06": {
+        "name": "Giant Thorn Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmp07": {
+        "name": "Dust Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmp08": {
+        "name": "Rotting Fiber Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmp09": {
+        "name": "Small Spider Web Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmp10": {
+        "name": "Large Spider Web Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmq02": {
+        "name": "Dry Resin Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmq03": {
+        "name": "Dry Wood Sawdust Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmq04": {
+        "name": "Dry Straw Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmq05": {
+        "name": "Damp Straw Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmq06": {
+        "name": "Fresh Wax Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmq07": {
+        "name": "Dry Wax Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmq08": {
+        "name": "Fresh Moss Prospection",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific material sources."
+    },
+    "abhfprmfmq09": {
+        "name": "Dry Moss Prospection",
         "ia": "a",
         "da": "the",
         "p": "",
@@ -14822,6 +15731,15 @@
         "pda": "",
         "description": "Reduce the aggressiveness of rate and quality."
     },
+    "abhfema06": {
+        "name": "Atys extraction specialization",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Reduce the aggressiveness of rate and quality"
+    },
     "abhfemb01": {
         "name": "Plant Sap Extraction Specialization",
         "ia": "a",
@@ -14897,6 +15815,69 @@
     "abhfemb10": {
         "name": "Wood Extraction Specialization",
         "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Increase quality and reduce the aggressiveness of speed."
+    },
+    "abhfemb11": {
+        "name": "Construction Extraction Specialization",
+        "ia": "an",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Increase quality and reduce the aggressiveness of speed."
+    },
+    "abhfemb12": {
+        "name": "Food Extraction Specialization",
+        "ia": "an",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Increase quality and reduce the aggressiveness of speed."
+    },
+    "abhfemb13": {
+        "name": "Goo Extraction Specialization",
+        "ia": "an",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Increase quality and reduce the aggressiveness of speed."
+    },
+    "abhfemb14": {
+        "name": "Insect Extraction Specialization",
+        "ia": "an",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Increase quality and reduce the aggressiveness of speed."
+    },
+    "abhfemb15": {
+        "name": "Kitin Extraction Specialization",
+        "ia": "an",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Increase quality and reduce the aggressiveness of speed."
+    },
+    "abhfemb16": {
+        "name": "Harmful Extraction Specialization",
+        "ia": "an",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Increase quality and reduce the aggressiveness of speed."
+    },
+    "abhfemb17": {
+        "name": "Preservative Extraction Specialization",
+        "ia": "an",
         "da": "the",
         "p": "",
         "pia": "",

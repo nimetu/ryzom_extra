@@ -7473,7 +7473,7 @@
         "name": "@{FFF9}@{HuittInfoOrigin}Origine :@{H}@{T12}@{FFFF}%origin\n@{FFF9}@{HuittInfoToolQuality}Qualité :@{H}@{T12}@{FFFF}%quality\n@{FFF9}@{HuittInfoWeight}Poids :@{H}@{T12}@{FFFF}%weight Kg\n@{FFF9}@{HuittInfoBulk}Volume :@{H}@{T12}@{FFFF}%bulk\n@{FFF9}@{HuittInfoHP}Points de vie :@{H}@{T12}@{FFFF}%hp \/ %hpmax\n@{FFF9}@{HuittInfoItemSkill}Compétence :@{H}@{T12}@{FFFF}%skill\n%cansell\n@{FFF9}Portée de la commande :@{T12}@{FFFF}%cmdrange\n@{FFF9}Max. Animaux de bât :@{T12}@{FFFF}%maxpacker\n\n@{FFFF}%desc%custom_text"
     },
     "uihelpitemjewelformat": {
-        "name": "@{FFF9}@{HuittInfoOrigin}Origine :@{H}@{T14}@{FFFF}%origin\n@{FFF9}@{HuittInfoJewelryQuality}Qualité :@{H}@{T14}@{FFFF}%quality\n@{FFF9}@{HuittInfoWeight}Poids :@{H}@{T14}@{FFFF}%weight Kg\n@{FFF9}@{HuittInfoBulk}Volume :@{H}@{T14}@{FFFF}%bulk\n@{FFF9}@{HuittInfoHP}Points de vie :@{H}@{T14}@{FFFF}%hp \/ %hpmax\n%cansell@{FFF9}@{HuittInfoRequirement}Prérequis :@{H}@{T14}@{FFFF}%caracreq@{FFFF}%skillreq@{FFFF}%skillreq2\n\n%magic_protection%magic_resistance%buffs%desc%custom_text"
+        "name": "@{FFF9}@{HuittInfoOrigin}Origine :@{H}@{T14}@{FFFF}%origin\n@{FFF9}@{HuittInfoJewelryQuality}Qualité :@{H}@{T14}@{FFFF}%quality\n@{FFF9}@{HuittInfoWeight}Poids :@{H}@{T14}@{FFFF}%weight Kg\n@{FFF9}@{HuittInfoBulk}Volume :@{H}@{T14}@{FFFF}%bulk\n@{FFF9}@{HuittInfoHP}Points de vie :@{H}@{T14}@{FFFF}%hp \/ %hpmax\n%cansell@{FFF9}@{HuittInfoRequirement}Prérequis :@{H}@{T14}@{FFFF}%caracreq@{FFFF}%skillreq@{FFFF}%skillreq2\n\n%magic_protection%magic_resistance%buffs%desc%enchantment%custom_text"
     },
     "uihelpitemcrystalspell": {
         "name": "Cet objet peut servir à\nenchanter une arme.\n\nPlacez l'arme à enchanter dans votre main droite.\n\nPuis faites un clic droit sur le cristal, et choisissez \"Enchanter l'arme de la main droite\".\n\nAttention ! Appliquer un sort cristallisé supprime l'enchantement précédent.\n\n%cansell%enchantment%custom_text"
@@ -7515,7 +7515,7 @@
         "name": " - Aura désactivée"
     },
     "uihelpphraseheaderbricks": {
-        "name": "@{FFFF}--- Briques ---"
+        "name": " "
     },
     "uihelpphrasecombatformat": {
         "name": "@{FFF9}Action :@{T12}@{FFFF}%name\n@{FFF9}Coût :@{T12}@{FFFF}%cost\n@{FFF9}Crédit :@{T12}@{FFFF}%credit\n@{FFF9}Utilisable avec :@{T12}@{FFFF}%wcomp\n\n%compostartCes caractéristiques dépendent de l'arme équipée.\n@{FFF9}@{HuittActionSuccessRateSF}Réussite :@{H}@{T16}@{FFFF}%success%\n@{FFF9}Endurance consommée :@{T16}@{FFFF}%energy_cost\n@{FFF9}Vie consommée :@{T16}@{FFFF}%hp_cost\n@{FFFF}%desc%req"
@@ -19707,6 +19707,18 @@
         "name": "Si coché, vos canaux de discussion dynamiques seront restaurés s'ils ne sont pas déjà ouverts.\nPrévient la perte de canaux au redémarrage ou en cas de panne du serveur."
     },
     "uimissioncatalog": {
-        "name": "Carnet de Missions"
+        "name": "Ouvrir le Carnet de Missions"
+    },
+    "uis2": {
+        "name": "La saison en noir contre blanc"
+    },
+    "uis2e0": {
+        "name": "Episode \"Prologue\" : Celui où l'on s'informe"
+    },
+    "uimgcmchat": {
+        "name": "Demander poliment"
+    },
+    "uimgcmbullying": {
+        "name": "Interroger sans ménagement"
     }
 }

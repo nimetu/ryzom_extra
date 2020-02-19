@@ -7470,7 +7470,7 @@
         "name": "@{FFF9}@{HuittInfoOrigin}Происхождение:@{H}@{T10}@{FFFF}%origin\n@{FFF9}@{HuittInfoToolQuality}Качество:@{H}@{T10}@{FFFF}%quality\n@{FFF9}@{HuittInfoWeight}Вес:@{H}@{T10}@{FFFF}%weight Kg\n@{FFF9}@{HuittInfoBulk}Объем:@{H}@{T10}@{FFFF}%bulk\n@{FFF9}@{HuittInfoHP}Прочность:@{H}@{T10}@{FFFF}%hp \/ %hpmax\n@{FFF9}@{HuittInfoItemSkill}Умение:@{H}@{T10}@{FFFF}%skill\n%cansell\n@{FFF9}Расстояние:@{T12}@{FFFF}%cmdrange\n@{FFF9}Макс. вьючных:@{T12}@{FFFF}%maxpacker\n\n@{FFFF}%desc%custom_text"
     },
     "uihelpitemjewelformat": {
-        "name": "@{FFF9}@{HuittInfoOrigin}Происхождение:@{H}@{T10}@{FFFF}%origin\n@{FFF9}@{HuittInfoJewelryQuality}Качество:@{H}@{T10}@{FFFF}%quality\n@{FFF9}@{HuittInfoWeight}Вес:@{H}@{T10}@{FFFF}%weight Kg\n@{FFF9}@{HuittInfoBulk}Объем:@{H}@{T10}@{FFFF}%bulk\n@{FFF9}@{HuittInfoHP}Прочность:@{H}@{T10}@{FFFF}%hp \/ %hpmax\n%cansell\n@{FFF9}@{HuittInfoRequirement}Необходимо:@{H}@{T12}@{FFFF}%caracreq@{FFFF}%skillreq@{FFFF}%skillreq2\n\n%magic_protection%magic_resistance%buffs%desc%custom_text"
+        "name": "@{FFF9}@{HuittInfoOrigin}Происхождение:@{H}@{T10}@{FFFF}%origin\n@{FFF9}@{HuittInfoJewelryQuality}Качество:@{H}@{T10}@{FFFF}%quality\n@{FFF9}@{HuittInfoWeight}Вес:@{H}@{T10}@{FFFF}%weight Kg\n@{FFF9}@{HuittInfoBulk}Объем:@{H}@{T10}@{FFFF}%bulk\n@{FFF9}@{HuittInfoHP}Прочность:@{H}@{T10}@{FFFF}%hp \/ %hpmax\n%cansell\n@{FFF9}@{HuittInfoRequirement}Необходимо:@{H}@{T12}@{FFFF}%caracreq@{FFFF}%skillreq@{FFFF}%skillreq2\n\n%magic_protection%magic_resistance%buffs%desc%enchantment%custom_text"
     },
     "uihelpitemcrystalspell": {
         "name": "Этот предмет можно использовать для того,\nчтобы зачаровать оружие.\n\nПоместите оружие, которое хотите зачаровать, в правую руку.\n\nЩелкните правой кнопкой мыши по кристаллу и выберите команду \"ЗАЧАРОВАТЬ ПРАВУЮ РУКУ\".\n\nИмейте в виду, что применение кристаллов заклятий уничтожает ранее существовавшие магические свойства предмета, и сокращает его текущий запас сэп до 0.\n\n%cansell\n%enchantment%custom_text"
@@ -7512,7 +7512,7 @@
         "name": " - Аура деактивирована"
     },
     "uihelpphraseheaderbricks": {
-        "name": "@{FFFF}--- Станзы ---"
+        "name": " "
     },
     "uihelpphrasecombatformat": {
         "name": "@{FFF9}Название:@{T12}@{FFFF}%name\n@{FFF9}Расход:@{T12}@{FFFF}%cost\n@{FFF9}Кредит:@{T12}@{FFFF}%credit\n@{FFF9}Используется с:@{T12}@{FFFF}%wcomp\n\n%compostartПараметры зависят от оружия.\n@{FFF9}@{HuittActionSuccessRateSF}Вероятность успеха:@{H}@{T16}@{FFFF}%success%\n@{FFF9}Расход стойкости:@{T16}@{FFFF}%energy_cost\n@{FFF9}Расход здоровья:@{T16}@{FFFF}%hp_cost\n@{FFFF}%desc%req"
@@ -19162,5 +19162,20 @@
     },
     "uiracebold": {
         "name": "РАСА: "
+    },
+    "uimissioncatalog": {
+        "name": "открыть каталог миссий"
+    },
+    "uis2": {
+        "name": "Сезон Черный против белого"
+    },
+    "uis2e0": {
+        "name": "Эпизод Пролог: Тот, который надо усвоить."
+    },
+    "uimgcmchat": {
+        "name": "Чат"
+    },
+    "uimgcmbullying": {
+        "name": "Хулиган"
     }
 }

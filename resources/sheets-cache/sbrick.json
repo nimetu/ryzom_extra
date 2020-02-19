@@ -50785,7 +50785,7 @@
             441
         ],
         "credit_families": [
-            477
+            478
         ]
     },
     "bsxpa02": {
@@ -58370,6 +58370,209 @@
             "sh": 30
         }
     },
+    "bhfemb11": {
+        "sheet_id": "bhfemb11",
+        "brick_family": 412,
+        "index_in_family": 12,
+        "level": 11,
+        "sabrina_cost": 10,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_leaf.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "sh": 30
+        }
+    },
+    "bhfemb12": {
+        "sheet_id": "bhfemb12",
+        "brick_family": 412,
+        "index_in_family": 13,
+        "level": 12,
+        "sabrina_cost": 10,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_bud.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "sh": 30
+        }
+    },
+    "bhfemb13": {
+        "sheet_id": "bhfemb13",
+        "brick_family": 412,
+        "index_in_family": 14,
+        "level": 13,
+        "sabrina_cost": 10,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_goo_residue.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "sh": 30
+        }
+    },
+    "bhfemb14": {
+        "sheet_id": "bhfemb14",
+        "brick_family": 412,
+        "index_in_family": 15,
+        "level": 14,
+        "sabrina_cost": 10,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_parasite.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "sh": 30
+        }
+    },
+    "bhfemb15": {
+        "sheet_id": "bhfemb15",
+        "brick_family": 412,
+        "index_in_family": 16,
+        "level": 15,
+        "sabrina_cost": 10,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_buterfly_cocoon.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "sh": 30
+        }
+    },
+    "bhfemb16": {
+        "sheet_id": "bhfemb16",
+        "brick_family": 412,
+        "index_in_family": 17,
+        "level": 16,
+        "sabrina_cost": 10,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_dust.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "sh": 30
+        }
+    },
+    "bhfemb17": {
+        "sheet_id": "bhfemb17",
+        "brick_family": 412,
+        "index_in_family": 18,
+        "level": 17,
+        "sabrina_cost": 10,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_pollen.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "sh": 30
+        }
+    },
     "bhfpca13": {
         "sheet_id": "bhfpca13",
         "brick_family": 398,
@@ -58846,6 +59049,230 @@
         },
         "parameter_families": [
             385
+        ],
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfpmb21": {
+        "sheet_id": "bhfpmb21",
+        "brick_family": 362,
+        "index_in_family": 21,
+        "level": 21,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_leaf.png",
+            "back": "pa_back.png"
+        },
+        "parameter_families": [
+            373
+        ],
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfpmb22": {
+        "sheet_id": "bhfpmb22",
+        "brick_family": 362,
+        "index_in_family": 22,
+        "level": 22,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_bud.png",
+            "back": "pa_back.png"
+        },
+        "parameter_families": [
+            374
+        ],
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfpmb23": {
+        "sheet_id": "bhfpmb23",
+        "brick_family": 362,
+        "index_in_family": 23,
+        "level": 23,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_goo_residue.png",
+            "back": "pa_back.png"
+        },
+        "parameter_families": [
+            375
+        ],
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfpmb24": {
+        "sheet_id": "bhfpmb24",
+        "brick_family": 362,
+        "index_in_family": 24,
+        "level": 24,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_parasite.png",
+            "back": "pa_back.png"
+        },
+        "parameter_families": [
+            376
+        ],
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfpmb25": {
+        "sheet_id": "bhfpmb25",
+        "brick_family": 362,
+        "index_in_family": 25,
+        "level": 25,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_buterfly_cocoon.png",
+            "back": "pa_back.png"
+        },
+        "parameter_families": [
+            377
+        ],
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfpmb26": {
+        "sheet_id": "bhfpmb26",
+        "brick_family": 362,
+        "index_in_family": 26,
+        "level": 26,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_dust.png",
+            "back": "pa_back.png"
+        },
+        "parameter_families": [
+            378
+        ],
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfpmb27": {
+        "sheet_id": "bhfpmb27",
+        "brick_family": 362,
+        "index_in_family": 27,
+        "level": 27,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_pollen.png",
+            "back": "pa_back.png"
+        },
+        "parameter_families": [
+            379
         ],
         "required_skills": {
             "shf": 60
@@ -59907,6 +60334,818 @@
             "shf": 100
         }
     },
+    "bhfprmfmk01": {
+        "sheet_id": "bhfprmfmk01",
+        "brick_family": 373,
+        "index_in_family": 1,
+        "level": 1,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_leaf.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "sh": 0
+        }
+    },
+    "bhfprmfmk02": {
+        "sheet_id": "bhfprmfmk02",
+        "brick_family": 373,
+        "index_in_family": 2,
+        "level": 2,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_leaf.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmk03": {
+        "sheet_id": "bhfprmfmk03",
+        "brick_family": 373,
+        "index_in_family": 3,
+        "level": 3,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_resin.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfml01": {
+        "sheet_id": "bhfprmfml01",
+        "brick_family": 374,
+        "index_in_family": 1,
+        "level": 1,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_bud.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "sh": 0
+        }
+    },
+    "bhfprmfml02": {
+        "sheet_id": "bhfprmfml02",
+        "brick_family": 374,
+        "index_in_family": 2,
+        "level": 2,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_leaf.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfml03": {
+        "sheet_id": "bhfprmfml03",
+        "brick_family": 374,
+        "index_in_family": 3,
+        "level": 3,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_flowers.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfml04": {
+        "sheet_id": "bhfprmfml04",
+        "brick_family": 374,
+        "index_in_family": 4,
+        "level": 4,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_flowers.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfml05": {
+        "sheet_id": "bhfprmfml05",
+        "brick_family": 374,
+        "index_in_family": 5,
+        "level": 5,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_bud.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfml06": {
+        "sheet_id": "bhfprmfml06",
+        "brick_family": 374,
+        "index_in_family": 6,
+        "level": 6,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_bud.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfml07": {
+        "sheet_id": "bhfprmfml07",
+        "brick_family": 374,
+        "index_in_family": 7,
+        "level": 7,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_dandelion.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfml08": {
+        "sheet_id": "bhfprmfml08",
+        "brick_family": 374,
+        "index_in_family": 8,
+        "level": 8,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_dandelion.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfml09": {
+        "sheet_id": "bhfprmfml09",
+        "brick_family": 374,
+        "index_in_family": 9,
+        "level": 9,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_dandelion.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmn01": {
+        "sheet_id": "bhfprmfmn01",
+        "brick_family": 376,
+        "index_in_family": 1,
+        "level": 1,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_parasite.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "sh": 0
+        }
+    },
+    "bhfprmfmn02": {
+        "sheet_id": "bhfprmfmn02",
+        "brick_family": 376,
+        "index_in_family": 2,
+        "level": 2,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_parasite.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmp01": {
+        "sheet_id": "bhfprmfmp01",
+        "brick_family": 378,
+        "index_in_family": 1,
+        "level": 1,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_dust.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "sh": 0
+        }
+    },
+    "bhfprmfmp02": {
+        "sheet_id": "bhfprmfmp02",
+        "brick_family": 378,
+        "index_in_family": 2,
+        "level": 2,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_leaf.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmp03": {
+        "sheet_id": "bhfprmfmp03",
+        "brick_family": 378,
+        "index_in_family": 3,
+        "level": 3,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_wood.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmp04": {
+        "sheet_id": "bhfprmfmp04",
+        "brick_family": 378,
+        "index_in_family": 4,
+        "level": 4,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_spine.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmp05": {
+        "sheet_id": "bhfprmfmp05",
+        "brick_family": 378,
+        "index_in_family": 5,
+        "level": 5,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_spine.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmp06": {
+        "sheet_id": "bhfprmfmp06",
+        "brick_family": 378,
+        "index_in_family": 6,
+        "level": 6,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_spine.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmp07": {
+        "sheet_id": "bhfprmfmp07",
+        "brick_family": 378,
+        "index_in_family": 7,
+        "level": 7,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_dust.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmp08": {
+        "sheet_id": "bhfprmfmp08",
+        "brick_family": 378,
+        "index_in_family": 8,
+        "level": 8,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_fiber.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmp09": {
+        "sheet_id": "bhfprmfmp09",
+        "brick_family": 378,
+        "index_in_family": 9,
+        "level": 9,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_spiders_web.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmp10": {
+        "sheet_id": "bhfprmfmp10",
+        "brick_family": 378,
+        "index_in_family": 10,
+        "level": 10,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_spiders_web.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmq01": {
+        "sheet_id": "bhfprmfmq01",
+        "brick_family": 379,
+        "index_in_family": 1,
+        "level": 1,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_pollen.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "sh": 0
+        }
+    },
+    "bhfprmfmq02": {
+        "sheet_id": "bhfprmfmq02",
+        "brick_family": 379,
+        "index_in_family": 2,
+        "level": 2,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_resin.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmq03": {
+        "sheet_id": "bhfprmfmq03",
+        "brick_family": 379,
+        "index_in_family": 3,
+        "level": 3,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_sawdust.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmq04": {
+        "sheet_id": "bhfprmfmq04",
+        "brick_family": 379,
+        "index_in_family": 4,
+        "level": 4,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_straw.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
     "bhfpmc06": {
         "sheet_id": "bhfpmc06",
         "brick_family": 387,
@@ -60193,6 +61432,209 @@
         },
         "required_skills": {
             "shf": 100
+        }
+    },
+    "bhfprmfmm01": {
+        "sheet_id": "bhfprmfmm01",
+        "brick_family": 375,
+        "index_in_family": 1,
+        "level": 1,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_goo_residue.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "sh": 0
+        }
+    },
+    "bhfprmfmm02": {
+        "sheet_id": "bhfprmfmm02",
+        "brick_family": 375,
+        "index_in_family": 2,
+        "level": 2,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_sap.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmm03": {
+        "sheet_id": "bhfprmfmm03",
+        "brick_family": 375,
+        "index_in_family": 3,
+        "level": 3,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_sap.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmo01": {
+        "sheet_id": "bhfprmfmo01",
+        "brick_family": 377,
+        "index_in_family": 1,
+        "level": 1,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_buterfly_cocoon.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "sh": 0
+        }
+    },
+    "bhfprmfmo02": {
+        "sheet_id": "bhfprmfmo02",
+        "brick_family": 377,
+        "index_in_family": 2,
+        "level": 2,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_buterfly_cocoon.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmo03": {
+        "sheet_id": "bhfprmfmo03",
+        "brick_family": 377,
+        "index_in_family": 3,
+        "level": 3,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_buterfly_cocoon.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmo04": {
+        "sheet_id": "bhfprmfmo04",
+        "brick_family": 377,
+        "index_in_family": 4,
+        "level": 4,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_kitin_secretion.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
         }
     },
     "bfaimhame01": {
@@ -68315,7 +69757,7 @@
     },
     "bepa01": {
         "sheet_id": "bepa01",
-        "brick_family": 479,
+        "brick_family": 480,
         "index_in_family": 1,
         "level": 1,
         "sabrina_cost": 0,
@@ -106872,7 +108314,7 @@
     },
     "bsxca01": {
         "sheet_id": "bsxca01",
-        "brick_family": 477,
+        "brick_family": 478,
         "index_in_family": 1,
         "level": 1,
         "sabrina_cost": -10,
@@ -106902,7 +108344,7 @@
     },
     "bsxca02": {
         "sheet_id": "bsxca02",
-        "brick_family": 477,
+        "brick_family": 478,
         "index_in_family": 2,
         "level": 2,
         "sabrina_cost": -20,
@@ -106932,7 +108374,7 @@
     },
     "bsxca03": {
         "sheet_id": "bsxca03",
-        "brick_family": 477,
+        "brick_family": 478,
         "index_in_family": 3,
         "level": 3,
         "sabrina_cost": -30,
@@ -106962,7 +108404,7 @@
     },
     "bsxca04": {
         "sheet_id": "bsxca04",
-        "brick_family": 477,
+        "brick_family": 478,
         "index_in_family": 4,
         "level": 4,
         "sabrina_cost": -40,
@@ -106992,7 +108434,7 @@
     },
     "bsxca05": {
         "sheet_id": "bsxca05",
-        "brick_family": 477,
+        "brick_family": 478,
         "index_in_family": 5,
         "level": 5,
         "sabrina_cost": -50,
@@ -107022,7 +108464,7 @@
     },
     "bsxca06": {
         "sheet_id": "bsxca06",
-        "brick_family": 477,
+        "brick_family": 478,
         "index_in_family": 6,
         "level": 6,
         "sabrina_cost": -60,
@@ -107052,7 +108494,7 @@
     },
     "bsxca07": {
         "sheet_id": "bsxca07",
-        "brick_family": 477,
+        "brick_family": 478,
         "index_in_family": 7,
         "level": 7,
         "sabrina_cost": -70,
@@ -107082,7 +108524,7 @@
     },
     "bsxca08": {
         "sheet_id": "bsxca08",
-        "brick_family": 477,
+        "brick_family": 478,
         "index_in_family": 8,
         "level": 8,
         "sabrina_cost": -80,
@@ -107112,7 +108554,7 @@
     },
     "bsxca09": {
         "sheet_id": "bsxca09",
-        "brick_family": 477,
+        "brick_family": 478,
         "index_in_family": 9,
         "level": 9,
         "sabrina_cost": -90,
@@ -107142,7 +108584,7 @@
     },
     "bsxca10": {
         "sheet_id": "bsxca10",
-        "brick_family": 477,
+        "brick_family": 478,
         "index_in_family": 10,
         "level": 10,
         "sabrina_cost": -100,
@@ -107172,7 +108614,7 @@
     },
     "bsxca11": {
         "sheet_id": "bsxca11",
-        "brick_family": 477,
+        "brick_family": 478,
         "index_in_family": 11,
         "level": 11,
         "sabrina_cost": -110,
@@ -107202,7 +108644,7 @@
     },
     "bsxca12": {
         "sheet_id": "bsxca12",
-        "brick_family": 477,
+        "brick_family": 478,
         "index_in_family": 12,
         "level": 12,
         "sabrina_cost": -120,
@@ -107232,7 +108674,7 @@
     },
     "bsxca13": {
         "sheet_id": "bsxca13",
-        "brick_family": 477,
+        "brick_family": 478,
         "index_in_family": 13,
         "level": 13,
         "sabrina_cost": -130,
@@ -107262,7 +108704,7 @@
     },
     "bsxca14": {
         "sheet_id": "bsxca14",
-        "brick_family": 477,
+        "brick_family": 478,
         "index_in_family": 14,
         "level": 14,
         "sabrina_cost": -140,
@@ -107292,7 +108734,7 @@
     },
     "bsxca15": {
         "sheet_id": "bsxca15",
-        "brick_family": 477,
+        "brick_family": 478,
         "index_in_family": 15,
         "level": 15,
         "sabrina_cost": -150,
@@ -107322,7 +108764,7 @@
     },
     "bsxca16": {
         "sheet_id": "bsxca16",
-        "brick_family": 477,
+        "brick_family": 478,
         "index_in_family": 16,
         "level": 16,
         "sabrina_cost": -160,
@@ -107352,7 +108794,7 @@
     },
     "bsxca17": {
         "sheet_id": "bsxca17",
-        "brick_family": 477,
+        "brick_family": 478,
         "index_in_family": 17,
         "level": 17,
         "sabrina_cost": -170,
@@ -107382,7 +108824,7 @@
     },
     "bsxca18": {
         "sheet_id": "bsxca18",
-        "brick_family": 477,
+        "brick_family": 478,
         "index_in_family": 18,
         "level": 18,
         "sabrina_cost": -180,
@@ -107412,7 +108854,7 @@
     },
     "bsxca19": {
         "sheet_id": "bsxca19",
-        "brick_family": 477,
+        "brick_family": 478,
         "index_in_family": 19,
         "level": 19,
         "sabrina_cost": -190,
@@ -107442,7 +108884,7 @@
     },
     "bsxca20": {
         "sheet_id": "bsxca20",
-        "brick_family": 477,
+        "brick_family": 478,
         "index_in_family": 20,
         "level": 20,
         "sabrina_cost": -200,
@@ -107472,7 +108914,7 @@
     },
     "bsxca21": {
         "sheet_id": "bsxca21",
-        "brick_family": 477,
+        "brick_family": 478,
         "index_in_family": 21,
         "level": 21,
         "sabrina_cost": -210,
@@ -107502,7 +108944,7 @@
     },
     "bsxca22": {
         "sheet_id": "bsxca22",
-        "brick_family": 477,
+        "brick_family": 478,
         "index_in_family": 22,
         "level": 22,
         "sabrina_cost": -220,
@@ -107532,7 +108974,7 @@
     },
     "bsxca23": {
         "sheet_id": "bsxca23",
-        "brick_family": 477,
+        "brick_family": 478,
         "index_in_family": 23,
         "level": 23,
         "sabrina_cost": -230,
@@ -107562,7 +109004,7 @@
     },
     "bsxca24": {
         "sheet_id": "bsxca24",
-        "brick_family": 477,
+        "brick_family": 478,
         "index_in_family": 24,
         "level": 24,
         "sabrina_cost": -240,
@@ -107592,7 +109034,7 @@
     },
     "bsxca25": {
         "sheet_id": "bsxca25",
-        "brick_family": 477,
+        "brick_family": 478,
         "index_in_family": 25,
         "level": 25,
         "sabrina_cost": -250,
@@ -107622,7 +109064,7 @@
     },
     "bsxca26": {
         "sheet_id": "bsxca26",
-        "brick_family": 477,
+        "brick_family": 478,
         "index_in_family": 26,
         "level": 26,
         "sabrina_cost": -260,
@@ -111523,7 +112965,7 @@
     },
     "bapa01": {
         "sheet_id": "bapa01",
-        "brick_family": 478,
+        "brick_family": 479,
         "index_in_family": 1,
         "level": 0,
         "sabrina_cost": 0,
@@ -111549,7 +112991,7 @@
     },
     "bapa02": {
         "sheet_id": "bapa02",
-        "brick_family": 478,
+        "brick_family": 479,
         "index_in_family": 2,
         "level": 0,
         "sabrina_cost": 0,
@@ -115011,7 +116453,7 @@
     },
     "bapa03": {
         "sheet_id": "bapa03",
-        "brick_family": 478,
+        "brick_family": 479,
         "index_in_family": 3,
         "level": 0,
         "sabrina_cost": 0,
@@ -115037,7 +116479,7 @@
     },
     "bapa04": {
         "sheet_id": "bapa04",
-        "brick_family": 478,
+        "brick_family": 479,
         "index_in_family": 4,
         "level": 0,
         "sabrina_cost": 0,
@@ -116306,7 +117748,7 @@
     },
     "bapa05": {
         "sheet_id": "bapa05",
-        "brick_family": 478,
+        "brick_family": 479,
         "index_in_family": 5,
         "level": 0,
         "sabrina_cost": 0,
@@ -133402,6 +134844,1957 @@
         },
         "required_skills": {
             "sc": 0
+        }
+    },
+    "bhfema06": {
+        "sheet_id": "bhfema06",
+        "brick_family": 411,
+        "index_in_family": 6,
+        "level": 6,
+        "sabrina_cost": 10,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "ico_atys.png",
+            "back": "pa_back.png"
+        },
+        "require_all_skills": {
+            "shfdaem": 250,
+            "shffaem": 250,
+            "shfjaem": 250,
+            "shflaem": 250,
+            "shfpaem": 250
+        }
+    },
+    "bhfpma06": {
+        "sheet_id": "bhfpma06",
+        "brick_family": 361,
+        "index_in_family": 6,
+        "level": 6,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "ico_atys.png",
+            "back": "pa_back.png"
+        },
+        "require_all_skills": {
+            "shfdaem": 250,
+            "shffaem": 250,
+            "shfjaem": 250,
+            "shflaem": 250,
+            "shfpaem": 250
+        }
+    },
+    "bhfprmfmk04": {
+        "sheet_id": "bhfprmfmk04",
+        "brick_family": 373,
+        "index_in_family": 4,
+        "level": 4,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_wood.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmk05": {
+        "sheet_id": "bhfprmfmk05",
+        "brick_family": 373,
+        "index_in_family": 5,
+        "level": 5,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_wood.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmk06": {
+        "sheet_id": "bhfprmfmk06",
+        "brick_family": 373,
+        "index_in_family": 6,
+        "level": 6,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_sawdust.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmk07": {
+        "sheet_id": "bhfprmfmk07",
+        "brick_family": 373,
+        "index_in_family": 7,
+        "level": 7,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_leaf.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmk08": {
+        "sheet_id": "bhfprmfmk08",
+        "brick_family": 373,
+        "index_in_family": 8,
+        "level": 8,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_leaf.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmk09": {
+        "sheet_id": "bhfprmfmk09",
+        "brick_family": 373,
+        "index_in_family": 9,
+        "level": 9,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_leaf.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmk10": {
+        "sheet_id": "bhfprmfmk10",
+        "brick_family": 373,
+        "index_in_family": 10,
+        "level": 10,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_bark.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmk11": {
+        "sheet_id": "bhfprmfmk11",
+        "brick_family": 373,
+        "index_in_family": 11,
+        "level": 11,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_bark.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmk12": {
+        "sheet_id": "bhfprmfmk12",
+        "brick_family": 373,
+        "index_in_family": 12,
+        "level": 12,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_fiber.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmk13": {
+        "sheet_id": "bhfprmfmk13",
+        "brick_family": 373,
+        "index_in_family": 13,
+        "level": 13,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_fiber.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmk14": {
+        "sheet_id": "bhfprmfmk14",
+        "brick_family": 373,
+        "index_in_family": 14,
+        "level": 14,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_shell.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmk15": {
+        "sheet_id": "bhfprmfmk15",
+        "brick_family": 373,
+        "index_in_family": 15,
+        "level": 15,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_shell.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmk16": {
+        "sheet_id": "bhfprmfmk16",
+        "brick_family": 373,
+        "index_in_family": 16,
+        "level": 16,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_shell.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmk17": {
+        "sheet_id": "bhfprmfmk17",
+        "brick_family": 373,
+        "index_in_family": 17,
+        "level": 17,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_pearl.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmk18": {
+        "sheet_id": "bhfprmfmk18",
+        "brick_family": 373,
+        "index_in_family": 18,
+        "level": 18,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_pearl.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmk19": {
+        "sheet_id": "bhfprmfmk19",
+        "brick_family": 373,
+        "index_in_family": 19,
+        "level": 19,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_pearl.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmk20": {
+        "sheet_id": "bhfprmfmk20",
+        "brick_family": 373,
+        "index_in_family": 20,
+        "level": 20,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_fish_scale.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmk21": {
+        "sheet_id": "bhfprmfmk21",
+        "brick_family": 373,
+        "index_in_family": 21,
+        "level": 21,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_fish_scale.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmk22": {
+        "sheet_id": "bhfprmfmk22",
+        "brick_family": 373,
+        "index_in_family": 22,
+        "level": 22,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_fiber.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmk23": {
+        "sheet_id": "bhfprmfmk23",
+        "brick_family": 373,
+        "index_in_family": 23,
+        "level": 23,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_fiber.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmk24": {
+        "sheet_id": "bhfprmfmk24",
+        "brick_family": 373,
+        "index_in_family": 24,
+        "level": 24,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_stem.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmk25": {
+        "sheet_id": "bhfprmfmk25",
+        "brick_family": 373,
+        "index_in_family": 25,
+        "level": 25,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_stem.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmk26": {
+        "sheet_id": "bhfprmfmk26",
+        "brick_family": 373,
+        "index_in_family": 26,
+        "level": 26,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_fresh_loose_soil.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmk27": {
+        "sheet_id": "bhfprmfmk27",
+        "brick_family": 373,
+        "index_in_family": 27,
+        "level": 27,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_fresh_loose_soil.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmk28": {
+        "sheet_id": "bhfprmfmk28",
+        "brick_family": 373,
+        "index_in_family": 28,
+        "level": 28,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_plant_fossil.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmk29": {
+        "sheet_id": "bhfprmfmk29",
+        "brick_family": 373,
+        "index_in_family": 29,
+        "level": 29,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_plant_fossil.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmk30": {
+        "sheet_id": "bhfprmfmk30",
+        "brick_family": 373,
+        "index_in_family": 30,
+        "level": 30,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_pigment.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmk31": {
+        "sheet_id": "bhfprmfmk31",
+        "brick_family": 373,
+        "index_in_family": 31,
+        "level": 31,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_pigment.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmk32": {
+        "sheet_id": "bhfprmfmk32",
+        "brick_family": 373,
+        "index_in_family": 32,
+        "level": 32,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_pigment.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmk33": {
+        "sheet_id": "bhfprmfmk33",
+        "brick_family": 373,
+        "index_in_family": 33,
+        "level": 33,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_pigment.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmk34": {
+        "sheet_id": "bhfprmfmk34",
+        "brick_family": 373,
+        "index_in_family": 34,
+        "level": 34,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_pigment.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfml10": {
+        "sheet_id": "bhfprmfml10",
+        "brick_family": 374,
+        "index_in_family": 10,
+        "level": 10,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_mushroom.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfml11": {
+        "sheet_id": "bhfprmfml11",
+        "brick_family": 374,
+        "index_in_family": 11,
+        "level": 11,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_mushroom.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfml12": {
+        "sheet_id": "bhfprmfml12",
+        "brick_family": 374,
+        "index_in_family": 12,
+        "level": 12,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_larva.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfml13": {
+        "sheet_id": "bhfprmfml13",
+        "brick_family": 374,
+        "index_in_family": 13,
+        "level": 13,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_cereal.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfml14": {
+        "sheet_id": "bhfprmfml14",
+        "brick_family": 374,
+        "index_in_family": 14,
+        "level": 14,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_cereal.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfml15": {
+        "sheet_id": "bhfprmfml15",
+        "brick_family": 374,
+        "index_in_family": 15,
+        "level": 15,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_larva.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfml16": {
+        "sheet_id": "bhfprmfml16",
+        "brick_family": 374,
+        "index_in_family": 16,
+        "level": 16,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_egg.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfml17": {
+        "sheet_id": "bhfprmfml17",
+        "brick_family": 374,
+        "index_in_family": 17,
+        "level": 17,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_egg.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfml18": {
+        "sheet_id": "bhfprmfml18",
+        "brick_family": 374,
+        "index_in_family": 18,
+        "level": 18,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_horney.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfml19": {
+        "sheet_id": "bhfprmfml19",
+        "brick_family": 374,
+        "index_in_family": 19,
+        "level": 19,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_horney.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfml20": {
+        "sheet_id": "bhfprmfml20",
+        "brick_family": 374,
+        "index_in_family": 20,
+        "level": 20,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_flowers.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfml21": {
+        "sheet_id": "bhfprmfml21",
+        "brick_family": 374,
+        "index_in_family": 21,
+        "level": 21,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_flowers.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfml22": {
+        "sheet_id": "bhfprmfml22",
+        "brick_family": 374,
+        "index_in_family": 22,
+        "level": 22,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_flowers.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfml23": {
+        "sheet_id": "bhfprmfml23",
+        "brick_family": 374,
+        "index_in_family": 23,
+        "level": 23,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_fruit.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfml24": {
+        "sheet_id": "bhfprmfml24",
+        "brick_family": 374,
+        "index_in_family": 24,
+        "level": 24,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_fruit.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfml25": {
+        "sheet_id": "bhfprmfml25",
+        "brick_family": 374,
+        "index_in_family": 25,
+        "level": 25,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_fruit.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfml26": {
+        "sheet_id": "bhfprmfml26",
+        "brick_family": 374,
+        "index_in_family": 26,
+        "level": 26,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_fruit.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmm04": {
+        "sheet_id": "bhfprmfmm04",
+        "brick_family": 375,
+        "index_in_family": 4,
+        "level": 4,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_goo_residue.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmm05": {
+        "sheet_id": "bhfprmfmm05",
+        "brick_family": 375,
+        "index_in_family": 5,
+        "level": 5,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_goo_residue.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmn03": {
+        "sheet_id": "bhfprmfmn03",
+        "brick_family": 376,
+        "index_in_family": 3,
+        "level": 3,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_parasite.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmn04": {
+        "sheet_id": "bhfprmfmn04",
+        "brick_family": 376,
+        "index_in_family": 4,
+        "level": 4,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_firefly_abdomen.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmn05": {
+        "sheet_id": "bhfprmfmn05",
+        "brick_family": 376,
+        "index_in_family": 5,
+        "level": 5,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_firefly_abdomen.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmn06": {
+        "sheet_id": "bhfprmfmn06",
+        "brick_family": 376,
+        "index_in_family": 6,
+        "level": 6,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_buterfly_blue.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmn07": {
+        "sheet_id": "bhfprmfmn07",
+        "brick_family": 376,
+        "index_in_family": 7,
+        "level": 7,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_buterfly_blue.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmn08": {
+        "sheet_id": "bhfprmfmn08",
+        "brick_family": 376,
+        "index_in_family": 8,
+        "level": 8,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_buterfly_blue.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmn09": {
+        "sheet_id": "bhfprmfmn09",
+        "brick_family": 376,
+        "index_in_family": 9,
+        "level": 9,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_buterfly_blue.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmn10": {
+        "sheet_id": "bhfprmfmn10",
+        "brick_family": 376,
+        "index_in_family": 10,
+        "level": 10,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_insect_fossil.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmn11": {
+        "sheet_id": "bhfprmfmn11",
+        "brick_family": 376,
+        "index_in_family": 11,
+        "level": 11,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_insect_fossil.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmo05": {
+        "sheet_id": "bhfprmfmo05",
+        "brick_family": 377,
+        "index_in_family": 5,
+        "level": 5,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_larva.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmq05": {
+        "sheet_id": "bhfprmfmq05",
+        "brick_family": 379,
+        "index_in_family": 5,
+        "level": 5,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_straw.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmq06": {
+        "sheet_id": "bhfprmfmq06",
+        "brick_family": 379,
+        "index_in_family": 6,
+        "level": 6,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_pollen.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmq07": {
+        "sheet_id": "bhfprmfmq07",
+        "brick_family": 379,
+        "index_in_family": 7,
+        "level": 7,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_pollen.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmq08": {
+        "sheet_id": "bhfprmfmq08",
+        "brick_family": 379,
+        "index_in_family": 8,
+        "level": 8,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_moss.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
+        }
+    },
+    "bhfprmfmq09": {
+        "sheet_id": "bhfprmfmq09",
+        "brick_family": 379,
+        "index_in_family": 9,
+        "level": 9,
+        "sabrina_cost": 50,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 10,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mp_moss.png",
+            "back": "pa_back.png"
+        },
+        "required_skills": {
+            "shf": 60
         }
     }
 }

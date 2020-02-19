@@ -7039,6 +7039,11 @@
         "p": "",
         "description": "Сокращает расход внимания при поиске месторождений и обеспечивает бонус к извлечению ресурсов из обнаруженного месторождения."
     },
+    "abhfpma06": {
+        "name": "Поиск месторождений в Atys",
+        "p": "",
+        "description": "Сокращает расход внимания при поиске месторождений и обеспечивает бонус к извлечению ресурсов из обнаруженного месторождения."
+    },
     "abhfpmb01": {
         "name": "Базовый поиск растительного сэпа",
         "p": "",
@@ -7138,6 +7143,41 @@
         "name": "Продвинутый поиск масла",
         "p": "",
         "description": "Поиск месторождений конкретных ресурсов, более высокая вероятность успеха."
+    },
+    "abhfpmb21": {
+        "name": "Базовый поиск Конструкция",
+        "p": "",
+        "description": "Поиск месторождений конкретных ресурсов."
+    },
+    "abhfpmb22": {
+        "name": "Базовый поиск Пища",
+        "p": "",
+        "description": "Поиск месторождений конкретных ресурсов."
+    },
+    "abhfpmb23": {
+        "name": "Базовый поиск Гуу",
+        "p": "",
+        "description": "Поиск месторождений конкретных ресурсов."
+    },
+    "abhfpmb24": {
+        "name": "Базовый поиск Насекомое",
+        "p": "",
+        "description": "Поиск месторождений конкретных ресурсов."
+    },
+    "abhfpmb25": {
+        "name": "Базовый поиск Китин",
+        "p": "",
+        "description": "Поиск месторождений конкретных ресурсов."
+    },
+    "abhfpmb26": {
+        "name": "Базовый поиск Вредоносное вещество",
+        "p": "",
+        "description": "Поиск месторождений конкретных ресурсов."
+    },
+    "abhfpmb27": {
+        "name": "Базовый поиск Консервант",
+        "p": "",
+        "description": "Поиск месторождений конкретных ресурсов."
     },
     "abhfprmfma02": {
         "name": "Поиск красного сэпа",
@@ -7350,6 +7390,471 @@
         "description": ""
     },
     "abhfprmfmj06": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmk02": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmk03": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmk04": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmk05": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmk06": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmk07": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmk08": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmk09": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmk10": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmk11": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmk12": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmk13": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmk14": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmk15": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmk16": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmk17": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmk18": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmk19": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmk20": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmk21": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmk22": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmk23": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmk24": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmk25": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmk26": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmk27": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmk28": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmk29": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmk30": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmk31": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmk32": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmk33": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmk34": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfml02": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfml03": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfml04": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfml05": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfml06": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfml07": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfml08": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfml09": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfml10": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfml11": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfml12": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfml13": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfml14": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfml15": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfml16": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfml17": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfml18": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfml19": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfml20": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfml21": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfml22": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfml23": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfml24": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfml25": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfml26": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmm02": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmm03": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmm04": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmm05": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmn02": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmn03": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmn04": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmn05": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmn06": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmn07": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmn08": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmn09": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmn10": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmn11": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmo02": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmo03": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmo04": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmo05": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmp02": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmp03": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmp04": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmp05": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmp06": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmp07": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmp08": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmp09": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmp10": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmq02": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmq03": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmq04": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmq05": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmq06": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmq07": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmq08": {
+        "name": "Поиск древесины",
+        "p": "",
+        "description": ""
+    },
+    "abhfprmfmq09": {
         "name": "Поиск древесины",
         "p": "",
         "description": ""
@@ -8234,6 +8739,11 @@
         "p": "",
         "description": "Снижает разрушительное воздействие ускоренной или увеличенной добычи ресурсов."
     },
+    "abhfema06": {
+        "name": "Специализация на добыче ресурсов Atys",
+        "p": "",
+        "description": "Снижает разрушительное воздействие ускоренной или увеличенной добычи ресурсов."
+    },
     "abhfemb01": {
         "name": "Специализация на добыче растительного сэпа",
         "p": "",
@@ -8276,6 +8786,41 @@
     },
     "abhfemb10": {
         "name": "Специализация на добыче древесины",
+        "p": "",
+        "description": "Повышает качество добытых ресурсов и снижает разрушительное воздействие ускоренной добычи."
+    },
+    "abhfemb11": {
+        "name": "Специализация на добыче Конструкция",
+        "p": "",
+        "description": "Повышает качество добытых ресурсов и снижает разрушительное воздействие ускоренной добычи."
+    },
+    "abhfemb12": {
+        "name": "Специализация на добыче Пища",
+        "p": "",
+        "description": "Повышает качество добытых ресурсов и снижает разрушительное воздействие ускоренной добычи."
+    },
+    "abhfemb13": {
+        "name": "Специализация на добыче Гуу",
+        "p": "",
+        "description": "Повышает качество добытых ресурсов и снижает разрушительное воздействие ускоренной добычи."
+    },
+    "abhfemb14": {
+        "name": "Специализация на добыче Насекомое",
+        "p": "",
+        "description": "Повышает качество добытых ресурсов и снижает разрушительное воздействие ускоренной добычи."
+    },
+    "abhfemb15": {
+        "name": "Специализация на добыче Китин",
+        "p": "",
+        "description": "Повышает качество добытых ресурсов и снижает разрушительное воздействие ускоренной добычи."
+    },
+    "abhfemb16": {
+        "name": "Специализация на добыче Вредоносное вещество",
+        "p": "",
+        "description": "Повышает качество добытых ресурсов и снижает разрушительное воздействие ускоренной добычи."
+    },
+    "abhfemb17": {
+        "name": "Специализация на добыче Консервант",
         "p": "",
         "description": "Повышает качество добытых ресурсов и снижает разрушительное воздействие ускоренной добычи."
     },

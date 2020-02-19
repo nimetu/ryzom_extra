@@ -7473,7 +7473,7 @@
         "name": "@{FFF9}@{HuittInfoOrigin}Orígen:@{H}@{T12}@{FFFF}%origin\n@{FFF9}@{HuittInfoToolQuality}Calidad:@{H}@{T12}@{FFFF}%quality\n@{FFF9}@{HuittInfoWeight}Peso:@{H}@{T12}@{FFFF}%weight Kg\n@{FFF9}@{HuittInfoBulk}Volumen:@{H}@{T12}@{FFFF}%bulk\n@{FFF9}@{HuittInfoHP}Puntos de Salud:@{H}@{T12}@{FFFF}%hp \/ %hpmax\n@{FFF9}@{HuittInfoItemSkill}Habilidad:@{H}@{T12}@{FFFF}%skill\n%cansell\n@{FFF9}Rango del Comando :@{T12}@{FFFF}%cmdrange\n@{FFF9}Max. de Animales de Carga :@{T12}@{FFFF}%maxpacker\n\n@{FFFF}%desc%custom_text"
     },
     "uihelpitemjewelformat": {
-        "name": "@{FFF9}@{HuittInfoOrigin}Orígen:@{H}@{T10}@{FFFF}%origin\n@{FFF9}@{HuittInfoJewelryQuality}Calidad:@{H}@{T10}@{FFFF}%quality\n@{FFF9}@{HuittInfoWeight}Peso:@{H}@{T10}@{FFFF}%weight Kg\n@{FFF9}@{HuittInfoBulk}Volumen:@{H}@{T10}@{FFFF}%bulk\n@{FFF9}@{HuittInfoHP}Puntos de Salud:@{H}@{T10}@{FFFF}%hp\/%hpmax\n%cansell\n@{FFF9}@{HuittInfoRequirement}Requisitos:@{H}@{T12}@{FFFF}%caracreq@{FFFF}%skillreq@{FFFF}%skillreq2\n\n%magic_protection%magic_resistance%buffs%desc%custom_text"
+        "name": "@{FFF9}@{HuittInfoOrigin}Orígen:@{H}@{T10}@{FFFF}%origin\n@{FFF9}@{HuittInfoJewelryQuality}Calidad:@{H}@{T10}@{FFFF}%quality\n@{FFF9}@{HuittInfoWeight}Peso:@{H}@{T10}@{FFFF}%weight Kg\n@{FFF9}@{HuittInfoBulk}Volumen:@{H}@{T10}@{FFFF}%bulk\n@{FFF9}@{HuittInfoHP}Puntos de Salud:@{H}@{T10}@{FFFF}%hp\/%hpmax\n%cansell\n@{FFF9}@{HuittInfoRequirement}Requisitos:@{H}@{T12}@{FFFF}%caracreq@{FFFF}%skillreq@{FFFF}%skillreq2\n\n%magic_protection%magic_resistance%buffs%desc%enchantment%custom_text"
     },
     "uihelpitemcrystalspell": {
         "name": "Este objeto puede ser utilizado para\nencantar un arma.\n\nColoca el arma que quieras encantar en tu mano derecha.\n\nLuego haz clic derecho en este cristal, y selecciona \"Encantar Mano Derecha\".\n\nRecuerde que aplicar un Hechizo Cristalizado sobresquibe cualquier encantamiento previo del objeto.\n\n%cansell\n%enchantment%custom_text"
@@ -7515,7 +7515,7 @@
         "name": " - Aura Desactivada"
     },
     "uihelpphraseheaderbricks": {
-        "name": "@{FFFF}--- Ladrillos ---"
+        "name": " "
     },
     "uihelpphrasecombatformat": {
         "name": "@{FFF9}Nombre de Acción@{T12}@{FFFF}%name\n@{FFF9}Coste de Acción:@{T12}@{FFFF}%cost\n@{FFF9}Crédito de Acción:@{T12}@{FFFF}%credit\n@{FFF9}Puede usarse con:@{T12}@{FFFF}%wcomp\n\n%compostartEstas características del arma equipada..\n@{FFF9}@{HuittActionSuccessRateSF}Tasa de Éxito:@{H}@{T16}@{FFFF}%success%\n@{FFF9}Coste de Resistencia:@{T16}@{FFFF}%energy_cost\n@{FFF9}Coste de Salud:@{T16}@{FFFF}%hp_cost\n@{FFFF}%desc%req"
@@ -19707,6 +19707,18 @@
         "name": "Si está marcada, sus canales de chat dinámico se restaurarán si no están abiertos.\nEvitará la pérdida de canales al reiniciar o en caso de caída del servidor."
     },
     "uimissioncatalog": {
-        "name": "Diario de Misiones"
+        "name": "Abrir Diario de Misiones"
+    },
+    "uis2": {
+        "name": "La temporada en negro contra blanco"
+    },
+    "uis2e0": {
+        "name": "Episodio \"Prólogo\": En el que te informas"
+    },
+    "uimgcmchat": {
+        "name": "Preguntar con cortesía"
+    },
+    "uimgcmbullying": {
+        "name": "Interrogar sin miramientos"
     }
 }

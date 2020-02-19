@@ -12229,6 +12229,16 @@
         "description": "Reduces the focus consumption of deposit tracking actions and adds a bonus to the extraction rate of the prospected sources.",
         "description2": ""
     },
+    "bhfpma06": {
+        "name": "Atys specializing",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "\"Reduce the focus consumption of deposit tracking actions; add a bonus to the extraction rate of the prospected sources\"",
+        "description2": ""
+    },
     "bhfpmb01": {
         "name": "Minor Sap Group Prospecting",
         "ia": "a",
@@ -12427,6 +12437,76 @@
         "pia": "",
         "pda": "",
         "description": "Search for specific materials, with greater chances of finding sources.",
+        "description2": ""
+    },
+    "bhfpmb21": {
+        "name": "Construction Group Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific materials.",
+        "description2": ""
+    },
+    "bhfpmb22": {
+        "name": "Food Group Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific materials.",
+        "description2": ""
+    },
+    "bhfpmb23": {
+        "name": "Goo Group Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific materials.",
+        "description2": ""
+    },
+    "bhfpmb24": {
+        "name": "Insect Group Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific materials.",
+        "description2": ""
+    },
+    "bhfpmb25": {
+        "name": "Kitin Group Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific materials.",
+        "description2": ""
+    },
+    "bhfpmb26": {
+        "name": "Harmful Group Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific materials.",
+        "description2": ""
+    },
+    "bhfpmb27": {
+        "name": "Preservative Group Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Search for specific materials.",
         "description2": ""
     },
     "bhfprmfma01": {
@@ -12941,6 +13021,1006 @@
     },
     "bhfprmfmj06": {
         "name": "Tama Wood Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk01": {
+        "name": "Any material from group",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk02": {
+        "name": "Dead Leaf Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk03": {
+        "name": "Fresh Resin Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk04": {
+        "name": "Fresh Wood Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk05": {
+        "name": "Dry Wood Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk06": {
+        "name": "Damp Wood Sawdust Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk07": {
+        "name": "Small Reed Leaf Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk08": {
+        "name": "Large Reed Leaf Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk09": {
+        "name": "Giant Reed Leaf Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk10": {
+        "name": "Fresh Bark Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk11": {
+        "name": "Dry Bark Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk12": {
+        "name": "Dry Fiber Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk13": {
+        "name": "Damp Fiber Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk14": {
+        "name": "Small Pearly Shell Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk15": {
+        "name": "Large Pearly Shell Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk16": {
+        "name": "Giant Pearly Shell Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk17": {
+        "name": "Small Pearl Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk18": {
+        "name": "Large Pearl Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk19": {
+        "name": "Giant Pearl Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk20": {
+        "name": "Silvery Fish Scale Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk21": {
+        "name": "Golden Fish Scale Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk22": {
+        "name": "Worm Silk Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk23": {
+        "name": "Spider Silk Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk24": {
+        "name": "Small Reed Stem Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk25": {
+        "name": "Large Reed Stem Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk26": {
+        "name": "Fresh Loose Soil Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk27": {
+        "name": "Dried Loose Soil Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk28": {
+        "name": "Small Plant Fossil Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk29": {
+        "name": "Large Plant Fossil Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk30": {
+        "name": "Red Pigment Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk31": {
+        "name": "Green Pigment Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk32": {
+        "name": "Blue Pigment Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk33": {
+        "name": "Yellow Pigment Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk34": {
+        "name": "Black Pigment Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml01": {
+        "name": "Any material from group",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml02": {
+        "name": "Green Leaf Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml03": {
+        "name": "Fresh Flower Petal Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml04": {
+        "name": "Dried Flower Petal Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml05": {
+        "name": "Small Bud Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml06": {
+        "name": "Large Bud Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml07": {
+        "name": "Fresh Dandelion Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml08": {
+        "name": "Dried Dandelion Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml09": {
+        "name": "Blooming Dandelion Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml10": {
+        "name": "Small Mushroom Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml11": {
+        "name": "Large Mushroom Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml12": {
+        "name": "Living Insect Larva Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml13": {
+        "name": "Fresh Cereal Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml14": {
+        "name": "Dried Cereal Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml15": {
+        "name": "Dead Insect Larva Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml16": {
+        "name": "Small Egg Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml17": {
+        "name": "Large Egg Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml18": {
+        "name": "Fresh Honey Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml19": {
+        "name": "Dried Honey Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml20": {
+        "name": "Peppery Aromatic Plant Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml21": {
+        "name": "Spicy Aromatic Plant Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml22": {
+        "name": "Bitter Aromatic Plant Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml23": {
+        "name": "Fresh Wild Berry Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml24": {
+        "name": "Dried Wild Berry Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml25": {
+        "name": "Small Fruit Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml26": {
+        "name": "Large Fruit Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmm01": {
+        "name": "Any material from group",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmm02": {
+        "name": "Fresh Modified Sap Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmm03": {
+        "name": "Dried Modified Sap Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmm04": {
+        "name": "Fresh Goo Residue Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmm05": {
+        "name": "Dried Goo Residue Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmn01": {
+        "name": "Any material from group",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmn02": {
+        "name": "Living Parasite Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmn03": {
+        "name": "Dead Parasite Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmn04": {
+        "name": "Small Firefly Abdomen Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmn05": {
+        "name": "Large Firefly Abdomen Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmn06": {
+        "name": "Red Butterfly Wing Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmn07": {
+        "name": "Green Butterfly Wing Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmn08": {
+        "name": "Blue Butterfly Wing Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmn09": {
+        "name": "Yellow Butterfly Wing Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmn10": {
+        "name": "Small Insect Fossil Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmn11": {
+        "name": "Large Insect Fossil Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmo01": {
+        "name": "Any material from group",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmo02": {
+        "name": "Fresh Kitin Cocoon Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmo03": {
+        "name": "Old Kitin Cocoon Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmo04": {
+        "name": "Kitin Saliva Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmo05": {
+        "name": "Kitin Larva Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmp01": {
+        "name": "Any material from group",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmp02": {
+        "name": "Rotting Leaf Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmp03": {
+        "name": "Rotting Wood Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmp04": {
+        "name": "Small Thorn Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmp05": {
+        "name": "Large Thorn Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmp06": {
+        "name": "Giant Thorn Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmp07": {
+        "name": "Dust Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmp08": {
+        "name": "Rotting Fiber Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmp09": {
+        "name": "Small Spider Web Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmp10": {
+        "name": "Large Spider Web Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmq01": {
+        "name": "Any material from group",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmq02": {
+        "name": "Dry Resin Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmq03": {
+        "name": "Dry Wood Sawdust Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmq04": {
+        "name": "Dry Straw Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmq05": {
+        "name": "Damp Straw Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmq06": {
+        "name": "Fresh Wax Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmq07": {
+        "name": "Dry Wax Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmq08": {
+        "name": "Fresh Moss Prospecting",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmq09": {
+        "name": "Dry Moss Prospecting",
         "ia": "a",
         "da": "the",
         "p": "",
@@ -14949,6 +16029,16 @@
         "description": "Reduce the aggressiveness of rate and quality stanzas when harvesting in prime root regions.",
         "description2": ""
     },
+    "bhfema06": {
+        "name": "Atys specializing",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Reduce the aggressiveness of rate and quality",
+        "description2": ""
+    },
     "bhfemb01": {
         "name": "Sap Group Specialization",
         "ia": "a",
@@ -15032,6 +16122,76 @@
     "bhfemb10": {
         "name": "Wood Group Specialization",
         "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Increases quality and reduces the aggressiveness of speed stanzas.",
+        "description2": ""
+    },
+    "bhfemb11": {
+        "name": "Construction Group Specialization",
+        "ia": "an",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Increases quality and reduces the aggressiveness of speed stanzas.",
+        "description2": ""
+    },
+    "bhfemb12": {
+        "name": "Food Group Specialization",
+        "ia": "an",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Increases quality and reduces the aggressiveness of speed stanzas.",
+        "description2": ""
+    },
+    "bhfemb13": {
+        "name": "Goo Group Specialization",
+        "ia": "an",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Increases quality and reduces the aggressiveness of speed stanzas.",
+        "description2": ""
+    },
+    "bhfemb14": {
+        "name": "Insect Group Specialization",
+        "ia": "an",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Increases quality and reduces the aggressiveness of speed stanzas.",
+        "description2": ""
+    },
+    "bhfemb15": {
+        "name": "Kitin Group Specialization",
+        "ia": "an",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Increases quality and reduces the aggressiveness of speed stanzas.",
+        "description2": ""
+    },
+    "bhfemb16": {
+        "name": "Harmful Group Specialization",
+        "ia": "an",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Increases quality and reduces the aggressiveness of speed stanzas.",
+        "description2": ""
+    },
+    "bhfemb17": {
+        "name": "Preservative Group Specialization",
+        "ia": "an",
         "da": "the",
         "p": "",
         "pia": "",
@@ -35666,7 +36826,7 @@
         "p": "",
         "pia": "",
         "pda": "",
-        "description": "Increase your skill against interruptions by up to $MA_BREAK_RES. Maximum efficiency for spells of level no higher than 255.",
+        "description": "Increase your skill against interruptions by up to $MA_BREAK_RES. Maximum efficiency for spells of level no higher than 225.",
         "description2": ""
     },
     "bmor00200": {

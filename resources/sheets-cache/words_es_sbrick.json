@@ -12229,6 +12229,16 @@
         "description": "Reduce el consumo del enfoque de las acciones de seguimiento del deposito; añade una bonificación a la tasa de extracción de las fuentes en prospección.",
         "description2": ""
     },
+    "bhfpma06": {
+        "name": "Especializado en Atys",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Reduce el consumo del enfoque de las acciones de seguimiento del deposito; añade una bonificación a la tasa de extracción de las fuentes en prospección.",
+        "description2": ""
+    },
     "bhfpmb01": {
         "name": "Prospección Menor del Grupo de Savia",
         "ia": "una",
@@ -12427,6 +12437,76 @@
         "pia": "",
         "pda": "",
         "description": "\"Búsqueda de materiales específicos, con mayores oportunidades de encontrar fuentes.\"",
+        "description2": ""
+    },
+    "bhfpmb21": {
+        "name": "Prospección del Grupo de Construcción",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Búsqueda de materiales específicos.",
+        "description2": ""
+    },
+    "bhfpmb22": {
+        "name": "Prospección del Grupo de Comida",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Búsqueda de materiales específicos.",
+        "description2": ""
+    },
+    "bhfpmb23": {
+        "name": "Prospección del Grupo de Goo",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Búsqueda de materiales específicos.",
+        "description2": ""
+    },
+    "bhfpmb24": {
+        "name": "Prospección del Grupo de Insecto",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Búsqueda de materiales específicos.",
+        "description2": ""
+    },
+    "bhfpmb25": {
+        "name": "Prospección del Grupo de Kitin",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Búsqueda de materiales específicos.",
+        "description2": ""
+    },
+    "bhfpmb26": {
+        "name": "Prospección del Grupo de Dañino",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Búsqueda de materiales específicos.",
+        "description2": ""
+    },
+    "bhfpmb27": {
+        "name": "Prospección del Grupo de Conservante",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Búsqueda de materiales específicos.",
         "description2": ""
     },
     "bhfprmfma01": {
@@ -12941,6 +13021,1006 @@
     },
     "bhfprmfmj06": {
         "name": "Prospección de Madera de Tama",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk01": {
+        "name": "Cualquier Material del Grupo",
+        "ia": "un",
+        "da": "el",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk02": {
+        "name": "Prospección de Hoja Muerta",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk03": {
+        "name": "Prospección de Resina Fresca",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk04": {
+        "name": "Prospección de Madera Fresca",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk05": {
+        "name": "Prospección de Madera Seca",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk06": {
+        "name": "Prospección de Aserrín de Madera Húmeda",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk07": {
+        "name": "Prospección de Hoja de Caña Pequeña",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk08": {
+        "name": "Prospección de Hoja de Caña Grande",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk09": {
+        "name": "Prospección de Hoja de Caña Gigante",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk10": {
+        "name": "Prospección de Corteza Fresca",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk11": {
+        "name": "Prospección de Corteza Seca",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk12": {
+        "name": "Prospección de Fibra Seca",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk13": {
+        "name": "Prospección de Fibra Húmeda",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk14": {
+        "name": "Prospección de Concha Nacarada Pequeña",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk15": {
+        "name": "Prospección de Concha Nacarada Grande",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk16": {
+        "name": "Prospección de Concha Nacarada Gigante",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk17": {
+        "name": "Prospección de Perla Pequeña",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk18": {
+        "name": "Prospección de Perla Grande",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk19": {
+        "name": "Prospección de Perla Gigante",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk20": {
+        "name": "Prospección de Escama de Pez Plateado",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk21": {
+        "name": "Prospección de Escama de Pez Dorado",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk22": {
+        "name": "Prospección de Gusano de Seda",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk23": {
+        "name": "Prospección de Araña de Seda",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk24": {
+        "name": "Prospección de Tallo de Junco Pequeño",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk25": {
+        "name": "Prospección de Tallo de Junco Grande",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk26": {
+        "name": "Prospección de Tierra Suelta Fresca",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk27": {
+        "name": "Prospección de Tierra Suelta Seca",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk28": {
+        "name": "Prospección de Fósil de Planta Pequeña",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk29": {
+        "name": "Prospección de Fósil de Planta Grande",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk30": {
+        "name": "Prospección de Pigmento Rojo",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk31": {
+        "name": "Prospección de Pigmento Verde",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk32": {
+        "name": "Prospección de Pigmento Azul",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk33": {
+        "name": "Prospección de Pigmento Amarillo",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmk34": {
+        "name": "Prospección de Pigmento Negro",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml01": {
+        "name": "Cualquier Material del Grupo",
+        "ia": "un",
+        "da": "el",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml02": {
+        "name": "Prospección de Hoja Verde",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml03": {
+        "name": "Prospección de Pétalo de Flores Frescas",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml04": {
+        "name": "Prospección de Pétalo de Flor Seca",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml05": {
+        "name": "Prospección de Brote Pequeño",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml06": {
+        "name": "Prospección de Brote Grande",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml07": {
+        "name": "Prospección de Diente de León Fresco",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml08": {
+        "name": "Prospección de Diente de León Seco",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml09": {
+        "name": "Prospección de Diente de León Floreciente",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml10": {
+        "name": "Prospección de Hongo Pequeño",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml11": {
+        "name": "Prospección de Hongo Grande",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml12": {
+        "name": "Prospección de Larva de Insecto Viviente",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml13": {
+        "name": "Prospección de Cereal Fresco",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml14": {
+        "name": "Prospección de Cereal Seco",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml15": {
+        "name": "Prospección de Larva de Insecto Muerto",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml16": {
+        "name": "Prospección de Huevo Pequeño",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml17": {
+        "name": "Prospección de Huevo Grande",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml18": {
+        "name": "Prospección de Miel Fresca",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml19": {
+        "name": "Prospección de Miel Seca",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml20": {
+        "name": "Prospección de Planta Aromática con Pimienta",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml21": {
+        "name": "Prospección de Planta Aromática Picante",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml22": {
+        "name": "Prospección de Planta Aromática Amarga",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml23": {
+        "name": "Prospección de Baya Salvaje Fresca",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml24": {
+        "name": "Prospección de Baya Salvaje Seca",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml25": {
+        "name": "Prospección de Fruta Pequeña",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfml26": {
+        "name": "Prospección de Fruta Grande",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmm01": {
+        "name": "Cualquier Material del Grupo",
+        "ia": "un",
+        "da": "el",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmm02": {
+        "name": "Prospección de Savia Fresca Modificada",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmm03": {
+        "name": "Prospección de Savia Seca Modificada",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmm04": {
+        "name": "Prospección de Residuo de Goo Fresco",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmm05": {
+        "name": "Prospección de Residuo de Goo Seco",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmn01": {
+        "name": "Cualquier Material del Grupo",
+        "ia": "un",
+        "da": "el",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmn02": {
+        "name": "Prospección de Parásito Viviente",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmn03": {
+        "name": "Prospección de Parásito Muerto",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmn04": {
+        "name": "Prospección de Abdomen de Luciernaga Pequeño",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmn05": {
+        "name": "Prospección de Abdomen de Luciérnaga Pequeño",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmn06": {
+        "name": "Prospección de Ala de Mariposa Roja",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmn07": {
+        "name": "Prospección de Ala de Mariposa Verde",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmn08": {
+        "name": "Prospección de Ala de Mariposa Azul",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmn09": {
+        "name": "Prospección de Ala de Mariposa Amarilla",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmn10": {
+        "name": "Prospección de Fósil de Insecto Pequeño",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmn11": {
+        "name": "Prospección de Fósil de Insecto Grande",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmo01": {
+        "name": "Cualquier Material del Grupo",
+        "ia": "un",
+        "da": "el",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmo02": {
+        "name": "Prospección de Capullo de Kitin Fresco",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmo03": {
+        "name": "Prospección de Capullo de Kitin Viejo",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmo04": {
+        "name": "Prospección de Saliva de Kitin",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmo05": {
+        "name": "Prospección de Larva de Kitin",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmp01": {
+        "name": "Cualquier Material del Grupo",
+        "ia": "un",
+        "da": "el",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmp02": {
+        "name": "Prospección de Hoja Podrida",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmp03": {
+        "name": "Prospección de Madera Podrida",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmp04": {
+        "name": "Prospección de Espina Pequeña",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmp05": {
+        "name": "Prospección de Espina Grande",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmp06": {
+        "name": "Prospección de Espina Gigante",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmp07": {
+        "name": "Prospección de Polvo",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmp08": {
+        "name": "Prospección de Fibra Podrida",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmp09": {
+        "name": "Prospección de Tela de Araña Pequeña",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmp10": {
+        "name": "Prospección de Tela de Araña Grande",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmq01": {
+        "name": "Cualquier Material del Grupo",
+        "ia": "un",
+        "da": "el",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmq02": {
+        "name": "Prospección de Resina Seca",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmq03": {
+        "name": "Prospección de Serrín de Madera Seca",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmq04": {
+        "name": "Prospección de Paja Seca",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmq05": {
+        "name": "Prospección de Paja Húmeda",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmq06": {
+        "name": "Prospección de Cera Fresca",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmq07": {
+        "name": "Prospección de Cera Seca",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmq08": {
+        "name": "Prospección de Musgo Fresco",
+        "ia": "una",
+        "da": "la",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
+    "bhfprmfmq09": {
+        "name": "Prospección de Musgo Seco",
         "ia": "una",
         "da": "la",
         "p": "",
@@ -14949,6 +16029,16 @@
         "description": "Reduce la agresividad del ritmo y las estancias de velocidad.",
         "description2": ""
     },
+    "bhfema06": {
+        "name": "Especializado en Atys",
+        "ia": "un",
+        "da": "el",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Reduce la agresividad del ritmo y las estancias de velocidad.",
+        "description2": ""
+    },
     "bhfemb01": {
         "name": "Especializado en Grupo de Savia",
         "ia": "un",
@@ -15031,6 +16121,76 @@
     },
     "bhfemb10": {
         "name": "Especializado en Grupo de la Madera",
+        "ia": "un",
+        "da": "el",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Aumenta la calidad y reduce la agresividad de las estancias de velocidad.",
+        "description2": ""
+    },
+    "bhfemb11": {
+        "name": "Especializado en Grupo de Construcción",
+        "ia": "un",
+        "da": "el",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Aumenta la calidad y reduce la agresividad de las estancias de velocidad.",
+        "description2": ""
+    },
+    "bhfemb12": {
+        "name": "Especializado en Grupo de Comida",
+        "ia": "un",
+        "da": "el",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Aumenta la calidad y reduce la agresividad de las estancias de velocidad.",
+        "description2": ""
+    },
+    "bhfemb13": {
+        "name": "Especializado en Grupo de Goo",
+        "ia": "un",
+        "da": "el",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Aumenta la calidad y reduce la agresividad de las estancias de velocidad.",
+        "description2": ""
+    },
+    "bhfemb14": {
+        "name": "Especializado en Grupo de Insecto",
+        "ia": "un",
+        "da": "el",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Aumenta la calidad y reduce la agresividad de las estancias de velocidad.",
+        "description2": ""
+    },
+    "bhfemb15": {
+        "name": "Especializado en Grupo de Kitin",
+        "ia": "un",
+        "da": "el",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Aumenta la calidad y reduce la agresividad de las estancias de velocidad.",
+        "description2": ""
+    },
+    "bhfemb16": {
+        "name": "Especializado en Grupo de Dañino",
+        "ia": "un",
+        "da": "el",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Aumenta la calidad y reduce la agresividad de las estancias de velocidad.",
+        "description2": ""
+    },
+    "bhfemb17": {
+        "name": "Especializado en Grupo de Conservante",
         "ia": "un",
         "da": "el",
         "p": "",
@@ -35666,7 +36826,7 @@
         "p": "",
         "pia": "",
         "pda": "",
-        "description": "Aumenta tu habilidad contra las interrupciones hasta por $MA_BREAK_RES. Máxima eficiencia para hechizos de nivel no mayor de 255.",
+        "description": "Aumenta tu habilidad contra las interrupciones hasta por $MA_BREAK_RES. Máxima eficiencia para hechizos de nivel no mayor de 225.",
         "description2": ""
     },
     "bmor00200": {
