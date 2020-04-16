@@ -1507,23 +1507,23 @@
         "description": ""
     },
     "makelauncher": {
-        "name": "Raketenwerfer-Herstellung",
-        "named": "Raketenwerfer-Herstellung",
+        "name": "Granatenwerfer-Herstellung",
+        "named": "Granatenwerfer-Herstellung",
         "ia": "eine",
         "da": "die",
-        "p": "Raketenwerfer-Herstellungen",
-        "pd": "Raketenwerfer-Herstellungen",
+        "p": "Granatenwerfer-Herstellungen",
+        "pd": "Granatenwerfer-Herstellungen",
         "pia": "\\d",
         "pda": "die",
         "description": ""
     },
     "makelauncherammo": {
-        "name": "Munitionsherstellung für Raketenwerfer",
-        "named": "Munitionsherstellung für Raketenwerfer",
+        "name": "Munitionsherstellung für Granatenwerfer",
+        "named": "Munitionsherstellung für Granatenwerfer",
         "ia": "eine",
         "da": "die",
-        "p": "Munitionsherstellungen für Raketenwerfer",
-        "pd": "Munitionsherstellungen für Raketenwerfer",
+        "p": "Munitionsherstellungen für Granatenwerfer",
+        "pd": "Munitionsherstellungen für Granatenwerfer",
         "pia": "\\d",
         "pda": "die",
         "description": ""
@@ -2402,8 +2402,8 @@
         "named": "Rakete",
         "ia": "eine",
         "da": "die",
-        "p": "Raketen",
-        "pd": "Raketen",
+        "p": "Granaten",
+        "pd": "Granaten",
         "pia": "\\d",
         "pda": "die",
         "description": ""
@@ -3418,7 +3418,7 @@
         "pd": "Raketenmagie",
         "pia": "\\d",
         "pda": "die",
-        "description": "Magie gezielter Raketen"
+        "description": "Magie gezielter Granaten"
     },
     "smtmr": {
         "name": "Grundmagie",
@@ -4961,250 +4961,250 @@
         "description": "Unbekannte Fertigkeit"
     },
     "sh": {
-        "name": "Rohstoffgewinnung",
-        "named": "Rohstoffgewinnung",
+        "name": "Ernte",
+        "named": "Ernte",
         "ia": "eine",
         "da": "die",
-        "p": "Rohstoffgewinnungen",
-        "pd": "Rohstoffgewinnungen",
+        "p": "Ernten",
+        "pd": "Ernten",
         "pia": "\\d",
         "pda": "die",
         "description": "Ernte"
     },
     "shf": {
-        "name": "Erweiterte Rohstoffgewinnung",
-        "named": "Erweiterte Rohstoffgewinnung",
+        "name": "Erweiterte Ernte",
+        "named": "Erweiterte Ernte",
         "ia": "eine",
         "da": "die",
-        "p": "Erweiterte Rohstoffgewinnungen",
-        "pd": "Erweiterte Rohstoffgewinnungen",
+        "p": "Erweiterte Ernten",
+        "pd": "Erweiterte Ernten",
         "pia": "\\d",
         "pda": "die",
         "description": ""
     },
     "shff": {
-        "name": "Wald-Rohstoffgewinnung",
-        "named": "Wald-Rohstoffgewinnung",
+        "name": "Wald-Ernte",
+        "named": "Wald-Ernte",
         "ia": "eine",
         "da": "die",
-        "p": "Wald-Rohstoffgewinnungen",
-        "pd": "Wald-Rohstoffgewinnungen",
+        "p": "Wald-Ernten",
+        "pd": "Wald-Ernten",
         "pia": "\\d",
         "pda": "die",
         "description": ""
     },
     "shffa": {
-        "name": "Fortgeschrittener in Wald-Rohstoffgewinnung",
-        "named": "Fortgeschrittener in Wald-Rohstoffgewinnung",
+        "name": "Erfahrene Wald-Ernte",
+        "named": "Erfahrene Wald-Ernte",
         "ia": "ein",
         "da": "der",
-        "p": "Fortgeschrittene in Wald-Rohstoffgewinnung",
-        "pd": "Fortgeschrittenen in Wald-Rohstoffgewinnung",
+        "p": "Fortgeschrittene in Wald-Ernte",
+        "pd": "Fortgeschrittenen in Wald-Ernte",
         "pia": "\\d",
         "pda": "die",
         "description": ""
     },
     "shffae": {
-        "name": "Experte in Wald-Rohstoffgewinnung",
-        "named": "Experte in Wald-Rohstoffgewinnung",
+        "name": "Wald-Ernteexperte",
+        "named": "Wald-Ernteexperte",
         "ia": "ein",
         "da": "der",
-        "p": "Experten in Wald-Rohstoffgewinnung",
-        "pd": "Experten in Wald-Rohstoffgewinnung",
+        "p": "Experten in Wald-Ernte",
+        "pd": "Experten in Wald-Ernte",
         "pia": "\\d",
         "pda": "die",
         "description": ""
     },
     "shffaem": {
-        "name": "Meister in Wald-Rohstoffgewinnung",
-        "named": "Meister in Wald-Rohstoffgewinnung",
+        "name": "Wald-Erntemeister",
+        "named": "Wald-Erntemeister",
         "ia": "ein",
         "da": "der",
-        "p": "Meister in Wald-Rohstoffgewinnung",
-        "pd": "Meister in Wald-Rohstoffgewinnung",
+        "p": "Wald-Erntemeister",
+        "pd": "Wald-Erntemeister",
         "pia": "\\d",
         "pda": "die",
         "description": ""
     },
     "shfd": {
-        "name": "Wüsten-Rohstoffgewinnung",
-        "named": "Wüsten-Rohstoffgewinnung",
+        "name": "Wüsten-Ernte",
+        "named": "Wüsten-Ernte",
         "ia": "eine",
         "da": "die",
-        "p": "Wüsten-Rohstoffgewinnungen",
-        "pd": "Wüsten-Rohstoffgewinnungen",
+        "p": "Wüsten-Ernten",
+        "pd": "Wüsten-Ernten",
         "pia": "\\d",
         "pda": "die",
         "description": ""
     },
     "shfda": {
-        "name": "Fortgeschrittener in Wüsten-Rohstoffgewinnung",
-        "named": "Fortgeschrittener in Wüsten-Rohstoffgewinnung",
+        "name": "Erfahrene Wüsten-Ernte",
+        "named": "Erfahrene Wüsten-Ernte",
         "ia": "ein",
         "da": "der",
-        "p": "Fortgeschrittene in Wüsten-Rohstoffgewinnung",
-        "pd": "Fortgeschrittenen in Wüsten-Rohstoffgewinnung",
+        "p": "Fortgeschrittene in Wüsten-Ernte",
+        "pd": "Fortgeschrittenen in Wüsten-Ernte",
         "pia": "\\d",
         "pda": "die",
         "description": ""
     },
     "shfdae": {
-        "name": "Experte in Wüsten-Rohstoffgewinnung",
-        "named": "Experte in Wüsten-Rohstoffgewinnung",
+        "name": "Wüsten-Ernteexperte",
+        "named": "Wüsten-Ernteexperte",
         "ia": "ein",
         "da": "der",
-        "p": "Experten in Wüsten-Rohstoffgewinnung",
-        "pd": "Experten in Wüsten-Rohstoffgewinnung",
+        "p": "Experten in Wüsten-Ernte",
+        "pd": "Experten in Wüsten-Ernte",
         "pia": "\\d",
         "pda": "die",
         "description": ""
     },
     "shfdaem": {
-        "name": "Meister in Wüsten-Rohstoffgewinnung",
-        "named": "Meister in Wüsten-Rohstoffgewinnung",
+        "name": "Wüsten-Erntemeister",
+        "named": "Wüsten-Erntemeister",
         "ia": "ein",
         "da": "der",
-        "p": "Meister in Wüsten-Rohstoffgewinnung",
-        "pd": "Meister in Wüsten-Rohstoffgewinnung",
+        "p": "Wüsten-Erntemeister",
+        "pd": "Wüsten-Erntemeister",
         "pia": "\\d",
         "pda": "die",
         "description": ""
     },
     "shfj": {
-        "name": "Dschungel-Rohstoffgewinnung",
-        "named": "Dschungel-Rohstoffgewinnung",
+        "name": "Dschungel-Ernte",
+        "named": "Dschungel-Ernte",
         "ia": "eine",
         "da": "die",
-        "p": "Dschungel-Rohstoffgewinnungen",
-        "pd": "Dschungel-Rohstoffgewinnungen",
+        "p": "Dschungel-Ernten",
+        "pd": "Dschungel-Ernten",
         "pia": "\\d",
         "pda": "die",
         "description": ""
     },
     "shfja": {
-        "name": "Fortgeschrittener in Dschungel-Rohstoffgewinnung",
-        "named": "Fortgeschrittener in Dschungel-Rohstoffgewinnung",
+        "name": "Erfahrene Dschungel-Ernte",
+        "named": "Erfahrene Dschungel-Ernte",
         "ia": "ein",
         "da": "der",
-        "p": "Fortgeschrittene in Dschungel-Rohstoffgewinnung",
-        "pd": "Fortgeschrittenen in Dschungel-Rohstoffgewinnung",
+        "p": "Fortgeschrittene in Dschungel-Ernte",
+        "pd": "Fortgeschrittenen in Dschungel-Ernte",
         "pia": "\\d",
         "pda": "die",
         "description": ""
     },
     "shfjae": {
-        "name": "Experte in Dschungel-Rohstoffgewinnung",
-        "named": "Experte in Dschungel-Rohstoffgewinnung",
+        "name": "Dschungel-Ernteexperte",
+        "named": "Dschungel-Ernteexperte",
         "ia": "ein",
         "da": "der",
-        "p": "Experten in Dschungel-Rohstoffgewinnung",
-        "pd": "Experten in Dschungel-Rohstoffgewinnung",
+        "p": "Experten in Dschungel-Ernte",
+        "pd": "Experten in Dschungel-Ernte",
         "pia": "\\d",
         "pda": "die",
         "description": ""
     },
     "shfjaem": {
-        "name": "Meister in Dschungel-Rohstoffgewinnung",
-        "named": "Meister in Dschungel-Rohstoffgewinnung",
+        "name": "Dschungel-Erntemeister",
+        "named": "Dschungel-Erntemeister",
         "ia": "ein",
         "da": "der",
-        "p": "Meister in Dschungel-Rohstoffgewinnung",
-        "pd": "Meister in Dschungel-Rohstoffgewinnung",
+        "p": "Dschungel-Erntemeister",
+        "pd": "Dschungel-Erntemeister",
         "pia": "\\d",
         "pda": "die",
         "description": ""
     },
     "shfl": {
-        "name": "Seenland-Rohstoffgewinnung",
-        "named": "Seenland-Rohstoffgewinnung",
+        "name": "Seenland-Ernte",
+        "named": "Seenland-Ernte",
         "ia": "eine",
         "da": "die",
-        "p": "Seenland-Rohstoffgewinnungen",
-        "pd": "Seenland-Rohstoffgewinnungen",
+        "p": "Seenland-Ernten",
+        "pd": "Seenland-Ernten",
         "pia": "\\d",
         "pda": "die",
         "description": ""
     },
     "shfla": {
-        "name": "Fortgeschrittener in Seenland-Rohstoffgewinnung",
-        "named": "Fortgeschrittener in Seenland-Rohstoffgewinnung",
+        "name": "Erfahrene Seenland-Ernte",
+        "named": "Erfahrene Seenland-Ernte",
         "ia": "ein",
         "da": "der",
-        "p": "Fortgeschrittene in Seenland-Rohstoffgewinnung",
-        "pd": "Fortgeschrittenen in Seenland-Rohstoffgewinnung",
+        "p": "Fortgeschrittene in Seenland-Ernte",
+        "pd": "Fortgeschrittenen in Seenland-Ernte",
         "pia": "\\d",
         "pda": "die",
         "description": ""
     },
     "shflae": {
-        "name": "Experte in Seenland-Rohstoffgewinnung",
-        "named": "Experte in Seenland-Rohstoffgewinnung",
+        "name": "Seenland-Ernteexperte",
+        "named": "Seenland-Ernteexperte",
         "ia": "ein",
         "da": "der",
-        "p": "Experten in Seenland-Rohstoffgewinnung",
-        "pd": "Experten in Seenland-Rohstoffgewinnung",
+        "p": "Experten in Seenland-Ernte",
+        "pd": "Experten in Seenland-Ernte",
         "pia": "\\d",
         "pda": "die",
         "description": ""
     },
     "shflaem": {
-        "name": "Meister in Seenland-Rohstoffgewinnung",
-        "named": "Meister in Seenland-Rohstoffgewinnung",
+        "name": "Seenland-Erntemeister",
+        "named": "Seenland-Erntemeister",
         "ia": "ein",
         "da": "der",
-        "p": "Meister in Seenland-Rohstoffgewinnung",
-        "pd": "Meister in Seenland-Rohstoffgewinnung",
+        "p": "Seenland-Erntemeister",
+        "pd": "Seenland-Erntemeister",
         "pia": "\\d",
         "pda": "die",
         "description": ""
     },
     "shfp": {
-        "name": "Urwurzeln-Rohstoffgewinnung",
-        "named": "Urwurzeln-Rohstoffgewinnung",
+        "name": "Urwurzeln-Ernte",
+        "named": "Urwurzeln-Ernte",
         "ia": "eine",
         "da": "die",
-        "p": "Urwurzeln-Rohstoffgewinnungen",
-        "pd": "Urwurzeln-Rohstoffgewinnungen",
+        "p": "Urwurzeln-Ernten",
+        "pd": "Urwurzeln-Ernten",
         "pia": "\\d",
         "pda": "die",
         "description": ""
     },
     "shfpa": {
-        "name": "Fortgeschrittener in Urwurzeln-Rohstoffgewinnung",
-        "named": "Fortgeschrittener in Urwurzeln-Rohstoffgewinnung",
+        "name": "Erfahrene Urwurzeln-Ernte",
+        "named": "Erfahrene Urwurzeln-Ernte",
         "ia": "ein",
         "da": "der",
-        "p": "Fortgeschrittene in Urwurzeln-Rohstoffgewinnung",
-        "pd": "Fortgeschrittenen in Urwurzeln-Rohstoffgewinnung",
+        "p": "Fortgeschrittene in Urwurzeln-Ernte",
+        "pd": "Fortgeschrittenen in Urwurzeln-Ernte",
         "pia": "\\d",
         "pda": "die",
         "description": ""
     },
     "shfpae": {
-        "name": "Experte in Urwurzeln-Rohstoffgewinnung",
-        "named": "Experte in Urwurzeln-Rohstoffgewinnung",
+        "name": "Urwurzeln-Ernteexperte",
+        "named": "Urwurzeln-Ernteexperte",
         "ia": "ein",
         "da": "der",
-        "p": "Experten in Urwurzeln-Rohstoffgewinnung",
-        "pd": "Experten in Urwurzeln-Rohstoffgewinnung",
+        "p": "Experten in Urwurzeln-Ernte",
+        "pd": "Experten in Urwurzeln-Ernte",
         "pia": "\\d",
         "pda": "die",
         "description": ""
     },
     "shfpaem": {
-        "name": "Meister in Urwurzeln-Rohstoffgewinnung",
-        "named": "Meister in Urwurzeln-Rohstoffgewinnung",
+        "name": "Urwurzeln-Erntemeister",
+        "named": "Urwurzeln-Erntemeister",
         "ia": "ein",
         "da": "der",
-        "p": "Meister in Urwurzeln-Rohstoffgewinnung",
-        "pd": "Meister in Urwurzeln-Rohstoffgewinnung",
+        "p": "Urwurzeln-Erntemeister",
+        "pd": "Urwurzeln-Erntemeister",
         "pia": "\\d",
         "pda": "die",
         "description": ""
     },
     "smtoeca": {
-        "name": "Fortgeschrittener in Kältemagie",
-        "named": "Fortgeschrittener in Kältemagie",
+        "name": "Fortgeschrittene Kältemagie",
+        "named": "Fortgeschrittene Kältemagie",
         "ia": "ein",
         "da": "der",
         "p": "Fortgeschrittene in Kältemagie",
@@ -5214,8 +5214,8 @@
         "description": "Verbesserte Magie Targeted Offensive Spezial Schaden - Kälte"
     },
     "smtoeaa": {
-        "name": "Fortgeschrittener in Säuremagie",
-        "named": "Fortgeschrittener in Säuremagie",
+        "name": "Fortgeschrittene Säuremagie",
+        "named": "Fortgeschrittene Säuremagie",
         "ia": "ein",
         "da": "der",
         "p": "Fortgeschrittene in Säuremagie",
@@ -5225,8 +5225,8 @@
         "description": "Verbesserte Magie Targeted Offensive Special Schaden - Säure"
     },
     "smtoera": {
-        "name": "Fortgeschrittener in Verrottungsmagie",
-        "named": "Fortgeschrittener in Verrottungsmagie",
+        "name": "Fortgeschrittene Verrottungsmagie",
+        "named": "Fortgeschrittene Verrottungsmagie",
         "ia": "ein",
         "da": "der",
         "p": "Fortgeschrittene in Verrottungsmagie",
@@ -5236,8 +5236,8 @@
         "description": "Verbesserte Magie Targeted Offensive Special Schaden - Verrottungs"
     },
     "smtoefa": {
-        "name": "Fortgeschrittener in Feuermagie",
-        "named": "Fortgeschrittener in Feuermagie",
+        "name": "Fortgeschrittene Feuermagie",
+        "named": "Fortgeschrittene Feuermagie",
         "ia": "ein",
         "da": "der",
         "p": "Fortgeschrittene in Feuermagie",
@@ -5247,8 +5247,8 @@
         "description": "Verbesserte Magie Targeted Offensive Special Schaden - Feuer"
     },
     "smtoesa": {
-        "name": "Fortgeschrittener in Schockwellenmagie",
-        "named": "Fortgeschrittener in Schockwellenmagie",
+        "name": "Fortgeschrittene Schockwellenmagie",
+        "named": "Fortgeschrittene Schockwellenmagie",
         "ia": "ein",
         "da": "der",
         "p": "Fortgeschrittene in Schockwellenmagie",
@@ -5258,8 +5258,8 @@
         "description": "Verbesserte Magie Targeted Offensive Special Schaden - Schockwellen"
     },
     "smtoepa": {
-        "name": "Fortgeschrittener in Giftmagie",
-        "named": "Fortgeschrittener in Giftmagie",
+        "name": "Fortgeschrittene Giftmagie",
+        "named": "Fortgeschrittene Giftmagie",
         "ia": "ein",
         "da": "der",
         "p": "Fortgeschrittene in Giftmagie",
@@ -5269,8 +5269,8 @@
         "description": "Verbesserte Magie Targeted Offensive Special Schaden - Gift"
     },
     "smtoeea": {
-        "name": "Fortgeschrittener in Elektromagie",
-        "named": "Fortgeschrittener in Elektromagie",
+        "name": "Fortgeschrittene Elektromagie",
+        "named": "Fortgeschrittene Elektromagie",
         "ia": "ein",
         "da": "der",
         "p": "Fortgeschrittene in Elektromagie",
@@ -5280,8 +5280,8 @@
         "description": "Verbesserte Magie Targeted Offensive Special Schaden - Elektrischer"
     },
     "smtchpa": {
-        "name": "Fortgeschrittener in Lebens-Heilungsmagie",
-        "named": "Fortgeschrittener in Lebens-Heilungsmagie",
+        "name": "Fortgeschrittene Lebens-Heilungsmagie",
+        "named": "Fortgeschrittene Lebens-Heilungsmagie",
         "ia": "ein",
         "da": "der",
         "p": "Fortgeschrittene in Lebens-Heilungsmagie",
@@ -5291,8 +5291,8 @@
         "description": "Verbesserte Magie Targeted Heilend Heilt - HP"
     },
     "smtchta": {
-        "name": "Fortgeschrittener in Ausdauer-Heilungsmagie",
-        "named": "Fortgeschrittener in Ausdauer-Heilungsmagie",
+        "name": "Fortgeschrittene Ausdauer-Heilungsmagie",
+        "named": "Fortgeschrittene Ausdauer-Heilungsmagie",
         "ia": "ein",
         "da": "der",
         "p": "Fortgeschrittene in Ausdauer-Heilungsmagie",
@@ -5302,8 +5302,8 @@
         "description": "Verbesserte Magie Targeted Heilend Heilt - STA"
     },
     "smtchaa": {
-        "name": "Fortgeschrittener in Sap-Heilungsmagie",
-        "named": "Fortgeschrittener in Sap-Heilungsmagie",
+        "name": "Fortgeschrittene Sap-Heilungsmagie",
+        "named": "Fortgeschrittene Sap-Heilungsmagie",
         "ia": "ein",
         "da": "der",
         "p": "Fortgeschrittene in Sap-Heilungsmagie",
@@ -5313,8 +5313,8 @@
         "description": "Verbesserte Magie Targeted Heilend Heilt - SAP"
     },
     "smtchca": {
-        "name": "Fortgeschrittener in Fokus-Heilungsmagie",
-        "named": "Fortgeschrittener in Fokus-Heilungsmagie",
+        "name": "Fortgeschrittene Fokus-Heilungsmagie",
+        "named": "Fortgeschrittene Fokus-Heilungsmagie",
         "ia": "ein",
         "da": "der",
         "p": "Fortgeschrittene in Fokus-Heilungsmagie",
@@ -5324,8 +5324,8 @@
         "description": "Verbesserte Magie Targeted Heilend Heilt - Fokus"
     },
     "smlosma": {
-        "name": "Fortgeschrittener in der Bindung des Wahnsinns",
-        "named": "Fortgeschrittener in der Bindung des Wahnsinns",
+        "name": "Fortgeschrittene der Bindung des Wahnsinns",
+        "named": "Fortgeschrittene der Bindung des Wahnsinns",
         "ia": "ein",
         "da": "der",
         "p": "Fortgeschrittene in der Bindung des Wahnsinns",
@@ -5335,8 +5335,8 @@
         "description": "Verbesserte Magie Bindung Offensive Krankheit - Wahnsinn"
     },
     "smlossa": {
-        "name": "Fortgeschrittener in der Bindung der Verlangsamung",
-        "named": "Fortgeschrittener in der Bindung der Verlangsamung",
+        "name": "Fortgeschrittene der Bindung der Verlangsamung",
+        "named": "Fortgeschrittene der Bindung der Verlangsamung",
         "ia": "ein",
         "da": "der",
         "p": "Fortgeschrittene in der Bindung der Verlangsamung",
@@ -5346,8 +5346,8 @@
         "description": "Verbesserte Magie Bindung Offensive Krankheit - Geschwindigkeit Debuff"
     },
     "smlocia": {
-        "name": "Fortgeschrittener in der Bindung der Unfähigkeit",
-        "named": "Fortgeschrittener in der Bindung der Unfähigkeit",
+        "name": "Fortgeschrittene der Bindung der Unfähigkeit",
+        "named": "Fortgeschrittene der Bindung der Unfähigkeit",
         "ia": "ein",
         "da": "der",
         "p": "Fortgeschrittene in der Bindung der Unfähigkeit",
@@ -5357,8 +5357,8 @@
         "description": "Verbesserte Magie Bindung Offensive Fluch - Unfähigkeits"
     },
     "smlocsa": {
-        "name": "Fortgeschrittener in der Bindung des Missgeschicks",
-        "named": "Fortgeschrittener in der Bindung des Missgeschicks",
+        "name": "Fortgeschrittene der Bindung des Missgeschicks",
+        "named": "Fortgeschrittene der Bindung des Missgeschicks",
         "ia": "ein",
         "da": "der",
         "p": "Fortgeschrittene in der Bindung des Missgeschicks",
@@ -5368,8 +5368,8 @@
         "description": "Verbesserte Magie Bindung Offensive Fluch - Missgeschicks"
     },
     "smloeca": {
-        "name": "Fortgeschrittener in Kältebindung",
-        "named": "Fortgeschrittener in Kältebindung",
+        "name": "Fortgeschrittene Kältebindung",
+        "named": "Fortgeschrittene Kältebindung",
         "ia": "ein",
         "da": "der",
         "p": "Fortgeschrittene in Kältebindung",
@@ -5379,8 +5379,8 @@
         "description": "Verbesserte Magie Bindung Offensive Special Schaden - Kälte"
     },
     "smloeaa": {
-        "name": "Fortgeschrittener in Säurebindung",
-        "named": "Fortgeschrittener in Säurebindung",
+        "name": "Fortgeschrittene Säurebindung",
+        "named": "Fortgeschrittene Säurebindung",
         "ia": "ein",
         "da": "der",
         "p": "Fortgeschrittene in Säurebindung",
@@ -5390,8 +5390,8 @@
         "description": "Verbesserte Magie Bindung Offensive Special Schaden - Säure"
     },
     "smloera": {
-        "name": "Fortgeschrittener in der Bindung der Verrottung",
-        "named": "Fortgeschrittener in der Bindung der Verrottung",
+        "name": "Fortgeschrittene der Bindung der Verrottung",
+        "named": "Fortgeschrittene der Bindung der Verrottung",
         "ia": "ein",
         "da": "der",
         "p": "Fortgeschrittene in der Bindung der Verrottung",
@@ -5401,8 +5401,8 @@
         "description": "Verbesserte Magie Bindung Offensive Special Schaden - Verrottungs"
     },
     "smloefa": {
-        "name": "Fortgeschrittener in Feuerbindung",
-        "named": "Fortgeschrittener in Feuerbindung",
+        "name": "Fortgeschrittene Feuerbindung",
+        "named": "Fortgeschrittene Feuerbindung",
         "ia": "ein",
         "da": "der",
         "p": "Fortgeschrittene in Feuerbindung",
@@ -5412,19 +5412,19 @@
         "description": "Verbesserte Magie Bindung Offensive Special Schaden - Feuer"
     },
     "smloesa": {
-        "name": "Fortgeschrittener in Schockwellenbindung",
-        "named": "Fortgeschrittener in Schockwellenbindung",
+        "name": "Fortgeschrittene Schockwellenbindung",
+        "named": "Fortgeschrittene Schockwellenbindung",
         "ia": "ein",
         "da": "der",
-        "p": "Fortgeschrittener in Schockwellenbindung",
+        "p": "Fortgeschrittene Schockwellenbindung",
         "pd": "Fortgeschrittenen in Schockwellenbindung",
         "pia": "\\d",
         "pda": "die",
         "description": "Verbesserte Magie Bindung Offensive Special Schaden - Schockwellen"
     },
     "smloepa": {
-        "name": "Fortgeschrittener in Giftbindung",
-        "named": "Fortgeschrittener in Giftbindung",
+        "name": "Fortgeschrittene Giftbindung",
+        "named": "Fortgeschrittene Giftbindung",
         "ia": "ein",
         "da": "der",
         "p": "Fortgeschrittene in Giftbindung",
@@ -5434,8 +5434,8 @@
         "description": "Verbesserte Magie Bindung Offensive Special Schaden - Gift"
     },
     "smloeea": {
-        "name": "Fortgeschrittener in Elektrobindung",
-        "named": "Fortgeschrittener in Elektrobindung",
+        "name": "Fortgeschrittene Elektrobindung",
+        "named": "Fortgeschrittene Elektrobindung",
         "ia": "ein",
         "da": "der",
         "p": "Fortgeschrittene in Elektrobindung",
@@ -5467,8 +5467,8 @@
         "description": "Standard Defensive Schmerzzufügung"
     },
     "smdaa": {
-        "name": "Fortgeschrittener in defensiver Beherrschungsmagie",
-        "named": "Fortgeschrittener in defensiver Beherrschungsmagie",
+        "name": "Fortgeschrittene defensiver Beherrschungsmagie",
+        "named": "Fortgeschrittene defensiver Beherrschungsmagie",
         "ia": "ein",
         "da": "der",
         "p": "Fortgeschrittene in defensiver Beherrschungsmagie",
@@ -5511,8 +5511,8 @@
         "description": "Standard Heilungs Magie"
     },
     "smdha": {
-        "name": "Fortgeschrittener in Heilungsmagie",
-        "named": "Fortgeschrittener in Heilungsmagie",
+        "name": "Fortgeschrittene Heilungsmagie",
+        "named": "Fortgeschrittene Heilungsmagie",
         "ia": "ein",
         "da": "der",
         "p": "Fortgeschrittene in Heilungsmagie",
@@ -5566,8 +5566,8 @@
         "description": "Standard Offensive Schmerzzufügung"
     },
     "smoaa": {
-        "name": "Fortgeschrittener in offensiver Beherrschungsmagie",
-        "named": "Fortgeschrittener in offensiver Beherrschungsmagie",
+        "name": "Fortgeschrittene offensiver Beherrschungsmagie",
+        "named": "Fortgeschrittene offensiver Beherrschungsmagie",
         "ia": "ein",
         "da": "der",
         "p": "Fortgeschrittene in offensiver Beherrschungsmagie",
@@ -5610,8 +5610,8 @@
         "description": "Standard Elementare Magie"
     },
     "smoea": {
-        "name": "Fortgeschrittener in Elementarmagie",
-        "named": "Fortgeschrittener in Elementarmagie",
+        "name": "Fortgeschrittene Elementarmagie",
+        "named": "Fortgeschrittene Elementarmagie",
         "ia": "ein",
         "da": "der",
         "p": "Fortgeschrittene in Elementarmagie",
@@ -5665,8 +5665,8 @@
         "description": "Standard Selbstgerichtete Magie"
     },
     "smssa": {
-        "name": "Fortgeschrittener in selbstgerichteter Magie",
-        "named": "Fortgeschrittener in selbstgerichteter Magie",
+        "name": "Fortgeschrittene selbstgerichteter Magie",
+        "named": "Fortgeschrittene selbstgerichteter Magie",
         "ia": "ein",
         "da": "der",
         "p": "Fortgeschrittene in selbstgerichteter Magie",
@@ -5720,34 +5720,34 @@
         "description": ""
     },
     "sfm1": {
-        "name": "Einhand Nahkampf",
-        "named": "Einhand Nahkampf",
-        "ia": "ein",
-        "da": "der",
-        "p": "Einhand Nahkampf",
-        "pd": "Einhand Nahkampf",
+        "name": "Einhand-Nahkampf",
+        "named": "Einhand-Nahkampf",
+        "ia": "Einhand-Nahkampf",
+        "da": "Einhand-Nahkampf",
+        "p": "Einhand-Nahkampf",
+        "pd": "Einhand-Nahkampf",
         "pia": "\\d",
         "pda": "der",
         "description": ""
     },
     "sfm1b": {
-        "name": "Einhand Nahkampf mit stumpfen Hiebwaffen",
-        "named": "Einhand Nahkampf mit stumpfen Hiebwaffen",
+        "name": "Stumpfe Hiebwaffen",
+        "named": "Stumpfe Hiebwaffen",
         "ia": "ein",
         "da": "der",
-        "p": "Einhand Nahkampf mit stumpfen Hiebwaffen",
-        "pd": "Einhand Nahkampf mit stumpfen Hiebwaffen",
+        "p": "Stumpfe Hiebwaffen",
+        "pd": "Stumpfe Hiebwaffen",
         "pia": "\\d",
         "pda": "der",
         "description": ""
     },
     "sfm1bm": {
-        "name": "Streitkolbenbeherrschung",
-        "named": "Streitkolbenbeherrschung",
+        "name": "Streitkolben",
+        "named": "Streitkolben",
         "ia": "eine",
         "da": "die",
-        "p": "Streitkolbenbeherrschungen",
-        "pd": "Streitkolbenbeherrschungen",
+        "p": "Streitkolben",
+        "pd": "Streitkolben",
         "pia": "\\d",
         "pda": "die",
         "description": ""
@@ -5764,56 +5764,56 @@
         "description": ""
     },
     "sfm1bmm": {
-        "name": "Meister in Streitkolbenbeherrschung",
-        "named": "Meister in Streitkolbenbeherrschung",
+        "name": "Streitkolben-Meister",
+        "named": "Streitkolben-Meister",
         "ia": "ein",
         "da": "der",
-        "p": "Meister in Streitkolbenbeherrschung",
-        "pd": "Meister in Streitkolbenbeherrschungen",
+        "p": "Streitkolben-Meister",
+        "pd": "Streitkolben-Meister",
         "pia": "\\d",
         "pda": "die",
         "description": ""
     },
     "sfm1bs": {
-        "name": "Stabbeherrschung",
-        "named": "Stabbeherrschung",
+        "name": "Stab",
+        "named": "Stab",
         "ia": "eine",
         "da": "die",
-        "p": "Stabbeherrschungen",
-        "pd": "Stabbeherrschung",
+        "p": "Staben",
+        "pd": "Stab",
         "pia": "\\d",
         "pda": "die",
         "description": ""
     },
     "sfm1bsm": {
-        "name": "Meister in Stabbeherrschung",
-        "named": "Meister in Stabbeherrschung",
+        "name": "Stab-Meister",
+        "named": "Stab-Meister",
         "ia": "ein",
         "da": "der",
-        "p": "Meister in Stabbeherrschung",
-        "pd": "Meister in Stabbeherrschung",
+        "p": "Stab-Meister",
+        "pd": "Stab-Meister",
         "pia": "\\d",
         "pda": "der",
         "description": ""
     },
     "sfm1p": {
-        "name": "Einhand Nahkampf mit Stichwaffen",
-        "named": "Einhand Nahkampf mit Stichwaffen",
+        "name": "Stichwaffen",
+        "named": "Stichwaffen",
         "ia": "ein",
         "da": "der",
-        "p": "Einhand Nahkampf mit Stichwaffen",
-        "pd": "Einhand Nahkampf mit Stichwaffen",
+        "p": "Stichwaffen",
+        "pd": "Stichwaffen",
         "pia": "\\d",
         "pda": "der",
         "description": ""
     },
     "sfm1ps": {
-        "name": "Lanzenbeherrschung",
-        "named": "Lanzenbeherrschung",
+        "name": "Lanze",
+        "named": "Lanzen",
         "ia": "eine",
         "da": "die",
-        "p": "Lanzenbeherrschungen",
-        "pd": "Lanzenbeherrschungen",
+        "p": "Lanzenen",
+        "pd": "Lanzenen",
         "pia": "\\d",
         "pda": "die",
         "description": ""
@@ -5841,34 +5841,34 @@
         "description": ""
     },
     "sfm1psm": {
-        "name": "Meister in Lanzenbeherrschung",
-        "named": "Meister in Lanzenbeherrschung",
+        "name": "Lanzen-Meister",
+        "named": "Lanzen-Meister",
         "ia": "ein",
         "da": "der",
-        "p": "Meister in Lanzenbeherrschung",
-        "pd": "Meister in Lanzenbeherrschung",
+        "p": "Lanzen-Meister",
+        "pd": "Lanzen-Meister",
         "pia": "\\d",
         "pda": "die",
         "description": ""
     },
     "sfm1s": {
-        "name": "Einhand Nahkampf mit scharfen Hiebwaffen",
-        "named": "Einhand Nahkampf mit scharfen Hiebwaffen",
+        "name": "Scharfe Hiebwaffen",
+        "named": "Scharfe Hiebwaffen",
         "ia": "ein",
         "da": "der",
-        "p": "Einhand Nahkampf mit scharfen Hiebwaffen",
-        "pd": "Einhand Nahkampf mit scharfen Hiebwaffen",
+        "p": "Scharfe Hiebwaffen",
+        "pd": "Scharfe Hiebwaffen",
         "pia": "\\d",
         "pda": "der",
         "description": ""
     },
     "sfm1sa": {
-        "name": "Axtbeherrschung",
-        "named": "Axtbeherrschung",
+        "name": "Axt",
+        "named": "Axt",
         "ia": "eine",
         "da": "die",
-        "p": "Axtbeherrschung",
-        "pd": "Axtbeherrschung",
+        "p": "Axt",
+        "pd": "Axt",
         "pia": "\\d",
         "pda": "die",
         "description": ""
@@ -5885,34 +5885,34 @@
         "description": ""
     },
     "sfm1sam": {
-        "name": "Meister in Axtbeherrschung",
-        "named": "Meister in Axtbeherrschung",
+        "name": "Axt-Meister",
+        "named": "Axt-Meister",
         "ia": "ein",
         "da": "der",
-        "p": "Meister in Axtbeherrschung",
-        "pd": "Meister in Axtbeherrschung",
+        "p": "Axt-Meister",
+        "pd": "Axt-Meister",
         "pia": "\\d",
         "pda": "die",
         "description": ""
     },
     "sfm1ss": {
-        "name": "Schwertbeherrschung",
-        "named": "Schwertbeherrschung",
+        "name": "Schwert",
+        "named": "Schwert",
         "ia": "eine",
         "da": "die",
-        "p": "Schwertbeherrschung",
-        "pd": "Schwertbeherrschung",
+        "p": "Schwert",
+        "pd": "Schwert",
         "pia": "\\d",
         "pda": "die",
         "description": ""
     },
     "sfm1ssm": {
-        "name": "Meister in Schwertbeherrschung",
-        "named": "Meister in Schwertbeherrschung",
+        "name": "Schwert-Meister",
+        "named": "Schwert-Meister",
         "ia": "ein",
         "da": "der",
-        "p": "Meister in Schwertbeherrschung",
-        "pd": "Meister in Schwertbeherrschung",
+        "p": "Schwert-Meister",
+        "pd": "Schwert-Meister",
         "pia": "\\d",
         "pda": "die",
         "description": ""
@@ -5940,23 +5940,23 @@
         "description": ""
     },
     "sfm2b": {
-        "name": "Zweihand-Nahkampf mit stumpfen Hiebwaffen",
-        "named": "Zweihand-Nahkampf mit stumpfen Hiebwaffen",
+        "name": "Stumpfe Hiebwaffen",
+        "named": "Stumpfe Hiebwaffen",
         "ia": "ein",
         "da": "der",
-        "p": "Zweihand-Nahkampf mit stumpfen Hiebwaffen",
-        "pd": "Zweihand Nahkampf mit stumpfen Hiebwaffen",
+        "p": "Stumpfe Hiebwaffen",
+        "pd": "Stumpfe Hiebwaffen",
         "pia": "\\d",
         "pda": "der",
         "description": ""
     },
     "sfm2bm": {
-        "name": "Riesenstreitkolbenbeherrschung",
-        "named": "Riesenstreitkolbenbeherrschung",
+        "name": "Riesenstreitkolben",
+        "named": "Riesenstreitkolben",
         "ia": "eine",
         "da": "die",
-        "p": "Riesenstreitkolbenbeherrschungen",
-        "pd": "Riesenstreitkolbenbeherrschungen",
+        "p": "Riesenstreitkolbenen",
+        "pd": "Riesenstreitkolbenen",
         "pia": "\\d",
         "pda": "die",
         "description": ""
@@ -5973,19 +5973,19 @@
         "description": ""
     },
     "sfm2bmm": {
-        "name": "Meister in Riesenstreitkolbenbeherrschung",
-        "named": "Meister in Riesenstreitkolbenbeherrschung",
-        "ia": "ein",
-        "da": "der",
-        "p": "Meister in Riesenstreitkolbenbeherrschung",
-        "pd": "Meister in Riesenstreitkolbenbeherrschung",
+        "name": "Riesenstreitkolben-Meister",
+        "named": "Riesenstreitkolben-Meister",
+        "ia": "eine",
+        "da": "die",
+        "p": "Zweihand-Streitkolben-Meister",
+        "pd": "Zweihand-Streitkolben-Meister",
         "pia": "\\d",
         "pda": "die",
         "description": ""
     },
     "sfm2p": {
-        "name": "Zweihand Nahkampf mit Stichwaffen",
-        "named": "Zweihand Nahkampf mit Stichwaffen",
+        "name": "Stichwaffen",
+        "named": "Stichwaffen",
         "ia": "ein",
         "da": "der",
         "p": "Zweihand-Nahkampf mit Stichwaffen",
@@ -5995,12 +5995,12 @@
         "description": ""
     },
     "sfm2pp": {
-        "name": "Pikenbeherrschung",
-        "named": "Pikenbeherrschung",
+        "name": "Pike",
+        "named": "Piken",
         "ia": "eine",
         "da": "die",
-        "p": "Pikenbeherrschungen",
-        "pd": "Pikenbeherrschungen",
+        "p": "Pikenen",
+        "pd": "Pikenen",
         "pia": "\\d",
         "pda": "die",
         "description": ""
@@ -6017,18 +6017,18 @@
         "description": ""
     },
     "sfm2ppm": {
-        "name": "Meister in Pikenbeherrschung",
-        "named": "Meister in Pikenbeherrschung",
+        "name": "Piken-Meister",
+        "named": "Piken-Meister",
         "ia": "ein",
         "da": "der",
-        "p": "Meister in Pikenbeherrschung",
-        "pd": "Meister in Pikenbeherrschung",
+        "p": "Piken-Meister",
+        "pd": "Piken-Meister",
         "pia": "\\d",
         "pda": "die",
         "description": ""
     },
     "sfm2s": {
-        "name": "Zweihand-Nahkampf mit scharfen Hiebwaffen",
+        "name": "Scharfe Hiebwaffen",
         "named": "Zweihand-Nahkampf mit scharfen Hiebwaffen",
         "ia": "ein",
         "da": "der",
@@ -6039,12 +6039,12 @@
         "description": ""
     },
     "sfm2sa": {
-        "name": "Langaxtbeherrschung",
-        "named": "Langaxtbeherrschung",
+        "name": "Riesenaxt",
+        "named": "Riesenaxt",
         "ia": "eine",
         "da": "die",
-        "p": "Langaxtbeherrschung",
-        "pd": "Langaxtbeherrschungen",
+        "p": "Langaxt",
+        "pd": "Langaxten",
         "pia": "\\d",
         "pda": "die",
         "description": ""
@@ -6061,23 +6061,23 @@
         "description": ""
     },
     "sfm2sam": {
-        "name": "Meister in Langaxtbeherrschung",
-        "named": "Meister in Langaxtbeherrschung",
+        "name": "Riesenaxt-Meister",
+        "named": "Riesenaxt-Meister",
         "ia": "ein",
         "da": "der",
-        "p": "Meister in Langaxtbeherrschung",
-        "pd": "Meister in Langaxtbeherrschung",
+        "p": "Langaxt-Meister",
+        "pd": "Langaxt-Meister",
         "pia": "\\d",
         "pda": "die",
         "description": ""
     },
     "sfm2ss": {
-        "name": "Langschwertbeherrschung",
-        "named": "Langschwertbeherrschung",
+        "name": "Riesenschwert",
+        "named": "Riesenschwert",
         "ia": "eine",
         "da": "die",
-        "p": "Langschwertbeherrschungen",
-        "pd": "Langschwertbeherrschungen",
+        "p": "Langschwerten",
+        "pd": "Langschwerten",
         "pia": "\\d",
         "pda": "die",
         "description": ""
@@ -6105,12 +6105,12 @@
         "description": ""
     },
     "sfm2ssm": {
-        "name": "Meister in Langschwertbeherrschung",
-        "named": "Meister in Langschwertbeherrschung",
+        "name": "Riesenschwert-Meister",
+        "named": "Riesenschwert-Meister",
         "ia": "ein",
         "da": "der",
-        "p": "Meister in Langschwertbeherrschung",
-        "pd": "Meister in Langschwertbeherrschung",
+        "p": "Langschwert-Meister",
+        "pd": "Langschwert-Meister",
         "pia": "\\d",
         "pda": "die",
         "description": ""
@@ -6127,7 +6127,7 @@
         "description": ""
     },
     "sfmc": {
-        "name": "Nahkampf ohne schwere Waffen",
+        "name": "Ohne schwere Waffen",
         "named": "Nahkampf ohne schwere Waffen",
         "ia": "ein",
         "da": "der",
@@ -6138,8 +6138,8 @@
         "description": ""
     },
     "sfmca": {
-        "name": "Fortgeschrittener im Nahkampf ohne schwere Waffen",
-        "named": "Fortgeschrittener im Nahkampf ohne schwere Waffen",
+        "name": "Erfahren ohne Waffen",
+        "named": "Erfahren ohne Waffen",
         "ia": "ein",
         "da": "der",
         "p": "Fortgeschrittene im Nahkampf ohne schwere Waffen",
@@ -6149,12 +6149,12 @@
         "description": ""
     },
     "sfmcad": {
-        "name": "Dolchbeherrschung",
-        "named": "Dolchbeherrschung",
+        "name": "Dolch",
+        "named": "Dolch",
         "ia": "eine",
         "da": "die",
-        "p": "Dolchbeherrschungen",
-        "pd": "Dolchbeherrschungen",
+        "p": "Dolchen",
+        "pd": "Dolchen",
         "pia": "\\d",
         "pda": "die",
         "description": ""
@@ -6171,12 +6171,12 @@
         "description": ""
     },
     "sfmcadm": {
-        "name": "Meister in Dolchbeherrschung",
-        "named": "Meister in Dolchbeherrschung",
+        "name": "Dolch-Meister",
+        "named": "Dolch-Meister",
         "ia": "ein",
         "da": "der",
-        "p": "Meister in Dolchbeherrschung",
-        "pd": "Meister in Dolchbeherrschung",
+        "p": "Dolch-Meister",
+        "pd": "Dolch-Meister",
         "pia": "\\d",
         "pda": "die",
         "description": ""
@@ -6193,8 +6193,8 @@
         "description": ""
     },
     "sfmcah": {
-        "name": "Experte in waffenloser Kampfkunst",
-        "named": "Experte in waffenloser Kampfkunst",
+        "name": "Waffenloser Experte",
+        "named": "Waffenloser Experte",
         "ia": "ein",
         "da": "der",
         "p": "Experten in waffenloser Kampfkunst",
@@ -6204,12 +6204,12 @@
         "description": ""
     },
     "sfmcahm": {
-        "name": "Meister in waffenloser Kampfkunst",
-        "named": "Meister in waffenloser Kampfkunst",
+        "name": "Kungfu-Meister",
+        "named": "Kungfu-Meister",
         "ia": "ein",
         "da": "der",
-        "p": "Meister in waffenloser Kampfkunst",
-        "pd": "Meister in waffenloser Kampfkunst",
+        "p": "waffenloser-Meister Kampfkunst",
+        "pd": "waffenloser-Meister Kampfkunst",
         "pia": "\\d",
         "pda": "die",
         "description": ""
@@ -6237,7 +6237,7 @@
         "description": ""
     },
     "sfr1a": {
-        "name": "Fortgeschrittener im Einhand-Fernkampf",
+        "name": "Erfahren  im Fernkampf",
         "named": "Fortgeschrittener im Einhand-Fernkampf",
         "ia": "ein",
         "da": "der",
@@ -6248,23 +6248,23 @@
         "description": ""
     },
     "sfr1ab": {
-        "name": "Bogenpistolenbeherrschung",
-        "named": "Bogenpistolenbeherrschung",
+        "name": "Bogenpistole",
+        "named": "Bogenpistolen",
         "ia": "eine",
         "da": "die",
-        "p": "Bogenpistolenbeherrschungen",
-        "pd": "Bogenpistolenbeherrschungen",
+        "p": "Bogenpistolenen",
+        "pd": "Bogenpistolenen",
         "pia": "\\d",
         "pda": "die",
         "description": ""
     },
     "sfr1abm": {
-        "name": "Meister in Bogenpistolenbeherrschung",
-        "named": "Meister in Bogenpistolenbeherrschung",
+        "name": "Bogenpistolen-Meister",
+        "named": "Bogenpistolen-Meister",
         "ia": "ein",
         "da": "der",
-        "p": "Meister in Bogenpistolenbeherrschung",
-        "pd": "Meister in Bogenpistolenbeherrschung",
+        "p": "Bogenpistolen-Meister",
+        "pd": "Bogenpistolen-Meister",
         "pia": "\\d",
         "pda": "die",
         "description": ""
@@ -6281,12 +6281,12 @@
         "description": ""
     },
     "sfr1ap": {
-        "name": "Pistolenbeherrschung",
-        "named": "Pistolenbeherrschung",
+        "name": "Pistole",
+        "named": "Pistolen",
         "ia": "eine",
         "da": "die",
-        "p": "Pistolenbeherrschungen",
-        "pd": "Pistolenbeherrschungen",
+        "p": "Pistolenen",
+        "pd": "Pistolenen",
         "pia": "\\d",
         "pda": "die",
         "description": ""
@@ -6303,12 +6303,12 @@
         "description": ""
     },
     "sfr1apm": {
-        "name": "Meister in Pistolenbeherrschung",
-        "named": "Meister in Pistolenbeherrschung",
+        "name": "Pistolen-Meister",
+        "named": "Pistolen-Meister",
         "ia": "ein",
         "da": "der",
-        "p": "Meister in Pistolenbeherrschung",
-        "pd": "Meister in Pistolenbeherrschung",
+        "p": "Pistolen-Meister",
+        "pd": "Pistolen-Meister",
         "pia": "\\d",
         "pda": "die",
         "description": ""
@@ -6325,7 +6325,7 @@
         "description": ""
     },
     "sfr2a": {
-        "name": "Fortgeschrittener im Zweihand-Fernkampf",
+        "name": "Erfahren im Fernkampf",
         "named": "Fortgeschrittener im Zweihand-Fernkampf",
         "ia": "ein",
         "da": "der",
@@ -6336,12 +6336,12 @@
         "description": ""
     },
     "sfr2aa": {
-        "name": "Automatikgewehrbeherrschung",
-        "named": "Automatikgewehrbeherrschung",
+        "name": "Automatikgewehr",
+        "named": "Automatikgewehr",
         "ia": "eine",
         "da": "die",
-        "p": "Automatikgewehrbeherrschungen",
-        "pd": "Automatikgewehrbeherrschungen",
+        "p": "Automatikgewehren",
+        "pd": "Automatikgewehren",
         "pia": "\\d",
         "pda": "die",
         "description": ""
@@ -6358,23 +6358,23 @@
         "description": ""
     },
     "sfr2aam": {
-        "name": "Meister in Automatikgewehrbeherrschung",
-        "named": "Meister in Automatikgewehrbeherrschung",
+        "name": "Automatikgewehr-Meister",
+        "named": "Automatikgewehr-Meister",
         "ia": "ein",
         "da": "der",
-        "p": "Meister in Automatikgewehrbeherrschung",
-        "pd": "Meister in Automatikgewehrbeherrschung",
+        "p": "Automatikgewehr-Meister",
+        "pd": "Automatikgewehr-Meister",
         "pia": "\\d",
         "pda": "die",
         "description": ""
     },
     "sfr2ab": {
-        "name": "Bogengewehrbeherrschung",
-        "named": "Bogengewehrbeherrschung",
+        "name": "Bogengewehr",
+        "named": "Bogengewehr",
         "ia": "eine",
         "da": "die",
-        "p": "Bogengewehrbeherrschungen",
-        "pd": "Bogengewehrbeherrschungen",
+        "p": "Bogengewehren",
+        "pd": "Bogengewehren",
         "pia": "\\d",
         "pda": "die",
         "description": ""
@@ -6391,67 +6391,67 @@
         "description": ""
     },
     "sfr2abm": {
-        "name": "Meister in Bogengewehrbeherrschung",
-        "named": "Meister in Bogengewehrbeherrschung",
+        "name": "Bogengewehr-Meister",
+        "named": "Bogengewehr-Meister",
         "ia": "ein",
         "da": "der",
-        "p": "Meister in Bogengewehrbeherrschung",
-        "pd": "Meister in Bogengewehrbeherrschung",
+        "p": "Bogengewehr-Meister",
+        "pd": "Bogengewehr-Meister",
         "pia": "\\d",
         "pda": "die",
         "description": ""
     },
     "sfr2al": {
-        "name": "Raketenwerferbeherrschung",
-        "named": "Raketenwerferbeherrschung",
+        "name": "Granatenwerfer",
+        "named": "Granatenwerfer",
         "ia": "eine",
         "da": "die",
-        "p": "Raketenwerferbeherrschungen",
-        "pd": "Raketenwerferbeherrschungen",
+        "p": "Granatenwerferen",
+        "pd": "Granatenwerferen",
         "pia": "\\d",
         "pda": "die",
         "description": ""
     },
     "sfr2alb": {
-        "name": "Beherrschung des brennenden Raketenwerfers",
-        "named": "Beherrschung des brennenden Raketenwerfers",
+        "name": "Beherrschung des brennenden Granatenwerfers",
+        "named": "Beherrschung des brennenden Granatenwerfers",
         "ia": "eine",
         "da": "die",
-        "p": "Beherrschungen des brennenden Raketenwerfers",
-        "pd": "Beherrschungen des brennenden Raketenwerfers",
+        "p": "Beherrschungen des brennenden Granatenwerfers",
+        "pd": "Beherrschungen des brennenden Granatenwerfers",
         "pia": "\\d",
         "pda": "die",
         "description": ""
     },
     "sfr2ale": {
-        "name": "Beherrschung des elektrischen Raketenwerfers",
-        "named": "Beherrschung des elektrischen Raketenwerfers",
+        "name": "Beherrschung des elektrischen Granatenwerfers",
+        "named": "Beherrschung des elektrischen Granatenwerfers",
         "ia": "eine",
         "da": "die",
-        "p": "Beherrschungen des elektrischen Raketenwerfers",
-        "pd": "Beherrschungen des elektrischen Raketenwerfers",
+        "p": "Beherrschungen des elektrischen Granatenwerfers",
+        "pd": "Beherrschungen des elektrischen Granatenwerfers",
         "pia": "\\d",
         "pda": "die",
         "description": ""
     },
     "sfr2alm": {
-        "name": "Meister in Raketenwerferbeherrschung",
-        "named": "Meister in Raketenwerferbeherrschung",
+        "name": "Granatenwerfer-Meister",
+        "named": "Granatenwerfer-Meister",
         "ia": "ein",
         "da": "der",
-        "p": "Meister in Raketenwerferbeherrschung",
-        "pd": "Meister in Raketenwerferbeherrschung",
+        "p": "Granatenwerfer-Meister",
+        "pd": "Granatenwerfer-Meister",
         "pia": "\\d",
         "pda": "die",
         "description": ""
     },
     "sfr2ar": {
-        "name": "Gewehrbeherrschung",
-        "named": "Gewehrbeherrschung",
+        "name": "Gewehr",
+        "named": "Gewehr",
         "ia": "eine",
         "da": "die",
-        "p": "Gewehrbeherrschungen",
-        "pd": "Gewehrbeherrschungen",
+        "p": "Gewehren",
+        "pd": "Gewehren",
         "pia": "\\d",
         "pda": "die",
         "description": ""
@@ -6468,12 +6468,12 @@
         "description": ""
     },
     "sfr2arm": {
-        "name": "Meister in Gewehrbeherrschung",
-        "named": "Meister in Gewehrbeherrschung",
+        "name": "Gewehr-Meister",
+        "named": "Gewehr-Meister",
         "ia": "ein",
         "da": "der",
-        "p": "Meister in Gewehrbeherrschung",
-        "pd": "Meister in Gewehrbeherrschung",
+        "p": "Gewehr-Meister",
+        "pd": "Gewehr-Meister",
         "pia": "\\d",
         "pda": "die",
         "description": ""
@@ -6501,8 +6501,8 @@
         "description": "Schmuck-Herstellung"
     },
     "scm": {
-        "name": "Nahkampfwaffenherstellung",
-        "named": "Nahkampfwaffenherstellung",
+        "name": "Nahkampfwaffen",
+        "named": "Nahkampfwaffen",
         "ia": "eine",
         "da": "die",
         "p": "Nahkampfwaffenherstellungen",
@@ -6512,8 +6512,8 @@
         "description": "Nahkampfwaffen-Herstellung"
     },
     "scr": {
-        "name": "Fernkampfwaffenherstellung",
-        "named": "Fernkampfwaffenherstellung",
+        "name": "Fernkampfwaffen",
+        "named": "Fernkampfwaffen",
         "ia": "eine",
         "da": "die",
         "p": "Fernkampfwaffenherstellungen",
@@ -6523,8 +6523,8 @@
         "description": "Fernkampfwaffen-Herstellung"
     },
     "scah": {
-        "name": "Herstellung schwerer Rüstungen",
-        "named": "Herstellung schwerer Rüstungen",
+        "name": "Schwere Rüstungen",
+        "named": "Schwere Rüstungen",
         "ia": "eine",
         "da": "die",
         "p": "Herstellungen schwerer Rüstungen",
@@ -6534,8 +6534,8 @@
         "description": "Schwere Rüstungs-Herstellung"
     },
     "scal": {
-        "name": "Herstellung leichter Rüstungen",
-        "named": "Herstellung leichter Rüstungen",
+        "name": "Leichte Rüstungen",
+        "named": "Leichte Rüstungen",
         "ia": "eine",
         "da": "die",
         "p": "Herstellungen leichter Rüstungen",
@@ -6545,8 +6545,8 @@
         "description": "Leichte Rüstungs-Herstellung"
     },
     "scam": {
-        "name": "Herstellung mittelschwerer Rüstungen",
-        "named": "Herstellung mittelschwerer Rüstungen",
+        "name": "Mittelschwere Rüstungen",
+        "named": "Mittelschwere Rüstungen",
         "ia": "eine",
         "da": "die",
         "p": "Herstellungen mittelschwerer Rüstungen",
@@ -6556,8 +6556,8 @@
         "description": "Mittelschwere Rüstungs-Herstellung"
     },
     "scas": {
-        "name": "Schildherstellung",
-        "named": "Schildherstellung",
+        "name": "Schild",
+        "named": "Schild",
         "ia": "eine",
         "da": "die",
         "p": "Schildherstellungen",
@@ -6567,8 +6567,8 @@
         "description": "Schild-Herstellung"
     },
     "scja": {
-        "name": "Fußringherstellung",
-        "named": "Fußringherstellung",
+        "name": "Fußring",
+        "named": "Fußring",
         "ia": "eine",
         "da": "die",
         "p": "Fußringherstellungen",
@@ -6578,8 +6578,8 @@
         "description": "Fußring-Herstellung"
     },
     "scjb": {
-        "name": "Armbandherstellung",
-        "named": "Armbandherstellung",
+        "name": "Armband",
+        "named": "Armband",
         "ia": "eine",
         "da": "die",
         "p": "Armbandherstellungen",
@@ -6589,8 +6589,8 @@
         "description": "Armband-Herstellung"
     },
     "scjd": {
-        "name": "Diademherstellung",
-        "named": "Diademherstellung",
+        "name": "Diadem",
+        "named": "Diadem",
         "ia": "eine",
         "da": "die",
         "p": "Diademherstellungen",
@@ -6600,8 +6600,8 @@
         "description": "Diadem-Herstellung"
     },
     "scje": {
-        "name": "Ohrringherstellung",
-        "named": "Ohrringherstellung",
+        "name": "Ohrring",
+        "named": "Ohrring",
         "ia": "eine",
         "da": "die",
         "p": "Ohrringherstellungen",
@@ -6611,8 +6611,8 @@
         "description": "Ohrring-Herstellung"
     },
     "scjp": {
-        "name": "Anhängerherstellung",
-        "named": "Anhängerherstellung",
+        "name": "Anhänger",
+        "named": "Anhänger",
         "ia": "eine",
         "da": "die",
         "p": "Anhängerherstellungen",
@@ -6622,8 +6622,8 @@
         "description": "Anhänger-Herstellung"
     },
     "scjr": {
-        "name": "Ringherstellung",
-        "named": "Ringherstellung",
+        "name": "Ring",
+        "named": "Ring",
         "ia": "eine",
         "da": "die",
         "p": "Ringherstellungen",
@@ -6633,8 +6633,8 @@
         "description": "Ring-Herstellung"
     },
     "scm1": {
-        "name": "Herstellung einhändiger Nahkampfwaffen",
-        "named": "Herstellung einhändiger Nahkampfwaffen",
+        "name": "Einhändige Nahkampfwaffen",
+        "named": "einhändiger Nahkampfwaffen",
         "ia": "eine",
         "da": "die",
         "p": "Herstellungen einhändiger Nahkampfwaffen",
@@ -6644,8 +6644,8 @@
         "description": "Einhand-Nahkampfwaffen Herstellung"
     },
     "scm2": {
-        "name": "Herstellung zweihändiger Nahkampfwaffen",
-        "named": "Herstellung zweihändiger Nahkampfwaffen",
+        "name": "Zweihändige Nahkampfwaffen",
+        "named": "zweihändiger Nahkampfwaffen",
         "ia": "eine",
         "da": "die",
         "p": "Herstellungen zweihändiger Nahkampfwaffen",
@@ -6655,8 +6655,8 @@
         "description": "Zweihand-Nahkampfwaffen Herstellung"
     },
     "scr1": {
-        "name": "Herstellung einhändiger Fernkampfwaffen",
-        "named": "Herstellung einhändiger Fernkampfwaffen",
+        "name": "Einhändige Fernkampfwaffen",
+        "named": "einhändiger Fernkampfwaffen",
         "ia": "eine",
         "da": "die",
         "p": "Herstellungen einhändiger Fernkampfwaffen",
@@ -6666,8 +6666,8 @@
         "description": "Einhand-Fernkampfwaffen Herstellung"
     },
     "scr2": {
-        "name": "Herstellung zweihändiger Fernkampfwaffen",
-        "named": "Herstellung zweihändiger Fernkampfwaffen",
+        "name": "Zweihändige Fernkampfwaffen",
+        "named": "zweihändiger Fernkampfwaffen",
         "ia": "eine",
         "da": "die",
         "p": "Herstellungen zweihändiger Fernkampfwaffen",
@@ -6677,8 +6677,8 @@
         "description": "Zweihand-Fernkampfwaffen-Herstellung"
     },
     "scahb": {
-        "name": "Herstellung schwerer Stiefel",
-        "named": "Herstellung schwerer Stiefel",
+        "name": "Schwere Stiefel",
+        "named": "schwerer Stiefel",
         "ia": "eine",
         "da": "die",
         "p": "Herstellungen schwerer Stiefel",
@@ -6688,8 +6688,8 @@
         "description": "Schwere Stiefel-Herstellung"
     },
     "scahg": {
-        "name": "Herstellung schwerer Handschuhe",
-        "named": "Herstellung schwerer Handschuhe",
+        "name": "Schwere Handschuhe",
+        "named": "schwerer Handschuhe",
         "ia": "eine",
         "da": "die",
         "p": "Herstellungen schwerer Handschuhe",
@@ -6699,8 +6699,8 @@
         "description": "Schwere Handschuhe-Herstellung"
     },
     "scahh": {
-        "name": "Herstellung schwerer Helme",
-        "named": "Herstellung schwerer Helme",
+        "name": "Schwere Helme",
+        "named": "schwerer Helme",
         "ia": "eine",
         "da": "die",
         "p": "Herstellungen schwerer Helme",
@@ -6710,8 +6710,8 @@
         "description": "Schwere Helm-Herstellung"
     },
     "scahp": {
-        "name": "Herstellung schwerer Hosen",
-        "named": "Herstellung schwerer Hosen",
+        "name": "Schwere Hosen",
+        "named": "schwerer Hosen",
         "ia": "eine",
         "da": "die",
         "p": "Herstellungen schwerer Hosen",
@@ -6721,8 +6721,8 @@
         "description": "Schwere Hosen-Herstellung"
     },
     "scahs": {
-        "name": "Herstellung schwerer Armschützer",
-        "named": "Herstellung schwerer Armschützer",
+        "name": "Schwere Armschützer",
+        "named": "schwerer Armschützer",
         "ia": "eine",
         "da": "die",
         "p": "Herstellungen schwerer Armschützer",
@@ -6732,8 +6732,8 @@
         "description": "Schwere Armschützer-Herstellung"
     },
     "scahv": {
-        "name": "Herstellung schwerer Westen",
-        "named": "Herstellung schwerer Westen",
+        "name": "Schwere Westen",
+        "named": "schwerer Westen",
         "ia": "eine",
         "da": "die",
         "p": "Herstellungen schwerer Westen",
@@ -6743,8 +6743,8 @@
         "description": "Schwere Westen-Herstellung"
     },
     "scalb": {
-        "name": "Herstellung leichter Stiefel",
-        "named": "Herstellung leichter Stiefel",
+        "name": "Leichte Stiefel",
+        "named": "leichter Stiefel",
         "ia": "eine",
         "da": "die",
         "p": "Herstellungen leichter Stiefel",
@@ -6754,8 +6754,8 @@
         "description": "Leichte Stiefel-Herstellung"
     },
     "scalg": {
-        "name": "Herstellung leichter Handschuhe",
-        "named": "Herstellung leichter Handschuhe",
+        "name": "Leichte Handschuhe",
+        "named": "leichter Handschuhe",
         "ia": "eine",
         "da": "die",
         "p": "Herstellungen leichter Handschuhe",
@@ -6765,8 +6765,8 @@
         "description": "Leichte Handschuhe-Herstellung"
     },
     "scalp": {
-        "name": "Herstellung leichter Hosen",
-        "named": "Herstellung leichter Hosen",
+        "name": "Leichte Hosen",
+        "named": "leichter Hosen",
         "ia": "eine",
         "da": "die",
         "p": "Herstellungen leichter Hosen",
@@ -6776,8 +6776,8 @@
         "description": "Leichte Hosen-Herstellung"
     },
     "scals": {
-        "name": "Herstellung leichter Armschützer",
-        "named": "Herstellung leichter Armschützer",
+        "name": "Leichte Armschützer",
+        "named": "leichter Armschützer",
         "ia": "eine",
         "da": "die",
         "p": "Herstellungen leichter Armschützer",
@@ -6787,8 +6787,8 @@
         "description": "Leichte Armschützer-Herstellung"
     },
     "scalv": {
-        "name": "Herstellung leichter Westen",
-        "named": "Herstellung leichter Westen",
+        "name": "Leichte Westen",
+        "named": "leichter Westen",
         "ia": "eine",
         "da": "die",
         "p": "Herstellungen leichter Westen",
@@ -6798,8 +6798,8 @@
         "description": "Leichte Westen-Herstellung"
     },
     "scamb": {
-        "name": "Herstellung mittelschwerer Stiefel",
-        "named": "Herstellung mittelschwerer Stiefel",
+        "name": "Mittelschwere Stiefel",
+        "named": "mittelschwerer Stiefel",
         "ia": "eine",
         "da": "die",
         "p": "Herstellungen mittelschwerer Stiefel",
@@ -6809,8 +6809,8 @@
         "description": "Mittelschwere Stiefel-Herstellung"
     },
     "scamg": {
-        "name": "Herstellung mittelschwerer Handschuhe",
-        "named": "Herstellung mittelschwerer Handschuhe",
+        "name": "Mittelschwere Handschuhe",
+        "named": "mittelschwerer Handschuhe",
         "ia": "eine",
         "da": "die",
         "p": "Herstellungen mittelschwerer Handschuhe",
@@ -6820,8 +6820,8 @@
         "description": "Mittelschwere Handschuhe-Herstellung"
     },
     "scamp": {
-        "name": "Herstellung mittelschwerer Hosen",
-        "named": "Herstellung mittelschwerer Hosen",
+        "name": "Mittelschwere Hosen",
+        "named": "mittelschwerer Hosen",
         "ia": "eine",
         "da": "die",
         "p": "Herstellungen mittelschwerer Hosen",
@@ -6831,8 +6831,8 @@
         "description": "Mittelschwere Hosen-Herstellung"
     },
     "scams": {
-        "name": "Herstellung mittelschwerer Armschützer",
-        "named": "Herstellung mittelschwerer Armschützer",
+        "name": "Mittelschwere Armschützer",
+        "named": "mittelschwerer Armschützer",
         "ia": "eine",
         "da": "die",
         "p": "Herstellungen mittelschwerer Armschützer",
@@ -6842,8 +6842,8 @@
         "description": "Mittelschwere Armschützer-Herstellung"
     },
     "scamv": {
-        "name": "Herstellung mittelschwerer Westen",
-        "named": "Herstellung mittelschwerer Westen",
+        "name": "Mittelschwere Westen",
+        "named": "mittelschwerer Westen",
         "ia": "eine",
         "da": "die",
         "p": "Herstellungen mittelschwerer Westen",
@@ -6853,8 +6853,8 @@
         "description": "Mittelschwere Westen-Herstellung"
     },
     "scass": {
-        "name": "Herstellung großer Schilde",
-        "named": "Herstellung großer Schilde",
+        "name": "Große Schilde",
+        "named": "großer Schilde",
         "ia": "eine",
         "da": "die",
         "p": "Herstellungen großer Schilde",
@@ -6864,7 +6864,7 @@
         "description": "Große Schilde-Herstellung"
     },
     "scasb": {
-        "name": "Beschützerherstellung",
+        "name": "Beschützer",
         "named": "Beschützerherstellung",
         "ia": "eine",
         "da": "die",
@@ -6875,8 +6875,8 @@
         "description": "Beschützer-Herstellung"
     },
     "scjaa": {
-        "name": "Fortgeschrittener in Fußringherstellung",
-        "named": "Fortgeschrittener in Fußringherstellung",
+        "name": "Erfahren im Fußring",
+        "named": "Fortgeschrittene Fußringherstellung",
         "ia": "eine",
         "da": "die",
         "p": "Fortgeschrittene in Fußringherstellung",
@@ -6886,8 +6886,8 @@
         "description": "Verbesserte Fußring-Herstellung"
     },
     "scjba": {
-        "name": "Fortgeschrittener in Armbandherstellung",
-        "named": "Fortgeschrittener in Armbandherstellung",
+        "name": "Erfahren im Armband",
+        "named": "Fortgeschrittene Armbandherstellung",
         "ia": "eine",
         "da": "die",
         "p": "Fortgeschrittene in Armbandherstellung",
@@ -6897,8 +6897,8 @@
         "description": "Verbesserte Armband-Herstellung"
     },
     "scjda": {
-        "name": "Fortgeschrittener in Diademherstellung",
-        "named": "Fortgeschrittener in Diademherstellung",
+        "name": "Erfahren im Diadem",
+        "named": "Fortgeschrittene Diademherstellung",
         "ia": "eine",
         "da": "die",
         "p": "Fortgeschrittene in Diademherstellung",
@@ -6908,8 +6908,8 @@
         "description": "Verbesserte Diadem-Herstellung"
     },
     "scjea": {
-        "name": "Fortgeschrittener in Ohrringsherstellung",
-        "named": "Fortgeschrittener in Ohrringsherstellung",
+        "name": "Erfahren im Ohrrings",
+        "named": "Fortgeschrittene Ohrringsherstellung",
         "ia": "eine",
         "da": "die",
         "p": "Fortgeschrittene in Ohrringsherstellung",
@@ -6919,8 +6919,8 @@
         "description": "Verbesserte Ohrring-Herstellung"
     },
     "scjpa": {
-        "name": "Fortgeschrittener in Anhängerherstellung",
-        "named": "Fortgeschrittener in Anhängerherstellung",
+        "name": "Erfahren im Anhänger",
+        "named": "Fortgeschrittene Anhängerherstellung",
         "ia": "eine",
         "da": "die",
         "p": "Fortgeschrittene in Anhängerherstellung",
@@ -6930,8 +6930,8 @@
         "description": "Verbesserte Anhänger-Herstellung"
     },
     "scjra": {
-        "name": "Fortgeschrittener in Ringherstellung",
-        "named": "Fortgeschrittener in Ringherstellung",
+        "name": "Erfahren im Ring",
+        "named": "Fortgeschrittene Ringherstellung",
         "ia": "eine",
         "da": "die",
         "p": "Fortgeschrittene in Ringherstellung",
@@ -6941,7 +6941,7 @@
         "description": "Verbesserte Ring-Herstellung"
     },
     "scm1m": {
-        "name": "Streitkolben-Herstellung",
+        "name": "Streitkolben",
         "named": "Streitkolben-Herstellung",
         "ia": "eine",
         "da": "die",
@@ -6952,7 +6952,7 @@
         "description": "Streitkolben-Herstellung"
     },
     "scm1t": {
-        "name": "Stabherstellung",
+        "name": "Stab",
         "named": "Stabherstellung",
         "ia": "eine",
         "da": "die",
@@ -6963,7 +6963,7 @@
         "description": "Stab-Herstellung"
     },
     "scm1p": {
-        "name": "Lanzenherstellung",
+        "name": "Lanzen",
         "named": "Lanzenherstellung",
         "ia": "eine",
         "da": "die",
@@ -6974,7 +6974,7 @@
         "description": "Lanzen-\/Speer-Herstellung"
     },
     "scm1a": {
-        "name": "Axtherstellung",
+        "name": "Axt",
         "named": "Axtherstellung",
         "ia": "eine",
         "da": "die",
@@ -6985,7 +6985,7 @@
         "description": "Axt-Herstellung"
     },
     "scm1s": {
-        "name": "Schwertherstellung",
+        "name": "Schwert",
         "named": "Schwertherstellung",
         "ia": "eine",
         "da": "die",
@@ -6996,7 +6996,7 @@
         "description": "Schwert-Herstellung"
     },
     "scm1d": {
-        "name": "Dolchherstellung",
+        "name": "Dolch",
         "named": "Dolchherstellung",
         "ia": "eine",
         "da": "die",
@@ -7007,7 +7007,7 @@
         "description": "Dolch-Herstellung"
     },
     "scm2m": {
-        "name": "Zweihand-Streitkolben-Herstellung",
+        "name": "Zweihand-Streitkolben",
         "named": "Zweihand-Streitkolben-Herstellung",
         "ia": "eine",
         "da": "die",
@@ -7018,7 +7018,7 @@
         "description": "Zweihand Streitkolben-Herstellung"
     },
     "scm2p": {
-        "name": "Pikenherstellung",
+        "name": "Pike",
         "named": "Pikenherstellung",
         "ia": "eine",
         "da": "die",
@@ -7029,7 +7029,7 @@
         "description": "Piken-Herstellung"
     },
     "scm2a": {
-        "name": "Zweihand-Axt-Herstellung",
+        "name": "Zweihand-Axt",
         "named": "Zweihand-Axt-Herstellung",
         "ia": "eine",
         "da": "die",
@@ -7040,7 +7040,7 @@
         "description": "Zweihand-Axt-Herstellung"
     },
     "scm2s": {
-        "name": "Zweihand-Schwert-Herstellung",
+        "name": "Zweihand-Schwert",
         "named": "Zweihand-Schwert-Herstellung",
         "ia": "eine",
         "da": "die",
@@ -7051,7 +7051,7 @@
         "description": "Zweihand-Schwert-Herstellung"
     },
     "scr1b": {
-        "name": "Bogenpistolenherstellung",
+        "name": "Bogenpistole",
         "named": "Bogenpistolenherstellung",
         "ia": "eine",
         "da": "die",
@@ -7062,7 +7062,7 @@
         "description": "Bogenpistolen-Herstellung"
     },
     "scr1p": {
-        "name": "Pistolenherstellung",
+        "name": "Pistole",
         "named": "Pistolenherstellung",
         "ia": "eine",
         "da": "die",
@@ -7073,7 +7073,7 @@
         "description": "Pistolen-Herstellung"
     },
     "scr2a": {
-        "name": "Automatikgewehr-Herstellung",
+        "name": "Automatikgewehr",
         "named": "Automatikgewehr-Herstellung",
         "ia": "eine",
         "da": "die",
@@ -7084,7 +7084,7 @@
         "description": "Automatikgewehr-Herstellung"
     },
     "scr2b": {
-        "name": "Bogengewehr-Herstellung",
+        "name": "Bogengewehr",
         "named": "Bogengewehr-Herstellung",
         "ia": "eine",
         "da": "die",
@@ -7095,18 +7095,18 @@
         "description": "Bogengewehr-Herstellung"
     },
     "scr2l": {
-        "name": "Raketenwerfer-Herstellung",
-        "named": "Raketenwerfer-Herstellung",
+        "name": "Granatenwerfer",
+        "named": "Granatenwerfer-Herstellung",
         "ia": "eine",
         "da": "die",
-        "p": "Raketenwerfer-Herstellungen",
-        "pd": "Raketenwerfer-Herstellungen",
+        "p": "Granatenwerfer-Herstellungen",
+        "pd": "Granatenwerfer-Herstellungen",
         "pia": "\\d",
         "pda": "die",
-        "description": "Raketenwerfer-Herstellung"
+        "description": "Granatenwerfer-Herstellung"
     },
     "scr2r": {
-        "name": "Gewehrherstellung",
+        "name": "Gewehr",
         "named": "Gewehrherstellung",
         "ia": "eine",
         "da": "die",
@@ -7117,7 +7117,7 @@
         "description": "Gewehr-Herstellung"
     },
     "scahbe": {
-        "name": "Experte in der Herstellung schwerer Stiefel",
+        "name": "Experte schwerer Stiefel",
         "named": "Experte in der Herstellung schwerer Stiefel",
         "ia": "ein",
         "da": "der",
@@ -7128,7 +7128,7 @@
         "description": "Fachmännische Schwere Stiefel-Herstellung"
     },
     "scahge": {
-        "name": "Experte in der Herstellung schwerer Handschuhe",
+        "name": "Experte schwerer Handschuhe",
         "named": "Experte in der Herstellung schwerer Handschuhe",
         "ia": "ein",
         "da": "der",
@@ -7139,7 +7139,7 @@
         "description": "Fachmännische Schwere Handschuh-Herstellung"
     },
     "scahhe": {
-        "name": "Experte in der Herstellung schwerer Helme",
+        "name": "Experte schwerer Helme",
         "named": "Experte in der Herstellung schwerer Helme",
         "ia": "ein",
         "da": "der",
@@ -7150,7 +7150,7 @@
         "description": "Fachmännische Schwere Helm-Herstellung"
     },
     "scahpe": {
-        "name": "Experte in der Herstellung schwerer Hosen",
+        "name": "Experte schwerer Hosen",
         "named": "Experte in der Herstellung schwerer Hosen",
         "ia": "ein",
         "da": "der",
@@ -7161,7 +7161,7 @@
         "description": "Fachmännische Schwere Hosen-Herstellung"
     },
     "scahse": {
-        "name": "Experte in der Herstellung schwerer Armschützer",
+        "name": "Experte schwerer Armschützer",
         "named": "Experte in der Herstellung schwerer Armschützer",
         "ia": "ein",
         "da": "der",
@@ -7172,7 +7172,7 @@
         "description": "Fachmännische Schwere Armschützer-Herstellung"
     },
     "scahve": {
-        "name": "Experte in der Herstellung schwerer Westen",
+        "name": "Experte schwerer Westen",
         "named": "Experte in der Herstellung schwerer Westen",
         "ia": "ein",
         "da": "der",
@@ -7183,7 +7183,7 @@
         "description": "Fachmännische Schwere Westen-Herstellung"
     },
     "scalbe": {
-        "name": "Experte in der Herstellung leichter Stiefel",
+        "name": "Experte leichter Stiefel",
         "named": "Experte in der Herstellung leichter Stiefel",
         "ia": "ein",
         "da": "der",
@@ -7194,7 +7194,7 @@
         "description": "Fachmännische Leichte Stiefel-Herstellung"
     },
     "scalge": {
-        "name": "Experte in der Herstellung leichter Handschuhe",
+        "name": "Experte leichter Handschuhe",
         "named": "Experte in der Herstellung leichter Handschuhe",
         "ia": "ein",
         "da": "der",
@@ -7205,7 +7205,7 @@
         "description": "Fachmännische Leichte Handschuh-Herstellung"
     },
     "scalpe": {
-        "name": "Experte in der Herstellung leichter Hosen",
+        "name": "Experte leichter Hosen",
         "named": "Experte in der Herstellung leichter Hosen",
         "ia": "ein",
         "da": "der",
@@ -7216,7 +7216,7 @@
         "description": "Fachmännische Leichte Hosen-Herstellung"
     },
     "scalse": {
-        "name": "Experte in der Herstellung leichter Armschützer",
+        "name": "Experte leichter Armschützer",
         "named": "Experte in der Herstellung leichter Armschützer",
         "ia": "ein",
         "da": "der",
@@ -7227,7 +7227,7 @@
         "description": "Fachmännische Leichte Armschützer-Herstellung"
     },
     "scalve": {
-        "name": "Experte in der Herstellung leichter Westen",
+        "name": "Experte leichter Westen",
         "named": "Experte in der Herstellung leichter Westen",
         "ia": "ein",
         "da": "der",
@@ -7238,7 +7238,7 @@
         "description": "Fachmännische Leichte Westen-Herstellung"
     },
     "scambe": {
-        "name": "Experte in der Herstellung mittelschwerer Stiefel",
+        "name": "Experte mittlerer Stiefel",
         "named": "Experte in der Herstellung mittelschwerer Stiefel",
         "ia": "ein",
         "da": "der",
@@ -7249,7 +7249,7 @@
         "description": "Fachmännische Mittelschwere Stiefel-Herstellung"
     },
     "scamge": {
-        "name": "Experte in der Herstellung mittelschwerer Handschuhe",
+        "name": "Experte mittlerer Handschuhe",
         "named": "Experte in der Herstellung mittelschwerer Handschuhe",
         "ia": "ein",
         "da": "der",
@@ -7260,7 +7260,7 @@
         "description": "Fachmännische Mittelschwere Handschuh-Herstellung"
     },
     "scampe": {
-        "name": "Experte in der Herstellung mittelschwerer Hosen",
+        "name": "Experte mittlerer Hosen",
         "named": "Experte in der Herstellung mittelschwerer Hosen",
         "ia": "ein",
         "da": "der",
@@ -7271,7 +7271,7 @@
         "description": "Fachmännische Mittelschwere Hosen-Herstellung"
     },
     "scamse": {
-        "name": "Experte in der Herstellung mittelschwerer Armschützer",
+        "name": "Experte mittlerer Armschützer",
         "named": "Experte in der Herstellung mittelschwerer Armschützer",
         "ia": "ein",
         "da": "der",
@@ -7282,7 +7282,7 @@
         "description": "Fachmännische Mittelschwere Armschützer-Herstellung"
     },
     "scamve": {
-        "name": "Experte in der Herstellung mittelschwerer Westen",
+        "name": "Experte mittlerer Westen",
         "named": "Experte in der Herstellung mittelschwerer Westen",
         "ia": "ein",
         "da": "der",
@@ -7293,7 +7293,7 @@
         "description": "Fachmännische Mittelschwere Westen-Herstellung"
     },
     "scasse": {
-        "name": "Experte in der Schildherstellung",
+        "name": "Experte im Schild",
         "named": "Experte in der Schildherstellung",
         "ia": "ein",
         "da": "der",
@@ -7304,7 +7304,7 @@
         "description": "Fachmännische Schild-Herstellung"
     },
     "scasbe": {
-        "name": "Experte in der Beschützerherstellung",
+        "name": "Experte im Beschützer",
         "named": "Experte in der Beschützerherstellung",
         "ia": "ein",
         "da": "der",
@@ -7315,7 +7315,7 @@
         "description": "Fachmännische Beschützer-Herstellung"
     },
     "scjaae": {
-        "name": "Experte in der Fußringherstellung",
+        "name": "Experte im Fußring",
         "named": "Experte in der Fußringherstellung",
         "ia": "ein",
         "da": "der",
@@ -7326,7 +7326,7 @@
         "description": "Fachmännische Fußring-Herstellung"
     },
     "scjbae": {
-        "name": "Experte in der Armbandherstellung",
+        "name": "Experte im Armband",
         "named": "Experte in der Armbandherstellung",
         "ia": "ein",
         "da": "der",
@@ -7337,7 +7337,7 @@
         "description": "Fachmännische Armband-Herstellung"
     },
     "scjdae": {
-        "name": "Experte in der Diademherstellung",
+        "name": "Experte im Diadem",
         "named": "Experte in der Diademherstellung",
         "ia": "ein",
         "da": "der",
@@ -7348,7 +7348,7 @@
         "description": "Fachmännische Diadem-Herstellung"
     },
     "scjeae": {
-        "name": "Experte in der Ohrringsherstellung",
+        "name": "Experte im Ohrring",
         "named": "Experte in der Ohrringsherstellung",
         "ia": "ein",
         "da": "der",
@@ -7359,7 +7359,7 @@
         "description": "Fachmännische Ohrring-Herstellung"
     },
     "scjpae": {
-        "name": "Experte in der Anhängerherstellung",
+        "name": "Experte im Anhänger",
         "named": "Experte in der Anhängerherstellung",
         "ia": "ein",
         "da": "der",
@@ -7370,7 +7370,7 @@
         "description": "Fachmännische Anhänger-Herstellung"
     },
     "scjrae": {
-        "name": "Experte in der Ringherstellung",
+        "name": "Experte im Ring",
         "named": "Experte in der Ringherstellung",
         "ia": "ein",
         "da": "der",
@@ -7381,7 +7381,7 @@
         "description": "Fachmännische Ring-Herstellung"
     },
     "scm1me": {
-        "name": "Experte in der Streitkolben-Herstellung",
+        "name": "Experte im Streitkolben",
         "named": "Experte in der Streitkolben-Herstellung",
         "ia": "ein",
         "da": "der",
@@ -7392,7 +7392,7 @@
         "description": "Fachmännische Streitkolben-Herstellung"
     },
     "scm1te": {
-        "name": "Experte in der Stabherstellung",
+        "name": "Experte im Stab",
         "named": "Experte in der Stabherstellung",
         "ia": "ein",
         "da": "der",
@@ -7403,7 +7403,7 @@
         "description": "Fachmännische Stab Herstellung"
     },
     "scm1pe": {
-        "name": "Experte in der Lanzenherstellung",
+        "name": "Experte in Lanze",
         "named": "Experte in der Lanzenherstellung",
         "ia": "ein",
         "da": "der",
@@ -7414,7 +7414,7 @@
         "description": "Fachmännische Lanzen-\/Speer-Herstellung"
     },
     "scm1ae": {
-        "name": "Experte in der Axtherstellung",
+        "name": "Experte im Axt",
         "named": "Experte in der Axtherstellung",
         "ia": "ein",
         "da": "der",
@@ -7425,7 +7425,7 @@
         "description": "Fachmännische Axt Herstellung"
     },
     "scm1se": {
-        "name": "Experte in der Schwertherstellung",
+        "name": "Experte im Schwert",
         "named": "Experte in der Schwertherstellung",
         "ia": "ein",
         "da": "der",
@@ -7436,7 +7436,7 @@
         "description": "Fachmännische Schwert-Herstellung"
     },
     "scm1de": {
-        "name": "Experte in der Dolchherstellung",
+        "name": "Experte im Dolch",
         "named": "Experte in der Dolchherstellung",
         "ia": "ein",
         "da": "der",
@@ -7447,7 +7447,7 @@
         "description": "Fachmännische Dolch Herstellung"
     },
     "scm2me": {
-        "name": "Experte in der Zweihand-Streitkolben-Herstellung",
+        "name": "Experte im Zweihand-Streitkolben",
         "named": "Experte in der Zweihand-Streitkolben-Herstellung",
         "ia": "ein",
         "da": "der",
@@ -7458,7 +7458,7 @@
         "description": "Fachmännische Zweihand-Streitkolben-Herstellung"
     },
     "scm2pe": {
-        "name": "Experte in der Pikenherstellung",
+        "name": "Experte im Piken",
         "named": "Experte in der Pikenherstellung",
         "ia": "ein",
         "da": "der",
@@ -7469,7 +7469,7 @@
         "description": "Fachmännische Pike Herstellung"
     },
     "scm2ae": {
-        "name": "Experte in der Zweihand-Axt-Herstellung",
+        "name": "Experte in Riesenaxt",
         "named": "Experte in der Zweihand-Axt-Herstellung",
         "ia": "ein",
         "da": "der",
@@ -7480,7 +7480,7 @@
         "description": "Fachmännische Zweihand-Axt-Herstellung"
     },
     "scm2se": {
-        "name": "Experte in der Zweihand-Schwert-Herstellung",
+        "name": "Experte i Riesenschwert",
         "named": "Experte in der Zweihand-Schwert-Herstellung",
         "ia": "ein",
         "da": "der",
@@ -7491,7 +7491,7 @@
         "description": "Fachmännische Zweihand-Schwert-Herstellung"
     },
     "scr1be": {
-        "name": "Experte in der Bogenpistolenherstellung",
+        "name": "Experte in Bogenpistole",
         "named": "Experte in der Bogenpistolenherstellung",
         "ia": "ein",
         "da": "der",
@@ -7502,7 +7502,7 @@
         "description": "Fachmännische Bogenpistole Herstellung"
     },
     "scr1pe": {
-        "name": "Experte in der Pistolenherstellung",
+        "name": "Experte im Pistolen",
         "named": "Experte in der Pistolenherstellung",
         "ia": "ein",
         "da": "der",
@@ -7513,7 +7513,7 @@
         "description": "Fachmännische Pistole Herstellung"
     },
     "scr2ae": {
-        "name": "Experte in der Automatikgewehr-Herstellung",
+        "name": "Experte im Automatikgewehr",
         "named": "Experte in der Automatikgewehr-Herstellung",
         "ia": "ein",
         "da": "der",
@@ -7524,7 +7524,7 @@
         "description": "Fachmännische Automatikgewehr-Herstellung"
     },
     "scr2be": {
-        "name": "Experte in der Bogengewehr-Herstellung",
+        "name": "Experte im Bogengewehr",
         "named": "Experte in der Bogengewehr-Herstellung",
         "ia": "ein",
         "da": "der",
@@ -7535,18 +7535,18 @@
         "description": "Fachmännische Bogengewehr Herstellung"
     },
     "scr2le": {
-        "name": "Experte in der Raketenwerfer-Herstellung",
-        "named": "Experte in der Raketenwerfer-Herstellung",
+        "name": "Experte im Granatenwerfer",
+        "named": "Experte in der Granatenwerfer-Herstellung",
         "ia": "ein",
         "da": "der",
-        "p": "Experten in der Raketenwerfer-Herstellung",
-        "pd": "Experten in der Raketenwerfer-Herstellung",
+        "p": "Experten in der Granatenwerfer-Herstellung",
+        "pd": "Experten in der Granatenwerfer-Herstellung",
         "pia": "\\d",
         "pda": "die",
-        "description": "Fachmännische Raketenwerfer-Herstellung"
+        "description": "Fachmännische Granatenwerfer-Herstellung"
     },
     "scr2re": {
-        "name": "Experte in der Gewehrherstellung",
+        "name": "Experte im Gewehr",
         "named": "Experte in der Gewehrherstellung",
         "ia": "ein",
         "da": "der",
@@ -7557,7 +7557,7 @@
         "description": "Fachmännische Gewehr Herstellung"
     },
     "scahbem": {
-        "name": "Meister in der Herstellung schwerer Stiefel",
+        "name": "Meister schwerer Stiefel",
         "named": "Meister in der Herstellung schwerer Stiefel",
         "ia": "ein",
         "da": "der",
@@ -7568,7 +7568,7 @@
         "description": "Meisterliche Schwere Stiefel-Herstellung"
     },
     "scahgem": {
-        "name": "Meister in der Herstellung schwerer Handschuhe",
+        "name": "Meister schwerer Handschuhe",
         "named": "Meister in der Herstellung schwerer Handschuhe",
         "ia": "ein",
         "da": "der",
@@ -7579,7 +7579,7 @@
         "description": "Meisterliche Schwere Handschuh-Herstellung"
     },
     "scahhem": {
-        "name": "Meister in der Herstellung schwerer Helme",
+        "name": "Meister schwerer Helme",
         "named": "Meister in der Herstellung schwerer Helme",
         "ia": "ein",
         "da": "der",
@@ -7590,7 +7590,7 @@
         "description": "Meisterliche Schwere Helm-Herstellung"
     },
     "scahpem": {
-        "name": "Meister in der Herstellung schwerer Hosen",
+        "name": "Meister schwerer Hosen",
         "named": "Meister in der Herstellung schwerer Hosen",
         "ia": "ein",
         "da": "der",
@@ -7601,7 +7601,7 @@
         "description": "Meisterliche Schwere Hosen-Herstellung"
     },
     "scahsem": {
-        "name": "Meister in der Herstellung schwerer Armschützer",
+        "name": "Meister schwerer Armschützer",
         "named": "Meister in der Herstellung schwerer Armschützer",
         "ia": "ein",
         "da": "der",
@@ -7612,7 +7612,7 @@
         "description": "Meisterliche Schwere Armschützer-Herstellung"
     },
     "scahvem": {
-        "name": "Meister in der Herstellung schwerer Westen",
+        "name": "Meister schwerer Westen",
         "named": "Meister in der Herstellung schwerer Westen",
         "ia": "ein",
         "da": "der",
@@ -7623,7 +7623,7 @@
         "description": "Meisterliche Schwere Westen-Herstellung"
     },
     "scalbem": {
-        "name": "Meister in der Herstellung leichter Stiefel",
+        "name": "Meister leichter Stiefel",
         "named": "Meister in der Herstellung leichter Stiefel",
         "ia": "ein",
         "da": "der",
@@ -7634,7 +7634,7 @@
         "description": "Meisterliche Leichte Stiefel-Herstellung"
     },
     "scalgem": {
-        "name": "Meister in der Herstellung leichter Handschuhe",
+        "name": "Meister leichter Handschuhe",
         "named": "Meister in der Herstellung leichter Handschuhe",
         "ia": "ein",
         "da": "der",
@@ -7645,7 +7645,7 @@
         "description": "Meisterliche Leichte Handschuh-Herstellung"
     },
     "scalpem": {
-        "name": "Meister in der Herstellung leichter Hosen",
+        "name": "Meister leichter Hosen",
         "named": "Meister in der Herstellung leichter Hosen",
         "ia": "ein",
         "da": "der",
@@ -7656,7 +7656,7 @@
         "description": "Meisterliche Leichte Hosen-Herstellung"
     },
     "scalsem": {
-        "name": "Meister in der Herstellung leichter Armschützer",
+        "name": "Meister leichter Armschützer",
         "named": "Meister in der Herstellung leichter Armschützer",
         "ia": "ein",
         "da": "der",
@@ -7667,7 +7667,7 @@
         "description": "Meisterliche Leichte Armschützer-Herstellung"
     },
     "scalvem": {
-        "name": "Meister in der Herstellung leichter Westen",
+        "name": "Meister leichter Westen",
         "named": "Meister in der Herstellung leichter Westen",
         "ia": "ein",
         "da": "der",
@@ -7678,7 +7678,7 @@
         "description": "Meisterliche Leichte Westen-Herstellung"
     },
     "scambem": {
-        "name": "Meister in der Herstellung mittelschwerer Stiefel",
+        "name": "Meister mittlerer Stiefel",
         "named": "Meister in der Herstellung mittelschwerer Stiefel",
         "ia": "ein",
         "da": "der",
@@ -7689,7 +7689,7 @@
         "description": "Meisterliche Mittelschwere Stiefel-Herstellung"
     },
     "scamgem": {
-        "name": "Meister in der Herstellung mittelschwerer Handschuhe",
+        "name": "Meister mittlerer Handschuhe",
         "named": "Meister in der Herstellung mittelschwerer Handschuhe",
         "ia": "ein",
         "da": "der",
@@ -7700,7 +7700,7 @@
         "description": "Meisterliche Mittelschwere Handschuh-Herstellung"
     },
     "scampem": {
-        "name": "Meister in der Herstellung mittelschwerer Hosen",
+        "name": "Meister mittlerer Hosen",
         "named": "Meister in der Herstellung mittelschwerer Hosen",
         "ia": "ein",
         "da": "der",
@@ -7711,7 +7711,7 @@
         "description": "Meisterliche Mittelschwere Hosen-Herstellung"
     },
     "scamsem": {
-        "name": "Meister in der Herstellung mittelschwerer Armschützer",
+        "name": "Meister mittlerer Armschützer",
         "named": "Meister in der Herstellung mittelschwerer Armschützer",
         "ia": "ein",
         "da": "der",
@@ -7722,7 +7722,7 @@
         "description": "Meisterliche Mittelschwere Armschützer-Herstellung"
     },
     "scamvem": {
-        "name": "Meister in der Herstellung mittelschwerer Westen",
+        "name": "Meister mittlerer Westen",
         "named": "Meister in der Herstellung mittelschwerer Westen",
         "ia": "ein",
         "da": "der",
@@ -7733,7 +7733,7 @@
         "description": "Meisterliche Mittelschwere Westen-Herstellung"
     },
     "scassem": {
-        "name": "Meister in der Schildherstellung",
+        "name": "Meister im Schild",
         "named": "Meister in der Schildherstellung",
         "ia": "ein",
         "da": "der",
@@ -7744,7 +7744,7 @@
         "description": "Meisterliche Schild-Herstellung"
     },
     "scasbem": {
-        "name": "Meister in der Beschützerherstellung",
+        "name": "Meister im Beschützer",
         "named": "Meister in der Beschützerherstellung",
         "ia": "ein",
         "da": "der",
@@ -7755,7 +7755,7 @@
         "description": "Meisterliche Beschützer-Herstellung"
     },
     "scjaaem": {
-        "name": "Meister in der Fußringherstellung",
+        "name": "Meister im Fußring",
         "named": "Meister in der Fußringherstellung",
         "ia": "ein",
         "da": "der",
@@ -7766,7 +7766,7 @@
         "description": "Meisterliche Fußring-Herstellung"
     },
     "scjbaem": {
-        "name": "Meister in der Armbandherstellung",
+        "name": "Meister im Armband",
         "named": "Meister in der Armbandherstellung",
         "ia": "ein",
         "da": "der",
@@ -7777,7 +7777,7 @@
         "description": "Meisterliche Armband-Herstellung"
     },
     "scjdaem": {
-        "name": "Meister in der Diademherstellung",
+        "name": "Meister im Diadem",
         "named": "Meister in der Diademherstellung",
         "ia": "ein",
         "da": "der",
@@ -7788,7 +7788,7 @@
         "description": "Meisterliche Diadem-Herstellung"
     },
     "scjeaem": {
-        "name": "Meister in der Ohrringsherstellung",
+        "name": "Meister im Ohrrings",
         "named": "Meister in der Ohrringsherstellung",
         "ia": "ein",
         "da": "der",
@@ -7799,7 +7799,7 @@
         "description": "Meisterliche Ohrring-Herstellung"
     },
     "scjpaem": {
-        "name": "Meister in der Anhängerherstellung",
+        "name": "Meister im Anhänger",
         "named": "Meister in der Anhängerherstellung",
         "ia": "ein",
         "da": "der",
@@ -7810,7 +7810,7 @@
         "description": "Meisterliche Anhänger-Herstellung"
     },
     "scjraem": {
-        "name": "Meister in der Ringherstellung",
+        "name": "Meister im Ring",
         "named": "Meister in der Ringherstellung",
         "ia": "ein",
         "da": "der",
@@ -7821,7 +7821,7 @@
         "description": "Meisterliche Ring-Herstellung"
     },
     "scm1mem": {
-        "name": "Meister in der Streitkolben-Herstellung",
+        "name": "Meister im Streitkolben-",
         "named": "Meister in der Streitkolben-Herstellung",
         "ia": "ein",
         "da": "der",
@@ -7832,7 +7832,7 @@
         "description": "Meisterliche Streitkolben-Herstellung"
     },
     "scm1tem": {
-        "name": "Meister in der Stabherstellung",
+        "name": "Meister im Stab",
         "named": "Meister in der Stabherstellung",
         "ia": "ein",
         "da": "der",
@@ -7843,7 +7843,7 @@
         "description": "Meisterliche Stab-Herstellung"
     },
     "scm1pem": {
-        "name": "Meister in der Lanzenherstellung",
+        "name": "Meister im Lanzen",
         "named": "Meister in der Lanzenherstellung",
         "ia": "ein",
         "da": "der",
@@ -7854,7 +7854,7 @@
         "description": "Meisterliche Lanzen-\/Speer-Herstellung"
     },
     "scm1aem": {
-        "name": "Meister in der Axtherstellung",
+        "name": "Meister im Axt",
         "named": "Meister in der Axtherstellung",
         "ia": "ein",
         "da": "der",
@@ -7865,7 +7865,7 @@
         "description": "Meisterliche Axt-Herstellung"
     },
     "scm1sem": {
-        "name": "Meister in der Schwertherstellung",
+        "name": "Meister im Schwert",
         "named": "Meister in der Schwertherstellung",
         "ia": "ein",
         "da": "der",
@@ -7876,7 +7876,7 @@
         "description": "Meisterliche Schwert-Herstellung"
     },
     "scm1dem": {
-        "name": "Meister in der Dolchherstellung",
+        "name": "Meister im Dolch",
         "named": "Meister in der Dolchherstellung",
         "ia": "ein",
         "da": "der",
@@ -7887,7 +7887,7 @@
         "description": "Meisterliche Dolch-Herstellung"
     },
     "scm2mem": {
-        "name": "Meister in der Zweihand-Streitkolben-Herstellung",
+        "name": "Meister im Zweihand-Streitkolben",
         "named": "Meister in der Zweihand-Streitkolben-Herstellung",
         "ia": "ein",
         "da": "der",
@@ -7898,7 +7898,7 @@
         "description": "Meisterliche Zweihand-Streitkolben-Herstellung"
     },
     "scm2pem": {
-        "name": "Meister in der Pikenherstellung",
+        "name": "Meister im Piken",
         "named": "Meister in der Pikenherstellung",
         "ia": "ein",
         "da": "der",
@@ -7909,7 +7909,7 @@
         "description": "Meisterliche Piken-Herstellung"
     },
     "scm2aem": {
-        "name": "Meister in der Zweihand-Axt-Herstellung",
+        "name": "Meister im Zweihand-Axt",
         "named": "Meister in der Zweihand-Axt-Herstellung",
         "ia": "ein",
         "da": "der",
@@ -7920,7 +7920,7 @@
         "description": "Meisterliche Zweihand-Axt-Herstellung"
     },
     "scm2sem": {
-        "name": "Meister in der Zweihand-Schwert-Herstellung",
+        "name": "Meister im Zweihand-Schwert",
         "named": "Meister in der Zweihand-Schwert-Herstellung",
         "ia": "ein",
         "da": "der",
@@ -7931,7 +7931,7 @@
         "description": "Meisterliche Zweihand-Schwert-Herstellung"
     },
     "scr1bem": {
-        "name": "Meister in der Bogenpistolenherstellung",
+        "name": "Meister im Bogenpistolen",
         "named": "Meister in der Bogenpistolenherstellung",
         "ia": "ein",
         "da": "der",
@@ -7942,7 +7942,7 @@
         "description": "Meisterliche Bogenpistolen-Herstellung"
     },
     "scr1pem": {
-        "name": "Meister in der Pistolenherstellung",
+        "name": "Meister im Pistolen",
         "named": "Meister in der Pistolenherstellung",
         "ia": "ein",
         "da": "der",
@@ -7953,7 +7953,7 @@
         "description": "Meisterliche Pistolen-Herstellung"
     },
     "scr2aem": {
-        "name": "Meister in der Automatikgewehr-Herstellung",
+        "name": "Meister im Automatikgewehr",
         "named": "Meister in der Automatikgewehr-Herstellung",
         "ia": "ein",
         "da": "der",
@@ -7964,7 +7964,7 @@
         "description": "Meisterliche Automatikgewehr-Herstellung"
     },
     "scr2bem": {
-        "name": "Meister in der Bogengewehr-Herstellung",
+        "name": "Meister im Bogengewehr",
         "named": "Meister in der Bogengewehr-Herstellung",
         "ia": "ein",
         "da": "der",
@@ -7975,18 +7975,18 @@
         "description": "Meisterliche Bogengewehr-Herstellung"
     },
     "scr2lem": {
-        "name": "Meister in der Raketenwerfer-Herstellung",
-        "named": "Meister in der Raketenwerfer-Herstellung",
+        "name": "Meister im Granatenwerfer",
+        "named": "Meister in der Granatenwerfer-Herstellung",
         "ia": "ein",
         "da": "der",
-        "p": "Meister in der Raketenwerfer-Herstellung",
-        "pd": "Meister in der Raketenwerfer-Herstellung",
+        "p": "Meister in der Granatenwerfer-Herstellung",
+        "pd": "Meister in der Granatenwerfer-Herstellung",
         "pia": "\\d",
         "pda": "die",
-        "description": "Meisterliche Raketenwerfer-Herstellung"
+        "description": "Meisterliche Granatenwerfer-Herstellung"
     },
     "scr2rem": {
-        "name": "Meister in der Gewehrherstellung",
+        "name": "Meister im Gewehr",
         "named": "Meister in der Gewehrherstellung",
         "ia": "ein",
         "da": "der",
@@ -8008,8 +8008,8 @@
         "description": "Magieverstärker-Herstellung"
     },
     "scmca": {
-        "name": "Fortgeschrittener in Magieverstärker-Herstellung",
-        "named": "Fortgeschrittener in Magieverstärker-Herstellung",
+        "name": "Erfahren im Magieverstärker-Herstellung",
+        "named": "Fortgeschrittene Magieverstärker-Herstellung",
         "ia": "ein",
         "da": "der",
         "p": "Fortgeschrittene in Magieverstärker-Herstellung",

@@ -20075,24 +20075,24 @@
         "description2": ""
     },
     "bcztca01": {
-        "name": "Инструменты файросов",
-        "description": "Позволяет изготовить высококачественные инструменты Зораи.",
-        "description2": "Инструменты файросов"
+        "name": "Zoraï Tools 1",
+        "description": "Lets you make Zoraï tools of quality $cr_recommended.",
+        "description2": "Zoraï Tools 1 - Quality: $cr_recommended"
     },
     "bcttca01": {
-        "name": "Инструменты матисов",
-        "description": "Позволяет изготовить высококачественные инструменты матисов.",
-        "description2": "Инструменты матисов"
+        "name": "Tryker Tools 1",
+        "description": "Lets you make Tryker tools of quality $cr_recommended.",
+        "description2": "Tryker Tools 1 - Quality: $cr_recommended"
     },
     "bcmtca01": {
-        "name": "Инструменты трайкеров",
-        "description": "Позволяет изготовить высококачественные инструменты файросов.",
-        "description2": "Инструменты трайкеров"
+        "name": "Matis Tools 1",
+        "description": "Lets you make Matis tools of quality $cr_recommended.",
+        "description2": "Matis Tools 1 - Quality: $cr_recommended"
     },
     "bcftca01": {
-        "name": "Инструменты Зораи",
-        "description": "Позволяет изготовить высококачественные инструменты трайкеров.",
-        "description2": "Инструменты Зораи"
+        "name": "Fyros Tools 1",
+        "description": "Lets you make Fyros tools of quality $cr_recommended.",
+        "description2": "Fyros Tools 1 - Quality: $cr_recommended"
     },
     "chg_charac": {
         "name": "Улучшение характеристик",
@@ -20297,6 +20297,126 @@
     "hatred": {
         "name": "снадобьями",
         "description": "снадобьями",
+        "description2": ""
+    },
+    "government_title_marauder_01": {
+        "name": "<GEN>government_title_marauder_01",
+        "description": "",
+        "description2": ""
+    },
+    "government_title_matis_01": {
+        "name": "<GEN>government_title_matis_01",
+        "description": "",
+        "description2": ""
+    },
+    "government_title_matis_02": {
+        "name": "<GEN>government_title_matis_02",
+        "description": "",
+        "description2": ""
+    },
+    "government_title_tryker_01": {
+        "name": "<GEN>government_title_tryker_01",
+        "description": "",
+        "description2": ""
+    },
+    "government_title_tryker_02": {
+        "name": "<GEN>government_title_tryker_02",
+        "description": "",
+        "description2": ""
+    },
+    "government_title_zorai_01": {
+        "name": "<GEN>government_title_zorai_01",
+        "description": "",
+        "description2": ""
+    },
+    "government_title_zorai_02": {
+        "name": "<GEN>government_title_zorai_02",
+        "description": "",
+        "description2": ""
+    },
+    "rpjob_200": {
+        "name": "<GEN>rpjob_200",
+        "description": "",
+        "description2": ""
+    },
+    "rpjob_201": {
+        "name": "<GEN>rpjob_201",
+        "description": "",
+        "description2": ""
+    },
+    "rpjob_202": {
+        "name": "<GEN>rpjob_202",
+        "description": "",
+        "description2": ""
+    },
+    "rpjob_203": {
+        "name": "<GEN>rpjob_203",
+        "description": "",
+        "description2": ""
+    },
+    "rpjob_204": {
+        "name": "<GEN>rpjob_204",
+        "description": "",
+        "description2": ""
+    },
+    "rpjob_205": {
+        "name": "<GEN>rpjob_205",
+        "description": "",
+        "description2": ""
+    },
+    "rpjob_206": {
+        "name": "<GEN>rpjob_206",
+        "description": "",
+        "description2": ""
+    },
+    "rpjob_207": {
+        "name": "<GEN>rpjob_207",
+        "description": "",
+        "description2": ""
+    },
+    "titre_gloire_kitinierereine": {
+        "name": "<GEN>titre_gloire_kitinierereine",
+        "description": "",
+        "description2": ""
+    },
+    "bcfaea22": {
+        "name": "Fyros Light Panties Craft Pattern",
+        "description": "Brick Craftman's plan for fyros light panties",
+        "description2": ""
+    },
+    "bcfaea23": {
+        "name": "Fyros Light Bra Craft Pattern",
+        "description": "Brick Craftman's plan for fyros light bra",
+        "description2": ""
+    },
+    "bcmaea22": {
+        "name": "Matis Light Panties Craft Pattern",
+        "description": "Brick Craftman's plan for matis light panties",
+        "description2": ""
+    },
+    "bcmaea23": {
+        "name": "Matis Light Bra Craft Pattern",
+        "description": "Brick Craftman's plan for matis light bra",
+        "description2": ""
+    },
+    "bctaea22": {
+        "name": "Tryker Light Panties Craft Pattern",
+        "description": "Brick Craftman's plan for tryker light panties",
+        "description2": ""
+    },
+    "bctaea23": {
+        "name": "Tryker Light Bra Craft Pattern",
+        "description": "Brick Craftman's plan for tryker light bra",
+        "description2": ""
+    },
+    "bczaea22": {
+        "name": "Zorai Light Panties Craft Pattern",
+        "description": "Brick Craftman's plan for zorai light panties",
+        "description2": ""
+    },
+    "bczaea23": {
+        "name": "Zorai Light Bra Craft Pattern",
+        "description": "Brick Craftman's plan for zorai light bra",
         "description2": ""
     }
 }

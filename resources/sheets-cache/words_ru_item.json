@@ -14623,6 +14623,14 @@
         "twogen": "Фрагмента отличной, добытой в лесу шкуры юбо",
         "onegen": "Фрагмент отличной, добытой в лесу шкуры юбо"
     },
+    "m0152chdfe01": {
+        "name": "Fragment of Supreme Forest Yubo Skin",
+        "p": "Fragments of Supreme Forest Yubo Skin",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
     "m0152chdlc01": {
         "name": "Фрагмент отборной, добытой возле озер шкуры юбо",
         "p": "Фрагменты отборной, добытой возле озер шкуры юбо",
@@ -38311,6 +38319,14 @@
         "twogen": "Фрагмента отличного, добытого в лесу глаза юбо",
         "onegen": "Фрагмент отличного, добытого в лесу глаза юбо"
     },
+    "m0688chdfe01": {
+        "name": "Fragment of Supreme Forest Yubo Eye",
+        "p": "Fragments of Supreme Forest Yubo Eye",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
     "m0688chdlc01": {
         "name": "Фрагмент отборного, добытого возле озер глаза юбо",
         "p": "Фрагменты отборного, добытого возле озер глаза юбо",
@@ -38350,6 +38366,14 @@
         "somgen": "Отличных, добытых в лесу ногтей юбо",
         "twogen": "Отличных, добытых в лесу ногтя юбо",
         "onegen": "Отличный, добытый в лесу ноготь юбо"
+    },
+    "m0690chdfe01": {
+        "name": "Supreme Forest Yubo Nail",
+        "p": "Supreme Forest Yubo Nails",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
     },
     "m0690chdlc01": {
         "name": "Отборный, добытый возле озер ноготь юбо",
@@ -38391,6 +38415,14 @@
         "twogen": "Фрагмента отличных, добытых в лесу тазовых кости юбо",
         "onegen": "Фрагмент отличных, добытых в лесу тазовых костей юбо"
     },
+    "m0691chdfe01": {
+        "name": "Fragment of Supreme Forest Yubo Pelvis",
+        "p": "Fragments of Supreme Forest Yubo Pelvis",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
     "m0691chdlc01": {
         "name": "Фрагмент отборных, добытых возле озер тазовых костей юбо",
         "p": "Фрагменты отборных, добытых возле озер тазовых костей юбо",
@@ -38430,6 +38462,14 @@
         "somgen": "Отличных, добытых в лесу зубов юбо",
         "twogen": "Отличных, добытых в лесу зуба юбо",
         "onegen": "Отличный, добытый в лесу зуб юбо"
+    },
+    "m0692chdfe01": {
+        "name": "Supreme Forest Yubo Tooth",
+        "p": "Supreme Forest Yubo Tooths",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
     },
     "m0692chdlc01": {
         "name": "Отборный, добытый возле озер зуб юбо",
@@ -55071,6 +55111,14 @@
         "twogen": "Отличного голубого сырья",
         "onegen": "Отличное голубое сырье"
     },
+    "system_mp_excellent_white": {
+        "name": "Excellent white raw material",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
     "web_transaction": {
         "name": "Операция",
         "p": "Операции",
@@ -55103,6 +55151,7350 @@
         "twogen": "",
         "onegen": "the"
     },
+    "npc_caravan_pistol_p": {
+        "name": "<GEN>npc_caravan_pistol_p",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "arma_mount": {
+        "name": "<GEN>arma_mount",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapd1": {
+        "name": "<GEN>iapd1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapd2": {
+        "name": "<GEN>iapd2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapd3": {
+        "name": "<GEN>iapd3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapd4": {
+        "name": "<GEN>iapd4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapdc1": {
+        "name": "<GEN>iapdc1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapdc2": {
+        "name": "<GEN>iapdc2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapdc3": {
+        "name": "<GEN>iapdc3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapdc4": {
+        "name": "<GEN>iapdc4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapdd1": {
+        "name": "<GEN>iapdd1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapdd2": {
+        "name": "<GEN>iapdd2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapdd3": {
+        "name": "<GEN>iapdd3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapdd4": {
+        "name": "<GEN>iapdd4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapde1": {
+        "name": "<GEN>iapde1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapde2": {
+        "name": "<GEN>iapde2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapde3": {
+        "name": "<GEN>iapde3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapde4": {
+        "name": "<GEN>iapde4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapdf1": {
+        "name": "<GEN>iapdf1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapdf2": {
+        "name": "<GEN>iapdf2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapdf3": {
+        "name": "<GEN>iapdf3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapdf4": {
+        "name": "<GEN>iapdf4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapf1": {
+        "name": "<GEN>iapf1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapf2": {
+        "name": "<GEN>iapf2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapf3": {
+        "name": "<GEN>iapf3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapf4": {
+        "name": "<GEN>iapf4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapfc1": {
+        "name": "<GEN>iapfc1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapfc2": {
+        "name": "<GEN>iapfc2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapfc3": {
+        "name": "<GEN>iapfc3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapfc4": {
+        "name": "<GEN>iapfc4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapfd1": {
+        "name": "<GEN>iapfd1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapfd2": {
+        "name": "<GEN>iapfd2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapfd3": {
+        "name": "<GEN>iapfd3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapfd4": {
+        "name": "<GEN>iapfd4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapfe1": {
+        "name": "<GEN>iapfe1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapfe2": {
+        "name": "<GEN>iapfe2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapfe3": {
+        "name": "<GEN>iapfe3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapfe4": {
+        "name": "<GEN>iapfe4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapff1": {
+        "name": "<GEN>iapff1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapff2": {
+        "name": "<GEN>iapff2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapff3": {
+        "name": "<GEN>iapff3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapff4": {
+        "name": "<GEN>iapff4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapj1": {
+        "name": "<GEN>iapj1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapj2": {
+        "name": "<GEN>iapj2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapj3": {
+        "name": "<GEN>iapj3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapj4": {
+        "name": "<GEN>iapj4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapjc1": {
+        "name": "<GEN>iapjc1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapjc2": {
+        "name": "<GEN>iapjc2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapjc3": {
+        "name": "<GEN>iapjc3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapjc4": {
+        "name": "<GEN>iapjc4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapjd1": {
+        "name": "<GEN>iapjd1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapjd2": {
+        "name": "<GEN>iapjd2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapjd3": {
+        "name": "<GEN>iapjd3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapjd4": {
+        "name": "<GEN>iapjd4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapje1": {
+        "name": "<GEN>iapje1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapje2": {
+        "name": "<GEN>iapje2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapje3": {
+        "name": "<GEN>iapje3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapje4": {
+        "name": "<GEN>iapje4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapjf1": {
+        "name": "<GEN>iapjf1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapjf2": {
+        "name": "<GEN>iapjf2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapjf3": {
+        "name": "<GEN>iapjf3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapjf4": {
+        "name": "<GEN>iapjf4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapl1": {
+        "name": "<GEN>iapl1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapl2": {
+        "name": "<GEN>iapl2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapl3": {
+        "name": "<GEN>iapl3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapl4": {
+        "name": "<GEN>iapl4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iaplc1": {
+        "name": "<GEN>iaplc1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iaplc2": {
+        "name": "<GEN>iaplc2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iaplc3": {
+        "name": "<GEN>iaplc3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iaplc4": {
+        "name": "<GEN>iaplc4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapld1": {
+        "name": "<GEN>iapld1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapld2": {
+        "name": "<GEN>iapld2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapld3": {
+        "name": "<GEN>iapld3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapld4": {
+        "name": "<GEN>iapld4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iaple1": {
+        "name": "<GEN>iaple1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iaple2": {
+        "name": "<GEN>iaple2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iaple3": {
+        "name": "<GEN>iaple3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iaple4": {
+        "name": "<GEN>iaple4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iaplf1": {
+        "name": "<GEN>iaplf1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iaplf2": {
+        "name": "<GEN>iaplf2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iaplf3": {
+        "name": "<GEN>iaplf3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iaplf4": {
+        "name": "<GEN>iaplf4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsd1": {
+        "name": "<GEN>iapsd1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsd2": {
+        "name": "<GEN>iapsd2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsd3": {
+        "name": "<GEN>iapsd3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsd4": {
+        "name": "<GEN>iapsd4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsdc1": {
+        "name": "<GEN>iapsdc1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsdc2": {
+        "name": "<GEN>iapsdc2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsdc3": {
+        "name": "<GEN>iapsdc3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsdc4": {
+        "name": "<GEN>iapsdc4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsdd1": {
+        "name": "<GEN>iapsdd1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsdd2": {
+        "name": "<GEN>iapsdd2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsdd3": {
+        "name": "<GEN>iapsdd3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsdd4": {
+        "name": "<GEN>iapsdd4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsde1": {
+        "name": "<GEN>iapsde1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsde2": {
+        "name": "<GEN>iapsde2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsde3": {
+        "name": "<GEN>iapsde3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsde4": {
+        "name": "<GEN>iapsde4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsdf1": {
+        "name": "<GEN>iapsdf1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsdf2": {
+        "name": "<GEN>iapsdf2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsdf3": {
+        "name": "<GEN>iapsdf3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsdf4": {
+        "name": "<GEN>iapsdf4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsf1": {
+        "name": "<GEN>iapsf1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsf2": {
+        "name": "<GEN>iapsf2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsf3": {
+        "name": "<GEN>iapsf3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsf4": {
+        "name": "<GEN>iapsf4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsfc1": {
+        "name": "<GEN>iapsfc1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsfc2": {
+        "name": "<GEN>iapsfc2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsfc3": {
+        "name": "<GEN>iapsfc3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsfc4": {
+        "name": "<GEN>iapsfc4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsfd1": {
+        "name": "<GEN>iapsfd1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsfd2": {
+        "name": "<GEN>iapsfd2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsfd3": {
+        "name": "<GEN>iapsfd3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsfd4": {
+        "name": "<GEN>iapsfd4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsfe1": {
+        "name": "<GEN>iapsfe1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsfe2": {
+        "name": "<GEN>iapsfe2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsfe3": {
+        "name": "<GEN>iapsfe3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsfe4": {
+        "name": "<GEN>iapsfe4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsff1": {
+        "name": "<GEN>iapsff1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsff2": {
+        "name": "<GEN>iapsff2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsff3": {
+        "name": "<GEN>iapsff3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsff4": {
+        "name": "<GEN>iapsff4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsj1": {
+        "name": "<GEN>iapsj1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsj2": {
+        "name": "<GEN>iapsj2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsj3": {
+        "name": "<GEN>iapsj3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsj4": {
+        "name": "<GEN>iapsj4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsjc1": {
+        "name": "<GEN>iapsjc1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsjc2": {
+        "name": "<GEN>iapsjc2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsjc3": {
+        "name": "<GEN>iapsjc3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsjc4": {
+        "name": "<GEN>iapsjc4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsjd1": {
+        "name": "<GEN>iapsjd1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsjd2": {
+        "name": "<GEN>iapsjd2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsjd3": {
+        "name": "<GEN>iapsjd3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsjd4": {
+        "name": "<GEN>iapsjd4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsje1": {
+        "name": "<GEN>iapsje1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsje2": {
+        "name": "<GEN>iapsje2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsje3": {
+        "name": "<GEN>iapsje3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsje4": {
+        "name": "<GEN>iapsje4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsjf1": {
+        "name": "<GEN>iapsjf1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsjf2": {
+        "name": "<GEN>iapsjf2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsjf3": {
+        "name": "<GEN>iapsjf3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsjf4": {
+        "name": "<GEN>iapsjf4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsl1": {
+        "name": "<GEN>iapsl1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsl2": {
+        "name": "<GEN>iapsl2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsl3": {
+        "name": "<GEN>iapsl3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsl4": {
+        "name": "<GEN>iapsl4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapslc1": {
+        "name": "<GEN>iapslc1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapslc2": {
+        "name": "<GEN>iapslc2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapslc3": {
+        "name": "<GEN>iapslc3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapslc4": {
+        "name": "<GEN>iapslc4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsld1": {
+        "name": "<GEN>iapsld1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsld2": {
+        "name": "<GEN>iapsld2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsld3": {
+        "name": "<GEN>iapsld3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsld4": {
+        "name": "<GEN>iapsld4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsle1": {
+        "name": "<GEN>iapsle1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsle2": {
+        "name": "<GEN>iapsle2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsle3": {
+        "name": "<GEN>iapsle3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapsle4": {
+        "name": "<GEN>iapsle4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapslf1": {
+        "name": "<GEN>iapslf1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapslf2": {
+        "name": "<GEN>iapslf2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapslf3": {
+        "name": "<GEN>iapslf3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iapslf4": {
+        "name": "<GEN>iapslf4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iasd1": {
+        "name": "<GEN>iasd1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iasd2": {
+        "name": "<GEN>iasd2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iasd3": {
+        "name": "<GEN>iasd3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iasd4": {
+        "name": "<GEN>iasd4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iasf1": {
+        "name": "<GEN>iasf1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iasf2": {
+        "name": "<GEN>iasf2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iasf3": {
+        "name": "<GEN>iasf3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iasf4": {
+        "name": "<GEN>iasf4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iasj1": {
+        "name": "<GEN>iasj1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iasj2": {
+        "name": "<GEN>iasj2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iasj3": {
+        "name": "<GEN>iasj3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iasj4": {
+        "name": "<GEN>iasj4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iasl1": {
+        "name": "<GEN>iasl1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iasl2": {
+        "name": "<GEN>iasl2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iasl3": {
+        "name": "<GEN>iasl3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iasl4": {
+        "name": "<GEN>iasl4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iasp": {
+        "name": "<GEN>iasp",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "eroukan_b": {
+        "name": "<GEN>eroukan_b",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "eroukan_g": {
+        "name": "<GEN>eroukan_g",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "eroukan_h": {
+        "name": "<GEN>eroukan_h",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "eroukan_p": {
+        "name": "<GEN>eroukan_p",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "eroukan_s": {
+        "name": "<GEN>eroukan_s",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "eroukan_v": {
+        "name": "<GEN>eroukan_v",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccacp": {
+        "name": "<GEN>iccacp",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccacp_boss_fyros_e1": {
+        "name": "<GEN>iccacp_boss_fyros_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccacp_boss_matis_e1": {
+        "name": "<GEN>iccacp_boss_matis_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccacp_boss_tryker_e1": {
+        "name": "<GEN>iccacp_boss_tryker_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccacp_boss_zorai_e1": {
+        "name": "<GEN>iccacp_boss_zorai_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccacp_pvp": {
+        "name": "<GEN>iccacp_pvp",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccahb_boss_fyros_e1": {
+        "name": "<GEN>iccahb_boss_fyros_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccahb_boss_matis_e1": {
+        "name": "<GEN>iccahb_boss_matis_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccahb_boss_tryker_e1": {
+        "name": "<GEN>iccahb_boss_tryker_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccahb_boss_zorai_e1": {
+        "name": "<GEN>iccahb_boss_zorai_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccahg_boss_fyros_e1": {
+        "name": "<GEN>iccahg_boss_fyros_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccahg_boss_matis_e1": {
+        "name": "<GEN>iccahg_boss_matis_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccahg_boss_tryker_e1": {
+        "name": "<GEN>iccahg_boss_tryker_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccahg_boss_zorai_e1": {
+        "name": "<GEN>iccahg_boss_zorai_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccahh_boss_fyros_e1": {
+        "name": "<GEN>iccahh_boss_fyros_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccahh_boss_matis_e1": {
+        "name": "<GEN>iccahh_boss_matis_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccahh_boss_tryker_e1": {
+        "name": "<GEN>iccahh_boss_tryker_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccahh_boss_zorai_e1": {
+        "name": "<GEN>iccahh_boss_zorai_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccahp_boss_fyros_e1": {
+        "name": "<GEN>iccahp_boss_fyros_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccahp_boss_matis_e1": {
+        "name": "<GEN>iccahp_boss_matis_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccahp_boss_tryker_e1": {
+        "name": "<GEN>iccahp_boss_tryker_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccahp_boss_zorai_e1": {
+        "name": "<GEN>iccahp_boss_zorai_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccahs_boss_fyros_e1": {
+        "name": "<GEN>iccahs_boss_fyros_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccahs_boss_matis_e1": {
+        "name": "<GEN>iccahs_boss_matis_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccahs_boss_tryker_e1": {
+        "name": "<GEN>iccahs_boss_tryker_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccahs_boss_zorai_e1": {
+        "name": "<GEN>iccahs_boss_zorai_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccahv_boss_fyros_e1": {
+        "name": "<GEN>iccahv_boss_fyros_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccahv_boss_matis_e1": {
+        "name": "<GEN>iccahv_boss_matis_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccahv_boss_tryker_e1": {
+        "name": "<GEN>iccahv_boss_tryker_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccahv_boss_zorai_e1": {
+        "name": "<GEN>iccahv_boss_zorai_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccalb_boss_fyros_e1": {
+        "name": "<GEN>iccalb_boss_fyros_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccalb_boss_matis_e1": {
+        "name": "<GEN>iccalb_boss_matis_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccalb_boss_tryker_e1": {
+        "name": "<GEN>iccalb_boss_tryker_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccalb_boss_zorai_e1": {
+        "name": "<GEN>iccalb_boss_zorai_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccalg_boss_fyros_e1": {
+        "name": "<GEN>iccalg_boss_fyros_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccalg_boss_matis_e1": {
+        "name": "<GEN>iccalg_boss_matis_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccalg_boss_tryker_e1": {
+        "name": "<GEN>iccalg_boss_tryker_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccalg_boss_zorai_e1": {
+        "name": "<GEN>iccalg_boss_zorai_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccalp_boss_fyros_e1": {
+        "name": "<GEN>iccalp_boss_fyros_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccalp_boss_matis_e1": {
+        "name": "<GEN>iccalp_boss_matis_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccalp_boss_tryker_e1": {
+        "name": "<GEN>iccalp_boss_tryker_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccalp_boss_zorai_e1": {
+        "name": "<GEN>iccalp_boss_zorai_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccals_boss_fyros_e1": {
+        "name": "<GEN>iccals_boss_fyros_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccals_boss_matis_e1": {
+        "name": "<GEN>iccals_boss_matis_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccals_boss_tryker_e1": {
+        "name": "<GEN>iccals_boss_tryker_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccals_boss_zorai_e1": {
+        "name": "<GEN>iccals_boss_zorai_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccalv_boss_fyros_e1": {
+        "name": "<GEN>iccalv_boss_fyros_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccalv_boss_matis_e1": {
+        "name": "<GEN>iccalv_boss_matis_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccalv_boss_tryker_e1": {
+        "name": "<GEN>iccalv_boss_tryker_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccalv_boss_zorai_e1": {
+        "name": "<GEN>iccalv_boss_zorai_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccamb": {
+        "name": "<GEN>iccamb",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccamb_boss_fyros_e1": {
+        "name": "<GEN>iccamb_boss_fyros_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccamb_boss_matis_e1": {
+        "name": "<GEN>iccamb_boss_matis_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccamb_boss_tryker_e1": {
+        "name": "<GEN>iccamb_boss_tryker_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccamb_boss_zorai_e1": {
+        "name": "<GEN>iccamb_boss_zorai_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccamg": {
+        "name": "<GEN>iccamg",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccamg_boss_fyros_e1": {
+        "name": "<GEN>iccamg_boss_fyros_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccamg_boss_matis_e1": {
+        "name": "<GEN>iccamg_boss_matis_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccamg_boss_tryker_e1": {
+        "name": "<GEN>iccamg_boss_tryker_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccamg_boss_zorai_e1": {
+        "name": "<GEN>iccamg_boss_zorai_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccamp": {
+        "name": "<GEN>iccamp",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccamp_boss_fyros_e1": {
+        "name": "<GEN>iccamp_boss_fyros_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccamp_boss_matis_e1": {
+        "name": "<GEN>iccamp_boss_matis_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccamp_boss_tryker_e1": {
+        "name": "<GEN>iccamp_boss_tryker_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccamp_boss_zorai_e1": {
+        "name": "<GEN>iccamp_boss_zorai_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccams": {
+        "name": "<GEN>iccams",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccams_boss_fyros_e1": {
+        "name": "<GEN>iccams_boss_fyros_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccams_boss_matis_e1": {
+        "name": "<GEN>iccams_boss_matis_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccams_boss_tryker_e1": {
+        "name": "<GEN>iccams_boss_tryker_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccams_boss_zorai_e1": {
+        "name": "<GEN>iccams_boss_zorai_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccamv": {
+        "name": "<GEN>iccamv",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccamv_boss_fyros_e1": {
+        "name": "<GEN>iccamv_boss_fyros_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccamv_boss_matis_e1": {
+        "name": "<GEN>iccamv_boss_matis_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccamv_boss_tryker_e1": {
+        "name": "<GEN>iccamv_boss_tryker_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iccamv_boss_zorai_e1": {
+        "name": "<GEN>iccamv_boss_zorai_e1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikamaab": {
+        "name": "<GEN>ikamaab",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikamaag": {
+        "name": "<GEN>ikamaag",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikamaah": {
+        "name": "<GEN>ikamaah",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikamaap": {
+        "name": "<GEN>ikamaap",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikamaas": {
+        "name": "<GEN>ikamaas",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikamaav": {
+        "name": "<GEN>ikamaav",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikaraab": {
+        "name": "<GEN>ikaraab",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikaraag": {
+        "name": "<GEN>ikaraag",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikaraah": {
+        "name": "<GEN>ikaraah",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikaraap": {
+        "name": "<GEN>ikaraap",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikaraas": {
+        "name": "<GEN>ikaraas",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikaraav": {
+        "name": "<GEN>ikaraav",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikarabb": {
+        "name": "<GEN>ikarabb",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikarabg": {
+        "name": "<GEN>ikarabg",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikarabh": {
+        "name": "<GEN>ikarabh",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikarabp": {
+        "name": "<GEN>ikarabp",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikarabs": {
+        "name": "<GEN>ikarabs",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikarabv": {
+        "name": "<GEN>ikarabv",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikaracb": {
+        "name": "<GEN>ikaracb",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikaracg": {
+        "name": "<GEN>ikaracg",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikarach": {
+        "name": "<GEN>ikarach",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikaracp": {
+        "name": "<GEN>ikaracp",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikaracs": {
+        "name": "<GEN>ikaracs",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikaracv": {
+        "name": "<GEN>ikaracv",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikaraeb": {
+        "name": "<GEN>ikaraeb",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikaraeg": {
+        "name": "<GEN>ikaraeg",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikaraeh": {
+        "name": "<GEN>ikaraeh",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikaraep": {
+        "name": "<GEN>ikaraep",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikaraes": {
+        "name": "<GEN>ikaraes",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikaraev": {
+        "name": "<GEN>ikaraev",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikaramb": {
+        "name": "<GEN>ikaramb",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikaramg": {
+        "name": "<GEN>ikaramg",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikaramh": {
+        "name": "<GEN>ikaramh",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikaramp": {
+        "name": "<GEN>ikaramp",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikarams": {
+        "name": "<GEN>ikarams",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikaramv": {
+        "name": "<GEN>ikaramv",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikarasb": {
+        "name": "<GEN>ikarasb",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikarasb_b": {
+        "name": "<GEN>ikarasb_b",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikarasb_j": {
+        "name": "<GEN>ikarasb_j",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikarasb_r": {
+        "name": "<GEN>ikarasb_r",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikarasg": {
+        "name": "<GEN>ikarasg",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikarasg_b": {
+        "name": "<GEN>ikarasg_b",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikarasg_j": {
+        "name": "<GEN>ikarasg_j",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikarasg_r": {
+        "name": "<GEN>ikarasg_r",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikarash": {
+        "name": "<GEN>ikarash",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikarash_b": {
+        "name": "<GEN>ikarash_b",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikarash_j": {
+        "name": "<GEN>ikarash_j",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikarash_r": {
+        "name": "<GEN>ikarash_r",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikarasp": {
+        "name": "<GEN>ikarasp",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikarasp_b": {
+        "name": "<GEN>ikarasp_b",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikarasp_j": {
+        "name": "<GEN>ikarasp_j",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikarasp_r": {
+        "name": "<GEN>ikarasp_r",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikarass": {
+        "name": "<GEN>ikarass",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikarass_b": {
+        "name": "<GEN>ikarass_b",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikarass_j": {
+        "name": "<GEN>ikarass_j",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikarass_r": {
+        "name": "<GEN>ikarass_r",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikarasv": {
+        "name": "<GEN>ikarasv",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikarasv_b": {
+        "name": "<GEN>ikarasv_b",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikarasv_j": {
+        "name": "<GEN>ikarasv_j",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikarasv_r": {
+        "name": "<GEN>ikarasv_r",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikaratb": {
+        "name": "<GEN>ikaratb",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikaratg": {
+        "name": "<GEN>ikaratg",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikarath": {
+        "name": "<GEN>ikarath",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikaratp": {
+        "name": "<GEN>ikaratp",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikarats": {
+        "name": "<GEN>ikarats",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ikaratv": {
+        "name": "<GEN>ikaratv",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "igfau": {
+        "name": "<GEN>igfau",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "igfbu": {
+        "name": "<GEN>igfbu",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "igfgu": {
+        "name": "<GEN>igfgu",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "igfpu": {
+        "name": "<GEN>igfpu",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "igfvu": {
+        "name": "<GEN>igfvu",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "igmau": {
+        "name": "<GEN>igmau",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "igmbu": {
+        "name": "<GEN>igmbu",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "igmgu": {
+        "name": "<GEN>igmgu",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "igmpu": {
+        "name": "<GEN>igmpu",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "igmvu": {
+        "name": "<GEN>igmvu",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "igtau": {
+        "name": "<GEN>igtau",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "igtbu": {
+        "name": "<GEN>igtbu",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "igtgu": {
+        "name": "<GEN>igtgu",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "igtpu": {
+        "name": "<GEN>igtpu",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "igtvu": {
+        "name": "<GEN>igtvu",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "igzau": {
+        "name": "<GEN>igzau",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "igzbu": {
+        "name": "<GEN>igzbu",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "igzgu": {
+        "name": "<GEN>igzgu",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "igzpu": {
+        "name": "<GEN>igzpu",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "igzvu": {
+        "name": "<GEN>igzvu",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ipma15_kam": {
+        "name": "<GEN>ipma15_kam",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ipma15_kar": {
+        "name": "<GEN>ipma15_kar",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ipma20_kam": {
+        "name": "<GEN>ipma20_kam",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ipma20_kar": {
+        "name": "<GEN>ipma20_kar",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ipma25_kam": {
+        "name": "<GEN>ipma25_kam",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ipma25_kar": {
+        "name": "<GEN>ipma25_kar",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ipmb15_kam": {
+        "name": "<GEN>ipmb15_kam",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ipmb15_kar": {
+        "name": "<GEN>ipmb15_kar",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ipmb20_kam": {
+        "name": "<GEN>ipmb20_kam",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ipmb20_kar": {
+        "name": "<GEN>ipmb20_kar",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ipmb25_kam": {
+        "name": "<GEN>ipmb25_kam",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ipmb25_kar": {
+        "name": "<GEN>ipmb25_kar",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ipmc15_kam": {
+        "name": "<GEN>ipmc15_kam",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ipmc15_kar": {
+        "name": "<GEN>ipmc15_kar",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ipmc20_kam": {
+        "name": "<GEN>ipmc20_kam",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ipmc20_kar": {
+        "name": "<GEN>ipmc20_kar",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ipmc25_kam": {
+        "name": "<GEN>ipmc25_kam",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ipmc25_kar": {
+        "name": "<GEN>ipmc25_kar",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ipmd15_kam": {
+        "name": "<GEN>ipmd15_kam",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ipmd15_kar": {
+        "name": "<GEN>ipmd15_kar",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ipmd20_kam": {
+        "name": "<GEN>ipmd20_kam",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ipmd20_kar": {
+        "name": "<GEN>ipmd20_kar",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ipmd25_kam": {
+        "name": "<GEN>ipmd25_kam",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ipmd25_kar": {
+        "name": "<GEN>ipmd25_kar",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ipme03_kam": {
+        "name": "<GEN>ipme03_kam",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ipme03_kar": {
+        "name": "<GEN>ipme03_kar",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ipme04_kam": {
+        "name": "<GEN>ipme04_kam",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ipme04_kar": {
+        "name": "<GEN>ipme04_kar",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ipme05_kam": {
+        "name": "<GEN>ipme05_kam",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ipme05_kar": {
+        "name": "<GEN>ipme05_kar",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "supreme_heal": {
+        "name": "<GEN>supreme_heal",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "test_conso_breakdance": {
+        "name": "<GEN>test_conso_breakdance",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "test_conso_craft_success": {
+        "name": "<GEN>test_conso_craft_success",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "test_conso_defense": {
+        "name": "<GEN>test_conso_defense",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "test_conso_desert_forage_success": {
+        "name": "<GEN>test_conso_desert_forage_success",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "test_conso_dodge": {
+        "name": "<GEN>test_conso_dodge",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "test_conso_forage_success": {
+        "name": "<GEN>test_conso_forage_success",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "test_conso_magic_success": {
+        "name": "<GEN>test_conso_magic_success",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "test_conso_melee_success": {
+        "name": "<GEN>test_conso_melee_success",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "test_conso_nobreak": {
+        "name": "<GEN>test_conso_nobreak",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "test_conso_parry": {
+        "name": "<GEN>test_conso_parry",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "test_conso_range_success": {
+        "name": "<GEN>test_conso_range_success",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "test_conso_sit": {
+        "name": "<GEN>test_conso_sit",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "test_conso_swim": {
+        "name": "<GEN>test_conso_swim",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "test_conso_toub": {
+        "name": "<GEN>test_conso_toub",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "test_fast_regen": {
+        "name": "<GEN>test_fast_regen",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "test_long_regen": {
+        "name": "<GEN>test_long_regen",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "light_sap_recharge": {
+        "name": "<GEN>light_sap_recharge",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "fy_cheveux_medium02": {
+        "name": "<GEN>fy_cheveux_medium02",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "fy_cheveux_medium03": {
+        "name": "<GEN>fy_cheveux_medium03",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "fy_cheveux_short02": {
+        "name": "<GEN>fy_cheveux_short02",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "fy_helmet_01": {
+        "name": "<GEN>fy_helmet_01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ka_helmet_01": {
+        "name": "<GEN>ka_helmet_01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ma_cheveux_long02": {
+        "name": "<GEN>ma_cheveux_long02",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ma_cheveux_medium02": {
+        "name": "<GEN>ma_cheveux_medium02",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ma_cheveux_short02": {
+        "name": "<GEN>ma_cheveux_short02",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ma_helmet_01": {
+        "name": "<GEN>ma_helmet_01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "tr_cheveux_medium02": {
+        "name": "<GEN>tr_cheveux_medium02",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "tr_cheveux_short02": {
+        "name": "<GEN>tr_cheveux_short02",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "tr_cheveux_short03": {
+        "name": "<GEN>tr_cheveux_short03",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "tr_helmet_01": {
+        "name": "<GEN>tr_helmet_01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "zo_cheveux_long02": {
+        "name": "<GEN>zo_cheveux_long02",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "zo_cheveux_medium02": {
+        "name": "<GEN>zo_cheveux_medium02",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "zo_cheveux_medium03": {
+        "name": "<GEN>zo_cheveux_medium03",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "zo_helmet_01": {
+        "name": "<GEN>zo_helmet_01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "sfxitforage_marauder": {
+        "name": "<GEN>sfxitforage_marauder",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "sfxitforage_pvp": {
+        "name": "<GEN>sfxitforage_pvp",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "sfxitforagefyros2": {
+        "name": "<GEN>sfxitforagefyros2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "sfxitforagematis_2": {
+        "name": "<GEN>sfxitforagematis_2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "sfxitforagetryker_2": {
+        "name": "<GEN>sfxitforagetryker_2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "sfxitforagezorai_2": {
+        "name": "<GEN>sfxitforagezorai_2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "bag": {
+        "name": "<GEN>bag",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "bag_inventory": {
+        "name": "<GEN>bag_inventory",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "bot_gift_inventory": {
+        "name": "<GEN>bot_gift_inventory",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "equipment_inventory": {
+        "name": "<GEN>equipment_inventory",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "guild_inventory": {
+        "name": "<GEN>guild_inventory",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "hand_inventory": {
+        "name": "<GEN>hand_inventory",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "pack_animal_inventory": {
+        "name": "<GEN>pack_animal_inventory",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "pickup": {
+        "name": "<GEN>pickup",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "player_room_inventory": {
+        "name": "<GEN>player_room_inventory",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "stack": {
+        "name": "<GEN>stack",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "steed_inventory": {
+        "name": "<GEN>steed_inventory",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "temporary_inventory": {
+        "name": "<GEN>temporary_inventory",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ickamm2ms": {
+        "name": "<GEN>ickamm2ms",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ickamm2ms_2": {
+        "name": "<GEN>ickamm2ms_2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ickamm2ms_3": {
+        "name": "<GEN>ickamm2ms_3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ickarm2ms": {
+        "name": "<GEN>ickarm2ms",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ickarm2ms_2": {
+        "name": "<GEN>ickarm2ms_2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ickarm2ms_3": {
+        "name": "<GEN>ickarm2ms_3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ichm2bm_hom": {
+        "name": "<GEN>ichm2bm_hom",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ichm2bm_kam": {
+        "name": "<GEN>ichm2bm_kam",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ichm2bm_kar": {
+        "name": "<GEN>ichm2bm_kar",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ichm2bm_kit": {
+        "name": "<GEN>ichm2bm_kit",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ichm2pp_hom": {
+        "name": "<GEN>ichm2pp_hom",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ichm2pp_kam": {
+        "name": "<GEN>ichm2pp_kam",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ichm2pp_kar": {
+        "name": "<GEN>ichm2pp_kar",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ichm2pp_kit": {
+        "name": "<GEN>ichm2pp_kit",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ichm2ss_hom": {
+        "name": "<GEN>ichm2ss_hom",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ichm2ss_kam": {
+        "name": "<GEN>ichm2ss_kam",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ichm2ss_kar": {
+        "name": "<GEN>ichm2ss_kar",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ichm2ss_kit": {
+        "name": "<GEN>ichm2ss_kit",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "npc_eroukan_sword": {
+        "name": "<GEN>npc_eroukan_sword",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "icbm2bm_3": {
+        "name": "<GEN>icbm2bm_3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "icbm2ss_3": {
+        "name": "<GEN>icbm2ss_3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "tcm_louche": {
+        "name": "<GEN>tcm_louche",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "cartographier_kitiniere_parchemin": {
+        "name": "<GEN>cartographier_kitiniere_parchemin",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "copie de cartographier_kitiniere_parchemin_full": {
+        "name": "<GEN>copie de cartographier_kitiniere_parchemin_full",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "botanist_list": {
+        "name": "<GEN>botanist_list",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "botanist_remedy": {
+        "name": "<GEN>botanist_remedy",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "clopper_flute": {
+        "name": "<GEN>clopper_flute",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "cwfh01_mp1": {
+        "name": "<GEN>cwfh01_mp1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "cwfh02_mp1": {
+        "name": "<GEN>cwfh02_mp1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "cwfh03_mp1": {
+        "name": "<GEN>cwfh03_mp1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "cwmh01_mp1": {
+        "name": "<GEN>cwmh01_mp1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "cwmh02_mp1": {
+        "name": "<GEN>cwmh02_mp1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "cwmh03_mp1": {
+        "name": "<GEN>cwmh03_mp1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "cwth01_mp1": {
+        "name": "<GEN>cwth01_mp1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "cwth02_mp1": {
+        "name": "<GEN>cwth02_mp1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "cwth02_mp2": {
+        "name": "<GEN>cwth02_mp2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "cwth03_mp1": {
+        "name": "<GEN>cwth03_mp1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "cwzh01_mp1": {
+        "name": "<GEN>cwzh01_mp1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "cwzh02_mp1": {
+        "name": "<GEN>cwzh02_mp1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "cwzh02_mp2": {
+        "name": "<GEN>cwzh02_mp2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "cwzh03_mp1": {
+        "name": "<GEN>cwzh03_mp1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "diseased_sprouts": {
+        "name": "<GEN>diseased_sprouts",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "flowers_medicine": {
+        "name": "<GEN>flowers_medicine",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "fragment_magik_echantillon_kitiniere": {
+        "name": "<GEN>fragment_magik_echantillon_kitiniere",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "fruit_medicine": {
+        "name": "<GEN>fruit_medicine",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "kitiniere_map": {
+        "name": "<GEN>kitiniere_map",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "kitiniere_prince_head": {
+        "name": "<GEN>kitiniere_prince_head",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "kitiniere_queen_head": {
+        "name": "<GEN>kitiniere_queen_head",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "light_armors_acreditation": {
+        "name": "<GEN>light_armors_acreditation",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "mb_seal1": {
+        "name": "<GEN>mb_seal1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "mb_seal2": {
+        "name": "<GEN>mb_seal2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "mc100_bon_clips": {
+        "name": "<GEN>mc100_bon_clips",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "melee_weapons_acreditation": {
+        "name": "<GEN>melee_weapons_acreditation",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "merchant_purse": {
+        "name": "<GEN>merchant_purse",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "nbland_msg_sivaldo": {
+        "name": "<GEN>nbland_msg_sivaldo",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "newbie_parchemin": {
+        "name": "<GEN>newbie_parchemin",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "newbie_tool": {
+        "name": "<GEN>newbie_tool",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "outpost_parchment": {
+        "name": "<GEN>outpost_parchment",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "pearl_black": {
+        "name": "<GEN>pearl_black",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "pearl_blue": {
+        "name": "<GEN>pearl_blue",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "pearl_violet": {
+        "name": "<GEN>pearl_violet",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "piece_of_cloth": {
+        "name": "<GEN>piece_of_cloth",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r_05_39_varinx_skull": {
+        "name": "<GEN>r_05_39_varinx_skull",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "report_councellor": {
+        "name": "<GEN>report_councellor",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjob_001": {
+        "name": "<GEN>rpjob_001",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjob_002": {
+        "name": "<GEN>rpjob_002",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjob_003": {
+        "name": "<GEN>rpjob_003",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjob_004": {
+        "name": "<GEN>rpjob_004",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjob_005": {
+        "name": "<GEN>rpjob_005",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjob_006": {
+        "name": "<GEN>rpjob_006",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjob_007": {
+        "name": "<GEN>rpjob_007",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjob_008": {
+        "name": "<GEN>rpjob_008",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjob_009": {
+        "name": "<GEN>rpjob_009",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjob_010": {
+        "name": "<GEN>rpjob_010",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjob_011": {
+        "name": "<GEN>rpjob_011",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjob_012": {
+        "name": "<GEN>rpjob_012",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjob_013": {
+        "name": "<GEN>rpjob_013",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjob_014": {
+        "name": "<GEN>rpjob_014",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjob_015": {
+        "name": "<GEN>rpjob_015",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjob_016": {
+        "name": "<GEN>rpjob_016",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjob_017": {
+        "name": "<GEN>rpjob_017",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjob_018": {
+        "name": "<GEN>rpjob_018",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjob_019": {
+        "name": "<GEN>rpjob_019",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjob_020": {
+        "name": "<GEN>rpjob_020",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjob_208": {
+        "name": "<GEN>rpjob_208",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjob_209": {
+        "name": "<GEN>rpjob_209",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjob_210": {
+        "name": "<GEN>rpjob_210",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjob_211": {
+        "name": "<GEN>rpjob_211",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjob_212": {
+        "name": "<GEN>rpjob_212",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjob_213": {
+        "name": "<GEN>rpjob_213",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjob_214": {
+        "name": "<GEN>rpjob_214",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjob_215": {
+        "name": "<GEN>rpjob_215",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjob_216": {
+        "name": "<GEN>rpjob_216",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjob_217": {
+        "name": "<GEN>rpjob_217",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjob_218": {
+        "name": "<GEN>rpjob_218",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjob_219": {
+        "name": "<GEN>rpjob_219",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_208_a0": {
+        "name": "<GEN>rpjobitem_208_a0",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_208_a1": {
+        "name": "<GEN>rpjobitem_208_a1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_208_b0": {
+        "name": "<GEN>rpjobitem_208_b0",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_208_b1": {
+        "name": "<GEN>rpjobitem_208_b1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_208_c0": {
+        "name": "<GEN>rpjobitem_208_c0",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_208_c1": {
+        "name": "<GEN>rpjobitem_208_c1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_209_a0": {
+        "name": "<GEN>rpjobitem_209_a0",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_209_a1": {
+        "name": "<GEN>rpjobitem_209_a1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_209_b0": {
+        "name": "<GEN>rpjobitem_209_b0",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_209_b1": {
+        "name": "<GEN>rpjobitem_209_b1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_209_c0": {
+        "name": "<GEN>rpjobitem_209_c0",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_209_c1": {
+        "name": "<GEN>rpjobitem_209_c1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_210_a0": {
+        "name": "<GEN>rpjobitem_210_a0",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_210_a1": {
+        "name": "<GEN>rpjobitem_210_a1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_210_b0": {
+        "name": "<GEN>rpjobitem_210_b0",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_210_b1": {
+        "name": "<GEN>rpjobitem_210_b1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_210_c0": {
+        "name": "<GEN>rpjobitem_210_c0",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_210_c1": {
+        "name": "<GEN>rpjobitem_210_c1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_211_a0": {
+        "name": "<GEN>rpjobitem_211_a0",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_211_a1": {
+        "name": "<GEN>rpjobitem_211_a1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_211_b0": {
+        "name": "<GEN>rpjobitem_211_b0",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_211_b1": {
+        "name": "<GEN>rpjobitem_211_b1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_211_c0": {
+        "name": "<GEN>rpjobitem_211_c0",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_211_c1": {
+        "name": "<GEN>rpjobitem_211_c1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_212_a0": {
+        "name": "<GEN>rpjobitem_212_a0",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_212_a1": {
+        "name": "<GEN>rpjobitem_212_a1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_212_b0": {
+        "name": "<GEN>rpjobitem_212_b0",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_212_b1": {
+        "name": "<GEN>rpjobitem_212_b1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_212_c0": {
+        "name": "<GEN>rpjobitem_212_c0",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_212_c1": {
+        "name": "<GEN>rpjobitem_212_c1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_213_a0": {
+        "name": "<GEN>rpjobitem_213_a0",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_213_a1": {
+        "name": "<GEN>rpjobitem_213_a1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_213_b0": {
+        "name": "<GEN>rpjobitem_213_b0",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_213_b1": {
+        "name": "<GEN>rpjobitem_213_b1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_213_c0": {
+        "name": "<GEN>rpjobitem_213_c0",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_213_c1": {
+        "name": "<GEN>rpjobitem_213_c1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_214_a0": {
+        "name": "<GEN>rpjobitem_214_a0",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_214_a1": {
+        "name": "<GEN>rpjobitem_214_a1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_214_b0": {
+        "name": "<GEN>rpjobitem_214_b0",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_214_b1": {
+        "name": "<GEN>rpjobitem_214_b1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_214_c0": {
+        "name": "<GEN>rpjobitem_214_c0",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_214_c1": {
+        "name": "<GEN>rpjobitem_214_c1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_215_a0": {
+        "name": "<GEN>rpjobitem_215_a0",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_215_a1": {
+        "name": "<GEN>rpjobitem_215_a1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_215_b0": {
+        "name": "<GEN>rpjobitem_215_b0",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_215_b1": {
+        "name": "<GEN>rpjobitem_215_b1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_215_c0": {
+        "name": "<GEN>rpjobitem_215_c0",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_215_c1": {
+        "name": "<GEN>rpjobitem_215_c1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_216_a0": {
+        "name": "<GEN>rpjobitem_216_a0",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_216_a1": {
+        "name": "<GEN>rpjobitem_216_a1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_216_b0": {
+        "name": "<GEN>rpjobitem_216_b0",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_216_b1": {
+        "name": "<GEN>rpjobitem_216_b1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_216_c0": {
+        "name": "<GEN>rpjobitem_216_c0",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_216_c1": {
+        "name": "<GEN>rpjobitem_216_c1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_217_a0": {
+        "name": "<GEN>rpjobitem_217_a0",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_217_a1": {
+        "name": "<GEN>rpjobitem_217_a1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_217_b0": {
+        "name": "<GEN>rpjobitem_217_b0",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_217_b1": {
+        "name": "<GEN>rpjobitem_217_b1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_217_c0": {
+        "name": "<GEN>rpjobitem_217_c0",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_217_c1": {
+        "name": "<GEN>rpjobitem_217_c1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_218_a0": {
+        "name": "<GEN>rpjobitem_218_a0",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_218_a1": {
+        "name": "<GEN>rpjobitem_218_a1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_218_b0": {
+        "name": "<GEN>rpjobitem_218_b0",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_218_b1": {
+        "name": "<GEN>rpjobitem_218_b1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_218_c0": {
+        "name": "<GEN>rpjobitem_218_c0",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_218_c1": {
+        "name": "<GEN>rpjobitem_218_c1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_219_a0": {
+        "name": "<GEN>rpjobitem_219_a0",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_219_a1": {
+        "name": "<GEN>rpjobitem_219_a1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_219_b0": {
+        "name": "<GEN>rpjobitem_219_b0",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_219_b1": {
+        "name": "<GEN>rpjobitem_219_b1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_219_c0": {
+        "name": "<GEN>rpjobitem_219_c0",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rpjobitem_219_c1": {
+        "name": "<GEN>rpjobitem_219_c1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "sacred_tryker_book": {
+        "name": "<GEN>sacred_tryker_book",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "tax_receipt": {
+        "name": "<GEN>tax_receipt",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "tcm_flower": {
+        "name": "<GEN>tcm_flower",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "tf60_ailes_grillees": {
+        "name": "<GEN>tf60_ailes_grillees",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "thief_letter": {
+        "name": "<GEN>thief_letter",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "very_big_barrel": {
+        "name": "<GEN>very_big_barrel",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "very_small_barrel": {
+        "name": "<GEN>very_small_barrel",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "warmap_goo_miasm": {
+        "name": "<GEN>warmap_goo_miasm",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "warmap_kami_merit": {
+        "name": "<GEN>warmap_kami_merit",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "warmap_karavan_merit": {
+        "name": "<GEN>warmap_karavan_merit",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "warmap_kitin_egg": {
+        "name": "<GEN>warmap_kitin_egg",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "warmap_nano": {
+        "name": "<GEN>warmap_nano",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "warmap_sap_cristaux": {
+        "name": "<GEN>warmap_sap_cristaux",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "icbr2l_3": {
+        "name": "<GEN>icbr2l_3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "karavan_gun": {
+        "name": "<GEN>karavan_gun",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "npc_caravan_pistol": {
+        "name": "<GEN>npc_caravan_pistol",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0077ixxcc02": {
+        "name": "<GEN>m0077ixxcc02",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0180dxaca02": {
+        "name": "<GEN>m0180dxaca02",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0180dxaca03": {
+        "name": "<GEN>m0180dxaca03",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0180dxaca04": {
+        "name": "<GEN>m0180dxaca04",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0708dxaca02": {
+        "name": "<GEN>m0708dxaca02",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0802dxacf01": {
+        "name": "<GEN>m0802dxacf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0803dxacf01": {
+        "name": "<GEN>m0803dxacf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0804dxacf01": {
+        "name": "<GEN>m0804dxacf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0805dxacf01": {
+        "name": "<GEN>m0805dxacf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0806dxacf01": {
+        "name": "<GEN>m0806dxacf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0807dxacf01": {
+        "name": "<GEN>m0807dxacf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0808dxacf01": {
+        "name": "<GEN>m0808dxacf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0809dxacf01": {
+        "name": "<GEN>m0809dxacf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0810dxacf01": {
+        "name": "<GEN>m0810dxacf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0811dxacf01": {
+        "name": "<GEN>m0811dxacf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0812dxacf01": {
+        "name": "<GEN>m0812dxacf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0813dxacf01": {
+        "name": "<GEN>m0813dxacf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0490ckcpf01": {
+        "name": "<GEN>m0490ckcpf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0491ckcpf01": {
+        "name": "<GEN>m0491ckcpf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0492ckcpf01": {
+        "name": "<GEN>m0492ckcpf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0604ckcpf01": {
+        "name": "<GEN>m0604ckcpf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0605ckcpf01": {
+        "name": "<GEN>m0605ckcpf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0757dxape01": {
+        "name": "<GEN>m0757dxape01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0757dxapf01": {
+        "name": "<GEN>m0757dxapf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0758dxapd01": {
+        "name": "<GEN>m0758dxapd01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0758dxapf01": {
+        "name": "<GEN>m0758dxapf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0759dxapd01": {
+        "name": "<GEN>m0759dxapd01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0759dxapf01": {
+        "name": "<GEN>m0759dxapf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0760dxapd01": {
+        "name": "<GEN>m0760dxapd01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0760dxapf01": {
+        "name": "<GEN>m0760dxapf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0761dxape01": {
+        "name": "<GEN>m0761dxape01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0761dxapf01": {
+        "name": "<GEN>m0761dxapf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0762dxape01": {
+        "name": "<GEN>m0762dxape01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0762dxapf01": {
+        "name": "<GEN>m0762dxapf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0763dxapd01": {
+        "name": "<GEN>m0763dxapd01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0763dxapf01": {
+        "name": "<GEN>m0763dxapf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0764dxapd01": {
+        "name": "<GEN>m0764dxapd01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0764dxapf01": {
+        "name": "<GEN>m0764dxapf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0765dxapd01": {
+        "name": "<GEN>m0765dxapd01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0765dxape01": {
+        "name": "<GEN>m0765dxape01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0766dxape01": {
+        "name": "<GEN>m0766dxape01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0766dxapf01": {
+        "name": "<GEN>m0766dxapf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0767dxapd01": {
+        "name": "<GEN>m0767dxapd01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0767dxapf01": {
+        "name": "<GEN>m0767dxapf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0768dxapd01": {
+        "name": "<GEN>m0768dxapd01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0768dxapf01": {
+        "name": "<GEN>m0768dxapf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0769dxapd01": {
+        "name": "<GEN>m0769dxapd01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0769dxapf01": {
+        "name": "<GEN>m0769dxapf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0770dxape01": {
+        "name": "<GEN>m0770dxape01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0770dxapf01": {
+        "name": "<GEN>m0770dxapf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0771dxapd01": {
+        "name": "<GEN>m0771dxapd01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0771dxapf01": {
+        "name": "<GEN>m0771dxapf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0772dxapd01": {
+        "name": "<GEN>m0772dxapd01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0772dxapf01": {
+        "name": "<GEN>m0772dxapf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0773dxapd01": {
+        "name": "<GEN>m0773dxapd01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0773dxapf01": {
+        "name": "<GEN>m0773dxapf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0774dxapd01": {
+        "name": "<GEN>m0774dxapd01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0774dxape01": {
+        "name": "<GEN>m0774dxape01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0775dxape01": {
+        "name": "<GEN>m0775dxape01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0775dxapf01": {
+        "name": "<GEN>m0775dxapf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0776dxape01": {
+        "name": "<GEN>m0776dxape01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0776dxapf01": {
+        "name": "<GEN>m0776dxapf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0777dxapd01": {
+        "name": "<GEN>m0777dxapd01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0777dxapf01": {
+        "name": "<GEN>m0777dxapf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0778dxapd01": {
+        "name": "<GEN>m0778dxapd01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0778dxape01": {
+        "name": "<GEN>m0778dxape01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0779dxape01": {
+        "name": "<GEN>m0779dxape01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0779dxapf01": {
+        "name": "<GEN>m0779dxapf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0780dxape01": {
+        "name": "<GEN>m0780dxape01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0780dxapf01": {
+        "name": "<GEN>m0780dxapf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0781dxapd01": {
+        "name": "<GEN>m0781dxapd01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0781dxapf01": {
+        "name": "<GEN>m0781dxapf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0782dxapd01": {
+        "name": "<GEN>m0782dxapd01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0782dxapf01": {
+        "name": "<GEN>m0782dxapf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0783dxape01": {
+        "name": "<GEN>m0783dxape01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0783dxapf01": {
+        "name": "<GEN>m0783dxapf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0784dxape01": {
+        "name": "<GEN>m0784dxape01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0784dxapf01": {
+        "name": "<GEN>m0784dxapf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0785dxapd01": {
+        "name": "<GEN>m0785dxapd01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0785dxapf01": {
+        "name": "<GEN>m0785dxapf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0786dxapd01": {
+        "name": "<GEN>m0786dxapd01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0786dxapf01": {
+        "name": "<GEN>m0786dxapf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0787dxapd01": {
+        "name": "<GEN>m0787dxapd01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0787dxapf01": {
+        "name": "<GEN>m0787dxapf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0797dxapd01": {
+        "name": "<GEN>m0797dxapd01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0797dxape01": {
+        "name": "<GEN>m0797dxape01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0797dxapf01": {
+        "name": "<GEN>m0797dxapf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0798dxapd01": {
+        "name": "<GEN>m0798dxapd01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0798dxape01": {
+        "name": "<GEN>m0798dxape01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0798dxapf01": {
+        "name": "<GEN>m0798dxapf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0799dxapd01": {
+        "name": "<GEN>m0799dxapd01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0799dxape01": {
+        "name": "<GEN>m0799dxape01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0799dxapf01": {
+        "name": "<GEN>m0799dxapf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0800dxapd01": {
+        "name": "<GEN>m0800dxapd01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0800dxape01": {
+        "name": "<GEN>m0800dxape01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0800dxapf01": {
+        "name": "<GEN>m0800dxapf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0801dxapd01": {
+        "name": "<GEN>m0801dxapd01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0801dxape01": {
+        "name": "<GEN>m0801dxape01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0801dxapf01": {
+        "name": "<GEN>m0801dxapf01",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "system_mp_xl_black": {
+        "name": "<GEN>system_mp_xl_black",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "system_mp_xl_blue": {
+        "name": "<GEN>system_mp_xl_blue",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "system_mp_xl_green": {
+        "name": "<GEN>system_mp_xl_green",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "system_mp_xl_purple": {
+        "name": "<GEN>system_mp_xl_purple",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "system_mp_xl_red": {
+        "name": "<GEN>system_mp_xl_red",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "system_mp_xl_turquoise": {
+        "name": "<GEN>system_mp_xl_turquoise",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "system_mp_xl_white": {
+        "name": "<GEN>system_mp_xl_white",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_create_new_plot_item": {
+        "name": "<GEN>r2_create_new_plot_item",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_0": {
+        "name": "<GEN>r2_plot_item_0",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_1": {
+        "name": "<GEN>r2_plot_item_1",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_10": {
+        "name": "<GEN>r2_plot_item_10",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_100": {
+        "name": "<GEN>r2_plot_item_100",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_101": {
+        "name": "<GEN>r2_plot_item_101",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_102": {
+        "name": "<GEN>r2_plot_item_102",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_103": {
+        "name": "<GEN>r2_plot_item_103",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_104": {
+        "name": "<GEN>r2_plot_item_104",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_105": {
+        "name": "<GEN>r2_plot_item_105",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_106": {
+        "name": "<GEN>r2_plot_item_106",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_107": {
+        "name": "<GEN>r2_plot_item_107",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_108": {
+        "name": "<GEN>r2_plot_item_108",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_109": {
+        "name": "<GEN>r2_plot_item_109",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_11": {
+        "name": "<GEN>r2_plot_item_11",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_110": {
+        "name": "<GEN>r2_plot_item_110",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_111": {
+        "name": "<GEN>r2_plot_item_111",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_112": {
+        "name": "<GEN>r2_plot_item_112",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_113": {
+        "name": "<GEN>r2_plot_item_113",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_114": {
+        "name": "<GEN>r2_plot_item_114",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_115": {
+        "name": "<GEN>r2_plot_item_115",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_116": {
+        "name": "<GEN>r2_plot_item_116",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_117": {
+        "name": "<GEN>r2_plot_item_117",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_118": {
+        "name": "<GEN>r2_plot_item_118",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_119": {
+        "name": "<GEN>r2_plot_item_119",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_12": {
+        "name": "<GEN>r2_plot_item_12",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_120": {
+        "name": "<GEN>r2_plot_item_120",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_121": {
+        "name": "<GEN>r2_plot_item_121",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_122": {
+        "name": "<GEN>r2_plot_item_122",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_123": {
+        "name": "<GEN>r2_plot_item_123",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_124": {
+        "name": "<GEN>r2_plot_item_124",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_125": {
+        "name": "<GEN>r2_plot_item_125",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_126": {
+        "name": "<GEN>r2_plot_item_126",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_127": {
+        "name": "<GEN>r2_plot_item_127",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_128": {
+        "name": "<GEN>r2_plot_item_128",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_129": {
+        "name": "<GEN>r2_plot_item_129",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_13": {
+        "name": "<GEN>r2_plot_item_13",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_130": {
+        "name": "<GEN>r2_plot_item_130",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_131": {
+        "name": "<GEN>r2_plot_item_131",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_132": {
+        "name": "<GEN>r2_plot_item_132",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_133": {
+        "name": "<GEN>r2_plot_item_133",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_134": {
+        "name": "<GEN>r2_plot_item_134",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_135": {
+        "name": "<GEN>r2_plot_item_135",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_136": {
+        "name": "<GEN>r2_plot_item_136",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_137": {
+        "name": "<GEN>r2_plot_item_137",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_138": {
+        "name": "<GEN>r2_plot_item_138",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_139": {
+        "name": "<GEN>r2_plot_item_139",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_14": {
+        "name": "<GEN>r2_plot_item_14",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_140": {
+        "name": "<GEN>r2_plot_item_140",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_141": {
+        "name": "<GEN>r2_plot_item_141",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_142": {
+        "name": "<GEN>r2_plot_item_142",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_143": {
+        "name": "<GEN>r2_plot_item_143",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_144": {
+        "name": "<GEN>r2_plot_item_144",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_145": {
+        "name": "<GEN>r2_plot_item_145",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_146": {
+        "name": "<GEN>r2_plot_item_146",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_147": {
+        "name": "<GEN>r2_plot_item_147",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_148": {
+        "name": "<GEN>r2_plot_item_148",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_149": {
+        "name": "<GEN>r2_plot_item_149",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_15": {
+        "name": "<GEN>r2_plot_item_15",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_150": {
+        "name": "<GEN>r2_plot_item_150",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_151": {
+        "name": "<GEN>r2_plot_item_151",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_152": {
+        "name": "<GEN>r2_plot_item_152",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_153": {
+        "name": "<GEN>r2_plot_item_153",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_154": {
+        "name": "<GEN>r2_plot_item_154",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_155": {
+        "name": "<GEN>r2_plot_item_155",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_156": {
+        "name": "<GEN>r2_plot_item_156",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_157": {
+        "name": "<GEN>r2_plot_item_157",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_158": {
+        "name": "<GEN>r2_plot_item_158",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_159": {
+        "name": "<GEN>r2_plot_item_159",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_16": {
+        "name": "<GEN>r2_plot_item_16",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_160": {
+        "name": "<GEN>r2_plot_item_160",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_161": {
+        "name": "<GEN>r2_plot_item_161",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_162": {
+        "name": "<GEN>r2_plot_item_162",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_163": {
+        "name": "<GEN>r2_plot_item_163",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_164": {
+        "name": "<GEN>r2_plot_item_164",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_165": {
+        "name": "<GEN>r2_plot_item_165",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_166": {
+        "name": "<GEN>r2_plot_item_166",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_167": {
+        "name": "<GEN>r2_plot_item_167",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_168": {
+        "name": "<GEN>r2_plot_item_168",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_169": {
+        "name": "<GEN>r2_plot_item_169",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_17": {
+        "name": "<GEN>r2_plot_item_17",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_170": {
+        "name": "<GEN>r2_plot_item_170",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_171": {
+        "name": "<GEN>r2_plot_item_171",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_172": {
+        "name": "<GEN>r2_plot_item_172",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_173": {
+        "name": "<GEN>r2_plot_item_173",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_174": {
+        "name": "<GEN>r2_plot_item_174",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_175": {
+        "name": "<GEN>r2_plot_item_175",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_176": {
+        "name": "<GEN>r2_plot_item_176",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_177": {
+        "name": "<GEN>r2_plot_item_177",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_178": {
+        "name": "<GEN>r2_plot_item_178",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_179": {
+        "name": "<GEN>r2_plot_item_179",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_18": {
+        "name": "<GEN>r2_plot_item_18",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_180": {
+        "name": "<GEN>r2_plot_item_180",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_181": {
+        "name": "<GEN>r2_plot_item_181",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_182": {
+        "name": "<GEN>r2_plot_item_182",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_183": {
+        "name": "<GEN>r2_plot_item_183",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_184": {
+        "name": "<GEN>r2_plot_item_184",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_19": {
+        "name": "<GEN>r2_plot_item_19",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_2": {
+        "name": "<GEN>r2_plot_item_2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_20": {
+        "name": "<GEN>r2_plot_item_20",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_21": {
+        "name": "<GEN>r2_plot_item_21",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_22": {
+        "name": "<GEN>r2_plot_item_22",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_23": {
+        "name": "<GEN>r2_plot_item_23",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_24": {
+        "name": "<GEN>r2_plot_item_24",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_25": {
+        "name": "<GEN>r2_plot_item_25",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_26": {
+        "name": "<GEN>r2_plot_item_26",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_27": {
+        "name": "<GEN>r2_plot_item_27",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_28": {
+        "name": "<GEN>r2_plot_item_28",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_29": {
+        "name": "<GEN>r2_plot_item_29",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_3": {
+        "name": "<GEN>r2_plot_item_3",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_30": {
+        "name": "<GEN>r2_plot_item_30",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_31": {
+        "name": "<GEN>r2_plot_item_31",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_32": {
+        "name": "<GEN>r2_plot_item_32",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_33": {
+        "name": "<GEN>r2_plot_item_33",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_34": {
+        "name": "<GEN>r2_plot_item_34",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_35": {
+        "name": "<GEN>r2_plot_item_35",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_36": {
+        "name": "<GEN>r2_plot_item_36",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_37": {
+        "name": "<GEN>r2_plot_item_37",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_38": {
+        "name": "<GEN>r2_plot_item_38",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_39": {
+        "name": "<GEN>r2_plot_item_39",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_4": {
+        "name": "<GEN>r2_plot_item_4",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_40": {
+        "name": "<GEN>r2_plot_item_40",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_41": {
+        "name": "<GEN>r2_plot_item_41",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_42": {
+        "name": "<GEN>r2_plot_item_42",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_43": {
+        "name": "<GEN>r2_plot_item_43",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_44": {
+        "name": "<GEN>r2_plot_item_44",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_45": {
+        "name": "<GEN>r2_plot_item_45",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_46": {
+        "name": "<GEN>r2_plot_item_46",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_47": {
+        "name": "<GEN>r2_plot_item_47",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_48": {
+        "name": "<GEN>r2_plot_item_48",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_49": {
+        "name": "<GEN>r2_plot_item_49",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_5": {
+        "name": "<GEN>r2_plot_item_5",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_50": {
+        "name": "<GEN>r2_plot_item_50",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_51": {
+        "name": "<GEN>r2_plot_item_51",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_52": {
+        "name": "<GEN>r2_plot_item_52",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_53": {
+        "name": "<GEN>r2_plot_item_53",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_54": {
+        "name": "<GEN>r2_plot_item_54",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_55": {
+        "name": "<GEN>r2_plot_item_55",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_56": {
+        "name": "<GEN>r2_plot_item_56",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_57": {
+        "name": "<GEN>r2_plot_item_57",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_58": {
+        "name": "<GEN>r2_plot_item_58",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_59": {
+        "name": "<GEN>r2_plot_item_59",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_6": {
+        "name": "<GEN>r2_plot_item_6",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_60": {
+        "name": "<GEN>r2_plot_item_60",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_61": {
+        "name": "<GEN>r2_plot_item_61",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_62": {
+        "name": "<GEN>r2_plot_item_62",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_63": {
+        "name": "<GEN>r2_plot_item_63",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_64": {
+        "name": "<GEN>r2_plot_item_64",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_65": {
+        "name": "<GEN>r2_plot_item_65",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_66": {
+        "name": "<GEN>r2_plot_item_66",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_67": {
+        "name": "<GEN>r2_plot_item_67",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_68": {
+        "name": "<GEN>r2_plot_item_68",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_69": {
+        "name": "<GEN>r2_plot_item_69",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_7": {
+        "name": "<GEN>r2_plot_item_7",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_70": {
+        "name": "<GEN>r2_plot_item_70",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_71": {
+        "name": "<GEN>r2_plot_item_71",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_72": {
+        "name": "<GEN>r2_plot_item_72",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_73": {
+        "name": "<GEN>r2_plot_item_73",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_74": {
+        "name": "<GEN>r2_plot_item_74",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_75": {
+        "name": "<GEN>r2_plot_item_75",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_76": {
+        "name": "<GEN>r2_plot_item_76",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_77": {
+        "name": "<GEN>r2_plot_item_77",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_78": {
+        "name": "<GEN>r2_plot_item_78",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_79": {
+        "name": "<GEN>r2_plot_item_79",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_8": {
+        "name": "<GEN>r2_plot_item_8",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_80": {
+        "name": "<GEN>r2_plot_item_80",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_81": {
+        "name": "<GEN>r2_plot_item_81",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_82": {
+        "name": "<GEN>r2_plot_item_82",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_83": {
+        "name": "<GEN>r2_plot_item_83",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_84": {
+        "name": "<GEN>r2_plot_item_84",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_85": {
+        "name": "<GEN>r2_plot_item_85",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_86": {
+        "name": "<GEN>r2_plot_item_86",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_87": {
+        "name": "<GEN>r2_plot_item_87",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_88": {
+        "name": "<GEN>r2_plot_item_88",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_89": {
+        "name": "<GEN>r2_plot_item_89",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_9": {
+        "name": "<GEN>r2_plot_item_9",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_90": {
+        "name": "<GEN>r2_plot_item_90",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_91": {
+        "name": "<GEN>r2_plot_item_91",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_92": {
+        "name": "<GEN>r2_plot_item_92",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_93": {
+        "name": "<GEN>r2_plot_item_93",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_94": {
+        "name": "<GEN>r2_plot_item_94",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_95": {
+        "name": "<GEN>r2_plot_item_95",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_96": {
+        "name": "<GEN>r2_plot_item_96",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_97": {
+        "name": "<GEN>r2_plot_item_97",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_98": {
+        "name": "<GEN>r2_plot_item_98",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "r2_plot_item_99": {
+        "name": "<GEN>r2_plot_item_99",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "test_scroll_r2": {
+        "name": "<GEN>test_scroll_r2",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "icbss_marauder": {
+        "name": "<GEN>icbss_marauder",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "icbss_pvp": {
+        "name": "<GEN>icbss_pvp",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "tp_kami_corrupted_moor": {
+        "name": "<GEN>tp_kami_corrupted_moor",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "tp_kami_corrupted_moor_fairhaven": {
+        "name": "<GEN>tp_kami_corrupted_moor_fairhaven",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "tp_kami_corrupted_moor_pyr": {
+        "name": "<GEN>tp_kami_corrupted_moor_pyr",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "tp_kami_corrupted_moor_yrkanis": {
+        "name": "<GEN>tp_kami_corrupted_moor_yrkanis",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "tp_kami_corrupted_moor_zora": {
+        "name": "<GEN>tp_kami_corrupted_moor_zora",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "tp_karavan_corrupted_moor": {
+        "name": "<GEN>tp_karavan_corrupted_moor",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "tp_karavan_corrupted_moor_fairhaven": {
+        "name": "<GEN>tp_karavan_corrupted_moor_fairhaven",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "tp_karavan_corrupted_moor_pyr": {
+        "name": "<GEN>tp_karavan_corrupted_moor_pyr",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "tp_karavan_corrupted_moor_yrkanis": {
+        "name": "<GEN>tp_karavan_corrupted_moor_yrkanis",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "tp_karavan_corrupted_moor_zora": {
+        "name": "<GEN>tp_karavan_corrupted_moor_zora",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
     "xmas_gingeryubo": {
         "name": "Gingerbread Yubo",
         "p": "a",
@@ -55118,6 +62510,326 @@
         "somgen": "Gingerbread Man",
         "twogen": "",
         "onegen": "the"
+    },
+    "event_sheet_music": {
+        "name": "Sheet",
+        "p": "Sheet",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ic_ice_stick": {
+        "name": "Ice Stick",
+        "p": "Ice Sticks",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ic_star_stick": {
+        "name": "Star Stick",
+        "p": "Star Sticks",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "tp_kami_ranger_camp": {
+        "name": "Kami Teleporter Pact for Ranger Camp",
+        "p": "Kami Teleporter Pacts for Ranger Camp",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "tp_kami_shining_lake": {
+        "name": "Kami Teleporter Pact for Shining Lake",
+        "p": "Kami Teleporter Pacts for Shining Lake",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "tp_karavan_ranger_camp": {
+        "name": "Karavan Teleporter Pact for Ranger Camp",
+        "p": "Karavan Teleporter Pacts for Ranger Camp",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "tp_karavan_shattered_ruins": {
+        "name": "Karavan Teleporter Pact for Shattered Ruins",
+        "p": "Karavan Teleporter Pacts for Shattered Ruins",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "rite_ranger_map_book": {
+        "name": "Map",
+        "p": "Map",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ranger_rite_leader_tool": {
+        "name": "Leader Tool",
+        "p": "Leader Tool",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ranger_rite_flare_gun": {
+        "name": "Flare Gun",
+        "p": "Flare Gun",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0817googf01": {
+        "name": "Supreme leaf of corrupted cratcha",
+        "p": "Supreme leaf of corrupted cratcha",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "m0818googf01": {
+        "name": "Supreme stem of corrupted cratcha",
+        "p": "Supreme stem of corrupted cratcha",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "teddragus": {
+        "name": "Peluche",
+        "p": "Peluches",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "teddploderos": {
+        "name": "Peluche",
+        "p": "Peluches",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "teddmadakam": {
+        "name": "Peluche",
+        "p": "Peluches",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "teddlumper": {
+        "name": "Peluche",
+        "p": "Peluches",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "teddgubani": {
+        "name": "Peluche",
+        "p": "Peluches",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "teddarma": {
+        "name": "Peluche",
+        "p": "Peluches",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "gubani_mount_0": {
+        "name": "Gubani Mount",
+        "p": "Gubani Mount",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "gubani_mount_1": {
+        "name": "Gubani Mount",
+        "p": "Gubani Mount",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "gubani_mount_2": {
+        "name": "Gubani Mount",
+        "p": "Gubani Mount",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "gubani_mount_3": {
+        "name": "Gubani Mount",
+        "p": "Gubani Mount",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "gubani_mount_4": {
+        "name": "Gubani Mount",
+        "p": "Gubani Mount",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iaad": {
+        "name": "Gubani Zig",
+        "p": "Gubani Zig",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ic_halloween_stick": {
+        "name": "Pumpkin Stick",
+        "p": "Pumpkin Stick",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ic_anlor_weapon01": {
+        "name": "Scythe of terror",
+        "p": "Scythe of terror",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ic_anlor_weapon01b": {
+        "name": "Scythe of terror",
+        "p": "Scythe of terror",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ic_anlor_weapon02": {
+        "name": "Evil weapon",
+        "p": "Evil weapon",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ic_anlor_weapon02b": {
+        "name": "Evil weapon",
+        "p": "Evil weapon",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ic_anlor_helmet01": {
+        "name": "Anlor Winn helmet",
+        "p": "Anlor Winn helmet",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "icfaup": {
+        "name": "Fyros Light Panties",
+        "p": "Fyros Light Panties",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "icfauv": {
+        "name": "Fyros Light Bra",
+        "p": "Fyros Light Bra",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "icmaup": {
+        "name": "Matis Light Panties",
+        "p": "Fyros Light Panties",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "icmauv": {
+        "name": "Matis Light Bra",
+        "p": "Fyros Light Bra",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ictaup": {
+        "name": "Tryker Light Panties",
+        "p": "Fyros Light Panties",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "ictauv": {
+        "name": "Tryker Light Bra",
+        "p": "Fyros Light Bra",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iczaup": {
+        "name": "Zorai Light Panties",
+        "p": "Fyros Light Panties",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "iczauv": {
+        "name": "Zorai Light Bra",
+        "p": "Fyros Light Bra",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "tp_interface_kami": {
+        "name": "Kami Teleportation Artefact",
+        "p": "Kami Teleportation Artefact",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "tp_interface_karavan": {
+        "name": "Karavan Teleportation Artefact",
+        "p": "Karavan Teleportation Artefact",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
     },
     "wheel_token_anlor": {
         "name": "Ржавый Жетон",
@@ -55174,5 +62886,37 @@
         "somgen": "Ржавых Жетона",
         "twogen": "Ржавый Жетон",
         "onegen": ""
+    },
+    "steak_rendor_1": {
+        "name": "Mясо рендора",
+        "p": "ПMясо рендора",
+        "description": "",
+        "somgen": "Mясо рендора",
+        "twogen": "Mясо рендора",
+        "onegen": "Mясо рендора"
+    },
+    "steak_rendor_2": {
+        "name": "Mясо рендора",
+        "p": "ПMясо рендора",
+        "description": "",
+        "somgen": "Mясо рендора",
+        "twogen": "Mясо рендора",
+        "onegen": "Mясо рендора"
+    },
+    "steak_rendor_3": {
+        "name": "Mясо рендора",
+        "p": "ПMясо рендора",
+        "description": "",
+        "somgen": "Mясо рендора",
+        "twogen": "Mясо рендора",
+        "onegen": "Mясо рендора"
+    },
+    "steak_rendor_4": {
+        "name": "Mясо рендора",
+        "p": "ПMясо рендора",
+        "description": "",
+        "somgen": "Mясо рендора",
+        "twogen": "Mясо рендора",
+        "onegen": "Mясо рендора"
     }
 }

@@ -136796,5 +136796,863 @@
         "required_skills": {
             "shf": 60
         }
+    },
+    "tag_fyros_1": {
+        "sheet_id": "tag_fyros_1",
+        "brick_family": 477,
+        "index_in_family": 1,
+        "level": 1,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "pvp_ally_1_bw.png",
+            "back": "bk_magie_noire_brick.png"
+        }
+    },
+    "tag_fyros_2": {
+        "sheet_id": "tag_fyros_2",
+        "brick_family": 477,
+        "index_in_family": 2,
+        "level": 2,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "pvp_ally_1.png",
+            "back": "bk_magie_noire_brick.png"
+        }
+    },
+    "tag_fyros_3": {
+        "sheet_id": "tag_fyros_3",
+        "brick_family": 477,
+        "index_in_family": 3,
+        "level": 3,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "pvp_ally_1_sl.png",
+            "back": "bk_magie_noire_brick.png"
+        }
+    },
+    "tag_fyros_4": {
+        "sheet_id": "tag_fyros_4",
+        "brick_family": 477,
+        "index_in_family": 4,
+        "level": 4,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "pvp_ally_1_or.png",
+            "back": "bk_magie_noire_brick.png"
+        }
+    },
+    "tag_kami_1": {
+        "sheet_id": "tag_kami_1",
+        "brick_family": 477,
+        "index_in_family": 1,
+        "level": 1,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "pvp_ally_4_bw.png",
+            "back": "bk_magie_noire_brick.png"
+        }
+    },
+    "tag_kami_2": {
+        "sheet_id": "tag_kami_2",
+        "brick_family": 477,
+        "index_in_family": 2,
+        "level": 2,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "pvp_ally_4.png",
+            "back": "bk_magie_noire_brick.png"
+        }
+    },
+    "tag_kami_3": {
+        "sheet_id": "tag_kami_3",
+        "brick_family": 477,
+        "index_in_family": 3,
+        "level": 3,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "pvp_ally_4_sl.png",
+            "back": "bk_magie_noire_brick.png"
+        }
+    },
+    "tag_kami_4": {
+        "sheet_id": "tag_kami_4",
+        "brick_family": 477,
+        "index_in_family": 4,
+        "level": 4,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "pvp_ally_4_or.png",
+            "back": "bk_magie_noire_brick.png"
+        }
+    },
+    "tag_karavan_1": {
+        "sheet_id": "tag_karavan_1",
+        "brick_family": 477,
+        "index_in_family": 1,
+        "level": 1,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "pvp_ally_6_bw.png",
+            "back": "bk_magie_noire_brick.png"
+        }
+    },
+    "tag_karavan_2": {
+        "sheet_id": "tag_karavan_2",
+        "brick_family": 477,
+        "index_in_family": 2,
+        "level": 2,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "pvp_ally_6.png",
+            "back": "bk_magie_noire_brick.png"
+        }
+    },
+    "tag_karavan_3": {
+        "sheet_id": "tag_karavan_3",
+        "brick_family": 477,
+        "index_in_family": 3,
+        "level": 3,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "pvp_ally_6_sl.png",
+            "back": "bk_magie_noire_brick.png"
+        }
+    },
+    "tag_karavan_4": {
+        "sheet_id": "tag_karavan_4",
+        "brick_family": 477,
+        "index_in_family": 4,
+        "level": 4,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "pvp_ally_6_or.png",
+            "back": "bk_magie_noire_brick.png"
+        }
+    },
+    "tag_marauder_1": {
+        "sheet_id": "tag_marauder_1",
+        "brick_family": 477,
+        "index_in_family": 1,
+        "level": 1,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "pvp_enemy_marauder_bw.png",
+            "back": "bk_magie_noire_brick.png"
+        }
+    },
+    "tag_marauder_2": {
+        "sheet_id": "tag_marauder_2",
+        "brick_family": 477,
+        "index_in_family": 2,
+        "level": 2,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "pvp_enemy_marauder.png",
+            "back": "bk_magie_noire_brick.png"
+        }
+    },
+    "tag_marauder_3": {
+        "sheet_id": "tag_marauder_3",
+        "brick_family": 477,
+        "index_in_family": 3,
+        "level": 3,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "pvp_enemy_marauder_sl.png",
+            "back": "bk_magie_noire_brick.png"
+        }
+    },
+    "tag_marauder_4": {
+        "sheet_id": "tag_marauder_4",
+        "brick_family": 477,
+        "index_in_family": 4,
+        "level": 4,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "pvp_enemy_marauder_or.png",
+            "back": "bk_magie_noire_brick.png"
+        }
+    },
+    "tag_matis_1": {
+        "sheet_id": "tag_matis_1",
+        "brick_family": 477,
+        "index_in_family": 1,
+        "level": 1,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "pvp_ally_0_bw.png",
+            "back": "bk_magie_noire_brick.png"
+        }
+    },
+    "tag_matis_2": {
+        "sheet_id": "tag_matis_2",
+        "brick_family": 477,
+        "index_in_family": 2,
+        "level": 2,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "pvp_ally_0.png",
+            "back": "bk_magie_noire_brick.png"
+        }
+    },
+    "tag_matis_3": {
+        "sheet_id": "tag_matis_3",
+        "brick_family": 477,
+        "index_in_family": 3,
+        "level": 3,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "pvp_ally_0_sl.png",
+            "back": "bk_magie_noire_brick.png"
+        }
+    },
+    "tag_matis_4": {
+        "sheet_id": "tag_matis_4",
+        "brick_family": 477,
+        "index_in_family": 4,
+        "level": 4,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "pvp_ally_0_or.png",
+            "back": "bk_magie_noire_brick.png"
+        }
+    },
+    "tag_ranger_1": {
+        "sheet_id": "tag_ranger_1",
+        "brick_family": 477,
+        "index_in_family": 1,
+        "level": 1,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "pvp_ally_ranger_bw.png",
+            "back": "bk_magie_noire_brick.png"
+        }
+    },
+    "tag_ranger_2": {
+        "sheet_id": "tag_ranger_2",
+        "brick_family": 477,
+        "index_in_family": 2,
+        "level": 2,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "pvp_ally_ranger.png",
+            "back": "bk_magie_noire_brick.png"
+        }
+    },
+    "tag_ranger_3": {
+        "sheet_id": "tag_ranger_3",
+        "brick_family": 477,
+        "index_in_family": 3,
+        "level": 3,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "pvp_ally_ranger_sl.png",
+            "back": "bk_magie_noire_brick.png"
+        }
+    },
+    "tag_ranger_4": {
+        "sheet_id": "tag_ranger_4",
+        "brick_family": 477,
+        "index_in_family": 4,
+        "level": 4,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "pvp_ally_ranger_or.png",
+            "back": "bk_magie_noire_brick.png"
+        }
+    },
+    "tag_try": {
+        "sheet_id": "tag_try",
+        "brick_family": 477,
+        "index_in_family": 0,
+        "level": 0,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "jewel_try.png",
+            "back": "bk_magie_noire_brick.png"
+        }
+    },
+    "tag_tryker_1": {
+        "sheet_id": "tag_tryker_1",
+        "brick_family": 477,
+        "index_in_family": 1,
+        "level": 1,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "pvp_ally_2_bw.png",
+            "back": "bk_magie_noire_brick.png"
+        }
+    },
+    "tag_tryker_2": {
+        "sheet_id": "tag_tryker_2",
+        "brick_family": 477,
+        "index_in_family": 2,
+        "level": 2,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "pvp_ally_2.png",
+            "back": "bk_magie_noire_brick.png"
+        }
+    },
+    "tag_tryker_3": {
+        "sheet_id": "tag_tryker_3",
+        "brick_family": 477,
+        "index_in_family": 3,
+        "level": 3,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "pvp_ally_2_sl.png",
+            "back": "bk_magie_noire_brick.png"
+        }
+    },
+    "tag_tryker_4": {
+        "sheet_id": "tag_tryker_4",
+        "brick_family": 477,
+        "index_in_family": 4,
+        "level": 4,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "pvp_ally_2_or.png",
+            "back": "bk_magie_noire_brick.png"
+        }
+    },
+    "tag_zorai_1": {
+        "sheet_id": "tag_zorai_1",
+        "brick_family": 477,
+        "index_in_family": 1,
+        "level": 1,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "pvp_ally_3_bw.png",
+            "back": "bk_magie_noire_brick.png"
+        }
+    },
+    "tag_zorai_2": {
+        "sheet_id": "tag_zorai_2",
+        "brick_family": 477,
+        "index_in_family": 2,
+        "level": 2,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "pvp_ally_3.png",
+            "back": "bk_magie_noire_brick.png"
+        }
+    },
+    "tag_zorai_3": {
+        "sheet_id": "tag_zorai_3",
+        "brick_family": 477,
+        "index_in_family": 3,
+        "level": 3,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "pvp_ally_3_sl.png",
+            "back": "bk_magie_noire_brick.png"
+        }
+    },
+    "tag_zorai_4": {
+        "sheet_id": "tag_zorai_4",
+        "brick_family": 477,
+        "index_in_family": 4,
+        "level": 4,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "pvp_ally_3_or.png",
+            "back": "bk_magie_noire_brick.png"
+        }
     }
 }

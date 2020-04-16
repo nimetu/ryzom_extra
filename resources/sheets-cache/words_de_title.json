@@ -961,11 +961,11 @@
     },
     "fct_stableboy_merchant": {
         "name": "(Stallbursche)",
-        "women_name": "(Stallbedienstete)"
+        "women_name": "(Stallbursche)"
     },
     "fct_rm_merchant": {
         "name": "(Händler für Rohmaterialien)",
-        "women_name": "(Händler für Rohmaterialienin)"
+        "women_name": "(Händlerin für Rohmaterialien)"
     },
     "fct_jewel_merchant": {
         "name": "(Schmuckhändler)",
@@ -1356,8 +1356,8 @@
         "women_name": "(Grenzwächterin)"
     },
     "fct_stablegirl_merchant": {
-        "name": "(Stallbedienstete)",
-        "women_name": "(Stallbedienstete)"
+        "name": "(Stallmädchen)",
+        "women_name": "(Stallmädchen)"
     },
     "fct_barmaid": {
         "name": "(Bardame)",
@@ -7624,11 +7624,31 @@
         "women_name": ""
     },
     "fct_to_new_horizons": {
-        "name": "To New Horizons",
+        "name": "Zu Neuen Horizonten",
         "women_name": ""
     },
     "fct_marauder_merchant": {
         "name": "Marodeure Händler",
         "women_name": "Marodeure Händlerin"
+    },
+    "fct_ranger_guide": {
+        "name": "Ranger-Guide",
+        "women_name": "Ranger-Guide"
+    },
+    "fct_ranger_quartermaster": {
+        "name": "Ranger-Quartiermeister",
+        "women_name": "Ranger-Quartiermeisterin"
+    },
+    "fct_arionasiszig": {
+        "name": "Arionasis' Zig",
+        "women_name": ""
+    },
+    "fct_tyneetrykzig": {
+        "name": "Tyneetryk' Zig",
+        "women_name": ""
+    },
+    "gn_fresh_water_barrel": {
+        "name": "Frischwasserfaß",
+        "women_name": ""
     }
 }

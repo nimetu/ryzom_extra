@@ -7590,5 +7590,53 @@
     "gn_room_access": {
         "name": "Доступ к терминалу",
         "women_name": ""
+    },
+    "gn_gravats": {
+        "name": "Щебень",
+        "women_name": "Щебень"
+    },
+    "fct_ranger_instructor": {
+        "name": "Рейнджер Инструктор",
+        "women_name": "Рейнджер Инструкторша"
+    },
+    "fct_ranger_assistant": {
+        "name": "Помощник Инструктора",
+        "women_name": "Помощница Инструктора"
+    },
+    "fct_ranger_veteran": {
+        "name": "Ветеран Рейнджер",
+        "women_name": "Рейнджер Ветеранка"
+    },
+    "gn_karavan_altar_silan_ranger_camp": {
+        "name": "Караван Алтарь в Лагере Рейнджеров",
+        "women_name": ""
+    },
+    "gn_kami_altar_silan_ranger_camp": {
+        "name": "Ками Алтарь в Лагере Рейнджеров",
+        "women_name": ""
+    },
+    "gn_karavan_altar_silan_shattered_ruins": {
+        "name": "Караван Алтарь в Разрушенных Руинах",
+        "women_name": ""
+    },
+    "gn_kami_altar_silan_shining_lake": {
+        "name": "Ками Алтарь в Сияющем Озере",
+        "women_name": ""
+    },
+    "fct_to_new_horizons": {
+        "name": "Новые Горизонты",
+        "women_name": ""
+    },
+    "fct_marauder_merchant": {
+        "name": "Торговец Мародёров",
+        "women_name": "Торговщица Мародёров"
+    },
+    "fct_ranger_guide": {
+        "name": "Рейнджер Гид",
+        "women_name": ""
+    },
+    "fct_ranger_quartermaster": {
+        "name": "Квартирмейстер Рейнджеров",
+        "women_name": "Квартирмейстерша Рейнджеров"
     }
 }

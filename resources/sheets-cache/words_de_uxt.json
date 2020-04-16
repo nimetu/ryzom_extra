@@ -66,10 +66,10 @@
         "name": "Reichweite"
     },
     "uittlead": {
-        "name": "Leiter\/in des Teams"
+        "name": "Anführer\/in des Teams"
     },
     "uittsuccessor": {
-        "name": "Vize-Leiter\/in des Teams"
+        "name": "Stellv. Anführer\/in des Teams"
     },
     "fighter": {
         "name": "Kämpfer"
@@ -153,7 +153,7 @@
         "name": "Verderber"
     },
     "disturber": {
-        "name": "Störer"
+        "name": "Störenfried"
     },
     "kamicfury": {
         "name": "Furie der Kami"
@@ -4842,7 +4842,7 @@
         "name": "Identität"
     },
     "uijournaltitle": {
-        "name": "MISSIONEN"
+        "name": "MISSIONSLOGBUCH"
     },
     "uicurmissions": {
         "name": "AKTUELLE MISSIONEN"
@@ -4920,7 +4920,7 @@
         "name": "WARNUNG : DUELLAUFFORDERUNG"
     },
     "uijoinclanproposaltitle": {
-        "name": "PVP-Clan"
+        "name": "PVP-Klan"
     },
     "uipvpclanneutral": {
         "name": "Neutral"
@@ -5217,7 +5217,7 @@
         "name": "DETAILS"
     },
     "uittdetail": {
-        "name": "Liste vom erweiterten in den einfachen Modus umschalten"
+        "name": "Liste zwischen erweiterten und einfachen Modus umschalten"
     },
     "uittfilterarmor": {
         "name": "Rüstungsfilter @{6F6F}\n@{FFFF}Rechtsklick, um ausschließlich @{6F6F}Rüstungen@{FFFF} anzuzeigen."
@@ -5226,16 +5226,16 @@
         "name": "Waffenfilter @{6F6F}\n@{FFFF}Rechtsklick, um ausschließlich @{6F6F}Waffen@{FFFF} anzuzeigen."
     },
     "uittfiltertool": {
-        "name": "Werkzeugfilter @{6F6F}\n@{FFFF}Rechtsklick, um ausschließlich @{6F6F}Werkzeug@{FFFF} anzuzeigen."
+        "name": "Werkzeugfilter @{6F6F}\n@{FFFF}Rechtsklick, um ausschließlich @{6F6F}Werkzeuge@{FFFF} anzuzeigen."
     },
     "uittfilterpet": {
-        "name": "Filter @{6F6F}Tier\n@{FFFF}Rechtsklick, um ausschließlich @{6F6F}Tier@{FFFF} anzuzeigen."
+        "name": "Tierfilter @{6F6F}\n@{FFFF}Rechtsklick, um ausschließlich @{6F6F}Tiere@{FFFF} anzuzeigen."
     },
     "uittfiltermp": {
         "name": "Rohstofffilter @{6F6F}\n@{FFFF}Rechtsklick, um ausschließlich @{6F6F}Rohstoffe@{FFFF} anzuzeigen."
     },
     "uittfiltermissmp": {
-        "name": "Filter von @{6F6F}Missionsgegenständen und -rohstoffen\n@{FFFF}Rechtsklick, um ausschließlich @{6F6F}Missionselemente@{FFFF} anzuzeigen."
+        "name": "Missionsfiltern @{6F6F}\n@{FFFF}Rechtsklick, um ausschließlich @{6F6F}Missionselemente @{FFFF}anzuzeigen."
     },
     "uittdragtomacro": {
         "name": "Diese Stanza nutzen, um ein Makro zu erstellen"
@@ -5331,7 +5331,7 @@
         "name": "TASTEN TESTEN"
     },
     "uikeystitle": {
-        "name": "TASTEN"
+        "name": "TASTATURBELEGEUNG"
     },
     "uikey0": {
         "name": "0"
@@ -6531,7 +6531,7 @@
         "name": "TEAM"
     },
     "uimwcontactlist": {
-        "name": "KONTAKTLISTE"
+        "name": "FREUNDESLISTE"
     },
     "uimwfame": {
         "name": "RUHM"
@@ -6552,7 +6552,7 @@
         "name": "GILDENINFO"
     },
     "uimwmissions": {
-        "name": "AUFGABEN"
+        "name": "MISSIONSLOGBUCH"
     },
     "uimwprogression": {
         "name": "IDENTITÄT"
@@ -7206,7 +7206,7 @@
         "name": "TEAMCHAT"
     },
     "uifriendlist": {
-        "name": "FREUNDESLISTE"
+        "name": "FREUNDE"
     },
     "uiignorelist": {
         "name": "IGNORE-LISTE"
@@ -7320,16 +7320,16 @@
         "name": "Basis"
     },
     "uiitemrmclass1": {
-        "name": "feine\/s\/r"
+        "name": "Feine"
     },
     "uiitemrmclass2": {
-        "name": "vorzügliche\/s\/r"
+        "name": "Vorzügliche"
     },
     "uiitemrmclass3": {
-        "name": "exzellente\/s\/r"
+        "name": "Exzellente"
     },
     "uiitemrmclass4": {
-        "name": "erhabene\/s\/r"
+        "name": "Erhabene"
     },
     "uiitemfx_ise_fight_add_critical": {
         "name": "@{2F2F}+%p% @{FFFF}Chance, einen kritischen Schlag zu versetzen."
@@ -7410,7 +7410,7 @@
         "name": "@{FFF9}@{HuittInfoOrigin}Design: @{H}@{T12}@{FFFF}%origin\n@{FFF9}@{HuittInfoWeaponQuality}Qualität: @{H}@{T12}@{FFFF}%quality\n@{FFF9}@{HuittInfoWeight}Gewicht: @{H}@{T12}@{FFFF}%weight kg\n@{FFF9}@{HuittInfoBulk}Volumen: @{H}@{T12}@{FFFF}%bulk\n@{FFF9}@{HuittInfoHP}Haltbarkeit: @{H}@{T12}@{FFFF}%hp \/ %hpmax\n@{FFF9}@{HuittInfoWeaponSapLoad}Sapladung: @{H}@{T12}@{FFFF}%sap \/ %sapmax\n@{FFF9}@{HuittInfoItemSkill}Fertigkeit: @{H}@{T12}@{FFFF}%skill\n%cansell@{FFF9}@{HuittInfoRequirement}Voraussetzung: @{H}@{T12}@{FFFF}%caracreq@{FFFF}%skillreq@{FFFF}%skillreq2\n\n@{FFF9}@{HuittInfoWeaponRDamage}Schaden: @{H}@{T12}@{FFFF}%dmg (@{T12}@{FFFF}%max_dmg)\n@{FFF9}@{HuittInfoWeaponRHitMin}Treffer\/Minute: @{H}@{T12}@{FFFF}%speed\n@{FFF9}@{HuittInfoWeaponRange}Reichweite: @{H}@{T12}@{FFFF}%range\n@{FFF9}@{HuittInfoDodgeMod}Ausweichmodifikator: @{H}@{T12}@{FFFF}%dodge\n@{FFF9}@{HuittInfoParryMod}Abwehrmodifikator: @{H}@{T12}@{FFFF}%parry\n@{FFF9}@{HuittInfoTargetDodgeMod}Ausweichmodifikator des Ziels: @{H}@{T12}@{FFFF}%adv_dodge\n@{FFF9}@{HuittInfoTargetParryMod}Abwehrmodifikator des Ziels: @{H}@{T12}@{FFFF}%adv_parry\n@{FFF9}@{HuittInfoMalus}Aktionsmalus: @{H}@{T12}@{FFFF}+%actmalus\n%magic_bonus%buffs%special_effects%skill_mod_vs_type%desc@{FFFF}%custom_text\n%enchantment"
     },
     "uihelpitemammoformat": {
-        "name": "@{FFF9}@{HuittInfoOrigin}Design: @{H}@{T12}@{FFFF}%origin\n@{FFF9}@{HuittInfoWeaponQuality}Qualität: @{H}@{T12}@{FFFF}%quality\n@{FFF9}@{HuittInfoWeight}Gewicht: @{H}@{T12}@{FFFF}%weight kg\n@{FFF9}@{HuittInfoBulk}Volumen: @{H}@{T12}@{FFFF}%bulk\n@{FFF9}@{HuittInfoHP}Haltbarkeit: @{H}@{T12}@{FFFF}%hp \/ %hpmax\n@{FFF9}@{HuittInfoItemSkill}Fertigkeit: @{H}@{T12}@{FFFF}%skill\n%cansell\n@{FFF9}@{HuittInfoAmmoMagazine}Magazin: @{H}@{T12}@{FFFF}%magazine\n@{FFF9}@{HuittInfoDamageType}Schadenstyp: @{H}@{T12}@{FFFF}%dmtype\n@{FFF9}@{HuittInfoAmmoDamage}Schaden: @{H}@{T12}@{FFFF}%dmg (@{T12}@{FFFF}%max_dmg)\n@{FFF9}@{HuittInfoAmmoHitMin}Treffer\/Minute: @{H}@{T12}@{FFFF}%speed\n@{FFF9}@{HuittInfoAmmoRange}Reichweite: @{H}@{T12}@{FFFF}%range\n\n@{FFFF}%desc"
+        "name": "@{FFF9}@{HuittInfoOrigin}Design: @{H}@{T12}@{FFFF}%origin\n@{FFF9}@{HuittInfoWeaponQuality}Qualität: @{H}@{T12}@{FFFF}%quality\n@{FFF9}@{HuittInfoWeight}Gewicht: @{H}@{T12}@{FFFF}%weight kg\n\n@{FFF9}@{HuittInfoBulk}Volumen: @{H}@{T12}@{FFFF}%bulk\n@{FFF9}@{HuittInfoHP}Haltbarkeit: @{H}@{T12}@{FFFF}%hp \/ %hpmax\n@{FFF9}@{HuittInfoItemSkill}Fertigkeit: @{H}@{T12}@{FFFF}%skill\n%cansell\n@{FFF9}@{HuittInfoAmmoMagazine}Magazin: @{H}@{T12}@{FFFF}%magazine\n@{FFF9}@{HuittInfoDamageType}Schadenstyp: @{H}@{T12}@{FFFF}%dmtype\n@{FFF9}@{HuittInfoAmmoDamage}Schaden: @{H}@{T12}@{FFFF}%dmg (@{T12}@{FFFF}%max_dmg)\n@{FFF9}@{HuittInfoAmmoHitMin}Treffer\/Minute: @{H}@{T12}@{FFFF}%speed\n@{FFF9}@{HuittInfoAmmoRange}Reichweite: @{H}@{T12}@{FFFF}%range\n\n@{FFFF}%desc"
     },
     "uihelpitemmpformat": {
         "name": "@{FFF9}@{HuittInfoMpQuality}Qualität: @{H}@{T12}@{FFFF}%quality\n@{FFF9}@{HuittInfoWeight}Gewicht: @{H}@{T12}@{FFFF}%weight kg\n@{FFF9}@{HuittInfoBulk}Volumen: @{H}@{T12}@{FFFF}%bulk\n%cansell\n@{FFF9}@{HuittInfoMpEco}Ökosystem: @{H}@{T12}@{FFFF}%ecosystem\n@{FFF9}@{HuittInfoMpFam}Art: @{H}@{T12}@{FFFF}%family\n@{FFF9}@{HuittInfoMpColor}Farbe: @{H}@{T12}@{FFFF}%mpcolor\n@{FFFF}%desc\n%craft"
@@ -7482,10 +7482,10 @@
         "name": "@{FFF9}Sapladung: @{T12}@{FFFF}%quality\n@{FFF9}@{HuittInfoBulk}Volumen: @{H}@{T12}@{FFFF}%bulk\n\nMit diesem Gegenstand kann man\nden Sap einer verzauberten Waffe wieder aufladen.\n\nNimm die aufzuladende Waffe in die rechte Hand.\n\nRechtsklicke dann auf die Ladung und wähle 'RECHTE HAND WIEDER AUFLADEN'.\n\nDie Sap-Ladung und ihr Maximum können mit einem Rechtsklick auf den Gegenstand unter 'Info' eingesehen werden.\n%cansell%custom_text"
     },
     "uihelpitemanimal": {
-        "name": "Dieser Gegenstand symbolisiert\nein Tier #%petnumber.\n\nDu kannst ein Tier mit Hilfe dieses Gegenstands verschenken oder verkaufen; aber nur, wenn sein Inventar leer ist.\n%cansell%desc%custom_text"
+        "name": "Dieser Gegenstand symbolisiert\ndas Tier Nummer %petnumber.\n\nDu kannst das Tier mit Hilfe dieses Gegenstands verschenken oder verkaufen; aber nur, wenn dessen Inventar leer ist.\n%cansell%desc%custom_text"
     },
     "uihelpitemteleport": {
-        "name": "Zum Verwenden rechtsklicken und 'Teleportieren' auswählen\nEin Teleportpakt wird dafür bei Ankunft verbraucht.\n%cansell%desc%custom_text"
+        "name": "Rechtsklicken und Teleportieren.\nBei der Ankunft wird ein Teleportationspakt verbraucht.\n%cansell%desc%custom_text"
     },
     "uihelpbrickformat": {
         "name": "@{FFF9}Stufe: @{T8}@{FFFF}%lvl\n%ks@{FFF9}Aktion: @{T8}@{FFFF}%skill\n%ks@{FFF9}%hcost: @{T8}@{FFFF}%cost\n%magicresist\n@{FFFF}%desc"
@@ -8715,7 +8715,7 @@
         "name": "HAUPTCHAT"
     },
     "uicontactlisttitle": {
-        "name": "KONTAKTE"
+        "name": "FREUNDESLISTE"
     },
     "uiwindisplay": {
         "name": "FENSTER-ANZEIGE"
@@ -9144,7 +9144,7 @@
         "name": "Team"
     },
     "uicontactlist": {
-        "name": "Kontakte"
+        "name": "FREUNDESLISTE"
     },
     "uimacros": {
         "name": "Makros"
@@ -9864,7 +9864,7 @@
         "name": "Wähle zuerst den Gegenstand, den du herstellen willst."
     },
     "uittselectplan": {
-        "name": "Wähle mit Linksklick einen verfügbaren Bauplan des Gegenstandes, den du herstellen willst."
+        "name": "Wähle einen verfügbaren Handwerksplan aus, um einen Gegenstand herzustellen."
     },
     "uitexthelpselectmp": {
         "name": "Wähle passende Rohstoffe für jedes Gegenstandsteil aus."
@@ -9873,7 +9873,7 @@
         "name": "Linksklick, um Rohstoffe hinzuzufügen. Durch nochmaligen Linksklick auf die eingefügten Rohstoffe kann für Mischungen ein Teil davon auch wieder herausgenommen werden."
     },
     "uitexthelpselectfaberplanslot": {
-        "name": "Wähle einen gelernten Bauplan für dieses Handwerk."
+        "name": "Wähle einen gelernten Handwerksplan"
     },
     "uiphrasefabersuccessrate": {
         "name": "@{FFF9}Erfolgsrate:@{T16}@{FFFF}%success%"
@@ -10326,19 +10326,19 @@
         "name": "Zeigen: "
     },
     "uiskillpoints": {
-        "name": "Fertigkeitspunkte für Aktionskauf"
+        "name": "Fertigkeitspunkte"
     },
     "uiskillpoints0": {
-        "name": "Kampf-Fertigkeitspunkte "
+        "name": "Kampf"
     },
     "uiskillpoints1": {
-        "name": "Magie-Fertigkeitspunkte "
+        "name": "Magie"
     },
     "uiskillpoints2": {
-        "name": "Handwerks-Fertigkeitspunkte "
+        "name": "Handwerks"
     },
     "uiskillpoints3": {
-        "name": "Rohstoffernte-Fertigkeitspunkte "
+        "name": "Rohstoffernte "
     },
     "uiskillpointsbold0": {
         "name": "KAMPF-FERTIGKEITSPUNKTE: "
@@ -10356,7 +10356,7 @@
         "name": "Neue Aktionen lernen"
     },
     "uinotenoughskillpoints": {
-        "name": "ZU WENIGE FERTIGKEITSPUNKTE. TRAINIERE WEITER!"
+        "name": "ZU WENIGE PUNKTE. TRAINIERE WEITER!"
     },
     "uihp": {
         "name": "Leben"
@@ -14040,7 +14040,7 @@
         "name": "TIERE"
     },
     "uittsatiety": {
-        "name": "Rot: Lebenskraft \/ Orange: Taschenplatz \/ Weiß: Sättigung. Wenn der Sättigungs-Balken auf Null fällt, hat das Tier Hunger und wird langsam."
+        "name": "Rot: Lebenskraft \/ Orange: Taschenplatz \/ Weiß: Sättigung. Wenn der Sättigungs-Balken auf Null fällt, hat das Tier Hunger und kann nicht mehr laufen."
     },
     "uittalivelandscape": {
         "name": "Das Tier ist am Leben und außerhalb des Stalls.\n@{6F6F}Linksklick, @{FFFF}um es auszuwählen.\n@{6F6F}Rechtsklick, @{FFFF}um ihm eine Anweisung zu geben."
@@ -14052,10 +14052,10 @@
         "name": "Das Tier ist tot.\n@{6F6F}Linksklick, @{FFFF}um es auszuwählen.\n@{6F6F}Rechtsklick, @{FFFF}um ihm eine Anweisung zu geben."
     },
     "uittdeathtimer": {
-        "name": "Restzeit, ehe der Körper dieses toten Tieres verschwindet."
+        "name": "Restzeit bis der Körper dieses toten Tieres verschwunden ist."
     },
     "uittanimaldeadpopuptooltip": {
-        "name": "Restliche Stunden, ehe das erste deiner toten Tiere verschwindet."
+        "name": "Restliche Stunden bis das Erste deiner toten Tiere verschwunden ist."
     },
     "uianimalselectnotinvision": {
         "name": "Du kannst dieses Tier nicht auswählen, da es zu weit entfernt ist."
@@ -15141,16 +15141,16 @@
         "name": "Bogengewehr"
     },
     "uiawrsfr2al": {
-        "name": "Raketenwerfer"
+        "name": "Granatenwerfer"
     },
     "uiawrsfr2alb": {
-        "name": "brennendem Raketenwerfer"
+        "name": "brennendem Granatenwerfer"
     },
     "uiawrsfr2ale": {
-        "name": "elektrischem Raketenwerfer"
+        "name": "elektrischem Granatenwerfer"
     },
     "uiawrsfr2alm": {
-        "name": "Raketenwerfer"
+        "name": "Granatenwerfer"
     },
     "uiawrsfr2ar": {
         "name": "Gewehr"
@@ -16101,13 +16101,13 @@
         "name": "Hardware"
     },
     "uicannotwritedynchat": {
-        "name": "Du kannst nicht in diesen Chatkanal schreiben."
+        "name": "Du kannst in diesen Chatkanal nicht schreiben."
     },
     "uimagicprotecttable": {
         "name": "Schutz"
     },
     "uittmagicprotecttable": {
-        "name": "Der @{6F6F}magische Schutz@{FFFF} absorbiert einen Prozentsatz an magischen Schäden, abhängig von:\n@{T4}- dem @{6F6F}Typ@{FFFF} des erlittenen magischen Schadens,\n@{T4}- dem Schutz, den der @{6F6F}Schmuck@{FFFF} bietet,\n@{T4}- der Summe der @{6F6F}Qualität @{FFFF}des getragenen Schmucks und\n@{T4}- der @{6F6F}Rasse@{FFFF} des Spielers"
+        "name": "Der @{6F6F}magische Schutz@{FFFF} absorbiert einen Prozentsatz an magischen Schäden.\nDas ist abhängig von:\n@{T4}- dem @{6F6F}Typ@{FFFF} des erlittenen magischen Schadens,\n@{T4}- dem Schutz, den der @{6F6F}Schmuck@{FFFF} bietet,\n@{T4}- der Summe der @{6F6F}Qualität @{FFFF}des getragenen Schmucks und\n@{T4}- der @{6F6F}Rasse@{FFFF} des Spielers"
     },
     "uiprotect_rot": {
         "name": "Verrottung"
@@ -16131,34 +16131,34 @@
         "name": "Schockwelle"
     },
     "uiprotect_maxabsorb": {
-        "name": "Max. absorbiert"
+        "name": "Maximale Absorption"
     },
     "uittprotect_rot": {
-        "name": "Verrottungsschäden-Absorption: @{6F6F}%v%@{FFFF} %max"
+        "name": "Absorption von Verrottungsschäden: @{6F6F}%v%@{FFFF} %max"
     },
     "uittprotect_acid": {
-        "name": "Säureschäden-Absorption : @{6F6F}%v%@{FFFF} %max"
+        "name": "Absorption von Säureschäden: @{6F6F}%v%@{FFFF} %max"
     },
     "uittprotect_cold": {
-        "name": "Kälteschäden-Absorption : @{6F6F}%v%@{FFFF} %max"
+        "name": "Absorption von Kälteschäden: @{6F6F}%v%@{FFFF} %max"
     },
     "uittprotect_fire": {
-        "name": "Feuerschäden-Absorption : @{6F6F}%v%@{FFFF} %max"
+        "name": "Absorption von Feuerschäden: @{6F6F}%v%@{FFFF} %max"
     },
     "uittprotect_poison": {
-        "name": "Giftschäden-Absorption : @{6F6F}%v%@{FFFF} %max"
+        "name": "Absorption von Giftschäden: @{6F6F}%v%@{FFFF} %max"
     },
     "uittprotect_electricity": {
-        "name": "Elektroschäden-Absorption : @{6F6F}%v%@{FFFF} %max"
+        "name": "Absorption von Elektroschäden: @{6F6F}%v%@{FFFF} %max"
     },
     "uittprotect_shockwave": {
-        "name": "Schockwellenschäden-Absorption : @{6F6F}%v%@{FFFF} %max"
+        "name": "Absorption von Schockwellenschäden: @{6F6F}%v%@{FFFF} %max"
     },
     "uittprotect_maxreached": {
         "name": "(maximal)"
     },
     "uittprotect_maxabsorb": {
-        "name": "Maximum der absorbierten Schäden:\nSumme aus @{6F6F}Qualität des Schmucks@{FFFF} + @{6F6F}max. Stufe@{FFFF} des Spielers"
+        "name": "Maximum der absorbierten Schäden:\nSumme aus @{6F6F}Qualität des Schmucks @{FFFF}+ @{6F6F}maximales Level @{FFFF}des Spielers"
     },
     "uiresiststable": {
         "name": "Widerstände"
@@ -16167,34 +16167,34 @@
         "name": "Den Zaubersprüchen der Kreaturen und Spieler kann vollständig widerstanden werden@{FFFF}.\nDie @{6F6F}Chance@{FFFF} einem Zauberspruch ganz zu widerstehen hängt ab von:\n@{T4}- der @{6F6F}Kraft@{FFFF} des Spruchs, wenn es sich um einen Beherrschungsspruch handelt\n@{T4}- der @{6F6F}Stufe@{FFFF} der Magiefertigkeit, wenn es sich um einen Elementarspruch handelt\n@{T4}- deinem @{6F6F}Widerstandswert@{FFFF} in dem @{6F6F}Zauberbereich@{FFFF} des aufgesagten Spruchs\n@{T0}Dein @{6F6F}Widerstandswert@{FFFF} ist die Summe: :\n@{T4}- vom Maximum zwischen deinen Fertigkeitsstufen in @{6F6F}Kampf, Zauber und Rohstoffabbau\/2@{FFFF}\n@{T4}- von den Boni @{6F6F}des Schmuckwiderstands@{FFFF} im betroffenen Magiebereich\n@{T4}- vom Bonus, abhängig @{6F6F}von deiner Rasse@{FFFF} (Bsp.: +10 in der Wüste für die Fyros)\n@{T4}- und vom Malus, abhängig vom @{6F6F}Ökosystem@{FFFF}, in dem du dich befindest (Bsp.: -10 für Dschungel, wenn du dich im Dschungel befindest)"
     },
     "uiresist_desert": {
-        "name": "Wüstenmagie-Widerstand"
+        "name": "Wüsten-Magie"
     },
     "uiresist_forest": {
-        "name": "Wadmagie-Widerstand"
+        "name": "Wald-Magie"
     },
     "uiresist_lacustre": {
-        "name": "Seenlandmagie-Widerstand"
+        "name": "Seenland-Magie"
     },
     "uiresist_jungle": {
-        "name": "Dschungelmagie-Widerstand"
+        "name": "Dschungel-Magie"
     },
     "uiresist_primroot": {
-        "name": "Urwurzelmagie-Widerstand"
+        "name": "Urwurzel-Magie"
     },
     "uittresist_desert": {
-        "name": "Widerstand gegen Magiesprüche aus dem Wüstenbereich: @{6F6F}%v@{FFFF} %max\n@{T4}- Chance, einem Spruch von @{6F6F}Elementarmagie@{FFFF} der Stufe @{6F6F}%eml@{FFFF}: @{6F6F}%emr%@{FFFF} zu widerstehen\n@{T4}- Chance, einem Spruch von @{6F6F}Schmerzmagie@{FFFF} der Stufe @{6F6F}%aml@{FFFF}: @{6F6F}%amr%@{FFFF} zu widerstehen\n@{T0}Dieser Bereich inkludiert folgende Magie-Effekte:\n@{T4}- @{6F6F}Feuer@{FFFF}\n@{T4}- @{6F6F}Blindheit@{FFFF}\n@{T4}- @{6F6F}Wahnsinn@{FFFF}\n"
+        "name": "Widerstand gegen Magie-Sprüche der Wüsten-Magie: @{6F6F}%v@{FFFF} %max\n@{T4}- Chance, einem Spruch der @{6F6F}Elementarmagie@{FFFF} des Levels @{6F6F}%eml@{FFFF} um @{6F6F}%emr%@{FFFF} zu widerstehen\n@{T4}- Chance, einem Spruch der @{6F6F}Beherrschungsmagie@{FFFF} das Levels @{6F6F}%aml@{FFFF} um @{6F6F}%amr%@{FFFF} zu widerstehen\n@{T0}Diese Magie umfasst folgende Effekte:\n@{T4}- @{6F6F}Feuer@{FFFF}\n@{T4}- @{6F6F}Blindheit@{FFFF}\n@{T4}- @{6F6F}Wahnsinn@{FFFF}\n"
     },
     "uittresist_forest": {
-        "name": "Widerstand gegen Magiesprüche aus dem Waldlandbereich: @{6F6F}%v@{FFFF} %max\n@{T4}- Chance, einem @{6F6F}Elementarzauber@{FFFF} der Stufe @{6F6F}%eml@{FFFF} zu widerstehen: @{6F6F}%emr%@{FFFF}\n@{T4}- Chancen einem @{6F6F}Beherrschungszauber@{FFFF} der Stufe @{6F6F}%aml@{FFFF} zu widerstehen: @{6F6F}%amr%@{FFFF}\n@{T0}Dieser Bereich inkludiert folgende Magie-Effekte:\n@{T4}- @{6F6F}Gift@{FFFF}\n@{T4}- @{6F6F}Schlaf@{FFFF}\n@{T4}- @{6F6F}Bewegungsverlangsamung@{FFFF}\n"
+        "name": "Widerstand gegen Sprüche der Wald-Magie: @{6F6F}%v@{FFFF} %max\n@{T4}- Chance, einem @{6F6F}Elementarzauber@{FFFF} des Levels um @{6F6F}%eml@{FFFF} um @{6F6F}%emr%@{FFFF} zu widerstehen. \n@{T4}- Chance, einem @{6F6F}Beherrschungszauber@{FFFF} des Levels @{6F6F}%aml@{FFFF} um @{6F6F}%amr%@{FFFF} zu widerstehen. \n@{T0}Diese Magie umfasst folgende Effekte:\n@{T4}- @{6F6F}Gift@{FFFF}\n@{T4}- @{6F6F}Schlaf@{FFFF}\n@{T4}- @{6F6F}Bewegungsverlangsamung@{FFFF}\n"
     },
     "uittresist_lacustre": {
-        "name": "Widerstand gegen Magieprüche aus dem Seenlandbereich: @{6F6F}%v@{FFFF} %max\n@{T4}- Chance, einem @{6F6F}Elementarzauber@{FFFF} der Stufe @{6F6F}%eml@{FFFF} zu widerstehen: @{6F6F}%emr%@{FFFF}\n@{T4}- Chance, einem @{6F6F}Beherrschungszauber@{FFFF} der Stufe @{6F6F}%aml@{FFFF} zu widerstehen: @{6F6F}%amr%@{FFFF}\n@{T0}Dieser Bereich inkludiert folgende Magie-Effekte:\n@{T4}- @{6F6F}Kälte@{FFFF}\n@{T4}- @{6F6F}Schockwelle@{FFFF}\n@{T4}- @{6F6F}Betäuben@{FFFF}\n"
+        "name": "Widerstand gegen Sprüche der Seenland-Magie: @{6F6F}%v@{FFFF} %max\n@{T4}- Chance, einem @{6F6F}Elementarzauber@{FFFF} des Levels @{6F6F}%eml@{FFFF} um @{6F6F}%emr%@{FFFF} zu widerstehen.\n@{T4}- Chance, einem @{6F6F}Beherrschungszauber@{FFFF} des Levels @{6F6F}%aml@{FFFF} um @{6F6F}%amr%@{FFFF} zu widerstehen.\n@{T0}Diese Magie umfasst folgende Effekte:\n@{T4}- @{6F6F}Kälte@{FFFF}\n@{T4}- @{6F6F}Schockwelle@{FFFF}\n@{T4}- @{6F6F}Betäuben@{FFFF}\n"
     },
     "uittresist_jungle": {
-        "name": "Widerstand gegen Magiesprüche aus dem Dschungelbereich: @{6F6F}%v@{FFFF} %max\n@{T4}- Chance, einem @{6F6F}Elementarzauber@{FFFF} der Stufe @{6F6F}%eml@{FFFF} zu widerstehen: @{6F6F}%emr%@{FFFF}\n@{T4}- Chance, einem @{6F6F}Beherrschungszauber@{FFFF} der Stufe @{6F6F}%aml@{FFFF} zu widerstehen: @{6F6F}%amr%@{FFFF}\n@{T0}Dieser Bereich inkludiert folgende Magie-Effekte:\n@{T4}- @{6F6F}Elektrizität@{FFFF}\n@{T4}- @{6F6F}Verwurzelung@{FFFF}\n@{T4}- @{6F6F}Angriffsverlangsamung@{FFFF}\n"
+        "name": "Widerstand gegen Sprüche aus der Dschungel-Magie: @{6F6F}%v@{FFFF} %max\n@{T4}- Chance, einem @{6F6F}Elementarzauber@{FFFF} des Levels @{6F6F}%eml@{FFFF} um @{6F6F}%emr%@{FFFF} zu widerstehen.\n@{T4}- Chance, einem @{6F6F}Beherrschungszauber@{FFFF} des Levels @{6F6F}%aml@{FFFF} um @{6F6F}%amr%@{FFFF} zu widerstehen.\n@{T0}Diese Magie umfasst folgende Effekte:\n@{T4}- @{6F6F}Elektrizität@{FFFF}\n@{T4}- @{6F6F}Verwurzelung@{FFFF}\n@{T4}- @{6F6F}Angriffsverlangsamung@{FFFF}\n"
     },
     "uittresist_primroot": {
-        "name": "Widerstand gegen Magiesprüche aus dem Urwurzelbereich: @{6F6F}%v@{FFFF} %max\n@{T4}- Chance, einem @{6F6F}Elementarzauber@{FFFF} der Stufe @{6F6F}%eml@{FFFF} zu widerstehen: @{6F6F}%emr%@{FFFF}\n@{T4}- Chance, einem @{6F6F}Beherrschungszauber@{FFFF} der Stufe @{6F6F}%aml@{FFFF} zu widerstehen: @{6F6F}%amr%@{FFFF}\n@{T0}Dieser Bereich inkludiert folgende Magie-Effekte:\n@{T4}- @{6F6F}Säure@{FFFF}\n@{T4}- @{6F6F}Verrotten@{FFFF}\n@{T4}- @{6F6F}Angst@{FFFF}\n"
+        "name": "Widerstand gegen Sprüche aus der Urwurzel-Magie: @{6F6F}%v@{FFFF} %max\n@{T4}- Chance, einem @{6F6F}Elementarzauber@{FFFF} des Levels @{6F6F}%eml@{FFFF} um @{6F6F}%emr%@{FFFF} zu widerstehen.\n@{T4}- Chance, einem @{6F6F}Beherrschungszauber@{FFFF} des Levels @{6F6F}%aml@{FFFF} um @{6F6F}%amr%@{FFFF} zu widerstehen.\n@{T0}Diese Magie umfasst folgende Effekte:\n@{T4}- @{6F6F}Säure@{FFFF}\n@{T4}- @{6F6F}Verrotten@{FFFF}\n@{T4}- @{6F6F}Angst@{FFFF}\n"
     },
     "uittresist_maxreached": {
         "name": "(Maximum)"
@@ -16617,7 +16617,7 @@
         "name": "Armas und Ploderosse werden mit Kraftfutter aufgemästet..."
     },
     "uiloadingstring14": {
-        "name": "Tiere werden in ihre jeweiligen landesspezifischen Farben eingetunkt..."
+        "name": "Tiere werden in ihren jeweiligen landesspezifischen Farben eingetunkt..."
     },
     "uiloadingstring15": {
         "name": "Kitin-Krallen werden mit Wetzsteinen geschärft..."
@@ -17127,7 +17127,7 @@
         "name": "Was tun?"
     },
     "uiwelcomewhat": {
-        "name": "Beachte die Anweisungen deines Missionsjournals, das sich links auf dem Bildschirm befindet."
+        "name": "Beachte die Anweisungen deines Missionslogbuchs, das sich links auf dem Bildschirm befindet."
     },
     "uiwelcomecstitle": {
         "name": "Kundendienst kontaktieren"
@@ -17253,7 +17253,7 @@
         "name": "@{6F6F}Gesamtgewicht, @{FFFF}das dein Tier transportiert. Tiere können sehr viel schwerere Gewichte tragen als Homin-Charaktere."
     },
     "uittanimalinv": {
-        "name": "Das @{6F6F}Inventar @{FFFF}bietet Zugang zu den Gegenständen, die dieses Tier transportiert, solange das Tier nahe genug ist. Steht das Tier in einem Stall, genügt es, nahe beim Stall zu sein, um Zugriff auf das Tier-Inventar zu haben."
+        "name": "Das @{6F6F}Inventar @{FFFF}bietet Zugang zu den Gegenständen, die dieses Tier transportiert, solange es in der Nähe ist. Steht das Tier in einem Stall, genügt es, in der Nähe vom Stall zu sein, um Zugriff auf das Tier-Inventar zu erhalten."
     },
     "uittchataround": {
         "name": "@{6F6F}UMGEBUNG\n@{FFFF}Zeigt allen Spielern in Reichweite von 25 Metern die von dir geschriebenen Nachrichten an.\nRechtsklick, um den Chat abzutrennen."
@@ -17334,7 +17334,7 @@
         "name": "starke 'Named'-Kreatur der Stufe: @{6F6F}%n"
     },
     "uittinfobulk": {
-        "name": "@{6F6F}Volumen @{FFFF}:\nPlatz, den der Gegenstand im Inventar (deiner Tasche oder der Satteltasche von Tieren) einnimmt. Jedes Inventar hat nur begrenzten Platz, deshalb kann man nicht zu viele große Gegenstände gemeinsam transportieren."
+        "name": "@{6F6F}Volumen @{FFFF}:\nPlatz, den der Gegenstand im Inventar (deiner Tasche oder der Satteltasche von Tieren) einnimmt. Jedes Inventar hat nur begrenzt platz. Deshalb können nicht viele große Gegenstände transportiert werden."
     },
     "uittinfohp": {
         "name": "@{6F6F}Haltbarkeit @{FFFF}:\nDieser Wert verschlechtert sich mit jedem Gebrauch dieses Gegenstands. Bei 0 ist der Gegenstand unbrauchbar. Die Haltbarkeit des Handwerks-Werkzeugs hat keinen Einfluss auf das Endprodukt."
@@ -18144,7 +18144,7 @@
         "name": "Drücke OK, um den Editor zurückzusetzen und ein ganz neues Szenario zu erzeugen."
     },
     "uinoavailablemissions": {
-        "name": "Das Missionsjournal ist im Ring nicht verfügbar."
+        "name": "Das Missionslogbuch ist im Ring nicht verfügbar."
     },
     "uinoavailableanimals": {
         "name": "Tiere sind im Ring nicht verfügbar."
@@ -18420,16 +18420,16 @@
         "name": "Klicke hier, um eine Mission auszuwählen."
     },
     "uinoavailablemission": {
-        "name": "Dein Missionsjournal ist leer."
+        "name": "Dein Missionslogbuch ist leer."
     },
     "uittexpandmissionlist": {
         "name": "Klicke hier, um zwischen der erweiterten Liste und dem Dropdown-Menü zu wechseln."
     },
     "uittmissioncombo": {
-        "name": "Dies ist dein Missionsjournal mit den aktuellen Missionen. Klicke zum Auswählen oder verwende das @{6F6F}Mausrad@{FFFF}, um durch alle verfügbaren Missionen zu scrollen."
+        "name": "Dies ist dein Missionslogbuch mit den aktuellen Missionen. Klicke zum Auswählen oder verwende das @{6F6F}Mausrad@{FFFF}, um durch alle verfügbaren Missionen zu scrollen."
     },
     "uittmissionjournal": {
-        "name": "Dies ist dein Missionsjournal."
+        "name": "Dies ist dein Missionslogbuch."
     },
     "uifixedmissionentry_newbie": {
         "name": "Ruinen von Silan"
@@ -19173,7 +19173,7 @@
         "name": "RASSE: "
     },
     "uittfiltertp": {
-        "name": "Filtere @{6F6F}Teleportationspakte\n@{FFFF}Rechtsklick zeigt nur @{6F6F}Teleportationspakte@{FFFF}."
+        "name": "Teleportationspaktfilter @{6F6F}\n@{FFFF}Rechtsklick, um ausschließlich @{6F6F}Teleportationspakte @{FFFF}anzuzeigen."
     },
     "uishowonlineofflinenotifications": {
         "name": "Zeige Online\/Offline-Benachrichtigungen"
@@ -19311,7 +19311,7 @@
         "name": "GESAMT"
     },
     "uiorganization": {
-        "name": "FRAKTION"
+        "name": "ORGANISATION"
     },
     "uiorganization_5": {
         "name": "Marodeure"
@@ -19383,7 +19383,7 @@
         "name": "Zeige Gegenstandswerte und Verzauberung im Icon an"
     },
     "uittshowiconbuffs": {
-        "name": "Zeige Gegenstandswerte und Verzauberung im Icon an"
+        "name": "Zeigt Gegenstandswerte, wie die Haltbarkeit zum Beispiel, \nund die Art der Verzauberung des Gegestandes im Icon an"
     },
     "uishowclock12h": {
         "name": "Verwende 12-Stunden-Uhrzeit-Anzeige."
@@ -19395,7 +19395,7 @@
         "name": "Kompass folgt der Kameraausrichtung."
     },
     "uittradarusecamera": {
-        "name": "Wenn aktiviert, wird die Rotation für die Kompassansicht eingeschaltet."
+        "name": "Wenn aktiviert, wird die Rotation für die Kompass-Ansicht eingeschaltet."
     },
     "uitotalpatch": {
         "name": "GESAMTER PATCH"
@@ -19620,7 +19620,7 @@
         "name": "Zig 3"
     },
     "uittinbag": {
-        "name": "Das Tier ist in deiner Tasche.\n@{6F6F}Rechtsklick, @{FFFF}um ihm eine Anweisung zu geben."
+        "name": "Das Tier ist in deiner Tasche.\n@{6F6F}Rechtsklicken, @{FFFF}um ihm eine Anweisung zu geben."
     },
     "uimenterbag": {
         "name": "Auf der Tasche einsteigen"
@@ -19689,7 +19689,7 @@
         "name": "Erneut laden"
     },
     "uimicompact": {
-        "name": "Kompakten Modus ein\/ausschalten"
+        "name": "Kompakten-Modus ein\/ausschalten"
     },
     "uimchansave": {
         "name": "Speichern"
@@ -19704,7 +19704,7 @@
         "name": "Wenn diese Option aktiviert ist, werden dynamische Chat-Kanäle bei der Trennung oder Charakterauswahl gespeichert.\nSie können auch den Befehl @{6F6F}\/saveChannel@{FFFF} verwenden, um Kanäle manuell zu exportieren."
     },
     "uittchanauto": {
-        "name": "Wenn dieses Kontrollkästchen aktiviert ist, werden Ihre dynamischen Chat-Kanäle wiederhergestellt, sofern sie nicht bereits geöffnet sind.\nVerhindert den Verlust von Kanälen beim Neustart oder im Falle eines Serverausfalls."
+        "name": "Wenn dieses Kontrollkästchen aktiviert ist, werden deine dynamischen Chat-Kanäle wiederhergestellt, sofern sie nicht bereits geöffnet sind.\nVerhindert den Verlust von Kanälen beim Neustart oder im Falle eines Serverausfalls."
     },
     "uimissioncatalog": {
         "name": "Öffnen: Missions-Tagebuch"
@@ -19719,6 +19719,177 @@
         "name": "Höflich fragen"
     },
     "uimgcmbullying": {
-        "name": "Grob fragen"
+        "name": "Grob fragen]\n>>>>>>> masteruiitAlmati\t[almati"
+    },
+    "uiitrangercamp": {
+        "name": "ranger"
+    },
+    "uiitshatteredruins": {
+        "name": "shattered"
+    },
+    "uiitshininglake": {
+        "name": "shining"
+    },
+    "uiitdunesofexil": {
+        "name": "dunes"
+    },
+    "uiitdyron": {
+        "name": "dyron"
+    },
+    "uiitfrahartowers": {
+        "name": "frahar"
+    },
+    "uiitoflovaksoasis": {
+        "name": "oflovak"
+    },
+    "uiitoutlawcanyon": {
+        "name": "outlaw"
+    },
+    "uiitpyr": {
+        "name": "pyr"
+    },
+    "uiitsavagedunes": {
+        "name": "savage"
+    },
+    "uiitsawdustmines": {
+        "name": "sawdust"
+    },
+    "uiitscorchedcorridor": {
+        "name": "scorched"
+    },
+    "uiitthesos": {
+        "name": "thesos"
+    },
+    "uiitgroveofumbra": {
+        "name": "grove"
+    },
+    "uiithavenofpurity": {
+        "name": "haven"
+    },
+    "uiithoicho": {
+        "name": "hoicho"
+    },
+    "uiitjenlai": {
+        "name": "jenlai"
+    },
+    "uiitknotofdementia": {
+        "name": "knot"
+    },
+    "uiitmaidengrove": {
+        "name": "maiden"
+    },
+    "uiitmincho": {
+        "name": "mincho"
+    },
+    "uiitvoid": {
+        "name": "void"
+    },
+    "uiitzora": {
+        "name": "zora"
+    },
+    "uiitabyssofichor": {
+        "name": "abyss"
+    },
+    "uiitelusiveforest": {
+        "name": "elusive"
+    },
+    "uiitforbiddendepths": {
+        "name": "forbidden"
+    },
+    "uiitgateofobscurity": {
+        "name": "gate"
+    },
+    "uiitlandofcontinuity": {
+        "name": "land"
+    },
+    "uiitnexus": {
+        "name": "nexus"
+    },
+    "uiitsunkencity": {
+        "name": "sunken"
+    },
+    "uiittrenchoftrials": {
+        "name": "trench"
+    },
+    "uiitunderspring": {
+        "name": "under"
+    },
+    "uiitwindygate": {
+        "name": "windy"
+    },
+    "uiitavendale": {
+        "name": "avendale"
+    },
+    "uiitbountybeaches": {
+        "name": "bounty"
+    },
+    "uiitcrystabell": {
+        "name": "crystabell"
+    },
+    "uiitdewdrops": {
+        "name": "dewdrop"
+    },
+    "uiitenchantedisle": {
+        "name": "enchanted"
+    },
+    "uiitfairhaven": {
+        "name": "fairhaven"
+    },
+    "uiitfount": {
+        "name": "fount"
+    },
+    "uiitlagoonsofloria": {
+        "name": "lagoon"
+    },
+    "uiitrestingwater": {
+        "name": "resting"
+    },
+    "uiitwindermeer": {
+        "name": "windermeer"
+    },
+    "uiitwindsofmuse": {
+        "name": "winds"
+    },
+    "uiitavalae": {
+        "name": "avalae"
+    },
+    "uiitdavae": {
+        "name": "davae"
+    },
+    "uiitfleetinggarden": {
+        "name": "fleeting"
+    },
+    "uiitgroveofconfusion": {
+        "name": "grove"
+    },
+    "uiithereticshovel": {
+        "name": "heretic"
+    },
+    "uiithiddensource": {
+        "name": "hidden"
+    },
+    "uiitknollofdissent": {
+        "name": "knoll"
+    },
+    "uiitnatae": {
+        "name": "natae"
+    },
+    "uiitupperbog": {
+        "name": "upper"
+    },
+    "uiityrkanis": {
+        "name": "yrkanis"
+    },
+    "uimp3sounddisabled": {
+        "name": "Media player requires sound to be enabled"
+    },
+    "uiwindowsnapdistance": {
+        "name": "Window snap distance"
+    },
+    "uiwindowsnapinvert": {
+        "name": "Snap only when SHIFT is held down"
+    },
+    "uiwindowsnap": {
+        "name": "Window snap"
     }
 }
