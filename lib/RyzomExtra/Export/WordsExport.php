@@ -46,6 +46,8 @@ class WordsExport implements ExportInterface {
 			$ext = $this->encoder->name();
 			$filename = "{$this->path}/words_{$lang}_{$sheet}.{$ext}";
 
+			// keep array sorted to minimize change diff
+			ksort($array);
 			file_put_contents($filename, $this->encoder->encode($array));
 		}
 	}
