@@ -1,4 +1,24 @@
 {
+    "free_squad_light_melee_fighter_b": {
+        "name": "Militiamen Squad",
+        "description": "A squad of eight apprentice mercenaries, composed of warriors and two healers, equipped with rapid weapons and light armor."
+    },
+    "free_squad_light_melee_fighter_c": {
+        "name": "Militiamen Squad",
+        "description": "A squad of eight confirmed mercenaries, composed of warriors and two healers, equipped with rapid weapons and light armor."
+    },
+    "free_squad_light_melee_fighter_d": {
+        "name": "Militiamen Squad",
+        "description": "A squad of eight advanced mercenaries, composed of warriors and two healers, equipped with rapid weapons and light armor."
+    },
+    "free_squad_light_melee_fighter_e": {
+        "name": "Militiamen Squad",
+        "description": "A squad of eight expert mercenaries, composed of warriors and two healers, equipped with rapid weapons and light armor."
+    },
+    "free_squad_light_melee_fighter_f": {
+        "name": "Militiamen Squad",
+        "description": "A squad of eight master mercenaries, composed of warriors and two healers, equipped with rapid weapons and light armor."
+    },
     "marauder_light_melee_fighter_b": {
         "name": "Marauder Warriors Squad",
         "description": ""
@@ -17,26 +37,6 @@
     },
     "marauder_light_melee_fighter_f": {
         "name": "Marauder Warriors Squad",
-        "description": ""
-    },
-    "marauder_light_range_fighter_b": {
-        "name": "Marauder Range Fighters Squad",
-        "description": ""
-    },
-    "marauder_light_range_fighter_c": {
-        "name": "Marauder Range Fighters Squad",
-        "description": ""
-    },
-    "marauder_light_range_fighter_d": {
-        "name": "Marauder Range Fighters Squad",
-        "description": ""
-    },
-    "marauder_light_range_fighter_e": {
-        "name": "Marauder Range Fighters Squad",
-        "description": ""
-    },
-    "marauder_light_range_fighter_f": {
-        "name": "Marauder Range Fighters Squad",
         "description": ""
     },
     "marauder_light_mixed_fighter_b": {
@@ -59,65 +59,25 @@
         "name": "Marauder Fighters Squad",
         "description": ""
     },
-    "free_squad_light_melee_fighter_b": {
-        "name": "Militiamen Squad",
-        "description": "A squad of eight apprentice mercenaries, composed of warriors and two healers, equipped with rapid weapons and light armor."
+    "marauder_light_range_fighter_b": {
+        "name": "Marauder Range Fighters Squad",
+        "description": ""
     },
-    "free_squad_light_melee_fighter_c": {
-        "name": "Militiamen Squad",
-        "description": "A squad of eight confirmed mercenaries, composed of warriors and two healers, equipped with rapid weapons and light armor."
+    "marauder_light_range_fighter_c": {
+        "name": "Marauder Range Fighters Squad",
+        "description": ""
     },
-    "free_squad_light_melee_fighter_d": {
-        "name": "Militiamen Squad",
-        "description": "A squad of eight advanced mercenaries, composed of warriors and two healers, equipped with rapid weapons and light armor."
+    "marauder_light_range_fighter_d": {
+        "name": "Marauder Range Fighters Squad",
+        "description": ""
     },
-    "free_squad_light_melee_fighter_e": {
-        "name": "Militiamen Squad",
-        "description": "A squad of eight expert mercenaries, composed of warriors and two healers, equipped with rapid weapons and light armor."
+    "marauder_light_range_fighter_e": {
+        "name": "Marauder Range Fighters Squad",
+        "description": ""
     },
-    "free_squad_light_melee_fighter_f": {
-        "name": "Militiamen Squad",
-        "description": "A squad of eight master mercenaries, composed of warriors and two healers, equipped with rapid weapons and light armor."
-    },
-    "outpost_squad_light_melee_fighter_b": {
-        "name": "Squad of skirmishers",
-        "description": "A squad of eight apprentice mercenaries, composed of warriors and two healers, equipped with rapid weapons and light armor"
-    },
-    "outpost_squad_light_melee_fighter_c": {
-        "name": "Squad of skirmishers",
-        "description": "A squad of eight confirmed mercenaries, composed of warriors and two healers, equipped with rapid weapons and light armor"
-    },
-    "outpost_squad_light_melee_fighter_d": {
-        "name": "Squad of skirmishers",
-        "description": "A squad of eight advanced mercenaries, composed of warriors and two healers, equipped with rapid weapons and light armor"
-    },
-    "outpost_squad_light_melee_fighter_e": {
-        "name": "Squad of skirmishers",
-        "description": "A squad of eight expert mercenaries, composed of warriors and two healers, equipped with rapid weapons and light armor"
-    },
-    "outpost_squad_light_melee_fighter_f": {
-        "name": "Squad of skirmishers",
-        "description": "A squad of eight master mercenaries, composed of warriors and two healers, equipped with rapid weapons and light armor"
-    },
-    "outpost_squad_medium_melee_fighter_b": {
-        "name": "Squad of battlers",
-        "description": "A squad of eight apprentice mercenaries, composed of warriors in medium armor equipped with light weapons, some carrying a shield, and a healer"
-    },
-    "outpost_squad_medium_melee_fighter_c": {
-        "name": "Squad of battlers",
-        "description": "A squad of eight confirmed mercenaries, composed of warriors in medium armor equipped with light weapons, some carrying a shield, and a healer"
-    },
-    "outpost_squad_medium_melee_fighter_d": {
-        "name": "Squad of battlers",
-        "description": "A squad of eight advanced mercenaries, composed of warriors in medium armor equipped with light weapons, some carrying a shield, and a healer"
-    },
-    "outpost_squad_medium_melee_fighter_e": {
-        "name": "Squad of battlers",
-        "description": "A squad of eight expert mercenaries, composed of warriors in medium armor equipped with light weapons, some carrying a shield, and a healer"
-    },
-    "outpost_squad_medium_melee_fighter_f": {
-        "name": "Squad of battlers",
-        "description": "A squad of eight master mercenaries, composed of warriors in medium armor equipped with light weapons, some carrying a shield, and a healer"
+    "marauder_light_range_fighter_f": {
+        "name": "Marauder Range Fighters Squad",
+        "description": ""
     },
     "outpost_squad_heavy_melee_fighter_b": {
         "name": "Squad of heavy warriors",
@@ -139,66 +99,6 @@
         "name": "Squad of heavy warriors",
         "description": "A squad of eight master mercenaries, composed of warriors in heavy armor equipped with two-handed weapons, and a healer"
     },
-    "outpost_squad_tank_b": {
-        "name": "Squad of protectors",
-        "description": "A squad of eight apprentice mercenaries, composed of warriors in heavy armor equipped with light weapons and shields, and a healer"
-    },
-    "outpost_squad_tank_c": {
-        "name": "Squad of protectors",
-        "description": "A squad of eight confirmed mercenaries, composed of warriors in heavy armor equipped with light weapons and shields, and a healer"
-    },
-    "outpost_squad_tank_d": {
-        "name": "Squad of protectors",
-        "description": "A squad of eight advanced mercenaries, composed of warriors in heavy armor equipped with light weapons and shields, and a healer"
-    },
-    "outpost_squad_tank_e": {
-        "name": "Squad of protectors",
-        "description": "A squad of eight expert mercenaries, composed of warriors in heavy armor equipped with light weapons and shields, and a healer"
-    },
-    "outpost_squad_tank_f": {
-        "name": "Squad of protectors",
-        "description": "A squad of eight master mercenaries, composed of warriors in heavy armor equipped with light weapons and shields, and a healer"
-    },
-    "outpost_squad_light_range_fighter_b": {
-        "name": "Squad of gunfighters",
-        "description": "A squad of eight apprentice mercenaries, composed of shooters in medium armor equipped with pistols, and a healer"
-    },
-    "outpost_squad_light_range_fighter_c": {
-        "name": "Squad of gunfighters",
-        "description": "A squad of eight confirmed mercenaries, composed of shooters in medium armor equipped with pistols, and a healer"
-    },
-    "outpost_squad_light_range_fighter_d": {
-        "name": "Squad of gunfighters",
-        "description": "A squad of eight advanced mercenaries, composed of shooters in medium armor equipped with pistols, and a healer"
-    },
-    "outpost_squad_light_range_fighter_e": {
-        "name": "Squad of gunfighters",
-        "description": "A squad of eight expert mercenaries, composed of shooters in medium armor equipped with pistols, and a healer"
-    },
-    "outpost_squad_light_range_fighter_f": {
-        "name": "Squad of gunfighters",
-        "description": "A squad of eight master mercenaries, composed of shooters in medium armor equipped with pistols, and a healer"
-    },
-    "outpost_squad_medium_range_fighter_b": {
-        "name": "Squad of gunners",
-        "description": "A squad of eight apprentice mercenaries, composed of shooters in medium armor equipped with rifles, and a healer"
-    },
-    "outpost_squad_medium_range_fighter_c": {
-        "name": "Squad of gunners",
-        "description": "A squad of eight confirmed mercenaries, composed of shooters in medium armor equipped with rifles, and a healer"
-    },
-    "outpost_squad_medium_range_fighter_d": {
-        "name": "Squad of gunners",
-        "description": "A squad of eight advanced mercenaries, composed of shooters in medium armor equipped with rifles, and a healer"
-    },
-    "outpost_squad_medium_range_fighter_e": {
-        "name": "Squad of gunners",
-        "description": "A squad of eight expert mercenaries, composed of shooters in medium armor equipped with rifles, and a healer"
-    },
-    "outpost_squad_medium_range_fighter_f": {
-        "name": "Squad of gunners",
-        "description": "A squad of eight master mercenaries, composed of shooters in medium armor equipped with rifles, and a healer"
-    },
     "outpost_squad_heavy_range_fighter_b": {
         "name": "Squad of artillery shooters",
         "description": "A squad of eight apprentice mercenaries, composed of shooters equipped with machine guns and grenade launchers, and a healer"
@@ -218,6 +118,26 @@
     "outpost_squad_heavy_range_fighter_f": {
         "name": "Squad of artillery shooters",
         "description": "A squad of eight master mercenaries, composed of shooters equipped with machine guns and grenade launchers, and a healer"
+    },
+    "outpost_squad_light_melee_fighter_b": {
+        "name": "Squad of skirmishers",
+        "description": "A squad of eight apprentice mercenaries, composed of warriors and two healers, equipped with rapid weapons and light armor"
+    },
+    "outpost_squad_light_melee_fighter_c": {
+        "name": "Squad of skirmishers",
+        "description": "A squad of eight confirmed mercenaries, composed of warriors and two healers, equipped with rapid weapons and light armor"
+    },
+    "outpost_squad_light_melee_fighter_d": {
+        "name": "Squad of skirmishers",
+        "description": "A squad of eight advanced mercenaries, composed of warriors and two healers, equipped with rapid weapons and light armor"
+    },
+    "outpost_squad_light_melee_fighter_e": {
+        "name": "Squad of skirmishers",
+        "description": "A squad of eight expert mercenaries, composed of warriors and two healers, equipped with rapid weapons and light armor"
+    },
+    "outpost_squad_light_melee_fighter_f": {
+        "name": "Squad of skirmishers",
+        "description": "A squad of eight master mercenaries, composed of warriors and two healers, equipped with rapid weapons and light armor"
     },
     "outpost_squad_light_mixed_fighter_b": {
         "name": "Squad of harriers",
@@ -239,6 +159,46 @@
         "name": "Squad of harriers",
         "description": "A squad of eight master mercenaries, composed of warriors and shooters equipped with rapid weapons and pistols, and a healer"
     },
+    "outpost_squad_light_range_fighter_b": {
+        "name": "Squad of gunfighters",
+        "description": "A squad of eight apprentice mercenaries, composed of shooters in medium armor equipped with pistols, and a healer"
+    },
+    "outpost_squad_light_range_fighter_c": {
+        "name": "Squad of gunfighters",
+        "description": "A squad of eight confirmed mercenaries, composed of shooters in medium armor equipped with pistols, and a healer"
+    },
+    "outpost_squad_light_range_fighter_d": {
+        "name": "Squad of gunfighters",
+        "description": "A squad of eight advanced mercenaries, composed of shooters in medium armor equipped with pistols, and a healer"
+    },
+    "outpost_squad_light_range_fighter_e": {
+        "name": "Squad of gunfighters",
+        "description": "A squad of eight expert mercenaries, composed of shooters in medium armor equipped with pistols, and a healer"
+    },
+    "outpost_squad_light_range_fighter_f": {
+        "name": "Squad of gunfighters",
+        "description": "A squad of eight master mercenaries, composed of shooters in medium armor equipped with pistols, and a healer"
+    },
+    "outpost_squad_medium_melee_fighter_b": {
+        "name": "Squad of battlers",
+        "description": "A squad of eight apprentice mercenaries, composed of warriors in medium armor equipped with light weapons, some carrying a shield, and a healer"
+    },
+    "outpost_squad_medium_melee_fighter_c": {
+        "name": "Squad of battlers",
+        "description": "A squad of eight confirmed mercenaries, composed of warriors in medium armor equipped with light weapons, some carrying a shield, and a healer"
+    },
+    "outpost_squad_medium_melee_fighter_d": {
+        "name": "Squad of battlers",
+        "description": "A squad of eight advanced mercenaries, composed of warriors in medium armor equipped with light weapons, some carrying a shield, and a healer"
+    },
+    "outpost_squad_medium_melee_fighter_e": {
+        "name": "Squad of battlers",
+        "description": "A squad of eight expert mercenaries, composed of warriors in medium armor equipped with light weapons, some carrying a shield, and a healer"
+    },
+    "outpost_squad_medium_melee_fighter_f": {
+        "name": "Squad of battlers",
+        "description": "A squad of eight master mercenaries, composed of warriors in medium armor equipped with light weapons, some carrying a shield, and a healer"
+    },
     "outpost_squad_medium_mixed_fighter_b": {
         "name": "Squad of fighters",
         "description": "A squad of eight apprentice mercenaries, composed of warriors and shooters equipped with light weapons and rifles, some carrying a shield, and a healer"
@@ -258,6 +218,46 @@
     "outpost_squad_medium_mixed_fighter_f": {
         "name": "Squad of fighters",
         "description": "A squad of eight master mercenaries, composed of warriors and shooters equipped with light weapons and rifles, some carrying a shield, and a healer"
+    },
+    "outpost_squad_medium_range_fighter_b": {
+        "name": "Squad of gunners",
+        "description": "A squad of eight apprentice mercenaries, composed of shooters in medium armor equipped with rifles, and a healer"
+    },
+    "outpost_squad_medium_range_fighter_c": {
+        "name": "Squad of gunners",
+        "description": "A squad of eight confirmed mercenaries, composed of shooters in medium armor equipped with rifles, and a healer"
+    },
+    "outpost_squad_medium_range_fighter_d": {
+        "name": "Squad of gunners",
+        "description": "A squad of eight advanced mercenaries, composed of shooters in medium armor equipped with rifles, and a healer"
+    },
+    "outpost_squad_medium_range_fighter_e": {
+        "name": "Squad of gunners",
+        "description": "A squad of eight expert mercenaries, composed of shooters in medium armor equipped with rifles, and a healer"
+    },
+    "outpost_squad_medium_range_fighter_f": {
+        "name": "Squad of gunners",
+        "description": "A squad of eight master mercenaries, composed of shooters in medium armor equipped with rifles, and a healer"
+    },
+    "outpost_squad_mixed_casters_b": {
+        "name": "Squad of magicians",
+        "description": "A squad of eight apprentice mercenaries, composed of magicians who follow different schools of magic (destructive and relieving)"
+    },
+    "outpost_squad_mixed_casters_c": {
+        "name": "Squad of magicians",
+        "description": "A squad of eight confirmed mercenaries, composed of magicians who follow different schools of magic (destructive and relieving)"
+    },
+    "outpost_squad_mixed_casters_d": {
+        "name": "Squad of magicians",
+        "description": "A squad of eight advanced mercenaries, composed of magicians who follow different schools of magic (destructive and relieving)"
+    },
+    "outpost_squad_mixed_casters_e": {
+        "name": "Squad of magicians",
+        "description": "A squad of eight expert mercenaries, composed of magicians who follow different schools of magic (destructive and relieving)"
+    },
+    "outpost_squad_mixed_casters_f": {
+        "name": "Squad of magicians",
+        "description": "A squad of eight master mercenaries, composed of magicians who follow different schools of magic (destructive and relieving)"
     },
     "outpost_squad_nukers_b": {
         "name": "Squad of elementalists",
@@ -299,24 +299,24 @@
         "name": "Squad of disturbers",
         "description": "A squad of eight master mercenaries, composed of magicians skilled in offensive link spells (debilitating and elementary), and a healer"
     },
-    "outpost_squad_mixed_casters_b": {
-        "name": "Squad of magicians",
-        "description": "A squad of eight apprentice mercenaries, composed of magicians who follow different schools of magic (destructive and relieving)"
+    "outpost_squad_tank_b": {
+        "name": "Squad of protectors",
+        "description": "A squad of eight apprentice mercenaries, composed of warriors in heavy armor equipped with light weapons and shields, and a healer"
     },
-    "outpost_squad_mixed_casters_c": {
-        "name": "Squad of magicians",
-        "description": "A squad of eight confirmed mercenaries, composed of magicians who follow different schools of magic (destructive and relieving)"
+    "outpost_squad_tank_c": {
+        "name": "Squad of protectors",
+        "description": "A squad of eight confirmed mercenaries, composed of warriors in heavy armor equipped with light weapons and shields, and a healer"
     },
-    "outpost_squad_mixed_casters_d": {
-        "name": "Squad of magicians",
-        "description": "A squad of eight advanced mercenaries, composed of magicians who follow different schools of magic (destructive and relieving)"
+    "outpost_squad_tank_d": {
+        "name": "Squad of protectors",
+        "description": "A squad of eight advanced mercenaries, composed of warriors in heavy armor equipped with light weapons and shields, and a healer"
     },
-    "outpost_squad_mixed_casters_e": {
-        "name": "Squad of magicians",
-        "description": "A squad of eight expert mercenaries, composed of magicians who follow different schools of magic (destructive and relieving)"
+    "outpost_squad_tank_e": {
+        "name": "Squad of protectors",
+        "description": "A squad of eight expert mercenaries, composed of warriors in heavy armor equipped with light weapons and shields, and a healer"
     },
-    "outpost_squad_mixed_casters_f": {
-        "name": "Squad of magicians",
-        "description": "A squad of eight master mercenaries, composed of magicians who follow different schools of magic (destructive and relieving)"
+    "outpost_squad_tank_f": {
+        "name": "Squad of protectors",
+        "description": "A squad of eight master mercenaries, composed of warriors in heavy armor equipped with light weapons and shields, and a healer"
     }
 }

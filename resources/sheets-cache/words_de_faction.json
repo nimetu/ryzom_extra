@@ -1,40 +1,4 @@
 {
-    "fyros": {
-        "name": "Fyros",
-        "da": "die",
-        "daa": "den",
-        "ia": "ein",
-        "member": "Fyros",
-        "mda": "die",
-        "mia": "einige"
-    },
-    "matis": {
-        "name": "Matis",
-        "da": "die",
-        "daa": "den",
-        "ia": "ein",
-        "member": "Matis",
-        "mda": "die",
-        "mia": "einige"
-    },
-    "tryker": {
-        "name": "Tryker",
-        "da": "die",
-        "daa": "den",
-        "ia": "ein",
-        "member": "Tryker",
-        "mda": "die",
-        "mia": "einige"
-    },
-    "zorai": {
-        "name": "Zoraï",
-        "da": "die",
-        "daa": "den",
-        "ia": "ein",
-        "member": "Zoraï",
-        "mda": "die",
-        "mia": "einige"
-    },
     "bandit": {
         "name": "Banditen",
         "da": "die",
@@ -44,21 +8,21 @@
         "mda": "die",
         "mia": "einige"
     },
-    "civil": {
-        "name": "Zivilisten",
-        "da": "die",
-        "daa": "den",
-        "ia": "einer der",
-        "member": "Zivilisten",
-        "mda": "die",
-        "mia": "einige"
-    },
     "black_kami": {
         "name": "Marodeure",
         "da": "die",
         "daa": "den",
         "ia": "ein",
         "member": "Marodeure",
+        "mda": "die",
+        "mia": "einige"
+    },
+    "civil": {
+        "name": "Zivilisten",
+        "da": "die",
+        "daa": "den",
+        "ia": "einer der",
+        "member": "Zivilisten",
         "mda": "die",
         "mia": "einige"
     },
@@ -107,6 +71,15 @@
         "mda": "die",
         "mia": "einige"
     },
+    "fyros": {
+        "name": "Fyros",
+        "da": "die",
+        "daa": "den",
+        "ia": "ein",
+        "member": "Fyros",
+        "mda": "die",
+        "mia": "einige"
+    },
     "goo": {
         "name": "Goovorkommen",
         "da": "das",
@@ -140,6 +113,15 @@
         "daa": "den",
         "ia": "ein",
         "member": "Kitins",
+        "mda": "die",
+        "mia": "einige"
+    },
+    "matis": {
+        "name": "Matis",
+        "da": "die",
+        "daa": "den",
+        "ia": "ein",
+        "member": "Matis",
         "mda": "die",
         "mia": "einige"
     },
@@ -599,6 +581,24 @@
         "daa": "den",
         "ia": "ein",
         "member": "Wüstenplünderer",
+        "mda": "die",
+        "mia": "einige"
+    },
+    "tryker": {
+        "name": "Tryker",
+        "da": "die",
+        "daa": "den",
+        "ia": "ein",
+        "member": "Tryker",
+        "mda": "die",
+        "mia": "einige"
+    },
+    "zorai": {
+        "name": "Zoraï",
+        "da": "die",
+        "daa": "den",
+        "ia": "ein",
+        "member": "Zoraï",
         "mda": "die",
         "mia": "einige"
     }

@@ -1,4 +1,24 @@
 {
+    "free_squad_light_melee_fighter_b": {
+        "name": "Escouade de miliciens",
+        "description": "Une escouade volante de recrues mercenaires comptant six guerriers et deux soigneurs équipés d'armes rapides et d'armures légères."
+    },
+    "free_squad_light_melee_fighter_c": {
+        "name": "Escouade de miliciens",
+        "description": "Une escouade volante de mercenaires expérimentés comptant six guerriers et deux soigneurs équipés d'armes rapides et d'armures légères."
+    },
+    "free_squad_light_melee_fighter_d": {
+        "name": "Escouade de miliciens",
+        "description": "Une escouade volante de mercenaires confirmés comptant six guerriers et deux soigneurs équipés d'armes rapides et d'armures légères."
+    },
+    "free_squad_light_melee_fighter_e": {
+        "name": "Escouade de miliciens",
+        "description": "Une escouade volante de vétérans mercenaires comptant six guerriers et deux soigneurs équipés d'armes rapides et d'armures légères."
+    },
+    "free_squad_light_melee_fighter_f": {
+        "name": "Escouade de miliciens",
+        "description": "Une escouade volante de maîtres mercenaires comptant six guerriers et deux soigneurs équipés d'armes rapides et d'armures légères."
+    },
     "marauder_light_melee_fighter_b": {
         "name": "Escouade de guerriers maraudeurs",
         "description": ""
@@ -17,26 +37,6 @@
     },
     "marauder_light_melee_fighter_f": {
         "name": "Escouade de guerriers maraudeurs",
-        "description": ""
-    },
-    "marauder_light_range_fighter_b": {
-        "name": "Escouade de tireurs maraudeurs",
-        "description": ""
-    },
-    "marauder_light_range_fighter_c": {
-        "name": "Escouade de tireurs maraudeurs",
-        "description": ""
-    },
-    "marauder_light_range_fighter_d": {
-        "name": "Escouade de tireurs maraudeurs",
-        "description": ""
-    },
-    "marauder_light_range_fighter_e": {
-        "name": "Escouade de tireurs maraudeurs",
-        "description": ""
-    },
-    "marauder_light_range_fighter_f": {
-        "name": "Escouade de tireurs maraudeurs",
         "description": ""
     },
     "marauder_light_mixed_fighter_b": {
@@ -59,65 +59,25 @@
         "name": "Escouade de combattants maraudeurs",
         "description": ""
     },
-    "free_squad_light_melee_fighter_b": {
-        "name": "Escouade de miliciens",
-        "description": "Une escouade volante de recrues mercenaires comptant six guerriers et deux soigneurs équipés d'armes rapides et d'armures légères."
+    "marauder_light_range_fighter_b": {
+        "name": "Escouade de tireurs maraudeurs",
+        "description": ""
     },
-    "free_squad_light_melee_fighter_c": {
-        "name": "Escouade de miliciens",
-        "description": "Une escouade volante de mercenaires expérimentés comptant six guerriers et deux soigneurs équipés d'armes rapides et d'armures légères."
+    "marauder_light_range_fighter_c": {
+        "name": "Escouade de tireurs maraudeurs",
+        "description": ""
     },
-    "free_squad_light_melee_fighter_d": {
-        "name": "Escouade de miliciens",
-        "description": "Une escouade volante de mercenaires confirmés comptant six guerriers et deux soigneurs équipés d'armes rapides et d'armures légères."
+    "marauder_light_range_fighter_d": {
+        "name": "Escouade de tireurs maraudeurs",
+        "description": ""
     },
-    "free_squad_light_melee_fighter_e": {
-        "name": "Escouade de miliciens",
-        "description": "Une escouade volante de vétérans mercenaires comptant six guerriers et deux soigneurs équipés d'armes rapides et d'armures légères."
+    "marauder_light_range_fighter_e": {
+        "name": "Escouade de tireurs maraudeurs",
+        "description": ""
     },
-    "free_squad_light_melee_fighter_f": {
-        "name": "Escouade de miliciens",
-        "description": "Une escouade volante de maîtres mercenaires comptant six guerriers et deux soigneurs équipés d'armes rapides et d'armures légères."
-    },
-    "outpost_squad_light_melee_fighter_b": {
-        "name": "Escouade d'escarmoucheurs",
-        "description": "Une escouade de recrues mercenaires comptant six guerriers et deux soigneurs équipés d'armes rapides et d'armures légères."
-    },
-    "outpost_squad_light_melee_fighter_c": {
-        "name": "Escouade d'escarmoucheurs",
-        "description": "Une escouade de mercenaires expérimentés comptant six guerriers et deux soigneurs équipés d'armes rapides et d'armures légères."
-    },
-    "outpost_squad_light_melee_fighter_d": {
-        "name": "Escouade d'escarmoucheurs",
-        "description": "Une escouade de mercenaires confirmés comptant six guerriers et deux soigneurs équipés d'armes rapides et d'armures légères."
-    },
-    "outpost_squad_light_melee_fighter_e": {
-        "name": "Escouade d'escarmoucheurs",
-        "description": "Une escouade de vétérans mercenaires comptant six guerriers et deux soigneurs équipés d'armes rapides et d'armures légères."
-    },
-    "outpost_squad_light_melee_fighter_f": {
-        "name": "Escouade d'escarmoucheurs",
-        "description": "Une escouade de maîtres mercenaires comptant six guerriers et deux soigneurs équipés d'armes rapides et d'armures légères."
-    },
-    "outpost_squad_medium_melee_fighter_b": {
-        "name": "Escouade de spadassins",
-        "description": "Une escouade de recrues mercenaires comptant sept guerriers en armure moyenne équipés d'armes légères, certains portant un bouclier, et un soigneur."
-    },
-    "outpost_squad_medium_melee_fighter_c": {
-        "name": "Escouade de spadassins",
-        "description": "Une escouade de mercenaires expérimentés comptant sept guerriers en armure moyenne équipés d'armes légères, certains portant un bouclier, et un soigneur."
-    },
-    "outpost_squad_medium_melee_fighter_d": {
-        "name": "Escouade de spadassins",
-        "description": "Une escouade de mercenaires confirmés comptant sept guerriers en armure moyenne équipés d'armes légères, certains portant un bouclier, et un soigneur."
-    },
-    "outpost_squad_medium_melee_fighter_e": {
-        "name": "Escouade de spadassins",
-        "description": "Une escouade de vétérans mercenaires comptant sept guerriers en armure moyenne équipés d'armes légères, certains portant un bouclier, et un soigneur."
-    },
-    "outpost_squad_medium_melee_fighter_f": {
-        "name": "Escouade de spadassins",
-        "description": "Une escouade de maîtres mercenaires comptant sept guerriers en armure moyenne équipés d'armes légères, certains portant un bouclier, et un soigneur."
+    "marauder_light_range_fighter_f": {
+        "name": "Escouade de tireurs maraudeurs",
+        "description": ""
     },
     "outpost_squad_heavy_melee_fighter_b": {
         "name": "Escouade de hastaires",
@@ -139,66 +99,6 @@
         "name": "Escouade de hastaires",
         "description": "Une escouade de maîtres mercenaires comptant sept guerriers en armure lourde équipés d'armes à deux mains et un soigneur."
     },
-    "outpost_squad_tank_b": {
-        "name": "Escouade de protecteurs",
-        "description": "Une escouade de recrues mercenaires comptant sept guerriers en armure lourde équipés d'armes légères et de boucliers et un soigneur."
-    },
-    "outpost_squad_tank_c": {
-        "name": "Escouade de protecteurs",
-        "description": "Une escouade de mercenaires expérimentés comptant sept guerriers en armure lourde équipés d'armes légères et de boucliers et un soigneur."
-    },
-    "outpost_squad_tank_d": {
-        "name": "Escouade de protecteurs",
-        "description": "Une escouade de mercenaires confirmés comptant sept guerriers en armure lourde équipés d'armes légères et de boucliers et un soigneur."
-    },
-    "outpost_squad_tank_e": {
-        "name": "Escouade de protecteurs",
-        "description": "Une escouade de vétérans mercenaires comptant sept guerriers en armure lourde équipés d'armes légères et de boucliers et un soigneur."
-    },
-    "outpost_squad_tank_f": {
-        "name": "Escouade de protecteurs",
-        "description": "Une escouade de maîtres mercenaires comptant sept guerriers en armure lourde équipés d'armes légères et de boucliers et un soigneur."
-    },
-    "outpost_squad_light_range_fighter_b": {
-        "name": "Escouade de francs-tireurs",
-        "description": "Une escouade de recrues mercenaires comptant sept tireurs en armure moyenne armés de pistolets et un soigneur."
-    },
-    "outpost_squad_light_range_fighter_c": {
-        "name": "Escouade de francs-tireurs",
-        "description": "Une escouade de mercenaires expérimentés comptant sept tireurs en armure moyenne armés de pistolets et un soigneur."
-    },
-    "outpost_squad_light_range_fighter_d": {
-        "name": "Escouade de francs-tireurs",
-        "description": "Une escouade de mercenaires confirmés comptant sept tireurs en armure moyenne armés de pistolets et un soigneur."
-    },
-    "outpost_squad_light_range_fighter_e": {
-        "name": "Escouade de francs-tireurs",
-        "description": "Une escouade de vétérans mercenaires comptant sept tireurs en armure moyenne armés de pistolets et un soigneur."
-    },
-    "outpost_squad_light_range_fighter_f": {
-        "name": "Escouade de francs-tireurs",
-        "description": "Une escouade de maîtres mercenaires comptant sept tireurs en armure moyenne armés de pistolets et un soigneur."
-    },
-    "outpost_squad_medium_range_fighter_b": {
-        "name": "Escouade de tirailleurs",
-        "description": "Une escouade de recrues mercenaires comptant sept tireurs en armure moyenne armés de fusils et un soigneur."
-    },
-    "outpost_squad_medium_range_fighter_c": {
-        "name": "Escouade de tirailleurs",
-        "description": "Une escouade de mercenaires expérimentés comptant sept tireurs en armure moyenne armés de fusils et un soigneur."
-    },
-    "outpost_squad_medium_range_fighter_d": {
-        "name": "Escouade de tirailleurs",
-        "description": "Une escouade de mercenaires confirmés comptant sept tireurs en armure moyenne armés de fusils et un soigneur."
-    },
-    "outpost_squad_medium_range_fighter_e": {
-        "name": "Escouade de tirailleurs",
-        "description": "Une escouade de vétérans mercenaires comptant sept tireurs en armure moyenne armés de fusils et un soigneur."
-    },
-    "outpost_squad_medium_range_fighter_f": {
-        "name": "Escouade de tirailleurs",
-        "description": "Une escouade de maîtres mercenaires comptant sept tireurs en armure moyenne armés de fusils et un soigneur."
-    },
     "outpost_squad_heavy_range_fighter_b": {
         "name": "Escouade d'artilleurs",
         "description": "Une escouade de recrues mercenaires comptant sept tireurs armés de fusils et de lance-grenades, et un soigneur."
@@ -218,6 +118,26 @@
     "outpost_squad_heavy_range_fighter_f": {
         "name": "Escouade d'artilleurs",
         "description": "Une escouade de maîtres mercenaires comptant sept tireurs armés de fusils et de lance-grenades, et un soigneur."
+    },
+    "outpost_squad_light_melee_fighter_b": {
+        "name": "Escouade d'escarmoucheurs",
+        "description": "Une escouade de recrues mercenaires comptant six guerriers et deux soigneurs équipés d'armes rapides et d'armures légères."
+    },
+    "outpost_squad_light_melee_fighter_c": {
+        "name": "Escouade d'escarmoucheurs",
+        "description": "Une escouade de mercenaires expérimentés comptant six guerriers et deux soigneurs équipés d'armes rapides et d'armures légères."
+    },
+    "outpost_squad_light_melee_fighter_d": {
+        "name": "Escouade d'escarmoucheurs",
+        "description": "Une escouade de mercenaires confirmés comptant six guerriers et deux soigneurs équipés d'armes rapides et d'armures légères."
+    },
+    "outpost_squad_light_melee_fighter_e": {
+        "name": "Escouade d'escarmoucheurs",
+        "description": "Une escouade de vétérans mercenaires comptant six guerriers et deux soigneurs équipés d'armes rapides et d'armures légères."
+    },
+    "outpost_squad_light_melee_fighter_f": {
+        "name": "Escouade d'escarmoucheurs",
+        "description": "Une escouade de maîtres mercenaires comptant six guerriers et deux soigneurs équipés d'armes rapides et d'armures légères."
     },
     "outpost_squad_light_mixed_fighter_b": {
         "name": "Escouade de harceleurs",
@@ -239,6 +159,46 @@
         "name": "Escouade de harceleurs",
         "description": "Une escouade de huit maîtres mercenaires composée de guerriers équipés d'armes rapides, de tireurs armés de pistolets, et d'un soigneur."
     },
+    "outpost_squad_light_range_fighter_b": {
+        "name": "Escouade de francs-tireurs",
+        "description": "Une escouade de recrues mercenaires comptant sept tireurs en armure moyenne armés de pistolets et un soigneur."
+    },
+    "outpost_squad_light_range_fighter_c": {
+        "name": "Escouade de francs-tireurs",
+        "description": "Une escouade de mercenaires expérimentés comptant sept tireurs en armure moyenne armés de pistolets et un soigneur."
+    },
+    "outpost_squad_light_range_fighter_d": {
+        "name": "Escouade de francs-tireurs",
+        "description": "Une escouade de mercenaires confirmés comptant sept tireurs en armure moyenne armés de pistolets et un soigneur."
+    },
+    "outpost_squad_light_range_fighter_e": {
+        "name": "Escouade de francs-tireurs",
+        "description": "Une escouade de vétérans mercenaires comptant sept tireurs en armure moyenne armés de pistolets et un soigneur."
+    },
+    "outpost_squad_light_range_fighter_f": {
+        "name": "Escouade de francs-tireurs",
+        "description": "Une escouade de maîtres mercenaires comptant sept tireurs en armure moyenne armés de pistolets et un soigneur."
+    },
+    "outpost_squad_medium_melee_fighter_b": {
+        "name": "Escouade de spadassins",
+        "description": "Une escouade de recrues mercenaires comptant sept guerriers en armure moyenne équipés d'armes légères, certains portant un bouclier, et un soigneur."
+    },
+    "outpost_squad_medium_melee_fighter_c": {
+        "name": "Escouade de spadassins",
+        "description": "Une escouade de mercenaires expérimentés comptant sept guerriers en armure moyenne équipés d'armes légères, certains portant un bouclier, et un soigneur."
+    },
+    "outpost_squad_medium_melee_fighter_d": {
+        "name": "Escouade de spadassins",
+        "description": "Une escouade de mercenaires confirmés comptant sept guerriers en armure moyenne équipés d'armes légères, certains portant un bouclier, et un soigneur."
+    },
+    "outpost_squad_medium_melee_fighter_e": {
+        "name": "Escouade de spadassins",
+        "description": "Une escouade de vétérans mercenaires comptant sept guerriers en armure moyenne équipés d'armes légères, certains portant un bouclier, et un soigneur."
+    },
+    "outpost_squad_medium_melee_fighter_f": {
+        "name": "Escouade de spadassins",
+        "description": "Une escouade de maîtres mercenaires comptant sept guerriers en armure moyenne équipés d'armes légères, certains portant un bouclier, et un soigneur."
+    },
     "outpost_squad_medium_mixed_fighter_b": {
         "name": "Escouade de combattants",
         "description": "Une escouade de huit recrues mercenaires composée de guerriers et de tireurs équipés d'armes légères et de fusils, certains portant un bouclier, et d'un soigneur."
@@ -258,6 +218,46 @@
     "outpost_squad_medium_mixed_fighter_f": {
         "name": "Escouade de combattants",
         "description": "Une escouade de huit maîtres mercenaires composée de guerriers et de tireurs équipés d'armes légères et de fusils, certains portant un bouclier, et d'un soigneur."
+    },
+    "outpost_squad_medium_range_fighter_b": {
+        "name": "Escouade de tirailleurs",
+        "description": "Une escouade de recrues mercenaires comptant sept tireurs en armure moyenne armés de fusils et un soigneur."
+    },
+    "outpost_squad_medium_range_fighter_c": {
+        "name": "Escouade de tirailleurs",
+        "description": "Une escouade de mercenaires expérimentés comptant sept tireurs en armure moyenne armés de fusils et un soigneur."
+    },
+    "outpost_squad_medium_range_fighter_d": {
+        "name": "Escouade de tirailleurs",
+        "description": "Une escouade de mercenaires confirmés comptant sept tireurs en armure moyenne armés de fusils et un soigneur."
+    },
+    "outpost_squad_medium_range_fighter_e": {
+        "name": "Escouade de tirailleurs",
+        "description": "Une escouade de vétérans mercenaires comptant sept tireurs en armure moyenne armés de fusils et un soigneur."
+    },
+    "outpost_squad_medium_range_fighter_f": {
+        "name": "Escouade de tirailleurs",
+        "description": "Une escouade de maîtres mercenaires comptant sept tireurs en armure moyenne armés de fusils et un soigneur."
+    },
+    "outpost_squad_mixed_casters_b": {
+        "name": "Escouade de magiciens",
+        "description": "Une escouade de huit recrues mercenaires composée de mages adeptes des différentes écoles de magie (destructrices et salvatrices)."
+    },
+    "outpost_squad_mixed_casters_c": {
+        "name": "Escouade de magiciens",
+        "description": "Une escouade de huit mercenaires expérimentés composée de mages adeptes des différentes écoles de magie (destructrices et salvatrices)."
+    },
+    "outpost_squad_mixed_casters_d": {
+        "name": "Escouade de magiciens",
+        "description": "Une escouade de huit mercenaires confirmés composée de mages adeptes des différentes écoles de magie (destructrices et salvatrices)."
+    },
+    "outpost_squad_mixed_casters_e": {
+        "name": "Escouade de magiciens",
+        "description": "Une escouade de huit vétérans mercenaires composée de mages adeptes des différentes écoles de magie (destructrices et salvatrices)."
+    },
+    "outpost_squad_mixed_casters_f": {
+        "name": "Escouade de magiciens",
+        "description": "Une escouade de huit maîtres mercenaires composée de mages adeptes des différentes écoles de magie (destructrices et salvatrices)."
     },
     "outpost_squad_nukers_b": {
         "name": "Escouade d'élémentalistes",
@@ -299,24 +299,24 @@
         "name": "Escouade d'envoûteurs",
         "description": "Une escouade de maîtres mercenaires comptant sept mages lanceurs de sorts offensifs (débilitants et élémentaires) et un soigneur."
     },
-    "outpost_squad_mixed_casters_b": {
-        "name": "Escouade de magiciens",
-        "description": "Une escouade de huit recrues mercenaires composée de mages adeptes des différentes écoles de magie (destructrices et salvatrices)."
+    "outpost_squad_tank_b": {
+        "name": "Escouade de protecteurs",
+        "description": "Une escouade de recrues mercenaires comptant sept guerriers en armure lourde équipés d'armes légères et de boucliers et un soigneur."
     },
-    "outpost_squad_mixed_casters_c": {
-        "name": "Escouade de magiciens",
-        "description": "Une escouade de huit mercenaires expérimentés composée de mages adeptes des différentes écoles de magie (destructrices et salvatrices)."
+    "outpost_squad_tank_c": {
+        "name": "Escouade de protecteurs",
+        "description": "Une escouade de mercenaires expérimentés comptant sept guerriers en armure lourde équipés d'armes légères et de boucliers et un soigneur."
     },
-    "outpost_squad_mixed_casters_d": {
-        "name": "Escouade de magiciens",
-        "description": "Une escouade de huit mercenaires confirmés composée de mages adeptes des différentes écoles de magie (destructrices et salvatrices)."
+    "outpost_squad_tank_d": {
+        "name": "Escouade de protecteurs",
+        "description": "Une escouade de mercenaires confirmés comptant sept guerriers en armure lourde équipés d'armes légères et de boucliers et un soigneur."
     },
-    "outpost_squad_mixed_casters_e": {
-        "name": "Escouade de magiciens",
-        "description": "Une escouade de huit vétérans mercenaires composée de mages adeptes des différentes écoles de magie (destructrices et salvatrices)."
+    "outpost_squad_tank_e": {
+        "name": "Escouade de protecteurs",
+        "description": "Une escouade de vétérans mercenaires comptant sept guerriers en armure lourde équipés d'armes légères et de boucliers et un soigneur."
     },
-    "outpost_squad_mixed_casters_f": {
-        "name": "Escouade de magiciens",
-        "description": "Une escouade de huit maîtres mercenaires composée de mages adeptes des différentes écoles de magie (destructrices et salvatrices)."
+    "outpost_squad_tank_f": {
+        "name": "Escouade de protecteurs",
+        "description": "Une escouade de maîtres mercenaires comptant sept guerriers en armure lourde équipés d'armes légères et de boucliers et un soigneur."
     }
 }

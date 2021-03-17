@@ -2,14 +2,14 @@
     "constitution": {
         "name": "Constitution"
     },
-    "metabolism": {
-        "name": "Métabolisme"
+    "dexterity": {
+        "name": "Dextérité"
     },
     "intelligence": {
         "name": "Intelligence"
     },
-    "wisdom": {
-        "name": "Sagesse"
+    "metabolism": {
+        "name": "Métabolisme"
     },
     "strength": {
         "name": "Force"
@@ -17,10 +17,10 @@
     "wellbalanced": {
         "name": "Équilibre"
     },
-    "dexterity": {
-        "name": "Dextérité"
-    },
     "will": {
         "name": "Volonté"
+    },
+    "wisdom": {
+        "name": "Sagesse"
     }
 }

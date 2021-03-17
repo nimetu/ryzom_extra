@@ -15,14 +15,6 @@
         "pia": "unos",
         "pda": "los"
     },
-    "lake": {
-        "name": "Lago",
-        "ia": "un",
-        "da": "el",
-        "p": "Lagos",
-        "pia": "unos",
-        "pda": "los"
-    },
     "jungle": {
         "name": "Jungla",
         "ia": "una",
@@ -30,6 +22,14 @@
         "p": "Junglas",
         "pia": "unas",
         "pda": "las"
+    },
+    "lake": {
+        "name": "Lago",
+        "ia": "un",
+        "da": "el",
+        "p": "Lagos",
+        "pia": "unos",
+        "pda": "los"
     },
     "primeroots": {
         "name": "Raíces Primarias",

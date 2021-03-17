@@ -1,60 +1,10 @@
 {
-    "fyros": {
-        "name": "Fyros",
-        "da": "le",
-        "ia": "un",
-        "cc": "du",
-        "member": "Fyros",
-        "mda": "les",
-        "mia": "des",
-        "mcc": "des"
-    },
-    "matis": {
-        "name": "Matis",
-        "da": "le",
-        "ia": "un",
-        "cc": "du",
-        "member": "Matis",
-        "mda": "les",
-        "mia": "des",
-        "mcc": "des"
-    },
-    "tryker": {
-        "name": "Tryker",
-        "da": "le",
-        "ia": "un",
-        "cc": "du",
-        "member": "Trykers",
-        "mda": "les",
-        "mia": "des",
-        "mcc": "des"
-    },
-    "zorai": {
-        "name": "Zoraï",
-        "da": "le",
-        "ia": "un",
-        "cc": "du",
-        "member": "Zoraïs",
-        "mda": "les",
-        "mia": "des",
-        "mcc": "des"
-    },
     "bandit": {
         "name": "Bandit",
         "da": "le",
         "ia": "un",
         "cc": "du",
         "member": "Bandits",
-        "mda": "les",
-        "mia": "des",
-        "mcc": "des"
-    },
-    "civil": {
-        "name": "Civil",
-        "da": "le",
-        "ia": "un",
-        "cc": "du",
-        "member": "Civils",
         "mda": "les",
         "mia": "des",
         "mcc": "des"
@@ -68,6 +18,16 @@
         "mda": "les",
         "mia": "des",
         "mcc": "de la"
+    },
+    "civil": {
+        "name": "Civil",
+        "da": "le",
+        "ia": "un",
+        "cc": "du",
+        "member": "Civils",
+        "mda": "les",
+        "mia": "des",
+        "mcc": "des"
     },
     "degen": {
         "name": "Dégénéré",
@@ -119,6 +79,16 @@
         "mia": "une",
         "mcc": "de la"
     },
+    "fyros": {
+        "name": "Fyros",
+        "da": "le",
+        "ia": "un",
+        "cc": "du",
+        "member": "Fyros",
+        "mda": "les",
+        "mia": "des",
+        "mcc": "des"
+    },
     "goo": {
         "name": "Goo",
         "da": "la",
@@ -155,6 +125,16 @@
         "ia": "un",
         "cc": "du",
         "member": "Kitins",
+        "mda": "les",
+        "mia": "des",
+        "mcc": "des"
+    },
+    "matis": {
+        "name": "Matis",
+        "da": "le",
+        "ia": "un",
+        "cc": "du",
+        "member": "Matis",
         "mda": "les",
         "mia": "des",
         "mcc": "des"
@@ -665,6 +645,26 @@
         "ia": "des",
         "cc": "des",
         "member": "Pillards du Désert",
+        "mda": "les",
+        "mia": "des",
+        "mcc": "des"
+    },
+    "tryker": {
+        "name": "Tryker",
+        "da": "le",
+        "ia": "un",
+        "cc": "du",
+        "member": "Trykers",
+        "mda": "les",
+        "mia": "des",
+        "mcc": "des"
+    },
+    "zorai": {
+        "name": "Zoraï",
+        "da": "le",
+        "ia": "un",
+        "cc": "du",
+        "member": "Zoraïs",
         "mda": "les",
         "mia": "des",
         "mcc": "des"

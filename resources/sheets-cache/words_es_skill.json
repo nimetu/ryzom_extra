@@ -1034,6 +1034,15 @@
         "pda": "las",
         "description": ""
     },
+    "makedeadlyharpoongun": {
+        "name": "Fabricar Arma de arpón mortal",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricar Armas de arpón mortal",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
     "makediadem": {
         "name": "Fabricar Diadema",
         "ia": "una",
@@ -1050,6 +1059,33 @@
         "p": "Fabricar Aretes",
         "pia": "",
         "pda": "los",
+        "description": ""
+    },
+    "makeenchantedarmors": {
+        "name": "Fabricar Armadura Encantada",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricar Armaduras Encantadas",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "makeenchantedfloralpatternlivingclothes": {
+        "name": "Fabricar Ropa Viva de estampado Floral Encantado",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricar Ropas Vivas de estampado Floral Encantado",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "makeenchantedweapons": {
+        "name": "Fabricar Armas Encantadas",
+        "ia": "una",
+        "da": "el",
+        "p": "Fabricar Armas Encantadas",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makefireammos": {
@@ -1185,6 +1221,15 @@
         "p": "Fabricar Chalecos pesados",
         "pia": "",
         "pda": "los",
+        "description": ""
+    },
+    "makehuntingarmors": {
+        "name": "Fabricar Armadura para Cazar",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricar Armaduras para Cazar",
+        "pia": "",
+        "pda": "las",
         "description": ""
     },
     "makejewels": {
@@ -1520,6 +1565,24 @@
         "pda": "los",
         "description": ""
     },
+    "makeritualclothes": {
+        "name": "Fabricar Traje de ritual",
+        "ia": "un",
+        "da": "el",
+        "p": "Fabricar Trajes de ritual",
+        "pia": "",
+        "pda": "los",
+        "description": ""
+    },
+    "makeritualjewels": {
+        "name": "Fabricar Joyas de ritual",
+        "ia": "unas",
+        "da": "las",
+        "p": "Fabricar Joyas de ritual",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
     "makeshield": {
         "name": "Fabricar Escudo",
         "ia": "un",
@@ -1606,6 +1669,15 @@
         "ia": "un",
         "da": "el",
         "p": "Fabricar Armas de alcance de dos manos",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "makevampiricweapons": {
+        "name": "Fabricar Armas Vampíricas",
+        "ia": "unas",
+        "da": "las",
+        "p": "Fabricar Armas Vampíricas",
         "pia": "",
         "pda": "las",
         "description": ""
@@ -2033,735 +2105,6 @@
         "pda": "los",
         "description": ""
     },
-    "shield": {
-        "name": "Escudo Kamic",
-        "ia": "un",
-        "da": "el",
-        "p": "Escudos Kamis",
-        "pia": "",
-        "pda": "los",
-        "description": ""
-    },
-    "shootandrun": {
-        "name": "Tiro y Carrera",
-        "ia": "un",
-        "da": "el",
-        "p": "Tiro y Carreras",
-        "pia": "",
-        "pda": "los",
-        "description": ""
-    },
-    "shotprotect": {
-        "name": "Protección del Tiro",
-        "ia": "una",
-        "da": "la",
-        "p": "Protecciones a los Tiros",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "slowingbreath": {
-        "name": "Desaceleración de la Respiración",
-        "ia": "una",
-        "da": "la",
-        "p": "Desaceleración de las Reparaciones",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "slowinglife": {
-        "name": "Desaceleración de la Vida",
-        "ia": "una",
-        "da": "la",
-        "p": "Desaceleración de las Vidas",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "spear": {
-        "name": "Lanza",
-        "ia": "un",
-        "da": "la",
-        "p": "Lanzas",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "spelldeletion": {
-        "name": "Cancelación del Hechizo",
-        "ia": "una",
-        "da": "la",
-        "p": "Cancelación de los Hechizos",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "spellprotect": {
-        "name": "Protección contra un Hechizo",
-        "ia": "un",
-        "da": "el",
-        "p": "Protección contra los Hechizos",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "spurtingfire": {
-        "name": "Brote de Fuego",
-        "ia": "un",
-        "da": "el",
-        "p": "Brotes de Fuego",
-        "pia": "",
-        "pda": "los",
-        "description": ""
-    },
-    "squandering": {
-        "name": "Desperdicio",
-        "ia": "un",
-        "da": "el",
-        "p": "Desperdicios",
-        "pia": "",
-        "pda": "los",
-        "description": ""
-    },
-    "stallsetup": {
-        "name": "Establecimiento de puesto",
-        "ia": "un",
-        "da": "el",
-        "p": "Establecimiento de puestos",
-        "pia": "",
-        "pda": "los",
-        "description": ""
-    },
-    "stealbreath": {
-        "name": "Robando Aliento",
-        "ia": "un",
-        "da": "el",
-        "p": "Robando Alientos",
-        "pia": "",
-        "pda": "el",
-        "description": ""
-    },
-    "steallife": {
-        "name": "Robo de Vida",
-        "ia": "un",
-        "da": "el",
-        "p": "Robo de Vidas",
-        "pia": "",
-        "pda": "el",
-        "description": ""
-    },
-    "stealsap": {
-        "name": "Robo de Savia",
-        "ia": "un",
-        "da": "el",
-        "p": "Robo de Savia",
-        "pia": "",
-        "pda": "el",
-        "description": ""
-    },
-    "stick": {
-        "name": "Pentagrama",
-        "ia": "un",
-        "da": "el",
-        "p": "Pentagramas",
-        "pia": "",
-        "pda": "los",
-        "description": ""
-    },
-    "strenghtgift": {
-        "name": "Regalo de Fuerza",
-        "ia": "un",
-        "da": "el",
-        "p": "Regalos de Fuerza",
-        "pia": "",
-        "pda": "los",
-        "description": ""
-    },
-    "swimming": {
-        "name": "Nado",
-        "ia": "un",
-        "da": "el",
-        "p": "Nados",
-        "pia": "",
-        "pda": "los",
-        "description": ""
-    },
-    "sword": {
-        "name": "Espada",
-        "ia": "una",
-        "da": "la",
-        "p": "Espadas",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "sylphicslide": {
-        "name": "Diapositiva de Silfide",
-        "ia": "una",
-        "da": "la",
-        "p": "Diapositiva de Silfide",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "sylve": {
-        "name": "Sylve",
-        "ia": "una",
-        "da": "la",
-        "p": "Sylves",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "tactilewithering": {
-        "name": "Marchitez táctil",
-        "ia": "una",
-        "da": "la",
-        "p": "Marchiteces Táctiles",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "target": {
-        "name": "Objetivo",
-        "ia": "un",
-        "da": "el",
-        "p": "Objetivos",
-        "pia": "",
-        "pda": "los",
-        "description": ""
-    },
-    "terror": {
-        "name": "Terror",
-        "ia": "un",
-        "da": "el",
-        "p": "Terrores",
-        "pia": "",
-        "pda": "los",
-        "description": ""
-    },
-    "tirednessalchemy": {
-        "name": "Alquimia del Cansancio",
-        "ia": "una",
-        "da": "la",
-        "p": "Alquimias del Cansancio",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "tracking": {
-        "name": "Rastreo",
-        "ia": "un",
-        "da": "el",
-        "p": "Rastreos\/Seguimientos",
-        "pia": "",
-        "pda": "los",
-        "description": ""
-    },
-    "tradingcenterknowledge": {
-        "name": "Conocimiento del Centro de comercio",
-        "ia": "un",
-        "da": "el",
-        "p": "Conocimientos del Centro de comercio",
-        "pia": "",
-        "pda": "los",
-        "description": ""
-    },
-    "trainingagility": {
-        "name": "Entrenamiento de agilidad",
-        "ia": "un",
-        "da": "el",
-        "p": "Entrenamiento de agilidades",
-        "pia": "",
-        "pda": "los",
-        "description": ""
-    },
-    "traininganimal": {
-        "name": "Adiestramiento Animal",
-        "ia": "un",
-        "da": "el",
-        "p": "Adiestramiento de animales",
-        "pia": "",
-        "pda": "los",
-        "description": ""
-    },
-    "trainingcharisme": {
-        "name": "Formación de carisma",
-        "ia": "una",
-        "da": "la",
-        "p": "Formación de carismas",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "trainingconstitution": {
-        "name": "Constitución de entrenamiento",
-        "ia": "una",
-        "da": "la",
-        "p": "Constituciones de entrenamiento",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "trainingdiseaseresist": {
-        "name": "Entrenamiento para la Resistencia a la Enfermedad",
-        "ia": "un",
-        "da": "el",
-        "p": "Entrenamiento para la Resistencia a las Enfermedades",
-        "pia": "",
-        "pda": "el",
-        "description": ""
-    },
-    "trainingempathie": {
-        "name": "Entrenamiento de la Empatía",
-        "ia": "un",
-        "da": "el",
-        "p": "Entrenamiento de las Empatías",
-        "pia": "",
-        "pda": "el",
-        "description": ""
-    },
-    "trainingfearresist": {
-        "name": "Entrenamiento de resistencia al miedo",
-        "ia": "un",
-        "da": "el",
-        "p": "Entrenamiento de resistencias al miedo",
-        "pia": "",
-        "pda": "el",
-        "description": ""
-    },
-    "traininghp": {
-        "name": "Entrenamiento de puntos de golpe 1",
-        "ia": "",
-        "da": "",
-        "p": "Entrenamiento de puntos de golpe 1",
-        "pia": "",
-        "pda": "",
-        "description": ""
-    },
-    "traininghp2": {
-        "name": "Entrenamiento de puntos de golpe 2",
-        "ia": "",
-        "da": "",
-        "p": "Entrenamiento de puntos de golpe 2",
-        "pia": "",
-        "pda": "",
-        "description": ""
-    },
-    "traininghp3": {
-        "name": "Entrenamiento de puntos de golpe 3",
-        "ia": "",
-        "da": "",
-        "p": "Entrenamiento de puntos de golpe 3",
-        "pia": "",
-        "pda": "",
-        "description": ""
-    },
-    "traininghp4": {
-        "name": "Entrenamiento de puntos de golpe 4",
-        "ia": "",
-        "da": "",
-        "p": "Entrenamiento de puntos de golpe 4",
-        "pia": "",
-        "pda": "",
-        "description": ""
-    },
-    "trainingimpactresist": {
-        "name": "Entrenamiento de la Resistencia al Impacto",
-        "ia": "un",
-        "da": "el",
-        "p": "Entrenamiento de la Resistencias al Impacto",
-        "pia": "",
-        "pda": "el",
-        "description": ""
-    },
-    "trainingintelligence": {
-        "name": "Entrenamiento de la Inteligencia",
-        "ia": "un",
-        "da": "el",
-        "p": "Entrenamiento de la Inteligencia",
-        "pia": "",
-        "pda": "el",
-        "description": ""
-    },
-    "trainingmagicresist": {
-        "name": "Entrenamiento de la Resistencia a la magia",
-        "ia": "un",
-        "da": "el",
-        "p": "Entrenamiento de las Resistencias a la magia",
-        "pia": "",
-        "pda": "el",
-        "description": ""
-    },
-    "trainingperception": {
-        "name": "Entrenamiento de la Percepción",
-        "ia": "un",
-        "da": "el",
-        "p": "Entrenamiento de las Percepciones",
-        "pia": "",
-        "pda": "los",
-        "description": ""
-    },
-    "trainingseve": {
-        "name": "Entrenamiento de la Savia",
-        "ia": "",
-        "da": "",
-        "p": "Entrenamiento de la Savia",
-        "pia": "",
-        "pda": "",
-        "description": ""
-    },
-    "trainingseve2": {
-        "name": "Entrenamiento de la Savia 2",
-        "ia": "",
-        "da": "",
-        "p": "Entrenamiento de la Savia 2",
-        "pia": "",
-        "pda": "",
-        "description": ""
-    },
-    "trainingseve3": {
-        "name": "Entrenamiento de la Savia 3",
-        "ia": "",
-        "da": "",
-        "p": "Entrenamiento de la Savia 3",
-        "pia": "",
-        "pda": "",
-        "description": ""
-    },
-    "trainingseve4": {
-        "name": "Entrenamiento de la Savia 4",
-        "ia": "",
-        "da": "",
-        "p": "Entrenamiento de la Savia 4",
-        "pia": "",
-        "pda": "",
-        "description": ""
-    },
-    "trainingstamina": {
-        "name": "Entrenamiento de la Resistencia",
-        "ia": "un",
-        "da": "el",
-        "p": "Entrenamiento de la Resistencia",
-        "pia": "",
-        "pda": "el",
-        "description": ""
-    },
-    "trainingstamina2": {
-        "name": "Entrenamiento de la Resistencia 2",
-        "ia": "un",
-        "da": "el",
-        "p": "Entrenamiento de la Resistencia 2",
-        "pia": "",
-        "pda": "",
-        "description": ""
-    },
-    "trainingstamina3": {
-        "name": "Entrenamiento de la Resistencia 3",
-        "ia": "un",
-        "da": "el",
-        "p": "Entrenamiento de la Resistencia 3",
-        "pia": "",
-        "pda": "",
-        "description": ""
-    },
-    "trainingstamina4": {
-        "name": "Entrenamiento de la Resistencia 4",
-        "ia": "un",
-        "da": "el",
-        "p": "Entrenamiento de la Resistencia 4",
-        "pia": "",
-        "pda": "",
-        "description": ""
-    },
-    "trainingstrength": {
-        "name": "Entrenamiento de la Fuerza",
-        "ia": "un",
-        "da": "el",
-        "p": "Entrenamientos de las Fuerzas",
-        "pia": "",
-        "pda": "los",
-        "description": ""
-    },
-    "trainingtechnoresist": {
-        "name": "Entrenamiento de la Tecno Resistencia",
-        "ia": "un",
-        "da": "el",
-        "p": "Entrenamientos de las Tecno Resistencias",
-        "pia": "",
-        "pda": "los",
-        "description": ""
-    },
-    "trainingwellbalanced": {
-        "name": "Entrenamiento del Buen Equilibrio",
-        "ia": "un",
-        "da": "el",
-        "p": "Entrenamiento del Buen Equilibrio",
-        "pia": "",
-        "pda": "el",
-        "description": ""
-    },
-    "trainingwill": {
-        "name": "Entrenamiento de la Voluntad",
-        "ia": "un",
-        "da": "el",
-        "p": "Entrenamiento de la Voluntad",
-        "pia": "",
-        "pda": "el",
-        "description": ""
-    },
-    "tryker": {
-        "name": "Tryker",
-        "ia": "un",
-        "da": "el",
-        "p": "Trykers",
-        "pia": "",
-        "pda": "los",
-        "description": ""
-    },
-    "trykergoods": {
-        "name": "Mercancías Tryker",
-        "ia": "",
-        "da": "",
-        "p": "Mercancías Trykers",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "trykermystery": {
-        "name": "Misterio Tryker",
-        "ia": "un",
-        "da": "el",
-        "p": "Misterios Trykers",
-        "pia": "",
-        "pda": "los",
-        "description": ""
-    },
-    "twohandedcombat": {
-        "name": "Combate a Dos manos",
-        "ia": "un",
-        "da": "el",
-        "p": "Combates a Dos manos",
-        "pia": "",
-        "pda": "los",
-        "description": ""
-    },
-    "twohandssword": {
-        "name": "Espadas de dos manos",
-        "ia": "una",
-        "da": "la",
-        "p": "Espadas de dos manos",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "underwaterextract": {
-        "name": "Extracto Submarino",
-        "ia": "un",
-        "da": "el",
-        "p": "Extractos Submarinos",
-        "pia": "",
-        "pda": "los",
-        "description": ""
-    },
-    "visualwithering": {
-        "name": "Marchitez Visual",
-        "ia": "una",
-        "da": "la",
-        "p": "Marchiteces Visuales",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "vitalburst": {
-        "name": "Estallido Vital",
-        "ia": "un",
-        "da": "el",
-        "p": "Estallidos Vitales",
-        "pia": "",
-        "pda": "los",
-        "description": ""
-    },
-    "warriorgift": {
-        "name": "Regalo de guerrero",
-        "ia": "un",
-        "da": "el",
-        "p": "Regalos de guerreros",
-        "pia": "",
-        "pda": "los",
-        "description": ""
-    },
-    "weaponscutting": {
-        "name": "Cortaduras de armas",
-        "ia": "unas",
-        "da": "las",
-        "p": "Cortaduras de armas",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "windarmor": {
-        "name": "Armadura de Viento",
-        "ia": "una",
-        "da": "la",
-        "p": "Armaduras de Viento",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "windgift": {
-        "name": "Regalo de Viento",
-        "ia": "un",
-        "da": "el",
-        "p": "Regalos de Viento",
-        "pia": "",
-        "pda": "los",
-        "description": ""
-    },
-    "windshear": {
-        "name": "Esquilado del Viento",
-        "ia": "un",
-        "da": "el",
-        "p": "Esquilados del Viento",
-        "pia": "",
-        "pda": "los",
-        "description": ""
-    },
-    "zorai": {
-        "name": "Zoraï",
-        "ia": "un",
-        "da": "el",
-        "p": "Zoraïs",
-        "pia": "",
-        "pda": "los",
-        "description": ""
-    },
-    "zoraigoods": {
-        "name": "Mercancías Zoraï",
-        "ia": "",
-        "da": "",
-        "p": "Mercancías Zoraï",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "zoraimystery": {
-        "name": "Misterio Zoraï",
-        "ia": "un",
-        "da": "el",
-        "p": "Misterios Zoraï",
-        "pia": "",
-        "pda": "los",
-        "description": ""
-    },
-    "trainingimpactresist2": {
-        "name": "Entrenamiento para Resistir el Impacto 2",
-        "ia": "un",
-        "da": "el",
-        "p": "Entrenamiento para Resistir los Impactos 2",
-        "pia": "",
-        "pda": "el",
-        "description": ""
-    },
-    "trainingimpactresist3": {
-        "name": "Entrenamiento para Resistir el Impacto 3",
-        "ia": "un",
-        "da": "el",
-        "p": "Entrenamiento para Resistir el Impacto 3",
-        "pia": "",
-        "pda": "el",
-        "description": ""
-    },
-    "trainingmagicresist2": {
-        "name": "Entrenamiento para Resistir a la magia 2",
-        "ia": "un",
-        "da": "el",
-        "p": "Entrenamiento para Resistir a la magia 3",
-        "pia": "",
-        "pda": "el",
-        "description": ""
-    },
-    "trainingmagicresist3": {
-        "name": "Entrenamiento para Resistir a la magia 3",
-        "ia": "un",
-        "da": "el",
-        "p": "Entrenamiento para Resistir a la magia 3",
-        "pia": "",
-        "pda": "el",
-        "description": ""
-    },
-    "makeenchantedweapons": {
-        "name": "Fabricar Armas Encantadas",
-        "ia": "una",
-        "da": "el",
-        "p": "Fabricar Armas Encantadas",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "makeenchantedarmors": {
-        "name": "Fabricar Armadura Encantada",
-        "ia": "una",
-        "da": "la",
-        "p": "Fabricar Armaduras Encantadas",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "makevampiricweapons": {
-        "name": "Fabricar Armas Vampíricas",
-        "ia": "unas",
-        "da": "las",
-        "p": "Fabricar Armas Vampíricas",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "makeenchantedfloralpatternlivingclothes": {
-        "name": "Fabricar Ropa Viva de estampado Floral Encantado",
-        "ia": "una",
-        "da": "la",
-        "p": "Fabricar Ropas Vivas de estampado Floral Encantado",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "makedeadlyharpoongun": {
-        "name": "Fabricar Arma de arpón mortal",
-        "ia": "una",
-        "da": "la",
-        "p": "Fabricar Armas de arpón mortal",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "makehuntingarmors": {
-        "name": "Fabricar Armadura para Cazar",
-        "ia": "una",
-        "da": "la",
-        "p": "Fabricar Armaduras para Cazar",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "makeritualclothes": {
-        "name": "Fabricar Traje de ritual",
-        "ia": "un",
-        "da": "el",
-        "p": "Fabricar Trajes de ritual",
-        "pia": "",
-        "pda": "los",
-        "description": ""
-    },
-    "makeritualjewels": {
-        "name": "Fabricar Joyas de ritual",
-        "ia": "unas",
-        "da": "las",
-        "p": "Fabricar Joyas de ritual",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
     "sc": {
         "name": "Artesanía",
         "ia": "una",
@@ -2771,617 +2114,1283 @@
         "pda": "las",
         "description": "Artesanía"
     },
-    "sm": {
-        "name": "Magia",
+    "sca": {
+        "name": "Fabricación de armadura",
         "ia": "una",
         "da": "la",
-        "p": "Magias",
+        "p": "Fabricaciones de armadura",
         "pia": "",
         "pda": "las",
-        "description": "Magia"
+        "description": ""
     },
-    "smt": {
-        "name": "Magia de impacto",
+    "scah": {
+        "name": "Fabricación de armadura pesada",
         "ia": "una",
         "da": "la",
-        "p": "Magias de impacto",
+        "p": "Fabricaciones de armadura pesada",
         "pia": "",
         "pda": "las",
-        "description": "Magia dirigida"
+        "description": ""
     },
-    "smtm": {
-        "name": "Proyección mágica",
+    "scahb": {
+        "name": "Fabricación de botas pesadas",
         "ia": "una",
         "da": "la",
-        "p": "Proyecciones mágicas",
+        "p": "Fabricaciones de botas pesadas",
         "pia": "",
         "pda": "las",
-        "description": "Misil mágico dirigido"
+        "description": ""
     },
-    "smtmr": {
-        "name": "Magia fundamental",
+    "scahbe": {
+        "name": "Ciencia de fabricación de botas pesadas",
         "ia": "una",
         "da": "la",
-        "p": "Magias fundamentales",
+        "p": "Ciencias de fabricación de botas pesadas",
         "pia": "",
         "pda": "las",
-        "description": "Misil mágico dirigido - Fundamental"
+        "description": ""
     },
-    "smtmg": {
-        "name": "Magia atysiana",
+    "scahbem": {
+        "name": "Maestría en la fabricación de botas pesadas",
         "ia": "una",
         "da": "la",
-        "p": "Magias atysianas",
+        "p": "Maestrías en la fabricación de botas pesadas",
         "pia": "",
         "pda": "las",
-        "description": "Misil mágico dirigido - atysiano"
+        "description": ""
     },
-    "smtmb": {
-        "name": "Magia celestial",
+    "scahg": {
+        "name": "Fabricación de guantes pesados",
         "ia": "una",
         "da": "la",
-        "p": "Magias celestiales",
+        "p": "Fabricaciones de guantes pesados",
         "pia": "",
         "pda": "las",
-        "description": "Misil mágico dirigido - celestial"
+        "description": ""
     },
-    "smto": {
-        "name": "Magia ofensiva",
+    "scahge": {
+        "name": "Ciencia de fabricación de guantes pesados",
         "ia": "una",
         "da": "la",
-        "p": "Magias ofensivas",
+        "p": "Ciencias de fabricación de guantes pesados",
         "pia": "",
         "pda": "las",
-        "description": "Misil mágico dirigido ofensivo"
+        "description": ""
     },
-    "smtod": {
-        "name": "Magia física",
+    "scahgem": {
+        "name": "Maestría en la fabricación de guantes pesados",
         "ia": "una",
         "da": "la",
-        "p": "Magias físicas",
+        "p": "Maestrías en la fabricación de guantes pesados",
         "pia": "",
         "pda": "las",
-        "description": "Misil mágico dirigido con daños físicos"
+        "description": ""
     },
-    "smtodp": {
-        "name": "Magia punzante",
+    "scahh": {
+        "name": "Fabricación de casco pesado",
         "ia": "una",
         "da": "la",
-        "p": "Magias punzantes",
+        "p": "Fabricaciones de casco pesado",
         "pia": "",
         "pda": "las",
-        "description": "Misil mágico dirigido - perforación"
+        "description": ""
     },
-    "smtodb": {
-        "name": "Magia contundente",
+    "scahhe": {
+        "name": "Ciencia de la fabricación de casco pesado",
         "ia": "una",
         "da": "la",
-        "p": "Magias contundentes",
+        "p": "Ciencias de la fabricación de casco pesado",
         "pia": "",
         "pda": "las",
-        "description": "Misil mágico dirigido - demoledora"
+        "description": ""
     },
-    "smtods": {
-        "name": "Magia cortante",
+    "scahhem": {
+        "name": "Maestría en la fabricación de casco pesado",
         "ia": "una",
         "da": "la",
-        "p": "Magias cortantes",
+        "p": "Maestrías en la fabricación de casco pesado",
         "pia": "",
         "pda": "las",
-        "description": "Misil mágico dirigido - cuchillada"
+        "description": ""
     },
-    "smtoe": {
-        "name": "Magia elemental",
+    "scahp": {
+        "name": "Fabricación de pantalón pesado",
         "ia": "una",
         "da": "la",
-        "p": "Magias elementales",
+        "p": "Fabricaciones de pantalón pesado",
         "pia": "",
         "pda": "las",
-        "description": "Misil mágico dirigido elemental"
+        "description": ""
     },
-    "smtoec": {
-        "name": "Magia de frío",
+    "scahpe": {
+        "name": "Ciencia de la fabricación de pantalón pesados",
         "ia": "una",
         "da": "la",
-        "p": "Magias de frío",
+        "p": "Ciencias de la fabricación de pantalón pesados",
         "pia": "",
         "pda": "las",
-        "description": "Misil mágico dirigido - Frío"
+        "description": ""
     },
-    "smtoea": {
-        "name": "Magia de ácido",
+    "scahpem": {
+        "name": "Maestría en la fabricación de pantalón pesado",
         "ia": "una",
         "da": "la",
-        "p": "Magias de ácido",
+        "p": "Maestrías en la fabricación de pantalón pesado",
         "pia": "",
         "pda": "las",
-        "description": "Misil mágico dirigido - Ácido"
+        "description": ""
     },
-    "smtoer": {
-        "name": "Magia de pudrición",
+    "scahs": {
+        "name": "Fabricación de mangas pesadas",
         "ia": "una",
         "da": "la",
-        "p": "Magias de pudrición",
+        "p": "Fabricaciones de mangas pesadas",
         "pia": "",
         "pda": "las",
-        "description": "Misil mágico dirigido - Pudrición"
+        "description": ""
     },
-    "smtoef": {
-        "name": "Magia de fuego",
+    "scahse": {
+        "name": "Ciencia de la fabricación de mangas pesadas",
         "ia": "una",
         "da": "la",
-        "p": "Magias de fuego",
+        "p": "Ciencias de la fabricación de mangas pesadas",
         "pia": "",
         "pda": "las",
-        "description": "Misil mágico dirigido - Fuego"
+        "description": ""
     },
-    "smtoes": {
-        "name": "Magia de onda de choque",
+    "scahsem": {
+        "name": "Maestría en la fabricación de mangas pesadas",
         "ia": "una",
         "da": "la",
-        "p": "Magias de onda de choque",
+        "p": "Maestrías en la fabricación de mangas pesadas",
         "pia": "",
         "pda": "las",
-        "description": "Misil mágico dirigido - Onda de choque"
+        "description": ""
     },
-    "smtoep": {
-        "name": "Magia de veneno",
+    "scahv": {
+        "name": "Fabricación de chaleco pesado",
         "ia": "una",
         "da": "la",
-        "p": "Magias de veneno",
+        "p": "Fabricaciones de chaleco pesado",
         "pia": "",
         "pda": "las",
-        "description": "Misil mágico dirigido - Veneno"
+        "description": ""
     },
-    "smtoee": {
-        "name": "Magia de electricidad",
+    "scahve": {
+        "name": "Ciencia de la fabricación de chaleco pesado",
         "ia": "una",
         "da": "la",
-        "p": "Magias de electricidad",
+        "p": "Ciencias de la fabricación de chaleco pesado",
         "pia": "",
         "pda": "las",
-        "description": "Misil mágico dirigido - Electricidad"
+        "description": ""
     },
-    "smtc": {
-        "name": "Magia de curación",
+    "scahvem": {
+        "name": "Maestría en la fabricación de chaleco pesado",
         "ia": "una",
         "da": "la",
-        "p": "Magias de curación",
+        "p": "Maestrías en la fabricación de chaleco pesado",
         "pia": "",
         "pda": "las",
-        "description": "Magia dirigida de curación"
+        "description": ""
     },
-    "smtch": {
-        "name": "Magia de auxilios",
+    "scal": {
+        "name": "Fabricación de armadura liviana",
         "ia": "una",
         "da": "la",
-        "p": "Magias de auxilioss",
+        "p": "Fabricaciones de armadura liviana",
         "pia": "",
         "pda": "las",
-        "description": "Magia dirigida de curación de auxilios"
+        "description": ""
     },
-    "smtchp": {
-        "name": "Magia de auxilios de la salud",
+    "scalb": {
+        "name": "Fabricación de botas livianas",
         "ia": "una",
         "da": "la",
-        "p": "Magias de auxilios de la salud",
+        "p": "Fabricaciones de botas livianas",
         "pia": "",
         "pda": "las",
-        "description": "Magia dirigida de curación de auxilios - Puntos de vida"
+        "description": ""
     },
-    "smtcht": {
-        "name": "Magia de auxilios de la resist.",
+    "scalbe": {
+        "name": "Ciencia de la fabricación de botas livianas",
         "ia": "una",
         "da": "la",
-        "p": "Magias de auxilios de la resist.",
+        "p": "Ciencias de la fabricación de botas livianas",
         "pia": "",
         "pda": "las",
-        "description": "Magia dirigida de curación de auxilios - Resist."
+        "description": ""
     },
-    "smtcha": {
-        "name": "Magia de auxilios de la savia",
+    "scalbem": {
+        "name": "Maestría en la fabricación de botas livianas",
         "ia": "una",
         "da": "la",
-        "p": "Magias de auxilios de la savia",
+        "p": "Maestrías en la fabricación de botas livianas",
         "pia": "",
         "pda": "las",
-        "description": "Magia dirigida de curación de auxilios - Savia"
+        "description": ""
     },
-    "smtchc": {
-        "name": "Magia de auxilios del enfoque",
+    "scalg": {
+        "name": "Fabricación de guantes livianos",
         "ia": "una",
         "da": "la",
-        "p": "Magias de auxilios del enfoque",
+        "p": "Fabricaciones de guantes livianos",
         "pia": "",
         "pda": "las",
-        "description": "Magia dirigida de curación de auxilios - Enfoque"
+        "description": ""
     },
-    "smtcb": {
-        "name": "Deshecho de enlace",
-        "ia": "un",
-        "da": "el",
-        "p": "Deshechos de enlace",
-        "pia": "",
-        "pda": "los",
-        "description": "Magia dirigida de curación para el deshecho de enlace"
-    },
-    "smtcbd": {
-        "name": "Daño de deshecho de enlace",
-        "ia": "un",
-        "da": "el",
-        "p": "Daños de deshecho de enlace",
-        "pia": "",
-        "pda": "los",
-        "description": "Magia dirigida de curación para el deshecho de enlace - Daño"
-    },
-    "smtcbs": {
-        "name": "Enfermedad de deshecho de enlace",
+    "scalge": {
+        "name": "Ciencia de la fabricación de guantes livianos",
         "ia": "una",
         "da": "la",
-        "p": "Enfermedades de deshecho de enlace",
+        "p": "Ciencias de la fabricación de guantes livianos",
         "pia": "",
         "pda": "las",
-        "description": "Magia dirigida de curación para el deshecho de enlace - Enfermedad"
+        "description": ""
     },
-    "smtcbc": {
-        "name": "Maldición de deshecho de enlace",
+    "scalgem": {
+        "name": "Maestría en la fabricación de guantes livianos",
         "ia": "una",
         "da": "la",
-        "p": "Maldiciones de deshecho de enlace",
+        "p": "Maestrías en la fabricación de guantes livianos",
         "pia": "",
         "pda": "las",
-        "description": "Magia dirigida de curación para el deshecho de enlace - maldición"
+        "description": ""
     },
-    "sml": {
-        "name": "Enlace de magia",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces de magia",
-        "pia": "",
-        "pda": "los",
-        "description": "Enlace de magia"
-    },
-    "smlm": {
-        "name": "Enlace de misil",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces de misil",
-        "pia": "",
-        "pda": "los",
-        "description": "Enlace de typo proyectil mágico"
-    },
-    "smlmr": {
-        "name": "Enlace primario",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces primarios",
-        "pia": "",
-        "pda": "los",
-        "description": "Enlace de typo proyectil mágico - Primario"
-    },
-    "smlmg": {
-        "name": "Enlace atysiano",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces atysianos",
-        "pia": "",
-        "pda": "los",
-        "description": "Enlace de typo proyectil mágico - atysiano"
-    },
-    "smlmb": {
-        "name": "Enlace celestial",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces celestiales",
-        "pia": "",
-        "pda": "los",
-        "description": "Enlace de typo proyectil mágico - Celestial"
-    },
-    "smlo": {
-        "name": "Enlace ofensivo",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces ofensivos",
-        "pia": "",
-        "pda": "los",
-        "description": "Enlace de magia ofensiva"
-    },
-    "smlos": {
-        "name": "Enlace de enfermedad",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces de enfermedad",
-        "pia": "",
-        "pda": "los",
-        "description": "Enlace de magia ofensiva de enfermedad"
-    },
-    "smlosm": {
-        "name": "Enlace de locura",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces de locura",
-        "pia": "",
-        "pda": "los",
-        "description": "Enlace de magia ofensiva de enfermedad - Locura"
-    },
-    "smloss": {
-        "name": "Enlace de disminución de velocidad",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces de disminución de velocidad",
-        "pia": "",
-        "pda": "los",
-        "description": "Enlace de magia ofensiva de debilidad - Velocidad"
-    },
-    "smlosr": {
-        "name": "Enlace de disminución de resistencia",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces de disminución de resistencia",
-        "pia": "",
-        "pda": "los",
-        "description": "Enlace de magia ofensiva de debilidad - Resistencia"
-    },
-    "smlosk": {
-        "name": "Enlace de disminución de habilidad",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces de disminución de habilidad",
-        "pia": "",
-        "pda": "los",
-        "description": "Enlace de magia ofensiva de debilidad - Habilidad"
-    },
-    "smloc": {
-        "name": "Enlace de maldición",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces de maldición",
-        "pia": "",
-        "pda": "los",
-        "description": "Enlace de magia ofensiva de maldición"
-    },
-    "smloci": {
-        "name": "Enlace de incapacidad",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces de incapacidad",
-        "pia": "",
-        "pda": "los",
-        "description": "Enlace de magia ofensiva de maldición - Incapacidad"
-    },
-    "smlocm": {
-        "name": "Enlace de trastorno mental",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces de trastorno mental",
-        "pia": "",
-        "pda": "los",
-        "description": "Enlace de magia ofensiva de maldición - Trastorno mental"
-    },
-    "smlocs": {
-        "name": "Enlace de infortunio",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces de infortunio",
-        "pia": "",
-        "pda": "los",
-        "description": "Enlace de magia ofensiva de maldición - Infortunio"
-    },
-    "smloch": {
-        "name": "Enlace de odio",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces de odio",
-        "pia": "",
-        "pda": "los",
-        "description": "Enlace de magia ofensiva de maldición - Odio"
-    },
-    "smlod": {
-        "name": "Enlace físico",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces físicos",
-        "pia": "",
-        "pda": "los",
-        "description": "Enlace mágico con daños físicos"
-    },
-    "smlodp": {
-        "name": "Enlace punzante",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces punzantes",
-        "pia": "",
-        "pda": "los",
-        "description": "Enlace mágico con daños físicos - perforación"
-    },
-    "smlodb": {
-        "name": "Enlace contundente",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces contundentes",
-        "pia": "",
-        "pda": "los",
-        "description": "Enlace mágico con daños físicos - demoledora"
-    },
-    "smlods": {
-        "name": "Enlace cortante",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces cortantes",
-        "pia": "",
-        "pda": "los",
-        "description": "DEnlace mágico con daños físicos - Cortadura\/Cuchillada"
-    },
-    "smloe": {
-        "name": "Enlace elemental",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces elementals",
-        "pia": "",
-        "pda": "los",
-        "description": "Daño especial ofensivo del enlace mágico"
-    },
-    "smloec": {
-        "name": "Enlace de frio",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces de frio",
-        "pia": "",
-        "pda": "los",
-        "description": "Daño especial ofensivo del enlace mágico - Frio"
-    },
-    "smloea": {
-        "name": "Enlace de ácido",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces de ácido",
-        "pia": "",
-        "pda": "los",
-        "description": "Daño especial ofensivo del enlace mágico - Acido"
-    },
-    "smloer": {
-        "name": "Enlace de pudrición",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces de pudrición",
-        "pia": "",
-        "pda": "los",
-        "description": "Daño especial ofensivo del enlace mágico - Pudrición"
-    },
-    "smloef": {
-        "name": "Enlace de fuego",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces de fuego",
-        "pia": "",
-        "pda": "los",
-        "description": "Daño especial ofensivo del enlace mágico - Fuego"
-    },
-    "smloes": {
-        "name": "Enlace de onda de choque",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces de onda de choque",
-        "pia": "",
-        "pda": "los",
-        "description": "Daño especial ofensivo del enlace mágico - Onda de choque"
-    },
-    "smloep": {
-        "name": "Enlace de veneno",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces de veneno",
-        "pia": "",
-        "pda": "los",
-        "description": "Daño especial ofensivo del enlace mágico - Envenenamiento"
-    },
-    "smloee": {
-        "name": "Enlace de electricidad",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces de electricidad",
-        "pia": "",
-        "pda": "los",
-        "description": "Daño especial ofensivo del enlace mágico - Electricidad"
-    },
-    "smlc": {
-        "name": "Enlace de curación",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces de curación",
-        "pia": "",
-        "pda": "los",
-        "description": "Enlace mágico de curación"
-    },
-    "smlch": {
-        "name": "Enlace de auxilios",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces de auxilios",
-        "pia": "",
-        "pda": "los",
-        "description": "Enlace mágico de curación de auxilios"
-    },
-    "smlchp": {
-        "name": "Enlace de auxilios de la salud",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces de auxilios de la salud",
-        "pia": "",
-        "pda": "los",
-        "description": "Enlace mágico de curación de auxilios - Puntos de vida"
-    },
-    "smlcht": {
-        "name": "Enlace de auxilios de la resist.",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces de auxilios de la resist.",
-        "pia": "",
-        "pda": "los",
-        "description": "Enlace mágico de curación de auxilios - Resist."
-    },
-    "smlcha": {
-        "name": "Enlace de auxilios de la savia",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces de auxilios de la savia",
-        "pia": "",
-        "pda": "los",
-        "description": "Enlace mágico de curación de auxilios - Savia"
-    },
-    "smlchc": {
-        "name": "Enlace de auxilios del enfoque",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces de auxilios del enfoque",
-        "pia": "",
-        "pda": "los",
-        "description": "Enlace mágico de curación de auxilios - Enfoque"
-    },
-    "sma": {
-        "name": "Magia instintiva",
+    "scalp": {
+        "name": "Fabricaciones de pantalón liviano",
         "ia": "una",
         "da": "la",
-        "p": "Magias instintivas",
+        "p": "Fabricaciones de pantalón liviano",
         "pia": "",
         "pda": "las",
-        "description": "Magia instintiva"
+        "description": ""
     },
-    "smae": {
-        "name": "Magia de encantamiento",
+    "scalpe": {
+        "name": "Ciencia de la fabricación de pantalón livianos",
         "ia": "una",
         "da": "la",
-        "p": "Magias de encantamiento",
+        "p": "Ciencias de la fabricación de pantalón livianos",
         "pia": "",
         "pda": "las",
-        "description": "Magia de encantamiento"
+        "description": ""
     },
-    "smaes": {
-        "name": "Hechizo de encantamiento",
-        "ia": "un",
-        "da": "el",
-        "p": "Hechizos de encantamiento",
-        "pia": "",
-        "pda": "los",
-        "description": "Encantamiento mágico - Hechizo"
-    },
-    "smaeb": {
-        "name": "Bono de encantamiento",
-        "ia": "un",
-        "da": "el",
-        "p": "Bonos de encantamiento",
-        "pia": "",
-        "pda": "los",
-        "description": "Encantamiento mágico - Bono"
-    },
-    "smap": {
-        "name": "Magia para la elaboración de pociones",
+    "scalpem": {
+        "name": "Maestría en la fabricación de pantalón liviano",
         "ia": "una",
         "da": "la",
-        "p": "Magias para la elaboración de pociones",
+        "p": "Maestrías en la fabricación de pantalón liviano",
         "pia": "",
         "pda": "las",
-        "description": "Magias para la elaboración de pociones"
+        "description": ""
+    },
+    "scals": {
+        "name": "Fabricación de mangas livianos",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de mangas livianos",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scalse": {
+        "name": "Ciencia de la fabricación de mangas livianas",
+        "ia": "una",
+        "da": "la",
+        "p": "Ciencias de la fabricación de mangas livianas",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scalsem": {
+        "name": "Maestría en la fabricación de mangas livianas",
+        "ia": "una",
+        "da": "la",
+        "p": "Maestrías en la fabricación de mangas livianas",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scalv": {
+        "name": "Fabricación de chaleco liviano",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de chaleco liviano",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scalve": {
+        "name": "Ciencia de la fabricación de chaleco liviano",
+        "ia": "una",
+        "da": "la",
+        "p": "Ciencias de la fabricación de chaleco liviano",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scalvem": {
+        "name": "Maestría en la fabricación de chaleco liviano",
+        "ia": "una",
+        "da": "la",
+        "p": "Maestrías en la fabricación de chaleco liviano",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scam": {
+        "name": "Fabricación de armadura mediana",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de armadura mediana",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scamb": {
+        "name": "Fabricación de botas medianas",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de botas medianas",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scambe": {
+        "name": "Ciencia de la fabricación de botas medianas",
+        "ia": "una",
+        "da": "la",
+        "p": "Ciencias de la fabricación de botas medianas",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scambem": {
+        "name": "Maestría en la fabricación de botas medianas",
+        "ia": "una",
+        "da": "la",
+        "p": "Maestrías en la fabricación de botas medianas",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scamg": {
+        "name": "Fabricación de guantes medianos",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de guantes medianos",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scamge": {
+        "name": "Ciencia de la fabricación de guantes medianos",
+        "ia": "una",
+        "da": "la",
+        "p": "Ciencias de la fabricación de guantes medianos",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scamgem": {
+        "name": "Maestría en la fabricación de guantes medianos",
+        "ia": "una",
+        "da": "la",
+        "p": "Maestrías en la fabricación de guantes medianos",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scamp": {
+        "name": "Fabricación de pantalón mediano",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de pantalón mediano",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scampe": {
+        "name": "Ciencia de la fabricación de pantalón medianos",
+        "ia": "una",
+        "da": "la",
+        "p": "Ciencias de la fabricación de pantalón medianos",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scampem": {
+        "name": "Maestría en la fabricación de pantalón medianos",
+        "ia": "una",
+        "da": "la",
+        "p": "Maestrías en la fabricación de pantalón medianos",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scams": {
+        "name": "Fabricación de mangas medianas",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de mangas medianas",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scamse": {
+        "name": "Ciencia de la fabricación de mangas medianas",
+        "ia": "una",
+        "da": "la",
+        "p": "Ciencias de la fabricación de mangas medianas",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scamsem": {
+        "name": "Maestría en la fabricación de mangas medianas",
+        "ia": "una",
+        "da": "la",
+        "p": "Maestrías en la fabricación de mangas medianas",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scamv": {
+        "name": "Fabricación de chaleco mediano",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de chaleco mediano",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scamve": {
+        "name": "Ciencia de la fabricación de chaleco mediano",
+        "ia": "una",
+        "da": "la",
+        "p": "Ciencias de la fabricación de chaleco mediano",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scamvem": {
+        "name": "Maestría en la fabricación de chaleco mediano",
+        "ia": "una",
+        "da": "la",
+        "p": "Maestrías en la fabricación de chaleco mediano",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scas": {
+        "name": "Fabricación de escudo",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de escudo",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scasb": {
+        "name": "Fabricación de adarga",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de adarga",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scasbe": {
+        "name": "Ciencia de la fabricación de adarga",
+        "ia": "una",
+        "da": "la",
+        "p": "Ciencias de la fabricación de adarga",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scasbem": {
+        "name": "Maestría en la fabricación de adarga",
+        "ia": "una",
+        "da": "la",
+        "p": "Maestrías en la fabricación de adarga",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scass": {
+        "name": "Fabricación de escudo",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de escudo",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scasse": {
+        "name": "Ciencia de la fabricación de escudo",
+        "ia": "una",
+        "da": "la",
+        "p": "Ciencias de la fabricación de escudo",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scassem": {
+        "name": "Maestría en la fabricación de escudo",
+        "ia": "una",
+        "da": "la",
+        "p": "Maestrías en la fabricación de escudo",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scj": {
+        "name": "Fabricación de joya",
+        "ia": "una",
+        "da": "el",
+        "p": "Fabricaciones de joya",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scja": {
+        "name": "Fabricación de tobillera",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de tobillera",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scjaa": {
+        "name": "Fabricación avanzada de tobillera",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de tobillera",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scjaae": {
+        "name": "Ciencia de la fabricación de tobillera",
+        "ia": "una",
+        "da": "la",
+        "p": "Ciencias de la fabricación de tobillera",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scjaaem": {
+        "name": "Maestría en la fabricación de tobillera",
+        "ia": "una",
+        "da": "la",
+        "p": "Maestrías en la fabricación de tobillera",
+        "pia": "",
+        "pda": "lsa",
+        "description": ""
+    },
+    "scjb": {
+        "name": "Fabricación de brazalete",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de brazalete",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scjba": {
+        "name": "Fabricación avanzada de brazalete",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de brazalete",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scjbae": {
+        "name": "Ciencia de la fabricación de brazalete",
+        "ia": "una",
+        "da": "la",
+        "p": "Ciencias de la fabricación de brazalete",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scjbaem": {
+        "name": "Maestría en la fabricación de brazalete",
+        "ia": "una",
+        "da": "la",
+        "p": "Maestrías e la fabricación de brazalete",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scjd": {
+        "name": "Fabricación de diadema",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de diadema",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scjda": {
+        "name": "Fabricación avanzada de diadema",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de diadema",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scjdae": {
+        "name": "Ciencia de la fabricación de diadema",
+        "ia": "una",
+        "da": "la",
+        "p": "Ciencias de la fabricación de diadema",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scjdaem": {
+        "name": "Maestría en la fabricación de diadema",
+        "ia": "una",
+        "da": "la",
+        "p": "Maestrías en la fabricación de diadema",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scje": {
+        "name": "Fabricación de arete",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de arete",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scjea": {
+        "name": "Fabricación avanzada de arete",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de arete",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scjeae": {
+        "name": "Ciencia de la fabricación de arete",
+        "ia": "una",
+        "da": "la",
+        "p": "Ciencias de la fabricación de arete",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scjeaem": {
+        "name": "Maestría en la fabricación de arete",
+        "ia": "una",
+        "da": "la",
+        "p": "Maestrías en la fabricación de arete",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scjp": {
+        "name": "Fabricación de colgante",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de colgante",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scjpa": {
+        "name": "Fabricación avanzada de colgante",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de colgante",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scjpae": {
+        "name": "Ciencia de la fabricación de colgante",
+        "ia": "una",
+        "da": "la",
+        "p": "Ciencias de la fabricación de colgante",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scjpaem": {
+        "name": "Maestría en la fabricación de colgante",
+        "ia": "una",
+        "da": "la",
+        "p": "Maestrías en la fabricación de colgante",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scjr": {
+        "name": "Fabricación de anillo",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de anillo",
+        "pia": "",
+        "pda": "la",
+        "description": ""
+    },
+    "scjra": {
+        "name": "Fabricación avanzada de anillo",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de anillo",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scjrae": {
+        "name": "Ciencia de la fabricación de anillo",
+        "ia": "una",
+        "da": "la",
+        "p": "Ciencias de la fabricación de anillo",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scjraem": {
+        "name": "Maestría en la fabricación de anillo",
+        "ia": "una",
+        "da": "la",
+        "p": "Maestrías en la fabricación de anillo",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scm": {
+        "name": "Fabricación de arma de lucha cuerpo a cuerpo",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de arma de lucha cuerpo a cuerpo",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scm1": {
+        "name": "Fabricación de arma de una mano para el cuerpo a cuerpo",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de arma de una mano para el cuerpo a cuerpo",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scm1a": {
+        "name": "Fabricación de hacha pequeña",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de hacha pequeña",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scm1ae": {
+        "name": "Ciencia de la fabricación de hacha pequeña",
+        "ia": "una",
+        "da": "la",
+        "p": "Ciencias de la fabricación de hacha pequeña",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scm1aem": {
+        "name": "Maestría en la fabricación de hacha pequeña",
+        "ia": "una",
+        "da": "la",
+        "p": "Maestrías en la fabricación de hacha pequeña",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scm1d": {
+        "name": "Fabricación de daga",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de daga",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scm1de": {
+        "name": "Ciencia de la fabricación de daga",
+        "ia": "una",
+        "da": "la",
+        "p": "Ciencias de la fabricación de daga",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scm1dem": {
+        "name": "Maestría en la fabricación de daga",
+        "ia": "una",
+        "da": "la",
+        "p": "Maestrías en la fabricación de daga",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scm1m": {
+        "name": "Fabricación de porra",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de porra",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scm1me": {
+        "name": "Ciencia de la fabricación de porra",
+        "ia": "una",
+        "da": "la",
+        "p": "Ciencias de la fabricación de porra",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scm1mem": {
+        "name": "Maestría en la fabricación de porra",
+        "ia": "una",
+        "da": "la",
+        "p": "Maestrías en la fabricación de porra",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scm1p": {
+        "name": "Fabricación de pica",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de pica",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scm1pe": {
+        "name": "Ciencia de la fabricación de pica",
+        "ia": "una",
+        "da": "la",
+        "p": "Ciencias de la fabricación de pica",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scm1pem": {
+        "name": "Maestría en la fabricación de pica",
+        "ia": "una",
+        "da": "la",
+        "p": "Maestrías en la fabricación de pica",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scm1s": {
+        "name": "Fabricación de espada a una mano",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de espada a una mano",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scm1se": {
+        "name": "Ciencia de la fabricación de espada a una mano",
+        "ia": "una",
+        "da": "la",
+        "p": "Ciencias de la fabricación de espada a una mano",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scm1sem": {
+        "name": "Maestría en la fabricación de espada a una mano",
+        "ia": "una",
+        "da": "la",
+        "p": "Maestrías en la fabricación de espada a una mano",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scm1t": {
+        "name": "Fabricación de palo",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de palo",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scm1te": {
+        "name": "Ciencia de la fabricación de palo",
+        "ia": "una",
+        "da": "la",
+        "p": "Ciencias de la fabricación de palo",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scm1tem": {
+        "name": "Maestría en la fabricación de palo",
+        "ia": "una",
+        "da": "la",
+        "p": "Maestrías en la fabricación de palo",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scm2": {
+        "name": "Fabricación de arma de dos manos para el cuerpo a cuerpo",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de arma de dos manos para el cuerpo a cuerpo",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scm2a": {
+        "name": "Fabricación de hacha grande",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de hacha grande",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scm2ae": {
+        "name": "Ciencia de la fabricación de hacha grande",
+        "ia": "una",
+        "da": "la",
+        "p": "Ciencias de la fabricación de hacha grande",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scm2aem": {
+        "name": "Maestría en la fabricación de hacha grande",
+        "ia": "una",
+        "da": "la",
+        "p": "Maestrías en la fabricación de hacha grande",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scm2m": {
+        "name": "Fabricación de maza",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de maza",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scm2me": {
+        "name": "Ciencia de la fabricación de maza",
+        "ia": "una",
+        "da": "la",
+        "p": "Ciencias de la fabricación de maza",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scm2mem": {
+        "name": "Maestría en la fabricación de maza",
+        "ia": "una",
+        "da": "la",
+        "p": "Maestrías en la fabricación de maza",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scm2p": {
+        "name": "Fabricación de lanza",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de lanza",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scm2pe": {
+        "name": "Ciencia de la fabricación de lanza",
+        "ia": "una",
+        "da": "la",
+        "p": "Ciencias de la fabricación de lanza",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scm2pem": {
+        "name": "Maestría en la fabricación de lanza",
+        "ia": "una",
+        "da": "la",
+        "p": "Maestrías en la fabricación de lanza",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scm2s": {
+        "name": "Fabricación de espada a dos manos",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de espada a dos manos",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scm2se": {
+        "name": "Ciencia de la fabricación de espada a dos manos",
+        "ia": "una",
+        "da": "la",
+        "p": "Ciencias de la fabricación de espada a dos manos",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scm2sem": {
+        "name": "Maestría en la fabricación de espada a dos manos",
+        "ia": "una",
+        "da": "la",
+        "p": "Maestrías en la fabricación de espada a dos manos",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scmc": {
+        "name": "Fabricación de amplificador mágico",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de amplificador mágico",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scmca": {
+        "name": "Fabricación avanzada de amplificador mágico",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones avanzadas de amplificador mágico",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scmcae": {
+        "name": "Ciencia de la fabricación de amplificador mágico",
+        "ia": "una",
+        "da": "la",
+        "p": "Ciencias de la fabricación de amplificador mágico",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scmcaem": {
+        "name": "Maestría en la fabricación de amplificador mágico",
+        "ia": "una",
+        "da": "la",
+        "p": "Maestrías en la fabricación de amplificador mágico",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scr": {
+        "name": "Fabricación de arma de tiro",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de arma de tiro",
+        "pia": "",
+        "pda": "la",
+        "description": ""
+    },
+    "scr1": {
+        "name": "Fabricación de arma de tiro de una mano",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de arma de tiro de una mano",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scr1b": {
+        "name": "Fabricación de ballesta liviana",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de ballesta liviana",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scr1be": {
+        "name": "Ciencia de la fabricación de ballesta liviana",
+        "ia": "una",
+        "da": "la",
+        "p": "Ciencias de la fabricación de ballesta liviana",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scr1bem": {
+        "name": "Maestría en la fabricación de ballesta liviana",
+        "ia": "una",
+        "da": "la",
+        "p": "Maestrías en la fabricación de ballesta liviana",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scr1p": {
+        "name": "Fabricación de pistola",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de pistola",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scr1pe": {
+        "name": "Ciencia de la fabricación de pistola",
+        "ia": "una",
+        "da": "la",
+        "p": "Ciencias de la fabricación de pistola",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scr1pem": {
+        "name": "Maestría en la fabricación de pistola",
+        "ia": "una",
+        "da": "la",
+        "p": "Maestrías en la fabricación de pistola",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scr2": {
+        "name": "Fabricación de arma de tiro de una mano",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de arma de tiro de dos manos",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scr2a": {
+        "name": "Fabricación de metralleta",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de metralleta",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scr2ae": {
+        "name": "Ciencia de la fabricación de metralleta",
+        "ia": "una",
+        "da": "la",
+        "p": "Ciencias de la fabricación de metralleta",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scr2aem": {
+        "name": "Maestría en la fabricación de metralleta",
+        "ia": "una",
+        "da": "la",
+        "p": "Maestrías en la fabricación de metralleta",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scr2b": {
+        "name": "Fabricación de ballesta",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de ballesta",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scr2be": {
+        "name": "Ciencia de la fabricación de ballesta",
+        "ia": "una",
+        "da": "la",
+        "p": "Ciencias de la fabricación de ballesta",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scr2bem": {
+        "name": "Maestría en la fabricación de ballesta",
+        "ia": "una",
+        "da": "la",
+        "p": "Maestrías en la fabricación de ballesta",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scr2l": {
+        "name": "Fabricación de lanzagranadas",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de lanzagranadas",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scr2le": {
+        "name": "Ciencia de la fabricación de lanzagranadas",
+        "ia": "una",
+        "da": "la",
+        "p": "Ciencias de la fabricación de lanzagranadas",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scr2lem": {
+        "name": "Maestría en la fabricación de lanzagranadas",
+        "ia": "una",
+        "da": "la",
+        "p": "Maestrías en la fabricación de lanzagranadas",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scr2r": {
+        "name": "Fabricación de fusil",
+        "ia": "una",
+        "da": "la",
+        "p": "Fabricaciones de fusil",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scr2re": {
+        "name": "Ciencia de la fabricación de fusil",
+        "ia": "una",
+        "da": "la",
+        "p": "Ciencias de la fabricación de fusil",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "scr2rem": {
+        "name": "Maestría en la fabricación de fusil",
+        "ia": "una",
+        "da": "la",
+        "p": "Maestrías en la fabricación de fusil",
+        "pia": "",
+        "pda": "las",
+        "description": ""
     },
     "sd": {
         "name": "Defensa",
@@ -3400,6 +3409,123 @@
         "pia": "",
         "pda": "las",
         "description": "Defensa con armadura"
+    },
+    "sdah": {
+        "name": "Defensa con armadura pesada",
+        "ia": "una",
+        "da": "la",
+        "p": "Defensas con armadura pesada",
+        "pia": "",
+        "pda": "las",
+        "description": "Defensa con armadura pesada"
+    },
+    "sdahf": {
+        "name": "Defensa con armadura pesada - Fyros",
+        "ia": "una",
+        "da": "la",
+        "p": "Defensas con armadura pesada - Fyros",
+        "pia": "",
+        "pda": "las",
+        "description": "Defensa con armadura pesada - Fyros"
+    },
+    "sdahfa": {
+        "name": "Defensa avanzada con armadura avanzada pesada - Fyros",
+        "ia": "una",
+        "da": "la",
+        "p": "Defensas avanzada con armadura pesada - Fyros",
+        "pia": "",
+        "pda": "las",
+        "description": "Defensa con armadura avanzada pesada - Fyros"
+    },
+    "sdahfae": {
+        "name": "Ciencia de defensa con armadura pesada - Fyros",
+        "ia": "una",
+        "da": "la",
+        "p": "Ciencias en defensa con armadura pesada - Fyros",
+        "pia": "",
+        "pda": "las",
+        "description": "Ciencia de defensa con armadura pesada - Fyros"
+    },
+    "sdahm": {
+        "name": "Defensa con armadura pesada - Matis",
+        "ia": "una",
+        "da": "la",
+        "p": "Defensas con armadura pesada - Matis",
+        "pia": "",
+        "pda": "las",
+        "description": "Defensa con armadura pesada - Matis"
+    },
+    "sdahma": {
+        "name": "Defensa con armadura avanzada pesada - Matis",
+        "ia": "una",
+        "da": "la",
+        "p": "Defensas con armadura avanzada pesada - Matis",
+        "pia": "",
+        "pda": "las",
+        "description": "Defensa con armadura avanzada pesada - Matis"
+    },
+    "sdahmae": {
+        "name": "Ciencia de defensa con armadura pesada - Matis",
+        "ia": "una",
+        "da": "la",
+        "p": "Ciencias en defensa con armadura pesada - Matis",
+        "pia": "",
+        "pda": "las",
+        "description": "Ciencia de defensa con armadura pesada - Matis"
+    },
+    "sdaht": {
+        "name": "Defensa con armadura pesada - Tryker",
+        "ia": "una",
+        "da": "la",
+        "p": "Defensas con armadura pesada - Tryker",
+        "pia": "",
+        "pda": "las",
+        "description": "Defensa con armadura pesada - Tryker"
+    },
+    "sdahta": {
+        "name": "Defensa avanzada con armadura avanzada pesada - Tryker",
+        "ia": "una",
+        "da": "la",
+        "p": "Defensas con armadura avanzada pesada - Tryker",
+        "pia": "",
+        "pda": "las",
+        "description": "Defensa con armadura avanzada pesada - Tryker"
+    },
+    "sdahtae": {
+        "name": "Ciencia de defensa con armadura pesada - Tryker",
+        "ia": "una",
+        "da": "la",
+        "p": "Ciencias en defensa con armadura pesada - Tryker",
+        "pia": "",
+        "pda": "las",
+        "description": "Ciencia de defensa con armadura pesada - Tryker"
+    },
+    "sdahz": {
+        "name": "Defensa con armadura pesada - Zoraï",
+        "ia": "una",
+        "da": "la",
+        "p": "Defensas con armadura pesada - Zoraï",
+        "pia": "",
+        "pda": "las",
+        "description": "Defensa con armadura pesada - Zoraï"
+    },
+    "sdahza": {
+        "name": "Defensa avanzada con armadura avanzada pesada - Zoraï",
+        "ia": "una",
+        "da": "la",
+        "p": "Defensas con armadura avanzada Pesaa - Zoraï",
+        "pia": "",
+        "pda": "las",
+        "description": "Defensa con armadura avanzada pesada - Zoraï"
+    },
+    "sdahzae": {
+        "name": "Ciencia de defensa con armadura pesada - Zoraï",
+        "ia": "una",
+        "da": "la",
+        "p": "Ciencias en defensa con armadura pesada - Zoraï",
+        "pia": "",
+        "pda": "las",
+        "description": "Ciencia de defensa con armadura pesada - Zoraï"
     },
     "sdal": {
         "name": "Defensa con armadura liviana",
@@ -3635,122 +3761,50 @@
         "pda": "las",
         "description": "Ciencia de defensa con armadura mediana - Zoraï"
     },
-    "sdah": {
-        "name": "Defensa con armadura pesada",
+    "sdd": {
+        "name": "Finta",
         "ia": "una",
         "da": "la",
-        "p": "Defensas con armadura pesada",
+        "p": "Fintas",
         "pia": "",
         "pda": "las",
-        "description": "Defensa con armadura pesada"
+        "description": "Finta"
     },
-    "sdahf": {
-        "name": "Defensa con armadura pesada - Fyros",
+    "sdda": {
+        "name": "Finta veloz",
         "ia": "una",
         "da": "la",
-        "p": "Defensas con armadura pesada - Fyros",
+        "p": "Fintas veloces",
         "pia": "",
         "pda": "las",
-        "description": "Defensa con armadura pesada - Fyros"
+        "description": "Finta veloz"
     },
-    "sdahfa": {
-        "name": "Defensa avanzada con armadura avanzada pesada - Fyros",
+    "sddat": {
+        "name": "Finta instintiva",
         "ia": "una",
         "da": "la",
-        "p": "Defensas avanzada con armadura pesada - Fyros",
+        "p": "Fintas instintivas",
         "pia": "",
         "pda": "las",
-        "description": "Defensa con armadura avanzada pesada - Fyros"
+        "description": "Finta instintiva"
     },
-    "sdahfae": {
-        "name": "Ciencia de defensa con armadura pesada - Fyros",
+    "sddatm": {
+        "name": "Ciencia de finta",
         "ia": "una",
         "da": "la",
-        "p": "Ciencias en defensa con armadura pesada - Fyros",
+        "p": "Ciencias en finta",
         "pia": "",
         "pda": "las",
-        "description": "Ciencia de defensa con armadura pesada - Fyros"
+        "description": "Ciencia de finta"
     },
-    "sdahm": {
-        "name": "Defensa con armadura pesada - Matis",
+    "sddatme": {
+        "name": "Maestría en finta",
         "ia": "una",
         "da": "la",
-        "p": "Defensas con armadura pesada - Matis",
+        "p": "Maestrías en finta",
         "pia": "",
         "pda": "las",
-        "description": "Defensa con armadura pesada - Matis"
-    },
-    "sdahma": {
-        "name": "Defensa con armadura avanzada pesada - Matis",
-        "ia": "una",
-        "da": "la",
-        "p": "Defensas con armadura avanzada pesada - Matis",
-        "pia": "",
-        "pda": "las",
-        "description": "Defensa con armadura avanzada pesada - Matis"
-    },
-    "sdahmae": {
-        "name": "Ciencia de defensa con armadura pesada - Matis",
-        "ia": "una",
-        "da": "la",
-        "p": "Ciencias en defensa con armadura pesada - Matis",
-        "pia": "",
-        "pda": "las",
-        "description": "Ciencia de defensa con armadura pesada - Matis"
-    },
-    "sdaht": {
-        "name": "Defensa con armadura pesada - Tryker",
-        "ia": "una",
-        "da": "la",
-        "p": "Defensas con armadura pesada - Tryker",
-        "pia": "",
-        "pda": "las",
-        "description": "Defensa con armadura pesada - Tryker"
-    },
-    "sdahta": {
-        "name": "Defensa avanzada con armadura avanzada pesada - Tryker",
-        "ia": "una",
-        "da": "la",
-        "p": "Defensas con armadura avanzada pesada - Tryker",
-        "pia": "",
-        "pda": "las",
-        "description": "Defensa con armadura avanzada pesada - Tryker"
-    },
-    "sdahtae": {
-        "name": "Ciencia de defensa con armadura pesada - Tryker",
-        "ia": "una",
-        "da": "la",
-        "p": "Ciencias en defensa con armadura pesada - Tryker",
-        "pia": "",
-        "pda": "las",
-        "description": "Ciencia de defensa con armadura pesada - Tryker"
-    },
-    "sdahz": {
-        "name": "Defensa con armadura pesada - Zoraï",
-        "ia": "una",
-        "da": "la",
-        "p": "Defensas con armadura pesada - Zoraï",
-        "pia": "",
-        "pda": "las",
-        "description": "Defensa con armadura pesada - Zoraï"
-    },
-    "sdahza": {
-        "name": "Defensa avanzada con armadura avanzada pesada - Zoraï",
-        "ia": "una",
-        "da": "la",
-        "p": "Defensas con armadura avanzada Pesaa - Zoraï",
-        "pia": "",
-        "pda": "las",
-        "description": "Defensa con armadura avanzada pesada - Zoraï"
-    },
-    "sdahzae": {
-        "name": "Ciencia de defensa con armadura pesada - Zoraï",
-        "ia": "una",
-        "da": "la",
-        "p": "Ciencias en defensa con armadura pesada - Zoraï",
-        "pia": "",
-        "pda": "las",
-        "description": "Ciencia de defensa con armadura pesada - Zoraï"
+        "description": "Maestría en finta"
     },
     "sds": {
         "name": "Defensa con escudo",
@@ -3994,672 +4048,6 @@
         "pia": "",
         "pda": "las",
         "description": "Ciencia de defensa con escudo grande - Zoraï"
-    },
-    "sdd": {
-        "name": "Finta",
-        "ia": "una",
-        "da": "la",
-        "p": "Fintas",
-        "pia": "",
-        "pda": "las",
-        "description": "Finta"
-    },
-    "sdda": {
-        "name": "Finta veloz",
-        "ia": "una",
-        "da": "la",
-        "p": "Fintas veloces",
-        "pia": "",
-        "pda": "las",
-        "description": "Finta veloz"
-    },
-    "sddat": {
-        "name": "Finta instintiva",
-        "ia": "una",
-        "da": "la",
-        "p": "Fintas instintivas",
-        "pia": "",
-        "pda": "las",
-        "description": "Finta instintiva"
-    },
-    "sddatm": {
-        "name": "Ciencia de finta",
-        "ia": "una",
-        "da": "la",
-        "p": "Ciencias en finta",
-        "pia": "",
-        "pda": "las",
-        "description": "Ciencia de finta"
-    },
-    "sddatme": {
-        "name": "Maestría en finta",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en finta",
-        "pia": "",
-        "pda": "las",
-        "description": "Maestría en finta"
-    },
-    "uknown": {
-        "name": "Habilidad Desconocida",
-        "ia": "",
-        "da": "",
-        "p": "Habilidades Desconocidas",
-        "pia": "",
-        "pda": "",
-        "description": "Habilidad Desconocida"
-    },
-    "unknown": {
-        "name": "Habilidad Desconocida",
-        "ia": "",
-        "da": "",
-        "p": "Habilidades Desconocidas",
-        "pia": "",
-        "pda": "",
-        "description": "Habilidad Desconocida"
-    },
-    "sh": {
-        "name": "Extracción de materias primas",
-        "ia": "una",
-        "da": "la",
-        "p": "Extracciones de materias primas",
-        "pia": "",
-        "pda": "las",
-        "description": "Extracción de materias primas"
-    },
-    "shf": {
-        "name": "Prospección",
-        "ia": "un",
-        "da": "el",
-        "p": "Prospecciones",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "shff": {
-        "name": "Prospección en el Bosque",
-        "ia": "una",
-        "da": "la",
-        "p": "Prospecciones en el Bosque",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "shffa": {
-        "name": "Prospección avanzada en el Bosque",
-        "ia": "una",
-        "da": "la",
-        "p": "Prospecciones avanzadas en el Bosque",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "shffae": {
-        "name": "Ciencia de prospección en el Bosque",
-        "ia": "una",
-        "da": "la",
-        "p": "Ciencias en prospección en el Bosque",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "shffaem": {
-        "name": "Maestría en prospección en el Bosque",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en prospección en el Bosque",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "shfd": {
-        "name": "Prospección en el Desierto",
-        "ia": "una",
-        "da": "la",
-        "p": "Prospecciones en el Desierto",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "shfda": {
-        "name": "Prospección avanzada en el Desierto",
-        "ia": "una",
-        "da": "la",
-        "p": "Prospecciones avanzadas en el Desierto",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "shfdae": {
-        "name": "Ciencia de prospección en el Desierto",
-        "ia": "una",
-        "da": "la",
-        "p": "Ciencias en prospección en el Desierto",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "shfdaem": {
-        "name": "Maestría en prospección en el Desierto",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en prospección en el Desierto",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "shfj": {
-        "name": "Prospección en la Selva",
-        "ia": "una",
-        "da": "la",
-        "p": "Prospecciones en la Selva",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "shfja": {
-        "name": "Prospección avanzada en la Selva",
-        "ia": "una",
-        "da": "la",
-        "p": "Prospecciones avanzadas en la Selva",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "shfjae": {
-        "name": "Ciencia de prospección en la Selva",
-        "ia": "una",
-        "da": "la",
-        "p": "Ciencias en prospección en la Selva",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "shfjaem": {
-        "name": "Maestría en prospección en la Selva",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en prospección en la Selva",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "shfl": {
-        "name": "Prospección en los Lagos",
-        "ia": "una",
-        "da": "la",
-        "p": "Prospecciones en los Lagos",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "shfla": {
-        "name": "Prospección avanzada en los Lagos",
-        "ia": "una",
-        "da": "la",
-        "p": "Prospecciones avanzadas en los Lagos",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "shflae": {
-        "name": "Ciencia de prospección en los Lagos",
-        "ia": "una",
-        "da": "la",
-        "p": "Ciencias en prospección en los Lagos",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "shflaem": {
-        "name": "Maestría en Prospección en los Lagos",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en prospección en los Lagos",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "shfp": {
-        "name": "Prospección en las Raíces Primitivas",
-        "ia": "un",
-        "da": "la",
-        "p": "Prospecciones en las Raíces Primitivas",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "shfpa": {
-        "name": "Prospección avanzada en las Raíces Primitivas",
-        "ia": "una",
-        "da": "la",
-        "p": "Prospecciones avanzadas en las Primera Raíz",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "shfpae": {
-        "name": "Ciencia de prospección en las Raíces Primitivas",
-        "ia": "una",
-        "da": "la",
-        "p": "Ciencias en prospección en las Raíces Primitivas",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "shfpaem": {
-        "name": "Maestría en prospección en las Raíces Primitivas",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en prospección en las Raíces Primitivas",
-        "pia": "",
-        "pda": "las",
-        "description": ""
-    },
-    "smtoeca": {
-        "name": "Magia avanzada de frío",
-        "ia": "una",
-        "da": "la",
-        "p": "Magias avanzadas de frío",
-        "pia": "",
-        "pda": "las",
-        "description": "Iniciado en misil mágico dirigido - Frío"
-    },
-    "smtoeaa": {
-        "name": "Magia avanzada de ácido",
-        "ia": "una",
-        "da": "la",
-        "p": "Magias avanzadas de ácido",
-        "pia": "",
-        "pda": "las",
-        "description": "Iniciado en misil mágico dirigido - Ácido"
-    },
-    "smtoera": {
-        "name": "Magia avanzada de pudrición",
-        "ia": "una",
-        "da": "la",
-        "p": "Magias avanzadas de pudrición",
-        "pia": "",
-        "pda": "las",
-        "description": "Iniciado en misil mágico dirigido - Pudrición"
-    },
-    "smtoefa": {
-        "name": "Magia avanzada de fuego",
-        "ia": "una",
-        "da": "la",
-        "p": "Magias avanzadas de fuego",
-        "pia": "",
-        "pda": "las",
-        "description": "Iniciado en misil mágico dirigido - Fuego"
-    },
-    "smtoesa": {
-        "name": "Magia avanzada de onda de choque",
-        "ia": "una",
-        "da": "la",
-        "p": "Magias avanzadas de onda de choque",
-        "pia": "",
-        "pda": "las",
-        "description": "Iniciado en misil mágico dirigido - Onda de choque"
-    },
-    "smtoepa": {
-        "name": "Magia avanzada de veneno",
-        "ia": "una",
-        "da": "la",
-        "p": "Magias avanzadas de veneno",
-        "pia": "",
-        "pda": "las",
-        "description": "Iniciado en misil mágico dirigido - Veneno"
-    },
-    "smtoeea": {
-        "name": "Magia avanzada de electricidad",
-        "ia": "una",
-        "da": "la",
-        "p": "Magias avanzadas de electricidad",
-        "pia": "",
-        "pda": "las",
-        "description": "Iniciado en misil mágico dirigido - Electricidad"
-    },
-    "smtchpa": {
-        "name": "Magia avanzada de auxilios de la salud",
-        "ia": "una",
-        "da": "la",
-        "p": "Magias avanzadas de auxilios de la salud",
-        "pia": "",
-        "pda": "las",
-        "description": "Magia avanzada dirigida de curación de auxilios - Puntos de vida"
-    },
-    "smtchta": {
-        "name": "Magia avanzada de auxilios de la resist.",
-        "ia": "una",
-        "da": "la",
-        "p": "Magias avanzadas de auxilios de la resist.",
-        "pia": "",
-        "pda": "las",
-        "description": "Magia avanzada dirigida de curación de auxilios - Resist."
-    },
-    "smtchaa": {
-        "name": "Magia avanzada de auxilios de la savia",
-        "ia": "una",
-        "da": "la",
-        "p": "Magias avanzadas de auxilios de la savia",
-        "pia": "",
-        "pda": "las",
-        "description": "Magia avanzada dirigida de curación de auxilios - Savia"
-    },
-    "smtchca": {
-        "name": "Magia avanzada de auxilios del enfoque",
-        "ia": "una",
-        "da": "la",
-        "p": "Magias avanzadas de auxilios del enfoque",
-        "pia": "",
-        "pda": "las",
-        "description": "Magia avanzada dirigida de curación de auxilios - Enfoque"
-    },
-    "smlosma": {
-        "name": "Enlace avanzado de locura",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces avanzados de locura",
-        "pia": "",
-        "pda": "los",
-        "description": "Enlace avanzado de magia ofensiva de enfermedad - Locura"
-    },
-    "smlossa": {
-        "name": "Enlace avanzado de disminución de velocidad",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces avanzados de disminución de velocidad",
-        "pia": "",
-        "pda": "los",
-        "description": "Enlace avanzado de magia ofensiva de debilidad - Velocidad"
-    },
-    "smlocia": {
-        "name": "Enlace avanzado de incapacidad",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces avanzados de incapacidad",
-        "pia": "",
-        "pda": "los",
-        "description": "Enlace avanzado de magia ofensiva de maldición - Incapacidad"
-    },
-    "smlocsa": {
-        "name": "Enlace avanzado de infortunio",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces avanzados de infortunio",
-        "pia": "",
-        "pda": "los",
-        "description": "Enlace avanzado de magia ofensiva de maldición - Infortunio"
-    },
-    "smloeca": {
-        "name": "Enlace avanzado de frio",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces avanzados de frio",
-        "pia": "",
-        "pda": "los",
-        "description": "Daño especial del enlace avanzado de magia ofensiva - Frio"
-    },
-    "smloeaa": {
-        "name": "Enlace avanzado de ácido",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces avanzados de ácido",
-        "pia": "",
-        "pda": "los",
-        "description": "Daño especial del enlace avanzado de magia ofensiva - Acido"
-    },
-    "smloera": {
-        "name": "Enlace avanzado de pudrición",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces avanzados de pudrición",
-        "pia": "",
-        "pda": "los",
-        "description": "Daño especial del enlace avanzado de magia ofensiva - Pudrición"
-    },
-    "smloefa": {
-        "name": "Enlace avanzado de fuego",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces avanzados de fuego",
-        "pia": "",
-        "pda": "los",
-        "description": "Daño especial del enlace avanzado de magia ofensiva - Fuego"
-    },
-    "smloesa": {
-        "name": "Enlace avanzado de onda de choque",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces avanzados de onda de choque",
-        "pia": "",
-        "pda": "los",
-        "description": "Daño especial del enlace avanzado de magia ofensiva - Onda de choque"
-    },
-    "smloepa": {
-        "name": "Enlace avanzado de veneno",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces avanzados de veneno",
-        "pia": "",
-        "pda": "los",
-        "description": "Daño especial del enlace avanzado de magia ofensiva - Envenenamiento"
-    },
-    "smloeea": {
-        "name": "Enlace avanzado de electricidad",
-        "ia": "un",
-        "da": "el",
-        "p": "Enlaces avanzados de electricidad",
-        "pia": "",
-        "pda": "los",
-        "description": "Daño especial del enlace avanzado de magia ofensiva - Electricidad"
-    },
-    "smd": {
-        "name": "Magia protectora",
-        "ia": "una",
-        "da": "la",
-        "p": "Magias protectoras",
-        "pia": "",
-        "pda": "las",
-        "description": "Magia protectora"
-    },
-    "smda": {
-        "name": "Neutralización mágica",
-        "ia": "una",
-        "da": "la",
-        "p": "Neutralizaciones mágicas",
-        "pia": "",
-        "pda": "las",
-        "description": "Neutralización mágica"
-    },
-    "smdaa": {
-        "name": "Neutralización mágica avanzada",
-        "ia": "una",
-        "da": "la",
-        "p": "Neutralizaciones mágicas avanzadas",
-        "pia": "",
-        "pda": "las",
-        "description": "Neutralización mágica avanzada"
-    },
-    "smdaae": {
-        "name": "Ciencia de neutralización mágica",
-        "ia": "una",
-        "da": "la",
-        "p": "Ciencias de neutralización mágica",
-        "pia": "",
-        "pda": "las",
-        "description": "Ciencia de eutralización mágica"
-    },
-    "smdaaem": {
-        "name": "Maestría en neutralización mágica",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en neutralización mágica",
-        "pia": "",
-        "pda": "las",
-        "description": "Maestría en neutralización mágica"
-    },
-    "smdh": {
-        "name": "Magia curativa",
-        "ia": "una",
-        "da": "la",
-        "p": "Magias curativas",
-        "pia": "",
-        "pda": "las",
-        "description": "Magia curativa"
-    },
-    "smdha": {
-        "name": "Magia curativa avanzada",
-        "ia": "una",
-        "da": "la",
-        "p": "Magias curativas avanzadas",
-        "pia": "",
-        "pda": "las",
-        "description": "Magia curativa avanzada"
-    },
-    "smdhae": {
-        "name": "Ciencia de magia curativa",
-        "ia": "una",
-        "da": "la",
-        "p": "Ciencias en magia curativa",
-        "pia": "",
-        "pda": "las",
-        "description": "Ciencia de magia curativa"
-    },
-    "smdhaem": {
-        "name": "Maestría en magia curativa",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en magia curativa",
-        "pia": "",
-        "pda": "las",
-        "description": "Maestría en magia curativa"
-    },
-    "smo": {
-        "name": "Magia de combate",
-        "ia": "una",
-        "da": "la",
-        "p": "Magias de combate",
-        "pia": "",
-        "pda": "las",
-        "description": "Magia de combate"
-    },
-    "smoa": {
-        "name": "Magia debilitadora",
-        "ia": "una",
-        "da": "la",
-        "p": "Magias debilitadoras",
-        "pia": "",
-        "pda": "las",
-        "description": "Magia debilitadora"
-    },
-    "smoaa": {
-        "name": "Magia debilitadora avanzada",
-        "ia": "una",
-        "da": "la",
-        "p": "Magias debilitadoras avanzadas",
-        "pia": "",
-        "pda": "las",
-        "description": "Magia debilitadora avanzada"
-    },
-    "smoaae": {
-        "name": "Ciencia de magia debilitadora",
-        "ia": "una",
-        "da": "la",
-        "p": "Ciencias en magia debilitadora",
-        "pia": "",
-        "pda": "las",
-        "description": "Ciencia de magia debilitadora"
-    },
-    "smoaaem": {
-        "name": "Maestría en magia debilitadora",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en magia debilitadora",
-        "pia": "",
-        "pda": "las",
-        "description": "Maestría en magia debilitadora"
-    },
-    "smoe": {
-        "name": "Magia ofensiva",
-        "ia": "una",
-        "da": "la",
-        "p": "Magias ofensivas",
-        "pia": "",
-        "pda": "las",
-        "description": "Magia ofensiva"
-    },
-    "smoea": {
-        "name": "Magia ofensiva avanzada",
-        "ia": "una",
-        "da": "la",
-        "p": "Magias ofensivas avanzadas",
-        "pia": "",
-        "pda": "las",
-        "description": "Magia ofensiva avanzada"
-    },
-    "smoeae": {
-        "name": "Ciencia de magia ofensiva",
-        "ia": "una",
-        "da": "la",
-        "p": "Ciencias en magia ofensiva",
-        "pia": "",
-        "pda": "las",
-        "description": "Ciencia de magia ofensiva"
-    },
-    "smoeaem": {
-        "name": "Maestría en magia ofensiva",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en magia ofensiva",
-        "pia": "",
-        "pda": "las",
-        "description": "Maestría en magia ofensiva"
-    },
-    "sms": {
-        "name": "Magia sobre sí mismo",
-        "ia": "una",
-        "da": "la",
-        "p": "Magias sobre sí mismo",
-        "pia": "",
-        "pda": "las",
-        "description": "Magia sobre sí mismo"
-    },
-    "smss": {
-        "name": "Magia personal",
-        "ia": "una",
-        "da": "la",
-        "p": "Magias personales",
-        "pia": "",
-        "pda": "las",
-        "description": "Magia personal"
-    },
-    "smssa": {
-        "name": "Magia personal avanzada",
-        "ia": "una",
-        "da": "la",
-        "p": "Magias personales avanzadas",
-        "pia": "",
-        "pda": "las",
-        "description": "Magia personal avanzada"
-    },
-    "smssae": {
-        "name": "Ciencia de magia personal",
-        "ia": "una",
-        "da": "la",
-        "p": "Ciencias en magia personal",
-        "pia": "",
-        "pda": "las",
-        "description": "Ciencia de magia personal"
-    },
-    "smssaem": {
-        "name": "Maestría en magia personal",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrísa en magia personal",
-        "pia": "",
-        "pda": "las",
-        "description": "Maestría en magia personal"
     },
     "sf": {
         "name": "Combate",
@@ -5300,1282 +4688,1894 @@
         "pda": "las",
         "description": ""
     },
-    "sca": {
-        "name": "Fabricación de armadura",
+    "sh": {
+        "name": "Extracción de materias primas",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de armadura",
+        "p": "Extracciones de materias primas",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Extracción de materias primas"
     },
-    "scj": {
-        "name": "Fabricación de joya",
-        "ia": "una",
+    "shf": {
+        "name": "Prospección",
+        "ia": "un",
         "da": "el",
-        "p": "Fabricaciones de joya",
+        "p": "Prospecciones",
         "pia": "",
         "pda": "las",
         "description": ""
     },
-    "scm": {
-        "name": "Fabricación de arma de lucha cuerpo a cuerpo",
+    "shfd": {
+        "name": "Prospección en el Desierto",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de arma de lucha cuerpo a cuerpo",
+        "p": "Prospecciones en el Desierto",
         "pia": "",
         "pda": "las",
         "description": ""
     },
-    "scr": {
-        "name": "Fabricación de arma de tiro",
+    "shfda": {
+        "name": "Prospección avanzada en el Desierto",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de arma de tiro",
+        "p": "Prospecciones avanzadas en el Desierto",
         "pia": "",
-        "pda": "la",
+        "pda": "las",
         "description": ""
     },
-    "scah": {
-        "name": "Fabricación de armadura pesada",
+    "shfdae": {
+        "name": "Ciencia de prospección en el Desierto",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de armadura pesada",
+        "p": "Ciencias en prospección en el Desierto",
         "pia": "",
         "pda": "las",
         "description": ""
     },
-    "scal": {
-        "name": "Fabricación de armadura liviana",
+    "shfdaem": {
+        "name": "Maestría en prospección en el Desierto",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de armadura liviana",
+        "p": "Maestrías en prospección en el Desierto",
         "pia": "",
         "pda": "las",
         "description": ""
     },
-    "scam": {
-        "name": "Fabricación de armadura mediana",
+    "shff": {
+        "name": "Prospección en el Bosque",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de armadura mediana",
+        "p": "Prospecciones en el Bosque",
         "pia": "",
         "pda": "las",
         "description": ""
     },
-    "scas": {
-        "name": "Fabricación de escudo",
+    "shffa": {
+        "name": "Prospección avanzada en el Bosque",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de escudo",
+        "p": "Prospecciones avanzadas en el Bosque",
         "pia": "",
         "pda": "las",
         "description": ""
     },
-    "scja": {
-        "name": "Fabricación de tobillera",
+    "shffae": {
+        "name": "Ciencia de prospección en el Bosque",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de tobillera",
+        "p": "Ciencias en prospección en el Bosque",
         "pia": "",
         "pda": "las",
         "description": ""
     },
-    "scjb": {
-        "name": "Fabricación de brazalete",
+    "shffaem": {
+        "name": "Maestría en prospección en el Bosque",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de brazalete",
+        "p": "Maestrías en prospección en el Bosque",
         "pia": "",
         "pda": "las",
         "description": ""
     },
-    "scjd": {
-        "name": "Fabricación de diadema",
+    "shfj": {
+        "name": "Prospección en la Selva",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de diadema",
+        "p": "Prospecciones en la Selva",
         "pia": "",
         "pda": "las",
         "description": ""
     },
-    "scje": {
-        "name": "Fabricación de arete",
+    "shfja": {
+        "name": "Prospección avanzada en la Selva",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de arete",
+        "p": "Prospecciones avanzadas en la Selva",
         "pia": "",
         "pda": "las",
         "description": ""
     },
-    "scjp": {
-        "name": "Fabricación de colgante",
+    "shfjae": {
+        "name": "Ciencia de prospección en la Selva",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de colgante",
+        "p": "Ciencias en prospección en la Selva",
         "pia": "",
         "pda": "las",
         "description": ""
     },
-    "scjr": {
-        "name": "Fabricación de anillo",
+    "shfjaem": {
+        "name": "Maestría en prospección en la Selva",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de anillo",
+        "p": "Maestrías en prospección en la Selva",
         "pia": "",
-        "pda": "la",
+        "pda": "las",
         "description": ""
     },
-    "scm1": {
-        "name": "Fabricación de arma de una mano para el cuerpo a cuerpo",
+    "shfl": {
+        "name": "Prospección en los Lagos",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de arma de una mano para el cuerpo a cuerpo",
+        "p": "Prospecciones en los Lagos",
         "pia": "",
         "pda": "las",
         "description": ""
     },
-    "scm2": {
-        "name": "Fabricación de arma de dos manos para el cuerpo a cuerpo",
+    "shfla": {
+        "name": "Prospección avanzada en los Lagos",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de arma de dos manos para el cuerpo a cuerpo",
+        "p": "Prospecciones avanzadas en los Lagos",
         "pia": "",
         "pda": "las",
         "description": ""
     },
-    "scr1": {
-        "name": "Fabricación de arma de tiro de una mano",
+    "shflae": {
+        "name": "Ciencia de prospección en los Lagos",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de arma de tiro de una mano",
+        "p": "Ciencias en prospección en los Lagos",
         "pia": "",
         "pda": "las",
         "description": ""
     },
-    "scr2": {
-        "name": "Fabricación de arma de tiro de una mano",
+    "shflaem": {
+        "name": "Maestría en Prospección en los Lagos",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de arma de tiro de dos manos",
+        "p": "Maestrías en prospección en los Lagos",
         "pia": "",
         "pda": "las",
         "description": ""
     },
-    "scahb": {
-        "name": "Fabricación de botas pesadas",
-        "ia": "una",
+    "shfp": {
+        "name": "Prospección en las Raíces Primitivas",
+        "ia": "un",
         "da": "la",
-        "p": "Fabricaciones de botas pesadas",
+        "p": "Prospecciones en las Raíces Primitivas",
         "pia": "",
         "pda": "las",
         "description": ""
     },
-    "scahg": {
-        "name": "Fabricación de guantes pesados",
+    "shfpa": {
+        "name": "Prospección avanzada en las Raíces Primitivas",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de guantes pesados",
+        "p": "Prospecciones avanzadas en las Primera Raíz",
         "pia": "",
         "pda": "las",
         "description": ""
     },
-    "scahh": {
-        "name": "Fabricación de casco pesado",
+    "shfpae": {
+        "name": "Ciencia de prospección en las Raíces Primitivas",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de casco pesado",
+        "p": "Ciencias en prospección en las Raíces Primitivas",
         "pia": "",
         "pda": "las",
         "description": ""
     },
-    "scahp": {
-        "name": "Fabricación de pantalón pesado",
+    "shfpaem": {
+        "name": "Maestría en prospección en las Raíces Primitivas",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de pantalón pesado",
+        "p": "Maestrías en prospección en las Raíces Primitivas",
         "pia": "",
         "pda": "las",
         "description": ""
     },
-    "scahs": {
-        "name": "Fabricación de mangas pesadas",
-        "ia": "una",
-        "da": "la",
-        "p": "Fabricaciones de mangas pesadas",
+    "shield": {
+        "name": "Escudo Kamic",
+        "ia": "un",
+        "da": "el",
+        "p": "Escudos Kamis",
         "pia": "",
-        "pda": "las",
+        "pda": "los",
         "description": ""
     },
-    "scahv": {
-        "name": "Fabricación de chaleco pesado",
-        "ia": "una",
-        "da": "la",
-        "p": "Fabricaciones de chaleco pesado",
+    "shootandrun": {
+        "name": "Tiro y Carrera",
+        "ia": "un",
+        "da": "el",
+        "p": "Tiro y Carreras",
         "pia": "",
-        "pda": "las",
+        "pda": "los",
         "description": ""
     },
-    "scalb": {
-        "name": "Fabricación de botas livianas",
+    "shotprotect": {
+        "name": "Protección del Tiro",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de botas livianas",
+        "p": "Protecciones a los Tiros",
         "pia": "",
         "pda": "las",
         "description": ""
     },
-    "scalg": {
-        "name": "Fabricación de guantes livianos",
+    "slowingbreath": {
+        "name": "Desaceleración de la Respiración",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de guantes livianos",
+        "p": "Desaceleración de las Reparaciones",
         "pia": "",
         "pda": "las",
         "description": ""
     },
-    "scalp": {
-        "name": "Fabricaciones de pantalón liviano",
+    "slowinglife": {
+        "name": "Desaceleración de la Vida",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de pantalón liviano",
+        "p": "Desaceleración de las Vidas",
         "pia": "",
         "pda": "las",
         "description": ""
     },
-    "scals": {
-        "name": "Fabricación de mangas livianos",
+    "sm": {
+        "name": "Magia",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de mangas livianos",
+        "p": "Magias",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Magia"
     },
-    "scalv": {
-        "name": "Fabricación de chaleco liviano",
+    "sma": {
+        "name": "Magia instintiva",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de chaleco liviano",
+        "p": "Magias instintivas",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Magia instintiva"
     },
-    "scamb": {
-        "name": "Fabricación de botas medianas",
+    "smae": {
+        "name": "Magia de encantamiento",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de botas medianas",
+        "p": "Magias de encantamiento",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Magia de encantamiento"
+    },
+    "smaeb": {
+        "name": "Bono de encantamiento",
+        "ia": "un",
+        "da": "el",
+        "p": "Bonos de encantamiento",
+        "pia": "",
+        "pda": "los",
+        "description": "Encantamiento mágico - Bono"
+    },
+    "smaes": {
+        "name": "Hechizo de encantamiento",
+        "ia": "un",
+        "da": "el",
+        "p": "Hechizos de encantamiento",
+        "pia": "",
+        "pda": "los",
+        "description": "Encantamiento mágico - Hechizo"
     },
-    "scamg": {
-        "name": "Fabricación de guantes medianos",
+    "smap": {
+        "name": "Magia para la elaboración de pociones",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de guantes medianos",
+        "p": "Magias para la elaboración de pociones",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Magias para la elaboración de pociones"
     },
-    "scamp": {
-        "name": "Fabricación de pantalón mediano",
+    "smd": {
+        "name": "Magia protectora",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de pantalón mediano",
+        "p": "Magias protectoras",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Magia protectora"
     },
-    "scams": {
-        "name": "Fabricación de mangas medianas",
+    "smda": {
+        "name": "Neutralización mágica",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de mangas medianas",
+        "p": "Neutralizaciones mágicas",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Neutralización mágica"
     },
-    "scamv": {
-        "name": "Fabricación de chaleco mediano",
+    "smdaa": {
+        "name": "Neutralización mágica avanzada",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de chaleco mediano",
+        "p": "Neutralizaciones mágicas avanzadas",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Neutralización mágica avanzada"
     },
-    "scass": {
-        "name": "Fabricación de escudo",
+    "smdaae": {
+        "name": "Ciencia de neutralización mágica",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de escudo",
+        "p": "Ciencias de neutralización mágica",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Ciencia de eutralización mágica"
     },
-    "scasb": {
-        "name": "Fabricación de adarga",
+    "smdaaem": {
+        "name": "Maestría en neutralización mágica",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de adarga",
+        "p": "Maestrías en neutralización mágica",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Maestría en neutralización mágica"
     },
-    "scjaa": {
-        "name": "Fabricación avanzada de tobillera",
+    "smdh": {
+        "name": "Magia curativa",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de tobillera",
+        "p": "Magias curativas",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Magia curativa"
     },
-    "scjba": {
-        "name": "Fabricación avanzada de brazalete",
+    "smdha": {
+        "name": "Magia curativa avanzada",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de brazalete",
+        "p": "Magias curativas avanzadas",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Magia curativa avanzada"
     },
-    "scjda": {
-        "name": "Fabricación avanzada de diadema",
+    "smdhae": {
+        "name": "Ciencia de magia curativa",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de diadema",
+        "p": "Ciencias en magia curativa",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Ciencia de magia curativa"
     },
-    "scjea": {
-        "name": "Fabricación avanzada de arete",
+    "smdhaem": {
+        "name": "Maestría en magia curativa",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de arete",
+        "p": "Maestrías en magia curativa",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Maestría en magia curativa"
+    },
+    "sml": {
+        "name": "Enlace de magia",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces de magia",
+        "pia": "",
+        "pda": "los",
+        "description": "Enlace de magia"
+    },
+    "smlc": {
+        "name": "Enlace de curación",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces de curación",
+        "pia": "",
+        "pda": "los",
+        "description": "Enlace mágico de curación"
+    },
+    "smlch": {
+        "name": "Enlace de auxilios",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces de auxilios",
+        "pia": "",
+        "pda": "los",
+        "description": "Enlace mágico de curación de auxilios"
+    },
+    "smlcha": {
+        "name": "Enlace de auxilios de la savia",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces de auxilios de la savia",
+        "pia": "",
+        "pda": "los",
+        "description": "Enlace mágico de curación de auxilios - Savia"
+    },
+    "smlchc": {
+        "name": "Enlace de auxilios del enfoque",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces de auxilios del enfoque",
+        "pia": "",
+        "pda": "los",
+        "description": "Enlace mágico de curación de auxilios - Enfoque"
+    },
+    "smlchp": {
+        "name": "Enlace de auxilios de la salud",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces de auxilios de la salud",
+        "pia": "",
+        "pda": "los",
+        "description": "Enlace mágico de curación de auxilios - Puntos de vida"
+    },
+    "smlcht": {
+        "name": "Enlace de auxilios de la resist.",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces de auxilios de la resist.",
+        "pia": "",
+        "pda": "los",
+        "description": "Enlace mágico de curación de auxilios - Resist."
+    },
+    "smlm": {
+        "name": "Enlace de misil",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces de misil",
+        "pia": "",
+        "pda": "los",
+        "description": "Enlace de typo proyectil mágico"
+    },
+    "smlmb": {
+        "name": "Enlace celestial",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces celestiales",
+        "pia": "",
+        "pda": "los",
+        "description": "Enlace de typo proyectil mágico - Celestial"
+    },
+    "smlmg": {
+        "name": "Enlace atysiano",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces atysianos",
+        "pia": "",
+        "pda": "los",
+        "description": "Enlace de typo proyectil mágico - atysiano"
+    },
+    "smlmr": {
+        "name": "Enlace primario",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces primarios",
+        "pia": "",
+        "pda": "los",
+        "description": "Enlace de typo proyectil mágico - Primario"
+    },
+    "smlo": {
+        "name": "Enlace ofensivo",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces ofensivos",
+        "pia": "",
+        "pda": "los",
+        "description": "Enlace de magia ofensiva"
+    },
+    "smloc": {
+        "name": "Enlace de maldición",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces de maldición",
+        "pia": "",
+        "pda": "los",
+        "description": "Enlace de magia ofensiva de maldición"
+    },
+    "smloch": {
+        "name": "Enlace de odio",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces de odio",
+        "pia": "",
+        "pda": "los",
+        "description": "Enlace de magia ofensiva de maldición - Odio"
+    },
+    "smloci": {
+        "name": "Enlace de incapacidad",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces de incapacidad",
+        "pia": "",
+        "pda": "los",
+        "description": "Enlace de magia ofensiva de maldición - Incapacidad"
+    },
+    "smlocia": {
+        "name": "Enlace avanzado de incapacidad",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces avanzados de incapacidad",
+        "pia": "",
+        "pda": "los",
+        "description": "Enlace avanzado de magia ofensiva de maldición - Incapacidad"
+    },
+    "smlocm": {
+        "name": "Enlace de trastorno mental",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces de trastorno mental",
+        "pia": "",
+        "pda": "los",
+        "description": "Enlace de magia ofensiva de maldición - Trastorno mental"
+    },
+    "smlocs": {
+        "name": "Enlace de infortunio",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces de infortunio",
+        "pia": "",
+        "pda": "los",
+        "description": "Enlace de magia ofensiva de maldición - Infortunio"
+    },
+    "smlocsa": {
+        "name": "Enlace avanzado de infortunio",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces avanzados de infortunio",
+        "pia": "",
+        "pda": "los",
+        "description": "Enlace avanzado de magia ofensiva de maldición - Infortunio"
+    },
+    "smlod": {
+        "name": "Enlace físico",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces físicos",
+        "pia": "",
+        "pda": "los",
+        "description": "Enlace mágico con daños físicos"
+    },
+    "smlodb": {
+        "name": "Enlace contundente",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces contundentes",
+        "pia": "",
+        "pda": "los",
+        "description": "Enlace mágico con daños físicos - demoledora"
+    },
+    "smlodp": {
+        "name": "Enlace punzante",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces punzantes",
+        "pia": "",
+        "pda": "los",
+        "description": "Enlace mágico con daños físicos - perforación"
+    },
+    "smlods": {
+        "name": "Enlace cortante",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces cortantes",
+        "pia": "",
+        "pda": "los",
+        "description": "DEnlace mágico con daños físicos - Cortadura\/Cuchillada"
+    },
+    "smloe": {
+        "name": "Enlace elemental",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces elementals",
+        "pia": "",
+        "pda": "los",
+        "description": "Daño especial ofensivo del enlace mágico"
+    },
+    "smloea": {
+        "name": "Enlace de ácido",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces de ácido",
+        "pia": "",
+        "pda": "los",
+        "description": "Daño especial ofensivo del enlace mágico - Acido"
+    },
+    "smloeaa": {
+        "name": "Enlace avanzado de ácido",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces avanzados de ácido",
+        "pia": "",
+        "pda": "los",
+        "description": "Daño especial del enlace avanzado de magia ofensiva - Acido"
+    },
+    "smloec": {
+        "name": "Enlace de frio",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces de frio",
+        "pia": "",
+        "pda": "los",
+        "description": "Daño especial ofensivo del enlace mágico - Frio"
+    },
+    "smloeca": {
+        "name": "Enlace avanzado de frio",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces avanzados de frio",
+        "pia": "",
+        "pda": "los",
+        "description": "Daño especial del enlace avanzado de magia ofensiva - Frio"
+    },
+    "smloee": {
+        "name": "Enlace de electricidad",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces de electricidad",
+        "pia": "",
+        "pda": "los",
+        "description": "Daño especial ofensivo del enlace mágico - Electricidad"
     },
-    "scjpa": {
-        "name": "Fabricación avanzada de colgante",
+    "smloeea": {
+        "name": "Enlace avanzado de electricidad",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces avanzados de electricidad",
+        "pia": "",
+        "pda": "los",
+        "description": "Daño especial del enlace avanzado de magia ofensiva - Electricidad"
+    },
+    "smloef": {
+        "name": "Enlace de fuego",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces de fuego",
+        "pia": "",
+        "pda": "los",
+        "description": "Daño especial ofensivo del enlace mágico - Fuego"
+    },
+    "smloefa": {
+        "name": "Enlace avanzado de fuego",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces avanzados de fuego",
+        "pia": "",
+        "pda": "los",
+        "description": "Daño especial del enlace avanzado de magia ofensiva - Fuego"
+    },
+    "smloep": {
+        "name": "Enlace de veneno",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces de veneno",
+        "pia": "",
+        "pda": "los",
+        "description": "Daño especial ofensivo del enlace mágico - Envenenamiento"
+    },
+    "smloepa": {
+        "name": "Enlace avanzado de veneno",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces avanzados de veneno",
+        "pia": "",
+        "pda": "los",
+        "description": "Daño especial del enlace avanzado de magia ofensiva - Envenenamiento"
+    },
+    "smloer": {
+        "name": "Enlace de pudrición",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces de pudrición",
+        "pia": "",
+        "pda": "los",
+        "description": "Daño especial ofensivo del enlace mágico - Pudrición"
+    },
+    "smloera": {
+        "name": "Enlace avanzado de pudrición",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces avanzados de pudrición",
+        "pia": "",
+        "pda": "los",
+        "description": "Daño especial del enlace avanzado de magia ofensiva - Pudrición"
+    },
+    "smloes": {
+        "name": "Enlace de onda de choque",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces de onda de choque",
+        "pia": "",
+        "pda": "los",
+        "description": "Daño especial ofensivo del enlace mágico - Onda de choque"
+    },
+    "smloesa": {
+        "name": "Enlace avanzado de onda de choque",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces avanzados de onda de choque",
+        "pia": "",
+        "pda": "los",
+        "description": "Daño especial del enlace avanzado de magia ofensiva - Onda de choque"
+    },
+    "smlos": {
+        "name": "Enlace de enfermedad",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces de enfermedad",
+        "pia": "",
+        "pda": "los",
+        "description": "Enlace de magia ofensiva de enfermedad"
+    },
+    "smlosk": {
+        "name": "Enlace de disminución de habilidad",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces de disminución de habilidad",
+        "pia": "",
+        "pda": "los",
+        "description": "Enlace de magia ofensiva de debilidad - Habilidad"
+    },
+    "smlosm": {
+        "name": "Enlace de locura",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces de locura",
+        "pia": "",
+        "pda": "los",
+        "description": "Enlace de magia ofensiva de enfermedad - Locura"
+    },
+    "smlosma": {
+        "name": "Enlace avanzado de locura",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces avanzados de locura",
+        "pia": "",
+        "pda": "los",
+        "description": "Enlace avanzado de magia ofensiva de enfermedad - Locura"
+    },
+    "smlosr": {
+        "name": "Enlace de disminución de resistencia",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces de disminución de resistencia",
+        "pia": "",
+        "pda": "los",
+        "description": "Enlace de magia ofensiva de debilidad - Resistencia"
+    },
+    "smloss": {
+        "name": "Enlace de disminución de velocidad",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces de disminución de velocidad",
+        "pia": "",
+        "pda": "los",
+        "description": "Enlace de magia ofensiva de debilidad - Velocidad"
+    },
+    "smlossa": {
+        "name": "Enlace avanzado de disminución de velocidad",
+        "ia": "un",
+        "da": "el",
+        "p": "Enlaces avanzados de disminución de velocidad",
+        "pia": "",
+        "pda": "los",
+        "description": "Enlace avanzado de magia ofensiva de debilidad - Velocidad"
+    },
+    "smo": {
+        "name": "Magia de combate",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de colgante",
+        "p": "Magias de combate",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Magia de combate"
     },
-    "scjra": {
-        "name": "Fabricación avanzada de anillo",
+    "smoa": {
+        "name": "Magia debilitadora",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de anillo",
+        "p": "Magias debilitadoras",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Magia debilitadora"
     },
-    "scm1m": {
-        "name": "Fabricación de porra",
+    "smoaa": {
+        "name": "Magia debilitadora avanzada",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de porra",
+        "p": "Magias debilitadoras avanzadas",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Magia debilitadora avanzada"
     },
-    "scm1t": {
-        "name": "Fabricación de palo",
+    "smoaae": {
+        "name": "Ciencia de magia debilitadora",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de palo",
+        "p": "Ciencias en magia debilitadora",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Ciencia de magia debilitadora"
     },
-    "scm1p": {
-        "name": "Fabricación de pica",
+    "smoaaem": {
+        "name": "Maestría en magia debilitadora",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de pica",
+        "p": "Maestrías en magia debilitadora",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Maestría en magia debilitadora"
     },
-    "scm1a": {
-        "name": "Fabricación de hacha pequeña",
+    "smoe": {
+        "name": "Magia ofensiva",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de hacha pequeña",
+        "p": "Magias ofensivas",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Magia ofensiva"
     },
-    "scm1s": {
-        "name": "Fabricación de espada a una mano",
+    "smoea": {
+        "name": "Magia ofensiva avanzada",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de espada a una mano",
+        "p": "Magias ofensivas avanzadas",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Magia ofensiva avanzada"
     },
-    "scm1d": {
-        "name": "Fabricación de daga",
+    "smoeae": {
+        "name": "Ciencia de magia ofensiva",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de daga",
+        "p": "Ciencias en magia ofensiva",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Ciencia de magia ofensiva"
     },
-    "scm2m": {
-        "name": "Fabricación de maza",
+    "smoeaem": {
+        "name": "Maestría en magia ofensiva",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de maza",
+        "p": "Maestrías en magia ofensiva",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Maestría en magia ofensiva"
     },
-    "scm2p": {
-        "name": "Fabricación de lanza",
+    "sms": {
+        "name": "Magia sobre sí mismo",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de lanza",
+        "p": "Magias sobre sí mismo",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Magia sobre sí mismo"
     },
-    "scm2a": {
-        "name": "Fabricación de hacha grande",
+    "smss": {
+        "name": "Magia personal",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de hacha grande",
+        "p": "Magias personales",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Magia personal"
     },
-    "scm2s": {
-        "name": "Fabricación de espada a dos manos",
+    "smssa": {
+        "name": "Magia personal avanzada",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de espada a dos manos",
+        "p": "Magias personales avanzadas",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Magia personal avanzada"
     },
-    "scr1b": {
-        "name": "Fabricación de ballesta liviana",
+    "smssae": {
+        "name": "Ciencia de magia personal",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de ballesta liviana",
+        "p": "Ciencias en magia personal",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Ciencia de magia personal"
     },
-    "scr1p": {
-        "name": "Fabricación de pistola",
+    "smssaem": {
+        "name": "Maestría en magia personal",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de pistola",
+        "p": "Maestrísa en magia personal",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Maestría en magia personal"
     },
-    "scr2a": {
-        "name": "Fabricación de metralleta",
+    "smt": {
+        "name": "Magia de impacto",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de metralleta",
+        "p": "Magias de impacto",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Magia dirigida"
     },
-    "scr2b": {
-        "name": "Fabricación de ballesta",
+    "smtc": {
+        "name": "Magia de curación",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de ballesta",
+        "p": "Magias de curación",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Magia dirigida de curación"
+    },
+    "smtcb": {
+        "name": "Deshecho de enlace",
+        "ia": "un",
+        "da": "el",
+        "p": "Deshechos de enlace",
+        "pia": "",
+        "pda": "los",
+        "description": "Magia dirigida de curación para el deshecho de enlace"
     },
-    "scr2l": {
-        "name": "Fabricación de lanzagranadas",
+    "smtcbc": {
+        "name": "Maldición de deshecho de enlace",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de lanzagranadas",
+        "p": "Maldiciones de deshecho de enlace",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Magia dirigida de curación para el deshecho de enlace - maldición"
+    },
+    "smtcbd": {
+        "name": "Daño de deshecho de enlace",
+        "ia": "un",
+        "da": "el",
+        "p": "Daños de deshecho de enlace",
+        "pia": "",
+        "pda": "los",
+        "description": "Magia dirigida de curación para el deshecho de enlace - Daño"
     },
-    "scr2r": {
-        "name": "Fabricación de fusil",
+    "smtcbs": {
+        "name": "Enfermedad de deshecho de enlace",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de fusil",
+        "p": "Enfermedades de deshecho de enlace",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Magia dirigida de curación para el deshecho de enlace - Enfermedad"
     },
-    "scahbe": {
-        "name": "Ciencia de fabricación de botas pesadas",
+    "smtch": {
+        "name": "Magia de auxilios",
         "ia": "una",
         "da": "la",
-        "p": "Ciencias de fabricación de botas pesadas",
+        "p": "Magias de auxilioss",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Magia dirigida de curación de auxilios"
     },
-    "scahge": {
-        "name": "Ciencia de fabricación de guantes pesados",
+    "smtcha": {
+        "name": "Magia de auxilios de la savia",
         "ia": "una",
         "da": "la",
-        "p": "Ciencias de fabricación de guantes pesados",
+        "p": "Magias de auxilios de la savia",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Magia dirigida de curación de auxilios - Savia"
     },
-    "scahhe": {
-        "name": "Ciencia de la fabricación de casco pesado",
+    "smtchaa": {
+        "name": "Magia avanzada de auxilios de la savia",
         "ia": "una",
         "da": "la",
-        "p": "Ciencias de la fabricación de casco pesado",
+        "p": "Magias avanzadas de auxilios de la savia",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Magia avanzada dirigida de curación de auxilios - Savia"
     },
-    "scahpe": {
-        "name": "Ciencia de la fabricación de pantalón pesados",
+    "smtchc": {
+        "name": "Magia de auxilios del enfoque",
         "ia": "una",
         "da": "la",
-        "p": "Ciencias de la fabricación de pantalón pesados",
+        "p": "Magias de auxilios del enfoque",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Magia dirigida de curación de auxilios - Enfoque"
     },
-    "scahse": {
-        "name": "Ciencia de la fabricación de mangas pesadas",
+    "smtchca": {
+        "name": "Magia avanzada de auxilios del enfoque",
         "ia": "una",
         "da": "la",
-        "p": "Ciencias de la fabricación de mangas pesadas",
+        "p": "Magias avanzadas de auxilios del enfoque",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Magia avanzada dirigida de curación de auxilios - Enfoque"
     },
-    "scahve": {
-        "name": "Ciencia de la fabricación de chaleco pesado",
+    "smtchp": {
+        "name": "Magia de auxilios de la salud",
         "ia": "una",
         "da": "la",
-        "p": "Ciencias de la fabricación de chaleco pesado",
+        "p": "Magias de auxilios de la salud",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Magia dirigida de curación de auxilios - Puntos de vida"
     },
-    "scalbe": {
-        "name": "Ciencia de la fabricación de botas livianas",
+    "smtchpa": {
+        "name": "Magia avanzada de auxilios de la salud",
         "ia": "una",
         "da": "la",
-        "p": "Ciencias de la fabricación de botas livianas",
+        "p": "Magias avanzadas de auxilios de la salud",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Magia avanzada dirigida de curación de auxilios - Puntos de vida"
     },
-    "scalge": {
-        "name": "Ciencia de la fabricación de guantes livianos",
+    "smtcht": {
+        "name": "Magia de auxilios de la resist.",
         "ia": "una",
         "da": "la",
-        "p": "Ciencias de la fabricación de guantes livianos",
+        "p": "Magias de auxilios de la resist.",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Magia dirigida de curación de auxilios - Resist."
     },
-    "scalpe": {
-        "name": "Ciencia de la fabricación de pantalón livianos",
+    "smtchta": {
+        "name": "Magia avanzada de auxilios de la resist.",
         "ia": "una",
         "da": "la",
-        "p": "Ciencias de la fabricación de pantalón livianos",
+        "p": "Magias avanzadas de auxilios de la resist.",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Magia avanzada dirigida de curación de auxilios - Resist."
     },
-    "scalse": {
-        "name": "Ciencia de la fabricación de mangas livianas",
+    "smtm": {
+        "name": "Proyección mágica",
         "ia": "una",
         "da": "la",
-        "p": "Ciencias de la fabricación de mangas livianas",
+        "p": "Proyecciones mágicas",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Misil mágico dirigido"
     },
-    "scalve": {
-        "name": "Ciencia de la fabricación de chaleco liviano",
+    "smtmb": {
+        "name": "Magia celestial",
         "ia": "una",
         "da": "la",
-        "p": "Ciencias de la fabricación de chaleco liviano",
+        "p": "Magias celestiales",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Misil mágico dirigido - celestial"
     },
-    "scambe": {
-        "name": "Ciencia de la fabricación de botas medianas",
+    "smtmg": {
+        "name": "Magia atysiana",
         "ia": "una",
         "da": "la",
-        "p": "Ciencias de la fabricación de botas medianas",
+        "p": "Magias atysianas",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Misil mágico dirigido - atysiano"
     },
-    "scamge": {
-        "name": "Ciencia de la fabricación de guantes medianos",
+    "smtmr": {
+        "name": "Magia fundamental",
         "ia": "una",
         "da": "la",
-        "p": "Ciencias de la fabricación de guantes medianos",
+        "p": "Magias fundamentales",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Misil mágico dirigido - Fundamental"
     },
-    "scampe": {
-        "name": "Ciencia de la fabricación de pantalón medianos",
+    "smto": {
+        "name": "Magia ofensiva",
         "ia": "una",
         "da": "la",
-        "p": "Ciencias de la fabricación de pantalón medianos",
+        "p": "Magias ofensivas",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Misil mágico dirigido ofensivo"
     },
-    "scamse": {
-        "name": "Ciencia de la fabricación de mangas medianas",
+    "smtod": {
+        "name": "Magia física",
         "ia": "una",
         "da": "la",
-        "p": "Ciencias de la fabricación de mangas medianas",
+        "p": "Magias físicas",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Misil mágico dirigido con daños físicos"
     },
-    "scamve": {
-        "name": "Ciencia de la fabricación de chaleco mediano",
+    "smtodb": {
+        "name": "Magia contundente",
         "ia": "una",
         "da": "la",
-        "p": "Ciencias de la fabricación de chaleco mediano",
+        "p": "Magias contundentes",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Misil mágico dirigido - demoledora"
     },
-    "scasse": {
-        "name": "Ciencia de la fabricación de escudo",
+    "smtodp": {
+        "name": "Magia punzante",
         "ia": "una",
         "da": "la",
-        "p": "Ciencias de la fabricación de escudo",
+        "p": "Magias punzantes",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Misil mágico dirigido - perforación"
     },
-    "scasbe": {
-        "name": "Ciencia de la fabricación de adarga",
+    "smtods": {
+        "name": "Magia cortante",
         "ia": "una",
         "da": "la",
-        "p": "Ciencias de la fabricación de adarga",
+        "p": "Magias cortantes",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Misil mágico dirigido - cuchillada"
     },
-    "scjaae": {
-        "name": "Ciencia de la fabricación de tobillera",
+    "smtoe": {
+        "name": "Magia elemental",
         "ia": "una",
         "da": "la",
-        "p": "Ciencias de la fabricación de tobillera",
+        "p": "Magias elementales",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Misil mágico dirigido elemental"
     },
-    "scjbae": {
-        "name": "Ciencia de la fabricación de brazalete",
+    "smtoea": {
+        "name": "Magia de ácido",
         "ia": "una",
         "da": "la",
-        "p": "Ciencias de la fabricación de brazalete",
+        "p": "Magias de ácido",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Misil mágico dirigido - Ácido"
     },
-    "scjdae": {
-        "name": "Ciencia de la fabricación de diadema",
+    "smtoeaa": {
+        "name": "Magia avanzada de ácido",
         "ia": "una",
         "da": "la",
-        "p": "Ciencias de la fabricación de diadema",
+        "p": "Magias avanzadas de ácido",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Iniciado en misil mágico dirigido - Ácido"
     },
-    "scjeae": {
-        "name": "Ciencia de la fabricación de arete",
+    "smtoec": {
+        "name": "Magia de frío",
         "ia": "una",
         "da": "la",
-        "p": "Ciencias de la fabricación de arete",
+        "p": "Magias de frío",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Misil mágico dirigido - Frío"
     },
-    "scjpae": {
-        "name": "Ciencia de la fabricación de colgante",
+    "smtoeca": {
+        "name": "Magia avanzada de frío",
         "ia": "una",
         "da": "la",
-        "p": "Ciencias de la fabricación de colgante",
+        "p": "Magias avanzadas de frío",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Iniciado en misil mágico dirigido - Frío"
     },
-    "scjrae": {
-        "name": "Ciencia de la fabricación de anillo",
+    "smtoee": {
+        "name": "Magia de electricidad",
         "ia": "una",
         "da": "la",
-        "p": "Ciencias de la fabricación de anillo",
+        "p": "Magias de electricidad",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Misil mágico dirigido - Electricidad"
     },
-    "scm1me": {
-        "name": "Ciencia de la fabricación de porra",
+    "smtoeea": {
+        "name": "Magia avanzada de electricidad",
         "ia": "una",
         "da": "la",
-        "p": "Ciencias de la fabricación de porra",
+        "p": "Magias avanzadas de electricidad",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Iniciado en misil mágico dirigido - Electricidad"
     },
-    "scm1te": {
-        "name": "Ciencia de la fabricación de palo",
+    "smtoef": {
+        "name": "Magia de fuego",
         "ia": "una",
         "da": "la",
-        "p": "Ciencias de la fabricación de palo",
+        "p": "Magias de fuego",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Misil mágico dirigido - Fuego"
     },
-    "scm1pe": {
-        "name": "Ciencia de la fabricación de pica",
+    "smtoefa": {
+        "name": "Magia avanzada de fuego",
         "ia": "una",
         "da": "la",
-        "p": "Ciencias de la fabricación de pica",
+        "p": "Magias avanzadas de fuego",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Iniciado en misil mágico dirigido - Fuego"
     },
-    "scm1ae": {
-        "name": "Ciencia de la fabricación de hacha pequeña",
+    "smtoep": {
+        "name": "Magia de veneno",
         "ia": "una",
         "da": "la",
-        "p": "Ciencias de la fabricación de hacha pequeña",
+        "p": "Magias de veneno",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Misil mágico dirigido - Veneno"
     },
-    "scm1se": {
-        "name": "Ciencia de la fabricación de espada a una mano",
+    "smtoepa": {
+        "name": "Magia avanzada de veneno",
         "ia": "una",
         "da": "la",
-        "p": "Ciencias de la fabricación de espada a una mano",
+        "p": "Magias avanzadas de veneno",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Iniciado en misil mágico dirigido - Veneno"
     },
-    "scm1de": {
-        "name": "Ciencia de la fabricación de daga",
+    "smtoer": {
+        "name": "Magia de pudrición",
         "ia": "una",
         "da": "la",
-        "p": "Ciencias de la fabricación de daga",
+        "p": "Magias de pudrición",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Misil mágico dirigido - Pudrición"
     },
-    "scm2me": {
-        "name": "Ciencia de la fabricación de maza",
+    "smtoera": {
+        "name": "Magia avanzada de pudrición",
         "ia": "una",
         "da": "la",
-        "p": "Ciencias de la fabricación de maza",
+        "p": "Magias avanzadas de pudrición",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Iniciado en misil mágico dirigido - Pudrición"
     },
-    "scm2pe": {
-        "name": "Ciencia de la fabricación de lanza",
+    "smtoes": {
+        "name": "Magia de onda de choque",
         "ia": "una",
         "da": "la",
-        "p": "Ciencias de la fabricación de lanza",
+        "p": "Magias de onda de choque",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Misil mágico dirigido - Onda de choque"
     },
-    "scm2ae": {
-        "name": "Ciencia de la fabricación de hacha grande",
+    "smtoesa": {
+        "name": "Magia avanzada de onda de choque",
         "ia": "una",
         "da": "la",
-        "p": "Ciencias de la fabricación de hacha grande",
+        "p": "Magias avanzadas de onda de choque",
         "pia": "",
         "pda": "las",
-        "description": ""
+        "description": "Iniciado en misil mágico dirigido - Onda de choque"
     },
-    "scm2se": {
-        "name": "Ciencia de la fabricación de espada a dos manos",
-        "ia": "una",
+    "spear": {
+        "name": "Lanza",
+        "ia": "un",
         "da": "la",
-        "p": "Ciencias de la fabricación de espada a dos manos",
+        "p": "Lanzas",
         "pia": "",
         "pda": "las",
         "description": ""
     },
-    "scr1be": {
-        "name": "Ciencia de la fabricación de ballesta liviana",
+    "spelldeletion": {
+        "name": "Cancelación del Hechizo",
         "ia": "una",
         "da": "la",
-        "p": "Ciencias de la fabricación de ballesta liviana",
+        "p": "Cancelación de los Hechizos",
         "pia": "",
         "pda": "las",
         "description": ""
     },
-    "scr1pe": {
-        "name": "Ciencia de la fabricación de pistola",
-        "ia": "una",
-        "da": "la",
-        "p": "Ciencias de la fabricación de pistola",
+    "spellprotect": {
+        "name": "Protección contra un Hechizo",
+        "ia": "un",
+        "da": "el",
+        "p": "Protección contra los Hechizos",
         "pia": "",
         "pda": "las",
         "description": ""
     },
-    "scr2ae": {
-        "name": "Ciencia de la fabricación de metralleta",
-        "ia": "una",
-        "da": "la",
-        "p": "Ciencias de la fabricación de metralleta",
+    "spurtingfire": {
+        "name": "Brote de Fuego",
+        "ia": "un",
+        "da": "el",
+        "p": "Brotes de Fuego",
         "pia": "",
-        "pda": "las",
+        "pda": "los",
         "description": ""
     },
-    "scr2be": {
-        "name": "Ciencia de la fabricación de ballesta",
-        "ia": "una",
-        "da": "la",
-        "p": "Ciencias de la fabricación de ballesta",
+    "squandering": {
+        "name": "Desperdicio",
+        "ia": "un",
+        "da": "el",
+        "p": "Desperdicios",
         "pia": "",
-        "pda": "las",
+        "pda": "los",
         "description": ""
     },
-    "scr2le": {
-        "name": "Ciencia de la fabricación de lanzagranadas",
-        "ia": "una",
-        "da": "la",
-        "p": "Ciencias de la fabricación de lanzagranadas",
+    "stallsetup": {
+        "name": "Establecimiento de puesto",
+        "ia": "un",
+        "da": "el",
+        "p": "Establecimiento de puestos",
         "pia": "",
-        "pda": "las",
+        "pda": "los",
         "description": ""
     },
-    "scr2re": {
-        "name": "Ciencia de la fabricación de fusil",
-        "ia": "una",
-        "da": "la",
-        "p": "Ciencias de la fabricación de fusil",
+    "stealbreath": {
+        "name": "Robando Aliento",
+        "ia": "un",
+        "da": "el",
+        "p": "Robando Alientos",
         "pia": "",
-        "pda": "las",
+        "pda": "el",
         "description": ""
     },
-    "scahbem": {
-        "name": "Maestría en la fabricación de botas pesadas",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en la fabricación de botas pesadas",
+    "steallife": {
+        "name": "Robo de Vida",
+        "ia": "un",
+        "da": "el",
+        "p": "Robo de Vidas",
         "pia": "",
-        "pda": "las",
+        "pda": "el",
         "description": ""
     },
-    "scahgem": {
-        "name": "Maestría en la fabricación de guantes pesados",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en la fabricación de guantes pesados",
+    "stealsap": {
+        "name": "Robo de Savia",
+        "ia": "un",
+        "da": "el",
+        "p": "Robo de Savia",
         "pia": "",
-        "pda": "las",
+        "pda": "el",
         "description": ""
     },
-    "scahhem": {
-        "name": "Maestría en la fabricación de casco pesado",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en la fabricación de casco pesado",
+    "stick": {
+        "name": "Pentagrama",
+        "ia": "un",
+        "da": "el",
+        "p": "Pentagramas",
         "pia": "",
-        "pda": "las",
+        "pda": "los",
         "description": ""
     },
-    "scahpem": {
-        "name": "Maestría en la fabricación de pantalón pesado",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en la fabricación de pantalón pesado",
+    "strenghtgift": {
+        "name": "Regalo de Fuerza",
+        "ia": "un",
+        "da": "el",
+        "p": "Regalos de Fuerza",
         "pia": "",
-        "pda": "las",
+        "pda": "los",
         "description": ""
     },
-    "scahsem": {
-        "name": "Maestría en la fabricación de mangas pesadas",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en la fabricación de mangas pesadas",
+    "swimming": {
+        "name": "Nado",
+        "ia": "un",
+        "da": "el",
+        "p": "Nados",
         "pia": "",
-        "pda": "las",
+        "pda": "los",
         "description": ""
     },
-    "scahvem": {
-        "name": "Maestría en la fabricación de chaleco pesado",
+    "sword": {
+        "name": "Espada",
         "ia": "una",
         "da": "la",
-        "p": "Maestrías en la fabricación de chaleco pesado",
+        "p": "Espadas",
         "pia": "",
         "pda": "las",
         "description": ""
     },
-    "scalbem": {
-        "name": "Maestría en la fabricación de botas livianas",
+    "sylphicslide": {
+        "name": "Diapositiva de Silfide",
         "ia": "una",
         "da": "la",
-        "p": "Maestrías en la fabricación de botas livianas",
+        "p": "Diapositiva de Silfide",
         "pia": "",
         "pda": "las",
         "description": ""
     },
-    "scalgem": {
-        "name": "Maestría en la fabricación de guantes livianos",
+    "sylve": {
+        "name": "Sylve",
         "ia": "una",
         "da": "la",
-        "p": "Maestrías en la fabricación de guantes livianos",
+        "p": "Sylves",
         "pia": "",
         "pda": "las",
         "description": ""
     },
-    "scalpem": {
-        "name": "Maestría en la fabricación de pantalón liviano",
+    "tactilewithering": {
+        "name": "Marchitez táctil",
         "ia": "una",
         "da": "la",
-        "p": "Maestrías en la fabricación de pantalón liviano",
+        "p": "Marchiteces Táctiles",
         "pia": "",
         "pda": "las",
         "description": ""
     },
-    "scalsem": {
-        "name": "Maestría en la fabricación de mangas livianas",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en la fabricación de mangas livianas",
+    "target": {
+        "name": "Objetivo",
+        "ia": "un",
+        "da": "el",
+        "p": "Objetivos",
         "pia": "",
-        "pda": "las",
+        "pda": "los",
         "description": ""
     },
-    "scalvem": {
-        "name": "Maestría en la fabricación de chaleco liviano",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en la fabricación de chaleco liviano",
+    "terror": {
+        "name": "Terror",
+        "ia": "un",
+        "da": "el",
+        "p": "Terrores",
         "pia": "",
-        "pda": "las",
+        "pda": "los",
         "description": ""
     },
-    "scambem": {
-        "name": "Maestría en la fabricación de botas medianas",
+    "tirednessalchemy": {
+        "name": "Alquimia del Cansancio",
         "ia": "una",
         "da": "la",
-        "p": "Maestrías en la fabricación de botas medianas",
+        "p": "Alquimias del Cansancio",
         "pia": "",
         "pda": "las",
         "description": ""
     },
-    "scamgem": {
-        "name": "Maestría en la fabricación de guantes medianos",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en la fabricación de guantes medianos",
+    "tracking": {
+        "name": "Rastreo",
+        "ia": "un",
+        "da": "el",
+        "p": "Rastreos\/Seguimientos",
         "pia": "",
-        "pda": "las",
+        "pda": "los",
         "description": ""
     },
-    "scampem": {
-        "name": "Maestría en la fabricación de pantalón medianos",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en la fabricación de pantalón medianos",
+    "tradingcenterknowledge": {
+        "name": "Conocimiento del Centro de comercio",
+        "ia": "un",
+        "da": "el",
+        "p": "Conocimientos del Centro de comercio",
         "pia": "",
-        "pda": "las",
+        "pda": "los",
         "description": ""
     },
-    "scamsem": {
-        "name": "Maestría en la fabricación de mangas medianas",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en la fabricación de mangas medianas",
+    "trainingagility": {
+        "name": "Entrenamiento de agilidad",
+        "ia": "un",
+        "da": "el",
+        "p": "Entrenamiento de agilidades",
         "pia": "",
-        "pda": "las",
+        "pda": "los",
         "description": ""
     },
-    "scamvem": {
-        "name": "Maestría en la fabricación de chaleco mediano",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en la fabricación de chaleco mediano",
+    "traininganimal": {
+        "name": "Adiestramiento Animal",
+        "ia": "un",
+        "da": "el",
+        "p": "Adiestramiento de animales",
         "pia": "",
-        "pda": "las",
+        "pda": "los",
         "description": ""
     },
-    "scassem": {
-        "name": "Maestría en la fabricación de escudo",
+    "trainingcharisme": {
+        "name": "Formación de carisma",
         "ia": "una",
         "da": "la",
-        "p": "Maestrías en la fabricación de escudo",
+        "p": "Formación de carismas",
         "pia": "",
         "pda": "las",
         "description": ""
     },
-    "scasbem": {
-        "name": "Maestría en la fabricación de adarga",
+    "trainingconstitution": {
+        "name": "Constitución de entrenamiento",
         "ia": "una",
         "da": "la",
-        "p": "Maestrías en la fabricación de adarga",
+        "p": "Constituciones de entrenamiento",
         "pia": "",
         "pda": "las",
         "description": ""
     },
-    "scjaaem": {
-        "name": "Maestría en la fabricación de tobillera",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en la fabricación de tobillera",
+    "trainingdiseaseresist": {
+        "name": "Entrenamiento para la Resistencia a la Enfermedad",
+        "ia": "un",
+        "da": "el",
+        "p": "Entrenamiento para la Resistencia a las Enfermedades",
         "pia": "",
-        "pda": "lsa",
+        "pda": "el",
         "description": ""
     },
-    "scjbaem": {
-        "name": "Maestría en la fabricación de brazalete",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías e la fabricación de brazalete",
+    "trainingempathie": {
+        "name": "Entrenamiento de la Empatía",
+        "ia": "un",
+        "da": "el",
+        "p": "Entrenamiento de las Empatías",
         "pia": "",
-        "pda": "las",
+        "pda": "el",
         "description": ""
     },
-    "scjdaem": {
-        "name": "Maestría en la fabricación de diadema",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en la fabricación de diadema",
+    "trainingfearresist": {
+        "name": "Entrenamiento de resistencia al miedo",
+        "ia": "un",
+        "da": "el",
+        "p": "Entrenamiento de resistencias al miedo",
         "pia": "",
-        "pda": "las",
+        "pda": "el",
         "description": ""
     },
-    "scjeaem": {
-        "name": "Maestría en la fabricación de arete",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en la fabricación de arete",
+    "traininghp": {
+        "name": "Entrenamiento de puntos de golpe 1",
+        "ia": "",
+        "da": "",
+        "p": "Entrenamiento de puntos de golpe 1",
         "pia": "",
-        "pda": "las",
+        "pda": "",
         "description": ""
     },
-    "scjpaem": {
-        "name": "Maestría en la fabricación de colgante",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en la fabricación de colgante",
+    "traininghp2": {
+        "name": "Entrenamiento de puntos de golpe 2",
+        "ia": "",
+        "da": "",
+        "p": "Entrenamiento de puntos de golpe 2",
         "pia": "",
-        "pda": "las",
+        "pda": "",
         "description": ""
     },
-    "scjraem": {
-        "name": "Maestría en la fabricación de anillo",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en la fabricación de anillo",
+    "traininghp3": {
+        "name": "Entrenamiento de puntos de golpe 3",
+        "ia": "",
+        "da": "",
+        "p": "Entrenamiento de puntos de golpe 3",
         "pia": "",
-        "pda": "las",
+        "pda": "",
         "description": ""
     },
-    "scm1mem": {
-        "name": "Maestría en la fabricación de porra",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en la fabricación de porra",
+    "traininghp4": {
+        "name": "Entrenamiento de puntos de golpe 4",
+        "ia": "",
+        "da": "",
+        "p": "Entrenamiento de puntos de golpe 4",
         "pia": "",
-        "pda": "las",
+        "pda": "",
         "description": ""
     },
-    "scm1tem": {
-        "name": "Maestría en la fabricación de palo",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en la fabricación de palo",
+    "trainingimpactresist": {
+        "name": "Entrenamiento de la Resistencia al Impacto",
+        "ia": "un",
+        "da": "el",
+        "p": "Entrenamiento de la Resistencias al Impacto",
         "pia": "",
-        "pda": "las",
+        "pda": "el",
         "description": ""
     },
-    "scm1pem": {
-        "name": "Maestría en la fabricación de pica",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en la fabricación de pica",
+    "trainingimpactresist2": {
+        "name": "Entrenamiento para Resistir el Impacto 2",
+        "ia": "un",
+        "da": "el",
+        "p": "Entrenamiento para Resistir los Impactos 2",
         "pia": "",
-        "pda": "las",
+        "pda": "el",
         "description": ""
     },
-    "scm1aem": {
-        "name": "Maestría en la fabricación de hacha pequeña",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en la fabricación de hacha pequeña",
+    "trainingimpactresist3": {
+        "name": "Entrenamiento para Resistir el Impacto 3",
+        "ia": "un",
+        "da": "el",
+        "p": "Entrenamiento para Resistir el Impacto 3",
         "pia": "",
-        "pda": "las",
+        "pda": "el",
         "description": ""
     },
-    "scm1sem": {
-        "name": "Maestría en la fabricación de espada a una mano",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en la fabricación de espada a una mano",
+    "trainingintelligence": {
+        "name": "Entrenamiento de la Inteligencia",
+        "ia": "un",
+        "da": "el",
+        "p": "Entrenamiento de la Inteligencia",
         "pia": "",
-        "pda": "las",
+        "pda": "el",
         "description": ""
     },
-    "scm1dem": {
-        "name": "Maestría en la fabricación de daga",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en la fabricación de daga",
+    "trainingmagicresist": {
+        "name": "Entrenamiento de la Resistencia a la magia",
+        "ia": "un",
+        "da": "el",
+        "p": "Entrenamiento de las Resistencias a la magia",
         "pia": "",
-        "pda": "las",
+        "pda": "el",
         "description": ""
     },
-    "scm2mem": {
-        "name": "Maestría en la fabricación de maza",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en la fabricación de maza",
+    "trainingmagicresist2": {
+        "name": "Entrenamiento para Resistir a la magia 2",
+        "ia": "un",
+        "da": "el",
+        "p": "Entrenamiento para Resistir a la magia 3",
         "pia": "",
-        "pda": "las",
+        "pda": "el",
         "description": ""
     },
-    "scm2pem": {
-        "name": "Maestría en la fabricación de lanza",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en la fabricación de lanza",
+    "trainingmagicresist3": {
+        "name": "Entrenamiento para Resistir a la magia 3",
+        "ia": "un",
+        "da": "el",
+        "p": "Entrenamiento para Resistir a la magia 3",
         "pia": "",
-        "pda": "las",
+        "pda": "el",
         "description": ""
     },
-    "scm2aem": {
-        "name": "Maestría en la fabricación de hacha grande",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en la fabricación de hacha grande",
+    "trainingperception": {
+        "name": "Entrenamiento de la Percepción",
+        "ia": "un",
+        "da": "el",
+        "p": "Entrenamiento de las Percepciones",
         "pia": "",
-        "pda": "las",
+        "pda": "los",
         "description": ""
     },
-    "scm2sem": {
-        "name": "Maestría en la fabricación de espada a dos manos",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en la fabricación de espada a dos manos",
+    "trainingseve": {
+        "name": "Entrenamiento de la Savia",
+        "ia": "",
+        "da": "",
+        "p": "Entrenamiento de la Savia",
         "pia": "",
-        "pda": "las",
+        "pda": "",
         "description": ""
     },
-    "scr1bem": {
-        "name": "Maestría en la fabricación de ballesta liviana",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en la fabricación de ballesta liviana",
+    "trainingseve2": {
+        "name": "Entrenamiento de la Savia 2",
+        "ia": "",
+        "da": "",
+        "p": "Entrenamiento de la Savia 2",
         "pia": "",
-        "pda": "las",
+        "pda": "",
         "description": ""
     },
-    "scr1pem": {
-        "name": "Maestría en la fabricación de pistola",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en la fabricación de pistola",
+    "trainingseve3": {
+        "name": "Entrenamiento de la Savia 3",
+        "ia": "",
+        "da": "",
+        "p": "Entrenamiento de la Savia 3",
         "pia": "",
-        "pda": "las",
+        "pda": "",
         "description": ""
     },
-    "scr2aem": {
-        "name": "Maestría en la fabricación de metralleta",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en la fabricación de metralleta",
+    "trainingseve4": {
+        "name": "Entrenamiento de la Savia 4",
+        "ia": "",
+        "da": "",
+        "p": "Entrenamiento de la Savia 4",
         "pia": "",
-        "pda": "las",
+        "pda": "",
         "description": ""
     },
-    "scr2bem": {
-        "name": "Maestría en la fabricación de ballesta",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en la fabricación de ballesta",
+    "trainingstamina": {
+        "name": "Entrenamiento de la Resistencia",
+        "ia": "un",
+        "da": "el",
+        "p": "Entrenamiento de la Resistencia",
         "pia": "",
-        "pda": "las",
+        "pda": "el",
         "description": ""
     },
-    "scr2lem": {
-        "name": "Maestría en la fabricación de lanzagranadas",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en la fabricación de lanzagranadas",
+    "trainingstamina2": {
+        "name": "Entrenamiento de la Resistencia 2",
+        "ia": "un",
+        "da": "el",
+        "p": "Entrenamiento de la Resistencia 2",
+        "pia": "",
+        "pda": "",
+        "description": ""
+    },
+    "trainingstamina3": {
+        "name": "Entrenamiento de la Resistencia 3",
+        "ia": "un",
+        "da": "el",
+        "p": "Entrenamiento de la Resistencia 3",
+        "pia": "",
+        "pda": "",
+        "description": ""
+    },
+    "trainingstamina4": {
+        "name": "Entrenamiento de la Resistencia 4",
+        "ia": "un",
+        "da": "el",
+        "p": "Entrenamiento de la Resistencia 4",
+        "pia": "",
+        "pda": "",
+        "description": ""
+    },
+    "trainingstrength": {
+        "name": "Entrenamiento de la Fuerza",
+        "ia": "un",
+        "da": "el",
+        "p": "Entrenamientos de las Fuerzas",
+        "pia": "",
+        "pda": "los",
+        "description": ""
+    },
+    "trainingtechnoresist": {
+        "name": "Entrenamiento de la Tecno Resistencia",
+        "ia": "un",
+        "da": "el",
+        "p": "Entrenamientos de las Tecno Resistencias",
+        "pia": "",
+        "pda": "los",
+        "description": ""
+    },
+    "trainingwellbalanced": {
+        "name": "Entrenamiento del Buen Equilibrio",
+        "ia": "un",
+        "da": "el",
+        "p": "Entrenamiento del Buen Equilibrio",
+        "pia": "",
+        "pda": "el",
+        "description": ""
+    },
+    "trainingwill": {
+        "name": "Entrenamiento de la Voluntad",
+        "ia": "un",
+        "da": "el",
+        "p": "Entrenamiento de la Voluntad",
+        "pia": "",
+        "pda": "el",
+        "description": ""
+    },
+    "tryker": {
+        "name": "Tryker",
+        "ia": "un",
+        "da": "el",
+        "p": "Trykers",
         "pia": "",
+        "pda": "los",
+        "description": ""
+    },
+    "trykergoods": {
+        "name": "Mercancías Tryker",
+        "ia": "",
+        "da": "",
+        "p": "Mercancías Trykers",
+        "pia": "",
         "pda": "las",
+        "description": ""
+    },
+    "trykermystery": {
+        "name": "Misterio Tryker",
+        "ia": "un",
+        "da": "el",
+        "p": "Misterios Trykers",
+        "pia": "",
+        "pda": "los",
+        "description": ""
+    },
+    "twohandedcombat": {
+        "name": "Combate a Dos manos",
+        "ia": "un",
+        "da": "el",
+        "p": "Combates a Dos manos",
+        "pia": "",
+        "pda": "los",
         "description": ""
     },
-    "scr2rem": {
-        "name": "Maestría en la fabricación de fusil",
+    "twohandssword": {
+        "name": "Espadas de dos manos",
         "ia": "una",
         "da": "la",
-        "p": "Maestrías en la fabricación de fusil",
+        "p": "Espadas de dos manos",
         "pia": "",
         "pda": "las",
+        "description": ""
+    },
+    "uknown": {
+        "name": "Habilidad Desconocida",
+        "ia": "",
+        "da": "",
+        "p": "Habilidades Desconocidas",
+        "pia": "",
+        "pda": "",
+        "description": "Habilidad Desconocida"
+    },
+    "underwaterextract": {
+        "name": "Extracto Submarino",
+        "ia": "un",
+        "da": "el",
+        "p": "Extractos Submarinos",
+        "pia": "",
+        "pda": "los",
         "description": ""
+    },
+    "unknown": {
+        "name": "Habilidad Desconocida",
+        "ia": "",
+        "da": "",
+        "p": "Habilidades Desconocidas",
+        "pia": "",
+        "pda": "",
+        "description": "Habilidad Desconocida"
     },
-    "scmc": {
-        "name": "Fabricación de amplificador mágico",
+    "visualwithering": {
+        "name": "Marchitez Visual",
         "ia": "una",
         "da": "la",
-        "p": "Fabricaciones de amplificador mágico",
+        "p": "Marchiteces Visuales",
         "pia": "",
         "pda": "las",
         "description": ""
     },
-    "scmca": {
-        "name": "Fabricación avanzada de amplificador mágico",
-        "ia": "una",
-        "da": "la",
-        "p": "Fabricaciones avanzadas de amplificador mágico",
+    "vitalburst": {
+        "name": "Estallido Vital",
+        "ia": "un",
+        "da": "el",
+        "p": "Estallidos Vitales",
+        "pia": "",
+        "pda": "los",
+        "description": ""
+    },
+    "warriorgift": {
+        "name": "Regalo de guerrero",
+        "ia": "un",
+        "da": "el",
+        "p": "Regalos de guerreros",
         "pia": "",
+        "pda": "los",
+        "description": ""
+    },
+    "weaponscutting": {
+        "name": "Cortaduras de armas",
+        "ia": "unas",
+        "da": "las",
+        "p": "Cortaduras de armas",
+        "pia": "",
         "pda": "las",
         "description": ""
     },
-    "scmcae": {
-        "name": "Ciencia de la fabricación de amplificador mágico",
+    "windarmor": {
+        "name": "Armadura de Viento",
         "ia": "una",
         "da": "la",
-        "p": "Ciencias de la fabricación de amplificador mágico",
+        "p": "Armaduras de Viento",
         "pia": "",
         "pda": "las",
         "description": ""
     },
-    "scmcaem": {
-        "name": "Maestría en la fabricación de amplificador mágico",
-        "ia": "una",
-        "da": "la",
-        "p": "Maestrías en la fabricación de amplificador mágico",
+    "windgift": {
+        "name": "Regalo de Viento",
+        "ia": "un",
+        "da": "el",
+        "p": "Regalos de Viento",
+        "pia": "",
+        "pda": "los",
+        "description": ""
+    },
+    "windshear": {
+        "name": "Esquilado del Viento",
+        "ia": "un",
+        "da": "el",
+        "p": "Esquilados del Viento",
+        "pia": "",
+        "pda": "los",
+        "description": ""
+    },
+    "zorai": {
+        "name": "Zoraï",
+        "ia": "un",
+        "da": "el",
+        "p": "Zoraïs",
         "pia": "",
+        "pda": "los",
+        "description": ""
+    },
+    "zoraigoods": {
+        "name": "Mercancías Zoraï",
+        "ia": "",
+        "da": "",
+        "p": "Mercancías Zoraï",
+        "pia": "",
         "pda": "las",
+        "description": ""
+    },
+    "zoraimystery": {
+        "name": "Misterio Zoraï",
+        "ia": "un",
+        "da": "el",
+        "p": "Misterios Zoraï",
+        "pia": "",
+        "pda": "los",
         "description": ""
     }
 }

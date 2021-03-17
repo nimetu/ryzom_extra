@@ -1,15 +1,15 @@
 {
+    "focus": {
+        "name": "Concentración",
+        "point": "Punto de Concentración",
+        "ia": "un",
+        "points": "Puntos de Concentración"
+    },
     "hitpoints": {
         "name": "Salud",
         "point": "Punto de Salud",
         "ia": "un",
         "points": "Puntos de Salud"
-    },
-    "stamina": {
-        "name": "Resistencia",
-        "point": "Punto de Resistencia",
-        "ia": "un",
-        "points": "Puntos de Resistencia"
     },
     "sap": {
         "name": "Savia",
@@ -17,10 +17,10 @@
         "ia": "un",
         "points": "Puntos de Savia"
     },
-    "focus": {
-        "name": "Concentración",
-        "point": "Punto de Concentración",
+    "stamina": {
+        "name": "Resistencia",
+        "point": "Punto de Resistencia",
         "ia": "un",
-        "points": "Puntos de Concentración"
+        "points": "Puntos de Resistencia"
     }
 }

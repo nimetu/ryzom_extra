@@ -1,36 +1,4 @@
 {
-    "fyros": {
-        "name": "Fyros",
-        "da": "the",
-        "ia": "\\d",
-        "member": "Fyros",
-        "mda": "the",
-        "mia": "a"
-    },
-    "matis": {
-        "name": "Matis",
-        "da": "the",
-        "ia": "\\d",
-        "member": "Matis",
-        "mda": "the",
-        "mia": "a"
-    },
-    "tryker": {
-        "name": "Tryker",
-        "da": "the",
-        "ia": "\\d",
-        "member": "Tryker",
-        "mda": "the",
-        "mia": "a"
-    },
-    "zorai": {
-        "name": "Zoraï",
-        "da": "the",
-        "ia": "\\d",
-        "member": "Zoraï",
-        "mda": "the",
-        "mia": "a"
-    },
     "bandit": {
         "name": "Bandit",
         "da": "the",
@@ -39,19 +7,19 @@
         "mda": "the",
         "mia": "a"
     },
-    "civil": {
-        "name": "Civil",
-        "da": "the",
-        "ia": "\\d",
-        "member": "Civil",
-        "mda": "the",
-        "mia": "a"
-    },
     "black_kami": {
         "name": "Marauder",
         "da": "the",
         "ia": "a",
         "member": "Marauder",
+        "mda": "the",
+        "mia": "a"
+    },
+    "civil": {
+        "name": "Civil",
+        "da": "the",
+        "ia": "\\d",
+        "member": "Civil",
         "mda": "the",
         "mia": "a"
     },
@@ -95,6 +63,14 @@
         "mda": "the",
         "mia": "a"
     },
+    "fyros": {
+        "name": "Fyros",
+        "da": "the",
+        "ia": "\\d",
+        "member": "Fyros",
+        "mda": "the",
+        "mia": "a"
+    },
     "goo": {
         "name": "Goo",
         "da": "the",
@@ -124,6 +100,14 @@
         "da": "the",
         "ia": "\\d",
         "member": "Kitin",
+        "mda": "the",
+        "mia": "a"
+    },
+    "matis": {
+        "name": "Matis",
+        "da": "the",
+        "ia": "\\d",
+        "member": "Matis",
         "mda": "the",
         "mia": "a"
     },
@@ -532,6 +516,22 @@
         "da": "the",
         "ia": "\\d",
         "member": "Woven Bridle",
+        "mda": "the",
+        "mia": "a"
+    },
+    "tryker": {
+        "name": "Tryker",
+        "da": "the",
+        "ia": "\\d",
+        "member": "Tryker",
+        "mda": "the",
+        "mia": "a"
+    },
+    "zorai": {
+        "name": "Zoraï",
+        "da": "the",
+        "ia": "\\d",
+        "member": "Zoraï",
         "mda": "the",
         "mia": "a"
     }

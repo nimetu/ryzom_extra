@@ -1,4 +1,24 @@
 {
+    "free_squad_light_melee_fighter_b": {
+        "name": "Milizentruppe",
+        "description": "Eine Truppe von acht Söldnern, die aus Kämpfern und Heilern besteht, die mit schnellen Waffen und leichten Rüstungen ausgerüstet sind."
+    },
+    "free_squad_light_melee_fighter_c": {
+        "name": "Milizentruppe",
+        "description": "Eine Truppe von acht Söldnern, die aus Kämpfern und Heilern besteht, die mit schnellen Waffen und leichten Rüstungen ausgerüstet sind."
+    },
+    "free_squad_light_melee_fighter_d": {
+        "name": "Milizentruppe",
+        "description": "Eine Truppe von acht Söldnern, die aus Kämpfern und Heilern besteht, die mit schnellen Waffen und leichten Rüstungen ausgerüstet sind."
+    },
+    "free_squad_light_melee_fighter_e": {
+        "name": "Milizentruppe",
+        "description": "Eine Truppe von acht Söldnern, die aus Kämpfern und Heilern besteht, die mit schnellen Waffen und leichten Rüstungen ausgerüstet sind."
+    },
+    "free_squad_light_melee_fighter_f": {
+        "name": "Milizentruppe",
+        "description": "Eine Truppe von acht Söldnern, die aus Kämpfern und Heilern besteht, die mit schnellen Waffen und leichten Rüstungen ausgerüstet sind."
+    },
     "marauder_light_melee_fighter_b": {
         "name": "Marodeur-Kriegertruppe",
         "description": ""
@@ -17,26 +37,6 @@
     },
     "marauder_light_melee_fighter_f": {
         "name": "Marodeur-Kriegertruppe",
-        "description": ""
-    },
-    "marauder_light_range_fighter_b": {
-        "name": "Marodeur-Fernkampftruppe",
-        "description": ""
-    },
-    "marauder_light_range_fighter_c": {
-        "name": "Marodeur-Fernkampftruppe",
-        "description": ""
-    },
-    "marauder_light_range_fighter_d": {
-        "name": "Marodeur-Fernkampftruppe",
-        "description": ""
-    },
-    "marauder_light_range_fighter_e": {
-        "name": "Marodeur-Fernkampftruppe",
-        "description": ""
-    },
-    "marauder_light_range_fighter_f": {
-        "name": "Marodeur-Fernkampftruppe",
         "description": ""
     },
     "marauder_light_mixed_fighter_b": {
@@ -59,65 +59,25 @@
         "name": "Marodeur-Kampftruppe",
         "description": ""
     },
-    "free_squad_light_melee_fighter_b": {
-        "name": "Milizentruppe",
-        "description": "Eine Truppe von acht Söldnern, die aus Kämpfern und Heilern besteht, die mit schnellen Waffen und leichten Rüstungen ausgerüstet sind."
+    "marauder_light_range_fighter_b": {
+        "name": "Marodeur-Fernkampftruppe",
+        "description": ""
     },
-    "free_squad_light_melee_fighter_c": {
-        "name": "Milizentruppe",
-        "description": "Eine Truppe von acht Söldnern, die aus Kämpfern und Heilern besteht, die mit schnellen Waffen und leichten Rüstungen ausgerüstet sind."
+    "marauder_light_range_fighter_c": {
+        "name": "Marodeur-Fernkampftruppe",
+        "description": ""
     },
-    "free_squad_light_melee_fighter_d": {
-        "name": "Milizentruppe",
-        "description": "Eine Truppe von acht Söldnern, die aus Kämpfern und Heilern besteht, die mit schnellen Waffen und leichten Rüstungen ausgerüstet sind."
+    "marauder_light_range_fighter_d": {
+        "name": "Marodeur-Fernkampftruppe",
+        "description": ""
     },
-    "free_squad_light_melee_fighter_e": {
-        "name": "Milizentruppe",
-        "description": "Eine Truppe von acht Söldnern, die aus Kämpfern und Heilern besteht, die mit schnellen Waffen und leichten Rüstungen ausgerüstet sind."
+    "marauder_light_range_fighter_e": {
+        "name": "Marodeur-Fernkampftruppe",
+        "description": ""
     },
-    "free_squad_light_melee_fighter_f": {
-        "name": "Milizentruppe",
-        "description": "Eine Truppe von acht Söldnern, die aus Kämpfern und Heilern besteht, die mit schnellen Waffen und leichten Rüstungen ausgerüstet sind."
-    },
-    "outpost_squad_light_melee_fighter_b": {
-        "name": "Kampftruppe",
-        "description": "Eine Truppe von acht Lehrlingssöldnern mit Kämpfern und zwei Heilern, die mit schnellen Waffen und leichten Rüstungen ausgerüstet sind."
-    },
-    "outpost_squad_light_melee_fighter_c": {
-        "name": "Kampftruppe",
-        "description": "Eine Truppe von acht bestätigten Söldnern mit Kämpfern und zwei Heilern, die mit schnellen Waffen und leichten Rüstungen ausgerüstet sind."
-    },
-    "outpost_squad_light_melee_fighter_d": {
-        "name": "Kampftruppe",
-        "description": "Eine Truppe von acht erfahrenen Söldnern mit Kämpfern und zwei Heilern, die mit schnellen Waffen und leichten Rüstungen ausgerüstet sind."
-    },
-    "outpost_squad_light_melee_fighter_e": {
-        "name": "Kampftruppe",
-        "description": "Eine Truppe von acht Expertensöldnern mit Kämpfern und zwei Heilern, die mit schnellen Waffen und leichten Rüstungen ausgerüstet sind."
-    },
-    "outpost_squad_light_melee_fighter_f": {
-        "name": "Kampftruppe",
-        "description": "Eine Truppe von acht Meistersöldnern mit Kämpfern und zwei Heilern, die mit schnellen Waffen und leichten Rüstungen ausgerüstet sind."
-    },
-    "outpost_squad_medium_melee_fighter_b": {
-        "name": "Kampftruppe",
-        "description": "Eine Truppe von acht Lehrlingssöldnern bestehend aus Kämpfern in mittleren Rüstungen, die mit leichten Waffen und teilweise mit einem Schild ausgerüstet sind, sowie einem Heiler."
-    },
-    "outpost_squad_medium_melee_fighter_c": {
-        "name": "Kampftruppe",
-        "description": "Eine Truppe von acht bestätigten Söldnern bestehend aus Kämpfern in mittleren Rüstungen, die mit leichten Waffen und teilweise mit einem Schild ausgerüstet sind, sowie einem Heiler."
-    },
-    "outpost_squad_medium_melee_fighter_d": {
-        "name": "Kampftruppe",
-        "description": "Eine Truppe von acht erfahrenen Söldnern bestehend aus Kämpfern in mittleren Rüstungen, die mit leichten Waffen und teilweise mit einem Schild ausgerüstet sind, sowie einem Heiler."
-    },
-    "outpost_squad_medium_melee_fighter_e": {
-        "name": "Kampftruppe",
-        "description": "Eine Truppe von acht Expertensöldnern bestehend aus Kämpfern in mittleren Rüstungen, die mit leichten Waffen und teilweise mit einem Schild ausgerüstet sind, sowie einem Heiler."
-    },
-    "outpost_squad_medium_melee_fighter_f": {
-        "name": "Kampftruppe",
-        "description": "Eine Truppe von acht Meistersöldnern bestehend aus Kämpfern in mittleren Rüstungen, die mit leichten Waffen und teilweise mit einem Schild ausgerüstet sind, sowie einem Heiler."
+    "marauder_light_range_fighter_f": {
+        "name": "Marodeur-Fernkampftruppe",
+        "description": ""
     },
     "outpost_squad_heavy_melee_fighter_b": {
         "name": "Truppe von schweren Kämpfern",
@@ -139,66 +99,6 @@
         "name": "Truppe von schweren Kämpfern",
         "description": "Eine Truppe von acht Meistersöldnern, die aus Kämpfern mit schweren Rüstungen und Zweihandwaffen, sowie einem Heiler besteht."
     },
-    "outpost_squad_tank_b": {
-        "name": "Truppe von Beschützern",
-        "description": "Eine Truppe von acht Lehrlingssöldnern, die aus Kämpfern mit schweren Rüstungen und leichten Waffen und Schilden, sowie einem Heiler besteht."
-    },
-    "outpost_squad_tank_c": {
-        "name": "Truppe von Beschützern",
-        "description": "Eine Truppe von acht bestätigten Söldnern, die aus Kämpfern mit schweren Rüstungen und leichten Waffen und Schilden, sowie einem Heiler besteht."
-    },
-    "outpost_squad_tank_d": {
-        "name": "Truppe von Beschützern",
-        "description": "Eine Truppe von acht erfahrenen Söldnern, die aus Kämpfern mit schweren Rüstungen und leichten Waffen und Schilden, sowie einem Heiler besteht."
-    },
-    "outpost_squad_tank_e": {
-        "name": "Truppe von Beschützern",
-        "description": "Eine Truppe von acht Expertensöldnern, die aus Kämpfern mit schweren Rüstungen und leichten Waffen und Schilden, sowie einem Heiler besteht."
-    },
-    "outpost_squad_tank_f": {
-        "name": "Truppe von Beschützern",
-        "description": "Eine Truppe von acht Meistersöldnern, die aus Kämpfern mit schweren Rüstungen und leichten Waffen und Schilden, sowie einem Heiler besteht."
-    },
-    "outpost_squad_light_range_fighter_b": {
-        "name": "Truppe von Waffenkämpfern",
-        "description": "Eine Truppe von acht Lehrlingssöldnern, die aus Schützen in mittleren Rüstungen mit Pistolen, sowie einem Heiler besteht."
-    },
-    "outpost_squad_light_range_fighter_c": {
-        "name": "Truppe von Waffenkämpfern",
-        "description": "Eine Truppe von acht bestätigten Söldnern, die aus Schützen in mittleren Rüstungen mit Pistolen, sowie einem Heiler besteht."
-    },
-    "outpost_squad_light_range_fighter_d": {
-        "name": "Truppe von Waffenkämpfern",
-        "description": "Eine Truppe von acht erfahrenen Söldnern, die aus Schützen in mittleren Rüstungen mit Pistolen, sowie einem Heiler besteht."
-    },
-    "outpost_squad_light_range_fighter_e": {
-        "name": "Truppe von Waffenkämpfern",
-        "description": "Eine Truppe von acht Expertensöldnern, die aus Schützen in mittleren Rüstungen mit Pistolen, sowie einem Heiler besteht."
-    },
-    "outpost_squad_light_range_fighter_f": {
-        "name": "Truppe von Waffenkämpfern",
-        "description": "Eine Truppe von acht Meistersöldnern, die aus Schützen in mittleren Rüstungen mit Pistolen, sowie einem Heiler besteht."
-    },
-    "outpost_squad_medium_range_fighter_b": {
-        "name": "Truppe von Pistolenschützen",
-        "description": "Eine Truppe von acht Lehrlingssöldnern bestehend aus Schützen in mittleren Rüstungen mit Gewehren, sowie einem Heiler."
-    },
-    "outpost_squad_medium_range_fighter_c": {
-        "name": "Truppe von Pistolenschützen",
-        "description": "Eine Truppe von acht bestätigten Söldnern bestehend aus Schützen in mittleren Rüstungen mit Gewehren, sowie einem Heiler."
-    },
-    "outpost_squad_medium_range_fighter_d": {
-        "name": "Truppe von Pistolenschützen",
-        "description": "Eine Truppe von acht erfahrenen Söldnern bestehend aus Schützen in mittleren Rüstungen mit Gewehren, sowie einem Heiler."
-    },
-    "outpost_squad_medium_range_fighter_e": {
-        "name": "Truppe von Pistolenschützen",
-        "description": "Eine Truppe von acht Expertensöldnern bestehend aus Schützen in mittleren Rüstungen mit Gewehren, sowie einem Heiler."
-    },
-    "outpost_squad_medium_range_fighter_f": {
-        "name": "Truppe von Pistolenschützen",
-        "description": "Eine Truppe von acht Meistersöldnern bestehend aus Schützen in mittleren Rüstungen mit Gewehren, sowie einem Heiler."
-    },
     "outpost_squad_heavy_range_fighter_b": {
         "name": "Truppe von Artillerieschützen",
         "description": "Eine Truppe von acht Lehrlingssöldnern bestehend aus Schützen mit Maschinengewehren und Granatenwerfern, sowie einem Heiler."
@@ -218,6 +118,26 @@
     "outpost_squad_heavy_range_fighter_f": {
         "name": "Truppe von Artillerieschützen",
         "description": "Eine Truppe von acht Meistersöldnern bestehend aus Schützen mit Maschinengewehren und Granatenwerfern, sowie einem Heiler."
+    },
+    "outpost_squad_light_melee_fighter_b": {
+        "name": "Kampftruppe",
+        "description": "Eine Truppe von acht Lehrlingssöldnern mit Kämpfern und zwei Heilern, die mit schnellen Waffen und leichten Rüstungen ausgerüstet sind."
+    },
+    "outpost_squad_light_melee_fighter_c": {
+        "name": "Kampftruppe",
+        "description": "Eine Truppe von acht bestätigten Söldnern mit Kämpfern und zwei Heilern, die mit schnellen Waffen und leichten Rüstungen ausgerüstet sind."
+    },
+    "outpost_squad_light_melee_fighter_d": {
+        "name": "Kampftruppe",
+        "description": "Eine Truppe von acht erfahrenen Söldnern mit Kämpfern und zwei Heilern, die mit schnellen Waffen und leichten Rüstungen ausgerüstet sind."
+    },
+    "outpost_squad_light_melee_fighter_e": {
+        "name": "Kampftruppe",
+        "description": "Eine Truppe von acht Expertensöldnern mit Kämpfern und zwei Heilern, die mit schnellen Waffen und leichten Rüstungen ausgerüstet sind."
+    },
+    "outpost_squad_light_melee_fighter_f": {
+        "name": "Kampftruppe",
+        "description": "Eine Truppe von acht Meistersöldnern mit Kämpfern und zwei Heilern, die mit schnellen Waffen und leichten Rüstungen ausgerüstet sind."
     },
     "outpost_squad_light_mixed_fighter_b": {
         "name": "Truppe von Geländeläufern",
@@ -239,6 +159,46 @@
         "name": "Truppe von Geländeläufern",
         "description": "Eine Truppe von acht Meistersöldnern bestehend aus Kämpfern und Schützen mit schnellen Waffen und Pistolen, sowie einem Heiler."
     },
+    "outpost_squad_light_range_fighter_b": {
+        "name": "Truppe von Waffenkämpfern",
+        "description": "Eine Truppe von acht Lehrlingssöldnern, die aus Schützen in mittleren Rüstungen mit Pistolen, sowie einem Heiler besteht."
+    },
+    "outpost_squad_light_range_fighter_c": {
+        "name": "Truppe von Waffenkämpfern",
+        "description": "Eine Truppe von acht bestätigten Söldnern, die aus Schützen in mittleren Rüstungen mit Pistolen, sowie einem Heiler besteht."
+    },
+    "outpost_squad_light_range_fighter_d": {
+        "name": "Truppe von Waffenkämpfern",
+        "description": "Eine Truppe von acht erfahrenen Söldnern, die aus Schützen in mittleren Rüstungen mit Pistolen, sowie einem Heiler besteht."
+    },
+    "outpost_squad_light_range_fighter_e": {
+        "name": "Truppe von Waffenkämpfern",
+        "description": "Eine Truppe von acht Expertensöldnern, die aus Schützen in mittleren Rüstungen mit Pistolen, sowie einem Heiler besteht."
+    },
+    "outpost_squad_light_range_fighter_f": {
+        "name": "Truppe von Waffenkämpfern",
+        "description": "Eine Truppe von acht Meistersöldnern, die aus Schützen in mittleren Rüstungen mit Pistolen, sowie einem Heiler besteht."
+    },
+    "outpost_squad_medium_melee_fighter_b": {
+        "name": "Kampftruppe",
+        "description": "Eine Truppe von acht Lehrlingssöldnern bestehend aus Kämpfern in mittleren Rüstungen, die mit leichten Waffen und teilweise mit einem Schild ausgerüstet sind, sowie einem Heiler."
+    },
+    "outpost_squad_medium_melee_fighter_c": {
+        "name": "Kampftruppe",
+        "description": "Eine Truppe von acht bestätigten Söldnern bestehend aus Kämpfern in mittleren Rüstungen, die mit leichten Waffen und teilweise mit einem Schild ausgerüstet sind, sowie einem Heiler."
+    },
+    "outpost_squad_medium_melee_fighter_d": {
+        "name": "Kampftruppe",
+        "description": "Eine Truppe von acht erfahrenen Söldnern bestehend aus Kämpfern in mittleren Rüstungen, die mit leichten Waffen und teilweise mit einem Schild ausgerüstet sind, sowie einem Heiler."
+    },
+    "outpost_squad_medium_melee_fighter_e": {
+        "name": "Kampftruppe",
+        "description": "Eine Truppe von acht Expertensöldnern bestehend aus Kämpfern in mittleren Rüstungen, die mit leichten Waffen und teilweise mit einem Schild ausgerüstet sind, sowie einem Heiler."
+    },
+    "outpost_squad_medium_melee_fighter_f": {
+        "name": "Kampftruppe",
+        "description": "Eine Truppe von acht Meistersöldnern bestehend aus Kämpfern in mittleren Rüstungen, die mit leichten Waffen und teilweise mit einem Schild ausgerüstet sind, sowie einem Heiler."
+    },
     "outpost_squad_medium_mixed_fighter_b": {
         "name": "Truppe von Kriegern",
         "description": "Eine Truppe von acht Lehrlingssöldnern bestehend aus Kämpfern und Schützen, die mit leichten Waffen und Gewehren gerüstet sind und teilweise mit einem Schild, sowie einem Heiler."
@@ -258,6 +218,46 @@
     "outpost_squad_medium_mixed_fighter_f": {
         "name": "Truppe von Kriegern",
         "description": "Eine Truppe von acht Meistersöldnern bestehend aus Kämpfern und Schützen, die mit leichten Waffen und Gewehren gerüstet sind und teilweise mit einem Schild, sowie einem Heiler."
+    },
+    "outpost_squad_medium_range_fighter_b": {
+        "name": "Truppe von Pistolenschützen",
+        "description": "Eine Truppe von acht Lehrlingssöldnern bestehend aus Schützen in mittleren Rüstungen mit Gewehren, sowie einem Heiler."
+    },
+    "outpost_squad_medium_range_fighter_c": {
+        "name": "Truppe von Pistolenschützen",
+        "description": "Eine Truppe von acht bestätigten Söldnern bestehend aus Schützen in mittleren Rüstungen mit Gewehren, sowie einem Heiler."
+    },
+    "outpost_squad_medium_range_fighter_d": {
+        "name": "Truppe von Pistolenschützen",
+        "description": "Eine Truppe von acht erfahrenen Söldnern bestehend aus Schützen in mittleren Rüstungen mit Gewehren, sowie einem Heiler."
+    },
+    "outpost_squad_medium_range_fighter_e": {
+        "name": "Truppe von Pistolenschützen",
+        "description": "Eine Truppe von acht Expertensöldnern bestehend aus Schützen in mittleren Rüstungen mit Gewehren, sowie einem Heiler."
+    },
+    "outpost_squad_medium_range_fighter_f": {
+        "name": "Truppe von Pistolenschützen",
+        "description": "Eine Truppe von acht Meistersöldnern bestehend aus Schützen in mittleren Rüstungen mit Gewehren, sowie einem Heiler."
+    },
+    "outpost_squad_mixed_casters_b": {
+        "name": "Truppe von Magiern",
+        "description": "Eine Truppe von acht Lehrlingssöldnern bestehend aus Magiern verschiedener Schulen (zerstörerisch und helfend)."
+    },
+    "outpost_squad_mixed_casters_c": {
+        "name": "Truppe von Magiern",
+        "description": "Eine Truppe von acht bestätigten Söldnern bestehend aus Magiern verschiedener Schulen (zerstörerisch und helfend)."
+    },
+    "outpost_squad_mixed_casters_d": {
+        "name": "Truppe von Magiern",
+        "description": "Eine Truppe von acht erfahrenen Söldnern bestehend aus Magiern verschiedener Schulen (zerstörerisch und helfend)."
+    },
+    "outpost_squad_mixed_casters_e": {
+        "name": "Truppe von Magiern",
+        "description": "Eine Truppe von acht Expertensöldnern bestehend aus Magiern verschiedener Schulen (zerstörerisch und helfend)."
+    },
+    "outpost_squad_mixed_casters_f": {
+        "name": "Truppe von Magiern",
+        "description": "Eine Truppe von acht Meistersöldnern bestehend aus Magiern verschiedener Schulen (zerstörerisch und helfend)."
     },
     "outpost_squad_nukers_b": {
         "name": "Truppe von Elementalisten",
@@ -299,24 +299,24 @@
         "name": "Truppe von Störenfrieden",
         "description": "Eine Truppe von acht Meistersöldnern bestehend aus Magiern, die im Offensivzauber spezialisiert sind (Schwäche- und Elementarzauber), sowie einem Heiler."
     },
-    "outpost_squad_mixed_casters_b": {
-        "name": "Truppe von Magiern",
-        "description": "Eine Truppe von acht Lehrlingssöldnern bestehend aus Magiern verschiedener Schulen (zerstörerisch und helfend)."
+    "outpost_squad_tank_b": {
+        "name": "Truppe von Beschützern",
+        "description": "Eine Truppe von acht Lehrlingssöldnern, die aus Kämpfern mit schweren Rüstungen und leichten Waffen und Schilden, sowie einem Heiler besteht."
     },
-    "outpost_squad_mixed_casters_c": {
-        "name": "Truppe von Magiern",
-        "description": "Eine Truppe von acht bestätigten Söldnern bestehend aus Magiern verschiedener Schulen (zerstörerisch und helfend)."
+    "outpost_squad_tank_c": {
+        "name": "Truppe von Beschützern",
+        "description": "Eine Truppe von acht bestätigten Söldnern, die aus Kämpfern mit schweren Rüstungen und leichten Waffen und Schilden, sowie einem Heiler besteht."
     },
-    "outpost_squad_mixed_casters_d": {
-        "name": "Truppe von Magiern",
-        "description": "Eine Truppe von acht erfahrenen Söldnern bestehend aus Magiern verschiedener Schulen (zerstörerisch und helfend)."
+    "outpost_squad_tank_d": {
+        "name": "Truppe von Beschützern",
+        "description": "Eine Truppe von acht erfahrenen Söldnern, die aus Kämpfern mit schweren Rüstungen und leichten Waffen und Schilden, sowie einem Heiler besteht."
     },
-    "outpost_squad_mixed_casters_e": {
-        "name": "Truppe von Magiern",
-        "description": "Eine Truppe von acht Expertensöldnern bestehend aus Magiern verschiedener Schulen (zerstörerisch und helfend)."
+    "outpost_squad_tank_e": {
+        "name": "Truppe von Beschützern",
+        "description": "Eine Truppe von acht Expertensöldnern, die aus Kämpfern mit schweren Rüstungen und leichten Waffen und Schilden, sowie einem Heiler besteht."
     },
-    "outpost_squad_mixed_casters_f": {
-        "name": "Truppe von Magiern",
-        "description": "Eine Truppe von acht Meistersöldnern bestehend aus Magiern verschiedener Schulen (zerstörerisch und helfend)."
+    "outpost_squad_tank_f": {
+        "name": "Truppe von Beschützern",
+        "description": "Eine Truppe von acht Meistersöldnern, die aus Kämpfern mit schweren Rüstungen und leichten Waffen und Schilden, sowie einem Heiler besteht."
     }
 }

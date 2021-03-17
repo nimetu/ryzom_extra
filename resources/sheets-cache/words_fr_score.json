@@ -1,15 +1,15 @@
 {
+    "focus": {
+        "name": "Concentration",
+        "point": "Point de concentration",
+        "ia": "un",
+        "points": "Points de concentration"
+    },
     "hitpoints": {
         "name": "Vie",
         "point": "Point de vie",
         "ia": "un",
         "points": "Points de vie"
-    },
-    "stamina": {
-        "name": "Endurance",
-        "point": "Point d'endurance",
-        "ia": "un",
-        "points": "Points d'endurance"
     },
     "sap": {
         "name": "Sève",
@@ -17,10 +17,10 @@
         "ia": "un",
         "points": "Points de sève"
     },
-    "focus": {
-        "name": "Concentration",
-        "point": "Point de concentration",
+    "stamina": {
+        "name": "Endurance",
+        "point": "Point d'endurance",
         "ia": "un",
-        "points": "Points de concentration"
+        "points": "Points d'endurance"
     }
 }

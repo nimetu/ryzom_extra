@@ -1,18 +1,9 @@
 {
-    "slashing": {
-        "name": "Cortante",
+    "acid": {
+        "name": "Ácido",
         "ia": "",
         "da": "",
-        "p": "Cortantes",
-        "pia": "",
-        "pda": "",
-        "description": ""
-    },
-    "piercing": {
-        "name": "Perforante",
-        "ia": "",
-        "da": "",
-        "p": "Perforantes",
+        "p": "Ácido",
         "pia": "",
         "pda": "",
         "description": ""
@@ -26,47 +17,11 @@
         "pda": "",
         "description": ""
     },
-    "rot": {
-        "name": "Podredumbre",
-        "ia": "",
-        "da": "",
-        "p": "Podredumbre",
-        "pia": "",
-        "pda": "",
-        "description": ""
-    },
-    "acid": {
-        "name": "Ácido",
-        "ia": "",
-        "da": "",
-        "p": "Ácido",
-        "pia": "",
-        "pda": "",
-        "description": ""
-    },
     "cold": {
         "name": "Frío",
         "ia": "",
         "da": "",
         "p": "Frío",
-        "pia": "",
-        "pda": "",
-        "description": ""
-    },
-    "fire": {
-        "name": "Fuego",
-        "ia": "",
-        "da": "",
-        "p": "Fuego",
-        "pia": "",
-        "pda": "",
-        "description": ""
-    },
-    "poison": {
-        "name": "Veneno",
-        "ia": "",
-        "da": "",
-        "p": "Veneno",
         "pia": "",
         "pda": "",
         "description": ""
@@ -80,11 +35,56 @@
         "pda": "",
         "description": ""
     },
+    "fire": {
+        "name": "Fuego",
+        "ia": "",
+        "da": "",
+        "p": "Fuego",
+        "pia": "",
+        "pda": "",
+        "description": ""
+    },
+    "piercing": {
+        "name": "Perforante",
+        "ia": "",
+        "da": "",
+        "p": "Perforantes",
+        "pia": "",
+        "pda": "",
+        "description": ""
+    },
+    "poison": {
+        "name": "Veneno",
+        "ia": "",
+        "da": "",
+        "p": "Veneno",
+        "pia": "",
+        "pda": "",
+        "description": ""
+    },
+    "rot": {
+        "name": "Podredumbre",
+        "ia": "",
+        "da": "",
+        "p": "Podredumbre",
+        "pia": "",
+        "pda": "",
+        "description": ""
+    },
     "shock": {
         "name": "Choque",
         "ia": "",
         "da": "",
         "p": "Choque",
+        "pia": "",
+        "pda": "",
+        "description": ""
+    },
+    "slashing": {
+        "name": "Cortante",
+        "ia": "",
+        "da": "",
+        "p": "Cortantes",
         "pia": "",
         "pda": "",
         "description": ""

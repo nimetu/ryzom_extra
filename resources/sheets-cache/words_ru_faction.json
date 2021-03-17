@@ -1,28 +1,4 @@
 {
-    "fyros": {
-        "name": "файросы",
-        "member": "файрос",
-        "membergen": "файросов",
-        "memberdat": "файросам"
-    },
-    "matis": {
-        "name": "матисы",
-        "member": "матис",
-        "membergen": "матисов",
-        "memberdat": "матисам"
-    },
-    "tryker": {
-        "name": "трайкеры",
-        "member": "трайкер",
-        "membergen": "трайкеров",
-        "memberdat": "трайкерам"
-    },
-    "zorai": {
-        "name": "Зораи",
-        "member": "Зораи",
-        "membergen": "Зораи",
-        "memberdat": "Зораи"
-    },
     "bandit": {
         "name": "бандиты",
         "member": "бандит",
@@ -65,6 +41,12 @@
         "membergen": "растений",
         "memberdat": "растениям"
     },
+    "fyros": {
+        "name": "файросы",
+        "member": "файрос",
+        "membergen": "файросов",
+        "memberdat": "файросам"
+    },
     "goo": {
         "name": "Гуу",
         "member": "зараженный Гуу",
@@ -88,6 +70,12 @@
         "member": "китин",
         "membergen": "китинов",
         "memberdat": "хитинам"
+    },
+    "matis": {
+        "name": "матисы",
+        "member": "матис",
+        "membergen": "матисов",
+        "memberdat": "матисам"
     },
     "tribe_ancient_dryads": {
         "name": "Древние Дриады",
@@ -394,5 +382,17 @@
         "member": "Плетеные Поводья",
         "membergen": "Плетеных Поводьев",
         "memberdat": "Плетеным Поводьям"
+    },
+    "tryker": {
+        "name": "трайкеры",
+        "member": "трайкер",
+        "membergen": "трайкеров",
+        "memberdat": "трайкерам"
+    },
+    "zorai": {
+        "name": "Зораи",
+        "member": "Зораи",
+        "membergen": "Зораи",
+        "memberdat": "Зораи"
     }
 }

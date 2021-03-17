@@ -1,15 +1,15 @@
 {
+    "focus": {
+        "name": "focus",
+        "point": "focus point",
+        "ia": "a",
+        "points": "focus points"
+    },
     "hitpoints": {
         "name": "HP",
         "point": "hit point",
         "ia": "a",
         "points": "hit points"
-    },
-    "stamina": {
-        "name": "stamina",
-        "point": "stamina point",
-        "ia": "a",
-        "points": "stamina points"
     },
     "sap": {
         "name": "sap",
@@ -17,10 +17,10 @@
         "ia": "a",
         "points": "sap points"
     },
-    "focus": {
-        "name": "focus",
-        "point": "focus point",
+    "stamina": {
+        "name": "stamina",
+        "point": "stamina point",
         "ia": "a",
-        "points": "focus points"
+        "points": "stamina points"
     }
 }

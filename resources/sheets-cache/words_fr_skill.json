@@ -1034,6 +1034,15 @@
         "pda": "les",
         "description": ""
     },
+    "makedeadlyharpoongun": {
+        "name": "Fabrication d'un pistolet-harpon mortel",
+        "ia": "une",
+        "da": "la",
+        "p": "Fabrications de pistolets-harpons mortels",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
     "makediadem": {
         "name": "Fabrication d'un diadème",
         "ia": "une",
@@ -1048,6 +1057,33 @@
         "ia": "une",
         "da": "la",
         "p": "Fabrications de boucles d'oreille",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "makeenchantedarmors": {
+        "name": "Fabrication d'armures enchantées",
+        "ia": "une",
+        "da": "la",
+        "p": "Fabrications d'armures enchantées",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "makeenchantedfloralpatternlivingclothes": {
+        "name": "Fabrication de vêtements floraux vivants",
+        "ia": "une",
+        "da": "la",
+        "p": "Fabrication de vêtements floraux vivants",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "makeenchantedweapons": {
+        "name": "Fabrication d'armes enchantées",
+        "ia": "une",
+        "da": "la",
+        "p": "Fabrications d'armes enchantées",
         "pia": "des",
         "pda": "les",
         "description": ""
@@ -1183,6 +1219,15 @@
         "ia": "une",
         "da": "la",
         "p": "Fabrications de gilets lourds",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "makehuntingarmors": {
+        "name": "Fabrication d'armure de chasse",
+        "ia": "une",
+        "da": "la",
+        "p": "Fabrications d'armures de chasse",
         "pia": "des",
         "pda": "les",
         "description": ""
@@ -1520,6 +1565,24 @@
         "pda": "les",
         "description": ""
     },
+    "makeritualclothes": {
+        "name": "Fabrication de vêtements rituels",
+        "ia": "une",
+        "da": "la",
+        "p": "Fabrications de vêtements rituels",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "makeritualjewels": {
+        "name": "Fabrication de bijoux rituels",
+        "ia": "une",
+        "da": "la",
+        "p": "Fabrications de bijoux rituels",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
     "makeshield": {
         "name": "Fabrication d'un bouclier",
         "ia": "une",
@@ -1606,6 +1669,15 @@
         "ia": "une",
         "da": "la",
         "p": "Fabrications d'armes de tir à deux mains",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "makevampiricweapons": {
+        "name": "Fabrication d'armes vampiriques",
+        "ia": "une",
+        "da": "la",
+        "p": "Fabrications d'armes vampiriques",
         "pia": "des",
         "pda": "les",
         "description": ""
@@ -2033,735 +2105,6 @@
         "pda": "les",
         "description": ""
     },
-    "shield": {
-        "name": "Bouclier",
-        "ia": "un",
-        "da": "le",
-        "p": "Boucliers",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "shootandrun": {
-        "name": "Tirer en se déplaçant",
-        "ia": "",
-        "da": "",
-        "p": "Tirer en se déplaçant",
-        "pia": "",
-        "pda": "",
-        "description": ""
-    },
-    "shotprotect": {
-        "name": "Protection de tir",
-        "ia": "une",
-        "da": "la",
-        "p": "Protections de tir",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "slowingbreath": {
-        "name": "Ralentisseur de souffle",
-        "ia": "un",
-        "da": "le",
-        "p": "Ralentisseurs de Souffle",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "slowinglife": {
-        "name": "Ralentisseur de vie",
-        "ia": "un",
-        "da": "le",
-        "p": "Ralentisseurs de vie",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "spear": {
-        "name": "Lance",
-        "ia": "une",
-        "da": "la",
-        "p": "Lances",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "spelldeletion": {
-        "name": "Suppression d'un sort",
-        "ia": "une",
-        "da": "la",
-        "p": "Suppressions de sorts",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "spellprotect": {
-        "name": "Protection d'un sort",
-        "ia": "une",
-        "da": "la",
-        "p": "Protections de sorts",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "spurtingfire": {
-        "name": "Feu jaillissant",
-        "ia": "un",
-        "da": "le",
-        "p": "Feux jaillissants",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "squandering": {
-        "name": "Gaspillage",
-        "ia": "un",
-        "da": "le",
-        "p": "Gaspillages",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "stallsetup": {
-        "name": "Montage d'une stalle",
-        "ia": "un",
-        "da": "le",
-        "p": "Montages de stalles",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "stealbreath": {
-        "name": "Souffle voleur",
-        "ia": "un",
-        "da": "le",
-        "p": "Souffles voleurs",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "steallife": {
-        "name": "Vie voleuse",
-        "ia": "une",
-        "da": "la",
-        "p": "Vies voleuses",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "stealsap": {
-        "name": "Sève voleuse",
-        "ia": "une",
-        "da": "la",
-        "p": "Sève voleuse",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "stick": {
-        "name": "Bâton",
-        "ia": "un",
-        "da": "le",
-        "p": "Bâtons",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "strenghtgift": {
-        "name": "Don de force",
-        "ia": "un",
-        "da": "le",
-        "p": "Dons de force",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "swimming": {
-        "name": "Nage",
-        "ia": "une",
-        "da": "la",
-        "p": "Nages",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "sword": {
-        "name": "Épée",
-        "ia": "une",
-        "da": "l'\\d",
-        "p": "Épées",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "sylphicslide": {
-        "name": "Glissement sylphique",
-        "ia": "un",
-        "da": "le",
-        "p": "Glissements sylphiques",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "sylve": {
-        "name": "Sylve",
-        "ia": "un",
-        "da": "le",
-        "p": "Sylves",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "tactilewithering": {
-        "name": "Affaiblissement du toucher",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Affaiblissements du toucher",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "target": {
-        "name": "Cible",
-        "ia": "une",
-        "da": "la",
-        "p": "Cibles",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "terror": {
-        "name": "Terreur",
-        "ia": "une",
-        "da": "la",
-        "p": "Terreurs",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "tirednessalchemy": {
-        "name": "Alchimie de la fatigue",
-        "ia": "une",
-        "da": "l'\\d",
-        "p": "Alchimies de la fatigue",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "tracking": {
-        "name": "Pistage",
-        "ia": "un",
-        "da": "le",
-        "p": "Pistages",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "tradingcenterknowledge": {
-        "name": "Connaissance du centre de troc",
-        "ia": "une",
-        "da": "la",
-        "p": "Connaissances du centre de troc",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "trainingagility": {
-        "name": "Entraînement de l'agilité",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Entraînements de l'agilité",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "traininganimal": {
-        "name": "Entraînement sur les animaux",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Entraînements sur les animaux",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "trainingcharisme": {
-        "name": "Entraînement du charisme",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Entraînements du charisme",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "trainingconstitution": {
-        "name": "Entraînement de la constitution",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Entraînements de la constitution",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "trainingdiseaseresist": {
-        "name": "Entraînement de résistance aux maladies",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Entraînements de résistance aux maladies",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "trainingempathie": {
-        "name": "Entraînement de l'empathie",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Entraînements de l'empathie",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "trainingfearresist": {
-        "name": "Entraînement de résistance à la peur",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Entraînements de résistance à la peur",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "traininghp": {
-        "name": "Entraînement des points de vie",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Entraînements des points de vie",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "traininghp2": {
-        "name": "Entraînement des points de vie 2",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Entraînements des points de vie 2",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "traininghp3": {
-        "name": "Entraînement des points de vie 3",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Entraînements des points de vie 3",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "traininghp4": {
-        "name": "Entraînement des points de vie 4",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Entraînements des points de vie 4",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "trainingimpactresist": {
-        "name": "Entraînement de résistance aux impacts",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Entraînements de résistance aux impacts",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "trainingintelligence": {
-        "name": "Entraînement de l'Intelligence",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Entraînements de l'Intelligence",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "trainingmagicresist": {
-        "name": "Entraînement de résistance à la magie",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Entraînements de résistance à la magie",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "trainingperception": {
-        "name": "Entraînement de la perception",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Entraînements de la perception",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "trainingseve": {
-        "name": "Entraînement de la sève",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Entraînements de la sève",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "trainingseve2": {
-        "name": "Entraînement de la sève 2",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Entraînements de la sève 2",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "trainingseve3": {
-        "name": "Entraînement de la sève 3",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Entraînements de la sève 3",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "trainingseve4": {
-        "name": "Entraînement de la sève 4",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Entraînements de la sève 4",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "trainingstamina": {
-        "name": "Entraînement de l'endurance 2",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Entraînements de l'endurance",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "trainingstamina2": {
-        "name": "Entraînement de l'endurance 2",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Entraînements de l'endurance 2",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "trainingstamina3": {
-        "name": "Entraînement de l'endurance 3",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Entraînements de l'endurance 3",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "trainingstamina4": {
-        "name": "Entraînement de l'endurance 4",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Entraînements de l'endurance 4",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "trainingstrength": {
-        "name": "Entraînement de la force",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Entraînements de la force",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "trainingtechnoresist": {
-        "name": "Entraînement de résistance aux technologies",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Entraînements de résistance aux technologies",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "trainingwellbalanced": {
-        "name": "Entraînement du bon équilibre",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Entraînements du bon équilibre",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "trainingwill": {
-        "name": "Entraînement de la volonté",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Entraînements de la volonté",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "tryker": {
-        "name": "Tryker",
-        "ia": "un",
-        "da": "le",
-        "p": "Trykers",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "trykergoods": {
-        "name": "Biens trykers",
-        "ia": "",
-        "da": "",
-        "p": "Biens trykers",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "trykermystery": {
-        "name": "Mystère tryker",
-        "ia": "un",
-        "da": "le",
-        "p": "Mystères trykers",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "twohandedcombat": {
-        "name": "Combat à deux mains",
-        "ia": "un",
-        "da": "le",
-        "p": "Combats à deux mains",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "twohandssword": {
-        "name": "Épée à deux mains",
-        "ia": "une",
-        "da": "l'\\d",
-        "p": "Épées à deux mains",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "underwaterextract": {
-        "name": "Extraction sous-marine",
-        "ia": "une",
-        "da": "l'\\d",
-        "p": "Extractions sous-marines",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "visualwithering": {
-        "name": "Affaiblissement de la vue",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Affaiblissements de la vue",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "vitalburst": {
-        "name": "Explosion vitale",
-        "ia": "une",
-        "da": "",
-        "p": "Explosions vitales",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "warriorgift": {
-        "name": "Don guerrier",
-        "ia": "un",
-        "da": "le",
-        "p": "Dons guerriers",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "weaponscutting": {
-        "name": "Coupe des armes",
-        "ia": "une",
-        "da": "la",
-        "p": "Coupes des armes",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "windarmor": {
-        "name": "Armure des vents",
-        "ia": "une",
-        "da": "l'\\d",
-        "p": "Armures des vents",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "windgift": {
-        "name": "Don de vent",
-        "ia": "un",
-        "da": "le",
-        "p": "Dons de vents",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "windshear": {
-        "name": "Puissance du vent",
-        "ia": "une",
-        "da": "la",
-        "p": "Puissances du vent",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "zorai": {
-        "name": "Zoraï",
-        "ia": "un",
-        "da": "le",
-        "p": "Zoraïs",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "zoraigoods": {
-        "name": "Biens zoraïs",
-        "ia": "",
-        "da": "",
-        "p": "Biens zoraïs",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "zoraimystery": {
-        "name": "Mystère zoraï",
-        "ia": "un",
-        "da": "le",
-        "p": "Mystères zoraïs",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "trainingimpactresist2": {
-        "name": "Entraînement de résistance aux impacts 2",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Entraînements de résistance aux impacts 2",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "trainingimpactresist3": {
-        "name": "Entraînement de résistance Impacts 3",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Entraînements de résistance aux impacts 3",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "trainingmagicresist2": {
-        "name": "Entraînement de résistance Impacts 2",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Entraînements de résistance aux impacts 2",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "trainingmagicresist3": {
-        "name": "Entraînement de résistance Impacts 3",
-        "ia": "un",
-        "da": "l",
-        "p": "Entraînements de résistance aux impacts 3",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "makeenchantedweapons": {
-        "name": "Fabrication d'armes enchantées",
-        "ia": "une",
-        "da": "la",
-        "p": "Fabrications d'armes enchantées",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "makeenchantedarmors": {
-        "name": "Fabrication d'armures enchantées",
-        "ia": "une",
-        "da": "la",
-        "p": "Fabrications d'armures enchantées",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "makevampiricweapons": {
-        "name": "Fabrication d'armes vampiriques",
-        "ia": "une",
-        "da": "la",
-        "p": "Fabrications d'armes vampiriques",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "makeenchantedfloralpatternlivingclothes": {
-        "name": "Fabrication de vêtements floraux vivants",
-        "ia": "une",
-        "da": "la",
-        "p": "Fabrication de vêtements floraux vivants",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "makedeadlyharpoongun": {
-        "name": "Fabrication d'un pistolet-harpon mortel",
-        "ia": "une",
-        "da": "la",
-        "p": "Fabrications de pistolets-harpons mortels",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "makehuntingarmors": {
-        "name": "Fabrication d'armure de chasse",
-        "ia": "une",
-        "da": "la",
-        "p": "Fabrications d'armures de chasse",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "makeritualclothes": {
-        "name": "Fabrication de vêtements rituels",
-        "ia": "une",
-        "da": "la",
-        "p": "Fabrications de vêtements rituels",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "makeritualjewels": {
-        "name": "Fabrication de bijoux rituels",
-        "ia": "une",
-        "da": "la",
-        "p": "Fabrications de bijoux rituels",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
     "sc": {
         "name": "Artisanat",
         "ia": "",
@@ -2771,617 +2114,1283 @@
         "pda": "les",
         "description": "Artisanat"
     },
-    "sm": {
-        "name": "Magie",
-        "ia": "une",
-        "da": "la",
-        "p": "Magie",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie"
-    },
-    "smt": {
-        "name": "Magie d'impact",
-        "ia": "une",
-        "da": "la",
-        "p": "Magies d'impacts",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie Ciblée"
-    },
-    "smtm": {
-        "name": "Magie de missile",
-        "ia": "une",
-        "da": "la",
-        "p": "Magies de missiles",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie de Missile Ciblée"
-    },
-    "smtmr": {
-        "name": "Magie fondamentale",
-        "ia": "une",
-        "da": "la",
-        "p": "Magies fondamentales",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie de Missile Ciblée - Fondamentale"
-    },
-    "smtmg": {
-        "name": "Magie atysienne",
-        "ia": "une",
-        "da": "la",
-        "p": "Magies atysiennes",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie de Missile Ciblée - Atysienne"
-    },
-    "smtmb": {
-        "name": "Magie céleste",
-        "ia": "une",
-        "da": "la",
-        "p": "Magies célestes",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie de Missile Ciblée - Céleste"
-    },
-    "smto": {
-        "name": "Magie offensive",
-        "ia": "une",
-        "da": "la",
-        "p": "Magies offensives",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie Offensive Ciblée"
-    },
-    "smtod": {
-        "name": "Magie physique",
-        "ia": "une",
-        "da": "la",
-        "p": "Magies physiques",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie Offensive Ciblée sur les Dégâts"
-    },
-    "smtodp": {
-        "name": "Magie perforante",
-        "ia": "une",
-        "da": "la",
-        "p": "Magies perforantes",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie Offensive Ciblée sur les Dégâts - Perforante"
-    },
-    "smtodb": {
-        "name": "Magie contondante",
-        "ia": "une",
-        "da": "la",
-        "p": "Magies contondantes",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie Offensive Ciblée sur les Dégâts - Contondant"
-    },
-    "smtods": {
-        "name": "Magie tranchante",
-        "ia": "une",
-        "da": "la",
-        "p": "Magies tranchantes",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie Offensive Ciblée sur les Dégâts - Tranchante"
-    },
-    "smtoe": {
-        "name": "Magie élémentaire",
-        "ia": "une",
-        "da": "la",
-        "p": "Magies élémentaires",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie Offensive Ciblée sur les Dégâts Spéciaux"
-    },
-    "smtoec": {
-        "name": "Magie du froid",
-        "ia": "une",
-        "da": "la",
-        "p": "Magies du froid",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie Offensive Ciblée sur les Dégâts Spéciaux - Froid"
-    },
-    "smtoea": {
-        "name": "Magie de l'acide",
-        "ia": "une",
-        "da": "la",
-        "p": "Magies de l'acide",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie Offensive Ciblée sur les Dégâts Spéciaux - Acide"
-    },
-    "smtoer": {
-        "name": "Magie de la pourriture",
-        "ia": "une",
-        "da": "la",
-        "p": "Magies de la pourriture",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie Offensive Ciblée sur les Dégâts Spéciaux - Pourriture"
-    },
-    "smtoef": {
-        "name": "Magie du feu",
-        "ia": "une",
-        "da": "la",
-        "p": "Magies du feu",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie Offensive Ciblée sur les Dégâts Spéciaux - Feu"
-    },
-    "smtoes": {
-        "name": "Magie des ondes de choc",
-        "ia": "une",
-        "da": "la",
-        "p": "Magies des ondes de choc",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie Offensive Ciblée sur les Dégâts Spéciaux - Ondes de choc"
-    },
-    "smtoep": {
-        "name": "Magie du poison",
-        "ia": "une",
-        "da": "la",
-        "p": "Magies du poison",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie Offensive Ciblée sur les Dégâts Spéciaux - Poison"
-    },
-    "smtoee": {
-        "name": "Magie électrique",
-        "ia": "une",
-        "da": "la",
-        "p": "Magies électriques",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie Offensive Ciblée sur les Dégâts Spéciaux - Electricité"
-    },
-    "smtc": {
-        "name": "Magie curative",
-        "ia": "une",
-        "da": "la",
-        "p": "Magies curatives",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie Curative Ciblée"
-    },
-    "smtch": {
-        "name": "Magie de guérison",
-        "ia": "une",
-        "da": "la",
-        "p": "Magies de guérison",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie Curative Ciblée sur la Guérison"
-    },
-    "smtchp": {
-        "name": "Magie de guérison de la vie",
-        "ia": "une",
-        "da": "la",
-        "p": "Magies de guérison de la vie",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie Curative Ciblée sur la Guérison - Vie"
-    },
-    "smtcht": {
-        "name": "Magie de guérison de l'endurance",
-        "ia": "une",
-        "da": "la",
-        "p": "Magies de guérison de l'endurance",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie Curative Ciblée sur la Guérison - Sta"
-    },
-    "smtcha": {
-        "name": "Magie de guérison de la sève",
-        "ia": "une",
-        "da": "la",
-        "p": "Magies de guérison de la sève",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie Curative Ciblée sur la Guérison - Sève"
-    },
-    "smtchc": {
-        "name": "Magie de guérison de la concentration",
-        "ia": "une",
-        "da": "la",
-        "p": "Magies de guérison de la concentration",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie Curative Ciblée sur la Guérison - Concentration"
-    },
-    "smtcb": {
-        "name": "Rupture de lien",
-        "ia": "une",
-        "da": "la",
-        "p": "Ruptures de liens",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie Curative Ciblée sur la Rupture de Lien"
-    },
-    "smtcbd": {
-        "name": "Dégât de rupture de lien",
-        "ia": "un",
-        "da": "le",
-        "p": "Dégâts de ruptures de liens",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie Curative Ciblée sur la Rupture de Lien - Dégâts"
-    },
-    "smtcbs": {
-        "name": "Maladie de rupture de lien",
-        "ia": "une",
-        "da": "la",
-        "p": "Maladies de ruptures de liens",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie Curative Ciblée sur la Rupture de Lien - Maladie"
-    },
-    "smtcbc": {
-        "name": "Malédiction de rupture de lien",
-        "ia": "une",
-        "da": "la",
-        "p": "Malédictions de ruptures de liens",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie Curative Ciblée sur la Rupture de Lien - Malédiction"
-    },
-    "sml": {
-        "name": "Lien de magie",
-        "ia": "un",
-        "da": "le",
-        "p": "Liens de magies",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien de Magie"
-    },
-    "smlm": {
-        "name": "Lien de missile",
-        "ia": "un",
-        "da": "le",
-        "p": "Liens de missiles",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien de Magie relatif aux Missiles"
-    },
-    "smlmr": {
-        "name": "Lien fondamental",
-        "ia": "un",
-        "da": "le",
-        "p": "Liens fondamentaux",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien de Magie relatif aux Missiles - Fondamental"
-    },
-    "smlmg": {
-        "name": "Lien atysien",
-        "ia": "un",
-        "da": "le",
-        "p": "Liens atysiens",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien de Magie relatif aux Missiles - Atysien"
-    },
-    "smlmb": {
-        "name": "Lien céleste",
-        "ia": "un",
-        "da": "le",
-        "p": "Liens célestes",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien de Magie relatif aux Missiles - Céleste"
-    },
-    "smlo": {
-        "name": "Lien offensif",
-        "ia": "un",
-        "da": "le",
-        "p": "Liens offensifs",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien de Magie Offensive"
-    },
-    "smlos": {
-        "name": "Lien de maladie",
-        "ia": "un",
-        "da": "le",
-        "p": "Liens de maladies",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien de Magie Offensive relatif aux Maladies"
-    },
-    "smlosm": {
-        "name": "Lien de folie",
-        "ia": "un",
-        "da": "le",
-        "p": "Liens de folie",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien de Magie Offensive relatif aux Maladies - folie"
-    },
-    "smloss": {
-        "name": "Lien de diminution de la vitesse",
-        "ia": "un",
-        "da": "le",
-        "p": "Liens de diminution de la vitesse",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien de Magie Offensive relatif aux Maladies - diminution de la vitesse"
-    },
-    "smlosr": {
-        "name": "Lien de diminution de la résistance",
-        "ia": "un",
-        "da": "le",
-        "p": "Liens de diminution de la résistance",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien de Magie Offensive relatif aux Maladies - diminution de la résistance"
-    },
-    "smlosk": {
-        "name": "Lien de diminution des compétences",
-        "ia": "un",
-        "da": "le",
-        "p": "Liens de diminution des compétences",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien de Magie Offensive relatif aux Maladies - diminution des compétences"
-    },
-    "smloc": {
-        "name": "Lien de malédiction",
-        "ia": "un",
-        "da": "le",
-        "p": "Liens de malédictions",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien de Magie Offensive relatif aux Malédictions"
-    },
-    "smloci": {
-        "name": "Lien d'Incapacité",
-        "ia": "un",
-        "da": "le",
-        "p": "Liens d'incapacité",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien de Magie Offensive relatif aux Malédictions - incapacité"
-    },
-    "smlocm": {
-        "name": "Lien de perturbation mentale",
-        "ia": "un",
-        "da": "le",
-        "p": "Liens de perturbation mentale",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien de Magie Offensive relatif aux Malédictions - perturbation mentale"
-    },
-    "smlocs": {
-        "name": "Lien de malchance",
-        "ia": "un",
-        "da": "le",
-        "p": "Liens de malchance",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien de Magie Offensive relatif aux Malédictions - malchance"
-    },
-    "smloch": {
-        "name": "Lien de haine",
-        "ia": "un",
-        "da": "le",
-        "p": "Liens de haine",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien de Magie Offensive relatif aux Malédictions - haine"
-    },
-    "smlod": {
-        "name": "Lien physique",
-        "ia": "un",
-        "da": "le",
-        "p": "Liens physiques",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien de Magie Offensive relatif aux Dégâts"
-    },
-    "smlodp": {
-        "name": "Lien perforant",
-        "ia": "un",
-        "da": "le",
-        "p": "Liens perforants",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien de Magie Offensive relatif aux Dégâts - Perforant"
-    },
-    "smlodb": {
-        "name": "Lien contondant",
-        "ia": "un",
-        "da": "le",
-        "p": "Liens contondants",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien de magie offensive relatif aux dégâts - contondant"
-    },
-    "smlods": {
-        "name": "Lien tranchant",
-        "ia": "un",
-        "da": "le",
-        "p": "Liens tranchants",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien de Magie Offensive relatif aux Dégâts - Tranchant"
-    },
-    "smloe": {
-        "name": "Lien élémentaire",
-        "ia": "un",
-        "da": "le",
-        "p": "Liens élémentaires",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien de Magie Offensive relatif aux Dégâts Spéciaux"
-    },
-    "smloec": {
-        "name": "Lien du froid",
-        "ia": "un",
-        "da": "le",
-        "p": "Liens du froid",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien de Magie Offensive relatif aux Dégâts Spéciaux - Froid"
-    },
-    "smloea": {
-        "name": "Lien d'acide",
-        "ia": "un",
-        "da": "le",
-        "p": "Liens d'acide",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien de Magie Offensive relatif aux Dégâts Spéciaux - Acide"
-    },
-    "smloer": {
-        "name": "Lien de pourriture",
-        "ia": "un",
-        "da": "le",
-        "p": "Liens de pourriture",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien de Magie Offensive relatif aux Dégâts Spéciaux - Pourriture"
-    },
-    "smloef": {
-        "name": "Lien de feu",
-        "ia": "un",
-        "da": "le",
-        "p": "Liens de feu",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien de Magie Offensive relatif aux Dégâts Spéciaux - Feu"
-    },
-    "smloes": {
-        "name": "Lien d'ondes de choc",
-        "ia": "un",
-        "da": "le",
-        "p": "Liens d'ondes de choc",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien de Magie Offensive relatif aux Dégâts Spéciaux - Ondes de choc"
-    },
-    "smloep": {
-        "name": "Lien de poison",
-        "ia": "un",
-        "da": "le",
-        "p": "Liens de poison",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien de Magie Offensive relatif aux Dégâts Spéciaux - Poison"
-    },
-    "smloee": {
-        "name": "Lien électrique",
-        "ia": "un",
-        "da": "le",
-        "p": "Liens électriques",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien de Magie Offensive relatif aux Dégâts Spéciaux - Electricité"
-    },
-    "smlc": {
-        "name": "Lien curatif",
-        "ia": "un",
-        "da": "le",
-        "p": "Liens curatifs",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien de Magie Curative"
-    },
-    "smlch": {
-        "name": "Lien de guérison",
-        "ia": "un",
-        "da": "le",
-        "p": "Liens de guérison",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien de Magie Curative relatif aux Guérisons"
-    },
-    "smlchp": {
-        "name": "Lien de guérison de la vie",
-        "ia": "un",
-        "da": "le",
-        "p": "Liens de guérison de la vie",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien de Magie Curative relatif aux Guérisons - Vie"
-    },
-    "smlcht": {
-        "name": "Lien de guérison de l'endurance",
-        "ia": "un",
-        "da": "le",
-        "p": "Liens de guérison de l'endurance",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien de Magie Curative relatif aux Guérisons - Sta"
-    },
-    "smlcha": {
-        "name": "Lien de guérison de la sève",
-        "ia": "un",
-        "da": "le",
-        "p": "Liens de guérison de la sève",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien de Magie Curative relatif aux Guérisons - Sève"
-    },
-    "smlchc": {
-        "name": "Lien de guérison de la concentration",
-        "ia": "un",
-        "da": "le",
-        "p": "Liens de guérison de la concentration",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien de Magie Curative relatif aux Guérisons - Concentration"
-    },
-    "sma": {
-        "name": "Magie autonome",
-        "ia": "une",
-        "da": "la",
-        "p": "Magies autonomes",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie Autonome"
-    },
-    "smae": {
-        "name": "Magie d'enchantement",
-        "ia": "une",
-        "da": "la",
-        "p": "Magies d'enchantements",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie d'Enchantement"
-    },
-    "smaes": {
-        "name": "Enchantement de sorts",
+    "sca": {
+        "name": "Créer armure",
+        "ia": "",
+        "da": "",
+        "p": "Créer armure",
+        "pia": "",
+        "pda": "",
+        "description": "Créer armure"
+    },
+    "scah": {
+        "name": "Créer armure lourde",
+        "ia": "",
+        "da": "",
+        "p": "Créer armure lourde",
+        "pia": "",
+        "pda": "",
+        "description": "Créer armure lourde"
+    },
+    "scahb": {
+        "name": "Créer bottes lourdes",
+        "ia": "",
+        "da": "",
+        "p": "Créer bottes lourdes",
+        "pia": "",
+        "pda": "",
+        "description": "Créer Bottes lourdes"
+    },
+    "scahbe": {
+        "name": "Expert en création de bottes lourdes",
         "ia": "un",
         "da": "l'\\d",
-        "p": "Magies d'enchantements - Sorts",
+        "p": "Experts en création de bottes lourdes",
         "pia": "des",
         "pda": "les",
-        "description": "Magie d'Enchantement - Sort"
+        "description": "Expert en création de bottes lourdes"
     },
-    "smaeb": {
-        "name": "Enchantement de bonus",
+    "scahbem": {
+        "name": "Maître en création de bottes lourdes",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création de bottes lourdes",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création de bottes lourdes"
+    },
+    "scahg": {
+        "name": "Créer gants lourds",
+        "ia": "",
+        "da": "",
+        "p": "Créer gants lourds",
+        "pia": "",
+        "pda": "",
+        "description": "Créer Gants lourds"
+    },
+    "scahge": {
+        "name": "Expert en création de gants lourds",
         "ia": "un",
         "da": "l'\\d",
-        "p": "Magies d'enchantements - Bonus",
+        "p": "Experts en création de gants lourds",
         "pia": "des",
         "pda": "les",
-        "description": "Magie d'Enchantement - Bonus"
+        "description": "Expert en création de gants lourds"
     },
-    "smap": {
-        "name": "Magie de création de potions",
-        "ia": "une",
-        "da": "la",
-        "p": "Magies de création de potions",
+    "scahgem": {
+        "name": "Maître en création de gants lourds",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création de gants lourds",
         "pia": "des",
         "pda": "les",
-        "description": "Magie de Fabrication de Potions"
+        "description": "Maître en création de gants lourds"
+    },
+    "scahh": {
+        "name": "Créer casque lourd",
+        "ia": "",
+        "da": "",
+        "p": "Créer casque lourd",
+        "pia": "",
+        "pda": "",
+        "description": "Créer Casque lourd"
+    },
+    "scahhe": {
+        "name": "Expert en création de casque lourd",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en création de casque lourd",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en création de casque lourd"
+    },
+    "scahhem": {
+        "name": "Maître en création de casque lourd",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création de casque lourd",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création de casque lourd"
+    },
+    "scahp": {
+        "name": "Créer pantalon lourd",
+        "ia": "",
+        "da": "",
+        "p": "Créer pantalon lourd",
+        "pia": "",
+        "pda": "",
+        "description": "Créer Pantalon Lourd"
+    },
+    "scahpe": {
+        "name": "Expert en création de pantalon lourd",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en création de pantalon lourd",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en création de pantalon Lourd"
+    },
+    "scahpem": {
+        "name": "Maître en création de pantalon lourd",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création de pantalon lourd",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création de pantalon Lourd"
+    },
+    "scahs": {
+        "name": "Créer manches lourdes",
+        "ia": "",
+        "da": "",
+        "p": "Créer manches lourdes",
+        "pia": "",
+        "pda": "",
+        "description": "Créer manches lourdes"
+    },
+    "scahse": {
+        "name": "Expert en création de manches lourdes",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en création de manches lourdes",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en création de manches lourdes"
+    },
+    "scahsem": {
+        "name": "Maître en création de manches lourdes",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création de manches lourdes",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création de manches lourdes"
+    },
+    "scahv": {
+        "name": "Créer gilet lourd",
+        "ia": "",
+        "da": "",
+        "p": "Créer gilet lourd",
+        "pia": "",
+        "pda": "",
+        "description": "Créer Gilet Lourd"
+    },
+    "scahve": {
+        "name": "Expert en création de gilet lourd",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en création de gilet lourd",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en création de gilet Lourd"
+    },
+    "scahvem": {
+        "name": "Maître en création de gilet lourd",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création de gilet lourd",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création de gilet Lourd"
+    },
+    "scal": {
+        "name": "Créer armure légère",
+        "ia": "",
+        "da": "",
+        "p": "Créer armure légère",
+        "pia": "",
+        "pda": "",
+        "description": "Créer armure légère"
+    },
+    "scalb": {
+        "name": "Créer bottes légères",
+        "ia": "",
+        "da": "",
+        "p": "Créer bottes légères",
+        "pia": "",
+        "pda": "",
+        "description": "Créer Bottes légères"
+    },
+    "scalbe": {
+        "name": "Expert en création de bottes légères",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en création de bottes légères",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en création de bottes légères"
+    },
+    "scalbem": {
+        "name": "Maître en création de bottes légères",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création de bottes légères",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création de bottes légères"
+    },
+    "scalg": {
+        "name": "Créer gants légers",
+        "ia": "",
+        "da": "",
+        "p": "Créer gants légers",
+        "pia": "",
+        "pda": "",
+        "description": "Créer Gants légers"
+    },
+    "scalge": {
+        "name": "Expert en création de gants légers",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en création de gants légers",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en création de gants légers"
+    },
+    "scalgem": {
+        "name": "Maître en création de gants légers",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création de gants légers",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création de gants légers"
+    },
+    "scalp": {
+        "name": "Créer pantalon léger",
+        "ia": "",
+        "da": "",
+        "p": "Créer pantalon léger",
+        "pia": "",
+        "pda": "",
+        "description": "Créer Pantalon Léger"
+    },
+    "scalpe": {
+        "name": "Expert en création de pantalon léger",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en création de pantalon léger",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en création de pantalon Léger"
+    },
+    "scalpem": {
+        "name": "Maître en création de pantalon léger",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création de pantalon léger",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création de pantalon Léger"
+    },
+    "scals": {
+        "name": "Créer manches légères",
+        "ia": "",
+        "da": "",
+        "p": "Créer manches légères",
+        "pia": "",
+        "pda": "",
+        "description": "Créer manches légères"
+    },
+    "scalse": {
+        "name": "Expert en création de manches légères",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en création de manches légères",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en création de manches légères"
+    },
+    "scalsem": {
+        "name": "Maître en création de manches légères",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création de manches légères",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création de manches légères"
+    },
+    "scalv": {
+        "name": "Créer gilet léger",
+        "ia": "",
+        "da": "",
+        "p": "Créer gilet léger",
+        "pia": "",
+        "pda": "",
+        "description": "Créer Gilet Léger"
+    },
+    "scalve": {
+        "name": "Expert en création de gilet léger",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en création de gilet léger",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en création de gilet léger"
+    },
+    "scalvem": {
+        "name": "Maître en création de gilet léger",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création de gilet léger",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création de gilet léger"
+    },
+    "scam": {
+        "name": "Créer armure moyenne",
+        "ia": "",
+        "da": "",
+        "p": "Créer armure moyenne",
+        "pia": "",
+        "pda": "",
+        "description": "Créer armure moyenne"
+    },
+    "scamb": {
+        "name": "Créer bottes moyennes",
+        "ia": "",
+        "da": "",
+        "p": "Créer bottes moyennes",
+        "pia": "",
+        "pda": "",
+        "description": "Créer Bottes moyennes"
+    },
+    "scambe": {
+        "name": "Expert en création de bottes moyennes",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en création de bottes moyennes",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en création de bottes moyennes"
+    },
+    "scambem": {
+        "name": "Maître en création de bottes moyennes",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création de bottes moyennes",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création de bottes moyennes"
+    },
+    "scamg": {
+        "name": "Créer gants moyens",
+        "ia": "",
+        "da": "",
+        "p": "Créer gants moyens",
+        "pia": "",
+        "pda": "",
+        "description": "Créer Gants moyens"
+    },
+    "scamge": {
+        "name": "Expert en création de gants moyens",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en création de gants moyens",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en création de gants moyens"
+    },
+    "scamgem": {
+        "name": "Maître en création de gants moyens",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création de gants moyens",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création de gants moyens"
+    },
+    "scamp": {
+        "name": "Créer pantalon moyen",
+        "ia": "",
+        "da": "",
+        "p": "Créer pantalon moyen",
+        "pia": "",
+        "pda": "",
+        "description": "Créer Pantalon Moyen"
+    },
+    "scampe": {
+        "name": "Expert en création de pantalon moyen",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en création de pantalon moyen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en création de pantalon Moyen"
+    },
+    "scampem": {
+        "name": "Maître en création de pantalon moyens",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création de pantalon moyens",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création de pantalons moyens"
+    },
+    "scams": {
+        "name": "Créer manches moyennes",
+        "ia": "",
+        "da": "",
+        "p": "Créer manches moyennes",
+        "pia": "",
+        "pda": "",
+        "description": "Créer manches moyennes"
+    },
+    "scamse": {
+        "name": "Expert en création de manches moyennes",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en création de manches moyennes",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en création de manches moyennes"
+    },
+    "scamsem": {
+        "name": "Maître en création de manches moyennes",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création de manches moyennes",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création de manches moyennes"
+    },
+    "scamv": {
+        "name": "Créer gilet moyen",
+        "ia": "",
+        "da": "",
+        "p": "Créer gilet moyen",
+        "pia": "",
+        "pda": "",
+        "description": "Créer Gilet Moyen"
+    },
+    "scamve": {
+        "name": "Expert en création de gilet moyen",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en création de gilet moyen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en création de gilet moyen"
+    },
+    "scamvem": {
+        "name": "Maître en création de gilet moyen",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création de gilet moyen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création de gilet moyen"
+    },
+    "scas": {
+        "name": "Créer bouclier",
+        "ia": "",
+        "da": "",
+        "p": "Créer bouclier",
+        "pia": "",
+        "pda": "",
+        "description": "Créer Bouclier"
+    },
+    "scasb": {
+        "name": "Créer rondache",
+        "ia": "",
+        "da": "",
+        "p": "Créer rondache",
+        "pia": "",
+        "pda": "",
+        "description": "Créer rondache"
+    },
+    "scasbe": {
+        "name": "Expert en création de rondache",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en création de rondache",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en création de rondache"
+    },
+    "scasbem": {
+        "name": "Maître en création de rondache",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création de rondache",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création de rondache"
+    },
+    "scass": {
+        "name": "Créer grand bouclier",
+        "ia": "",
+        "da": "",
+        "p": "Créer grand bouclier",
+        "pia": "",
+        "pda": "",
+        "description": "Créer grand bouclier"
+    },
+    "scasse": {
+        "name": "Expert en création de bouclier",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en création de bouclier",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en création de bouclier"
+    },
+    "scassem": {
+        "name": "Maître en création de bouclier",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création de bouclier",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création de bouclier"
+    },
+    "scj": {
+        "name": "Créer bijou",
+        "ia": "",
+        "da": "",
+        "p": "Créer bijou",
+        "pia": "",
+        "pda": "",
+        "description": "Créer Bijou"
+    },
+    "scja": {
+        "name": "Créer anneau de cheville",
+        "ia": "",
+        "da": "",
+        "p": "Créer anneau de cheville",
+        "pia": "",
+        "pda": "",
+        "description": "Créer Anneau de cheville"
+    },
+    "scjaa": {
+        "name": "Initié en création d'anneau de cheville",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Initiés en création d'anneau de cheville",
+        "pia": "des",
+        "pda": "les",
+        "description": "Initié en création d'anneau de cheville"
+    },
+    "scjaae": {
+        "name": "Expert en création d'anneau de cheville",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en création d'anneau de cheville",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en création d'anneau de cheville"
+    },
+    "scjaaem": {
+        "name": "Maître en création d'anneau de cheville",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création d'anneau de cheville",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création d'anneau de cheville"
+    },
+    "scjb": {
+        "name": "Créer bracelet",
+        "ia": "",
+        "da": "",
+        "p": "Créer bracelet",
+        "pia": "",
+        "pda": "",
+        "description": "Créer Bracelet"
+    },
+    "scjba": {
+        "name": "Initié en création de bracelet",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Initiés en création de bracelet",
+        "pia": "des",
+        "pda": "les",
+        "description": "Initié en création de bracelet"
+    },
+    "scjbae": {
+        "name": "Expert en création de bracelet",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en création de bracelet",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en création de bracelet"
+    },
+    "scjbaem": {
+        "name": "Maître en création de bracelet",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création de bracelet",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création de bracelet"
+    },
+    "scjd": {
+        "name": "Créer diadème",
+        "ia": "",
+        "da": "",
+        "p": "Créer diadème",
+        "pia": "",
+        "pda": "",
+        "description": "Créer Diadème"
+    },
+    "scjda": {
+        "name": "Initié en création de diadème",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Initiés en création de diadème",
+        "pia": "des",
+        "pda": "les",
+        "description": "Initié en création de diadème"
+    },
+    "scjdae": {
+        "name": "Expert en création de diadème",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en création de diadème",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en création de diadème"
+    },
+    "scjdaem": {
+        "name": "Maître en création de diadème",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création de diadème",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création de diadème"
+    },
+    "scje": {
+        "name": "Créer boucle d'oreille",
+        "ia": "",
+        "da": "",
+        "p": "Créer boucle d'oreille",
+        "pia": "",
+        "pda": "",
+        "description": "Créer boucle d'oreille"
+    },
+    "scjea": {
+        "name": "Initié en création de boucle d'oreille",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Initiés en création de boucle d'oreille",
+        "pia": "des",
+        "pda": "les",
+        "description": "Initié en création de boucle d'oreille"
+    },
+    "scjeae": {
+        "name": "Expert en création de boucle d'oreille",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en création de boucle d'oreille",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en création de boucle d'oreille"
+    },
+    "scjeaem": {
+        "name": "Maître en création de boucle d'oreille",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création de boucle d'oreille",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création de boucle d'oreille"
+    },
+    "scjp": {
+        "name": "Créer pendentif",
+        "ia": "",
+        "da": "",
+        "p": "Créer pendentif",
+        "pia": "",
+        "pda": "",
+        "description": "Créer Pendentif"
+    },
+    "scjpa": {
+        "name": "Initié en création de pendentif",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Initiés en création de pendentif",
+        "pia": "des",
+        "pda": "les",
+        "description": "Initié en création de pendentif"
+    },
+    "scjpae": {
+        "name": "Expert en création de pendentif",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en création de pendentif",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en création de pendentif"
+    },
+    "scjpaem": {
+        "name": "Maître en création de pendentif",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création de pendentif",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création de pendentif"
+    },
+    "scjr": {
+        "name": "Créer bague",
+        "ia": "",
+        "da": "",
+        "p": "Créer bague",
+        "pia": "",
+        "pda": "",
+        "description": "Créer Bague"
+    },
+    "scjra": {
+        "name": "Initié en création de bague",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Initiés en création de bague",
+        "pia": "des",
+        "pda": "les",
+        "description": "Initié en création de bague"
+    },
+    "scjrae": {
+        "name": "Expert en création de bague",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en création de bague",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en création de bague"
+    },
+    "scjraem": {
+        "name": "Maître en création de bague",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création de bague",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création de bague"
+    },
+    "scm": {
+        "name": "Créer arme de mêlée",
+        "ia": "",
+        "da": "",
+        "p": "Créer arme de mêlée",
+        "pia": "",
+        "pda": "",
+        "description": "Créer arme de mêlée"
+    },
+    "scm1": {
+        "name": "Créer arme de mêlée à une main",
+        "ia": "",
+        "da": "",
+        "p": "Créer arme de mêlée à une main",
+        "pia": "",
+        "pda": "",
+        "description": "Créer arme de mêlée à une Main"
+    },
+    "scm1a": {
+        "name": "Créer hache",
+        "ia": "",
+        "da": "",
+        "p": "Créer hache",
+        "pia": "",
+        "pda": "",
+        "description": "Créer Hache"
+    },
+    "scm1ae": {
+        "name": "Expert en création de hache",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en création de hache",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en création de hache"
+    },
+    "scm1aem": {
+        "name": "Maître en création de hache",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création de hache",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création de hache"
+    },
+    "scm1d": {
+        "name": "Créer dague",
+        "ia": "",
+        "da": "",
+        "p": "Créer dague",
+        "pia": "",
+        "pda": "",
+        "description": "Créer Dague"
+    },
+    "scm1de": {
+        "name": "Expert en création de dague",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en création de dague",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en création de dague"
+    },
+    "scm1dem": {
+        "name": "Maître en création de dague",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création de dague",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création de dague"
+    },
+    "scm1m": {
+        "name": "Créer massue",
+        "ia": "",
+        "da": "",
+        "p": "Créer massue",
+        "pia": "",
+        "pda": "",
+        "description": "Créer massue"
+    },
+    "scm1me": {
+        "name": "Expert en création de massue",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en création de massue",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en création de massue"
+    },
+    "scm1mem": {
+        "name": "Maître en création de massue",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création de massue",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création de massue"
+    },
+    "scm1p": {
+        "name": "Créer lance",
+        "ia": "",
+        "da": "",
+        "p": "Créer lance",
+        "pia": "",
+        "pda": "",
+        "description": "Créer Lance"
+    },
+    "scm1pe": {
+        "name": "Expert en création de lance",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en création de lance",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en création de lance"
+    },
+    "scm1pem": {
+        "name": "Maître en création de lance",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création de lance",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création de lance"
+    },
+    "scm1s": {
+        "name": "Créer épée",
+        "ia": "",
+        "da": "",
+        "p": "Créer épée",
+        "pia": "",
+        "pda": "",
+        "description": "Créer Épée"
+    },
+    "scm1se": {
+        "name": "Expert en création d'épée",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en création d'épée",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en création d'épée"
+    },
+    "scm1sem": {
+        "name": "Maître en création d'épée",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création d'épée",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création d'épée"
+    },
+    "scm1t": {
+        "name": "Créer bâton",
+        "ia": "",
+        "da": "",
+        "p": "Créer bâton",
+        "pia": "",
+        "pda": "",
+        "description": "Créer Bâton"
+    },
+    "scm1te": {
+        "name": "Expert en création de bâton",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en création de bâton",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en création de bâton"
+    },
+    "scm1tem": {
+        "name": "Maître en création de bâton",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création de bâton",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création de bâton"
+    },
+    "scm2": {
+        "name": "Créer arme de mêlée à deux mains",
+        "ia": "",
+        "da": "",
+        "p": "Créer arme de mêlée à deux mains",
+        "pia": "",
+        "pda": "",
+        "description": "Créer arme de mêlée à deux mains"
+    },
+    "scm2a": {
+        "name": "Créer hache à deux mains",
+        "ia": "",
+        "da": "",
+        "p": "Créer hache à deux mains",
+        "pia": "",
+        "pda": "",
+        "description": "Créer Hache à deux mains"
+    },
+    "scm2ae": {
+        "name": "Expert en création de hache à deux mains",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en création de hache à deux mains",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en création de hache à deux mains"
+    },
+    "scm2aem": {
+        "name": "Maître en création de hache à deux mains",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création de hache à deux mains",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création de hache à deux mains"
+    },
+    "scm2m": {
+        "name": "Créer massue à deux mains",
+        "ia": "",
+        "da": "",
+        "p": "Créer massue à deux mains",
+        "pia": "",
+        "pda": "",
+        "description": "Créer massue à deux mains"
+    },
+    "scm2me": {
+        "name": "Expert en création de massue à deux mains",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en création de massue à deux mains",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en création de massue à deux mains"
+    },
+    "scm2mem": {
+        "name": "Maître en création de massue à deux mains",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création de massue à deux mains",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création de massue à deux mains"
+    },
+    "scm2p": {
+        "name": "Créer pique",
+        "ia": "",
+        "da": "",
+        "p": "Créer pique",
+        "pia": "",
+        "pda": "",
+        "description": "Créer Pique"
+    },
+    "scm2pe": {
+        "name": "Expert en création de pique",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en création de pique",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en création de pique"
+    },
+    "scm2pem": {
+        "name": "Maître en création de pique",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création de pique",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création de pique"
+    },
+    "scm2s": {
+        "name": "Créer épée à deux mains",
+        "ia": "",
+        "da": "",
+        "p": "Créer épée à deux mains",
+        "pia": "",
+        "pda": "",
+        "description": "Créer Épéee à deux mains"
+    },
+    "scm2se": {
+        "name": "Expert en création d'épée en deux mains",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en création d'épée en deux mains",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en création d'épée en deux mains"
+    },
+    "scm2sem": {
+        "name": "Maître en création d'épée en deux mains",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création d'épée en deux mains",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création d'épée en deux mains"
+    },
+    "scmc": {
+        "name": "Créer arme de combat rapproché",
+        "ia": "",
+        "da": "",
+        "p": "Créer armes de combat rapproché",
+        "pia": "",
+        "pda": "",
+        "description": "Créer arme de combat rapproché"
+    },
+    "scmca": {
+        "name": "Initié en création d'arme de combat rapproché",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Initiés en création d'arme de combat rapproché",
+        "pia": "des",
+        "pda": "les",
+        "description": "Initié en création d'arme de combat rapproché"
+    },
+    "scmcae": {
+        "name": "Expert en création d'arme de combat rapproché",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en création d'arme de combat rapproché",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en création d'arme de combat rapproché"
+    },
+    "scmcaem": {
+        "name": "Maître en création d'arme de combat rapproché",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création d'arme de combat rapproché",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création d'arme de combat rapproché"
+    },
+    "scr": {
+        "name": "Créer arme de tir",
+        "ia": "",
+        "da": "",
+        "p": "Créer arme de tir",
+        "pia": "",
+        "pda": "",
+        "description": "Créer arme de tir"
+    },
+    "scr1": {
+        "name": "Créer arme de tir à une main",
+        "ia": "",
+        "da": "",
+        "p": "Créer arme de tir à une main",
+        "pia": "",
+        "pda": "",
+        "description": "Créer arme de tir à une Main"
+    },
+    "scr1b": {
+        "name": "Créer pistolet-arbalète",
+        "ia": "",
+        "da": "",
+        "p": "Créer pistolet-arbalète",
+        "pia": "",
+        "pda": "",
+        "description": "Créer Pistolet-arbalète"
+    },
+    "scr1be": {
+        "name": "Expert en création de pistolet-arbalète",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en création de pistolet-arbalète",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en création de pistolet-arbalète"
+    },
+    "scr1bem": {
+        "name": "Maître en création de pistolet-arbalète",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création de pistolet-arbalète",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création de pistolet-arbalète"
+    },
+    "scr1p": {
+        "name": "Créer pistolet",
+        "ia": "",
+        "da": "",
+        "p": "Créer pistolet",
+        "pia": "",
+        "pda": "",
+        "description": "Créer Pistolet"
+    },
+    "scr1pe": {
+        "name": "Expert en création de pistolet",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en création de pistolet",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en création de pistolet"
+    },
+    "scr1pem": {
+        "name": "Maître en création de pistolet",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création de pistolet",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création de pistolet"
+    },
+    "scr2": {
+        "name": "Créer arme de tir à deux mains",
+        "ia": "",
+        "da": "",
+        "p": "Créer arme de tir à deux mains",
+        "pia": "",
+        "pda": "",
+        "description": "Créer arme de tir à deux mains"
+    },
+    "scr2a": {
+        "name": "Créer mitrailleuse",
+        "ia": "",
+        "da": "",
+        "p": "Créer mitrailleuse",
+        "pia": "",
+        "pda": "",
+        "description": "Créer Mitrailleuse"
+    },
+    "scr2ae": {
+        "name": "Expert en création de mitrailleuse",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en création de mitrailleuse",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en création de mitrailleuse"
+    },
+    "scr2aem": {
+        "name": "Maître en création de mitrailleuse",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création de mitrailleuse",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création de mitrailleuse"
+    },
+    "scr2b": {
+        "name": "Créer fusil-arbalète",
+        "ia": "",
+        "da": "",
+        "p": "Créer fusil-arbalète",
+        "pia": "",
+        "pda": "",
+        "description": "Créer Fusil-arbalète"
+    },
+    "scr2be": {
+        "name": "Expert en création de fusil-arbalète",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en création de fusil-arbalète",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en création de fusil-arbalète"
+    },
+    "scr2bem": {
+        "name": "Maître en création de fusil-arbalète",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création de fusil-arbalète",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création de fusil-arbalète"
+    },
+    "scr2l": {
+        "name": "Créer lance-grenades",
+        "ia": "",
+        "da": "",
+        "p": "Créer lance-grenades",
+        "pia": "",
+        "pda": "",
+        "description": "Créer Lance-grenades"
+    },
+    "scr2le": {
+        "name": "Expert en création de lance-grenades",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en création de lance-grenades",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en création de lance-grenades"
+    },
+    "scr2lem": {
+        "name": "Maître en création de lance-grenades",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création de lance-grenades",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création de lance-grenades"
+    },
+    "scr2r": {
+        "name": "Créer fusil",
+        "ia": "",
+        "da": "",
+        "p": "Créer fusil",
+        "pia": "",
+        "pda": "",
+        "description": "Créer Fusil"
+    },
+    "scr2re": {
+        "name": "Expert en création de fusil",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en création de fusil",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en création de fusil"
+    },
+    "scr2rem": {
+        "name": "Maître en création de fusil",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en création de fusil",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en création de fusil"
     },
     "sd": {
         "name": "Auto-défense",
@@ -3400,6 +3409,123 @@
         "pia": "",
         "pda": "",
         "description": "Porter armure"
+    },
+    "sdah": {
+        "name": "Porter armure lourde",
+        "ia": "",
+        "da": "",
+        "p": "Porter armure lourde",
+        "pia": "",
+        "pda": "",
+        "description": "Porter armure lourde"
+    },
+    "sdahf": {
+        "name": "Porter armure lourde fyros",
+        "ia": "",
+        "da": "",
+        "p": "Porter armure lourde fyros",
+        "pia": "",
+        "pda": "",
+        "description": "Porter armure lourde fyros"
+    },
+    "sdahfa": {
+        "name": "Expert en port d'armure lourde fyros",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en port d'armure lourde fyros",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en port d'armure lourde fyros"
+    },
+    "sdahfae": {
+        "name": "Maître en port d'armure lourde fyros",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en port d'armure lourde fyros",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en port d'armure lourde fyros"
+    },
+    "sdahm": {
+        "name": "Porter armure lourde matis",
+        "ia": "",
+        "da": "",
+        "p": "Porter armure lourde matis",
+        "pia": "",
+        "pda": "",
+        "description": "Porter armure lourde matis"
+    },
+    "sdahma": {
+        "name": "Expert en port d'armure lourde matis",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en port d'armure lourde matis",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en port d'armure lourde matis"
+    },
+    "sdahmae": {
+        "name": "Maître en port d'armure lourde matis",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en port d'armure lourde matis",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en port d'armure lourde matis"
+    },
+    "sdaht": {
+        "name": "Porter armure lourde tryker",
+        "ia": "",
+        "da": "",
+        "p": "Porter armure lourde tryker",
+        "pia": "",
+        "pda": "",
+        "description": "Porter armure lourde tryker"
+    },
+    "sdahta": {
+        "name": "Expert en port d'armure lourde tryker",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en port d'armure lourde tryker",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en port d'armure lourde tryker"
+    },
+    "sdahtae": {
+        "name": "Maître en port d'armure lourde tryker",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en port d'armure lourde tryker",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en port d'armure lourde tryker"
+    },
+    "sdahz": {
+        "name": "Porter armure lourde zoraï",
+        "ia": "",
+        "da": "",
+        "p": "Porter armure lourde zoraï",
+        "pia": "",
+        "pda": "",
+        "description": "Porter armure lourde zoraï"
+    },
+    "sdahza": {
+        "name": "Expert en port d'armure lourde zoraï",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en port d'armure lourde zoraï",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en port d'armure lourde zoraï"
+    },
+    "sdahzae": {
+        "name": "Maître en port d'armure lourde zoraï",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en port d'armure lourde zoraï",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en port d'armure lourde zoraï"
     },
     "sdal": {
         "name": "Porter armure légère",
@@ -3635,122 +3761,50 @@
         "pda": "les",
         "description": "Maître en port d'armure moyenne zoraï"
     },
-    "sdah": {
-        "name": "Porter armure lourde",
-        "ia": "",
-        "da": "",
-        "p": "Porter armure lourde",
-        "pia": "",
-        "pda": "",
-        "description": "Porter armure lourde"
-    },
-    "sdahf": {
-        "name": "Porter armure lourde fyros",
-        "ia": "",
-        "da": "",
-        "p": "Porter armure lourde fyros",
-        "pia": "",
-        "pda": "",
-        "description": "Porter armure lourde fyros"
-    },
-    "sdahfa": {
-        "name": "Expert en port d'armure lourde fyros",
-        "ia": "un",
+    "sdd": {
+        "name": "Esquive",
+        "ia": "une",
         "da": "l'\\d",
-        "p": "Experts en port d'armure lourde fyros",
+        "p": "Esquives",
         "pia": "des",
         "pda": "les",
-        "description": "Expert en port d'armure lourde fyros"
+        "description": "Esquive"
     },
-    "sdahfae": {
-        "name": "Maître en port d'armure lourde fyros",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en port d'armure lourde fyros",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en port d'armure lourde fyros"
-    },
-    "sdahm": {
-        "name": "Porter armure lourde matis",
-        "ia": "",
-        "da": "",
-        "p": "Porter armure lourde matis",
-        "pia": "",
-        "pda": "",
-        "description": "Porter armure lourde matis"
-    },
-    "sdahma": {
-        "name": "Expert en port d'armure lourde matis",
-        "ia": "un",
+    "sdda": {
+        "name": "Esquive rapide",
+        "ia": "une",
         "da": "l'\\d",
-        "p": "Experts en port d'armure lourde matis",
+        "p": "Esquives rapides",
         "pia": "des",
         "pda": "les",
-        "description": "Expert en port d'armure lourde matis"
+        "description": "Esquive Rapide"
     },
-    "sdahmae": {
-        "name": "Maître en port d'armure lourde matis",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en port d'armure lourde matis",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en port d'armure lourde matis"
-    },
-    "sdaht": {
-        "name": "Porter armure lourde tryker",
-        "ia": "",
-        "da": "",
-        "p": "Porter armure lourde tryker",
-        "pia": "",
-        "pda": "",
-        "description": "Porter armure lourde tryker"
-    },
-    "sdahta": {
-        "name": "Expert en port d'armure lourde tryker",
-        "ia": "un",
+    "sddat": {
+        "name": "Esquive instinctive",
+        "ia": "une",
         "da": "l'\\d",
-        "p": "Experts en port d'armure lourde tryker",
+        "p": "Esquives Instinctives",
         "pia": "des",
         "pda": "les",
-        "description": "Expert en port d'armure lourde tryker"
+        "description": "Esquive Instinctive"
     },
-    "sdahtae": {
-        "name": "Maître en port d'armure lourde tryker",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en port d'armure lourde tryker",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en port d'armure lourde tryker"
-    },
-    "sdahz": {
-        "name": "Porter armure lourde zoraï",
-        "ia": "",
-        "da": "",
-        "p": "Porter armure lourde zoraï",
-        "pia": "",
-        "pda": "",
-        "description": "Porter armure lourde zoraï"
-    },
-    "sdahza": {
-        "name": "Expert en port d'armure lourde zoraï",
-        "ia": "un",
+    "sddatm": {
+        "name": "Expert en esquive",
+        "ia": "une",
         "da": "l'\\d",
-        "p": "Experts en port d'armure lourde zoraï",
+        "p": "Experts en esquive",
         "pia": "des",
         "pda": "les",
-        "description": "Expert en port d'armure lourde zoraï"
+        "description": "Expert en Esquive"
     },
-    "sdahzae": {
-        "name": "Maître en port d'armure lourde zoraï",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en port d'armure lourde zoraï",
+    "sddatme": {
+        "name": "Maître en esquive",
+        "ia": "une",
+        "da": "l'\\d",
+        "p": "Maîtres en esquive",
         "pia": "des",
         "pda": "les",
-        "description": "Maître en port d'armure lourde zoraï"
+        "description": "Maître en Esquive"
     },
     "sds": {
         "name": "Manier un bouclier",
@@ -3994,672 +4048,6 @@
         "pia": "des",
         "pda": "les",
         "description": "Maître en maniement de grands Bouclier zoraï"
-    },
-    "sdd": {
-        "name": "Esquive",
-        "ia": "une",
-        "da": "l'\\d",
-        "p": "Esquives",
-        "pia": "des",
-        "pda": "les",
-        "description": "Esquive"
-    },
-    "sdda": {
-        "name": "Esquive rapide",
-        "ia": "une",
-        "da": "l'\\d",
-        "p": "Esquives rapides",
-        "pia": "des",
-        "pda": "les",
-        "description": "Esquive Rapide"
-    },
-    "sddat": {
-        "name": "Esquive instinctive",
-        "ia": "une",
-        "da": "l'\\d",
-        "p": "Esquives Instinctives",
-        "pia": "des",
-        "pda": "les",
-        "description": "Esquive Instinctive"
-    },
-    "sddatm": {
-        "name": "Expert en esquive",
-        "ia": "une",
-        "da": "l'\\d",
-        "p": "Experts en esquive",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en Esquive"
-    },
-    "sddatme": {
-        "name": "Maître en esquive",
-        "ia": "une",
-        "da": "l'\\d",
-        "p": "Maîtres en esquive",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en Esquive"
-    },
-    "uknown": {
-        "name": "Compétence inconnue",
-        "ia": "",
-        "da": "",
-        "p": "Compétences inconnues",
-        "pia": "",
-        "pda": "",
-        "description": "Compétence Inconnue"
-    },
-    "unknown": {
-        "name": "Compétence inconnue",
-        "ia": "",
-        "da": "",
-        "p": "Compétences inconnues",
-        "pia": "",
-        "pda": "",
-        "description": "Compétence Inconnue"
-    },
-    "sh": {
-        "name": "Extraire les matières premières",
-        "ia": "",
-        "da": "",
-        "p": "Extraire les matières premières",
-        "pia": "",
-        "pda": "",
-        "description": "Extraire les Matières Premières"
-    },
-    "shf": {
-        "name": "Prospection",
-        "ia": "une",
-        "da": "la",
-        "p": "Prospections",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "shff": {
-        "name": "Prospection forestière",
-        "ia": "une",
-        "da": "la",
-        "p": "Prospections forestières",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "shffa": {
-        "name": "Initié en prospection forestière",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Initiés en prospection forestière",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "shffae": {
-        "name": "Expert en prospection forestière",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en prospection forestière",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "shffaem": {
-        "name": "Maître en prospection forestière",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en prospection forestière",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "shfd": {
-        "name": "Prospection désertique",
-        "ia": "une",
-        "da": "la",
-        "p": "Prospections désertiques",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "shfda": {
-        "name": "Initié en prospection désertique",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Initiés en prospection désertique",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "shfdae": {
-        "name": "Expert en prospection désertique",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en prospection désertique",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "shfdaem": {
-        "name": "Maître en prospection désertique",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en prospection désertique",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "shfj": {
-        "name": "Prospection dans la Jungle",
-        "ia": "une",
-        "da": "la",
-        "p": "Prospections",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "shfja": {
-        "name": "Initié en prospection de la Jungle",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Initiés en prospection de la Jungle",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "shfjae": {
-        "name": "Expert en prospection de la Jungle",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en prospection de la Jungle",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "shfjaem": {
-        "name": "Maître en prospection de la Jungle",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en prospection de la Jungle",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "shfl": {
-        "name": "Prospection lacustre",
-        "ia": "une",
-        "da": "la",
-        "p": "Prospections lacustres",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "shfla": {
-        "name": "Initié en prospection lacustre",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Initiés en prospection lacustre",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "shflae": {
-        "name": "Expert en prospection lacustre",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en prospection lacustre",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "shflaem": {
-        "name": "Maître en prospection lacustre",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en prospection Lacustre",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "shfp": {
-        "name": "Prospection dans les Primes Racines",
-        "ia": "une",
-        "da": "la",
-        "p": "Prospections des Primes Racines",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "shfpa": {
-        "name": "Initié en prospection des Primes Racines",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Initiés en prospection des Primes Racines",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "shfpae": {
-        "name": "Expert en prospection des Primes Racines",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en prospection des Primes Racines",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "shfpaem": {
-        "name": "Maître en prospection des Primes Racines",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en prospection des Primes Racines",
-        "pia": "des",
-        "pda": "les",
-        "description": ""
-    },
-    "smtoeca": {
-        "name": "Initié en magie du froid",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Initiés en magie du froid",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie offensive avancée ciblée sur les dégâts spéciaux - Froid"
-    },
-    "smtoeaa": {
-        "name": "Initié en magie d'acide",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Initiés en magie d'acide",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie offensive avancée ciblée sur les dégâts spéciaux - Acide"
-    },
-    "smtoera": {
-        "name": "Initié en magie de la pourriture",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Initiés en magie de la pourriture",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie offensive avancée ciblée sur les dégâts spéciaux - Pourriture"
-    },
-    "smtoefa": {
-        "name": "Initié en magie du feu",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Initiés en magie du feu",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie offensive avancée ciblée sur les dégâts spéciaux - Feu"
-    },
-    "smtoesa": {
-        "name": "Initié en magie des ondes de choc",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Initiés en magie des ondes de choc",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie offensive avancée ciblée sur les dégâts spéciaux - Onde de choc"
-    },
-    "smtoepa": {
-        "name": "Initié en magie du poison",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Initiés en magie du poison",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie offensive avancée ciblée sur les dégâts spéciaux - Poison"
-    },
-    "smtoeea": {
-        "name": "Initié en magie électrique",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Initiés en magie électrique",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie offensive avancée ciblée sur les dégâts spéciaux - Electricité"
-    },
-    "smtchpa": {
-        "name": "Initié en magie de guérison vie",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Initiés en magie de guérison vie",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie Curative Avancée Ciblée sur la Guérison - Vie"
-    },
-    "smtchta": {
-        "name": "Initié en magie de guérison endurance",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Initiés en magie de guérison endurance",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie Curative Avancée Ciblée sur la Guérison - Sta"
-    },
-    "smtchaa": {
-        "name": "Initié en magie de guérison sève",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Initiés en magie de guérison sève",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie Curative Avancée Ciblée sur la Guérison - Sève"
-    },
-    "smtchca": {
-        "name": "Initié en magie de guérison concentration",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Initiés en magie de guérison concentration",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie curative avancée ciblée sur la guérison - Concentration"
-    },
-    "smlosma": {
-        "name": "Initié en lien de folie",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Initiés en lien de folie",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien avancé de magie offensive relatif aux maladies - Folie"
-    },
-    "smlossa": {
-        "name": "Initié en lien de diminution de la vitesse",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Initiés en lien de diminution de la Vitesse",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien avancé de magie offensive relatif aux maladies - Diminution de la Vitesse"
-    },
-    "smlocia": {
-        "name": "Initié en lien d'incapacité",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Initiés en lien d'Incapacité",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien avancé de magie offensive relatif aux malédictions - Incapacité"
-    },
-    "smlocsa": {
-        "name": "Initié en lien de malchance",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Initiés en lien de malchance",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien avancé de magie offensive relatif aux malédictions - Malchance"
-    },
-    "smloeca": {
-        "name": "Initié en lien du froid",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Initiés en lien du froid",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien avancé de magie offensive relatif aux dégâts spéciaux - Froid"
-    },
-    "smloeaa": {
-        "name": "Initié en lien d'acide",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Initiés en lien d'acide",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien avancé de magie offensive relatif aux dégâts spéciaux - Acide"
-    },
-    "smloera": {
-        "name": "Initié en lien de pourriture",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Initiés en lien de pourriture",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien avancé de magie offensive relatif aux dégâts spéciaux - Pourriture"
-    },
-    "smloefa": {
-        "name": "Initié en lien de feu",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Initiés en lien de feu",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien avancé de magie offensive relatif aux dégâts spéciaux - Feu"
-    },
-    "smloesa": {
-        "name": "Initié en lien d'ondes de choc",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Initiés en lien d'ondes de choc",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien avancé de magie offensive relatif aux dégâts spéciaux - Ondes de choc"
-    },
-    "smloepa": {
-        "name": "Initié en lien de poison",
-        "ia": "un",
-        "da": "l",
-        "p": "Initiés en lien de poison",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien avancé de magie offensive relatif aux dégâts spéciaux - Poison"
-    },
-    "smloeea": {
-        "name": "Initié en lien électrique",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Initiés en lien électrique",
-        "pia": "des",
-        "pda": "les",
-        "description": "Lien avancé de magie offensive relatif aux dégâts spéciaux - Electricité"
-    },
-    "smd": {
-        "name": "Magie salvatrice",
-        "ia": "une",
-        "da": "la",
-        "p": "Magies salvatrices",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie Salvatrice"
-    },
-    "smda": {
-        "name": "Magie neutralisante",
-        "ia": "une",
-        "da": "la",
-        "p": "Magies neutralisantes",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie Neutralisante"
-    },
-    "smdaa": {
-        "name": "Initié en magie neutralisante",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Initiés en magie neutralisante",
-        "pia": "des",
-        "pda": "les",
-        "description": "Initié en Magie Neutralisante"
-    },
-    "smdaae": {
-        "name": "Expert en magie neutralisante",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en magie neutralisante",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en Magie Neutralisante"
-    },
-    "smdaaem": {
-        "name": "Maître en magie neutralisante",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en magie neutralisante",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en Magie Neutralisante"
-    },
-    "smdh": {
-        "name": "Magie curative",
-        "ia": "une",
-        "da": "la",
-        "p": "Magies curatives",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie Curative"
-    },
-    "smdha": {
-        "name": "Initié en magie curative",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Initiés en magie curative",
-        "pia": "des",
-        "pda": "les",
-        "description": "Initié en Magie Curative"
-    },
-    "smdhae": {
-        "name": "Expert en magie curative",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en magie curative",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en Magie Curative"
-    },
-    "smdhaem": {
-        "name": "Maître en magie curative",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en magie curative",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en Magie Curative"
-    },
-    "smo": {
-        "name": "Magie destructrice",
-        "ia": "une",
-        "da": "la",
-        "p": "Magies destructrices",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie Destructrice"
-    },
-    "smoa": {
-        "name": "Magie débilitante",
-        "ia": "une",
-        "da": "la",
-        "p": "Magies débilitantes",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie Débilitante"
-    },
-    "smoaa": {
-        "name": "Initié en magie débilitante",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Initiés en magie débilitante",
-        "pia": "des",
-        "pda": "les",
-        "description": "Initié en Magie Débilitante"
-    },
-    "smoaae": {
-        "name": "Expert en magie débilitante",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en magie débilitante",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en Magie Débilitante"
-    },
-    "smoaaem": {
-        "name": "Maître en magie débilitante",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en magie débilitante",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en Magie Débilitante"
-    },
-    "smoe": {
-        "name": "Magie élémentaire",
-        "ia": "une",
-        "da": "la",
-        "p": "Magies élémentaires",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie Elémentaire"
-    },
-    "smoea": {
-        "name": "Initié en magie élémentaire",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Initiés en magie élémentaire",
-        "pia": "des",
-        "pda": "les",
-        "description": "Initié en Magie Elémentaire"
-    },
-    "smoeae": {
-        "name": "Expert en magie élémentaire",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en magie élémentaire",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en Magie Elémentaire"
-    },
-    "smoeaem": {
-        "name": "Maître en magie élémentaire",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en magie élémentaire",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en Magie Elémentaire"
-    },
-    "sms": {
-        "name": "Magie sur soi",
-        "ia": "une",
-        "da": "la",
-        "p": "Magies sur soi",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie sur Soi"
-    },
-    "smss": {
-        "name": "Magie sur soi instinctive",
-        "ia": "une",
-        "da": "la",
-        "p": "Magies sur soi Instinctive",
-        "pia": "des",
-        "pda": "les",
-        "description": "Magie sur Soi Instinctive"
-    },
-    "smssa": {
-        "name": "Initié en magie sur soi",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Initiés en magie sur soi",
-        "pia": "des",
-        "pda": "les",
-        "description": "Initié en Magie sur Soi"
-    },
-    "smssae": {
-        "name": "Expert en magie sur soi",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en magie sur soi",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en Magie sur Soi"
-    },
-    "smssaem": {
-        "name": "Maître en magie sur soi",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en magie sur soi",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en Magie sur Soi"
     },
     "sf": {
         "name": "Combat",
@@ -5300,1282 +4688,1894 @@
         "pda": "les",
         "description": ""
     },
-    "sca": {
-        "name": "Créer armure",
+    "sh": {
+        "name": "Extraire les matières premières",
         "ia": "",
         "da": "",
-        "p": "Créer armure",
+        "p": "Extraire les matières premières",
         "pia": "",
         "pda": "",
-        "description": "Créer armure"
+        "description": "Extraire les Matières Premières"
     },
-    "scj": {
-        "name": "Créer bijou",
-        "ia": "",
-        "da": "",
-        "p": "Créer bijou",
-        "pia": "",
-        "pda": "",
-        "description": "Créer Bijou"
-    },
-    "scm": {
-        "name": "Créer arme de mêlée",
-        "ia": "",
-        "da": "",
-        "p": "Créer arme de mêlée",
-        "pia": "",
-        "pda": "",
-        "description": "Créer arme de mêlée"
-    },
-    "scr": {
-        "name": "Créer arme de tir",
-        "ia": "",
-        "da": "",
-        "p": "Créer arme de tir",
-        "pia": "",
-        "pda": "",
-        "description": "Créer arme de tir"
-    },
-    "scah": {
-        "name": "Créer armure lourde",
-        "ia": "",
-        "da": "",
-        "p": "Créer armure lourde",
-        "pia": "",
-        "pda": "",
-        "description": "Créer armure lourde"
-    },
-    "scal": {
-        "name": "Créer armure légère",
-        "ia": "",
-        "da": "",
-        "p": "Créer armure légère",
-        "pia": "",
-        "pda": "",
-        "description": "Créer armure légère"
-    },
-    "scam": {
-        "name": "Créer armure moyenne",
-        "ia": "",
-        "da": "",
-        "p": "Créer armure moyenne",
-        "pia": "",
-        "pda": "",
-        "description": "Créer armure moyenne"
-    },
-    "scas": {
-        "name": "Créer bouclier",
-        "ia": "",
-        "da": "",
-        "p": "Créer bouclier",
-        "pia": "",
-        "pda": "",
-        "description": "Créer Bouclier"
-    },
-    "scja": {
-        "name": "Créer anneau de cheville",
-        "ia": "",
-        "da": "",
-        "p": "Créer anneau de cheville",
-        "pia": "",
-        "pda": "",
-        "description": "Créer Anneau de cheville"
-    },
-    "scjb": {
-        "name": "Créer bracelet",
-        "ia": "",
-        "da": "",
-        "p": "Créer bracelet",
-        "pia": "",
-        "pda": "",
-        "description": "Créer Bracelet"
-    },
-    "scjd": {
-        "name": "Créer diadème",
-        "ia": "",
-        "da": "",
-        "p": "Créer diadème",
-        "pia": "",
-        "pda": "",
-        "description": "Créer Diadème"
-    },
-    "scje": {
-        "name": "Créer boucle d'oreille",
-        "ia": "",
-        "da": "",
-        "p": "Créer boucle d'oreille",
-        "pia": "",
-        "pda": "",
-        "description": "Créer boucle d'oreille"
-    },
-    "scjp": {
-        "name": "Créer pendentif",
-        "ia": "",
-        "da": "",
-        "p": "Créer pendentif",
-        "pia": "",
-        "pda": "",
-        "description": "Créer Pendentif"
-    },
-    "scjr": {
-        "name": "Créer bague",
-        "ia": "",
-        "da": "",
-        "p": "Créer bague",
-        "pia": "",
-        "pda": "",
-        "description": "Créer Bague"
-    },
-    "scm1": {
-        "name": "Créer arme de mêlée à une main",
-        "ia": "",
-        "da": "",
-        "p": "Créer arme de mêlée à une main",
-        "pia": "",
-        "pda": "",
-        "description": "Créer arme de mêlée à une Main"
-    },
-    "scm2": {
-        "name": "Créer arme de mêlée à deux mains",
-        "ia": "",
-        "da": "",
-        "p": "Créer arme de mêlée à deux mains",
-        "pia": "",
-        "pda": "",
-        "description": "Créer arme de mêlée à deux mains"
-    },
-    "scr1": {
-        "name": "Créer arme de tir à une main",
-        "ia": "",
-        "da": "",
-        "p": "Créer arme de tir à une main",
-        "pia": "",
-        "pda": "",
-        "description": "Créer arme de tir à une Main"
-    },
-    "scr2": {
-        "name": "Créer arme de tir à deux mains",
-        "ia": "",
-        "da": "",
-        "p": "Créer arme de tir à deux mains",
-        "pia": "",
-        "pda": "",
-        "description": "Créer arme de tir à deux mains"
-    },
-    "scahb": {
-        "name": "Créer bottes lourdes",
-        "ia": "",
-        "da": "",
-        "p": "Créer bottes lourdes",
-        "pia": "",
-        "pda": "",
-        "description": "Créer Bottes lourdes"
-    },
-    "scahg": {
-        "name": "Créer gants lourds",
-        "ia": "",
-        "da": "",
-        "p": "Créer gants lourds",
-        "pia": "",
-        "pda": "",
-        "description": "Créer Gants lourds"
-    },
-    "scahh": {
-        "name": "Créer casque lourd",
-        "ia": "",
-        "da": "",
-        "p": "Créer casque lourd",
-        "pia": "",
-        "pda": "",
-        "description": "Créer Casque lourd"
-    },
-    "scahp": {
-        "name": "Créer pantalon lourd",
-        "ia": "",
-        "da": "",
-        "p": "Créer pantalon lourd",
-        "pia": "",
-        "pda": "",
-        "description": "Créer Pantalon Lourd"
-    },
-    "scahs": {
-        "name": "Créer manches lourdes",
-        "ia": "",
-        "da": "",
-        "p": "Créer manches lourdes",
-        "pia": "",
-        "pda": "",
-        "description": "Créer manches lourdes"
-    },
-    "scahv": {
-        "name": "Créer gilet lourd",
-        "ia": "",
-        "da": "",
-        "p": "Créer gilet lourd",
-        "pia": "",
-        "pda": "",
-        "description": "Créer Gilet Lourd"
-    },
-    "scalb": {
-        "name": "Créer bottes légères",
-        "ia": "",
-        "da": "",
-        "p": "Créer bottes légères",
-        "pia": "",
-        "pda": "",
-        "description": "Créer Bottes légères"
-    },
-    "scalg": {
-        "name": "Créer gants légers",
-        "ia": "",
-        "da": "",
-        "p": "Créer gants légers",
-        "pia": "",
-        "pda": "",
-        "description": "Créer Gants légers"
-    },
-    "scalp": {
-        "name": "Créer pantalon léger",
-        "ia": "",
-        "da": "",
-        "p": "Créer pantalon léger",
-        "pia": "",
-        "pda": "",
-        "description": "Créer Pantalon Léger"
-    },
-    "scals": {
-        "name": "Créer manches légères",
-        "ia": "",
-        "da": "",
-        "p": "Créer manches légères",
-        "pia": "",
-        "pda": "",
-        "description": "Créer manches légères"
-    },
-    "scalv": {
-        "name": "Créer gilet léger",
-        "ia": "",
-        "da": "",
-        "p": "Créer gilet léger",
-        "pia": "",
-        "pda": "",
-        "description": "Créer Gilet Léger"
-    },
-    "scamb": {
-        "name": "Créer bottes moyennes",
-        "ia": "",
-        "da": "",
-        "p": "Créer bottes moyennes",
-        "pia": "",
-        "pda": "",
-        "description": "Créer Bottes moyennes"
-    },
-    "scamg": {
-        "name": "Créer gants moyens",
-        "ia": "",
-        "da": "",
-        "p": "Créer gants moyens",
-        "pia": "",
-        "pda": "",
-        "description": "Créer Gants moyens"
-    },
-    "scamp": {
-        "name": "Créer pantalon moyen",
-        "ia": "",
-        "da": "",
-        "p": "Créer pantalon moyen",
-        "pia": "",
-        "pda": "",
-        "description": "Créer Pantalon Moyen"
-    },
-    "scams": {
-        "name": "Créer manches moyennes",
-        "ia": "",
-        "da": "",
-        "p": "Créer manches moyennes",
-        "pia": "",
-        "pda": "",
-        "description": "Créer manches moyennes"
-    },
-    "scamv": {
-        "name": "Créer gilet moyen",
-        "ia": "",
-        "da": "",
-        "p": "Créer gilet moyen",
-        "pia": "",
-        "pda": "",
-        "description": "Créer Gilet Moyen"
-    },
-    "scass": {
-        "name": "Créer grand bouclier",
-        "ia": "",
-        "da": "",
-        "p": "Créer grand bouclier",
-        "pia": "",
-        "pda": "",
-        "description": "Créer grand bouclier"
-    },
-    "scasb": {
-        "name": "Créer rondache",
-        "ia": "",
-        "da": "",
-        "p": "Créer rondache",
-        "pia": "",
-        "pda": "",
-        "description": "Créer rondache"
-    },
-    "scjaa": {
-        "name": "Initié en création d'anneau de cheville",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Initiés en création d'anneau de cheville",
+    "shf": {
+        "name": "Prospection",
+        "ia": "une",
+        "da": "la",
+        "p": "Prospections",
         "pia": "des",
         "pda": "les",
-        "description": "Initié en création d'anneau de cheville"
+        "description": ""
     },
-    "scjba": {
-        "name": "Initié en création de bracelet",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Initiés en création de bracelet",
+    "shfd": {
+        "name": "Prospection désertique",
+        "ia": "une",
+        "da": "la",
+        "p": "Prospections désertiques",
         "pia": "des",
         "pda": "les",
-        "description": "Initié en création de bracelet"
+        "description": ""
     },
-    "scjda": {
-        "name": "Initié en création de diadème",
+    "shfda": {
+        "name": "Initié en prospection désertique",
         "ia": "un",
         "da": "l'\\d",
-        "p": "Initiés en création de diadème",
+        "p": "Initiés en prospection désertique",
         "pia": "des",
         "pda": "les",
-        "description": "Initié en création de diadème"
+        "description": ""
     },
-    "scjea": {
-        "name": "Initié en création de boucle d'oreille",
+    "shfdae": {
+        "name": "Expert en prospection désertique",
         "ia": "un",
         "da": "l'\\d",
-        "p": "Initiés en création de boucle d'oreille",
+        "p": "Experts en prospection désertique",
         "pia": "des",
         "pda": "les",
-        "description": "Initié en création de boucle d'oreille"
+        "description": ""
     },
-    "scjpa": {
-        "name": "Initié en création de pendentif",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Initiés en création de pendentif",
-        "pia": "des",
-        "pda": "les",
-        "description": "Initié en création de pendentif"
-    },
-    "scjra": {
-        "name": "Initié en création de bague",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Initiés en création de bague",
-        "pia": "des",
-        "pda": "les",
-        "description": "Initié en création de bague"
-    },
-    "scm1m": {
-        "name": "Créer massue",
-        "ia": "",
-        "da": "",
-        "p": "Créer massue",
-        "pia": "",
-        "pda": "",
-        "description": "Créer massue"
-    },
-    "scm1t": {
-        "name": "Créer bâton",
-        "ia": "",
-        "da": "",
-        "p": "Créer bâton",
-        "pia": "",
-        "pda": "",
-        "description": "Créer Bâton"
-    },
-    "scm1p": {
-        "name": "Créer lance",
-        "ia": "",
-        "da": "",
-        "p": "Créer lance",
-        "pia": "",
-        "pda": "",
-        "description": "Créer Lance"
-    },
-    "scm1a": {
-        "name": "Créer hache",
-        "ia": "",
-        "da": "",
-        "p": "Créer hache",
-        "pia": "",
-        "pda": "",
-        "description": "Créer Hache"
-    },
-    "scm1s": {
-        "name": "Créer épée",
-        "ia": "",
-        "da": "",
-        "p": "Créer épée",
-        "pia": "",
-        "pda": "",
-        "description": "Créer Épée"
-    },
-    "scm1d": {
-        "name": "Créer dague",
-        "ia": "",
-        "da": "",
-        "p": "Créer dague",
-        "pia": "",
-        "pda": "",
-        "description": "Créer Dague"
-    },
-    "scm2m": {
-        "name": "Créer massue à deux mains",
-        "ia": "",
-        "da": "",
-        "p": "Créer massue à deux mains",
-        "pia": "",
-        "pda": "",
-        "description": "Créer massue à deux mains"
-    },
-    "scm2p": {
-        "name": "Créer pique",
-        "ia": "",
-        "da": "",
-        "p": "Créer pique",
-        "pia": "",
-        "pda": "",
-        "description": "Créer Pique"
-    },
-    "scm2a": {
-        "name": "Créer hache à deux mains",
-        "ia": "",
-        "da": "",
-        "p": "Créer hache à deux mains",
-        "pia": "",
-        "pda": "",
-        "description": "Créer Hache à deux mains"
-    },
-    "scm2s": {
-        "name": "Créer épée à deux mains",
-        "ia": "",
-        "da": "",
-        "p": "Créer épée à deux mains",
-        "pia": "",
-        "pda": "",
-        "description": "Créer Épéee à deux mains"
-    },
-    "scr1b": {
-        "name": "Créer pistolet-arbalète",
-        "ia": "",
-        "da": "",
-        "p": "Créer pistolet-arbalète",
-        "pia": "",
-        "pda": "",
-        "description": "Créer Pistolet-arbalète"
-    },
-    "scr1p": {
-        "name": "Créer pistolet",
-        "ia": "",
-        "da": "",
-        "p": "Créer pistolet",
-        "pia": "",
-        "pda": "",
-        "description": "Créer Pistolet"
-    },
-    "scr2a": {
-        "name": "Créer mitrailleuse",
-        "ia": "",
-        "da": "",
-        "p": "Créer mitrailleuse",
-        "pia": "",
-        "pda": "",
-        "description": "Créer Mitrailleuse"
-    },
-    "scr2b": {
-        "name": "Créer fusil-arbalète",
-        "ia": "",
-        "da": "",
-        "p": "Créer fusil-arbalète",
-        "pia": "",
-        "pda": "",
-        "description": "Créer Fusil-arbalète"
-    },
-    "scr2l": {
-        "name": "Créer lance-grenades",
-        "ia": "",
-        "da": "",
-        "p": "Créer lance-grenades",
-        "pia": "",
-        "pda": "",
-        "description": "Créer Lance-grenades"
-    },
-    "scr2r": {
-        "name": "Créer fusil",
-        "ia": "",
-        "da": "",
-        "p": "Créer fusil",
-        "pia": "",
-        "pda": "",
-        "description": "Créer Fusil"
-    },
-    "scahbe": {
-        "name": "Expert en création de bottes lourdes",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création de bottes lourdes",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création de bottes lourdes"
-    },
-    "scahge": {
-        "name": "Expert en création de gants lourds",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création de gants lourds",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création de gants lourds"
-    },
-    "scahhe": {
-        "name": "Expert en création de casque lourd",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création de casque lourd",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création de casque lourd"
-    },
-    "scahpe": {
-        "name": "Expert en création de pantalon lourd",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création de pantalon lourd",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création de pantalon Lourd"
-    },
-    "scahse": {
-        "name": "Expert en création de manches lourdes",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création de manches lourdes",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création de manches lourdes"
-    },
-    "scahve": {
-        "name": "Expert en création de gilet lourd",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création de gilet lourd",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création de gilet Lourd"
-    },
-    "scalbe": {
-        "name": "Expert en création de bottes légères",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création de bottes légères",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création de bottes légères"
-    },
-    "scalge": {
-        "name": "Expert en création de gants légers",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création de gants légers",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création de gants légers"
-    },
-    "scalpe": {
-        "name": "Expert en création de pantalon léger",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création de pantalon léger",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création de pantalon Léger"
-    },
-    "scalse": {
-        "name": "Expert en création de manches légères",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création de manches légères",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création de manches légères"
-    },
-    "scalve": {
-        "name": "Expert en création de gilet léger",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création de gilet léger",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création de gilet léger"
-    },
-    "scambe": {
-        "name": "Expert en création de bottes moyennes",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création de bottes moyennes",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création de bottes moyennes"
-    },
-    "scamge": {
-        "name": "Expert en création de gants moyens",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création de gants moyens",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création de gants moyens"
-    },
-    "scampe": {
-        "name": "Expert en création de pantalon moyen",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création de pantalon moyen",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création de pantalon Moyen"
-    },
-    "scamse": {
-        "name": "Expert en création de manches moyennes",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création de manches moyennes",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création de manches moyennes"
-    },
-    "scamve": {
-        "name": "Expert en création de gilet moyen",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création de gilet moyen",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création de gilet moyen"
-    },
-    "scasse": {
-        "name": "Expert en création de bouclier",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création de bouclier",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création de bouclier"
-    },
-    "scasbe": {
-        "name": "Expert en création de rondache",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création de rondache",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création de rondache"
-    },
-    "scjaae": {
-        "name": "Expert en création d'anneau de cheville",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création d'anneau de cheville",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création d'anneau de cheville"
-    },
-    "scjbae": {
-        "name": "Expert en création de bracelet",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création de bracelet",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création de bracelet"
-    },
-    "scjdae": {
-        "name": "Expert en création de diadème",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création de diadème",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création de diadème"
-    },
-    "scjeae": {
-        "name": "Expert en création de boucle d'oreille",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création de boucle d'oreille",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création de boucle d'oreille"
-    },
-    "scjpae": {
-        "name": "Expert en création de pendentif",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création de pendentif",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création de pendentif"
-    },
-    "scjrae": {
-        "name": "Expert en création de bague",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création de bague",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création de bague"
-    },
-    "scm1me": {
-        "name": "Expert en création de massue",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création de massue",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création de massue"
-    },
-    "scm1te": {
-        "name": "Expert en création de bâton",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création de bâton",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création de bâton"
-    },
-    "scm1pe": {
-        "name": "Expert en création de lance",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création de lance",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création de lance"
-    },
-    "scm1ae": {
-        "name": "Expert en création de hache",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création de hache",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création de hache"
-    },
-    "scm1se": {
-        "name": "Expert en création d'épée",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création d'épée",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création d'épée"
-    },
-    "scm1de": {
-        "name": "Expert en création de dague",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création de dague",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création de dague"
-    },
-    "scm2me": {
-        "name": "Expert en création de massue à deux mains",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création de massue à deux mains",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création de massue à deux mains"
-    },
-    "scm2pe": {
-        "name": "Expert en création de pique",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création de pique",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création de pique"
-    },
-    "scm2ae": {
-        "name": "Expert en création de hache à deux mains",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création de hache à deux mains",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création de hache à deux mains"
-    },
-    "scm2se": {
-        "name": "Expert en création d'épée en deux mains",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création d'épée en deux mains",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création d'épée en deux mains"
-    },
-    "scr1be": {
-        "name": "Expert en création de pistolet-arbalète",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création de pistolet-arbalète",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création de pistolet-arbalète"
-    },
-    "scr1pe": {
-        "name": "Expert en création de pistolet",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création de pistolet",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création de pistolet"
-    },
-    "scr2ae": {
-        "name": "Expert en création de mitrailleuse",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création de mitrailleuse",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création de mitrailleuse"
-    },
-    "scr2be": {
-        "name": "Expert en création de fusil-arbalète",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création de fusil-arbalète",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création de fusil-arbalète"
-    },
-    "scr2le": {
-        "name": "Expert en création de lance-grenades",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création de lance-grenades",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création de lance-grenades"
-    },
-    "scr2re": {
-        "name": "Expert en création de fusil",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création de fusil",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création de fusil"
-    },
-    "scahbem": {
-        "name": "Maître en création de bottes lourdes",
+    "shfdaem": {
+        "name": "Maître en prospection désertique",
         "ia": "un",
         "da": "le",
-        "p": "Maîtres en création de bottes lourdes",
+        "p": "Maîtres en prospection désertique",
         "pia": "des",
         "pda": "les",
-        "description": "Maître en création de bottes lourdes"
+        "description": ""
     },
-    "scahgem": {
-        "name": "Maître en création de gants lourds",
+    "shff": {
+        "name": "Prospection forestière",
+        "ia": "une",
+        "da": "la",
+        "p": "Prospections forestières",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "shffa": {
+        "name": "Initié en prospection forestière",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Initiés en prospection forestière",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "shffae": {
+        "name": "Expert en prospection forestière",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en prospection forestière",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "shffaem": {
+        "name": "Maître en prospection forestière",
         "ia": "un",
         "da": "le",
-        "p": "Maîtres en création de gants lourds",
+        "p": "Maîtres en prospection forestière",
         "pia": "des",
         "pda": "les",
-        "description": "Maître en création de gants lourds"
+        "description": ""
     },
-    "scahhem": {
-        "name": "Maître en création de casque lourd",
+    "shfj": {
+        "name": "Prospection dans la Jungle",
+        "ia": "une",
+        "da": "la",
+        "p": "Prospections",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "shfja": {
+        "name": "Initié en prospection de la Jungle",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Initiés en prospection de la Jungle",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "shfjae": {
+        "name": "Expert en prospection de la Jungle",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en prospection de la Jungle",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "shfjaem": {
+        "name": "Maître en prospection de la Jungle",
         "ia": "un",
         "da": "le",
-        "p": "Maîtres en création de casque lourd",
+        "p": "Maîtres en prospection de la Jungle",
         "pia": "des",
         "pda": "les",
-        "description": "Maître en création de casque lourd"
+        "description": ""
     },
-    "scahpem": {
-        "name": "Maître en création de pantalon lourd",
+    "shfl": {
+        "name": "Prospection lacustre",
+        "ia": "une",
+        "da": "la",
+        "p": "Prospections lacustres",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "shfla": {
+        "name": "Initié en prospection lacustre",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Initiés en prospection lacustre",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "shflae": {
+        "name": "Expert en prospection lacustre",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en prospection lacustre",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "shflaem": {
+        "name": "Maître en prospection lacustre",
         "ia": "un",
         "da": "le",
-        "p": "Maîtres en création de pantalon lourd",
+        "p": "Maîtres en prospection Lacustre",
         "pia": "des",
         "pda": "les",
-        "description": "Maître en création de pantalon Lourd"
+        "description": ""
     },
-    "scahsem": {
-        "name": "Maître en création de manches lourdes",
+    "shfp": {
+        "name": "Prospection dans les Primes Racines",
+        "ia": "une",
+        "da": "la",
+        "p": "Prospections des Primes Racines",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "shfpa": {
+        "name": "Initié en prospection des Primes Racines",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Initiés en prospection des Primes Racines",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "shfpae": {
+        "name": "Expert en prospection des Primes Racines",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en prospection des Primes Racines",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "shfpaem": {
+        "name": "Maître en prospection des Primes Racines",
         "ia": "un",
         "da": "le",
-        "p": "Maîtres en création de manches lourdes",
+        "p": "Maîtres en prospection des Primes Racines",
         "pia": "des",
         "pda": "les",
-        "description": "Maître en création de manches lourdes"
+        "description": ""
     },
-    "scahvem": {
-        "name": "Maître en création de gilet lourd",
+    "shield": {
+        "name": "Bouclier",
         "ia": "un",
         "da": "le",
-        "p": "Maîtres en création de gilet lourd",
+        "p": "Boucliers",
         "pia": "des",
         "pda": "les",
-        "description": "Maître en création de gilet Lourd"
+        "description": ""
     },
-    "scalbem": {
-        "name": "Maître en création de bottes légères",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en création de bottes légères",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en création de bottes légères"
-    },
-    "scalgem": {
-        "name": "Maître en création de gants légers",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en création de gants légers",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en création de gants légers"
-    },
-    "scalpem": {
-        "name": "Maître en création de pantalon léger",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en création de pantalon léger",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en création de pantalon Léger"
-    },
-    "scalsem": {
-        "name": "Maître en création de manches légères",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en création de manches légères",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en création de manches légères"
-    },
-    "scalvem": {
-        "name": "Maître en création de gilet léger",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en création de gilet léger",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en création de gilet léger"
-    },
-    "scambem": {
-        "name": "Maître en création de bottes moyennes",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en création de bottes moyennes",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en création de bottes moyennes"
-    },
-    "scamgem": {
-        "name": "Maître en création de gants moyens",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en création de gants moyens",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en création de gants moyens"
-    },
-    "scampem": {
-        "name": "Maître en création de pantalon moyens",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en création de pantalon moyens",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en création de pantalons moyens"
-    },
-    "scamsem": {
-        "name": "Maître en création de manches moyennes",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en création de manches moyennes",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en création de manches moyennes"
-    },
-    "scamvem": {
-        "name": "Maître en création de gilet moyen",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en création de gilet moyen",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en création de gilet moyen"
-    },
-    "scassem": {
-        "name": "Maître en création de bouclier",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en création de bouclier",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en création de bouclier"
-    },
-    "scasbem": {
-        "name": "Maître en création de rondache",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en création de rondache",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en création de rondache"
-    },
-    "scjaaem": {
-        "name": "Maître en création d'anneau de cheville",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en création d'anneau de cheville",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en création d'anneau de cheville"
-    },
-    "scjbaem": {
-        "name": "Maître en création de bracelet",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en création de bracelet",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en création de bracelet"
-    },
-    "scjdaem": {
-        "name": "Maître en création de diadème",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en création de diadème",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en création de diadème"
-    },
-    "scjeaem": {
-        "name": "Maître en création de boucle d'oreille",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en création de boucle d'oreille",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en création de boucle d'oreille"
-    },
-    "scjpaem": {
-        "name": "Maître en création de pendentif",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en création de pendentif",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en création de pendentif"
-    },
-    "scjraem": {
-        "name": "Maître en création de bague",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en création de bague",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en création de bague"
-    },
-    "scm1mem": {
-        "name": "Maître en création de massue",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en création de massue",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en création de massue"
-    },
-    "scm1tem": {
-        "name": "Maître en création de bâton",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en création de bâton",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en création de bâton"
-    },
-    "scm1pem": {
-        "name": "Maître en création de lance",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en création de lance",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en création de lance"
-    },
-    "scm1aem": {
-        "name": "Maître en création de hache",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en création de hache",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en création de hache"
-    },
-    "scm1sem": {
-        "name": "Maître en création d'épée",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en création d'épée",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en création d'épée"
-    },
-    "scm1dem": {
-        "name": "Maître en création de dague",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en création de dague",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en création de dague"
-    },
-    "scm2mem": {
-        "name": "Maître en création de massue à deux mains",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en création de massue à deux mains",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en création de massue à deux mains"
-    },
-    "scm2pem": {
-        "name": "Maître en création de pique",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en création de pique",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en création de pique"
-    },
-    "scm2aem": {
-        "name": "Maître en création de hache à deux mains",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en création de hache à deux mains",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en création de hache à deux mains"
-    },
-    "scm2sem": {
-        "name": "Maître en création d'épée en deux mains",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en création d'épée en deux mains",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en création d'épée en deux mains"
-    },
-    "scr1bem": {
-        "name": "Maître en création de pistolet-arbalète",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en création de pistolet-arbalète",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en création de pistolet-arbalète"
-    },
-    "scr1pem": {
-        "name": "Maître en création de pistolet",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en création de pistolet",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en création de pistolet"
-    },
-    "scr2aem": {
-        "name": "Maître en création de mitrailleuse",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en création de mitrailleuse",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en création de mitrailleuse"
-    },
-    "scr2bem": {
-        "name": "Maître en création de fusil-arbalète",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en création de fusil-arbalète",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en création de fusil-arbalète"
-    },
-    "scr2lem": {
-        "name": "Maître en création de lance-grenades",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en création de lance-grenades",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en création de lance-grenades"
-    },
-    "scr2rem": {
-        "name": "Maître en création de fusil",
-        "ia": "un",
-        "da": "le",
-        "p": "Maîtres en création de fusil",
-        "pia": "des",
-        "pda": "les",
-        "description": "Maître en création de fusil"
-    },
-    "scmc": {
-        "name": "Créer arme de combat rapproché",
+    "shootandrun": {
+        "name": "Tirer en se déplaçant",
         "ia": "",
         "da": "",
-        "p": "Créer armes de combat rapproché",
+        "p": "Tirer en se déplaçant",
         "pia": "",
         "pda": "",
-        "description": "Créer arme de combat rapproché"
+        "description": ""
     },
-    "scmca": {
-        "name": "Initié en création d'arme de combat rapproché",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Initiés en création d'arme de combat rapproché",
+    "shotprotect": {
+        "name": "Protection de tir",
+        "ia": "une",
+        "da": "la",
+        "p": "Protections de tir",
         "pia": "des",
         "pda": "les",
-        "description": "Initié en création d'arme de combat rapproché"
+        "description": ""
     },
-    "scmcae": {
-        "name": "Expert en création d'arme de combat rapproché",
-        "ia": "un",
-        "da": "l'\\d",
-        "p": "Experts en création d'arme de combat rapproché",
-        "pia": "des",
-        "pda": "les",
-        "description": "Expert en création d'arme de combat rapproché"
-    },
-    "scmcaem": {
-        "name": "Maître en création d'arme de combat rapproché",
+    "slowingbreath": {
+        "name": "Ralentisseur de souffle",
         "ia": "un",
         "da": "le",
-        "p": "Maîtres en création d'arme de combat rapproché",
+        "p": "Ralentisseurs de Souffle",
         "pia": "des",
         "pda": "les",
-        "description": "Maître en création d'arme de combat rapproché"
+        "description": ""
+    },
+    "slowinglife": {
+        "name": "Ralentisseur de vie",
+        "ia": "un",
+        "da": "le",
+        "p": "Ralentisseurs de vie",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "sm": {
+        "name": "Magie",
+        "ia": "une",
+        "da": "la",
+        "p": "Magie",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie"
+    },
+    "sma": {
+        "name": "Magie autonome",
+        "ia": "une",
+        "da": "la",
+        "p": "Magies autonomes",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie Autonome"
+    },
+    "smae": {
+        "name": "Magie d'enchantement",
+        "ia": "une",
+        "da": "la",
+        "p": "Magies d'enchantements",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie d'Enchantement"
+    },
+    "smaeb": {
+        "name": "Enchantement de bonus",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Magies d'enchantements - Bonus",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie d'Enchantement - Bonus"
+    },
+    "smaes": {
+        "name": "Enchantement de sorts",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Magies d'enchantements - Sorts",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie d'Enchantement - Sort"
+    },
+    "smap": {
+        "name": "Magie de création de potions",
+        "ia": "une",
+        "da": "la",
+        "p": "Magies de création de potions",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie de Fabrication de Potions"
+    },
+    "smd": {
+        "name": "Magie salvatrice",
+        "ia": "une",
+        "da": "la",
+        "p": "Magies salvatrices",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie Salvatrice"
+    },
+    "smda": {
+        "name": "Magie neutralisante",
+        "ia": "une",
+        "da": "la",
+        "p": "Magies neutralisantes",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie Neutralisante"
+    },
+    "smdaa": {
+        "name": "Initié en magie neutralisante",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Initiés en magie neutralisante",
+        "pia": "des",
+        "pda": "les",
+        "description": "Initié en Magie Neutralisante"
+    },
+    "smdaae": {
+        "name": "Expert en magie neutralisante",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en magie neutralisante",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en Magie Neutralisante"
+    },
+    "smdaaem": {
+        "name": "Maître en magie neutralisante",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en magie neutralisante",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en Magie Neutralisante"
+    },
+    "smdh": {
+        "name": "Magie curative",
+        "ia": "une",
+        "da": "la",
+        "p": "Magies curatives",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie Curative"
+    },
+    "smdha": {
+        "name": "Initié en magie curative",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Initiés en magie curative",
+        "pia": "des",
+        "pda": "les",
+        "description": "Initié en Magie Curative"
+    },
+    "smdhae": {
+        "name": "Expert en magie curative",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en magie curative",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en Magie Curative"
+    },
+    "smdhaem": {
+        "name": "Maître en magie curative",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en magie curative",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en Magie Curative"
+    },
+    "sml": {
+        "name": "Lien de magie",
+        "ia": "un",
+        "da": "le",
+        "p": "Liens de magies",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien de Magie"
+    },
+    "smlc": {
+        "name": "Lien curatif",
+        "ia": "un",
+        "da": "le",
+        "p": "Liens curatifs",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien de Magie Curative"
+    },
+    "smlch": {
+        "name": "Lien de guérison",
+        "ia": "un",
+        "da": "le",
+        "p": "Liens de guérison",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien de Magie Curative relatif aux Guérisons"
+    },
+    "smlcha": {
+        "name": "Lien de guérison de la sève",
+        "ia": "un",
+        "da": "le",
+        "p": "Liens de guérison de la sève",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien de Magie Curative relatif aux Guérisons - Sève"
+    },
+    "smlchc": {
+        "name": "Lien de guérison de la concentration",
+        "ia": "un",
+        "da": "le",
+        "p": "Liens de guérison de la concentration",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien de Magie Curative relatif aux Guérisons - Concentration"
+    },
+    "smlchp": {
+        "name": "Lien de guérison de la vie",
+        "ia": "un",
+        "da": "le",
+        "p": "Liens de guérison de la vie",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien de Magie Curative relatif aux Guérisons - Vie"
+    },
+    "smlcht": {
+        "name": "Lien de guérison de l'endurance",
+        "ia": "un",
+        "da": "le",
+        "p": "Liens de guérison de l'endurance",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien de Magie Curative relatif aux Guérisons - Sta"
+    },
+    "smlm": {
+        "name": "Lien de missile",
+        "ia": "un",
+        "da": "le",
+        "p": "Liens de missiles",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien de Magie relatif aux Missiles"
+    },
+    "smlmb": {
+        "name": "Lien céleste",
+        "ia": "un",
+        "da": "le",
+        "p": "Liens célestes",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien de Magie relatif aux Missiles - Céleste"
+    },
+    "smlmg": {
+        "name": "Lien atysien",
+        "ia": "un",
+        "da": "le",
+        "p": "Liens atysiens",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien de Magie relatif aux Missiles - Atysien"
+    },
+    "smlmr": {
+        "name": "Lien fondamental",
+        "ia": "un",
+        "da": "le",
+        "p": "Liens fondamentaux",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien de Magie relatif aux Missiles - Fondamental"
+    },
+    "smlo": {
+        "name": "Lien offensif",
+        "ia": "un",
+        "da": "le",
+        "p": "Liens offensifs",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien de Magie Offensive"
+    },
+    "smloc": {
+        "name": "Lien de malédiction",
+        "ia": "un",
+        "da": "le",
+        "p": "Liens de malédictions",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien de Magie Offensive relatif aux Malédictions"
+    },
+    "smloch": {
+        "name": "Lien de haine",
+        "ia": "un",
+        "da": "le",
+        "p": "Liens de haine",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien de Magie Offensive relatif aux Malédictions - haine"
+    },
+    "smloci": {
+        "name": "Lien d'Incapacité",
+        "ia": "un",
+        "da": "le",
+        "p": "Liens d'incapacité",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien de Magie Offensive relatif aux Malédictions - incapacité"
+    },
+    "smlocia": {
+        "name": "Initié en lien d'incapacité",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Initiés en lien d'Incapacité",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien avancé de magie offensive relatif aux malédictions - Incapacité"
+    },
+    "smlocm": {
+        "name": "Lien de perturbation mentale",
+        "ia": "un",
+        "da": "le",
+        "p": "Liens de perturbation mentale",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien de Magie Offensive relatif aux Malédictions - perturbation mentale"
+    },
+    "smlocs": {
+        "name": "Lien de malchance",
+        "ia": "un",
+        "da": "le",
+        "p": "Liens de malchance",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien de Magie Offensive relatif aux Malédictions - malchance"
+    },
+    "smlocsa": {
+        "name": "Initié en lien de malchance",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Initiés en lien de malchance",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien avancé de magie offensive relatif aux malédictions - Malchance"
+    },
+    "smlod": {
+        "name": "Lien physique",
+        "ia": "un",
+        "da": "le",
+        "p": "Liens physiques",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien de Magie Offensive relatif aux Dégâts"
+    },
+    "smlodb": {
+        "name": "Lien contondant",
+        "ia": "un",
+        "da": "le",
+        "p": "Liens contondants",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien de magie offensive relatif aux dégâts - contondant"
+    },
+    "smlodp": {
+        "name": "Lien perforant",
+        "ia": "un",
+        "da": "le",
+        "p": "Liens perforants",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien de Magie Offensive relatif aux Dégâts - Perforant"
+    },
+    "smlods": {
+        "name": "Lien tranchant",
+        "ia": "un",
+        "da": "le",
+        "p": "Liens tranchants",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien de Magie Offensive relatif aux Dégâts - Tranchant"
+    },
+    "smloe": {
+        "name": "Lien élémentaire",
+        "ia": "un",
+        "da": "le",
+        "p": "Liens élémentaires",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien de Magie Offensive relatif aux Dégâts Spéciaux"
+    },
+    "smloea": {
+        "name": "Lien d'acide",
+        "ia": "un",
+        "da": "le",
+        "p": "Liens d'acide",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien de Magie Offensive relatif aux Dégâts Spéciaux - Acide"
+    },
+    "smloeaa": {
+        "name": "Initié en lien d'acide",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Initiés en lien d'acide",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien avancé de magie offensive relatif aux dégâts spéciaux - Acide"
+    },
+    "smloec": {
+        "name": "Lien du froid",
+        "ia": "un",
+        "da": "le",
+        "p": "Liens du froid",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien de Magie Offensive relatif aux Dégâts Spéciaux - Froid"
+    },
+    "smloeca": {
+        "name": "Initié en lien du froid",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Initiés en lien du froid",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien avancé de magie offensive relatif aux dégâts spéciaux - Froid"
+    },
+    "smloee": {
+        "name": "Lien électrique",
+        "ia": "un",
+        "da": "le",
+        "p": "Liens électriques",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien de Magie Offensive relatif aux Dégâts Spéciaux - Electricité"
+    },
+    "smloeea": {
+        "name": "Initié en lien électrique",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Initiés en lien électrique",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien avancé de magie offensive relatif aux dégâts spéciaux - Electricité"
+    },
+    "smloef": {
+        "name": "Lien de feu",
+        "ia": "un",
+        "da": "le",
+        "p": "Liens de feu",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien de Magie Offensive relatif aux Dégâts Spéciaux - Feu"
+    },
+    "smloefa": {
+        "name": "Initié en lien de feu",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Initiés en lien de feu",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien avancé de magie offensive relatif aux dégâts spéciaux - Feu"
+    },
+    "smloep": {
+        "name": "Lien de poison",
+        "ia": "un",
+        "da": "le",
+        "p": "Liens de poison",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien de Magie Offensive relatif aux Dégâts Spéciaux - Poison"
+    },
+    "smloepa": {
+        "name": "Initié en lien de poison",
+        "ia": "un",
+        "da": "l",
+        "p": "Initiés en lien de poison",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien avancé de magie offensive relatif aux dégâts spéciaux - Poison"
+    },
+    "smloer": {
+        "name": "Lien de pourriture",
+        "ia": "un",
+        "da": "le",
+        "p": "Liens de pourriture",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien de Magie Offensive relatif aux Dégâts Spéciaux - Pourriture"
+    },
+    "smloera": {
+        "name": "Initié en lien de pourriture",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Initiés en lien de pourriture",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien avancé de magie offensive relatif aux dégâts spéciaux - Pourriture"
+    },
+    "smloes": {
+        "name": "Lien d'ondes de choc",
+        "ia": "un",
+        "da": "le",
+        "p": "Liens d'ondes de choc",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien de Magie Offensive relatif aux Dégâts Spéciaux - Ondes de choc"
+    },
+    "smloesa": {
+        "name": "Initié en lien d'ondes de choc",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Initiés en lien d'ondes de choc",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien avancé de magie offensive relatif aux dégâts spéciaux - Ondes de choc"
+    },
+    "smlos": {
+        "name": "Lien de maladie",
+        "ia": "un",
+        "da": "le",
+        "p": "Liens de maladies",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien de Magie Offensive relatif aux Maladies"
+    },
+    "smlosk": {
+        "name": "Lien de diminution des compétences",
+        "ia": "un",
+        "da": "le",
+        "p": "Liens de diminution des compétences",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien de Magie Offensive relatif aux Maladies - diminution des compétences"
+    },
+    "smlosm": {
+        "name": "Lien de folie",
+        "ia": "un",
+        "da": "le",
+        "p": "Liens de folie",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien de Magie Offensive relatif aux Maladies - folie"
+    },
+    "smlosma": {
+        "name": "Initié en lien de folie",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Initiés en lien de folie",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien avancé de magie offensive relatif aux maladies - Folie"
+    },
+    "smlosr": {
+        "name": "Lien de diminution de la résistance",
+        "ia": "un",
+        "da": "le",
+        "p": "Liens de diminution de la résistance",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien de Magie Offensive relatif aux Maladies - diminution de la résistance"
+    },
+    "smloss": {
+        "name": "Lien de diminution de la vitesse",
+        "ia": "un",
+        "da": "le",
+        "p": "Liens de diminution de la vitesse",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien de Magie Offensive relatif aux Maladies - diminution de la vitesse"
+    },
+    "smlossa": {
+        "name": "Initié en lien de diminution de la vitesse",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Initiés en lien de diminution de la Vitesse",
+        "pia": "des",
+        "pda": "les",
+        "description": "Lien avancé de magie offensive relatif aux maladies - Diminution de la Vitesse"
+    },
+    "smo": {
+        "name": "Magie destructrice",
+        "ia": "une",
+        "da": "la",
+        "p": "Magies destructrices",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie Destructrice"
+    },
+    "smoa": {
+        "name": "Magie débilitante",
+        "ia": "une",
+        "da": "la",
+        "p": "Magies débilitantes",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie Débilitante"
+    },
+    "smoaa": {
+        "name": "Initié en magie débilitante",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Initiés en magie débilitante",
+        "pia": "des",
+        "pda": "les",
+        "description": "Initié en Magie Débilitante"
+    },
+    "smoaae": {
+        "name": "Expert en magie débilitante",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en magie débilitante",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en Magie Débilitante"
+    },
+    "smoaaem": {
+        "name": "Maître en magie débilitante",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en magie débilitante",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en Magie Débilitante"
+    },
+    "smoe": {
+        "name": "Magie élémentaire",
+        "ia": "une",
+        "da": "la",
+        "p": "Magies élémentaires",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie Elémentaire"
+    },
+    "smoea": {
+        "name": "Initié en magie élémentaire",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Initiés en magie élémentaire",
+        "pia": "des",
+        "pda": "les",
+        "description": "Initié en Magie Elémentaire"
+    },
+    "smoeae": {
+        "name": "Expert en magie élémentaire",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en magie élémentaire",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en Magie Elémentaire"
+    },
+    "smoeaem": {
+        "name": "Maître en magie élémentaire",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en magie élémentaire",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en Magie Elémentaire"
+    },
+    "sms": {
+        "name": "Magie sur soi",
+        "ia": "une",
+        "da": "la",
+        "p": "Magies sur soi",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie sur Soi"
+    },
+    "smss": {
+        "name": "Magie sur soi instinctive",
+        "ia": "une",
+        "da": "la",
+        "p": "Magies sur soi Instinctive",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie sur Soi Instinctive"
+    },
+    "smssa": {
+        "name": "Initié en magie sur soi",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Initiés en magie sur soi",
+        "pia": "des",
+        "pda": "les",
+        "description": "Initié en Magie sur Soi"
+    },
+    "smssae": {
+        "name": "Expert en magie sur soi",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Experts en magie sur soi",
+        "pia": "des",
+        "pda": "les",
+        "description": "Expert en Magie sur Soi"
+    },
+    "smssaem": {
+        "name": "Maître en magie sur soi",
+        "ia": "un",
+        "da": "le",
+        "p": "Maîtres en magie sur soi",
+        "pia": "des",
+        "pda": "les",
+        "description": "Maître en Magie sur Soi"
+    },
+    "smt": {
+        "name": "Magie d'impact",
+        "ia": "une",
+        "da": "la",
+        "p": "Magies d'impacts",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie Ciblée"
+    },
+    "smtc": {
+        "name": "Magie curative",
+        "ia": "une",
+        "da": "la",
+        "p": "Magies curatives",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie Curative Ciblée"
+    },
+    "smtcb": {
+        "name": "Rupture de lien",
+        "ia": "une",
+        "da": "la",
+        "p": "Ruptures de liens",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie Curative Ciblée sur la Rupture de Lien"
+    },
+    "smtcbc": {
+        "name": "Malédiction de rupture de lien",
+        "ia": "une",
+        "da": "la",
+        "p": "Malédictions de ruptures de liens",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie Curative Ciblée sur la Rupture de Lien - Malédiction"
+    },
+    "smtcbd": {
+        "name": "Dégât de rupture de lien",
+        "ia": "un",
+        "da": "le",
+        "p": "Dégâts de ruptures de liens",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie Curative Ciblée sur la Rupture de Lien - Dégâts"
+    },
+    "smtcbs": {
+        "name": "Maladie de rupture de lien",
+        "ia": "une",
+        "da": "la",
+        "p": "Maladies de ruptures de liens",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie Curative Ciblée sur la Rupture de Lien - Maladie"
+    },
+    "smtch": {
+        "name": "Magie de guérison",
+        "ia": "une",
+        "da": "la",
+        "p": "Magies de guérison",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie Curative Ciblée sur la Guérison"
+    },
+    "smtcha": {
+        "name": "Magie de guérison de la sève",
+        "ia": "une",
+        "da": "la",
+        "p": "Magies de guérison de la sève",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie Curative Ciblée sur la Guérison - Sève"
+    },
+    "smtchaa": {
+        "name": "Initié en magie de guérison sève",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Initiés en magie de guérison sève",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie Curative Avancée Ciblée sur la Guérison - Sève"
+    },
+    "smtchc": {
+        "name": "Magie de guérison de la concentration",
+        "ia": "une",
+        "da": "la",
+        "p": "Magies de guérison de la concentration",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie Curative Ciblée sur la Guérison - Concentration"
+    },
+    "smtchca": {
+        "name": "Initié en magie de guérison concentration",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Initiés en magie de guérison concentration",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie curative avancée ciblée sur la guérison - Concentration"
+    },
+    "smtchp": {
+        "name": "Magie de guérison de la vie",
+        "ia": "une",
+        "da": "la",
+        "p": "Magies de guérison de la vie",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie Curative Ciblée sur la Guérison - Vie"
+    },
+    "smtchpa": {
+        "name": "Initié en magie de guérison vie",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Initiés en magie de guérison vie",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie Curative Avancée Ciblée sur la Guérison - Vie"
+    },
+    "smtcht": {
+        "name": "Magie de guérison de l'endurance",
+        "ia": "une",
+        "da": "la",
+        "p": "Magies de guérison de l'endurance",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie Curative Ciblée sur la Guérison - Sta"
+    },
+    "smtchta": {
+        "name": "Initié en magie de guérison endurance",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Initiés en magie de guérison endurance",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie Curative Avancée Ciblée sur la Guérison - Sta"
+    },
+    "smtm": {
+        "name": "Magie de missile",
+        "ia": "une",
+        "da": "la",
+        "p": "Magies de missiles",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie de Missile Ciblée"
+    },
+    "smtmb": {
+        "name": "Magie céleste",
+        "ia": "une",
+        "da": "la",
+        "p": "Magies célestes",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie de Missile Ciblée - Céleste"
+    },
+    "smtmg": {
+        "name": "Magie atysienne",
+        "ia": "une",
+        "da": "la",
+        "p": "Magies atysiennes",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie de Missile Ciblée - Atysienne"
+    },
+    "smtmr": {
+        "name": "Magie fondamentale",
+        "ia": "une",
+        "da": "la",
+        "p": "Magies fondamentales",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie de Missile Ciblée - Fondamentale"
+    },
+    "smto": {
+        "name": "Magie offensive",
+        "ia": "une",
+        "da": "la",
+        "p": "Magies offensives",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie Offensive Ciblée"
+    },
+    "smtod": {
+        "name": "Magie physique",
+        "ia": "une",
+        "da": "la",
+        "p": "Magies physiques",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie Offensive Ciblée sur les Dégâts"
+    },
+    "smtodb": {
+        "name": "Magie contondante",
+        "ia": "une",
+        "da": "la",
+        "p": "Magies contondantes",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie Offensive Ciblée sur les Dégâts - Contondant"
+    },
+    "smtodp": {
+        "name": "Magie perforante",
+        "ia": "une",
+        "da": "la",
+        "p": "Magies perforantes",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie Offensive Ciblée sur les Dégâts - Perforante"
+    },
+    "smtods": {
+        "name": "Magie tranchante",
+        "ia": "une",
+        "da": "la",
+        "p": "Magies tranchantes",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie Offensive Ciblée sur les Dégâts - Tranchante"
+    },
+    "smtoe": {
+        "name": "Magie élémentaire",
+        "ia": "une",
+        "da": "la",
+        "p": "Magies élémentaires",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie Offensive Ciblée sur les Dégâts Spéciaux"
+    },
+    "smtoea": {
+        "name": "Magie de l'acide",
+        "ia": "une",
+        "da": "la",
+        "p": "Magies de l'acide",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie Offensive Ciblée sur les Dégâts Spéciaux - Acide"
+    },
+    "smtoeaa": {
+        "name": "Initié en magie d'acide",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Initiés en magie d'acide",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie offensive avancée ciblée sur les dégâts spéciaux - Acide"
+    },
+    "smtoec": {
+        "name": "Magie du froid",
+        "ia": "une",
+        "da": "la",
+        "p": "Magies du froid",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie Offensive Ciblée sur les Dégâts Spéciaux - Froid"
+    },
+    "smtoeca": {
+        "name": "Initié en magie du froid",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Initiés en magie du froid",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie offensive avancée ciblée sur les dégâts spéciaux - Froid"
+    },
+    "smtoee": {
+        "name": "Magie électrique",
+        "ia": "une",
+        "da": "la",
+        "p": "Magies électriques",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie Offensive Ciblée sur les Dégâts Spéciaux - Electricité"
+    },
+    "smtoeea": {
+        "name": "Initié en magie électrique",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Initiés en magie électrique",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie offensive avancée ciblée sur les dégâts spéciaux - Electricité"
+    },
+    "smtoef": {
+        "name": "Magie du feu",
+        "ia": "une",
+        "da": "la",
+        "p": "Magies du feu",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie Offensive Ciblée sur les Dégâts Spéciaux - Feu"
+    },
+    "smtoefa": {
+        "name": "Initié en magie du feu",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Initiés en magie du feu",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie offensive avancée ciblée sur les dégâts spéciaux - Feu"
+    },
+    "smtoep": {
+        "name": "Magie du poison",
+        "ia": "une",
+        "da": "la",
+        "p": "Magies du poison",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie Offensive Ciblée sur les Dégâts Spéciaux - Poison"
+    },
+    "smtoepa": {
+        "name": "Initié en magie du poison",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Initiés en magie du poison",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie offensive avancée ciblée sur les dégâts spéciaux - Poison"
+    },
+    "smtoer": {
+        "name": "Magie de la pourriture",
+        "ia": "une",
+        "da": "la",
+        "p": "Magies de la pourriture",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie Offensive Ciblée sur les Dégâts Spéciaux - Pourriture"
+    },
+    "smtoera": {
+        "name": "Initié en magie de la pourriture",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Initiés en magie de la pourriture",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie offensive avancée ciblée sur les dégâts spéciaux - Pourriture"
+    },
+    "smtoes": {
+        "name": "Magie des ondes de choc",
+        "ia": "une",
+        "da": "la",
+        "p": "Magies des ondes de choc",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie Offensive Ciblée sur les Dégâts Spéciaux - Ondes de choc"
+    },
+    "smtoesa": {
+        "name": "Initié en magie des ondes de choc",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Initiés en magie des ondes de choc",
+        "pia": "des",
+        "pda": "les",
+        "description": "Magie offensive avancée ciblée sur les dégâts spéciaux - Onde de choc"
+    },
+    "spear": {
+        "name": "Lance",
+        "ia": "une",
+        "da": "la",
+        "p": "Lances",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "spelldeletion": {
+        "name": "Suppression d'un sort",
+        "ia": "une",
+        "da": "la",
+        "p": "Suppressions de sorts",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "spellprotect": {
+        "name": "Protection d'un sort",
+        "ia": "une",
+        "da": "la",
+        "p": "Protections de sorts",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "spurtingfire": {
+        "name": "Feu jaillissant",
+        "ia": "un",
+        "da": "le",
+        "p": "Feux jaillissants",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "squandering": {
+        "name": "Gaspillage",
+        "ia": "un",
+        "da": "le",
+        "p": "Gaspillages",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "stallsetup": {
+        "name": "Montage d'une stalle",
+        "ia": "un",
+        "da": "le",
+        "p": "Montages de stalles",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "stealbreath": {
+        "name": "Souffle voleur",
+        "ia": "un",
+        "da": "le",
+        "p": "Souffles voleurs",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "steallife": {
+        "name": "Vie voleuse",
+        "ia": "une",
+        "da": "la",
+        "p": "Vies voleuses",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "stealsap": {
+        "name": "Sève voleuse",
+        "ia": "une",
+        "da": "la",
+        "p": "Sève voleuse",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "stick": {
+        "name": "Bâton",
+        "ia": "un",
+        "da": "le",
+        "p": "Bâtons",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "strenghtgift": {
+        "name": "Don de force",
+        "ia": "un",
+        "da": "le",
+        "p": "Dons de force",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "swimming": {
+        "name": "Nage",
+        "ia": "une",
+        "da": "la",
+        "p": "Nages",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "sword": {
+        "name": "Épée",
+        "ia": "une",
+        "da": "l'\\d",
+        "p": "Épées",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "sylphicslide": {
+        "name": "Glissement sylphique",
+        "ia": "un",
+        "da": "le",
+        "p": "Glissements sylphiques",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "sylve": {
+        "name": "Sylve",
+        "ia": "un",
+        "da": "le",
+        "p": "Sylves",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "tactilewithering": {
+        "name": "Affaiblissement du toucher",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Affaiblissements du toucher",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "target": {
+        "name": "Cible",
+        "ia": "une",
+        "da": "la",
+        "p": "Cibles",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "terror": {
+        "name": "Terreur",
+        "ia": "une",
+        "da": "la",
+        "p": "Terreurs",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "tirednessalchemy": {
+        "name": "Alchimie de la fatigue",
+        "ia": "une",
+        "da": "l'\\d",
+        "p": "Alchimies de la fatigue",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "tracking": {
+        "name": "Pistage",
+        "ia": "un",
+        "da": "le",
+        "p": "Pistages",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "tradingcenterknowledge": {
+        "name": "Connaissance du centre de troc",
+        "ia": "une",
+        "da": "la",
+        "p": "Connaissances du centre de troc",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "trainingagility": {
+        "name": "Entraînement de l'agilité",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Entraînements de l'agilité",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "traininganimal": {
+        "name": "Entraînement sur les animaux",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Entraînements sur les animaux",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "trainingcharisme": {
+        "name": "Entraînement du charisme",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Entraînements du charisme",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "trainingconstitution": {
+        "name": "Entraînement de la constitution",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Entraînements de la constitution",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "trainingdiseaseresist": {
+        "name": "Entraînement de résistance aux maladies",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Entraînements de résistance aux maladies",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "trainingempathie": {
+        "name": "Entraînement de l'empathie",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Entraînements de l'empathie",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "trainingfearresist": {
+        "name": "Entraînement de résistance à la peur",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Entraînements de résistance à la peur",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "traininghp": {
+        "name": "Entraînement des points de vie",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Entraînements des points de vie",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "traininghp2": {
+        "name": "Entraînement des points de vie 2",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Entraînements des points de vie 2",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "traininghp3": {
+        "name": "Entraînement des points de vie 3",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Entraînements des points de vie 3",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "traininghp4": {
+        "name": "Entraînement des points de vie 4",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Entraînements des points de vie 4",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "trainingimpactresist": {
+        "name": "Entraînement de résistance aux impacts",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Entraînements de résistance aux impacts",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "trainingimpactresist2": {
+        "name": "Entraînement de résistance aux impacts 2",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Entraînements de résistance aux impacts 2",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "trainingimpactresist3": {
+        "name": "Entraînement de résistance Impacts 3",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Entraînements de résistance aux impacts 3",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "trainingintelligence": {
+        "name": "Entraînement de l'Intelligence",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Entraînements de l'Intelligence",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "trainingmagicresist": {
+        "name": "Entraînement de résistance à la magie",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Entraînements de résistance à la magie",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "trainingmagicresist2": {
+        "name": "Entraînement de résistance Impacts 2",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Entraînements de résistance aux impacts 2",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "trainingmagicresist3": {
+        "name": "Entraînement de résistance Impacts 3",
+        "ia": "un",
+        "da": "l",
+        "p": "Entraînements de résistance aux impacts 3",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "trainingperception": {
+        "name": "Entraînement de la perception",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Entraînements de la perception",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "trainingseve": {
+        "name": "Entraînement de la sève",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Entraînements de la sève",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "trainingseve2": {
+        "name": "Entraînement de la sève 2",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Entraînements de la sève 2",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "trainingseve3": {
+        "name": "Entraînement de la sève 3",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Entraînements de la sève 3",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "trainingseve4": {
+        "name": "Entraînement de la sève 4",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Entraînements de la sève 4",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "trainingstamina": {
+        "name": "Entraînement de l'endurance 2",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Entraînements de l'endurance",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "trainingstamina2": {
+        "name": "Entraînement de l'endurance 2",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Entraînements de l'endurance 2",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "trainingstamina3": {
+        "name": "Entraînement de l'endurance 3",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Entraînements de l'endurance 3",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "trainingstamina4": {
+        "name": "Entraînement de l'endurance 4",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Entraînements de l'endurance 4",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "trainingstrength": {
+        "name": "Entraînement de la force",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Entraînements de la force",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "trainingtechnoresist": {
+        "name": "Entraînement de résistance aux technologies",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Entraînements de résistance aux technologies",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "trainingwellbalanced": {
+        "name": "Entraînement du bon équilibre",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Entraînements du bon équilibre",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "trainingwill": {
+        "name": "Entraînement de la volonté",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Entraînements de la volonté",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "tryker": {
+        "name": "Tryker",
+        "ia": "un",
+        "da": "le",
+        "p": "Trykers",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "trykergoods": {
+        "name": "Biens trykers",
+        "ia": "",
+        "da": "",
+        "p": "Biens trykers",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "trykermystery": {
+        "name": "Mystère tryker",
+        "ia": "un",
+        "da": "le",
+        "p": "Mystères trykers",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "twohandedcombat": {
+        "name": "Combat à deux mains",
+        "ia": "un",
+        "da": "le",
+        "p": "Combats à deux mains",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "twohandssword": {
+        "name": "Épée à deux mains",
+        "ia": "une",
+        "da": "l'\\d",
+        "p": "Épées à deux mains",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "uknown": {
+        "name": "Compétence inconnue",
+        "ia": "",
+        "da": "",
+        "p": "Compétences inconnues",
+        "pia": "",
+        "pda": "",
+        "description": "Compétence Inconnue"
+    },
+    "underwaterextract": {
+        "name": "Extraction sous-marine",
+        "ia": "une",
+        "da": "l'\\d",
+        "p": "Extractions sous-marines",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "unknown": {
+        "name": "Compétence inconnue",
+        "ia": "",
+        "da": "",
+        "p": "Compétences inconnues",
+        "pia": "",
+        "pda": "",
+        "description": "Compétence Inconnue"
+    },
+    "visualwithering": {
+        "name": "Affaiblissement de la vue",
+        "ia": "un",
+        "da": "l'\\d",
+        "p": "Affaiblissements de la vue",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "vitalburst": {
+        "name": "Explosion vitale",
+        "ia": "une",
+        "da": "",
+        "p": "Explosions vitales",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "warriorgift": {
+        "name": "Don guerrier",
+        "ia": "un",
+        "da": "le",
+        "p": "Dons guerriers",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "weaponscutting": {
+        "name": "Coupe des armes",
+        "ia": "une",
+        "da": "la",
+        "p": "Coupes des armes",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "windarmor": {
+        "name": "Armure des vents",
+        "ia": "une",
+        "da": "l'\\d",
+        "p": "Armures des vents",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "windgift": {
+        "name": "Don de vent",
+        "ia": "un",
+        "da": "le",
+        "p": "Dons de vents",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "windshear": {
+        "name": "Puissance du vent",
+        "ia": "une",
+        "da": "la",
+        "p": "Puissances du vent",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "zorai": {
+        "name": "Zoraï",
+        "ia": "un",
+        "da": "le",
+        "p": "Zoraïs",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "zoraigoods": {
+        "name": "Biens zoraïs",
+        "ia": "",
+        "da": "",
+        "p": "Biens zoraïs",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "zoraimystery": {
+        "name": "Mystère zoraï",
+        "ia": "un",
+        "da": "le",
+        "p": "Mystères zoraïs",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
     }
 }

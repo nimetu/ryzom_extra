@@ -3,17 +3,17 @@
         "name": "Konstitution",
         "named": "Konstitution"
     },
-    "metabolism": {
-        "name": "Metabolismus",
-        "named": "Metabolismus"
+    "dexterity": {
+        "name": "Geschicklichkeit",
+        "named": "Geschicklichkeit"
     },
     "intelligence": {
         "name": "Intelligenz",
         "named": "Intelligenz"
     },
-    "wisdom": {
-        "name": "Weisheit",
-        "named": "Weisheit"
+    "metabolism": {
+        "name": "Metabolismus",
+        "named": "Metabolismus"
     },
     "strength": {
         "name": "Stärke",
@@ -23,12 +23,12 @@
         "name": "Gleichgewicht",
         "named": "Gleichgewicht"
     },
-    "dexterity": {
-        "name": "Geschicklichkeit",
-        "named": "Geschicklichkeit"
-    },
     "will": {
         "name": "Wille",
         "named": "Wille"
+    },
+    "wisdom": {
+        "name": "Weisheit",
+        "named": "Weisheit"
     }
 }

@@ -2,14 +2,14 @@
     "constitution": {
         "name": "constitution"
     },
-    "metabolism": {
-        "name": "metabolism"
+    "dexterity": {
+        "name": "dexterity"
     },
     "intelligence": {
         "name": "intelligence"
     },
-    "wisdom": {
-        "name": "wisdom"
+    "metabolism": {
+        "name": "metabolism"
     },
     "strength": {
         "name": "strength"
@@ -17,10 +17,10 @@
     "wellbalanced": {
         "name": "balance"
     },
-    "dexterity": {
-        "name": "dexterity"
-    },
     "will": {
         "name": "will"
+    },
+    "wisdom": {
+        "name": "wisdom"
     }
 }

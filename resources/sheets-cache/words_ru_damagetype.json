@@ -1,12 +1,7 @@
 {
-    "slashing": {
-        "name": "Рубящий",
-        "p": "Рубящие",
-        "description": ""
-    },
-    "piercing": {
-        "name": "Колющий",
-        "p": "Колющие",
+    "acid": {
+        "name": "Кислота",
+        "p": "Кислоты",
         "description": ""
     },
     "blunt": {
@@ -14,29 +9,9 @@
         "p": "Дробящие",
         "description": ""
     },
-    "rot": {
-        "name": "Гниль",
-        "p": "Гниль",
-        "description": ""
-    },
-    "acid": {
-        "name": "Кислота",
-        "p": "Кислоты",
-        "description": ""
-    },
     "cold": {
         "name": "Холод",
         "p": "Холод",
-        "description": ""
-    },
-    "fire": {
-        "name": "Огонь",
-        "p": "Огни",
-        "description": ""
-    },
-    "poison": {
-        "name": "Яд",
-        "p": "Яды",
         "description": ""
     },
     "electricity": {
@@ -44,9 +19,34 @@
         "p": "Электрошоки",
         "description": ""
     },
+    "fire": {
+        "name": "Огонь",
+        "p": "Огни",
+        "description": ""
+    },
+    "piercing": {
+        "name": "Колющий",
+        "p": "Колющие",
+        "description": ""
+    },
+    "poison": {
+        "name": "Яд",
+        "p": "Яды",
+        "description": ""
+    },
+    "rot": {
+        "name": "Гниль",
+        "p": "Гниль",
+        "description": ""
+    },
     "shock": {
         "name": "Ударная волна",
         "p": "Ударные волны",
+        "description": ""
+    },
+    "slashing": {
+        "name": "Рубящий",
+        "p": "Рубящие",
         "description": ""
     }
 }

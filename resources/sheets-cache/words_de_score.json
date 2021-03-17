@@ -1,15 +1,15 @@
 {
+    "focus": {
+        "name": "Fokus",
+        "point": "Fokus-Punkt",
+        "ia": "ein",
+        "points": "Fokus-Punkte"
+    },
     "hitpoints": {
         "name": "Lebenskraft",
         "point": "Trefferpunkt",
         "ia": "ein",
         "points": "Trefferpunkte"
-    },
-    "stamina": {
-        "name": "Ausdauer",
-        "point": "Ausdauerpunkt",
-        "ia": "ein",
-        "points": "Ausdauerpunkte"
     },
     "sap": {
         "name": "Sap",
@@ -17,10 +17,10 @@
         "ia": "ein",
         "points": "Sap-Punkte"
     },
-    "focus": {
-        "name": "Fokus",
-        "point": "Fokus-Punkt",
+    "stamina": {
+        "name": "Ausdauer",
+        "point": "Ausdauerpunkt",
         "ia": "ein",
-        "points": "Fokus-Punkte"
+        "points": "Ausdauerpunkte"
     }
 }

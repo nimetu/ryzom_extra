@@ -2,14 +2,14 @@
     "constitution": {
         "name": "телосложение"
     },
-    "metabolism": {
-        "name": "метаболизм"
+    "dexterity": {
+        "name": "ловкость"
     },
     "intelligence": {
         "name": "интеллект"
     },
-    "wisdom": {
-        "name": "мудрость"
+    "metabolism": {
+        "name": "метаболизм"
     },
     "strength": {
         "name": "сила"
@@ -17,10 +17,10 @@
     "wellbalanced": {
         "name": "сбалансированность"
     },
-    "dexterity": {
-        "name": "ловкость"
-    },
     "will": {
         "name": "воля"
+    },
+    "wisdom": {
+        "name": "мудрость"
     }
 }

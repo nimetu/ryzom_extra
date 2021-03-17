@@ -15,19 +15,19 @@
         "pia": "\\d",
         "pda": "the"
     },
-    "lake": {
-        "name": "Lakes",
-        "ia": "a",
-        "da": "the",
-        "p": "Lakes",
-        "pia": "\\d",
-        "pda": "the"
-    },
     "jungle": {
         "name": "Jungle",
         "ia": "a",
         "da": "the",
         "p": "Jungles",
+        "pia": "\\d",
+        "pda": "the"
+    },
+    "lake": {
+        "name": "Lakes",
+        "ia": "a",
+        "da": "the",
+        "p": "Lakes",
         "pia": "\\d",
         "pda": "the"
     },

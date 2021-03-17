@@ -19,16 +19,6 @@
         "pia": "",
         "pda": "die"
     },
-    "lake": {
-        "name": "Seenland",
-        "named": "Seenland",
-        "ia": "ein",
-        "da": "der",
-        "p": "Seenländer",
-        "pd": "Seenländer",
-        "pia": "",
-        "pda": "die"
-    },
     "jungle": {
         "name": "Dschungel",
         "named": "Dschungel",
@@ -36,6 +26,16 @@
         "da": "der",
         "p": "Dschungel",
         "pd": "Dschungel",
+        "pia": "",
+        "pda": "die"
+    },
+    "lake": {
+        "name": "Seenland",
+        "named": "Seenland",
+        "ia": "ein",
+        "da": "der",
+        "p": "Seenländer",
+        "pd": "Seenländer",
         "pia": "",
         "pda": "die"
     },

@@ -1,18 +1,9 @@
 {
-    "slashing": {
-        "name": "Schneide",
+    "acid": {
+        "name": "Säure",
         "ia": "ein",
         "da": "der",
-        "p": "Schneide",
-        "pia": "",
-        "pda": "die",
-        "description": ""
-    },
-    "piercing": {
-        "name": "Durchbohrungs",
-        "ia": "ein",
-        "da": "der",
-        "p": "Durchbohrungs",
+        "p": "Säure",
         "pia": "",
         "pda": "die",
         "description": ""
@@ -26,47 +17,11 @@
         "pda": "die",
         "description": ""
     },
-    "rot": {
-        "name": "Verrottungs",
-        "ia": "ein",
-        "da": "der",
-        "p": "Verrottungs",
-        "pia": "",
-        "pda": "die",
-        "description": ""
-    },
-    "acid": {
-        "name": "Säure",
-        "ia": "ein",
-        "da": "der",
-        "p": "Säure",
-        "pia": "",
-        "pda": "die",
-        "description": ""
-    },
     "cold": {
         "name": "Kälte",
         "ia": "ein",
         "da": "der",
         "p": "Kälte",
-        "pia": "",
-        "pda": "die",
-        "description": ""
-    },
-    "fire": {
-        "name": "Feuer",
-        "ia": "ein",
-        "da": "der",
-        "p": "Feuer",
-        "pia": "",
-        "pda": "die",
-        "description": ""
-    },
-    "poison": {
-        "name": "Gift",
-        "ia": "ein",
-        "da": "der",
-        "p": "Gift",
         "pia": "",
         "pda": "die",
         "description": ""
@@ -80,11 +35,56 @@
         "pda": "die",
         "description": ""
     },
+    "fire": {
+        "name": "Feuer",
+        "ia": "ein",
+        "da": "der",
+        "p": "Feuer",
+        "pia": "",
+        "pda": "die",
+        "description": ""
+    },
+    "piercing": {
+        "name": "Durchbohrungs",
+        "ia": "ein",
+        "da": "der",
+        "p": "Durchbohrungs",
+        "pia": "",
+        "pda": "die",
+        "description": ""
+    },
+    "poison": {
+        "name": "Gift",
+        "ia": "ein",
+        "da": "der",
+        "p": "Gift",
+        "pia": "",
+        "pda": "die",
+        "description": ""
+    },
+    "rot": {
+        "name": "Verrottungs",
+        "ia": "ein",
+        "da": "der",
+        "p": "Verrottungs",
+        "pia": "",
+        "pda": "die",
+        "description": ""
+    },
     "shock": {
         "name": "Schockwellen",
         "ia": "ein",
         "da": "der",
         "p": "Schockwellen",
+        "pia": "",
+        "pda": "die",
+        "description": ""
+    },
+    "slashing": {
+        "name": "Schneide",
+        "ia": "ein",
+        "da": "der",
+        "p": "Schneide",
         "pia": "",
         "pda": "die",
         "description": ""

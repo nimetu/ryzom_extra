@@ -27,6 +27,34 @@
         "name": "Holzbrand-Festung",
         "description": "Dieser Außenposten wurde 2491 gegründet\\n Herausforderung für Gilden mit einem Meister-Rang\\n Der Außenposten wurde ursprünglich auf Befehl von Regentin Leanon hin befestigt. Er schützte einst den Flammenden Wald vor Plünderern und Feinden des Imperiums. Als der Außenposten bemannt war, musste die Garnison, die für seine Verteidigung zuständig war, regelmäßig gegen den Stamm der Enthäuteten kämpfen - Magier, die an die Quelle des verzauberten Feuers wollten."
     },
+    "matis_outpost_03": {
+        "name": "Hof am Gefürchteten Sumpf",
+        "description": "Dieser Außenposten wurde 2492 gegründet\\n Herausforderung für Gilden mit Expertenrang\\n In der Nähe des gefürchteten Sumpfes gegründet, konzentrierte sich der Außenposten auf den Rohstoffabbau und auf das Säubern der Goo-infizierten Sümpfe. Es kam zu Auseinandersetzungen mit dem Stamm der Ökokrieger, als diese herausfanden, dass das verseuchte Material nicht zerstört, sondern nach Yrkanis oder in den Südosten gesandt wurde, um verschiedene Experimente damit durchzuführen. Daraufhin beschuldigten sie die Matis, Goo zu verbreiten. Die königlichen Forscher dementierten diese Beschuldigungen kategorisch und beteuerten, es werde alles daran gesetzt, um Infektionen zu vermeiden."
+    },
+    "matis_outpost_07": {
+        "name": "Hof des Entdeckers",
+        "description": "Dieser Außenposten wurde 2491 gegründet\\n Herausforderung für Gilden mit einem bestätigten Rang\\n Ein Matis-Gelehrter, der auf der Suche nach göttlicher Eingebung war, beschloss, sich auf dem Außenposten niederzulassen, um vom großen Trepan zu profitieren und sich Zugang zu den seltenen Materialien zu verschaffen, die der Göttin heilig sind. Er führte zahlreiche Experimente durch und entdeckte dabei ein neues Bohrpulver, durch das mehrere Quellen gleichzeitig aus dem Boden geschossen kamen. Der Außenposten wurde zum Treffpunkt für Rohstoffabbauer, die dieses Wunderpulver ausprobieren wollten."
+    },
+    "matis_outpost_15": {
+        "name": "Handelsposten am Psykopla-Hügel",
+        "description": "Dieser Außenposten wurde 2491 gegründet\\n Herausforderung für Gilden mit einem Lehrlingsrang\\n Durch eine kleine Händlergilde entstand ein Handelsplatz auf diesem Außenposten. Anfangs betrieben viele Rohstoffabbauer Tauschhandel mit ihrem Material an diesem Ort, wo der Karavan einen großen Trepan errichtete. Ein Tryker-Hausierer hatte die Idee, dort eine Struktur einzurichten, um den Tauschhandel zu vereinfachen, und das gegen eine geringe Kommission. Er gründete eine Gilde mit Matis-Händlern, deren Geschäft dort florierte."
+    },
+    "matis_outpost_17": {
+        "name": "Wooky-Werkstatt",
+        "description": "Dieser Außenposten wurde 2490 gegründet\\n Herausforderung für Gilden mit einem fortgeschrittenen Rang\\n Hier neben einem Portal zu den Tiefen der Urwurzeln war eine Werkstatt errichtet worden. Dies war der erste Außenposten der grünen Anhöhen. Der Name (\"Wooky\" heißt \"Erwachen\") spielt auf eine Zeit an, in der das Matis-Volk begann, intensiven Tätigkeiten nachzugehen, wie der Errichtung von Außenposten, dem Führen von Schlachten gegen die Kitins und dem Anlegen neuer Handelsstraßen."
+    },
+    "matis_outpost_24": {
+        "name": "Westwald-Festung",
+        "description": "Dieser Außenposten wurde 2492 gegründet\\n Herausforderung für Gilden mit einem Meisterrang\\n Hier in den bewaldeten Tiefen des Kapwaldes war ein alter Außenposten errichtet worden. Er wurde befestigt, um den Stamm der Dryaden zu bekämpfen, fanatische Homins, die sich als Beschützer der Pflanzen ansehen. Viele Matis-Botaniker, die von den Dryaden beschuldigt wurden, die Atysianische Flora zu quälen, fanden durch die Hände der Dryaden ihr Ende."
+    },
+    "matis_outpost_27": {
+        "name": "Ginti-Werkstatt",
+        "description": "Dieser Außenposten wurde 2491 gegründet\\n Herausforderung für Gilden mit einem Meisterrang\\n Sevalda Ginti, Bravichi Lenardis Schülerin, war eine der renommiertesten Matis-Botaniker des 25. Jahrhunderts. Als der Karavan große Trepane im Kapwald errichtete, verließ Sevalda Ginti das Gewächshaus von Yrkanis, um im dichten Wald zu arbeiten. Sie stellte viele Nachforschungen an und perfektionierte die Rüstungsherstellung dank ihrer Entdeckungen in Bezug auf Harze. Schließlich verschwand sie unter mysteriösen Umständen."
+    },
+    "matis_outpost_30": {
+        "name": "Berello-Schlucht-Grenzposten",
+        "description": "Dieser Außenposten wurde 2491 gegründet\\n Herausforderung für Gilden mit einem Expertenrang\\n Unter dem Kommando des Matis-Hauptmanns Arcando Berello wurde dieser Grenzposten befestigt. Er war der Schauplatz zahlreicher Auseinandersetzungen mit dem Stamm der Wüstenplünderer. Es stand viel auf dem Spiel, denn wer auch immer die Kontrolle über den Außenposten übernehmen würde, besäße damit auch die Kontrolle über den Durchgang zwischen den Oasen im Norden und den Plateaus im Süden der Region. Berello bewies Hartnäckigkeit und taktische Fähigkeit, sodass sogar die barbarischen Fyros ihren Feind zu respektieren lernten."
+    },
     "tryker_outpost_06": {
         "name": "Grünes Tal - Handelsposten",
         "description": "Dieser Außenposten wurde 2489 gegründet\\n Herausforderung für Gilden mit einem Lehrlingsrang\\n In ein kleines geschütztes Tal mit Bäumen und Felsen westlich von Fairhaven eingebettet, entwickelte sich schnell reger Handel auf diesem Außenposten, insbesonder mit dem Dorf Windermeer. Jedoch wurde er häufig von Banditen angegriffen."
@@ -82,33 +110,5 @@
     "zorai_outpost_29": {
         "name": "Werkstatt des Großen Buschlandes",
         "description": "Dieser Außenposten wurde 2491 gegründet\\n Herausforderung für Gilden mit Expertenrang\\n Die Nutzung dieses Außenpostens in der Wüstenregion des Knoten der Demenz wurde von Cardarus Vekian begonnen, einem Fyros-Feuerwaffenschmied. Dank der nur spärlichen Vegetation konnte der Handwerker die auf Feuer beruhenden Techniken seines Volkes anwenden, ohne eine Feuersbrunst zu entfachen. Obwohl die Händler aus Zora anfangs besorgt waren, interessierten sie sich bald doch für die Arbeit des Fyros. Vekian wurde ein bekannter Handwerker in den verdorrenden Landen und viele Zoraï-Krieger waren stolz, Waffen aus seiner Schmiede zu tragen."
-    },
-    "matis_outpost_03": {
-        "name": "Hof am Gefürchteten Sumpf",
-        "description": "Dieser Außenposten wurde 2492 gegründet\\n Herausforderung für Gilden mit Expertenrang\\n In der Nähe des gefürchteten Sumpfes gegründet, konzentrierte sich der Außenposten auf den Rohstoffabbau und auf das Säubern der Goo-infizierten Sümpfe. Es kam zu Auseinandersetzungen mit dem Stamm der Ökokrieger, als diese herausfanden, dass das verseuchte Material nicht zerstört, sondern nach Yrkanis oder in den Südosten gesandt wurde, um verschiedene Experimente damit durchzuführen. Daraufhin beschuldigten sie die Matis, Goo zu verbreiten. Die königlichen Forscher dementierten diese Beschuldigungen kategorisch und beteuerten, es werde alles daran gesetzt, um Infektionen zu vermeiden."
-    },
-    "matis_outpost_07": {
-        "name": "Hof des Entdeckers",
-        "description": "Dieser Außenposten wurde 2491 gegründet\\n Herausforderung für Gilden mit einem bestätigten Rang\\n Ein Matis-Gelehrter, der auf der Suche nach göttlicher Eingebung war, beschloss, sich auf dem Außenposten niederzulassen, um vom großen Trepan zu profitieren und sich Zugang zu den seltenen Materialien zu verschaffen, die der Göttin heilig sind. Er führte zahlreiche Experimente durch und entdeckte dabei ein neues Bohrpulver, durch das mehrere Quellen gleichzeitig aus dem Boden geschossen kamen. Der Außenposten wurde zum Treffpunkt für Rohstoffabbauer, die dieses Wunderpulver ausprobieren wollten."
-    },
-    "matis_outpost_15": {
-        "name": "Handelsposten am Psykopla-Hügel",
-        "description": "Dieser Außenposten wurde 2491 gegründet\\n Herausforderung für Gilden mit einem Lehrlingsrang\\n Durch eine kleine Händlergilde entstand ein Handelsplatz auf diesem Außenposten. Anfangs betrieben viele Rohstoffabbauer Tauschhandel mit ihrem Material an diesem Ort, wo der Karavan einen großen Trepan errichtete. Ein Tryker-Hausierer hatte die Idee, dort eine Struktur einzurichten, um den Tauschhandel zu vereinfachen, und das gegen eine geringe Kommission. Er gründete eine Gilde mit Matis-Händlern, deren Geschäft dort florierte."
-    },
-    "matis_outpost_17": {
-        "name": "Wooky-Werkstatt",
-        "description": "Dieser Außenposten wurde 2490 gegründet\\n Herausforderung für Gilden mit einem fortgeschrittenen Rang\\n Hier neben einem Portal zu den Tiefen der Urwurzeln war eine Werkstatt errichtet worden. Dies war der erste Außenposten der grünen Anhöhen. Der Name (\"Wooky\" heißt \"Erwachen\") spielt auf eine Zeit an, in der das Matis-Volk begann, intensiven Tätigkeiten nachzugehen, wie der Errichtung von Außenposten, dem Führen von Schlachten gegen die Kitins und dem Anlegen neuer Handelsstraßen."
-    },
-    "matis_outpost_24": {
-        "name": "Westwald-Festung",
-        "description": "Dieser Außenposten wurde 2492 gegründet\\n Herausforderung für Gilden mit einem Meisterrang\\n Hier in den bewaldeten Tiefen des Kapwaldes war ein alter Außenposten errichtet worden. Er wurde befestigt, um den Stamm der Dryaden zu bekämpfen, fanatische Homins, die sich als Beschützer der Pflanzen ansehen. Viele Matis-Botaniker, die von den Dryaden beschuldigt wurden, die Atysianische Flora zu quälen, fanden durch die Hände der Dryaden ihr Ende."
-    },
-    "matis_outpost_27": {
-        "name": "Ginti-Werkstatt",
-        "description": "Dieser Außenposten wurde 2491 gegründet\\n Herausforderung für Gilden mit einem Meisterrang\\n Sevalda Ginti, Bravichi Lenardis Schülerin, war eine der renommiertesten Matis-Botaniker des 25. Jahrhunderts. Als der Karavan große Trepane im Kapwald errichtete, verließ Sevalda Ginti das Gewächshaus von Yrkanis, um im dichten Wald zu arbeiten. Sie stellte viele Nachforschungen an und perfektionierte die Rüstungsherstellung dank ihrer Entdeckungen in Bezug auf Harze. Schließlich verschwand sie unter mysteriösen Umständen."
-    },
-    "matis_outpost_30": {
-        "name": "Berello-Schlucht-Grenzposten",
-        "description": "Dieser Außenposten wurde 2491 gegründet\\n Herausforderung für Gilden mit einem Expertenrang\\n Unter dem Kommando des Matis-Hauptmanns Arcando Berello wurde dieser Grenzposten befestigt. Er war der Schauplatz zahlreicher Auseinandersetzungen mit dem Stamm der Wüstenplünderer. Es stand viel auf dem Spiel, denn wer auch immer die Kontrolle über den Außenposten übernehmen würde, besäße damit auch die Kontrolle über den Durchgang zwischen den Oasen im Norden und den Plateaus im Süden der Region. Berello bewies Hartnäckigkeit und taktische Fähigkeit, sodass sogar die barbarischen Fyros ihren Feind zu respektieren lernten."
     }
 }
