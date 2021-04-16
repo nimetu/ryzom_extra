@@ -6,6 +6,7 @@
         "ia": "einer der",
         "member": "Banditen",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "black_kami": {
@@ -15,6 +16,7 @@
         "ia": "ein",
         "member": "Marodeure",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "civil": {
@@ -24,6 +26,7 @@
         "ia": "einer der",
         "member": "Zivilisten",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "degen": {
@@ -33,6 +36,7 @@
         "ia": "ein",
         "member": "Degenerierte",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "fauna": {
@@ -42,6 +46,7 @@
         "ia": "eines der",
         "member": "Tiere",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "fauna_carnivore": {
@@ -51,6 +56,7 @@
         "ia": "ein",
         "member": "Fleischfresser",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "fauna_herbivore": {
@@ -60,6 +66,7 @@
         "ia": "ein",
         "member": "Pflanzenfresser",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "flora": {
@@ -69,6 +76,7 @@
         "ia": "eine der",
         "member": "Pflanzen",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "fyros": {
@@ -78,6 +86,7 @@
         "ia": "ein",
         "member": "Fyros",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "goo": {
@@ -87,6 +96,7 @@
         "ia": "ein",
         "member": "Goovorkommen",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "kami": {
@@ -96,6 +106,7 @@
         "ia": "ein",
         "member": "Kamis",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "karavan": {
@@ -105,6 +116,7 @@
         "ia": "ein",
         "member": "Karavan",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "kitin": {
@@ -114,6 +126,7 @@
         "ia": "ein",
         "member": "Kitins",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "matis": {
@@ -123,6 +136,7 @@
         "ia": "ein",
         "member": "Matis",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_ancient_dryads": {
@@ -130,8 +144,9 @@
         "da": "die",
         "daa": "den",
         "ia": "eine der",
-        "member": "Mitglieder der Alten Dryaden",
+        "member": "Alten Dryaden",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_antikamis": {
@@ -141,6 +156,7 @@
         "ia": "ein",
         "member": "Antikami",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_barkers": {
@@ -150,6 +166,7 @@
         "ia": "ein",
         "member": "Rindengräber",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_beachcombers": {
@@ -159,6 +176,7 @@
         "ia": "ein",
         "member": "Gischtläufer",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_black_circle": {
@@ -166,8 +184,9 @@
         "da": "der",
         "daa": "den",
         "ia": "einer vom",
-        "member": "Mitglieder des Schwarzen Kreises",
-        "mda": "die",
+        "member": "Schwarze Kreis",
+        "mda": "der",
+        "mdab": "Der",
         "mia": "einige"
     },
     "tribe_cholorogoos": {
@@ -177,6 +196,7 @@
         "ia": "einer der",
         "member": "Cholorogoos",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_cockroaches": {
@@ -184,8 +204,9 @@
         "da": "die",
         "daa": "den",
         "ia": "einer der",
-        "member": "Mitglieder der Kakerlaken",
+        "member": "Kakerlaken",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_company_of_the_eternal_tree": {
@@ -193,8 +214,9 @@
         "da": "die",
         "daa": "der",
         "ia": "einer der",
-        "member": "Mitglieder des Ewigen Baumes",
+        "member": "Gemeinschaft des Ewigen Baumes",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_corsair": {
@@ -204,6 +226,7 @@
         "ia": "einer der",
         "member": "Korsaren",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_cute": {
@@ -213,15 +236,17 @@
         "ia": "einer der",
         "member": "Cuzane",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_darkening_sap": {
-        "name": "Matiagoo Verdunkelnder Sap",
+        "name": "Matiagoo",
         "da": "der",
         "daa": "den",
         "ia": "ein",
-        "member": "Matiagoo-Mitglieder",
+        "member": "Matiagoo",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_dune_riders": {
@@ -231,6 +256,7 @@
         "ia": "ein",
         "member": "Dünenreiter",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_ecowarriors": {
@@ -240,6 +266,7 @@
         "ia": "ein",
         "member": "Ökokrieger",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_firebrands": {
@@ -249,6 +276,7 @@
         "ia": "einer der",
         "member": "Heißsporne",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_first_deserter": {
@@ -256,8 +284,9 @@
         "da": "die",
         "daa": "den",
         "ia": "einer der",
-        "member": "Mitglieder der Ersten Deserteure",
+        "member": "Ersten Deserteure",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_frahar": {
@@ -267,6 +296,7 @@
         "ia": "einer der",
         "member": "Fraider",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_frahar_hunters": {
@@ -276,6 +306,7 @@
         "ia": "ein",
         "member": "Frahar-Jäger",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_gibbay": {
@@ -285,6 +316,7 @@
         "ia": "einer der",
         "member": "Gibads",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_goo_heads": {
@@ -294,6 +326,7 @@
         "ia": "einer der",
         "member": "Erleuchteten des Goo",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_green_seed": {
@@ -301,17 +334,19 @@
         "da": "die",
         "daa": "den",
         "ia": "einer der",
-        "member": "Mitglieder der Grünen Samen",
+        "member": "Grünen Samen",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_hamazans_of_the_dead_seed": {
-        "name": "Matis-Amazonen Hamazans",
+        "name": "Hamazans",
         "da": "die",
         "daa": "den",
         "ia": "eine der",
-        "member": "Matis-Amazonen Hamazans",
+        "member": "Hamazans",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_icon_workshipers": {
@@ -321,6 +356,7 @@
         "ia": "ein",
         "member": "Ikonenschnitzer",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_keepers": {
@@ -330,6 +366,7 @@
         "ia": "ein",
         "member": "Erinnerer",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_kitin_gatheres": {
@@ -339,6 +376,7 @@
         "ia": "ein",
         "member": "Kitin-Jäger",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_lagoon_brothers": {
@@ -348,6 +386,7 @@
         "ia": "einer der",
         "member": "Lagunenbrüder",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_lawless": {
@@ -355,8 +394,9 @@
         "da": "die",
         "daa": "den",
         "ia": "einer der",
-        "member": "Mitglieder der Gesetzlosen",
+        "member": "Gesetzlosen",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_leviers": {
@@ -366,6 +406,7 @@
         "ia": "ein",
         "member": "Zöllner",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_master_of_the_goo": {
@@ -375,6 +416,7 @@
         "ia": "einer der",
         "member": "Meister des Goo",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_matisian_border_guards": {
@@ -382,8 +424,9 @@
         "da": "die",
         "daa": "den",
         "ia": "einer der",
-        "member": "Mitglieder der Matisianischen Grenzwächter",
+        "member": "Matisianischen Grenzwächter",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_night_turners": {
@@ -393,6 +436,7 @@
         "ia": "ein",
         "member": "Nachtwender",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_oasis_diggers": {
@@ -402,6 +446,7 @@
         "ia": "ein",
         "member": "Brunnengräber",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_pyromancers": {
@@ -411,6 +456,7 @@
         "ia": "eine der",
         "member": "Feuermagierinnen",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_recoverers": {
@@ -420,6 +466,7 @@
         "ia": "ein",
         "member": "Recycler",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_renegades": {
@@ -429,6 +476,7 @@
         "ia": "einer der",
         "member": "Mitglieder der Abtrünnigen",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_restorers": {
@@ -438,6 +486,7 @@
         "ia": "ein",
         "member": "Aufpasser",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_root_tappers": {
@@ -447,6 +496,7 @@
         "ia": "ein",
         "member": "Unterwasserwurzel-Extrahierer",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_sacred_sap": {
@@ -456,6 +506,7 @@
         "ia": "einer des",
         "member": "Mitglieder des Heiligen Saps",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_sap_gleaners": {
@@ -465,6 +516,7 @@
         "ia": "ein",
         "member": "Sapsammler",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_sap_slaves": {
@@ -474,6 +526,7 @@
         "ia": "einer der",
         "member": "Sapsklaven",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_scorchers": {
@@ -483,6 +536,7 @@
         "ia": "einer der",
         "member": "Mitglieder der Enthäuteten",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_shadow_runners": {
@@ -492,6 +546,7 @@
         "ia": "ein",
         "member": "Schattenschmuggler",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_siblings_of_the_weeds": {
@@ -499,8 +554,9 @@
         "da": "die",
         "daa": "den",
         "ia": "einer der",
-        "member": "Mitglieder der Geschwister der Pflanzen",
+        "member": "Geschwister der Pflanzen",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_silt_sculptors": {
@@ -510,6 +566,7 @@
         "ia": "ein",
         "member": "Lehmbildhauer",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_slavers": {
@@ -519,6 +576,7 @@
         "ia": "ein",
         "member": "Sklaventreiber",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_smuglers": {
@@ -528,6 +586,7 @@
         "ia": "ein",
         "member": "Schmuggler",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_the_arid_matis": {
@@ -535,8 +594,9 @@
         "da": "die",
         "daa": "den",
         "ia": "einer der",
-        "member": "Mitglieder von Dörre Matis",
+        "member": "Dörre Matis",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_the_kuilde": {
@@ -544,8 +604,9 @@
         "da": "die",
         "daa": "den",
         "ia": "einer der",
-        "member": "Mitglieder der Kuilde",
+        "member": "Kuilde",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_the_slash_and_burn": {
@@ -553,8 +614,9 @@
         "da": "die",
         "daa": "den",
         "ia": "einer der",
-        "member": "Mitglieder der Scharlachroten Söldner",
+        "member": "Scharlachroten Söldner",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_tutors": {
@@ -562,8 +624,9 @@
         "da": "die",
         "daa": "den",
         "ia": "einer der",
-        "member": "Mitglieder der Tutoren",
+        "member": "Tutoren",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_water_breakers": {
@@ -573,6 +636,7 @@
         "ia": "ein",
         "member": "Wasserbrecher",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tribe_woven_bridles": {
@@ -582,6 +646,7 @@
         "ia": "ein",
         "member": "Wüstenplünderer",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "tryker": {
@@ -591,6 +656,7 @@
         "ia": "ein",
         "member": "Tryker",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     },
     "zorai": {
@@ -600,6 +666,7 @@
         "ia": "ein",
         "member": "Zoraï",
         "mda": "die",
+        "mdab": "Die",
         "mia": "einige"
     }
 }

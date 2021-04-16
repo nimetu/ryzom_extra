@@ -878,5 +878,21 @@
         "givable": 0,
         "mountable": 1,
         "display_in_radar": 1
+    },
+    "gnoof_mount_00": {
+        "sheetid": "gnoof_mount_00",
+        "gender": 0,
+        "race": "39",
+        "fame": "none",
+        "speed": 10,
+        "region_force": 6,
+        "force_level": 1,
+        "level": 183,
+        "selectable": 1,
+        "talkable": 0,
+        "attackable": 0,
+        "givable": 0,
+        "mountable": 1,
+        "display_in_radar": 1
     }
 }

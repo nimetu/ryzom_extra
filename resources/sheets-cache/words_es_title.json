@@ -332,7 +332,7 @@
         "women_name": ""
     },
     "fct_arionasiszig": {
-        "name": "Arionasis' Zig",
+        "name": "Arionasis's Zig",
         "women_name": ""
     },
     "fct_artisan_arbres_vrilles": {
@@ -831,6 +831,10 @@
         "name": "(Bonzo Superior de Ma-Duk)",
         "women_name": ""
     },
+    "fct_marauder_ambassador": {
+        "name": "Embajador Marauder",
+        "women_name": "Embajadora Marauder"
+    },
     "fct_marauder_chief": {
         "name": "Jefe Marauder",
         "women_name": ""
@@ -841,6 +845,10 @@
     },
     "fct_marauder_scout": {
         "name": "Explorador Marauder",
+        "women_name": ""
+    },
+    "fct_marauder_windofmuse": {
+        "name": "(Vientos de la Musa)",
         "women_name": ""
     },
     "fct_marmor_merchant": {
@@ -1620,7 +1628,7 @@
         "women_name": ""
     },
     "fct_tyneetrykzig": {
-        "name": "Tyneetryk' Zig",
+        "name": "Tyneetryk's Zig",
         "women_name": ""
     },
     "fct_vagabond": {
@@ -3273,6 +3281,10 @@
     },
     "gn_driller_karavan_lvl50_const": {
         "name": "Construcción de un Pequeño Taladro Karavan",
+        "women_name": ""
+    },
+    "gn_driller_marauder_const": {
+        "name": "Aklareen en construcción",
         "women_name": ""
     },
     "gn_duneriders_guard": {

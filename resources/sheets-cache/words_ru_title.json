@@ -827,6 +827,10 @@
         "name": "(Верховный бонза Ма-Дук)",
         "women_name": ""
     },
+    "fct_marauder_ambassador": {
+        "name": "Посланник мародеров",
+        "women_name": ""
+    },
     "fct_marauder_chief": {
         "name": "Предводитель мародеров",
         "women_name": ""
@@ -837,6 +841,10 @@
     },
     "fct_marauder_scout": {
         "name": "Лазутчик мародеров",
+        "women_name": ""
+    },
+    "fct_marauder_windofmuse": {
+        "name": "(Ветра Муз)",
         "women_name": ""
     },
     "fct_marmor_merchant": {
@@ -3265,6 +3273,10 @@
     },
     "gn_driller_karavan_lvl50_const": {
         "name": "Постройка малого бура Каравана",
+        "women_name": ""
+    },
+    "gn_driller_marauder_const": {
+        "name": "Aklareen большого трепана",
         "women_name": ""
     },
     "gn_duneriders_guard": {

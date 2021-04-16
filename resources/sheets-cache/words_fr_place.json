@@ -839,6 +839,14 @@
         "pda": "les",
         "ppr": "aux"
     },
+    "marauder_camp_stable": {
+        "name": "Etables Maraudeurs",
+        "da": "les",
+        "pr": "dans les",
+        "p": "Etables Maraudeurs",
+        "pda": "les",
+        "ppr": "dans les"
+    },
     "marauder_stable": {
         "name": "Etables Maraudeurs",
         "da": "les",
@@ -2743,6 +2751,14 @@
         "pda": "",
         "ppr": ""
     },
+    "place_marauder_camp_restingwater": {
+        "name": "Camp Maraudeur",
+        "da": "le",
+        "pr": "dans le",
+        "p": "",
+        "pda": "",
+        "ppr": ""
+    },
     "place_matis_island_1": {
         "name": "Campement ranger",
         "da": "le",
@@ -3400,58 +3416,58 @@
         "ppr": "aux"
     },
     "place_outpost_nexus_01": {
-        "name": "Centre de Recherche de la Porte d'Ichor",
-        "da": "le",
-        "pr": "dans le",
-        "p": "Centres de Recherche de la Porte d'Ichor",
+        "name": "Avant-poste Nexnor ((En test, instable))",
+        "da": "l'",
+        "pr": "dans l'",
+        "p": "Avant-poste Nexnor ((En test, instable))",
         "pda": "les",
         "ppr": "dans les"
     },
     "place_outpost_nexus_02": {
-        "name": "Poste d'Echange des Collines Martelées",
+        "name": "Centre d'observation karavanier",
         "da": "le",
         "pr": "dans le",
-        "p": "Postes d'Echange des Collines Martelées",
+        "p": "Centre d'observation karavanier",
         "pda": "les",
         "ppr": "dans les"
     },
     "place_outpost_nexus_03": {
-        "name": "Ferme de la Porte des Ombres",
-        "da": "la",
-        "pr": "dans la",
-        "p": "Fermes de la Porte des Ombres",
+        "name": "Avant-poste Nexocc ((En test, instable))",
+        "da": "l'",
+        "pr": "dans l'",
+        "p": "Avant-poste Nexocc ((En test, instable))",
         "pda": "les",
         "ppr": "dans les"
     },
     "place_outpost_nexus_04": {
-        "name": "Avant-Poste Diplomatique de la Fin de la Destinée",
-        "da": "l'\\d",
+        "name": "Avant-poste Nexori ((En test, instable))",
+        "da": "l'",
         "pr": "dans l'",
-        "p": "Avant-Postes Diplomatiques de la Fin de la Destinée",
+        "p": "Avant-poste Nexori ((En test, instable))",
         "pda": "les",
         "ppr": "dans les"
     },
     "place_outpost_nexus_05": {
-        "name": "Atelier de Gardecombe",
-        "da": "l'\\d",
-        "pr": "dans l'",
-        "p": "Ateliers de Gardecombe",
+        "name": "Centre d'observation kamiste",
+        "da": "le",
+        "pr": "dans le",
+        "p": "Centre d'observation kamiste",
         "pda": "les",
         "ppr": "dans les"
     },
     "place_outpost_nexus_06": {
-        "name": "Ferme de la Crête Surveillée",
-        "da": "la",
-        "pr": "dans la",
-        "p": "Fermes de la Crête Surveillée",
+        "name": "Centre d'observation maraudeur",
+        "da": "le",
+        "pr": "dans le",
+        "p": "Centre d'observation maraudeur",
         "pda": "les",
         "ppr": "dans les"
     },
     "place_outpost_nexus_07": {
-        "name": "Poste Frontière de la Porte des Terres Désolées",
-        "da": "le",
-        "pr": "dans le",
-        "p": "Postes Frontières de la Porte des Terres Désolées",
+        "name": "Avant-poste Nexud ((En test, instable))",
+        "da": "l'",
+        "pr": "dans l'",
+        "p": "Avant-poste Nexud ((En test, instable))",
         "pda": "les",
         "ppr": "dans les"
     },

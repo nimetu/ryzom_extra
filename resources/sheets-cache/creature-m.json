@@ -29534,5 +29534,21 @@
         "givable": 0,
         "mountable": 0,
         "display_in_radar": 0
+    },
+    "marauder_acc_citybanner": {
+        "sheetid": "marauder_acc_citybanner",
+        "gender": 0,
+        "race": "142",
+        "fame": "none",
+        "speed": 0,
+        "region_force": 0,
+        "force_level": 0,
+        "level": 1,
+        "selectable": 0,
+        "talkable": 1,
+        "attackable": 0,
+        "givable": 0,
+        "mountable": 0,
+        "display_in_radar": 0
     }
 }

@@ -403,6 +403,10 @@
         "name": "planta baja",
         "da": ""
     },
+    "marauder_camp_stable": {
+        "name": "Establos Merodeadores",
+        "da": "los"
+    },
     "marauder_stable": {
         "name": "Establos Merodeadores",
         "da": "los"
@@ -1355,6 +1359,10 @@
         "name": "Campamento Merodeador",
         "da": "el"
     },
+    "place_marauder_camp_restingwater": {
+        "name": "Campamento Merodeador",
+        "da": "el"
+    },
     "place_matis_island_1": {
         "name": "Campamento de los guardabosques",
         "da": "el"
@@ -1684,31 +1692,31 @@
         "da": ""
     },
     "place_outpost_nexus_01": {
-        "name": "Centro de Investigación de la Puerta de Ichor",
+        "name": "Puesto de Avanzada del Nexo Norte ((Experimental e inestable))",
         "da": ""
     },
     "place_outpost_nexus_02": {
-        "name": "Puesto de Comercio de las Colinas del Martillo",
+        "name": "Campamento de Observación Karavan",
         "da": ""
     },
     "place_outpost_nexus_03": {
-        "name": "Granja de la Puerta de la Sombra",
+        "name": "Puesto de Avanzada del Nexo Occidental ((Experimental e inestable))",
         "da": ""
     },
     "place_outpost_nexus_04": {
-        "name": "Puesto Diplomático Final del Destino",
+        "name": "Puesto de Avanzada del Nexo Oriental ((Experimental e inestable))",
         "da": ""
     },
     "place_outpost_nexus_05": {
-        "name": "Taller Watchcomb",
+        "name": "Campamento de Observación Kamista",
         "da": ""
     },
     "place_outpost_nexus_06": {
-        "name": "Granja de la Alta Vigilancia",
+        "name": "Campamento de Observación Marauder",
         "da": ""
     },
     "place_outpost_nexus_07": {
-        "name": "Puesto Fronterizo de la Puerta de los Residuos",
+        "name": "Puesto de Avanzada del Nexo Sur ((Experimental e inestable))",
         "da": ""
     },
     "place_outpost_pr_01": {

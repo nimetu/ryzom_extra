@@ -29,6 +29,11 @@
         "description": "Сойти на землю.",
         "description2": ""
     },
+    "bapa05": {
+        "name": "<GEN>bapa05",
+        "description": "",
+        "description2": ""
+    },
     "bcbahb": {
         "name": "Чертеж ботинок Эрук'ана",
         "description": "Чертеж для изготовления ботинок Эрук'ана.",
@@ -129,6 +134,11 @@
         "description": "Чертеж для изготовления двуручной палицы племени Восстановители.",
         "description2": ""
     },
+    "bcbmea03_3": {
+        "name": "<GEN>bcbmea03_3",
+        "description": "",
+        "description2": ""
+    },
     "bcbmea04": {
         "name": "Чертеж двуручного меча племени Скульпторы ила",
         "description": "Чертеж для изготовления двуручного меча племени Скульпторы ила.",
@@ -137,6 +147,11 @@
     "bcbmea04_2": {
         "name": "Чертеж двуручного меча племени Эковоины",
         "description": "Чертеж для изготовления двуручного меча племени Эковоины.",
+        "description2": ""
+    },
+    "bcbmea04_3": {
+        "name": "<GEN>bcbmea04_3",
+        "description": "",
         "description2": ""
     },
     "bcbmea05": {
@@ -269,6 +284,11 @@
         "description": "Чертеж для изготовления копья племени Беззаконники.",
         "description2": ""
     },
+    "bcbrea03_3": {
+        "name": "<GEN>bcbrea03_3",
+        "description": "",
+        "description2": ""
+    },
     "bcbrea04": {
         "name": "Чертеж пистолета племени Первые дезертиры",
         "description": "Чертеж для изготовления пистолета племени Первые дезертиры.",
@@ -344,6 +364,91 @@
         "description": "Чертеж для изготовления щита племени Копатели оазиса.",
         "description2": ""
     },
+    "bccaea01": {
+        "name": "<GEN>bccaea01",
+        "description": "",
+        "description2": ""
+    },
+    "bccaea02": {
+        "name": "<GEN>bccaea02",
+        "description": "",
+        "description2": ""
+    },
+    "bccaea03": {
+        "name": "<GEN>bccaea03",
+        "description": "",
+        "description2": ""
+    },
+    "bccaea04": {
+        "name": "<GEN>bccaea04",
+        "description": "",
+        "description2": ""
+    },
+    "bccaea05": {
+        "name": "<GEN>bccaea05",
+        "description": "",
+        "description2": ""
+    },
+    "bccaea06": {
+        "name": "<GEN>bccaea06",
+        "description": "",
+        "description2": ""
+    },
+    "bccaea07": {
+        "name": "<GEN>bccaea07",
+        "description": "",
+        "description2": ""
+    },
+    "bccaea08": {
+        "name": "<GEN>bccaea08",
+        "description": "",
+        "description2": ""
+    },
+    "bccaea09": {
+        "name": "<GEN>bccaea09",
+        "description": "",
+        "description2": ""
+    },
+    "bccaea10": {
+        "name": "<GEN>bccaea10",
+        "description": "",
+        "description2": ""
+    },
+    "bccaea11": {
+        "name": "<GEN>bccaea11",
+        "description": "",
+        "description2": ""
+    },
+    "bccaea12": {
+        "name": "<GEN>bccaea12",
+        "description": "",
+        "description2": ""
+    },
+    "bccaea13": {
+        "name": "<GEN>bccaea13",
+        "description": "",
+        "description2": ""
+    },
+    "bccaea14": {
+        "name": "<GEN>bccaea14",
+        "description": "",
+        "description2": ""
+    },
+    "bccaea15": {
+        "name": "<GEN>bccaea15",
+        "description": "",
+        "description2": ""
+    },
+    "bccaea16": {
+        "name": "<GEN>bccaea16",
+        "description": "",
+        "description2": ""
+    },
+    "bccaea19": {
+        "name": "<GEN>bccaea19",
+        "description": "",
+        "description2": ""
+    },
     "bccmea01": {
         "name": "Чертеж длинного топора",
         "description": "Чертеж для изготовления длинных топоров.",
@@ -392,6 +497,21 @@
     "bccmea10": {
         "name": "Чертеж меча",
         "description": "Чертеж для изготовления мечей.",
+        "description2": ""
+    },
+    "bccmea15": {
+        "name": "<GEN>bccmea15",
+        "description": "",
+        "description2": ""
+    },
+    "bccmea16": {
+        "name": "<GEN>bccmea16",
+        "description": "",
+        "description2": ""
+    },
+    "bccmea17": {
+        "name": "<GEN>bccmea17",
+        "description": "",
         "description2": ""
     },
     "bccpea01": {
@@ -499,9 +619,34 @@
         "description": "Чертеж для изготовления рассекающих зарядов для ружья.",
         "description2": ""
     },
+    "bccrea01": {
+        "name": "<GEN>bccrea01",
+        "description": "",
+        "description2": ""
+    },
     "bccrea02": {
         "name": "Чертеж стандартного самострела",
         "description": "Чертеж для изготовления стандартного самострела.",
+        "description2": ""
+    },
+    "bccrea03": {
+        "name": "<GEN>bccrea03",
+        "description": "",
+        "description2": ""
+    },
+    "bccrea04": {
+        "name": "<GEN>bccrea04",
+        "description": "",
+        "description2": ""
+    },
+    "bccrea05": {
+        "name": "<GEN>bccrea05",
+        "description": "",
+        "description2": ""
+    },
+    "bccrea06": {
+        "name": "<GEN>bccrea06",
+        "description": "",
         "description2": ""
     },
     "bccsea01": {
@@ -512,6 +657,11 @@
     "bccsea02": {
         "name": "Чертеж щита",
         "description": "Чертеж для изготовления щитов.",
+        "description2": ""
+    },
+    "bccsea03": {
+        "name": "<GEN>bccsea03",
+        "description": "",
         "description2": ""
     },
     "bcfaca01": {
@@ -2104,6 +2254,126 @@
         "description": "Lets you make Fyros tools of quality $cr_recommended.",
         "description2": "Fyros Tools 1 - Quality: $cr_recommended"
     },
+    "bcftca02": {
+        "name": "<GEN>bcftca02",
+        "description": "",
+        "description2": ""
+    },
+    "bcftca03": {
+        "name": "<GEN>bcftca03",
+        "description": "",
+        "description2": ""
+    },
+    "bcftca04": {
+        "name": "<GEN>bcftca04",
+        "description": "",
+        "description2": ""
+    },
+    "bcftca05": {
+        "name": "<GEN>bcftca05",
+        "description": "",
+        "description2": ""
+    },
+    "bcftca06": {
+        "name": "<GEN>bcftca06",
+        "description": "",
+        "description2": ""
+    },
+    "bcftca07": {
+        "name": "<GEN>bcftca07",
+        "description": "",
+        "description2": ""
+    },
+    "bcftca08": {
+        "name": "<GEN>bcftca08",
+        "description": "",
+        "description2": ""
+    },
+    "bcftca09": {
+        "name": "<GEN>bcftca09",
+        "description": "",
+        "description2": ""
+    },
+    "bcftca10": {
+        "name": "Fyros Tools 2",
+        "description": "Lets you make Fyros tools of quality $cr_recommended.",
+        "description2": "Fyros Tools 2 - Quality: $cr_recommended"
+    },
+    "bcftca11": {
+        "name": "<GEN>bcftca11",
+        "description": "",
+        "description2": ""
+    },
+    "bcftca12": {
+        "name": "<GEN>bcftca12",
+        "description": "",
+        "description2": ""
+    },
+    "bcftca13": {
+        "name": "<GEN>bcftca13",
+        "description": "",
+        "description2": ""
+    },
+    "bcftca14": {
+        "name": "<GEN>bcftca14",
+        "description": "",
+        "description2": ""
+    },
+    "bcftca15": {
+        "name": "Fyros Tools 3",
+        "description": "Lets you make Fyros tools of quality $cr_recommended.",
+        "description2": "Fyros Tools 3 - Quality: $cr_recommended"
+    },
+    "bcftca16": {
+        "name": "<GEN>bcftca16",
+        "description": "",
+        "description2": ""
+    },
+    "bcftca17": {
+        "name": "<GEN>bcftca17",
+        "description": "",
+        "description2": ""
+    },
+    "bcftca18": {
+        "name": "<GEN>bcftca18",
+        "description": "",
+        "description2": ""
+    },
+    "bcftca19": {
+        "name": "<GEN>bcftca19",
+        "description": "",
+        "description2": ""
+    },
+    "bcftca20": {
+        "name": "Fyros Tools 4",
+        "description": "Lets you make Fyros tools of quality $cr_recommended.",
+        "description2": "Fyros Tools 4 - Quality: $cr_recommended"
+    },
+    "bcftca21": {
+        "name": "<GEN>bcftca21",
+        "description": "",
+        "description2": ""
+    },
+    "bcftca22": {
+        "name": "<GEN>bcftca22",
+        "description": "",
+        "description2": ""
+    },
+    "bcftca23": {
+        "name": "<GEN>bcftca23",
+        "description": "",
+        "description2": ""
+    },
+    "bcftca24": {
+        "name": "<GEN>bcftca24",
+        "description": "",
+        "description2": ""
+    },
+    "bcftca25": {
+        "name": "Fyros Tools 5",
+        "description": "Lets you make Fyros tools of quality $cr_recommended.",
+        "description2": "Fyros Tools 5 - Quality: $cr_recommended"
+    },
     "bckambca01": {
         "name": "Строительство Ками 01",
         "description": "Позволяет сооружать строения Ками $cr_recommended уровня качества.",
@@ -2309,6 +2579,21 @@
         "description": "Чертеж постройки\/Маленький фрагмент Ствола.",
         "description2": ""
     },
+    "bckamsea01": {
+        "name": "<GEN>bckamsea01",
+        "description": "",
+        "description2": ""
+    },
+    "bckamsea02": {
+        "name": "<GEN>bckamsea02",
+        "description": "",
+        "description2": ""
+    },
+    "bckamsea03": {
+        "name": "<GEN>bckamsea03",
+        "description": "",
+        "description2": ""
+    },
     "bckarbca01": {
         "name": "Строительство Каравана 01",
         "description": "Позволяет сооружать строения Каравана $cr_recommended уровня качества.",
@@ -2512,6 +2797,21 @@
     "bckarmi_ep2_small_patch_cover": {
         "name": "Меньшая часть Плиты",
         "description": "Чертеж постройки\/Меньшая часть Плиты.",
+        "description2": ""
+    },
+    "bckarsea01": {
+        "name": "<GEN>bckarsea01",
+        "description": "",
+        "description2": ""
+    },
+    "bckarsea02": {
+        "name": "<GEN>bckarsea02",
+        "description": "",
+        "description2": ""
+    },
+    "bckarsea03": {
+        "name": "<GEN>bckarsea03",
+        "description": "",
         "description2": ""
     },
     "bcmaca01": {
@@ -4108,6 +4408,126 @@
         "name": "Matis Tools 1",
         "description": "Lets you make Matis tools of quality $cr_recommended.",
         "description2": "Matis Tools 1 - Quality: $cr_recommended"
+    },
+    "bcmtca02": {
+        "name": "<GEN>bcmtca02",
+        "description": "",
+        "description2": ""
+    },
+    "bcmtca03": {
+        "name": "<GEN>bcmtca03",
+        "description": "",
+        "description2": ""
+    },
+    "bcmtca04": {
+        "name": "<GEN>bcmtca04",
+        "description": "",
+        "description2": ""
+    },
+    "bcmtca05": {
+        "name": "<GEN>bcmtca05",
+        "description": "",
+        "description2": ""
+    },
+    "bcmtca06": {
+        "name": "<GEN>bcmtca06",
+        "description": "",
+        "description2": ""
+    },
+    "bcmtca07": {
+        "name": "<GEN>bcmtca07",
+        "description": "",
+        "description2": ""
+    },
+    "bcmtca08": {
+        "name": "<GEN>bcmtca08",
+        "description": "",
+        "description2": ""
+    },
+    "bcmtca09": {
+        "name": "<GEN>bcmtca09",
+        "description": "",
+        "description2": ""
+    },
+    "bcmtca10": {
+        "name": "Matis Tools 2",
+        "description": "Lets you make Matis tools of quality $cr_recommended.",
+        "description2": "Matis Tools 2 - Quality: $cr_recommended"
+    },
+    "bcmtca11": {
+        "name": "<GEN>bcmtca11",
+        "description": "",
+        "description2": ""
+    },
+    "bcmtca12": {
+        "name": "<GEN>bcmtca12",
+        "description": "",
+        "description2": ""
+    },
+    "bcmtca13": {
+        "name": "<GEN>bcmtca13",
+        "description": "",
+        "description2": ""
+    },
+    "bcmtca14": {
+        "name": "<GEN>bcmtca14",
+        "description": "",
+        "description2": ""
+    },
+    "bcmtca15": {
+        "name": "Matis Tools 3",
+        "description": "Lets you make Matis tools of quality $cr_recommended.",
+        "description2": "Matis Tools 3 - Quality: $cr_recommended"
+    },
+    "bcmtca16": {
+        "name": "<GEN>bcmtca16",
+        "description": "",
+        "description2": ""
+    },
+    "bcmtca17": {
+        "name": "<GEN>bcmtca17",
+        "description": "",
+        "description2": ""
+    },
+    "bcmtca18": {
+        "name": "<GEN>bcmtca18",
+        "description": "",
+        "description2": ""
+    },
+    "bcmtca19": {
+        "name": "<GEN>bcmtca19",
+        "description": "",
+        "description2": ""
+    },
+    "bcmtca20": {
+        "name": "Matis Tools 4",
+        "description": "Lets you make Matis tools of quality $cr_recommended.",
+        "description2": "Matis Tools 4 - Quality: $cr_recommended"
+    },
+    "bcmtca21": {
+        "name": "<GEN>bcmtca21",
+        "description": "",
+        "description2": ""
+    },
+    "bcmtca22": {
+        "name": "<GEN>bcmtca22",
+        "description": "",
+        "description2": ""
+    },
+    "bcmtca23": {
+        "name": "<GEN>bcmtca23",
+        "description": "",
+        "description2": ""
+    },
+    "bcmtca24": {
+        "name": "<GEN>bcmtca24",
+        "description": "",
+        "description2": ""
+    },
+    "bcmtca25": {
+        "name": "Matis Tools 5",
+        "description": "Lets you make Matis tools of quality $cr_recommended.",
+        "description2": "Matis Tools 5 - Quality: $cr_recommended"
     },
     "bcoa01": {
         "name": "Увеличение здоровья 1",
@@ -6664,6 +7084,21 @@
         "description": "Чертеж для изготовления рассекающих зарядов для ружья трайкеров.",
         "description2": ""
     },
+    "bctpea22": {
+        "name": "<GEN>bctpea22",
+        "description": "",
+        "description2": ""
+    },
+    "bctpea23": {
+        "name": "<GEN>bctpea23",
+        "description": "",
+        "description2": ""
+    },
+    "bctpea24": {
+        "name": "<GEN>bctpea24",
+        "description": "",
+        "description2": ""
+    },
     "bctrca01": {
         "name": "Дальнобойное оружие трайкеров 1",
         "description": "Позволяет изготовить дальнобойное оружие трайкеров $cr_recommended качества.",
@@ -7068,6 +7503,126 @@
         "name": "Tryker Tools 1",
         "description": "Lets you make Tryker tools of quality $cr_recommended.",
         "description2": "Tryker Tools 1 - Quality: $cr_recommended"
+    },
+    "bcttca02": {
+        "name": "<GEN>bcttca02",
+        "description": "",
+        "description2": ""
+    },
+    "bcttca03": {
+        "name": "<GEN>bcttca03",
+        "description": "",
+        "description2": ""
+    },
+    "bcttca04": {
+        "name": "<GEN>bcttca04",
+        "description": "",
+        "description2": ""
+    },
+    "bcttca05": {
+        "name": "<GEN>bcttca05",
+        "description": "",
+        "description2": ""
+    },
+    "bcttca06": {
+        "name": "<GEN>bcttca06",
+        "description": "",
+        "description2": ""
+    },
+    "bcttca07": {
+        "name": "<GEN>bcttca07",
+        "description": "",
+        "description2": ""
+    },
+    "bcttca08": {
+        "name": "<GEN>bcttca08",
+        "description": "",
+        "description2": ""
+    },
+    "bcttca09": {
+        "name": "<GEN>bcttca09",
+        "description": "",
+        "description2": ""
+    },
+    "bcttca10": {
+        "name": "Tryker Tools 2",
+        "description": "Lets you make Tryker tools of quality $cr_recommended.",
+        "description2": "Tryker Tools 2 - Quality: $cr_recommended"
+    },
+    "bcttca11": {
+        "name": "<GEN>bcttca11",
+        "description": "",
+        "description2": ""
+    },
+    "bcttca12": {
+        "name": "<GEN>bcttca12",
+        "description": "",
+        "description2": ""
+    },
+    "bcttca13": {
+        "name": "<GEN>bcttca13",
+        "description": "",
+        "description2": ""
+    },
+    "bcttca14": {
+        "name": "<GEN>bcttca14",
+        "description": "",
+        "description2": ""
+    },
+    "bcttca15": {
+        "name": "Tryker Tools 3",
+        "description": "Lets you make Tryker tools of quality $cr_recommended.",
+        "description2": "Tryker Tools 3 - Quality: $cr_recommended"
+    },
+    "bcttca16": {
+        "name": "<GEN>bcttca16",
+        "description": "",
+        "description2": ""
+    },
+    "bcttca17": {
+        "name": "<GEN>bcttca17",
+        "description": "",
+        "description2": ""
+    },
+    "bcttca18": {
+        "name": "<GEN>bcttca18",
+        "description": "",
+        "description2": ""
+    },
+    "bcttca19": {
+        "name": "<GEN>bcttca19",
+        "description": "",
+        "description2": ""
+    },
+    "bcttca20": {
+        "name": "Tryker Tools 4",
+        "description": "Lets you make Tryker tools of quality $cr_recommended.",
+        "description2": "Tryker Tools 4 - Quality: $cr_recommended"
+    },
+    "bcttca21": {
+        "name": "<GEN>bcttca21",
+        "description": "",
+        "description2": ""
+    },
+    "bcttca22": {
+        "name": "<GEN>bcttca22",
+        "description": "",
+        "description2": ""
+    },
+    "bcttca23": {
+        "name": "<GEN>bcttca23",
+        "description": "",
+        "description2": ""
+    },
+    "bcttca24": {
+        "name": "<GEN>bcttca24",
+        "description": "",
+        "description2": ""
+    },
+    "bcttca25": {
+        "name": "Tryker Tools 5",
+        "description": "Lets you make Tryker tools of quality $cr_recommended.",
+        "description2": "Tryker Tools 5 - Quality: $cr_recommended"
     },
     "bczaca01": {
         "name": "Доспехи Зораи 1",
@@ -8658,6 +9213,126 @@
         "name": "Zoraï Tools 1",
         "description": "Lets you make Zoraï tools of quality $cr_recommended.",
         "description2": "Zoraï Tools 1 - Quality: $cr_recommended"
+    },
+    "bcztca02": {
+        "name": "<GEN>bcztca02",
+        "description": "",
+        "description2": ""
+    },
+    "bcztca03": {
+        "name": "<GEN>bcztca03",
+        "description": "",
+        "description2": ""
+    },
+    "bcztca04": {
+        "name": "<GEN>bcztca04",
+        "description": "",
+        "description2": ""
+    },
+    "bcztca05": {
+        "name": "<GEN>bcztca05",
+        "description": "",
+        "description2": ""
+    },
+    "bcztca06": {
+        "name": "<GEN>bcztca06",
+        "description": "",
+        "description2": ""
+    },
+    "bcztca07": {
+        "name": "<GEN>bcztca07",
+        "description": "",
+        "description2": ""
+    },
+    "bcztca08": {
+        "name": "<GEN>bcztca08",
+        "description": "",
+        "description2": ""
+    },
+    "bcztca09": {
+        "name": "<GEN>bcztca09",
+        "description": "",
+        "description2": ""
+    },
+    "bcztca10": {
+        "name": "Zoraï Tools 2",
+        "description": "Lets you make Zoraï tools of quality $cr_recommended.",
+        "description2": "Zoraï Tools 2 - Quality: $cr_recommended"
+    },
+    "bcztca11": {
+        "name": "<GEN>bcztca11",
+        "description": "",
+        "description2": ""
+    },
+    "bcztca12": {
+        "name": "<GEN>bcztca12",
+        "description": "",
+        "description2": ""
+    },
+    "bcztca13": {
+        "name": "<GEN>bcztca13",
+        "description": "",
+        "description2": ""
+    },
+    "bcztca14": {
+        "name": "<GEN>bcztca14",
+        "description": "",
+        "description2": ""
+    },
+    "bcztca15": {
+        "name": "Zoraï Tools 3",
+        "description": "Lets you make Zoraï tools of quality $cr_recommended.",
+        "description2": "Zoraï Tools 3 - Quality: $cr_recommended"
+    },
+    "bcztca16": {
+        "name": "<GEN>bcztca16",
+        "description": "",
+        "description2": ""
+    },
+    "bcztca17": {
+        "name": "<GEN>bcztca17",
+        "description": "",
+        "description2": ""
+    },
+    "bcztca18": {
+        "name": "<GEN>bcztca18",
+        "description": "",
+        "description2": ""
+    },
+    "bcztca19": {
+        "name": "<GEN>bcztca19",
+        "description": "",
+        "description2": ""
+    },
+    "bcztca20": {
+        "name": "Zoraï Tools 4",
+        "description": "Lets you make Zoraï tools of quality $cr_recommended.",
+        "description2": "Zoraï Tools 4 - Quality: $cr_recommended"
+    },
+    "bcztca21": {
+        "name": "<GEN>bcztca21",
+        "description": "",
+        "description2": ""
+    },
+    "bcztca22": {
+        "name": "<GEN>bcztca22",
+        "description": "",
+        "description2": ""
+    },
+    "bcztca23": {
+        "name": "<GEN>bcztca23",
+        "description": "",
+        "description2": ""
+    },
+    "bcztca24": {
+        "name": "<GEN>bcztca24",
+        "description": "",
+        "description2": ""
+    },
+    "bcztca25": {
+        "name": "Zoraï Tools 5",
+        "description": "Lets you make Zoraï tools of quality $cr_recommended.",
+        "description2": "Zoraï Tools 5 - Quality: $cr_recommended"
     },
     "bepa01": {
         "name": "Запустить чары",
@@ -11244,6 +11919,21 @@
         "description": "Станза скрытного извлечения 5.",
         "description2": ""
     },
+    "bhfemf01": {
+        "name": "<GEN>bhfemf01",
+        "description": "",
+        "description2": ""
+    },
+    "bhfemf02": {
+        "name": "<GEN>bhfemf02",
+        "description": "",
+        "description2": ""
+    },
+    "bhfemf03": {
+        "name": "<GEN>bhfemf03",
+        "description": "",
+        "description2": ""
+    },
     "bhfemg01": {
         "name": "Поглощение вреда месторождению $FG_ABS_SRC_DMG%",
         "description": "Превращает $FG_ABS_SRC_DMG% вреда, нанесенного месторождению в урон, нанесенный здоровью вашего персонажа.",
@@ -11342,6 +12032,11 @@
     "bhfepa02": {
         "name": "Забота о месторождении",
         "description": "Забота о месторождении снижает риски, связанные с извлечением ресурсов.",
+        "description2": ""
+    },
+    "bhfgpa01": {
+        "name": "<GEN>bhfgpa01",
+        "description": "",
         "description2": ""
     },
     "bhfpca01": {
@@ -12092,6 +12787,11 @@
     "bhfppoi01": {
         "name": "Поиск материалов лучшего качества",
         "description": "Позволяет находить материалы более высокого качества (без этой станзы вы сможете найти только сырье стандартного качества).",
+        "description2": ""
+    },
+    "bhfppoj01": {
+        "name": "<GEN>bhfppoj01",
+        "description": "",
         "description2": ""
     },
     "bhfppok01": {
@@ -13514,9 +14214,219 @@
         "description": "Вы экипируете предмет.",
         "description2": "Вы экипируете предмет"
     },
+    "big_outpost_pvp_0": {
+        "name": "<GEN>big_outpost_pvp_0",
+        "description": "",
+        "description2": ""
+    },
+    "big_outpost_pvp_1": {
+        "name": "<GEN>big_outpost_pvp_1",
+        "description": "",
+        "description2": ""
+    },
+    "big_outpost_pvp_10": {
+        "name": "<GEN>big_outpost_pvp_10",
+        "description": "",
+        "description2": ""
+    },
+    "big_outpost_pvp_11": {
+        "name": "<GEN>big_outpost_pvp_11",
+        "description": "",
+        "description2": ""
+    },
+    "big_outpost_pvp_12": {
+        "name": "<GEN>big_outpost_pvp_12",
+        "description": "",
+        "description2": ""
+    },
+    "big_outpost_pvp_13": {
+        "name": "<GEN>big_outpost_pvp_13",
+        "description": "",
+        "description2": ""
+    },
+    "big_outpost_pvp_14": {
+        "name": "<GEN>big_outpost_pvp_14",
+        "description": "",
+        "description2": ""
+    },
+    "big_outpost_pvp_15": {
+        "name": "<GEN>big_outpost_pvp_15",
+        "description": "",
+        "description2": ""
+    },
+    "big_outpost_pvp_16": {
+        "name": "<GEN>big_outpost_pvp_16",
+        "description": "",
+        "description2": ""
+    },
+    "big_outpost_pvp_17": {
+        "name": "<GEN>big_outpost_pvp_17",
+        "description": "",
+        "description2": ""
+    },
+    "big_outpost_pvp_18": {
+        "name": "<GEN>big_outpost_pvp_18",
+        "description": "",
+        "description2": ""
+    },
+    "big_outpost_pvp_19": {
+        "name": "<GEN>big_outpost_pvp_19",
+        "description": "",
+        "description2": ""
+    },
+    "big_outpost_pvp_2": {
+        "name": "<GEN>big_outpost_pvp_2",
+        "description": "",
+        "description2": ""
+    },
+    "big_outpost_pvp_20": {
+        "name": "<GEN>big_outpost_pvp_20",
+        "description": "",
+        "description2": ""
+    },
+    "big_outpost_pvp_21": {
+        "name": "<GEN>big_outpost_pvp_21",
+        "description": "",
+        "description2": ""
+    },
+    "big_outpost_pvp_22": {
+        "name": "<GEN>big_outpost_pvp_22",
+        "description": "",
+        "description2": ""
+    },
+    "big_outpost_pvp_23": {
+        "name": "<GEN>big_outpost_pvp_23",
+        "description": "",
+        "description2": ""
+    },
+    "big_outpost_pvp_24": {
+        "name": "<GEN>big_outpost_pvp_24",
+        "description": "",
+        "description2": ""
+    },
+    "big_outpost_pvp_25": {
+        "name": "<GEN>big_outpost_pvp_25",
+        "description": "",
+        "description2": ""
+    },
+    "big_outpost_pvp_26": {
+        "name": "<GEN>big_outpost_pvp_26",
+        "description": "",
+        "description2": ""
+    },
+    "big_outpost_pvp_27": {
+        "name": "<GEN>big_outpost_pvp_27",
+        "description": "",
+        "description2": ""
+    },
+    "big_outpost_pvp_28": {
+        "name": "<GEN>big_outpost_pvp_28",
+        "description": "",
+        "description2": ""
+    },
+    "big_outpost_pvp_29": {
+        "name": "<GEN>big_outpost_pvp_29",
+        "description": "",
+        "description2": ""
+    },
+    "big_outpost_pvp_3": {
+        "name": "<GEN>big_outpost_pvp_3",
+        "description": "",
+        "description2": ""
+    },
+    "big_outpost_pvp_30": {
+        "name": "<GEN>big_outpost_pvp_30",
+        "description": "",
+        "description2": ""
+    },
+    "big_outpost_pvp_31": {
+        "name": "<GEN>big_outpost_pvp_31",
+        "description": "",
+        "description2": ""
+    },
+    "big_outpost_pvp_4": {
+        "name": "<GEN>big_outpost_pvp_4",
+        "description": "",
+        "description2": ""
+    },
+    "big_outpost_pvp_5": {
+        "name": "<GEN>big_outpost_pvp_5",
+        "description": "",
+        "description2": ""
+    },
+    "big_outpost_pvp_6": {
+        "name": "<GEN>big_outpost_pvp_6",
+        "description": "",
+        "description2": ""
+    },
+    "big_outpost_pvp_7": {
+        "name": "<GEN>big_outpost_pvp_7",
+        "description": "",
+        "description2": ""
+    },
+    "big_outpost_pvp_8": {
+        "name": "<GEN>big_outpost_pvp_8",
+        "description": "",
+        "description2": ""
+    },
+    "big_outpost_pvp_9": {
+        "name": "<GEN>big_outpost_pvp_9",
+        "description": "",
+        "description2": ""
+    },
     "big_remove": {
         "name": "Удалить эту станзу",
         "description": "Позволяет удалить станзу.",
+        "description2": ""
+    },
+    "big_ring_xpcat_100": {
+        "name": "<GEN>big_ring_xpcat_100",
+        "description": "",
+        "description2": ""
+    },
+    "big_ring_xpcat_150": {
+        "name": "<GEN>big_ring_xpcat_150",
+        "description": "",
+        "description2": ""
+    },
+    "big_ring_xpcat_200": {
+        "name": "<GEN>big_ring_xpcat_200",
+        "description": "",
+        "description2": ""
+    },
+    "big_ring_xpcat_250": {
+        "name": "<GEN>big_ring_xpcat_250",
+        "description": "",
+        "description2": ""
+    },
+    "big_ring_xpcat_50": {
+        "name": "<GEN>big_ring_xpcat_50",
+        "description": "",
+        "description2": ""
+    },
+    "big_xpcat_100": {
+        "name": "<GEN>big_xpcat_100",
+        "description": "",
+        "description2": ""
+    },
+    "big_xpcat_150": {
+        "name": "<GEN>big_xpcat_150",
+        "description": "",
+        "description2": ""
+    },
+    "big_xpcat_200": {
+        "name": "<GEN>big_xpcat_200",
+        "description": "",
+        "description2": ""
+    },
+    "big_xpcat_250": {
+        "name": "<GEN>big_xpcat_250",
+        "description": "",
+        "description2": ""
+    },
+    "big_xpcat_50": {
+        "name": "<GEN>big_xpcat_50",
+        "description": "",
         "description2": ""
     },
     "blind": {
@@ -18259,6 +19169,46 @@
         "description": "Титул героя Каравана.",
         "description2": ""
     },
+    "bscea01": {
+        "name": "<GEN>bscea01",
+        "description": "",
+        "description2": ""
+    },
+    "bscea02": {
+        "name": "<GEN>bscea02",
+        "description": "",
+        "description2": ""
+    },
+    "bscea03": {
+        "name": "<GEN>bscea03",
+        "description": "",
+        "description2": ""
+    },
+    "bscea04": {
+        "name": "<GEN>bscea04",
+        "description": "",
+        "description2": ""
+    },
+    "bscma01": {
+        "name": "<GEN>bscma01",
+        "description": "",
+        "description2": ""
+    },
+    "bscmb01": {
+        "name": "<GEN>bscmb01",
+        "description": "",
+        "description2": ""
+    },
+    "bscmc01": {
+        "name": "<GEN>bscmc01",
+        "description": "",
+        "description2": ""
+    },
+    "bscmd01": {
+        "name": "<GEN>bscmd01",
+        "description": "",
+        "description2": ""
+    },
     "bsdea03": {
         "name": "Ускорение бега",
         "description": "На короткий срок вы можете бежать со скоростью, вдвое превышающей обычную скорость.",
@@ -19014,6 +19964,146 @@
         "description": "Моментально восстанавливает 2600 единиц внимания у сотворившего заклинание.",
         "description2": "Восстановление собственного внимания 26: восстанавливает 2600 единиц внимания у сотворившего заклинание."
     },
+    "bsgmb01": {
+        "name": "<GEN>bsgmb01",
+        "description": "",
+        "description2": ""
+    },
+    "bsgmb02": {
+        "name": "<GEN>bsgmb02",
+        "description": "",
+        "description2": ""
+    },
+    "bsgmb03": {
+        "name": "<GEN>bsgmb03",
+        "description": "",
+        "description2": ""
+    },
+    "bsgmb04": {
+        "name": "<GEN>bsgmb04",
+        "description": "",
+        "description2": ""
+    },
+    "bsgmb05": {
+        "name": "<GEN>bsgmb05",
+        "description": "",
+        "description2": ""
+    },
+    "bsgmb06": {
+        "name": "<GEN>bsgmb06",
+        "description": "",
+        "description2": ""
+    },
+    "bsgmb07": {
+        "name": "<GEN>bsgmb07",
+        "description": "",
+        "description2": ""
+    },
+    "bsgmba01": {
+        "name": "<GEN>bsgmba01",
+        "description": "",
+        "description2": ""
+    },
+    "bsgmba02": {
+        "name": "<GEN>bsgmba02",
+        "description": "",
+        "description2": ""
+    },
+    "bsgmba03": {
+        "name": "<GEN>bsgmba03",
+        "description": "",
+        "description2": ""
+    },
+    "bsgmbc01": {
+        "name": "<GEN>bsgmbc01",
+        "description": "",
+        "description2": ""
+    },
+    "bsgmbc02": {
+        "name": "<GEN>bsgmbc02",
+        "description": "",
+        "description2": ""
+    },
+    "bsgmbc03": {
+        "name": "<GEN>bsgmbc03",
+        "description": "",
+        "description2": ""
+    },
+    "bsgmbe01": {
+        "name": "<GEN>bsgmbe01",
+        "description": "",
+        "description2": ""
+    },
+    "bsgmbe02": {
+        "name": "<GEN>bsgmbe02",
+        "description": "",
+        "description2": ""
+    },
+    "bsgmbe03": {
+        "name": "<GEN>bsgmbe03",
+        "description": "",
+        "description2": ""
+    },
+    "bsgmbf01": {
+        "name": "<GEN>bsgmbf01",
+        "description": "",
+        "description2": ""
+    },
+    "bsgmbf02": {
+        "name": "<GEN>bsgmbf02",
+        "description": "",
+        "description2": ""
+    },
+    "bsgmbf03": {
+        "name": "<GEN>bsgmbf03",
+        "description": "",
+        "description2": ""
+    },
+    "bsgmbp01": {
+        "name": "<GEN>bsgmbp01",
+        "description": "",
+        "description2": ""
+    },
+    "bsgmbp02": {
+        "name": "<GEN>bsgmbp02",
+        "description": "",
+        "description2": ""
+    },
+    "bsgmbp03": {
+        "name": "<GEN>bsgmbp03",
+        "description": "",
+        "description2": ""
+    },
+    "bsgmbr01": {
+        "name": "<GEN>bsgmbr01",
+        "description": "",
+        "description2": ""
+    },
+    "bsgmbr02": {
+        "name": "<GEN>bsgmbr02",
+        "description": "",
+        "description2": ""
+    },
+    "bsgmbr03": {
+        "name": "<GEN>bsgmbr03",
+        "description": "",
+        "description2": ""
+    },
+    "bsgmbs01": {
+        "name": "<GEN>bsgmbs01",
+        "description": "",
+        "description2": ""
+    },
+    "bsgmbs02": {
+        "name": "<GEN>bsgmbs02",
+        "description": "",
+        "description2": ""
+    },
+    "bsgmbs03": {
+        "name": "<GEN>bsgmbs03",
+        "description": "",
+        "description2": ""
+    },
     "bsmea06": {
         "name": "Распределение здоровья",
         "description": "Распределяет общую сумму единиц здоровья в группе пропорционально между всеми членами группы (с потерями).",
@@ -19264,6 +20354,556 @@
         "description": "Моментально восстанавливает 2600 единиц сэпа у сотворившего заклинание.",
         "description2": "Восстановление собственного сэпа 26: восстанавливает 2600 единиц сэпа у сотворившего заклинание."
     },
+    "bspdma01": {
+        "name": "<GEN>bspdma01",
+        "description": "",
+        "description2": ""
+    },
+    "bspdma02": {
+        "name": "<GEN>bspdma02",
+        "description": "",
+        "description2": ""
+    },
+    "bspdma03": {
+        "name": "<GEN>bspdma03",
+        "description": "",
+        "description2": ""
+    },
+    "bspdma04": {
+        "name": "<GEN>bspdma04",
+        "description": "",
+        "description2": ""
+    },
+    "bspdma05": {
+        "name": "<GEN>bspdma05",
+        "description": "",
+        "description2": ""
+    },
+    "bspfmh01": {
+        "name": "<GEN>bspfmh01",
+        "description": "",
+        "description2": ""
+    },
+    "bspfmh02": {
+        "name": "<GEN>bspfmh02",
+        "description": "",
+        "description2": ""
+    },
+    "bspfmh03": {
+        "name": "<GEN>bspfmh03",
+        "description": "",
+        "description2": ""
+    },
+    "bspfmh04": {
+        "name": "<GEN>bspfmh04",
+        "description": "",
+        "description2": ""
+    },
+    "bspfmh05": {
+        "name": "<GEN>bspfmh05",
+        "description": "",
+        "description2": ""
+    },
+    "bspfmh06": {
+        "name": "<GEN>bspfmh06",
+        "description": "",
+        "description2": ""
+    },
+    "bspfmh07": {
+        "name": "<GEN>bspfmh07",
+        "description": "",
+        "description2": ""
+    },
+    "bspfmh08": {
+        "name": "<GEN>bspfmh08",
+        "description": "",
+        "description2": ""
+    },
+    "bspfmh09": {
+        "name": "<GEN>bspfmh09",
+        "description": "",
+        "description2": ""
+    },
+    "bspfmh10": {
+        "name": "<GEN>bspfmh10",
+        "description": "",
+        "description2": ""
+    },
+    "bspfmh11": {
+        "name": "<GEN>bspfmh11",
+        "description": "",
+        "description2": ""
+    },
+    "bspfmh12": {
+        "name": "<GEN>bspfmh12",
+        "description": "",
+        "description2": ""
+    },
+    "bspfmh13": {
+        "name": "<GEN>bspfmh13",
+        "description": "",
+        "description2": ""
+    },
+    "bspfmh14": {
+        "name": "<GEN>bspfmh14",
+        "description": "",
+        "description2": ""
+    },
+    "bspfmh15": {
+        "name": "<GEN>bspfmh15",
+        "description": "",
+        "description2": ""
+    },
+    "bspfmh16": {
+        "name": "<GEN>bspfmh16",
+        "description": "",
+        "description2": ""
+    },
+    "bspfmh17": {
+        "name": "<GEN>bspfmh17",
+        "description": "",
+        "description2": ""
+    },
+    "bspfmh18": {
+        "name": "<GEN>bspfmh18",
+        "description": "",
+        "description2": ""
+    },
+    "bspfmh19": {
+        "name": "<GEN>bspfmh19",
+        "description": "",
+        "description2": ""
+    },
+    "bspfmh20": {
+        "name": "<GEN>bspfmh20",
+        "description": "",
+        "description2": ""
+    },
+    "bspfmh21": {
+        "name": "<GEN>bspfmh21",
+        "description": "",
+        "description2": ""
+    },
+    "bspfmh22": {
+        "name": "<GEN>bspfmh22",
+        "description": "",
+        "description2": ""
+    },
+    "bspfmh23": {
+        "name": "<GEN>bspfmh23",
+        "description": "",
+        "description2": ""
+    },
+    "bspfmh24": {
+        "name": "<GEN>bspfmh24",
+        "description": "",
+        "description2": ""
+    },
+    "bspfmh25": {
+        "name": "<GEN>bspfmh25",
+        "description": "",
+        "description2": ""
+    },
+    "bspgma01": {
+        "name": "<GEN>bspgma01",
+        "description": "",
+        "description2": ""
+    },
+    "bspgma02": {
+        "name": "<GEN>bspgma02",
+        "description": "",
+        "description2": ""
+    },
+    "bspgma03": {
+        "name": "<GEN>bspgma03",
+        "description": "",
+        "description2": ""
+    },
+    "bspgma04": {
+        "name": "<GEN>bspgma04",
+        "description": "",
+        "description2": ""
+    },
+    "bspgma05": {
+        "name": "<GEN>bspgma05",
+        "description": "",
+        "description2": ""
+    },
+    "bspgma06": {
+        "name": "<GEN>bspgma06",
+        "description": "",
+        "description2": ""
+    },
+    "bspgma07": {
+        "name": "<GEN>bspgma07",
+        "description": "",
+        "description2": ""
+    },
+    "bspgma08": {
+        "name": "<GEN>bspgma08",
+        "description": "",
+        "description2": ""
+    },
+    "bspgma09": {
+        "name": "<GEN>bspgma09",
+        "description": "",
+        "description2": ""
+    },
+    "bspgma10": {
+        "name": "<GEN>bspgma10",
+        "description": "",
+        "description2": ""
+    },
+    "bspgma11": {
+        "name": "<GEN>bspgma11",
+        "description": "",
+        "description2": ""
+    },
+    "bspgma12": {
+        "name": "<GEN>bspgma12",
+        "description": "",
+        "description2": ""
+    },
+    "bspgma13": {
+        "name": "<GEN>bspgma13",
+        "description": "",
+        "description2": ""
+    },
+    "bspgma14": {
+        "name": "<GEN>bspgma14",
+        "description": "",
+        "description2": ""
+    },
+    "bspgma15": {
+        "name": "<GEN>bspgma15",
+        "description": "",
+        "description2": ""
+    },
+    "bspgma16": {
+        "name": "<GEN>bspgma16",
+        "description": "",
+        "description2": ""
+    },
+    "bspgma17": {
+        "name": "<GEN>bspgma17",
+        "description": "",
+        "description2": ""
+    },
+    "bspgma18": {
+        "name": "<GEN>bspgma18",
+        "description": "",
+        "description2": ""
+    },
+    "bspgma19": {
+        "name": "<GEN>bspgma19",
+        "description": "",
+        "description2": ""
+    },
+    "bspgma20": {
+        "name": "<GEN>bspgma20",
+        "description": "",
+        "description2": ""
+    },
+    "bspgma21": {
+        "name": "<GEN>bspgma21",
+        "description": "",
+        "description2": ""
+    },
+    "bspgma22": {
+        "name": "<GEN>bspgma22",
+        "description": "",
+        "description2": ""
+    },
+    "bspgma23": {
+        "name": "<GEN>bspgma23",
+        "description": "",
+        "description2": ""
+    },
+    "bspgma24": {
+        "name": "<GEN>bspgma24",
+        "description": "",
+        "description2": ""
+    },
+    "bspgma25": {
+        "name": "<GEN>bspgma25",
+        "description": "",
+        "description2": ""
+    },
+    "bspmmd01": {
+        "name": "<GEN>bspmmd01",
+        "description": "",
+        "description2": ""
+    },
+    "bspmmd02": {
+        "name": "<GEN>bspmmd02",
+        "description": "",
+        "description2": ""
+    },
+    "bspmmd03": {
+        "name": "<GEN>bspmmd03",
+        "description": "",
+        "description2": ""
+    },
+    "bspmmd04": {
+        "name": "<GEN>bspmmd04",
+        "description": "",
+        "description2": ""
+    },
+    "bspmmd05": {
+        "name": "<GEN>bspmmd05",
+        "description": "",
+        "description2": ""
+    },
+    "bspmmd06": {
+        "name": "<GEN>bspmmd06",
+        "description": "",
+        "description2": ""
+    },
+    "bspmmd07": {
+        "name": "<GEN>bspmmd07",
+        "description": "",
+        "description2": ""
+    },
+    "bspmmd08": {
+        "name": "<GEN>bspmmd08",
+        "description": "",
+        "description2": ""
+    },
+    "bspmmd09": {
+        "name": "<GEN>bspmmd09",
+        "description": "",
+        "description2": ""
+    },
+    "bspmmd10": {
+        "name": "<GEN>bspmmd10",
+        "description": "",
+        "description2": ""
+    },
+    "bspmmd11": {
+        "name": "<GEN>bspmmd11",
+        "description": "",
+        "description2": ""
+    },
+    "bspmmd12": {
+        "name": "<GEN>bspmmd12",
+        "description": "",
+        "description2": ""
+    },
+    "bspmmd13": {
+        "name": "<GEN>bspmmd13",
+        "description": "",
+        "description2": ""
+    },
+    "bspmmd14": {
+        "name": "<GEN>bspmmd14",
+        "description": "",
+        "description2": ""
+    },
+    "bspmmd15": {
+        "name": "<GEN>bspmmd15",
+        "description": "",
+        "description2": ""
+    },
+    "bspmmd16": {
+        "name": "<GEN>bspmmd16",
+        "description": "",
+        "description2": ""
+    },
+    "bspmmd17": {
+        "name": "<GEN>bspmmd17",
+        "description": "",
+        "description2": ""
+    },
+    "bspmmd18": {
+        "name": "<GEN>bspmmd18",
+        "description": "",
+        "description2": ""
+    },
+    "bspmmd19": {
+        "name": "<GEN>bspmmd19",
+        "description": "",
+        "description2": ""
+    },
+    "bspmmd20": {
+        "name": "<GEN>bspmmd20",
+        "description": "",
+        "description2": ""
+    },
+    "bspmmd21": {
+        "name": "<GEN>bspmmd21",
+        "description": "",
+        "description2": ""
+    },
+    "bspmmd22": {
+        "name": "<GEN>bspmmd22",
+        "description": "",
+        "description2": ""
+    },
+    "bspmmd23": {
+        "name": "<GEN>bspmmd23",
+        "description": "",
+        "description2": ""
+    },
+    "bspmmd24": {
+        "name": "<GEN>bspmmd24",
+        "description": "",
+        "description2": ""
+    },
+    "bspmmd25": {
+        "name": "<GEN>bspmmd25",
+        "description": "",
+        "description2": ""
+    },
+    "bspxmb01": {
+        "name": "<GEN>bspxmb01",
+        "description": "",
+        "description2": ""
+    },
+    "bspxmb02": {
+        "name": "<GEN>bspxmb02",
+        "description": "",
+        "description2": ""
+    },
+    "bspxmb03": {
+        "name": "<GEN>bspxmb03",
+        "description": "",
+        "description2": ""
+    },
+    "bspxmb04": {
+        "name": "<GEN>bspxmb04",
+        "description": "",
+        "description2": ""
+    },
+    "bspxmb05": {
+        "name": "<GEN>bspxmb05",
+        "description": "",
+        "description2": ""
+    },
+    "bspxmc01": {
+        "name": "<GEN>bspxmc01",
+        "description": "",
+        "description2": ""
+    },
+    "bspxmc02": {
+        "name": "<GEN>bspxmc02",
+        "description": "",
+        "description2": ""
+    },
+    "bspxmc03": {
+        "name": "<GEN>bspxmc03",
+        "description": "",
+        "description2": ""
+    },
+    "bspxmc04": {
+        "name": "<GEN>bspxmc04",
+        "description": "",
+        "description2": ""
+    },
+    "bspxmc05": {
+        "name": "<GEN>bspxmc05",
+        "description": "",
+        "description2": ""
+    },
+    "bspxmc06": {
+        "name": "<GEN>bspxmc06",
+        "description": "",
+        "description2": ""
+    },
+    "bspxmc07": {
+        "name": "<GEN>bspxmc07",
+        "description": "",
+        "description2": ""
+    },
+    "bspxmc08": {
+        "name": "<GEN>bspxmc08",
+        "description": "",
+        "description2": ""
+    },
+    "bspxmc09": {
+        "name": "<GEN>bspxmc09",
+        "description": "",
+        "description2": ""
+    },
+    "bspxmc10": {
+        "name": "<GEN>bspxmc10",
+        "description": "",
+        "description2": ""
+    },
+    "bspxmc11": {
+        "name": "<GEN>bspxmc11",
+        "description": "",
+        "description2": ""
+    },
+    "bspxmc12": {
+        "name": "<GEN>bspxmc12",
+        "description": "",
+        "description2": ""
+    },
+    "bspxmc13": {
+        "name": "<GEN>bspxmc13",
+        "description": "",
+        "description2": ""
+    },
+    "bspxmc14": {
+        "name": "<GEN>bspxmc14",
+        "description": "",
+        "description2": ""
+    },
+    "bspxmc15": {
+        "name": "<GEN>bspxmc15",
+        "description": "",
+        "description2": ""
+    },
+    "bspxmc16": {
+        "name": "<GEN>bspxmc16",
+        "description": "",
+        "description2": ""
+    },
+    "bspxmc17": {
+        "name": "<GEN>bspxmc17",
+        "description": "",
+        "description2": ""
+    },
+    "bspxmc18": {
+        "name": "<GEN>bspxmc18",
+        "description": "",
+        "description2": ""
+    },
+    "bspxmc19": {
+        "name": "<GEN>bspxmc19",
+        "description": "",
+        "description2": ""
+    },
+    "bspxmc20": {
+        "name": "<GEN>bspxmc20",
+        "description": "",
+        "description2": ""
+    },
+    "bspxmc21": {
+        "name": "<GEN>bspxmc21",
+        "description": "",
+        "description2": ""
+    },
+    "bspxmc22": {
+        "name": "<GEN>bspxmc22",
+        "description": "",
+        "description2": ""
+    },
+    "bspxmc23": {
+        "name": "<GEN>bspxmc23",
+        "description": "",
+        "description2": ""
+    },
+    "bspxmc24": {
+        "name": "<GEN>bspxmc24",
+        "description": "",
+        "description2": ""
+    },
+    "bspxmc25": {
+        "name": "<GEN>bspxmc25",
+        "description": "",
+        "description2": ""
+    },
     "bsxca01": {
         "name": "Штраф на повторное действие 1",
         "description": "Делает действие недоступным для повторного использования на $SP_RECAST_TIME секунд.",
@@ -19402,6 +21042,11 @@
     "bsxea07": {
         "name": "Восстановление здоровья",
         "description": "Моментально восстанавливает большой объем здоровья у сотворившего заклинание.",
+        "description2": ""
+    },
+    "bsxea11": {
+        "name": "<GEN>bsxea11",
+        "description": "",
         "description2": ""
     },
     "bsxeb01": {
@@ -19643,6 +21288,11 @@
         "name": "Аура",
         "description": "Позволяет воспользоваться эффектом ауры.",
         "description2": "Станза ауры"
+    },
+    "bsxpa03": {
+        "name": "<GEN>bsxpa03",
+        "description": "",
+        "description2": ""
     },
     "btfoc01": {
         "name": "Увеличение внимания 1",
@@ -20084,6 +21734,46 @@
         "description": "Вы получаете периодические повреждения от электричества.",
         "description2": ""
     },
+    "enchant_weapon": {
+        "name": "<GEN>enchant_weapon",
+        "description": "",
+        "description2": ""
+    },
+    "enchant_weapon_acid": {
+        "name": "<GEN>enchant_weapon_acid",
+        "description": "",
+        "description2": ""
+    },
+    "enchant_weapon_cold": {
+        "name": "<GEN>enchant_weapon_cold",
+        "description": "",
+        "description2": ""
+    },
+    "enchant_weapon_electricity": {
+        "name": "<GEN>enchant_weapon_electricity",
+        "description": "",
+        "description2": ""
+    },
+    "enchant_weapon_fire": {
+        "name": "<GEN>enchant_weapon_fire",
+        "description": "",
+        "description2": ""
+    },
+    "enchant_weapon_poison": {
+        "name": "<GEN>enchant_weapon_poison",
+        "description": "",
+        "description2": ""
+    },
+    "enchant_weapon_rot": {
+        "name": "<GEN>enchant_weapon_rot",
+        "description": "",
+        "description2": ""
+    },
+    "enchant_weapon_shockwave": {
+        "name": "<GEN>enchant_weapon_shockwave",
+        "description": "",
+        "description2": ""
+    },
     "fear": {
         "name": "Страх",
         "description": "Вы пришли в ужас и не можете действовать.",
@@ -20097,6 +21787,16 @@
     "fire_wall_aura": {
         "name": "Огненная аура",
         "description": "Вас окружает аура, которая наносит повреждения нападающим.",
+        "description2": ""
+    },
+    "government_title_fyros_01": {
+        "name": "<GEN>government_title_fyros_01",
+        "description": "",
+        "description2": ""
+    },
+    "government_title_fyros_02": {
+        "name": "<GEN>government_title_fyros_02",
+        "description": "",
         "description2": ""
     },
     "government_title_marauder_01": {
@@ -20361,6 +22061,11 @@
     },
     "slaughter_week_title_10": {
         "name": "Название",
+        "description": "",
+        "description2": ""
+    },
+    "sleep": {
+        "name": "<GEN>sleep",
         "description": "",
         "description2": ""
     },

@@ -332,7 +332,7 @@
         "women_name": "(Händlerin für Munition)"
     },
     "fct_arionasiszig": {
-        "name": "Arionasis' Zig",
+        "name": "Arionasis's Zig",
         "women_name": ""
     },
     "fct_artisan_arbres_vrilles": {
@@ -831,6 +831,10 @@
         "name": "(Höchster Ma-Duk-Priester)",
         "women_name": "(Höchste Ma-Duk-Priesterin)"
     },
+    "fct_marauder_ambassador": {
+        "name": "Botschafter der Marodeure",
+        "women_name": "Botschafterin der Marodeure"
+    },
     "fct_marauder_chief": {
         "name": "Anführer der Marodeure",
         "women_name": "Anführerin der Marodeure"
@@ -842,6 +846,10 @@
     "fct_marauder_scout": {
         "name": "Späher der Marodeure",
         "women_name": "Späherin der Marodeure"
+    },
+    "fct_marauder_windofmuse": {
+        "name": "(Winde der Musen)",
+        "women_name": ""
     },
     "fct_marmor_merchant": {
         "name": "(Händler für mittelschwere Rüstungen)",
@@ -1620,7 +1628,7 @@
         "women_name": "(Intendantin von Fairhaven)"
     },
     "fct_tyneetrykzig": {
-        "name": "Tyneetryk' Zig",
+        "name": "Tyneetryk's Zig",
         "women_name": ""
     },
     "fct_vagabond": {
@@ -3275,6 +3283,10 @@
         "name": "Bau eines kleinen Karavan-Bohrers",
         "women_name": "Bau eines kleinen Karavan-Bohrers"
     },
+    "gn_driller_marauder_const": {
+        "name": "Aklareen im Bau",
+        "women_name": "Aklareen im Bau"
+    },
     "gn_duneriders_guard": {
         "name": "Mächtiger Wächter",
         "women_name": "Mächtige Wächterin"
@@ -3836,8 +3848,8 @@
         "women_name": "Starke Wächterin"
     },
     "gn_hamazans_kami_ambassador_z1": {
-        "name": "Kami-Botschafter der Matis-Amazonen",
-        "women_name": "Kami-Botschafterin der Matis-Amazonen"
+        "name": "Kami-Botschafter der Hamazans",
+        "women_name": "Kami-Botschafterin der Hamazans"
     },
     "gn_heal": {
         "name": "Heiler",

@@ -230,6 +230,69 @@
     "close_fighter": {
         "name": "Воин ближнего боя"
     },
+    "cmdcreategrouperror": {
+        "name": "A group named %name already exist, cannot create one with the same name."
+    },
+    "cmdcreategroupsuccess1": {
+        "name": "Group %name successfully created."
+    },
+    "cmdcreategroupsuccess2": {
+        "name": "Group %name successfully created with removal for all unequiped items."
+    },
+    "cmdcreategroupusage1": {
+        "name": "createGroup command usage :"
+    },
+    "cmdcreategroupusage2": {
+        "name": "\/createGroup group_name : create a group named group_name with all your equipped items"
+    },
+    "cmdcreategroupusage3": {
+        "name": "\/createGroup group_name true : create a group named group_name with all your equipped items, and create a remove command for every empty slot"
+    },
+    "cmddeletegrouperror": {
+        "name": "Cannot delete group %name : no group with this name found."
+    },
+    "cmddeletegroupsuccess": {
+        "name": "Group %name successfully deleted."
+    },
+    "cmddeletegroupusage1": {
+        "name": "deleteGroup command usage :"
+    },
+    "cmddeletegroupusage2": {
+        "name": "\/deleteGroup group_name : Remove the group named group_name if it exists."
+    },
+    "cmdequipgrouperror": {
+        "name": "Could not equip group %name because no group named like this was found."
+    },
+    "cmdequipgroupsuccess": {
+        "name": "Group %name successfully equipped."
+    },
+    "cmdequipgroupusage1": {
+        "name": "equipGroup command usage :"
+    },
+    "cmdequipgroupusage2": {
+        "name": "\/equipGroup group_name : Pull the items from the group group_name from available inventory and equip them."
+    },
+    "cmdlistgroupheader": {
+        "name": "Available item groups :"
+    },
+    "cmdlistgroupline": {
+        "name": "* %name, with %size items inside."
+    },
+    "cmdmovegrouperror": {
+        "name": "Could not move group %name to %inventory because no group named like this was found, and\/or it wasn't a valid inventory."
+    },
+    "cmdmovegroupsuccess": {
+        "name": "Group %name successfully moved to %inventory."
+    },
+    "cmdmovegroupusage1": {
+        "name": "moveGroup command usage :"
+    },
+    "cmdmovegroupusage2": {
+        "name": "\/moveGroup group_name destination : move items from all available inventories to destination"
+    },
+    "cmdmovegroupusage3": {
+        "name": "destination can be either bag, player_room, guild, pet_animal1, pet_animal2, pet_animal3, pet_animal4"
+    },
     "combat": {
         "name": "Бой"
     },
@@ -2002,9 +2065,6 @@
     },
     "iompftryker": {
         "name": "Только трайкеры"
-    },
-    "iompfunknown": {
-        "name": ""
     },
     "iompfzorai": {
         "name": "Только зораи"
@@ -5120,6 +5180,9 @@
     "msgpermanentlybanned": {
         "name": "&BC&Вам навсегда запрещено подключаться к Ризому."
     },
+    "msgrolldicelocal": {
+        "name": "&SYS&@{FF1F}You pulled %roll in a draw between %min and %max."
+    },
     "msguserisrunning": {
         "name": "&SYS&Режим бега."
     },
@@ -5744,6 +5807,9 @@
     "uiapplyingdelta": {
         "name": "Применяется Дельта :"
     },
+    "uiappzone": {
+        "name": "AppZone"
+    },
     "uiarmor": {
         "name": "Доспехи"
     },
@@ -5761,6 +5827,12 @@
     },
     "uiaroundmetitle": {
         "name": "ВОКРУГ МЕНЯ"
+    },
+    "uiartefacthelp": {
+        "name": "Purchase a pact before running out of stock."
+    },
+    "uiartefactrestrict": {
+        "name": "@{C02F}Your allegiance or level of fame does not allow to use this item."
     },
     "uiascensorteleportlist": {
         "name": "ПУНКТЫ НАЗНАЧЕНИЯ"
@@ -6275,9 +6347,6 @@
     "uibgd_installfinished": {
         "name": "Завершение установки.\n\nТеперь вы можете играть в Ризом."
     },
-    "uibgd_installing": {
-        "name": ""
-    },
     "uibgd_invalidcommandline": {
         "name": "Пожалуйста, используйте менеджер патчей Ризома для того, чтобы исправить ошибки установленной версии игры."
     },
@@ -6500,9 +6569,6 @@
     "uibotchatitem": {
         "name": "Предмет: "
     },
-    "uibotchatmissionend": {
-        "name": ""
-    },
     "uibotchatmissions": {
         "name": "ЗАДАНИЯ"
     },
@@ -6592,6 +6658,9 @@
     },
     "uibreasts": {
         "name": "ГРУДЬ"
+    },
+    "uibrowse": {
+        "name": "Browse"
     },
     "uibrowsehome": {
         "name": "К началу"
@@ -6697,6 +6766,9 @@
     },
     "uibuyfrom": {
         "name": "Купить у "
+    },
+    "uibyte": {
+        "name": "B"
     },
     "uica": {
         "name": "ХАРАКТЕРИСТИКИ"
@@ -6896,8 +6968,29 @@
     "uiccddialogs": {
         "name": "Цвет заголовка диалогов"
     },
-    "uiccddyn": {
-        "name": "Цвет сообщений динамического чата"
+    "uiccddyn0": {
+        "name": "'Dynamic channel 0' messages color"
+    },
+    "uiccddyn1": {
+        "name": "'Dynamic channel 1' messages color"
+    },
+    "uiccddyn2": {
+        "name": "'Dynamic channel 2' messages color"
+    },
+    "uiccddyn3": {
+        "name": "'Dynamic channel 3' messages color"
+    },
+    "uiccddyn4": {
+        "name": "'Dynamic channel 4' messages color"
+    },
+    "uiccddyn5": {
+        "name": "'Dynamic channel 5' messages color"
+    },
+    "uiccddyn6": {
+        "name": "'Dynamic channel 6' messages color"
+    },
+    "uiccddyn7": {
+        "name": "'Dynamic channel 7' messages color"
     },
     "uiccdevents": {
         "name": "Цвет заголовка событий"
@@ -7067,11 +7160,17 @@
     "uiccduniv": {
         "name": "Цвет сообщений в канале \"Вселенная\""
     },
+    "uichanautocb": {
+        "name": "Restore Dynamic Channels"
+    },
     "uichangedate": {
         "name": "Перезапись даты изменений :"
     },
     "uichannel": {
         "name": "КАНАЛ:"
+    },
+    "uichansavecb": {
+        "name": "Save Dynamic Channels"
     },
     "uichapteri": {
         "name": "Глава I : Времена меняются"
@@ -7565,6 +7664,9 @@
     "uicontrast": {
         "name": "Контраст"
     },
+    "uicopy": {
+        "name": "Copy"
+    },
     "uicopytodesktop": {
         "name": "Скопировать выбранный рабочий стол на рабочий стол"
     },
@@ -7627,6 +7729,9 @@
     },
     "uicp_finish": {
         "name": "ЗАКОНЧИТЬ"
+    },
+    "uicp_firstname": {
+        "name": "First name"
     },
     "uicp_forage1": {
         "name": "НАЧИНАЮЩИЙ ДОБЫТЧИК"
@@ -7718,6 +7823,9 @@
     "uicp_keysettooltip_bi_zqsd": {
         "name": "Перемещение персонажа при помощи клавиш @{6F6F}ZQSD@{FFFF} как в шутерах от первого лица. Настройка актуальна как для французской, так и для бельгийской раскладок клавиатуры."
     },
+    "uicp_lastname": {
+        "name": "Last name"
+    },
     "uicp_location_back": {
         "name": "Вы уверены, что хотите начать игру этим персонажем в выбранной локации не сейчас, а позже?"
     },
@@ -7732,6 +7840,9 @@
     },
     "uicp_mainland_ok": {
         "name": "ОК"
+    },
+    "uicp_maraudeur": {
+        "name": "Marauder"
     },
     "uicp_menu_1": {
         "name": "РАСА"
@@ -7754,8 +7865,17 @@
     "uicp_name_enter": {
         "name": "Введите имя.\n\nКаждый персонаж в Ризоме имеет уникальное имя. Имена позволяют игрокам найти друг друга, и пообщаться в чате. Если желаемое имя уже занято, придется придумать другое. Ваше имя должно состоять из букв от A до Z. Знаки препинания, пробелы, цифры и специальные символы использовать нельзя.\n"
     },
+    "uicp_name_generate": {
+        "name": "Generate"
+    },
+    "uicp_name_generator": {
+        "name": "Names generator"
+    },
     "uicp_name_invalid": {
         "name": "Недопустимое имя"
+    },
+    "uicp_name_policy": {
+        "name": "Naming policy"
     },
     "uicp_name_submit": {
         "name": "ОТПРАВИТЬ"
@@ -7969,6 +8089,9 @@
     },
     "uidebugprofile": {
         "name": "Profile"
+    },
+    "uidebugprofilefillrate": {
+        "name": "Profile Fillrate"
     },
     "uidebugprofiletexture": {
         "name": "Profile Texture Usage"
@@ -8189,8 +8312,29 @@
     "uidua": {
         "name": "Дуа"
     },
-    "uidyncolor": {
-        "name": "Динамический чат"
+    "uidyncolor0": {
+        "name": "Dynamic Channel 0"
+    },
+    "uidyncolor1": {
+        "name": "Dynamic Channel 1"
+    },
+    "uidyncolor2": {
+        "name": "Dynamic Channel 2"
+    },
+    "uidyncolor3": {
+        "name": "Dynamic Channel 3"
+    },
+    "uidyncolor4": {
+        "name": "Dynamic Channel 4"
+    },
+    "uidyncolor5": {
+        "name": "Dynamic Channel 5"
+    },
+    "uidyncolor6": {
+        "name": "Dynamic Channel 6"
+    },
+    "uidyncolor7": {
+        "name": "Dynamic Channel 7"
     },
     "uie": {
         "name": "В"
@@ -8198,20 +8342,8 @@
     "uiechelon": {
         "name": "Эшелон : "
     },
-    "uiecofy": {
-        "name": ""
-    },
-    "uiecoma": {
-        "name": ""
-    },
     "uiecosystem": {
         "name": "ЭКОСИСТЕМА"
-    },
-    "uiecotr": {
-        "name": ""
-    },
-    "uiecozo": {
-        "name": ""
     },
     "uiedit": {
         "name": "Редактировать"
@@ -9309,7 +9441,7 @@
         "name": "ПРИНИМАЮ"
     },
     "uieulacontent": {
-        "name": "RYZOM LICENCE\n\nA NOTICE TO THE USER: THIS DOCUMENT IS A CONTRACT. BEFORE CLICKING ON THE \"I ACCEPT\" BUTTON BELOW AND COMPLETING THE INSTALLATION OR REGISTRATION PROCEDURE, PLEASE READ IT CAREFULLY. WHEN YOU CLICK ON \"I ACCEPT\", YOU ARE ACCEPTING THE TERMS OF THIS CONTRACT AND THE OBLIGATIONS CONTAINED IN IT. IF YOU DO NOT WANT TO BE A PARTY TO THIS CONTRACT OR TO BE BOUND BY ALL OF ITS TERMS, THEN CLICK \"CANCEL\" AND DO NOT INSTALL THE SOFTWARE (OR UNINSTALL IT IF INSTALLED), AND DO NOT USE IT. IF YOU CLICK \"CANCEL\" AND YOU ARE THE ORIGINAL PURCHASER OF THE GAME ON CD-ROM, WE ADVISE YOU TO CONTACT THE RETAILER WHO SOLD YOU THE GAME FOR A REFUND UNDER THEIR RETURN POLICY. UNDER NO CIRCUMSTANCES WILL YOU BE ABLE, IF YOU CLICK \"CANCEL\", TO GET A REFUND OF ANY SUBSCRIPTION FEE WHICH YOU MAY PAY OR WHICH MAY BE INCLUDED IN THE PURCHASE PRICE OF THE CD-ROM. If you have any difficulty in relation to this License, please contact Ryzom Customer Service at the following address support@ryzom.com\n\n1. OBJECT OF THE CONTRACT. This Ryzom License (from now on, referred to here as \"the Contract\") is a contract between you and Winch Gate Property Limited (\"Winch Gate\" or \"We\/us\"). Its purpose is to establish the terms on which Winch Gate provides (as defined in Article 2 below) the following services to an authorized user in relation to the massively multiplayer on-line game Ryzom (\"Ryzom\" or \"the Game\" or \"Ryzom Ring\"). The services comprise the opening and maintenance of an account enabling the user to play the Game over the Internet, and the granting of a license to use the Game.\n\n2. AUTHORIZED USERS. Only natural persons who have reached their majority may open an account, either for their own use or for that of their underage children, enabling them to play Ryzom. If you are underage, then your parents must subscribe and accept the terms of this Contract. For the purposes of this Contract, an \"underage\" person is one who has not attained the age of legal majority in his\/her country of residence. The only users authorized to play Ryzom are users who (a) have bought or otherwise legitimately obtained an original CD-ROM of the Game (\"the CD-ROM\"), (b) have a current access account and subscription, and (c) have an Internet connection. Authorized users are referred to below as \"Users\".\n\n3. REGISTERING AND OPENING AN ACCOUNT. This Contract allows you to use the procedure offered for registering your details to set up one (1) account enabling you to play Ryzom and\/or Ryzom Ring over the Internet. The Internet connection is not provided by Winch Gate, and the User is solely responsible for payment of all charges enabling him\/her to obtain, maintain and use the connection. Registration requires you to send information to Winch Gate, including information on your identity and the means of payment used. You guarantee that all the information you provide in the course of the registration procedure is true, and you undertake to inform Winch Gate of any change in this information, by using the update facility provided as part of your account.\n\n4. PERSONAL NATURE OF THE ACCOUNT. Use of the account is strictly personal. The account must not, even temporarily be shared with or otherwise extended to another person (whether free of charge or not), nor may it be used in any way (whether free of charge or not) that is extraneous to the proper normal use of the Game. The User is fully responsible for the use of his\/her access account, and for the use made of his\/her account by his\/her underage child or by any other person who has access to it.\n\n5. LOGIN AND PASSWORD. To get an account, you must choose a login to connect, and a password; these will enable you to access the account. This login and password are strictly personal and may not be used by anyone else; nor may you use the login and password of any other player. You are fully responsible for your choice of your login and password, for keeping them confidential, and for any use made of them by another person. Winch Gate declines all responsibility for any harm caused to your account by the unauthorized use of your login or password. If you lose your login or password, a charge may be made for supplying a new one.\n\n6. SUBSCRIPTION AND BILLING. The current subscription fees are displayed on the website www.ryzom.com and again during the registration procedure. These fees may be changed by Winch Gate at any time, provided it notifies the User beforehand, either on the Winch Gate website at www.ryzom.com, or when the User logs on to his\/her account, or by means of an email message to the User's address. Changes in the applicable fee will only come into effect from the next renewal of the subscription. The subscription fees are expressed in euros in the Euro zone countries, in pounds Sterling in the United Kingdom and in US dollars for the United States. The fee is for an exact subscription period (3 months, 6 months). Subscriptions are automatically renewed for the same period unless the User gives Winch Gate notice as described in Article 18 below. Payment of the subscription fee enables the User to access Ryzom without limit during the subscription period and any continuation by renewal. This payment does not cover the purchase of Ryzom on CD-ROM, nor the costs associated with the Internet connection needed to take out the subscription and to play Ryzom. Except where special terms of sale apply, the first months subscription is included in the retail purchase price of the Ryzom CD-ROM. The subscription fee and any renewals are paid in advance and are not refundable. The subscription can be paid by credit or debit card or by any other means accepted by Winch Gate, according to the procedures displayed on the Winch Gate website. The subscription fee will be taken from your credit or debit card automatically at the time of the initial subscription (if not included in the purchase price of a Ryzom CD-ROM) and on the date of each renewal. Winch Gate reserves the right to immediately close a User's account if it proves impossible to secure funds from his\/her credit or debit card or other agreed means of payment on any renewal date.\n\n7. SECURITY OF PAYMENTS. Secure payment by credit or debit card is ensured by use of a payment system provided by Bibit Global Payment Services (www.bibit.com), a specialist provider of secure on-line payment transactions. Your credit or debit card details (name, type of card, card number and expiry date) are sent encrypted using the SSL protocol directly to the BIBIT server, which gets authorization for payment from the bank. The banking details provided will be used only for processing and invoicing your payment.\n\n8. LICENSE TO USE RYZOM. This Contract gives you, the User, a limited, non-exclusive and revocable right of access, via a valid account, to the Game server, to use the Game as designed and in accordance with the terms of this Contract, to the exclusion of any other entitlement. This Contract authorizes you to install and use a copy of the Software which is on the CD-ROM on one (1) computer only. The Software is \"used\" on a computer if it is loaded into the volatile memory (RAM) or installed in non-volatile memory (for example, hard disk, CD or other storage device). The software may not be shared or used on more than one computer at the same time. For installation on a network, you must obtain a license for each computer on which the Game is used. You may make one (1) backup copy only of the CD-ROM, but may not otherwise make any copy of the CD-ROM or of the Game or of any part of either. Subject to the restrictions agreed in this Contract, Winch Gate gives you, the User, a non-exclusive and revocable license to use the Game for the sole purpose of playing Ryzom and\/or Ryzom Ring under legitimate conditions via an authorized and fully-paid account or as part of a valid trial period. All other uses of the account or of the Game are forbidden. In particular, you may under no circumstances reverse engineer, decompile or disassemble the software program(s) of which the Game consists. You may not transfer all or part of the Game to another person. You may not hire out, lend or sell the Game. All rights not expressly granted to the User by this Contract are reserved to Winch Gate.\n\n9. GNU\/GPL LICENSE. Some sources of the Ryzom client software (part of the software on the User's computer) have been published by Winch Gate under a specific \"GNU General Public License\", the text of which is accessible at the following URL: http:\/\/www.gnu.org\/licenses\/gpl-2.0.html. Their use is subject to the terms of that license. The sources concerned are identified on the Winch Gate website at dev.ryzom.com.\n\n10. LATER VERSIONS' IMPROVEMENTS. Neither this Contract nor your account entitles you to any later version or extension of Ryzom and\/or Ryzom Ring. Winch Gate may update or improve the Game, but is under no obligation to provide you with this update or improvement. Provision by Winch Gate of an update or improvement free of charge gives you no entitlement to later updates or improvements.\n\n11. OWNERSHIP OF THE GAME AND ITS ELEMENTS. Winch Gate is the sole owner of Ryzom and Ryzom Ring, of all the proprietary elements designed to make it work, and of all the intellectual property rights concerning these elements. You acknowledge that Ryzom and its contents are protected by copyright and by other intellectual property rights held by Winch Gate or its suppliers, and that you have no entitlement beyond the limited license rights expressly granted to you under the terms of Article 7 of this Contract. Winch Gate is also the sole owner of the User's account and of the elements created or used by the User through that account, including but not limited to the characters, their appearance, characteristics, stories, created or manufactured objects, guilds, groups and titles. The User also grants Winch Gate the right to use the information sent to the server via the account (with the exception of the personal data and messages addressed to other Users) as it thinks fit, including commercial exploitation.\n\n12. INFORMATION AND DATA SENT BY THE USER. The information and data communicated or sent by the User in the course of his\/her use of Ryzom must not (a) infringe the rights of any other party, including their intellectual property rights, their rights to their image and their right to privacy; (b) breach any law or regulation whatsoever; (c) contain any statement which is defamatory, indecent, obscene or otherwise harmful to minors; or (d) contain any virus, trojan, malicious code, worm, logic bomb, or other computer instruction, program or subprogram which is intended to damage or does damage data or make unauthorized changes to the Ryzom and Ryzom Ring software or servers. We reserve the right to take any emergency measures on your account (including suspending or canceling it) which we think fit, if we believe that your use is contravening the above prohibitions.\n\n13. RULES OF BEHAVIOR. You acknowledge that the proper functioning and success of an On-line Role-playing Game such as Ryzom and\/or Ryzom Ring depends on a delicate balance which Winch Gate has to maintain. The User is therefore strictly forbidden: (a) to use any program or method to change the content or functionalities of the Game ; (b) to cause the server to be overloaded; (c) to use any procedure to make it easier to obtain any instruction faster than through the ordinary course of play ; (d) to modify the user interface or any other component in order to obtain objects, experience points, currency, characters' attributes, ranks, etc., other than as the result of proper normal use of the Game ; (e) to buy, sell or transfer Game characters or their attributes. Furthermore, the User must at all times observe the Code of Conduct, the Courtesy Policies and the Ryzom Naming Charter displayed on the Game's website at www.ryzom.com, whose contents are hereby declared an integral part of this Contract. We reserve the right to take any emergency measures on your account (including suspending or canceling it) which we think fit, if we believe that your use is contravening the above prohibitions.\n\n14. PERSONAL\/ USER INFORMATION. Winch Gate' undertakings concerning personal data are contained in the Personal Data Protection Policy displayed on the Winch Gate website at www.ryzom.com, which is hereby declared an integral part of this Contract. Winch Gate is not capable of ensuring that personal information communicated by the User to another User in the course of play will not be revealed to another person. In order to enable updates \/ patches for the Game, you authorize Winch Gate (a) to extract details of your personal profile from your computer equipment; (b) to extract information from your computer about the location of the Game within your file system, and your access rights; and (c) to download Game components, and components required for its installation, to your computer using your account.\n\n15. GUARANTEE \/ LIMITATION OF LIABILITY. The CD-ROM, the Game and the associated services are supplied by Winch Gate \"as is\", with no other guarantee than the legally-required minimum public order guarantees applicable to this Contract. Any other guarantee, legal or contractual, is expressly excluded. Winch Gate will do its best to make the User's account constantly accessible, but reserves the right to interrupt service due to technical and maintenance activities. Winch Gate can in no way guarantee constant and error-free functioning, however, either of its services or of the Game, nor Users' uninterrupted access to their accounts. In no circumstances shall Winch Gate be held liable in the event of damage to the User's hardware or software when using the Game. Users are reminded in this connection of the need to maintain a proper hardware configuration which meets Winch Gate's recommendations, to update their software regularly and to save their important files on a regular basis. Winch Gate cannot be held liable either for the content of exchanges between players or for players' behavior. Should Winch Gate be held liable for damages on any grounds whatsoever, such liability shall not be greater than the total amount of subscription fees paid by the User.\n\n16. CESSATION OF OPERATION OF THE GAME BY WINCH GATE. Winch Gate gives no guarantee to the User concerning the duration of its running of the Game. Winch Gate reserves the right to stop providing the Game or maintaining its services, at its sole discretion, if the number of Users becomes or remains too low or in any other circumstances, but shall give the User notice of this by means of a message displayed on accessing the Game, on its website at www.ryzom.com or by email. User accounts will in that case be definitively closed.\n\n17. CANCELLATION BY WINCH GATE. Winch Gate may cancel this Contract and close the User's account without notice, instantly and without warning or advance notice, if the User breaches any one of his\/her obligations under this Contract or any of the conditions imposed by any of the documents that have been declared part of this Contract. If Winch Gate closes the User's account due to a breech of the contract, Winch Gate reserves the right to ban the User's computer, credit card and\/or to disable the software from future access to the game. If the computer is banned or the software disabled any other player using the same computer and\/or software will be unable to connect. If the credit card on the account is banned, all other accounts that have been opened using the same credit card may also be banned. In that situation no refund shall be due to the User for the portion of the subscription fee corresponding to the days remaining until the normal expiry of the current subscription period.\n\n18. CANCELLATION BY THE USER. The User can end this Contract and close his\/her account at any time by giving Winch Gate notice by mail or by other means offered on access to the account. Cancellation shall take effect from the expiry of the current subscription period. Money paid for current subscription fees shall not be refunded, even if the User makes no use of his\/her account until the cancellation date.\n\n19. AMENDMENTS TO THE LICENCE. Winch Gate reserves the right to amend the terms of this Contract at any time. The User will be informed of any amendments to the Contract on the first occasion of accessing his\/her account after the change. Accessing the Game will then imply acceptance of the amended terms of the Contract, which will apply immediately.\n\n20. PRECAUTIONS TO BE TAKEN \/ EPILEPSY. Winch Gate reminds you that you should not play if you are tired or lacking sleep. Make sure you play in a well-lit room and do not have your screen too bright. When using a video game that can be connected to a screen, play at a reasonable distance from the TV screen, as far as the connection cable allows. Take breaks of ten to fifteen minutes in every hour's play. We also draw your attention to the fact that some people are liable to epileptic attacks which may involve loss of visual awareness, and which may be triggered by certain types of powerful light stimulus: a rapid succession of images or the repetition of simple geometric patters, or simulation of lightning or explosions. These people expose themselves to the risk of such attacks when they play certain video games containing such stimuli, even where they have no previous medical history or have never been subject to epileptic attacks before. If you yourself or any member of your family has already had any symptoms related to epilepsy (fits or loss of consciousness) in the presence of light stimuli, you should consult your doctor before playing at all. Parents should also pay particular attention to their children when the children are playing video games. If you yourself or your child has any of the following symptoms: vertigo, impaired vision, eye or muscle contractions, impaired sense of direction, involuntary movements or convulsions, or momentary loss of consciousness, you must immediately stop playing and consult a doctor.\n\n21. APPLICABLE LAW \/ OTHER PROVISIONS. This Contract is governed by French law. The United Nations Convention on international contracts for the sale of goods is hereby declared not to apply. Any dispute concerning this Contract shall be subject to the exclusive jurisdiction of the appropriate Paris. If any clause of this Contract should be found null or ineffective with regard to the User, such nullity or lack of effect shall not affect the validity or effectiveness of the Contract's other clauses. This Contract may not be assigned or transferred by the User."
+        "name": "RYZOM LICENSE\n\nA NOTICE TO THE USER: THIS DOCUMENT IS A CONTRACT. BEFORE CLICKING ON THE \"I ACCEPT\" BUTTON BELOW AND COMPLETING THE INSTALLATION OR REGISTRATION PROCEDURE, PLEASE READ IT CAREFULLY. WHEN YOU CLICK ON \"I ACCEPT\", YOU ARE ACCEPTING THE TERMS OF THIS CONTRACT AND THE OBLIGATIONS CONTAINED IN IT. IF YOU DO NOT WANT TO BE A PARTY TO THIS CONTRACT OR TO BE BOUND BY ALL OF ITS TERMS, THEN CLICK \"CANCEL\" AND DO NOT INSTALL THE SOFTWARE (OR UNINSTALL IT IF INSTALLED), AND DO NOT USE IT.\nACCEPTING THE TERMS OF THIS AGREEMENT, YOU ALSO AGREE TO ABIDE BY THE CODE OF CONDUCT THAT YOU WILL FIND HERE: https:\/\/ryzom.com\/terms-of-service\nIf you have any difficulty in relation to this License, please contact Ryzom Customer Service at support@ryzom.com.\n\n1. OBJECT OF THE CONTRACT. This Ryzom License (from here on referred to as \"the Contract\") is a contract between you and Winch Gate Property Limited (\"Winch Gate\" or \"We\/us\"). Its purpose is to establish the terms on which Winch Gate provides (as defined in Article 2 below) the following services to an authorized user in relation to the massively multiplayer on-line game Ryzom (\"Ryzom\" or \"the Game\" or \"Ryzom Arkitect\"). The services comprise the opening and maintenance of an account enabling the user to play the Game over the Internet and to use our ingame tool, Ryzom Arkitect, to create inside content for the game.\n\n2. AUTHORIZED USERS. Only natural persons who have reached their majority may open an account, either for their own use or for that of their underage children, enabling them to play Ryzom. If you are underage, then your parents must subscribe  create an account and accept the terms of this Contract. For the purposes of this Contract, an \"underage\" person is one who has not attained the age of legal majority in his\/her country of residence. In addition, the only users authorized to play Ryzom are users who have a current free or subscribed access account. Authorized users are referred to below as \"Users\".\n\n3. REGISTERING AND OPENING AN ACCOUNT. This Contract allows you to use the procedure offered for registering your details to set up one (1) account enabling you to play Ryzom and\/or Ryzom Arkitect over the Internet. The Internet connection is not provided by Winch Gate, and the User is solely responsible for payment of all charges enabling him\/her to obtain, maintain and use the connection. Registration requires you to send information to Winch Gate, including information on your identity and the means of payment used. You guarantee that all the information you provide in the course of the registration procedure is true and correct, and you undertake to inform Winch Gate of any change in this information by using the update facility provided as part of your account.\n\n4. PERSONAL NATURE OF THE ACCOUNT. Use of the account is strictly personal. The account must not, even temporarily, be shared with or otherwise extended to another person (whether free of charge or not), nor may it be used in any way (whether free of charge or not) that is extraneous to the proper normal use of the Game. The User is fully responsible for the use of his\/her access account, and for the use made of his\/her account by his\/her underage child or by any other person who has access to it.\n\n5. LOGIN AND PASSWORD. To get an account, you must choose a login to connect, and a password; these will enable you to access the account. This login and password are strictly personal and may not be used by anyone else; nor may you use the login and password of any other player. You are fully responsible for your choice of your login and password, for keeping them confidential, and for any use made of them by another person. Winch Gate declines all responsibility for any harm caused to your account by the unauthorized use of your login or password.\n\n6. SUBSCRIPTION AND BILLING. The current subscription fees are displayed on the website at http:\/\/ryzom.com\/?page=page_why_pay and again during the registration procedure. These fees may be changed by Winch Gate at any time, provided it notifies the User beforehand, either on the page http:\/\/ryzom.com\/?page=page_why_pay or when the User logs on to his\/her account, or by means of an email message to the User's address. Changes in the applicable fee will only come into effect from the next renewal of the subscription. The subscription fees are expressed in Euros in the Euro zone countries, in Pounds Sterling in the United Kingdom and in US dollars for the United States. The fee is for an exact subscription period (1 month, 3 months, 6 months, 1 year). Subscriptions are, depending on the payment used, either automatically renewed for the same period unless the User gives Winch Gate notice as described in Article 18 below or have to be renewed manually by the User. If the payment has to be renewed manually by the User, the User is responsible for renewing his\/her subscription period before it expires, otherwise Winch Gate reserves all rights to immediately close the User's account. Payment of the subscription fee enables the User to access Ryzom without limit during the subscription period and any continuation by renewal. This payment does not cover the costs associated with the Internet connection needed to take out the subscription and to play Ryzom. The subscription fee and any renewals are paid in advance and are not refundable. The subscription can be paid by credit card or debit card or by any other means accepted by Winch Gate, according to the procedures displayed on the Winch Gate website. The subscription fee will be taken from your credit card or debit card automatically at the time of the initial subscription and on the date of each renewal. Winch Gate reserves the right to immediately close a User's account if it proves impossible to secure funds from his\/her credit or debit card or other agreed means of payment on any renewal date.\n\n7. SECURITY OF PAYMENTS. Secure payment by credit card or debit card is ensured by the use of different outsourced payment system companies such as WorldPay ( www.worldpay.com ) and PayPal ( www.paypal.com ), both specialist providers of secure on-line payment transactions, as well as through the Steam portal payment system ( http:\/\/store.steampowered.com\/ ). Your credit or debit card details (name, type of card, card number and expiry date) are sent encrypted using the SSL protocol directly by the different payment system servers. The banking details provided by the subscriber will be used only for processing and invoicing your payment through.\n\n8. PRIVACY AND DATA PROTECTION. With accepting this contract, you confirm that you have read and understood Winch Gates' Privacy Policy (http:\/\/ryzom.com\/?page=privacy_policy). With using Winch Gate's products (\"Ryzom“ and \"www.ryzom.com“), you are accepting its Privacy Policy. Winch Gate respects the privacy of its online visitors and recognize the importance of providing a secure environment for the information it collects. Winch Gate  may collect data about your ingame behaviour, such as your played time, for statistical analysis. Those statistics will be completely anonymous and will not contain any personal data. However, if Winch Gate collects  personal data for statistics, Winch Gate will inform the user appropriately and will request consent.\n\n9. LICENSE TO USE RYZOM. This Contract gives you, the User, a limited, non-exclusive and revocable right of access, via a valid account, to the Game server, to use the Game as designed and in accordance with the terms of this Contract, to the exclusion of any other entitlement. This Contract authorizes you to install and use a free copy of the Software. Subject to the restrictions agreed in this Contract, Winch Gate gives you, the User, a non-exclusive and revocable license to use the Game for the sole purpose of playing Ryzom and\/or using Ryzom Arkitect tools under legitimate conditions via an authorized, free or fully-paid account. All other uses of  the account or of the Game are forbidden. In particular, you may under no circumstances reverse engineer, decompile or disassemble the software program(s) of which the Game consists. You may not transfer all or part of the Game to another person. You may not hire out, lend or sell the Game or any elements, object, design or any content created using the Ryzom Arkitect tools or any other tools. All rights not expressly granted to the User by this Contract are reserved to Winch Gate.\n\n10. GNU AGPL LICENSE. The source code of the Ryzom client software (part of the software on the User's computer) has been published by Winch Gate under a specific \"GNU Affero General Public License\", the text of which is accessible at the following URL: https:\/\/www.gnu.org\/licenses\/agpl-3.0.en.html. Its use is subject to the terms of that license. It can be downloaded at https:\/\/bitbucket.org\/ryzom\/ryzomcore\/.\n\n11. LATER VERSIONS' IMPROVEMENTS. Neither this Contract nor your account entitles you to any later version or extension of Ryzom and\/or Ryzom Arkitect tools. Winch Gate may update or improve the Game, but is under no obligation to provide you with this update or improvement. Provision by Winch Gate of an update or improvement free of charge gives you no entitlement to later updates or improvements.\n\n12. OWNERSHIP OF THE GAME AND ITS ELEMENTS. Winch Gate is the sole owner of Ryzom and Ryzom Arkitect tools, of all the proprietary elements designed to make it work, and of all the intellectual property rights concerning these elements. You acknowledge that Ryzom and its contents are protected by copyright and by other intellectual property rights held by Winch Gate or its suppliers, and that you have no entitlement beyond the limited license rights expressly granted to you under the terms of Article 7 of this Contract. Winch Gate is also the sole owner of the User's account and of any elements, object, design or content created or used by the User through that account, including but not limited to the characters, their appearance, characteristics, stories, created or manufactured objects, guilds, groups and titles, and of any element, object, design or any content created using the Ryzom Arkitect tools. The User also grants Winch Gate the full property right to use the information sent to the server via the account and of any elements, object, design or any content created using the Ryzom Arkitect tools (with the exception of the personal data and messages addressed to other Users) as it thinks fit, including commercial exploitation.\n\n13. INFORMATION AND DATA SENT BY THE USER. The information and data communicated or sent by the User in the course of his\/her use of Ryzom must not (a) infringe the rights of any other party, including their intellectual property rights, their rights to their image and their right to privacy; (b) breach any law or regulation whatsoever; (c) contain any statement which is defamatory, indecent, obscene or otherwise harmful to minors; or (d) contain any virus, trojan, malicious code, worm, logic bomb, or other computer instruction, program or subprogram which is intended to damage or does damage data or make unauthorized changes to the Ryzom software or the Ryzom servers or the Ryzom Arkitect tools. We reserve the right to take any emergency measures on your account (including suspension or cancellation) which we think fit, if we believe that your use is contravening the above prohibitions.\n\n14. RULES OF BEHAVIOR. You acknowledge that the proper functioning and success of an On-line Role-playing Game such as Ryzom and\/or Ryzom Arkitect depends on a delicate balance which Winch Gate has to maintain. The User is therefore strictly forbidden: (a) to use any program or method to change the content or functionalities of the Game; (b) to cause the server to be overloaded; (c) to use any procedure to make it easier to obtain any instruction faster than through the ordinary course of play; (d) to modify the user interface or any other component in order to obtain objects, experience points, currency, characters' attributes, ranks, etc., other than as the result of proper normal use of the Game; (e) to buy, sell or transfer Game characters or their attributes or any elements, object, design or any content created using the Ryzom Arkitect tools. Furthermore, the User must at all times observe the Code of Conduct, the Courtesy Policies and the Ryzom Naming Charter displayed on the Game's forum page http:\/\/app.ryzom.com\/app_forum\/index.php?page=topic\/view\/21885\/, whose contents are hereby declared an integral part of this Contract. We reserve the right to take any emergency measures on your account (including suspension or cancellation) which we think fit, if we believe that your use is contravening the above prohibitions.\n\n15. PERSONAL\/ USER INFORMATION. Winch Gate' undertakings concerning personal data are contained in the Personal Data Protection Policy displayed on the Ryzom website at www.ryzom.com, which is hereby declared an integral part of this Contract. Winch Gate is not capable of ensuring that personal information communicated by the User to another User in the course of play will not be revealed to another person. In order to enable updates \/ patches for the Game, you authorize Winch Gate (a) to extract details of your personal profile from your computer equipment; (b) to extract information from your computer about the location of the Game within your file system, and your access rights; and (c) to download Game components, and components required for its installation, to your computer using your account.\n\n16. GUARANTEE \/ LIMITATION OF LIABILITY. The Game and the associated services are supplied by Winch Gate \"as is\", with no other guarantee than the legally-required minimum public order guarantees applicable to this Contract. Any other guarantee, legal or contractual, is expressly excluded. Winch Gate will do its best to make the User's account constantly accessible, but reserves the right to interrupt service due to technical and maintenance activities. Winch Gate can in no way guarantee constant and error-free functioning, however, either of its services or of the Game, nor Users' uninterrupted access to their accounts. In no circumstances shall Winch Gate be held liable in the event of damage to the User's hardware or software when using the Game. Users are reminded in this connection of the need to maintain a proper hardware configuration which meets Winch Gate's recommendations, to update their software regularly and to save their important files on a regular basis. Winch Gate cannot be held liable either for the content of exchanges between players or for players' behavior. Should Winch Gate be held liable for damages on any grounds whatsoever, such liability shall not be greater than the total amount of subscription fees paid by the User.\n\n17. CESSATION OF OPERATION OF THE GAME BY WINCH GATE. Winch Gate gives no guarantee to the User concerning the duration of its running of the Game. Winch Gate reserves the right to stop providing the Game or maintaining its services, at its sole discretion, if the number of Users becomes or remains too low or in any other circumstances, but shall give the User notice of this by means of a message displayed on accessing the Game, on its website at www.ryzom.com or by email. User accounts will in that case be definitively closed.\n\n18. CANCELLATION BY WINCH GATE. Winch Gate may cancel this Contract and close the User's account without notice, instantly and without warning or advance notice, if the User breaches any one of his\/her obligations under this Contract or any of the conditions imposed by any of the documents that have been declared part of this Contract. If Winch Gate closes the User's account due to a breech of the contract, Winch Gate reserves the right to ban the User's computer, credit card and\/or to disable the software from future access to the game. If the computer is banned or the software disabled any other player using the same computer and\/or software will be unable to connect. If the credit card on the account is banned, all other accounts that have been opened using the same credit card may also be banned. In that situation no refund shall be due to the User for the portion of the subscription fee corresponding to the days remaining until the normal expiry of the current subscription period.\n\n19. CANCELLATION BY THE USER. The User can end this Contract and close his\/her account at any time by giving Winch Gate notice by email at support@ryzom.com or by other means offered on access to the account. Cancellation shall take effect from the expiry of the current subscription period. Money paid for current subscription fees shall not be refunded, even if the User makes no use of his\/her account until the cancellation date.\n\n20. AMENDMENTS TO THE LICENCE. Winch Gate reserves the right to amend the terms of this Contract at any time. The User will be informed of any amendments to the Contract on the first occasion of accessing his\/her account after the change. Accessing the Game will then imply acceptance of the amended terms of the Contract, which will apply immediately.\n\n21. PRECAUTIONS TO BE TAKEN \/ EPILEPSY. Winch Gate reminds you that you should not play if you are tired or lacking sleep. Make sure you play in a well-lit room and do not have your screen too bright. When using a video game that can be connected to a screen, play at a reasonable distance from the TV screen, as far as the connection cable allows. Take breaks of ten to fifteen minutes in every hour's play. We also draw your attention to the fact that some people are liable to epileptic attacks which may involve loss of visual awareness, and which may be triggered by certain types of powerful light stimulus: a rapid succession of images or the repetition of simple geometric patterns, or simulation of lightning or explosions. These people expose themselves to the risk of such attacks when they play certain video games containing such stimuli, even where they have no previous medical history or have never been subject to epileptic attacks before. If you yourself or any member of your family has already had any symptoms related to epilepsy (fits or loss of consciousness) in the presence of light stimuli, you should consult your doctor before playing at all. Parents should also pay particular attention to their children when the children are playing video games. If you yourself or your child has any of the following symptoms: vertigo, impaired vision, eye or muscle contractions, impaired sense of direction, involuntary movements or convulsions, or momentary loss of consciousness, you must immediately stop playing and consult a doctor.\n\n22. APPLICABLE LAW \/ OTHER PROVISIONS. This Contract is governed by Cyprus law. The United Nations Convention on international contracts for the sale of goods is hereby declared not to apply. Any dispute concerning this Contract shall be subject to the exclusive jurisdiction of the Cyprus court. If any clause of this Contract should be found null or ineffective with regard to the User, such nullity or lack of effect shall not affect the validity or effectiveness of the Contract's other clauses. This Contract may not be assigned or transferred by the User."
     },
     "uieuladecline": {
         "name": "НЕ ПРИНИМАЮ"
@@ -9794,6 +9926,9 @@
     "uifiltermenuaround": {
         "name": "ВОКРУГ @{T8}\/s"
     },
+    "uifiltermenudynamic": {
+        "name": "%channel @{T8}\/%shortcut"
+    },
     "uifiltermenuguild": {
         "name": "ГИЛЬДИЯ @{T8}\/g"
     },
@@ -9838,6 +9973,9 @@
     },
     "uifixedmissionentry_mainland_tryker": {
         "name": "Континент \/ Трайкер"
+    },
+    "uifixedmissionentry_mainland_unknwown": {
+        "name": "Main land \/ Unknown"
     },
     "uifixedmissionentry_mainland_zorai": {
         "name": "Континент \/ Зораи"
@@ -9902,6 +10040,9 @@
     "uifreetrial": {
         "name": "СОЗДАТЬ БЕСПЛАТНУЮ ПРОБНУЮ ЗАПИСЬ"
     },
+    "uifreeviewtablet": {
+        "name": "Tablet or touchscreen"
+    },
     "uifriendis": {
         "name": "Информация о друзьях"
     },
@@ -9931,6 +10072,9 @@
     },
     "uifullscreen": {
         "name": "Полноэкранный режим"
+    },
+    "uifxaa": {
+        "name": "Enable FXAA"
     },
     "uifxbloom": {
         "name": "Включить эффект Bloom"
@@ -10012,6 +10156,12 @@
     },
     "uigcfrancais": {
         "name": "FRANCAIS"
+    },
+    "uigcfxanisotropicfilter": {
+        "name": "Anisotropic Filtering:"
+    },
+    "uigcfxanisotropicfilternone": {
+        "name": "None"
     },
     "uigcgeneral": {
         "name": "ОБЩЕЕ"
@@ -10133,6 +10283,9 @@
     "uigcunitpercent": {
         "name": " %"
     },
+    "uigcvr": {
+        "name": "VIRTUAL REALITY"
+    },
     "uigcwincolor": {
         "name": "ЗАГОЛОВКИ"
     },
@@ -10208,8 +10361,14 @@
     "uiguildcolor": {
         "name": "Гильдия"
     },
+    "uiguildcostinfo": {
+        "name": "The Cost of creating a guild is 100,000 dappers."
+    },
     "uiguilddescription": {
         "name": "Описание гильдии"
+    },
+    "uiguilddescwarning": {
+        "name": "The description should be no more than 200 characters. No symbols or numbers."
     },
     "uiguildfameprogress": {
         "name": "Рост репутации гильдии : "
@@ -10280,6 +10439,9 @@
     "uiguildname": {
         "name": " Название гильдии"
     },
+    "uiguildnamewarning": {
+        "name": "The name should be no longer than 32 characters. No symbols or numbers."
+    },
     "uiguildofficer": {
         "name": "Офицер"
     },
@@ -10294,6 +10456,9 @@
     },
     "uiguildtabguild": {
         "name": "ГИЛЬДИЯ"
+    },
+    "uiguildtabisland": {
+        "name": "Island"
     },
     "uiguildtaboutpost": {
         "name": "ЗАСТАВЫ"
@@ -10330,6 +10495,9 @@
     },
     "uihands": {
         "name": "Действия"
+    },
+    "uihands2": {
+        "name": "Actions #2"
     },
     "uihandstitle": {
         "name": "РУКИ"
@@ -10791,7 +10959,10 @@
         "name": "Холет"
     },
     "uihome": {
-        "name": "Вернуться"
+        "name": "ВЕРНУТЬСЯ"
+    },
+    "uihorizontal": {
+        "name": "Horizontal"
     },
     "uihp": {
         "name": "Здоровье"
@@ -10918,6 +11089,9 @@
     },
     "uiintdesc": {
         "name": "@{6F6F}Интеллект@{FFFF}, \nизмеряет умственные способности персонажа."
+    },
+    "uiinterfacescale": {
+        "name": "Interface scale"
     },
     "uiinterrupt": {
         "name": "Действие прервано!"
@@ -11129,9 +11303,6 @@
     "uiitemspecialeffectflyingtextise_craft_add_stat_bonus": {
         "name": "Бонус к характеристике"
     },
-    "uiitemspecialeffectflyingtextise_fight_add_critical": {
-        "name": ""
-    },
     "uiitemspecialeffectflyingtextise_fight_vampirism": {
         "name": "Похищение жизненной силы: %param"
     },
@@ -11318,6 +11489,9 @@
     "uijoinguildproposal": {
         "name": "ПРИНЯТЬ ПРЕДЛОЖЕНИЕ О ВСТУПЛЕНИИ В ГИЛЬДИЮ"
     },
+    "uijoinleagueproposal": {
+        "name": "JOIN LEAGUE PROPOSAL"
+    },
     "uijointeamproposal": {
         "name": "ПРИНЯТЬ ПРИГЛАШЕНИЕ В ГРУППУ"
     },
@@ -11375,6 +11549,9 @@
     "uikeyadd": {
         "name": "ADD"
     },
+    "uikeyapostrophe": {
+        "name": "APOSTROPHE"
+    },
     "uikeyapps": {
         "name": "APPS"
     },
@@ -11386,6 +11563,9 @@
     },
     "uikeyback": {
         "name": "BACK"
+    },
+    "uikeybackslash": {
+        "name": "BACKSLASH"
     },
     "uikeybcamera": {
         "name": "Скорость перемещения камеры"
@@ -11401,6 +11581,9 @@
     },
     "uikeyc": {
         "name": "C"
+    },
+    "uikeycalc": {
+        "name": "Calculator"
     },
     "uikeycancel": {
         "name": "CANCEL"
@@ -11426,6 +11609,9 @@
     "uikeyd": {
         "name": "D"
     },
+    "uikeydash": {
+        "name": "DASH"
+    },
     "uikeydecimal": {
         "name": "DECIMAL"
     },
@@ -11443,6 +11629,9 @@
     },
     "uikeyend": {
         "name": "END"
+    },
+    "uikeyequals": {
+        "name": "EQUALS"
     },
     "uikeyereof": {
         "name": "EREOF"
@@ -11579,6 +11768,9 @@
     "uikeyl": {
         "name": "L"
     },
+    "uikeylbracket": {
+        "name": "LBRACKET"
+    },
     "uikeylbutton": {
         "name": "LBUTTON"
     },
@@ -11611,6 +11803,9 @@
     },
     "uikeymultiply": {
         "name": "MULTIPLY"
+    },
+    "uikeymute": {
+        "name": "Заглушить звук"
     },
     "uikeyn": {
         "name": "N"
@@ -11660,6 +11855,9 @@
     "uikeyo": {
         "name": "O"
     },
+    "uikeyoem_102": {
+        "name": "OEM 102"
+    },
     "uikeyoem_clear": {
         "name": "OEM CLEAR"
     },
@@ -11669,11 +11867,20 @@
     "uikeypa1": {
         "name": "PA1"
     },
+    "uikeyparagraph": {
+        "name": "Paragraph"
+    },
     "uikeypause": {
         "name": "PAUSE"
     },
+    "uikeyperiod": {
+        "name": "PERIOD"
+    },
     "uikeyplay": {
         "name": "PLAY"
+    },
+    "uikeyplaypause": {
+        "name": "Играть \/ пауза"
     },
     "uikeyprint": {
         "name": "PRINT"
@@ -11689,6 +11896,9 @@
     },
     "uikeyr": {
         "name": "R"
+    },
+    "uikeyrbracket": {
+        "name": "RBRACKET"
     },
     "uikeyrbutton": {
         "name": "RBUTTON"
@@ -11712,7 +11922,7 @@
         "name": "RWIN"
     },
     "uikeys": {
-        "name": "S"
+        "name": "Ключи"
     },
     "uikeysactionstitle": {
         "name": "ДЕЙСТВИЯ"
@@ -11735,11 +11945,17 @@
     "uikeyselect": {
         "name": "SELECT"
     },
+    "uikeysemicolon": {
+        "name": "SEMICOLON"
+    },
     "uikeyseparator": {
         "name": "SEPARATOR"
     },
     "uikeyshift": {
         "name": "SHIFT"
+    },
+    "uikeyslash": {
+        "name": "SLASH"
     },
     "uikeysmovementtitle": {
         "name": "ДВИЖЕНИЕ"
@@ -11774,6 +11990,9 @@
     "uikeytab": {
         "name": "TAB"
     },
+    "uikeytilde": {
+        "name": "TILDE"
+    },
     "uikeyu": {
         "name": "U"
     },
@@ -11782,6 +12001,12 @@
     },
     "uikeyv": {
         "name": "V"
+    },
+    "uikeyvolumedown": {
+        "name": "Тише"
+    },
+    "uikeyvolumeup": {
+        "name": "Громче"
     },
     "uikeyw": {
         "name": "W"
@@ -12122,9 +12347,6 @@
     "uilocalalpha": {
         "name": "ИНДИВИДУАЛЬНЫЕ НАСТРОЙКИ"
     },
-    "uilocation_": {
-        "name": ""
-    },
     "uilocation_back": {
         "name": "ИГРАТЬ ПОЗЖЕ"
     },
@@ -12200,6 +12422,9 @@
     "uilock": {
         "name": "Зафиксировать"
     },
+    "uilodvalue": {
+        "name": "NORMAL"
+    },
     "uilodvaluecustom": {
         "name": "ПОЛЬЗОВАТЕЛЬСКАЯ НАСТРОЙКА"
     },
@@ -12265,6 +12490,18 @@
     },
     "uimacroicon": {
         "name": "ИКОНКА"
+    },
+    "uimacroitemgroupdestination": {
+        "name": "Item group destination"
+    },
+    "uimacroitemgroupequip": {
+        "name": "Equip an item group"
+    },
+    "uimacroitemgroupmove": {
+        "name": "Move an item group"
+    },
+    "uimacroitemgroupname": {
+        "name": "Item group name"
     },
     "uimacrokey": {
         "name": "КЛЮЧ"
@@ -12356,6 +12593,9 @@
     "uimapeople": {
         "name": "НАРОД МАТИСОВ"
     },
+    "uimapsearch": {
+        "name": "Map search"
+    },
     "uimaptitle": {
         "name": "КАРТА"
     },
@@ -12388,6 +12628,12 @@
     },
     "uimcareer": {
         "name": "РАБОТА"
+    },
+    "uimchangegroup": {
+        "name": "Перенести в группу друзей"
+    },
+    "uimchansave": {
+        "name": "Save"
     },
     "uimchattab": {
         "name": "Каналы"
@@ -12529,6 +12775,9 @@
     },
     "uimemspecialtitle": {
         "name": "СПЕЦИАЛЬНЫЕ"
+    },
+    "uimenterbag": {
+        "name": "Enter on the bag"
     },
     "uimenterstable": {
         "name": "Войти в стойло"
@@ -12845,6 +13094,9 @@
     "uimgive": {
         "name": "ПЕРЕДАТЬ"
     },
+    "uimgroup": {
+        "name": "Groups"
+    },
     "uimguild": {
         "name": "ГИЛЬДИЯ"
     },
@@ -12875,6 +13127,12 @@
     "uimhelp": {
         "name": "ПОМОЩЬ"
     },
+    "uimicloseontp": {
+        "name": "Teleport close window"
+    },
+    "uimicompact": {
+        "name": "Toggle compact mode"
+    },
     "uimicroveget": {
         "name": "Трава"
     },
@@ -12883,6 +13141,9 @@
     },
     "uimignorelist": {
         "name": "ИГНОРИРОВАТЬ"
+    },
+    "uimihidebanner": {
+        "name": "Hide faction banner"
     },
     "uimilko": {
         "name": "PAD"
@@ -12895,6 +13156,15 @@
     },
     "uiminvite": {
         "name": "ПРИГЛАСИТЬ"
+    },
+    "uimiopenontp": {
+        "name": "Teleport keep window"
+    },
+    "uimirefresh": {
+        "name": "Refresh"
+    },
+    "uimishowbanner": {
+        "name": "Show faction banner"
     },
     "uimissionand": {
         "name": " -    "
@@ -13238,8 +13508,14 @@
     "uimkeys": {
         "name": "КЛАВИШИ"
     },
+    "uimleavebag": {
+        "name": "Leave from the bag"
+    },
     "uimleavestable": {
         "name": "Покинуть стойло"
+    },
+    "uimlockitem": {
+        "name": "Lock"
     },
     "uimlockunlock": {
         "name": "ФИКСИРОВАТЬ \/ ОСВОБОДИТЬ"
@@ -13252,6 +13528,9 @@
     },
     "uimmaclear": {
         "name": "ОЧИСТИТЬ"
+    },
+    "uimmacrocopy": {
+        "name": "COPY"
     },
     "uimmacrodel": {
         "name": "СТЕРЕТЬ"
@@ -13279,6 +13558,9 @@
     },
     "uimmareset": {
         "name": "СБРОСИТЬ"
+    },
+    "uimmccopy": {
+        "name": "COPY"
     },
     "uimmcdel": {
         "name": "СТЕРЕТЬ"
@@ -13533,7 +13815,10 @@
         "name": "Предыдущий"
     },
     "uimp3sounddisabled": {
-        "name": "Media player requires sound to be enabled"
+        "name": "Для работы медиаплеера требуется включить звук"
+    },
+    "uimp3stop": {
+        "name": "Стоп"
     },
     "uimp3volume": {
         "name": "Громкость"
@@ -13598,6 +13883,9 @@
     "uimsetsuccesor": {
         "name": "НАЗНАЧИТЬ ПРЕЕМНИКА"
     },
+    "uimsetteamleader": {
+        "name": "Set Leader"
+    },
     "uimskills": {
         "name": "УМЕНИЯ"
     },
@@ -13652,11 +13940,17 @@
     "uimunblock": {
         "name": "РАЗБЛОКИРОВАТЬ"
     },
+    "uimunlockitem": {
+        "name": "Unlock"
+    },
     "uimunmount": {
         "name": "СПЕШИТЬСЯ"
     },
     "uimwabilities": {
         "name": "УМЕНИЯ"
+    },
+    "uimwappzone": {
+        "name": "AppZone"
     },
     "uimwarmor": {
         "name": "ДОСПЕХИ"
@@ -13814,6 +14108,9 @@
     "uimwtarget": {
         "name": "ШКАЛА ПРИЦЕЛА"
     },
+    "uimwtaskbar": {
+        "name": "Task Bar"
+    },
     "uimwteam": {
         "name": "СПИСОК ЧЛЕНОВ ГРУППЫ"
     },
@@ -13931,6 +14228,9 @@
     "uinoavailablemissions": {
         "name": "Журнал заданий недоступен внутри Круга"
     },
+    "uinofiles": {
+        "name": "Нет файлов..."
+    },
     "uinoguild": {
         "name": "Нет"
     },
@@ -14005,6 +14305,9 @@
     },
     "uinpcgiver": {
         "name": "ПОЛУЧЕНО У: "
+    },
+    "uinpctitle": {
+        "name": "NPC Title"
     },
     "uinumber00": {
         "name": "00"
@@ -14134,6 +14437,24 @@
     },
     "uiopttitle": {
         "name": "НАСТРОЙКИ"
+    },
+    "uiorganization": {
+        "name": "FACTION"
+    },
+    "uiorganization_0": {
+        "name": "ifUNDEFINED"
+    },
+    "uiorganization_5": {
+        "name": "Marauders"
+    },
+    "uiorganization_7": {
+        "name": "Ranger"
+    },
+    "uiorganizationstatus": {
+        "name": "Rank:"
+    },
+    "uiorgpointtable": {
+        "name": "ORGANIZATION POINTS"
     },
     "uiorientation": {
         "name": "ОРИЕНТАЦИЯ"
@@ -14384,6 +14705,15 @@
     "uipabagtitlemount3": {
         "name": "ВЕРХОВОЕ ЖИВОТНОЕ 4"
     },
+    "uipabagtitlemount4": {
+        "name": "ZIG 1"
+    },
+    "uipabagtitlemount5": {
+        "name": "ZIG 2"
+    },
+    "uipabagtitlemount6": {
+        "name": "ZIG 3"
+    },
     "uipabagtitlepacker0": {
         "name": "ВЬЮЧНОЕ ЖИВОТНОЕ 1"
     },
@@ -14456,6 +14786,15 @@
     "uipatitlemount4": {
         "name": "Верховое животное 4"
     },
+    "uipatitlemount5": {
+        "name": "Zig 1"
+    },
+    "uipatitlemount6": {
+        "name": "Zig 2"
+    },
+    "uipatitlemount7": {
+        "name": "Zig 3"
+    },
     "uipatitlepacker1": {
         "name": "Вьючное животное 1"
     },
@@ -14479,6 +14818,9 @@
     },
     "uipeopleaddcontact": {
         "name": "Добавить в список контактов"
+    },
+    "uipeoplechangecontactgroup": {
+        "name": "Название группы"
     },
     "uipet": {
         "name": "Ручное животное"
@@ -14573,6 +14915,9 @@
     "uiplay": {
         "name": "Играть"
     },
+    "uiplayedtime": {
+        "name": "You played with this character for %time."
+    },
     "uiplayer": {
         "name": "Игрок"
     },
@@ -14588,8 +14933,17 @@
     "uiplayername": {
         "name": "ИМЯ ИГРОКА"
     },
+    "uiplayeroffline": {
+        "name": "&ISE&%s has gone offline."
+    },
+    "uiplayeronline": {
+        "name": "&ISE&%s has come online."
+    },
     "uiplayertitle": {
         "name": "ТИТУЛ >"
+    },
+    "uiplaylistrefresh": {
+        "name": "Обновить"
     },
     "uiplaylisttitle": {
         "name": "СПИСОК ТРЕКОВ"
@@ -14599,6 +14953,9 @@
     },
     "uipluvia": {
         "name": "Плювия"
+    },
+    "uipoints": {
+        "name": "Points:"
     },
     "uipopinwindow": {
         "name": "Свернуть окно"
@@ -14936,6 +15293,12 @@
     "uipvpneutralcolor": {
         "name": "Нейтральные персонажи в PvP"
     },
+    "uipvppoints": {
+        "name": "PVP POINTS"
+    },
+    "uipvptotal": {
+        "name": "Total"
+    },
     "uiqcancelzonecharge": {
         "name": "Do you really want to abandon the charge?"
     },
@@ -14998,6 +15361,9 @@
     },
     "uiqresetui": {
         "name": "Вы уверены, что хотите сбросить настройки интерфейса?"
+    },
+    "uiqsetleader": {
+        "name": "Are you sure you want to make this member Guild Leader?"
     },
     "uiqtty": {
         "name": "Количество"
@@ -15482,6 +15848,9 @@
     "uiradar": {
         "name": "Радар"
     },
+    "uiradarusecamera": {
+        "name": "Radar follows camera rotation"
+    },
     "uiradarzoom0": {
         "name": "25м"
     },
@@ -15944,6 +16313,9 @@
     "uireplytelleronce": {
         "name": "Ответить в чат"
     },
+    "uirequiredfiles": {
+        "name": "ТРЕБУЕМЫЕ ФАЙЛЫ"
+    },
     "uiresalebutton": {
         "name": "Активировать возможность повторной продажи"
     },
@@ -16127,6 +16499,9 @@
     "uirpjobsroleplay": {
         "name": "Ролевые занятия"
     },
+    "uirptags": {
+        "name": "Roleplay tags"
+    },
     "uirunshortcut": {
         "name": "Run Shortcut"
     },
@@ -16146,7 +16521,7 @@
         "name": "Сезон Черный против белого"
     },
     "uis2e0": {
-        "name": "Эпизод Пролог: Тот, который надо усвоить."
+        "name": "Эпизод 1: Тот, где Нексус вновь обнаружен"
     },
     "uisandthundery": {
         "name": "песчаная буря"
@@ -16171,6 +16546,9 @@
     },
     "uisavemovie": {
         "name": "Сохранить видеоролик"
+    },
+    "uisaveui": {
+        "name": "Save"
     },
     "uisay": {
         "name": "СКАЗАТЬ"
@@ -16279,6 +16657,9 @@
     },
     "uiselectshortcutbar": {
         "name": "Select Shortcut Bar"
+    },
+    "uiselectshortcutbar2": {
+        "name": "Select Shortcut Bar #2"
     },
     "uiselecttitle": {
         "name": "ДОБРО ПОЖАЛОВАТЬ В РАЙЗОМ - Бета 2"
@@ -16421,6 +16802,9 @@
     "uishowclock": {
         "name": "Отображать время в компасе"
     },
+    "uishowclock12h": {
+        "name": "Use 12-hour clock"
+    },
     "uishowcontexthelp": {
         "name": "Отображать контекстно-зависимые подсказки"
     },
@@ -16430,8 +16814,14 @@
     "uishowhide": {
         "name": "Показать \/ Скрыть"
     },
+    "uishowiconbuffs": {
+        "name": "Show item stat and encahnt on item icon"
+    },
     "uishowing": {
         "name": "Показать: "
+    },
+    "uishowonlineofflinenotifications": {
+        "name": "Show Online\/Offline Notifications"
     },
     "uishowonpress": {
         "name": "Нажмите, чтобы показать интерфейс"
@@ -16444,6 +16834,9 @@
     },
     "uishowtimesinchatcb": {
         "name": "Отображать время сообщений в чате"
+    },
+    "uishowtranslationonlyastooltip": {
+        "name": "По умолчанию отображать только оригинальные сообщения, а переведённые - во всплывающей подсказке."
     },
     "uishowundercursor": {
         "name": "Показывать под курсором"
@@ -16718,9 +17111,6 @@
     "uitabchatuser": {
         "name": "ПОЛЬЗОВАТЕЛЬ"
     },
-    "uitabchatyubochat": {
-        "name": "Поддержка"
-    },
     "uitabfameguild": {
         "name": "ГИЛЬДИЯ"
     },
@@ -16780,6 +17170,15 @@
     },
     "uitabinvpapacker3": {
         "name": "ВЬЮК 4"
+    },
+    "uitabinvpazig1": {
+        "name": "ZIG 1"
+    },
+    "uitabinvpazig2": {
+        "name": "ZIG 2"
+    },
+    "uitabinvpazig3": {
+        "name": "ZIG 3"
     },
     "uitabinvroom": {
         "name": "КОМНАТА"
@@ -16933,6 +17332,12 @@
     },
     "uitargeterrorcmd": {
         "name": "Персонаж не найден."
+    },
+    "uitargetlandmarkcmd": {
+        "name": "Target map landmark"
+    },
+    "uitargetlandmarkcmdentity": {
+        "name": "Landmark search keywords"
     },
     "uitargetlm": {
         "name": "ОТОБРАЗИТЬ ЦЕЛЬ НА КОМПАСЕ"
@@ -17297,6 +17702,9 @@
     "uitotalmalus": {
         "name": "Суммарный штраф "
     },
+    "uitotalpatch": {
+        "name": "TOTAL PATCH"
+    },
     "uitracking": {
         "name": "Отслеживание"
     },
@@ -17474,6 +17882,12 @@
     "uittcenter": {
         "name": "Центрировать карту"
     },
+    "uittchanauto": {
+        "name": "If checked, your dynamic chat channels will be restored if not already opened.\nWill prevent the loss of channels at reboot or in case of server crash."
+    },
+    "uittchansave": {
+        "name": "If checked, dynamic chat channels are stored at disconnection or character selection.\nYou can also use the command @{6F6F}\/saveChannel@{FFFF} to export channels manually."
+    },
     "uittchataround": {
         "name": "@{6F6F}Вокруг\n@{FFFF}Показывает сообщения, предназначенные для всех игроков в радиусе 25 метров от вас.\nЩелкните правой кнопкой мыши для отделения."
     },
@@ -17516,8 +17930,29 @@
     "uittchoosecomcolor": {
         "name": "Выбрать цвет заголовка окна \"Общение\""
     },
-    "uittchoosedyncolor": {
-        "name": "Выберите цвет для отображения сообщений динамического чата"
+    "uittchoosedyncolor0": {
+        "name": "Choose color for messages in dynamic chat channel 0"
+    },
+    "uittchoosedyncolor1": {
+        "name": "Choose color for messages in dynamic chat channel 1"
+    },
+    "uittchoosedyncolor2": {
+        "name": "Choose color for messages in dynamic chat channel 2"
+    },
+    "uittchoosedyncolor3": {
+        "name": "Choose color for messages in dynamic chat channel 3"
+    },
+    "uittchoosedyncolor4": {
+        "name": "Choose color for messages in dynamic chat channel 4"
+    },
+    "uittchoosedyncolor5": {
+        "name": "Choose color for messages in dynamic chat channel 5"
+    },
+    "uittchoosedyncolor6": {
+        "name": "Choose color for messages in dynamic chat channel 6"
+    },
+    "uittchoosedyncolor7": {
+        "name": "Choose color for messages in dynamic chat channel 7"
     },
     "uittchooseguildcolor": {
         "name": "Выбрать цвет сообщений в канале \"Гильдия\""
@@ -17557,6 +17992,9 @@
     },
     "uittchooselmfaunasupcolor": {
         "name": "Выбрать цвет для всех отметок типа \"Босс\""
+    },
+    "uittchooselmfibercolor": {
+        "name": "Choose color for 'Fiber' landmark"
     },
     "uittchooselmfoodcolor": {
         "name": "Выбрать цвет для всех отметок типа \"Пища\""
@@ -17900,8 +18338,14 @@
     "uittfiltermp": {
         "name": "Фильтр @{6F6F}Сырье\n@{FFFF}Щелкните правой кнопкой мыши, чтобы выбрать только @{6F6F}Сырье@{FFFF}."
     },
+    "uittfilterpet": {
+        "name": "Filter @{6F6F}Animal\n@{FFFF}Right click to select only @{6F6F}Animal@{FFFF}."
+    },
     "uittfiltertool": {
         "name": "Фильтр @{6F6F}Инструменты\n@{FFFF}Щелкните правой кнопкой мыши, чтобы выбрать только @{6F6F}Инструменты@{FFFF}."
+    },
+    "uittfiltertp": {
+        "name": "Filter @{6F6F}Teleporter Pacts\n@{FFFF}Right click to select only @{6F6F}Teleporter Pacts@{FFFF}."
     },
     "uittfilterweapon": {
         "name": "Фильтр @{6F6F}Оружие\n@{FFFF}Щелкните правой кнопкой мыши, чтобы выбрать только @{6F6F}Оружие@{FFFF}."
@@ -18062,6 +18506,9 @@
     "uittidentitymeta": {
         "name": "Определяет интенсивность @{6F6F}восстановления @{FFFF}вашего @{6F6F}Здоровья@{FFFF}"
     },
+    "uittidentityorganization": {
+        "name": "Organization points are gained when you participate in @{6F6F}special events or missions@{FFFF} for the organization: Marauder and Ranger. This points can be traded to get useful and unique items on the capitals."
+    },
     "uittidentityparry": {
         "name": "@{6F6F}Парирование@{FFFF}: %n\nВероятность парировать удар врага @{6F6F}%l@{FFFF} уровня: @{6F6F}%p@{FFFF}%."
     },
@@ -18109,6 +18556,9 @@
     },
     "uittidentitywis": {
         "name": "Определяет интенсивность @{6F6F}восстановления @{FFFF}вашего @{6F6F}Сэпа@{FFFF}"
+    },
+    "uittinbag": {
+        "name": "The animal is in your bag.\n@{6F6F}Right click @{FFFF}to give an order."
     },
     "uittincrementrow": {
         "name": "Increment number of row"
@@ -18230,6 +18680,9 @@
     "uittinfoweight": {
         "name": "@{6F6F}Вес @{FFFF}:\nЕсли величина этого параметра слишком высока, ваша скорость передвижения может снизиться."
     },
+    "uittinventorysearch": {
+        "name": "Search"
+    },
     "uittinventoryweight": {
         "name": "Общий @{6F6F}вес @{FFFF}сумки"
     },
@@ -18304,6 +18757,9 @@
     },
     "uittmagicspellnotfound": {
         "name": "Заклинание не найдено"
+    },
+    "uittmapsearch": {
+        "name": "Map search"
     },
     "uittmemorycombat": {
         "name": "Память для боевых умений"
@@ -18440,8 +18896,17 @@
     "uittnpccolor": {
         "name": "Цвет для обозначения NPC"
     },
+    "uittnpcname": {
+        "name": "Show friendly NPC's names above the character"
+    },
+    "uittnpctitle": {
+        "name": "Show friendly NPC's titles above the character"
+    },
     "uittok": {
         "name": "ОК"
+    },
+    "uittorganization": {
+        "name": "Organization tooltip"
     },
     "uittoutpostattackafterloose": {
         "name": "@{6F6F}Последствия нападения@{FFFF}\nНападающие не смогли превысить @{6F6F}Минимальное достижение@{FFFF}, установленное защитниками в ходе @{6F6F}Фазы нападения@{FFFF}.\nНападающие потерпели поражение.\nПо завершении фазы нападения, застава полностью освободится.\n"
@@ -18773,6 +19238,9 @@
     "uittr2_session_browser": {
         "name": "Выберите цвет заголовка для \"Проводник сеансов\""
     },
+    "uittradarusecamera": {
+        "name": "If checked, use camera rotation for radar view."
+    },
     "uittregentime": {
         "name": "Недоступно в течение: @{6F6F}"
     },
@@ -18802,6 +19270,9 @@
     },
     "uittreturntomainland": {
         "name": "Вернуться на континент"
+    },
+    "uittrptags": {
+        "name": "Show any Roleplay Tags above the character"
     },
     "uittrun": {
         "name": "Режим бега"
@@ -18848,17 +19319,35 @@
     "uittshow3ditempreview": {
         "name": "Пометьте для отображения трехмерной картинки в окне информации о предмете."
     },
+    "uittshowcapinmap": {
+        "name": ""
+    },
+    "uittshowcappopup": {
+        "name": ""
+    },
     "uittshowclock": {
         "name": "Пометьте для отображения времени в компасе."
     },
+    "uittshowclock12h": {
+        "name": "If checked, use 12-hour clock in compass and in chat messages."
+    },
     "uittshowdynchannelnameinchat": {
         "name": "Поставьте галочку для отображения названия динамического канала перед текстом сообшения."
+    },
+    "uittshowiconbuffs": {
+        "name": "Show item stat and enchant on item icon"
+    },
+    "uittshowonlineofflinenotifications": {
+        "name": "Show a notification when guildmembers or friends go online or offline."
     },
     "uittshowreticle": {
         "name": "Поставьте галочку для отображения прицела при наведении курсора мыши на цель."
     },
     "uittshowtimesinchat": {
         "name": "Пометьте для отображения времени в каждом сообщении в чате."
+    },
+    "uittshowtranslationonlyastooltip": {
+        "name": "Если опция выбрана, сообщения игроков будут отображаться на оригинальном языке, а их перевод - во всплывающий подсказке при наведении на них курсора."
     },
     "uittsit": {
         "name": "Режим сидения"
@@ -19076,11 +19565,20 @@
     "uiversionfound": {
         "name": "Обнаружена версия :"
     },
+    "uivertical": {
+        "name": "Vertical"
+    },
     "uiview": {
         "name": "Просмотреть"
     },
     "uivision": {
         "name": "Видимость вдаль"
+    },
+    "uivrenable": {
+        "name": "Enable VR"
+    },
+    "uivrgeneral": {
+        "name": "Virtual Reality Options"
     },
     "uiw": {
         "name": "З"
@@ -19157,6 +19655,39 @@
     "uiweightspeedfactor": {
         "name": "Фактор скорости "
     },
+    "uiwelcome_around": {
+        "name": "Roleplay is one of major interests of Ryzom, and around channel is an important place to practice it."
+    },
+    "uiwelcome_fyros": {
+        "name": "Chat here with players having their avatar being also a patriot."
+    },
+    "uiwelcome_kami": {
+        "name": "Chat here with players having their avatar sharing the same cult as yours."
+    },
+    "uiwelcome_karavan": {
+        "name": "Chat here with players having their avatar sharing the same cult as yours."
+    },
+    "uiwelcome_marauder": {
+        "name": "Chat here with players having their avatar being also a marauder."
+    },
+    "uiwelcome_matis": {
+        "name": "Chat here with players having their avatar being also a vassal."
+    },
+    "uiwelcome_ranger": {
+        "name": "Chat here with players having their avatar being also a ranger."
+    },
+    "uiwelcome_region": {
+        "name": "Chat here with other players having their avatar in the same region as where yours is."
+    },
+    "uiwelcome_tryker": {
+        "name": "Chat here with players having their avatar being also a citizen."
+    },
+    "uiwelcome_universe": {
+        "name": "The Universe Channel is first of all intended for players asking help about the game and for those helping them. It's a friendly channel that also can be used for chatting related to Ryzom."
+    },
+    "uiwelcome_zorai": {
+        "name": "Chat here with players having their avatar being also an initiate."
+    },
     "uiwelcomecs": {
         "name": "Представители службы поддержки днем и ночью неустанно наблюдают за всем, что происходит на Атисе. Связаться с ними можно, выбрав кнопку \"ПОДДЕРЖКА\", в меню, расположенном в правой нижней части экрана."
     },
@@ -19201,6 +19732,9 @@
     },
     "uiwindowname": {
         "name": "Название"
+    },
+    "uiwindownpcname": {
+        "name": "NPC Name"
     },
     "uiwindows": {
         "name": "Окна"

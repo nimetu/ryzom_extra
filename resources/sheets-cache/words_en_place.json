@@ -419,6 +419,10 @@
         "name": "Ground floor",
         "da": "\\d"
     },
+    "marauder_camp_stable": {
+        "name": "Marauder Stables",
+        "da": "the"
+    },
     "marauder_stable": {
         "name": "Marauder Stables",
         "da": "the"
@@ -1371,6 +1375,10 @@
         "name": "Marauder Camp",
         "da": "the"
     },
+    "place_marauder_camp_restingwater": {
+        "name": "Marauder Camp",
+        "da": "the"
+    },
     "place_matis_island_1": {
         "name": "Ranger Camp",
         "da": "the"
@@ -1700,31 +1708,31 @@
         "da": "\\d"
     },
     "place_outpost_nexus_01": {
-        "name": "Ichorgate Research Center",
+        "name": "Outpost of the Northern Nexus ((Experimental and Unstable))",
         "da": "\\d"
     },
     "place_outpost_nexus_02": {
-        "name": "Hammer Hills Trade Post",
+        "name": "Karavan Observation Camp",
         "da": "\\d"
     },
     "place_outpost_nexus_03": {
-        "name": "Umbragate Farm",
+        "name": "Outpost of the Western Nexus ((Experimental and Unstable))",
         "da": "\\d"
     },
     "place_outpost_nexus_04": {
-        "name": "Destiny's End Diplomatic Outpost",
+        "name": "Outpost of the Eastern Nexus ((Experimental and Unstable))",
         "da": "\\d"
     },
     "place_outpost_nexus_05": {
-        "name": "Watchcomb Workshop",
+        "name": "Kamist Observation Camp",
         "da": "\\d"
     },
     "place_outpost_nexus_06": {
-        "name": "Highwatch Farm",
+        "name": "Marauder Observation Camp",
         "da": "\\d"
     },
     "place_outpost_nexus_07": {
-        "name": "Wastegate Border Post",
+        "name": "Outpost of the Southern Nexus ((Experimental and unstable))",
         "da": "\\d"
     },
     "place_outpost_pr_01": {

@@ -944,6 +944,15 @@
         "pp": "im",
         "lpp": "zum"
     },
+    "marauder_camp_stable": {
+        "name": "Stall der Marodeure",
+        "namea": "Stall der Marodeure",
+        "nameda": "Stall der Marodeure",
+        "da": "der",
+        "daa": "den",
+        "pp": "beim",
+        "lpp": "zum"
+    },
     "marauder_stable": {
         "name": "Stall der Marodeure",
         "namea": "Stall der Marodeure",
@@ -3086,6 +3095,15 @@
         "pp": "im",
         "lpp": "zum"
     },
+    "place_marauder_camp_restingwater": {
+        "name": "Lager der Marodeure",
+        "namea": "Lager der Marodeure",
+        "nameda": "Lager der Marodeure",
+        "da": "das",
+        "daa": "das",
+        "pp": "im",
+        "lpp": "zum"
+    },
     "place_matis_island_1": {
         "name": "Ranger-Lager",
         "namea": "Ranger-Lager",
@@ -3825,63 +3843,63 @@
         "lpp": "zum"
     },
     "place_outpost_nexus_01": {
-        "name": "Tor von Ichor - Forschungszentrum",
-        "namea": "Tor von Ichor - Forschungszentrum",
-        "nameda": "Tor von Ichor - Forschungszentrum",
+        "name": "Außenposten des nördlichen Nexus (Experimentell und instabil)",
+        "namea": "Außenposten des nördlichen Nexus (Experimentell und instabil)",
+        "nameda": "Außenposten des nördlichen Nexus (Experimentell und instabil)",
         "da": "das",
         "daa": "das",
         "pp": "auf dem",
         "lpp": "zum"
     },
     "place_outpost_nexus_02": {
-        "name": "Hammerhöhen-Handelsposten",
-        "namea": "Hammerhöhen-Handelsposten",
-        "nameda": "Hammerhöhen-Handelsposten",
+        "name": "Beobachtungslager der Karavan",
+        "namea": "Beobachtungslager der Karavan",
+        "nameda": "Beobachtungslager der Karavan",
         "da": "der",
         "daa": "den",
         "pp": "auf dem",
         "lpp": "zum"
     },
     "place_outpost_nexus_03": {
-        "name": "Tor nach Umbra - Hof",
-        "namea": "Tor nach Umbra - Hof",
-        "nameda": "Tor nach Umbra - Hof",
+        "name": "Außenposten des westlichen Nexus (Experimentell und instabil)",
+        "namea": "Außenposten des westlichen Nexus (Experimentell und instabil)",
+        "nameda": "Außenposten des westlichen Nexus (Experimentell und instabil)",
         "da": "der",
         "daa": "den",
         "pp": "auf dem",
         "lpp": "zum"
     },
     "place_outpost_nexus_04": {
-        "name": "Diplomatischer Außenposten am Schicksalsende",
-        "namea": "Diplomatischen Außenposten am Schicksalsende",
-        "nameda": "Diplomatischen Außenposten am Schicksalsende",
+        "name": "Außenposten des östlichen Nexus (Experimentell und instabil)",
+        "namea": "Außenposten des östlichen Nexus (Experimentell und instabil)",
+        "nameda": "Außenposten des östlichen Nexus (Experimentell und instabil)",
         "da": "der",
         "daa": "den",
         "pp": "auf dem",
         "lpp": "zum"
     },
     "place_outpost_nexus_05": {
-        "name": "Talwacht-Werkstatt",
-        "namea": "Talwacht-Werkstatt",
-        "nameda": "Talwacht-Werkstatt",
+        "name": "Beobachtungslager der Kami",
+        "namea": "Beobachtungslager der Kami",
+        "nameda": "Beobachtungslager der Kami",
         "da": "die",
         "daa": "die",
         "pp": "auf der",
         "lpp": "zur"
     },
     "place_outpost_nexus_06": {
-        "name": "Hohe Wacht - Hof",
-        "namea": "Hohe Wacht - Hof",
-        "nameda": "Hohe Wacht - Hof",
+        "name": "Beobachtungslager der Marodeure",
+        "namea": "Beobachtungslager der Marodeure",
+        "nameda": "Beobachtungslager der Marodeure",
         "da": "der",
         "daa": "den",
         "pp": "auf dem",
         "lpp": "zum"
     },
     "place_outpost_nexus_07": {
-        "name": "Tor ins Niemandsland – Grenzposten",
-        "namea": "Tor ins Niemandsland - Grenzposten",
-        "nameda": "Tor ins Niemandsland - Grenzposten",
+        "name": "Außenposten des südlichen Nexus (Experimentell und instabil)",
+        "namea": "Außenposten des südlichen Nexus (Experimentell und instabil)",
+        "nameda": "Außenposten des südlichen Nexus (Experimentell und instabil)",
         "da": "der",
         "daa": "den",
         "pp": "auf dem",
@@ -6453,9 +6471,9 @@
         "lpp": "zum"
     },
     "region_windsofmuse": {
-        "name": "Winde der Musen (WoM)",
-        "namea": "Winde der Musen (WoM)",
-        "nameda": "Winden der Musen (WoM)",
+        "name": "Winde der Musen",
+        "namea": "Winde der Musen",
+        "nameda": "Winden der Musen",
         "da": "die",
         "daa": "die",
         "pp": "in den",

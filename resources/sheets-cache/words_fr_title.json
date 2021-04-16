@@ -831,6 +831,10 @@
         "name": "(Bonze Supérieur de Ma-Duk)",
         "women_name": ""
     },
+    "fct_marauder_ambassador": {
+        "name": "Ambassadeur des Maraudeurs",
+        "women_name": "Ambassadrice des Maraudeurs"
+    },
     "fct_marauder_chief": {
         "name": "Chef Maraudeur",
         "women_name": ""
@@ -841,6 +845,10 @@
     },
     "fct_marauder_scout": {
         "name": "Eclaireur Maraudeur",
+        "women_name": ""
+    },
+    "fct_marauder_windofmuse": {
+        "name": "(Vents du Songe)",
         "women_name": ""
     },
     "fct_marmor_merchant": {
@@ -3273,6 +3281,10 @@
     },
     "gn_driller_karavan_lvl50_const": {
         "name": "Construction d'une petite foreuse karavan",
+        "women_name": ""
+    },
+    "gn_driller_marauder_const": {
+        "name": "Aklareen en construction",
         "women_name": ""
     },
     "gn_duneriders_guard": {

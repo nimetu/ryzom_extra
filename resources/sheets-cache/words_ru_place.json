@@ -599,6 +599,12 @@
         "placeaccus": "",
         "placedat": ""
     },
+    "marauder_camp_stable": {
+        "name": "Marauder Stables",
+        "placegen": "the",
+        "placeaccus": "",
+        "placedat": ""
+    },
     "matis_nland": {
         "name": "Земли матисов",
         "placegen": "Земель матисов",
@@ -2006,6 +2012,12 @@
     "place_lieudit_windsofmuse_4": {
         "name": "Дорога Ветров",
         "placegen": "Дороги Ветров",
+        "placeaccus": "",
+        "placedat": ""
+    },
+    "place_marauder_camp_restingwater": {
+        "name": "Marauder Camp",
+        "placegen": "",
         "placeaccus": "",
         "placedat": ""
     },
