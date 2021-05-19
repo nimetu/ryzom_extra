@@ -47,6 +47,12 @@
         "placeaccus": "Лагерь Пэй-Руза",
         "placedat": "Лагерю Пэй-Руза"
     },
+    "cont_newbieland": {
+        "name": "Силана",
+        "placegen": "Силана",
+        "placeaccus": "",
+        "placedat": ""
+    },
     "continent_bagne": {
         "name": "Кровоточащая бездна",
         "placegen": "Кровоточащей бездны",
@@ -2022,8 +2028,8 @@
         "placedat": ""
     },
     "place_matis_island_1": {
-        "name": "Лагерь Рэйнджеров",
-        "placegen": "Лагеря Рэйнджеров",
+        "name": "Леса Алмати",
+        "placegen": "Лесов Алмати",
         "placeaccus": "",
         "placedat": ""
     },

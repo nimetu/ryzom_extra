@@ -319,6 +319,10 @@
         "name": "(Актриса)",
         "women_name": ""
     },
+    "fct_allegory_maker": {
+        "name": "",
+        "women_name": ""
+    },
     "fct_amayor": {
         "name": "(Помощник мэра)",
         "women_name": ""
@@ -330,6 +334,14 @@
     "fct_ammo_merchant": {
         "name": "(Торговец зарядами)",
         "women_name": ""
+    },
+    "fct_animals_and_co": {
+        "name": "",
+        "women_name": ""
+    },
+    "fct_artisan_aklareen": {
+        "name": "(Создатель Аклареен)",
+        "women_name": "(Создатель Аклареен)"
     },
     "fct_artisan_arbres_vrilles": {
         "name": "(Создатель древо-бура)",
@@ -3276,7 +3288,7 @@
         "women_name": ""
     },
     "gn_driller_marauder_const": {
-        "name": "Aklareen большого трепана",
+        "name": "Аклареен большого трепана",
         "women_name": ""
     },
     "gn_duneriders_guard": {
@@ -4043,6 +4055,10 @@
         "name": "Алтарь Ками",
         "women_name": ""
     },
+    "gn_kami_altar_": {
+        "name": "Алтарь Ками в  Роще заблуждений",
+        "women_name": ""
+    },
     "gn_kami_altar_almati": {
         "name": "Алтарь Ками в лесах Алмати",
         "women_name": ""
@@ -4093,10 +4109,6 @@
     },
     "gn_kami_altar_gate_of_obscurity": {
         "name": "Алтарь Ками у  Врат неопределенности",
-        "women_name": ""
-    },
-    "gn_kami_altar_groveofconfusion": {
-        "name": "Алтарь Ками в  Роще заблуждений",
         "women_name": ""
     },
     "gn_kami_altar_groveofumbra": {
@@ -4563,6 +4575,10 @@
         "name": "Алтарь Каравана",
         "women_name": ""
     },
+    "gn_karavan_altar_": {
+        "name": "Алтарь Каравана в  Роще заблуждений",
+        "women_name": ""
+    },
     "gn_karavan_altar_almati": {
         "name": "Алтарь Каравана в лесах Алмати",
         "women_name": ""
@@ -4601,10 +4617,6 @@
     },
     "gn_karavan_altar_gate_of_obscurity": {
         "name": "Алтарь Каравана у  Врат неопределенности",
-        "women_name": ""
-    },
-    "gn_karavan_altar_groveofconfusion": {
-        "name": "Алтарь Каравана в  Роще заблуждений",
         "women_name": ""
     },
     "gn_karavan_altar_groveofumbra": {

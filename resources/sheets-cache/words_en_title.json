@@ -319,6 +319,10 @@
         "name": "(Actress)",
         "women_name": ""
     },
+    "fct_allegory_maker": {
+        "name": "",
+        "women_name": ""
+    },
     "fct_amayor": {
         "name": "(Mayor's Assistant)",
         "women_name": ""
@@ -331,8 +335,16 @@
         "name": "(Ammo Merchant)",
         "women_name": ""
     },
+    "fct_animals_and_co": {
+        "name": "",
+        "women_name": ""
+    },
     "fct_arionasiszig": {
         "name": "Arionasis's Zig",
+        "women_name": ""
+    },
+    "fct_artisan_aklareen": {
+        "name": "(Aklareen Crafter)",
         "women_name": ""
     },
     "fct_artisan_arbres_vrilles": {
@@ -4055,6 +4067,10 @@
         "name": "Kami Altar",
         "women_name": ""
     },
+    "gn_kami_altar_": {
+        "name": "Grove of Confusion Kami Altar",
+        "women_name": ""
+    },
     "gn_kami_altar_almati": {
         "name": "Almati Wood Kami Altar",
         "women_name": ""
@@ -4105,10 +4121,6 @@
     },
     "gn_kami_altar_gate_of_obscurity": {
         "name": "Gate of Obscurity Kami Altar",
-        "women_name": ""
-    },
-    "gn_kami_altar_groveofconfusion": {
-        "name": "Grove of Confusion Kami Altar",
         "women_name": ""
     },
     "gn_kami_altar_groveofumbra": {
@@ -4575,6 +4587,10 @@
         "name": "Karavan Altar",
         "women_name": ""
     },
+    "gn_karavan_altar_": {
+        "name": "Grove of Confusion Karavan Altar",
+        "women_name": ""
+    },
     "gn_karavan_altar_almati": {
         "name": "Almati Wood Karavan Altar",
         "women_name": ""
@@ -4613,10 +4629,6 @@
     },
     "gn_karavan_altar_gate_of_obscurity": {
         "name": "Gate of Obscurity Karavan Altar",
-        "women_name": ""
-    },
-    "gn_karavan_altar_groveofconfusion": {
-        "name": "Grove of Confusion Karavan Altar",
         "women_name": ""
     },
     "gn_karavan_altar_groveofumbra": {

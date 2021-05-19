@@ -43767,6 +43767,14 @@
         "pia": "",
         "pda": "the"
     },
+    "egg": {
+        "name": "",
+        "ia": "",
+        "da": "",
+        "p": "",
+        "pia": "",
+        "pda": ""
+    },
     "gnoof_mount_00": {
         "name": "Gnoof Mount",
         "ia": "a",
@@ -43916,6 +43924,46 @@
         "ia": "a",
         "da": "the",
         "p": "Chests of Wisdom",
+        "pia": "",
+        "pda": "the"
+    },
+    "object_easter_egg": {
+        "name": "egg",
+        "ia": "a",
+        "da": "the",
+        "p": "eggs",
+        "pia": "",
+        "pda": "the"
+    },
+    "object_easter_egg_big": {
+        "name": "big egg",
+        "ia": "a",
+        "da": "the",
+        "p": "big eggs",
+        "pia": "",
+        "pda": "the"
+    },
+    "object_easter_egg_hug": {
+        "name": "huge egg",
+        "ia": "a",
+        "da": "the",
+        "p": "huge eggs",
+        "pia": "",
+        "pda": "the"
+    },
+    "object_easter_egg_medium": {
+        "name": "medium egg",
+        "ia": "a",
+        "da": "the",
+        "p": "medium eggs",
+        "pia": "",
+        "pda": "the"
+    },
+    "object_easter_egg_small": {
+        "name": "small egg",
+        "ia": "a",
+        "da": "the",
+        "p": "small eggs",
         "pia": "",
         "pda": "the"
     },

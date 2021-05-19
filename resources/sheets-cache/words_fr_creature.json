@@ -54709,6 +54709,16 @@
         "cc": "",
         "pr": ""
     },
+    "egg": {
+        "name": "",
+        "ia": "",
+        "da": "",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "cc": "",
+        "pr": ""
+    },
     "gnoof_mount_00": {
         "name": "Monture Gnoof",
         "ia": "une",
@@ -54894,6 +54904,56 @@
         "ia": "un",
         "da": "le",
         "p": "Coffres de Sagesse",
+        "pia": "des",
+        "pda": "les",
+        "cc": "du",
+        "pr": "au"
+    },
+    "object_easter_egg": {
+        "name": "œuf",
+        "ia": "un",
+        "da": "l'",
+        "p": "œufs",
+        "pia": "des",
+        "pda": "les",
+        "cc": "de l'",
+        "pr": "à l'"
+    },
+    "object_easter_egg_big": {
+        "name": "gros œuf",
+        "ia": "un",
+        "da": "le",
+        "p": "gros œufs",
+        "pia": "des",
+        "pda": "les",
+        "cc": "du",
+        "pr": "au"
+    },
+    "object_easter_egg_hug": {
+        "name": "œuf énorme",
+        "ia": "un",
+        "da": "l'",
+        "p": "œufs énormes",
+        "pia": "des",
+        "pda": "les",
+        "cc": "de l'",
+        "pr": "à l'"
+    },
+    "object_easter_egg_medium": {
+        "name": "œuf moyen",
+        "ia": "un",
+        "da": "l'",
+        "p": "œufs moyens",
+        "pia": "des",
+        "pda": "les",
+        "cc": "de l'",
+        "pr": "à l'"
+    },
+    "object_easter_egg_small": {
+        "name": "petit œuf",
+        "ia": "un",
+        "da": "le",
+        "p": "petits œufs",
         "pia": "des",
         "pda": "les",
         "cc": "du",

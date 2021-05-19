@@ -2315,6 +2315,9 @@
     "misc": {
         "name": "Verschiedenes"
     },
+    "mission_real_tooltip": {
+        "name": "{FFFC}Dies ist der @{6F6F}Kurs@{FFFC}, dem Du gerade folgst.\nKlick, um @{6F6F}weitere Informationen@{FFFC} zu erhalten."
+    },
     "mpcatexotic": {
         "name": "exotisch"
     },
@@ -10317,7 +10320,7 @@
         "name": "Team-Mitglieder"
     },
     "uiguild": {
-        "name": "GILDE"
+        "name": "Gilde"
     },
     "uiguildbearer": {
         "name": "Bote"
@@ -10959,7 +10962,7 @@
         "name": "Holeth"
     },
     "uihome": {
-        "name": "STARTSEITE"
+        "name": "Startseite"
     },
     "uihorizontal": {
         "name": "Horizontal"
@@ -13170,7 +13173,7 @@
         "name": " -    "
     },
     "uimissioncatalog": {
-        "name": "Öffnen: Missions-Tagebuch"
+        "name": "Öffne Missions-Tagebuch"
     },
     "uimissiondesc": {
         "name": "Beschreibung:"
@@ -14655,7 +14658,7 @@
         "name": "Total"
     },
     "uioutposttribe": {
-        "name": "Der Außenposten wird von einem Marodeurs-Stamm gehalten."
+        "name": "Der Außenposten ist in der Hand eines feindlichen Stammes."
     },
     "uioutposttsquad": {
         "name": "BEREITSTEHENDE TRUPPEN"
@@ -17723,6 +17726,48 @@
     "uitradewith": {
         "name": "HANDEL MIT?"
     },
+    "uitranslationdisable": {
+        "name": "Übersetzungen für einige Kanäle deaktivieren"
+    },
+    "uitranslationdisablearound": {
+        "name": "Around, shout and emotes"
+    },
+    "uitranslationdisableguild": {
+        "name": "Gilde"
+    },
+    "uitranslationdisableregion": {
+        "name": "Region"
+    },
+    "uitranslationdisableuniverse": {
+        "name": "Universum"
+    },
+    "uitranslationenglish": {
+        "name": "Englisch"
+    },
+    "uitranslationfrench": {
+        "name": "Französisch"
+    },
+    "uitranslationgerman": {
+        "name": "Deutsch"
+    },
+    "uitranslationheader": {
+        "name": "Übersetzungen"
+    },
+    "uitranslationhide": {
+        "name": "Flagge ausblenden"
+    },
+    "uitranslationinverse": {
+        "name": "Anzeige invertieren"
+    },
+    "uitranslationlanguages": {
+        "name": "Sprache"
+    },
+    "uitranslationrussian": {
+        "name": "Russisch"
+    },
+    "uitranslationspanish": {
+        "name": "Spanisch"
+    },
     "uitrculture": {
         "name": "TRYKER - KULTUR"
     },
@@ -19423,6 +19468,24 @@
     },
     "uitttoolcrafttype": {
         "name": "@{6F6F}Werkzeugtyp @{FFFF}:\nEhe du mit einem Handwerk beginnen kannst, musst du das dafür jeweils nötige Werkzeug in die rechte Hand nehmen."
+    },
+    "uitttranslationdisablearound": {
+        "name": ""
+    },
+    "uitttranslationdisableguild": {
+        "name": ""
+    },
+    "uitttranslationdisableregion": {
+        "name": ""
+    },
+    "uitttranslationdisableuniverse": {
+        "name": ""
+    },
+    "uitttranslationhide": {
+        "name": "Blendet das Sprachflag für Nachrichten aus, die aus dieser Sprache stammen"
+    },
+    "uitttranslationinverse": {
+        "name": "Invertiert die Anzeige des Originals"
     },
     "uittusercolor": {
         "name": "Farbe, in welcher dein Charakter angezeigt wird"

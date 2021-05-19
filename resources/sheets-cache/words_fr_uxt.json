@@ -2315,6 +2315,9 @@
     "misc": {
         "name": "Divers"
     },
+    "mission_real_tooltip": {
+        "name": "{FFFC}Ceci est le @{6F6F}Cap@{FFFC} sur lequel vous êtes actuellement fixé(e).\nCliquez pour obtenir plus d'@{6F6F}informations@{FFFC}.\n\nIl est également possible de changer de cap en cliquant sur @{6F6F}Mettre le Cap sur (...)@{FFFC} à chaque fois que l'option est disponible."
+    },
     "mpcatexotic": {
         "name": "Exotique"
     },
@@ -10317,7 +10320,7 @@
         "name": "Co-équipiers"
     },
     "uiguild": {
-        "name": "GUILDE"
+        "name": "Guilde"
     },
     "uiguildbearer": {
         "name": "Titulaire"
@@ -10692,7 +10695,7 @@
         "name": "@{F80B}Cet objet sera détruit lorsque vous vous déconnecterez.@{FFFF}\n"
     },
     "uihelpitemrangeweaponformat": {
-        "name": "@{FFF9}@{HuittInfoOrigin}Origine :@{H}@{T12}@{FFFF}%origin\n@{FFF9}@{HuittInfoWeaponQuality}Qualité :@{H}@{T12}@{FFFF}%quality\n@{FFF9}@{HuittInfoWeight}Poids :@{H}@{T12}@{FFFF}%weight Kg\n@{FFF9}@{HuittInfoBulk}Volume :@{H}@{T12}@{FFFF}%bulk\n@{FFF9}@{HuittInfoHP}Points de vie :@{H}@{T12}@{FFFF}%hp \/ %hpmax\n@{FFF9}@{HuittInfoWeaponSapLoad}Charge en Sève :@{H}@{T12}@{FFFF}%sap \/ %sapmax\n@{FFF9}@{HuittInfoItemSkill}Compétence :@{H}@{T12}@{FFFF}%skill\n%cansell@{FFF9}@{HuittInfoRequirement}Prérequis :@{H}@{T12}@{FFFF}%caracreq@{FFFF}%skillreq@{FFFF}%skillreq2\n\n@{FFF9}@{HuittInfoWeaponRDamage}Dégâts :@{H}@{T12}@{FFFF}%dmg (@{T12}@{FFFF}%max_dmg)\n@{FFF9}@{HuittInfoWeaponRHitMin}Coups \/ minute :@{H}@{T12}@{FFFF}%speed\n@{FFF9}@{HuittInfoWeaponRange}Portée :@{H}@{T12}@{FFFF}%range\n@{FFF9}@{HuittInfoDodgeMod}Modification d'Esquive :@{H}@{T12}@{FFFF}%dodge\n@{FFF9}@{HuittInfoParryMod}Modiication. de Parade :@{H}@{T12}@{FFFF}%parry\n@{FFF9}@{HuittInfoTargetDodgeMod}Modif. d'Esquive \/ cible :@{H}@{T12}@{FFFF}%adv_dodge\n@{FFF9}@{HuittInfoTargetParryMod}Modif. de Parade \/ cible :@{H}@{T12}@{FFFF}%adv_parry\n@{FFF9}@{HuittInfoMalus}Pénalité de l'action :@{H}@{T12}@{FFFF}+%actmalus\n%magic_bonus%buffs%special_effects%skill_mod_vs_type%desc%custom_text%enchantment"
+        "name": "@{FFF9}@{HuittInfoOrigin}Origine :@{H}@{T12}@{FFFF}%origin\n@{FFF9}@{HuittInfoWeaponQuality}Qualité :@{H}@{T12}@{FFFF}%quality\n@{FFF9}@{HuittInfoWeight}Poids :@{H}@{T12}@{FFFF}%weight Kg\n@{FFF9}@{HuittInfoBulk}Volume :@{H}@{T12}@{FFFF}%bulk\n@{FFF9}@{HuittInfoHP}Points de vie :@{H}@{T12}@{FFFF}%hp \/ %hpmax\n@{FFF9}@{HuittInfoWeaponSapLoad}Charge en Sève :@{H}@{T12}@{FFFF}%sap \/ %sapmax\n@{FFF9}@{HuittInfoItemSkill}Compétence :@{H}@{T12}@{FFFF}%skill\n%cansell@{FFF9}@{HuittInfoRequirement}Prérequis :@{H}@{T12}@{FFFF}%caracreq@{FFFF}%skillreq@{FFFF}%skillreq2\n\n@{FFF9}@{HuittInfoWeaponRDamage}Dégâts :@{H}@{T12}@{FFFF}%dmg (@{T12}@{FFFF}%max_dmg)\n@{FFF9}@{HuittInfoWeaponRHitMin}Coups \/ minute :@{H}@{T12}@{FFFF}%speed\n@{FFF9}@{HuittInfoWeaponRange}Portée :@{H}@{T12}@{FFFF}%range\n@{FFF9}@{HuittInfoDodgeMod}Modification d'Esquive :@{H}@{T12}@{FFFF}%dodge\n@{FFF9}@{HuittInfoParryMod}Modification de Parade :@{H}@{T12}@{FFFF}%parry\n@{FFF9}@{HuittInfoTargetDodgeMod}Modif. d'Esquive \/ cible :@{H}@{T12}@{FFFF}%adv_dodge\n@{FFF9}@{HuittInfoTargetParryMod}Modif. de Parade \/ cible :@{H}@{T12}@{FFFF}%adv_parry\n@{FFF9}@{HuittInfoMalus}Pénalité de l'action :@{H}@{T12}@{FFFF}+%actmalus\n%magic_bonus%buffs%special_effects%skill_mod_vs_type%desc%custom_text%enchantment"
     },
     "uihelpitemsapbonus": {
         "name": "@{FFF9}Bonus Sève :@{T21}@{2F2F}%val\n"
@@ -10959,7 +10962,7 @@
         "name": "Holeth"
     },
     "uihome": {
-        "name": "ACCUEIL"
+        "name": "Accueil"
     },
     "uihorizontal": {
         "name": "Horizontale"
@@ -14655,7 +14658,7 @@
         "name": "Total"
     },
     "uioutposttribe": {
-        "name": "L'avant-poste est détenu par un clan de Maraudeurs."
+        "name": "L'avant-poste est détenu par une tribu hostile."
     },
     "uioutposttsquad": {
         "name": "ESCOUADES EN ATTENTE"
@@ -17394,7 +17397,7 @@
         "name": "Centrer sur vous-même"
     },
     "uiteam": {
-        "name": "ÉQUIPE"
+        "name": "Équipe"
     },
     "uiteamchat": {
         "name": "Chat de l'équipe"
@@ -17722,6 +17725,48 @@
     },
     "uitradewith": {
         "name": "Échanger avec ?"
+    },
+    "uitranslationdisable": {
+        "name": "Désactiver les traductions pour certains canaux"
+    },
+    "uitranslationdisablearound": {
+        "name": "Alentours, crier et emotes"
+    },
+    "uitranslationdisableguild": {
+        "name": "Guilde"
+    },
+    "uitranslationdisableregion": {
+        "name": "Région"
+    },
+    "uitranslationdisableuniverse": {
+        "name": "Univers"
+    },
+    "uitranslationenglish": {
+        "name": "Anglais"
+    },
+    "uitranslationfrench": {
+        "name": "Français"
+    },
+    "uitranslationgerman": {
+        "name": "Allemand"
+    },
+    "uitranslationheader": {
+        "name": "Traductions"
+    },
+    "uitranslationhide": {
+        "name": "Cacher le drapeau"
+    },
+    "uitranslationinverse": {
+        "name": "Inverser l'affichage"
+    },
+    "uitranslationlanguages": {
+        "name": "Langue"
+    },
+    "uitranslationrussian": {
+        "name": "Russe"
+    },
+    "uitranslationspanish": {
+        "name": "Espagnol"
     },
     "uitrculture": {
         "name": "CULTURE TRYKER"
@@ -19423,6 +19468,24 @@
     },
     "uitttoolcrafttype": {
         "name": "@{6F6F}Type d'outil @{FFFF}:\nAvant de vous lancer dans l'artisanat, vous devez équiper l'outil de création approprié dans votre main droite."
+    },
+    "uitttranslationdisablearound": {
+        "name": ""
+    },
+    "uitttranslationdisableguild": {
+        "name": ""
+    },
+    "uitttranslationdisableregion": {
+        "name": ""
+    },
+    "uitttranslationdisableuniverse": {
+        "name": ""
+    },
+    "uitttranslationhide": {
+        "name": "Cache le drapeau de la langue pour les messages provenant de cette langue."
+    },
+    "uitttranslationinverse": {
+        "name": "Inverse l'affichage de l'original"
     },
     "uittusercolor": {
         "name": "Couleur utilisée pour l'affichage de votre personnage"

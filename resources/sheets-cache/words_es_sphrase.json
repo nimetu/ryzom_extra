@@ -7712,6 +7712,420 @@
         "pda": "",
         "description": "\"NOTA: esta acción no puede ser utilizada directamente, tienes que añadirlo a una acción de fabricación. El objeto fabricado tendrá un bono de Enfoque.\""
     },
+    "abcogenem1bm_1": {
+        "name": "Plan de Mazo Tekorn-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Tekorn-Gen Mace Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Mazos Tekorn-Gen."
+    },
+    "abcogenem1bm_2": {
+        "name": "Plan de Mazo Vedice-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Vedice-Gen Mace Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Mazos Vedice-Gen."
+    },
+    "abcogenem1bs_1": {
+        "name": "Plan de Bastón\/Palo Tekorn-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Tekorn-Gen Staff Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Bastones\/Palos Tekorn-Gen."
+    },
+    "abcogenem1bs_2": {
+        "name": "Plan de Bastón\/Palo Vedice-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Vedice-Gen Staff Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Bastones\/Varas Vedice-Gens."
+    },
+    "abcogenem1pd_1": {
+        "name": "Plan de Daga Tekorn-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Tekorn-Gen Dagger Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Dagas Tekorn-Gen."
+    },
+    "abcogenem1pd_2": {
+        "name": "Plan de Daga Vedice-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Vedice-Gen Dagger Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Dagas Vedice-Gen."
+    },
+    "abcogenem1ps_1": {
+        "name": "Plan de Lanza Tekorn-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Tekorn-Gen Spear Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Lanzas Tekorn-Gen."
+    },
+    "abcogenem1ps_2": {
+        "name": "Plan de Lanza Vedice-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Vedice-Gen Spear Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Lanzas Vedice-Gen."
+    },
+    "abcogenem1sa_1": {
+        "name": "Plan de Hacha Tekorn-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Tekorn-Gen Axe Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Hachas  Tekorn-Gen."
+    },
+    "abcogenem1sa_2": {
+        "name": "Plan de Hacha Vedice-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Vedice-Gen Axe Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Hachas Vedice-Gen."
+    },
+    "abcogenem1ss_1": {
+        "name": "Plan de Espada Tekorn-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Tekorn-Gen Sword Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Espadas de Dos Manos Tekorn-Gen."
+    },
+    "abcogenem1ss_2": {
+        "name": "Plan de Espada Vedice-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Vedice-Gen Sword Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Espadas Vedice-Gen."
+    },
+    "abcogenem2bm_1": {
+        "name": "Plan de Mazo de Dos Manos Tekorn-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Tekorn-Gen Two-handed Mace Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Mazos de Dos Manos Tekorn-Gen."
+    },
+    "abcogenem2bm_2": {
+        "name": "Plan de Mazo de Dos Manos Vedice-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Vedice-Gen Two-handed Mace Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Mazos de Dos Manos Vedice-Gen."
+    },
+    "abcogenem2ms_1": {
+        "name": "Plan de Amplificador Mágico Maga-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Maga-Gen Magic Amplifier Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Amplificadores Mágicos Maga-Gen."
+    },
+    "abcogenem2ms_2": {
+        "name": "Plan de Amplificador Mágico Cheng-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Cheng-Gen Magic Amplifier Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Amplificadores Mágicos Cheng-Gen."
+    },
+    "abcogenem2pp_1": {
+        "name": "Plan de Pico Tekorn-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Tekorn-Gen Pike Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Picos Tekorn-Gen."
+    },
+    "abcogenem2pp_2": {
+        "name": "Plan de Pico Vedice-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Vedice-Gen Pike Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de picos Vedice-Gen."
+    },
+    "abcogenem2sa_1": {
+        "name": "Plan de Hacha de Dos Manos Tekorn-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Tekorn-Gen Two-handed Axe Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Hachas de Dos Manos Tekorn-Gen."
+    },
+    "abcogenem2sa_2": {
+        "name": "Plan de Hacha de Dos Manos Vedice-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Vedice-Gen Two-handed Axe Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Hachas de Dos Manos Vedice-Gen."
+    },
+    "abcogenem2ss_1": {
+        "name": "Plan de Espada de Dos Manos Tekorn-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Tekorn-Gen Two-handed Sword Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "plan de fabricación de Espadas de Dos Manos Tekorn-Gen."
+    },
+    "abcogenem2ss_2": {
+        "name": "Plan de Espada de Dos Manos Vedice-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Vedice-Gen Two-handed Sword Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Espada de Dos Manos Vedice-Gen."
+    },
+    "abcogener1b_1": {
+        "name": "Plan de Pistola de Arco Tekorn-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Tekorn-Gen Bowpistol Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Pistolas de Arco Tekorn-Gen."
+    },
+    "abcogener1b_2": {
+        "name": "Plan de Pistola de Arco Vedice-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Vedice-Gen Bowpistol Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Pistolas de Arco Vedice-Gen."
+    },
+    "abcogener1p_1": {
+        "name": "Plan de Pistola Tekorn-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Tekorn-Gen Pistol Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Pistolas Tekorn-Gen."
+    },
+    "abcogener1p_2": {
+        "name": "Plan de Pistola Vedice-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Vedice-Gen Pistol Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de pistolas Vedice-Gen."
+    },
+    "abcogener2a_1": {
+        "name": "Plan de Autolanzador Tekorn-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Tekorn-Gen Autolauncher Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Autolanzadores Tekorn-Gen."
+    },
+    "abcogener2a_2": {
+        "name": "Plan de Autolanzador Vedice-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Vedice-Gen Autolauncher Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación para Autolanzadores Vedice-Gen."
+    },
+    "abcogener2b_1": {
+        "name": "Plan de Rifle de Arco Tekorn-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Tekorn-Gen Bowrifle Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Rifles de Arco Tekorn-Gen."
+    },
+    "abcogener2b_2": {
+        "name": "Plan de Rifle de Arco Vedice-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Vedice-Gen Bowrifle Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación para Rifles de Arco Vedice-Gen."
+    },
+    "abcogener2l_1": {
+        "name": "Plan de Lanzador Tekorn-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Tekorn-Gen Launcher Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Lanzadores Tekorn-Gen."
+    },
+    "abcogener2l_2": {
+        "name": "Plan de Lanzador Vedice-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Vedice-Gen Launcher Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación para Lanzadores Vedice-Gen."
+    },
+    "abcogener2r_1": {
+        "name": "Plan de Rifle Tekorn-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Tekorn-Gen Rifle Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Rifles Tekorn-Gen."
+    },
+    "abcogener2r_2": {
+        "name": "Plan de Rifle Vedice-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Vedice-Gen Rifle Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación para Rifles Vedice-Gen."
+    },
+    "abcogenetammo_1": {
+        "name": "Plan de Fabricación de Herramienta para Municiones Armilo-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Armilo-Gen Ammo Crafting Tool Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Herramientas para la elaboración de Municiones Armilo-Gen."
+    },
+    "abcogenetammo_2": {
+        "name": "Plan de Fabricación de Herramienta para Municiones Rubbarn-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Rubbarn-Gen Ammo Crafting Tool Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Herramientas para la elaboración de Municiones Rubbarn-Gen ."
+    },
+    "abcogenetarmor_1": {
+        "name": "Plan de Fabricación de Herramienta para Armadura Armilo-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Armilo-Gen Armour Crafting Tool Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Herramientas para la elaboración de Armadura Armilo-Gen."
+    },
+    "abcogenetarmor_2": {
+        "name": "Plan de Fabricación de Herramienta para Armadura Rubbarn-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Rubbarn-Gen Armour Crafting Tool Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Herramientas para la elaboración de Armadura Rubbarn-Gen."
+    },
+    "abcogenetforage_1": {
+        "name": "Plan de Pico Greslin-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Greslin-Gen Pick Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Picos Greslin-Gen."
+    },
+    "abcogenetforage_2": {
+        "name": "Plan de Pico Egiros-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Egiros-Gen Pick Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Picos Egiros-Gen."
+    },
+    "abcogenetjewel_1": {
+        "name": "Plan de Herramienta para la Fabricación de Joyas Armilo-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Armilo-Gen Jewel Crafting Tool Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de herramientas para la elaboración de joyas Armilo-Gen."
+    },
+    "abcogenetjewel_2": {
+        "name": "Plan de Herramienta para la Fabricación de Joyas Rubbarn-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Rubbarn-Gen Jewel Crafting Tool Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de herramientas para la elaboración de joyas Rubbarn-Gen."
+    },
+    "abcogenetmwea_1": {
+        "name": "Plan de Herramienta para la Fabricación de Armas de Lucha Cuerpo a Cuerpo Armilo-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Armilo-Gen Melee Weapon Crafting Tool Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de herramientas para la elaboración de Armas de Lucha Cuerpo a Cuerpo Armilo-Gen."
+    },
+    "abcogenetmwea_2": {
+        "name": "Plan de Herramienta para la Fabricación de Armas de Lucha Cuerpo a Cuerpo Rubbarn-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Rubbarn-Gen Melee Weapon Crafting Tool Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de herramientas para la elaboración de Armas de Lucha Cuerpo a Cuerpo  Rubbarn-Gen."
+    },
+    "abcogenetrwea_1": {
+        "name": "Plan de Herramienta para la Fabricación de Armas de Alcance Armilo-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Armilo-Gen Range Weapon Crafting Tool Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de herramientas para la elaboración de Armas de Alcance Armilo-Gen."
+    },
+    "abcogenetrwea_2": {
+        "name": "Plan de Herramienta para la Fabricación de Armas de Alcance Rubbarn-Gen",
+        "ia": "un",
+        "da": "el",
+        "p": "Rubbarn-Gen Range Weapon Crafting Tool Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de herramientas para la elaboración de Armas de alcance Rubbarn-Gen."
+    },
     "abcokamem1bm_1": {
         "name": "Plan de Mazo Tekorn-Duk",
         "ia": "un",
@@ -8539,6 +8953,420 @@
         "pia": "",
         "pda": "los",
         "description": "Plan de fabricación de herramientas para la elaboración de Armas de Alcance Rubbarn-Jen."
+    },
+    "abcomarem1bm_1": {
+        "name": "Plan de Mazo Tekorn-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Tekorn-Mar Mace Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Mazos Tekorn-Mar."
+    },
+    "abcomarem1bm_2": {
+        "name": "Plan de Mazo Vedice-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Vedice-Mar Mace Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Mazos Vedice-Mar."
+    },
+    "abcomarem1bs_1": {
+        "name": "Plan de Bastón\/Palo Tekorn-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Tekorn-Mar Staff Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Bastones\/Palos Tekorn-Mar."
+    },
+    "abcomarem1bs_2": {
+        "name": "Plan de Bastón\/Palo Vedice-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Vedice-Mar Staff Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Bastones\/Varas Vedice-Mars."
+    },
+    "abcomarem1pd_1": {
+        "name": "Plan de Daga Tekorn-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Tekorn-Mar Dagger Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Dagas Tekorn-Mar."
+    },
+    "abcomarem1pd_2": {
+        "name": "Plan de Daga Vedice-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Vedice-Mar Dagger Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Dagas Vedice-Mar."
+    },
+    "abcomarem1ps_1": {
+        "name": "Plan de Lanza Tekorn-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Tekorn-Mar Spear Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Lanzas Tekorn-Mar."
+    },
+    "abcomarem1ps_2": {
+        "name": "Plan de Lanza Vedice-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Vedice-Mar Spear Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Lanzas Vedice-Mar."
+    },
+    "abcomarem1sa_1": {
+        "name": "Plan de Hacha Tekorn-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Tekorn-Mar Axe Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Hachas  Tekorn-Mar."
+    },
+    "abcomarem1sa_2": {
+        "name": "Plan de Hacha Vedice-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Vedice-Mar Axe Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Hachas Vedice-Mar."
+    },
+    "abcomarem1ss_1": {
+        "name": "Plan de Espada Tekorn-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Tekorn-Mar Sword Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Espadas de Dos Manos Tekorn-Mar."
+    },
+    "abcomarem1ss_2": {
+        "name": "Plan de Espada Vedice-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Vedice-Mar Sword Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Espadas Vedice-Mar."
+    },
+    "abcomarem2bm_1": {
+        "name": "Plan de Mazo de Dos Manos Tekorn-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Tekorn-Mar Two-handed Mace Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Mazos de Dos Manos Tekorn-Mar."
+    },
+    "abcomarem2bm_2": {
+        "name": "Plan de Mazo de Dos Manos Vedice-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Vedice-Mar Two-handed Mace Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Mazos de Dos Manos Vedice-Mar."
+    },
+    "abcomarem2ms_1": {
+        "name": "Plan de Amplificador Mágico Maga-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Maga-Mar Magic Amplifier Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Amplificadores Mágicos Maga-Mar."
+    },
+    "abcomarem2ms_2": {
+        "name": "Plan de Amplificador Mágico Cheng-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Cheng-Mar Magic Amplifier Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Amplificadores Mágicos Cheng-Mar."
+    },
+    "abcomarem2pp_1": {
+        "name": "Plan de Pico Tekorn-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Tekorn-Mar Pike Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Picos Tekorn-Mar."
+    },
+    "abcomarem2pp_2": {
+        "name": "Plan de Pico Vedice-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Vedice-Mar Pike Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de picos Vedice-Mar."
+    },
+    "abcomarem2sa_1": {
+        "name": "Plan de Hacha de Dos Manos Tekorn-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Tekorn-Mar Two-handed Axe Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Hachas de Dos Manos Tekorn-Mar."
+    },
+    "abcomarem2sa_2": {
+        "name": "Plan de Hacha de Dos Manos Vedice-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Vedice-Mar Two-handed Axe Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Hachas de Dos Manos Vedice-Mar."
+    },
+    "abcomarem2ss_1": {
+        "name": "Plan de Espada de Dos Manos Tekorn-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Tekorn-Mar Two-handed Sword Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "plan de fabricación de Espadas de Dos Manos Tekorn-Mar."
+    },
+    "abcomarem2ss_2": {
+        "name": "Plan de Espada de Dos Manos Vedice-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Vedice-Mar Two-handed Sword Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Espada de Dos Manos Vedice-Mar."
+    },
+    "abcomarer1b_1": {
+        "name": "Plan de Pistola de Arco Tekorn-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Tekorn-Mar Bowpistol Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Pistolas de Arco Tekorn-Mar."
+    },
+    "abcomarer1b_2": {
+        "name": "Plan de Pistola de Arco Vedice-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Vedice-Mar Bowpistol Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Pistolas de Arco Vedice-Mar."
+    },
+    "abcomarer1p_1": {
+        "name": "Plan de Pistola Tekorn-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Tekorn-Mar Pistol Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Pistolas Tekorn-Mar."
+    },
+    "abcomarer1p_2": {
+        "name": "Plan de Pistola Vedice-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Vedice-Mar Pistol Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de pistolas Vedice-Mar."
+    },
+    "abcomarer2a_1": {
+        "name": "Plan de Autolanzador Tekorn-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Tekorn-Mar Autolauncher Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Autolanzadores Tekorn-Mar."
+    },
+    "abcomarer2a_2": {
+        "name": "Plan de Autolanzador Vedice-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Vedice-Mar Autolauncher Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación para Autolanzadores Vedice-Mar."
+    },
+    "abcomarer2b_1": {
+        "name": "Plan de Rifle de Arco Tekorn-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Tekorn-Mar Bowrifle Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Rifles de Arco Tekorn-Mar."
+    },
+    "abcomarer2b_2": {
+        "name": "Plan de Rifle de Arco Vedice-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Vedice-Mar Bowrifle Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación para Rifles de Arco Vedice-Mar."
+    },
+    "abcomarer2l_1": {
+        "name": "Plan de Lanzador Tekorn-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Tekorn-Mar Launcher Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Lanzadores Tekorn-Mar."
+    },
+    "abcomarer2l_2": {
+        "name": "Plan de Lanzador Vedice-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Vedice-Mar Launcher Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación para Lanzadores Vedice-Mar."
+    },
+    "abcomarer2r_1": {
+        "name": "Plan de Rifle Tekorn-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Tekorn-Mar Rifle Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Rifles Tekorn-Mar."
+    },
+    "abcomarer2r_2": {
+        "name": "Plan de Rifle Vedice-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Vedice-Mar Rifle Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación para Rifles Vedice-Mar."
+    },
+    "abcomaretammo_1": {
+        "name": "Plan de Fabricación de Herramienta para Municiones Armilo-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Armilo-Mar Ammo Crafting Tool Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Herramientas para la elaboración de Municiones Armilo-Mar."
+    },
+    "abcomaretammo_2": {
+        "name": "Plan de Fabricación de Herramienta para Municiones Rubbarn-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Rubbarn-Mar Ammo Crafting Tool Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Herramientas para la elaboración de Municiones Rubbarn-Mar ."
+    },
+    "abcomaretarmor_1": {
+        "name": "Plan de Fabricación de Herramienta para Armadura Armilo-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Armilo-Mar Armour Crafting Tool Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Herramientas para la elaboración de Armadura Armilo-Mar."
+    },
+    "abcomaretarmor_2": {
+        "name": "Plan de Fabricación de Herramienta para Armadura Rubbarn-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Rubbarn-Mar Armour Crafting Tool Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Herramientas para la elaboración de Armadura Rubbarn-Mar."
+    },
+    "abcomaretforage_1": {
+        "name": "Plan de Pico Greslin-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Greslin-Mar Pick Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Picos Greslin-Mar."
+    },
+    "abcomaretforage_2": {
+        "name": "Plan de Pico Egiros-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Egiros-Mar Pick Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de Picos Egiros-Mar."
+    },
+    "abcomaretjewel_1": {
+        "name": "Plan de Herramienta para la Fabricación de Joyas Armilo-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Armilo-Mar Jewel Crafting Tool Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de herramientas para la elaboración de joyas Armilo-Mar."
+    },
+    "abcomaretjewel_2": {
+        "name": "Plan de Herramienta para la Fabricación de Joyas Rubbarn-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Rubbarn-Mar Jewel Crafting Tool Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de herramientas para la elaboración de joyas Rubbarn-Mar."
+    },
+    "abcomaretmwea_1": {
+        "name": "Plan de Herramienta para la Fabricación de Armas de Lucha Cuerpo a Cuerpo Armilo-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Armilo-Mar Melee Weapon Crafting Tool Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de herramientas para la elaboración de Armas de Lucha Cuerpo a Cuerpo Armilo-Mar."
+    },
+    "abcomaretmwea_2": {
+        "name": "Plan de Herramienta para la Fabricación de Armas de Lucha Cuerpo a Cuerpo Rubbarn-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Rubbarn-Mar Melee Weapon Crafting Tool Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de herramientas para la elaboración de Armas de Lucha Cuerpo a Cuerpo  Rubbarn-Mar."
+    },
+    "abcomaretrwea_1": {
+        "name": "Plan de Herramienta para la Fabricación de Armas de Alcance Armilo-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Armilo-Mar Range Weapon Crafting Tool Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de herramientas para la elaboración de Armas de Alcance Armilo-Mar."
+    },
+    "abcomaretrwea_2": {
+        "name": "Plan de Herramienta para la Fabricación de Armas de Alcance Rubbarn-Mar",
+        "ia": "un",
+        "da": "el",
+        "p": "Rubbarn-Mar Range Weapon Crafting Tool Plans",
+        "pia": "",
+        "pda": "los",
+        "description": "Plan de fabricación de herramientas para la elaboración de Armas de alcance Rubbarn-Mar."
     },
     "abcraea01": {
         "name": "Plan de Botas Negras de Refugiado",

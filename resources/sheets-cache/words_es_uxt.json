@@ -2315,6 +2315,9 @@
     "misc": {
         "name": "Misceláneo"
     },
+    "mission_real_tooltip": {
+        "name": "{FFFC}Este es el @{6F6F}Curso@{FFFC} que usted sigue actualmente.\nClic para más @{6F6F}información@{FFFC}."
+    },
     "mpcatexotic": {
         "name": "Exótico"
     },
@@ -10317,7 +10320,7 @@
         "name": "Miembros del Grupo"
     },
     "uiguild": {
-        "name": "GREMIO"
+        "name": "Gremio"
     },
     "uiguildbearer": {
         "name": "Mensajero"
@@ -10959,7 +10962,7 @@
         "name": "Holeth"
     },
     "uihome": {
-        "name": "INICIO"
+        "name": "Inicio"
     },
     "uihorizontal": {
         "name": "Horizontal"
@@ -14655,7 +14658,7 @@
         "name": "Total"
     },
     "uioutposttribe": {
-        "name": "El Puesto de Avanzada es propiedad de una Tribu Merodeadora."
+        "name": "El puesto de avanzada está en manos de una tribu hostil."
     },
     "uioutposttsquad": {
         "name": "ESCUADRONES PENDIENTES"
@@ -17723,6 +17726,48 @@
     "uitradewith": {
         "name": "¿INTERCAMBIAR CON?"
     },
+    "uitranslationdisable": {
+        "name": "Desactivar las traducciones de algunos canales"
+    },
+    "uitranslationdisablearound": {
+        "name": "Alrededor, gritos y emotes"
+    },
+    "uitranslationdisableguild": {
+        "name": "Gremio"
+    },
+    "uitranslationdisableregion": {
+        "name": "Región"
+    },
+    "uitranslationdisableuniverse": {
+        "name": "Universo"
+    },
+    "uitranslationenglish": {
+        "name": "Inglés"
+    },
+    "uitranslationfrench": {
+        "name": "Francés"
+    },
+    "uitranslationgerman": {
+        "name": "Alemán"
+    },
+    "uitranslationheader": {
+        "name": "Traducciones"
+    },
+    "uitranslationhide": {
+        "name": "Ocultar la bandera"
+    },
+    "uitranslationinverse": {
+        "name": "Invertir la visualización"
+    },
+    "uitranslationlanguages": {
+        "name": "Idioma"
+    },
+    "uitranslationrussian": {
+        "name": "Ruso"
+    },
+    "uitranslationspanish": {
+        "name": "Español"
+    },
     "uitrculture": {
         "name": "CULTURA-TRYKER"
     },
@@ -19423,6 +19468,24 @@
     },
     "uitttoolcrafttype": {
         "name": "@{6F6F}Tipo de Herramienta@{FFFF}:\nAntes fabricar, debes equiparte la herramienta de fabricación apropiada."
+    },
+    "uitttranslationdisablearound": {
+        "name": ""
+    },
+    "uitttranslationdisableguild": {
+        "name": ""
+    },
+    "uitttranslationdisableregion": {
+        "name": ""
+    },
+    "uitttranslationdisableuniverse": {
+        "name": ""
+    },
+    "uitttranslationhide": {
+        "name": "Oculta la bandera del idioma para los mensajes originados en este idioma"
+    },
+    "uitttranslationinverse": {
+        "name": "Invierte la visualización del original"
     },
     "uittusercolor": {
         "name": "Color usado para visualizar tu personaje"

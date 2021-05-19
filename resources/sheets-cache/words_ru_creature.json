@@ -14724,10 +14724,10 @@
         "screagen": "Будая"
     },
     "chgpf7": {
-        "name": "Люмкуу",
+        "name": "Лампкуу",
         "p": "",
-        "creagen": "Люмкуу",
-        "screagen": "Люмкуу"
+        "creagen": "Лампкуу",
+        "screagen": "Лампкуу"
     },
     "chgpf8": {
         "name": "Ломпер-терминатор",
@@ -17444,8 +17444,8 @@
     "chlpe7": {
         "name": "Йелкуу",
         "p": "",
-        "creagen": "Йелкауу",
-        "screagen": "Йелкауу"
+        "creagen": "Йелкууа",
+        "screagen": "Йелкууа"
     },
     "chlpf1": {
         "name": "Разъяренный йелк",
@@ -23462,8 +23462,8 @@
     "ckdjd7": {
         "name": "Кинчеркиа",
         "p": "",
-        "creagen": "Кинчеракию",
-        "screagen": "Кинчеркию"
+        "creagen": "Кинчеркиаа",
+        "screagen": "Кинчеркиаа"
     },
     "ckdjd8": {
         "name": "Кинчер-разрушитель",
@@ -25454,8 +25454,8 @@
     "ckfje7": {
         "name": "Кирокиа",
         "p": "",
-        "creagen": "Кирокию",
-        "screagen": "Кирокию"
+        "creagen": "Кирокиаа",
+        "screagen": "Кирокиаа"
     },
     "ckfjf1": {
         "name": "Жуткая кироста",
@@ -32825,6 +32825,12 @@
         "creagen": "",
         "screagen": "Огромный атиственский подарокОгромных атиственских подаркаОгромных атиственских подарков"
     },
+    "egg": {
+        "name": "",
+        "p": "",
+        "creagen": "",
+        "screagen": ""
+    },
     "gnoof_mount_00": {
         "name": "",
         "p": "",
@@ -32938,6 +32944,36 @@
         "p": "Сосуды мудрости",
         "creagen": "Сосудов мудрости",
         "screagen": "Сосуды мудрости"
+    },
+    "object_easter_egg": {
+        "name": "",
+        "p": "",
+        "creagen": "",
+        "screagen": ""
+    },
+    "object_easter_egg_big": {
+        "name": "",
+        "p": "",
+        "creagen": "",
+        "screagen": ""
+    },
+    "object_easter_egg_hug": {
+        "name": "",
+        "p": "",
+        "creagen": "",
+        "screagen": ""
+    },
+    "object_easter_egg_medium": {
+        "name": "",
+        "p": "",
+        "creagen": "",
+        "screagen": ""
+    },
+    "object_easter_egg_small": {
+        "name": "",
+        "p": "",
+        "creagen": "",
+        "screagen": ""
     },
     "object_pr_s2_toopetz_a": {
         "name": "Toopetz Gret",

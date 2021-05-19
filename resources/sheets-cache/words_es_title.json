@@ -28,7 +28,7 @@
         "women_name": "Joyera Avanzada"
     },
     "advanced_jungle_forager": {
-        "name": "Buscador Avanzado de las Selva",
+        "name": "Buscador Avanzado de la Selva",
         "women_name": "Buscadora Avanzada de la Selva"
     },
     "advanced_lacustre_forager": {
@@ -68,8 +68,8 @@
         "women_name": "Herrera Avanzado de Armas de Alcance"
     },
     "advanced_shield_smith": {
-        "name": "Herrero de Escudos Avanzado",
-        "women_name": "Herrera de Escudos Avanzada"
+        "name": "Herrero Avanzado de Escudos",
+        "women_name": "Herrera Avanzada de Escudos"
     },
     "affliction_bringer": {
         "name": "Portador de Aflicción",
@@ -97,7 +97,7 @@
     },
     "attack_magician": {
         "name": "Lanzador de Ataque",
-        "women_name": ""
+        "women_name": "Lanzadora de Ataque"
     },
     "attackcaster": {
         "name": "Lanzador de Ataque",
@@ -129,11 +129,11 @@
     },
     "bladebearer": {
         "name": "Portador de la Cuchilla",
-        "women_name": ""
+        "women_name": "Portadora de la Cuchilla"
     },
     "bludgeoner": {
-        "name": "Aporreador\/Garroteador",
-        "women_name": "Aporreadora\/Garroteadora"
+        "name": "Apaleador",
+        "women_name": "Apaleadora"
     },
     "bowman": {
         "name": "Arquero",
@@ -319,6 +319,10 @@
         "name": "(Actriz)",
         "women_name": ""
     },
+    "fct_allegory_maker": {
+        "name": "",
+        "women_name": ""
+    },
     "fct_amayor": {
         "name": "(Asistente del Alcalde)",
         "women_name": ""
@@ -331,8 +335,16 @@
         "name": "(Comerciante de Municiones)",
         "women_name": ""
     },
+    "fct_animals_and_co": {
+        "name": "",
+        "women_name": ""
+    },
     "fct_arionasiszig": {
         "name": "Arionasis's Zig",
+        "women_name": ""
+    },
+    "fct_artisan_aklareen": {
+        "name": "(Artesano del Aklareen)",
         "women_name": ""
     },
     "fct_artisan_arbres_vrilles": {
@@ -628,8 +640,8 @@
         "women_name": ""
     },
     "fct_h_welcomer": {
-        "name": "(Recibidor del Gremio del Guardabosque)",
-        "women_name": ""
+        "name": "(Recibidor del Gremio de Rangers)",
+        "women_name": "(Recibidora del Gremio de Rangers)"
     },
     "fct_harmor_merchant": {
         "name": "(Comerciante de Armaduras Pesadas)",
@@ -1224,76 +1236,76 @@
         "women_name": ""
     },
     "fct_ranger_assistant": {
-        "name": "Instructor ayudante",
-        "women_name": "Instructora ayudante"
+        "name": "Instructor Asistente",
+        "women_name": "Instructora Asistente"
     },
     "fct_ranger_coord": {
-        "name": "Coordinador de Alcance",
-        "women_name": ""
+        "name": "Coordinador Ranger",
+        "women_name": "Coordinadora Ranger"
     },
     "fct_ranger_explorer": {
-        "name": "Explorador de Alcance",
-        "women_name": ""
+        "name": "Explorador Ranger",
+        "women_name": "Exploradora Ranger"
     },
     "fct_ranger_great_mage": {
-        "name": "Archimago de Guardabosque",
-        "women_name": ""
+        "name": "Archimago Ranger",
+        "women_name": "Archimaga Ranger"
     },
     "fct_ranger_guard": {
-        "name": "Guardia de Guardabosque",
-        "women_name": ""
+        "name": "Guardia Ranger",
+        "women_name": "Guardiana Ranger"
     },
     "fct_ranger_guard_captain": {
-        "name": "Capitán de la Guarida de Guardabosques",
-        "women_name": ""
+        "name": "Capitán de la Guardia Ranger",
+        "women_name": "Capitana de la Guardia Ranger"
     },
     "fct_ranger_guide": {
-        "name": "Ranger Guide",
-        "women_name": ""
+        "name": "Guía Ranger",
+        "women_name": "Guía Ranger"
     },
     "fct_ranger_instructor": {
-        "name": "Ranger instructor",
-        "women_name": "Ranger instructora"
+        "name": "Instructor Ranger",
+        "women_name": "Instructora Ranger"
     },
     "fct_ranger_intendant": {
-        "name": "Intentende de Guardabosque",
-        "women_name": ""
+        "name": "Intendente Ranger",
+        "women_name": "Intendente Ranger"
     },
     "fct_ranger_kitiniere_welcomer": {
         "name": "Observador de la Madriguera Kitin",
         "women_name": ""
     },
     "fct_ranger_leader": {
-        "name": "Guardabosque Comandante",
-        "women_name": ""
+        "name": "Comandante Ranger",
+        "women_name": "Comandante Ranger"
     },
     "fct_ranger_quartermaster": {
         "name": "Ranger Quartermaster",
         "women_name": ""
     },
     "fct_ranger_veteran": {
-        "name": "Ranger veterano",
-        "women_name": "Ranger veterana"
+        "name": "Ranger Veterano",
+        "women_name": "Ranger Veterana"
     },
     "fct_ranger_worker": {
-        "name": "Trabajador de los Guardabosques",
-        "women_name": ""
+        "name": "Trabajador Ranger",
+        "women_name": "Trabajadora Ranger"
     },
     "fct_rangers_artisan": {
-        "name": "Guardabosque Artesano",
-        "women_name": ""
+        "name": "Ranger Artesano",
+        "women_name": "Ranger Artesana"
     },
     "fct_rangers_fighter": {
         "name": "Luchador de Alcance",
         "women_name": ""
     },
     "fct_rangers_master": {
-        "name": "Guardabosque Veterano",
-        "women_name": ""
+        "name": "Ranger Veterano",
+        "women_name": "Ranger Veterana"
     },
     "fct_rangers_scout": {
-        "name": "Guardabosque Explorador",
-        "women_name": ""
+        "name": "Explorador Ranger",
+        "women_name": "Exploradora Ranger"
     },
     "fct_rangeweapon_merchant": {
         "name": "(Comerciante de Armas de Alcance)",
@@ -1336,8 +1348,8 @@
         "women_name": ""
     },
     "fct_sage": {
-        "name": "(Savio)",
-        "women_name": ""
+        "name": "(Sabio)",
+        "women_name": "(Sabia)"
     },
     "fct_scout": {
         "name": "(Explorador)",
@@ -1808,7 +1820,7 @@
         "women_name": ""
     },
     "gn_aridmatis_karavan_ambassador_m1": {
-        "name": "Embajador Karavan de ljos Matis Áridos",
+        "name": "Embajador Karavan de los Matis Áridos",
         "women_name": ""
     },
     "gn_assistant_escort_debug": {
@@ -2332,8 +2344,8 @@
         "women_name": "Filibusteros de la Fuente"
     },
     "gn_bandit_thefount_4": {
-        "name": "",
-        "women_name": "Guardaparques de la Libertad"
+        "name": "Rangers de la Libertad",
+        "women_name": ""
     },
     "gn_bandit_thesavagedunes_1": {
         "name": "Malvado de los Bosques",
@@ -2668,8 +2680,8 @@
         "women_name": ""
     },
     "gn_chlorogoo_ranger": {
-        "name": "chlorogoo_guardabosques",
-        "women_name": ""
+        "name": "chlorogoo_ranger",
+        "women_name": "chlorogoo_ranger"
     },
     "gn_chlorogoos_karavan_agent": {
         "name": "Agente Karavan de los Chlorogoos",
@@ -4055,6 +4067,10 @@
         "name": "Altar Kami",
         "women_name": ""
     },
+    "gn_kami_altar_": {
+        "name": "Altar Kami del Bosque de la Confusión",
+        "women_name": ""
+    },
     "gn_kami_altar_almati": {
         "name": "Altar Kami de Madera de Almati",
         "women_name": ""
@@ -4105,10 +4121,6 @@
     },
     "gn_kami_altar_gate_of_obscurity": {
         "name": "Altar Kami de la Puerta de la Oscuridad",
-        "women_name": ""
-    },
-    "gn_kami_altar_groveofconfusion": {
-        "name": "Altar Kami del Bosque de la Confusión",
         "women_name": ""
     },
     "gn_kami_altar_groveofumbra": {
@@ -4180,7 +4192,7 @@
         "women_name": ""
     },
     "gn_kami_altar_silan_ranger_camp": {
-        "name": "Altar de los Kamis en el Campo Ranger",
+        "name": "Altar Kami del Campo Ranger",
         "women_name": ""
     },
     "gn_kami_altar_silan_shining_lake": {
@@ -4575,6 +4587,10 @@
         "name": "Altar Karavan",
         "women_name": ""
     },
+    "gn_karavan_altar_": {
+        "name": "Altar Karavan del Bosque de la Confusión",
+        "women_name": ""
+    },
     "gn_karavan_altar_almati": {
         "name": "Altar Karavan de Madera de Almati",
         "women_name": ""
@@ -4613,10 +4629,6 @@
     },
     "gn_karavan_altar_gate_of_obscurity": {
         "name": "Altar Karavan de la Puerta de la Oscuridad",
-        "women_name": ""
-    },
-    "gn_karavan_altar_groveofconfusion": {
-        "name": "Altar Karavan del Bosque de la Confusión",
         "women_name": ""
     },
     "gn_karavan_altar_groveofumbra": {
@@ -4716,7 +4728,7 @@
         "women_name": ""
     },
     "gn_karavan_altar_silan_ranger_camp": {
-        "name": "Altar de la Karavan en el Campo Ranger",
+        "name": "Altar Karavan en el Campo Ranger",
         "women_name": ""
     },
     "gn_karavan_altar_silan_shattered_ruins": {
@@ -5297,15 +5309,15 @@
     },
     "gn_matis_citizen_event": {
         "name": "Ciudadano Matis",
-        "women_name": ""
+        "women_name": "Ciudadana Matis"
     },
     "gn_matis_craftsman_master_event": {
         "name": "Maestro Artesano Matis",
         "women_name": ""
     },
     "gn_matis_defender": {
-        "name": "Defensor Kamis",
-        "women_name": ""
+        "name": "Defensor Matis",
+        "women_name": "Defensora Matis"
     },
     "gn_matis_diplomat_event": {
         "name": "Diplomático Matis",
@@ -5320,20 +5332,20 @@
         "women_name": ""
     },
     "gn_matis_kami_master": {
-        "name": "Maestro Kama del Circulo Kama",
-        "women_name": ""
+        "name": "Maestro Kami del Círculo Kami",
+        "women_name": "Maestra Kami del Círculo Kami"
     },
     "gn_matis_kamist_combatant_event": {
-        "name": "Luchador Kamist Matis",
-        "women_name": ""
+        "name": "Luchador Kamista Matis",
+        "women_name": "Luchadora Kamista Matis"
     },
     "gn_matis_kamist_crafter_event": {
-        "name": "Artesano Kamist Matis",
-        "women_name": ""
+        "name": "Artesano Kamista Matis",
+        "women_name": "Artesana Kamista Matis"
     },
     "gn_matis_kamist_gatherer_event": {
-        "name": "Recolector Kamist Matis",
-        "women_name": ""
+        "name": "Recolector Kamista Matis",
+        "women_name": "Recolectora Kamista Matis"
     },
     "gn_matis_karavan_aumonier": {
         "name": "Capellán Karavan del Templo de Yrkanis",
@@ -5384,11 +5396,11 @@
         "women_name": ""
     },
     "gn_matis_rpjob_florist_convert": {
-        "name": "Taller de Flores",
+        "name": "Taller del Florista",
         "women_name": ""
     },
     "gn_matis_rpjob_paper_convert": {
-        "name": "Taller de rollos de papel",
+        "name": "Taller del Escribano",
         "women_name": ""
     },
     "gn_matis_scout_event": {
@@ -5396,11 +5408,11 @@
         "women_name": ""
     },
     "gn_matis_supply_master_event": {
-        "name": "Maestro de los Recursos Matis",
+        "name": "Maestro Matis de los Recursos",
         "women_name": ""
     },
     "gn_matis_treasury_officer_event": {
-        "name": "Maestro del Tesoro Matis",
+        "name": "Oficial Matis del Tesoro",
         "women_name": ""
     },
     "gn_matis_voluteer": {
@@ -5408,7 +5420,7 @@
         "women_name": ""
     },
     "gn_matis_war_master_event": {
-        "name": "Maestro de la Guerra Matis",
+        "name": "Maestro Matis de la Guerra",
         "women_name": ""
     },
     "gn_matisian_border_guards_guard": {
@@ -5748,12 +5760,12 @@
         "women_name": ""
     },
     "gn_ranger_elite_guard": {
-        "name": "Guardabosques Guardia de la Elite",
-        "women_name": ""
+        "name": "Guardia Élite Ranger",
+        "women_name": "Guardia Élite Ranger"
     },
     "gn_ranger_guard": {
-        "name": "Guardabosque Guardián",
-        "women_name": ""
+        "name": "Guardián Ranger",
+        "women_name": "Guardiana Ranger"
     },
     "gn_recoverers_guard": {
         "name": "Guardia Maestro",
@@ -5972,8 +5984,8 @@
         "women_name": ""
     },
     "gn_strangers_welcomer_t1": {
-        "name": "extranos_recibidor_t1",
-        "women_name": ""
+        "name": "Recibidor de extraños",
+        "women_name": "Recibidora de extraños"
     },
     "gn_target": {
         "name": "frasco",
@@ -5992,8 +6004,8 @@
         "women_name": ""
     },
     "gn_tcm_chlorogoo_camp_ranger": {
-        "name": "Épieur",
-        "women_name": ""
+        "name": "Vigilante",
+        "women_name": "Vigilante"
     },
     "gn_tcm_chlorogoo_caster": {
         "name": "Alchimiste",
@@ -6024,8 +6036,8 @@
         "women_name": ""
     },
     "gn_tcm_chlorogoo_ranger": {
-        "name": "Fureteur",
-        "women_name": ""
+        "name": "Explorador",
+        "women_name": "Exploradora"
     },
     "gn_tcm_chlorogoo_shaman": {
         "name": "Shaman",

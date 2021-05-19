@@ -4014,5 +4014,37 @@
         "givable": 0,
         "mountable": 0,
         "display_in_radar": 1
+    },
+    "basic_tryker_female_heal": {
+        "sheetid": "basic_tryker_female_heal",
+        "gender": 1,
+        "race": "2",
+        "fame": "none",
+        "speed": 6,
+        "region_force": 0,
+        "force_level": 0,
+        "level": 1,
+        "selectable": 1,
+        "talkable": 1,
+        "attackable": 1,
+        "givable": 0,
+        "mountable": 0,
+        "display_in_radar": 1
+    },
+    "basic_tryker_female_lg": {
+        "sheetid": "basic_tryker_female_lg",
+        "gender": 1,
+        "race": "2",
+        "fame": "none",
+        "speed": 6,
+        "region_force": 0,
+        "force_level": 0,
+        "level": 1,
+        "selectable": 1,
+        "talkable": 1,
+        "attackable": 1,
+        "givable": 0,
+        "mountable": 0,
+        "display_in_radar": 1
     }
 }

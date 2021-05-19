@@ -319,6 +319,10 @@
         "name": "(Schauspielerin)",
         "women_name": "(Schauspielerin)"
     },
+    "fct_allegory_maker": {
+        "name": "Graveur für Allegorien",
+        "women_name": "Graveurin für Allegorien"
+    },
     "fct_amayor": {
         "name": "(Bürgermeister-Assistent)",
         "women_name": "(Bürgermeister-Assistentin)"
@@ -331,9 +335,17 @@
         "name": "(Händler für Munition)",
         "women_name": "(Händlerin für Munition)"
     },
+    "fct_animals_and_co": {
+        "name": "Vertreteter von \"Tiere & Co\"",
+        "women_name": "Vertreterin von \"Tiere & Co\""
+    },
     "fct_arionasiszig": {
         "name": "Arionasis's Zig",
         "women_name": ""
+    },
+    "fct_artisan_aklareen": {
+        "name": "(Handwerker das Aklareen)",
+        "women_name": "(Handwerkerin das Aklareen)"
     },
     "fct_artisan_arbres_vrilles": {
         "name": "(Handwerker der Baumschrauben)",
@@ -4055,6 +4067,10 @@
         "name": "Kamialtar",
         "women_name": "Kamialtar"
     },
+    "gn_kami_altar_": {
+        "name": "Kamialtar des Hains der Verwirrung",
+        "women_name": "Kamialtar des Hains der Verwirrung"
+    },
     "gn_kami_altar_almati": {
         "name": "Kamialtar des Almati-Waldes",
         "women_name": "Kamialtar des Almati-Waldes"
@@ -4106,10 +4122,6 @@
     "gn_kami_altar_gate_of_obscurity": {
         "name": "Kamialtar des Tors der Dunkelheit",
         "women_name": "Kamialtar des Tors der Dunkelheit"
-    },
-    "gn_kami_altar_groveofconfusion": {
-        "name": "Kamialtar des Hains der Verwirrung",
-        "women_name": "Kamialtar des Hains der Verwirrung"
     },
     "gn_kami_altar_groveofumbra": {
         "name": "Kamialtar des Wäldchens von Umbra",
@@ -4575,6 +4587,10 @@
         "name": "Karavanaltar",
         "women_name": "Karavanaltar"
     },
+    "gn_karavan_altar_": {
+        "name": "Karavanaltar des Hains der Verwirrung",
+        "women_name": "Karavanaltar des Hains der Verwirrung"
+    },
     "gn_karavan_altar_almati": {
         "name": "Karavanaltar des Almati-Waldes",
         "women_name": "Karavanaltar des Almati-Waldes"
@@ -4614,10 +4630,6 @@
     "gn_karavan_altar_gate_of_obscurity": {
         "name": "Karavanaltar des Tors der Dunkelheit",
         "women_name": "Karavanaltar des Tors der Dunkelheit"
-    },
-    "gn_karavan_altar_groveofconfusion": {
-        "name": "Karavanaltar des Hains der Verwirrung",
-        "women_name": "Karavanaltar des Hains der Verwirrung"
     },
     "gn_karavan_altar_groveofumbra": {
         "name": "Karavanaltar des Wäldchens von Umbra",

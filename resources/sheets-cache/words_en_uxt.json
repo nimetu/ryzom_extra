@@ -2315,6 +2315,9 @@
     "misc": {
         "name": "Misc"
     },
+    "mission_real_tooltip": {
+        "name": "{FFFC}This is the @{6F6F}Course@{FFFC} you are currently following.\nClick for more @{6F6F}information@{FFFC}."
+    },
     "mpcatexotic": {
         "name": "Exotic"
     },
@@ -10317,7 +10320,7 @@
         "name": "Team Members"
     },
     "uiguild": {
-        "name": "GUILD"
+        "name": "Guild"
     },
     "uiguildbearer": {
         "name": "Bearer"
@@ -10959,7 +10962,7 @@
         "name": "Holeth"
     },
     "uihome": {
-        "name": "HOME"
+        "name": "Home"
     },
     "uihorizontal": {
         "name": "Horizontal"
@@ -14655,7 +14658,7 @@
         "name": "Total"
     },
     "uioutposttribe": {
-        "name": "The Outpost is owned by a Marauding Tribe."
+        "name": "The Outpost is in the hands of a hostile tribe."
     },
     "uioutposttsquad": {
         "name": "PENDING SQUADS"
@@ -17723,6 +17726,48 @@
     "uitradewith": {
         "name": "TRADE WITH?"
     },
+    "uitranslationdisable": {
+        "name": "Disable translations for some channels"
+    },
+    "uitranslationdisablearound": {
+        "name": "Around, shout and emotes"
+    },
+    "uitranslationdisableguild": {
+        "name": "Guild"
+    },
+    "uitranslationdisableregion": {
+        "name": "Region"
+    },
+    "uitranslationdisableuniverse": {
+        "name": "Universe"
+    },
+    "uitranslationenglish": {
+        "name": "English"
+    },
+    "uitranslationfrench": {
+        "name": "French"
+    },
+    "uitranslationgerman": {
+        "name": "German"
+    },
+    "uitranslationheader": {
+        "name": "Translations"
+    },
+    "uitranslationhide": {
+        "name": "Hide flag"
+    },
+    "uitranslationinverse": {
+        "name": "Invert display"
+    },
+    "uitranslationlanguages": {
+        "name": "Language"
+    },
+    "uitranslationrussian": {
+        "name": "Russian"
+    },
+    "uitranslationspanish": {
+        "name": "Spanish"
+    },
     "uitrculture": {
         "name": "TRYKER-CULTURE"
     },
@@ -19423,6 +19468,24 @@
     },
     "uitttoolcrafttype": {
         "name": "@{6F6F}Tool Type@{FFFF}:\nBefore crafting, you must equip the appropriate crafting tool."
+    },
+    "uitttranslationdisablearound": {
+        "name": ""
+    },
+    "uitttranslationdisableguild": {
+        "name": ""
+    },
+    "uitttranslationdisableregion": {
+        "name": ""
+    },
+    "uitttranslationdisableuniverse": {
+        "name": ""
+    },
+    "uitttranslationhide": {
+        "name": "Hide flag\""
+    },
+    "uitttranslationinverse": {
+        "name": "Inverts the display of the original message and the translation"
     },
     "uittusercolor": {
         "name": "Color used to display your character"

@@ -7712,6 +7712,420 @@
         "pda": "les",
         "description": "REMARQUE : cette action ne peut pas être utilisée directement, vous devez faire une composition. L'objet créé étend la limite de Concentration du joueur ciblé."
     },
+    "abcogenem1bm_1": {
+        "name": "Plan de Masse Tekorn-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Masse Tekorn-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Masse Tekorn-Gen"
+    },
+    "abcogenem1bm_2": {
+        "name": "Plan de Masse Vedice-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Masse Vedice-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Masse Vedice-Gen"
+    },
+    "abcogenem1bs_1": {
+        "name": "Plan de Bâton Tekorn-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Bâton Tekorn-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Bâton Tekorn-Gen"
+    },
+    "abcogenem1bs_2": {
+        "name": "Plan de Bâton Vedice-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Bâton Vedice-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Bâton Vedice-Gen"
+    },
+    "abcogenem1pd_1": {
+        "name": "Plan de Dague Tekorn-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Dague Tekorn-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Dague Tekorn-Gen"
+    },
+    "abcogenem1pd_2": {
+        "name": "Plan de Dague Vedice-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Dague Vedice-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Dague Vedice-Gen"
+    },
+    "abcogenem1ps_1": {
+        "name": "Plan de Lance Tekorn-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Lance Tekorn-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Lance Tekorn-Gen"
+    },
+    "abcogenem1ps_2": {
+        "name": "Plan de Lance Vedice-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Lance Vedice-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Lance Vedice-Gen"
+    },
+    "abcogenem1sa_1": {
+        "name": "Plan de Hache Tekorn-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Hache Tekorn-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Hache Tekorn-Gen"
+    },
+    "abcogenem1sa_2": {
+        "name": "Plan de Hache Vedice-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Hache Vedice-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Hache Vedice-Gen"
+    },
+    "abcogenem1ss_1": {
+        "name": "Plan d'Epée Tekorn-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans d'Epée Tekorn-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Epée Tekorn-Gen"
+    },
+    "abcogenem1ss_2": {
+        "name": "Plan d'Epée Vedice-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans d'Epés Vedice-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Epée Vedice-Gen"
+    },
+    "abcogenem2bm_1": {
+        "name": "Plan de Masse à 2M Tekorn-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Masse à 2M Tekorn-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Masse à 2M Tekorn-Gen"
+    },
+    "abcogenem2bm_2": {
+        "name": "Plan de Masse à 2M Vedice-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Masse à 2M Vedice-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Masse à 2M Vedice-Gen"
+    },
+    "abcogenem2ms_1": {
+        "name": "Plan d'Amplificateur Magique Maga-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans d'Amplificateur Magique Maga-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Amplificateur Magique Maga-Gen"
+    },
+    "abcogenem2ms_2": {
+        "name": "Plan d'Amplificateur Magique Cheng-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans d'Amplificateur Magique Cheng-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Amplificateur Magique Cheng-Gen"
+    },
+    "abcogenem2pp_1": {
+        "name": "Plan de Pique Tekorn-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Pique Tekorn-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Pique Tekorn-Gen"
+    },
+    "abcogenem2pp_2": {
+        "name": "Plan de Pique Vedice-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Pique Vedice-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Pique Vedice-Gen"
+    },
+    "abcogenem2sa_1": {
+        "name": "Plan de Hache à 2M Tekorn-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Hache à 2M Tekorn-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Hache à 2M Tekorn-Gen"
+    },
+    "abcogenem2sa_2": {
+        "name": "Plan de Hache à 2M Vedice-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Hache à 2M Vedice-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Hache à 2M Vedice-Gen"
+    },
+    "abcogenem2ss_1": {
+        "name": "Plan d'Epée à 2M Tekorn-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans d'Epée à 2M Tekorn-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Epée à 2M Tekorn-Gen"
+    },
+    "abcogenem2ss_2": {
+        "name": "Plan d'Epée à 2M Vedice-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans d'Epée à 2M Vedice-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Epée à 2M Vedice-Gen"
+    },
+    "abcogener1b_1": {
+        "name": "Plan de Pistolet-Arbalète Tekorn-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Pistolet-Arbalète Tekorn-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Pistolet-Arbalète Tekorn-Gen"
+    },
+    "abcogener1b_2": {
+        "name": "Plan de Pistolet-Arbalète Vedice-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Pistolet-Arbalète Vedice-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Pistolet-Arbalète Vedice-Gen"
+    },
+    "abcogener1p_1": {
+        "name": "Plan de Pistolet Tekorn-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Pistolet Tekorn-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Pistolet Tekorn-Gen"
+    },
+    "abcogener1p_2": {
+        "name": "Plan de Pistolet Vedice-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Pistolet Vedice-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Pistolet Vedice-Gen"
+    },
+    "abcogener2a_1": {
+        "name": "Plan de Mitrailleuse Tekorn-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Mitrailleuse Tekorn-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Mitrailleuse Tekorn-Gen"
+    },
+    "abcogener2a_2": {
+        "name": "Plan de Mitrailleuse Vedice-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Mitrailleuse Vedice-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Mitrailleuse Vedice-Gen"
+    },
+    "abcogener2b_1": {
+        "name": "Plan de Fusil-Arbalète Tekorn-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Fusil-Arbalète Tekorn-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Fusil-Arbalète Tekorn-Gen"
+    },
+    "abcogener2b_2": {
+        "name": "Plan de Fusil-Arbalète Vedice-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Fusil-Arbalète Vedice-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Fusil-Arbalète Vedice-Gen"
+    },
+    "abcogener2l_1": {
+        "name": "Plan de Lance-Grenades Tekorn-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Lance-Grenades Tekorn-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Lance-Grenades Tekorn-Gen"
+    },
+    "abcogener2l_2": {
+        "name": "Plan de Lance-Grenades Vedice-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Lance-Grenades Vedice-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Lance-Grenades Vedice-Gen"
+    },
+    "abcogener2r_1": {
+        "name": "Plan de Fusil Tekorn-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Fusil Tekorn-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Fusil Tekorn-Gen"
+    },
+    "abcogener2r_2": {
+        "name": "Plan de Fusil Vedice-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Fusil Vedice-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Fusil Vedice-Gen"
+    },
+    "abcogenetammo_1": {
+        "name": "Plan d'Outil de création de munitions Armilo-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans d'Outil de création de munitions Armilo-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Outil de création de munitions Armilo-Gen"
+    },
+    "abcogenetammo_2": {
+        "name": "Plan d'Outil de création de munitions Rubbarn-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans d'Outil de création de munitions Rubbarn-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Outil de création de munitions Rubbarn-Gen"
+    },
+    "abcogenetarmor_1": {
+        "name": "Plan d'Outil de création d'armures Armilo-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans d'Outil de création d'armures Armilo-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Outil de création d'armures Armilo-Gen"
+    },
+    "abcogenetarmor_2": {
+        "name": "Plan d'Outil de création d'armures Rubbarn-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans d'Outil de création d'armures Rubbarn-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Outil de création d'armures Rubbarn-Gen"
+    },
+    "abcogenetforage_1": {
+        "name": "Plan de Pioche de Forage Greslin-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Pioche de Forage Greslin-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Pioche de Forage Greslin-Gen"
+    },
+    "abcogenetforage_2": {
+        "name": "Plan de Pioche de Forage Egiros-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Pioche de Forage Egiros-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Pioche de Forage Egiros-Gen"
+    },
+    "abcogenetjewel_1": {
+        "name": "Plan d'Outil de création de bijoux Armilo-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans d'Outil de création de bijoux Armilo-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Outil de création de bijoux Armilo-Gen"
+    },
+    "abcogenetjewel_2": {
+        "name": "Plan d'Outil de création de bijoux Rubbarn-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans d'Outil de création de bijoux Rubbarn-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Outil de création de bijoux Rubbarn-Gen"
+    },
+    "abcogenetmwea_1": {
+        "name": "Plan d'Outil de création d'armes de mêlée Armilo-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans d'Outil de création d'armes de mêlée Armilo-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Outil de création d'armes de mêlée Armilo-Gen"
+    },
+    "abcogenetmwea_2": {
+        "name": "Plan d'Outil de création d'armes de mêlée Rubbarn-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans d'Outil de création d'armes de mêlée Rubbarn-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Outil de création d'armes de mêlée Rubbarn-Gen"
+    },
+    "abcogenetrwea_1": {
+        "name": "Plan d'Outil de création d'armes de tir Armilo-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans d'Outil de création d'armes de tir Armilo-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Outil de création d'armes de tir Armilo-Gen"
+    },
+    "abcogenetrwea_2": {
+        "name": "Plan d'Outil de création d'armes de tir Rubbarn-Gen",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans d'Outil de création d'armes de tir Rubbarn-Gen",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Outil de création d'armes de tir Rubbarn-Gen"
+    },
     "abcokamem1bm_1": {
         "name": "Plan de Masse Tekorn-Duk",
         "ia": "un",
@@ -8539,6 +8953,420 @@
         "pia": "des",
         "pda": "les",
         "description": "Plan de création pour Outil de création d'armes de tir Rubbarn-Jen"
+    },
+    "abcomarem1bm_1": {
+        "name": "Plan de Masse Tekorn-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Masse Tekorn-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Masse Tekorn-Mar"
+    },
+    "abcomarem1bm_2": {
+        "name": "Plan de Masse Vedice-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Masse Vedice-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Masse Vedice-Mar"
+    },
+    "abcomarem1bs_1": {
+        "name": "Plan de Bâton Tekorn-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Bâton Tekorn-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Bâton Tekorn-Mar"
+    },
+    "abcomarem1bs_2": {
+        "name": "Plan de Bâton Vedice-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Bâton Vedice-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Bâton Vedice-Mar"
+    },
+    "abcomarem1pd_1": {
+        "name": "Plan de Dague Tekorn-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Dague Tekorn-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Dague Tekorn-Mar"
+    },
+    "abcomarem1pd_2": {
+        "name": "Plan de Dague Vedice-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Dague Vedice-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Dague Vedice-Mar"
+    },
+    "abcomarem1ps_1": {
+        "name": "Plan de Lance Tekorn-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Lance Tekorn-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Lance Tekorn-Mar"
+    },
+    "abcomarem1ps_2": {
+        "name": "Plan de Lance Vedice-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Lance Vedice-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Lance Vedice-Mar"
+    },
+    "abcomarem1sa_1": {
+        "name": "Plan de Hache Tekorn-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Hache Tekorn-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Hache Tekorn-Mar"
+    },
+    "abcomarem1sa_2": {
+        "name": "Plan de Hache Vedice-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Hache Vedice-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Hache Vedice-Mar"
+    },
+    "abcomarem1ss_1": {
+        "name": "Plan d'Epée Tekorn-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans d'Epée Tekorn-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Epée Tekorn-Mar"
+    },
+    "abcomarem1ss_2": {
+        "name": "Plan d'Epée Vedice-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans d'Epés Vedice-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Epée Vedice-Mar"
+    },
+    "abcomarem2bm_1": {
+        "name": "Plan de Masse à 2M Tekorn-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Masse à 2M Tekorn-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Masse à 2M Tekorn-Mar"
+    },
+    "abcomarem2bm_2": {
+        "name": "Plan de Masse à 2M Vedice-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Masse à 2M Vedice-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Masse à 2M Vedice-Mar"
+    },
+    "abcomarem2ms_1": {
+        "name": "Plan d'Amplificateur Magique Maga-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans d'Amplificateur Magique Maga-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Amplificateur Magique Maga-Mar"
+    },
+    "abcomarem2ms_2": {
+        "name": "Plan d'Amplificateur Magique Cheng-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans d'Amplificateur Magique Cheng-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Amplificateur Magique Cheng-Mar"
+    },
+    "abcomarem2pp_1": {
+        "name": "Plan de Pique Tekorn-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Pique Tekorn-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Pique Tekorn-Mar"
+    },
+    "abcomarem2pp_2": {
+        "name": "Plan de Pique Vedice-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Pique Vedice-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Pique Vedice-Mar"
+    },
+    "abcomarem2sa_1": {
+        "name": "Plan de Hache à 2M Tekorn-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Hache à 2M Tekorn-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Hache à 2M Tekorn-Mar"
+    },
+    "abcomarem2sa_2": {
+        "name": "Plan de Hache à 2M Vedice-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Hache à 2M Vedice-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Hache à 2M Vedice-Mar"
+    },
+    "abcomarem2ss_1": {
+        "name": "Plan d'Epée à 2M Tekorn-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans d'Epée à 2M Tekorn-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Epée à 2M Tekorn-Mar"
+    },
+    "abcomarem2ss_2": {
+        "name": "Plan d'Epée à 2M Vedice-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans d'Epée à 2M Vedice-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Epée à 2M Vedice-Mar"
+    },
+    "abcomarer1b_1": {
+        "name": "Plan de Pistolet-Arbalète Tekorn-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Pistolet-Arbalète Tekorn-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Pistolet-Arbalète Tekorn-Mar"
+    },
+    "abcomarer1b_2": {
+        "name": "Plan de Pistolet-Arbalète Vedice-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Pistolet-Arbalète Vedice-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Pistolet-Arbalète Vedice-Mar"
+    },
+    "abcomarer1p_1": {
+        "name": "Plan de Pistolet Tekorn-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Pistolet Tekorn-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Pistolet Tekorn-Mar"
+    },
+    "abcomarer1p_2": {
+        "name": "Plan de Pistolet Vedice-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Pistolet Vedice-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Pistolet Vedice-Mar"
+    },
+    "abcomarer2a_1": {
+        "name": "Plan de Mitrailleuse Tekorn-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Mitrailleuse Tekorn-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Mitrailleuse Tekorn-Mar"
+    },
+    "abcomarer2a_2": {
+        "name": "Plan de Mitrailleuse Vedice-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Mitrailleuse Vedice-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Mitrailleuse Vedice-Mar"
+    },
+    "abcomarer2b_1": {
+        "name": "Plan de Fusil-Arbalète Tekorn-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Fusil-Arbalète Tekorn-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Fusil-Arbalète Tekorn-Mar"
+    },
+    "abcomarer2b_2": {
+        "name": "Plan de Fusil-Arbalète Vedice-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Fusil-Arbalète Vedice-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Fusil-Arbalète Vedice-Mar"
+    },
+    "abcomarer2l_1": {
+        "name": "Plan de Lance-Grenades Tekorn-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Lance-Grenades Tekorn-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Lance-Grenades Tekorn-Mar"
+    },
+    "abcomarer2l_2": {
+        "name": "Plan de Lance-Grenades Vedice-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Lance-Grenades Vedice-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Lance-Grenades Vedice-Mar"
+    },
+    "abcomarer2r_1": {
+        "name": "Plan de Fusil Tekorn-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Fusil Tekorn-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Fusil Tekorn-Mar"
+    },
+    "abcomarer2r_2": {
+        "name": "Plan de Fusil Vedice-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Fusil Vedice-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Fusil Vedice-Mar"
+    },
+    "abcomaretammo_1": {
+        "name": "Plan d'Outil de création de munitions Armilo-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans d'Outil de création de munitions Armilo-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Outil de création de munitions Armilo-Mar"
+    },
+    "abcomaretammo_2": {
+        "name": "Plan d'Outil de création de munitions Rubbarn-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans d'Outil de création de munitions Rubbarn-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Outil de création de munitions Rubbarn-Mar"
+    },
+    "abcomaretarmor_1": {
+        "name": "Plan d'Outil de création d'armures Armilo-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans d'Outil de création d'armures Armilo-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Outil de création d'armures Armilo-Mar"
+    },
+    "abcomaretarmor_2": {
+        "name": "Plan d'Outil de création d'armures Rubbarn-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans d'Outil de création d'armures Rubbarn-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Outil de création d'armures Rubbarn-Mar"
+    },
+    "abcomaretforage_1": {
+        "name": "Plan de Pioche de Forage Greslin-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Pioche de Forage Greslin-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Pioche de Forage Greslin-Mar"
+    },
+    "abcomaretforage_2": {
+        "name": "Plan de Pioche de Forage Egiros-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans de Pioche de Forage Egiros-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Pioche de Forage Egiros-Mar"
+    },
+    "abcomaretjewel_1": {
+        "name": "Plan d'Outil de création de bijoux Armilo-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans d'Outil de création de bijoux Armilo-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Outil de création de bijoux Armilo-Mar"
+    },
+    "abcomaretjewel_2": {
+        "name": "Plan d'Outil de création de bijoux Rubbarn-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans d'Outil de création de bijoux Rubbarn-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Outil de création de bijoux Rubbarn-Mar"
+    },
+    "abcomaretmwea_1": {
+        "name": "Plan d'Outil de création d'armes de mêlée Armilo-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans d'Outil de création d'armes de mêlée Armilo-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Outil de création d'armes de mêlée Armilo-Mar"
+    },
+    "abcomaretmwea_2": {
+        "name": "Plan d'Outil de création d'armes de mêlée Rubbarn-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans d'Outil de création d'armes de mêlée Rubbarn-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Outil de création d'armes de mêlée Rubbarn-Mar"
+    },
+    "abcomaretrwea_1": {
+        "name": "Plan d'Outil de création d'armes de tir Armilo-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans d'Outil de création d'armes de tir Armilo-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Outil de création d'armes de tir Armilo-Mar"
+    },
+    "abcomaretrwea_2": {
+        "name": "Plan d'Outil de création d'armes de tir Rubbarn-Mar",
+        "ia": "un",
+        "da": "le",
+        "p": "Plans d'Outil de création d'armes de tir Rubbarn-Mar",
+        "pia": "des",
+        "pda": "les",
+        "description": "Plan de création pour Outil de création d'armes de tir Rubbarn-Mar"
     },
     "abcraea01": {
         "name": "Plan de Bottes Noires de Réfugié",

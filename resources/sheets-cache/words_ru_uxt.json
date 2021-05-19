@@ -2315,6 +2315,9 @@
     "misc": {
         "name": "Прочее"
     },
+    "mission_real_tooltip": {
+        "name": ""
+    },
     "mpcatexotic": {
         "name": "Экзотический"
     },
@@ -10317,7 +10320,7 @@
         "name": "Члены группы"
     },
     "uiguild": {
-        "name": "ГИЛЬДИЯ"
+        "name": "Гильдия"
     },
     "uiguildbearer": {
         "name": "Знаменосец"
@@ -10959,7 +10962,7 @@
         "name": "Холет"
     },
     "uihome": {
-        "name": "ВЕРНУТЬСЯ"
+        "name": "Вернуться"
     },
     "uihorizontal": {
         "name": "Horizontal"
@@ -14655,7 +14658,7 @@
         "name": "Сумма"
     },
     "uioutposttribe": {
-        "name": "Застава во власти племени мародеров."
+        "name": "Аванпост находится в руках раждебного племени."
     },
     "uioutposttsquad": {
         "name": "ОТРЯДЫ, ГОТОВЫЕ ДЕЙСТВОВАТЬ"
@@ -16551,7 +16554,7 @@
         "name": "Save"
     },
     "uisay": {
-        "name": "СКАЗАТЬ"
+        "name": "SAY"
     },
     "uisaycolor": {
         "name": "Сказать"
@@ -16788,7 +16791,7 @@
         "name": "Перетащите сюда боевое умение или магическое заклинание"
     },
     "uishout": {
-        "name": "ПРОКРИЧАТЬ"
+        "name": "КРИЧАТЬ"
     },
     "uishoutcolor": {
         "name": "Прокричать"
@@ -17722,6 +17725,48 @@
     },
     "uitradewith": {
         "name": "ТОРГОВАТЬ С ?"
+    },
+    "uitranslationdisable": {
+        "name": "Отключить переводы для некоторых каналов"
+    },
+    "uitranslationdisablearound": {
+        "name": "Общение, крики и эмоти"
+    },
+    "uitranslationdisableguild": {
+        "name": "Гильдия"
+    },
+    "uitranslationdisableregion": {
+        "name": "Регион"
+    },
+    "uitranslationdisableuniverse": {
+        "name": "Вселенная"
+    },
+    "uitranslationenglish": {
+        "name": "Английский"
+    },
+    "uitranslationfrench": {
+        "name": "Французский"
+    },
+    "uitranslationgerman": {
+        "name": "Немецкий"
+    },
+    "uitranslationheader": {
+        "name": "Переводы"
+    },
+    "uitranslationhide": {
+        "name": "Скрыть флаг"
+    },
+    "uitranslationinverse": {
+        "name": "Инвертировать отображение"
+    },
+    "uitranslationlanguages": {
+        "name": "Язык"
+    },
+    "uitranslationrussian": {
+        "name": "Русский"
+    },
+    "uitranslationspanish": {
+        "name": "Испанский"
     },
     "uitrculture": {
         "name": "КУЛЬТУРА ТРАЙКЕРОВ"
@@ -19423,6 +19468,24 @@
     },
     "uitttoolcrafttype": {
         "name": "@{6F6F}Тип инструмента @{FFFF}:\nПеред тем, как заниматься изготовлением предмета, вам необходимо подготовить инструмент нужного типа."
+    },
+    "uitttranslationdisablearound": {
+        "name": ""
+    },
+    "uitttranslationdisableguild": {
+        "name": ""
+    },
+    "uitttranslationdisableregion": {
+        "name": ""
+    },
+    "uitttranslationdisableuniverse": {
+        "name": ""
+    },
+    "uitttranslationhide": {
+        "name": "Скрывает флаг языка для сообщений, исходящих с этого языка"
+    },
+    "uitttranslationinverse": {
+        "name": "Инвертирует отображение оригинала"
     },
     "uittusercolor": {
         "name": "Цвет для обозначения вашего персонажа"

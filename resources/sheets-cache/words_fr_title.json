@@ -319,6 +319,10 @@
         "name": "(Actrice)",
         "women_name": ""
     },
+    "fct_allegory_maker": {
+        "name": "Graveur d'Allégories",
+        "women_name": "Graveuse d'Allégories"
+    },
     "fct_amayor": {
         "name": "(Assistant du Maire)",
         "women_name": ""
@@ -331,8 +335,16 @@
         "name": "(Marchand de Munitions)",
         "women_name": ""
     },
+    "fct_animals_and_co": {
+        "name": "Représentant de \"Animaux & Co\"",
+        "women_name": "Représentante de \"Animaux & Co\""
+    },
     "fct_arionasiszig": {
         "name": "Zig d'Arionasis",
+        "women_name": ""
+    },
+    "fct_artisan_aklareen": {
+        "name": "(Artisan des Aklareen)",
         "women_name": ""
     },
     "fct_artisan_arbres_vrilles": {
@@ -4055,6 +4067,10 @@
         "name": "Autel Kami",
         "women_name": ""
     },
+    "gn_kami_altar_": {
+        "name": "Autel Kami du Bosquet de la Confusion",
+        "women_name": ""
+    },
     "gn_kami_altar_almati": {
         "name": "Autel kamiste du Bois d'Almati",
         "women_name": ""
@@ -4105,10 +4121,6 @@
     },
     "gn_kami_altar_gate_of_obscurity": {
         "name": "Autel Kami de la Porte de l'Obscurité",
-        "women_name": ""
-    },
-    "gn_kami_altar_groveofconfusion": {
-        "name": "Autel Kami du Bosquet de la Confusion",
         "women_name": ""
     },
     "gn_kami_altar_groveofumbra": {
@@ -4575,6 +4587,10 @@
         "name": "Autel Karavan",
         "women_name": ""
     },
+    "gn_karavan_altar_": {
+        "name": "Autel Karavan du Bosquet de la Confusion",
+        "women_name": ""
+    },
     "gn_karavan_altar_almati": {
         "name": "Autel karavan du Bois d'Almati",
         "women_name": ""
@@ -4613,10 +4629,6 @@
     },
     "gn_karavan_altar_gate_of_obscurity": {
         "name": "Autel Karavan de la Porte de l'Obscurité",
-        "women_name": ""
-    },
-    "gn_karavan_altar_groveofconfusion": {
-        "name": "Autel Karavan du Bosquet de la Confusion",
         "women_name": ""
     },
     "gn_karavan_altar_groveofumbra": {

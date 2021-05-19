@@ -7712,6 +7712,420 @@
         "pda": "",
         "description": "NOTE: this action cannot be used directly, you have to add it to a crafting action. The crafted item will have a focus bonus."
     },
+    "abcogenem1bm_1": {
+        "name": "Tekorn-Gen Mace Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Tekorn-Gen Maces."
+    },
+    "abcogenem1bm_2": {
+        "name": "Vedice-Gen Mace Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Vedice-Gen Maces."
+    },
+    "abcogenem1bs_1": {
+        "name": "Tekorn-Gen Staff Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Tekorn-Gen Staffs."
+    },
+    "abcogenem1bs_2": {
+        "name": "Vedice-Gen Staff Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Vedice-Gen Staffs."
+    },
+    "abcogenem1pd_1": {
+        "name": "Tekorn-Gen Dagger Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Tekorn-Gen Daggers."
+    },
+    "abcogenem1pd_2": {
+        "name": "Vedice-Gen Dagger Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Vedice-Gen Daggers."
+    },
+    "abcogenem1ps_1": {
+        "name": "Tekorn-Gen Spear Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Tekorn-Gen Spears."
+    },
+    "abcogenem1ps_2": {
+        "name": "Vedice-Gen Spear Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Vedice-Gen Spears."
+    },
+    "abcogenem1sa_1": {
+        "name": "Tekorn-Gen Axe Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Tekorn-Gen Axes."
+    },
+    "abcogenem1sa_2": {
+        "name": "Vedice-Gen Axe Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Vedice-Gen Axes."
+    },
+    "abcogenem1ss_1": {
+        "name": "Tekorn-Gen Sword Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Tekorn-Gen Swords."
+    },
+    "abcogenem1ss_2": {
+        "name": "Vedice-Gen Sword Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Vedice-Gen Swords."
+    },
+    "abcogenem2bm_1": {
+        "name": "Tekorn-Gen Two-handed Mace Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Tekorn-Gen Two-handed Maces."
+    },
+    "abcogenem2bm_2": {
+        "name": "Vedice-Gen Two-handed Mace Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Vedice-Gen Two-handed Maces."
+    },
+    "abcogenem2ms_1": {
+        "name": "Maga-Gen Magic Amplifier Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Maga-Gen Magic Amplifiers."
+    },
+    "abcogenem2ms_2": {
+        "name": "Cheng-Gen Magic Amplifier Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Cheng-Gen Magic Amplifiers."
+    },
+    "abcogenem2pp_1": {
+        "name": "Tekorn-Gen Pike Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Tekorn-Gen Pikes."
+    },
+    "abcogenem2pp_2": {
+        "name": "Vedice-Gen Pike Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Vedice-Gen Pikes."
+    },
+    "abcogenem2sa_1": {
+        "name": "Tekorn-Gen Two-handed Axe Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Tekorn-Gen Two-handed Axes."
+    },
+    "abcogenem2sa_2": {
+        "name": "Vedice-Gen Two-handed Axe Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Vedice-Gen Two-handed Axes."
+    },
+    "abcogenem2ss_1": {
+        "name": "Tekorn-Gen Two-handed Sword Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Tekorn-Gen Two-handed Swords."
+    },
+    "abcogenem2ss_2": {
+        "name": "Vedice-Gen Two-handed Sword Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Vedice-Gen Two-Handed Swords."
+    },
+    "abcogener1b_1": {
+        "name": "Tekorn-Gen Bowpistol Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Tekorn-Gen Bowpistols."
+    },
+    "abcogener1b_2": {
+        "name": "Vedice-Gen Bowpistol Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Vedice-Gen Bowpistols."
+    },
+    "abcogener1p_1": {
+        "name": "Tekorn-Gen Pistol Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Tekorn-Gen Pistols."
+    },
+    "abcogener1p_2": {
+        "name": "Vedice-Gen Pistol Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Vedice-Gen Pistols."
+    },
+    "abcogener2a_1": {
+        "name": "Tekorn-Gen Autolauncher Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Tekorn-Gen Autolaunchers."
+    },
+    "abcogener2a_2": {
+        "name": "Vedice-Gen Autolauncher Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Vedice-Gen Autolaunchers."
+    },
+    "abcogener2b_1": {
+        "name": "Tekorn-Gen Bowrifle Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Tekorn-Gen Bowrifles."
+    },
+    "abcogener2b_2": {
+        "name": "Vedice-Gen Bowrifle Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Vedice-Gen Bowrifles."
+    },
+    "abcogener2l_1": {
+        "name": "Tekorn-Gen Launcher Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Tekorn-Gen Launchers."
+    },
+    "abcogener2l_2": {
+        "name": "Vedice-Gen Launcher Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Vedice-Gen Launchers."
+    },
+    "abcogener2r_1": {
+        "name": "Tekorn-Gen Rifle Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Tekorn-Gen Rifles."
+    },
+    "abcogener2r_2": {
+        "name": "Vedice-Gen Rifle Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Vedice-Gen Rifles."
+    },
+    "abcogenetammo_1": {
+        "name": "Armilo-Gen Ammo Crafting Tool Plan",
+        "ia": "an",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Armilo-Gen Ammo Crafting Tools."
+    },
+    "abcogenetammo_2": {
+        "name": "Rubbarn-Gen Ammo Crafting Tool Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Rubbarn-Gen Ammo Crafting Tools."
+    },
+    "abcogenetarmor_1": {
+        "name": "Armilo-Gen Armor Crafting Tool Plan",
+        "ia": "an",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Armilo-Gen Armor Crafting Tools."
+    },
+    "abcogenetarmor_2": {
+        "name": "Rubbarn-Gen Armor Crafting Tool Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Rubbarn-Gen Armor Crafting Tools."
+    },
+    "abcogenetforage_1": {
+        "name": "Greslin-Gen Pick Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting Plan for Greslin-Gen Picks."
+    },
+    "abcogenetforage_2": {
+        "name": "Egiros-Gen Pick Plan",
+        "ia": "an",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting Plan for Egiros-Gen Picks."
+    },
+    "abcogenetjewel_1": {
+        "name": "Armilo-Gen Jewel Crafting Tool Plan",
+        "ia": "an",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Armilo-Gen Jewel Crafting Tools."
+    },
+    "abcogenetjewel_2": {
+        "name": "Rubbarn-Gen Jewel Crafting Tool Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Rubbarn-Gen Jewel Crafting Tools."
+    },
+    "abcogenetmwea_1": {
+        "name": "Armilo-Gen Melee Weapon Crafting Tool Plan",
+        "ia": "an",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Armilo-Gen Melee Weapon Crafting Tools."
+    },
+    "abcogenetmwea_2": {
+        "name": "Rubbarn-Gen Melee Weapon Crafting Tool Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Rubbarn-Gen Melee Weapon Crafting Tools."
+    },
+    "abcogenetrwea_1": {
+        "name": "Armilo-Gen Range Weapon Crafting Tool Plan",
+        "ia": "an",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Armilo-Gen Range Weapon Crafting Tools."
+    },
+    "abcogenetrwea_2": {
+        "name": "Rubbarn-Gen Range Weapon Crafting Tool Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Rubbarn-Gen Range Weapon Crafting Tools."
+    },
     "abcokamem1bm_1": {
         "name": "Tekorn-Duk Mace Plan",
         "ia": "a",
@@ -8539,6 +8953,420 @@
         "pia": "",
         "pda": "",
         "description": "Crafting plan for Rubbarn-Jen Range Weapon Crafting Tools."
+    },
+    "abcomarem1bm_1": {
+        "name": "Tekorn-Mar Mace Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Tekorn-Mar Maces."
+    },
+    "abcomarem1bm_2": {
+        "name": "Vedice-Mar Mace Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Vedice-Mar Maces."
+    },
+    "abcomarem1bs_1": {
+        "name": "Tekorn-Mar Staff Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Tekorn-Mar Staffs."
+    },
+    "abcomarem1bs_2": {
+        "name": "Vedice-Mar Staff Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Vedice-Mar Staffs."
+    },
+    "abcomarem1pd_1": {
+        "name": "Tekorn-Mar Dagger Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Tekorn-Mar Daggers."
+    },
+    "abcomarem1pd_2": {
+        "name": "Vedice-Mar Dagger Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Vedice-Mar Daggers."
+    },
+    "abcomarem1ps_1": {
+        "name": "Tekorn-Mar Spear Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Tekorn-Mar Spears."
+    },
+    "abcomarem1ps_2": {
+        "name": "Vedice-Mar Spear Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Vedice-Mar Spears."
+    },
+    "abcomarem1sa_1": {
+        "name": "Tekorn-Mar Axe Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Tekorn-Mar Axes."
+    },
+    "abcomarem1sa_2": {
+        "name": "Vedice-Mar Axe Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Vedice-Mar Axes."
+    },
+    "abcomarem1ss_1": {
+        "name": "Tekorn-Mar Sword Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Tekorn-Mar Swords."
+    },
+    "abcomarem1ss_2": {
+        "name": "Vedice-Mar Sword Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Vedice-Mar Swords."
+    },
+    "abcomarem2bm_1": {
+        "name": "Tekorn-Mar Two-handed Mace Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Tekorn-Mar Two-handed Maces."
+    },
+    "abcomarem2bm_2": {
+        "name": "Vedice-Mar Two-handed Mace Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Vedice-Mar Two-handed Maces."
+    },
+    "abcomarem2ms_1": {
+        "name": "Maga-Mar Magic Amplifier Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Maga-Mar Magic Amplifiers."
+    },
+    "abcomarem2ms_2": {
+        "name": "Cheng-Mar Magic Amplifier Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Cheng-Mar Magic Amplifiers."
+    },
+    "abcomarem2pp_1": {
+        "name": "Tekorn-Mar Pike Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Tekorn-Mar Pikes."
+    },
+    "abcomarem2pp_2": {
+        "name": "Vedice-Mar Pike Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Vedice-Mar Pikes."
+    },
+    "abcomarem2sa_1": {
+        "name": "Tekorn-Mar Two-handed Axe Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Tekorn-Mar Two-handed Axes."
+    },
+    "abcomarem2sa_2": {
+        "name": "Vedice-Mar Two-handed Axe Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Vedice-Mar Two-handed Axes."
+    },
+    "abcomarem2ss_1": {
+        "name": "Tekorn-Mar Two-handed Sword Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Tekorn-Mar Two-handed Swords."
+    },
+    "abcomarem2ss_2": {
+        "name": "Vedice-Mar Two-handed Sword Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Vedice-Mar Two-Handed Swords."
+    },
+    "abcomarer1b_1": {
+        "name": "Tekorn-Mar Bowpistol Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Tekorn-Mar Bowpistols."
+    },
+    "abcomarer1b_2": {
+        "name": "Vedice-Mar Bowpistol Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Vedice-Mar Bowpistols."
+    },
+    "abcomarer1p_1": {
+        "name": "Tekorn-Mar Pistol Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Tekorn-Mar Pistols."
+    },
+    "abcomarer1p_2": {
+        "name": "Vedice-Mar Pistol Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Vedice-Mar Pistols."
+    },
+    "abcomarer2a_1": {
+        "name": "Tekorn-Mar Autolauncher Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Tekorn-Mar Autolaunchers."
+    },
+    "abcomarer2a_2": {
+        "name": "Vedice-Mar Autolauncher Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Vedice-Mar Autolaunchers."
+    },
+    "abcomarer2b_1": {
+        "name": "Tekorn-Mar Bowrifle Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Tekorn-Mar Bowrifles."
+    },
+    "abcomarer2b_2": {
+        "name": "Vedice-Mar Bowrifle Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Vedice-Mar Bowrifles."
+    },
+    "abcomarer2l_1": {
+        "name": "Tekorn-Mar Launcher Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Tekorn-Mar Launchers."
+    },
+    "abcomarer2l_2": {
+        "name": "Vedice-Mar Launcher Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Vedice-Mar Launchers."
+    },
+    "abcomarer2r_1": {
+        "name": "Tekorn-Mar Rifle Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Tekorn-Mar Rifles."
+    },
+    "abcomarer2r_2": {
+        "name": "Vedice-Mar Rifle Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Vedice-Mar Rifles."
+    },
+    "abcomaretammo_1": {
+        "name": "Armilo-Mar Ammo Crafting Tool Plan",
+        "ia": "an",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Armilo-Mar Ammo Crafting Tools."
+    },
+    "abcomaretammo_2": {
+        "name": "Rubbarn-Mar Ammo Crafting Tool Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Rubbarn-Mar Ammo Crafting Tools."
+    },
+    "abcomaretarmor_1": {
+        "name": "Armilo-Mar Armor Crafting Tool Plan",
+        "ia": "an",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Armilo-Mar Armor Crafting Tools."
+    },
+    "abcomaretarmor_2": {
+        "name": "Rubbarn-Mar Armor Crafting Tool Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Rubbarn-Mar Armor Crafting Tools."
+    },
+    "abcomaretforage_1": {
+        "name": "Greslin-Mar Pick Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting Plan for Greslin-Mar Picks."
+    },
+    "abcomaretforage_2": {
+        "name": "Egiros-Mar Pick Plan",
+        "ia": "an",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting Plan for Egiros-Mar Picks."
+    },
+    "abcomaretjewel_1": {
+        "name": "Armilo-Mar Jewel Crafting Tool Plan",
+        "ia": "an",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Armilo-Mar Jewel Crafting Tools."
+    },
+    "abcomaretjewel_2": {
+        "name": "Rubbarn-Mar Jewel Crafting Tool Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Rubbarn-Mar Jewel Crafting Tools."
+    },
+    "abcomaretmwea_1": {
+        "name": "Armilo-Mar Melee Weapon Crafting Tool Plan",
+        "ia": "an",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Armilo-Mar Melee Weapon Crafting Tools."
+    },
+    "abcomaretmwea_2": {
+        "name": "Rubbarn-Mar Melee Weapon Crafting Tool Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Rubbarn-Mar Melee Weapon Crafting Tools."
+    },
+    "abcomaretrwea_1": {
+        "name": "Armilo-Mar Range Weapon Crafting Tool Plan",
+        "ia": "an",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Armilo-Mar Range Weapon Crafting Tools."
+    },
+    "abcomaretrwea_2": {
+        "name": "Rubbarn-Mar Range Weapon Crafting Tool Plan",
+        "ia": "a",
+        "da": "the",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "Crafting plan for Rubbarn-Mar Range Weapon Crafting Tools."
     },
     "abcraea01": {
         "name": "Refugee Black Boots Plan",
