@@ -1,4 +1,36 @@
 {
+    "2609_1": {
+        "name": "Атисианских игр 2609 - янтарная медаль",
+        "women_name": "Атисианских игр 2609 - янтарная медаль"
+    },
+    "2609_2": {
+        "name": "Атисианских игр 2609 - перламутровая медаль",
+        "women_name": "Атисианских игр 2609 - перламутровая медаль"
+    },
+    "2609_3": {
+        "name": "Атисианских игр 2609 - медаль Рога",
+        "women_name": "Атисианских игр 2609 - медаль Рога"
+    },
+    "2614_atys_games_amber_medal": {
+        "name": "янтарная медаль - Атисианских игр 2614",
+        "women_name": "янтарная медаль - Атисианских игр 2614"
+    },
+    "2614_atys_games_corn_medal": {
+        "name": "медаль Рога - Атисианских игр 2614",
+        "women_name": "медаль Рога - Атисианских игр 2614"
+    },
+    "2614_atys_games_mother_of_pearl_medal": {
+        "name": "перламутровая медаль - Атисианских игр 2614",
+        "women_name": "перламутровая медаль - Атисианских игр 2614"
+    },
+    "accomplisheddisciple": {
+        "name": "Accomplished Kami Disciple",
+        "women_name": "Accomplished Kami Disciple"
+    },
+    "accomplishedfollower": {
+        "name": "Accomplished Karavan Follower",
+        "women_name": "Accomplished Karavan Follower"
+    },
     "advanced_close_fighter": {
         "name": "Драчун",
         "women_name": "Драчун"
@@ -75,13 +107,57 @@
         "name": "Приносящий беду",
         "women_name": "Приносящая беду"
     },
+    "agnostic": {
+        "name": "Agnostic",
+        "women_name": "Agnostic"
+    },
+    "akenak": {
+        "name": "Fyros akenakos",
+        "women_name": "Fyros akenakos"
+    },
+    "akenos": {
+        "name": "Fyros akenos",
+        "women_name": "Fyros akenos"
+    },
+    "akenospyr": {
+        "name": "Pyr akenos",
+        "women_name": "Pyr akenos"
+    },
+    "akenosthesos": {
+        "name": "Thesos akenos",
+        "women_name": "Thesos akenos"
+    },
     "alchemist": {
         "name": "Алхимик",
         "women_name": "Алхимик"
     },
+    "anarchist": {
+        "name": "Anarchist",
+        "women_name": "Anarchist"
+    },
+    "anlorwinn_yuboball_tournament_champion": {
+        "name": "Чемпион турнира Анлор Винн Юбо Болл",
+        "women_name": "Чемпион турнира Анлор Винн Юбо Болл"
+    },
+    "anlorwinnstoryteller": {
+        "name": "Анлор Винн Рассказчик",
+        "women_name": "Анлор Винн Рассказчица"
+    },
+    "antitheist": {
+        "name": "Antitheist",
+        "women_name": "Antitheist"
+    },
+    "apprentice_pathfinder": {
+        "name": "Apprentice Pathfinder",
+        "women_name": "Apprentice Pathfinder"
+    },
     "archmage": {
         "name": "Архимаг",
         "women_name": "Архимаг"
+    },
+    "ardentfyrospatriot": {
+        "name": "Пылкий Фирос Патриот",
+        "women_name": "Пылкий Фирос Патриот"
     },
     "armorer_apprentice": {
         "name": "Подмастерье кузнеца",
@@ -95,6 +171,10 @@
         "name": "Подмастерье ремесленника",
         "women_name": "Подмастерье ремесленника"
     },
+    "artisanjusteequilibreexpert": {
+        "name": "Expert Architect of Equilibrium",
+        "women_name": "Expert Architect of Equilibrium"
+    },
     "attack_magician": {
         "name": "Боевой маг",
         "women_name": ""
@@ -103,9 +183,21 @@
         "name": "Боевой маг",
         "women_name": ""
     },
+    "atys_faery": {
+        "name": "Fée d'Atys",
+        "women_name": "Fée d'Atys"
+    },
+    "atyscitizen": {
+        "name": "Atys Citizen",
+        "women_name": "Atys Citizen"
+    },
     "atysguardian": {
         "name": "Страж Атиса",
         "women_name": ""
+    },
+    "atysmas_storyteller": {
+        "name": "Атисмас Рассказчик историй",
+        "women_name": "Атисмас Рассказчик историй"
     },
     "avatar_of_destruction": {
         "name": "Лик Разрушения",
@@ -115,9 +207,21 @@
         "name": "Лик Печали",
         "women_name": "Лик Печали"
     },
+    "awakened": {
+        "name": "Zoraï Awakened",
+        "women_name": "Zoraï Awakened"
+    },
     "axeman": {
         "name": "Жнец",
         "women_name": "Жнец"
+    },
+    "bad_grinch_2": {
+        "name": "Яростный Гринч",
+        "women_name": "Яростная Гринч"
+    },
+    "bad_grinch_3": {
+        "name": "Великий Гринч",
+        "women_name": "Великая Гринч"
     },
     "biomancer": {
         "name": "Биомаг",
@@ -131,13 +235,41 @@
         "name": "Меченосец",
         "women_name": ""
     },
+    "blessedbyjena": {
+        "name": "Blessed by Jena",
+        "women_name": "Blessed by Jena"
+    },
+    "blessedbymaduk": {
+        "name": "Blessed by Ma-Duk",
+        "women_name": "Blessed by Ma-Duk"
+    },
     "bludgeoner": {
         "name": "Боец с дубиной",
         "women_name": "Боец с дубиной"
     },
+    "bombeeau": {
+        "name": "Специалист по водяным бомбам",
+        "women_name": "Специалист по водяным бомбам"
+    },
+    "botanist": {
+        "name": "Королевский Ботаник",
+        "women_name": "Королевский Ботаник"
+    },
+    "bourreauombres": {
+        "name": "Executioner of the Shadows",
+        "women_name": "Executioner of the Shadows"
+    },
     "bowman": {
         "name": "Лучник",
         "women_name": "Лучник"
+    },
+    "brasseur": {
+        "name": "Brewer",
+        "women_name": "Brewer"
+    },
+    "brasseurexpert": {
+        "name": "Expert Brewer",
+        "women_name": "Expert Brewer"
     },
     "brute": {
         "name": "Громила",
@@ -151,9 +283,37 @@
         "name": "Маг поддержки",
         "women_name": ""
     },
+    "catch_up_with_ronny_first": {
+        "name": "Буран",
+        "women_name": "Вьюга"
+    },
+    "catch_up_with_ronny_secound": {
+        "name": "Пурга",
+        "women_name": "Метелица"
+    },
+    "catch_up_with_ronny_third": {
+        "name": "Позёмок",
+        "women_name": "Вея"
+    },
     "celestial_guardian": {
         "name": "Небесный страж",
         "women_name": "Небесный страж"
+    },
+    "championavalae": {
+        "name": "Avalae's Champion",
+        "women_name": "Avalae's Champion"
+    },
+    "chasseurkitins": {
+        "name": "Kitin Hunter",
+        "women_name": "Kitin Hunter"
+    },
+    "chasseurkitinsexpert": {
+        "name": "Expert Kitin Hunter",
+        "women_name": "Expert Kitin Hunter"
+    },
+    "chercheur_de_bonhomin_de_neige": {
+        "name": "Искатель Снеговиков",
+        "women_name": "Искательница Снеговиков"
     },
     "chosen_of_atys": {
         "name": "Избранный Атиса",
@@ -163,6 +323,10 @@
         "name": "Рубака",
         "women_name": "Рубака"
     },
+    "clerk": {
+        "name": "Корелевский Клерк",
+        "women_name": "Корелевский Клерк"
+    },
     "close_fighter": {
         "name": "Боец в партере",
         "women_name": "Боец в партере"
@@ -171,9 +335,25 @@
         "name": "Community Manager",
         "women_name": "Community Manager"
     },
+    "collecteur_de_neige": {
+        "name": "Сборщик Снежков",
+        "women_name": "Сборщица Снежков"
+    },
+    "collector_kami": {
+        "name": "Collector for the Kami cult",
+        "women_name": "Collector for the Kami cult"
+    },
+    "combattantombres": {
+        "name": "Warrior of the Shadows",
+        "women_name": "Warrior of the Shadows"
+    },
     "corsaire_dechu_coffer": {
         "name": "Сундук корсаров",
         "women_name": ""
+    },
+    "courtisandesespoir": {
+        "name": "Courtisan du Désespoir",
+        "women_name": "Courtisan du Désespoir"
     },
     "craftsman": {
         "name": "Ремесленник",
@@ -211,6 +391,18 @@
         "name": "Уничтожитель",
         "women_name": "Уничтожитель"
     },
+    "devastatingaxe": {
+        "name": "Devastating Axe",
+        "women_name": "Devastating Axe"
+    },
+    "devoutvassal": {
+        "name": "Благочестивая Тема Mатисов",
+        "women_name": "Благочестивая Тема Mатисов"
+    },
+    "diegeburtdesbsen": {
+        "name": "Die Geburt des Bösen",
+        "women_name": "Die Geburt des Bösen"
+    },
     "disturber": {
         "name": "Нарушитель спокойствия",
         "women_name": ""
@@ -235,9 +427,65 @@
         "name": "Event Manager",
         "women_name": "Event Manager"
     },
+    "empiredefender": {
+        "name": "Империя Защитников",
+        "women_name": "Империя Защитников"
+    },
+    "empireennemy": {
+        "name": "Противник Империи",
+        "women_name": "Противник Империи"
+    },
+    "empireguardian": {
+        "name": "Империя Хранителей",
+        "women_name": "Империя Хранителей"
+    },
+    "empirescourge": {
+        "name": "Плети Империи",
+        "women_name": "Плети Империи"
+    },
     "enchanter": {
         "name": "Искусник",
         "women_name": "Искусница"
+    },
+    "enqueteur": {
+        "name": "Investigator",
+        "women_name": "Investigator"
+    },
+    "enqueteurexpert": {
+        "name": "Expert Investigator",
+        "women_name": "Expert Investigator"
+    },
+    "eradicateur_de_valcorenoch": {
+        "name": "Искоренитель Валкорноха",
+        "women_name": "Искоренитель Валкорноха"
+    },
+    "esteemedcitizen": {
+        "name": "Esteemed Tryker Citizen",
+        "women_name": "Esteemed Tryker Citizen"
+    },
+    "etouffeur_edtincelles_halloween": {
+        "name": "Искрогаситель Анлор Винна",
+        "women_name": "Искрогаситель Анлор Винна"
+    },
+    "evil_spell_hunter": {
+        "name": "Охотник за Злыми Заклинаниями",
+        "women_name": "Охотница за Злыми Заклинаниями"
+    },
+    "excellent_anlor_winn_storyteller": {
+        "name": "Отличный Рассказчик Анлор Винн",
+        "women_name": "Отличная Рассказчица Анлор Винн"
+    },
+    "excellent_ghost_buster": {
+        "name": "Отличный Охотник за Привидениями",
+        "women_name": "Отличная Охотница за Привидениями"
+    },
+    "exile": {
+        "name": "Exile",
+        "women_name": "Exile"
+    },
+    "exorcist_of_anlor_winn": {
+        "name": "Экзорцист Анлор Винна",
+        "women_name": "Экзорцистка Анлор Винна"
     },
     "expert_desert_forager": {
         "name": "Опытный добытчик пустыни",
@@ -299,13 +547,41 @@
         "name": "Опытный кузнец: щиты",
         "women_name": "Опытный кузнец: щиты"
     },
+    "expert_yubo_herder": {
+        "name": "Эксперт Пастух Юбо",
+        "women_name": "Экспертная Пастушка Юбо"
+    },
+    "exploderecettes": {
+        "name": "Recipe Discoverer",
+        "women_name": "Recipe Discoverer"
+    },
+    "exploderecettesexpert": {
+        "name": "Expert Recipe Discoverer",
+        "women_name": "Expert Recipe Discoverer"
+    },
     "faber": {
         "name": "Ремесленник",
+        "women_name": ""
+    },
+    "fabricant_de_bonhomins_datysoel": {
+        "name": "Строитель Снеговиков",
+        "women_name": "Строительница Снеговиков"
+    },
+    "faithful_companion": {
+        "name": "Верный товарищ",
         "women_name": ""
     },
     "faker": {
         "name": "Притворщик",
         "women_name": ""
+    },
+    "fartraveler": {
+        "name": "Far Traveler",
+        "women_name": "Far Traveler"
+    },
+    "fashionable_yubo_herder": {
+        "name": "Модный Пастух Юбо",
+        "women_name": "Модная Пастушка Юбо"
     },
     "fbt": {
         "name": "Старейшина Атиса",
@@ -847,9 +1123,37 @@
         "name": "Предводитель мародеров",
         "women_name": ""
     },
+    "fct_marauder_citiesofintuition": {
+        "name": "(Города Провидцев)",
+        "women_name": "(Города Провидцев)"
+    },
+    "fct_marauder_fleetinggarden": {
+        "name": "(Ускользающий сад)",
+        "women_name": "(Ускользающий сад)"
+    },
+    "fct_marauder_imperialdunes": {
+        "name": "(Имперские дюны)",
+        "women_name": "(Имперские дюны)"
+    },
+    "fct_marauder_libertylake": {
+        "name": "(Озеро Свободы)",
+        "women_name": "(Озеро Свободы)"
+    },
+    "fct_marauder_maidengrove": {
+        "name": "(Роща Дев)",
+        "women_name": "(Роща Дев)"
+    },
+    "fct_marauder_majesticgarden": {
+        "name": "(Сады Величия)",
+        "women_name": "(Сады Величия)"
+    },
     "fct_marauder_merchant": {
         "name": "Торговец Мародёров",
         "women_name": "Торговщица Мародёров"
+    },
+    "fct_marauder_oflovakoasis": {
+        "name": "(Оазис Офловака)",
+        "women_name": "(Оазис Офловака)"
     },
     "fct_marauder_scout": {
         "name": "Лазутчик мародеров",
@@ -1707,6 +2011,30 @@
         "name": "(Интендант Зоры)",
         "women_name": ""
     },
+    "federationdefender": {
+        "name": "Defender of the Federation",
+        "women_name": "Defender of the Federation"
+    },
+    "federationenemy": {
+        "name": "Enemy of the Federation",
+        "women_name": "Enemy of the Federation"
+    },
+    "federationguardian": {
+        "name": "Guardian of the Federation",
+        "women_name": "Guardian of the Federation"
+    },
+    "federationscourge": {
+        "name": "Scourge of the Federation",
+        "women_name": "Scourge of the Federation"
+    },
+    "fervent_harvester_kara": {
+        "name": "Fervent Harvester for the Karavan cult",
+        "women_name": "Fervent Harvester for the Karavan cult"
+    },
+    "ferventharvestor_kami": {
+        "name": "Fervent Harvester for the Kami cult",
+        "women_name": "Fervent Harvester for the Kami cult"
+    },
     "fighter": {
         "name": "Воин",
         "women_name": ""
@@ -1735,6 +2063,10 @@
         "name": "Осквернитель",
         "women_name": ""
     },
+    "fournisseur_datysoel": {
+        "name": "Поставщик Атисмаса",
+        "women_name": "Поставщица Атисмаса"
+    },
     "fyros_armorer_apprentice": {
         "name": "Доспехи файросов: Ученик",
         "women_name": "Доспехи файросов: Ученица"
@@ -1742,6 +2074,10 @@
     "fyros_artisan_apprentice": {
         "name": "Подмастерье ремесленника файросов",
         "women_name": "Подмастерье ремесленника файросов"
+    },
+    "fyros_eggs_catcher": {
+        "name": "Горящий Яйцолог",
+        "women_name": "Горящий Яйцолог"
     },
     "fyros_gun_smith_apprentice": {
         "name": "Стрелковое оружие файросов: Ученик",
@@ -1771,9 +2107,45 @@
         "name": "Оружие файросов: Ученик",
         "women_name": "Оружие файросов: Ученица"
     },
+    "fyrosambassador": {
+        "name": "Фирос посол",
+        "women_name": "Фирос посол"
+    },
+    "fyrosbutcher": {
+        "name": "Фирос Мясник",
+        "women_name": "Фирос Мясник"
+    },
+    "fyroseradicator": {
+        "name": "Fyros Eradicator",
+        "women_name": "Fyros Eradicator"
+    },
+    "fyrosslayer": {
+        "name": "Fyros Slayer",
+        "women_name": "Fyros Slayer"
+    },
+    "fyrostormentor": {
+        "name": "Фирос Мучитель",
+        "women_name": "Фирос Мучитель"
+    },
     "g": {
         "name": "Проводник",
         "women_name": "Проводник"
+    },
+    "ghost": {
+        "name": "Призрак",
+        "women_name": "Призрака"
+    },
+    "ghost_buster": {
+        "name": "Охотник за Привидениями",
+        "women_name": "Охотница за Привидениями"
+    },
+    "gift_of": {
+        "name": "Подарок #player",
+        "women_name": ""
+    },
+    "gladkainjakakilia": {
+        "name": "Gladkain jak Akilia",
+        "women_name": "Gladkaîn jak Akilia"
     },
     "gm": {
         "name": "Гейм-мастер",
@@ -6671,9 +7043,45 @@
         "name": "Мастер-воин Зораи",
         "women_name": ""
     },
+    "gnost": {
+        "name": "Gnostic",
+        "women_name": "Gnostic"
+    },
+    "good_elfe_1": {
+        "name": "Атисмасский Эльф",
+        "women_name": "Атисмасская Эльфа"
+    },
+    "good_elfe_2": {
+        "name": "Победоносный Атисмасский Эльф",
+        "women_name": "Победоносная Атисмасская Эльф"
+    },
+    "good_elfe_3": {
+        "name": "Щедрый Атисмасский Эльф",
+        "women_name": "Щедрая Атисмасская Эльф"
+    },
+    "great_benefactor_kami": {
+        "name": "Great benefactor of the Kami cult",
+        "women_name": "Great benefactor of the Kami cult"
+    },
+    "great_benefactor_kara": {
+        "name": "Great benefactor of the Karavan cult",
+        "women_name": "Great benefactor of the Karavan cult"
+    },
+    "greatdisciple": {
+        "name": "Great Kami Disciple",
+        "women_name": "Great Kami Disciple"
+    },
+    "greatfollower": {
+        "name": "Great Karavan Follower",
+        "women_name": "Great Karavan Follower"
+    },
     "greenhunter": {
         "name": "Зеленый охотник",
         "women_name": ""
+    },
+    "grinch": {
+        "name": "Гринч",
+        "women_name": "Гринч"
     },
     "gunman": {
         "name": "Стрелок",
@@ -6686,6 +7094,10 @@
     "harvester": {
         "name": "Добытчик",
         "women_name": ""
+    },
+    "harvester_kara": {
+        "name": "Harvester for the Karavan cult",
+        "women_name": "Harvester for the Karavan cult"
     },
     "hawker": {
         "name": "Коробейник",
@@ -6739,9 +7151,21 @@
         "name": "Живодер",
         "women_name": "Живодер"
     },
+    "heretic": {
+        "name": "Heretic",
+        "women_name": "Heretic"
+    },
     "homin": {
         "name": "Хомин",
         "women_name": "Хомин"
+    },
+    "honorary_initiate": {
+        "name": "Honorary Initiate",
+        "women_name": "Honorary Initiate"
+    },
+    "hopedevourer": {
+        "name": "Devourer of Hope",
+        "women_name": "Devourer of Hope"
     },
     "impaler": {
         "name": "Пронзатель",
@@ -6751,9 +7175,17 @@
         "name": "Имперский поставщик",
         "women_name": ""
     },
+    "interpreter": {
+        "name": "Interpreter",
+        "women_name": "Interpreter"
+    },
     "irefighter": {
         "name": "Берсерк",
         "women_name": ""
+    },
+    "ivrogne": {
+        "name": "Пьяница",
+        "women_name": "Пьяница"
     },
     "jeweler": {
         "name": "Ювелир",
@@ -6775,6 +7207,10 @@
         "name": "Герой Ками",
         "women_name": ""
     },
+    "kami_mikoto": {
+        "name": "Kami Mikoto",
+        "women_name": "Kami Mikoto"
+    },
     "kamicfist": {
         "name": "Кулак Ками",
         "women_name": ""
@@ -6787,9 +7223,65 @@
         "name": "Страж Ками",
         "women_name": ""
     },
+    "kamisenemy": {
+        "name": "Enemy of the Kamis",
+        "women_name": "Enemy of the Kamis"
+    },
+    "kamisscourge": {
+        "name": "Scourge of the Kamis",
+        "women_name": "Scourge of the Kamis"
+    },
+    "kamistbutcher": {
+        "name": "Kamist Butcher",
+        "women_name": "Kamist Butcher"
+    },
+    "kamiste_jenaique": {
+        "name": "Jenaic Kamist",
+        "women_name": "Jenaic Kamist"
+    },
+    "kamisteradicator": {
+        "name": "Kamist Eradicator",
+        "women_name": "Kamist Eradicator"
+    },
+    "kamistslayer": {
+        "name": "Kamist Slayer",
+        "women_name": "Kamist Slayer"
+    },
+    "kamisttormentor": {
+        "name": "Kamist Tormentor",
+        "women_name": "Kamist Tormentor"
+    },
+    "karaecourtmember": {
+        "name": "Член суда Карае",
+        "women_name": "Член суда Карае"
+    },
     "karavan_ally": {
         "name": "Герой Каравана",
         "women_name": ""
+    },
+    "karavanenemy": {
+        "name": "Enemy of the Karavan",
+        "women_name": "Enemy of the Karavan"
+    },
+    "karavanistbutcher": {
+        "name": "Karavanist Butcher",
+        "women_name": "Karavanist Butcher"
+    },
+    "karavanisteradicator": {
+        "name": "Karavanist Eradicator",
+        "women_name": "Karavanist Eradicator"
+    },
+    "karavanistslayer": {
+        "name": "Karavanist Slayer",
+        "women_name": "Karavanist Slayer"
+    },
+    "karavanisttormentor": {
+        "name": "Karavanist Tormentor",
+        "women_name": "Karavanist Tormentor"
+    },
+    "karavanscourge": {
+        "name": "Scourge of the Karavan",
+        "women_name": "Scourge of the Karavan"
     },
     "kef0904observer100": {
         "name": "Часовой с Северного озера (1)",
@@ -6887,17 +7379,69 @@
         "name": "Часовой с Мыса уныния (6)",
         "women_name": ""
     },
+    "killer_of_anlorwinn_king": {
+        "name": "Убийца Короля Анлор Винна",
+        "women_name": "Убийца Короля Анлор Винна"
+    },
+    "killer_of_evil_axe": {
+        "name": "Убийца Злого Топора",
+        "women_name": "Убийца Злого Топора"
+    },
+    "killer_of_evil_marauder": {
+        "name": "Убийца Элого Мародера",
+        "women_name": "Убийца Элого Мародера"
+    },
+    "kingdomdefender": {
+        "name": "Королевство хранитель",
+        "women_name": "Королевство хранитель"
+    },
+    "kingdomennemy": {
+        "name": "Enemy of the Kingdom",
+        "women_name": "Enemy of the Kingdom"
+    },
+    "kingdomguardian": {
+        "name": "Guardian of the Kingdom",
+        "women_name": "Guardian of the Kingdom"
+    },
+    "kingdomscourge": {
+        "name": "Scourge of the Kingdom",
+        "women_name": "Scourge of the Kingdom"
+    },
     "knifeman": {
         "name": "Кинжальщик",
         "women_name": "Кинжальщик"
+    },
+    "kung_fu_fighter": {
+        "name": "Боец Кунг-Фу",
+        "women_name": "Боец Кунг-Фу"
+    },
+    "lab_master_1": {
+        "name": "Новичок Лабиринта",
+        "women_name": "Новичок Лабиринта"
+    },
+    "lab_master_2": {
+        "name": "Знаток Лабиринта",
+        "women_name": "Знаток Лабиринта"
+    },
+    "lab_master_3": {
+        "name": "Покоритель Лабиринта",
+        "women_name": "Покорительница Лабиринта"
     },
     "lacustre_forager": {
         "name": "Добытчик озер",
         "women_name": "Добытчик озер"
     },
+    "ladycompanion": {
+        "name": "Женщина в ожидании Карае",
+        "women_name": "Женщина в ожидании Карае"
+    },
     "lakemaster": {
         "name": "Мастер Озер",
         "women_name": ""
+    },
+    "legeant": {
+        "name": "The Giant",
+        "women_name": "The Giant"
     },
     "lifestealer": {
         "name": "Похититель жизни",
@@ -6915,6 +7459,10 @@
         "name": "Легкий фехтовальщик",
         "women_name": "Легкий фехтовальщик"
     },
+    "lor_pyk_al": {
+        "name": "Lor-Pyk'al",
+        "women_name": "Lor-Pyk'al"
+    },
     "maceman": {
         "name": "Сокрушитель",
         "women_name": "Сокрушитель"
@@ -6927,6 +7475,38 @@
         "name": "Ученик мага",
         "women_name": "Ученица мага"
     },
+    "maitreartisanjusteequilibre": {
+        "name": "Master Architect of Equilibrium",
+        "women_name": "Master Architect of Equilibrium"
+    },
+    "maitrebrasseur": {
+        "name": "Master Brewer",
+        "women_name": "Master Brewer"
+    },
+    "maitrechasseurkitins": {
+        "name": "Master Kitin Hunter",
+        "women_name": "Master Kitin Hunter"
+    },
+    "maitredarmesdavalae": {
+        "name": "Maître d'Armes d'Avalae",
+        "women_name": "Maître d'Armes d'Avalae"
+    },
+    "maitreenqueteur": {
+        "name": "Master Investigator",
+        "women_name": "Master Investigator"
+    },
+    "maitreexploderecettes": {
+        "name": "Master Recipe Discoverer",
+        "women_name": "Master Recipe Discoverer"
+    },
+    "maitreobservateurlacs": {
+        "name": "Master Lakes Observer",
+        "women_name": "Master Lakes Observer"
+    },
+    "marauderapprentice": {
+        "name": "Marauder Apprentice",
+        "women_name": "Marauder Apprentice"
+    },
     "master_artilleryman": {
         "name": "Бомбардир",
         "women_name": "Бомбардир"
@@ -6934,6 +7514,10 @@
     "master_axeman": {
         "name": "Алый жнец",
         "women_name": "Алый жнец"
+    },
+    "master_baker_of_atysmas": {
+        "name": "Мастер-Пекарь Атисмаса",
+        "women_name": "Мастер-Пекарь Атисмаса"
     },
     "master_bowman": {
         "name": "Мастер лучник",
@@ -7039,6 +7623,10 @@
         "name": "Виртуоз меча",
         "women_name": "Виртуоз меча"
     },
+    "masterofillustration": {
+        "name": "Мастер Иллюстрации",
+        "women_name": "Мастер Иллюстрации"
+    },
     "matis_armorer_apprentice": {
         "name": "Доспехи матисов: Ученик",
         "women_name": "Доспехи матисов: Ученица"
@@ -7046,6 +7634,10 @@
     "matis_artisan_apprentice": {
         "name": "Подмастерье ремесленника матисов",
         "women_name": "Подмастерье ремесленника матисов"
+    },
+    "matis_eggs_catcher": {
+        "name": "Достойный Яйцолог",
+        "women_name": "Достойный Яйцолог"
     },
     "matis_gun_smith_apprentice": {
         "name": "Стрелковое оружие матисов: Ученик",
@@ -7075,6 +7667,30 @@
         "name": "Оружие матисов: Ученик",
         "women_name": "Оружие матисов: Ученица"
     },
+    "matisambassador": {
+        "name": "Посол Матисов",
+        "women_name": "Посол Матисов"
+    },
+    "matisbutcher": {
+        "name": "Matis Butcher",
+        "women_name": "Matis Butcher"
+    },
+    "matiseradicator": {
+        "name": "Matis Eradicator",
+        "women_name": "Matis Eradicator"
+    },
+    "matisslayer": {
+        "name": "Matis Slayer",
+        "women_name": "Matis Slayer"
+    },
+    "matistormentor": {
+        "name": "Matis Tormentor",
+        "women_name": "Matis Tormentor"
+    },
+    "matraqueurombres": {
+        "name": "Bludgeoner of the Shadows",
+        "women_name": "Bludgeoner of the Shadows"
+    },
     "medium_armorer": {
         "name": "Кузнец: средний доспех",
         "women_name": "Кузнец: средний доспех"
@@ -7082,6 +7698,10 @@
     "medium_armorer_master": {
         "name": "Мастер-кузнец: средний доспех",
         "women_name": "Мастер-кузнец: средний доспех"
+    },
+    "meilleurespoirdavalae": {
+        "name": "Meilleur Espoir d'Avalae",
+        "women_name": "Meilleur Espoir d'Avalae"
     },
     "melee_heavy_weapon_smith": {
         "name": "Оружейник: тяжелое оружие",
@@ -7131,9 +7751,45 @@
         "name": "Владыка разума",
         "women_name": "Владыка разума"
     },
+    "miss_atys": {
+        "name": "Miss Atys",
+        "women_name": "Miss Atys"
+    },
+    "mister_atys": {
+        "name": "Mister Atys",
+        "women_name": "Mister Atys"
+    },
     "monticule": {
         "name": "Монтикул",
         "women_name": ""
+    },
+    "mort_subite": {
+        "name": "Внезапная Смерть",
+        "women_name": "Внезапная Смерть"
+    },
+    "mrsnow_mainland": {
+        "name": "Самый усердный помощник мистера Сноу",
+        "women_name": "Самая усердная помощница мистера Сноу"
+    },
+    "mrsnow_silan": {
+        "name": "Лучший Друг Сирджио",
+        "women_name": "Лучшая Подруга Сирджио"
+    },
+    "nationsrebel": {
+        "name": "Rebel of the Nations",
+        "women_name": "Rebel of the Nations"
+    },
+    "naughty_homina": {
+        "name": "Непослушный Хомин",
+        "women_name": "Непослушная Хомина"
+    },
+    "nice_homina": {
+        "name": "Милый Хомин",
+        "women_name": "Милая Хомина"
+    },
+    "noble": {
+        "name": "Matis Noble",
+        "women_name": "Matis Noble"
     },
     "novice_artisan": {
         "name": "Начинающий ремесленник",
@@ -7150,6 +7806,14 @@
     "novice_warrior": {
         "name": "Начинающий боец",
         "women_name": "Начинающая воительница"
+    },
+    "observateurlacs": {
+        "name": "Lakes Observer",
+        "women_name": "Lakes Observer"
+    },
+    "observateurlacsexpert": {
+        "name": "Expert Lakes Observer",
+        "women_name": "Expert Lakes Observer"
     },
     "observer": {
         "name": "Observer",
@@ -7175,6 +7839,22 @@
         "name": "Проводник по Зоре",
         "women_name": ""
     },
+    "organisateurmarcheavalae": {
+        "name": "Organisateur du Marché d'Avalae",
+        "women_name": ""
+    },
+    "owner_of": {
+        "name": "#pet #player",
+        "women_name": ""
+    },
+    "patron_kami": {
+        "name": "Patron of the Kami Shrines",
+        "women_name": "Patron of the Kami Shrines"
+    },
+    "patron_kara": {
+        "name": "Patron of Karavan Shrines",
+        "women_name": "Patron of Karavan Shrines"
+    },
     "pikeman": {
         "name": "Пикейщик",
         "women_name": "Пикейщик"
@@ -7183,6 +7863,10 @@
         "name": "Стрелок из пистолета",
         "women_name": "Стрелок из пистолета"
     },
+    "precurseurduchaos": {
+        "name": "Herald of Chaos",
+        "women_name": "Herald of Chaos"
+    },
     "priest": {
         "name": "Жрец",
         "women_name": "Жрица"
@@ -7190,6 +7874,14 @@
     "prime_roots_forager": {
         "name": "Добытчик Изначальных Корней",
         "women_name": "Добытчик Изначальных Корней"
+    },
+    "pumpkinhunter": {
+        "name": "Пампкин Охотник",
+        "women_name": "Пампкина Охотница"
+    },
+    "pyk_al": {
+        "name": "Pyk'al",
+        "women_name": "Pyk'al"
     },
     "range_fighter": {
         "name": "Боец дальнего боя",
@@ -7223,17 +7915,61 @@
         "name": "Воин дальнего боя",
         "women_name": ""
     },
+    "ranger_companion": {
+        "name": "Ranger Companion",
+        "women_name": "Ranger Companion"
+    },
+    "ranger_termite_expert": {
+        "name": "Ranger's Termites Expert",
+        "women_name": "Ranger's Termites Expert"
+    },
+    "reflectiveinitiate": {
+        "name": "Reflective Zoraï Initiate",
+        "women_name": "Reflective Zoraï Initiate"
+    },
     "refugee": {
         "name": "Выживший",
         "women_name": "Выжившая"
+    },
+    "rendors_2614": {
+        "name": "Ужас Рендоров - 2614",
+        "women_name": "Ужас Рендоров - 2614"
     },
     "rifleman": {
         "name": "Стрелок из винтовки",
         "women_name": "Стрелок из винтовки"
     },
+    "royal_linguist": {
+        "name": "Royal Linguist",
+        "women_name": "Royal Linguist"
+    },
+    "royalcraftsman": {
+        "name": "Королевский ремесленник",
+        "women_name": "Королевский ремесленник"
+    },
+    "royalminstrel": {
+        "name": "Королевский Минстел",
+        "women_name": "Королевский Минстел"
+    },
+    "royalscrivener": {
+        "name": "Royal Scrivener",
+        "women_name": "Royal Scrivener"
+    },
+    "ruler_of_the_lab": {
+        "name": "Повелитель Лабиринта",
+        "women_name": "Повелительница Лабиринта"
+    },
     "runner": {
         "name": "Бегун",
         "women_name": ""
+    },
+    "ry_pyk_al": {
+        "name": "Ry-Pyk'al",
+        "women_name": "Ry-Pyk'al"
+    },
+    "ryzomleveldesignmanager": {
+        "name": "Ryzom - Level-Design Manager, Event, Dev-Ark & Graphics - [FR]",
+        "women_name": "Ryzom - Level-Design Manager, Event, Dev-Ark & Graphics - [FR]"
     },
     "sandcaravanner": {
         "name": "Караванщик песков",
@@ -7250,6 +7986,10 @@
     "scout": {
         "name": "Лазутчик",
         "women_name": ""
+    },
+    "seaofblood": {
+        "name": "Sea of Blood",
+        "women_name": "Sea of Blood"
     },
     "secondbreath": {
         "name": "Второе дыхание",
@@ -7327,9 +8067,45 @@
         "name": "Копейщик",
         "women_name": "Копейщик"
     },
+    "spirit_of_atys": {
+        "name": "Spirit of Atys",
+        "women_name": "Spirit of Atys"
+    },
+    "spirit_of_creation": {
+        "name": "Spirit of Creation",
+        "women_name": "Spirit of Creation"
+    },
+    "spirit_of_the_arcane": {
+        "name": "Spirit of the Arcane",
+        "women_name": "Spirit of the Arcane"
+    },
+    "spirit_of_the_bark": {
+        "name": "Spirit of the Bark",
+        "women_name": "Spirit of the Bark"
+    },
+    "spirit_of_war": {
+        "name": "Spirit of War",
+        "women_name": "Spirit of War"
+    },
     "spiritualshield": {
         "name": "Щит духа",
         "women_name": ""
+    },
+    "start_trek_chest": {
+        "name": "",
+        "women_name": ""
+    },
+    "start_trek_treasure_gen_mini": {
+        "name": "",
+        "women_name": ""
+    },
+    "stateless": {
+        "name": "Stateless",
+        "women_name": "Stateless"
+    },
+    "stealthy": {
+        "name": "The Stealthy",
+        "women_name": "The Stealthy"
     },
     "stele_epee_bois": {
         "name": "Стелла",
@@ -7342,6 +8118,10 @@
     "summoner": {
         "name": "Заклинатель",
         "women_name": "Заклинательница"
+    },
+    "super_beast_slayer": {
+        "name": "Супер зверя-убийца",
+        "women_name": "Супер зверя-убийца"
     },
     "sw_boss_fyros": {
         "name": "Файрос-истребитель",
@@ -7366,6 +8146,46 @@
     "swordsman": {
         "name": "Дуэлист",
         "women_name": "Дуэлист"
+    },
+    "tala_o_wytt": {
+        "name": "Tala o Wytt",
+        "women_name": "Tali o Wytt"
+    },
+    "talaotryganer": {
+        "name": "Tala o Tryganer",
+        "women_name": "Tali o Tryganer"
+    },
+    "the_grubbing_fury": {
+        "name": "The Grubbing Fury",
+        "women_name": "The Grubbing Fury"
+    },
+    "theblackcloud": {
+        "name": "The Black Cloud",
+        "women_name": "The Black Cloud"
+    },
+    "thecorrupted": {
+        "name": "The Corrupted",
+        "women_name": "The Corrupted"
+    },
+    "themercilesssorrow": {
+        "name": "The Merciless Sorrow",
+        "women_name": "The Merciless Sorrow"
+    },
+    "theocracydefender": {
+        "name": "Defender of the Theocracy",
+        "women_name": "Defender of the Theocracy"
+    },
+    "theocracyguardian": {
+        "name": "Guardian of the Theocracy",
+        "women_name": "Guardian of the Theocracy"
+    },
+    "theocracyscourge": {
+        "name": "Scourge of the Theocracy",
+        "women_name": "Scourge of the Theocracy"
+    },
+    "theocratyenemy": {
+        "name": "Enemy of the Theocracy",
+        "women_name": "Enemy of the Theocracy"
     },
     "title00001": {
         "name": "Journeyer",
@@ -7555,6 +8375,26 @@
         "name": "Странник",
         "women_name": "Странница"
     },
+    "treedesigner": {
+        "name": "Атисмас Дизайнер Деревьев",
+        "women_name": "Атисмас Дизайнер Деревьев"
+    },
+    "triathlon_thesos_deuxieme": {
+        "name": "Deuxième du Triathlon de Thesos 2574",
+        "women_name": "Deuxième du Triathlon de Thesos 2574"
+    },
+    "triathlon_thesos_participant": {
+        "name": "Participant au Triathlon de Thesos 2574",
+        "women_name": "Participant au Triathlon de Thesos 2574"
+    },
+    "triathlon_thesos_premier": {
+        "name": "Premier du Triathlon de Thesos 2574",
+        "women_name": "Premier du Triathlon de Thesos 2574"
+    },
+    "triathlon_thesos_troisieme": {
+        "name": "Troisième du Triathlon de Thesos 2574",
+        "women_name": "Troisième du Triathlon de Thesos 2574"
+    },
     "tribe_chief": {
         "name": "Вождь племени",
         "women_name": ""
@@ -7566,6 +8406,10 @@
     "tryker_artisan_apprentice": {
         "name": "Подмастерье ремесленника трайкеров",
         "women_name": "Подмастерье ремесленника трайкеров"
+    },
+    "tryker_eggs_catcher": {
+        "name": "Озорной Яйцолог",
+        "women_name": "Озорной Яйцолог"
     },
     "tryker_gun_smith_apprentice": {
         "name": "Стрелковое оружие трайкеров: Ученик",
@@ -7595,6 +8439,34 @@
         "name": "Оружие трайкеров: Ученик",
         "women_name": "Оружие трайкеров: Ученица"
     },
+    "trykerambassador": {
+        "name": "Трайкер Посол",
+        "women_name": "Трайкер Посол"
+    },
+    "trykerbutcher": {
+        "name": "Tryker Butcher",
+        "women_name": "Tryker Butcher"
+    },
+    "trykereradicator": {
+        "name": "Tryker Eradicator",
+        "women_name": "Tryker Eradicator"
+    },
+    "trykerslayer": {
+        "name": "Tryker Slayer",
+        "women_name": "Tryker Slayer"
+    },
+    "trykertormentor": {
+        "name": "Tryker Tormentor",
+        "women_name": "Tryker Tormentor"
+    },
+    "tyllwhee": {
+        "name": "Tyllwhee",
+        "women_name": "Tyllwhee"
+    },
+    "ultimate_kung_fu_slayer": {
+        "name": "Ультимативный Кунг-фу Убийца",
+        "women_name": "Ультимативный Кунг-фу Убийца"
+    },
     "unknown": {
         "name": "Неизвестный",
         "women_name": ""
@@ -7606,6 +8478,10 @@
     "vg": {
         "name": "Гид ветеран",
         "women_name": "Гид ветеран"
+    },
+    "viscount_of_avalae": {
+        "name": "Viscount of Avalae",
+        "women_name": "Viscount of Avalae"
     },
     "warlock": {
         "name": "Чародей",
@@ -7623,9 +8499,25 @@
         "name": "Страж ветра",
         "women_name": ""
     },
+    "winnerraceatysmas2019": {
+        "name": "Буран",
+        "women_name": "Вьюга"
+    },
     "witherer": {
         "name": "Иссушитель",
         "women_name": ""
+    },
+    "yubo_herder": {
+        "name": "Пастух Юбо",
+        "women_name": "Пастушка Юбо"
+    },
+    "yuboball_2614": {
+        "name": "Yubo Ball - 2614",
+        "women_name": "Yubo Ball - 2614"
+    },
+    "zombie": {
+        "name": "Зомби",
+        "women_name": "Зомби"
     },
     "zorai_armorer_apprentice": {
         "name": "Доспехи Зораи: Ученик",
@@ -7662,5 +8554,29 @@
     "zorai_weapon_smith_apprentice": {
         "name": "Оружие Зораи: Ученик",
         "women_name": "Оружие Зораи: Ученица"
+    },
+    "zoraiambassador": {
+        "name": "Посол Зораи",
+        "women_name": "Посол Зораи"
+    },
+    "zoraibutcher": {
+        "name": "Zoraï Butcher",
+        "women_name": "Zoraï Butcher"
+    },
+    "zoraieradicator": {
+        "name": "Zoraï Eradicator",
+        "women_name": "Zoraï Eradicator"
+    },
+    "zoraislayer": {
+        "name": "Zoraï Slayer",
+        "women_name": "Zoraï Slayer"
+    },
+    "zoraitormentor": {
+        "name": "Zoraï Tormentor",
+        "women_name": "Zoraï Tormentor"
+    },
+    "zoria_eggs_catcher": {
+        "name": "Мудрый Яйцолог",
+        "women_name": "Мудрый Яйцолог"
     }
 }

@@ -4771,18 +4771,18 @@
     },
     "iccahh": {
         "name": "Tribe Commander Heavy Helmet",
-        "ia": "a",
+        "ia": "",
         "da": "the",
-        "p": "Tribe Commander Heavy Helmets",
+        "p": "Tribe Commander Heavy Helmet",
         "pia": "",
         "pda": "the",
         "description": ""
     },
     "iccahh_b": {
         "name": "Erouk'an's Helmet",
-        "ia": "an",
+        "ia": "",
         "da": "the",
-        "p": "Erouk'an's Helmets",
+        "p": "Erouk'an's Helmet",
         "pia": "",
         "pda": "the",
         "description": ""
@@ -4798,7 +4798,7 @@
     },
     "iccahp_b": {
         "name": "Erouk'an's Leggings",
-        "ia": "",
+        "ia": "des",
         "da": "the",
         "p": "Erouk'an's Leggings",
         "pia": "",
@@ -4825,18 +4825,18 @@
     },
     "iccahv": {
         "name": "Tribe Commander Heavy Vest",
-        "ia": "a",
+        "ia": "",
         "da": "the",
-        "p": "Tribe Commander Heavy Vests",
+        "p": "Tribe Commander Heavy Vest",
         "pia": "",
         "pda": "the",
         "description": ""
     },
     "iccahv_b": {
         "name": "Erouk'an's Breastplate",
-        "ia": "an",
+        "ia": "",
         "da": "the",
-        "p": "Erouk'an's Breastplates",
+        "p": "Erouk'an's Breastplate",
         "pia": "",
         "pda": "the",
         "description": ""
@@ -4879,9 +4879,63 @@
     },
     "iccalv": {
         "name": "Tribe Commander Light Vest",
-        "ia": "a",
+        "ia": "",
         "da": "the",
         "p": "Tribe Commander Light Vest",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "iccamb": {
+        "name": "Tribe Commander Medium Boots",
+        "ia": "",
+        "da": "the",
+        "p": "Tribe Commander Medium Boots",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "iccamg": {
+        "name": "Tribe Commander Medium Gloves",
+        "ia": "",
+        "da": "the",
+        "p": "Tribe Commander Medium Gloves",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "iccamh": {
+        "name": "Tribe Commander Medium Helmet",
+        "ia": "",
+        "da": "the",
+        "p": "Tribe Commander Medium Helmet",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "iccamp": {
+        "name": "Tribe Commander Medium Pants",
+        "ia": "",
+        "da": "the",
+        "p": "Tribe Commander Medium Pants",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "iccams": {
+        "name": "Tribe Commander Medium Sleeves",
+        "ia": "",
+        "da": "the",
+        "p": "Tribe Commander Medium Sleeves",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "iccamv": {
+        "name": "Tribe Commander Medium Vest",
+        "ia": "",
+        "da": "the",
+        "p": "Tribe Commander Medium Vest",
         "pia": "",
         "pda": "the",
         "description": ""
@@ -14721,7 +14775,34 @@
         "p": "Feed Animal #4 Services",
         "pia": "",
         "pda": "the",
-        "description": "The stable boy offers to feed your animal #4. Your animal will be able to eat its fill."
+        "description": ""
+    },
+    "issf5": {
+        "name": "Feed Animal #5 Service",
+        "ia": "",
+        "da": "the",
+        "p": "Feed Animal #5 Service",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "issf6": {
+        "name": "Feed Animal #6 Service",
+        "ia": "",
+        "da": "",
+        "p": "Feed Animal #6 Service",
+        "pia": "",
+        "pda": "",
+        "description": ""
+    },
+    "issf7": {
+        "name": "Feed Animal #7 Service",
+        "ia": "",
+        "da": "",
+        "p": "Feed Animal #7 Service",
+        "pia": "",
+        "pda": "",
+        "description": ""
     },
     "issfa": {
         "name": "Feed Animals Service",
@@ -15124,6 +15205,15 @@
         "ia": "a",
         "da": "the",
         "p": "Light Packages",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "light_sap_recharge": {
+        "name": "Sap Recharge",
+        "ia": "a",
+        "da": "the",
+        "p": "Sap Recharges",
         "pia": "",
         "pda": "the",
         "description": ""
@@ -62909,6 +62999,15 @@
         "pda": "the",
         "description": ""
     },
+    "phial_stackable": {
+        "name": "Salina sap",
+        "ia": "a",
+        "da": "the",
+        "p": "Salina sap",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
     "player_building": {
         "name": "Apartment",
         "ia": "an",
@@ -64557,19 +64656,19 @@
         "description": ""
     },
     "s2e1_salins": {
-        "name": "ripe salin",
+        "name": "Handful of Ripe Salins",
         "ia": "a",
         "da": "the",
-        "p": "ripe salins",
+        "p": "Handfuls of Ripe Salins",
         "pia": "",
         "pda": "the",
         "description": ""
     },
     "s2e1_seve_suc": {
-        "name": "Drop of Salina sap",
+        "name": "Drop of Iridescent Salina Sap",
         "ia": "a",
         "da": "the",
-        "p": "Drops of Salina sap",
+        "p": "Drops of Iridescent Salina Sap",
         "pia": "",
         "pda": "the",
         "description": ""
@@ -64773,12 +64872,12 @@
         "description": ""
     },
     "slot_neck": {
-        "name": "",
-        "ia": "",
-        "da": "",
-        "p": "",
+        "name": "Equip a jewel on the Necklace slot.",
+        "ia": "a",
+        "da": "the",
+        "p": "Equip a jewel on the Necklace slot.",
         "pia": "",
-        "pda": "",
+        "pda": "the",
         "description": ""
     },
     "small_barrel": {

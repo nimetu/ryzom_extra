@@ -4770,7 +4770,7 @@
         "description": ""
     },
     "iccahh": {
-        "name": "CasquelLourd C ommandeur de Tribu",
+        "name": "Casque lourd \/ Commandeur de Tribu",
         "ia": "un",
         "da": "le",
         "p": "Casques lourds \/ Commandeur de Tribu",
@@ -4860,7 +4860,7 @@
         "description": ""
     },
     "iccalp": {
-        "name": "Pantalon Léger \/ Commandeur de Tribu",
+        "name": "Pantalon léger \/ Commandeur de Tribu",
         "ia": "un",
         "da": "le",
         "p": "Pantalons légers \/ Commandeur de Tribu",
@@ -4878,10 +4878,64 @@
         "description": ""
     },
     "iccalv": {
-        "name": "Gilet Léger \/ Commandeur de Tribu",
+        "name": "Gilet léger \/ Commandeur de Tribu",
         "ia": "un",
         "da": "le",
         "p": "Gilets légers \/ Commandeur de Tribu",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "iccamb": {
+        "name": "Bottes moyennes \/ Commandeur de Tribu",
+        "ia": "des",
+        "da": "les",
+        "p": "Bottes moyennes \/ Commandeur de Tribu",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "iccamg": {
+        "name": "Gants moyens \/ Commandeur de Tribu",
+        "ia": "des",
+        "da": "les",
+        "p": "Gants moyens \/ Commandeur de Tribu",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "iccamh": {
+        "name": "Casque moyen \/ Commandeur de Tribu",
+        "ia": "un",
+        "da": "le",
+        "p": "Casque moyens \/ Commandeur de Tribu",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "iccamp": {
+        "name": "Pantalon moyen \/ Commandeur de Tribu",
+        "ia": "un",
+        "da": "le",
+        "p": "Pantalons moyens \/ Commandeur de Tribu",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "iccams": {
+        "name": "Manches moyennes \/ Commandeur de Tribu",
+        "ia": "des",
+        "da": "les",
+        "p": "Manches moyennes \/ Commandeur de Tribu",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "iccamv": {
+        "name": "Gilet moyen \/ Commandeur de Tribu",
+        "ia": "un",
+        "da": "le",
+        "p": "Gilets moyens \/ Commandeur de Tribu",
         "pia": "des",
         "pda": "les",
         "description": ""
@@ -5913,7 +5967,7 @@
         "description": ""
     },
     "icfjb": {
-        "name": "bracelet fyros",
+        "name": "Bracelet fyros",
         "ia": "un",
         "da": "le",
         "p": "Bracelets fyros",
@@ -5940,7 +5994,7 @@
         "description": ""
     },
     "icfjd": {
-        "name": "diadème fyros",
+        "name": "Diadème fyros",
         "ia": "un",
         "da": "le",
         "p": "Diadèmes fyros",
@@ -5967,10 +6021,10 @@
         "description": ""
     },
     "icfje": {
-        "name": "boucle d'oreille fyros",
+        "name": "Boucle d'oreille fyros",
         "ia": "une",
         "da": "la",
-        "p": "boucles d'oreille fyros",
+        "p": "Boucles d'oreille fyros",
         "pia": "des",
         "pda": "les",
         "description": ""
@@ -7506,7 +7560,7 @@
         "description": ""
     },
     "icmjb": {
-        "name": "bracelet matis",
+        "name": "Bracelet matis",
         "ia": "un",
         "da": "le",
         "p": "Bracelets matis",
@@ -7533,7 +7587,7 @@
         "description": ""
     },
     "icmjd": {
-        "name": "diadème matis",
+        "name": "Diadème matis",
         "ia": "un",
         "da": "le",
         "p": "Diadèmes matis",
@@ -7560,10 +7614,10 @@
         "description": ""
     },
     "icmje": {
-        "name": "boucle d'oreille matis",
+        "name": "Boucle d'oreille matis",
         "ia": "une",
         "da": "la",
-        "p": "boucles d'oreille matis",
+        "p": "Boucles d'oreille matis",
         "pia": "des",
         "pda": "les",
         "description": ""
@@ -11169,7 +11223,7 @@
         "description": ""
     },
     "ictjb": {
-        "name": "bracelet tryker",
+        "name": "Bracelet tryker",
         "ia": "un",
         "da": "le",
         "p": "Bracelets trykers",
@@ -11196,7 +11250,7 @@
         "description": ""
     },
     "ictjd": {
-        "name": "diadème fyrker",
+        "name": "Diadème tryker",
         "ia": "un",
         "da": "le",
         "p": "Diadèmes trykers",
@@ -11205,7 +11259,7 @@
         "description": ""
     },
     "ictjd_2": {
-        "name": "Diadème fyrker de qualité moyenne",
+        "name": "Diadème tryker de qualité moyenne",
         "ia": "un",
         "da": "le",
         "p": "Diadèmes trykers de qualité moyenne",
@@ -11214,7 +11268,7 @@
         "description": ""
     },
     "ictjd_3": {
-        "name": "Diadème fyrker de qualité Haute",
+        "name": "Diadème tryker de qualité Haute",
         "ia": "un",
         "da": "le",
         "p": "Diadèmes trykers de qualité Haute",
@@ -11223,10 +11277,10 @@
         "description": ""
     },
     "ictje": {
-        "name": "boucle d'oreille tryker",
+        "name": "Boucle d'oreille tryker",
         "ia": "une",
         "da": "la",
-        "p": "boucles d'oreille trykers",
+        "p": "Boucles d'oreille trykers",
         "pia": "des",
         "pda": "les",
         "description": ""
@@ -12735,7 +12789,7 @@
         "description": ""
     },
     "iczjb": {
-        "name": "bracelet zoraï",
+        "name": "Bracelet zoraï",
         "ia": "un",
         "da": "le",
         "p": "Bracelets zoraïs",
@@ -12762,7 +12816,7 @@
         "description": ""
     },
     "iczjd": {
-        "name": "diadème zoraï",
+        "name": "Diadème zoraï",
         "ia": "un",
         "da": "le",
         "p": "Diadèmes zoraïs",
@@ -12789,10 +12843,10 @@
         "description": ""
     },
     "iczje": {
-        "name": "boucle d'oreille zoraï",
+        "name": "Boucle d'oreille zoraï",
         "ia": "une",
         "da": "la",
-        "p": "boucles d'oreille zoraïs",
+        "p": "Boucles d'oreille zoraïs",
         "pia": "des",
         "pda": "les",
         "description": ""
@@ -14721,7 +14775,34 @@
         "p": "Services 'Nourrir Animal #4'",
         "pia": "des",
         "pda": "les",
-        "description": "Le garçon d'étable vous propose de nourrir votre animal #4. Votre animal sera rassasié."
+        "description": ""
+    },
+    "issf5": {
+        "name": "Service 'Nourrir Animal #5'",
+        "ia": "",
+        "da": "",
+        "p": "Service 'Nourrir Animal #5'",
+        "pia": "",
+        "pda": "",
+        "description": ""
+    },
+    "issf6": {
+        "name": "Service 'Nourrir Animal #6'",
+        "ia": "",
+        "da": "",
+        "p": "Service 'Nourrir Animal #6'",
+        "pia": "",
+        "pda": "",
+        "description": ""
+    },
+    "issf7": {
+        "name": "Service 'Nourrir Animal #7'",
+        "ia": "",
+        "da": "",
+        "p": "Service 'Nourrir Animal #7'",
+        "pia": "",
+        "pda": "",
+        "description": ""
     },
     "issfa": {
         "name": "Service 'Nourrir Animaux'",
@@ -15124,6 +15205,15 @@
         "ia": "un",
         "da": "le",
         "p": "Paquets légers",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "light_sap_recharge": {
+        "name": "Recharge en Sève",
+        "ia": "une",
+        "da": "la",
+        "p": "Recharges en Sèves",
         "pia": "des",
         "pda": "les",
         "description": ""
@@ -58599,10 +58689,10 @@
         "description": ""
     },
     "m0739dxacc01": {
-        "name": "sève cristallisée raffinée",
+        "name": "Sève cristallisée raffinée",
         "ia": "de la",
         "da": "la",
-        "p": "sève cristallisée raffinée",
+        "p": "Sève cristallisée raffinée",
         "pia": "de la",
         "pda": "la",
         "description": ""
@@ -58631,7 +58721,7 @@
         "da": "la",
         "p": "Lianes de Maga modifiées",
         "pia": "",
-        "pda": "des",
+        "pda": "les",
         "description": ""
     },
     "m0743dxacc01": {
@@ -59751,73 +59841,73 @@
         "description": ""
     },
     "m0819dxacc01": {
-        "name": "Ronce de Tekorn raffinée",
+        "name": "Ronce de Tekorn naturelle",
         "ia": "une",
         "da": "la",
-        "p": "Ronces de Tekorn raffinées",
+        "p": "Ronces de Tekorn naturelles",
         "pia": "",
         "pda": "des",
         "description": ""
     },
     "m0820dxacc01": {
-        "name": "Liane de Maga raffinée",
+        "name": "Liane de Maga naturelle",
         "ia": "une",
         "da": "la",
-        "p": "Lianes de Maga raffinées",
+        "p": "Lianes de Maga naturelles",
         "pia": "",
         "pda": "des",
         "description": ""
     },
     "m0821dxacc01": {
-        "name": "Lichen d'Armilo raffiné",
+        "name": "Lichen d'Armilo naturel",
         "ia": "du",
         "da": "le",
-        "p": "Lichens d'Armilo raffinés",
+        "p": "Lichens d'Armilo naturel",
         "pia": "",
         "pda": "des",
         "description": ""
     },
     "m0822dxacc01": {
-        "name": "Filament de Greslin raffiné",
+        "name": "Filament de Greslin naturel",
         "ia": "un",
         "da": "le",
-        "p": "Filaments de Greslin raffinés",
+        "p": "Filaments de Greslin naturels",
         "pia": "",
         "pda": "des",
         "description": ""
     },
     "m0823dxacc01": {
-        "name": "Suc de Vedice raffiné",
+        "name": "Suc de Vedice naturel",
         "ia": "du",
         "da": "le",
-        "p": "Sucs de Vedice raffiné",
+        "p": "Sucs de Vedice naturels",
         "pia": "",
         "pda": "des",
         "description": ""
     },
     "m0824dxacc01": {
-        "name": "Racine de Cheng raffinée",
+        "name": "Racine de Cheng naturelle",
         "ia": "une",
         "da": "la",
-        "p": "Racines de Cheng raffinées",
+        "p": "Racines de Cheng naturelles",
         "pia": "",
         "pda": "des",
         "description": ""
     },
     "m0825dxacc01": {
-        "name": "Gomme de Rubbarn raffinée",
+        "name": "Gomme de Rubbarn naturelle",
         "ia": "de la",
         "da": "la",
-        "p": "Gommes de Rubbarn raffinées",
+        "p": "Gommes de Rubbarn naturelles",
         "pia": "",
         "pda": "des",
         "description": ""
     },
     "m0826dxacc01": {
-        "name": "Pollen d'Égiros raffiné",
+        "name": "Pollen d'Égiros naturel",
         "ia": "du",
         "da": "le",
-        "p": "Pollens d'Égiros raffinés",
+        "p": "Pollens d'Égiros naturels",
         "pia": "",
         "pda": "des",
         "description": ""
@@ -62909,6 +62999,15 @@
         "pda": "les",
         "description": ""
     },
+    "phial_stackable": {
+        "name": "Sève de Salina",
+        "ia": "un",
+        "da": "le",
+        "p": "Sèves de Salina",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
     "player_building": {
         "name": "Appartement de joueur",
         "ia": "un",
@@ -64557,19 +64656,19 @@
         "description": ""
     },
     "s2e1_salins": {
-        "name": "salin mûr",
-        "ia": "un",
-        "da": "le",
-        "p": "salins mûrs",
+        "name": "Poignée de salins mûrs",
+        "ia": "une",
+        "da": "la",
+        "p": "Poignées de salins mûrs",
         "pia": "des",
         "pda": "les",
         "description": ""
     },
     "s2e1_seve_suc": {
-        "name": "Goutelette de suc de salina du Nexus",
+        "name": "Gouttelette de suc irisé de salina",
         "ia": "une",
         "da": "la",
-        "p": "Goutelettes de suc de salina du Nexus",
+        "p": "Gouttelettes de suc irisé de salina",
         "pia": "des",
         "pda": "les",
         "description": ""
@@ -64773,12 +64872,12 @@
         "description": ""
     },
     "slot_neck": {
-        "name": "",
-        "ia": "",
-        "da": "",
-        "p": "",
-        "pia": "",
-        "pda": "",
+        "name": "Équipez un bijou sur l'emplacement des colliers.",
+        "ia": "un",
+        "da": "l'",
+        "p": "Équipez un bijou sur l'emplacement des colliers.",
+        "pia": "des",
+        "pda": "les",
         "description": ""
     },
     "small_barrel": {

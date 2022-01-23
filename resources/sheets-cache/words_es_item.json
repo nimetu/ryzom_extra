@@ -936,11 +936,11 @@
         "description": ""
     },
     "ep2_large_fibers": {
-        "name": "Manojo de Fibras Grande",
+        "name": "Manojo Grande de Fibras",
         "ia": "un",
         "da": "el",
-        "p": "Manojos de Fibras Grande",
-        "pia": "",
+        "p": "Manojos Grandes de Fibras",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -1147,7 +1147,7 @@
         "ia": "un",
         "da": "el",
         "p": "Manojos Pequeños de Fibras",
-        "pia": "",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -2079,7 +2079,7 @@
         "description": ""
     },
     "fy_hof_tatoo11": {
-        "name": "Senal de Ioda",
+        "name": "Señal de Ioda",
         "ia": "una",
         "da": "la",
         "p": "",
@@ -2133,7 +2133,7 @@
         "description": ""
     },
     "fy_hof_tatoo17": {
-        "name": "Mascara de Amenaza",
+        "name": "Máscara de Amenaza",
         "ia": "una",
         "da": "la",
         "p": "",
@@ -2160,16 +2160,16 @@
         "description": ""
     },
     "fy_hof_tatoo2": {
-        "name": "Mascara Fina",
-        "ia": "una",
+        "name": "Máscara Fina",
+        "ia": "",
         "da": "la",
         "p": "",
         "pia": "",
-        "pda": "las",
+        "pda": "",
         "description": ""
     },
     "fy_hof_tatoo20": {
-        "name": "Mascara Enloquecedora",
+        "name": "Máscara Enloquecedora",
         "ia": "una",
         "da": "la",
         "p": "",
@@ -2187,7 +2187,7 @@
         "description": ""
     },
     "fy_hof_tatoo22": {
-        "name": "Mascara de Mascara",
+        "name": "Máscara de Máscara",
         "ia": "una",
         "da": "la",
         "p": "",
@@ -2367,7 +2367,7 @@
         "description": ""
     },
     "fy_hof_tatoo40": {
-        "name": "Lifton Azul",
+        "name": "Listón Azul",
         "ia": "un",
         "da": "el",
         "p": "",
@@ -2430,7 +2430,7 @@
         "description": ""
     },
     "fy_hof_tatoo47": {
-        "name": "Sombre de la Frente",
+        "name": "Sombra de la Frente",
         "ia": "una",
         "da": "la",
         "p": "",
@@ -2538,11 +2538,11 @@
         "description": ""
     },
     "fy_hof_tatoo58": {
-        "name": "Manchas Consientes",
-        "ia": "unas",
-        "da": "las",
-        "p": "",
-        "pia": "",
+        "name": "Mancha Atenta",
+        "ia": "una",
+        "da": "la",
+        "p": "Manchas Atentas",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -2583,7 +2583,7 @@
         "description": ""
     },
     "fy_hof_tatoo62": {
-        "name": "Mascara de Estrella",
+        "name": "Máscara de Estrella",
         "ia": "una",
         "da": "la",
         "p": "",
@@ -3546,49 +3546,49 @@
         "description": ""
     },
     "gubani_mount_0": {
-        "name": "Montura de Gubani",
+        "name": "Montura Gubani",
         "ia": "una",
         "da": "la",
-        "p": "Monturas de Gubanis",
-        "pia": "",
+        "p": "Monturas Gubanis",
+        "pia": "unas",
         "pda": "las",
-        "description": "Monturas de Gubani"
+        "description": ""
     },
     "gubani_mount_1": {
-        "name": "Montura de Gubani",
+        "name": "Montura Gubani",
         "ia": "una",
         "da": "la",
-        "p": "Monturas de Gubanis",
-        "pia": "",
+        "p": "Monturas Gubanis",
+        "pia": "unas",
         "pda": "las",
-        "description": "Monturas de Gubani"
+        "description": ""
     },
     "gubani_mount_2": {
-        "name": "Montura de Gubani",
+        "name": "Montura Gubani",
         "ia": "una",
         "da": "la",
-        "p": "Monturas de Gubanis",
-        "pia": "",
+        "p": "Monturas Gubanis",
+        "pia": "unas",
         "pda": "las",
-        "description": "Monturas de Gubani"
+        "description": ""
     },
     "gubani_mount_3": {
-        "name": "Montura de Gubani",
+        "name": "Montura Gubani",
         "ia": "una",
         "da": "la",
-        "p": "Monturas de Gubanis",
-        "pia": "",
+        "p": "Monturas Gubanis",
+        "pia": "unas",
         "pda": "las",
-        "description": "Monturas de Gubani"
+        "description": ""
     },
     "gubani_mount_4": {
-        "name": "Montura de Gubani",
+        "name": "Montura Gubani",
         "ia": "una",
         "da": "la",
         "p": "Monturas de Gubanis",
         "pia": "",
         "pda": "las",
-        "description": "Monturas de Gubani"
+        "description": ""
     },
     "guild_main_building": {
         "name": "Cámara del Gremio",
@@ -3636,92 +3636,92 @@
         "description": "Zigs Gubani"
     },
     "iadc": {
-        "name": "Mektoub Empacador",
+        "name": "Mektoub Cargador",
         "ia": "un",
         "da": "el",
-        "p": "Mektoub Empacadores",
-        "pia": "",
+        "p": "Mektoubs Cargadores",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "iadd": {
-        "name": "Mektoub Empacador",
+        "name": "Mektoub Cargador",
         "ia": "un",
         "da": "el",
-        "p": "Mektoub Empacadores",
-        "pia": "",
+        "p": "Mektoubs Cargadores",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "iade": {
-        "name": "Mektoub Empacador",
+        "name": "Mektoub Cargador",
         "ia": "un",
         "da": "el",
-        "p": "Mektoub Empacadores",
-        "pia": "",
+        "p": "Mektoubs Cargadores",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "iadf": {
-        "name": "Mektoub Empacador",
+        "name": "Mektoub Cargador",
         "ia": "un",
         "da": "el",
-        "p": "Mektoub Empacadores",
-        "pia": "",
+        "p": "Mektoubs Cargadores",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "iafc": {
-        "name": "Mektoub Empacador",
+        "name": "Mektoub Cargador",
         "ia": "un",
         "da": "el",
-        "p": "Mektoub Empacadores",
-        "pia": "",
+        "p": "Mektoubs Cargadores",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "iafd": {
-        "name": "Mektoub Empacador",
+        "name": "Mektoub Cargador",
         "ia": "un",
         "da": "el",
-        "p": "Mektoub Empacadores",
-        "pia": "",
+        "p": "Mektoubs Cargadores",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "iafe": {
-        "name": "Mektoub Empacador",
+        "name": "Mektoub Cargador",
         "ia": "un",
         "da": "el",
-        "p": "Mektoub Empacadores",
-        "pia": "",
+        "p": "Mektoubs Cargadores",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "iaff": {
-        "name": "Mektoub Empacador",
+        "name": "Mektoub Cargador",
         "ia": "un",
         "da": "el",
-        "p": "Mektoub Empacadores",
-        "pia": "",
+        "p": "Mektoubs Cargadores",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "iajc": {
-        "name": "Mektoub Empacador",
+        "name": "Mektoub Cargador",
         "ia": "un",
         "da": "el",
-        "p": "Mektoub Empacadores",
-        "pia": "",
+        "p": "Mektoubs Cargadores",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "iajd": {
-        "name": "Mektoub Empacador",
+        "name": "Mektoub Cargador",
         "ia": "un",
         "da": "el",
-        "p": "Mektoub Empacadores",
-        "pia": "",
+        "p": "Mektoubs Cargadores",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -3960,13 +3960,13 @@
         "description": "Mektoub de los Lagos con una constitucion muy pobre"
     },
     "iaplf": {
-        "name": "Mektoub Empacador",
+        "name": "Mektoub Cargador",
         "ia": "un",
         "da": "el",
-        "p": "Mektoub Empacadores",
-        "pia": "",
+        "p": "Mektoubs Cargadores",
+        "pia": "unos",
         "pda": "los",
-        "description": "Mektoub de los Lagos con una constitucion muy pobre"
+        "description": ""
     },
     "iapsd": {
         "name": "Mektoub Cargador",
@@ -4146,7 +4146,7 @@
         "p": "Mektoub Cargadores",
         "pia": "",
         "pda": "los",
-        "description": "Mektoub Rápido de los Lagos con excelente constitución"
+        "description": ""
     },
     "iasd": {
         "name": "Montura de Mektoub",
@@ -4257,48 +4257,48 @@
         "description": ""
     },
     "ic_ice_stick": {
-        "name": "Pico para el hielo",
+        "name": "Cayado Helado",
         "ia": "un",
         "da": "el",
-        "p": "Picos para el hielo",
-        "pia": "",
+        "p": "Cayados Helados",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "ic_star_stick": {
-        "name": "cayado estrellado",
+        "name": "Cayado Estrellado",
         "ia": "un",
         "da": "el",
-        "p": "cayados estrellados",
-        "pia": "",
+        "p": "Cayados Estrellados",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "icbm1bm": {
-        "name": "Mazo Nanka de la Sevia Sagrada",
-        "ia": "un",
-        "da": "el",
-        "p": "Mazos Nanka de la Sevia Sagrada",
-        "pia": "",
+        "name": "Maza Nanka de la Savia Sagrada",
+        "ia": "una",
+        "da": "la",
+        "p": "Mazas Nanka de la Savia Sagrada",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "icbm1bm_2": {
-        "name": "Mazo Nanka Mace del Circulo Negro",
-        "ia": "un",
-        "da": "el",
-        "p": "Mazos Nanka Mace del Circulo Negro",
-        "pia": "",
-        "pda": "los",
+        "name": "Maza Nanka del Circulo Negro",
+        "ia": "una",
+        "da": "la",
+        "p": "Mazas Nanka del Circulo Negro",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "icbm1bm_3": {
-        "name": "Mazo Nanka de los Gibads",
-        "ia": "un",
-        "da": "el",
-        "p": "Mazos Nanka de los Gibads",
-        "pia": "",
-        "pda": "los",
+        "name": "Maza Nanka de los Gibads",
+        "ia": "una",
+        "da": "la",
+        "p": "Mazas Nanka de los Gibads",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "icbm1bs": {
@@ -4383,11 +4383,11 @@
         "description": ""
     },
     "icbm1sa": {
-        "name": "Hacha Cleven de los Leviers",
+        "name": "Hacha Cleven de los Recaudadores",
         "ia": "una",
         "da": "la",
-        "p": "Hachas Cleven de los Leviers",
-        "pia": "",
+        "p": "Hachas Cleven de los Recaudadores",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -4423,7 +4423,7 @@
         "ia": "una",
         "da": "la",
         "p": "Espadas de Curtidor de los Tala y Quema",
-        "pia": "",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -4431,54 +4431,54 @@
         "name": "Espada de Curtidor de los Hermanos de la Laguna",
         "ia": "una",
         "da": "la",
-        "p": "Espada sde Curtidor de los Hermanos de la Laguna",
-        "pia": "",
+        "p": "Espadas de Curtidor de los Hermanos de la Laguna",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "icbm2bm": {
-        "name": "Mazo Kanka de los Tutores",
-        "ia": "un",
-        "da": "el",
-        "p": "Mazo Kanka de los Tutores",
-        "pia": "",
-        "pda": "los",
+        "name": "Maza Kanka de los Tutores",
+        "ia": "una",
+        "da": "la",
+        "p": "Maza Kanka de los Tutores",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "icbm2bm_2": {
-        "name": "Mazo Kanka de los Recuperadores",
-        "ia": "un",
-        "da": "el",
-        "p": "Mazos Kanka de los Recuperadores",
-        "pia": "",
-        "pda": "los",
+        "name": "Maza Kanka de los Recuperadores",
+        "ia": "una",
+        "da": "la",
+        "p": "Mazas Kanka de los Recuperadores",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "icbm2pp": {
-        "name": "Pico Krop de los Guardias de la Frontera",
-        "ia": "un",
-        "da": "el",
-        "p": "Picos Krop de los Guardias de la Frontera",
-        "pia": "",
-        "pda": "los",
+        "name": "Pica Krop de los Guardianes de la Frontera Matisian",
+        "ia": "una",
+        "da": "la",
+        "p": "Picas Krop de los Guardianes de la Frontera Matisian",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "icbm2pp_2": {
-        "name": "Pico Krop de los Recolectores Kitin",
-        "ia": "un",
-        "da": "el",
-        "p": "Picos Krop de los Recolectores Kitin",
-        "pia": "",
-        "pda": "los",
+        "name": "Pica Krop de los Recolectores Kitin",
+        "ia": "una",
+        "da": "la",
+        "p": "Picas Krop de los Recolectores Kitin",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "icbm2pp_3": {
-        "name": "Pico Krop de las Antiguas Driadas",
-        "ia": "un",
-        "da": "el",
-        "p": "PicosKrop de las Antiguas Driadas",
-        "pia": "",
-        "pda": "los",
+        "name": "Pica Krop de las Antiguas Driadas",
+        "ia": "una",
+        "da": "la",
+        "p": "Picas Krop de las Antiguas Driadas",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "icbm2sa": {
@@ -4491,11 +4491,11 @@
         "description": ""
     },
     "icbm2sa_2": {
-        "name": "Hacha de Retch de las Bridas Tejidas",
+        "name": "Hacha Retch de las Bridas Tejidas",
         "ia": "una",
         "da": "el",
-        "p": "Hachas de Retch de las Bridas Tejidas",
-        "pia": "",
+        "p": "Hachas Retch de las Bridas Tejidas",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -4572,11 +4572,11 @@
         "description": ""
     },
     "icbr1p_3": {
-        "name": "Pistola Maka de los Esclavos",
+        "name": "Pistola Maka de los Esclavistas",
         "ia": "una",
         "da": "la",
-        "p": "Pistolas Maka de los Esclavos",
-        "pia": "",
+        "p": "Pistolas Maka de los Esclavistas",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -4842,58 +4842,112 @@
         "description": ""
     },
     "iccalb": {
-        "name": "Botas Livianas de la Tribu Boss",
+        "name": "Botas Livianas de Comandante de Tribu",
         "ia": "unas",
         "da": "las",
-        "p": "Botas Livianas de la Tribu Boss",
-        "pia": "",
+        "p": "Botas Livianas de Comandante de Tribu",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "iccalg": {
-        "name": "Guantes Livianos de la Tribu Boss",
+        "name": "Guantes Livianos de Comandante de Tribu",
         "ia": "unos",
         "da": "los",
-        "p": "Guantes Livianos de la Trubu Boss",
-        "pia": "",
+        "p": "Guantes Livianos de Comandante  de Tribu",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "iccalp": {
-        "name": "Pantalones Livianos de la Tribu Boss",
+        "name": "Pantalones Livianos de Comandante de Tribu",
         "ia": "unos",
         "da": "los",
-        "p": "Pantalones Livianos de la Tribu Boss",
-        "pia": "",
+        "p": "Pantalones Livianos de Comandante de Tribu",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "iccals": {
-        "name": "Mangas Livianas de la Tribu Boss",
-        "ia": "unas",
-        "da": "las",
-        "p": "Mangas Livianas de la Tribu Boss",
-        "pia": "",
+        "name": "Mangas Livianas de Comandante de Tribu",
+        "ia": "",
+        "da": "",
+        "p": "Mangas Livianas de Comandante de Tribu",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "iccalv": {
-        "name": "Chaleco Liviano de la Tribu Boss",
+        "name": "Chaleco Liviano de Comandante de Tribu",
         "ia": "un",
         "da": "el",
-        "p": "Chaleco Liviano de la Tribu Boss",
-        "pia": "",
+        "p": "Chalecos Livianos de Comandante de Tribu",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
-    "iccm1bm": {
-        "name": "Mazo",
-        "ia": "un",
-        "da": "el",
-        "p": "Mazos",
+    "iccamb": {
+        "name": "Botas Medianas de Comandante de Tribu",
+        "ia": "",
+        "da": "",
+        "p": "Botas Medianas de Comandante de Tribu",
         "pia": "",
+        "pda": "",
+        "description": ""
+    },
+    "iccamg": {
+        "name": "Guantes Medianos de Comandante de Tribu",
+        "ia": "",
+        "da": "",
+        "p": "Guantes Medianos de Comandante de Tribu",
+        "pia": "",
+        "pda": "",
+        "description": ""
+    },
+    "iccamh": {
+        "name": "Casco Mediano de Comandante de Tribu",
+        "ia": "",
+        "da": "",
+        "p": "Casco Mediano de Comandante de Tribu",
+        "pia": "",
+        "pda": "",
+        "description": ""
+    },
+    "iccamp": {
+        "name": "Pantalones Medianos de Comandante de Tribu",
+        "ia": "uno",
+        "da": "el",
+        "p": "Pantalones Medianos de Comandante de Tribu",
+        "pia": "unos",
         "pda": "los",
-        "description": "Mazos"
+        "description": ""
+    },
+    "iccams": {
+        "name": "Mangas Medianas de Comandante de Tribu",
+        "ia": "",
+        "da": "",
+        "p": "Mangas Medianas de Comandante de Tribu",
+        "pia": "",
+        "pda": "",
+        "description": ""
+    },
+    "iccamv": {
+        "name": "Chaleco Mediano de Comandante de Tribu",
+        "ia": "",
+        "da": "",
+        "p": "Chaleco Mediano de Comandante de Tribu",
+        "pia": "",
+        "pda": "",
+        "description": ""
+    },
+    "iccm1bm": {
+        "name": "Maza",
+        "ia": "una",
+        "da": "la",
+        "p": "Mazas",
+        "pia": "unas",
+        "pda": "las",
+        "description": ""
     },
     "iccm1bs": {
         "name": "Bastón",
@@ -4941,13 +4995,13 @@
         "description": "Espada"
     },
     "iccm2bm": {
-        "name": "Mazo Largo",
-        "ia": "un",
-        "da": "el",
-        "p": "Mazos Largos",
-        "pia": "",
-        "pda": "los",
-        "description": "Mazos Largos"
+        "name": "Maza Largo",
+        "ia": "una",
+        "da": "la",
+        "p": "Mazas Largos",
+        "pia": "unas",
+        "pda": "las",
+        "description": ""
     },
     "iccm2ms": {
         "name": "Amplificador Mágico",
@@ -4977,13 +5031,13 @@
         "description": ""
     },
     "iccm2pp": {
-        "name": "Pico",
-        "ia": "un",
-        "da": "el",
-        "p": "Picos",
-        "pia": "",
-        "pda": "los",
-        "description": "Picos"
+        "name": "Pica",
+        "ia": "una",
+        "da": "la",
+        "p": "Picas",
+        "pia": "unas",
+        "pda": "las",
+        "description": ""
     },
     "iccm2sa": {
         "name": "Hacha Larga",
@@ -5004,31 +5058,31 @@
         "description": "Espada Larga"
     },
     "iccp1bb": {
-        "name": "Munición de Pistola de Arco Destructora",
+        "name": "Munición Demoledora para Pistola de Arco",
         "ia": "una",
         "da": "la",
-        "p": "Municiones de Pistolas de Arco Destructoras",
-        "pia": "",
+        "p": "Municiones Demoledoras para Pistolas de Arco",
+        "pia": "unas",
         "pda": "las",
-        "description": "Munición de Pistola de Arco Destructora"
+        "description": ""
     },
     "iccp1bp": {
-        "name": "Munición de Pistola de Arco Perforadora",
+        "name": "Munición Perforante para Pistola de Arco",
         "ia": "una",
         "da": "la",
-        "p": "Municiones de Pistolas de Arco Perforadoras",
-        "pia": "",
+        "p": "Municiones Perforantes para Pistolas de Arco",
+        "pia": "unas",
         "pda": "las",
-        "description": "Munición de Pistola de Arco Perforadora"
+        "description": ""
     },
     "iccp1bs": {
-        "name": "Munición de Pistola de Arco Cortadora",
+        "name": "Munición Cortante para Pistola de Arco",
         "ia": "una",
         "da": "la",
-        "p": "Municiones de Pistolas de Arco Cortadoras",
-        "pia": "",
+        "p": "Municiones Cortantes para Pistolas de Arco",
+        "pia": "unas",
         "pda": "las",
-        "description": "Munición de Pistola de Arco Cortadora"
+        "description": ""
     },
     "iccp1gb": {
         "name": "Munición de Granada Destructora",
@@ -5247,13 +5301,13 @@
         "description": "Rifle"
     },
     "iccsb": {
-        "name": "Defensa",
-        "ia": "una",
-        "da": "la",
-        "p": "Defensas",
-        "pia": "",
-        "pda": "las",
-        "description": "Defensa"
+        "name": "Broquel",
+        "ia": "",
+        "da": "el",
+        "p": "Broqueles",
+        "pia": "unos",
+        "pda": "los",
+        "description": ""
     },
     "iccss": {
         "name": "Escudo",
@@ -5710,9 +5764,9 @@
         "ia": "un",
         "da": "el",
         "p": "Chalecos Hoben",
-        "pia": "",
+        "pia": "unos",
         "pda": "los",
-        "description": "Chaleco Pesado Fyros"
+        "description": ""
     },
     "icfalv_2": {
         "name": "Chaleco Hobenus",
@@ -5863,9 +5917,9 @@
         "ia": "un",
         "da": "el",
         "p": "Chalecos Rilonyx",
-        "pia": "",
+        "pia": "unos",
         "pda": "los",
-        "description": "Chaleco Alto de Superior Calidad Fyros"
+        "description": ""
     },
     "icfaup": {
         "name": "Calzones Hoben",
@@ -5895,11 +5949,11 @@
         "description": "Tobillera Fyros"
     },
     "icfja_2": {
-        "name": "Tobillera Fyros de Mediana Calidad",
-        "ia": "un",
-        "da": "el",
-        "p": "Tobilleras Fyros de Mediana Calidad",
-        "pia": "",
+        "name": "Tobillera Fyros de Calidad Media",
+        "ia": "una",
+        "da": "la",
+        "p": "Tobilleras Fyros de Calidad Media",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -5922,11 +5976,11 @@
         "description": "Brazalete Fyros"
     },
     "icfjb_2": {
-        "name": "Brazalete Fyros de Mediana Calidad",
+        "name": "Brazalete Fyros de Calidad Media",
         "ia": "un",
         "da": "el",
-        "p": "Brazaletes Fyros de Mediana Calidad",
-        "pia": "",
+        "p": "Brazaletes Fyros de Calidad Media",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -5949,11 +6003,11 @@
         "description": "Diadema Fryos"
     },
     "icfjd_2": {
-        "name": "Diadema Fyros de Mediana Calidad",
+        "name": "Diadema Fyros de Calidad Media",
         "ia": "una",
         "da": "la",
-        "p": "Diademas Fyros de Mediana Calidad",
-        "pia": "",
+        "p": "Diademas Fyros de Calidad Media",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -6048,31 +6102,31 @@
         "description": ""
     },
     "icfm1bm": {
-        "name": "Mazo Masson",
-        "ia": "un",
-        "da": "el",
-        "p": "Mazos Masson",
-        "pia": "",
-        "pda": "los",
-        "description": "Mazo de una Mano Fyros"
+        "name": "Maza Masson",
+        "ia": "una",
+        "da": "la",
+        "p": "Mazas Masson",
+        "pia": "unas",
+        "pda": "las",
+        "description": ""
     },
     "icfm1bm_2": {
-        "name": "Mazo Massonus",
-        "ia": "un",
-        "da": "el",
-        "p": "Mazos Massonus",
-        "pia": "",
-        "pda": "los",
-        "description": "Mazo de Una Mano de Mediana Calidad Fyros"
+        "name": "Maza Massonus",
+        "ia": "una",
+        "da": "la",
+        "p": "Mazas Massonus",
+        "pia": "unas",
+        "pda": "las",
+        "description": ""
     },
     "icfm1bm_3": {
-        "name": "Mazo Massonyx",
-        "ia": "un",
-        "da": "el",
-        "p": "Mazos Massonyx",
-        "pia": "",
-        "pda": "los",
-        "description": "Mazo de Una Mano de Alta Calidad Fyros"
+        "name": "Maza Massonyx",
+        "ia": "una",
+        "da": "la",
+        "p": "Mazas Massonyx",
+        "pia": "unas",
+        "pda": "las",
+        "description": ""
     },
     "icfm1bs": {
         "name": "Bastón Talus",
@@ -6219,31 +6273,31 @@
         "description": "Espada de Una Mano de Superior Calidad Fyros"
     },
     "icfm2bm": {
-        "name": "Mazo Hamp",
-        "ia": "un",
-        "da": "el",
-        "p": "Mazos Hamp",
-        "pia": "",
-        "pda": "los",
-        "description": "Mazo Largo de una Mano Fyros"
+        "name": "Maza Hamp",
+        "ia": "una",
+        "da": "la",
+        "p": "Mazas Hamp",
+        "pia": "unas",
+        "pda": "las",
+        "description": ""
     },
     "icfm2bm_2": {
-        "name": "Mazo Hampus",
-        "ia": "un",
-        "da": "el",
-        "p": "Mazos Hampus",
-        "pia": "",
-        "pda": "los",
-        "description": "Mazo Largo de Dos Manos de Mediana Calidad Fyros"
+        "name": "Maza Hampus",
+        "ia": "una",
+        "da": "la",
+        "p": "Mazas Hampus",
+        "pia": "unas",
+        "pda": "las",
+        "description": ""
     },
     "icfm2bm_3": {
-        "name": "Mazo Hampyx",
-        "ia": "un",
-        "da": "el",
-        "p": "Mazos Hampyx",
-        "pia": "",
-        "pda": "los",
-        "description": "Mazos Largos de Dos Manos de Superior Calidad Fyros"
+        "name": "Maza Hampyx",
+        "ia": "una",
+        "da": "la",
+        "p": "Mazas Hampyx",
+        "pia": "unas",
+        "pda": "las",
+        "description": ""
     },
     "icfm2ms": {
         "name": "Amplificador Mágico Fyros",
@@ -7332,7 +7386,7 @@
         "p": "Botas Striva",
         "pia": "",
         "pda": "las",
-        "description": "Botas Medianas Matis"
+        "description": ""
     },
     "icmamb_2": {
         "name": "Botas Modi Striva",
@@ -7341,7 +7395,7 @@
         "p": "Botas Modi Striva",
         "pia": "",
         "pda": "las",
-        "description": "Botas Medianas de Mediana Calidad Matis"
+        "description": ""
     },
     "icmamb_3": {
         "name": "Botas Kara Striva",
@@ -7350,7 +7404,7 @@
         "p": "Botas Kara Striva",
         "pia": "",
         "pda": "las",
-        "description": "Botas Medianas de Alta Calidad Matis"
+        "description": ""
     },
     "icmamg": {
         "name": "Guantes Striva",
@@ -8451,21 +8505,21 @@
         "description": ""
     },
     "icogenm1bm_1": {
-        "name": "Mazo Tekorn-Gen",
-        "ia": "un",
-        "da": "el",
-        "p": "Mazos Tekorn-Gen",
-        "pia": "",
-        "pda": "los",
+        "name": "Maza Tekorn-Gen",
+        "ia": "una",
+        "da": "la",
+        "p": "Mazas Tekorn-Gen",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "icogenm1bm_2": {
-        "name": "Mazo Vedice-Gen",
-        "ia": "un",
-        "da": "el",
-        "p": "Mazos Vedice-Gen",
-        "pia": "",
-        "pda": "los",
+        "name": "Maza Vedice-Gen",
+        "ia": "una",
+        "da": "la",
+        "p": "Mazas Vedice-Gen",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "icogenm1bs_1": {
@@ -8559,21 +8613,21 @@
         "description": ""
     },
     "icogenm2bm_1": {
-        "name": "Mazo de Dos Manos Tekorn-Gen",
-        "ia": "un",
-        "da": "el",
-        "p": "Mazos de Dos Manos Tekorn-Gen",
-        "pia": "",
-        "pda": "los",
+        "name": "Maza Larga Tekorn-Gen",
+        "ia": "una",
+        "da": "la",
+        "p": "Mazas Largas Tekorn-Gen",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "icogenm2bm_2": {
-        "name": "Mazo de Dos Manos Vedice-Gen",
-        "ia": "un",
-        "da": "el",
-        "p": "Mazos de Dos Manos Vedice-Gen",
-        "pia": "",
-        "pda": "los",
+        "name": "Maza Larga Vedice-Gen",
+        "ia": "una",
+        "da": "la",
+        "p": "Mazas Largas Vedice-Gen",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "icogenm2ms_1": {
@@ -8595,56 +8649,56 @@
         "description": ""
     },
     "icogenm2pp_1": {
-        "name": "Pico Tekorn-Gen",
-        "ia": "un",
-        "da": "el",
-        "p": "Picos Tekorn-Gen",
-        "pia": "",
+        "name": "Pica Tekorn-Gen",
+        "ia": "una",
+        "da": "la",
+        "p": "Picas Tekorn-Gen",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "icogenm2pp_2": {
-        "name": "Pico Vedice-Gen",
-        "ia": "un",
-        "da": "el",
-        "p": "Picos Vedice-Gen",
-        "pia": "",
-        "pda": "los",
+        "name": "Pica Vedice-Gen",
+        "ia": "una",
+        "da": "la",
+        "p": "Picas Vedice-Gen",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "icogenm2sa_1": {
-        "name": "Hacha de Dos Manos Tekorn-Gen",
+        "name": "Hacha Larga Tekorn-Gen",
         "ia": "un",
         "da": "el",
-        "p": "Hachas de Dos Manos Tekorn-Gen",
-        "pia": "",
+        "p": "Hachas Largas Tekorn-Gen",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "icogenm2sa_2": {
-        "name": "Hacha de Dos Manos Vedice-Gen",
+        "name": "Hacha Larga Vedice-Gen",
         "ia": "un",
         "da": "el",
-        "p": "Hachas de Dos Manos Vedice-Gen",
-        "pia": "",
+        "p": "Hachas Largas Vedice-Gen",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "icogenm2ss_1": {
-        "name": "Espada de Dos Manos Tekorn-Gen",
+        "name": "Espada Larga Tekorn-Gen",
         "ia": "una",
         "da": "la",
-        "p": "Espadas de Dos Manos Tekorn-Gen",
-        "pia": "",
+        "p": "Espadas Largas Tekorn-Gen",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "icogenm2ss_2": {
-        "name": "Espada de Dos Manos Vedice-Gen",
+        "name": "Espada Larga Vedice-Gen",
         "ia": "una",
         "da": "la",
-        "p": "Espadas de Dos Manos Vedice-Gen",
-        "pia": "",
+        "p": "Espadas Largas Vedice-Gen",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -8757,38 +8811,38 @@
         "description": ""
     },
     "icogentammo_1": {
-        "name": "Herramienta para Fabricar Munición Armilo-Gen",
+        "name": "Herramienta para Munición Armilo-Gen",
         "ia": "una",
         "da": "la",
-        "p": "Herramientas para Fabricar Munición Armilo-Gen",
-        "pia": "",
+        "p": "Herramientas para Munición Armilo-Gen",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "icogentammo_2": {
-        "name": "Herramienta para Fabricar Munición Rubbarn-Gen",
+        "name": "Herramienta para Munición Rubbarn-Gen",
         "ia": "una",
         "da": "la",
-        "p": "Herramientas para Fabricar Munición Rubbarn-Gen",
-        "pia": "",
+        "p": "Herramientas para Munición Rubbarn-Gen",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "icogentarmor_1": {
-        "name": "Herramienta para Fabricar Armadura Armilo-Gen",
+        "name": "Herramienta para Armadura Armilo-Gen",
         "ia": "una",
         "da": "la",
-        "p": "Herramientas para Fabricar Armadura Armilo-Gen",
-        "pia": "",
+        "p": "Herramientas para Armadura Armilo-Gen",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "icogentarmor_2": {
-        "name": "Herramienta para Fabricar Armadura Rubbarn-Gen",
+        "name": "Herramienta para Armadura Rubbarn-Gen",
         "ia": "una",
         "da": "la",
-        "p": "Herramientas para Fabricar Armadura Rubbarn-Gen Armor",
-        "pia": "",
+        "p": "Herramientas para Armadura Rubbarn-Gen Armor",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -8811,56 +8865,56 @@
         "description": ""
     },
     "icogentjewel_1": {
-        "name": "Herramienta para Fabricar Joya Armilo-Gen",
+        "name": "Herramienta para Joya Armilo-Gen",
         "ia": "una",
         "da": "la",
-        "p": "Herramientas para Fabricar Joya Armilo-Gen",
-        "pia": "",
+        "p": "Herramientas para Joya Armilo-Gen",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "icogentjewel_2": {
-        "name": "Herramienta para Fabricar Joya Rubbarn-Gen",
+        "name": "Herramienta para Joya Rubbarn-Gen",
         "ia": "una",
         "da": "la",
-        "p": "Herramientas para Fabricar Joya Rubbarn-Gen",
-        "pia": "",
+        "p": "Herramientas para Joya Rubbarn-Gen",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "icogentmwea_1": {
-        "name": "Herramienta para Fabricar Armas de Lucha Cuerpo a Cuerpo Armilo-Gen",
+        "name": "Herramienta para Armas Armilo-Gen",
         "ia": "una",
         "da": "la",
-        "p": "Herramientas para Fabricar Armas de Lucha Cuerpo a Cuerpo Armilo-Gen",
+        "p": "Herramientas para Fabricar Armas Armilo-Gen",
         "pia": "",
         "pda": "las",
         "description": ""
     },
     "icogentmwea_2": {
-        "name": "Herramienta para Fabricar Armas de Lucha Cuerpo a Cuerpo Rubbarn-Gen",
+        "name": "Herramienta para Armas Rubbarn-Gen",
         "ia": "una",
         "da": "la",
-        "p": "Herramientas para Fabricar Armas de Lucha Cuerpo a Cuerpo Rubbarn-Gen",
-        "pia": "",
+        "p": "Herramientas para Armas Rubbarn-Gen",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "icogentrwea_1": {
-        "name": "Herramienta para Fabricar Armas de Alcance Armilo-Gen Range",
+        "name": "Herramienta para Armas de Alcance Armilo-Gen",
         "ia": "una",
         "da": "la",
-        "p": "Herramientas para Fabricar Armas de Alcance Armilo-Gen Range",
-        "pia": "",
+        "p": "Herramientas para Armas de Alcance Armilo-Gen",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "icogentrwea_2": {
-        "name": "Herramienta para Fabricar Armas de Alcance Rubbarn-Gen",
+        "name": "Herramienta para Armas de Alcance Rubbarn-Gen",
         "ia": "una",
         "da": "la",
-        "p": "Herramientas para Fabricar Armas de Alcance Rubbarn-Gen",
-        "pia": "",
+        "p": "Herramientas para Armas de Alcance Rubbarn-Gen",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -9045,20 +9099,20 @@
         "description": ""
     },
     "icokamm2ss_1": {
-        "name": "Espada de Dos Manos Tekorn-Duk",
+        "name": "Espada Larga Tekorn-Duk",
         "ia": "una",
         "da": "la",
-        "p": "Espadas de Dos Manos Tekorn-Duk",
-        "pia": "",
+        "p": "Espadas Largas Tekorn-Duk",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "icokamm2ss_2": {
-        "name": "Espada de Dos Manos Vedice-Duk",
+        "name": "Espada Larga Vedice-Duk",
         "ia": "una",
         "da": "la",
-        "p": "Espadas de Dos Manos Vedice-Duk",
-        "pia": "",
+        "p": "Espadas Largas Vedice-Duk",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -9459,20 +9513,20 @@
         "description": ""
     },
     "icokarm2ss_1": {
-        "name": "Espada de Dos Manos Tekorn-Jen",
+        "name": "Espada Larga Tekorn-Jen",
         "ia": "una",
         "da": "la",
-        "p": "Espadas de Dos Manos Tekorn-Jen",
-        "pia": "",
+        "p": "Espadas Largas Tekorn-Jen",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "icokarm2ss_2": {
-        "name": "Espada de Dos Manos Vedice-Jen",
+        "name": "Espada Larga Vedice-Jen",
         "ia": "una",
         "da": "la",
-        "p": "Espadas de Dos Manos Vedice-Jen",
-        "pia": "",
+        "p": "Espadas Largas Vedice-Jen",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -9693,21 +9747,21 @@
         "description": ""
     },
     "icomarm1bm_1": {
-        "name": "Mazo Tekorn-Mar",
-        "ia": "un",
-        "da": "el",
-        "p": "Mazos Tekorn-Mar",
-        "pia": "",
-        "pda": "los",
+        "name": "Maza Tekorn-Mar",
+        "ia": "una",
+        "da": "la",
+        "p": "Mazas Tekorn-Mar",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "icomarm1bm_2": {
-        "name": "Mazo Vedice-Mar",
-        "ia": "un",
-        "da": "el",
-        "p": "Mazos Vedice-Mar",
-        "pia": "",
-        "pda": "los",
+        "name": "Maza Vedice-Mar",
+        "ia": "una",
+        "da": "la",
+        "p": "Mazas Vedice-Mar",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "icomarm1bs_1": {
@@ -9801,21 +9855,21 @@
         "description": ""
     },
     "icomarm2bm_1": {
-        "name": "Mazo de Dos Manos Tekorn-Mar",
-        "ia": "un",
-        "da": "el",
-        "p": "Mazos de Dos Manos Tekorn-Mar",
-        "pia": "",
-        "pda": "los",
+        "name": "Maza Larga Tekorn-Mar",
+        "ia": "una",
+        "da": "la",
+        "p": "Mazas Largas Tekorn-Mar",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "icomarm2bm_2": {
-        "name": "Mazo de Dos Manos Vedice-Mar",
-        "ia": "un",
-        "da": "el",
-        "p": "Mazos de Dos Manos Vedice-Mar",
-        "pia": "",
-        "pda": "los",
+        "name": "Maza Larga Vedice-Mar",
+        "ia": "una",
+        "da": "la",
+        "p": "Mazas Largas Vedice-Mar",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "icomarm2ms_1": {
@@ -9837,56 +9891,56 @@
         "description": ""
     },
     "icomarm2pp_1": {
-        "name": "Pico Tekorn-Mar",
-        "ia": "un",
-        "da": "el",
-        "p": "Picos Tekorn-Mar",
-        "pia": "",
+        "name": "Pica Tekorn-Mar",
+        "ia": "una",
+        "da": "la",
+        "p": "Picas Tekorn-Mar",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "icomarm2pp_2": {
-        "name": "Pico Vedice-Mar",
-        "ia": "un",
-        "da": "el",
-        "p": "Picos Vedice-Mar",
-        "pia": "",
-        "pda": "los",
+        "name": "Pica Vedice-Mar",
+        "ia": "una",
+        "da": "la",
+        "p": "Picas Vedice-Mar",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "icomarm2sa_1": {
-        "name": "Hacha de Dos Manos Tekorn-Mar",
+        "name": "Hacha Larga Tekorn-Mar",
         "ia": "un",
         "da": "el",
-        "p": "Hachas de Dos Manos Tekorn-Mar",
-        "pia": "",
+        "p": "Hachas Largas Tekorn-Mar",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "icomarm2sa_2": {
-        "name": "Hacha de Dos Manos Vedice-Mar",
+        "name": "Hacha Larga Vedice-Mar",
         "ia": "un",
         "da": "el",
-        "p": "Hachas de Dos Manos Vedice-Mar",
-        "pia": "",
+        "p": "Hachas Largas Vedice-Mar",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "icomarm2ss_1": {
-        "name": "Espada de Dos Manos Tekorn-Mar",
+        "name": "Espada Larga Tekorn-Mar",
         "ia": "una",
         "da": "la",
-        "p": "Espadas de Dos Manos Tekorn-Mar",
-        "pia": "",
+        "p": "Espadas Largas Tekorn-Mar",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "icomarm2ss_2": {
-        "name": "Espada de Dos Manos Vedice-Mar",
+        "name": "Espada Larga Vedice-Mar",
         "ia": "una",
         "da": "la",
-        "p": "Espadas de Dos Manos Vedice-Mar",
-        "pia": "",
+        "p": "Espadas Largas Vedice-Mar",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -9981,11 +10035,11 @@
         "description": ""
     },
     "icomarr2r_1": {
-        "name": "Rifle de Tekorn-Mar",
+        "name": "Rifle Tekorn-Mar",
         "ia": "un",
         "da": "el",
-        "p": "Rifles de Tekorn-Mar",
-        "pia": "",
+        "p": "Rifles Tekorn-Mar",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -9999,38 +10053,38 @@
         "description": ""
     },
     "icomartammo_1": {
-        "name": "Herramienta para Fabricar Munición Armilo-Mar",
+        "name": "Herramienta para Munición Armilo-Mar",
         "ia": "una",
         "da": "la",
-        "p": "Herramientas para Fabricar Munición Armilo-Mar",
-        "pia": "",
+        "p": "Herramientas para Munición Armilo-Mar",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "icomartammo_2": {
-        "name": "Herramienta para Fabricar Munición Rubbarn-Mar",
+        "name": "Herramienta para Munición Rubbarn-Mar",
         "ia": "una",
         "da": "la",
-        "p": "Herramientas para Fabricar Munición Rubbarn-Mar",
-        "pia": "",
+        "p": "Herramientas para Munición Rubbarn-Mar",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "icomartarmor_1": {
-        "name": "Herramienta para Fabricar Armadura Armilo-Mar",
+        "name": "Herramienta para Armadura Armilo-Mar",
         "ia": "una",
         "da": "la",
-        "p": "Herramientas para Fabricar Armadura Armilo-Mar",
-        "pia": "",
+        "p": "Herramientas para Armadura Armilo-Mar",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "icomartarmor_2": {
-        "name": "Herramienta para Fabricar Armadura Rubbarn-Mar",
+        "name": "Herramienta para Armadura Rubbarn-Mar",
         "ia": "una",
         "da": "la",
-        "p": "Herramientas para Fabricar Armadura Rubbarn-Mar Armor",
-        "pia": "",
+        "p": "Herramientas para Armadura Rubbarn-Mar",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -10071,38 +10125,38 @@
         "description": ""
     },
     "icomartmwea_1": {
-        "name": "Herramienta para Fabricar Armas de Lucha Cuerpo a Cuerpo Armilo-Mar",
+        "name": "Herramienta para Fabricar Armas Armilo-Mar",
         "ia": "una",
         "da": "la",
-        "p": "Herramientas para Fabricar Armas de Lucha Cuerpo a Cuerpo Armilo-Mar",
-        "pia": "",
+        "p": "Herramientas para Fabricar Armas Armilo-Mar",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "icomartmwea_2": {
-        "name": "Herramienta para Fabricar Armas de Lucha Cuerpo a Cuerpo Rubbarn-Mar",
+        "name": "Herramienta para Armas Rubbarn-Mar",
         "ia": "una",
         "da": "la",
-        "p": "Herramientas para Fabricar Armas de Lucha Cuerpo a Cuerpo Rubbarn-Mar",
-        "pia": "",
+        "p": "Herramientas para Armas Rubbarn-Mar",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "icomartrwea_1": {
-        "name": "Herramienta para Fabricar Armas de Alcance Armilo-Mar Range",
+        "name": "Herramienta para Armas de Alcance Armilo-Mar",
         "ia": "una",
         "da": "la",
-        "p": "Herramientas para Fabricar Armas de Alcance Armilo-Mar Range",
-        "pia": "",
+        "p": "Herramientas para Armas de Alcance Armilo-Mar",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "icomartrwea_2": {
-        "name": "Herramienta para Fabricar Armas de Alcance Rubbarn-Mar",
+        "name": "Herramienta para Armas de Alcance Rubbarn-Mar",
         "ia": "una",
         "da": "la",
-        "p": "Herramientas para Fabricar Armas de Alcance Rubbarn-Mar",
-        "pia": "",
+        "p": "Herramientas para Armas de Alcance Rubbarn-Mar",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -11623,9 +11677,9 @@
         "ia": "una",
         "da": "la",
         "p": "Espadas Ondeantes Flences",
-        "pia": "",
+        "pia": "unas",
         "pda": "las",
-        "description": "Espada Larga Ondeante de Dos Manos Tryker"
+        "description": ""
     },
     "ictp1bb": {
         "name": "Munición de Fletcher Destructor",
@@ -13167,13 +13221,13 @@
         "description": "Hacha Larga de Dos Manos de Alta Calidad Zoraï"
     },
     "iczm2ss": {
-        "name": "Espadas Matchata",
+        "name": "Espada Matchata",
         "ia": "una",
         "da": "la",
         "p": "Espadas Matchata",
-        "pia": "",
+        "pia": "unas",
         "pda": "las",
-        "description": "Espada Larga de Dos Manos Zoraï"
+        "description": ""
     },
     "iczm2ss_2": {
         "name": "Espada Li'Matchata",
@@ -13626,31 +13680,31 @@
         "description": "Escudo de Alta Calidad Zoraï"
     },
     "if1": {
-        "name": "Paca de Búsqueda Básica",
+        "name": "Paca Básica de Heno",
         "ia": "una",
         "da": "las",
-        "p": "Pacas de Búsqueda Básica",
-        "pia": "",
+        "p": "Pacas Básicas de Heno",
+        "pia": "unas",
         "pda": "las",
-        "description": "\"Este articulo debe colocarse en tu inventario de animales para este que pueda utilizarlo. Cuando sienta hambre, lo va a utilizar automáticamente, restaurando 500 Puntos de Hambre.\""
+        "description": ""
     },
     "if2": {
-        "name": "Paca de Búsqueda Concentrada",
+        "name": "Paca Concentrada de Heno",
         "ia": "una",
         "da": "las",
-        "p": "Pacas de Búsqueda Concentrada",
-        "pia": "",
+        "p": "Pacas Concentradas de Heno",
+        "pia": "unas",
         "pda": "las",
-        "description": "\"Este articulo debe colocarse en tu inventario de animales para que pueda utilizarlo. Cuando sienta hambre, lo va a utilizar automáticamente, restaurando 500 Puntos de Hambre.\""
+        "description": ""
     },
     "if3": {
-        "name": "Paca de Búsqueda Pequeña",
+        "name": "Paca Pequeña de Heno",
         "ia": "una",
         "da": "las",
-        "p": "Pacas de Búsqueda Pequeña",
-        "pia": "",
+        "p": "Pacas Pequeñas de Heno",
+        "pia": "unas",
         "pda": "las",
-        "description": "\"Este articulo debe colocarse en tu inventario de animales para que pueda utilizarlo. Cuando sienta hambre, lo va a utilizar automáticamente, restaurando 300 Puntos de Hambre.\""
+        "description": ""
     },
     "ikamacp_ep2_1": {
         "name": "Vestido Kamist",
@@ -14721,7 +14775,34 @@
         "p": "Servicios de Alimentación Animal #4",
         "pia": "",
         "pda": "the",
-        "description": "El mozo del establo te ofrece alimentar a tu animal #4. Tu animal será capaz de comer su relleno."
+        "description": ""
+    },
+    "issf5": {
+        "name": "Servicio de Alimentación Animal #5",
+        "ia": "",
+        "da": "",
+        "p": "Servicio de Alimentación Animal #5",
+        "pia": "",
+        "pda": "",
+        "description": ""
+    },
+    "issf6": {
+        "name": "Servicio de Alimentación Animal #6",
+        "ia": "",
+        "da": "",
+        "p": "Servicio de Alimentación Animal #6",
+        "pia": "",
+        "pda": "",
+        "description": ""
+    },
+    "issf7": {
+        "name": "Servicio de Alimentación Animal #7",
+        "ia": "",
+        "da": "",
+        "p": "Servicio de Alimentación Animal #7",
+        "pia": "",
+        "pda": "",
+        "description": ""
     },
     "issfa": {
         "name": "Servicio de Alimentación Animal",
@@ -15128,6 +15209,15 @@
         "pda": "los",
         "description": ""
     },
+    "light_sap_recharge": {
+        "name": "Recarga de Savia",
+        "ia": "una",
+        "da": "la",
+        "p": "Recargas de Savia",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
     "list_of_merchandises": {
         "name": "Lista de Mercancías",
         "ia": "una",
@@ -15174,11 +15264,11 @@
         "description": ""
     },
     "m0001dxadd01": {
-        "name": "Manojo de Madera de Abhaya de Selección del Desierto",
+        "name": "Manojo de Madera Selecta de Abhaya del Desierto",
         "ia": "un",
         "da": "el",
-        "p": "Manojos de Madera de Abhaya de Selección del Desierto",
-        "pia": "",
+        "p": "Manojos de Madera Selecta de Abhaya del Desierto",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -15327,137 +15417,137 @@
         "description": ""
     },
     "m0006dxadd01": {
-        "name": "Fibra de Anete Selecta del Desierto",
+        "name": "Fibra Selecta de Anete del Desierto",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Anete Selectas del Desierto",
-        "pia": "",
+        "p": "Fibras Selectas de Anete del Desierto",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0006dxade01": {
-        "name": "Fibra de Anete Excelente del Desierto",
+        "name": "Fibra Excelente de Anete del Desierto",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Anete Selectas del Desierto",
-        "pia": "",
+        "p": "Fibras Excelentes de Anete del Desierto",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0006dxadf01": {
-        "name": "Fibra de Anete Suprema del Desierto",
+        "name": "Fibra Suprema de Anete del Desierto",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Anete Supremas del Desierto",
-        "pia": "",
+        "p": "Fibras Supremas de Anete del Desierto",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0006dxafd01": {
-        "name": "Fibra de Anete Selecta del Bosque",
+        "name": "Fibra Selecta de Anete del Bosque",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Anete Selectas del Bosque",
-        "pia": "",
+        "p": "Fibras Selectas de Anete del Bosque",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0006dxafe01": {
-        "name": "Fibra de Anete Excelente del Bosque",
+        "name": "Fibra Excelente de Anete del Bosque",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Anete Excelentes del Bosque",
-        "pia": "",
+        "p": "Fibras Excelentes de Anete del Bosque",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0006dxaff01": {
-        "name": "Fibra de Anete Suprema del Bosque",
+        "name": "Fibra Suprema de Anete del Bosque",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Anete Supremas del Bosque",
-        "pia": "",
+        "p": "Fibras Supremas de Anete del Bosque",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0006dxajd01": {
-        "name": "Fibra de Anete Selecta de la Selva",
+        "name": "Fibra Selecta de Anete de la Selva",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Anete Selectas de la Selva",
-        "pia": "",
+        "p": "Fibras Selectas de Anete de la Selva",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0006dxaje01": {
-        "name": "Fibra de Anete Excelente de la Selva",
+        "name": "Fibra Excelente de Anete de la Selva",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Anete Excelentes de la Selva",
-        "pia": "",
+        "p": "Fibras Excelentes de Anete de la Selva",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0006dxajf01": {
-        "name": "Fibra de Anete Suprema de la Selva",
+        "name": "Fibra Suprema de Anete de la Selva",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Anete Supremas de la Selva",
-        "pia": "",
+        "p": "Fibras Supremas de Anete de la Selva",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0006dxald01": {
-        "name": "Fibra de Anete Selecta de los Lagos",
+        "name": "Fibra Selecta de Anete de los Lagos",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Anete Selectas de las Lagos",
-        "pia": "",
+        "p": "Fibras Selectas de Anete de las Lagos",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0006dxale01": {
-        "name": "Fibra de Anete Excelente de los Lagos",
+        "name": "Fibra Excelente de Anete de los Lagos",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Anete Excelente de los Lagos",
-        "pia": "",
+        "p": "Fibras Excelentes de Anete de los Lagos",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0006dxalf01": {
-        "name": "Fibra de Anete Suprema de los Lagos",
+        "name": "Fibra Suprema de Anete de los Lagos",
         "ia": "algo de",
         "da": "la",
         "p": "Fibras de Anete Suprema de los Lagos",
-        "pia": "",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0006dxapd01": {
-        "name": "Fibra de Anete Selecta de la Primera Raíz",
+        "name": "Fibra Selecta de Anete de las Raíces Primarias",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Anete Selectas de la Primera Raíz",
-        "pia": "",
+        "p": "Fibras Selectas de Anete de las Raíces Primarias",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0006dxape01": {
-        "name": "Fibra de Anete Excelente de la Primera Raíz",
+        "name": "Fibra Excelente de Anete de las Raíces Primarias",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Anete Excelente de la Primera Raíz",
-        "pia": "",
+        "p": "Fibras Excelentes de Anete de las Raíces Primarias",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0006dxapf01": {
-        "name": "Fibra de Anete Suprema de la Primera Raíz",
+        "name": "Fibra Suprema de Anete de las Raíces Primarias",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Anete Supremas de la Primera Raíz",
-        "pia": "",
+        "p": "Fibras Supremas de Anete de las Raíces Primarias",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -15750,11 +15840,11 @@
         "description": ""
     },
     "m0015dxadd01": {
-        "name": "Ámbar Beng de Selección del Desierto",
+        "name": "Ámbar Beng Selecto del Desierto",
         "ia": "algo de",
         "da": "el",
-        "p": "Ámbar Beng de Selección del Desierto",
-        "pia": "",
+        "p": "Ámbares Beng Selectos del Desierto",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -15777,11 +15867,11 @@
         "description": ""
     },
     "m0015dxafd01": {
-        "name": "Ámbar Beng de Selección del Bosque",
+        "name": "Ámbar Beng Selecto del Bosque",
         "ia": "algo de",
         "da": "el",
-        "p": "Ámbar Beng de Selección del Bosque",
-        "pia": "",
+        "p": "Ámbares Beng Selectos del Bosque",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -15804,11 +15894,11 @@
         "description": ""
     },
     "m0015dxajd01": {
-        "name": "Ámbar Beng de Selección de la Selva",
+        "name": "Ámbar Beng Selecto de la Selva",
         "ia": "algo de",
         "da": "el",
-        "p": "Ámbar Beng de Selección de la Selva",
-        "pia": "",
+        "p": "Ámbares Beng Selectos de la Selva",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -15831,11 +15921,11 @@
         "description": ""
     },
     "m0015dxald01": {
-        "name": "Ámbar Beng de Selección de los Lagos",
+        "name": "Ámbar Beng Selecto de los Lagos",
         "ia": "algo de",
         "da": "el",
-        "p": "Ámbar Beng de Selección de los Lagos",
-        "pia": "",
+        "p": "Ámbares Beng Selectos de los Lagos",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -15858,11 +15948,11 @@
         "description": ""
     },
     "m0015dxapd01": {
-        "name": "Ámbar Beng de Selección de las Primeras Raíces",
+        "name": "Ámbar Beng Selecto de las Raíces Primarias",
         "ia": "algo de",
         "da": "el",
-        "p": "Ámbar Beng de Selección de las Primeras Raíces",
-        "pia": "",
+        "p": "Ámbares Beng Selectos de las Raíces Primarias",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -15903,11 +15993,11 @@
         "description": ""
     },
     "m0016dxadd01": {
-        "name": "Fragmento de Concha Grande de Selección del Desierto",
+        "name": "Fragmento de Concha Grande Selecta del Desierto",
         "ia": "un",
         "da": "el",
-        "p": "Fragmentos de Concha Grande de Selección del Desierto",
-        "pia": "",
+        "p": "Fragmentos de Concha Grande Selecta del Desierto",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -15930,11 +16020,11 @@
         "description": ""
     },
     "m0016dxafd01": {
-        "name": "Fragmento de Concha Grande de Selección del Bosque",
+        "name": "Fragmento Selecto de Concha Grande del Bosque",
         "ia": "un",
         "da": "el",
-        "p": "Fragmentos de Concha Grande de Selección del Bosque",
-        "pia": "",
+        "p": "Fragmentos Selectos de Concha Grande del Bosque",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -15957,11 +16047,11 @@
         "description": ""
     },
     "m0016dxajd01": {
-        "name": "Fragmento de Concha Grande de Selección de la Selva",
+        "name": "Fragmento Selecto de Concha Grande de la Selva",
         "ia": "un",
         "da": "el",
-        "p": "Fragmentos de Concha Grande de Selección de la Selva",
-        "pia": "",
+        "p": "Fragmentos Selectos de Concha Grande de la Selva",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -15984,11 +16074,11 @@
         "description": ""
     },
     "m0016dxald01": {
-        "name": "Fragmento de Concha Grande de Selección de los Lagos",
+        "name": "Fragmento Selecto de Concha Grande de los Lagos",
         "ia": "un",
         "da": "el",
-        "p": "Fragmentos de Concha Grande de Selección de los Lagos",
-        "pia": "",
+        "p": "Fragmentos Selectos de Concha Grande de los Lagos",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -16011,11 +16101,11 @@
         "description": ""
     },
     "m0016dxapd01": {
-        "name": "Fragmento de Concha Grande de Selección de la Primera Raíz",
+        "name": "Fragmento Selecto de Concha Grande de las Raíces Primarias",
         "ia": "un",
         "da": "el",
-        "p": "Fragmentos de Concha Grande de Selección de la Primera Raíz",
-        "pia": "",
+        "p": "Fragmentos Selectos de Concha Grande de las Raíces Primarias",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -16155,11 +16245,11 @@
         "description": ""
     },
     "m0019chbfc01": {
-        "name": "Fragmento de Piel de Bodoc de Selección del Bosque",
+        "name": "Trozo Selecto de Piel de Bodoc del Bosque",
         "ia": "un",
         "da": "el",
-        "p": "Fragmentos de Piel de Bodoc de Selección del Bosque",
-        "pia": "",
+        "p": "Trozos Selectos de Piel de Bodoc del Bosque",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -16245,11 +16335,11 @@
         "description": ""
     },
     "m0020chbfc01": {
-        "name": "Una de Bodoc de Selección del Bosque",
+        "name": "Uña Selecta de Bodoc del Bosque",
         "ia": "una",
         "da": "la",
-        "p": "Unas de Bodoc de Selección del Bosque",
-        "pia": "",
+        "p": "Uñas Selectas de Bodoc del Bosque",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -16308,155 +16398,155 @@
         "description": ""
     },
     "m0021dxacb01": {
-        "name": "Fibra de Buo Básico",
+        "name": "Fibra Básica de Buo",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Buo Básico",
-        "pia": "",
+        "p": "Fibras Básicas de Buo",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0021dxacc01": {
-        "name": "Fibra de Buo Fino",
+        "name": "Fibra Fina de Buo",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Buo Fino",
-        "pia": "",
+        "p": "Fibras Finas de Buo",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0021dxadd01": {
-        "name": "Fibra de Buo de Selección del Desierto",
+        "name": "Fibra Selecta de Buo del Desierto",
         "ia": "algo",
         "da": "la",
-        "p": "Fibras de Buo de Selección del Desierto",
-        "pia": "",
+        "p": "Fibras Selectas de Buo del Desierto",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0021dxade01": {
-        "name": "Fibra de Buo Excelente del Desierto",
+        "name": "Fibra Excelente de Buo del Desierto",
         "ia": "algo",
         "da": "la",
-        "p": "Fibras de Buo Excelente del Desierto",
-        "pia": "",
+        "p": "Fibras Excelentes de Buo del Desierto",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0021dxadf01": {
-        "name": "Fibra de Buo Supremo del Desierto",
+        "name": "Fibra Suprema de Buo del Desierto",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Buo Supremo del Desierto",
-        "pia": "",
+        "p": "Fibras Supremas de Buo del Desierto",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0021dxafd01": {
-        "name": "Fibra Buo de Selección del Bosque",
+        "name": "Fibra Selecta de Buo del Bosque",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Buo de Selección del Bosque",
-        "pia": "",
+        "p": "Fibras Selectas de Buo del Bosque",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0021dxafe01": {
-        "name": "Fibra de Buo Excelente del Bosque",
+        "name": "Fibra Excelente de Buo del Bosque",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Buo Excelente del Bosque",
-        "pia": "",
+        "p": "Fibras Excelentes de Buo del Bosque",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0021dxaff01": {
-        "name": "Fibra de Buo Supremo del Bosque",
+        "name": "Fibra Suprema de Buo del Bosque",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Buo Supremo del Bosque",
-        "pia": "",
+        "p": "Fibras Supremas de Buo del Bosque",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0021dxajd01": {
-        "name": "Fibra de Buo de Selección de la Selva",
+        "name": "Fibra Selecta de Buo de la Selva",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Buo de Selección de la Selva",
-        "pia": "",
+        "p": "Fibras Selectas de Buo de la Selva",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0021dxaje01": {
-        "name": "Fibra de Buo Excelente de la Selva",
+        "name": "Fibra Excelente de Buo de la Selva",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Buo Excelente de la Selva",
-        "pia": "",
+        "p": "Fibras Excelentes de Buo de la Selva",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0021dxajf01": {
-        "name": "Fibra de Buo Supremo de la Selva",
+        "name": "Fibra Suprema de Buo de la Selva",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Buo Excelente de la Selva",
-        "pia": "",
+        "p": "Fibras Supremas de Buo de la Selva",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0021dxald01": {
-        "name": "Fibra de Buo de Selección de los Lagos",
+        "name": "Fibra Selecta de Buo de los Lagos",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Buo de Selección de los Lagos",
-        "pia": "",
+        "p": "Fibras Selectas de Buo de los Lagos",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0021dxale01": {
-        "name": "Fibra de Buo Excelente de los Lagos",
+        "name": "Fibra Excelente de Buo de los Lagos",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Buo Excelente de los Lagos",
-        "pia": "",
+        "p": "Fibras Excelentes de Buo de los Lagos",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0021dxalf01": {
-        "name": "Fibra de Buo Supremo de los Lagos",
+        "name": "Fibra Suprema de Buo de los Lagos",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Buo Supremo de los Lagos",
-        "pia": "",
+        "p": "Fibras Supremas de Buo de los Lagos",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0021dxapd01": {
-        "name": "Fibra de Buo de Elección de Primera Raíz",
+        "name": "Fibra Selecta de Buo de las Raíces Primarias",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Buo de Elección de Primera Raíz",
-        "pia": "",
+        "p": "Fibras Selectas de Buo de las Raíces Primarias",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0021dxape01": {
-        "name": "Fibra de Buo Excelente de Raíz Primaria",
+        "name": "Fibra Excelente de Buo de las Raíces Primarias",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Buo Excelente de Raíz Primaria",
-        "pia": "",
+        "p": "Fibras Excelentes de Buo de las Raíces Primarias",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0021dxapf01": {
-        "name": "Fibra de Buo Supremo de Raíz Primaria",
+        "name": "Fibra Suprema de Buo de las Raíces Primarias",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Buo Supremo de Raíz Primaria",
-        "pia": "",
+        "p": "Fibras Supremas de Buo de las Raíces Primarias",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -16479,11 +16569,11 @@
         "description": ""
     },
     "m0023dxadd01": {
-        "name": "Semilla de Capricho de Selección del Desierto",
+        "name": "Semilla Selecta de Capricho del Desierto",
         "ia": "una",
         "da": "la",
-        "p": "Semillas de Capricho de Selección del Desierto",
-        "pia": "",
+        "p": "Semillas Selectas de Capricho del Desierto",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -16533,11 +16623,11 @@
         "description": ""
     },
     "m0023dxajd01": {
-        "name": "Semilla de Capricho de Selección de la Selva",
+        "name": "Semilla Selecta de Capricho de la Selva",
         "ia": "una",
         "da": "la",
-        "p": "Semillas de Capricho de Selección de la Selva",
-        "pia": "",
+        "p": "Semillas Selectas de Capricho de la Selva",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -16560,11 +16650,11 @@
         "description": ""
     },
     "m0023dxald01": {
-        "name": "Semilla de Capricho de Selección de los Lagos",
+        "name": "Semilla Selecta de Capricho de los Lagos",
         "ia": "una",
         "da": "la",
-        "p": "Semillas de Capricho de Selección de los Lagos",
-        "pia": "",
+        "p": "Semillas Selectas de Capricho de los Lagos",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -16587,11 +16677,11 @@
         "description": ""
     },
     "m0023dxapd01": {
-        "name": "Semilla de Capricho de Selección de la Primera Raíz",
+        "name": "Semilla Selecta de Capricho de las Raíces Primarias",
         "ia": "una",
         "da": "la",
-        "p": "Semillas de Capricho de Selección de la Primera Raíz",
-        "pia": "",
+        "p": "Semillas Selectas de Capricho de las Raíces Primarias",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -16713,11 +16803,11 @@
         "description": ""
     },
     "m0031dxadd01": {
-        "name": "Fragmento de Selección de Concha de Cuty del Desierto",
+        "name": "Fragmento Selecto de Concha Cuty del Desierto",
         "ia": "un",
         "da": "el",
-        "p": "Fragmentos de Selección de Concha de Cuty del Desierto",
-        "pia": "",
+        "p": "Fragmentos Selectos de Concha Cuty del Desierto",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -16740,11 +16830,11 @@
         "description": ""
     },
     "m0031dxafd01": {
-        "name": "Fragmento de Selección de Concha de Cuty del Bosque",
+        "name": "Fragmento Selecto de Concha Cuty del Bosque",
         "ia": "un",
         "da": "el",
-        "p": "Fragmentos de Selección de Concha de Cuty del Bosque",
-        "pia": "",
+        "p": "Fragmentos Selectos de Concha Cuty del Bosque",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -16767,11 +16857,11 @@
         "description": ""
     },
     "m0031dxajd01": {
-        "name": "Fragmento de Selección de Concha de Cuty de la Selva",
+        "name": "Fragmento Selecto de Concha Cuty de la Selva",
         "ia": "un",
         "da": "el",
-        "p": "Fragmentos de Selección de Concha de Cuty de la Selva",
-        "pia": "",
+        "p": "Fragmentos Selectos de Concha Cuty de la Selva",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -16794,11 +16884,11 @@
         "description": ""
     },
     "m0031dxald01": {
-        "name": "Fragmento de Selección Concha de Cuty de los Lagos",
+        "name": "Fragmento Selecto de Concha Cuty de los Lagos",
         "ia": "un",
         "da": "el",
-        "p": "Fragmentos de Selección Concha de Cuty de los Lagos",
-        "pia": "",
+        "p": "Fragmentos Selectos de Concha Cuty de los Lagos",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -16821,11 +16911,11 @@
         "description": ""
     },
     "m0031dxapd01": {
-        "name": "Fragmento de Selección de Concha de Cuty de la Primera Raíz",
+        "name": "Fragmento Selecto de Concha Cuty de las Raíces Primarias",
         "ia": "un",
         "da": "el",
-        "p": "Fragmentos de Selección de Concha de Cuty de la Primera Raíz",
-        "pia": "",
+        "p": "Fragmentos Selectos de Concha Cuty de las Raíces Primarias",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -16861,16 +16951,16 @@
         "ia": "algo de",
         "da": "la",
         "p": "Fibras Finas de Dzao",
-        "pia": "",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0037dxadd01": {
-        "name": "Fibra de Selección de Dzao del Desierto",
+        "name": "Fibra Selecta de Dzao del Desierto",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Selección de Dzao del Desierto",
-        "pia": "",
+        "p": "Fibras Selectas de Dzao del Desierto",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -16893,11 +16983,11 @@
         "description": ""
     },
     "m0037dxafd01": {
-        "name": "Fibra de Selección de Dzaeo del Bosque",
-        "ia": "algo de",
+        "name": "Fibra Selecta de Dzao del Bosque",
+        "ia": "una",
         "da": "la",
-        "p": "Fibras de Selección de Dzao del Bosque",
-        "pia": "",
+        "p": "Fibras Selectas de Dzao del Bosque",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -16920,11 +17010,11 @@
         "description": ""
     },
     "m0037dxajd01": {
-        "name": "Fibra de Selección de Dzao de la Selva",
+        "name": "Fibra Selecta de Dzao de la Selva",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Selección de Dzao de la Selva",
-        "pia": "",
+        "p": "Fibras Selecta de Dzao de la Selva",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -16950,8 +17040,8 @@
         "name": "Fibra Selecta de Dzao de los Lagos",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Selección de Dzao de los Lagos",
-        "pia": "",
+        "p": "Fibras Selectas de Dzao de los Lagos",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -16974,11 +17064,11 @@
         "description": ""
     },
     "m0037dxapd01": {
-        "name": "Fibra de Selección Dzao de la Primera Raíz",
+        "name": "Fibra Selecta de Dzao de las Raíces Primarias",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Selección de Dzao de la Primera Raíz",
-        "pia": "",
+        "p": "Fibras Selectas de Dzao de las Raíces Primarias",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -17022,8 +17112,8 @@
         "name": "Manojo Selecto de Madera de Eyota del Desierto",
         "ia": "un",
         "da": "el",
-        "p": "Manojos de Madera de Eyota de Selección del Desierto",
-        "pia": "",
+        "p": "Manojos de Madera Selecta de Eyota del Desierto",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -17046,11 +17136,11 @@
         "description": ""
     },
     "m0040dxafd01": {
-        "name": "Manojo de Madera de Eyota de Selección del Bosque",
+        "name": "Manojo Selecto de Madera de Eyota del Bosque",
         "ia": "un",
         "da": "el",
-        "p": "Manojos de Madera de Eyota de Selección del Bosque",
-        "pia": "",
+        "p": "Manojos Selectos de Madera de Eyota del Bosque",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -17073,11 +17163,11 @@
         "description": ""
     },
     "m0040dxajd01": {
-        "name": "Manojo de Madera de Eyota de Selección de la Selva",
+        "name": "Manojo Selecto de Madera de Eyota de la Selva",
         "ia": "un",
         "da": "el",
-        "p": "Manojos de Madera de Eyota de Selección de la Selva",
-        "pia": "",
+        "p": "Manojos Selectos de Madera de Eyota de la Selva",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -17100,11 +17190,11 @@
         "description": ""
     },
     "m0040dxald01": {
-        "name": "Manojo de Madera de Eyota de Selección de los Lagos",
+        "name": "Manojo Selecto de Madera de Eyota de los Lagos",
         "ia": "un",
         "da": "el",
-        "p": "Manojos de Madera de Eyota de Selección de los Lagos",
-        "pia": "",
+        "p": "Manojos Selectos de Madera de Eyota de los Lagos",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -17127,11 +17217,11 @@
         "description": ""
     },
     "m0040dxapd01": {
-        "name": "Manojo de Madera de Eyota de Selección de la Primera Raíz",
+        "name": "Manojo Selecto de Madera de Eyota de las Raíces Primarias",
         "ia": "un",
         "da": "el",
-        "p": "Manojos de Madera de Eyota de Selección de la Primera Raíz",
-        "pia": "",
+        "p": "Manojos Selectos de Madera de Eyota de las Raíces Primarias",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -17199,11 +17289,11 @@
         "description": ""
     },
     "m0043ccajc01": {
-        "name": "Fragmento de Garra de Gingo de Selección de la Selva",
+        "name": "Fragmento Selecto de Garra de Gingo de la Selva",
         "ia": "un",
         "da": "el",
-        "p": "Fragmentos de Garra de Gingo de Selección de la Selva",
-        "pia": "",
+        "p": "Fragmentos Selectos de Garra de Gingo de la Selva",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -17289,11 +17379,11 @@
         "description": ""
     },
     "m0044ccajc01": {
-        "name": "Cuero de Selección de Gingo de la Selva",
+        "name": "Cuero Selecto de Gingo de la Selva",
         "ia": "algo de",
         "da": "el",
-        "p": "Cueros de Selección de Gingo de la Selva",
-        "pia": "",
+        "p": "Cueros Selectos de Gingo de la Selva",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -17334,155 +17424,155 @@
         "description": ""
     },
     "m0046dxacb01": {
-        "name": "Porción de Pegamento de Resina Básica",
+        "name": "Porción Básica de Resina de Pega",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Pegamento de Resina Básica",
-        "pia": "",
+        "p": "Porciones Básicas de Resina de Pega",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0046dxacc01": {
-        "name": "Porción de Pegamento de Resina Fina",
+        "name": "Porción Fina de Resina de Pega",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Pegamento de Resina Fina",
-        "pia": "",
+        "p": "Porciones Finas de Resina de Pega",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0046dxadd01": {
-        "name": "Porción de Pegamento de Resina de Selección del Desierto",
+        "name": "Porción Selecta de Resina de Pega del Desierto",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Pegamento de Resina de Selección del Desierto",
-        "pia": "",
+        "p": "Porciones Selectas de Resina de Pega del Desierto",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0046dxade01": {
-        "name": "Porción de Pegamento de Resina Excelente del Desierto",
+        "name": "Porción Excelente de Resina de Pega del Desierto",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Pegamento de Resina Excelente del Desierto",
-        "pia": "",
+        "p": "Porciones Excelentes de Resina de Pega del Desierto",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0046dxadf01": {
-        "name": "Porción de Pegamento de Resina Suprema del Desierto",
+        "name": "Porción Suprema de Resina de Pega del Desierto",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Pegamento de Resina Suprema del Desierto",
-        "pia": "",
+        "p": "Porciones Supremas de Resina de Pega del Desierto",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0046dxafd01": {
-        "name": "Porción de Pegamento de Resina de Selección del Bosque",
+        "name": "Porción Selecta de Resina de Pega del Bosque",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Pegamento de Resina de Selección del Bosque",
-        "pia": "",
+        "p": "Porciones Selectas de Resina de Pega del Bosque",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0046dxafe01": {
-        "name": "Porción de Pegamento de Resina Excelente del Bosque",
+        "name": "Porción Excelente de Resina de Pega del Bosque",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Pegamento de Resina Excelente del Bosque",
-        "pia": "",
+        "p": "Porciones Excelentes de Resina de Pega del Bosque",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0046dxaff01": {
-        "name": "Porción de Pegamento de Resina Suprema del Bosque",
+        "name": "Porción Suprema de Resina de Pega del Bosque",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Pegamento de Resina Suprema del Bosque",
-        "pia": "",
+        "p": "Porciones Supremas de Resina de Pega del Bosque",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0046dxajd01": {
-        "name": "Porción de Pegamento de Resina de Selección de la Selva",
+        "name": "Porción Selecta de Resina de Pega de la Selva",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Pegamento de Resina Suprema de la Selva",
-        "pia": "",
+        "p": "Porciones Selectas de Resina de Pega de la Selva",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0046dxaje01": {
-        "name": "Porción de Pegamento de Resina Excelente de la Selva",
+        "name": "Porción Excelente de Resina de Pega de la Selva",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Pegamento de Resina Excelente de la Selva",
-        "pia": "",
+        "p": "Porciones Excelentes de Resina de Pega de la Selva",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0046dxajf01": {
-        "name": "Porción de Pegamento de Resina Suprema de la Selva",
+        "name": "Porción Suprema de Resina de Pega de la Selva",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Pegamento de Resina Suprema de la Selva",
-        "pia": "",
+        "p": "Porciones Supremas de Resina de Pega de la Selva",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0046dxald01": {
-        "name": "Porción de Pegamento de Resina de Selección de los Lagos",
+        "name": "Porción Selecta de Resina de Pega de los Lagos",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Pegamento de Resina de Selección de los Lagos",
-        "pia": "",
+        "p": "Porciones Selectas de Resina de Pega de los Lagos",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0046dxale01": {
-        "name": "Porción de Pegamento de Resina Excelente de los Lagos",
+        "name": "Porción Excelente de Resina de Pega de los Lagos",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Pegamento de Resina Excelente de los Lagos",
-        "pia": "",
+        "p": "Porciones Excelentes de Resina de Pega de los Lagos",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0046dxalf01": {
-        "name": "Porción de Pegamento de Resina Suprema de los Lagos",
+        "name": "Porción Suprema de Resina de Pega de los Lagos",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Pegamento de Resina Suprema de los Lagos",
-        "pia": "",
+        "p": "Porciones Supremas de Resina de Pega de los Lagos",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0046dxapd01": {
-        "name": "Porción de Pegamento de Resina de Selección de la Primera Raíz",
+        "name": "Porción Selecta de Resina de Pega de las Raíces Primarias",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Pegamento de Resina de Selección de la Primera Raíz",
-        "pia": "",
+        "p": "Porciones Selectas de Resina de Pega de las Raíces Primarias",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0046dxape01": {
-        "name": "Porción de Pegamento de Resina Excelente de la Primera Raíz",
+        "name": "Porción Excelente de Resina de Pega de las Raíces Primarias",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Pegamento de Resina Excelente de la Primera Raíz",
-        "pia": "",
+        "p": "Porciones Excelentes de Resina de Pega de las Raíces Primarias",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0046dxapf01": {
-        "name": "Porción de Pegamento de Resina Supremo de la Primera Raíz",
+        "name": "Porción Suprema de Resina de Pega de las Raíces Primarias",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Pegamento de Resina Supremo de la Primera Raíz",
-        "pia": "",
+        "p": "Porciones Supremas de Resina de Pega de las Raíces Primarias",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -17559,155 +17649,155 @@
         "description": ""
     },
     "m0049dxacb01": {
-        "name": "Petróleo de Gulatch Básico",
-        "ia": "algo de",
+        "name": "Aceite de Gulatch Básico",
+        "ia": "",
         "da": "el",
-        "p": "Petróleo de Gulatch Básico",
-        "pia": "",
+        "p": "Aceites de Gulatch Básico",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0049dxacc01": {
-        "name": "Petróleo de Gulatch Fino",
+        "name": "Aceite de Gulatch Fino",
         "ia": "algo de",
         "da": "el",
-        "p": "Petróleo de Gulatch Fino",
-        "pia": "",
+        "p": "Aceites de Gulatch Fino",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0049dxadd01": {
-        "name": "Petróleo de Gulatch de Selección del Desierto",
+        "name": "Aceite de Gulatch Selecto del Desierto",
         "ia": "algo de",
         "da": "el",
-        "p": "Petróleos de Gulatch de Selección del Desierto",
-        "pia": "",
+        "p": "Aceites de Gulatch Selectos del Desierto",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0049dxade01": {
-        "name": "Petróleo de Gulatch Excelente del Desierto",
+        "name": "Aceite de Gulatch Excelente del Desierto",
         "ia": "algo de",
         "da": "el",
-        "p": "Petróleos de Gulatch Excelentes del Desierto",
-        "pia": "",
+        "p": "Aceites de Gulatch Excelentes del Desierto",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0049dxadf01": {
-        "name": "Petróleo de Gulath Supremo del Desierto",
-        "ia": "algo de",
+        "name": "Aceite de Gulatch Supremo del Desierto",
+        "ia": "",
         "da": "el",
-        "p": "Petróleos de Gulatch Supremos del Desierto",
-        "pia": "",
+        "p": "Aceites de Gulatch Supremos del Desierto",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0049dxafd01": {
-        "name": "Petróleo de Gulatch de Selección del Bosque",
+        "name": "Aceite de Gulatch Selecto del Bosque",
         "ia": "algo de",
         "da": "el",
-        "p": "Petróleos de Gulatch de Selección del Bosque",
-        "pia": "",
+        "p": "Aceites de Gulatch Selectos del Bosque",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0049dxafe01": {
-        "name": "Petróleo de Gulatch Excelente del Bosque",
+        "name": "Aceite de Gulatch Excelente del Bosque",
         "ia": "algo de",
         "da": "el",
-        "p": "Petróleos de Gulatch Excelentes del Bosque",
-        "pia": "",
+        "p": "Aceites de Gulatch Excelentes del Bosque",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0049dxaff01": {
-        "name": "Petróleo de Gulatch Supremo del Bosque",
+        "name": "Aceite de Gulatch Supremo del Bosque",
         "ia": "algo de",
         "da": "el",
-        "p": "Petróleos de Gulach Supremo del Bosque",
-        "pia": "",
+        "p": "Aceites de Gulach Supremo del Bosque",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0049dxajd01": {
-        "name": "Petróleo de Gulatch de Selección de la Selva",
+        "name": "Aceite de Gulatch Selecto de la Selva",
         "ia": "algo de",
         "da": "el",
-        "p": "Petróleos de Gulatch de Selección de la Selva",
-        "pia": "",
+        "p": "Aceites de Gulatch Selectos de la Selva",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0049dxaje01": {
-        "name": "Petróleo de Gulatch Excelente de la Selva",
+        "name": "Aceite de Gulatch Excelente de la Selva",
         "ia": "algo de",
         "da": "el",
-        "p": "Petróleos de Gulatch Excelentes de la Selva",
-        "pia": "",
+        "p": "Aceites de Gulatch Excelentes de la Selva",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0049dxajf01": {
-        "name": "Petróleo de Gulath Supremo de la Selva",
+        "name": "Aceite de Gulatch Supremo de la Selva",
         "ia": "algo de",
         "da": "el",
-        "p": "Petróleos de Gulatch Supremos de la Selva",
-        "pia": "",
+        "p": "Aceites de Gulatch Supremos de la Selva",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0049dxald01": {
-        "name": "Petróleo de Gulatch de Selección de los Lagos",
+        "name": "Aceite de Gulatch Selecto de los Lagos",
         "ia": "algo de",
         "da": "el",
-        "p": "Petróleos de Gulatch de Selección de los Lagos",
-        "pia": "",
+        "p": "Aceites de Gulatch Selectos de los Lagos",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0049dxale01": {
-        "name": "Petróleo Gulatch Excelente de los Lagos",
+        "name": "Aceite de Gulatch Excelente de los Lagos",
         "ia": "algo de",
         "da": "el",
-        "p": "Petróleos de Gulatch Excelentes de los Lagos",
-        "pia": "",
+        "p": "Aceites de Gulatch Excelentes de los Lagos",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0049dxalf01": {
-        "name": "Petróleo de Gulatch Supremo de los Lagos",
+        "name": "Aceite de Gulatch Supremo de los Lagos",
         "ia": "algo de",
         "da": "el",
-        "p": "Petróleos de Gulatch Supremos de los Lagos",
-        "pia": "",
+        "p": "Aceites de Gulatch Supremos de los Lagos",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0049dxapd01": {
-        "name": "Petróleo de Gulatch de Selección de la Primera Raíz",
+        "name": "Aceite de Gulatch Selecto de la Primera Raíz",
         "ia": "algo de",
         "da": "el",
-        "p": "Petróleos de Gulatch de Selección de la Primera Raíz",
-        "pia": "",
+        "p": "Aceites de Gulatch Selectos de la Primera Raíz",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0049dxape01": {
-        "name": "Petróleo de Gulatch Excelente de la Primera Raíz",
+        "name": "Aceite de Gulatch Excelente de la Primera Raíz",
         "ia": "algo de",
         "da": "el",
-        "p": "Petróleos de Gulatch Excelente de la Primera Raíz",
-        "pia": "",
+        "p": "Aceites de Gulatch Excelente de la Primera Raíz",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0049dxapf01": {
-        "name": "Petróleo de Gulatch Supremo de la Primera Raíz",
+        "name": "Aceite de Gulatch Supremo de la Primera Raíz",
         "ia": "algo de",
         "da": "el",
-        "p": "Petróleos de Gulatch Supremo de la Primera Raíz",
-        "pia": "",
+        "p": "Aceites de Gulatch Supremo de la Primera Raíz",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -20511,11 +20601,11 @@
         "description": ""
     },
     "m0102dxalf01": {
-        "name": "Ámbar de Pha Supremo d elos Lagos",
+        "name": "Ámbar de Pha Supremo de los Lagos",
         "ia": "algo de",
         "da": "el",
-        "p": "Ámbar de Pha Supremos de los Lagos",
-        "pia": "",
+        "p": "Ámbares de Pha Supremos de los Lagos",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -20547,155 +20637,155 @@
         "description": ""
     },
     "m0103dxacb01": {
-        "name": "Petróleo de Pilan Básico",
+        "name": "Aceite de Pilan Básico",
         "ia": "algo de",
         "da": "el",
-        "p": "Petróleos de Pilan Básico",
-        "pia": "",
+        "p": "Aceites de Pilan Básico",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0103dxacc01": {
-        "name": "Petróleo de Pilan Fino",
+        "name": "Aceite de Pilan Fino",
         "ia": "algo de",
         "da": "el",
-        "p": "Petróleos de Pilan Fino",
-        "pia": "",
+        "p": "Aceites de Pilan Fino",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0103dxadd01": {
-        "name": "Petróleo de Pilan de Selección del Desierto",
+        "name": "Aceite de Pilan Selecto del Desierto",
         "ia": "algo de",
         "da": "el",
-        "p": "Petróleos de Pilan de Selección del Desierto",
-        "pia": "",
+        "p": "Aceites de Pilan Selectos del Desierto",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0103dxade01": {
-        "name": "Petróleo de Pilan de Selección Excelente",
+        "name": "Aceite de Pilan Excelente del Desierto",
         "ia": "algo de",
         "da": "el",
-        "p": "Petróleos de Pilan de Selección Excelente",
-        "pia": "",
+        "p": "Aceites de Pilan Excelentes del Desierto",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0103dxadf01": {
-        "name": "Petróleo de Pilan Supremo del Desierto",
+        "name": "Aceite de Pilan Supremo del Desierto",
         "ia": "algo de",
         "da": "el",
-        "p": "Petróleos de Pilan Supremos del Desierto",
-        "pia": "",
+        "p": "Aceites de Pilan Supremos del Desierto",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0103dxafd01": {
-        "name": "Petróleo de Pilan de Selección del Bosque",
+        "name": "Aceite de Pilan Selecto del Bosque",
         "ia": "algo de",
         "da": "el",
-        "p": "Petróleos de Pilan de Selección del Bosque",
-        "pia": "",
+        "p": "Aceites de Pilan Selectos del Bosque",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0103dxafe01": {
-        "name": "Petróleo de Pilan Excelente del Bosque",
+        "name": "Aceite de Pilan Excelente del Bosque",
         "ia": "algo de",
         "da": "el",
-        "p": "Petróleos de Pilan Excelentes del Bosque",
-        "pia": "",
+        "p": "Aceites de Pilan Excelentes del Bosque",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0103dxaff01": {
-        "name": "Petróleo de Pilan Supremo del Bosque",
-        "ia": "algo de",
+        "name": "Aceite de Pilan Supremo del Bosque",
+        "ia": "",
         "da": "el",
-        "p": "Petróleos de Pilan Supremos del Bosque",
-        "pia": "",
+        "p": "Aceites de Pilan Supremos del Bosque",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0103dxajd01": {
-        "name": "Petróleo de Pilan de Selección de la Selva",
+        "name": "Aceite de Pilan Selecto de la Selva",
         "ia": "algo de",
         "da": "el",
-        "p": "Petróleos de Pilan de Selección de la Selva",
-        "pia": "",
+        "p": "Aceites de Pilan Selectos de la Selva",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0103dxaje01": {
-        "name": "Petróleo de Pilan Excelente de la Selva",
+        "name": "Aceite de Pilan Excelente de la Selva",
         "ia": "algo de",
         "da": "el",
-        "p": "Petróleos de Pilan Excelentes de la Selva",
-        "pia": "",
+        "p": "Aceites de Pilan Excelentes de la Selva",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0103dxajf01": {
-        "name": "Petróleo de Pilan Supremo de la Selva",
+        "name": "Aceite de Pilan Supremo de la Selva",
         "ia": "algo de",
         "da": "el",
-        "p": "Petróleos de Pilan Supremos de la Selva",
-        "pia": "",
+        "p": "Aceites de Pilan Supremos de la Selva",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0103dxald01": {
-        "name": "Petróleo de Pilan de Selección de los Lagos",
+        "name": "Aceite de Pilan Selecto de los Lagos",
         "ia": "algo de",
         "da": "el",
-        "p": "Petróleos de Pilan de Selección de los Lagos",
-        "pia": "",
+        "p": "Aceites de Pilan Selectos de los Lagos",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0103dxale01": {
-        "name": "Petróleo de Pilan Excelente de los Lagos",
+        "name": "Aceite de Pilan Excelente de los Lagos",
         "ia": "algo de",
         "da": "el",
-        "p": "Petróleos de Pilan Excelente de los Lagos",
-        "pia": "",
+        "p": "Aceites de Pilan Excelente de los Lagos",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0103dxalf01": {
-        "name": "Petróleo de Pilan Supremo de los Lagos",
+        "name": "Aceite de Pilan Supremo de los Lagos",
         "ia": "algo de",
         "da": "el",
-        "p": "Petróleos de Pilan Supremos de los Lagos",
-        "pia": "",
+        "p": "Aceites de Pilan Supremos de los Lagos",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0103dxapd01": {
-        "name": "Petróleo de Pilan de Selección de la Primera Raíz",
+        "name": "Aceite de Pilan Selecto de la Primera Raíz",
         "ia": "algo de",
         "da": "el",
-        "p": "Petróleos de Pilan de Selección de la Primera Raíz",
-        "pia": "",
+        "p": "Aceites de Pilan Selectos de la Primera Raíz",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0103dxape01": {
-        "name": "Petróleo de Pilan Excelente de la Primera Raíz",
+        "name": "Aceite de Pilan Excelente de la Primera Raíz",
         "ia": "algo de",
         "da": "el",
-        "p": "Petróleos de Pilan Excelentes de la Primera Raíz",
-        "pia": "",
+        "p": "Aceites de Pilan Excelentes de la Primera Raíz",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0103dxapf01": {
-        "name": "Petróleo de Pilan Supremo de la Primera Raíz",
+        "name": "Aceite de Pilan Supremo de la Primera Raíz",
         "ia": "algo de",
         "da": "el",
-        "p": "Petróleos de Pilan Supremos de las Primera Raíz",
-        "pia": "",
+        "p": "Aceites de Pilan Supremos de las Primera Raíz",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -20961,11 +21051,11 @@
         "description": ""
     },
     "m0109dxaje01": {
-        "name": "Frasco de Savia Rojavia Excelente de la Selva",
+        "name": "Frasco de Savia Rojaviva Excelente de la Selva",
         "ia": "un",
         "da": "el",
         "p": "Frascos de Savia Rojaviva Excelente de la Selva",
-        "pia": "",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -21015,11 +21105,11 @@
         "description": ""
     },
     "m0109dxape01": {
-        "name": "Frasco de Savia de Rojaviva Excelente de la Primera Raíz",
+        "name": "Frasco de Savia Rojaviva Excelente de la Primera Raíz",
         "ia": "un",
         "da": "el",
         "p": "Frascos de Savia Rojaviva Excelente de la Primera Raíz",
-        "pia": "",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -21492,155 +21582,155 @@
         "description": ""
     },
     "m0118dxacb01": {
-        "name": "Fibra de Shu Básica",
+        "name": "Fibra Básica de Shu",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Shu Básicas",
-        "pia": "",
+        "p": "Fibras Básicas de Shu",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0118dxacc01": {
-        "name": "Fibra de Shu Fina",
+        "name": "Fibra Fina de Shu",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Shu Finas",
-        "pia": "",
+        "p": "Fibras Finas de Shu",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0118dxadd01": {
-        "name": "Fibra de Shu de Selección del Desierto",
+        "name": "Fibra Selecta de Shu del Desierto",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Shu de Selección del Desierto",
-        "pia": "",
+        "p": "Fibras Selectas de Shu del Desierto",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0118dxade01": {
-        "name": "Fibra de Shu Excelente del Desierto",
+        "name": "Fibra Excelente de Shu del Desierto",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Shu Excelentes del Desierto",
-        "pia": "",
+        "p": "Fibras Excelentes de Shu del Desierto",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0118dxadf01": {
-        "name": "Fibra de Shu Suprema del Desierto",
+        "name": "Fibra Suprema de Shu del Desierto",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Shu Supremas del Desierto",
-        "pia": "",
+        "p": "Fibras Supremas de Shu del Desierto",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0118dxafd01": {
-        "name": "Fibra de Shu de Selección del Bosque",
+        "name": "Fibra Selecta de Shu del Bosque",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Shu de Selección del Bosque",
-        "pia": "",
+        "p": "Fibras Selectas de Shu del Bosque",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0118dxafe01": {
-        "name": "Fibra de Shu Excelente del Bosque",
+        "name": "Fibra Excelente de Shu del Bosque",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Shu Excelentes del Bosque",
-        "pia": "",
+        "p": "Fibras Excelentes de Shu del Bosque",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0118dxaff01": {
-        "name": "Fibra de Shu Suprema del Bosque",
+        "name": "Fibra Suprema de Shu del Bosque",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Shu Supremas del Bosque",
-        "pia": "",
+        "p": "Fibras Supremas de Shu del Bosque",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0118dxajd01": {
-        "name": "Fibra de Shu de Selección de la Selva",
+        "name": "Fibra Selecta de Shu de la Selva",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Shu de Selección de la Selva",
-        "pia": "",
+        "p": "Fibras Selectas de Shu de la Selva",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0118dxaje01": {
-        "name": "Fibra de Shu Excelente de la Selva",
+        "name": "Fibra Excelente de Shu de la Selva",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Shu Excelentes de la Selva",
-        "pia": "",
+        "p": "Fibras Excelentes de Shu de la Selva",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0118dxajf01": {
-        "name": "Fibra de Shu Suprema de la Selva",
+        "name": "Fibra Suprema de Shu de la Selva",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Shu Supremas de la Selva",
-        "pia": "",
+        "p": "Fibras Supremas de Shu de la Selva",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0118dxald01": {
-        "name": "Fibra de Shu de Selección de los Lagos",
+        "name": "Fibra Selecta de Shu de los Lagos",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibra de Shu de Selección de los Lagos",
-        "pia": "",
+        "p": "Fibra Selectas de Shu de los Lagos",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0118dxale01": {
-        "name": "Fibra de Shu Excelente de los Lagos",
+        "name": "Fibra Excelente de Shu de los Lagos",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibra de Shu Excelente de los Lagos",
-        "pia": "",
+        "p": "Fibras Excelentes de Shu de los Lagos",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0118dxalf01": {
-        "name": "Fibra de Shu Suprema de los Lagos",
+        "name": "Fibra Suprema de Shu de los Lagos",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Shu Suprema de los Lagos",
-        "pia": "",
+        "p": "Fibras Supremas de Shu de los Lagos",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0118dxapd01": {
-        "name": "Fibra de Shu de Selección de la Primera Raíz",
+        "name": "Fibra Selecta de Shu de las Raíces Primarias",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Shu de Selección de la Primera Raíz",
-        "pia": "",
+        "p": "Fibras Selectas de Shu de las Raíces Primarias",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0118dxape01": {
-        "name": "Fibra de Shu Excelente de la Primera Raíz",
+        "name": "Fibra Excelente de Shu de las Raíces Primarias",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Shu Excelentes de la Primera Raíz",
-        "pia": "",
+        "p": "Fibras Excelentes de Shu de las Raíces Primarias",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0118dxapf01": {
-        "name": "Fibra de Shu Suprema de la Primera Raíz",
+        "name": "Fibra Suprema de Shu de las Raíces Primarias",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras de Shu Supremas de la Primera Raíz",
-        "pia": "",
+        "p": "Fibras Supremas de Shu de las Raíces Primarias",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -23166,11 +23256,11 @@
         "description": ""
     },
     "m0142dxadd01": {
-        "name": "Frasco de Savia de Visc de Selección del Desierto",
+        "name": "Frasco de Savia de Visc Selecta del Desierto",
         "ia": "un",
         "da": "el",
-        "p": "Frascos de Savia de Selección del Desierto",
-        "pia": "",
+        "p": "Frascos de Savia Selecta del Desierto",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -24570,11 +24660,11 @@
         "description": ""
     },
     "m0174dxacc01": {
-        "name": "Hoja Verde Principal",
+        "name": "Hoja Primaria Verde",
         "ia": "una",
         "da": "la",
-        "p": "Hojas Verdes Principales",
-        "pia": "",
+        "p": "Hojas Primarias Verdes",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -24624,11 +24714,11 @@
         "description": ""
     },
     "m0175dxacc01": {
-        "name": "Hoja Muerta Principal",
+        "name": "Hoja Primaria Muerta",
         "ia": "una",
         "da": "la",
-        "p": "Hojas Muertas Principal",
-        "pia": "",
+        "p": "Hojas Primarias Muertas",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -24678,11 +24768,11 @@
         "description": ""
     },
     "m0176dxacc01": {
-        "name": "Hoja Podrida Principal",
+        "name": "Hoja Primaria Podrida",
         "ia": "una",
         "da": "la",
-        "p": "Hojas Podridas Principales",
-        "pia": "",
+        "p": "Hojas Primarias Podridas",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -24714,110 +24804,110 @@
         "description": ""
     },
     "m0177dxaca01": {
-        "name": "Porción de Resina Fresca Simple",
+        "name": "Porción Simple de Resina Fresca",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina Fresca Simple",
-        "pia": "",
+        "p": "Porciones Simples de Resina Fresca",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0177dxacb01": {
-        "name": "Porción de Resina Fresca Promedio",
+        "name": "Porción Promedio de Resina Fresca",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina Fresca Promedio",
-        "pia": "",
+        "p": "Porciones Promedio de Resina Fresca",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0177dxacc01": {
-        "name": "Porción de Resina Fresca Principal",
+        "name": "Porción Primaria de Resina Fresca",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina Fresca Principal",
-        "pia": "",
+        "p": "Porciones Primarias de Resina Fresca",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0177dxacd01": {
-        "name": "Porción de Resina Fresca Selecta",
+        "name": "Porción Selecta de Resina Fresca",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina Fresca Selecta",
-        "pia": "",
+        "p": "Porciones Selectas de Resina Fresca",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0177dxace01": {
-        "name": "Porción de Resina Fresca Excelente",
+        "name": "Porción Excelente de Resina Fresca",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina Fresca Excelente",
-        "pia": "",
+        "p": "Porciones Excelentes de Resina Fresca",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0177dxacf01": {
-        "name": "Porción de Resina Fresca Magnifica",
+        "name": "Porción Magnífica de Resina Fresca",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina Fresca Magnifica",
-        "pia": "",
+        "p": "Porciones Magníficas de Resina Fresca",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0178dxaca01": {
-        "name": "Porción de Resina Seca Simple",
+        "name": "Porción Simple de Resina Seca",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina Seca Simple",
-        "pia": "",
+        "p": "Porciones Simples de Resina Seca",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0178dxacb01": {
-        "name": "Porción de Resina Seca Promedio",
+        "name": "Porción Promedio de Resina Seca",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina Seca Promedio",
-        "pia": "",
+        "p": "Porciones Promedio de Resina Seca",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0178dxacc01": {
-        "name": "Porción de Resina Seca Principal",
+        "name": "Porción Primaria de Resina Seca",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina Seca Principal",
-        "pia": "",
+        "p": "Porciones Primarias de Resina Seca",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0178dxacd01": {
-        "name": "Porción de Resina Seca Selecta",
+        "name": "Porción Selecta de Resina Seca",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina Seca Selecta",
-        "pia": "",
+        "p": "Porciones Selectas de Resina Seca Selecta",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0178dxace01": {
-        "name": "Porción de Resina Seca Excelente",
+        "name": "Porción Excelente de Resina Seca",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina Seca Excelente",
-        "pia": "",
+        "p": "Porciones Excelentes de Resina Seca",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0178dxacf01": {
-        "name": "Porción de Resina Seca Magnifica",
+        "name": "Porción Magnífica de Resina Seca",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina Seca Magnifica",
-        "pia": "",
+        "p": "Porciones Magníficas de Resina Seca",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -25002,11 +25092,11 @@
         "description": ""
     },
     "m0182dxacc01": {
-        "name": "Punado de Aserrín de Madera Seca Principal",
+        "name": "Puñado de Aserrín de Madera Primaria Seca",
         "ia": "un",
         "da": "el",
-        "p": "Puñados de Aserrín de Madera Seca Principal",
-        "pia": "",
+        "p": "Puñados de Aserrín de Madera Primaria Seca",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -25056,11 +25146,11 @@
         "description": ""
     },
     "m0183dxacc01": {
-        "name": "Manojo de Aserrín de Madera Húmeda Principal",
+        "name": "Puñado de Aserrín de Madera Primaria Húmeda",
         "ia": "un",
         "da": "el",
-        "p": "Manojo de Aserrín de Madera Húmeda Principal",
-        "pia": "",
+        "p": "Puñados de Aserrín de Madera Primaria Húmeda",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -25110,11 +25200,11 @@
         "description": ""
     },
     "m0184dxacc01": {
-        "name": "Hoja de Cana Pequeña Principal",
+        "name": "Hoja Primaria Pequeña de Caña",
         "ia": "una",
         "da": "la",
-        "p": "Hojas de Cana Pequeña Principal",
-        "pia": "",
+        "p": "Hojas Primarias de Caña Pequeña",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -25164,11 +25254,11 @@
         "description": ""
     },
     "m0185dxacc01": {
-        "name": "Hoja de Cana Grande Principal",
+        "name": "Hoja Primaria Grande de Caña",
         "ia": "una",
         "da": "la",
-        "p": "Hojas de Cana Grande Principal",
-        "pia": "",
+        "p": "Hojas Primarias Grandes de Caña",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -25218,11 +25308,11 @@
         "description": ""
     },
     "m0186dxacc01": {
-        "name": "Hoja de Cana Gigante Principal",
+        "name": "Hoja Primaria Gigante de Caña",
         "ia": "una",
         "da": "la",
-        "p": "Hojas de Cana Gigante Principal",
-        "pia": "",
+        "p": "Hojas Primarias Gigantes de Caña",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -25686,11 +25776,11 @@
         "description": ""
     },
     "m0194dxacc01": {
-        "name": "Punado de Polvo Principal",
+        "name": "Puñado de Polvo Primario",
         "ia": "un",
         "da": "el",
-        "p": "Puñados de Polvo Principal",
-        "pia": "",
+        "p": "Puñados de Polvo Primario",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -25722,164 +25812,164 @@
         "description": ""
     },
     "m0195dxaca01": {
-        "name": "Fibra Seca Simple",
+        "name": "Fibra Simple Seca",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras Secas Simples",
-        "pia": "",
+        "p": "Fibras Simples Secas",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0195dxacb01": {
-        "name": "Fibra Seca Promedio",
+        "name": "Fibra Promedio Seca",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras Secas Promedio",
-        "pia": "",
+        "p": "Fibras Promedio Secas",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0195dxacc01": {
-        "name": "Fibra Seca Principal",
+        "name": "Fibra Primaria Seca",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras Secas Principales",
-        "pia": "",
+        "p": "Fibras Primarias Secas",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0195dxacd01": {
-        "name": "Fibra Seca Selecta",
+        "name": "Fibra Selecta Seca",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras Secas Selectas",
-        "pia": "",
+        "p": "Fibras Selectas Secas",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0195dxace01": {
-        "name": "Fibra Seca Excelente",
+        "name": "Fibra Excelente Seca",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras Secas Excelentes",
-        "pia": "",
+        "p": "Fibras Excelentes Secas",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0195dxacf01": {
-        "name": "Fibra Seca Magnifica",
+        "name": "Fibra Magnifica Seca",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras Secas Magnificas",
-        "pia": "",
+        "p": "Fibras Magnificas Secas",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0196dxaca01": {
-        "name": "Fibra Húmeda Simple",
+        "name": "Fibra Simple Húmeda",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras Húmedas Simples",
-        "pia": "",
+        "p": "Fibras Simples Húmedas",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0196dxacb01": {
-        "name": "Fibra Húmeda Promedio",
+        "name": "Fibra Promedio Húmeda",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras Húmedas Promedio",
-        "pia": "",
+        "p": "Fibras Promedio Húmedas",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0196dxacc01": {
-        "name": "Fibra Húmeda Principal",
+        "name": "Fibra Primaria Húmeda",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras Húmedas Principales",
-        "pia": "",
+        "p": "Fibras Primarias Húmedas",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0196dxacd01": {
-        "name": "Fibra Húmeda Selecta",
+        "name": "Fibra Selecta Húmeda",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras Húmedas Selectas",
-        "pia": "",
+        "p": "Fibras Selectas Húmedas",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0196dxace01": {
-        "name": "Fibra Húmeda Excelente",
+        "name": "Fibra Excelente Húmeda",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras Húmedas Excelentes",
-        "pia": "",
+        "p": "Fibras Excelentes Húmedas",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0196dxacf01": {
-        "name": "Fibra Húmeda Magnifica",
+        "name": "Fibra Magnifica Húmeda",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras Húmedas Magnificas",
-        "pia": "",
+        "p": "Fibras Magnificas Húmedas",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0197dxaca01": {
-        "name": "Fibra Podrida Simple",
+        "name": "Fibra Simple Podrida",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras Podridas Simples",
-        "pia": "",
+        "p": "Fibras Simples Podridas",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0197dxacb01": {
-        "name": "Fibra Podrida Promedio",
+        "name": "Fibra Promedio Podrida",
         "ia": "algo de",
         "da": "la",
         "p": "Fibras Podridas Promedio",
-        "pia": "",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0197dxacc01": {
-        "name": "Fibra Podrida Principal",
+        "name": "Fibra Primaria Podrida",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras Podridas Principales",
-        "pia": "",
+        "p": "Fibras Primarias Podridas",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0197dxacd01": {
-        "name": "Fibra Podrida Selecta",
+        "name": "Fibra Selecta Podrida",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras Podridas Selectas",
-        "pia": "",
+        "p": "Fibras Selectas Podridas",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0197dxace01": {
-        "name": "Fibra Podrida Excelente",
+        "name": "Fibra Excelente Podrida",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras Podridas Excelentes",
-        "pia": "",
+        "p": "Fibras Excelentes Podridas",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0197dxacf01": {
-        "name": "Fibra Podrida Magnifica",
+        "name": "Fibra Magnifica Podrida",
         "ia": "algo de",
         "da": "la",
-        "p": "Fibras Podridas Magnificas",
-        "pia": "",
+        "p": "Fibras Magnificas Podridas",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -25902,11 +25992,11 @@
         "description": ""
     },
     "m0198dxacc01": {
-        "name": "Fragmento de Concha Nacarada Pequeña Principal",
+        "name": "Fragmento Pequeño de Concha Nácar Primaria",
         "ia": "un",
         "da": "el",
-        "p": "Fragmentos de Concha Nacarada Pequeña Principal",
-        "pia": "",
+        "p": "Fragmentos Pequeños de Concha Nácar Primaria",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -25956,11 +26046,11 @@
         "description": ""
     },
     "m0199dxacc01": {
-        "name": "Fragmento de Concha Nacarada Grande Principal",
+        "name": "Fragmento Grande de Concha Nácar Primaria",
         "ia": "un",
         "da": "el",
-        "p": "Fragmentos de Concha Nacarada Grande Principal",
-        "pia": "",
+        "p": "Fragmentos Grandes de Concha Nácar Primaria",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -26010,11 +26100,11 @@
         "description": ""
     },
     "m0200dxacc01": {
-        "name": "Fragmento de Concha Nacarada Gigante Principal",
+        "name": "Fragmento Gigante de Concha Nácar Primaria",
         "ia": "un",
         "da": "el",
-        "p": "Fragmento de Concha Nacarada Gigante Principal",
-        "pia": "",
+        "p": "Fragmentos Gigantes de Concha Nácar Primaria",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -26073,11 +26163,11 @@
         "description": ""
     },
     "m0201dxacc01": {
-        "name": "Perla Pequeña Principal",
+        "name": "Perla Pequeña Primaria",
         "ia": "una",
         "da": "la",
         "p": "Perlas Pequeñas Principales",
-        "pia": "",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -26127,11 +26217,11 @@
         "description": ""
     },
     "m0202dxacc01": {
-        "name": "Perla Grande Principal",
+        "name": "Perla Grande Primaria",
         "ia": "una",
         "da": "la",
-        "p": "Perlas Grandes Principales",
-        "pia": "",
+        "p": "Perlas Grandes Primarias",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -26181,11 +26271,11 @@
         "description": ""
     },
     "m0203dxacc01": {
-        "name": "Perla Gigante Principal",
+        "name": "Perla Gigante Primaria",
         "ia": "una",
         "da": "la",
-        "p": "Perlas Gigantes Principales",
-        "pia": "",
+        "p": "Perlas Gigantes Primarias",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -26343,11 +26433,11 @@
         "description": ""
     },
     "m0206dxacc01": {
-        "name": "Parasito Vivo Principal",
+        "name": "Parásito Primario Vivo",
         "ia": "un",
         "da": "el",
-        "p": "Parásitos Vivos Principales",
-        "pia": "",
+        "p": "Parásitos Primarios Vivos",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -26397,11 +26487,11 @@
         "description": ""
     },
     "m0207dxacc01": {
-        "name": "Parasito Muerto Principal",
+        "name": "Parásito Primario Muerto",
         "ia": "un",
         "da": "el",
-        "p": "Parásitos Muertos Principales",
-        "pia": "",
+        "p": "Parásitos Primarios Muertos",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -26451,11 +26541,11 @@
         "description": ""
     },
     "m0208dxacc01": {
-        "name": "Tela de Arañas Pequeña Principal",
+        "name": "Tela Primaria Pequeña de Araña",
         "ia": "una",
         "da": "la",
-        "p": "Tela de Arañas Pequeña Principal",
-        "pia": "",
+        "p": "Telas Primaria Pequeñas de Araña",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -26505,11 +26595,11 @@
         "description": ""
     },
     "m0209dxacc01": {
-        "name": "Tela de Arañas Grande Principal",
+        "name": "Tela Primaria Grande de Araña",
         "ia": "una",
         "da": "la",
-        "p": "Telas de Arañas Grandes Principales",
-        "pia": "",
+        "p": "Telas Primarias Grandes de Arañas",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -27612,11 +27702,11 @@
         "description": ""
     },
     "m0229dxacc01": {
-        "name": "Tallo de Cana Pequeño Principal",
+        "name": "Tallo Primario Pequeño de Caña",
         "ia": "un",
         "da": "el",
-        "p": "Tallos de Cana Pequeño Principales",
-        "pia": "",
+        "p": "Tallos Primarios Pequeños de Caña",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -27666,11 +27756,11 @@
         "description": ""
     },
     "m0230dxacc01": {
-        "name": "Tallo de Cana Grande Principal",
+        "name": "Tallo Primario Grande de Caña",
         "ia": "un",
         "da": "el",
-        "p": "Tallos de Cana Grande Principal",
-        "pia": "",
+        "p": "Tallos Primarios Grandes de Caña",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -27702,7 +27792,7 @@
         "description": ""
     },
     "m0231dxaca01": {
-        "name": "Punado de Tierra Suelta Fresca Simple",
+        "name": "Puñado de Tierra Suelta Fresca Simple",
         "ia": "un",
         "da": "el",
         "p": "Puñados de Tierra Suelta Fresca Simple",
@@ -27711,7 +27801,7 @@
         "description": ""
     },
     "m0231dxacb01": {
-        "name": "Punado de Tierra Suelta Fresca Promedio",
+        "name": "Puñado de Tierra Suelta Fresca Promedio",
         "ia": "un",
         "da": "el",
         "p": "Puñados de Tierra Suelta Fresca Promedio",
@@ -27720,7 +27810,7 @@
         "description": ""
     },
     "m0231dxacc01": {
-        "name": "Punado de Tierra Suelta Fresca Principal",
+        "name": "Puñado de Tierra Suelta Fresca Principal",
         "ia": "un",
         "da": "el",
         "p": "Puñados de Tierra Suelta Fresca Principal",
@@ -27729,7 +27819,7 @@
         "description": ""
     },
     "m0231dxacd01": {
-        "name": "Punado de Tierra Suelta Fresca Selecta",
+        "name": "Puñado de Tierra Suelta Fresca Selecta",
         "ia": "un",
         "da": "el",
         "p": "Puñados de Tierra Suelta Fresca Selecta",
@@ -27738,7 +27828,7 @@
         "description": ""
     },
     "m0231dxace01": {
-        "name": "Punado de Tierra Suelta Fresca Excelente",
+        "name": "Puñado de Tierra Suelta Fresca Excelente",
         "ia": "un",
         "da": "el",
         "p": "Puñados de Tierra Suelta Fresca Excelente",
@@ -27747,7 +27837,7 @@
         "description": ""
     },
     "m0231dxacf01": {
-        "name": "Punado de Tierra Suelta Fresca Magnifica",
+        "name": "Puñado de Tierra Suelta Fresca Magnifica",
         "ia": "un",
         "da": "el",
         "p": "Puñados de Tierra Suelta Fresca Magnifica",
@@ -27756,7 +27846,7 @@
         "description": ""
     },
     "m0232dxaca01": {
-        "name": "Punado de Tierra Suelta Seca Simple",
+        "name": "Puñado de Tierra Suelta Seca Simple",
         "ia": "un",
         "da": "el",
         "p": "Puñados de Tierra Suelta Seca Simple",
@@ -27765,7 +27855,7 @@
         "description": ""
     },
     "m0232dxacb01": {
-        "name": "Punado de Tierra Suelta Seca Promedio",
+        "name": "Puñado de Tierra Suelta Seca Promedio",
         "ia": "un",
         "da": "el",
         "p": "Puñados de Tierra Suelta Seca Promedio",
@@ -27774,7 +27864,7 @@
         "description": ""
     },
     "m0232dxacc01": {
-        "name": "Punado de Tierra Suelta Seca Principal",
+        "name": "Puñado de Tierra Suelta Seca Principal",
         "ia": "un",
         "da": "el",
         "p": "Puñados de Tierra Suelta Seca Principal",
@@ -27783,7 +27873,7 @@
         "description": ""
     },
     "m0232dxacd01": {
-        "name": "Punado de Tierra Suelta Seca Selecta",
+        "name": "Puñado de Tierra Suelta Seca Selecta",
         "ia": "un",
         "da": "el",
         "p": "Puñados de Tierra Suelta Seca Selecta",
@@ -27792,7 +27882,7 @@
         "description": ""
     },
     "m0232dxace01": {
-        "name": "Punado de Tierra Suelta Seca Excelente",
+        "name": "Puñado de Tierra Suelta Seca Excelente",
         "ia": "un",
         "da": "el",
         "p": "Puñados de Tierra Suelta Seca Excelente",
@@ -27801,7 +27891,7 @@
         "description": ""
     },
     "m0232dxacf01": {
-        "name": "Punado de Tierra Suelta Seca Magnifica",
+        "name": "Puñado de Tierra Suelta Seca Magnifica",
         "ia": "un",
         "da": "el",
         "p": "Puñados de Tierra Suelta Seca Magnifica",
@@ -28152,11 +28242,11 @@
         "description": ""
     },
     "m0239dxacc01": {
-        "name": "Pigmento Rojo Principal",
+        "name": "Pigmento Rojo Primario",
         "ia": "un",
         "da": "el",
-        "p": "Pigmentos Rojos Principal",
-        "pia": "",
+        "p": "Pigmentos Rojo Primario",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -28206,11 +28296,11 @@
         "description": ""
     },
     "m0240dxacc01": {
-        "name": "Pigmento Verde Principal",
+        "name": "Pigmento Verde Primario",
         "ia": "un",
         "da": "el",
-        "p": "Pigmentos Verdes Principales",
-        "pia": "",
+        "p": "Pigmentos Verde Primario",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -28260,11 +28350,11 @@
         "description": ""
     },
     "m0241dxacc01": {
-        "name": "Pigmento Azul Principal",
+        "name": "Pigmento Azul Primario",
         "ia": "un",
         "da": "el",
-        "p": "Pigmentos Azules Principales",
-        "pia": "",
+        "p": "Pigmentos Azul Primario",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -28314,11 +28404,11 @@
         "description": ""
     },
     "m0242dxacc01": {
-        "name": "Pigmento Amarillo Principal",
+        "name": "Pigmento Amarillo Primario",
         "ia": "un",
         "da": "el",
-        "p": "Pigmentos Amarillos Principales",
-        "pia": "",
+        "p": "Pigmentos Amarillo Primario",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -28368,11 +28458,11 @@
         "description": ""
     },
     "m0243dxacc01": {
-        "name": "Pigmento Negro Principal",
+        "name": "Pigmento Negro Primario",
         "ia": "un",
         "da": "el",
-        "p": "Pigmentos Negros Principales",
-        "pia": "",
+        "p": "Pigmentos Negro Primario",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -43047,155 +43137,155 @@
         "description": ""
     },
     "m0534dxacb01": {
-        "name": "Porción de Resina de Estiércol Básico",
+        "name": "Porción Básica de Resina Dung",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Estiércol Básica",
-        "pia": "",
+        "p": "Porciones Básicas de Resina Dung",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0534dxacc01": {
-        "name": "Porción de Resina de Estiércol Fina",
+        "name": "Porción Fina de Resina Dung",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Estiércol Fina",
-        "pia": "",
+        "p": "Porciones Finas de Resina Dung",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0534dxadd01": {
-        "name": "Porción de Resina de Estiércol de Selección del Desierto",
+        "name": "Porción Selecta de Resina Dung del Desierto",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Estiércol de Selección del Desierto",
-        "pia": "",
+        "p": "Porciones Selectas de Resina Dung del Desierto",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0534dxade01": {
-        "name": "Porción de Resina de Estiércol Excelente del Desierto",
+        "name": "Porción Excelente de Resina Dung del Desierto",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Estiércol Excelente del Desierto",
-        "pia": "",
+        "p": "Porciones Excelentes de Resina Dung del Desierto",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0534dxadf01": {
-        "name": "Porción de Resina de Estiércol Suprema del Desierto",
+        "name": "Porción Suprema de Resina Dung del Desierto",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Estiércol Suprema del Desierto",
-        "pia": "",
+        "p": "Porciones Supremas de Resina Dung del Desierto",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0534dxafd01": {
-        "name": "Porción de Resina de Estiércol de Selección del Bosque",
+        "name": "Porción Selecta de Resina Dung del Bosque",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Estiércol de Selección del Bosque",
-        "pia": "",
+        "p": "Porciones Selectas de Resina Dung del Bosque",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0534dxafe01": {
-        "name": "Porción de Resina de Estiércol Excelente del Bosque",
+        "name": "Porción Excelente de Resina Dung del Bosque",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Estiércol Excelente del Bosque",
-        "pia": "",
+        "p": "Porciones Excelente de Resina Dung del Bosque",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0534dxaff01": {
-        "name": "Porción de Resina de Estiércol Suprema del Bosque",
+        "name": "Porción Suprema de Resina Dung del Bosque",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Estiércol Suprema del Bosque",
-        "pia": "",
+        "p": "Porciones Supremas de Resina Dung del Bosque",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0534dxajd01": {
-        "name": "Porción de Resina de Estiércol de Selección de la Selva",
+        "name": "Porción Selecta de Resina Dung de la Selva",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Estiércol de Selección de la Selva",
-        "pia": "",
+        "p": "Porciones Selectas de Resina Dung de la Selva",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0534dxaje01": {
-        "name": "Porción de Resina de Estiércol Excelente de la Selva",
+        "name": "Porción Excelente de Resina Dung de la Selva",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Estiércol Excelente de la Selva",
-        "pia": "",
+        "p": "Porciones Excelentes de Resina Dung de la Selva",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0534dxajf01": {
-        "name": "Porción de Resina de Estiércol Suprema de la Selva",
+        "name": "Porción Suprema de Resina Dung de la Selva",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Estiércol Suprema de la Selva",
-        "pia": "",
+        "p": "Porciones Supremas de Resina Dung de la Selva",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0534dxald01": {
-        "name": "Porción de Resina de Estiércol de Selección de los Lagos",
+        "name": "Porción Selecta de Resina Dung de los Lagos",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Estiércol de Selección de los Lagos",
-        "pia": "",
+        "p": "Porciones Selectas de Resina Dung de los Lagos",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0534dxale01": {
-        "name": "Porción de Resina de Estiércol Excelente de los Lagos",
+        "name": "Porción Excelente de Resina Dung de los Lagos",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Estiércol Excelente de los Lagos",
-        "pia": "",
+        "p": "Porciones Excelentes de Resina Dung de los Lagos",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0534dxalf01": {
-        "name": "Porción de Resina de Estiércol Suprema de los Lagos",
+        "name": "Porción Suprema de Resina Dung de los Lagos",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Estiércol Suprema de los Lagos",
-        "pia": "",
+        "p": "Porciones Supremas de Resina Dung de los Lagos",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0534dxapd01": {
-        "name": "Porción de Resina de Estiércol de Selección de la Primera Raíz",
+        "name": "Porción Selecta de Resina Dung de las Raíces Primarias",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Estiércol de Selección de la Primera Raíz",
-        "pia": "",
+        "p": "Porciones Selectas de Resina Dung de las Raíces Primarias",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0534dxape01": {
-        "name": "Porción de Resina de Estiércol Excelente de la Primera Raíz",
+        "name": "Porción Excelente de Resina Dung de las Raíces Primarias",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Estiércol Excelente de la Primera Raíz",
-        "pia": "",
+        "p": "Porciones Excelentes de Resina Dung de las Raíces Primarias",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0534dxapf01": {
-        "name": "Porción de Resina de Estiércol Suprema de la Primera Raíz",
+        "name": "Porción Suprema de Resina Dung de las Raíces Primarias",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Estiércol Suprema de la Primera Raíz",
-        "pia": "",
+        "p": "Porciones Supremas de Resina Dung de las Raíces Primarias",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -43425,155 +43515,155 @@
         "description": ""
     },
     "m0541dxacb01": {
-        "name": "Porción de Resina de Fung Básico",
+        "name": "Porción Básica de Resina Fung",
         "ia": "un",
         "da": "el",
-        "p": "Porciones de Resina de Fung Básico",
-        "pia": "",
+        "p": "Porciones Básicas de Resina Fung",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0541dxacc01": {
-        "name": "Porción de Resina de Fung Fino",
+        "name": "Porción Fina de Resina Fung",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Fung Fino",
-        "pia": "",
+        "p": "Porciones Finas de Resina Fung",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0541dxadd01": {
-        "name": "Porción de Resina de Fung de Selección del Desierto",
+        "name": "Porción Selecta de Resina Fung del Desierto",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Fung de Selección del Desierto",
-        "pia": "",
+        "p": "Porciones Selectas de Resina Fung del Desierto",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0541dxade01": {
-        "name": "Porción de Resina de Fung Excelente del Desierto",
+        "name": "Porción Excelente de Resina Fung del Desierto",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Fung Excelente del Desierto",
-        "pia": "",
+        "p": "Porciones Excelentes de Resina Fung del Desierto",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0541dxadf01": {
-        "name": "Porción de Resina de Fung Suprema del Desierto",
+        "name": "Porción Suprema de Resina Fung del Desierto",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Fung Suprema del Desierto",
-        "pia": "",
+        "p": "Porciones Supremas de Resina Fung del Desierto",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0541dxafd01": {
-        "name": "Porción de Resina de Fung de Selección del Bosque",
+        "name": "Porción Selecta de Resina Fung del Bosque",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Fung de Selección del Bosque",
-        "pia": "",
+        "p": "Porciones Selectas de Resina Fung del Bosque",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0541dxafe01": {
-        "name": "Porción de Resina de Estiércol Excelente del Bosque",
+        "name": "Porción Excelente de Resina Fung del Bosque",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Estiércol Excelente del Bosque",
-        "pia": "",
+        "p": "Porciones Excelentes de Resina Fung del Bosque",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0541dxaff01": {
-        "name": "Porción de Resina de Fung Suprema del Bosque",
+        "name": "Porción Suprema de Resina Fung del Bosque",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Fung Suprema del Bosque",
-        "pia": "",
+        "p": "Porciones Supremas de Resina Fung del Bosque",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0541dxajd01": {
-        "name": "Porción de Resina de Fung de Selección de la Selva",
+        "name": "Porción Selecta de Resina Fung de la Selva",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Fung de Selección de la Selva",
-        "pia": "",
+        "p": "Porciones Selectas de Resina Fung de la Selva",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0541dxaje01": {
-        "name": "Porción de Resina de Fung Excelente de la Selva",
+        "name": "Porción Excelente de Resina Fung de la Selva",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Fung Excelente de la Selva",
-        "pia": "",
+        "p": "Porciones Excelentes de Resina Fung de la Selva",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0541dxajf01": {
-        "name": "Porción de Resina de Fung Suprema de la Selva",
+        "name": "Porción Suprema de Resina Fung de la Selva",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Fung Suprema de la Selva",
-        "pia": "",
+        "p": "Porciones Supremas de Resina Fung de la Selva",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0541dxald01": {
-        "name": "Porción de Resina de Fung de Selección de los Lagos",
+        "name": "Porción Selecta de Resina Fung de los Lagos",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Fung de Selección de los Lagos",
-        "pia": "",
+        "p": "Porciones Selectas de Resina Fung de los Lagos",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0541dxale01": {
-        "name": "Porción de Resina de Fung Excelente de los Lagos",
+        "name": "Porción Excelente de Resina Fung de los Lagos",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Fung Excelente de los Lagos",
-        "pia": "",
+        "p": "Porciones Excelentes de Resina Fung de los Lagos",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0541dxalf01": {
-        "name": "Porción de Resina de Fung Suprema de los Lagos",
+        "name": "Porción Suprema de Resina Fung de los Lagos",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Fung Suprema de los Lagos",
-        "pia": "",
+        "p": "Porciones Supremas de Resina Fung de los Lagos",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0541dxapd01": {
-        "name": "Porción de Resina de Fung de Selección de la Primera Raíz",
+        "name": "Porción Selecta de Resina Fung de las Raíces Primarias",
         "ia": "una",
         "da": "la",
         "p": "Porciones de Resina de Fung de Selección de la Primera Raíz",
-        "pia": "",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0541dxape01": {
-        "name": "Porción de Resina de Fung Excelente de la Primera Raíz",
+        "name": "Porción Excelente de Resina Fung de las Raíces Primarias",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Fung Excelente de la Primera Raíz",
-        "pia": "",
+        "p": "Porciones Excelentes de Resina Fung de las Raíces Primarias",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0541dxapf01": {
-        "name": "Porción de Resina de Fung Suprema de la Primea Raíz",
+        "name": "Porción Suprema de Resina Fung de las Raíces Primarias",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Fung Suprema de la Primea Raíz",
-        "pia": "",
+        "p": "Porciones Supremas de Resina Fung de las Raíces Primarias",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -45387,11 +45477,11 @@
         "description": ""
     },
     "m0565dxadd01": {
-        "name": "Aceite de Irin de Selección del Desierto",
+        "name": "Aceite de Irin Selecto del Desierto",
         "ia": "algo de",
         "da": "el",
-        "p": "Aceites de Irin de Selección del Desierto",
-        "pia": "",
+        "p": "Aceites de Irin Selectos del Desierto",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -51309,101 +51399,101 @@
         "description": ""
     },
     "m0624dxacb01": {
-        "name": "Porción de Resina de Luna Básica",
+        "name": "Porción Básica de Resina Luna",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Luna Básica",
-        "pia": "",
+        "p": "Porciones Básicas de Resina Luna",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0624dxacc01": {
-        "name": "Porción de Resina de Luna Fina",
+        "name": "Porción Fina de Resina Luna",
         "ia": "una",
         "da": "la",
         "p": "Porciones de Resina de Luna Fina",
-        "pia": "",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0624dxadd01": {
-        "name": "Porción de Resina de Luna de Selección del Desierto",
+        "name": "Porción Selecta de Resina Luna del Desierto",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Luna de Selección del Desierto",
-        "pia": "",
+        "p": "Porciones Selectas de Resina Luna del Desierto",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0624dxade01": {
-        "name": "Porción de Resina de Luna Excelente del Desierto",
+        "name": "Porción Excelente de Resina Luna del Desierto",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Luna Excelente del Desierto",
-        "pia": "",
+        "p": "Porciones Excelentes de Resina Luna del Desierto",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0624dxadf01": {
-        "name": "Porción de Resina de Luna Suprema del Desierto",
+        "name": "Porción Suprema de Resina Luna del Desierto",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Luna Suprema del Desierto",
-        "pia": "",
+        "p": "Porciones Supremas de Resina Luna del Desierto",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0624dxafd01": {
-        "name": "Porción de Resina de Luna de Selección del Desierto",
+        "name": "Porción Selecta de Resina Luna del Bosque",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Luna de Selección del Desierto",
-        "pia": "",
+        "p": "Porciones Selectas de Resina Luna del Bosque",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0624dxafe01": {
-        "name": "Porción de Resina de Luna Excelente del Bosque",
+        "name": "Porción Excelente de Resina Luna del Bosque",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Luna Excelente del Bosque",
-        "pia": "",
+        "p": "Porciones Excelentes de Resina Luna del Bosque",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0624dxaff01": {
-        "name": "Porción de Resina de Luna Suprema del Bosque",
+        "name": "Porción Suprema de Resina Luna del Bosque",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Luna Suprema del Bosque",
-        "pia": "",
+        "p": "Porciones Supremas de Resina Luna del Bosque",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0624dxajd01": {
-        "name": "Porción de Resina de Luna de Selección de la Selva",
+        "name": "Porción Selecta de Resina Luna de la Selva",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Luna de Selección de la Selva",
-        "pia": "",
+        "p": "Porciones Selectas de Resina Luna de la Selva",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0624dxaje01": {
-        "name": "Porción de Resina de Luna Excelente de la Selva",
+        "name": "Porción Excelente de Resina Luna de la Selva",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Luna Excelente de la Selva",
-        "pia": "",
+        "p": "Porciones Excelentes de Resina Luna de la Selva",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0624dxajf01": {
-        "name": "Porción de Resina de Luna Suprema de la Selva",
+        "name": "Porción Suprema de Resina Luna de la Selva",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Luna Suprema de la Selva",
-        "pia": "",
+        "p": "Porciones Supremas de Resina Luna de la Selva",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -51417,47 +51507,47 @@
         "description": ""
     },
     "m0624dxale01": {
-        "name": "Porción de Resina de Luna Excelente de los Lagos",
+        "name": "Porción Excelente de Resina Luna de los Lagos",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Luna Excelente de los Lagos",
-        "pia": "",
+        "p": "Porciones Excelentes de Resina Luna de los Lagos",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0624dxalf01": {
-        "name": "Porción de Resina de Luna Suprema de los Lagos",
+        "name": "Porción Suprema de Resina Luna de los Lagos",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Luna Suprema de los Lagos",
-        "pia": "",
+        "p": "Porciones Supremas de Resina Luna de los Lagos",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0624dxapd01": {
-        "name": "Porción de Resina de Luna de Selección de la Primera Raíz",
+        "name": "Porción Selecta de Resina Luna de las Raíces Primarias",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Luna de Selección de la Primera Raíz",
-        "pia": "",
+        "p": "Porciones Selectas de la Resina Luna de las Raíces Primarias",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0624dxape01": {
-        "name": "Porción de Resina de Luna Excelente de la Primera Raíz",
+        "name": "Porción Excelente de Resina Luna de las Raíces Primarias",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Luna Excelente de la Primera Raíz",
-        "pia": "",
+        "p": "Porciones Excelentes de Resina Luna de las Raíces Primarias",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0624dxapf01": {
-        "name": "Porción de Resina de Luna Suprema de la Primera Raíz",
+        "name": "Porción Suprema de Resina Luna de las Raíces Primarias",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Luna Suprema de la Primera Raíz",
-        "pia": "",
+        "p": "Porciones Supremas de Resina Luna de las Raíces Primarias",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -58707,11 +58797,11 @@
         "description": ""
     },
     "m0751dxacc01": {
-        "name": "Goma o Pegamento de Rubbarn Modificado",
-        "ia": "",
+        "name": "Goma de Rubbarn Modificado",
+        "ia": "una",
         "da": "la",
-        "p": "Gomas o Pegamentos de Rubbarn Modificado",
-        "pia": "",
+        "p": "Gomas de Rubbarn Modificado",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -58743,11 +58833,11 @@
         "description": ""
     },
     "m0755dxacc01": {
-        "name": "Goma o Pegamento de Rubbarn Purificada",
-        "ia": "",
+        "name": "Goma de Rubbarn Purificado",
+        "ia": "una",
         "da": "la",
-        "p": "Gomas o Pegamentos de Rubbarn Purificados",
-        "pia": "",
+        "p": "Gomas de Rubbarn Purificado",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -59319,29 +59409,29 @@
         "description": ""
     },
     "m0789dxacb01": {
-        "name": "Porción de Resina de Corteza Básica Dañada",
+        "name": "Porción Básica de Resina Oscura Dañada",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina de Corteza Básica Dañada",
-        "pia": "",
+        "p": "Porciones Básicas de Resina Oscura Dañada",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0789dxapd01": {
-        "name": "Porción de Resina Oscura de Selección Dañada",
+        "name": "Porción Selecta de Resina Oscura Dañada",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina Oscura de Selección Dañada",
-        "pia": "",
+        "p": "Porciones Selectas de Resina Oscura Dañada",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0789dxape01": {
-        "name": "Porción de Resina Oscura Excelente Dañada",
+        "name": "Porción Excelente de Resina Oscura Dañada",
         "ia": "una",
         "da": "la",
-        "p": "Porciones de Resina Oscura Excelente Dañada",
-        "pia": "",
+        "p": "Porciones Excelentes de Resina Oscura Dañada",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -59391,20 +59481,20 @@
         "description": ""
     },
     "m0791dxapd01": {
-        "name": "Resina Pesada de Selección Dañada",
+        "name": "Corteza Pesada Selecta Dañada",
         "ia": "una",
         "da": "la",
-        "p": "Resinas Pesada de Selección Dañada",
-        "pia": "",
+        "p": "Cortezas Pesadas Selectas Dañadas",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0791dxape01": {
-        "name": "Resina Pesada Excelente Dañada",
-        "ia": "un",
-        "da": "el",
-        "p": "Resinas Pesada Excelente Dañada",
-        "pia": "",
+        "name": "Corteza Pesada Excelente Dañada",
+        "ia": "una",
+        "da": "la",
+        "p": "Cortezas Pesadas Excelentes Dañadas",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -59508,29 +59598,29 @@
         "description": ""
     },
     "m0795dxacb01": {
-        "name": "Petróleo Inestable Básico Dañado",
+        "name": "Aceite Inestable Básico Dañado",
         "ia": "algo de",
         "da": "el",
-        "p": "Petróleos Inestable Básico Dañado",
-        "pia": "",
+        "p": "Aceites Inestable Básico Dañado",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0795dxapd01": {
-        "name": "Petróleo Inestable de Selección Dañado",
+        "name": "Aceite Inestable de Selección Dañado",
         "ia": "un",
         "da": "el",
-        "p": "Petróleos Inestables de Selección Dañados",
-        "pia": "",
+        "p": "Aceites Inestables de Selección Dañados",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0795dxape01": {
-        "name": "Petróleo Inestable Excelente Dañado",
+        "name": "Aceite Inestable Excelente Dañado",
         "ia": "un",
         "da": "el",
-        "p": "Petróleos Inestables Excelentes Dañados",
-        "pia": "",
+        "p": "Aceites Inestables Excelentes Dañados",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -59751,147 +59841,147 @@
         "description": ""
     },
     "m0819dxacc01": {
-        "name": "Zarza de Tekorn Bruta",
+        "name": "Zarza de Tekorn Natural",
         "ia": "una",
         "da": "la",
-        "p": "Zarzas de Tekorn Bruta",
-        "pia": "",
+        "p": "Zarzas de Tekorn Natural",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0820dxacc01": {
-        "name": "Enredadera de Maga Bruta",
+        "name": "Enredadera de Maga Natural",
         "ia": "una",
         "da": "la",
-        "p": "Enredaderas de Maga Brutas",
-        "pia": "",
+        "p": "Enredaderas de Maga Naturales",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0821dxacc01": {
-        "name": "Liquen de Armilo Bruto",
+        "name": "Liquen de Armilo Natural",
         "ia": "un",
         "da": "el",
-        "p": "Líquenes de Armilo Brutos",
-        "pia": "",
+        "p": "Líquenes de Armilo Naturales",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0822dxacc01": {
-        "name": "Filamento de Greslin Bruto",
+        "name": "Filamento de Greslin Natural",
         "ia": "un",
         "da": "el",
-        "p": "Filamentos de Greslin Bruto",
-        "pia": "",
+        "p": "Filamentos de Greslin Natural",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0823dxacc01": {
-        "name": "Savia de Vedice Bruta",
-        "ia": "",
+        "name": "Savia de Vedice Natural",
+        "ia": "una",
         "da": "la",
-        "p": "Savias de Venices Brutas",
-        "pia": "",
+        "p": "Savias de Vedice Naturales",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0824dxacc01": {
-        "name": "Raíz de Cheng Bruta",
+        "name": "Raíz de Cheng Natural",
         "ia": "una",
         "da": "la",
-        "p": "Raíces de Cheng Brutas",
-        "pia": "",
+        "p": "Raíces de Cheng Naturales",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0825dxacc01": {
-        "name": "Goma o Pegamento de Rubbarn Bruto",
-        "ia": "",
+        "name": "Goma de Rubbarn Natural",
+        "ia": "una",
         "da": "la",
-        "p": "Gomas o Pegamentos de Rubbarn Bruto",
-        "pia": "",
+        "p": "Gomas de Rubbarn Natural",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0826dxacc01": {
-        "name": "Polen de Egiros Bruto",
+        "name": "Polen de Egiros Natural",
         "ia": "",
         "da": "el",
-        "p": "Polen de Egiros Brutos",
+        "p": "Polen de Egiros Natural",
         "pia": "",
-        "pda": "los",
+        "pda": "",
         "description": ""
     },
     "m0827dxacc01": {
-        "name": "Zarza de Tekorn Bruta",
+        "name": "Zarza de Tekorn Refinado",
         "ia": "una",
         "da": "la",
-        "p": "Zarzas de Tekorn Bruta",
-        "pia": "",
+        "p": "Zarzas de Tekorn Refinado",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0828dxacc01": {
-        "name": "Enredadera de Maga Bruta",
+        "name": "Enredadera de Maga Refinado",
         "ia": "una",
         "da": "la",
-        "p": "Enredaderas de Maga Brutas",
-        "pia": "",
+        "p": "Enredaderas de Maga Refinado",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0829dxacc01": {
-        "name": "Liquen de Armilo Bruto",
+        "name": "Liquen de Armilo Refinado",
         "ia": "un",
         "da": "el",
-        "p": "Líquenes de Armilo Brutos",
-        "pia": "",
+        "p": "Líquenes de Armilo Refinado",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0830dxacc01": {
-        "name": "Filamento de Greslin Bruto",
+        "name": "Filamento de Greslin Refinado",
         "ia": "un",
         "da": "el",
-        "p": "Filamentos de Greslin Bruto",
-        "pia": "",
+        "p": "Filamentos de Greslin Refinado",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0831dxacc01": {
-        "name": "Savia de Vedice Bruta",
+        "name": "Savia de Vedice Refinada",
         "ia": "",
         "da": "la",
-        "p": "Savias de Venices Brutas",
+        "p": "Savias de Venice Refinada",
         "pia": "",
         "pda": "las",
         "description": ""
     },
     "m0832dxacc01": {
-        "name": "Raíz de Cheng Bruta",
+        "name": "Raíz de Cheng Refinada",
         "ia": "una",
         "da": "la",
-        "p": "Raíces de Cheng Brutas",
-        "pia": "",
+        "p": "Raíces de Cheng Refinada",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0833dxacc01": {
-        "name": "Goma o Pegamento de Rubbarn Bruto",
-        "ia": "",
+        "name": "Goma de Rubbarn Refinado",
+        "ia": "una",
         "da": "la",
-        "p": "Gomas o Pegamentos de Rubbarn Bruto",
-        "pia": "",
+        "p": "Gomas de Rubbarn Refinado",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0834dxacc01": {
-        "name": "Polen de Egiros Bruto",
+        "name": "Polen de Egiros Refinado",
         "ia": "",
         "da": "el",
-        "p": "Polen de Egiros Brutos",
+        "p": "Polen de Egiros Refinado",
         "pia": "",
-        "pda": "los",
+        "pda": "",
         "description": ""
     },
     "ma_armor01_armpad": {
@@ -62794,16 +62884,16 @@
     },
     "nexus_neck1": {
         "name": "Collar Iridiscente del Desierto",
-        "ia": "uno",
+        "ia": "",
         "da": "el",
-        "p": "Collares Iridiscentes",
+        "p": "Collares Iridiscentes del Desierto",
         "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "nexus_neck2": {
         "name": "Collar Iridiscente del Bosque",
-        "ia": "uno",
+        "ia": "",
         "da": "el",
         "p": "Collares Iridiscentes del Bosque",
         "pia": "unos",
@@ -62811,8 +62901,8 @@
         "description": ""
     },
     "nexus_neck3": {
-        "name": "Collar Iridiscente de Los Lagos",
-        "ia": "uno",
+        "name": "Collar Iridiscente de los Lagos",
+        "ia": "",
         "da": "el",
         "p": "Collares Iridiscentes de los Lagos",
         "pia": "unos",
@@ -62821,7 +62911,7 @@
     },
     "nexus_neck4": {
         "name": "Collar Iridiscente de la Selva",
-        "ia": "uno",
+        "ia": "",
         "da": "el",
         "p": "Collares Iridiscentes de la Selva",
         "pia": "unos",
@@ -62906,6 +62996,15 @@
         "da": "la",
         "p": "Ampollas",
         "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "phial_stackable": {
+        "name": "Savia de Salina",
+        "ia": "una",
+        "da": "la",
+        "p": "Savias de Salina",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -63486,12 +63585,12 @@
         "description": ""
     },
     "r_06_08_phial_full": {
-        "name": "Phial",
-        "ia": "a",
-        "da": "the",
-        "p": "Phials",
-        "pia": "",
-        "pda": "the",
+        "name": "Frasco",
+        "ia": "uno",
+        "da": "el",
+        "p": "Frasco",
+        "pia": "unos",
+        "pda": "los",
         "description": ""
     },
     "r_06_08_report": {
@@ -64134,11 +64233,11 @@
         "description": ""
     },
     "rpjobitem_204_a0": {
-        "name": "Materiales para la empuñadura o mango",
+        "name": "Materiales para la empuñadura",
         "ia": "",
         "da": "los",
-        "p": "Materiales para la empuñadura o mango",
-        "pia": "",
+        "p": "Materiales para la empuñadura",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -64435,7 +64534,7 @@
         "ia": "",
         "da": "el",
         "p": "Materiales para la fabricación de pergaminos",
-        "pia": "",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -64449,10 +64548,10 @@
         "description": ""
     },
     "rpjobitem_207_b0": {
-        "name": "Materiales para la fabricación de las tintas",
+        "name": "Materiales para fabricación de tintas",
         "ia": "",
         "da": "los",
-        "p": "Materiales para la fabricación de las tintas",
+        "p": "Materiales para la fabricación de tintas",
         "pia": "",
         "pda": "los",
         "description": ""
@@ -64557,19 +64656,19 @@
         "description": ""
     },
     "s2e1_salins": {
-        "name": "salina madura",
-        "ia": "una",
-        "da": "la",
-        "p": "salinas maduras",
-        "pia": "unas",
-        "pda": "las",
+        "name": "puñado de salina madura",
+        "ia": "",
+        "da": "el",
+        "p": "puñados de salinas maduras",
+        "pia": "unos",
+        "pda": "los",
         "description": ""
     },
     "s2e1_seve_suc": {
-        "name": "gota de savia salina",
+        "name": "gota de savia salina iridiscente",
         "ia": "una",
         "da": "la",
-        "p": "gotas de savia salina",
+        "p": "gotas de savia salina iridiscente",
         "pia": "unas",
         "pda": "las",
         "description": ""
@@ -64773,10 +64872,10 @@
         "description": "los"
     },
     "slot_neck": {
-        "name": "",
+        "name": "Equipa una joya en la ranura del collar",
         "ia": "",
         "da": "",
-        "p": "",
+        "p": "Equipa una joya en la ranura del collar",
         "pia": "",
         "pda": "",
         "description": ""
@@ -64989,11 +65088,11 @@
         "description": ""
     },
     "system_mp": {
-        "name": "Materia Prime Genérica",
+        "name": "Materia Prima Genérica",
         "ia": "una",
         "da": "la",
         "p": "Materias Primas Genéricas",
-        "pia": "",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -65007,74 +65106,74 @@
         "description": ""
     },
     "system_mp_choice": {
-        "name": "Materia Prima Genérica de Selección",
+        "name": "Materia Prima Genérica Selecta",
         "ia": "una",
         "da": "la",
-        "p": "Materias Primas Genéricas de Selección",
-        "pia": "",
+        "p": "Materias Primas Genéricas Selectas",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "system_mp_choice_black": {
-        "name": "Materia Prima Genérica de Selección (Negra)",
+        "name": "Materia Prima Genérica Selecta (Negra)",
         "ia": "una",
         "da": "la",
-        "p": "Materias Primas Genéricas de Selección (Negra)",
-        "pia": "",
+        "p": "Materias Primas Genéricas Selectas (Negras)",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "system_mp_choice_blue": {
-        "name": "Materia Prima Genéricas de Selección (Azul)",
+        "name": "Materia Prima Genérica Selecta (Azul)",
         "ia": "una",
         "da": "la",
-        "p": "Materias Primas Genéricas de Selección (Azul)",
-        "pia": "",
+        "p": "Materias Primas Genéricas Selectas (Azules)",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "system_mp_choice_green": {
-        "name": "Materia Prima Genérica Selección (Verde)",
+        "name": "Materia Prima Genérica Selecta (Verde)",
         "ia": "una",
         "da": "la",
-        "p": "Materias Primas Genéricas de Selección (Verde)",
-        "pia": "",
+        "p": "Materias Primas Genéricas Selectas (Verdes)",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "system_mp_choice_purple": {
-        "name": "Materia Prima Genérica de Selección (Purpura)",
+        "name": "Materia Prima Genérica Selecta (Púrpura)",
         "ia": "una",
         "da": "la",
-        "p": "Materias Primas Genéricas de Selección (Purpura)",
-        "pia": "",
+        "p": "Materias Primas Genéricas Selectas (Púrpuras)",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "system_mp_choice_red": {
-        "name": "Materia Prima Genérica de Selección (Roja)",
+        "name": "Materia Prima Genérica Selecta (Roja)",
         "ia": "una",
         "da": "la",
-        "p": "Materias Primas Genéricas de Selección (Roja)",
-        "pia": "",
+        "p": "Materias Primas Genéricas Selectas (Rojas)",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "system_mp_choice_turquoise": {
-        "name": "Materia Prima Genérico de Selección (Turquesa)",
+        "name": "Materia Prima Genérica Selecta (Turquesa)",
         "ia": "una",
         "da": "la",
-        "p": "Materias Primas Genéricos de Selección (Turquesa)",
-        "pia": "",
+        "p": "Materias Primas Genéricas Selectas (Turquesas)",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "system_mp_choice_white": {
-        "name": "Materia Prima Genérica de Selección (Blanco)",
+        "name": "Materia Prima Genérica Selecta (Blanca)",
         "ia": "una",
         "da": "la",
-        "p": "Materias Primas Genéricas de Selección (Blanco)",
-        "pia": "",
+        "p": "Materias Primas Genéricas Selectas (Blancas)",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -65088,66 +65187,66 @@
         "description": ""
     },
     "system_mp_excellent_black": {
-        "name": "Materia prima negra excelente",
-        "ia": "",
-        "da": "",
-        "p": "",
-        "pia": "",
-        "pda": "",
+        "name": "Materia Prima Genérica Excelente (Negra)",
+        "ia": "una",
+        "da": "la",
+        "p": "Materias Primas Genéricas Excelentes (Negras)",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "system_mp_excellent_blue": {
-        "name": "Materia prima azul excelente",
-        "ia": "",
-        "da": "",
-        "p": "",
-        "pia": "",
-        "pda": "",
+        "name": "Materia Prima Genérica Excelente (Azul)",
+        "ia": "una",
+        "da": "la",
+        "p": "Materias Primas Genéricas Excelentes (Azules)",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "system_mp_excellent_green": {
-        "name": "Materia prima verde excelente",
-        "ia": "",
-        "da": "",
-        "p": "",
-        "pia": "",
-        "pda": "",
+        "name": "Materia Prima Genérica Excelente (Verde)",
+        "ia": "una",
+        "da": "la",
+        "p": "Materias Primas Genéricas Excelentes (Verdes)",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "system_mp_excellent_purple": {
-        "name": "Materia prima morada excelente",
-        "ia": "",
-        "da": "",
-        "p": "",
-        "pia": "",
-        "pda": "",
+        "name": "Materia Prima Genérica Excelente (Púrpura)",
+        "ia": "una",
+        "da": "la",
+        "p": "Materias Primas Genéricas Excelentes (Púrpura)",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "system_mp_excellent_red": {
-        "name": "Materia prima roja excelente",
-        "ia": "",
-        "da": "",
-        "p": "",
-        "pia": "",
-        "pda": "",
+        "name": "Materia Prima Genérica Excelente (Roja)",
+        "ia": "una",
+        "da": "la",
+        "p": "Materias Primas Genéricas Excelentes (Rojas)",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "system_mp_excellent_turquoise": {
-        "name": "Materia prima turquesa excelente",
-        "ia": "",
-        "da": "",
-        "p": "",
-        "pia": "",
-        "pda": "",
+        "name": "Materia Prima Genérica Excelente (Turquesa)",
+        "ia": "una",
+        "da": "la",
+        "p": "Materias Primas Genéricas Excelentes (Turquesas)",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "system_mp_excellent_white": {
-        "name": "Material bruto excelente blanco",
-        "ia": "un",
-        "da": "el",
-        "p": "Materiaesl brutos excelentes blancos",
-        "pia": "unos",
-        "pda": "los",
+        "name": "Materia Prima Genérica Excelente (Blanca)",
+        "ia": "una",
+        "da": "la",
+        "p": "Materias Primas Genéricas Excelentes (Blancas)",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "system_mp_extra": {
@@ -65155,71 +65254,71 @@
         "ia": "una",
         "da": "la",
         "p": "Materias Primas Genéricas Perfectas",
-        "pia": "",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "system_mp_extra_black": {
-        "name": "Materia prima Negra adicional",
-        "ia": "",
-        "da": "",
-        "p": "",
-        "pia": "",
-        "pda": "",
+        "name": "Materia Prima Genérica Perfecta (Negra)",
+        "ia": "una",
+        "da": "la",
+        "p": "Materias Primas Genéricas Perfectas (Negras)",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "system_mp_extra_blue": {
-        "name": "Materia prima Azul adicional",
-        "ia": "",
-        "da": "",
-        "p": "",
-        "pia": "",
-        "pda": "",
+        "name": "Materia Prima Genérica Perfecta (Azul)",
+        "ia": "una",
+        "da": "la",
+        "p": "Materias Primas Genéricas Perfectas (Azules)",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "system_mp_extra_green": {
-        "name": "Materia prima Verde adicional",
-        "ia": "",
-        "da": "",
-        "p": "",
-        "pia": "",
-        "pda": "",
+        "name": "Materia Prima Genérica Perfecta (Verde)",
+        "ia": "una",
+        "da": "la",
+        "p": "Materias Primas Genéricas Perfectas (Verdes)",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "system_mp_extra_purple": {
-        "name": "Materia prima Morada adicional",
-        "ia": "",
-        "da": "",
-        "p": "",
-        "pia": "",
-        "pda": "",
+        "name": "Materia Prima Genérica Perfecta (Púrpura)",
+        "ia": "una",
+        "da": "la",
+        "p": "Materias Primas Genéricas Perfectas (Púrpuras)",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "system_mp_extra_red": {
-        "name": "Materia prima Roja adicional",
-        "ia": "",
-        "da": "",
-        "p": "",
-        "pia": "",
-        "pda": "",
+        "name": "Materia Prima Genérica Perfecta (Roja)",
+        "ia": "una",
+        "da": "la",
+        "p": "Materias Primas Genéricas Perfectas (Rojas)",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "system_mp_extra_turquoise": {
-        "name": "Materia prima Turquesa adicional",
-        "ia": "",
-        "da": "",
-        "p": "",
-        "pia": "",
-        "pda": "",
+        "name": "Materia Prima Genérica Perfecta (Turquesa)",
+        "ia": "una",
+        "da": "la",
+        "p": "Materias Primas Genéricas Perfectas (Turquesas)",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "system_mp_extra_white": {
-        "name": "Materia prima Blanca adicional",
-        "ia": "",
-        "da": "",
-        "p": "",
-        "pia": "",
-        "pda": "",
+        "name": "Materia Prima Genérica Perfecta (Blanca)",
+        "ia": "una",
+        "da": "la",
+        "p": "Materias Primas Genéricas Perfectas (Blancas)",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "system_mp_fine": {

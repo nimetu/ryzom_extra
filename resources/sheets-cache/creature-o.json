@@ -83006,5 +83006,21 @@
         "givable": 0,
         "mountable": 0,
         "display_in_radar": 0
+    },
+    "object_tent_lesson": {
+        "sheetid": "object_tent_lesson",
+        "gender": 0,
+        "race": "142",
+        "fame": "none",
+        "speed": 0,
+        "region_force": 0,
+        "force_level": 0,
+        "level": 1,
+        "selectable": 0,
+        "talkable": 1,
+        "attackable": 0,
+        "givable": 0,
+        "mountable": 0,
+        "display_in_radar": 0
     }
 }

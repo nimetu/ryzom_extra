@@ -4691,8 +4691,32 @@
     "mpfam82": {
         "name": "Хребет ломпера"
     },
+    "mpfam827": {
+        "name": "Стандартный шип тэкорн"
+    },
+    "mpfam828": {
+        "name": "Стандартное ползучее растение мага"
+    },
+    "mpfam829": {
+        "name": "Стандартный лишайник армило"
+    },
     "mpfam83": {
         "name": "Усы ломпера"
+    },
+    "mpfam830": {
+        "name": "Стандартное волокно грэслин"
+    },
+    "mpfam831": {
+        "name": "Стандартный сэп ведичи"
+    },
+    "mpfam832": {
+        "name": "Стандартный корень шенг"
+    },
+    "mpfam833": {
+        "name": "Стандартный каучук руббарн"
+    },
+    "mpfam834": {
+        "name": "Стандартная пыльца эгирос"
     },
     "mpfam84": {
         "name": "Дерево манат"
@@ -5759,6 +5783,9 @@
     "uianimaldetailedlist": {
         "name": "Подробный список"
     },
+    "uianimalinbag": {
+        "name": ""
+    },
     "uianimalinstable": {
         "name": "Ваше животное находится в стойле"
     },
@@ -5878,6 +5905,9 @@
     },
     "uiautoequiptool": {
         "name": "Режим автоматического снаряжения"
+    },
+    "uiautoloot": {
+        "name": ""
     },
     "uiautomaticcamera": {
         "name": "Автоматизировать камеру"
@@ -6944,6 +6974,9 @@
     "uicarrf": {
         "name": "БОЕЦ ДАЛЬНЕГО БОЯ - ХАРАКТЕРИСТИКИ"
     },
+    "uicatalyser": {
+        "name": ""
+    },
     "uicategory": {
         "name": "Категория"
     },
@@ -7164,7 +7197,7 @@
         "name": "Цвет сообщений в канале \"Вселенная\""
     },
     "uichanautocb": {
-        "name": "Restore Dynamic Channels"
+        "name": "Восстановить динамические каналы"
     },
     "uichangedate": {
         "name": "Перезапись даты изменений :"
@@ -7173,7 +7206,7 @@
         "name": "КАНАЛ:"
     },
     "uichansavecb": {
-        "name": "Save Dynamic Channels"
+        "name": "Сохранить динамические каналы"
     },
     "uichapteri": {
         "name": "Глава I : Времена меняются"
@@ -7618,6 +7651,12 @@
     },
     "uiconsdesc": {
         "name": "@{6F6F}Телосложение@{FFFF}, \nпоказывает, насколько долго персонаж может заниматься физически утомительными действиями."
+    },
+    "uiconsumable": {
+        "name": ""
+    },
+    "uiconsumables": {
+        "name": ""
     },
     "uicontactalreadyinlist": {
         "name": "Этот персонаж уже есть в вашем списке контактов."
@@ -8316,28 +8355,28 @@
         "name": "Дуа"
     },
     "uidyncolor0": {
-        "name": "Dynamic Channel 0"
+        "name": "Динамический канал 0"
     },
     "uidyncolor1": {
-        "name": "Dynamic Channel 1"
+        "name": "Динамический канал 1"
     },
     "uidyncolor2": {
-        "name": "Dynamic Channel 2"
+        "name": "Динамический канал 2"
     },
     "uidyncolor3": {
-        "name": "Dynamic Channel 3"
+        "name": "Динамический канал 3"
     },
     "uidyncolor4": {
-        "name": "Dynamic Channel 4"
+        "name": "Динамический канал 4"
     },
     "uidyncolor5": {
-        "name": "Dynamic Channel 5"
+        "name": "Динамический канал 5"
     },
     "uidyncolor6": {
-        "name": "Dynamic Channel 6"
+        "name": "Динамический канал 6"
     },
     "uidyncolor7": {
-        "name": "Dynamic Channel 7"
+        "name": "Динамический канал 7"
     },
     "uie": {
         "name": "В"
@@ -10962,7 +11001,7 @@
         "name": "Холет"
     },
     "uihome": {
-        "name": "Вернуться"
+        "name": "ВЕРНУТЬСЯ"
     },
     "uihorizontal": {
         "name": "Horizontal"
@@ -11326,6 +11365,9 @@
     },
     "uiitemtextmessagefromcrafter": {
         "name": "@{FFF9}Сообщение от изготовителя:\n@{FFFF}"
+    },
+    "uiitemtype": {
+        "name": ""
     },
     "uiitemusersellcolor": {
         "name": "@{FF0F}"
@@ -11925,7 +11967,7 @@
         "name": "RWIN"
     },
     "uikeys": {
-        "name": "Ключи"
+        "name": "S"
     },
     "uikeysactionstitle": {
         "name": "ДЕЙСТВИЯ"
@@ -13976,6 +14018,9 @@
     "uimwbuff": {
         "name": "ВЛИЯНИЯ"
     },
+    "uimwcap": {
+        "name": "Course"
+    },
     "uimwchat": {
         "name": "ОСНОВНОЙ ЧАТ"
     },
@@ -14428,6 +14473,9 @@
     },
     "uiopen": {
         "name": "Открыть"
+    },
+    "uiopendefaultcontext": {
+        "name": "Открытый контекст по умолчанию"
     },
     "uiopenwindow": {
         "name": "Открыть"
@@ -16535,6 +16583,12 @@
     "uisapbardisplay": {
         "name": "ОТОБРАЖЕНИЕ СЭП"
     },
+    "uisapcristal": {
+        "name": ""
+    },
+    "uisapcrystal": {
+        "name": ""
+    },
     "uisapdesc": {
         "name": "@{6F6F}Сэп@{FFFF}, \nэнергия,позволяющая использовать магические умения."
     },
@@ -16554,7 +16608,7 @@
         "name": "Save"
     },
     "uisay": {
-        "name": "SAY"
+        "name": "СКАЗАТЬ"
     },
     "uisaycolor": {
         "name": "Сказать"
@@ -16622,6 +16676,9 @@
     "uise": {
         "name": "ЮВ"
     },
+    "uisearchterm": {
+        "name": ""
+    },
     "uiseason0": {
         "name": "весна"
     },
@@ -16651,6 +16708,9 @@
     },
     "uiselectpackage": {
         "name": "Выбор установки"
+    },
+    "uiselectquantity": {
+        "name": ""
     },
     "uiselectrmbuy": {
         "name": "Hire a Role Master"
@@ -16814,6 +16874,9 @@
     "uishowdynchannelnameinchatcb": {
         "name": "Отображать названия динамических каналов в чате"
     },
+    "uishowfullmap": {
+        "name": ""
+    },
     "uishowhide": {
         "name": "Показать \/ Скрыть"
     },
@@ -16942,6 +17005,9 @@
     },
     "uispellbooktitle": {
         "name": "КНИГА ЗАКЛИНАНИЙ"
+    },
+    "uispellcrystallized": {
+        "name": ""
     },
     "uispellselectsapcost": {
         "name": "Расход Сэпа: "
@@ -17216,6 +17282,15 @@
     "uitabphraseupgrades": {
         "name": "Усовершенстования"
     },
+    "uitabzig1": {
+        "name": "Zig 1"
+    },
+    "uitabzig2": {
+        "name": "Zig 2"
+    },
+    "uitabzig3": {
+        "name": "Zig 3"
+    },
     "uitalkcmd": {
         "name": "Говорить с кем-либо"
     },
@@ -17437,6 +17512,9 @@
     },
     "uiteleport": {
         "name": "ПЕРЕМЕСТИТЬСЯ"
+    },
+    "uiteleportitem": {
+        "name": ""
     },
     "uiteleportlocation": {
         "name": "МЕСТА ТЕЛЕПОРТАЦИИ"
@@ -17917,6 +17995,12 @@
     },
     "uittbrowseundo": {
         "name": "Перейти к предыдущей странице помощи"
+    },
+    "uittbulkexchangegive": {
+        "name": ""
+    },
+    "uittbulkexchangereceive": {
+        "name": ""
     },
     "uittbulkformat": {
         "name": "@{6F6F}Нагрузка@{FFFF}: %v\/%m"
@@ -18491,8 +18575,14 @@
     "uitthandl": {
         "name": "@{6F6F}Левая рука\n@{FFFF}Щелкните, чтобы увидеть список всех предметов, которые вы можете держать в левой руке."
     },
+    "uitthandl_alt": {
+        "name": "Левая рука"
+    },
     "uitthandr": {
         "name": "@{6F6F}Правая рука\n@{FFFF}Щелкните, чтобы увидеть список всех предметов, которые вы можете держать в правой руке."
+    },
+    "uitthandr_alt": {
+        "name": "Правая рука"
     },
     "uitthands": {
         "name": "Рукавицы"
@@ -18883,6 +18973,9 @@
     },
     "uittmodrangesuccess": {
         "name": "Ваши навыки дальнего боя изменились на %modifier единиц"
+    },
+    "uittmoneytradeoffer": {
+        "name": ""
     },
     "uittmoreinfo": {
         "name": "подробнее"
@@ -19496,6 +19589,12 @@
     "uittwalk": {
         "name": "Режим ходьбы"
     },
+    "uittweightexchangegive": {
+        "name": ""
+    },
+    "uittweightexchangereceive": {
+        "name": ""
+    },
     "uittwontbuythis": {
         "name": "Я не буду это покупать."
     },
@@ -19594,6 +19693,9 @@
     },
     "uiuseeax": {
         "name": "Использовать EAX"
+    },
+    "uiuseitem": {
+        "name": ""
     },
     "uiuseralpha": {
         "name": "ПРИМЕНИТЬ ОБЩИЕ НАСТРОЙКИ"
@@ -19816,6 +19918,9 @@
     },
     "uiwisdesc": {
         "name": "@{6F6F}Мудрость@{FFFF}, \nизмеряет способность персонажа контролировать свой разум, необходима для занятий магией."
+    },
+    "uiwisdomchest": {
+        "name": ""
     },
     "uiwishmax": {
         "name": "Focus Max"

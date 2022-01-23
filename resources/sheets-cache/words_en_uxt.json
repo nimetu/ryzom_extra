@@ -1023,7 +1023,7 @@
         "name": " (Range weapon merchant)"
     },
     "fct_registar": {
-        "name": " ( Guild Clerk)"
+        "name": " (Guild Clerk)"
     },
     "fct_rf_chief": {
         "name": " (Range Fighter Guild leader)"
@@ -4691,8 +4691,32 @@
     "mpfam82": {
         "name": "Lumper Spine"
     },
+    "mpfam827": {
+        "name": "Refined Tekorn Bramble"
+    },
+    "mpfam828": {
+        "name": "Refined Maga Creeper"
+    },
+    "mpfam829": {
+        "name": "Refined Armilo Lichen"
+    },
     "mpfam83": {
         "name": "Lumper Whiskers"
+    },
+    "mpfam830": {
+        "name": "Refined Greslin Filament"
+    },
+    "mpfam831": {
+        "name": "Refined Vedice Sap"
+    },
+    "mpfam832": {
+        "name": "Refined Cheng Root"
+    },
+    "mpfam833": {
+        "name": "Refined Rubbarn Gum"
+    },
+    "mpfam834": {
+        "name": "Refined Egiros Pollen"
     },
     "mpfam84": {
         "name": "Manath Wood"
@@ -5759,6 +5783,9 @@
     "uianimaldetailedlist": {
         "name": "Detailed List"
     },
+    "uianimalinbag": {
+        "name": "Your animal is in your bag"
+    },
     "uianimalinstable": {
         "name": "Your animal is in a stable"
     },
@@ -5878,6 +5905,9 @@
     },
     "uiautoequiptool": {
         "name": "Auto Equip Mode"
+    },
+    "uiautoloot": {
+        "name": "Take all during quartering"
     },
     "uiautomaticcamera": {
         "name": "Automatic Camera"
@@ -6944,6 +6974,9 @@
     "uicarrf": {
         "name": "RANGE FIGHTER - CHARACTERISTICS"
     },
+    "uicatalyser": {
+        "name": "Catalyser"
+    },
     "uicategory": {
         "name": "Category"
     },
@@ -7618,6 +7651,12 @@
     },
     "uiconsdesc": {
         "name": "@{6F6F}Constitution@{FFFF},\nmeasures the character's ability to engage in long-term periods of strenuous physical activity."
+    },
+    "uiconsumable": {
+        "name": "Consumable"
+    },
+    "uiconsumables": {
+        "name": "Consumable"
     },
     "uicontactalreadyinlist": {
         "name": "This contact is already in your list."
@@ -10962,7 +11001,7 @@
         "name": "Holeth"
     },
     "uihome": {
-        "name": "Home"
+        "name": "HOME"
     },
     "uihorizontal": {
         "name": "Horizontal"
@@ -11326,6 +11365,9 @@
     },
     "uiitemtextmessagefromcrafter": {
         "name": "@{FFF9}Message from the crafter:\n@{FFFF}"
+    },
+    "uiitemtype": {
+        "name": "Use the first item found in bag of type"
     },
     "uiitemusersellcolor": {
         "name": "@{FF0F}"
@@ -12621,19 +12663,19 @@
         "name": "MiB"
     },
     "uimblock": {
-        "name": "BLOCK"
+        "name": "Block"
     },
     "uimboldinfo": {
-        "name": "INFO"
+        "name": "Info"
     },
     "uimcall": {
-        "name": "CALL"
+        "name": "Call"
     },
     "uimcareer": {
-        "name": "CAREER"
+        "name": "Career"
     },
     "uimchangegroup": {
-        "name": "MOVE TO FRIENDS GROUP"
+        "name": "Move to friends group"
     },
     "uimchansave": {
         "name": "Save"
@@ -12642,10 +12684,10 @@
         "name": "Tabs"
     },
     "uimchooseuialpha": {
-        "name": "WINDOW OPACITY"
+        "name": "Window opacity"
     },
     "uimclear": {
-        "name": "CLEAR"
+        "name": "Clear"
     },
     "uimcombat": {
         "name": "COMBAT"
@@ -12672,7 +12714,7 @@
         "name": "COMMANDS"
     },
     "uimcommerce": {
-        "name": "TRADE"
+        "name": "Trade"
     },
     "uimcompassanimal": {
         "name": "Animals"
@@ -12690,28 +12732,28 @@
         "name": "Team"
     },
     "uimcristalenchant": {
-        "name": "ENCHANT RIGHT HAND"
+        "name": "Enchant right hand"
     },
     "uimcristalize": {
-        "name": "CRYSTALLIZE"
+        "name": "Crystallize"
     },
     "uimcristalreload": {
-        "name": "RECHARGE RIGHT HAND"
+        "name": "Recharge right hand"
     },
     "uimcustomer": {
-        "name": "SUPPORT"
+        "name": "Support"
     },
     "uimdeletekey": {
         "name": "Delete Key"
     },
     "uimdestroy": {
-        "name": "DESTROY"
+        "name": "Destroy"
     },
     "uimdismiss": {
         "name": "Dismiss"
     },
     "uimdrop": {
-        "name": "DROP"
+        "name": "Drop"
     },
     "uimedis": {
         "name": "Medis"
@@ -12789,7 +12831,7 @@
         "name": "CENTER MAP ON YOURSELF"
     },
     "uimequip": {
-        "name": "EQUIP"
+        "name": "Equip"
     },
     "uimessageoftheday": {
         "name": "Breach Reality and Be Reborn!"
@@ -12801,22 +12843,22 @@
         "name": "m"
     },
     "uimfaber": {
-        "name": "COLLECT"
+        "name": "Collect"
     },
     "uimfaclear": {
         "name": "Clear"
     },
     "uimfacrea": {
-        "name": "CREATE"
+        "name": "Create"
     },
     "uimfainfos": {
         "name": "Info"
     },
     "uimfarefi": {
-        "name": "REFINE"
+        "name": "Refine"
     },
     "uimfarepa": {
-        "name": "REPAIR"
+        "name": "Repair"
     },
     "uimfareset": {
         "name": "Reset to Default"
@@ -12882,7 +12924,7 @@
         "name": "Follow"
     },
     "uimfollowme": {
-        "name": "FOLLOW ME"
+        "name": "Follow me"
     },
     "uimforgetmacro": {
         "name": "FORGET MACRO"
@@ -12897,7 +12939,7 @@
         "name": "Previous"
     },
     "uimfree": {
-        "name": "FREE"
+        "name": "Free"
     },
     "uimfreezejob": {
         "name": "FREEZE JOB"
@@ -12921,10 +12963,10 @@
         "name": "Server was unable to send mail to"
     },
     "uimgcmaddtofriendlist": {
-        "name": "ADD TO FRIENDS LIST"
+        "name": "Add to friends list"
     },
     "uimgcmattack": {
-        "name": "ATTACK"
+        "name": "Attack"
     },
     "uimgcmavailablemissions": {
         "name": "AVAILABLE MISSIONS"
@@ -12942,49 +12984,49 @@
         "name": "Ask politely"
     },
     "uimgcmchoosebuilding": {
-        "name": "BUILD BUILDING"
+        "name": "Build building"
     },
     "uimgcmcontinuemissions": {
         "name": "CONTINUE MISSION"
     },
     "uimgcmcosmetic": {
-        "name": "BUY COSMETICS"
+        "name": "Buy cosmetics"
     },
     "uimgcmcreateguild": {
-        "name": "CREATE GUILD"
+        "name": "Create Guild"
     },
     "uimgcmdeclarewar": {
-        "name": "DECLARE WAR"
+        "name": "Declare war"
     },
     "uimgcmdestroybuilding": {
         "name": "DESTROY BUILDING"
     },
     "uimgcmdigging": {
-        "name": "DIG"
+        "name": "Dig"
     },
     "uimgcmdisengage": {
-        "name": "DISENGAGE"
+        "name": "Disengage"
     },
     "uimgcmdiving": {
         "name": "DIVE"
     },
     "uimgcmduel": {
-        "name": "PROPOSE DUEL"
+        "name": "Propose Duel"
     },
     "uimgcmenterstable": {
         "name": "Enter stable"
     },
     "uimgcmexchange": {
-        "name": "EXCHANGE"
+        "name": "Exchange"
     },
     "uimgcmextractrm": {
-        "name": "EXTRACT RAW MATERIALS"
+        "name": "Extract raw materials"
     },
     "uimgcmfaction": {
-        "name": "BUY FACTION ITEMS"
+        "name": "Buy faction items"
     },
     "uimgcmfinishmissions": {
-        "name": "FINISH MISSION"
+        "name": "Finish mission"
     },
     "uimgcmfishing": {
         "name": "FISH"
@@ -12993,10 +13035,10 @@
         "name": "Free"
     },
     "uimgcmguildinvit": {
-        "name": "GUILD INVITE"
+        "name": "Guild invite"
     },
     "uimgcmguildoptions": {
-        "name": "BUILDING TRADE"
+        "name": "Building trade"
     },
     "uimgcmguildrolemaster": {
         "name": "LEARN GUILD ACTION"
@@ -13008,34 +13050,34 @@
         "name": "SHEAR"
     },
     "uimgcminfo": {
-        "name": "INFO"
+        "name": "Info"
     },
     "uimgcminvit": {
-        "name": "TEAM INVITE"
+        "name": "Team invite"
     },
     "uimgcmlearnskills": {
         "name": "LEARN SKILLS"
     },
     "uimgcmlift": {
-        "name": "LIFT"
+        "name": "Lift"
     },
     "uimgcmlook": {
-        "name": "LOOK"
+        "name": "Look"
     },
     "uimgcmloot": {
-        "name": "LOOT"
+        "name": "Loot"
     },
     "uimgcmmissions": {
-        "name": "MISSIONS"
+        "name": "Missions"
     },
     "uimgcmmount": {
-        "name": "MOUNT"
+        "name": "Mount"
     },
     "uimgcmmove": {
         "name": "Move"
     },
     "uimgcmnews": {
-        "name": "NEWS"
+        "name": "News"
     },
     "uimgcmoutpostbanishguild": {
         "name": "Ban Guild"
@@ -13044,13 +13086,13 @@
         "name": "Ban Player"
     },
     "uimgcmoutpostbuilding": {
-        "name": "BUILDING TRADE"
+        "name": "Building trade"
     },
     "uimgcmpvpchallenge": {
         "name": "PROPOSE PVP CHALLENGE"
     },
     "uimgcmquartering": {
-        "name": "QUARTER"
+        "name": "Quarter"
     },
     "uimgcmquitguild": {
         "name": "Leave Guild"
@@ -13062,25 +13104,25 @@
         "name": "Stop"
     },
     "uimgcmstopmove": {
-        "name": "STOP MOVING"
+        "name": "Stop moving"
     },
     "uimgcmtalk": {
-        "name": "TALK"
+        "name": "Talk"
     },
     "uimgcmteleport": {
-        "name": "MAKE A PACT"
+        "name": "Make a pact"
     },
     "uimgcmtrade": {
-        "name": "TRADE"
+        "name": "Trade"
     },
     "uimgcmtradepact": {
-        "name": "TRADE PACT"
+        "name": "Trade pact"
     },
     "uimgcmtradephase": {
         "name": "DEVELOP SKILLS"
     },
     "uimgcmunduel": {
-        "name": "ABANDON DUEL"
+        "name": "Abandon duel"
     },
     "uimgcmunpvpchanllenge": {
         "name": "ABANDON PVP CHALLENGE"
@@ -13089,13 +13131,13 @@
         "name": "UPGRADE ROLE MASTER"
     },
     "uimgcmuse": {
-        "name": "USE"
+        "name": "Use"
     },
     "uimgcmzonecharge": {
         "name": "REVIEW CHARGES"
     },
     "uimgive": {
-        "name": "GIVE"
+        "name": "Give"
     },
     "uimgroup": {
         "name": "Groups"
@@ -13125,10 +13167,10 @@
         "name": "Set rank to Recruiter"
     },
     "uimharvest": {
-        "name": "COLLECT"
+        "name": "Collect"
     },
     "uimhelp": {
-        "name": "HELP"
+        "name": "Help"
     },
     "uimicloseontp": {
         "name": "Close window after teleport "
@@ -13143,7 +13185,7 @@
         "name": "Density"
     },
     "uimignorelist": {
-        "name": "IGNORE LIST"
+        "name": "Ignore list"
     },
     "uimihidebanner": {
         "name": "Hide faction banner"
@@ -13215,7 +13257,7 @@
         "name": "Misty"
     },
     "uimitemconsume": {
-        "name": "CONSUME ITEM"
+        "name": "Consume item"
     },
     "uimitemtextdisplay": {
         "name": "Read"
@@ -13224,7 +13266,7 @@
         "name": "Write"
     },
     "uimjournal": {
-        "name": "JOURNAL"
+        "name": "Journal"
     },
     "uimk_action1_0": {
         "name": "Move"
@@ -13521,7 +13563,7 @@
         "name": "Lock"
     },
     "uimlockunlock": {
-        "name": "LOCK \/ UNLOCK"
+        "name": "Lock \/ unlock"
     },
     "uimmacerase": {
         "name": "ERASE"
@@ -13530,7 +13572,7 @@
         "name": "INFO"
     },
     "uimmaclear": {
-        "name": "CLEAR"
+        "name": "Clear"
     },
     "uimmacrocopy": {
         "name": "COPY"
@@ -13548,19 +13590,19 @@
         "name": "MACROS"
     },
     "uimmadel": {
-        "name": "DELETE SENTENCE"
+        "name": "Delete sentence"
     },
     "uimmaedit": {
-        "name": "EDIT SENTENCE"
+        "name": "Edit sentence"
     },
     "uimmagic": {
         "name": "MAGIC"
     },
     "uimmainfos": {
-        "name": "INFO"
+        "name": "Info"
     },
     "uimmareset": {
-        "name": "RESET TO DEFAULT"
+        "name": "Reset to default"
     },
     "uimmccopy": {
         "name": "COPY"
@@ -13572,22 +13614,22 @@
         "name": "EDIT"
     },
     "uimmcmovedown": {
-        "name": "MOVE DOWN"
+        "name": "Move down"
     },
     "uimmcmoveup": {
-        "name": "MOVE UP"
+        "name": "Move up"
     },
     "uimmount": {
-        "name": "MOUNT"
+        "name": "Mount"
     },
     "uimmoveto": {
-        "name": "MOVE TO"
+        "name": "Move to"
     },
     "uimmovetofriendlist": {
         "name": "MOVE TO FRIENDS LIST"
     },
     "uimmovetoignorelist": {
-        "name": "MOVE TO IGNORE LIST"
+        "name": "Move to ignore list"
     },
     "uimmtbag": {
         "name": "BAG"
@@ -13842,13 +13884,13 @@
         "name": "Remove Stanza"
     },
     "uimplayer": {
-        "name": "PLAYER"
+        "name": "Player"
     },
     "uimquantitydestroy": {
-        "name": "QUANTITY TO DESTROY"
+        "name": "Quantity to destroy"
     },
     "uimquantitydrop": {
-        "name": "QUANTITY TO DROP"
+        "name": "Quantity to drop"
     },
     "uimquickchat": {
         "name": "Quick Chat"
@@ -13860,7 +13902,7 @@
         "name": "Leave Team"
     },
     "uimrefine": {
-        "name": "REFINE"
+        "name": "Refine"
     },
     "uimremove": {
         "name": "REMOVE"
@@ -13914,7 +13956,7 @@
         "name": "STATUS"
     },
     "uimstop": {
-        "name": "STOP"
+        "name": "Stop"
     },
     "uimswapjob": {
         "name": "SWAP JOBS"
@@ -13926,13 +13968,13 @@
         "name": "Compass Target"
     },
     "uimteleportuse": {
-        "name": "USE TELEPORT"
+        "name": "Use teleport"
     },
     "uimtell": {
-        "name": "TELL"
+        "name": "Tell"
     },
     "uimtogglechatebvis": {
-        "name": "SHOW\/HIDE CHAT WINDOW"
+        "name": "Show\/hide chat window"
     },
     "uimtouchpad": {
         "name": "PAD"
@@ -13947,7 +13989,7 @@
         "name": "Unlock"
     },
     "uimunmount": {
-        "name": "UNMOUNT"
+        "name": "Unmount"
     },
     "uimwabilities": {
         "name": "ABILITIES"
@@ -13975,6 +14017,9 @@
     },
     "uimwbuff": {
         "name": "AFFECTED BY"
+    },
+    "uimwcap": {
+        "name": "Course"
     },
     "uimwchat": {
         "name": "MAIN CHAT"
@@ -14136,7 +14181,7 @@
         "name": "WINDOWS BAR"
     },
     "uimxpcatalyseruse": {
-        "name": "ACTIVATE CATALYZER"
+        "name": "Activate catalyser"
     },
     "uimystia": {
         "name": "Mystia"
@@ -14429,6 +14474,9 @@
     "uiopen": {
         "name": "Open"
     },
+    "uiopendefaultcontext": {
+        "name": "Open default context"
+    },
     "uiopenwindow": {
         "name": "Open"
     },
@@ -14463,7 +14511,7 @@
         "name": "ORIENTATION"
     },
     "uiothergive": {
-        "name": "OTHER GIVES"
+        "name": "THEIR OFFER"
     },
     "uioutpostattackafter": {
         "name": "After Attack"
@@ -14928,7 +14976,7 @@
         "name": "Other Players"
     },
     "uiplayergive": {
-        "name": "YOU GIVE"
+        "name": "YOUR OFFER"
     },
     "uiplayerinfos": {
         "name": "Info"
@@ -16287,7 +16335,7 @@
         "name": "READ NOTES"
     },
     "uiremove": {
-        "name": "REMOVE"
+        "name": "Remove"
     },
     "uiremovepartychatcmd": {
         "name": "<remove_party_chat> one argument required: name of the party chat to remove."
@@ -16535,6 +16583,12 @@
     "uisapbardisplay": {
         "name": "SAP DISPLAY"
     },
+    "uisapcristal": {
+        "name": "Sap Crystal"
+    },
+    "uisapcrystal": {
+        "name": "Sap Crystal"
+    },
     "uisapdesc": {
         "name": "@{6F6F}Sap@{FFFF},\nthe energy that allows a character to channel magical power."
     },
@@ -16617,10 +16671,13 @@
         "name": "Screenshot PNG"
     },
     "uiscreenshotsaved": {
-        "name": "has been saved in your Ryzom folder."
+        "name": "has been saved in your designated screenshot folder."
     },
     "uise": {
         "name": "SE"
+    },
+    "uisearchterm": {
+        "name": "Search Term (Optional)"
     },
     "uiseason0": {
         "name": "Spring"
@@ -16651,6 +16708,9 @@
     },
     "uiselectpackage": {
         "name": "Package selection"
+    },
+    "uiselectquantity": {
+        "name": "SELECT QUANTITY"
     },
     "uiselectrmbuy": {
         "name": "Hire a Role Master"
@@ -16692,7 +16752,7 @@
         "name": "Sell to "
     },
     "uiselmoney2give": {
-        "name": "SELECT DAPPERS TO GIVE"
+        "name": "ENTER AMOUNT"
     },
     "uiselpos": {
         "name": "Newbie Land"
@@ -16813,6 +16873,9 @@
     },
     "uishowdynchannelnameinchatcb": {
         "name": "Show Dynamic Channel Name in User Channel"
+    },
+    "uishowfullmap": {
+        "name": "Toggle Fullscreen Map"
     },
     "uishowhide": {
         "name": "Show\/Hide"
@@ -16942,6 +17005,9 @@
     },
     "uispellbooktitle": {
         "name": "SPELL BOOK"
+    },
+    "uispellcrystallized": {
+        "name": "Crystallized Spell"
     },
     "uispellselectsapcost": {
         "name": "Sap Cost: "
@@ -17216,6 +17282,15 @@
     "uitabphraseupgrades": {
         "name": "Upgrades"
     },
+    "uitabzig1": {
+        "name": "Zig 1"
+    },
+    "uitabzig2": {
+        "name": "Zig 2"
+    },
+    "uitabzig3": {
+        "name": "Zig 3"
+    },
     "uitalkcmd": {
         "name": "Talk to Anybody"
     },
@@ -17292,7 +17367,7 @@
         "name": "Yeah!"
     },
     "uitalkmemmsg10": {
-        "name": "What's going on?"
+        "name": "What's up?"
     },
     "uitalkmemmsg11": {
         "name": "Dude?"
@@ -17397,7 +17472,7 @@
         "name": "CENTER MAP ON YOURSELF"
     },
     "uiteam": {
-        "name": "TEAM"
+        "name": "Team"
     },
     "uiteamchat": {
         "name": "Team Chat"
@@ -17437,6 +17512,9 @@
     },
     "uiteleport": {
         "name": "TELEPORT"
+    },
+    "uiteleportitem": {
+        "name": "Teleporter"
     },
     "uiteleportlocation": {
         "name": "TELEPORT LOCATIONS"
@@ -17917,6 +17995,12 @@
     },
     "uittbrowseundo": {
         "name": "Browse previous page"
+    },
+    "uittbulkexchangegive": {
+        "name": "Bulk of the offered items"
+    },
+    "uittbulkexchangereceive": {
+        "name": "Bulk of the offered items"
     },
     "uittbulkformat": {
         "name": "@{6F6F}Bulk@{FFFF}: %v\/%m"
@@ -18491,8 +18575,14 @@
     "uitthandl": {
         "name": "@{6F6F}Left Hand\n@{FFFF}Click to see all the objects available for this hand."
     },
+    "uitthandl_alt": {
+        "name": "Left Hand"
+    },
     "uitthandr": {
         "name": "@{6F6F}Right Hand\n@{FFFF}Click to see all the objects available for this hand."
+    },
+    "uitthandr_alt": {
+        "name": "Right Hand"
     },
     "uitthands": {
         "name": "Gloves"
@@ -18884,6 +18974,9 @@
     "uittmodrangesuccess": {
         "name": "Your Ranged Fight skill has been modified by %modifier point(s)"
     },
+    "uittmoneytradeoffer": {
+        "name": "Amount offered"
+    },
     "uittmoreinfo": {
         "name": "more information"
     },
@@ -19131,7 +19224,7 @@
         "name": "Life: %v\/%m"
     },
     "uittplayermoney": {
-        "name": "Your dappers"
+        "name": "Your Money"
     },
     "uittplayersapformat": {
         "name": "Sap: %v\/%m"
@@ -19470,16 +19563,16 @@
         "name": "@{6F6F}Tool Type@{FFFF}:\nBefore crafting, you must equip the appropriate crafting tool."
     },
     "uitttranslationdisablearound": {
-        "name": ""
+        "name": "Disable translations for the Around channel"
     },
     "uitttranslationdisableguild": {
-        "name": ""
+        "name": "Disable translations for the Guild channel"
     },
     "uitttranslationdisableregion": {
-        "name": ""
+        "name": "Disable translations for the Region channel"
     },
     "uitttranslationdisableuniverse": {
-        "name": ""
+        "name": "Disable translations for the Universe channel"
     },
     "uitttranslationhide": {
         "name": "Hide flag\""
@@ -19495,6 +19588,12 @@
     },
     "uittwalk": {
         "name": "Walking Mode"
+    },
+    "uittweightexchangegive": {
+        "name": "Weight of the offered items"
+    },
+    "uittweightexchangereceive": {
+        "name": "Weight of the offered items"
     },
     "uittwontbuythis": {
         "name": "I won't buy this."
@@ -19594,6 +19693,9 @@
     },
     "uiuseeax": {
         "name": "Use EAX"
+    },
+    "uiuseitem": {
+        "name": "Use Item"
     },
     "uiuseralpha": {
         "name": "USE GLOBAL SETTINGS"
@@ -19816,6 +19918,9 @@
     },
     "uiwisdesc": {
         "name": "@{6F6F}Wisdom@{FFFF},\nis a measure of mental control. Wisdom is essential for any that wish to use Magic."
+    },
+    "uiwisdomchest": {
+        "name": ""
     },
     "uiwishmax": {
         "name": "Focus Max"

@@ -453,7 +453,7 @@
         "name": "Artisan"
     },
     "fabercompetences": {
-        "name": "Compérences d'artisanat"
+        "name": "Compétences d'artisanat"
     },
     "fairlyeasy": {
         "name": "Assez facile"
@@ -549,7 +549,7 @@
         "name": "Coiffeur pour homines"
     },
     "fct_f_rolemaster": {
-        "name": "Maître de rôle des guildes d'zrtisans"
+        "name": "Maître de rôle des guildes d'artisans"
     },
     "fct_f_tattooer": {
         "name": "Tatoueur pour homines"
@@ -798,7 +798,7 @@
         "name": "Garde-frontières"
     },
     "fct_mf_rolemaster": {
-        "name": "Maître de rôle des guildes de combattants de mêlée)"
+        "name": "Maître de rôle des guildes de combattants de mêlée"
     },
     "fct_mf_welcomer": {
         "name": "Hôte des guildes de combattants de mêlée"
@@ -4691,8 +4691,32 @@
     "mpfam82": {
         "name": "Épine de Lumper"
     },
+    "mpfam827": {
+        "name": "Ronce de Tekorn raffinée"
+    },
+    "mpfam828": {
+        "name": "Liane de Maga raffinée"
+    },
+    "mpfam829": {
+        "name": "Lichen d'Armilo raffiné"
+    },
     "mpfam83": {
         "name": "Moustaches de Lumper"
+    },
+    "mpfam830": {
+        "name": "Filament de Greslin raffiné"
+    },
+    "mpfam831": {
+        "name": "Suc de Vedice raffiné"
+    },
+    "mpfam832": {
+        "name": "Racine de Cheng raffinée"
+    },
+    "mpfam833": {
+        "name": "Gomme de Rubbarn raffinée"
+    },
+    "mpfam834": {
+        "name": "Pollen d'Égiros raffiné"
     },
     "mpfam84": {
         "name": "Bois de Manath"
@@ -5349,7 +5373,7 @@
         "name": "Apprenti fabricant d'armes de portée"
     },
     "range_weapon_smith_master": {
-        "name": "Maître fabricant d'armes de ir"
+        "name": "Maître fabricant d'armes de tir"
     },
     "rangefighter": {
         "name": "Combattant à distance"
@@ -5759,6 +5783,9 @@
     "uianimaldetailedlist": {
         "name": "Liste détaillée"
     },
+    "uianimalinbag": {
+        "name": "Votre animal est dans votre sac."
+    },
     "uianimalinstable": {
         "name": "Votre animal est dans une étable."
     },
@@ -5878,6 +5905,9 @@
     },
     "uiautoequiptool": {
         "name": "S'équiper automatiquement de l'arme \/ outil"
+    },
+    "uiautoloot": {
+        "name": "Prendre tout lors du dépeçage"
     },
     "uiautomaticcamera": {
         "name": "Caméra automatique"
@@ -6240,7 +6270,7 @@
         "name": "Animaux"
     },
     "uibeastcolor": {
-        "name": "Mektoubs de bât"
+        "name": "Animaux"
     },
     "uibetaaccount": {
         "name": "TRANSFÉRER COMPTE BÊTA"
@@ -6944,6 +6974,9 @@
     "uicarrf": {
         "name": "Tireur - caractéristiques"
     },
+    "uicatalyser": {
+        "name": "Catalyseur"
+    },
     "uicategory": {
         "name": "Catégorie"
     },
@@ -7618,6 +7651,12 @@
     },
     "uiconsdesc": {
         "name": "@{6F6F}Constitution@{FFFF},\nmesure la résistance physique d'un personnage."
+    },
+    "uiconsumable": {
+        "name": "Consommable"
+    },
+    "uiconsumables": {
+        "name": "Consommable"
     },
     "uicontactalreadyinlist": {
         "name": "Impossible d'ajouter le contact : déjà présent dans la liste."
@@ -10962,7 +11001,7 @@
         "name": "Holeth"
     },
     "uihome": {
-        "name": "Accueil"
+        "name": "ACCUEIL"
     },
     "uihorizontal": {
         "name": "Horizontale"
@@ -11326,6 +11365,9 @@
     },
     "uiitemtextmessagefromcrafter": {
         "name": "@{FFF9}Message de l'artisan :\n@{FFFF}"
+    },
+    "uiitemtype": {
+        "name": "Utiliser le premier objet trouvé dans le sac de type"
     },
     "uiitemusersellcolor": {
         "name": "@{FF0F}"
@@ -11925,7 +11967,7 @@
         "name": "WinD"
     },
     "uikeys": {
-        "name": "Touches"
+        "name": "S"
     },
     "uikeysactionstitle": {
         "name": "TOUCHES D'ACTION"
@@ -12813,7 +12855,7 @@
         "name": "Infos"
     },
     "uimfarefi": {
-        "name": "Rafiner"
+        "name": "Raffiner"
     },
     "uimfarepa": {
         "name": "Réparer"
@@ -13976,6 +14018,9 @@
     "uimwbuff": {
         "name": "Affecté par"
     },
+    "uimwcap": {
+        "name": "Cap"
+    },
     "uimwchat": {
         "name": "Chat principal"
     },
@@ -14429,6 +14474,9 @@
     "uiopen": {
         "name": "Ouvrir"
     },
+    "uiopendefaultcontext": {
+        "name": "Ouvrir le contexte par défaut"
+    },
     "uiopenwindow": {
         "name": "Ouvrir"
     },
@@ -14463,7 +14511,7 @@
         "name": "Orientation"
     },
     "uiothergive": {
-        "name": "Autres propositions"
+        "name": "Leur proposition"
     },
     "uioutpostattackafter": {
         "name": "Après attaque"
@@ -15837,10 +15885,10 @@
         "name": "Scénario"
     },
     "uir2scenario_control": {
-        "name": "Filtre de scenarii"
+        "name": "Filtre de scénario"
     },
     "uir2session_browser": {
-        "name": "Gestionnaire de eession"
+        "name": "Gestionnaire de session"
     },
     "uir2wincolors": {
         "name": "Couleur des en-têtes sur Ring"
@@ -16530,10 +16578,16 @@
         "name": "il y a de l'orage de sciure dans l'air."
     },
     "uisap": {
-        "name": "Sève"
+        "name": "Sève du personnage"
     },
     "uisapbardisplay": {
         "name": "Affichage Sève"
+    },
+    "uisapcristal": {
+        "name": ""
+    },
+    "uisapcrystal": {
+        "name": "Cristal de sève"
     },
     "uisapdesc": {
         "name": "@{6F6F}Sève@{FFFF},\nl'énergie qui permet à un personnage de canaliser des forces magiques."
@@ -16617,10 +16671,13 @@
         "name": "Capture d'écran (PNG)"
     },
     "uiscreenshotsaved": {
-        "name": "a été enregistré dans le dossier Ryzom."
+        "name": "a été enregistré dans le dossier de captures d'écran désigné."
     },
     "uise": {
         "name": "SE"
+    },
+    "uisearchterm": {
+        "name": "Filtre de Recherche (Optionnel)"
     },
     "uiseason0": {
         "name": "au printemps"
@@ -16651,6 +16708,9 @@
     },
     "uiselectpackage": {
         "name": "Sélection de la version à télécharger"
+    },
+    "uiselectquantity": {
+        "name": "Sélectionner "
     },
     "uiselectrmbuy": {
         "name": "Engager un Maître de rôle"
@@ -16692,7 +16752,7 @@
         "name": "Vendre à "
     },
     "uiselmoney2give": {
-        "name": "Choisir la somme à donner"
+        "name": "Entrer le montant "
     },
     "uiselpos": {
         "name": "Sélection jusqu'à la position"
@@ -16813,6 +16873,9 @@
     },
     "uishowdynchannelnameinchatcb": {
         "name": "Afficher le nom des canaux du chat dynamique dans le chat"
+    },
+    "uishowfullmap": {
+        "name": "Afficher la carte en plein écran"
     },
     "uishowhide": {
         "name": "Afficher \/ Cacher"
@@ -16942,6 +17005,9 @@
     },
     "uispellbooktitle": {
         "name": "Livre des sorts"
+    },
+    "uispellcrystallized": {
+        "name": "Sort cristallisé"
     },
     "uispellselectsapcost": {
         "name": "Coût en Sève : "
@@ -17216,6 +17282,15 @@
     "uitabphraseupgrades": {
         "name": "Amélioration"
     },
+    "uitabzig1": {
+        "name": "Zig 1"
+    },
+    "uitabzig2": {
+        "name": "Zig 2"
+    },
+    "uitabzig3": {
+        "name": "Zig 3"
+    },
     "uitalkcmd": {
         "name": "Parler à quelqu'un"
     },
@@ -17397,7 +17472,7 @@
         "name": "Centrer sur vous-même"
     },
     "uiteam": {
-        "name": "Équipe"
+        "name": "ÉQUIPE"
     },
     "uiteamchat": {
         "name": "Chat de l'équipe"
@@ -17437,6 +17512,9 @@
     },
     "uiteleport": {
         "name": "Téléporter"
+    },
+    "uiteleportitem": {
+        "name": "Téléporteur"
     },
     "uiteleportlocation": {
         "name": "EMPLACEMENT DES TÉLÉPORTEURS"
@@ -17895,7 +17973,7 @@
         "name": "Vous ne pouvez pas récupérer votre objet d'ici, mais vous pouvez tout de même le détruire."
     },
     "uittbeastcolor": {
-        "name": "Couleur utilisée pour l'affichage de vos mektoubs de bât"
+        "name": "Couleur utilisée pour l'affichage de vos animaux"
     },
     "uittbonusmaluswindow": {
         "name": "Fenêtre des buff \/ debuff"
@@ -17917,6 +17995,12 @@
     },
     "uittbrowseundo": {
         "name": "Afficher la page précédente"
+    },
+    "uittbulkexchangegive": {
+        "name": "Volume des objets proposés"
+    },
+    "uittbulkexchangereceive": {
+        "name": "Volume des objets proposés"
     },
     "uittbulkformat": {
         "name": "@{6F6F}Volume@{FFFF} : %v\/%m"
@@ -18144,7 +18228,7 @@
         "name": "Annuler la composition"
     },
     "uittclearmoney": {
-        "name": "Annuler l'argent"
+        "name": "Effacer le montant"
     },
     "uittclickselmat": {
         "name": "Cliquer pour choisir la matière première dans votre sac"
@@ -18384,7 +18468,7 @@
         "name": "Filtre de @{6F6F}matières premières\n@{FFFF}Clic-droit pour sélectionner seulement les @{6F6F}matières premières@{FFFF}."
     },
     "uittfilterpet": {
-        "name": "Filter @{6F6F}Animal\n@{FFFF}Cliquez droit pour sélectionner @{6F6F}Animal@{FFFF} seulement."
+        "name": "Filtre d'@{6F6F}animal\n@{FFFF}Clic-droit pour sélectionner seulement les  @{6F6F}animaux@{FFFF}."
     },
     "uittfiltertool": {
         "name": "Filtre d'@{6F6F}outils\n@{FFFF}Clic-droit pour sélectionner seulement les @{6F6F}outils@{FFFF}."
@@ -18491,8 +18575,14 @@
     "uitthandl": {
         "name": "@{6F6F}Main Gauche\n@{FFFF}Cliquez pour voir tous les objets disponibles pour cette main."
     },
+    "uitthandl_alt": {
+        "name": "Main Gauche"
+    },
     "uitthandr": {
         "name": "@{6F6F}Main Droite\n@{FFFF}Cliquez pour voir tous les objets disponibles pour cette main."
+    },
+    "uitthandr_alt": {
+        "name": "Main Droite"
     },
     "uitthands": {
         "name": "Gants"
@@ -18884,6 +18974,9 @@
     "uittmodrangesuccess": {
         "name": "Votre compétence de combat à distance est modifiée de %modifier point(s)."
     },
+    "uittmoneytradeoffer": {
+        "name": "Montant proposé"
+    },
     "uittmoreinfo": {
         "name": "Plus d'informations"
     },
@@ -19197,7 +19290,7 @@
         "name": "Afficher le logo PvP au-dessus du personnage"
     },
     "uittpvpmodeflag": {
-        "name": "@{6F6F}PvP de Faction@{FFFF}\nVVous avez @{6F6F}activé votre Tag PvP@{FFFF} et avez effectué une action offensive en PvP récemment.\nVous êtes donc @{6F6F}Flagué Pvp@{FFFF} (cela empêche un certain nombre d'actions PvE sur les joueurs de la faction adverse comme grouper).\nCe flag s'effacera dans %temps."
+        "name": "@{6F6F}PvP de Faction@{FFFF}\nVous avez @{6F6F}activé votre Tag PvP@{FFFF} et avez effectué une action offensive en PvP récemment.\nVous êtes donc @{6F6F}Flagué Pvp@{FFFF} (cela empêche un certain nombre d'actions PvE sur les joueurs de la faction adverse comme grouper).\nCe flag s'effacera dans %temps."
     },
     "uittpvpmodetagoff": {
         "name": "@{6F6F}PvP de Faction@{FFFF}\nVotre @{6F6F}Tag PvP est désactivé@{FFFF}.\nCliquez pour passer en mode PvP."
@@ -19359,7 +19452,7 @@
         "name": "Choisissez le plan de l'objet à créer."
     },
     "uittsetmoney": {
-        "name": "Régler l'argent"
+        "name": "Fixer le montant"
     },
     "uittshow3ditempreview": {
         "name": "Si coché, affiche la prévisualisation en 3D de l'objet inspecté."
@@ -19470,16 +19563,16 @@
         "name": "@{6F6F}Type d'outil @{FFFF}:\nAvant de vous lancer dans l'artisanat, vous devez équiper l'outil de création approprié dans votre main droite."
     },
     "uitttranslationdisablearound": {
-        "name": ""
+        "name": "Désactiver la traduction dans le canal Alentours"
     },
     "uitttranslationdisableguild": {
-        "name": ""
+        "name": "Désactiver la traduction dans le canal Guilde"
     },
     "uitttranslationdisableregion": {
-        "name": ""
+        "name": "Désactiver la traduction dans le canal Région"
     },
     "uitttranslationdisableuniverse": {
-        "name": ""
+        "name": "Désactiver la traduction dans le canal Univers"
     },
     "uitttranslationhide": {
         "name": "Cache le drapeau de la langue pour les messages provenant de cette langue."
@@ -19495,6 +19588,12 @@
     },
     "uittwalk": {
         "name": "Marcher"
+    },
+    "uittweightexchangegive": {
+        "name": "Poids des objets proposés"
+    },
+    "uittweightexchangereceive": {
+        "name": "Poids des objets proposés"
     },
     "uittwontbuythis": {
         "name": "Je n'achèterai pas cela."
@@ -19594,6 +19693,9 @@
     },
     "uiuseeax": {
         "name": "Utiliser EAX"
+    },
+    "uiuseitem": {
+        "name": "Utiliser un objet"
     },
     "uiuseralpha": {
         "name": "UTILISER LES RÉGLAGES GÉNÉRAUX"

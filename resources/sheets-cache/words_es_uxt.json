@@ -1506,7 +1506,7 @@
         "name": "Centinelas de la Savia"
     },
     "gn_bandit_the_abyss_of_ichor_4": {
-        "name": "Merodeadores"
+        "name": "Marauders"
     },
     "gn_bandit_the_elusive_forest_1": {
         "name": "Fien de Lino"
@@ -4674,7 +4674,7 @@
         "name": "TODO : peau épaisse de la reine"
     },
     "mpfam815": {
-        "name": "Cristal Merodeador"
+        "name": "Cristal de Marauders"
     },
     "mpfam816": {
         "name": "Cristal de Lixie"
@@ -4686,13 +4686,37 @@
         "name": "Cristal de Pei"
     },
     "mpfam819": {
-        "name": "Cristal Merodeador"
+        "name": "Cristal de Marauders"
     },
     "mpfam82": {
         "name": "Espina de Lumper"
     },
+    "mpfam827": {
+        "name": "Zarza de Tekorn Refinado"
+    },
+    "mpfam828": {
+        "name": "Enredadera de Maga Refinado"
+    },
+    "mpfam829": {
+        "name": "Liquen de Armilo Refinado"
+    },
     "mpfam83": {
         "name": "Bigotes de Lumper"
+    },
+    "mpfam830": {
+        "name": "Filamento de Greslin Refinado"
+    },
+    "mpfam831": {
+        "name": "Savia de Vedice Refinada"
+    },
+    "mpfam832": {
+        "name": "Raíz de Cheng Refinada"
+    },
+    "mpfam833": {
+        "name": "Goma de Rubbarn Refinado"
+    },
+    "mpfam834": {
+        "name": "Polen de Egiros Refinado"
     },
     "mpfam84": {
         "name": "Madera de Manath"
@@ -5759,6 +5783,9 @@
     "uianimaldetailedlist": {
         "name": "Lista Detallada"
     },
+    "uianimalinbag": {
+        "name": "Tu animal está en tu inventario"
+    },
     "uianimalinstable": {
         "name": "Tu animal está en un establo"
     },
@@ -5878,6 +5905,9 @@
     },
     "uiautoequiptool": {
         "name": "Modo Auto Equiparse"
+    },
+    "uiautoloot": {
+        "name": "Toma todo durante el saqueo"
     },
     "uiautomaticcamera": {
         "name": "Cámara Automática"
@@ -6944,6 +6974,9 @@
     "uicarrf": {
         "name": "LUCHADOR DE ALCANCE - CARACTERÍSTICAS"
     },
+    "uicatalyser": {
+        "name": "Catalizador"
+    },
     "uicategory": {
         "name": "Categoría"
     },
@@ -7619,6 +7652,12 @@
     "uiconsdesc": {
         "name": "@{6F6F}Constitución@{FFFF},\nmide la habilidad de un personaje para involucrarse en periodos largos de actividad física."
     },
+    "uiconsumable": {
+        "name": "Consumible"
+    },
+    "uiconsumables": {
+        "name": "Consumible"
+    },
     "uicontactalreadyinlist": {
         "name": "Este contacto ya está en tu lista."
     },
@@ -7845,7 +7884,7 @@
         "name": "De Acuerdo"
     },
     "uicp_maraudeur": {
-        "name": "Merodeador"
+        "name": "Marauder"
     },
     "uicp_menu_1": {
         "name": "CIVILIZACIONES"
@@ -10320,7 +10359,7 @@
         "name": "Miembros del Grupo"
     },
     "uiguild": {
-        "name": "Gremio"
+        "name": "GREMIO"
     },
     "uiguildbearer": {
         "name": "Mensajero"
@@ -11327,6 +11366,9 @@
     "uiitemtextmessagefromcrafter": {
         "name": "@{FFF9}Mensaje del artesano:\n@{FFFF}"
     },
+    "uiitemtype": {
+        "name": "Usar el primer objeto del tipo hallado en su bolsa"
+    },
     "uiitemusersellcolor": {
         "name": "@{FF0F}"
     },
@@ -11925,7 +11967,7 @@
         "name": "WIND"
     },
     "uikeys": {
-        "name": "Teclas"
+        "name": "S"
     },
     "uikeysactionstitle": {
         "name": "TECLAS DE ACCIÓN"
@@ -13976,6 +14018,9 @@
     "uimwbuff": {
         "name": "AFECTADO POR"
     },
+    "uimwcap": {
+        "name": "Curso"
+    },
     "uimwchat": {
         "name": "CHAT PRINCIPAL"
     },
@@ -14429,6 +14474,9 @@
     "uiopen": {
         "name": "Abrir"
     },
+    "uiopendefaultcontext": {
+        "name": "Abrir contexto por defecto"
+    },
     "uiopenwindow": {
         "name": "Abrir"
     },
@@ -14448,7 +14496,7 @@
         "name": "Indefinido"
     },
     "uiorganization_5": {
-        "name": "Merodeadores"
+        "name": "Marauders"
     },
     "uiorganization_7": {
         "name": "Ranger"
@@ -14553,7 +14601,7 @@
         "name": "Defensor: "
     },
     "uioutpostjoinpvpdefmarauder": {
-        "name": "Tribu Merodeadora"
+        "name": "Tribu Marauder"
     },
     "uioutpostjoinpvpneutral": {
         "name": "NEUTRAL"
@@ -16377,70 +16425,70 @@
         "name": "Regresar a Selección de Personaje"
     },
     "uiringaccesspoint": {
-        "name": "Terminal Ring"
+        "name": "Anillo Terminal"
     },
     "uiringaccesspointfilter": {
         "name": "Filtro"
     },
     "uiringautoinvitetoggle": {
-        "name": "Cuando @{6F6F}está sin marcar@{FFFF}, los jugadores deben solicitar una invitación antes de poder unirse a este escenario en una @{6F6F}Terminal Ring@{FFFF}."
+        "name": "Cuando @{6F6F}está sin marcar@{FFFF}, los jugadores deben solicitar una invitación antes de poder unirse a este escenario en una @{6F6F}Anillo Terminal@{FFFF}."
     },
     "uiringchoosescenario": {
         "name": "Seleccione un escenario."
     },
     "uiringdescriptionscenariotooltip": {
-        "name": "Describir el escenario que vas a lanzar. Será visible para todos los jugadores en cada Terminal Ring."
+        "name": "Describir el escenario que vas a lanzar. Será visible para todos los jugadores en cada Anillo Terminal."
     },
     "uiringfiltercombatlevel0": {
-        "name": "Cuando @{6F6F}está sin marcar@{FFFF} los jugadores que no hayas invitado y que su mejor habilidad de combate no sea mayor que el nivel @{6F6F}20@{FFFF} no podrán ver tu escenario en las @{6F6F}Terminales Ring@{FFFF}."
+        "name": "Cuando @{6F6F}está sin marcar@{FFFF} los jugadores que no hayas invitado y que su mejor habilidad de combate no sea mayor que el nivel @{6F6F}20@{FFFF} no podrán ver tu escenario en los @{6F6F}Anillos Terminales@{FFFF}."
     },
     "uiringfiltercombatlevel1": {
-        "name": "Cuando @{6F6F}está sin marcar@{FFFF} los jugadores que no hayas invitado y que su mejor habilidad de combate esté entre los niveles @{6F6F}21@{FFFF} y @{6F6F}50@{FFFF} no podrán ver tu escenario en las @{6F6F}Terminales Ring@{FFFF}."
+        "name": "Cuando @{6F6F}está sin marcar@{FFFF} los jugadores que no hayas invitado y que su mejor habilidad de combate esté entre los niveles @{6F6F}21@{FFFF} y @{6F6F}50@{FFFF} no podrán ver tu escenario en las @{6F6F}Terminales @{FFFF}."
     },
     "uiringfiltercombatlevel2": {
-        "name": "Cuando @{6F6F}está sin marcar@{FFFF} los jugadores que no hayas invitado y que su mejor habilidad de combate esté entre los niveles @{6F6F}51@{FFFF} y @{6F6F}100@{FFFF} no podrán ver tu escenario en las @{6F6F}Terminales Ring@{FFFF}."
+        "name": "Cuando @{6F6F}está sin marcar@{FFFF} los jugadores que no hayas invitado y que su mejor habilidad de combate esté entre los niveles @{6F6F}51@{FFFF} y @{6F6F}100@{FFFF} no podrán ver tu escenario en las @{6F6F}Terminales@{FFFF}."
     },
     "uiringfiltercombatlevel3": {
-        "name": "Cuando @{6F6F}está sin marcar@{FFFF} los jugadores que no hayas invitado y que su mejor habilidad de combate esté entre los niveles @{6F6F}101@{FFFF} y @{6F6F}150@{FFFF} no podrán ver tu escenario en las @{6F6F}Terminales Ring@{FFFF}."
+        "name": "Cuando @{6F6F}está sin marcar@{FFFF} los jugadores que no hayas invitado y que su mejor habilidad de combate esté entre los niveles @{6F6F}101@{FFFF} y @{6F6F}150@{FFFF} no podrán ver tu escenario en las @{6F6F}Terminales@{FFFF}."
     },
     "uiringfiltercombatlevel4": {
-        "name": "Cuando @{6F6F}está sin marcar@{FFFF} los jugadores que no hayas invitado y que su mejor habilidad de combate esté entre los niveles @{6F6F}151@{FFFF} y @{6F6F}200@{FFFF} no podrán ver tu escenario en las @{6F6F}Terminales Ring@{FFFF}."
+        "name": "Cuando @{6F6F}está sin marcar@{FFFF} los jugadores que no hayas invitado y que su mejor habilidad de combate esté entre los niveles @{6F6F}151@{FFFF} y @{6F6F}200@{FFFF} no podrán ver tu escenario en las @{6F6F}Terminales@{FFFF}."
     },
     "uiringfiltercombatlevel5": {
-        "name": "Cuando @{6F6F}está sin marcar@{FFFF} los jugadores que no hayas invitado y que su mejor habilidad de combate esté entre los niveles @{6F6F}201@{FFFF} y @{6F6F}250@{FFFF} no podrán ver tu escenario en las @{6F6F}Terminales Ring@{FFFF}."
+        "name": "Cuando @{6F6F}está sin marcar@{FFFF} los jugadores que no hayas invitado y que su mejor habilidad de combate esté entre los niveles @{6F6F}201@{FFFF} y @{6F6F}250@{FFFF} no podrán ver tu escenario en las @{6F6F}Terminales @{FFFF}."
     },
     "uiringfilterfyros": {
-        "name": "Cuando @{6F6F}está sin marcar@{FFFF} los jugadores Fyros que no han sido invitados no podrán ver tu escenario en las @{6F6F}Terminales Ring@{FFFF}."
+        "name": "Cuando @{6F6F}está sin marcar@{FFFF} los jugadores Fyros que no han sido invitados no podrán ver tu escenario en las @{6F6F}Terminales@{FFFF}."
     },
     "uiringfilterguild": {
-        "name": "Cuando @{6F6F}está sin marcar@{FFFF} los jugadores que no hayas invitado y que no son parte de tu gremio no podrán ver tu escenario en las @{6F6F}Terminales Ring@{FFFF}.\nEsta opción no tiene ningún efecto si no tienes un gremio."
+        "name": "Cuando @{6F6F}está sin marcar@{FFFF} los jugadores que no hayas invitado y que no son parte de tu gremio no podrán ver tu escenario en las @{6F6F}Terminales@{FFFF}.\nEsta opción no tiene ningún efecto si no tienes un gremio."
     },
     "uiringfiltermatis": {
-        "name": "Cuando @{6F6F}está sin marcar@{FFFF} los jugadores Matis que no han sido invitados no podrán ver tu escenario en las @{6F6F}Terminales Ring@{FFFF}."
+        "name": "Cuando @{6F6F}está sin marcar@{FFFF} los jugadores Matis que no han sido invitados no podrán ver tu escenario en las @{6F6F}Terminales@{FFFF}."
     },
     "uiringfilterreligionkami": {
-        "name": "Cuando @{6F6F}está sin marcar@{FFFF} los jugadores con lealtad Kami no podrán ver tu escenario en las @{6F6F}Terminales Ring@{FFFF}."
+        "name": "Cuando @{6F6F}está sin marcar@{FFFF} los jugadores con lealtad Kami no podrán ver tu escenario en las @{6F6F}Terminales@{FFFF}."
     },
     "uiringfilterreligionkaravan": {
-        "name": "Cuando @{6F6F}está sin marcar@{FFFF} los jugadores con lealtad Karava no podrán ver tu escenario en las @{6F6F}Terminales Ring@{FFFF}."
+        "name": "Cuando @{6F6F}está sin marcar@{FFFF} los jugadores con lealtad Karava no podrán ver tu escenario en las @{6F6F}Terminales@{FFFF}."
     },
     "uiringfilterreligionneutral": {
-        "name": "Cuando @{6F6F}está sin marcar@{FFFF} los jugadores sin lealtada no podrán ver tu escenario en las @{6F6F}Terminales Ring@{FFFF}."
+        "name": "Cuando @{6F6F}está sin marcar@{FFFF} los jugadores sin lealtada no podrán ver tu escenario en las @{6F6F}Terminales@{FFFF}."
     },
     "uiringfiltershard": {
-        "name": "Cuando @{6F6F}está sin marcar@{FFFF} los jugadores de este shard que no hayas invitado no podrán ver tu escenario en las @{6F6F}Terminales Ring@{FFFF}."
+        "name": "Cuando @{6F6F}está sin marcar@{FFFF} los jugadores de este fragmento que no hayas invitado no podrán ver tu escenario en las @{6F6F}Terminales@{FFFF}."
     },
     "uiringfiltertryker": {
-        "name": "Cuando @{6F6F}está sin marcar@{FFFF} los jugadores Tryker que no han sido invitados no podrán ver tu escenario en las @{6F6F}Terminales Ring@{FFFF}."
+        "name": "Cuando @{6F6F}está sin marcar@{FFFF} los jugadores Tryker que no han sido invitados no podrán ver tu escenario en las @{6F6F}Terminales@{FFFF}."
     },
     "uiringfilterzorai": {
-        "name": "Cuando @{6F6F}está sin marcar@{FFFF} los jugadores Zoraï que no han sido invitados no podrán ver tu escenario en las @{6F6F}Terminales Ring@{FFFF}."
+        "name": "Cuando @{6F6F}está sin marcar@{FFFF} los jugadores Zoraï que no han sido invitados no podrán ver tu escenario en las @{6F6F}Terminales@{FFFF}."
     },
     "uiringglobalaccesstoggle": {
-        "name": "Cuando @{6F6F}está sin marcar@{FFFF}, sólo los jugadores invitados verán este escenario en las @{6F6F}Terminales Ring@{FFFF}."
+        "name": "Cuando @{6F6F}está sin marcar@{FFFF}, sólo los jugadores invitados verán este escenario en las @{6F6F}Terminales@{FFFF}."
     },
     "uiringinvitationsent": {
-        "name": "ha sido invitado a unirse a este Escenario Ring"
+        "name": "ha sido invitado a unirse a este Escenario"
     },
     "uiringinvitenotification": {
         "name": "<R2_INVITE>Has sido invitado para unirte a un escenario ring. Si seleccionas el escenario en una Terminal Ring serás capaz de unírte directamente."
@@ -16455,7 +16503,7 @@
         "name": "No puedes cargar un escenario del Continente mientras estás en las Ruinas de Silan. "
     },
     "uiringnoratings": {
-        "name": "Puntuaciónes de escenario no disponibles en el Continente."
+        "name": "Puntuaciones de escenario no disponibles en el Continente."
     },
     "uiringplotitemcomment": {
         "name": "comentar: "
@@ -16470,10 +16518,10 @@
         "name": "Ha ocurrido un error cuando has tratado de actualizar los filtros de tu escenario."
     },
     "uiringwarningbanishedplayer": {
-        "name": "Has sido baneado. Has perdido la habilidad de lanzar un escenario."
+        "name": "Has sido vetado. Has perdido la habilidad de lanzar un escenario."
     },
     "uiringwarningfreetrial": {
-        "name": "LIMITACIONES DE LA PRUEBA GRATUITA:\n\nNo puedes unirte a esta aventura Ring con una cuenta de prueba gratuita.\n\nCon el fin de obtener acceso complet a Ryzom Ring necesitas suscribirte a Ryzom.\n\nPara actualizar tu cuenta ve a\nwww.ryzom.com\n"
+        "name": "LIMITACIONES DE LA PRUEBA GRATUITA:\n\nNo puedes unirte a esta aventura Ring con una cuenta de prueba gratuita.\n\nCon el fin de obtener acceso completo a Ryzom Ring necesitas suscribirte a Ryzom.\n\nPara actualizar tu cuenta ve a\nwww.ryzom.com\n"
     },
     "uiringwarninginvitefreetrial": {
         "name": "No puedes invitar a este jugador porque tiene una cuenta de prueba gratuita y este escenario no está permitido para jugadores de prueba gratuita.\n"
@@ -16534,6 +16582,12 @@
     },
     "uisapbardisplay": {
         "name": "VISUALIZACIÓN DE SAVIA"
+    },
+    "uisapcristal": {
+        "name": "Cristal de Savia"
+    },
+    "uisapcrystal": {
+        "name": "Cristal de Savia"
     },
     "uisapdesc": {
         "name": "@{6F6F}Savia@{FFFF},\nla energía que permite a un personaje canalizar poderes mágicos."
@@ -16617,10 +16671,13 @@
         "name": "Captura de Pantalla PNG"
     },
     "uiscreenshotsaved": {
-        "name": "ha sido guardado en tu carpeta Ryzom."
+        "name": "se ha guardado en la carpeta de capturas de pantalla designada."
     },
     "uise": {
         "name": "SE"
+    },
+    "uisearchterm": {
+        "name": "Término de búsqueda (Opcional)"
     },
     "uiseason0": {
         "name": "Primavera"
@@ -16635,7 +16692,7 @@
         "name": "Invierno"
     },
     "uiseeding": {
-        "name": "Seeding"
+        "name": "Siembra"
     },
     "uiselchartitle": {
         "name": "SELECCIONA UN PERSONAJE"
@@ -16651,6 +16708,9 @@
     },
     "uiselectpackage": {
         "name": "Selección de paquete"
+    },
+    "uiselectquantity": {
+        "name": "SELECCIONAR CANTIDAD"
     },
     "uiselectrmbuy": {
         "name": "Contratar un Maestro de Rol"
@@ -16776,7 +16836,7 @@
         "name": "FORMA"
     },
     "uisharddisp": {
-        "name": "ESCOGE TU SHARD"
+        "name": "ESCOGE TU FRAGMENTO"
     },
     "uishoot": {
         "name": "Gritar"
@@ -16813,6 +16873,9 @@
     },
     "uishowdynchannelnameinchatcb": {
         "name": "Mostrar Nombre del Canal de Dinámico en el Canal Usuario"
+    },
+    "uishowfullmap": {
+        "name": "Alternar a Mapa de Pantalla completa"
     },
     "uishowhide": {
         "name": "Mostrar\/Ocultar"
@@ -16942,6 +17005,9 @@
     },
     "uispellbooktitle": {
         "name": "LIBRO DE HECHIZOS"
+    },
+    "uispellcrystallized": {
+        "name": "Hechizo cristalizado"
     },
     "uispellselectsapcost": {
         "name": "Coste de Savia: "
@@ -17216,6 +17282,15 @@
     "uitabphraseupgrades": {
         "name": "Actualizaciones"
     },
+    "uitabzig1": {
+        "name": "Zig 1"
+    },
+    "uitabzig2": {
+        "name": "Zig 2"
+    },
+    "uitabzig3": {
+        "name": "Zig 3"
+    },
     "uitalkcmd": {
         "name": "Hablar a Cualquiera"
     },
@@ -17292,7 +17367,7 @@
         "name": "¡Yeah!"
     },
     "uitalkmemmsg10": {
-        "name": "Qué estás pasando?"
+        "name": "¿Qué Pasa?"
     },
     "uitalkmemmsg11": {
         "name": "¿Tío?"
@@ -17437,6 +17512,9 @@
     },
     "uiteleport": {
         "name": "TELETRANSPORTAR"
+    },
+    "uiteleportitem": {
+        "name": "Teletransportador"
     },
     "uiteleportlocation": {
         "name": "LOCALIZACIONES PARA TELETRANSPORTACIÓN"
@@ -17917,6 +17995,12 @@
     },
     "uittbrowseundo": {
         "name": "Navegar en la página previa de ayuda"
+    },
+    "uittbulkexchangegive": {
+        "name": "Volumen de los objetos ofrecidos"
+    },
+    "uittbulkexchangereceive": {
+        "name": "Volumen de los objetos ofrecidos"
     },
     "uittbulkformat": {
         "name": "@{6F6F}Masa\/volumen@{FFFF}: %v\/%m"
@@ -18491,8 +18575,14 @@
     "uitthandl": {
         "name": "@{6F6F}Mano Izquierda\n@{FFFF}Clic para ver todos los objetos disponibles para esta mano."
     },
+    "uitthandl_alt": {
+        "name": "Mano Izquierda"
+    },
     "uitthandr": {
         "name": "@{6F6F}Mano Derecha\n@{FFFF}Clic para ver todos los objetos disponibles para esta mano."
+    },
+    "uitthandr_alt": {
+        "name": "Mano Derecha"
     },
     "uitthands": {
         "name": "Guantes"
@@ -18883,6 +18973,9 @@
     },
     "uittmodrangesuccess": {
         "name": "Tu habilidad de Combate a Distancia ha sido modificada en %modifier punto(s)"
+    },
+    "uittmoneytradeoffer": {
+        "name": "Cantidad ofrecida"
     },
     "uittmoreinfo": {
         "name": "más información"
@@ -19470,16 +19563,16 @@
         "name": "@{6F6F}Tipo de Herramienta@{FFFF}:\nAntes fabricar, debes equiparte la herramienta de fabricación apropiada."
     },
     "uitttranslationdisablearound": {
-        "name": ""
+        "name": "Desactivar traducción en el canal Alrededor"
     },
     "uitttranslationdisableguild": {
-        "name": ""
+        "name": "Desactivar traducción en el canal de Gremio"
     },
     "uitttranslationdisableregion": {
-        "name": ""
+        "name": "Desactivar traducción en el canal de Región"
     },
     "uitttranslationdisableuniverse": {
-        "name": ""
+        "name": "Desactivar traducción en el canal Universo"
     },
     "uitttranslationhide": {
         "name": "Oculta la bandera del idioma para los mensajes originados en este idioma"
@@ -19495,6 +19588,12 @@
     },
     "uittwalk": {
         "name": "Modo Caminar"
+    },
+    "uittweightexchangegive": {
+        "name": "Peso de los objetos ofrecidos"
+    },
+    "uittweightexchangereceive": {
+        "name": "Peso de los objetos ofrecidos"
     },
     "uittwontbuythis": {
         "name": "No voy a comprar esto."
@@ -19594,6 +19693,9 @@
     },
     "uiuseeax": {
         "name": "Usar EAX"
+    },
+    "uiuseitem": {
+        "name": "Usar ítem"
     },
     "uiuseralpha": {
         "name": "USAR AJUSTES GENERALES"
@@ -19816,6 +19918,9 @@
     },
     "uiwisdesc": {
         "name": "@{6F6F}Sabiduría@{FFFF},\nes una medida de control mental. La sabiduría es esencial para cualquiera que desee utilizar Magia."
+    },
+    "uiwisdomchest": {
+        "name": ""
     },
     "uiwishmax": {
         "name": "Concentración Máx"

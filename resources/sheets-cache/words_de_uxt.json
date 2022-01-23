@@ -2520,7 +2520,7 @@
         "name": "Beng-Bernstein"
     },
     "mpfam150": {
-        "name": "Yelk-Schale"
+        "name": "Yelk-Panzer"
     },
     "mpfam151": {
         "name": "Yubo-Knochen"
@@ -2658,10 +2658,10 @@
         "name": "Verrottete Faser"
     },
     "mpfam198": {
-        "name": "Kleine Perlmuttschale"
+        "name": "Kleine Perlmuttmuschel"
     },
     "mpfam199": {
-        "name": "Große Perlmuttschale"
+        "name": "Große Perlmuttmuschel"
     },
     "mpfam2": {
         "name": "Adelina-Splitter"
@@ -2670,7 +2670,7 @@
         "name": "Bodoc-Nagel"
     },
     "mpfam200": {
-        "name": "Riesige Perlmuttschale"
+        "name": "Riesige Perlmuttmuschel"
     },
     "mpfam201": {
         "name": "Kleine Perle"
@@ -3108,7 +3108,7 @@
         "name": "Javing-Flügel"
     },
     "mpfam336": {
-        "name": "Clopper-Schale"
+        "name": "Clopper-Panzer"
     },
     "mpfam337": {
         "name": "Clopper-Kralle"
@@ -4691,8 +4691,32 @@
     "mpfam82": {
         "name": "Lumper-Wirbel"
     },
+    "mpfam827": {
+        "name": "raffinierter Tekorn-Strauch"
+    },
+    "mpfam828": {
+        "name": "raffinierte Maga-Liane"
+    },
+    "mpfam829": {
+        "name": "raffinierte Armilo-Flechte"
+    },
     "mpfam83": {
         "name": "Lumper-Schnurrhaare"
+    },
+    "mpfam830": {
+        "name": "raffinierter Greslin-Faden"
+    },
+    "mpfam831": {
+        "name": "Portion raffinierter Vedice-Saft"
+    },
+    "mpfam832": {
+        "name": "raffinierte Cheng-Wurzel"
+    },
+    "mpfam833": {
+        "name": "raffinierter Rubbarn-Gummi"
+    },
+    "mpfam834": {
+        "name": "raffinierter Egiros-Pollen"
     },
     "mpfam84": {
         "name": "Manath-Holz"
@@ -5759,6 +5783,9 @@
     "uianimaldetailedlist": {
         "name": "Detaillierte Liste"
     },
+    "uianimalinbag": {
+        "name": "Dein Tier ist in deiner Tasche."
+    },
     "uianimalinstable": {
         "name": "Dein Tier ist in einem Stall."
     },
@@ -5878,6 +5905,9 @@
     },
     "uiautoequiptool": {
         "name": "Automatisches Ausrüsten"
+    },
+    "uiautoloot": {
+        "name": "Alles nehmen beim Ausnehmen"
     },
     "uiautomaticcamera": {
         "name": "Automatische Kamera"
@@ -6944,6 +6974,9 @@
     "uicarrf": {
         "name": "FERNKÄMPFER - CHARAKTERISTIKA"
     },
+    "uicatalyser": {
+        "name": "Katalysator"
+    },
     "uicategory": {
         "name": "Kategorie"
     },
@@ -7618,6 +7651,12 @@
     },
     "uiconsdesc": {
         "name": "@{6F6F}Konstitution@{FFFF},\nDie Fähigkeit eines Charakters, anstrengende körperliche Aktivitäten auf sich zu nehmen."
+    },
+    "uiconsumable": {
+        "name": "Verbrauchbar"
+    },
+    "uiconsumables": {
+        "name": "Verbrauchbar"
     },
     "uicontactalreadyinlist": {
         "name": "Der Kontakt ist bereits in deiner Liste und wird nicht erneut hinzugefügt."
@@ -10962,7 +11001,7 @@
         "name": "Holeth"
     },
     "uihome": {
-        "name": "Startseite"
+        "name": "STARTSEITE"
     },
     "uihorizontal": {
         "name": "Horizontal"
@@ -11326,6 +11365,9 @@
     },
     "uiitemtextmessagefromcrafter": {
         "name": "@{FFF9}Nachricht des Handwerkers :\n@{FFFF}"
+    },
+    "uiitemtype": {
+        "name": "Nutze den ersten Gegenstand dieses Typs im Inventar"
     },
     "uiitemusersellcolor": {
         "name": "@{FF0F}"
@@ -13976,6 +14018,9 @@
     "uimwbuff": {
         "name": "BEEINFLUSST VON"
     },
+    "uimwcap": {
+        "name": "Kurs"
+    },
     "uimwchat": {
         "name": "HAUPTCHAT"
     },
@@ -13984,9 +14029,6 @@
     },
     "uimwchatmode1": {
         "name": "'ENTER', UM DEN CHAT ZU VERLASSEN"
-    },
-    "uimwcolors": {
-        "name": "SPIELEINSTELLUNGEN"
     },
     "uimwcombat": {
         "name": "KAMPF"
@@ -14429,11 +14471,11 @@
     "uiopen": {
         "name": "Öffnen"
     },
+    "uiopendefaultcontext": {
+        "name": "Standardkontext öffnen"
+    },
     "uiopenwindow": {
         "name": "öffnen"
-    },
-    "uioptcolor": {
-        "name": "Optionen"
     },
     "uioptionals": {
         "name": "OPTIONEN"
@@ -16535,6 +16577,12 @@
     "uisapbardisplay": {
         "name": "Sapanzeige"
     },
+    "uisapcristal": {
+        "name": "Sap-Kristall"
+    },
+    "uisapcrystal": {
+        "name": "Sap-Kristall"
+    },
     "uisapdesc": {
         "name": "@{6F6F}Sap@{FFFF},\nSap ist die Atys-typische Energie, die einem Charakter ermöglicht, Magie zu wirken."
     },
@@ -16617,10 +16665,13 @@
         "name": "Bildschirmfoto in PNG"
     },
     "uiscreenshotsaved": {
-        "name": "wird im Ryzom-Ordner gespeichert."
+        "name": "wird in dem angegebenen Screenshot-Ordner gespeichert."
     },
     "uise": {
         "name": "SO"
+    },
+    "uisearchterm": {
+        "name": "Suchfilter (Optional)"
     },
     "uiseason0": {
         "name": "Frühling"
@@ -16651,6 +16702,9 @@
     },
     "uiselectpackage": {
         "name": "Paketauswahl"
+    },
+    "uiselectquantity": {
+        "name": "Anzahl wählen"
     },
     "uiselectrmbuy": {
         "name": "Lehrmeister einstellen"
@@ -16814,6 +16868,9 @@
     "uishowdynchannelnameinchatcb": {
         "name": "Zeige die Namen der dynamischen Chats im Chat an."
     },
+    "uishowfullmap": {
+        "name": "Karte im Vollbild anzeigen"
+    },
     "uishowhide": {
         "name": "Ein-\/Ausblenden"
     },
@@ -16942,6 +16999,9 @@
     },
     "uispellbooktitle": {
         "name": "MAGIELISTE"
+    },
+    "uispellcrystallized": {
+        "name": "Kristallisierter Zauberspruch"
     },
     "uispellselectsapcost": {
         "name": "Sap-Kosten: "
@@ -17216,6 +17276,15 @@
     "uitabphraseupgrades": {
         "name": "Verbesserungen"
     },
+    "uitabzig1": {
+        "name": "Zig 1"
+    },
+    "uitabzig2": {
+        "name": "Zig 2"
+    },
+    "uitabzig3": {
+        "name": "Zig 3"
+    },
     "uitalkcmd": {
         "name": "Für alle hörbar reden"
     },
@@ -17292,7 +17361,7 @@
         "name": "Hurra!"
     },
     "uitalkmemmsg10": {
-        "name": "Was ist denn hier los?"
+        "name": "Was ist los?"
     },
     "uitalkmemmsg11": {
         "name": "Bitte?"
@@ -17437,6 +17506,9 @@
     },
     "uiteleport": {
         "name": "Teleportiere"
+    },
+    "uiteleportitem": {
+        "name": "Teleporter"
     },
     "uiteleportlocation": {
         "name": "TELEPORTATIONSZIELE"
@@ -17730,7 +17802,7 @@
         "name": "Übersetzungen für einige Kanäle deaktivieren"
     },
     "uitranslationdisablearound": {
-        "name": "Around, shout and emotes"
+        "name": "Um, Shout und Emotes"
     },
     "uitranslationdisableguild": {
         "name": "Gilde"
@@ -17917,6 +17989,12 @@
     },
     "uittbrowseundo": {
         "name": "Vorherige Hilfsseite"
+    },
+    "uittbulkexchangegive": {
+        "name": "Menge der angebotenen Artikel"
+    },
+    "uittbulkexchangereceive": {
+        "name": "Menge der angebotenen Artikel"
     },
     "uittbulkformat": {
         "name": "@{6F6F}Volumen@{FFFF}: %v \/ %m"
@@ -18111,7 +18189,7 @@
         "name": "Farbe für NPC-Texte im Chat wählen"
     },
     "uittchooseoptcolor": {
-        "name": "Farbe der Überschrift 'Optionen' wählen"
+        "name": "Choose color for the configuration window headings"
     },
     "uittchooseplacolor": {
         "name": "Farbe der Überschrift 'Spieler' wählen"
@@ -18491,8 +18569,14 @@
     "uitthandl": {
         "name": "@{6F6F}Linke Hand\n@{FFFF}Klicke mit der linken Maustaste auf das Hand-Icon, um alle verfügbaren Gegenstände für diese Hand anzuzeigen."
     },
+    "uitthandl_alt": {
+        "name": "Linke Hand"
+    },
     "uitthandr": {
         "name": "@{6F6F}Rechte Hand\n@{FFFF}Klicke mit der linken Maustaste auf das Hand-Icon, um alle verfügbaren Gegenstände für diese Hand anzuzeigen."
+    },
+    "uitthandr_alt": {
+        "name": "Rechte Hand"
     },
     "uitthands": {
         "name": "Handschuhe"
@@ -18883,6 +18967,9 @@
     },
     "uittmodrangesuccess": {
         "name": "Deine Fernkampffähigkeit wird um %modifier Punkt(e) erhöht."
+    },
+    "uittmoneytradeoffer": {
+        "name": "Angebotene Menge"
     },
     "uittmoreinfo": {
         "name": "Mehr Informationen"
@@ -19470,16 +19557,16 @@
         "name": "@{6F6F}Werkzeugtyp @{FFFF}:\nEhe du mit einem Handwerk beginnen kannst, musst du das dafür jeweils nötige Werkzeug in die rechte Hand nehmen."
     },
     "uitttranslationdisablearound": {
-        "name": ""
+        "name": "Übersetzungen für den Umgebung-Kanal deaktivieren"
     },
     "uitttranslationdisableguild": {
-        "name": ""
+        "name": "Übersetzungen für den Gildenkanal deaktivieren"
     },
     "uitttranslationdisableregion": {
-        "name": ""
+        "name": "Übersetzungen für den Kanal Region deaktivieren"
     },
     "uitttranslationdisableuniverse": {
-        "name": ""
+        "name": "Übersetzungen für den Universum-Kanal deaktivieren"
     },
     "uitttranslationhide": {
         "name": "Blendet das Sprachflag für Nachrichten aus, die aus dieser Sprache stammen"
@@ -19495,6 +19582,12 @@
     },
     "uittwalk": {
         "name": "Gehmodus"
+    },
+    "uittweightexchangegive": {
+        "name": "Gewicht der angebotenen Artikel"
+    },
+    "uittweightexchangereceive": {
+        "name": "Gewicht der angebotenen Artikel"
     },
     "uittwontbuythis": {
         "name": "Ich kaufe das nicht."
@@ -19594,6 +19687,9 @@
     },
     "uiuseeax": {
         "name": "EAX nutzen"
+    },
+    "uiuseitem": {
+        "name": "Nutze Gegenstand"
     },
     "uiuseralpha": {
         "name": "GLOBALE EINSTELLUNGEN NUTZEN"
@@ -19816,6 +19912,9 @@
     },
     "uiwisdesc": {
         "name": "@{6F6F}Weisheit@{FFFF},\nSymbolisiert die mentale Kontrolle. Weisheit ist unabkömmlich für den Einsatz von Magie."
+    },
+    "uiwisdomchest": {
+        "name": ""
     },
     "uiwishmax": {
         "name": "max. Fokus"
