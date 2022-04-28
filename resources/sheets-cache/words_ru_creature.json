@@ -32946,32 +32946,68 @@
         "screagen": "Сосуды мудрости"
     },
     "object_easter_egg": {
-        "name": "",
-        "p": "",
+        "name": "яйцо",
+        "p": "яйца",
         "creagen": "",
         "screagen": ""
     },
     "object_easter_egg_big": {
-        "name": "",
-        "p": "",
+        "name": "большое яйцо",
+        "p": "большие яйца",
+        "creagen": "",
+        "screagen": ""
+    },
+    "object_easter_egg_fake_bag_a": {
+        "name": "Корзина для яиц - Дни беженцев",
+        "p": "Корзины для яиц - Дни беженцев",
+        "creagen": "",
+        "screagen": ""
+    },
+    "object_easter_egg_fake_campfire_off": {
+        "name": "Вареное яйцо - Дни беженцев",
+        "p": "Вареные яйца - Дни беженцев",
+        "creagen": "",
+        "screagen": ""
+    },
+    "object_easter_egg_fake_chest": {
+        "name": "Картонная коробка для яиц - Дни беженцев",
+        "p": "Картонные коробки для яиц - Дни беженцев",
+        "creagen": "",
+        "screagen": ""
+    },
+    "object_easter_egg_fake_kitin_egg": {
+        "name": "Ископаемое яйцо - Дни беженцев",
+        "p": "Ископаемые яйца - Дни беженцев",
+        "creagen": "",
+        "screagen": ""
+    },
+    "object_easter_egg_fake_large_easter_egg": {
+        "name": "Яйцо - Дни беженцев",
+        "p": "Яйца - Дни беженцев",
+        "creagen": "",
+        "screagen": ""
+    },
+    "object_easter_egg_fake_snowhill": {
+        "name": "Десерт из взбитых яиц - Дни беженцев",
+        "p": "Десерты из взбитых яиц - Дни беженцев",
         "creagen": "",
         "screagen": ""
     },
     "object_easter_egg_hug": {
-        "name": "",
-        "p": "",
+        "name": "огромное яйцо",
+        "p": "огромные яйца",
         "creagen": "",
         "screagen": ""
     },
     "object_easter_egg_medium": {
-        "name": "",
-        "p": "",
+        "name": "среднее яйцо",
+        "p": "средние яйца",
         "creagen": "",
         "screagen": ""
     },
     "object_easter_egg_small": {
-        "name": "",
-        "p": "",
+        "name": "маленькое яйцо",
+        "p": "маленькие яйца",
         "creagen": "",
         "screagen": ""
     },
@@ -33058,6 +33094,18 @@
         "p": "Shooter Packers",
         "creagen": "Shooter Packers",
         "screagen": "Shooter Packer"
+    },
+    "zig_bolobi_jun": {
+        "name": "",
+        "p": "",
+        "creagen": "",
+        "screagen": ""
+    },
+    "zig_capryni_for": {
+        "name": "",
+        "p": "",
+        "creagen": "",
+        "screagen": ""
     },
     "zig_yubo_forest": {
         "name": "Zig Yubo",

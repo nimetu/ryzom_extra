@@ -8243,6 +8243,9 @@
     "uidefnightcol": {
         "name": "Définir la couleur de la nuit"
     },
+    "uideftooltipcolor": {
+        "name": "Définir la couleur de fond de l'aide contextuelle"
+    },
     "uidelchar": {
         "name": "SUPPRIMER CE PERSONNAGE ?"
     },
@@ -10359,7 +10362,7 @@
         "name": "Co-équipiers"
     },
     "uiguild": {
-        "name": "Guilde"
+        "name": "GUILDE"
     },
     "uiguildbearer": {
         "name": "Titulaire"
@@ -11005,6 +11008,9 @@
     },
     "uihorizontal": {
         "name": "Horizontale"
+    },
+    "uihotbartitle": {
+        "name": "Poches"
     },
     "uihp": {
         "name": "Vie"
@@ -16869,7 +16875,7 @@
         "name": "Utiliser le système horaire sur 12 heures"
     },
     "uishowcontexthelp": {
-        "name": "Affichage de l'aide contextuelle"
+        "name": "Affichage de l'aide en jeu"
     },
     "uishowdynchannelnameinchatcb": {
         "name": "Afficher le nom des canaux du chat dynamique dans le chat"
@@ -16960,6 +16966,9 @@
     },
     "uiskiptryton": {
         "name": "Passer l'intro"
+    },
+    "uislotnumber": {
+        "name": "Numéro de l'emplacement"
     },
     "uisnowy": {
         "name": "il neige."
@@ -17773,6 +17782,12 @@
     },
     "uitool": {
         "name": "Outil"
+    },
+    "uitooltipcolor": {
+        "name": "Couleur de fond"
+    },
+    "uitooltipopacity": {
+        "name": "Opacité de l'aide contextuelle"
     },
     "uitorso": {
         "name": "Torse"
@@ -18595,6 +18610,24 @@
     },
     "uitthelmet": {
         "name": "Casque"
+    },
+    "uitthotbaritem": {
+        "name": "Poches"
+    },
+    "uitthotbaritem1": {
+        "name": "Poche #1"
+    },
+    "uitthotbaritem2": {
+        "name": "Poche #2"
+    },
+    "uitthotbaritem3": {
+        "name": "Poche #3"
+    },
+    "uitthotbaritem4": {
+        "name": "Poche #4"
+    },
+    "uitthotbaritem5": {
+        "name": "Poche #5"
     },
     "uitthours": {
         "name": " heure(s) "
@@ -19693,6 +19726,9 @@
     },
     "uiuseeax": {
         "name": "Utiliser EAX"
+    },
+    "uiusehotbaritem": {
+        "name": "Utiliser une poche"
     },
     "uiuseitem": {
         "name": "Utiliser un objet"

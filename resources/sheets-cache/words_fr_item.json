@@ -3635,6 +3635,15 @@
         "pda": "les",
         "description": ""
     },
+    "iaad2": {
+        "name": "Zig Frippo",
+        "ia": "un",
+        "da": "le",
+        "p": "Zig Frippo",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
     "iadc": {
         "name": "Mektoub de bât",
         "ia": "un",
@@ -12140,6 +12149,51 @@
         "pda": "les",
         "description": ""
     },
+    "icwacp_mark1": {
+        "name": "Muse-Lam",
+        "ia": "un",
+        "da": "la",
+        "p": "Muse-Lam",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "icwacp_mark1_2": {
+        "name": "Muse-Mam",
+        "ia": "un",
+        "da": "la",
+        "p": "Muse-Mam",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "icwacp_mark1_3": {
+        "name": "Muse-Ham",
+        "ia": "une",
+        "da": "la",
+        "p": "Muse-Ham",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "icwm1pd_mark1": {
+        "name": "Rizys I",
+        "ia": "une",
+        "da": "la",
+        "p": "Rizys I",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "icwm1ss_mark1": {
+        "name": "Dex I",
+        "ia": "une",
+        "da": "la",
+        "p": "Dex I",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
     "iczacb": {
         "name": "Bottes Lin-kos",
         "ia": "des",
@@ -15041,20 +15095,38 @@
     "ixpca01": {
         "name": "Cristal d'élévation",
         "ia": "un",
-        "da": "le",
+        "da": "l'",
         "p": "Cristaux d'élévation",
         "pia": "des",
         "pda": "les",
-        "description": "Les cristaux donnent un bonus d'expérience. Une fois activés ils sont consommés en fonction du gain d'expérience ce qui va jusqu'à doubler l'expérience reçue. Le cristal n'est efficace que pour des actions de niveau inférieur à sa qualité. Pour l'activer cliquer avec le bouton droit sur l'objet dans l'inventaire puis cliquer l'option dans le menu."
+        "description": ""
     },
     "ixpca02": {
         "name": "Cristal d'élévation",
         "ia": "un",
-        "da": "le",
+        "da": "l'",
         "p": "Cristaux d'élévation",
         "pia": "des",
         "pda": "les",
-        "description": "Les cristaux donnent un bonus d'expérience. Une fois activés ils sont consommés en fonction du gain d'expérience ce qui va jusqu'à doubler l'expérience reçue. Le cristal n'est efficace que pour des actions de niveau inférieur à sa qualité. Pour l'activer cliquer avec le bouton droit sur l'objet dans l'inventaire puis cliquer l'option dans le menu."
+        "description": ""
+    },
+    "ixpca03": {
+        "name": "Cristal d'élévation (x3)",
+        "ia": "un",
+        "da": "l'",
+        "p": "Cristaux d'élévation (x3)",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "ixpca04": {
+        "name": "Cristal d'élévation (x4)",
+        "ia": "un",
+        "da": "l'",
+        "p": "Cristaux d'élévation (x4)",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
     },
     "ka_cheveux_medium01": {
         "name": "Cheveu mi-long de Kami",
@@ -19781,6 +19853,15 @@
         "pda": "les",
         "description": ""
     },
+    "m0086chhde01": {
+        "name": "Fragment de peau suprême \/ Mektoub du Désert",
+        "ia": "un",
+        "da": "le",
+        "p": "Fragments de peau suprême \/ Mektoub du Désert",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
     "m0086chhfc01": {
         "name": "Fragment de peau de choix \/ Mektoub des Forêts",
         "ia": "un",
@@ -19790,11 +19871,38 @@
         "pda": "les",
         "description": ""
     },
+    "m0086chhfe01": {
+        "name": "Fragment de peau suprême \/ Mektoub des Forêts",
+        "ia": "un",
+        "da": "le",
+        "p": "Fragments de peau suprême \/ Mektoub des Forêts",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "m0086chhje01": {
+        "name": "Fragment de peau suprême \/ Mektoub de la Jungle",
+        "ia": "un",
+        "da": "le",
+        "p": "Fragments de peau suprême \/ Mektoub de la Jungle",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
     "m0086chhld01": {
         "name": "Fragment de peau excellente \/ Mektoub des Lacs",
         "ia": "un",
         "da": "le",
         "p": "Fragments de peau excellente \/ Mektoub des Lacs",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "m0086chhle01": {
+        "name": "Fragment de peau suprême \/ Mektoub des Lacs",
+        "ia": "un",
+        "da": "le",
+        "p": "Fragments de peau suprême \/ Mektoub des Lacs",
         "pia": "des",
         "pda": "les",
         "description": ""
@@ -19916,6 +20024,15 @@
         "pda": "les",
         "description": ""
     },
+    "m0087chhde01": {
+        "name": "Trompe suprême \/ Mektoub du Désert",
+        "ia": "une",
+        "da": "la",
+        "p": "Trompes suprêmes \/ Mektoub du Désert",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
     "m0087chhfc01": {
         "name": "Trompe de choix \/ Mektoub des Forêts",
         "ia": "une",
@@ -19925,11 +20042,38 @@
         "pda": "les",
         "description": ""
     },
+    "m0087chhfe01": {
+        "name": "Trompe suprême \/ Mektoub des Forêts",
+        "ia": "une",
+        "da": "la",
+        "p": "Trompes suprêmes \/ Mektoub des Forêts",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "m0087chhje01": {
+        "name": "Trompe suprême \/ Mektoub de la Jungle",
+        "ia": "une",
+        "da": "la",
+        "p": "Trompes suprêmes \/ Mektoub de la Jungle",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
     "m0087chhld01": {
         "name": "Trompe excellente \/ Mektoub des Lacs",
         "ia": "une",
         "da": "la",
         "p": "Trompes excellentes \/ Mektoub des Lacs",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "m0087chhle01": {
+        "name": "Trompe suprême \/ Mektoub des Lacs",
+        "ia": "une",
+        "da": "la",
+        "p": "Trompes suprêmes \/ Mektoub des Lacs",
         "pia": "des",
         "pda": "les",
         "description": ""
@@ -29519,11 +29663,29 @@
         "pda": "les",
         "description": ""
     },
+    "m0263chhdb01": {
+        "name": "Viande moyenne \/ Mektoub du Désert",
+        "ia": "de la",
+        "da": "la",
+        "p": "Viandes moyennes \/ Mektoub du Désert",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
     "m0263chhdd01": {
         "name": "Viande de premier ordre \/ Mektoub du Désert",
         "ia": "de la",
         "da": "la",
         "p": "Viandes de premier ordre \/ Mektoub du Désert",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "m0263chhfb01": {
+        "name": "Viande moyenne \/ Mektoub des Forêts",
+        "ia": "de la",
+        "da": "la",
+        "p": "Viandes moyennes \/ Mektoub des Forêts",
         "pia": "des",
         "pda": "les",
         "description": ""
@@ -29560,6 +29722,15 @@
         "ia": "de la",
         "da": "la",
         "p": "Viandes moyennes \/ Mektoub de la Jungle",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "m0263chhlb01": {
+        "name": "Viande moyenne \/ Mektoub des Lacs",
+        "ia": "de la",
+        "da": "la",
+        "p": "Viandes moyennes \/ Mektoub des Lacs",
         "pia": "des",
         "pda": "les",
         "description": ""
@@ -31409,11 +31580,29 @@
         "pda": "les",
         "description": ""
     },
+    "m0287chhdb01": {
+        "name": "Sang moyen \/ Mektoub du Désert",
+        "ia": "du",
+        "da": "le",
+        "p": "Sang moyen \/ Mektoub du Désert",
+        "pia": "du",
+        "pda": "le",
+        "description": ""
+    },
     "m0287chhdd01": {
         "name": "Sang de premier ordre \/ Mektoub du Désert",
         "ia": "du",
         "da": "le",
         "p": "Sang de premier ordre \/ Mektoub du Désert",
+        "pia": "du",
+        "pda": "le",
+        "description": ""
+    },
+    "m0287chhfb01": {
+        "name": "Sang moyen \/ Mektoub des Forêts",
+        "ia": "du",
+        "da": "le",
+        "p": "Sang moyen \/ Mektoub des Forêts",
         "pia": "du",
         "pda": "le",
         "description": ""
@@ -31450,6 +31639,15 @@
         "ia": "du",
         "da": "le",
         "p": "Sang moyen \/ Mektoub de la Jungle",
+        "pia": "du",
+        "pda": "le",
+        "description": ""
+    },
+    "m0287chhlb01": {
+        "name": "Sang moyen \/ Mektoub des Lacs",
+        "ia": "du",
+        "da": "le",
+        "p": "Sang moyen \/ Mektoub des Lacs",
         "pia": "du",
         "pda": "le",
         "description": ""
@@ -33650,11 +33848,29 @@
         "pda": "les",
         "description": ""
     },
+    "m0323chhdb01": {
+        "name": "Fragment de crâne moyen \/ Mektoub du Désert",
+        "ia": "un",
+        "da": "le",
+        "p": "Fragments de crâne moyen \/ Mektoub du Désert",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
     "m0323chhdd01": {
         "name": "Fragment de crâne de premier ordre \/ Mektoub du Désert",
         "ia": "un",
         "da": "le",
         "p": "Fragments de crâne de premier ordre \/ Mektoub du Désert",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "m0323chhfb01": {
+        "name": "Fragment de crâne moyen \/ Mektoub des Forêts",
+        "ia": "un",
+        "da": "le",
+        "p": "Fragments de crâne moyen \/ Mektoub des Forêts",
         "pia": "des",
         "pda": "les",
         "description": ""
@@ -33691,6 +33907,15 @@
         "ia": "un",
         "da": "le",
         "p": "Fragments de crâne moyen \/ Mektoub de la Jungle",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "m0323chhlb01": {
+        "name": "Fragment de crâne moyen \/ Mektoub des Lacs",
+        "ia": "un",
+        "da": "le",
+        "p": "Fragments de crâne moyen \/ Mektoub des Lacs",
         "pia": "des",
         "pda": "les",
         "description": ""
@@ -50786,6 +51011,15 @@
         "pda": "les",
         "description": ""
     },
+    "m0618chhde01": {
+        "name": "Fragment d'oeil suprême \/ Mektoub du Désert",
+        "ia": "un",
+        "da": "le",
+        "p": "Fragments d'oeil suprême \/ Mektoub du Désert",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
     "m0618chhfc01": {
         "name": "Fragment d'oeil de choix \/ Mektoub des Forêts",
         "ia": "un",
@@ -50795,11 +51029,38 @@
         "pda": "les",
         "description": ""
     },
+    "m0618chhfe01": {
+        "name": "Fragment d'oeil suprême \/ Mektoub des Forêts",
+        "ia": "un",
+        "da": "le",
+        "p": "Fragments d'oeil suprême \/ Mektoub des Forêts",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "m0618chhje01": {
+        "name": "Fragment d'oeil suprême \/ Mektoub de la Jungle",
+        "ia": "un",
+        "da": "le",
+        "p": "Fragments d'oeil suprême \/ Mektoub de la Jungle",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
     "m0618chhld01": {
         "name": "Fragment d'oeil excellent \/ Mektoub des Lacs",
         "ia": "un",
         "da": "le",
         "p": "Fragments d'oeil excellent \/ Mektoub des Lacs",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "m0618chhle01": {
+        "name": "Fragment d'oeil suprême \/ Mektoub des Lacs",
+        "ia": "un",
+        "da": "le",
+        "p": "Fragments d'oeil suprême \/ Mektoub des Lacs",
         "pia": "des",
         "pda": "les",
         "description": ""
@@ -50921,6 +51182,15 @@
         "pda": "les",
         "description": ""
     },
+    "m0619chhde01": {
+        "name": "Ongle suprême \/ Mektoub du Désert",
+        "ia": "un",
+        "da": "l'",
+        "p": "Ongles suprêmes \/ Mektoub du Désert",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
     "m0619chhfc01": {
         "name": "Ongle de choix \/ Mektoub des Forêts",
         "ia": "un",
@@ -50930,11 +51200,38 @@
         "pda": "les",
         "description": ""
     },
+    "m0619chhfe01": {
+        "name": "Ongle suprême \/ Mektoub des Forêts",
+        "ia": "un",
+        "da": "l'",
+        "p": "Ongles suprêmes \/ Mektoub des Forêts",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "m0619chhje01": {
+        "name": "Ongle suprême \/ Mektoub de la Jungle",
+        "ia": "un",
+        "da": "l'",
+        "p": "Ongles suprêmes \/ Mektoub de la Jungle",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
     "m0619chhld01": {
         "name": "Ongle excellent \/ Mektoub des Lacs",
         "ia": "un",
         "da": "l'",
         "p": "Ongles excellents \/ Mektoub des Lacs",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "m0619chhle01": {
+        "name": "Ongle suprême \/ Mektoub des Lacs",
+        "ia": "un",
+        "da": "l'",
+        "p": "Ongles suprêmes \/ Mektoub des Lacs",
         "pia": "des",
         "pda": "les",
         "description": ""
@@ -51056,6 +51353,15 @@
         "pda": "les",
         "description": ""
     },
+    "m0620chhde01": {
+        "name": "Fragment de bassin suprême \/ Mektoub du Désert",
+        "ia": "un",
+        "da": "le",
+        "p": "Fragments de bassin suprême \/ Mektoub du Désert",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
     "m0620chhfc01": {
         "name": "Fragment de bassin de choix \/ Mektoub des Forêts",
         "ia": "un",
@@ -51065,11 +51371,38 @@
         "pda": "les",
         "description": ""
     },
+    "m0620chhfe01": {
+        "name": "Fragment de bassin suprême \/ Mektoub des Forêts",
+        "ia": "un",
+        "da": "le",
+        "p": "Fragments de bassin suprême \/ Mektoub des Forêts",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "m0620chhje01": {
+        "name": "Fragment de bassin suprême \/ Mektoub de la Jungle",
+        "ia": "un",
+        "da": "le",
+        "p": "Fragments de bassin suprême \/ Mektoub de la Jungle",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
     "m0620chhld01": {
         "name": "Fragment de bassin excellent \/ Mektoub des Lacs",
         "ia": "un",
         "da": "le",
         "p": "Fragments de bassin excellent \/ Mektoub des Lacs",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "m0620chhle01": {
+        "name": "Fragment de bassin suprême \/ Mektoub des Lacs",
+        "ia": "un",
+        "da": "le",
+        "p": "Fragments de bassin suprême \/ Mektoub des Lacs",
         "pia": "des",
         "pda": "les",
         "description": ""
@@ -64863,7 +65196,7 @@
         "description": ""
     },
     "slot_fingerl": {
-        "name": "",
+        "name": "mettre la bague à votre doigt gauche",
         "ia": "",
         "da": "",
         "p": "",
@@ -69205,6 +69538,24 @@
         "ia": "un",
         "da": "le",
         "p": "Boucliers Rayés",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "zig_bolobi": {
+        "name": "Zig Bolobi",
+        "ia": "un",
+        "da": "le",
+        "p": "Zig Bolobi",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "zig_capryni": {
+        "name": "Zig Capryni",
+        "ia": "un",
+        "da": "le",
+        "p": "Zig Capryni",
         "pia": "des",
         "pda": "les",
         "description": ""

@@ -323,6 +323,10 @@
         "name": "Alchemist",
         "women_name": "Alchemistin"
     },
+    "ambassadeurmatis": {
+        "name": "Botschafter der Matis",
+        "women_name": "Botschafterin der Matis"
+    },
     "amber_medal_atys_tournament": {
         "name": "Bernstein-Medaille - Atys-Wettkampf 2613",
         "women_name": "Bernstein-Medaille - Atys-Wettkampf 2613"
@@ -484,8 +488,8 @@
         "women_name": "Avatara der Sorgen"
     },
     "awakened": {
-        "name": "Zoraï Erleuchteter",
-        "women_name": "Zoraï Erleuchtete"
+        "name": "Erleuchteter der Zoraï",
+        "women_name": "Erleuchtete der Zoraï"
     },
     "axeman": {
         "name": "Axtkämpfer",
@@ -510,6 +514,10 @@
     "baitrykalimember": {
         "name": "Mitglied der Bai Trykali",
         "women_name": "Mitglied der Bai Trykali"
+    },
+    "bar_keeper": {
+        "name": "Barwächter",
+        "women_name": "Barwächterin"
     },
     "barman_of_avendale": {
         "name": "Barmann von Avendale",
@@ -627,6 +635,10 @@
         "name": "Aufspalter",
         "women_name": "Aufspalterin"
     },
+    "clerc_noviciate": {
+        "name": "Sekretärinnen-Novizin",
+        "women_name": "Schreiber-Novizin"
+    },
     "clerk": {
         "name": "Königlicher Schreiber",
         "women_name": "Königliche Schreiberin"
@@ -650,6 +662,10 @@
     "combattantombres": {
         "name": "Krieger der Schatten",
         "women_name": "Krieger der Schatten"
+    },
+    "commandant": {
+        "name": "Kommandant",
+        "women_name": "Kommandant"
     },
     "compositeur_d_univers": {
         "name": "Komponist des Universums",
@@ -723,6 +739,14 @@
         "name": "Unruhestifter",
         "women_name": "Unruhestifterin"
     },
+    "dreamer": {
+        "name": "Vom-Jackpot-Träumer",
+        "women_name": "Vom-Jackpot-Träumer"
+    },
+    "dynastic_scribe": {
+        "name": "Dynastischer Schreiber",
+        "women_name": "Dynastische Schreiberin"
+    },
     "eboulis": {
         "name": "Geröll",
         "women_name": "Geröll"
@@ -794,6 +818,10 @@
     "esteemedcitizen": {
         "name": "Angesehener Tryker-Bürger",
         "women_name": "Angesehene Tryker-Bürgerin"
+    },
+    "eternal_loser": {
+        "name": "Ewiger Verlierer am Glücksrad",
+        "women_name": "Ewiger Verlierer am Glücksrad"
     },
     "etouffeur_edtincelles_halloween": {
         "name": "Löscher von Anlor Winns Funken",
@@ -2498,6 +2526,10 @@
     "g": {
         "name": "Guide",
         "women_name": "Guide"
+    },
+    "gain_lover": {
+        "name": "Gewinn-Hungriger",
+        "women_name": "Gewinn-Hungriger"
     },
     "ghost": {
         "name": "Geist",
@@ -7535,6 +7567,10 @@
         "name": "Ketzer",
         "women_name": "Ketzerin"
     },
+    "hogger": {
+        "name": "Glücksrad-Umarmer",
+        "women_name": "Glücksrad-Umarmer"
+    },
     "homin": {
         "name": "Homin",
         "women_name": "Homina"
@@ -7570,6 +7606,10 @@
     "ivrogne": {
         "name": "Trunkenbold",
         "women_name": "Trunkenbold"
+    },
+    "ivrogne2": {
+        "name": "Obersäufer am Markt",
+        "women_name": "Obersäuferin am Markt"
     },
     "jeweler": {
         "name": "Juwelier",
@@ -7979,6 +8019,10 @@
         "name": "Meister des Streitkolbens",
         "women_name": "Meisterin des Streitkolbens"
     },
+    "master_of_arms": {
+        "name": "Waffenmeisterin",
+        "women_name": "Waffenmeisterin"
+    },
     "master_of_energies": {
         "name": "Meister der Energien",
         "women_name": "Meisterin der Energien"
@@ -8072,8 +8116,8 @@
         "women_name": "Matis-Waffenschmiedelehrling"
     },
     "matisambassador": {
-        "name": "Matis-Botschafter",
-        "women_name": "Matis-Botschafterin"
+        "name": "Botschafter der Matis",
+        "women_name": "Botschafterin der Matis"
     },
     "matisbutcher": {
         "name": "Matis-Mörder",
@@ -8205,7 +8249,7 @@
     },
     "noble": {
         "name": "Matis Adeliger",
-        "women_name": "Matis Adelige"
+        "women_name": "Matis-Adelige"
     },
     "novice_artisan": {
         "name": "Handwerks-Neuling",
@@ -8264,12 +8308,16 @@
         "women_name": "Hohe Offizierin der Gilde"
     },
     "organisateurmarcheavalae": {
-        "name": "Organisateur du Marché d'Avalae",
-        "women_name": ""
+        "name": "Organisator des Markts von Avalae",
+        "women_name": "Organisatorin des Markts von Avalae"
     },
     "owner_of": {
         "name": "#players #pet",
         "women_name": "#players #pet"
+    },
+    "pathetic_loser": {
+        "name": "Erbärmlicher Verlierer",
+        "women_name": "Erbärmlicher Verlierer"
     },
     "patron_kami": {
         "name": "Patron des Kami Tempels",
@@ -8279,6 +8327,10 @@
         "name": "Schirmherrin der Karavan-Außenposten",
         "women_name": "Schirmherrin der Karavan-Außenposten"
     },
+    "phobic": {
+        "name": "Rad-Phobiker",
+        "women_name": "Rad-Phobiker"
+    },
     "pikeman": {
         "name": "Pikenier",
         "women_name": "Pikenierin"
@@ -8286,6 +8338,10 @@
     "pistoleer": {
         "name": "Pistolenschütze",
         "women_name": "Pistolenschützin"
+    },
+    "playername": {
+        "name": "[e]getplayerinfos(name)[\/e]",
+        "women_name": "[e]getplayerinfos(name)[\/e]"
     },
     "precurseurduchaos": {
         "name": "Vorbote des Chaos",
@@ -8387,20 +8443,56 @@
         "name": "Ronny-Reiter",
         "women_name": "Ronny-Reiter"
     },
+    "royal_artisan_apprentice": {
+        "name": "Königlicher Handwerkslehrling",
+        "women_name": "Königlicher Handwerkslehrling"
+    },
+    "royal_botanist": {
+        "name": "Königlicher Botaniker",
+        "women_name": "Königliche Botanikerin"
+    },
+    "royal_couturier": {
+        "name": "Königlicher Bote",
+        "women_name": "Königliche Botin"
+    },
+    "royal_florist": {
+        "name": "Königlicher Florist",
+        "women_name": "Königliche Floristin"
+    },
     "royal_historian": {
         "name": "Königlicher Historiker",
         "women_name": "Königliche Historikerin"
+    },
+    "royal_illustrator": {
+        "name": "Königlicher Illustrator",
+        "women_name": "Königliche Illustratorin"
+    },
+    "royal_kitinologist": {
+        "name": "Königlicher Kitinologe",
+        "women_name": "Königliche Kinitologin"
+    },
+    "royal_linguist": {
+        "name": "Königlicher Linguist",
+        "women_name": "Königliche Linguistin"
+    },
+    "royal_zoologist": {
+        "name": "Königlicher Zoologe",
+        "women_name": "Königliche Zoologin"
     },
     "royalcraftsman": {
         "name": "Königlicher Handwerker",
         "women_name": "Königliche Handwerkerin"
     },
+    "royaljeweller": {
+        "name": "Königlicher Juwelier",
+        "women_name": "Königliche Juwelierin"
+    },
     "royalminstrel": {
-        "name": "Königlicher Spielmann",
-        "women_name": "Königliche Spielfrau"
+        "name": "Königlicher Musiker",
+        "women_name": "Königliche Musikerin"
     },
     "royalscrivener": {
-        "name": "Royal Scrivener",
+        "name": "Königlicher Schreiber",
         "women_name": "Royal Scrivener"
     },
     "ruler_of_the_lab": {
@@ -8414,14 +8506,6 @@
     "ry_pyk_al": {
         "name": "Ry-Pyk'al",
         "women_name": "Ry-Pyk'al"
-    },
-    "ryzomleveldesigner": {
-        "name": "Ryzom - Level-Designer",
-        "women_name": "Ryzom - Level-Designer"
-    },
-    "ryzomleveldesignmanager": {
-        "name": "Ryzom - Level-Design Manager, Event, Dev-Ark & Graphics - [FR]",
-        "women_name": "Ryzom - Level-Design Manager, Event, Dev-Ark & Graphics - [FR]"
     },
     "sandcaravanner": {
         "name": "Dünen-Karavanenführer",
@@ -8552,12 +8636,12 @@
         "women_name": "Spirituelles Schild"
     },
     "start_trek_chest": {
-        "name": "",
-        "women_name": ""
+        "name": "Kiste für Neulinge",
+        "women_name": "Kiste für Neulinge"
     },
     "start_trek_treasure_gen_mini": {
-        "name": "",
-        "women_name": ""
+        "name": "Weisheitstruhe",
+        "women_name": "Truhe der Weisheit"
     },
     "stateless": {
         "name": "Staatenloser",
@@ -8859,6 +8943,14 @@
         "name": "Reisender",
         "women_name": "Reisende"
     },
+    "tokenless": {
+        "name": "Ohne Jetons",
+        "women_name": "Ohne Jetons"
+    },
+    "treasure_chiang": {
+        "name": "",
+        "women_name": ""
+    },
     "treedesigner": {
         "name": "Segensfestbaumschmücker",
         "women_name": "Segensfestbaumschmückerin"
@@ -8971,6 +9063,10 @@
         "name": "Unbekannter",
         "women_name": "Unbekannte"
     },
+    "unlucky": {
+        "name": "Pechvogel",
+        "women_name": "Pechvogel"
+    },
     "vagabond_taciturne": {
         "name": "Schweigsamer Vagabund",
         "women_name": "Schweigsamer Vagabund"
@@ -8980,8 +9076,8 @@
         "women_name": "Veteran Guide"
     },
     "viscount_of_avalae": {
-        "name": "Viscount of Avalae",
-        "women_name": "Viscount of Avalae"
+        "name": "Statthalter von Avalae",
+        "women_name": "Statthalter von Avalae"
     },
     "warlock": {
         "name": "Hexenmeister",
@@ -9064,8 +9160,8 @@
         "women_name": "Zoraï-Waffenschmiedelehrling"
     },
     "zoraiambassador": {
-        "name": "Zoraï-Botschafter",
-        "women_name": "Zoraï-Botschafterin"
+        "name": "Botschafter der Zoraï",
+        "women_name": "Botschafterin der Zoraï"
     },
     "zoraibutcher": {
         "name": "Zoraï-Mörder",

@@ -516,7 +516,7 @@
         "name": "City Welcomer"
     },
     "fct_civil": {
-        "name": ""
+        "name": "(Citizen)"
     },
     "fct_consumable_merchant": {
         "name": " (Consumable merchant)"
@@ -6324,7 +6324,7 @@
         "name": "Do not show this warning again."
     },
     "uibgd_download": {
-        "name": ""
+        "name": "Download"
     },
     "uibgd_downloaderdisconnected": {
         "name": "Ryzom Downloader stopped, please restart Ryzom."
@@ -7899,7 +7899,7 @@
         "name": "FACE"
     },
     "uicp_menu_5": {
-        "name": "ACTIONS"
+        "name": "BACKGROUND"
     },
     "uicp_name_cancel": {
         "name": "CANCEL"
@@ -8242,6 +8242,9 @@
     },
     "uidefnightcol": {
         "name": "Define Nighttime UI Color"
+    },
+    "uideftooltipcolor": {
+        "name": "Define Tooltip Background Color"
     },
     "uidelchar": {
         "name": "DELETE THIS CHARACTER?"
@@ -10593,7 +10596,7 @@
         "name": "Help"
     },
     "uihelpauradisabled": {
-        "name": "\n\nThis aura is disabled.\nYou may be out of the area, or you may need to wait some time to be affected again by this aura."
+        "name": "This aura is disabled.\nYou may be out of the area, or you may need to wait some time to be affected again by this aura."
     },
     "uihelpbrickcombatskillseparator": {
         "name": "@{FFF9} or\n@{T8}@{FFFF}"
@@ -10845,7 +10848,7 @@
         "name": "@{FFF9}@{HuittActionSuccessRateSH}Success Rate@{H} In Prime Roots:@{T16}@{FFFF}%suc_prime\n"
     },
     "uihelpphraseheaderbricks": {
-        "name": " "
+        "name": " @{FFFF}--- Stanzas ---"
     },
     "uihelpphrasemagicformat": {
         "name": "@{FFF9}Action Name:@{T14}@{FFFF}%name\n@{FFF9}Action Cost:@{T14}@{FFFF}%cost\n@{FFF9}Action Credit:@{T14}@{FFFF}%credit\n@{FFF9}@{HuittActionSpellLevel}Spell Level:@{H}@{T14}@{FFFF}%mglvl\n%magicresist\n%compostart@{FFF9}@{HuittActionSuccessRateSM}Success Rate:@{H}@{T16}@{FFFF}%success%\n@{FFF9}Cast Duration:@{T16}@{FFFF}%duration sec.\n@{FFF9}Sap Cost:@{T16}@{FFFF}%energy_cost\n@{FFF9}HP Cost:@{T16}@{FFFF}%hp_cost\n@{FFF9}Range:@{T16}@{FFFF}%range\n@{FFFF}%desc%req"
@@ -11001,10 +11004,13 @@
         "name": "Holeth"
     },
     "uihome": {
-        "name": "HOME"
+        "name": "Home"
     },
     "uihorizontal": {
         "name": "Horizontal"
+    },
+    "uihotbartitle": {
+        "name": "POCKETS"
     },
     "uihp": {
         "name": "HP"
@@ -13487,6 +13493,9 @@
     "uimk_system1": {
         "name": "Configuration"
     },
+    "uimk_system1_short": {
+        "name": "Config."
+    },
     "uimk_system2": {
         "name": "Keys"
     },
@@ -14169,7 +14178,7 @@
         "name": "TEAM"
     },
     "uimwtell": {
-        "name": "TELL"
+        "name": "Tell"
     },
     "uimwtracking": {
         "name": "TRACKING"
@@ -16961,6 +16970,9 @@
     "uiskiptryton": {
         "name": "Skip Intro"
     },
+    "uislotnumber": {
+        "name": "Slot Number"
+    },
     "uisnowy": {
         "name": "Snowy"
     },
@@ -17553,28 +17565,28 @@
         "name": "Test!"
     },
     "uitextcommand1": {
-        "name": ""
+        "name": "*The Conquest of Nexus*"
     },
     "uitextcommand2": {
-        "name": ""
+        "name": "Forty years had passed since the outposts were closed. At these sites, the Nexus that existed in the depths of Atys was once being exploited."
     },
     "uitextcommand3": {
-        "name": ""
+        "name": "As the new temples welcomed the homins, the representatives of the deities announced that the time had come to reclaim the outposts: their resources had become a stake in the war between the Powers."
     },
     "uitextcommand4": {
-        "name": ""
+        "name": "From the Chronicles of Erlan"
     },
     "uitextcommandft1": {
-        "name": ""
+        "name": "* FT FT The Conquest of Nexus*"
     },
     "uitextcommandft2": {
-        "name": ""
+        "name": " FT FT Forty years had passed since the outposts were closed. At these sites, the Nexus that existed in the depths of Atys was once being exploited."
     },
     "uitextcommandft3": {
-        "name": ""
+        "name": " FT FT As the new temples welcomed the homins, the representatives of their deities announced that the time had come to reclaim the outposts: their resources had become a stake in the war between the Powers."
     },
     "uitextcommandft4": {
-        "name": ""
+        "name": " FT FT From the Chronicles of Erlan"
     },
     "uitexthelpselecteffectbrick": {
         "name": "<- Click to select EFFECT "
@@ -17773,6 +17785,12 @@
     },
     "uitool": {
         "name": "TOOL"
+    },
+    "uitooltipcolor": {
+        "name": "Background Color"
+    },
+    "uitooltipopacity": {
+        "name": "Tooltip Opacity"
     },
     "uitorso": {
         "name": "TORSO"
@@ -18595,6 +18613,24 @@
     },
     "uitthelmet": {
         "name": "Helmet"
+    },
+    "uitthotbaritem": {
+        "name": "Pockets"
+    },
+    "uitthotbaritem1": {
+        "name": "Pocket #1"
+    },
+    "uitthotbaritem2": {
+        "name": "Pocket #2"
+    },
+    "uitthotbaritem3": {
+        "name": "Pocket #3"
+    },
+    "uitthotbaritem4": {
+        "name": "Pocket #4"
+    },
+    "uitthotbaritem5": {
+        "name": "Pocket #5"
     },
     "uitthours": {
         "name": " hour(s) "
@@ -19694,6 +19730,9 @@
     "uiuseeax": {
         "name": "Use EAX"
     },
+    "uiusehotbaritem": {
+        "name": "Use pocket"
+    },
     "uiuseitem": {
         "name": "Use Item"
     },
@@ -19920,7 +19959,7 @@
         "name": "@{6F6F}Wisdom@{FFFF},\nis a measure of mental control. Wisdom is essential for any that wish to use Magic."
     },
     "uiwisdomchest": {
-        "name": ""
+        "name": "Chest of Wisdom"
     },
     "uiwishmax": {
         "name": "Focus Max"

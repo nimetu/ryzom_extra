@@ -9005,5 +9005,77 @@
         "extra": {
             "m0833dxacc01.sitem": 1
         }
+    },
+    "bcwacp_mark1": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpCR": 15,
+            "mpftMpRI": 3,
+            "mpftMpRE": 1,
+            "mpftMpAT": 9
+        },
+        "extra": {
+            "compo_mark1.sitem": 10
+        }
+    },
+    "bcwacp_mark1_2": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpCR": 7,
+            "mpftMpRI": 2,
+            "mpftMpRE": 13,
+            "mpftMpAT": 16
+        },
+        "extra": {
+            "compo_mark2.sitem": 10
+        }
+    },
+    "bcwacp_mark1_3": {
+        "item_type": 26,
+        "mpft": {
+            "mpftMpCR": 13,
+            "mpftMpRI": 11,
+            "mpftMpRE": 9,
+            "mpftMpAT": 15
+        },
+        "extra": {
+            "compo_mark3.sitem": 10
+        }
+    },
+    "bccwm1pd_mark1": {
+        "item_type": 0,
+        "mpft": {
+            "mpftMpL": 5,
+            "mpftMpM": 3,
+            "mpftMpG": 5,
+            "mpftMpC": 7
+        },
+        "extra": {
+            "compo_weapon_mark1.sitem": 10
+        }
+    },
+    "bccwm1ss_mark1": {
+        "item_type": 1,
+        "mpft": {
+            "mpftMpL": 5,
+            "mpftMpM": 9,
+            "mpftMpG": 2,
+            "mpftMpC": 9
+        },
+        "extra": {
+            "compo_weapon_mark1.sitem": 10
+        }
+    },
+    "bccwm2ss_mark1": {
+        "item_type": 6,
+        "mpft": {
+            "mpftMpL": 9,
+            "mpftMpM": 8,
+            "mpftMpG": 6,
+            "mpftMpC": 7
+        },
+        "extra": {
+            "compo_weapon_mark1.sitem": 10
+        }
     }
 }

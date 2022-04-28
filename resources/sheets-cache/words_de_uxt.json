@@ -8243,6 +8243,9 @@
     "uidefnightcol": {
         "name": "Nachtfarbe bestimmen"
     },
+    "uideftooltipcolor": {
+        "name": ""
+    },
     "uidelchar": {
         "name": "DIESEN CHARAKTER LÖSCHEN?"
     },
@@ -11006,6 +11009,9 @@
     "uihorizontal": {
         "name": "Horizontal"
     },
+    "uihotbartitle": {
+        "name": ""
+    },
     "uihp": {
         "name": "Leben"
     },
@@ -13485,7 +13491,10 @@
         "name": "STEHEN"
     },
     "uimk_system1": {
-        "name": "Konfiguration"
+        "name": "Configuration"
+    },
+    "uimk_system1_short": {
+        "name": "Config."
     },
     "uimk_system2": {
         "name": "Tastenbelegung"
@@ -16955,6 +16964,9 @@
     "uiskiptryton": {
         "name": "Intro beenden"
     },
+    "uislotnumber": {
+        "name": ""
+    },
     "uisnowy": {
         "name": "verschneit"
     },
@@ -17767,6 +17779,12 @@
     },
     "uitool": {
         "name": "WERKZEUG"
+    },
+    "uitooltipcolor": {
+        "name": ""
+    },
+    "uitooltipopacity": {
+        "name": ""
     },
     "uitorso": {
         "name": "TORSO"
@@ -18589,6 +18607,24 @@
     },
     "uitthelmet": {
         "name": "Helm"
+    },
+    "uitthotbaritem": {
+        "name": ""
+    },
+    "uitthotbaritem1": {
+        "name": ""
+    },
+    "uitthotbaritem2": {
+        "name": ""
+    },
+    "uitthotbaritem3": {
+        "name": ""
+    },
+    "uitthotbaritem4": {
+        "name": ""
+    },
+    "uitthotbaritem5": {
+        "name": ""
     },
     "uitthours": {
         "name": " Stunde(n) "
@@ -19687,6 +19723,9 @@
     },
     "uiuseeax": {
         "name": "EAX nutzen"
+    },
+    "uiusehotbaritem": {
+        "name": ""
     },
     "uiuseitem": {
         "name": "Nutze Gegenstand"

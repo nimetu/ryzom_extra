@@ -347,6 +347,10 @@
         "name": "Warrior of the Shadows",
         "women_name": "Warrior of the Shadows"
     },
+    "commandant": {
+        "name": "Командир",
+        "women_name": "Командир"
+    },
     "corsaire_dechu_coffer": {
         "name": "Сундук корсаров",
         "women_name": ""
@@ -407,6 +411,10 @@
         "name": "Нарушитель спокойствия",
         "women_name": ""
     },
+    "dreamer": {
+        "name": "Колесо джекпота мечтателя",
+        "women_name": "Колесо джекпота мечтателя"
+    },
     "eboulis": {
         "name": "Эбулис",
         "women_name": ""
@@ -462,6 +470,10 @@
     "esteemedcitizen": {
         "name": "Esteemed Tryker Citizen",
         "women_name": "Esteemed Tryker Citizen"
+    },
+    "eternal_loser": {
+        "name": "Вечный неудачник на колесе",
+        "women_name": "Вечная неудачница на колесе"
     },
     "etouffeur_edtincelles_halloween": {
         "name": "Искрогаситель Анлор Винна",
@@ -2130,6 +2142,10 @@
     "g": {
         "name": "Проводник",
         "women_name": "Проводник"
+    },
+    "gain_lover": {
+        "name": "Любовник выгоды",
+        "women_name": "Любовница выгоды"
     },
     "ghost": {
         "name": "Призрак",
@@ -7155,6 +7171,10 @@
         "name": "Heretic",
         "women_name": "Heretic"
     },
+    "hogger": {
+        "name": "Сквоттер на колесах",
+        "women_name": "Скваттер колес"
+    },
     "homin": {
         "name": "Хомин",
         "women_name": "Хомин"
@@ -7847,6 +7867,10 @@
         "name": "#pet #player",
         "women_name": ""
     },
+    "pathetic_loser": {
+        "name": "Жалкий неудачник",
+        "women_name": "Жалкая неудачница"
+    },
     "patron_kami": {
         "name": "Patron of the Kami Shrines",
         "women_name": "Patron of the Kami Shrines"
@@ -7855,6 +7879,10 @@
         "name": "Patron of Karavan Shrines",
         "women_name": "Patron of Karavan Shrines"
     },
+    "phobic": {
+        "name": "Аллергия на колесо",
+        "women_name": "Колесо-фобия"
+    },
     "pikeman": {
         "name": "Пикейщик",
         "women_name": "Пикейщик"
@@ -7862,6 +7890,10 @@
     "pistoleer": {
         "name": "Стрелок из пистолета",
         "women_name": "Стрелок из пистолета"
+    },
+    "playername": {
+        "name": "[e]getplayerinfos(name)[\/e]",
+        "women_name": "[e]getplayerinfos(name)[\/e]"
     },
     "precurseurduchaos": {
         "name": "Herald of Chaos",
@@ -7915,6 +7947,10 @@
         "name": "Воин дальнего боя",
         "women_name": ""
     },
+    "ranger_aspirant": {
+        "name": "Аспирант рейнджера",
+        "women_name": ""
+    },
     "ranger_companion": {
         "name": "Ranger Companion",
         "women_name": "Ranger Companion"
@@ -7928,8 +7964,8 @@
         "women_name": "Reflective Zoraï Initiate"
     },
     "refugee": {
-        "name": "Выживший",
-        "women_name": "Выжившая"
+        "name": "Беженец",
+        "women_name": "Беженка"
     },
     "rendors_2614": {
         "name": "Ужас Рендоров - 2614",
@@ -7967,10 +8003,6 @@
         "name": "Ry-Pyk'al",
         "women_name": "Ry-Pyk'al"
     },
-    "ryzomleveldesignmanager": {
-        "name": "Ryzom - Level-Design Manager, Event, Dev-Ark & Graphics - [FR]",
-        "women_name": "Ryzom - Level-Design Manager, Event, Dev-Ark & Graphics - [FR]"
-    },
     "sandcaravanner": {
         "name": "Караванщик песков",
         "women_name": ""
@@ -7990,6 +8022,14 @@
     "seaofblood": {
         "name": "Sea of Blood",
         "women_name": "Sea of Blood"
+    },
+    "second_swarm_reckless_survivor": {
+        "name": "Второй безрассудный рой-выживший",
+        "women_name": "Второй безрассудный рой-выжившая"
+    },
+    "second_swarm_survivor": {
+        "name": "Второй рой-выживший",
+        "women_name": "Второй рой-выжившая"
     },
     "secondbreath": {
         "name": "Второе дыхание",
@@ -8375,6 +8415,14 @@
         "name": "Странник",
         "women_name": "Странница"
     },
+    "tokenless": {
+        "name": "Без токенов",
+        "women_name": "Без токенов"
+    },
+    "treasure_chiang": {
+        "name": "",
+        "women_name": ""
+    },
     "treedesigner": {
         "name": "Атисмас Дизайнер Деревьев",
         "women_name": "Атисмас Дизайнер Деревьев"
@@ -8470,6 +8518,10 @@
     "unknown": {
         "name": "Неизвестный",
         "women_name": ""
+    },
+    "unlucky": {
+        "name": "Невезучий",
+        "women_name": "Невезучая"
     },
     "vagabond_taciturne": {
         "name": "Молчаливый странник",

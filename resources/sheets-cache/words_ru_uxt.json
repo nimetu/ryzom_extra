@@ -5784,7 +5784,7 @@
         "name": "Подробный список"
     },
     "uianimalinbag": {
-        "name": ""
+        "name": "Ваше животное находится в своем инвентаре"
     },
     "uianimalinstable": {
         "name": "Ваше животное находится в стойле"
@@ -7899,7 +7899,7 @@
         "name": "ЛИЦО"
     },
     "uicp_menu_5": {
-        "name": "СПЕЦИАЛИЗАЦИЯ"
+        "name": "ИСТОРИЯ"
     },
     "uicp_name_cancel": {
         "name": "ОТМЕНА"
@@ -8242,6 +8242,9 @@
     },
     "uidefnightcol": {
         "name": "Назначить цвет для ночного времени"
+    },
+    "uideftooltipcolor": {
+        "name": ""
     },
     "uidelchar": {
         "name": "УДАЛИТЬ ПЕРСОНАЖА ?"
@@ -10869,7 +10872,7 @@
         "name": "На себя"
     },
     "uihelpphraserequirementheader": {
-        "name": "\n@{FFFF}--- Требуется --- \n@{FFF9}@{HuittActionSkillPoint}Расход очков умения:@{H}@{T16}@{FFFF}%sp \/ %basesp\n@{FFF9}@{HuittActionSkillReq}Необходимые навыки:@{H}\n"
+        "name": "@{FFFF}--- Требуется --- \n@{FFF9}@{HuittActionSkillPoint}Расход очков умения:@{H}@{T16}@{FFFF}%sp \/ %basesp\n@{FFF9}@{HuittActionSkillReq}Необходимые навыки:@{H}\n"
     },
     "uihelpphraserequirementline": {
         "name": "@{T4}@{FFF9}Навык @{FFFF}%s@{FFF9} уровня @{FFFF}%d\n"
@@ -11001,10 +11004,13 @@
         "name": "Холет"
     },
     "uihome": {
-        "name": "ВЕРНУТЬСЯ"
+        "name": "Вернуться"
     },
     "uihorizontal": {
         "name": "Horizontal"
+    },
+    "uihotbartitle": {
+        "name": ""
     },
     "uihp": {
         "name": "Здоровье"
@@ -11967,7 +11973,7 @@
         "name": "RWIN"
     },
     "uikeys": {
-        "name": "S"
+        "name": "Ключи"
     },
     "uikeysactionstitle": {
         "name": "ДЕЙСТВИЯ"
@@ -12822,7 +12828,7 @@
         "name": "СПЕЦИАЛЬНЫЕ"
     },
     "uimenterbag": {
-        "name": "Enter on the bag"
+        "name": "Войти в сумку"
     },
     "uimenterstable": {
         "name": "Войти в стойло"
@@ -13487,6 +13493,9 @@
     "uimk_system1": {
         "name": "Настройки"
     },
+    "uimk_system1_short": {
+        "name": ""
+    },
     "uimk_system2": {
         "name": "Клавиши"
     },
@@ -13554,7 +13563,7 @@
         "name": "КЛАВИШИ"
     },
     "uimleavebag": {
-        "name": "Leave from the bag"
+        "name": "Выйти из сумки"
     },
     "uimleavestable": {
         "name": "Покинуть стойло"
@@ -15006,7 +15015,7 @@
         "name": "Плювия"
     },
     "uipoints": {
-        "name": "Points:"
+        "name": "Очки:"
     },
     "uipopinwindow": {
         "name": "Свернуть окно"
@@ -15345,7 +15354,7 @@
         "name": "Нейтральные персонажи в PvP"
     },
     "uipvppoints": {
-        "name": "PVP POINTS"
+        "name": "PVP ОЧКИ"
     },
     "uipvptotal": {
         "name": "Total"
@@ -16608,7 +16617,7 @@
         "name": "Save"
     },
     "uisay": {
-        "name": "СКАЗАТЬ"
+        "name": "SAY"
     },
     "uisaycolor": {
         "name": "Сказать"
@@ -16875,7 +16884,7 @@
         "name": "Отображать названия динамических каналов в чате"
     },
     "uishowfullmap": {
-        "name": ""
+        "name": "Переключение полноэкранного режима карты"
     },
     "uishowhide": {
         "name": "Показать \/ Скрыть"
@@ -16960,6 +16969,9 @@
     },
     "uiskiptryton": {
         "name": "Пропустить вступление"
+    },
+    "uislotnumber": {
+        "name": ""
     },
     "uisnowy": {
         "name": "снег"
@@ -17774,6 +17786,12 @@
     "uitool": {
         "name": "ИНСТРУМЕНТЫ"
     },
+    "uitooltipcolor": {
+        "name": ""
+    },
+    "uitooltipopacity": {
+        "name": ""
+    },
     "uitorso": {
         "name": "КОРПУС"
     },
@@ -17997,10 +18015,10 @@
         "name": "Перейти к предыдущей странице помощи"
     },
     "uittbulkexchangegive": {
-        "name": ""
+        "name": "Нагрузка предлагаемых предметов"
     },
     "uittbulkexchangereceive": {
-        "name": ""
+        "name": "Нагрузка предлагаемых предметов"
     },
     "uittbulkformat": {
         "name": "@{6F6F}Нагрузка@{FFFF}: %v\/%m"
@@ -18596,6 +18614,24 @@
     "uitthelmet": {
         "name": "Шлем"
     },
+    "uitthotbaritem": {
+        "name": ""
+    },
+    "uitthotbaritem1": {
+        "name": ""
+    },
+    "uitthotbaritem2": {
+        "name": ""
+    },
+    "uitthotbaritem3": {
+        "name": ""
+    },
+    "uitthotbaritem4": {
+        "name": ""
+    },
+    "uitthotbaritem5": {
+        "name": ""
+    },
     "uitthours": {
         "name": " часов "
     },
@@ -18693,7 +18729,7 @@
         "name": "Определяет интенсивность @{6F6F}восстановления @{FFFF}вашего @{6F6F}Сэпа@{FFFF}"
     },
     "uittinbag": {
-        "name": "The animal is in your bag.\n@{6F6F}Right click @{FFFF}to give an order."
+        "name": "Это животное находится в вашей сумке.\n@{6F6F}Щелкните правой @{FFFF}кнопкой мыши, чтобы отдать приказ."
     },
     "uittincrementrow": {
         "name": "Increment number of row"
@@ -18975,7 +19011,7 @@
         "name": "Ваши навыки дальнего боя изменились на %modifier единиц"
     },
     "uittmoneytradeoffer": {
-        "name": ""
+        "name": "Предлагаемая сумма"
     },
     "uittmoreinfo": {
         "name": "подробнее"
@@ -19590,10 +19626,10 @@
         "name": "Режим ходьбы"
     },
     "uittweightexchangegive": {
-        "name": ""
+        "name": "Вес предлагаемых предметов"
     },
     "uittweightexchangereceive": {
-        "name": ""
+        "name": "Вес предлагаемых предметов"
     },
     "uittwontbuythis": {
         "name": "Я не буду это покупать."
@@ -19693,6 +19729,9 @@
     },
     "uiuseeax": {
         "name": "Использовать EAX"
+    },
+    "uiusehotbaritem": {
+        "name": ""
     },
     "uiuseitem": {
         "name": ""

@@ -144490,5 +144490,278 @@
             "back": "bk_generic.png"
         },
         "txt": "TORBAK"
+    },
+    "zig_capryni": {
+        "sheetid": "zig_capryni",
+        "type": 31,
+        "item_type": 56,
+        "race": 4,
+        "quality": 0,
+        "bulk": 0,
+        "icon": {
+            "main": "spe_beast.png",
+            "back": "bk_generic.png"
+        }
+    },
+    "icwacp_mark1": {
+        "sheetid": "icwacp_mark1",
+        "type": 2,
+        "item_type": 26,
+        "race": 6,
+        "quality": 0,
+        "bulk": 7,
+        "icon": {
+            "main": "ar_pantabotte.png",
+            "back": "bk_event.png",
+            "over": "pw_light.png"
+        },
+        "craftplan": "bcwacp_mark1"
+    },
+    "icwacp_mark1_2": {
+        "sheetid": "icwacp_mark1_2",
+        "type": 2,
+        "item_type": 26,
+        "race": 6,
+        "quality": 1,
+        "bulk": 7,
+        "icon": {
+            "main": "ar_pantabotte.png",
+            "back": "bk_event.png",
+            "over": "pw_light.png"
+        },
+        "craftplan": "bcwacp_mark1_2"
+    },
+    "icwacp_mark1_3": {
+        "sheetid": "icwacp_mark1_3",
+        "type": 2,
+        "item_type": 26,
+        "race": 6,
+        "quality": 2,
+        "bulk": 7,
+        "icon": {
+            "main": "ar_pantabotte.png",
+            "back": "bk_event.png",
+            "over": "pw_light.png"
+        },
+        "craftplan": "bcwacp_mark1_3"
+    },
+    "icwm1pd_mark1": {
+        "sheetid": "icwm1pd_mark1",
+        "type": 3,
+        "item_type": 0,
+        "race": 6,
+        "quality": 0,
+        "bulk": 5,
+        "icon": {
+            "main": "mw_dagger.png",
+            "back": "bk_generic.png"
+        },
+        "craftplan": "bccwm1pd_mark1",
+        "skill": "sfmcadm",
+        "damage": 1,
+        "reach": 0
+    },
+    "icwm1ss_mark1": {
+        "sheetid": "icwm1ss_mark1",
+        "type": 3,
+        "item_type": 1,
+        "race": 6,
+        "quality": 0,
+        "bulk": 10,
+        "icon": {
+            "main": "mw_sword.png",
+            "back": "bk_generic.png"
+        },
+        "craftplan": "bccwm1ss_mark1",
+        "skill": "sfm1ssm",
+        "damage": 0,
+        "reach": 5
+    },
+    "icwm2ss_mark1": {
+        "sheetid": "icwm2ss_mark1",
+        "type": 3,
+        "item_type": 6,
+        "race": 6,
+        "quality": 0,
+        "bulk": 15,
+        "icon": {
+            "main": "mw_2h_sword.png",
+            "back": "bk_generic.png"
+        },
+        "craftplan": "bccwm2ss_mark1",
+        "skill": "sfm2ssm",
+        "damage": 0,
+        "reach": 10
+    },
+    "white_secretions": {
+        "sheetid": "white_secretions",
+        "type": 28,
+        "item_type": 68,
+        "race": 0,
+        "quality": 0,
+        "bulk": 0,
+        "icon": {
+            "main": "white_secretions.png",
+            "back": "bk_event.png"
+        },
+        "txt": "SECRET"
+    },
+    "compo_mark1": {
+        "sheetid": "compo_mark1",
+        "type": 6,
+        "item_type": 68,
+        "bulk": 0.5,
+        "icon": {
+            "main": "conso_branche.png",
+            "back": "bk_generic.png",
+            "over": "conso_branche_mask.png"
+        },
+        "icon_color": {
+            "over": -10172316
+        },
+        "txt": "MARK",
+        "ecosystem": 0,
+        "grade": 35,
+        "mpft": "0",
+        "color": 1,
+        "is_looted": -1,
+        "is_mission": 0,
+        "index": 835
+    },
+    "compo_mark2": {
+        "sheetid": "compo_mark2",
+        "type": 6,
+        "item_type": 68,
+        "bulk": 0.5,
+        "icon": {
+            "main": "conso_branche.png",
+            "back": "bk_generic.png",
+            "over": "conso_branche_mask.png"
+        },
+        "icon_color": {
+            "over": -3644316
+        },
+        "txt": "MARK",
+        "ecosystem": 0,
+        "grade": 35,
+        "mpft": "0",
+        "color": 1,
+        "is_looted": -1,
+        "is_mission": 0,
+        "index": 835
+    },
+    "compo_mark3": {
+        "sheetid": "compo_mark3",
+        "type": 6,
+        "item_type": 68,
+        "bulk": 0.5,
+        "icon": {
+            "main": "conso_branche.png",
+            "back": "bk_generic.png",
+            "over": "conso_branche_mask.png"
+        },
+        "icon_color": {
+            "over": -10197816
+        },
+        "txt": "MARK",
+        "ecosystem": 0,
+        "grade": 35,
+        "mpft": "0",
+        "color": 1,
+        "is_looted": -1,
+        "is_mission": 0,
+        "index": 835
+    },
+    "compo_weapon_mark1": {
+        "sheetid": "compo_weapon_mark1",
+        "type": 6,
+        "item_type": 68,
+        "bulk": 0.5,
+        "icon": {
+            "main": "conso_branche.png",
+            "back": "bk_generic.png",
+            "over": "conso_branche_mask.png"
+        },
+        "icon_color": {
+            "over": -10172216
+        },
+        "txt": "MARK",
+        "ecosystem": 0,
+        "grade": 35,
+        "mpft": "0",
+        "color": 1,
+        "is_looted": -1,
+        "is_mission": 0,
+        "index": 835
+    },
+    "compo_weapon_mark2": {
+        "sheetid": "compo_weapon_mark2",
+        "type": 6,
+        "item_type": 68,
+        "bulk": 0.5,
+        "icon": {
+            "main": "conso_branche.png",
+            "back": "bk_generic.png",
+            "over": "conso_branche_mask.png"
+        },
+        "icon_color": {
+            "over": -3618716
+        },
+        "txt": "MARK",
+        "ecosystem": 0,
+        "grade": 35,
+        "mpft": "0",
+        "color": 1,
+        "is_looted": -1,
+        "is_mission": 0,
+        "index": 835
+    },
+    "compo_weapon_mark3": {
+        "sheetid": "compo_weapon_mark3",
+        "type": 6,
+        "item_type": 68,
+        "bulk": 0.5,
+        "icon": {
+            "main": "conso_branche.png",
+            "back": "bk_generic.png",
+            "over": "conso_branche_mask.png"
+        },
+        "icon_color": {
+            "over": -3644216
+        },
+        "txt": "MARK",
+        "ecosystem": 0,
+        "grade": 35,
+        "mpft": "0",
+        "color": 1,
+        "is_looted": -1,
+        "is_mission": 0,
+        "index": 835
+    },
+    "ixpca03": {
+        "sheetid": "ixpca03",
+        "type": 36,
+        "item_type": 68,
+        "race": 0,
+        "quality": 0,
+        "bulk": 0.01,
+        "icon": {
+            "main": "ico_cataliseur_xp.png",
+            "back": "bk_generic.png"
+        },
+        "txt": "x3"
+    },
+    "ixpca04": {
+        "sheetid": "ixpca04",
+        "type": 36,
+        "item_type": 68,
+        "race": 0,
+        "quality": 0,
+        "bulk": 0.01,
+        "icon": {
+            "main": "ico_cataliseur_xp.png",
+            "back": "bk_outpost.png"
+        },
+        "txt": "x4"
     }
 }

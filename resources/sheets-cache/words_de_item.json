@@ -4812,11 +4812,11 @@
         "description": ""
     },
     "heavy_conch": {
-        "name": "schwere Muschelschale",
-        "named": "schwere Muschelschale",
-        "nameda": "schwere Muschelschale",
-        "p": "schwere Muschelschalen",
-        "pd": "schweren Muschelschalen",
+        "name": "schwere Muschel",
+        "named": "schwere Muschel",
+        "nameda": "schwere Muschel",
+        "p": "schwere Muschel",
+        "pd": "schweren Muschel",
         "pia": "eine",
         "pda": "die",
         "ia": "eine",
@@ -4845,7 +4845,19 @@
         "pda": "der",
         "ia": "einen",
         "da": "die",
-        "description": "relativ langsames Tier, das nur tragen und folgen, aber nicht geritten werden kann"
+        "description": ""
+    },
+    "iaad2": {
+        "name": "Zig-Frippo",
+        "named": "Zig-Frippo",
+        "nameda": "Zig-Frippo",
+        "p": "Zigs-Frippo",
+        "pd": "Zigs-Frippo",
+        "pia": "ein",
+        "pda": "die",
+        "ia": "eine",
+        "da": "die",
+        "description": ""
     },
     "iadc": {
         "name": "Mektoub-Packtier",
@@ -16187,6 +16199,66 @@
         "da": "das",
         "description": "Schild in hoher Qualität"
     },
+    "icwacp_mark1": {
+        "name": "Muse-Lam",
+        "named": "Muse-Lam",
+        "nameda": "Muse-Lam",
+        "p": "Muse-Lam",
+        "pd": "Muse-Lam",
+        "pia": "Muse-Lam",
+        "pda": "die",
+        "ia": "eine",
+        "da": "der",
+        "description": ""
+    },
+    "icwacp_mark1_2": {
+        "name": "Muse-Mam",
+        "named": "Muse-Mam",
+        "nameda": "Muse-Mam",
+        "p": "Muse-Mam",
+        "pd": "Muse-Mam",
+        "pia": "Muse-Mam",
+        "pda": "die",
+        "ia": "eine",
+        "da": "der",
+        "description": ""
+    },
+    "icwacp_mark1_3": {
+        "name": "Muse-Ham",
+        "named": "Muse-Ham",
+        "nameda": "Muse-Ham",
+        "p": "Muse-Ham",
+        "pd": "Muse-Ham",
+        "pia": "Muse-Ham",
+        "pda": "die",
+        "ia": "eine",
+        "da": "der",
+        "description": ""
+    },
+    "icwm1pd_mark1": {
+        "name": "Rizys I",
+        "named": "Rizys I",
+        "nameda": "Rizys I",
+        "p": "Rizys I",
+        "pd": "Rizys I",
+        "pia": "Rizys I",
+        "pda": "die",
+        "ia": "eine",
+        "da": "die",
+        "description": ""
+    },
+    "icwm1ss_mark1": {
+        "name": "Dex I",
+        "named": "Dex I",
+        "nameda": "Dex I",
+        "p": "Dex I",
+        "pd": "Dex I",
+        "pia": "Dex I",
+        "pda": "die",
+        "ia": "eine",
+        "da": "die",
+        "description": ""
+    },
     "iczacb": {
         "name": "Lin-ko-Stiefel",
         "named": "Lin-ko-Stiefel",
@@ -20059,9 +20131,9 @@
         "pd": "Erfahrungskatalysatoren",
         "pia": "einen",
         "pda": "die",
-        "ia": "ein",
-        "da": "der",
-        "description": "Erfahrungsverdoppelung nur für kostenlose Test-Accounts und nur für Aktionen bis zur angegebenen Stufe. Kristalle müssen dazu aktiviert werden (im Inventar). Bei jeder Aktion werden dann einige verbraucht und die Erfahrung verdoppelt"
+        "ia": "eine",
+        "da": "die",
+        "description": ""
     },
     "ixpca02": {
         "name": "Erfahrungskatalysator",
@@ -20071,9 +20143,33 @@
         "pd": "Erfahrungskatalysatoren",
         "pia": "einen",
         "pda": "die",
-        "ia": "ein",
-        "da": "der",
-        "description": "Erfahrungsverdoppelung nur für kostenlose Test-Accounts und nur für Aktionen bis zur angegebenen Stufe. Kristalle müssen dazu aktiviert werden (im Inventar). Bei jeder Aktion werden dann einige verbraucht und die Erfahrung verdoppelt"
+        "ia": "eine",
+        "da": "die",
+        "description": ""
+    },
+    "ixpca03": {
+        "name": "Erfahrungskatalysator (x3)",
+        "named": "Erfahrungskatalysator (x3)",
+        "nameda": "Erfahrungskatalysator (x3)",
+        "p": "Erfahrungskatalysatoren (x3)",
+        "pd": "Erfahrungskatalysatoren (x3)",
+        "pia": "einen",
+        "pda": "die",
+        "ia": "eine",
+        "da": "die",
+        "description": ""
+    },
+    "ixpca04": {
+        "name": "Erfahrungskatalysator (x4)",
+        "named": "Erfahrungskatalysator (x4)",
+        "nameda": "Erfahrungskatalysator (x4)",
+        "p": "Erfahrungskatalysatoren (x4)",
+        "pd": "Erfahrungskatalysatoren (x4)",
+        "pia": "einen",
+        "pda": "die",
+        "ia": "eine",
+        "da": "die",
+        "description": ""
     },
     "ka_cheveux_medium01": {
         "name": "mittellanger Kamisten-Haarschnitt",
@@ -26375,6 +26471,18 @@
         "da": "die",
         "description": ""
     },
+    "m0086chhde01": {
+        "name": "Erhabenes Mektoub-Hautstück, Wüstentyp",
+        "named": "Erhabene Mektoub-Hautstück, Wüstentyp",
+        "nameda": "Erhabene Mektoub-Hautstück, Wüstentyp",
+        "p": "Erhabene Mektoub-Hautstücke, Wüstentyp",
+        "pd": "Erhabenen Mektoub-Hautstücke, Wüstentyp",
+        "pia": "eine",
+        "pda": "die",
+        "ia": "ein",
+        "da": "die",
+        "description": ""
+    },
     "m0086chhfc01": {
         "name": "Vorzügliches Mektoub-Hautstück, Waldtyp",
         "named": "Vorzügliche Mektoub-Hautstück, Waldtyp",
@@ -26387,12 +26495,48 @@
         "da": "die",
         "description": ""
     },
+    "m0086chhfe01": {
+        "name": "Erhabenes Mektoub-Hautstück, Waldtyp",
+        "named": "Erhabene Mektoub-Hautstück, Waldtyp",
+        "nameda": "Erhabene Mektoub-Hautstück, Waldtyp",
+        "p": "Erhabene Mektoub-Hautstücke, Waldtyp",
+        "pd": "Erhabenen Mektoub-Hautstücke, Waldtyp",
+        "pia": "eine",
+        "pda": "die",
+        "ia": "ein",
+        "da": "die",
+        "description": ""
+    },
+    "m0086chhje01": {
+        "name": "Erhabenes Mektoub-Hautstück, Dschungeltyp",
+        "named": "Erhabene Mektoub-Hautstück, Dschungeltyp",
+        "nameda": "Erhabene Mektoub-Hautstück, Dschungeltyp",
+        "p": "Erhabene Mektoub-Hautstücke, Dschungeltyp",
+        "pd": "Erhabenen Mektoub-Hautstücke, Dschungeltyp",
+        "pia": "eine",
+        "pda": "die",
+        "ia": "ein",
+        "da": "die",
+        "description": ""
+    },
     "m0086chhld01": {
         "name": "Exzellentes Mektoub-Hautstück, Seenlandtyp",
         "named": "Exzellente Mektoub-Hautstück, Seenlandtyp",
         "nameda": "Exzellente Mektoub-Hautstück, Seenlandtyp",
         "p": "Exzellente Mektoub-Hautstücke, Seenlandtyp",
         "pd": "Exzellenten Mektoub-Hautstücke, Seenlandtyp",
+        "pia": "eine",
+        "pda": "die",
+        "ia": "ein",
+        "da": "die",
+        "description": ""
+    },
+    "m0086chhle01": {
+        "name": "Erhabenes Mektoub-Hautstück, Seenlandtyp",
+        "named": "Erhabene Mektoub-Hautstück, Seenlandtyp",
+        "nameda": "Erhabene Mektoub-Hautstück, Seenlandtyp",
+        "p": "Erhabene Mektoub-Hautstücke, Seenlandtyp",
+        "pd": "Erhabenen Mektoub-Hautstücke, Seenlandtyp",
         "pia": "eine",
         "pda": "die",
         "ia": "ein",
@@ -26555,6 +26699,18 @@
         "da": "der",
         "description": ""
     },
+    "m0087chhde01": {
+        "name": "Erhabener Mektoub-Rüssel, Wüstentyp",
+        "named": "Erhabene Mektoub-Rüssel, Wüstentyp",
+        "nameda": "Erhabene Mektoub-Rüssel, Wüstentypn",
+        "p": "Erhabene Mektoub-Rüsselfragmente, Wüstentyp",
+        "pd": "Erhabenen Mektoub-Rüsselfragmente, Wüstentyp",
+        "pia": "einen",
+        "pda": "die",
+        "ia": "ein",
+        "da": "der",
+        "description": ""
+    },
     "m0087chhfc01": {
         "name": "Vorzüglicher Mektoub-Rüssel, Waldtyp",
         "named": "Vorzügliche Mektoub-Rüssel, Waldtyp",
@@ -26567,12 +26723,48 @@
         "da": "der",
         "description": ""
     },
+    "m0087chhfe01": {
+        "name": "Erhabener Mektoub-Rüssel, Waldtyp",
+        "named": "Erhabene Mektoub-Rüssel, Waldtyp",
+        "nameda": "Erhabene Mektoub-Rüssel, Waldtypn",
+        "p": "Erhabene Mektoub-Rüsselfragmente, Waldtyp",
+        "pd": "Erhabenen Mektoub-Rüsselfragmente, Waldtyp",
+        "pia": "einen",
+        "pda": "die",
+        "ia": "ein",
+        "da": "der",
+        "description": ""
+    },
+    "m0087chhje01": {
+        "name": "Erhabener Mektoub-Rüssel, Dschungeltyp",
+        "named": "Erhabene Mektoub-Rüssel, Dschungeltyp",
+        "nameda": "Erhabene Mektoub-Rüssel, Dschungeltypn",
+        "p": "Erhabene Mektoub-Rüsselfragmente, Dschungeltyp",
+        "pd": "Erhabenen Mektoub-Rüsselfragmente, Dschungeltyp",
+        "pia": "einen",
+        "pda": "die",
+        "ia": "ein",
+        "da": "der",
+        "description": ""
+    },
     "m0087chhld01": {
         "name": "Exzellenter Mektoub-Rüssel, Seenlandtyp",
         "named": "Exzellente Mektoub-Rüssel, Seenlandtyp",
         "nameda": "Exzellenten Mektoub-Rüssel, Seenlandtyp",
         "p": "Exzellente Mektoub-Rüsselfragmente, Seenlandtyp",
         "pd": "Exzellenten Mektoub-Rüsselfragmente, Seenlandtyp",
+        "pia": "einen",
+        "pda": "die",
+        "ia": "ein",
+        "da": "der",
+        "description": ""
+    },
+    "m0087chhle01": {
+        "name": "Erhabener Mektoub-Rüssel, Seenlandtyp",
+        "named": "Erhabene Mektoub-Rüssel, Seenlandtyp",
+        "nameda": "Erhabene Mektoub-Rüssel, Seenlandtypn",
+        "p": "Erhabene Mektoub-Rüsselfragmente, Seenlandtyp",
+        "pd": "Erhabenen Mektoub-Rüsselfragmente, Seenlandtyp",
         "pia": "einen",
         "pda": "die",
         "ia": "ein",
@@ -39359,12 +39551,36 @@
         "da": "die",
         "description": "entspricht erhabener Qualität"
     },
+    "m0263chhdb01": {
+        "name": "Normales Mektoub-Fleischstück, Wüstentyp",
+        "named": "Normale Mektoub-Fleischstück, Wüstentyp",
+        "nameda": "Normale Mektoub-Fleischstück, Wüstentyp",
+        "p": "Normale Mektoub-Fleischstücke, Wüstentyp",
+        "pd": "Normalen Mektoub-Fleischstücke, Wüstentyp",
+        "pia": "ein",
+        "pda": "die",
+        "ia": "ein",
+        "da": "das",
+        "description": ""
+    },
     "m0263chhdd01": {
         "name": "Auserwähltes Mektoub-Fleischstück, Wüstentyp",
         "named": "Auserwählte Mektoub-Fleischstück, Wüstentyp",
         "nameda": "Auserwählte Mektoub-Fleischstück, Wüstentyp",
         "p": "Auserwählte Mektoub-Fleischstücke, Wüstentyp",
         "pd": "Auserwählten Mektoub-Fleischstücke, Wüstentyp",
+        "pia": "ein",
+        "pda": "die",
+        "ia": "ein",
+        "da": "das",
+        "description": ""
+    },
+    "m0263chhfb01": {
+        "name": "Normales Mektoub-Fleischstück, Waldtyp",
+        "named": "Normale Mektoub-Fleischstück, Waldtyp",
+        "nameda": "Normale Mektoub-Fleischstück, Waldtyp",
+        "p": "Normale Mektoub-Fleischstücke, Waldtyp",
+        "pd": "Normalen Mektoub-Fleischstücke, Waldtyp",
         "pia": "ein",
         "pda": "die",
         "ia": "ein",
@@ -39413,6 +39629,18 @@
         "nameda": "Normale Mektoub-Fleischstück, Dschungeltyp",
         "p": "Normale Mektoub-Fleischstücke, Dschungeltyp",
         "pd": "Normalen Mektoub-Fleischstücke, Dschungeltyp",
+        "pia": "ein",
+        "pda": "die",
+        "ia": "ein",
+        "da": "das",
+        "description": ""
+    },
+    "m0263chhlb01": {
+        "name": "Normales Mektoub-Fleischstück, Seenlandtyp",
+        "named": "Normale Mektoub-Fleischstück, Seenlandtyp",
+        "nameda": "Normale Mektoub-Fleischstück, Seenlandtyp",
+        "p": "Normale Mektoub-Fleischstücke, Seenlandtyp",
+        "pd": "Normalen Mektoub-Fleischstücke, Seenlandtyp",
         "pia": "ein",
         "pda": "die",
         "ia": "ein",
@@ -41879,12 +42107,36 @@
         "da": "das",
         "description": ""
     },
+    "m0287chhdb01": {
+        "name": "Normales Mektoub-Blut, Wüstentyp",
+        "named": "Normale Mektoub-Blut, Wüstentyp",
+        "nameda": "Normale Mektoub-Blut, Wüstentyp",
+        "p": "Normale Mektoub-Blutproben, Wüstentyp",
+        "pd": "Normalen Mektoub-Blutproben, Wüstentyp",
+        "pia": "ein",
+        "pda": "die",
+        "ia": "etwas",
+        "da": "das",
+        "description": ""
+    },
     "m0287chhdd01": {
         "name": "Auserwähltes Mektoub-Blut, Wüstentyp",
         "named": "Auserwählte Mektoub-Blut, Wüstentyp",
         "nameda": "Auserwählte Mektoub-Blut, Wüstentyp",
         "p": "Auserwählte Mektoub-Blutproben, Wüstentyp",
         "pd": "Auserwählten Mektoub-Blutproben, Wüstentyp",
+        "pia": "ein",
+        "pda": "die",
+        "ia": "etwas",
+        "da": "das",
+        "description": ""
+    },
+    "m0287chhfb01": {
+        "name": "Normales Mektoub-Blut, Waldtyp",
+        "named": "Normale Mektoub-Blut, Waldtyp",
+        "nameda": "Normale Mektoub-Blut, Waldtyp",
+        "p": "Normale Mektoub-Blutproben, Waldtyp",
+        "pd": "Normalen Mektoub-Blutproben, Waldtyp",
         "pia": "ein",
         "pda": "die",
         "ia": "etwas",
@@ -41933,6 +42185,18 @@
         "nameda": "Normale Mektoub-Blut, Dschungeltyp",
         "p": "Normale Mektoub-Blutproben, Dschungeltyp",
         "pd": "Normalen Mektoub-Blutproben, Dschungeltyp",
+        "pia": "ein",
+        "pda": "die",
+        "ia": "etwas",
+        "da": "das",
+        "description": ""
+    },
+    "m0287chhlb01": {
+        "name": "Normales Mektoub-Blut, Seenlandtyp",
+        "named": "Normale Mektoub-Blut, Seenlandtyp",
+        "nameda": "Normale Mektoub-Blut, Seenlandtyp",
+        "p": "Normale Mektoub-Blutproben, Seenlandtyp",
+        "pd": "Normalen Mektoub-Blutproben, Seenlandtyp",
         "pia": "ein",
         "pda": "die",
         "ia": "etwas",
@@ -44867,12 +45131,36 @@
         "da": "das",
         "description": ""
     },
+    "m0323chhdb01": {
+        "name": "Normales Mektoub-Schädelfragment, Wüstentyp",
+        "named": "Normale Mektoub-Schädelfragment, Wüstentyp",
+        "nameda": "Normale Mektoub-Schädelfragment, Wüstentyp",
+        "p": "Normale Mektoub-Schädelfragmente, Wüstentyp",
+        "pd": "Normalen Mektoub-Schädelfragmente, Wüstentyp",
+        "pia": "ein",
+        "pda": "die",
+        "ia": "ein",
+        "da": "das",
+        "description": ""
+    },
     "m0323chhdd01": {
         "name": "Auserwähltes Mektoub-Schädelfragment, Wüstentyp",
         "named": "Auserwählte Mektoub-Schädelfragment, Wüstentyp",
         "nameda": "Auserwählte Mektoub-Schädelfragment, Wüstentyp",
         "p": "Auserwählte Mektoub-Schädelfragmente, Wüstentyp",
         "pd": "Auserwählten Mektoub-Schädelfragmente, Wüstentyp",
+        "pia": "ein",
+        "pda": "die",
+        "ia": "ein",
+        "da": "das",
+        "description": ""
+    },
+    "m0323chhfb01": {
+        "name": "Normales Mektoub-Schädelfragment, Waldtyp",
+        "named": "Normale Mektoub-Schädelfragment, Waldtyp",
+        "nameda": "Normale Mektoub-Schädelfragment, Waldtyp",
+        "p": "Normale Mektoub-Schädelfragmente, Waldtyp",
+        "pd": "Normalen Mektoub-Schädelfragmente, Waldtyp",
         "pia": "ein",
         "pda": "die",
         "ia": "ein",
@@ -44921,6 +45209,18 @@
         "nameda": "Normale Mektoub-Schädelfragment, Dschungeltyp",
         "p": "Normale Mektoub-Schädelfragmente, Dschungeltyp",
         "pd": "Normalen Mektoub-Schädelfragmente, Dschungeltyp",
+        "pia": "ein",
+        "pda": "die",
+        "ia": "ein",
+        "da": "das",
+        "description": ""
+    },
+    "m0323chhlb01": {
+        "name": "Normales Mektoub-Schädelfragment, Seenlandtyp",
+        "named": "Normale Mektoub-Schädelfragment, Seenlandtyp",
+        "nameda": "Normale Mektoub-Schädelfragment, Seenlandtyp",
+        "p": "Normale Mektoub-Schädelfragmente, Seenlandtyp",
+        "pd": "Normalen Mektoub-Schädelfragmente, Seenlandtyp",
         "pia": "ein",
         "pda": "die",
         "ia": "ein",
@@ -67715,6 +68015,18 @@
         "da": "das",
         "description": ""
     },
+    "m0618chhde01": {
+        "name": "Erhabenes Mektoub-Auge, Wüstentyp",
+        "named": "Erhabene Mektoub-Auge, Wüstentyp",
+        "nameda": "Erhabene Mektoub-Auge, Wüstentyp",
+        "p": "Erhabene Mektoub-Augen, Wüstentyp",
+        "pd": "Erhabenen Mektoub-Augen, Wüstentyp",
+        "pia": "ein",
+        "pda": "die",
+        "ia": "ein",
+        "da": "das",
+        "description": ""
+    },
     "m0618chhfc01": {
         "name": "Vorzügliches Mektoub-Auge, Waldtyp",
         "named": "Vorzügliche Mektoub-Auge, Waldtyp",
@@ -67727,12 +68039,48 @@
         "da": "das",
         "description": ""
     },
+    "m0618chhfe01": {
+        "name": "Erhabenes Mektoub-Auge, Waldtyp",
+        "named": "Erhabene Mektoub-Auge, Waldtyp",
+        "nameda": "Erhabene Mektoub-Auge, Waldtyp",
+        "p": "Erhabene Mektoub-Augen, Waldtyp",
+        "pd": "Erhabenen Mektoub-Augen, Waldtyp",
+        "pia": "ein",
+        "pda": "die",
+        "ia": "ein",
+        "da": "das",
+        "description": ""
+    },
+    "m0618chhje01": {
+        "name": "Erhabenes Mektoub-Auge, Dschungeltyp",
+        "named": "Erhabene Mektoub-Auge, Dschungeltyp",
+        "nameda": "Erhabene Mektoub-Auge, Dschungeltyp",
+        "p": "Erhabene Mektoub-Augen, Dschungeltyp",
+        "pd": "Erhabenen Mektoub-Augen, Dschungeltyp",
+        "pia": "ein",
+        "pda": "die",
+        "ia": "ein",
+        "da": "das",
+        "description": ""
+    },
     "m0618chhld01": {
         "name": "Exzellentes Mektoub-Auge, Seenlandtyp",
         "named": "Exzellente Mektoub-Auge, Seenlandtyp",
         "nameda": "Exzellente Mektoub-Auge, Seenlandtyp",
         "p": "Exzellente Mektoub-Augen, Seenlandtyp",
         "pd": "Exzellenten Mektoub-Augen, Seenlandtyp",
+        "pia": "ein",
+        "pda": "die",
+        "ia": "ein",
+        "da": "das",
+        "description": ""
+    },
+    "m0618chhle01": {
+        "name": "Erhabenes Mektoub-Auge, Seenlandtyp",
+        "named": "Erhabene Mektoub-Auge, Seenlandtyp",
+        "nameda": "Erhabene Mektoub-Auge, Seenlandtyp",
+        "p": "Erhabene Mektoub-Augen, Seenlandtyp",
+        "pd": "Erhabenen Mektoub-Augen, Seenlandtyp",
         "pia": "ein",
         "pda": "die",
         "ia": "ein",
@@ -67895,6 +68243,18 @@
         "da": "der",
         "description": ""
     },
+    "m0619chhde01": {
+        "name": "Erhabener Mektoub-Nagel, Wüstentyp",
+        "named": "Erhabene Mektoub-Nagel, Wüstentyp",
+        "nameda": "Erhabenen Mektoub-Nagel, Wüstentyp",
+        "p": "Erhabene Mektoub-Nägel, Wüstentyp",
+        "pd": "Erhabenen Mektoub-Nägel, Wüstentyp",
+        "pia": "einen",
+        "pda": "die",
+        "ia": "ein",
+        "da": "der",
+        "description": ""
+    },
     "m0619chhfc01": {
         "name": "Vorzüglicher Mektoub-Nagel, Waldtyp",
         "named": "Vorzügliche Mektoub-Nagel, Waldtyp",
@@ -67907,12 +68267,48 @@
         "da": "der",
         "description": ""
     },
+    "m0619chhfe01": {
+        "name": "Erhabener Mektoub-Nagel, Waldtyp",
+        "named": "Erhabene Mektoub-Nagel, Waldtyp",
+        "nameda": "Erhabenen Mektoub-Nagel, Waldtyp",
+        "p": "Erhabene Mektoub-Nägel, Waldtyp",
+        "pd": "Erhabenen Mektoub-Nägel, Waldtyp",
+        "pia": "einen",
+        "pda": "die",
+        "ia": "ein",
+        "da": "der",
+        "description": ""
+    },
+    "m0619chhje01": {
+        "name": "Erhabener Mektoub-Nagel, Dschungeltyp",
+        "named": "Erhabene Mektoub-Nagel, Dschungeltyp",
+        "nameda": "Erhabenen Mektoub-Nagel, Dschungeltyp",
+        "p": "Erhabene Mektoub-Nägel, Dschungeltyp",
+        "pd": "Erhabenen Mektoub-Nägel, Dschungeltyp",
+        "pia": "einen",
+        "pda": "die",
+        "ia": "ein",
+        "da": "der",
+        "description": ""
+    },
     "m0619chhld01": {
         "name": "Exzellenter Mektoub-Nagel, Seenlandtyp",
         "named": "Exzellente Mektoub-Nagel, Seenlandtyp",
         "nameda": "Exzellenten Mektoub-Nagel, Seenlandtyp",
         "p": "Exzellente Mektoub-Nägel, Seenlandtyp",
         "pd": "Exzellenten Mektoub-Nägel, Seenlandtyp",
+        "pia": "einen",
+        "pda": "die",
+        "ia": "ein",
+        "da": "der",
+        "description": ""
+    },
+    "m0619chhle01": {
+        "name": "Erhabener Mektoub-Nagel, Seenlandtyp",
+        "named": "Erhabene Mektoub-Nagel, Seenlandtyp",
+        "nameda": "Erhabenen Mektoub-Nagel, Seenlandtyp",
+        "p": "Erhabene Mektoub-Nägel, Seenlandtyp",
+        "pd": "Erhabenen Mektoub-Nägel, Seenlandtyp",
         "pia": "einen",
         "pda": "die",
         "ia": "ein",
@@ -68075,6 +68471,18 @@
         "da": "das",
         "description": ""
     },
+    "m0620chhde01": {
+        "name": "Erhabenes Mektoub-Beckenstück, Wüstentyp",
+        "named": "Erhabene Mektoub-Beckenstück, Wüstentyp",
+        "nameda": "Erhabene Mektoub-Beckenstück, Wüstentyp",
+        "p": "Erhabene Mektoub-Beckenstücke, Wüstentyp",
+        "pd": "Erhabenen Mektoub-Beckenstücke, Wüstentyp",
+        "pia": "ein",
+        "pda": "die",
+        "ia": "ein",
+        "da": "das",
+        "description": ""
+    },
     "m0620chhfc01": {
         "name": "Vorzügliches Mektoub-Beckenstück, Waldtyp",
         "named": "Vorzügliche Mektoub-Beckenstück, Waldtyp",
@@ -68087,12 +68495,48 @@
         "da": "das",
         "description": ""
     },
+    "m0620chhfe01": {
+        "name": "Erhabenes Mektoub-Beckenstück, Waldtyp",
+        "named": "Erhabene Mektoub-Beckenstück, Waldtyp",
+        "nameda": "Erhabene Mektoub-Beckenstück, Waldtyp",
+        "p": "Erhabene Mektoub-Beckenstücke, Waldtyp",
+        "pd": "Erhabenen Mektoub-Beckenstücke, Waldtyp",
+        "pia": "ein",
+        "pda": "die",
+        "ia": "ein",
+        "da": "das",
+        "description": ""
+    },
+    "m0620chhje01": {
+        "name": "Erhabenes Mektoub-Beckenstück, Dschungeltyp",
+        "named": "Erhabene Mektoub-Beckenstück, Dschungeltyp",
+        "nameda": "Erhabene Mektoub-Beckenstück, Dschungeltyp",
+        "p": "Erhabene Mektoub-Beckenstücke, Dschungeltyp",
+        "pd": "Erhabenen Mektoub-Beckenstücke, Dschungeltyp",
+        "pia": "ein",
+        "pda": "die",
+        "ia": "ein",
+        "da": "das",
+        "description": ""
+    },
     "m0620chhld01": {
         "name": "Exzellentes Mektoub-Beckenstück, Seenlandtyp",
         "named": "Exzellente Mektoub-Beckenstück, Seenlandtyp",
         "nameda": "Exzellente Mektoub-Beckenstück, Seenlandtyp",
         "p": "Exzellente Mektoub-Beckenstücke, Seenlandtyp",
         "pd": "Exzellenten Mektoub-Beckenstücke, Seenlandtyp",
+        "pia": "ein",
+        "pda": "die",
+        "ia": "ein",
+        "da": "das",
+        "description": ""
+    },
+    "m0620chhle01": {
+        "name": "Erhabenes Mektoub-Beckenstück, Seenlandtyp",
+        "named": "Erhabene Mektoub-Beckenstück, Seenlandtyp",
+        "nameda": "Erhabene Mektoub-Beckenstück, Seenlandtyp",
+        "p": "Erhabene Mektoub-Beckenstücke, Seenlandtyp",
+        "pd": "Erhabenen Mektoub-Beckenstücke, Seenlandtyp",
         "pia": "ein",
         "pda": "die",
         "ia": "ein",
@@ -92277,6 +92721,30 @@
         "pda": "die",
         "ia": "ein",
         "da": "der",
+        "description": ""
+    },
+    "zig_bolobi": {
+        "name": "Zig Bolobi",
+        "named": "Zig Bolobi",
+        "nameda": "Zig Bolobi",
+        "p": "Zig Bolobi",
+        "pd": "Zig Bolobi",
+        "pia": "Zig Bolobi",
+        "pda": "die",
+        "ia": "ein",
+        "da": "die",
+        "description": ""
+    },
+    "zig_capryni": {
+        "name": "Zig Capryni",
+        "named": "Zig Capryni",
+        "nameda": "Zig Capryni",
+        "p": "Zig Capryni",
+        "pd": "Zig Capryni",
+        "pia": "Zig Capryni",
+        "pda": "die",
+        "ia": "ein",
+        "da": "die",
         "description": ""
     },
     "zig_yubo_forest": {

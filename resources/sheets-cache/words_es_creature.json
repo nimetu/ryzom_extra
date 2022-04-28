@@ -26496,10 +26496,10 @@
         "pda": "los"
     },
     "chxjf2_zig": {
-        "name": "Frippo de Zigzag",
+        "name": "Zig Frippo",
         "ia": "un",
         "da": "el",
-        "p": "Frippos de Zigzag",
+        "p": "Zigs Frippos",
         "pia": "",
         "pda": "los"
     },
@@ -26536,10 +26536,10 @@
         "pda": "los"
     },
     "chxjf_zig": {
-        "name": "Gubani de Zigzag",
+        "name": "Zig Gubani",
         "ia": "un",
         "da": "el",
-        "p": "Gubanis de Zigzag",
+        "p": "Zigs Gubanis",
         "pia": "",
         "pda": "los"
     },
@@ -43770,10 +43770,10 @@
     "egg": {
         "name": "huevo",
         "ia": "",
-        "da": "",
-        "p": "",
-        "pia": "",
-        "pda": ""
+        "da": "el",
+        "p": "huevos",
+        "pia": "unos",
+        "pda": "los"
     },
     "gnoof_mount_00": {
         "name": "Gnoof de Montar",
@@ -43943,6 +43943,54 @@
         "pia": "unos",
         "pda": "los"
     },
+    "object_easter_egg_fake_bag_a": {
+        "name": "Cesta de huevos - Días de los Refugiados",
+        "ia": "una",
+        "da": "la",
+        "p": "Cesta de huevos - Días de los Refugiados",
+        "pia": "unas",
+        "pda": "las"
+    },
+    "object_easter_egg_fake_campfire_off": {
+        "name": "Huevo hervido - Días de los Refugiados",
+        "ia": "una",
+        "da": "el",
+        "p": "Huevos hervidos - Días de los Refugiados",
+        "pia": "unos",
+        "pda": "los"
+    },
+    "object_easter_egg_fake_chest": {
+        "name": "Cartón de huevos - Días de los Refugiados",
+        "ia": "uno",
+        "da": "el",
+        "p": "Cartones de huevos - Días de los Refugiados",
+        "pia": "unos",
+        "pda": "los"
+    },
+    "object_easter_egg_fake_kitin_egg": {
+        "name": "Huevo fósil - Días de los Refugiados",
+        "ia": "uno",
+        "da": "el",
+        "p": "Huevos fósiles - Días de los Refugiados",
+        "pia": "unos",
+        "pda": "los"
+    },
+    "object_easter_egg_fake_large_easter_egg": {
+        "name": "Huevo - Días de los Refugiados",
+        "ia": "uno",
+        "da": "el",
+        "p": "Huevos - Días de los Refugiados",
+        "pia": "unos",
+        "pda": "los"
+    },
+    "object_easter_egg_fake_snowhill": {
+        "name": "Merengue- Días de los Refugiados",
+        "ia": "uno",
+        "da": "el",
+        "p": "Merengues - Días de los Refugiados",
+        "pia": "unos",
+        "pda": "los"
+    },
     "object_easter_egg_hug": {
         "name": "huevo enorme",
         "ia": "uno",
@@ -44077,6 +44125,22 @@
         "da": "el",
         "p": "Embalador Tirador",
         "pia": "",
+        "pda": "los"
+    },
+    "zig_bolobi_jun": {
+        "name": "Zig Bolobi",
+        "ia": "uno",
+        "da": "el",
+        "p": "Zig Bolobi",
+        "pia": "unos",
+        "pda": "los"
+    },
+    "zig_capryni_for": {
+        "name": "Zig Capryni",
+        "ia": "uno",
+        "da": "el",
+        "p": "Zig Capryni",
+        "pia": "unos",
         "pda": "los"
     },
     "zig_yubo_forest": {

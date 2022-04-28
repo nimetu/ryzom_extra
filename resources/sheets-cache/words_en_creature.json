@@ -43768,12 +43768,12 @@
         "pda": "the"
     },
     "egg": {
-        "name": "",
-        "ia": "",
-        "da": "",
-        "p": "",
+        "name": "Egg",
+        "ia": "an",
+        "da": "the",
+        "p": "Eggs",
         "pia": "",
-        "pda": ""
+        "pda": "the"
     },
     "gnoof_mount_00": {
         "name": "Gnoof Mount",
@@ -43943,6 +43943,54 @@
         "pia": "",
         "pda": "the"
     },
+    "object_easter_egg_fake_bag_a": {
+        "name": "Egg basket",
+        "ia": "an",
+        "da": "the",
+        "p": "Egg baskets",
+        "pia": "",
+        "pda": "the"
+    },
+    "object_easter_egg_fake_campfire_off": {
+        "name": "Hard-boiled egg",
+        "ia": "a",
+        "da": "the",
+        "p": "Hard-boiled eggs",
+        "pia": "",
+        "pda": "the"
+    },
+    "object_easter_egg_fake_chest": {
+        "name": "Egg carton",
+        "ia": "an",
+        "da": "the",
+        "p": "Egg cartons",
+        "pia": "",
+        "pda": "the"
+    },
+    "object_easter_egg_fake_kitin_egg": {
+        "name": "Fossil egg",
+        "ia": "a",
+        "da": "the",
+        "p": "Fossil eggs",
+        "pia": "",
+        "pda": "the"
+    },
+    "object_easter_egg_fake_large_easter_egg": {
+        "name": "Egg",
+        "ia": "an",
+        "da": "the",
+        "p": "Eggs",
+        "pia": "",
+        "pda": "the"
+    },
+    "object_easter_egg_fake_snowhill": {
+        "name": "Whipped egg dessert",
+        "ia": "a",
+        "da": "the",
+        "p": "Whipped egg desserts",
+        "pia": "",
+        "pda": "the"
+    },
     "object_easter_egg_hug": {
         "name": "huge egg",
         "ia": "a",
@@ -44076,6 +44124,22 @@
         "ia": "a",
         "da": "the",
         "p": "Shooter Packers",
+        "pia": "",
+        "pda": "the"
+    },
+    "zig_bolobi_jun": {
+        "name": "Zig Bolobi",
+        "ia": "a",
+        "da": "the",
+        "p": "Zig Bolobi",
+        "pia": "",
+        "pda": "the"
+    },
+    "zig_capryni_for": {
+        "name": "Zig Capryni",
+        "ia": "a",
+        "da": "the",
+        "p": "Zig Capryni",
         "pia": "",
         "pda": "the"
     },

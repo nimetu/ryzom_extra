@@ -629,24 +629,6 @@
         "placeaccus": "Message Location",
         "placedat": "Message Location"
     },
-    "mission_place_ilot": {
-        "name": "",
-        "placegen": "",
-        "placeaccus": "",
-        "placedat": ""
-    },
-    "mission_place_ranger_01": {
-        "name": "",
-        "placegen": "",
-        "placeaccus": "",
-        "placedat": ""
-    },
-    "mission_place_ranger_02": {
-        "name": "",
-        "placegen": "",
-        "placeaccus": "",
-        "placedat": ""
-    },
     "mission_place_tryker_02": {
         "name": "prospecting",
         "placegen": "prospecting",
@@ -686,6 +668,12 @@
     "natae_stable": {
         "name": "Стойла Нэтея",
         "placegen": "Стойл Нэтея",
+        "placeaccus": "",
+        "placedat": ""
+    },
+    "newbie_start_point": {
+        "name": "",
+        "placegen": "",
         "placeaccus": "",
         "placedat": ""
     },
@@ -2053,12 +2041,6 @@
     },
     "place_matis_island_2": {
         "name": "Пик Данте",
-        "placegen": "",
-        "placeaccus": "",
-        "placedat": ""
-    },
-    "place_matis_island_3": {
-        "name": "",
         "placegen": "",
         "placeaccus": "",
         "placedat": ""
@@ -4073,12 +4055,6 @@
         "placeaccus": "",
         "placedat": ""
     },
-    "region_matis_island": {
-        "name": "",
-        "placegen": "",
-        "placeaccus": "",
-        "placedat": ""
-    },
     "region_matis_island_1": {
         "name": "Леса Алмати",
         "placegen": "Лесов Алмати",
@@ -4087,12 +4063,6 @@
     },
     "region_matis_island_2": {
         "name": "Лагерь Данте",
-        "placegen": "",
-        "placeaccus": "",
-        "placedat": ""
-    },
-    "region_matis_island_3": {
-        "name": "",
         "placegen": "",
         "placeaccus": "",
         "placedat": ""

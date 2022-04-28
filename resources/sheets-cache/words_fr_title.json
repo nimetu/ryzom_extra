@@ -325,7 +325,7 @@
     },
     "ambassadeurmatis": {
         "name": "Ambassadeur Matis",
-        "women_name": ""
+        "women_name": "Ambassadrice Matisse"
     },
     "amber_medal_atys_tournament": {
         "name": "Médaille d'Ambre - Tournoi d'Atys 2613",
@@ -515,6 +515,10 @@
         "name": "Membre de Bai Trykali",
         "women_name": "Membre de Bai Trykali"
     },
+    "bar_keeper": {
+        "name": "Gardien de Bar",
+        "women_name": "Gardienne de Bar"
+    },
     "barman_of_avendale": {
         "name": "Barman d'Avendale",
         "women_name": "Barmaid d'Avendale"
@@ -659,6 +663,10 @@
         "name": "Combattant des Ombres",
         "women_name": "Combattant des Ombres"
     },
+    "commandant": {
+        "name": "Commandant",
+        "women_name": "Commandant"
+    },
     "compositeur_d_univers": {
         "name": "Compositeur d'Univers",
         "women_name": "Compositeur d'Univers"
@@ -730,6 +738,10 @@
     "disturber": {
         "name": "Troubleur d'Esprits",
         "women_name": "Troubleuse d'esprit"
+    },
+    "dreamer": {
+        "name": "Rêveur du gros lot à la Roue",
+        "women_name": "Rêveuse du gros lot à la Roue"
     },
     "dynastic_scribe": {
         "name": "Scribe Dynastique",
@@ -806,6 +818,10 @@
     "esteemedcitizen": {
         "name": "Citoyen Tryker Célèbre",
         "women_name": "Citoyenne Tryker Célèbre"
+    },
+    "eternal_loser": {
+        "name": "Éternel perdant à la Roue",
+        "women_name": "Éternelle perdante à la Roue"
     },
     "etouffeur_edtincelles_halloween": {
         "name": "Étouffeur d'Étincelles d'Anlor Winn",
@@ -2510,6 +2526,10 @@
     "g": {
         "name": "Guide",
         "women_name": "Guide"
+    },
+    "gain_lover": {
+        "name": "Amoureux du gain",
+        "women_name": "Amoureuse du gain"
     },
     "ghost": {
         "name": "Fantôme",
@@ -7547,6 +7567,10 @@
         "name": "Hérétique",
         "women_name": "Hérétique"
     },
+    "hogger": {
+        "name": "Squatteur de la Roue",
+        "women_name": "Squatteuse de la Roue"
+    },
     "homin": {
         "name": "Homin",
         "women_name": "Homine"
@@ -7582,6 +7606,10 @@
     "ivrogne": {
         "name": "Ivrogne",
         "women_name": "Ivrogne"
+    },
+    "ivrogne2": {
+        "name": "Ivrogne du Marché",
+        "women_name": "Ivrogne du Marché"
     },
     "jeweler": {
         "name": "Bijoutier",
@@ -8089,7 +8117,7 @@
     },
     "matisambassador": {
         "name": "Ambassadeur Matis",
-        "women_name": "Ambassadrice Matis"
+        "women_name": "Ambassadrice Matisse"
     },
     "matisbutcher": {
         "name": "Massacreur de Matis",
@@ -8281,11 +8309,15 @@
     },
     "organisateurmarcheavalae": {
         "name": "Organisateur du Marché d'Avalae",
-        "women_name": ""
+        "women_name": "Organisatrice du marché d'Avalae"
     },
     "owner_of": {
         "name": "#pet de #player",
         "women_name": "#pet de #player"
+    },
+    "pathetic_loser": {
+        "name": "Pitoyable perdant",
+        "women_name": "Pitoyable perdante"
     },
     "patron_kami": {
         "name": "Mécène des lieux de culte Kami",
@@ -8294,6 +8326,10 @@
     "patron_kara": {
         "name": "Mécène des Lieux de Culte Karavan",
         "women_name": "Mécène des Lieux de Culte Karavan"
+    },
+    "phobic": {
+        "name": "Allergique à la Roue",
+        "women_name": "Allergique à la Roue"
     },
     "pikeman": {
         "name": "Piquier",
@@ -8470,14 +8506,6 @@
     "ry_pyk_al": {
         "name": "Ry-Pyk'al",
         "women_name": "Ry-Pyk'al"
-    },
-    "ryzomleveldesigner": {
-        "name": "Ryzom Team - Level-Designer",
-        "women_name": "Ryzom Team - Level-Designer"
-    },
-    "ryzomleveldesignmanager": {
-        "name": "Ryzom Team - Level-Design Manager [FR]",
-        "women_name": "Ryzom Team - Level-Design Manager [FR]"
     },
     "sandcaravanner": {
         "name": "Caravannier des Sables",
@@ -8707,10 +8735,6 @@
         "name": "Taliar Tryker",
         "women_name": "Taliar Tryker"
     },
-    "test": {
-        "name": "[wk]Spectral Door[fr]Porte Spectrale[de]Spektralgatter[es]Puerta Espectral[\/wk]",
-        "women_name": ""
-    },
     "test09": {
         "name": "[titletrad]TTT[\/titletrad]",
         "women_name": ""
@@ -8939,6 +8963,14 @@
         "name": "Voyageur",
         "women_name": "Voyageuse"
     },
+    "tokenless": {
+        "name": "Sans jeton",
+        "women_name": "Sans jeton"
+    },
+    "treasure_chiang": {
+        "name": "",
+        "women_name": ""
+    },
     "treedesigner": {
         "name": "Décorateur de Sapin d'Atysoël",
         "women_name": "Décoratrice de Sapin d'Atysoël"
@@ -9051,6 +9083,10 @@
         "name": "Inconnu",
         "women_name": ""
     },
+    "unlucky": {
+        "name": "Malchanceux",
+        "women_name": "Malchanceuse"
+    },
     "vagabond_taciturne": {
         "name": "Vagabond Taciturne",
         "women_name": ""
@@ -9062,10 +9098,6 @@
     "viscount_of_avalae": {
         "name": "Vicomte d'Avalae",
         "women_name": "Vicomtesse d'Avalae"
-    },
-    "voyageur_doutre_monde": {
-        "name": "Digital World Traveler",
-        "women_name": ""
     },
     "warlock": {
         "name": "Sorcier",

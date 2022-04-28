@@ -3635,6 +3635,15 @@
         "pda": "the",
         "description": ""
     },
+    "iaad2": {
+        "name": "Frippo Zig",
+        "ia": "a",
+        "da": "the",
+        "p": "Frippo Zig",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
     "iadc": {
         "name": "Mektoub Packer",
         "ia": "a",
@@ -12140,6 +12149,51 @@
         "pda": "the",
         "description": "High Quality Tryker Shield"
     },
+    "icwacp_mark1": {
+        "name": "Muse-Lam",
+        "ia": "a",
+        "da": "the",
+        "p": "Muse-Lam",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "icwacp_mark1_2": {
+        "name": "Muse-Mam",
+        "ia": "a",
+        "da": "the",
+        "p": "Muse-Mam",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "icwacp_mark1_3": {
+        "name": "Muse-Ham",
+        "ia": "a",
+        "da": "the",
+        "p": "Muse-Ham",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "icwm1pd_mark1": {
+        "name": "Rizys I",
+        "ia": "a",
+        "da": "the",
+        "p": "Rizys I",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "icwm1ss_mark1": {
+        "name": "Dex I",
+        "ia": "a",
+        "da": "the",
+        "p": "Dex I",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
     "iczacb": {
         "name": "Lin-Ko Boots",
         "ia": "",
@@ -15055,6 +15109,24 @@
         "pia": "",
         "pda": "the",
         "description": "Catalyzers give an XP bonus. Once activated, they are consumed at a rate relative to the gained XP and can double the gained XP. A catalyzer only works for actions with a skill level lower than its quality. To activate it, right-click on the item in the inventory and click on the option in the menu."
+    },
+    "ixpca03": {
+        "name": "Experience Catalyzer (x3)",
+        "ia": "a",
+        "da": "the",
+        "p": "Experience Catalyzers (x3)",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "ixpca04": {
+        "name": "Experience Catalyzer (x4)",
+        "ia": "a",
+        "da": "the",
+        "p": "Experience Catalyzer (x4)",
+        "pia": "",
+        "pda": "the",
+        "description": ""
     },
     "ka_cheveux_medium01": {
         "name": "Kami Medium Haircut",
@@ -19781,6 +19853,15 @@
         "pda": "the",
         "description": ""
     },
+    "m0086chhde01": {
+        "name": "Fragment of Supreme Desert Mektoub Skin",
+        "ia": "a",
+        "da": "the",
+        "p": "Fragments of Supreme Desert Mektoub Skin",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
     "m0086chhfc01": {
         "name": "Fragment of Choice Forest Mektoub Skin",
         "ia": "a",
@@ -19790,11 +19871,38 @@
         "pda": "the",
         "description": ""
     },
+    "m0086chhfe01": {
+        "name": "Fragment of Supreme Forest Mektoub Skin",
+        "ia": "a",
+        "da": "the",
+        "p": "Fragments of Supreme Forest Mektoub Skin",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "m0086chhje01": {
+        "name": "Fragment of Supreme Jungle Mektoub Skin",
+        "ia": "a",
+        "da": "the",
+        "p": "Fragments of Supreme Jungle Mektoub Skin",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
     "m0086chhld01": {
         "name": "Fragment of Excellent Lakes Mektoub Skin",
         "ia": "a",
         "da": "the",
         "p": "Fragments of Excellent Lakes Mektoub Skin",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "m0086chhle01": {
+        "name": "Fragment of Supreme Lakes Mektoub Skin",
+        "ia": "a",
+        "da": "the",
+        "p": "Fragments of Supreme Lakes Mektoub Skin",
         "pia": "",
         "pda": "the",
         "description": ""
@@ -19916,6 +20024,15 @@
         "pda": "the",
         "description": ""
     },
+    "m0087chhde01": {
+        "name": "Supreme Desert Mektoub Trunk",
+        "ia": "a",
+        "da": "the",
+        "p": "Supreme Desert Mektoub Trunks",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
     "m0087chhfc01": {
         "name": "Choice Forest Mektoub Trunk",
         "ia": "a",
@@ -19925,11 +20042,38 @@
         "pda": "the",
         "description": ""
     },
+    "m0087chhfe01": {
+        "name": "Supreme Forest Mektoub Trunk",
+        "ia": "a",
+        "da": "the",
+        "p": "Supreme Forest Mektoub Trunks",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "m0087chhje01": {
+        "name": "Supreme Jungle Mektoub Trunk",
+        "ia": "a",
+        "da": "the",
+        "p": "Supreme Jungle Mektoub Trunks",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
     "m0087chhld01": {
         "name": "Excellent Lakes Mektoub Trunk",
         "ia": "an",
         "da": "the",
         "p": "Excellent Lakes Mektoub Trunks",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "m0087chhle01": {
+        "name": "Supreme Lakes Mektoub Trunk",
+        "ia": "a",
+        "da": "the",
+        "p": "Supreme Lakes Mektoub Trunks",
         "pia": "",
         "pda": "the",
         "description": ""
@@ -29519,11 +29663,29 @@
         "pda": "the",
         "description": ""
     },
+    "m0263chhdb01": {
+        "name": "Average Desert Mektoub Meat",
+        "ia": "an",
+        "da": "the",
+        "p": "Average Desert Mektoub Meats",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
     "m0263chhdd01": {
         "name": "Select Desert Mektoub Meat",
         "ia": "a",
         "da": "the",
         "p": "Select Desert Mektoub Meats",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "m0263chhfb01": {
+        "name": "Average Forest Mektoub Meat",
+        "ia": "an",
+        "da": "the",
+        "p": "Average Forest Mektoub Meats",
         "pia": "",
         "pda": "the",
         "description": ""
@@ -29560,6 +29722,15 @@
         "ia": "an",
         "da": "the",
         "p": "Average Jungle Mektoub Meats",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "m0263chhlb01": {
+        "name": "Average Lakes Mektoub Meat",
+        "ia": "an",
+        "da": "the",
+        "p": "Average Lakes Mektoub Meats",
         "pia": "",
         "pda": "the",
         "description": ""
@@ -31409,11 +31580,29 @@
         "pda": "the",
         "description": ""
     },
+    "m0287chhdb01": {
+        "name": "Phial of Average Desert Mektoub Blood",
+        "ia": "a",
+        "da": "the",
+        "p": "Phials of Average Desert Mektoub Blood",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
     "m0287chhdd01": {
         "name": "Phial of Select Desert Mektoub Blood",
         "ia": "a",
         "da": "the",
         "p": "Phials of Select Desert Mektoub Blood",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "m0287chhfb01": {
+        "name": "Phial of Average Forest Mektoub Blood",
+        "ia": "a",
+        "da": "the",
+        "p": "Phials of Average Forest Mektoub Blood",
         "pia": "",
         "pda": "the",
         "description": ""
@@ -31450,6 +31639,15 @@
         "ia": "a",
         "da": "the",
         "p": "Phials of Average Jungle Mektoub Blood",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "m0287chhlb01": {
+        "name": "Phial of Average Lakes Mektoub Blood",
+        "ia": "a",
+        "da": "the",
+        "p": "Phials of Average Lakes Mektoub Blood",
         "pia": "",
         "pda": "the",
         "description": ""
@@ -33650,11 +33848,29 @@
         "pda": "the",
         "description": ""
     },
+    "m0323chhdb01": {
+        "name": "Fragment of Average Desert Mektoub Skull",
+        "ia": "a",
+        "da": "the",
+        "p": "Fragments of Average Desert Mektoub Skull",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
     "m0323chhdd01": {
         "name": "Fragment of Select Desert Mektoub Skull",
         "ia": "a",
         "da": "the",
         "p": "Fragments of Select Desert Mektoub Skull",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "m0323chhfb01": {
+        "name": "Fragment of Average Forest Mektoub Skull",
+        "ia": "a",
+        "da": "the",
+        "p": "Fragments of Average Forest Mektoub Skull",
         "pia": "",
         "pda": "the",
         "description": ""
@@ -33691,6 +33907,15 @@
         "ia": "a",
         "da": "the",
         "p": "Fragments of Average Jungle Mektoub Skull",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "m0323chhlb01": {
+        "name": "Fragment of Average Lakes Mektoub Skull",
+        "ia": "a",
+        "da": "the",
+        "p": "Fragments of Average Lakes Mektoub Skull",
         "pia": "",
         "pda": "the",
         "description": ""
@@ -50786,6 +51011,15 @@
         "pda": "the",
         "description": ""
     },
+    "m0618chhde01": {
+        "name": "Fragment of Supreme Desert Mektoub Eye",
+        "ia": "a",
+        "da": "the",
+        "p": "Fragments of Supreme Desert Mektoub Eye",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
     "m0618chhfc01": {
         "name": "Fragment of Choice Forest Mektoub Eye",
         "ia": "a",
@@ -50795,11 +51029,38 @@
         "pda": "the",
         "description": ""
     },
+    "m0618chhfe01": {
+        "name": "Fragment of Supreme Forest Mektoub Eye",
+        "ia": "a",
+        "da": "the",
+        "p": "Fragments of Supreme Forest Mektoub Eye",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "m0618chhje01": {
+        "name": "Fragment of Supreme Jungle Mektoub Eye",
+        "ia": "a",
+        "da": "the",
+        "p": "Fragments of Supreme Jungle Mektoub Eye",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
     "m0618chhld01": {
         "name": "Fragment of Excellent Lakes Mektoub Eye",
         "ia": "a",
         "da": "the",
         "p": "Fragments of Excellent Lakes Mektoub Eye",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "m0618chhle01": {
+        "name": "Fragment of Supreme Lakes Mektoub Eye",
+        "ia": "a",
+        "da": "the",
+        "p": "Fragments of Supreme Lakes Mektoub Eye",
         "pia": "",
         "pda": "the",
         "description": ""
@@ -50921,6 +51182,15 @@
         "pda": "the",
         "description": ""
     },
+    "m0619chhde01": {
+        "name": "Supreme Desert Mektoub Nail",
+        "ia": "a",
+        "da": "the",
+        "p": "Supreme Desert Mektoub Nails",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
     "m0619chhfc01": {
         "name": "Choice Forest Mektoub Nail",
         "ia": "a",
@@ -50930,11 +51200,38 @@
         "pda": "the",
         "description": ""
     },
+    "m0619chhfe01": {
+        "name": "Supreme Forest Mektoub Nail",
+        "ia": "a",
+        "da": "the",
+        "p": "Supreme Forest Mektoub Nails",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "m0619chhje01": {
+        "name": "Supreme Jungle Mektoub Nail",
+        "ia": "a",
+        "da": "the",
+        "p": "Supreme Jungle Mektoub Nails",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
     "m0619chhld01": {
         "name": "Excellent Lakes Mektoub Nail",
         "ia": "an",
         "da": "the",
         "p": "Excellent Lakes Mektoub Nails",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "m0619chhle01": {
+        "name": "Supreme Lakes Mektoub Nail",
+        "ia": "a",
+        "da": "the",
+        "p": "Supreme Lakes Mektoub Nails",
         "pia": "",
         "pda": "the",
         "description": ""
@@ -51056,6 +51353,15 @@
         "pda": "the",
         "description": ""
     },
+    "m0620chhde01": {
+        "name": "Fragment of Supreme Desert Mektoub Pelvis",
+        "ia": "a",
+        "da": "the",
+        "p": "Fragments of Supreme Desert Mektoub Pelvis",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
     "m0620chhfc01": {
         "name": "Fragment of Choice Forest Mektoub Pelvis",
         "ia": "a",
@@ -51065,11 +51371,38 @@
         "pda": "the",
         "description": ""
     },
+    "m0620chhfe01": {
+        "name": "Fragment of Supreme Forest Mektoub Pelvis",
+        "ia": "a",
+        "da": "the",
+        "p": "Fragments of Supreme Forest Mektoub Pelvis",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "m0620chhje01": {
+        "name": "Fragment of Supreme Jungle Mektoub Pelvis",
+        "ia": "a",
+        "da": "the",
+        "p": "Fragments of Supreme Jungle Mektoub Pelvis",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
     "m0620chhld01": {
         "name": "Fragment of Excellent Lakes Mektoub Pelvis",
         "ia": "a",
         "da": "the",
         "p": "Fragments of Excellent Lakes Mektoub Pelvis",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "m0620chhle01": {
+        "name": "Fragment of Supreme Lakes Mektoub Pelvis",
+        "ia": "a",
+        "da": "the",
+        "p": "Fragments of Supreme Lakes Mektoub Pelvis",
         "pia": "",
         "pda": "the",
         "description": ""
@@ -69205,6 +69538,24 @@
         "ia": "a",
         "da": "the",
         "p": "Striped Bucklers",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "zig_bolobi": {
+        "name": "Zig Bolobi",
+        "ia": "a",
+        "da": "the",
+        "p": "Zig Bolobi",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "zig_capryni": {
+        "name": "Zig Capryni",
+        "ia": "a",
+        "da": "the",
+        "p": "Zig Capryni",
         "pia": "",
         "pda": "the",
         "description": ""

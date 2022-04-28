@@ -13454,5 +13454,21 @@
         "givable": 0,
         "mountable": 0,
         "display_in_radar": 1
+    },
+    "zig_capryni_for": {
+        "sheetid": "zig_capryni_for",
+        "gender": 0,
+        "race": "10",
+        "fame": "none",
+        "speed": 10,
+        "region_force": 6,
+        "force_level": 1,
+        "level": 181,
+        "selectable": 1,
+        "talkable": 0,
+        "attackable": 0,
+        "givable": 0,
+        "mountable": 0,
+        "display_in_radar": 1
     }
 }

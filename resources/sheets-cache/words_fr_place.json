@@ -1,10 +1,10 @@
 {
     "ava_bar_ext1": {
         "name": "Avalae",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "à",
         "p": "Avalae",
-        "pda": "l'\\d",
+        "pda": "l'",
         "ppr": "à"
     },
     "ava_bar_int2": {
@@ -153,7 +153,7 @@
     },
     "continent_matis_newbie": {
         "name": "Ile Matis",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "sur l'",
         "p": "Iles Matis",
         "pda": "les",
@@ -273,7 +273,7 @@
     },
     "continent_zorai_newbie": {
         "name": "Ile Zoraï",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "sur l'",
         "p": "Iles Zoraï",
         "pda": "les",
@@ -473,7 +473,7 @@
     },
     "fyros_nland": {
         "name": "Ile Fyros",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "sur l'",
         "p": "Iles Fyros",
         "pda": "les",
@@ -489,7 +489,7 @@
     },
     "gmarena": {
         "name": "Arène de l'Atrium",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Arènes de l'Atrium",
         "pda": "les",
@@ -505,7 +505,7 @@
     },
     "gmisland": {
         "name": "Ile de l'Atrium",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "sur l'",
         "p": "Iles de l'Atrium",
         "pda": "les",
@@ -537,7 +537,7 @@
     },
     "guild_rm_craft": {
         "name": "Entraîneur en Artisanat des Guildes",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "chez l'",
         "p": "Entraîneurs en Artisanat des Guildes",
         "pda": "les",
@@ -545,7 +545,7 @@
     },
     "guild_rm_fight": {
         "name": "Entraîneur en Combat des Guildes",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "chez l'",
         "p": "Entraîneurs en Combat des Guildes",
         "pda": "les",
@@ -553,7 +553,7 @@
     },
     "guild_rm_harvest": {
         "name": "Entraîneur en Récolte des Guildes",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "chez l'",
         "p": "Entraîneurs en Récolte des Guildes",
         "pda": "les",
@@ -561,7 +561,7 @@
     },
     "guild_rm_magic": {
         "name": "Entraîneur en Magie des Guildes",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "chez l'",
         "p": "Entraîneurs en Magie des Guildes",
         "pda": "les",
@@ -577,7 +577,7 @@
     },
     "indoors_rolemaster_craft": {
         "name": "Entraîneur en Artisanat",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "chez l'",
         "p": "Entraîneurs en Artisanat",
         "pda": "les",
@@ -585,7 +585,7 @@
     },
     "indoors_rolemaster_fight": {
         "name": "Entraîneur en Combats",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "chez l'",
         "p": "Entraîneurs en Combats",
         "pda": "les",
@@ -593,7 +593,7 @@
     },
     "indoors_rolemaster_harvest": {
         "name": "Entraîneur en Récolte",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "chez l'",
         "p": "Entraîneurs en Récolte",
         "pda": "les",
@@ -601,7 +601,7 @@
     },
     "indoors_rolemaster_magic": {
         "name": "Entraîneur en Magie",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "chez l'",
         "p": "Entraîneurs en Magie",
         "pda": "les",
@@ -617,7 +617,7 @@
     },
     "kami_enclave": {
         "name": "Enclave Kami",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "",
         "pda": "",
@@ -625,7 +625,7 @@
     },
     "karavan embassy": {
         "name": "Ambassade Karavan",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "",
         "pda": "",
@@ -665,7 +665,7 @@
     },
     "kitiniere_entrance": {
         "name": "Entrée de la kitinière",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "",
         "pda": "",
@@ -873,7 +873,7 @@
     },
     "matis_nland": {
         "name": "Ile Matis",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "sur l'",
         "p": "Iles Matis",
         "pda": "les",
@@ -889,7 +889,7 @@
     },
     "mission_ff60_emplacement_message": {
         "name": "Emplacement du message",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Emplacements du message",
         "pda": "les",
@@ -899,22 +899,6 @@
         "name": "Terrain d'expérimentation",
         "da": "le",
         "pr": "dans le",
-        "p": "",
-        "pda": "",
-        "ppr": ""
-    },
-    "mission_place_ranger_01": {
-        "name": "",
-        "da": "",
-        "pr": "",
-        "p": "",
-        "pda": "",
-        "ppr": ""
-    },
-    "mission_place_ranger_02": {
-        "name": "",
-        "da": "",
-        "pr": "",
         "p": "",
         "pda": "",
         "ppr": ""
@@ -974,6 +958,14 @@
         "p": "Étables de Natae",
         "pda": "les",
         "ppr": "dans les"
+    },
+    "newbie_start_point": {
+        "name": "",
+        "da": "",
+        "pr": "",
+        "p": "",
+        "pda": "",
+        "ppr": ""
     },
     "newbieland": {
         "name": "Terres contrôlées",
@@ -1377,7 +1369,7 @@
     },
     "place_fairhaven_s_3": {
         "name": "Avenue de la Chambre Haute",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "sur l'",
         "p": "Avenues de la Chambre Haute",
         "pda": "les",
@@ -1385,7 +1377,7 @@
     },
     "place_fairhaven_s_4": {
         "name": "Avenue de la Chambre Basse",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "sur l'",
         "p": "Avenues de la Chambre Basse",
         "pda": "les",
@@ -1601,7 +1593,7 @@
     },
     "place_lieudit_citiesofintuition_2": {
         "name": "Escarpement Moussu",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Escarpements Moussus",
         "pda": "les",
@@ -1713,7 +1705,7 @@
     },
     "place_lieudit_fleetinggarden_3": {
         "name": "Antre de la Fureur",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Antres de la Fureur",
         "pda": "les",
@@ -1729,7 +1721,7 @@
     },
     "place_lieudit_forbidden_depths_1": {
         "name": "Impasse Maudite",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Impasses Maudites",
         "pda": "les",
@@ -1857,7 +1849,7 @@
     },
     "place_lieudit_groveofumbra_3": {
         "name": "Arc Caché",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "sur l'",
         "p": "Arcs Cachés",
         "pda": "les",
@@ -1889,7 +1881,7 @@
     },
     "place_lieudit_havenofpurity_3": {
         "name": "Arc des Kinchers",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "sur l'",
         "p": "Arcs des Kinchers",
         "pda": "les",
@@ -2009,7 +2001,7 @@
     },
     "place_lieudit_knollofdissent_5": {
         "name": "Arbre au Massacre",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Arbres au Massacre",
         "pda": "les",
@@ -2025,7 +2017,7 @@
     },
     "place_lieudit_knotofdementia_1": {
         "name": "Arrière Pays",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Arrières Pays",
         "pda": "les",
@@ -2057,7 +2049,7 @@
     },
     "place_lieudit_knotofdementia_5": {
         "name": "Impasse des Hautes Terres",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Impasses des Hautes Terres",
         "pda": "les",
@@ -2129,7 +2121,7 @@
     },
     "place_lieudit_maidengrove_2": {
         "name": "Étang Vierge",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Étangs Vierges",
         "pda": "les",
@@ -2169,7 +2161,7 @@
     },
     "place_lieudit_majesticgarden_2": {
         "name": "Arène Matis",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Arènes Matis",
         "pda": "les",
@@ -2185,7 +2177,7 @@
     },
     "place_lieudit_marauder_arena": {
         "name": "Arène Maraudeur",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "",
         "pda": "",
@@ -2281,7 +2273,7 @@
     },
     "place_lieudit_outlawcanyon_3": {
         "name": "Impasse de la Gorge du Dragon",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Impasses de la Gorge du Dragon",
         "pda": "les",
@@ -2545,7 +2537,7 @@
     },
     "place_lieudit_the_windy_gate_3": {
         "name": "Arbre Abattu",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Arbres Abattus",
         "pda": "les",
@@ -2665,7 +2657,7 @@
     },
     "place_lieudit_thescorchedcorridor_3": {
         "name": "Oasis Secret des Kamis",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Oasis Secrets des Kamis",
         "pda": "les",
@@ -2713,7 +2705,7 @@
     },
     "place_lieudit_upperbog_3": {
         "name": "Abîme du Démon",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Abîmes du Démon",
         "pda": "les",
@@ -2811,14 +2803,6 @@
         "name": "Pic de Dante",
         "da": "le",
         "pr": "dans le",
-        "p": "",
-        "pda": "",
-        "ppr": ""
-    },
-    "place_matis_island_3": {
-        "name": "",
-        "da": "",
-        "pr": "",
         "p": "",
         "pda": "",
         "ppr": ""
@@ -2993,7 +2977,7 @@
     },
     "place_outpost_fyros_03": {
         "name": "Atelier de la Queue du Dragon",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Ateliers de la Queue du Dragon",
         "pda": "les",
@@ -3009,7 +2993,7 @@
     },
     "place_outpost_fyros_05": {
         "name": "Atelier de la Route du Canyon",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Ateliers de la Route du Canyon",
         "pda": "les",
@@ -3017,7 +3001,7 @@
     },
     "place_outpost_fyros_06": {
         "name": "Atelier de Dyron Est",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Ateliers de Dyron Est",
         "pda": "les",
@@ -3065,7 +3049,7 @@
     },
     "place_outpost_fyros_12": {
         "name": "Atelier du Couloir aux Ecorces",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Ateliers du Couloir aux Ecorces",
         "pda": "les",
@@ -3097,7 +3081,7 @@
     },
     "place_outpost_fyros_16": {
         "name": "Atelier de la Colonne du Dragon",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Ateliers de la Colonne du Dragon",
         "pda": "les",
@@ -3121,7 +3105,7 @@
     },
     "place_outpost_fyros_19": {
         "name": "Avant-Poste Diplomatique des Hauts Récifs",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Avant-Postes Diplomatiques des Hauts Récifs",
         "pda": "les",
@@ -3129,7 +3113,7 @@
     },
     "place_outpost_fyros_20": {
         "name": "Atelier des Terres Désolées",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Ateliers des Terres Désolées",
         "pda": "les",
@@ -3161,7 +3145,7 @@
     },
     "place_outpost_fyros_24": {
         "name": "Avant-Poste Diplomatique de la Chaîne Sud",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Avant-Postes Diplomatiques de la Chaîne Sud",
         "pda": "les",
@@ -3225,7 +3209,7 @@
     },
     "place_outpost_matis_04": {
         "name": "Atelier de Fencoomb",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans la",
         "p": "Ateliers de Fencoomb",
         "pda": "les",
@@ -3257,7 +3241,7 @@
     },
     "place_outpost_matis_08": {
         "name": "Atelier du Trésor",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Ateliers du Trésor",
         "pda": "les",
@@ -3273,7 +3257,7 @@
     },
     "place_outpost_matis_10": {
         "name": "Avant-Poste Diplomatique de la Masure Supérieure",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Avant-Postes Diplomatiques de la Masure Supérieure",
         "pda": "les",
@@ -3289,7 +3273,7 @@
     },
     "place_outpost_matis_12": {
         "name": "Atelier de la Mare Verte",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Ateliers de la Mare Verte",
         "pda": "les",
@@ -3329,7 +3313,7 @@
     },
     "place_outpost_matis_17": {
         "name": "Atelier du Réveil",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Ateliers du Réveil",
         "pda": "les",
@@ -3369,7 +3353,7 @@
     },
     "place_outpost_matis_22": {
         "name": "Atelier de la Montagne du Tourment",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Ateliers de la Montagne du Tourment",
         "pda": "les",
@@ -3393,7 +3377,7 @@
     },
     "place_outpost_matis_25": {
         "name": "Atelier du Bosquet Est",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Ateliers du Bosquet Est",
         "pda": "les",
@@ -3409,7 +3393,7 @@
     },
     "place_outpost_matis_27": {
         "name": "Atelier de Ginti",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Ateliers de Ginti",
         "pda": "les",
@@ -3417,7 +3401,7 @@
     },
     "place_outpost_matis_28": {
         "name": "Atelier de la Petite Montagne",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Ateliers de la Petite Montagne",
         "pda": "les",
@@ -3441,7 +3425,7 @@
     },
     "place_outpost_matis_31": {
         "name": "Avant-Poste Diplomatique des Chutes de Virginia",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Avant-Postes Diplomatiques des Chutes de Virginia",
         "pda": "les",
@@ -3521,7 +3505,7 @@
     },
     "place_outpost_pr_02": {
         "name": "Atelier de la Montée de Sève Est",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Ateliers de la Montée de Sève Est",
         "pda": "les",
@@ -3537,7 +3521,7 @@
     },
     "place_outpost_pr_04": {
         "name": "Atelier des Ruines de Léron",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Ateliers des Ruines de Léron",
         "pda": "les",
@@ -3553,7 +3537,7 @@
     },
     "place_outpost_pr_06": {
         "name": "Atelier de l'Arbre Abattu",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Ateliers de l'Arbre Abattu",
         "pda": "les",
@@ -3577,7 +3561,7 @@
     },
     "place_outpost_pr_09": {
         "name": "Atelier du Col des Trois Totems",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Ateliers du Col des Trois Totems",
         "pda": "les",
@@ -3625,7 +3609,7 @@
     },
     "place_outpost_pr_15": {
         "name": "Atelier de la Porte d'Aeden",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Ateliers de la Porte d'Aeden",
         "pda": "les",
@@ -3681,7 +3665,7 @@
     },
     "place_outpost_pr_22": {
         "name": "Atelier des Bois du Champignon Géant",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Ateliers des Bois du Champignon Géant",
         "pda": "les",
@@ -3697,7 +3681,7 @@
     },
     "place_outpost_pr_24": {
         "name": "Avant-Poste Diplomatique du Tournant de la Continuité",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Avant-Postes Diplomatiques du Tournant de la Continuité",
         "pda": "les",
@@ -3713,7 +3697,7 @@
     },
     "place_outpost_pr_26": {
         "name": "Atelier du Valon des Souches",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Ateliers du Valon des Souches",
         "pda": "les",
@@ -3729,7 +3713,7 @@
     },
     "place_outpost_pr_28": {
         "name": "Atelier des Cornes du Dragon",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Ateliers des Cornes du Dragon",
         "pda": "les",
@@ -3761,7 +3745,7 @@
     },
     "place_outpost_tryker_03": {
         "name": "Atelier de l'Ile de la Fragilité",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Ateliers de l'Ile de la Fragilité",
         "pda": "les",
@@ -3769,7 +3753,7 @@
     },
     "place_outpost_tryker_04": {
         "name": "Atelier des Sables",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Ateliers des Sables",
         "pda": "les",
@@ -3801,7 +3785,7 @@
     },
     "place_outpost_tryker_08": {
         "name": "Atelier du Lac des Sources",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Ateliers du Lac des Sources",
         "pda": "les",
@@ -3833,7 +3817,7 @@
     },
     "place_outpost_tryker_12": {
         "name": "Atelier des Colonnes de la Méditation",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Ateliers des Colonnes de la Méditation",
         "pda": "les",
@@ -3841,7 +3825,7 @@
     },
     "place_outpost_tryker_13": {
         "name": "Avant-Poste Diplomatique des Pics Instables",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Avant-Postes Diplomatiques des Pics Instables",
         "pda": "les",
@@ -3849,7 +3833,7 @@
     },
     "place_outpost_tryker_14": {
         "name": "Atelier des Sables de la Perdition",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Ateliers des Sables de la Perdition",
         "pda": "les",
@@ -3913,7 +3897,7 @@
     },
     "place_outpost_tryker_22": {
         "name": "Atelier des Cimes Jumelles",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Ateliers des Cimes Jumelles",
         "pda": "les",
@@ -3929,7 +3913,7 @@
     },
     "place_outpost_tryker_24": {
         "name": "Atelier de la Route des Vents",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Ateliers de la Route des Vents",
         "pda": "les",
@@ -3953,7 +3937,7 @@
     },
     "place_outpost_tryker_27": {
         "name": "Atelier de l'Étang de la Contemplation",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Ateliers de l'Étang de la Contemplation",
         "pda": "les",
@@ -3993,7 +3977,7 @@
     },
     "place_outpost_tryker_32": {
         "name": "Atelier de la Gorge des Vents",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Ateliers de la Gorge des Vents",
         "pda": "les",
@@ -4009,7 +3993,7 @@
     },
     "place_outpost_zorai_02": {
         "name": "Atelier de Gu-Qin",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Ateliers de Gu-Qin",
         "pda": "les",
@@ -4041,7 +4025,7 @@
     },
     "place_outpost_zorai_06": {
         "name": "Atelier du Dôme des Ombres",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Ateliers du Dôme des Ombres",
         "pda": "les",
@@ -4057,7 +4041,7 @@
     },
     "place_outpost_zorai_08": {
         "name": "Atelier de Qai-Du",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Ateliers de Qai-Du",
         "pda": "les",
@@ -4081,7 +4065,7 @@
     },
     "place_outpost_zorai_11": {
         "name": "Atelier de l'Étang Vierge",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Ateliers de l'Étang Vierge",
         "pda": "les",
@@ -4097,7 +4081,7 @@
     },
     "place_outpost_zorai_13": {
         "name": "Atelier du Grand Tunnel Rocailleux",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Ateliers du Grand Tunnel Rocailleux",
         "pda": "les",
@@ -4113,7 +4097,7 @@
     },
     "place_outpost_zorai_15": {
         "name": "Atelier des Ruines de Zo-Kian",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Ateliers des Ruines de Zo-Kian",
         "pda": "les",
@@ -4129,7 +4113,7 @@
     },
     "place_outpost_zorai_17": {
         "name": "Atelier de la Souche Capitale",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Ateliers de la Souche Capitale",
         "pda": "les",
@@ -4161,7 +4145,7 @@
     },
     "place_outpost_zorai_21": {
         "name": "Atelier du Lac Poussiéreux",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Ateliers du Lac Poussiéreux",
         "pda": "les",
@@ -4169,7 +4153,7 @@
     },
     "place_outpost_zorai_22": {
         "name": "Avant-Poste Diplomatique du Croisement du Démon",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Avant-Postes Diplomatiques du Croisement du Démon",
         "pda": "les",
@@ -4225,7 +4209,7 @@
     },
     "place_outpost_zorai_29": {
         "name": "Atelier de l'Arrière-Pays",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Ateliers de l'Arrière-Pays",
         "pda": "les",
@@ -4489,7 +4473,7 @@
     },
     "place_pyr_p_street_6": {
         "name": "Avenue Cerakos",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "sur l'",
         "p": "Avenues Cerakos",
         "pda": "les",
@@ -4497,7 +4481,7 @@
     },
     "place_pyr_p_street_7": {
         "name": "Avenue Arispotle",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "sur l'",
         "p": "Avenues Arispotle",
         "pda": "les",
@@ -4673,7 +4657,7 @@
     },
     "place_starting_zone_arena": {
         "name": "Arène",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "",
         "pda": "",
@@ -4689,7 +4673,7 @@
     },
     "place_tcm_arena": {
         "name": "Arène des sacrifices",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "",
         "pda": "",
@@ -4745,7 +4729,7 @@
     },
     "place_tcm_karavan_outpost": {
         "name": "Avant-poste Karavan",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "à l'",
         "p": "",
         "pda": "",
@@ -4793,7 +4777,7 @@
     },
     "place_tcm_kitin_nest": {
         "name": "Ancien dépôt Karavan",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "",
         "pda": "",
@@ -4801,7 +4785,7 @@
     },
     "place_tcm_rock_fall": {
         "name": "Ancien dépôt Karavan",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "",
         "pda": "",
@@ -4921,7 +4905,7 @@
     },
     "place_yrkanis_bar_indoor": {
         "name": "Entrée du bar d'Yrkanis",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "à l'",
         "p": "Entrées du bar d'Yrkanis",
         "pda": "les",
@@ -4929,7 +4913,7 @@
     },
     "place_yrkanis_greenhouse_indoor": {
         "name": "Entrée du Bureau de l'Intendant d'Yrkanis",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "à l'",
         "p": "Entrées du Bureau de l'Intendant d'Yrkanis",
         "pda": "les",
@@ -5321,7 +5305,7 @@
     },
     "region_enchantedisle": {
         "name": "Ile Enchantée",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "sur l'",
         "p": "Iles Enchantées",
         "pda": "les",
@@ -5353,7 +5337,7 @@
     },
     "region_fyreruins": {
         "name": "Ancienne cité Fyros",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "",
         "pda": "",
@@ -5361,7 +5345,7 @@
     },
     "region_fyros_island1pvp 3": {
         "name": "Ilôt fyros 1 (pvp)",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "",
         "pda": "",
@@ -5369,7 +5353,7 @@
     },
     "region_fyros_island2": {
         "name": "Ilôt fyros 2",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "",
         "pda": "",
@@ -5503,14 +5487,6 @@
         "pda": "les",
         "ppr": "dans les"
     },
-    "region_matis_island": {
-        "name": "",
-        "da": "",
-        "pr": "",
-        "p": "",
-        "pda": "",
-        "ppr": ""
-    },
     "region_matis_island_1": {
         "name": "Bois d'Almati",
         "da": "le",
@@ -5523,14 +5499,6 @@
         "name": "Camp de Dante",
         "da": "le",
         "pr": "dans le",
-        "p": "",
-        "pda": "",
-        "ppr": ""
-    },
-    "region_matis_island_3": {
-        "name": "",
-        "da": "",
-        "pr": "",
         "p": "",
         "pda": "",
         "ppr": ""
@@ -5584,7 +5552,7 @@
         "ppr": ""
     },
     "region_newbieland_starting_zone": {
-        "name": "contrée des Rangers",
+        "name": "Contrée des Rangers",
         "da": "la",
         "pr": "dans la",
         "p": "",
@@ -5625,7 +5593,7 @@
     },
     "region_oflovaksoasis": {
         "name": "Oasis d'Oflovak",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Oasis d'Oflovak",
         "pda": "les",
@@ -5641,7 +5609,7 @@
     },
     "region_restingwater": {
         "name": "Eau du Repos",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "Eaux du Repos",
         "pda": "les",
@@ -6001,23 +5969,23 @@
     },
     "serre1": {
         "name": "Yrkanis",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "à",
         "p": "Yrkanis",
-        "pda": "l'\\d",
+        "pda": "l'",
         "ppr": "à"
     },
     "serre2": {
         "name": "Yrkanis",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "à",
         "p": "Yrkanis",
-        "pda": "l'\\d",
+        "pda": "l'",
         "ppr": "à"
     },
     "sherif_1st": {
         "name": "Étage du Corps de Garde",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "à l'",
         "p": "Étages du Corps de Garde",
         "pda": "les",
@@ -6025,7 +5993,7 @@
     },
     "sherif_armory_1st": {
         "name": "Étage de de l'Armurerie",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "à l'",
         "p": "Étages de de l'Armurerie",
         "pda": "les",
@@ -6201,7 +6169,7 @@
     },
     "tryker_nland": {
         "name": "Ile Tryker",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "sur l'",
         "p": "Iles Trykers",
         "pda": "les",
@@ -7825,7 +7793,7 @@
     },
     "welcomer_avalae_intendant": {
         "name": "Intendant d'Avalae",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "",
         "pda": "",
@@ -7865,7 +7833,7 @@
     },
     "welcomer_davae_intendant": {
         "name": "Intendant de Davae",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "",
         "pda": "",
@@ -7889,7 +7857,7 @@
     },
     "welcomer_hoicho_intendant": {
         "name": "Intendant de Hoi Cho",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "",
         "pda": "",
@@ -7913,7 +7881,7 @@
     },
     "welcomer_jenlai_intendant": {
         "name": "Intendant de Jen Lai",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "",
         "pda": "",
@@ -7937,7 +7905,7 @@
     },
     "welcomer_mincho_intendant": {
         "name": "Intendant de Min Cho",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "dans l'",
         "p": "",
         "pda": "",
@@ -7993,10 +7961,10 @@
     },
     "yrk_bar_ext": {
         "name": "Yrkanis",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "à",
         "p": "Yrkanis",
-        "pda": "l'\\d",
+        "pda": "l'",
         "ppr": "à"
     },
     "yrk_bar_int1": {
@@ -8233,7 +8201,7 @@
     },
     "zorai_nland": {
         "name": "Ile Zoraï",
-        "da": "l'\\d",
+        "da": "l'",
         "pr": "sur l'",
         "p": "Ile Zoraï",
         "pda": "les",

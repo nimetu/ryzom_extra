@@ -3330,7 +3330,7 @@
         "description": ""
     },
     "fy_hom_tatoo60": {
-        "name": "Ojos Llameantes",
+        "name": "Ojos Resplandecientes",
         "ia": "unos",
         "da": "los",
         "p": "",
@@ -3633,7 +3633,16 @@
         "p": "Zigs Gubani",
         "pia": "",
         "pda": "los",
-        "description": "Zigs Gubani"
+        "description": ""
+    },
+    "iaad2": {
+        "name": "Zig Frippo",
+        "ia": "",
+        "da": "el",
+        "p": "Zig Frippo",
+        "pia": "",
+        "pda": "los",
+        "description": ""
     },
     "iadc": {
         "name": "Mektoub Cargador",
@@ -6381,13 +6390,13 @@
         "description": "Hacha Larga de Dos Manos de Superior Calidad Fyros"
     },
     "icfm2sab": {
-        "name": "Archa Ardiente Arrojadora",
+        "name": "Hacha Ardiente Arrojadora",
         "ia": "una",
-        "da": "la",
+        "da": "el",
         "p": "Hachas Ardientes Arrojadoras",
-        "pia": "",
+        "pia": "unas",
         "pda": "las",
-        "description": "Hacha Ardiente Larga de Dos Manos"
+        "description": ""
     },
     "icfm2ss": {
         "name": "Espada Stavon",
@@ -12140,6 +12149,51 @@
         "pda": "los",
         "description": "Escudo de Alta Calidad Tryker"
     },
+    "icwacp_mark1": {
+        "name": "Muse-Lam",
+        "ia": "una",
+        "da": "la",
+        "p": "Muse-Lam",
+        "pia": "unas",
+        "pda": "las",
+        "description": ""
+    },
+    "icwacp_mark1_2": {
+        "name": "Muse-Mam",
+        "ia": "una",
+        "da": "la",
+        "p": "Muse-Mam",
+        "pia": "unas",
+        "pda": "las",
+        "description": ""
+    },
+    "icwacp_mark1_3": {
+        "name": "Muse-Ham",
+        "ia": "una",
+        "da": "la",
+        "p": "Muse-Ham",
+        "pia": "unas",
+        "pda": "las",
+        "description": ""
+    },
+    "icwm1pd_mark1": {
+        "name": "Rizys I",
+        "ia": "una",
+        "da": "la",
+        "p": "Rizys I",
+        "pia": "unas",
+        "pda": "las",
+        "description": ""
+    },
+    "icwm1ss_mark1": {
+        "name": "Dex I",
+        "ia": "una",
+        "da": "la",
+        "p": "Dex I",
+        "pia": "unas",
+        "pda": "las",
+        "description": ""
+    },
     "iczacb": {
         "name": "Botas Lin-Ko",
         "ia": "unas",
@@ -15040,12 +15094,12 @@
     },
     "ixpca01": {
         "name": "Catalizador de Experiencia",
-        "ia": "un",
+        "ia": "uno",
         "da": "el",
         "p": "Catalizadores de Experiencia",
-        "pia": "",
+        "pia": "unos",
         "pda": "los",
-        "description": "\"Los catalizadores otorgan un bono de XP. Una vez activados, son consumidos a un ritmo relativo al XP ganado y puede duplicar el XP ganado. Un catalizador solo funciona con las acciones con un nivel de habilidad menor al de su calidad. Para activarlo, haga un click en el lado derecho del objeto en el inventario y haga click en opción en el menú.\""
+        "description": ""
     },
     "ixpca02": {
         "name": "Catalizador de Experiencia",
@@ -15055,6 +15109,24 @@
         "pia": "",
         "pda": "los",
         "description": "\"Los catalizadores otorgan un bono de XP. Una vez activados, son consumidos a un ritmo relativo al XP ganado y puede duplicar el XP ganado. Un catalizador solo funciona con las acciones con un nivel de habilidad menor al de su calidad. Para activarlo, haga un click en el lado derecho del objeto en el inventario y haga click en opción en el menú.\""
+    },
+    "ixpca03": {
+        "name": "Catalizador de Experiencia (x3)",
+        "ia": "uno",
+        "da": "el",
+        "p": "Catalizadores de Experiencia (x3)",
+        "pia": "unos",
+        "pda": "los",
+        "description": ""
+    },
+    "ixpca04": {
+        "name": "Catalizador de Experiencia (x4)",
+        "ia": "uno",
+        "da": "el",
+        "p": "Catalizadores de Experiencia (x4)",
+        "pia": "unos",
+        "pda": "los",
+        "description": ""
     },
     "ka_cheveux_medium01": {
         "name": "Cabello Mediano Kami",
@@ -17820,11 +17892,11 @@
         "description": ""
     },
     "m0050dxadd01": {
-        "name": "Ámbar de Hachis de Selección del Desierto",
+        "name": "Ámbar de Hachis Selecto del Desierto",
         "ia": "algo de",
         "da": "el",
-        "p": "Ámbar de Hachis de Selección del Desierto",
-        "pia": "",
+        "p": "Ámbares de Hachis Selectos del Desierto",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -17847,11 +17919,11 @@
         "description": ""
     },
     "m0050dxafd01": {
-        "name": "Ámbar de Hachis de Selección del Bosque",
+        "name": "Ámbar de Hachis Selecto del Bosque",
         "ia": "algo de",
         "da": "el",
-        "p": "Ámbar de Hachis de Selección del Bosque",
-        "pia": "",
+        "p": "Ámbar de Hachis Selecto del Bosque",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -17874,11 +17946,11 @@
         "description": ""
     },
     "m0050dxajd01": {
-        "name": "Ámbar de Hachis de Selección de la Selva",
+        "name": "Ámbar de Hachis Selecto de la Selva",
         "ia": "algo de",
         "da": "el",
-        "p": "Ámbar de Hachis de Selección de la Selva",
-        "pia": "",
+        "p": "Ámbar de Hachis Selectos de la Selva",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -17901,11 +17973,11 @@
         "description": ""
     },
     "m0050dxald01": {
-        "name": "Ámbar de Hachis de Selección de los Lagos",
+        "name": "Ámbar de Hachis Selecto de los Lagos",
         "ia": "algo de",
         "da": "el",
-        "p": "Ámbar de Hachis de Selección de los Lagos",
-        "pia": "",
+        "p": "Ámbares de Hachis Selectos de los Lagos",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -17928,29 +18000,29 @@
         "description": ""
     },
     "m0050dxapd01": {
-        "name": "Ámbar de Hachis de Selección de la Primera Raíz",
+        "name": "Ámbar de Hachis Selecto de la Raíz Primaria",
         "ia": "algo de",
         "da": "el",
-        "p": "Ámbar de Hachis de Selección de la Primera Raíz",
-        "pia": "",
+        "p": "Ámbares de Hachis Selectos de la Raíz Primaria",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0050dxape01": {
-        "name": "Ámbar de Hachis Excelente la Primera Raíz",
+        "name": "Ámbar de Hachis Excelente de la Raíz Primaria",
         "ia": "algo de",
         "da": "el",
-        "p": "Ámbar de Hachis Excelentes de la Primera Raíz",
-        "pia": "",
+        "p": "Ámbares de Hachis Excelentes de la Raíz Primaria",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0050dxapf01": {
-        "name": "Ámbar de Hachis Supremo de la Primera Raíz",
+        "name": "Ámbar de Hachis Supremo de la Raíz Primaria",
         "ia": "algo de",
         "da": "el",
-        "p": "Ámbar de Hachis Supremos de la Primera Raíz",
-        "pia": "",
+        "p": "Ámbares de Hachis Supremos de la Raíz Primaria",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -19781,6 +19853,15 @@
         "pda": "los",
         "description": ""
     },
+    "m0086chhde01": {
+        "name": "Fragmento de Piel de Mektoub Supremo del Desierto",
+        "ia": "un",
+        "da": "el",
+        "p": "Fragmentos de Piel de Mektoub Supremo del Desierto",
+        "pia": "",
+        "pda": "los",
+        "description": ""
+    },
     "m0086chhfc01": {
         "name": "Fragmento de Piel de Mektoub de Selección del Bosque",
         "ia": "un",
@@ -19790,11 +19871,38 @@
         "pda": "los",
         "description": ""
     },
+    "m0086chhfe01": {
+        "name": "Fragmento de Piel de Mektoub Supremo del Bosque",
+        "ia": "un",
+        "da": "el",
+        "p": "Fragmentos de Piel de Mektoub Supremo del Bosque",
+        "pia": "",
+        "pda": "los",
+        "description": ""
+    },
+    "m0086chhje01": {
+        "name": "Fragmento de Piel de Mektoub Supremo de la Selva",
+        "ia": "un",
+        "da": "el",
+        "p": "Fragmentos de Piel de Mektoub Supremo de la Selva",
+        "pia": "",
+        "pda": "los",
+        "description": ""
+    },
     "m0086chhld01": {
         "name": "Fragmento de Piel de Mektoub Excelente de los Lagos",
         "ia": "un",
         "da": "el",
         "p": "Fragmentos de Piel de Mektoub Excelente de los Lagos",
+        "pia": "",
+        "pda": "los",
+        "description": ""
+    },
+    "m0086chhle01": {
+        "name": "Fragmento de Piel de Mektoub Supremo de los Lagos",
+        "ia": "un",
+        "da": "el",
+        "p": "Fragmentos de Piel de Mektoub Supremo de los Lagos",
         "pia": "",
         "pda": "los",
         "description": ""
@@ -19916,6 +20024,15 @@
         "pda": "los",
         "description": ""
     },
+    "m0087chhde01": {
+        "name": "Tronco de Mektoub Supremo del Desierto",
+        "ia": "un",
+        "da": "el",
+        "p": "Troncos de Mektoub Supremos del Desierto",
+        "pia": "",
+        "pda": "los",
+        "description": ""
+    },
     "m0087chhfc01": {
         "name": "Tronco de Mektoub de Selección del Bosque",
         "ia": "un",
@@ -19925,11 +20042,38 @@
         "pda": "los",
         "description": ""
     },
+    "m0087chhfe01": {
+        "name": "Tronco de Mektoub Supremo del Bosque",
+        "ia": "un",
+        "da": "el",
+        "p": "Troncos de Mektoub Supremos del Bosque",
+        "pia": "",
+        "pda": "los",
+        "description": ""
+    },
+    "m0087chhje01": {
+        "name": "Tronco de Mektoub Supremo de la Selva",
+        "ia": "un",
+        "da": "el",
+        "p": "Troncos de Mektoub Supremos de la Selva",
+        "pia": "",
+        "pda": "los",
+        "description": ""
+    },
     "m0087chhld01": {
         "name": "Tronco de Mektoub Excelente de los Lagos",
         "ia": "un",
         "da": "el",
         "p": "Troncos de Mektoub Excelentes de los Lagos",
+        "pia": "",
+        "pda": "los",
+        "description": ""
+    },
+    "m0087chhle01": {
+        "name": "Tronco de Mektoub Supremo de los Lagos",
+        "ia": "un",
+        "da": "el",
+        "p": "Troncos de Mektoub Supremos de los Lagos",
         "pia": "",
         "pda": "los",
         "description": ""
@@ -20502,11 +20646,11 @@
         "description": ""
     },
     "m0102dxadd01": {
-        "name": "Ámbar de Pha de Selección del Desierto",
+        "name": "Ámbar de Pha Selecto del Desierto",
         "ia": "algo de",
         "da": "el",
-        "p": "Ámbar de Pha de Selección del Desierto",
-        "pia": "",
+        "p": "Ámbares de Pha Selectos del Desierto",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -20529,11 +20673,11 @@
         "description": ""
     },
     "m0102dxafd01": {
-        "name": "Ámbar de Pha de Selección del Bosque",
+        "name": "Ámbar de Pha Selecto del Bosque",
         "ia": "algo de",
         "da": "el",
-        "p": "Ámbar de Pha de Selección del Bosque",
-        "pia": "",
+        "p": "Ámbares de Pha Selectos del Bosque",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -20556,11 +20700,11 @@
         "description": ""
     },
     "m0102dxajd01": {
-        "name": "Ámbar de Pha de Selección de la Selva",
+        "name": "Ámbar de Pha Selecto de la Selva",
         "ia": "algo de",
         "da": "el",
-        "p": "Ámbar de Pha de Selección de la Selva",
-        "pia": "",
+        "p": "Ámbares de Pha Selectos de la Selva",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -20583,11 +20727,11 @@
         "description": ""
     },
     "m0102dxald01": {
-        "name": "Ámbar de Pha de Selección de los Lagos",
+        "name": "Ámbar de Pha Selecto de los Lagos",
         "ia": "algo de",
         "da": "el",
-        "p": "Ámbar de Pha de Selección de los Lagos",
-        "pia": "",
+        "p": "Ámbares de Pha Selectos de los Lagos",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -20610,11 +20754,11 @@
         "description": ""
     },
     "m0102dxapd01": {
-        "name": "Ámbar de Pha de Selección de la Primera Raíz",
+        "name": "Ámbar de Pha Selecto de la Raíz Primaria",
         "ia": "algo de",
         "da": "el",
-        "p": "Ámbar de Pha de Selección de la Primera Raíz",
-        "pia": "",
+        "p": "Ámbares de Pha Selectos de la Raíz Primaria",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -21474,11 +21618,11 @@
         "description": ""
     },
     "m0117dxafd01": {
-        "name": "Ámbar de Sha de Selección del Bosque",
+        "name": "Ámbar de Sha Selecto del Bosque",
         "ia": "algo de",
         "da": "el",
-        "p": "Ámbar de Sha de Selección del Bosque",
-        "pia": "",
+        "p": "Ámbar de Sha Selectos del Bosque",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -21501,11 +21645,11 @@
         "description": ""
     },
     "m0117dxajd01": {
-        "name": "Ámbar de Sha de Selección de la Selva",
+        "name": "Ámbar de Sha Selecto de la Selva",
         "ia": "algo de",
         "da": "el",
-        "p": "Ámbar de Sha de Selección de la Selva",
-        "pia": "",
+        "p": "Ámbares de Sha Selectos de la Selva",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -21555,20 +21699,20 @@
         "description": ""
     },
     "m0117dxapd01": {
-        "name": "Ámbar de Sha de Selección de la Primera Raíz",
-        "ia": "algo de",
+        "name": "Ámbar Sha Selecto de la Raíz Primaria",
+        "ia": "",
         "da": "el",
-        "p": "Ámbar de Sha de Selección de la Primera Raíz",
-        "pia": "",
+        "p": "Ámbares Sha Selectos de la Raíz Primaria",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0117dxape01": {
-        "name": "Ámbar de Sha Excelente de la Primera Raíz",
-        "ia": "algo de",
+        "name": "Ámbar Sha Excelente de la Raíz Primaria",
+        "ia": "",
         "da": "el",
-        "p": "Ámbar de Sha Excelentes de la Primera Raíz",
-        "pia": "",
+        "p": "Ámbares Sha Excelentes de la Raíz Primaria",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -22392,11 +22536,11 @@
         "description": ""
     },
     "m0128dxafd01": {
-        "name": "Manojo de Madera de Tama de Selección del Desierto",
+        "name": "Manojo de Madera de Tama de Selección del Bosque",
         "ia": "un",
         "da": "el",
         "p": "Manojos de Madera de Tama de Selección del Bosque",
-        "pia": "",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -29519,11 +29663,29 @@
         "pda": "los",
         "description": ""
     },
+    "m0263chhdb01": {
+        "name": "Carne de Mektoub Promedio del Desierto",
+        "ia": "una",
+        "da": "la",
+        "p": "Carnes de Mektoub Promedio del Desierto",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
     "m0263chhdd01": {
         "name": "Carne de Mektoub Selecta del Desierto",
         "ia": "una",
         "da": "la",
         "p": "Carnes de Mektoub Selectas del Desierto",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "m0263chhfb01": {
+        "name": "Carne de Mektoub Promedio del Bosque",
+        "ia": "una",
+        "da": "la",
+        "p": "Carnes de Mektoub Promedio del Bosque",
         "pia": "",
         "pda": "las",
         "description": ""
@@ -29560,6 +29722,15 @@
         "ia": "una",
         "da": "la",
         "p": "Carnes de Mektoub Promedio de la Selva",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "m0263chhlb01": {
+        "name": "Carne de Mektoub Promedio de los Lagos",
+        "ia": "una",
+        "da": "la",
+        "p": "Carnes de Mektoub Promedio de los Lagos",
         "pia": "",
         "pda": "las",
         "description": ""
@@ -31409,11 +31580,29 @@
         "pda": "los",
         "description": ""
     },
+    "m0287chhdb01": {
+        "name": "Frasco de Sangre de Mektoub Promedio del Desierto",
+        "ia": "un",
+        "da": "el",
+        "p": "Frasco de Sangre de Mektoub Promedio del Desierto",
+        "pia": "",
+        "pda": "los",
+        "description": ""
+    },
     "m0287chhdd01": {
         "name": "Frasco de Sangre de Mektoub Selecto del Desierto",
         "ia": "un",
         "da": "el",
         "p": "Frascos de Sangre de Mektoub Selecto del Desierto",
+        "pia": "",
+        "pda": "los",
+        "description": ""
+    },
+    "m0287chhfb01": {
+        "name": "Frasco de Sangre de Mektoub Promedio del Bosque",
+        "ia": "un",
+        "da": "el",
+        "p": "Frascos de Sangre de Mektoub Promedio del Bosque",
         "pia": "",
         "pda": "los",
         "description": ""
@@ -31450,6 +31639,15 @@
         "ia": "un",
         "da": "el",
         "p": "Frascos de Sangre de Mektoub Promedio de la Selva",
+        "pia": "",
+        "pda": "los",
+        "description": ""
+    },
+    "m0287chhlb01": {
+        "name": "Frasco de Sangre de Mektoub Promedio de los Lagos",
+        "ia": "un",
+        "da": "el",
+        "p": "Frascos de Sangre de Mektoub Promedio de los Lagos",
         "pia": "",
         "pda": "los",
         "description": ""
@@ -33650,11 +33848,29 @@
         "pda": "los",
         "description": ""
     },
+    "m0323chhdb01": {
+        "name": "Fragmento de Craneo de Mektoub Promedio del Desierto",
+        "ia": "un",
+        "da": "el",
+        "p": "Fragmentos de Craneo de Mektoub Promedio del Desierto",
+        "pia": "",
+        "pda": "los",
+        "description": ""
+    },
     "m0323chhdd01": {
         "name": "Fragmento de Craneo de Mektoub Selecto del Desierto",
         "ia": "un",
         "da": "el",
         "p": "Fragmentos de Craneo de Mektoub Selecto del Desierto",
+        "pia": "",
+        "pda": "los",
+        "description": ""
+    },
+    "m0323chhfb01": {
+        "name": "Fragmento de Craneo de Mektoub Promedio del Bosque",
+        "ia": "un",
+        "da": "el",
+        "p": "Fragmentos de Craneo de Mektoub Promedio del Bosque",
         "pia": "",
         "pda": "los",
         "description": ""
@@ -33691,6 +33907,15 @@
         "ia": "un",
         "da": "el",
         "p": "Fragmentos de Craneo de Mektoub Promedio de la Selva",
+        "pia": "",
+        "pda": "los",
+        "description": ""
+    },
+    "m0323chhlb01": {
+        "name": "Fragmento de Craneo de Mektoub Promedio de los Lagos",
+        "ia": "un",
+        "da": "el",
+        "p": "Fragmentos de Craneo de Mektoub Promedio de los Lagos",
         "pia": "",
         "pda": "los",
         "description": ""
@@ -38088,11 +38313,11 @@
         "description": ""
     },
     "m0459chwff01": {
-        "name": "Punado de Musgo de Arana Magnifica del Desierto",
+        "name": "Puñado de Musgo de Arana Magnifica del Bosque",
         "ia": "un",
         "da": "el",
-        "p": "Puñados de Musgo de Arana Magnifica del Desierto",
-        "pia": "",
+        "p": "Puñados de Musgo de Arana Magnifica del Bosque",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -40167,74 +40392,74 @@
         "description": ""
     },
     "m0499chwca01": {
-        "name": "Una de Arana Básica",
+        "name": "Uña de Arana Básica",
         "ia": "una",
         "da": "la",
-        "p": "Unas de Arana Básica",
-        "pia": "",
+        "p": "Uñas de Arana Básica",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0499chwcb01": {
-        "name": "Una de Arana Fina",
+        "name": "Uña de Arana Fina",
         "ia": "una",
         "da": "la",
-        "p": "Unas de Arana Fina",
-        "pia": "",
+        "p": "Uñas de Arana Fina",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0499chwdd01": {
-        "name": "Una de Arana Excelente del Desierto",
+        "name": "Uña de Arana Excelente del Desierto",
         "ia": "una",
         "da": "la",
-        "p": "Unas de Arana Excelente del Desierto",
-        "pia": "",
+        "p": "Uñas de Arana Excelente del Desierto",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0499chwde01": {
-        "name": "Una de Arana Suprema del Desierto",
+        "name": "Uña de Arana Suprema del Desierto",
         "ia": "una",
         "da": "la",
-        "p": "Unas de Arana Suprema del Desierto",
-        "pia": "",
+        "p": "Uñas de Arana Suprema del Desierto",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0499chwfe01": {
-        "name": "Una de Arana Suprema del Bosque",
+        "name": "Uña de Arana Suprema del Bosque",
         "ia": "una",
         "da": "la",
-        "p": "Unas de Arana Suprema del Bosque",
-        "pia": "",
+        "p": "Uñas de Arana Suprema del Bosque",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0499chwje01": {
-        "name": "Una de Arana Suprema de la Selva",
+        "name": "Uña de Arana Suprema de la Selva",
         "ia": "una",
         "da": "la",
-        "p": "Unas de Arana Suprema de la Selva",
-        "pia": "",
+        "p": "Uñas de Arana Suprema de la Selva",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0499chwle01": {
-        "name": "Una de Arana Suprema de los Lagos",
+        "name": "Uña de Arana Suprema de los Lagos",
         "ia": "una",
         "da": "la",
-        "p": "Unas de Arana Suprema de los Lagos",
-        "pia": "",
+        "p": "Uñas de Arana Suprema de los Lagos",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "m0499chwpe01": {
-        "name": "Una de Arana Suprema de la Primera Raíz",
+        "name": "Uña de Arana Suprema de la Primera Raíz",
         "ia": "una",
         "da": "la",
-        "p": "Unas de Arana Suprema de la Primera Raíz",
-        "pia": "",
+        "p": "Uñas de Arana Suprema de la Primera Raíz",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -50786,6 +51011,15 @@
         "pda": "los",
         "description": ""
     },
+    "m0618chhde01": {
+        "name": "Fragmento de Ojo de Mektoub Supremo del Desierto",
+        "ia": "un",
+        "da": "el",
+        "p": "Fragmentos de Ojo de Mektoub Supremo del Desierto",
+        "pia": "",
+        "pda": "los",
+        "description": ""
+    },
     "m0618chhfc01": {
         "name": "Fragmento de Ojo de Mektoub de Selección del Bosque",
         "ia": "un",
@@ -50795,11 +51029,38 @@
         "pda": "los",
         "description": ""
     },
+    "m0618chhfe01": {
+        "name": "Fragmento de Ojo de Mektoub Supremo del Bosque",
+        "ia": "un",
+        "da": "el",
+        "p": "Fragmentos de Ojo de Mektoub Supremo del Bosque",
+        "pia": "",
+        "pda": "los",
+        "description": ""
+    },
+    "m0618chhje01": {
+        "name": "Fragmento de Ojo de Mektoub Supremo de la Selva",
+        "ia": "un",
+        "da": "el",
+        "p": "Fragmentos de Ojo de Mektoub Supremo de la Selva",
+        "pia": "",
+        "pda": "los",
+        "description": ""
+    },
     "m0618chhld01": {
         "name": "Fragmento de Ojo de Mektoub Excelente de los Lagos",
         "ia": "un",
         "da": "el",
         "p": "Fragmentos de Ojo de Mektoub Excelente de los Lagos",
+        "pia": "",
+        "pda": "los",
+        "description": ""
+    },
+    "m0618chhle01": {
+        "name": "Fragmento de Ojo de Mektoub Supremo de los Lagos",
+        "ia": "un",
+        "da": "el",
+        "p": "Fragmentos de Ojo de Mektoub Supremo de los Lagos",
         "pia": "",
         "pda": "los",
         "description": ""
@@ -50921,6 +51182,15 @@
         "pda": "las",
         "description": ""
     },
+    "m0619chhde01": {
+        "name": "Una de Mektoub Supremo del Desierto",
+        "ia": "una",
+        "da": "la",
+        "p": "Unas de Mektoub Supremo del Desierto",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
     "m0619chhfc01": {
         "name": "Una de Mektoub de Selección del Bosque",
         "ia": "una",
@@ -50930,11 +51200,38 @@
         "pda": "las",
         "description": ""
     },
+    "m0619chhfe01": {
+        "name": "Una de Mektoub Supremo del Bosque",
+        "ia": "una",
+        "da": "la",
+        "p": "Unas de Mektoub Supremo del Bosque",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "m0619chhje01": {
+        "name": "Una de Mektoub Supremo de la Selva",
+        "ia": "una",
+        "da": "la",
+        "p": "Unas de Mektoub Supremo de la Selva",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
     "m0619chhld01": {
         "name": "Una de Mektoub Excelente de los Lagos",
         "ia": "una",
         "da": "la",
         "p": "Unas de Mektoub Excelente de los Lagos",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "m0619chhle01": {
+        "name": "Una de Mektoub Supremo de los Lagos",
+        "ia": "una",
+        "da": "la",
+        "p": "Unas de Mektoub Supremo de los Lagos",
         "pia": "",
         "pda": "las",
         "description": ""
@@ -51056,6 +51353,15 @@
         "pda": "las",
         "description": ""
     },
+    "m0620chhde01": {
+        "name": "Fragmento de Pelvis de Mektoub Supremo del Desierto",
+        "ia": "un",
+        "da": "el",
+        "p": "Fragmentos de Pelvis de Mektoub Supremo del Desierto",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
     "m0620chhfc01": {
         "name": "Fragmento de Pelvis de Mektoub de Selección del Bosque",
         "ia": "un",
@@ -51065,11 +51371,38 @@
         "pda": "las",
         "description": ""
     },
+    "m0620chhfe01": {
+        "name": "Fragmento de Pelvis de Mektoub Supremo del Bosque",
+        "ia": "un",
+        "da": "el",
+        "p": "Fragmentos de Pelvis de Mektoub Supremo del Bosque",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "m0620chhje01": {
+        "name": "Fragmento de Pelvis de Mektoub Supremo de la Selva",
+        "ia": "un",
+        "da": "el",
+        "p": "Fragmentos de Pelvis de Mektoub Supremo de la Selva",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
     "m0620chhld01": {
         "name": "Fragmento de Pelvis de Mektoub Excelente de los Lagos",
         "ia": "un",
         "da": "el",
         "p": "Fragmentos de Pelvis de Mektoub Excelente de los Lagos",
+        "pia": "",
+        "pda": "las",
+        "description": ""
+    },
+    "m0620chhle01": {
+        "name": "Fragmento de Pelvis de Mektoub Supremo de los Lagos",
+        "ia": "un",
+        "da": "el",
+        "p": "Fragmentos de Pelvis de Mektoub Supremo de los Lagos",
         "pia": "",
         "pda": "las",
         "description": ""
@@ -58572,11 +58905,11 @@
         "description": ""
     },
     "m0726dxacc01": {
-        "name": "Manojo de Lena de Almati",
+        "name": "Manojo de Leña de Almati",
         "ia": "un",
         "da": "el",
-        "p": "Manojos de Lena de Almati",
-        "pia": "",
+        "p": "Manojos de Leña de Almati",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -58680,11 +59013,11 @@
         "description": ""
     },
     "m0738dxacc01": {
-        "name": "Manojo de Lena de Almati Refinado",
+        "name": "Manojo de Leña de Almati Refinado",
         "ia": "un",
         "da": "el",
-        "p": "Manojos de Lena de Almati Refinado",
-        "pia": "",
+        "p": "Manojos de Leña de Almati Refinados",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -60912,7 +61245,7 @@
         "description": ""
     },
     "ma_hof_tatoo8": {
-        "name": "Ojos de Moteadas de Presagio Circundantes",
+        "name": "Ojos Moteados de Presagio Circundantes",
         "ia": "unos",
         "da": "los",
         "p": "",
@@ -63756,12 +64089,12 @@
         "description": ""
     },
     "rpjob_202": {
-        "name": "aprendiz de cargador de agua",
+        "name": "Aprendiz de cargador de agua",
         "ia": "un",
         "da": "de",
-        "p": "Aprendiz de cargador de agua",
-        "pia": "un",
-        "pda": "de",
+        "p": "Aprendices de cargador de agua",
+        "pia": "unos",
+        "pda": "los",
         "description": ""
     },
     "rpjob_203": {
@@ -64071,12 +64404,12 @@
         "description": ""
     },
     "rpjobitem_202_c0": {
-        "name": "Frasco pequeño de agua monótona",
+        "name": "Frasco pequeño de agua común",
         "ia": "",
         "da": "el",
-        "p": "Frasco pequeño de agua monótona",
-        "pia": "",
-        "pda": "el",
+        "p": "Frascos pequeños de agua común",
+        "pia": "unos",
+        "pda": "los",
         "description": ""
     },
     "rpjobitem_202_c1": {
@@ -65925,12 +66258,12 @@
         "description": ""
     },
     "tp_kami_almati": {
-        "name": "Pacto de Teletransportacoin Kama para madera Almati",
+        "name": "Pacto de Teletransportación Kami para Bosque Almati",
         "ia": "un",
         "da": "el",
-        "p": "Pacto de Teletransportacion Kami para madera Almati",
-        "pia": "",
-        "pda": "el",
+        "p": "Pactos de Teletransportación Kami para Bosque Almati",
+        "pia": "unos",
+        "pda": "los",
         "description": ""
     },
     "tp_kami_avalae": {
@@ -66136,7 +66469,7 @@
         "ia": "un",
         "da": "el",
         "p": "Pactos Teletransportadores Kami para el Monte de la Disidencia",
-        "pia": "",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -66339,20 +66672,20 @@
         "description": ""
     },
     "tp_kami_the_under_spring_fyros": {
-        "name": "Pacto Teletransportador Kami para Bajo la Primavera",
+        "name": "Pacto Teletransportador Kami para Fuente Subterránea",
         "ia": "un",
         "da": "el",
-        "p": "Pactos Teletransportadores Kami para Bajo la Primavera",
-        "pia": "",
+        "p": "Pactos Teletransportadores Kami para Fuente Subterránea",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "tp_kami_the_under_spring_zorai": {
-        "name": "Pacto Teletransportador Kami para el Túnel desde Bajo la Primavera hasta Zoraï",
+        "name": "Pacto Teletransportador Kami para el Túnel desde Fuente Subterránea hasta Zora",
         "ia": "un",
         "da": "el",
-        "p": "Pactos Teletransportadores Kami para el Túnel desde Bajo la Primavera hasta Zoraï",
-        "pia": "",
+        "p": "Pactos Teletransportadores Kami para el Túnel desde Fuente Subterránea hasta Zora",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -66465,20 +66798,20 @@
         "description": ""
     },
     "tp_kara_almati": {
-        "name": "Pacto de Teletransportacion Karavan para madera Almati",
+        "name": "Pacto de Teletransportación Karavan para Bosque Almati",
         "ia": "un",
         "da": "el",
-        "p": "Pacto de Teletransportacion Karavan para madera Almati",
-        "pia": "",
-        "pda": "el",
+        "p": "Pactos de Teletransportación Karavan para Bosque Almati",
+        "pia": "unos",
+        "pda": "los",
         "description": ""
     },
     "tp_karavan_almati": {
-        "name": "Pacto de Teletransportacion Karavan para madera Almati",
+        "name": "Pacto de Teletransportación Karavan para Bosque Almati",
         "ia": "un",
         "da": "el",
-        "p": "Pacto de Teletransportacion Karavan para madera Almati",
-        "pia": "",
+        "p": "Pactos de Teletransportación Karavan para Bosque Almati",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -66690,11 +67023,11 @@
         "description": ""
     },
     "tp_karavan_lagoonsofloria": {
-        "name": "Pacto Teletransportador para las Lagunas de Loria",
+        "name": "Pacto Teletransportador Karavan para Lagunas de Loria",
         "ia": "un",
         "da": "el",
         "p": "Pactos Teletransportadores Karavan para las Lagunas de Loria",
-        "pia": "",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -66798,11 +67131,11 @@
         "description": ""
     },
     "tp_karavan_ranger_camp": {
-        "name": "Pacto Karavan  Teleportador hacia el Campement Ranger",
+        "name": "Pacto Karavan Teleportador hacia el Campamento Ranger",
         "ia": "un",
         "da": "el",
-        "p": "Pactos Karavan  Teleportadores hacia le Campamiento Ranger",
-        "pia": "",
+        "p": "Pactos Karavan Teleportadores hacia el Campamento Ranger",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -66825,11 +67158,11 @@
         "description": ""
     },
     "tp_karavan_shattered_ruins": {
-        "name": "Pacto Karavan  Teleportador hacia las Ruinas devastadas",
+        "name": "Pacto Teletransportador Karavan para Ruinas devastadas",
         "ia": "un",
         "da": "el",
-        "p": "Pactos Karavan  Teleportadores hacia las Ruinas devastadas",
-        "pia": "",
+        "p": "Pactos Teletransportadores Karavan para Ruinas devastadas",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -66856,7 +67189,7 @@
         "ia": "un",
         "da": "el",
         "p": "Pactos Teletransportador Karavan para el Bosque Esquivo",
-        "pia": "",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -66897,20 +67230,20 @@
         "description": ""
     },
     "tp_karavan_the_under_spring_fyros": {
-        "name": "Pacto Teletransportador Karavan para Bajo la Primavera",
-        "ia": "un",
+        "name": "Pacto Teletransportador Karavan para Fuente Subterránea",
+        "ia": "",
         "da": "el",
-        "p": "Pactos Teletransportadores Karavan para Bajo la Primavera",
-        "pia": "",
+        "p": "Pactos Teletransportadores Karavan para Fuente Subterránea",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "tp_karavan_the_under_spring_zorai": {
-        "name": "Pacto Teletransportador Karavan del Tuenel desde Bajo la Primavera hasta Zoraï",
+        "name": "Pacto Teletransportador Karavan del Tunel desde Fuente Subterránea hasta Zora",
         "ia": "un",
         "da": "el",
-        "p": "Pactos Teletransportadores Karavan desde Bajo la Primavera hasta Zoraï",
-        "pia": "",
+        "p": "Pactos Teletransportadores Karavan desde Fuente Subterránea hasta Zora",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -67005,11 +67338,11 @@
         "description": ""
     },
     "tp_karavan_zora": {
-        "name": "Pacto Teletransportador Karavn para Zora",
+        "name": "Pacto Teletransportador Karavan para Zora",
         "ia": "un",
         "da": "el",
-        "p": "Pactos Teletransportadores Karavan para Zoraar",
-        "pia": "",
+        "p": "Pactos Teletransportadores Karavan para Zora",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -69209,6 +69542,24 @@
         "pda": "los",
         "description": ""
     },
+    "zig_bolobi": {
+        "name": "Zig Bolobi",
+        "ia": "uno",
+        "da": "el",
+        "p": "Zig Bolobi",
+        "pia": "unos",
+        "pda": "los",
+        "description": ""
+    },
+    "zig_capryni": {
+        "name": "Zig Capryni",
+        "ia": "uno",
+        "da": "el",
+        "p": "Zig Capryni",
+        "pia": "unos",
+        "pda": "los",
+        "description": ""
+    },
     "zig_yubo_forest": {
         "name": "Zig Yubo",
         "ia": "une",
@@ -69615,12 +69966,12 @@
         "description": ""
     },
     "zo_hof_hair_style05": {
-        "name": "Peinado - Primaveral",
+        "name": "Peinado Primaveral",
         "ia": "",
-        "da": "",
-        "p": "",
-        "pia": "",
-        "pda": "",
+        "da": "el",
+        "p": "Peinados Primaverales",
+        "pia": "unos",
+        "pda": "los",
         "description": ""
     },
     "zo_hof_haircolor0": {
@@ -70992,12 +71343,12 @@
         "description": ""
     },
     "zo_hom_tatoo7": {
-        "name": "Marzo Marrón",
-        "ia": "un",
+        "name": "Tatuaje Malva de Mul-Zo",
+        "ia": "uno",
         "da": "el",
         "p": "",
         "pia": "",
-        "pda": "los",
+        "pda": "",
         "description": ""
     },
     "zo_hom_tatoo8": {
@@ -71010,12 +71361,12 @@
         "description": ""
     },
     "zo_hom_tatoo9": {
-        "name": "Sli-Teng Marrón",
-        "ia": "un",
+        "name": "Tatuaje Malva de Sli-Teng",
+        "ia": "uno",
         "da": "el",
         "p": "",
         "pia": "",
-        "pda": "los",
+        "pda": "",
         "description": ""
     },
     "zo_leader_01": {

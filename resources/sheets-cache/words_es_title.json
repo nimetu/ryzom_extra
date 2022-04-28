@@ -323,6 +323,10 @@
         "name": "Alquimista",
         "women_name": "Alquimista"
     },
+    "ambassadeurmatis": {
+        "name": "Embajador Matis",
+        "women_name": "Embajadora Matis"
+    },
     "amber_medal_atys_tournament": {
         "name": "Medalla de Ámbar - Torneo de Atys 2613",
         "women_name": "Medalla de Ámbar - Torneo de Atys 2613"
@@ -511,6 +515,10 @@
         "name": "Miembro Bai Trykali",
         "women_name": "Miembro Bai Trykali"
     },
+    "bar_keeper": {
+        "name": "Guardián del Bar",
+        "women_name": "Guardián del Bar"
+    },
     "biomancer": {
         "name": "Biomancer",
         "women_name": "Biomancer"
@@ -520,8 +528,8 @@
         "women_name": "Maga Negra"
     },
     "bladebearer": {
-        "name": "Portador de Cuchillas",
-        "women_name": "Portadora de Cuchillas"
+        "name": "Portador de Espadas",
+        "women_name": "Portadora de Espadas"
     },
     "blessedbyjena": {
         "name": "Bendecido por Jena",
@@ -607,6 +615,10 @@
         "name": "Experto Cazador de Kitines",
         "women_name": "Experta Cazadora de Kitines"
     },
+    "chef_garde_avendale": {
+        "name": "Jefe de la Guardia de Avendale",
+        "women_name": "Jefa de la Guardia de Avendale"
+    },
     "chercheur_de_bonhomin_de_neige": {
         "name": "Buscador de muñecos de Atysmas",
         "women_name": "Buscador de muñecos de Atysmas"
@@ -619,9 +631,13 @@
         "name": "Carnicero",
         "women_name": "Carnicera"
     },
+    "clerc_noviciate": {
+        "name": "Clérigo Novicio",
+        "women_name": "Clérigo Novicio"
+    },
     "clerk": {
         "name": "Secretario Real",
-        "women_name": "Secretaria Rea"
+        "women_name": "Secretaria de la Corte"
     },
     "close_fighter": {
         "name": "Combatiente",
@@ -642,6 +658,10 @@
     "combattantombres": {
         "name": "Combatiente de las Sombras",
         "women_name": "Combatiente de las Sombras"
+    },
+    "commandant": {
+        "name": "Comandante",
+        "women_name": "Comandante"
     },
     "corsaire_dechu_coffer": {
         "name": "Coraza de Corsario",
@@ -710,6 +730,14 @@
     "disturber": {
         "name": "Perturbador",
         "women_name": "Perturbadora"
+    },
+    "dreamer": {
+        "name": "Soñador del premio gordo",
+        "women_name": "Soñadora del premio gordo"
+    },
+    "dynastic_scribe": {
+        "name": "Escriba Dinástico",
+        "women_name": "Escriba Dinástico"
     },
     "eboulis": {
         "name": "Eboulis",
@@ -782,6 +810,10 @@
     "esteemedcitizen": {
         "name": "Célebre Ciudadano Tryker",
         "women_name": "Célebre Ciudadana Tryker"
+    },
+    "eternal_loser": {
+        "name": "Eterno perdedor de la Rueda",
+        "women_name": "Eterna perdedora de la Rueda"
     },
     "etouffeur_edtincelles_halloween": {
         "name": "Apagachispas de Anlor Winn",
@@ -904,7 +936,7 @@
         "women_name": "Fiel Compañera"
     },
     "faker": {
-        "name": "FALSO",
+        "name": "Falso",
         "women_name": ""
     },
     "fartraveler": {
@@ -948,7 +980,7 @@
         "women_name": "Representante de \"Animales & Co\""
     },
     "fct_arionasiszig": {
-        "name": "Arionasis's Zig",
+        "name": "Zig de Arionasis",
         "women_name": ""
     },
     "fct_artisan_aklareen": {
@@ -1916,7 +1948,7 @@
         "women_name": "Comandante Ranger"
     },
     "fct_ranger_quartermaster": {
-        "name": "Ranger Quartermaster",
+        "name": "Intendente Ranger",
         "women_name": ""
     },
     "fct_ranger_veteran": {
@@ -2113,15 +2145,15 @@
     },
     "fct_tcm_eternal_tree_praying2": {
         "name": "(Adorador Eterno)",
-        "women_name": ""
+        "women_name": "(Adoradora Eterna)"
     },
     "fct_tcm_eternal_tree_sitting": {
         "name": "(Servidor de Ma-Duk)",
         "women_name": ""
     },
     "fct_tcm_eternal_tree_spwan": {
-        "name": "(Gardien des portes)",
-        "women_name": ""
+        "name": "(Guardián de las Puertas)",
+        "women_name": "(Guardiana de las Puertas)"
     },
     "fct_tcm_eternal_tree_static": {
         "name": "(Guardia de Recolectores)",
@@ -2257,11 +2289,11 @@
     },
     "fct_tryker_governor": {
         "name": "Gobernador Tryker",
-        "women_name": ""
+        "women_name": "Gobernadora Tryker"
     },
     "fct_tryker_vice_governor": {
         "name": "Vice-Gobernador Tryker",
-        "women_name": ""
+        "women_name": "Vice-gobernadora Tryker"
     },
     "fct_ttool_merchant": {
         "name": "(Comerciante de Herramientas para Domar)",
@@ -2372,8 +2404,8 @@
         "women_name": "Azotadora de la Federación"
     },
     "fervent_harvester_kara": {
-        "name": "Fervent Harvester for the Karavan cult",
-        "women_name": "Fervent Harvester for the Karavan cult"
+        "name": "Cosechador Ferviente para el culto Karavan",
+        "women_name": "Cosechadora Ferviente para el culto Karavan"
     },
     "ferventharvestor_kami": {
         "name": "Fervent Harvester for the Kami cult",
@@ -2440,12 +2472,12 @@
         "women_name": "Ególoga Ardiente"
     },
     "fyros_gun_smith_apprentice": {
-        "name": "Aprendiz de Amero Fyros",
-        "women_name": "Aprendiz de Armero Fyros"
+        "name": "Aprendiz de Armero Fyros",
+        "women_name": "Aprendiz de Armera Fyros"
     },
     "fyros_jeweler_apprentice": {
         "name": "Aprendiz de Joyero Fyros",
-        "women_name": "Arpendiz de Joyero Fyros"
+        "women_name": "Arpendiz de Joyera Fyros"
     },
     "fyros_munitioner_apprentice": {
         "name": "Aprendiz de Proveedor de Municiones Fyros",
@@ -2490,6 +2522,10 @@
     "g": {
         "name": "Guía",
         "women_name": "Guía"
+    },
+    "gain_lover": {
+        "name": "Hambriento del Triunfo",
+        "women_name": "Hambrienta del Triunfo"
     },
     "ghost": {
         "name": "Fantasma",
@@ -2556,7 +2592,7 @@
         "women_name": ""
     },
     "gn_attack_gookitin_group": {
-        "name": "ataque_kitingoo_gruopo",
+        "name": "Grupo de Ataque Kitingoo",
         "women_name": ""
     },
     "gn_aubermouth_karavan_guide": {
@@ -2676,8 +2712,8 @@
         "women_name": ""
     },
     "gn_bandit_frahartowers_1": {
-        "name": "Trepadoras del Canon",
-        "women_name": ""
+        "name": "Trepadores del Cañon",
+        "women_name": "Trepadoras del Cañón"
     },
     "gn_bandit_frahartowers_2": {
         "name": "Stavons Impresionantes",
@@ -3032,8 +3068,8 @@
         "women_name": ""
     },
     "gn_bandit_the_under_spring_1": {
-        "name": "Linchadores de Bajo la Primavera",
-        "women_name": ""
+        "name": "Linchador de Fuente Subterránea",
+        "women_name": "Linchadora de Fuente Subterránea"
     },
     "gn_bandit_the_under_spring_2": {
         "name": "Cigüeñas de las Galletas",
@@ -3156,8 +3192,8 @@
         "women_name": ""
     },
     "gn_barkers_karavan_ambassador_f1": {
-        "name": "Embajador Karavan de los Pregoneros\/Descortezadores",
-        "women_name": ""
+        "name": "Embajador Karavan de los Descortezadores",
+        "women_name": "Embajadora Karavan de los Descortezadores"
     },
     "gn_base_gookitin_group": {
         "name": "base_kitingoo_grupo",
@@ -3196,8 +3232,8 @@
         "women_name": ""
     },
     "gn_black_circle_magician": {
-        "name": "Mago del Circulo Mágico",
-        "women_name": ""
+        "name": "Mago del Círculo Mágico",
+        "women_name": "Maga del Círculo Mágico"
     },
     "gn_blackcircle_karavan_ambassador_z1": {
         "name": "Embajador Karavan del Circulo Negro",
@@ -3392,24 +3428,24 @@
         "women_name": ""
     },
     "gn_chlorogoo_caster": {
-        "name": "chlorogoo_lanzador",
-        "women_name": ""
+        "name": "Hechicero Chlorogoo",
+        "women_name": "Hechicera Chlorogoo"
     },
     "gn_chlorogoo_fighter": {
-        "name": "chlorogoo_luchador",
-        "women_name": ""
+        "name": "Luchador Chlorogoo",
+        "women_name": "Luchadora Chlorogoo"
     },
     "gn_chlorogoo_harvester": {
-        "name": "chlorogoo_recolector",
-        "women_name": ""
+        "name": "Cosechador Chlorogoo",
+        "women_name": "Cosechadora Chlorogoo"
     },
     "gn_chlorogoo_healer": {
-        "name": "chlorogoo_curandero",
-        "women_name": ""
+        "name": "Curandero Chlorogoo",
+        "women_name": "Curandera Chlorogoo"
     },
     "gn_chlorogoo_ranger": {
-        "name": "chlorogoo_ranger",
-        "women_name": "chlorogoo_ranger"
+        "name": "Patrullero Chlorogoo",
+        "women_name": "Patrullera Chlorogoo"
     },
     "gn_chlorogoos_karavan_agent": {
         "name": "Agente Karavan de los Chlorogoos",
@@ -3844,8 +3880,8 @@
         "women_name": ""
     },
     "gn_corsairs_kami_ambassador_t1": {
-        "name": "Embajador de los Corsarios Kami",
-        "women_name": ""
+        "name": "Embajador Kami de los Corsarios",
+        "women_name": "Embajadora Kami de los Corsarios"
     },
     "gn_cowardly_ragus": {
         "name": "Ragus Cobardes",
@@ -4532,28 +4568,28 @@
         "women_name": ""
     },
     "gn_group_fde_boss_fyros": {
-        "name": "Aen la Cuchilla del Desierto",
+        "name": "Aen Espada del Desierto",
         "women_name": ""
     },
     "gn_group_fde_guardian_fyros_heal": {
-        "name": "Defensor de la Cuchilla del Desierto",
-        "women_name": "Defensora de la Cuchialla del Desierto"
+        "name": "Defensor de la Espada del Desierto",
+        "women_name": "Defensora de la Espada del Desierto"
     },
     "gn_group_fde_guardian_fyros_melee": {
-        "name": "Desertor de la Cuchilla del Desierto",
-        "women_name": "Defensora de la Cuchialla del Desierto"
+        "name": "Desertor de la Espada del Desierto",
+        "women_name": "Defensora de la Espada del Desierto"
     },
     "gn_group_fde_guardian_fyros_nuke": {
-        "name": "Defensor de la Cuchilla del Desierto",
-        "women_name": "Defensora de la Cuchialla del Desierto"
+        "name": "Defensor de la Espada del Desierto",
+        "women_name": "Defensora de la Espada del Desierto"
     },
     "gn_group_fde_guardian_fyros_range": {
-        "name": "Defensor de la Cuchilla del Desierto",
-        "women_name": "Defensora de la Cuchialla del Desierto"
+        "name": "Defensor de la Espada del Desierto",
+        "women_name": "Defensora de la Espada del Desierto"
     },
     "gn_group_fde_guardian_fyros_root": {
-        "name": "Defensor de la Cuchilla del Desierto",
-        "women_name": "Defensora de la Cuchialla del Desierto"
+        "name": "Defensor de la Espada del Desierto",
+        "women_name": "Defensora de la Espada del Desierto"
     },
     "gn_guard_company_caster": {
         "name": "Guardia",
@@ -4588,7 +4624,7 @@
         "women_name": ""
     },
     "gn_hamazans_kami_ambassador_z1": {
-        "name": "Embajador Kami de los Hamazans de la Semilla Muerta",
+        "name": "Embajador Kami de las Amazonas de la Semilla Muerta",
         "women_name": ""
     },
     "gn_heal": {
@@ -4800,7 +4836,7 @@
         "women_name": ""
     },
     "gn_kami_altar_almati": {
-        "name": "Altar Kami de Madera de Almati",
+        "name": "Altar Kami de Bosque Almati",
         "women_name": ""
     },
     "gn_kami_altar_bountybeaches": {
@@ -4824,7 +4860,7 @@
         "women_name": ""
     },
     "gn_kami_altar_dewdrops": {
-        "name": "Altar Kami de las Gotas de Rocio",
+        "name": "Altar Kami de Gotas de Rocio",
         "women_name": ""
     },
     "gn_kami_altar_dunesofexil_dyron": {
@@ -4860,7 +4896,7 @@
         "women_name": ""
     },
     "gn_kami_altar_hereticshovel": {
-        "name": "Altar Kami de la Cabana del Hereje",
+        "name": "Altar Kami de la Cabaña del Hereje",
         "women_name": ""
     },
     "gn_kami_altar_hiddensource": {
@@ -4888,7 +4924,7 @@
         "women_name": ""
     },
     "gn_kami_altar_maidengrove": {
-        "name": "Altar Kami del Bosque de las Doncellas",
+        "name": "Altar Kami de Selva Virgen",
         "women_name": ""
     },
     "gn_kami_altar_majesticgarden_yrkanis": {
@@ -4896,11 +4932,11 @@
         "women_name": ""
     },
     "gn_kami_altar_nexus": {
-        "name": "Altar Kami Nexus",
+        "name": "Altar Kami del Nexus",
         "women_name": ""
     },
     "gn_kami_altar_nexus_terre": {
-        "name": "Atlar Kami de Nexus",
+        "name": "Altar Kami del Nexus",
         "women_name": ""
     },
     "gn_kami_altar_oflovaksoasis": {
@@ -4920,11 +4956,11 @@
         "women_name": ""
     },
     "gn_kami_altar_silan_ranger_camp": {
-        "name": "Altar Kami del Campo Ranger",
+        "name": "Altar Kami Campamento Ranger",
         "women_name": ""
     },
     "gn_kami_altar_silan_shining_lake": {
-        "name": "Altar del Lago reluciente",
+        "name": "Altar Kami del Lago reluciente",
         "women_name": ""
     },
     "gn_kami_altar_the_abyss_of_ichor": {
@@ -5128,7 +5164,7 @@
         "women_name": ""
     },
     "gn_kami_welcomer_f3": {
-        "name": "Recibidor Kami de las Dunas Imperiales",
+        "name": "Recibidor Kami de Dunas Imperiales",
         "women_name": ""
     },
     "gn_kami_welcomer_f4": {
@@ -5140,7 +5176,7 @@
         "women_name": ""
     },
     "gn_kami_welcomer_f6": {
-        "name": "Recibidor Kami de las Minas de Aserrín",
+        "name": "Recibidor Kami de Minas de Aserrín",
         "women_name": ""
     },
     "gn_kami_welcomer_f7": {
@@ -5252,7 +5288,7 @@
         "women_name": ""
     },
     "gn_kami_welcomer_z1": {
-        "name": "Recibidor Kami de las Ciudades de la Intuición",
+        "name": "Recibidor Kami de Ciudades de la Intuición",
         "women_name": ""
     },
     "gn_kami_welcomer_z2": {
@@ -5268,7 +5304,7 @@
         "women_name": ""
     },
     "gn_kami_welcomer_z5": {
-        "name": "Recibidor Kami del Jardin de las Doncellas",
+        "name": "Recibidor Kami de Selva Virgen",
         "women_name": ""
     },
     "gn_kami_welcomer_z6": {
@@ -5284,8 +5320,8 @@
         "women_name": ""
     },
     "gn_kamist_captain_event": {
-        "name": "Capitán Kamist",
-        "women_name": ""
+        "name": "Capitán Kamista",
+        "women_name": "Capitana Kamista"
     },
     "gn_kamist_captain_sanctuary": {
         "name": "Capitán del Santuario",
@@ -5300,8 +5336,8 @@
         "women_name": ""
     },
     "gn_kamist_sergeant_event": {
-        "name": "Sargento Kamist",
-        "women_name": ""
+        "name": "Sargento Kamista",
+        "women_name": "Sargento Kamista"
     },
     "gn_karavan_agent": {
         "name": "Agente Karavan",
@@ -5320,11 +5356,11 @@
         "women_name": ""
     },
     "gn_karavan_altar_almati": {
-        "name": "Altar Karavan de Madera de Almati",
+        "name": "Altar Karavan de Bosque Almati",
         "women_name": ""
     },
     "gn_karavan_altar_bountybeaches": {
-        "name": "Altar Kami de las Playas de la Recompensa",
+        "name": "Altar Karavan de las Playas de la Recompensa",
         "women_name": ""
     },
     "gn_karavan_altar_citiesofintuition_zora": {
@@ -5332,15 +5368,15 @@
         "women_name": ""
     },
     "gn_karavan_altar_dewdrops": {
-        "name": "Altar Karavan de las Gotas de Rocío",
+        "name": "Altar Karavan de Gotas de Rocío",
         "women_name": ""
     },
     "gn_karavan_altar_dunesofexil_dyron": {
-        "name": "Altar Karavan de las Dunas del Exilio",
+        "name": "Altar Karavan de Dunas del Exilio",
         "women_name": ""
     },
     "gn_karavan_altar_enchantedisle": {
-        "name": "Altar Karavan de la Isla Encantada",
+        "name": "Altar Karavan de Isla Encantada",
         "women_name": ""
     },
     "gn_karavan_altar_fleetinggarden": {
@@ -5388,7 +5424,7 @@
         "women_name": ""
     },
     "gn_karavan_altar_lagoonsofloria": {
-        "name": "Altar Karavan de las Lagunas del Loria",
+        "name": "Altar Karavan de Lagunas del Loria",
         "women_name": ""
     },
     "gn_karavan_altar_libertylake_avendale": {
@@ -5408,7 +5444,7 @@
         "women_name": ""
     },
     "gn_karavan_altar_maidengrove": {
-        "name": "Altar Karavan del Bosque de las Doncellas",
+        "name": "Altar Karavan de Selva Virgen",
         "women_name": ""
     },
     "gn_karavan_altar_majesticgarden_avalae": {
@@ -5456,11 +5492,11 @@
         "women_name": ""
     },
     "gn_karavan_altar_silan_ranger_camp": {
-        "name": "Altar Karavan en el Campo Ranger",
+        "name": "Altar Karavan Campamento Ranger",
         "women_name": ""
     },
     "gn_karavan_altar_silan_shattered_ruins": {
-        "name": "Altar de las Ruinas devastadas",
+        "name": "Altar Karavan de Ruinas devastadas",
         "women_name": ""
     },
     "gn_karavan_altar_the_abyss_of_ichor_matis": {
@@ -5664,7 +5700,7 @@
         "women_name": ""
     },
     "gn_karavan_welcomer_f1": {
-        "name": "Recibidor Karavan de las Dunas del Exilio",
+        "name": "Recibidor Karavan de Dunas del Exilio",
         "women_name": ""
     },
     "gn_karavan_welcomer_f2": {
@@ -5720,19 +5756,19 @@
         "women_name": ""
     },
     "gn_karavan_welcomer_m7": {
-        "name": "Recibidor Karavan del Pantano Alta",
+        "name": "Recibidor Karavan del Pantano Alto",
         "women_name": ""
     },
     "gn_karavan_welcomer_p1": {
-        "name": "Recibidor Karavan de Nexos",
+        "name": "Recibidor Karavan del Nexo",
         "women_name": ""
     },
     "gn_karavan_welcomer_t1": {
-        "name": "Recibidor Karavan de las Playas de la Recompensa",
+        "name": "Recibidor Karavan de Playas de la Recompensa",
         "women_name": ""
     },
     "gn_karavan_welcomer_t2": {
-        "name": "Recibidor Karavan de las Gotas de Rocío",
+        "name": "Recibidor Karavan de Gotas de Rocío",
         "women_name": ""
     },
     "gn_karavan_welcomer_t3": {
@@ -5740,7 +5776,7 @@
         "women_name": ""
     },
     "gn_karavan_welcomer_t4": {
-        "name": "Recibidor Karavan de las Lagunas de Loria",
+        "name": "Recibidor Karavan de Lagunas de Loria",
         "women_name": ""
     },
     "gn_karavan_welcomer_t5": {
@@ -5756,11 +5792,11 @@
         "women_name": ""
     },
     "gn_karavan_welcomer_t8": {
-        "name": "Recibidor Karavan de los Vientos de la Musa",
+        "name": "Recibidor Karavan de Vientos de la Musa",
         "women_name": ""
     },
     "gn_karavan_welcomer_z1": {
-        "name": "Recibidor Karavan de las Ciudades de la Intuición",
+        "name": "Recibidor Karavan de Ciudades de la Intuición",
         "women_name": ""
     },
     "gn_karavan_welcomer_z2": {
@@ -5776,7 +5812,7 @@
         "women_name": ""
     },
     "gn_karavan_welcomer_z5": {
-        "name": "Recibidor Karavan del Bosque de las Doncellas",
+        "name": "Recibidor Karavan de Selva Virgen",
         "women_name": ""
     },
     "gn_karavan_welcomer_z6": {
@@ -5785,14 +5821,14 @@
     },
     "gn_karavan_worshipper": {
         "name": "Adorador Karavan",
-        "women_name": ""
+        "women_name": "Adoradora Karavan"
     },
     "gn_karavaneer_captain_event": {
         "name": "Capitán Karavaneer",
         "women_name": ""
     },
     "gn_karavaneer_captain_sanctuary": {
-        "name": "Capital del Templo",
+        "name": "Capitán del Templo",
         "women_name": ""
     },
     "gn_karavaneer_guard_event": {
@@ -5896,7 +5932,7 @@
         "women_name": ""
     },
     "gn_kitingatherers_karavan_agent": {
-        "name": "Agente Karavan Recolector de Kitin",
+        "name": "Agente Karavan Recolectores de Kitin",
         "women_name": ""
     },
     "gn_koi_zun_kami_priest": {
@@ -5908,7 +5944,7 @@
         "women_name": ""
     },
     "gn_kuilde_karavan_ambassador_p1": {
-        "name": "Embajador del Gremio Karavan",
+        "name": "Embajador Karavan de la Kuilde",
         "women_name": ""
     },
     "gn_ladamis_valoris": {
@@ -6636,8 +6672,8 @@
         "women_name": ""
     },
     "gn_shadowrunners_kami_ambassador_z1": {
-        "name": "Embajador Kami de los Corredores de las Dunas",
-        "women_name": ""
+        "name": "Embajador Kami de los Traficantes de Sombras",
+        "women_name": "Embajadora Kami de los Traficantes de Sombras"
     },
     "gn_sheng_wo_kami_priest": {
         "name": "Predicador Kami de Sheng Wo",
@@ -6660,7 +6696,7 @@
         "women_name": ""
     },
     "gn_sirgio_fyros_dancer": {
-        "name": "Bailador Fryos",
+        "name": "Bailador Fyros",
         "women_name": "Bailadora Fyros"
     },
     "gn_sirgio_matis_dancer": {
@@ -6772,27 +6808,27 @@
         "women_name": ""
     },
     "gn_tcm_chlorogoo_shaman_escort": {
-        "name": "Adepte",
-        "women_name": ""
+        "name": "Adepto",
+        "women_name": "Adepta"
     },
     "gn_tcm_commander": {
         "name": "Comandante en Jefe Karavan",
         "women_name": ""
     },
     "gn_tcm_coordinator": {
-        "name": "Coordinateur des opérations",
-        "women_name": ""
+        "name": "Coordinador de Operaciones",
+        "women_name": "Coordinadora de Operaciones"
     },
     "gn_tcm_crate": {
         "name": "Caisse de ravitaillement Karavan",
         "women_name": ""
     },
     "gn_tcm_engineer": {
-        "name": "Ingénieur en mécanique Karavan",
+        "name": "Ingeniero Karavan",
         "women_name": ""
     },
     "gn_tcm_engineer_guard": {
-        "name": "Escorte Karavan",
+        "name": "Escolta Karavan",
         "women_name": ""
     },
     "gn_tcm_extraction_engineer": {
@@ -6800,7 +6836,7 @@
         "women_name": ""
     },
     "gn_tcm_extraction_guard": {
-        "name": "Comando d'élite",
+        "name": "Comando de Élite",
         "women_name": ""
     },
     "gn_tcm_master_dummy": {
@@ -6808,19 +6844,19 @@
         "women_name": ""
     },
     "gn_tcm_medic": {
-        "name": "Équipe médicale Karavan",
+        "name": "Médico Karavan",
         "women_name": ""
     },
     "gn_tcm_officer": {
-        "name": "Officier supérieur Karavan",
+        "name": "Oficial Superior Karavan",
         "women_name": ""
     },
     "gn_tcm_officer_radar": {
-        "name": "Officier radar",
+        "name": "Oficial de Radar",
         "women_name": ""
     },
     "gn_tcm_quartermaster": {
-        "name": "Quartier maître Karavan",
+        "name": "Intendente Karavan",
         "women_name": ""
     },
     "gn_tcm_radar_trainee": {
@@ -6832,7 +6868,7 @@
         "women_name": ""
     },
     "gn_tcm_sacrified": {
-        "name": "Sacrifié",
+        "name": "Sacrificio",
         "women_name": ""
     },
     "gn_tcm_soulchest": {
@@ -6840,15 +6876,15 @@
         "women_name": ""
     },
     "gn_tcm_squad_leader_alpha": {
-        "name": "Chef d'escadron Alpha",
+        "name": "Jefe de Escuadrón Alpha",
         "women_name": ""
     },
     "gn_tcm_squad_leader_beta": {
-        "name": "Chef d'escadron Beta",
+        "name": "Jefe de Escuadrón Beta",
         "women_name": ""
     },
     "gn_tcm_squad_leader_zeta": {
-        "name": "Chef d'escadron Zeta",
+        "name": "Jefe de Escuadrón Zeta",
         "women_name": ""
     },
     "gn_tcm_training": {
@@ -6860,23 +6896,23 @@
         "women_name": ""
     },
     "gn_tcm_trooper_guard": {
-        "name": "Troupe d'élite Karavan",
+        "name": "Tropa de Élite Karavan",
         "women_name": ""
     },
     "gn_tcm_trooper_static": {
-        "name": "Garde suprême Karavan",
-        "women_name": ""
+        "name": "Guardia Supremo Karavan",
+        "women_name": "Guardia Suprema Karavan"
     },
     "gn_tcm_trooper_training": {
         "name": "tcm_soldado_entrenamiento",
         "women_name": ""
     },
     "gn_tcm_trooper_wander": {
-        "name": "Réserviste Karavan",
+        "name": "Reservista Karavan",
         "women_name": ""
     },
     "gn_tcm_unknown_entity": {
-        "name": "Echo radar",
+        "name": "Radar Eco",
         "women_name": ""
     },
     "gn_tei_bandit_boss_tryker": {
@@ -6996,7 +7032,7 @@
         "women_name": ""
     },
     "gn_tryker_aquamin_silo": {
-        "name": "Silo de recuperación del agua de lluvia",
+        "name": "Silo de recuperación de agua de lluvia",
         "women_name": ""
     },
     "gn_tryker_aquamin_source": {
@@ -7284,11 +7320,11 @@
         "women_name": ""
     },
     "gn_zorai_dynastic_guard_event": {
-        "name": "Guardia Dinastico Zoraï",
+        "name": "Guardia Dinástico Zoraï",
         "women_name": ""
     },
     "gn_zorai_dynastic_soldier_event": {
-        "name": "Soldado Dinastico Zoraï",
+        "name": "Soldado Dinástico Zoraï",
         "women_name": ""
     },
     "gn_zorai_general_event": {
@@ -7308,7 +7344,7 @@
         "women_name": ""
     },
     "gn_zorai_kamist_combatant_event": {
-        "name": "Luchador Kamist Zoraï",
+        "name": "Luchador Kamista Zoraï",
         "women_name": ""
     },
     "gn_zorai_kamist_crafter_event": {
@@ -7316,7 +7352,7 @@
         "women_name": "Artesana Kamista Zoraï"
     },
     "gn_zorai_kamist_gatherer_event": {
-        "name": "Recolector Kamist Zoraï",
+        "name": "Recolector Kamista Zoraï",
         "women_name": ""
     },
     "gn_zorai_karavan_aumonier": {
@@ -7368,8 +7404,8 @@
         "women_name": ""
     },
     "gn_zorai_old_citizen_event": {
-        "name": "Antigua Ciudadano Old Zoraï",
-        "women_name": ""
+        "name": "Ciudadano Anciano Zoraï",
+        "women_name": "Ciudadana Anciana Zoraï"
     },
     "gn_zorai_recruiting_officer_event": {
         "name": "Oficial de Reclutamiento Zoraï",
@@ -7401,11 +7437,11 @@
     },
     "gn_zorai_voluteer_f": {
         "name": "Defensor Zoraï",
-        "women_name": ""
+        "women_name": "Defensora Zoraï"
     },
     "gn_zorai_voluteer_m": {
         "name": "Defensor Zoraï",
-        "women_name": ""
+        "women_name": "Defensora Zoraï"
     },
     "gn_zorai_war_master_event": {
         "name": "Maestro de la Guerra Zoraï",
@@ -7432,8 +7468,8 @@
         "women_name": "Great benefactor of the Kami cult"
     },
     "great_benefactor_kara": {
-        "name": "Great benefactor of the Karavan cult",
-        "women_name": "Great benefactor of the Karavan cult"
+        "name": "Gran benefactor del culto Karavan",
+        "women_name": "Gran benefactora del culto Karavan"
     },
     "greatdisciple": {
         "name": "Gran Discípulo de los Kamis",
@@ -7464,8 +7500,8 @@
         "women_name": ""
     },
     "harvester_kara": {
-        "name": "Harvester for the Karavan cult",
-        "women_name": "Harvester for the Karavan cult"
+        "name": "Cosechador del culto Karavan",
+        "women_name": "Cosechadora del culto Karavan"
     },
     "hawker": {
         "name": "Halconero\/Vendedor Ambulante",
@@ -7523,13 +7559,17 @@
         "name": "Hereje",
         "women_name": "Hereje"
     },
+    "hogger": {
+        "name": "Acaparador de la Rueda",
+        "women_name": "Acaparadora de la Rueda"
+    },
     "homin": {
         "name": "Homin",
         "women_name": "Homin"
     },
     "honorary_initiate": {
-        "name": "Honorary Initiate",
-        "women_name": "Honorary Initiate"
+        "name": "Iniciado Honorario",
+        "women_name": "Iniciada Honoraria"
     },
     "hopedevourer": {
         "name": "Devourer of Hope",
@@ -7558,6 +7598,10 @@
     "ivrogne": {
         "name": "Borracho",
         "women_name": "Borrachera"
+    },
+    "ivrogne2": {
+        "name": "Borracho del Mercado",
+        "women_name": "Borracha del Mercado"
     },
     "jeweler": {
         "name": "Joyero",
@@ -7624,8 +7668,8 @@
         "women_name": "Torturadora de Kamistas"
     },
     "karaecourtmember": {
-        "name": "Miembro de la Corte de Karae",
-        "women_name": "Miembro de la Corte de Karae"
+        "name": "Miembro de la Corte de la Karae",
+        "women_name": "Miembro de la Corte de la Karae"
     },
     "karavan_ally": {
         "name": "Campeón Karavan",
@@ -7688,8 +7732,8 @@
         "women_name": ""
     },
     "kem0904observer200": {
-        "name": "Observador de la Montana Pequeña (3)",
-        "women_name": ""
+        "name": "Observador de la Montaña Pequeña (3)",
+        "women_name": "Observadora de la Montaña Pequeña"
     },
     "kem0904observer210": {
         "name": "Observador de la Cascada de los dos Tótems (4)",
@@ -7948,8 +7992,8 @@
         "women_name": "Demoledora"
     },
     "master_heavy_swordsman": {
-        "name": "Maestro de la Cuchilla",
-        "women_name": "Maestro de la Cuchilla"
+        "name": "Maestro de la Espada",
+        "women_name": "Maestra de la Espada"
     },
     "master_jungle_forager": {
         "name": "Maestro Buscador de la Selva",
@@ -7966,6 +8010,10 @@
     "master_maceman": {
         "name": "Triturador de Cabeza",
         "women_name": "Trituradora de Cabeza"
+    },
+    "master_of_arms": {
+        "name": "Maestro de Armas",
+        "women_name": "Maestra de Armas"
     },
     "master_of_energies": {
         "name": "Maestro de Energías",
@@ -8252,20 +8300,28 @@
         "women_name": "Oficial Superior del Gremio"
     },
     "organisateurmarcheavalae": {
-        "name": "Organisateur du Marché d'Avalae",
-        "women_name": ""
+        "name": "Organizador de la Feria de Avalae",
+        "women_name": "Organizadora de la Feria de Avalae"
     },
     "owner_of": {
         "name": "#pet de #player",
         "women_name": "#pet de #player"
+    },
+    "pathetic_loser": {
+        "name": "Perdedor patético",
+        "women_name": "Perdedora patética"
     },
     "patron_kami": {
         "name": "Patron of the Kami Shrines",
         "women_name": "Patron of the Kami Shrines"
     },
     "patron_kara": {
-        "name": "Patron of Karavan Shrines",
-        "women_name": "Patron of Karavan Shrines"
+        "name": "Mecenas del Altar Karavan",
+        "women_name": "Mecenas del Altar Karavan"
+    },
+    "phobic": {
+        "name": "Alérgico a la Rueda",
+        "women_name": "Alérgica a la Rueda"
     },
     "pikeman": {
         "name": "Picador",
@@ -8274,6 +8330,10 @@
     "pistoleer": {
         "name": "Pistolero",
         "women_name": "Pistolera"
+    },
+    "playername": {
+        "name": "[e]getplayerinfos(name)[\/e]",
+        "women_name": "[e]getplayerinfos(name)[\/e]"
     },
     "precurseurduchaos": {
         "name": "Heraldo del Caos",
@@ -8375,17 +8435,57 @@
         "name": "Corredor de Correos",
         "women_name": "Corredora de Correos"
     },
+    "royal_artisan_apprentice": {
+        "name": "Aprendiz de Artesano Real",
+        "women_name": "Aprendiz de Artesana Real"
+    },
+    "royal_botanist": {
+        "name": "Botánico Real",
+        "women_name": "Botánica Real"
+    },
+    "royal_couturier": {
+        "name": "Modisto Real",
+        "women_name": "Modista Real"
+    },
+    "royal_florist": {
+        "name": "Florista Real",
+        "women_name": "Florista Real"
+    },
+    "royal_historian": {
+        "name": "Historiador Real",
+        "women_name": "Historiadora Real"
+    },
+    "royal_illustrator": {
+        "name": "Ilustrador Real",
+        "women_name": "Ilustradora Real"
+    },
+    "royal_kitinologist": {
+        "name": "Kitinólogo Real",
+        "women_name": "Kitinóloga Real"
+    },
+    "royal_linguist": {
+        "name": "Lingüista Real",
+        "women_name": "Lingüista Real"
+    },
+    "royal_zoologist": {
+        "name": "Zoólogo Real",
+        "women_name": "Zoóloga Real"
+    },
     "royalcraftsman": {
         "name": "Artesano Real",
         "women_name": "Artesana Real"
+    },
+    "royaljeweller": {
+        "name": "Joyero Real",
+        "women_name": "Joyera Real"
     },
     "royalminstrel": {
         "name": "Trovador Real",
         "women_name": "Trovadora Real"
     },
     "royalscrivener": {
-        "name": "Royal Scrivener",
-        "women_name": "Royal Scrivener"
+        "name": "Escribano Real",
+        "women_name": "Escribano Real"
     },
     "ruler_of_the_lab": {
         "name": "Soberano del Laberinto",
@@ -8398,14 +8498,6 @@
     "ry_pyk_al": {
         "name": "Ry-Pyk'al",
         "women_name": "Ry-Pyk'al"
-    },
-    "ryzomleveldesigner": {
-        "name": "Ryzom - Level-Designer",
-        "women_name": "Ryzom - Level-Designer"
-    },
-    "ryzomleveldesignmanager": {
-        "name": "Ryzom - Level-Design Manager, Event, Dev-Ark & Graphics - [FR]",
-        "women_name": "Ryzom - Level-Design Manager, Event, Dev-Ark & Graphics - [FR]"
     },
     "sandcaravanner": {
         "name": "Karavanner de la Arena",
@@ -8456,8 +8548,8 @@
         "women_name": ""
     },
     "shaman": {
-        "name": "Shaman",
-        "women_name": "Shaman"
+        "name": "Chamán",
+        "women_name": "Chamán"
     },
     "shield_smith": {
         "name": "Herrero de Escudos",
@@ -8514,6 +8606,22 @@
     "spirit_of_atys": {
         "name": "Espíritu de Atys",
         "women_name": "Espíritu de Atys"
+    },
+    "spirit_of_creation": {
+        "name": "Espíritu de la Creación",
+        "women_name": "Espíritu de la Creación"
+    },
+    "spirit_of_the_arcane": {
+        "name": "Espíritu del Arcano",
+        "women_name": "Espíritu del Arcano"
+    },
+    "spirit_of_the_bark": {
+        "name": "Espíritu de la Corteza",
+        "women_name": "Espíritu de la Corteza"
+    },
+    "spirit_of_war": {
+        "name": "Espíritu de la Guerra",
+        "women_name": "Espíritu de la Guerra"
     },
     "spiritualshield": {
         "name": "Escudo Espiritual",
@@ -8656,7 +8764,7 @@
         "women_name": "Asesina de Masas Kitin"
     },
     "title00007": {
-        "name": "Guardián Matias",
+        "name": "Guardián Matis",
         "women_name": "Guardiana Matis"
     },
     "title00008": {
@@ -8744,12 +8852,12 @@
         "women_name": "Embajador Zoraï"
     },
     "title00047": {
-        "name": "Machinegunner",
-        "women_name": "Machinegunner"
+        "name": "Artillero",
+        "women_name": "Artillera"
     },
     "title00048": {
-        "name": "Assault Machinegunner",
-        "women_name": "Assault Machinegunner"
+        "name": "Artillero de Asalto",
+        "women_name": "Artillera de Asalto"
     },
     "title00050": {
         "name": "Aprendiz de Carnicero",
@@ -8792,8 +8900,8 @@
         "women_name": "Fabricante de herramientas"
     },
     "title00060": {
-        "name": "Aprendiz de rescatar",
-        "women_name": "Aprendiz de rescatador"
+        "name": "Aprendiz de Médico",
+        "women_name": "Aprendiz de Médico"
     },
     "title00061": {
         "name": "Rescatador",
@@ -8818,6 +8926,14 @@
     "title00079": {
         "name": "Caminante",
         "women_name": "Caminante"
+    },
+    "tokenless": {
+        "name": "Sin fichas",
+        "women_name": "Sin fichas"
+    },
+    "treasure_chiang": {
+        "name": "",
+        "women_name": ""
     },
     "treedesigner": {
         "name": "Decorador de Árboles de Atysmas",
@@ -8931,6 +9047,10 @@
         "name": "Desconocido",
         "women_name": ""
     },
+    "unlucky": {
+        "name": "Sin suerte",
+        "women_name": "Sin suerte"
+    },
     "vagabond_taciturne": {
         "name": "Vagabundo Taciturno",
         "women_name": ""
@@ -8940,8 +9060,8 @@
         "women_name": "Guía Veterana"
     },
     "viscount_of_avalae": {
-        "name": "Viscount of Avalae",
-        "women_name": "Viscount of Avalae"
+        "name": "Vizconde de Avalae",
+        "women_name": "Vizcondesa de Avalae"
     },
     "warlock": {
         "name": "Brujo",
@@ -8988,8 +9108,8 @@
         "women_name": "Zombi"
     },
     "zorai_armorer_apprentice": {
-        "name": "Aprendiz de Amero Zoraï",
-        "women_name": "Aprendiz de Amero Zoraï"
+        "name": "Aprendiz de Armero Zoraï",
+        "women_name": "Aprendiz de Armera Zoraï"
     },
     "zorai_artisan_apprentice": {
         "name": "Aprendiz de Artesano Zoraï",
@@ -9016,12 +9136,12 @@
         "women_name": ""
     },
     "zorai_shield_smith_apprentice": {
-        "name": "Aprendiz de Herrero de Escudos Zoraï",
-        "women_name": "Aprendiz de Herrero de Escudos Zoraï"
+        "name": "Aprendiz de Forjador de Escudos Zoraï",
+        "women_name": "Aprendiz de Forjadora de Escudos Zoraï"
     },
     "zorai_weapon_smith_apprentice": {
-        "name": "Aprendiz de Herrero de Armas Zoraï",
-        "women_name": "Aprendiz de Herrero de Armes Zoraï"
+        "name": "Aprendiz de Forjador de Armas Zoraï",
+        "women_name": "Aprendiz de Forjadora de Armas Zoraï"
     },
     "zoraiambassador": {
         "name": "Embajador Zoraï",

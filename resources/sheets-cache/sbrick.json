@@ -116506,7 +116506,7 @@
     "bccmea16": {
         "sheet_id": "bccmea16",
         "brick_family": 148,
-        "index_in_family": 45,
+        "index_in_family": 16,
         "level": 16,
         "sabrina_cost": 0,
         "sabrina_relative_cost": 0,
@@ -134579,7 +134579,7 @@
     "bccmea18": {
         "sheet_id": "bccmea18",
         "brick_family": 148,
-        "index_in_family": 45,
+        "index_in_family": 18,
         "level": 18,
         "sabrina_cost": 0,
         "sabrina_relative_cost": 0,
@@ -134609,7 +134609,7 @@
     "bccmea19": {
         "sheet_id": "bccmea19",
         "brick_family": 148,
-        "index_in_family": 45,
+        "index_in_family": 19,
         "level": 19,
         "sabrina_cost": 0,
         "sabrina_relative_cost": 0,
@@ -134699,7 +134699,7 @@
     "bccmea20": {
         "sheet_id": "bccmea20",
         "brick_family": 148,
-        "index_in_family": 45,
+        "index_in_family": 20,
         "level": 20,
         "sabrina_cost": 0,
         "sabrina_relative_cost": 0,
@@ -141657,6 +141657,195 @@
         "icon": {
             "main": "tag_yubo.png",
             "back": "bk_magie_noire_brick.png"
+        }
+    },
+    "bcwacp_mark1": {
+        "sheet_id": "bcwacp_mark1",
+        "brick_family": 195,
+        "index_in_family": 2,
+        "level": 1,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 3,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 50,
+        "used_skills": [
+            0
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "ar_pantabotte.png",
+            "back": "bk_event.png",
+            "over": "fp_over.png"
+        },
+        "required_skills": {
+            "sc": 0
+        }
+    },
+    "bcwacp_mark1_2": {
+        "sheet_id": "bcwacp_mark1_2",
+        "brick_family": 195,
+        "index_in_family": 3,
+        "level": 2,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 3,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 50,
+        "used_skills": [
+            0
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "ar_pantabotte.png",
+            "back": "bk_event.png",
+            "over": "fp_over.png"
+        },
+        "required_skills": {
+            "sc": 0
+        }
+    },
+    "bcwacp_mark1_3": {
+        "sheet_id": "bcwacp_mark1_3",
+        "brick_family": 195,
+        "index_in_family": 4,
+        "level": 3,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 3,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 50,
+        "used_skills": [
+            0
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "ar_pantabotte.png",
+            "back": "bk_event.png",
+            "over": "fp_over.png"
+        },
+        "required_skills": {
+            "sc": 0
+        }
+    },
+    "bccwm1pd_mark1": {
+        "sheet_id": "bccwm1pd_mark1",
+        "brick_family": 148,
+        "index_in_family": 21,
+        "level": 1,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 3,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            92
+        ],
+        "civ_restriction": 6,
+        "required_bricks": [
+            "bcpa25"
+        ],
+        "icon": {
+            "main": "mw_dagger.png",
+            "back": "bk_event.png",
+            "over": "fp_over.png"
+        },
+        "required_skills": {
+            "sc": 20
+        }
+    },
+    "bccwm1ss_mark1": {
+        "sheet_id": "bccwm1ss_mark1",
+        "brick_family": 148,
+        "index_in_family": 22,
+        "level": 1,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 3,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            101
+        ],
+        "civ_restriction": 6,
+        "required_bricks": [
+            "bcpa25"
+        ],
+        "icon": {
+            "main": "mw_1h_sword.png",
+            "back": "bk_event.png",
+            "over": "fp_over.png"
+        },
+        "required_skills": {
+            "sc": 20
+        }
+    },
+    "bccwm2ss_mark1": {
+        "sheet_id": "bccwm2ss_mark1",
+        "brick_family": 148,
+        "index_in_family": 23,
+        "level": 1,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 3,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            117
+        ],
+        "civ_restriction": 6,
+        "required_bricks": [
+            "bcpa25"
+        ],
+        "icon": {
+            "main": "mw_2h_sword.png",
+            "back": "bk_event.png",
+            "over": "fp_over.png"
+        },
+        "required_skills": {
+            "sc": 20
         }
     }
 }

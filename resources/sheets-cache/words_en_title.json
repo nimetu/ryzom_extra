@@ -515,6 +515,10 @@
         "name": "Bai Trykali Member",
         "women_name": "Bai Trykali Member"
     },
+    "bar_keeper": {
+        "name": "Guardian of Bar",
+        "women_name": "Guardian of Bar"
+    },
     "barman_of_avendale": {
         "name": "Barman of Avendale",
         "women_name": "Barmaid of Avendale"
@@ -659,6 +663,14 @@
         "name": "Warrior of the Shadows",
         "women_name": "Warrior of the Shadows"
     },
+    "commandant": {
+        "name": "Commander",
+        "women_name": "Commander"
+    },
+    "compositeur_d_univers": {
+        "name": "Universe composer",
+        "women_name": ""
+    },
     "corsaire_dechu_coffer": {
         "name": "Corsair Chest",
         "women_name": ""
@@ -726,6 +738,10 @@
     "disturber": {
         "name": "Disturber",
         "women_name": ""
+    },
+    "dreamer": {
+        "name": "Wheel jackpot dreamer",
+        "women_name": "Wheel jackpot dreamer"
     },
     "dynastic_scribe": {
         "name": "Dynastic Scribe",
@@ -802,6 +818,10 @@
     "esteemedcitizen": {
         "name": "Esteemed Tryker Citizen",
         "women_name": "Esteemed Tryker Citizen"
+    },
+    "eternal_loser": {
+        "name": "Wheel eternal loser",
+        "women_name": "Wheel eternal loser"
     },
     "etouffeur_edtincelles_halloween": {
         "name": "Anlor Winn spark snuffer",
@@ -1048,8 +1068,8 @@
         "women_name": ""
     },
     "fct_civil": {
-        "name": "",
-        "women_name": ""
+        "name": "(Citizen)",
+        "women_name": "(Citizen)"
     },
     "fct_confgu": {
         "name": "Brotherhood of the Fortunate Gubani",
@@ -2506,6 +2526,10 @@
     "g": {
         "name": "Guide",
         "women_name": "Guide"
+    },
+    "gain_lover": {
+        "name": "Gain lover",
+        "women_name": "Gain lover"
     },
     "ghost": {
         "name": "Ghost",
@@ -7543,6 +7567,10 @@
         "name": "Heretic",
         "women_name": "Heretic"
     },
+    "hogger": {
+        "name": "Wheel hogger",
+        "women_name": "Wheel hogger"
+    },
     "homin": {
         "name": "Homin",
         "women_name": "Homin"
@@ -7578,6 +7606,10 @@
     "ivrogne": {
         "name": "Drunkard",
         "women_name": "Drunkard"
+    },
+    "ivrogne2": {
+        "name": "Market Drunkard",
+        "women_name": "Market Drunkard"
     },
     "jeweler": {
         "name": "Jeweler",
@@ -8283,6 +8315,10 @@
         "name": "#pet of #player",
         "women_name": "#pet of #player"
     },
+    "pathetic_loser": {
+        "name": "Pathetic loser",
+        "women_name": "Pathetic loser"
+    },
     "patron_kami": {
         "name": "Patron of the Kami Shrines",
         "women_name": "Patron of the Kami Shrines"
@@ -8291,6 +8327,10 @@
         "name": "Patron of Karavan Shrines",
         "women_name": "Patron of Karavan Shrines"
     },
+    "phobic": {
+        "name": "Wheel-o-phobic",
+        "women_name": "Wheel-o-phobic"
+    },
     "pikeman": {
         "name": "Pikeman",
         "women_name": "Pikewoman"
@@ -8298,6 +8338,10 @@
     "pistoleer": {
         "name": "Pistoleer",
         "women_name": "Pistoleer"
+    },
+    "playername": {
+        "name": "[e]getplayerinfos(name)[\/e]",
+        "women_name": "[e]getplayerinfos(name)[\/e]"
     },
     "precurseurduchaos": {
         "name": "Herald of Chaos",
@@ -8463,14 +8507,6 @@
         "name": "Ry-Pyk'al",
         "women_name": "Ry-Pyk'al"
     },
-    "ryzomleveldesigner": {
-        "name": "Ryzom - Level-Designer",
-        "women_name": "Ryzom - Level-Designer"
-    },
-    "ryzomleveldesignmanager": {
-        "name": "Ryzom - Level-Design Manager, Event, Dev-Ark & Graphics - [FR]",
-        "women_name": "Ryzom - Level-Design Manager, Event, Dev-Ark & Graphics - [FR]"
-    },
     "sandcaravanner": {
         "name": "Sand Karavanner",
         "women_name": ""
@@ -8608,8 +8644,8 @@
         "women_name": ""
     },
     "start_trek_treasure_gen_mini": {
-        "name": "",
-        "women_name": ""
+        "name": "Chest of Wisdom",
+        "women_name": "Chest of Wisdom"
     },
     "stateless": {
         "name": "Stateless",
@@ -8915,6 +8951,14 @@
         "name": "Wayfarer",
         "women_name": "Wayfarer"
     },
+    "tokenless": {
+        "name": "Tokenless",
+        "women_name": "Tokenless"
+    },
+    "treasure_chiang": {
+        "name": "Silan's Chest of Wisdom",
+        "women_name": "Silan's Chest of Wisdom"
+    },
     "treedesigner": {
         "name": "Atysmas Tree Designer",
         "women_name": "Atysmas Tree Designer"
@@ -9027,6 +9071,10 @@
         "name": "Unknown",
         "women_name": ""
     },
+    "unlucky": {
+        "name": "Unlucky",
+        "women_name": "Unlucky"
+    },
     "vagabond_taciturne": {
         "name": "Taciturn Vagabond",
         "women_name": ""
@@ -9038,10 +9086,6 @@
     "viscount_of_avalae": {
         "name": "Viscount of Avalae",
         "women_name": "Viscount of Avalae"
-    },
-    "voyageur_doutre_monde": {
-        "name": "Digital World Traveler",
-        "women_name": ""
     },
     "warlock": {
         "name": "Warlock",

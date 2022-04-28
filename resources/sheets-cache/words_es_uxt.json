@@ -5784,7 +5784,7 @@
         "name": "Lista Detallada"
     },
     "uianimalinbag": {
-        "name": "Tu animal está en tu inventario"
+        "name": "El animal está en tu saco"
     },
     "uianimalinstable": {
         "name": "Tu animal está en un establo"
@@ -8242,6 +8242,9 @@
     },
     "uidefnightcol": {
         "name": "Definir el color UI Nocturno"
+    },
+    "uideftooltipcolor": {
+        "name": ""
     },
     "uidelchar": {
         "name": "¿BORRAR ESTE PERSONAJE?"
@@ -11006,6 +11009,9 @@
     "uihorizontal": {
         "name": "Horizontal"
     },
+    "uihotbartitle": {
+        "name": ""
+    },
     "uihp": {
         "name": "SALUD"
     },
@@ -11967,7 +11973,7 @@
         "name": "WIND"
     },
     "uikeys": {
-        "name": "S"
+        "name": "Teclas"
     },
     "uikeysactionstitle": {
         "name": "TECLAS DE ACCIÓN"
@@ -13486,6 +13492,9 @@
     },
     "uimk_system1": {
         "name": "Configuración"
+    },
+    "uimk_system1_short": {
+        "name": ""
     },
     "uimk_system2": {
         "name": "Teclas"
@@ -16961,6 +16970,9 @@
     "uiskiptryton": {
         "name": "Saltar Intro"
     },
+    "uislotnumber": {
+        "name": ""
+    },
     "uisnowy": {
         "name": "Nevada"
     },
@@ -17773,6 +17785,12 @@
     },
     "uitool": {
         "name": "HERRAMIENTA"
+    },
+    "uitooltipcolor": {
+        "name": ""
+    },
+    "uitooltipopacity": {
+        "name": ""
     },
     "uitorso": {
         "name": "TORSO"
@@ -18595,6 +18613,24 @@
     },
     "uitthelmet": {
         "name": "Casco"
+    },
+    "uitthotbaritem": {
+        "name": ""
+    },
+    "uitthotbaritem1": {
+        "name": ""
+    },
+    "uitthotbaritem2": {
+        "name": ""
+    },
+    "uitthotbaritem3": {
+        "name": ""
+    },
+    "uitthotbaritem4": {
+        "name": ""
+    },
+    "uitthotbaritem5": {
+        "name": ""
     },
     "uitthours": {
         "name": " hora(s) "
@@ -19693,6 +19729,9 @@
     },
     "uiuseeax": {
         "name": "Usar EAX"
+    },
+    "uiusehotbaritem": {
+        "name": ""
     },
     "uiuseitem": {
         "name": "Usar ítem"
