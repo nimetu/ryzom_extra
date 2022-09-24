@@ -9,13 +9,13 @@ class CacheTest extends \PHPUnit\Framework\TestCase
 {
     protected $cachePath = '/tmp/ryex_cache';
 
-    public function setUp()
+    public function setUp() : void
     {
         // set mock time() to return '0'
         //time(0);
     }
 
-    public function tearDown()
+    public function tearDown() : void
     {
         if (file_exists($this->cachePath)) {
             // first remove all cache files
@@ -40,7 +40,7 @@ class CacheTest extends \PHPUnit\Framework\TestCase
      */
     public function testCreateCache()
     {
-        $this->assertFileNotExists($this->cachePath);
+        $this->assertFileDoesNotExist($this->cachePath);
 
         $cache = new Cache($this->cachePath);
         $this->assertFileExists($this->cachePath, 'Cache directory was not created');

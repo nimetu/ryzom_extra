@@ -11,7 +11,7 @@ class RyzomClockTest extends \PHPUnit\Framework\TestCase
     /** @var RyzomClock */
     protected $ryzomClock;
 
-    public function setUp()
+    public function setUp() : void
     {
         $this->ryzomClock = new RyzomClock(0, false);
 
@@ -63,10 +63,8 @@ class RyzomClockTest extends \PHPUnit\Framework\TestCase
         $this->assertEquals($year, floor($this->ryzomClock->getRyzomYear()));
         $this->assertEquals($month, floor($this->ryzomClock->getRyzomMonth()));
         $this->assertEquals($week, floor($this->ryzomClock->getRyzomWeek()));
-        // +/- 2.4 hour
-        $this->assertEquals($day, $this->ryzomClock->getRyzomDay(), 'day', 0.1);
-        // +/- 6 min
-        $this->assertEquals($time, $this->ryzomClock->getRyzomTime(), 'time', 0.1);
+        $this->assertEquals($day, floor($this->ryzomClock->getRyzomDay()));
+        $this->assertEquals($time, floor($this->ryzomClock->getRyzomTime()));
     }
 
     /**
