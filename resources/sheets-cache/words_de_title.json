@@ -215,6 +215,54 @@
         "name": "Oberste Schnitterin - 2615",
         "women_name": "Oberster Schnitter - 2615"
     },
+    "2620_number1_marathon": {
+        "name": "Bernstein-Medaille - Marathon",
+        "women_name": "Bernstein-Medaille - Marathon"
+    },
+    "2620_number1_mektoub": {
+        "name": "Bernstein-Medaille - Mektoub-Rennen",
+        "women_name": "Bernstein-Medaille - Mektoub-Rennen"
+    },
+    "2620_number1_swimming": {
+        "name": "Bernstein-Medaille - Schwimmen",
+        "women_name": "Bernstein-Medaille - Schwimmen"
+    },
+    "2620_number1_triathlon": {
+        "name": "Bernstein-Medaille - Triathlon",
+        "women_name": "Bernstein-Medaille - Triathlon"
+    },
+    "2620_number2_marathon": {
+        "name": "Perlmutt-Medaille - Marathon",
+        "women_name": "Perlmutt-Medaille - Marathon"
+    },
+    "2620_number2_mektoub": {
+        "name": "Perlmutt-Medaille - Mektoub-Rennen",
+        "women_name": "Perlmutt-Medaille - Mektoub-Rennen"
+    },
+    "2620_number2_swimming": {
+        "name": "Perlmutt-Medaille - Schwimmen",
+        "women_name": "Perlmutt-Medaille - Schwimmen"
+    },
+    "2620_number2_triathlon": {
+        "name": "Perlmutt-Medaille - Triathlon",
+        "women_name": "Perlmutt-Medaille - Triathlon"
+    },
+    "2620_number3_marathon": {
+        "name": "Horn-Medaille - Marathon",
+        "women_name": "Horn-Medaille - Marathon"
+    },
+    "2620_number3_mektoub": {
+        "name": "Horn-Medaille - Mektoub-Rennen",
+        "women_name": "Horn-Medaille - Mektoub-Rennen"
+    },
+    "2620_number3_swimming": {
+        "name": "Horn-Medaille - Schwimmen",
+        "women_name": "Horn-Medaille - Schwimmen"
+    },
+    "2620_number3_triathlon": {
+        "name": "Horn-Medaille - Triathlon",
+        "women_name": "Horn-Medaille - Triathlon"
+    },
     "accomplisheddisciple": {
         "name": "Verdienter Jünger der Kamis",
         "women_name": "Verdiente Jüngerin der Kamis"
@@ -338,6 +386,14 @@
     "amber_medal_atys_tournament_3": {
         "name": "Horn-Medaille - Atys-Wettkampf 2613",
         "women_name": "Horn-Medaille - Atys-Wettkampf 2613"
+    },
+    "ambitious_fighter": {
+        "name": "Ehrgeiziger Kämpfer",
+        "women_name": "Ehrgeiziger Kämpfer"
+    },
+    "amnesiac_adventurer": {
+        "name": "Vergesslicher Abenteurer",
+        "women_name": "Vergesslicher Abenteurer"
     },
     "anarchist": {
         "name": "Anarchist",
@@ -527,6 +583,10 @@
         "name": "Biomagier",
         "women_name": "Biomagier"
     },
+    "black_kami": {
+        "name": "Marauder",
+        "women_name": "Marauder"
+    },
     "black_mage": {
         "name": "Schwarzmagier",
         "women_name": "Schwarzmagierin"
@@ -707,6 +767,10 @@
         "name": "infizierter Ragus",
         "women_name": "infizierter Ragus"
     },
+    "dedicated_altruist": {
+        "name": "Überzeugter Altruist",
+        "women_name": "Überzeugter Altruist"
+    },
     "defensive_magician": {
         "name": "Defensiv-Magier",
         "women_name": "Defensiv-Magierin"
@@ -718,6 +782,10 @@
     "destroyer": {
         "name": "Zerstörer",
         "women_name": "Zerstörerin"
+    },
+    "determined_worker": {
+        "name": "Sorgsamer Arbeiter",
+        "women_name": "Sorgsamer Arbeiter"
     },
     "devastatingaxe": {
         "name": "Devastating Axe",
@@ -787,6 +855,10 @@
         "name": "Verzauberer",
         "women_name": "Verzauberin"
     },
+    "endless_talker": {
+        "name": "Labertasche",
+        "women_name": "Labertasche"
+    },
     "enfant_beni": {
         "name": "Gesegnetes Kind Jenas",
         "women_name": "Gesegnetes Kind Jenas"
@@ -814,6 +886,10 @@
     "eradicateur_de_valcorenoch": {
         "name": "Ausrotter des Valcorenoch",
         "women_name": "Ausrotterin des Valcorenoch"
+    },
+    "erkunder_des_umlands": {
+        "name": "Erkunder des Umlands",
+        "women_name": "Erkunderin des Umlands"
     },
     "esteemedcitizen": {
         "name": "Angesehener Tryker-Bürger",
@@ -7943,6 +8019,10 @@
         "name": "Marodeur",
         "women_name": "Marodeurin"
     },
+    "marauder_banner": {
+        "name": "Marodeur Flagge",
+        "women_name": "Marodeur Flagge"
+    },
     "marauderapprentice": {
         "name": "Marodeurs-Anwärter",
         "women_name": "Marodeurs-Anwärterin"
@@ -8219,6 +8299,10 @@
         "name": "Todesstoß",
         "women_name": "Todesstoß"
     },
+    "motivated_explorer": {
+        "name": "Motivierter Entdecker",
+        "women_name": "Motivierter Entdecker"
+    },
     "mrsnow_mainland": {
         "name": "Herr Schnees fleißigster Helfer",
         "women_name": "Herr Schnees fleißigste Helferin"
@@ -8314,6 +8398,10 @@
     "owner_of": {
         "name": "#players #pet",
         "women_name": "#players #pet"
+    },
+    "passionate_magician": {
+        "name": "Passionierter Magier",
+        "women_name": "Passionierter Magier"
     },
     "pathetic_loser": {
         "name": "Erbärmlicher Verlierer",
@@ -8419,6 +8507,10 @@
         "name": "Rasender Ronny-Reiter",
         "women_name": "Rasender Ronny-Reiter"
     },
+    "recidivist_refugee": {
+        "name": "Erneuter Flüchtling",
+        "women_name": "Erneuter Flüchtling"
+    },
     "reflectiveinitiate": {
         "name": "Bedächtiger Zoraï-Initiat",
         "women_name": "Bedächtige Zoraï-Initiatin"
@@ -8426,6 +8518,10 @@
     "refugee": {
         "name": "Flüchtling",
         "women_name": "Flüchtling"
+    },
+    "relentless_picker": {
+        "name": "Rastloser Ernter",
+        "women_name": "Rastloser Ernter"
     },
     "rendors": {
         "name": "Offizieller Jäger - Silan 2613",
@@ -8506,6 +8602,10 @@
     "ry_pyk_al": {
         "name": "Ry-Pyk'al",
         "women_name": "Ry-Pyk'al"
+    },
+    "ryzom_ambassador": {
+        "name": "Abgesandter von Ryzom",
+        "women_name": "Abgesandte von Ryzom"
     },
     "sandcaravanner": {
         "name": "Dünen-Karavanenführer",
@@ -8610,6 +8710,10 @@
     "spearman": {
         "name": "Lanzenkämpfer",
         "women_name": "Lanzenkämpferin"
+    },
+    "speer": {
+        "name": "Marodeur Flagge",
+        "women_name": "Marodeur Flagge"
     },
     "spirit_of_atys": {
         "name": "Seele von Atys",
@@ -8948,8 +9052,8 @@
         "women_name": "Ohne Jetons"
     },
     "treasure_chiang": {
-        "name": "",
-        "women_name": ""
+        "name": "Silans Truhe der Weisheit",
+        "women_name": "Silans Truhe der Weisheit"
     },
     "treedesigner": {
         "name": "Segensfestbaumschmücker",

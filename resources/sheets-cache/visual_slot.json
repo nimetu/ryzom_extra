@@ -403,7 +403,9 @@
         "189": "zo_hom_hair_style05.sitem",
         "190": "iccahh_b.sitem",
         "191": "eroukan_h.sitem",
-        "192": "ic_anlor_helmet01.sitem"
+        "192": "ic_anlor_helmet01.sitem",
+        "193": "rp_contest_2022_a.sitem",
+        "194": "rp_contest_2022_b.sitem"
     },
     "4": {
         "1": "icfahs.sitem",
@@ -1320,7 +1322,16 @@
         "625": "teddtorbak.sitem",
         "626": "icwm1pd_mark1.sitem",
         "627": "icwm1ss_mark1.sitem",
-        "628": "icwm2ss_mark1.sitem"
+        "628": "icwm2ss_mark1.sitem",
+        "629": "toolbox.sitem",
+        "630": "itrtfo_blue.sitem",
+        "631": "itrtfo_red.sitem",
+        "632": "icrm1pd_amber.sitem",
+        "633": "icrm1pd_black.sitem",
+        "634": "icrm1pd_purple.sitem",
+        "635": "icrm1pd_red.sitem",
+        "636": "icrm2ms_green.sitem",
+        "637": "icrm2ms_red.sitem"
     },
     "9": {
         "1": "icfm1pd.sitem",
@@ -1393,6 +1404,10 @@
         "68": "icogenm1pd_2.sitem",
         "69": "icomarm1pd_1.sitem",
         "70": "icomarm1pd_2.sitem",
-        "71": "icwm1pd_mark1.sitem"
+        "71": "icwm1pd_mark1.sitem",
+        "72": "icrm1pd_amber.sitem",
+        "73": "icrm1pd_black.sitem",
+        "74": "icrm1pd_purple.sitem",
+        "75": "icrm1pd_red.sitem"
     }
 }

@@ -98494,5 +98494,21 @@
         "givable": 0,
         "mountable": 0,
         "display_in_radar": 1
+    },
+    "cpcfa1": {
+        "sheetid": "cpcfa1",
+        "gender": 0,
+        "race": "70",
+        "fame": "none",
+        "speed": 0,
+        "region_force": 1,
+        "force_level": 1,
+        "level": 1,
+        "selectable": 1,
+        "talkable": 0,
+        "attackable": 1,
+        "givable": 0,
+        "mountable": 0,
+        "display_in_radar": 1
     }
 }

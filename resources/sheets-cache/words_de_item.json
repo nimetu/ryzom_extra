@@ -14087,6 +14087,54 @@
         "da": "der",
         "description": "Schlichte Nahkampfwaffe"
     },
+    "icrm1pd_amber": {
+        "name": "Bernsteinfarbener Dolch des Angreifers",
+        "named": "",
+        "nameda": "",
+        "p": "Bernsteinfarbener Dolch des Angreifers",
+        "pd": "",
+        "pia": "",
+        "pda": "die",
+        "ia": "eine",
+        "da": "die",
+        "description": "Bernsteinfarbener Dolch des Angreifers"
+    },
+    "icrm1pd_black": {
+        "name": "Schwarzer Dolch des Ninja",
+        "named": "",
+        "nameda": "",
+        "p": "Schwarzer Dolch des Ninja",
+        "pd": "",
+        "pia": "",
+        "pda": "die",
+        "ia": "eine",
+        "da": "die",
+        "description": "Schwarzer Dolch des Ninja"
+    },
+    "icrm1pd_purple": {
+        "name": "Violetter Dolch der Ausdauer",
+        "named": "",
+        "nameda": "",
+        "p": "Violetter Dolch der Ausdauer",
+        "pd": "",
+        "pia": "",
+        "pda": "die",
+        "ia": "eine",
+        "da": "die",
+        "description": "Violetter Dolch der Ausdauer"
+    },
+    "icrm1pd_red": {
+        "name": "Roter Dolch des Überlebenden",
+        "named": "",
+        "nameda": "",
+        "p": "Roter Dolch des Überlebenden",
+        "pd": "",
+        "pia": "",
+        "pda": "die",
+        "ia": "eine",
+        "da": "die",
+        "description": "Roter Dolch des Überlebenden"
+    },
     "icrm1ss": {
         "name": "Flüchtlings-Schwert",
         "named": "Flüchtlings-Schwert",
@@ -14110,6 +14158,30 @@
         "ia": "ein",
         "da": "der",
         "description": "der Magieverstärker-Handschuh verstärkt magische Sprüche, wenn er wie eine Waffe in die Hand genommen wird"
+    },
+    "icrm2ms_green": {
+        "name": "Grüner Magieverstärker der Zähigkeit",
+        "named": "",
+        "nameda": "",
+        "p": "Grüner Magieverstärker der Zähigkeit",
+        "pd": "",
+        "pia": "",
+        "pda": "die",
+        "ia": "eine",
+        "da": "die",
+        "description": "Grüner Magieverstärker der Zähigkeit"
+    },
+    "icrm2ms_red": {
+        "name": "Roter Magieverstärker des Überlebenden",
+        "named": "",
+        "nameda": "",
+        "p": "Roter Magieverstärker des Überlebenden",
+        "pd": "",
+        "pia": "",
+        "pda": "die",
+        "ia": "eine",
+        "da": "die",
+        "description": "Roter Magieverstärker des Überlebenden"
     },
     "ictacb": {
         "name": "Lithen-Stiefel",
@@ -17844,11 +17916,11 @@
         "description": "Pistolen-Munition in Basis-Qualität"
     },
     "iczp2ab": {
-        "name": "Zertrümmernde Maka-Munition",
-        "named": "Zertrümmernde Maka-Munition",
-        "nameda": "Zertrümmernde Maka-Munition",
-        "p": "Zertrümmernde Maka-Munition",
-        "pd": "Zertrümmernde Maka-Munition",
+        "name": "Zertrümmernde Moka-Munition",
+        "named": "Zertrümmernde Moka-Munition",
+        "nameda": "Zertrümmernde Moka-Munition",
+        "p": "Zertrümmernde Moka-Munition",
+        "pd": "Zertrümmernde Moka-Munition",
         "pia": "eine",
         "pda": "die",
         "ia": "eine",
@@ -17856,11 +17928,11 @@
         "description": "Automatikgewehr-Munition in Basis-Qualität"
     },
     "iczp2ap": {
-        "name": "Durchbohrende Maka-Munition",
-        "named": "Durchbohrende Maka-Munition",
-        "nameda": "Durchbohrende Maka-Munition",
-        "p": "Durchbohrende Maka-Munition",
-        "pd": "Durchbohrende Maka-Munition",
+        "name": "Durchbohrende Moka-Munition",
+        "named": "Durchbohrende Moka-Munition",
+        "nameda": "Durchbohrende Moka-Munition",
+        "p": "Durchbohrende Moka-Munition",
+        "pd": "Durchbohrende Moka-Munition",
         "pia": "eine",
         "pda": "die",
         "ia": "eine",
@@ -17868,11 +17940,11 @@
         "description": "Automatikgewehr-Munition in Basis-Qualität"
     },
     "iczp2as": {
-        "name": "Zerschneidende Maka-Munition",
-        "named": "Zerschneidende Maka-Munition",
-        "nameda": "Zerschneidende Maka-Munition",
-        "p": "Zerschneidende Maka-Munition",
-        "pd": "Zerschneidende Maka-Munition",
+        "name": "Zerschneidende Moka-Munition",
+        "named": "Zerschneidende Moka-Munition",
+        "nameda": "Zerschneidende Moka-Munition",
+        "p": "Zerschneidende Moka-Munition",
+        "pd": "Zerschneidende Moka-Munition",
         "pia": "eine",
         "pda": "die",
         "ia": "eine",
@@ -20062,6 +20134,30 @@
         "ia": "eine",
         "da": "die",
         "description": "Werkzeug zum Finden und Ernten von Rohstoffquellen"
+    },
+    "itrtfo_blue": {
+        "name": "Blaue Ernte-Hacke der Unablässigkeit",
+        "named": "",
+        "nameda": "",
+        "p": "Blaue Ernte-Hacke der Unablässigkeit",
+        "pd": "",
+        "pia": "",
+        "pda": "die",
+        "ia": "eine",
+        "da": "die",
+        "description": "Blaue Ernte-Hacke der Unablässigkeit"
+    },
+    "itrtfo_red": {
+        "name": "Rote Hacke der Gestählten",
+        "named": "",
+        "nameda": "",
+        "p": "Rote Hacke der Gestählten",
+        "pd": "",
+        "pia": "",
+        "pda": "die",
+        "ia": "eine",
+        "da": "die",
+        "description": "Rote Hacke der Gestählten"
     },
     "itrtje": {
         "name": "Flüchtlings-Juwelier-Werkzeug",
@@ -87059,6 +87155,18 @@
         "da": "der",
         "description": ""
     },
+    "spawn_psykopla": {
+        "name": "Psykopla-Knospe",
+        "named": "Psykopla-Knospen",
+        "nameda": "Psykopla-Knospen",
+        "p": "Psykopla-Knospe",
+        "pd": "Psykopla-Knospen",
+        "pia": "einen",
+        "pda": "die",
+        "ia": "eine",
+        "da": "die",
+        "description": "Psykopla-Knospe"
+    },
     "stableboy_whistle": {
         "name": "Pfeife des Stallburschen",
         "named": "Pfeife des Stalljungen",
@@ -88306,6 +88414,18 @@
         "ia": "ein",
         "da": "der",
         "description": ""
+    },
+    "toolbox": {
+        "name": "Box",
+        "named": "",
+        "nameda": "",
+        "p": "Box",
+        "pd": "",
+        "pia": "",
+        "pda": "die",
+        "ia": "eine",
+        "da": "die",
+        "description": "Box"
     },
     "tools_ticket": {
         "name": "verbessertes Werkzeug",

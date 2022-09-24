@@ -141847,5 +141847,229 @@
         "required_skills": {
             "sc": 20
         }
+    },
+    "drunk_penalty": {
+        "sheet_id": "drunk_penalty",
+        "brick_family": 451,
+        "index_in_family": 98,
+        "level": 0,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "ico_mission_bottle.png",
+            "back": "ef_back.png"
+        }
+    },
+    "bcrmea16": {
+        "sheet_id": "bcrmea16",
+        "brick_family": 194,
+        "index_in_family": 16,
+        "level": 16,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 3,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 30,
+        "used_skills": [
+            121
+        ],
+        "civ_restriction": 6,
+        "required_bricks": [
+            "bcpa25"
+        ],
+        "icon": {
+            "main": "mg_glove.png",
+            "back": "bk_generic_brick.png",
+            "over": "fp_over.png"
+        },
+        "required_skills": {
+            "sc": 0
+        }
+    },
+    "bcrmea17": {
+        "sheet_id": "bcrmea17",
+        "brick_family": 194,
+        "index_in_family": 17,
+        "level": 17,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 3,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 30,
+        "used_skills": [
+            121
+        ],
+        "civ_restriction": 6,
+        "required_bricks": [
+            "bcpa25"
+        ],
+        "icon": {
+            "main": "mg_glove.png",
+            "back": "bk_generic_brick.png",
+            "over": "fp_over.png"
+        },
+        "required_skills": {
+            "sc": 0
+        }
+    },
+    "bcrmea18": {
+        "sheet_id": "bcrmea18",
+        "brick_family": 194,
+        "index_in_family": 18,
+        "level": 18,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 3,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 30,
+        "used_skills": [
+            121
+        ],
+        "civ_restriction": 6,
+        "required_bricks": [
+            "bcpa25"
+        ],
+        "icon": {
+            "main": "mg_glove.png",
+            "back": "bk_generic_brick.png",
+            "over": "fp_over.png"
+        },
+        "required_skills": {
+            "sc": 0
+        }
+    },
+    "bcrmea19": {
+        "sheet_id": "bcrmea19",
+        "brick_family": 194,
+        "index_in_family": 19,
+        "level": 19,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 3,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 30,
+        "used_skills": [
+            121
+        ],
+        "civ_restriction": 6,
+        "required_bricks": [
+            "bcpa25"
+        ],
+        "icon": {
+            "main": "mg_glove.png",
+            "back": "bk_generic_brick.png",
+            "over": "fp_over.png"
+        },
+        "required_skills": {
+            "sc": 0
+        }
+    },
+    "bcrmea20": {
+        "sheet_id": "bcrmea20",
+        "brick_family": 194,
+        "index_in_family": 20,
+        "level": 20,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 3,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 30,
+        "used_skills": [
+            121
+        ],
+        "civ_restriction": 6,
+        "required_bricks": [
+            "bcpa25"
+        ],
+        "icon": {
+            "main": "mg_glove.png",
+            "back": "bk_generic_brick.png",
+            "over": "fp_over.png"
+        },
+        "required_skills": {
+            "sc": 0
+        }
+    },
+    "bcrmea21": {
+        "sheet_id": "bcrmea21",
+        "brick_family": 194,
+        "index_in_family": 21,
+        "level": 21,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 3,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 30,
+        "used_skills": [
+            121
+        ],
+        "civ_restriction": 6,
+        "required_bricks": [
+            "bcpa25"
+        ],
+        "icon": {
+            "main": "mg_glove.png",
+            "back": "bk_generic_brick.png",
+            "over": "fp_over.png"
+        },
+        "required_skills": {
+            "sc": 0
+        }
     }
 }

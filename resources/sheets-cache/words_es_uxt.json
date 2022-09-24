@@ -2286,7 +2286,7 @@
         "name": "Maestro Artesano de Armas Ligeras"
     },
     "melee_warrior": {
-        "name": "Guerrero Cuerpo a Cuerpo"
+        "name": "Luchador Cuerpo a Cuerpo"
     },
     "melee_warrior_apprentice": {
         "name": "Aprendiz de Luchador Cuerpo a Cuerpo"
@@ -5654,6 +5654,9 @@
     "tryker_weapon_smith_apprentice": {
         "name": "Aprendiz de Artesano de Armas Tryker"
     },
+    "ui3dview": {
+        "name": "Vista"
+    },
     "uiabilities": {
         "name": "Habilidades"
     },
@@ -6324,7 +6327,7 @@
         "name": "No mostrar esta advertencia otra vez."
     },
     "uibgd_download": {
-        "name": ""
+        "name": "Descargar"
     },
     "uibgd_downloaderdisconnected": {
         "name": "El Descargador de Ryzom se ha detenido, por favor reinicie Ryzom"
@@ -6408,7 +6411,7 @@
         "name": "Prioridad baja"
     },
     "uibgd_mainlandcharfullpatchneeded": {
-        "name": "Solo se puede acceder a la ubicación en la que se encuentra este personaje después de que el parcheo de fondo halla terminado. El progreso del parcheo de fondo se indica en la barra del progreso."
+        "name": "Solo se puede acceder a la ubicación en la que se encuentra este personaje después de que el parcheo de fondo termine. El progreso del parcheo de fondo se indica en la barra de progreso."
     },
     "uibgd_minimalinstall": {
         "name": "Instalación mínima. La versión de prueba gratuita de la isla de inicio será instalada."
@@ -7260,7 +7263,7 @@
         "name": "RANURA VACÍA"
     },
     "uicharsel_infos1": {
-        "name": "Información de Selección de personaje  No Vacía"
+        "name": "Información de Selección de personaje - No Vacía"
     },
     "uicharsel_infos2": {
         "name": "Información de Selección de Personaje - Vacía"
@@ -7785,7 +7788,7 @@
         "name": "INFO"
     },
     "uicp_inringsession": {
-        "name": "El Escenario Ring que este personaje ha lanzado se ha quedadó en marcha. Click en @{6F6F}'Continuar Escenario' @{FFFF}para continuar"
+        "name": "El Escenario Ring que este personaje ha lanzado se ha quedado en marcha. Clic en @{6F6F}'Continuar Escenario' @{FFFF}para continuar"
     },
     "uicp_items": {
         "name": "OBJETOS:"
@@ -7836,10 +7839,10 @@
         "name": "Importar la configuración del teclado de este personaje\n@{6F6F}EDITOR SOLAMENTE"
     },
     "uicp_keysetimport_game": {
-        "name": "Importar la configuración del teclado de este personaje\n@{6F6F}GAME ONLY"
+        "name": "Importar la configuración del teclado de este personaje\n@{6F6F}JUEGO SOLAMENTE"
     },
     "uicp_keysetimport_game_editor": {
-        "name": "Importar la configuración del teclado de este personaje\n@{6F6F}JUEGO & EDITOR"
+        "name": "Importar la configuración del teclado de este personaje\n@{6F6F}JUEGO Y EDITOR"
     },
     "uicp_keysetname_": {
         "name": "Utilizar las flechas para moverse"
@@ -7899,13 +7902,13 @@
         "name": "ROSTRO"
     },
     "uicp_menu_5": {
-        "name": "ACCIONES"
+        "name": "FONDO"
     },
     "uicp_name_cancel": {
         "name": "CANCELAR"
     },
     "uicp_name_enter": {
-        "name": "Introducir Nombre\n\nCada personaje de Ryzom tiene un nombre único que le permite reconozcer y communicarse con otros jugadores. El nombre debe seguir las reglas de la Política de Nombres (ver www.ryzom.com) y debe consistir en una sola palabra compuesta por las letras de la A a la Z sin acentos, espacios, números o símbolos especiales.\n"
+        "name": "Introducir Nombre\n\nCada personaje de Ryzom tiene un nombre único que le permite reconocer y comunicarse con otros jugadores. El nombre debe seguir las reglas de la Política de Nombres (ver www.ryzom.com) y debe consistir en una sola palabra compuesta por las letras de la A a la Z, sin acentos, espacios, números o símbolos especiales.\n"
     },
     "uicp_name_generate": {
         "name": "Generar"
@@ -8244,7 +8247,7 @@
         "name": "Definir el color UI Nocturno"
     },
     "uideftooltipcolor": {
-        "name": ""
+        "name": "Definir color de fondo de Información de herramientas"
     },
     "uidelchar": {
         "name": "¿BORRAR ESTE PERSONAJE?"
@@ -9395,6 +9398,9 @@
     "uiemptybuilding": {
         "name": "Vacío"
     },
+    "uiemptyitemgroups": {
+        "name": "Crear un grupo de objetos para empezar"
+    },
     "uiemptyjob": {
         "name": "- Ningún trabajo activado -"
     },
@@ -9496,6 +9502,9 @@
     },
     "uiexitlogin": {
         "name": "SALIR"
+    },
+    "uiexpandwindow": {
+        "name": "Redimensionar para Ajustar"
     },
     "uiexpandwindows": {
         "name": "Mostrar\/Ocultar Botones del Escritorio"
@@ -10004,6 +10013,9 @@
     "uifinished": {
         "name": "Terminando"
     },
+    "uifinishlessons": {
+        "name": ""
+    },
     "uifirewallalert": {
         "name": "Por favor conceda permiso firewall a Ryzom"
     },
@@ -10362,7 +10374,7 @@
         "name": "Miembros del Grupo"
     },
     "uiguild": {
-        "name": "GREMIO"
+        "name": "Gremio"
     },
     "uiguildbearer": {
         "name": "Mensajero"
@@ -10848,7 +10860,7 @@
         "name": "@{FFF9}@{HuittActionSuccessRateSH}Tasa de Éxito@{H} En las Primeras Raíces:@{T16}@{FFFF}%suc_prime\n"
     },
     "uihelpphraseheaderbricks": {
-        "name": " "
+        "name": "  @{FFFF}--- Estrofas ---"
     },
     "uihelpphrasemagicformat": {
         "name": "@{FFF9}Nombre de la Acción:@{T12}@{FFFF}%name\n@{FFF9}Coste de Acción:@{T12}@{FFFF}%cost\n@{FFF9}Crédito de Acción:@{T12}@{FFFF}%credit\n@{FFF9}@{HuittActionSpellLevel}Nivel de Hechizo:@{H}@{T12}@{FFFF}%mglvl\n%magicresist\n%compostart@{FFF9}@{HuittActionSuccessRateSM}Tasa de Éxito:@{H}@{T14}@{FFFF}%success%\n@{FFF9}Duración del Lanzamiento:@{T14}@{FFFF}%duration segundos\n@{FFF9}Coste de Savia:@{T14}@{FFFF}%energy_cost\n@{FFF9}Coste de Salud:@{T14}@{FFFF}%hp_cost\n@{FFF9}Alcance:@{T14}@{FFFF}%range\n@{FFFF}%desc%req"
@@ -11004,13 +11016,13 @@
         "name": "Holeth"
     },
     "uihome": {
-        "name": "Inicio"
+        "name": "INICIO"
     },
     "uihorizontal": {
         "name": "Horizontal"
     },
     "uihotbartitle": {
-        "name": ""
+        "name": "BOLSILLOS"
     },
     "uihp": {
         "name": "SALUD"
@@ -11829,7 +11841,7 @@
         "name": "CONTROLD"
     },
     "uikeyleft": {
-        "name": "IZQUIERDO"
+        "name": "IZQUIERDA"
     },
     "uikeylmenu": {
         "name": "MENÚI"
@@ -11973,7 +11985,7 @@
         "name": "WIND"
     },
     "uikeys": {
-        "name": "Teclas"
+        "name": "S"
     },
     "uikeysactionstitle": {
         "name": "TECLAS DE ACCIÓN"
@@ -12233,6 +12245,9 @@
     "uilmwoodcolor": {
         "name": "Madera"
     },
+    "uiloading": {
+        "name": "Cargando..."
+    },
     "uiloadingstring0": {
         "name": "Instalando Yubos ninja..."
     },
@@ -12472,6 +12487,9 @@
     },
     "uilock": {
         "name": "Bloquear"
+    },
+    "uilockicons": {
+        "name": "Anclar iconos"
     },
     "uilodvalue": {
         "name": "NORMAL"
@@ -13391,6 +13409,9 @@
     "uimk_emotes": {
         "name": "EMOTICONOS"
     },
+    "uimk_encyclopedia": {
+        "name": "Enciclopedia"
+    },
     "uimk_game": {
         "name": "JUEGO"
     },
@@ -13494,9 +13515,12 @@
         "name": "Configuración"
     },
     "uimk_system1_short": {
-        "name": ""
+        "name": "Config."
     },
     "uimk_system2": {
+        "name": "Teclas"
+    },
+    "uimk_system2_abrv": {
         "name": "Teclas"
     },
     "uimk_system3": {
@@ -16971,7 +16995,7 @@
         "name": "Saltar Intro"
     },
     "uislotnumber": {
-        "name": ""
+        "name": "Número de ranura"
     },
     "uisnowy": {
         "name": "Nevada"
@@ -17014,6 +17038,9 @@
     },
     "uispecialpowerfilter": {
         "name": "Poderes"
+    },
+    "uispeedfactorzero": {
+        "name": "Su factor de rapidez es cero y usted es incapaz de moverse."
     },
     "uispellbooktitle": {
         "name": "LIBRO DE HECHIZOS"
@@ -17787,10 +17814,10 @@
         "name": "HERRAMIENTA"
     },
     "uitooltipcolor": {
-        "name": ""
+        "name": "Color del fondo"
     },
     "uitooltipopacity": {
-        "name": ""
+        "name": "Opacidad de información de herramientas"
     },
     "uitorso": {
         "name": "TORSO"
@@ -18615,22 +18642,22 @@
         "name": "Casco"
     },
     "uitthotbaritem": {
-        "name": ""
+        "name": "Bolsillos"
     },
     "uitthotbaritem1": {
-        "name": ""
+        "name": "Bolsillo 1"
     },
     "uitthotbaritem2": {
-        "name": ""
+        "name": "Bolsillo 2"
     },
     "uitthotbaritem3": {
-        "name": ""
+        "name": "Bolsillo 3"
     },
     "uitthotbaritem4": {
-        "name": ""
+        "name": "Bolsillo 4"
     },
     "uitthotbaritem5": {
-        "name": ""
+        "name": "Bolsillo 5"
     },
     "uitthours": {
         "name": " hora(s) "
@@ -18859,6 +18886,9 @@
     },
     "uittinvslots": {
         "name": "@{6F6F}Ranuras@{FFFF}usadas\/máximo"
+    },
+    "uittitemgroupnameinput": {
+        "name": "Nombre del grupo de objetos\n@{FFFA}(Precedido por @{3F3F}!@{FFFA} para retirar las ranuras vacías)"
     },
     "uittkeepinfo": {
         "name": "@{6F6F}Fijar@{FFFF} esta ventana.\nSi se fija, la información de otros objetos será mostrada en una nueva ventana.\nSi no se fija, esta ventana se reutilizará."
@@ -19252,6 +19282,9 @@
     },
     "uittplayercolor": {
         "name": "Color usado para visualizar a los personajes jugadores"
+    },
+    "uittplayerelyps": {
+        "name": "Elyps"
     },
     "uittplayerfocusformat": {
         "name": "Concentración: %v\/%m"
@@ -19682,6 +19715,9 @@
     "uiuniversetitle": {
         "name": "CHAT DEL UNIVERSO"
     },
+    "uiunlockicons": {
+        "name": "Desanclar iconos"
+    },
     "uiunpack": {
         "name": "Descompresión BNP:"
     },
@@ -19731,7 +19767,7 @@
         "name": "Usar EAX"
     },
     "uiusehotbaritem": {
-        "name": ""
+        "name": "Usar bolsillo"
     },
     "uiuseitem": {
         "name": "Usar ítem"
@@ -19959,7 +19995,7 @@
         "name": "@{6F6F}Sabiduría@{FFFF},\nes una medida de control mental. La sabiduría es esencial para cualquiera que desee utilizar Magia."
     },
     "uiwisdomchest": {
-        "name": ""
+        "name": "Cofre de Sabiduría"
     },
     "uiwishmax": {
         "name": "Concentración Máx"

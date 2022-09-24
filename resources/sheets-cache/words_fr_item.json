@@ -1234,9 +1234,9 @@
     },
     "event_incandescent_wood": {
         "name": "Bois incandescent",
-        "ia": "du",
-        "da": "le",
-        "p": "Bois incandescent",
+        "ia": "un",
+        "da": "l'",
+        "p": "Bois incandescents",
         "pia": "des",
         "pda": "les",
         "description": ""
@@ -10565,6 +10565,42 @@
         "pda": "les",
         "description": ""
     },
+    "icrm1pd_amber": {
+        "name": "Dague d'ambre du percutant",
+        "ia": "un",
+        "da": "l'",
+        "p": "Dague d'ambre du percutant",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "icrm1pd_black": {
+        "name": "Dague noire du ninja",
+        "ia": "un",
+        "da": "l'",
+        "p": "Dague noire du ninja",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "icrm1pd_purple": {
+        "name": "Dague violette de l'infatigable",
+        "ia": "un",
+        "da": "l'",
+        "p": "Dague violette de l'infatigable",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "icrm1pd_red": {
+        "name": "Dague rouge du survivant",
+        "ia": "un",
+        "da": "l'",
+        "p": "Dague rouge du survivant",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
     "icrm1ss": {
         "name": "Épée de réfugié",
         "ia": "une",
@@ -10579,6 +10615,24 @@
         "ia": "un",
         "da": "l'",
         "p": "Amplificateurs Magiques de réfugié",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "icrm2ms_green": {
+        "name": "Amplis verts du tenace",
+        "ia": "un",
+        "da": "l'",
+        "p": "Amplis verts du tenace",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "icrm2ms_red": {
+        "name": "Amplis rouges du rescapé",
+        "ia": "un",
+        "da": "l'",
+        "p": "Amplis rouges du rescapé",
         "pia": "des",
         "pda": "les",
         "description": ""
@@ -15043,6 +15097,24 @@
         "ia": "un",
         "da": "l'",
         "p": "Outils de forage de réfugié",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "itrtfo_blue": {
+        "name": "Pioche bleue de l'inlassable",
+        "ia": "un",
+        "da": "l'",
+        "p": "Pioche bleue de l'inlassable",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "itrtfo_red": {
+        "name": "Pioche rouge de l'endurci",
+        "ia": "un",
+        "da": "l'",
+        "p": "Pioche rouge de l'endurci",
         "pia": "des",
         "pda": "les",
         "description": ""
@@ -65294,6 +65366,15 @@
         "pda": "les",
         "description": ""
     },
+    "spawn_psykopla": {
+        "name": "Bourgeon de Psykopla",
+        "ia": "un",
+        "da": "l'",
+        "p": "Bourgeons de Psykopla",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
     "stableboy_whistle": {
         "name": "Murmure de garçon d'étable",
         "ia": "un",
@@ -66226,6 +66307,15 @@
         "ia": "une",
         "da": "la",
         "p": "Pinces parfaites de Kipee Mauvais",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "toolbox": {
+        "name": "Caisse à bidules",
+        "ia": "un",
+        "da": "l'",
+        "p": "Caisses à bidules",
         "pia": "des",
         "pda": "les",
         "description": ""

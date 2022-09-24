@@ -215,6 +215,54 @@
         "name": "Segador Supremo - 2615",
         "women_name": "Segadora Suprema - 2615"
     },
+    "2620_number1_marathon": {
+        "name": "Medalla de Ámbar - Maratón",
+        "women_name": "Medalla de Ámbar - Maratón"
+    },
+    "2620_number1_mektoub": {
+        "name": "Medalla de Ámbar - Carrera de Mektoubs",
+        "women_name": "Medalla de Ámbar - Carrera de Mektoubs"
+    },
+    "2620_number1_swimming": {
+        "name": "Medalla de Ámbar - Natación",
+        "women_name": "Medalla de Ámbar - Natación"
+    },
+    "2620_number1_triathlon": {
+        "name": "Medalla de Ámbar - Triatlón",
+        "women_name": "Medalla de Ámbar - Triatlón"
+    },
+    "2620_number2_marathon": {
+        "name": "Medalla de Ámbar - Maratón",
+        "women_name": "Medalla de Ámbar - Maratón"
+    },
+    "2620_number2_mektoub": {
+        "name": "Medalla de Ámbar - Carrera de Mektoubs",
+        "women_name": "Medalla de Ámbar - Carrera de Mektoubs"
+    },
+    "2620_number2_swimming": {
+        "name": "Medalla de Ámbar - Natación",
+        "women_name": "Medalla de Ámbar - Natación"
+    },
+    "2620_number2_triathlon": {
+        "name": "Medalla de Ámbar - Triatlón",
+        "women_name": "Medalla de Ámbar - Triatlón"
+    },
+    "2620_number3_marathon": {
+        "name": "Medalla de Cuerno - Maratón",
+        "women_name": "Medalla de Cuerno - Maratón"
+    },
+    "2620_number3_mektoub": {
+        "name": "Medalla de Cuerno - Carrera de Mektoubs",
+        "women_name": "Medalla de Cuerno - Carrera de Mektoubs"
+    },
+    "2620_number3_swimming": {
+        "name": "Medalla de Cuerno - Natación",
+        "women_name": "Medalla de Cuerno - Natación"
+    },
+    "2620_number3_triathlon": {
+        "name": "Medalla de Cuerno - Triatlón",
+        "women_name": "Medalla de Cuerno - Triatlón"
+    },
     "accomplisheddisciple": {
         "name": "Discípulo Consumado Kami",
         "women_name": "Discípula Consumada Kami"
@@ -338,6 +386,14 @@
     "amber_medal_atys_tournament_3": {
         "name": "Medalla de Cuerno - Torneo de Atys 2613",
         "women_name": "Medalla de Cuerno - Torneo de Atys 2613"
+    },
+    "ambitious_fighter": {
+        "name": "Luchador Ambicioso",
+        "women_name": "Luchadora Ambiciosa"
+    },
+    "amnesiac_adventurer": {
+        "name": "Aventurero Amnésico",
+        "women_name": "Aventurera Amnésica"
     },
     "anarchist": {
         "name": "Anarquista",
@@ -523,6 +579,10 @@
         "name": "Biomancer",
         "women_name": "Biomancer"
     },
+    "black_kami": {
+        "name": "Maraudeur",
+        "women_name": "Maraudeur"
+    },
     "black_mage": {
         "name": "Mago Negro",
         "women_name": "Maga Negra"
@@ -699,6 +759,10 @@
         "name": "Ragus Contaminado",
         "women_name": ""
     },
+    "dedicated_altruist": {
+        "name": "Altruista Devoto",
+        "women_name": "Altruista Devota"
+    },
     "defensive_magician": {
         "name": "Mago Defensivo",
         "women_name": "Maga Defensiva"
@@ -710,6 +774,10 @@
     "destroyer": {
         "name": "Destructor",
         "women_name": "Destructora"
+    },
+    "determined_worker": {
+        "name": "Trabajador Determinado",
+        "women_name": "Trabajadora Determinada"
     },
     "devastatingaxe": {
         "name": "Devastating Axe",
@@ -779,6 +847,10 @@
         "name": "Encantador",
         "women_name": "Encantadora"
     },
+    "endless_talker": {
+        "name": "Hablador Incansable",
+        "women_name": "Habladora Incansable"
+    },
     "enfant_beni": {
         "name": "Bendito Niño de Jena",
         "women_name": "Bendita Niña de Jena"
@@ -806,6 +878,10 @@
     "eradicateur_de_valcorenoch": {
         "name": "Erradicador del Valcorenoch",
         "women_name": "Erradicador del Valcorenoch"
+    },
+    "erkunder_des_umlands": {
+        "name": "Explorador de los Alrededores",
+        "women_name": "Exploradora de los Alrededores"
     },
     "esteemedcitizen": {
         "name": "Célebre Ciudadano Tryker",
@@ -2441,7 +2517,7 @@
     },
     "forager_apprentice": {
         "name": "Aprendiz de Buscador",
-        "women_name": "Arpendiz de Buscadora"
+        "women_name": "Aprendiz de Buscadora"
     },
     "forest_forager": {
         "name": "Buscador del Bosque",
@@ -2468,8 +2544,8 @@
         "women_name": "Aprendiz de Artesana Fyros"
     },
     "fyros_eggs_catcher": {
-        "name": "Ególogo Ardiente",
-        "women_name": "Ególoga Ardiente"
+        "name": "Huevólogo Ardiente",
+        "women_name": "Huevóloga Ardiente"
     },
     "fyros_gun_smith_apprentice": {
         "name": "Aprendiz de Armero Fyros",
@@ -2477,7 +2553,7 @@
     },
     "fyros_jeweler_apprentice": {
         "name": "Aprendiz de Joyero Fyros",
-        "women_name": "Arpendiz de Joyera Fyros"
+        "women_name": "Aprendiz de Joyera Fyros"
     },
     "fyros_munitioner_apprentice": {
         "name": "Aprendiz de Proveedor de Municiones Fyros",
@@ -7528,7 +7604,7 @@
         "women_name": "Maestra Pesada Experta"
     },
     "heavy_armsman": {
-        "name": "Amero Pesado",
+        "name": "Armero Pesado",
         "women_name": "Armera Pesada"
     },
     "heavy_artilleryman": {
@@ -7935,6 +8011,10 @@
         "name": "Marauder",
         "women_name": "Marauder"
     },
+    "marauder_banner": {
+        "name": "Bandera Marauder",
+        "women_name": "Bandera Marauder"
+    },
     "marauderapprentice": {
         "name": "Aprendiz de Marauder",
         "women_name": "Aprendiz de Marauder"
@@ -8076,8 +8156,8 @@
         "women_name": "Aprendiz de Artesana Matis"
     },
     "matis_eggs_catcher": {
-        "name": "Digno Ególoga",
-        "women_name": "Digna Ególoga"
+        "name": "Digno Huevólogo",
+        "women_name": "Digna Huevóloga"
     },
     "matis_gun_smith_apprentice": {
         "name": "Aprendiz Armero Matis",
@@ -8100,8 +8180,8 @@
         "women_name": "Maestra  fabricante de pergaminos"
     },
     "matis_shield_smith_apprentice": {
-        "name": "Aprendiz de Herrero de Escudos Matis",
-        "women_name": "Aprendiz de Herrero de Escudos Matis"
+        "name": "Aprendiz Forjador de Escudos Matis",
+        "women_name": "Aprendiz Forjadora de Escudos Matis"
     },
     "matis_weapon_smith_apprentice": {
         "name": "Aprendiz de Herrero de Armas Matis",
@@ -8152,8 +8232,8 @@
         "women_name": "Herrera de Armas Pesadas de Combate Cuerpo a Cuerpo"
     },
     "melee_heavy_weapon_smith_master": {
-        "name": "Maestro Herrero de Escudo Pesado de Lucha Cuerpo a Cuerpo",
-        "women_name": "Maestra Herrera de Escudo Pesado de Lucha Cuerpo a Cuerpo"
+        "name": "Maestro Armero de Combate Pesado",
+        "women_name": "Maestra Armera de Combate Pesado"
     },
     "melee_light_weapon_smith": {
         "name": "Herrero de Armas Livianas de Combate Cuerpo a Cuerpo",
@@ -8210,6 +8290,10 @@
     "mort_subite": {
         "name": "Muerte Súbita",
         "women_name": "Muerte Súbita"
+    },
+    "motivated_explorer": {
+        "name": "Explorador Motivado",
+        "women_name": "Exploradora Motivada"
     },
     "mrsnow_mainland": {
         "name": "El ayudante más aplicado del Sr. Snow",
@@ -8306,6 +8390,10 @@
     "owner_of": {
         "name": "#pet de #player",
         "women_name": "#pet de #player"
+    },
+    "passionate_magician": {
+        "name": "Mago Apasionado",
+        "women_name": "Maga Apasionada"
     },
     "pathetic_loser": {
         "name": "Perdedor patético",
@@ -8411,6 +8499,10 @@
         "name": "Corredor Rápido de Correos",
         "women_name": "Corredora Rápida de Correos"
     },
+    "recidivist_refugee": {
+        "name": "Refugiado reincidente",
+        "women_name": "Refugiada reincidente"
+    },
     "reflectiveinitiate": {
         "name": "Iniciado Zoraï Reflexivo",
         "women_name": "Iniciada Zoraï Reflexiva"
@@ -8418,6 +8510,10 @@
     "refugee": {
         "name": "Refugiado",
         "women_name": "Refugiada"
+    },
+    "relentless_picker": {
+        "name": "Recolector Implacable",
+        "women_name": "Recolectora Implacable"
     },
     "rendors": {
         "name": "Cazador Oficial - Silan 2613",
@@ -8498,6 +8594,10 @@
     "ry_pyk_al": {
         "name": "Ry-Pyk'al",
         "women_name": "Ry-Pyk'al"
+    },
+    "ryzom_ambassador": {
+        "name": "Embajador de Ryzom",
+        "women_name": "Embajadora de Ryzom"
     },
     "sandcaravanner": {
         "name": "Karavanner de la Arena",
@@ -8602,6 +8702,10 @@
     "spearman": {
         "name": "Lancero",
         "women_name": "Lancera"
+    },
+    "speer": {
+        "name": "",
+        "women_name": ""
     },
     "spirit_of_atys": {
         "name": "Espíritu de Atys",
@@ -8932,7 +9036,7 @@
         "women_name": "Sin fichas"
     },
     "treasure_chiang": {
-        "name": "",
+        "name": "Cofre de la Sabiduría de Silan",
         "women_name": ""
     },
     "treedesigner": {
@@ -8984,8 +9088,8 @@
         "women_name": "Aprendiz de Artesana Tryker"
     },
     "tryker_eggs_catcher": {
-        "name": "Ególogo Travieso",
-        "women_name": "Ególogo Traviesa"
+        "name": "Huevólogo Travieso",
+        "women_name": "Huevóloga Traviesa"
     },
     "tryker_gun_smith_apprentice": {
         "name": "Aprendiz de Armero Tryker",
@@ -9008,8 +9112,8 @@
         "women_name": ""
     },
     "tryker_shield_smith_apprentice": {
-        "name": "Aprendiz de Herrero de Escudos Tryker",
-        "women_name": "Aprendiz de Herrero de Escudos Tryker"
+        "name": "Aprendiz Forjador de Escudos Tryker",
+        "women_name": "Aprendiz Forjadora de Escudos Tryker"
     },
     "tryker_weapon_smith_apprentice": {
         "name": "Aprendiz de Herrero de Armas Tryker",
@@ -9136,8 +9240,8 @@
         "women_name": ""
     },
     "zorai_shield_smith_apprentice": {
-        "name": "Aprendiz de Forjador de Escudos Zoraï",
-        "women_name": "Aprendiz de Forjadora de Escudos Zoraï"
+        "name": "Aprendiz Forjador de Escudos Zoraï",
+        "women_name": "Aprendiz Forjadora de Escudos Zoraï"
     },
     "zorai_weapon_smith_apprentice": {
         "name": "Aprendiz de Forjador de Armas Zoraï",
@@ -9164,7 +9268,7 @@
         "women_name": "Torturadora de Zoraïs"
     },
     "zoria_eggs_catcher": {
-        "name": "Ególogo Sabio",
-        "women_name": "Ególogo Sabia"
+        "name": "Huevólogo Sabio",
+        "women_name": "Huevóloga Sabia"
     }
 }

@@ -10565,6 +10565,42 @@
         "pda": "las",
         "description": ""
     },
+    "icrm1pd_amber": {
+        "name": "Daga ámbar del Golpeador",
+        "ia": "uno",
+        "da": "el",
+        "p": "Daga ámbar del Golpeador",
+        "pia": "unos",
+        "pda": "los",
+        "description": ""
+    },
+    "icrm1pd_black": {
+        "name": "Daga negra del Ninja",
+        "ia": "uno",
+        "da": "el",
+        "p": "Daga negra del Ninja",
+        "pia": "unos",
+        "pda": "los",
+        "description": ""
+    },
+    "icrm1pd_purple": {
+        "name": "Daga violeta del Infatigable",
+        "ia": "uno",
+        "da": "el",
+        "p": "Daga violeta del Infatigable",
+        "pia": "unos",
+        "pda": "los",
+        "description": ""
+    },
+    "icrm1pd_red": {
+        "name": "Daga Roja del Sobreviviente",
+        "ia": "uno",
+        "da": "el",
+        "p": "Daga Roja del Sobreviviente",
+        "pia": "unos",
+        "pda": "los",
+        "description": ""
+    },
     "icrm1ss": {
         "name": "Espada de Refugiado",
         "ia": "una",
@@ -10580,6 +10616,24 @@
         "da": "el",
         "p": "Amplificadores Mágicos de Refugiado",
         "pia": "",
+        "pda": "los",
+        "description": ""
+    },
+    "icrm2ms_green": {
+        "name": "Amplificadores verdes de Tenacidad",
+        "ia": "uno",
+        "da": "el",
+        "p": "Amplificadores verdes de Tenacidad",
+        "pia": "unos",
+        "pda": "los",
+        "description": ""
+    },
+    "icrm2ms_red": {
+        "name": "Amplificadores Rojos del Sobreviviente",
+        "ia": "uno",
+        "da": "el",
+        "p": "Amplificadores Rojos del Sobreviviente",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -15045,6 +15099,24 @@
         "p": "Herramientas de Forrajeo de Refugiado",
         "pia": "",
         "pda": "las",
+        "description": ""
+    },
+    "itrtfo_blue": {
+        "name": "Pico azul del Incansable",
+        "ia": "uno",
+        "da": "el",
+        "p": "Pico azul del Incansable",
+        "pia": "unos",
+        "pda": "los",
+        "description": ""
+    },
+    "itrtfo_red": {
+        "name": "Pico rojo del Duro",
+        "ia": "uno",
+        "da": "el",
+        "p": "Pico rojo del Duro",
+        "pia": "unos",
+        "pda": "los",
         "description": ""
     },
     "itrtje": {
@@ -21123,11 +21195,11 @@
         "description": ""
     },
     "m0109dxacc01": {
-        "name": "Frasco de Saiva Rojaviva Fina",
-        "ia": "un",
+        "name": "Frasco de Savia Rojaviva Fina",
+        "ia": "uno",
         "da": "el",
         "p": "Frascos de Savia Rojaviva Fina",
-        "pia": "",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -62190,12 +62262,12 @@
         "description": ""
     },
     "marauder_armor_recipe_helm_part1": {
-        "name": "Parte 1 del Casco - Plan de Fabricación de Armadura Marauder",
-        "ia": "un",
+        "name": "Parte I del Casco - Plan de Fabricación de Armadura Marauder",
+        "ia": "uno",
         "da": "el",
         "p": "",
-        "pia": "",
-        "pda": "",
+        "pia": "unos",
+        "pda": "los",
         "description": ""
     },
     "marauder_armor_recipe_helm_part2": {
@@ -62676,11 +62748,11 @@
         "description": ""
     },
     "mf100_coffre": {
-        "name": "Pecho Magnifico",
+        "name": "Cofre Magnifico",
         "ia": "un",
         "da": "el",
-        "p": "Pechos Magníficos",
-        "pia": "",
+        "p": "Cofres Magníficos",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -65294,6 +65366,15 @@
         "pda": "las",
         "description": ""
     },
+    "spawn_psykopla": {
+        "name": "Brote de Psykopla",
+        "ia": "uno",
+        "da": "el",
+        "p": "Brotes de Psykopla",
+        "pia": "unos",
+        "pda": "los",
+        "description": ""
+    },
     "stableboy_whistle": {
         "name": "Pito del Chico del Establo",
         "ia": "un",
@@ -66228,6 +66309,15 @@
         "p": "Garras de Kipee Malvado Perfecto",
         "pia": "",
         "pda": "los",
+        "description": ""
+    },
+    "toolbox": {
+        "name": "Caja de útiles",
+        "ia": "una",
+        "da": "la",
+        "p": "Cajas de útiles",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "tools_ticket": {
@@ -69687,11 +69777,11 @@
         "description": ""
     },
     "zo_armor01_armpad": {
-        "name": "Mangas de Armadura Zerx",
-        "ia": "unas",
+        "name": "Manga de Armadura Zoraï",
+        "ia": "una",
         "da": "la",
         "p": "Mangas de Armadura Zoraï",
-        "pia": "",
+        "pia": "unas",
         "pda": "las",
         "description": "Zoraï Armor Sleeves"
     },

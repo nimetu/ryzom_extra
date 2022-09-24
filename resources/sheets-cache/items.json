@@ -144763,5 +144763,183 @@
             "back": "bk_outpost.png"
         },
         "txt": "x4"
+    },
+    "rp_contest_2022_a": {
+        "sheetid": "rp_contest_2022_a",
+        "type": 34,
+        "item_type": 59,
+        "race": 0,
+        "quality": 0,
+        "bulk": 0,
+        "icon": {
+            "main": "ico_haircut.png",
+            "back": "bk_event.png"
+        }
+    },
+    "rp_contest_2022_b": {
+        "sheetid": "rp_contest_2022_b",
+        "type": 34,
+        "item_type": 59,
+        "race": 0,
+        "quality": 0,
+        "bulk": 0,
+        "icon": {
+            "main": "ico_haircut.png",
+            "back": "bk_event.png"
+        }
+    },
+    "toolbox": {
+        "sheetid": "toolbox",
+        "type": 33,
+        "item_type": 5,
+        "race": 0,
+        "quality": 0,
+        "bulk": 1,
+        "icon": {
+            "main": "ico_toolbox.png",
+            "back": "bk_event.png"
+        }
+    },
+    "itrtfo_blue": {
+        "sheetid": "itrtfo_blue",
+        "type": 9,
+        "item_type": 46,
+        "race": 0,
+        "quality": 3,
+        "bulk": 10,
+        "icon": {
+            "main": "to_forage.png",
+            "back": "bk_generic.png",
+            "over": "color_blue.png"
+        },
+        "skill": "sh"
+    },
+    "itrtfo_red": {
+        "sheetid": "itrtfo_red",
+        "type": 9,
+        "item_type": 46,
+        "race": 0,
+        "quality": 4,
+        "bulk": 10,
+        "icon": {
+            "main": "to_forage.png",
+            "back": "bk_generic.png",
+            "over": "color_red.png"
+        },
+        "skill": "sh"
+    },
+    "icrm1pd_amber": {
+        "sheetid": "icrm1pd_amber",
+        "type": 3,
+        "item_type": 0,
+        "race": 5,
+        "quality": 3,
+        "bulk": 5,
+        "icon": {
+            "main": "mw_dagger.png",
+            "back": "bk_generic.png",
+            "over": "color_orange.png"
+        },
+        "craftplan": "bcrmea18",
+        "skill": "sfmcadm",
+        "damage": 1,
+        "reach": 0
+    },
+    "icrm1pd_black": {
+        "sheetid": "icrm1pd_black",
+        "type": 3,
+        "item_type": 0,
+        "race": 5,
+        "quality": 2,
+        "bulk": 5,
+        "icon": {
+            "main": "mw_dagger.png",
+            "back": "bk_generic.png",
+            "over": "color_black.png"
+        },
+        "craftplan": "bcrmea17",
+        "skill": "sfmcadm",
+        "damage": 1,
+        "reach": 0
+    },
+    "icrm1pd_purple": {
+        "sheetid": "icrm1pd_purple",
+        "type": 3,
+        "item_type": 0,
+        "race": 5,
+        "quality": 4,
+        "bulk": 5,
+        "icon": {
+            "main": "mw_dagger.png",
+            "back": "bk_generic.png",
+            "over": "color_violet.png"
+        },
+        "craftplan": "bcrmea19",
+        "skill": "sfmcadm",
+        "damage": 1,
+        "reach": 0
+    },
+    "icrm1pd_red": {
+        "sheetid": "icrm1pd_red",
+        "type": 3,
+        "item_type": 0,
+        "race": 5,
+        "quality": 1,
+        "bulk": 5,
+        "icon": {
+            "main": "mw_dagger.png",
+            "back": "bk_generic.png",
+            "over": "color_red.png"
+        },
+        "craftplan": "bcrmea16",
+        "skill": "sfmcadm",
+        "damage": 1,
+        "reach": 0
+    },
+    "icrm2ms_green": {
+        "sheetid": "icrm2ms_green",
+        "type": 3,
+        "item_type": 58,
+        "race": 5,
+        "quality": 1,
+        "bulk": 10,
+        "icon": {
+            "main": "mg_glove.png",
+            "back": "bk_generic.png",
+            "over": "color_green.png"
+        },
+        "craftplan": "bcrmea20",
+        "skill": "sfmcahm",
+        "damage": 2,
+        "reach": 5
+    },
+    "icrm2ms_red": {
+        "sheetid": "icrm2ms_red",
+        "type": 3,
+        "item_type": 58,
+        "race": 5,
+        "quality": 2,
+        "bulk": 10,
+        "icon": {
+            "main": "mg_glove.png",
+            "back": "bk_generic.png",
+            "over": "color_red.png"
+        },
+        "craftplan": "bcrmea21",
+        "skill": "sfmcahm",
+        "damage": 2,
+        "reach": 5
+    },
+    "spawn_psykopla": {
+        "sheetid": "spawn_psykopla",
+        "type": 37,
+        "item_type": 68,
+        "race": 0,
+        "quality": 0,
+        "bulk": 0.1,
+        "icon": {
+            "main": "mp_bud.png",
+            "back": "bk_consommable.png"
+        }
     }
 }

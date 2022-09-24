@@ -2,7 +2,7 @@
     "caaga1": {
         "name": "Baldusa impur",
         "ia": "un",
-        "da": "le",
+        "da": "l'",
         "p": "Baldusas impurs",
         "pia": "des",
         "pda": "les",
@@ -10,10 +10,10 @@
         "pr": "au"
     },
     "caaga2": {
-        "name": "Baldusa pourri",
+        "name": "Baldusa maudit",
         "ia": "un",
         "da": "le",
-        "p": "Baldusas pourris",
+        "p": "Baldusas maudits",
         "pia": "des",
         "pda": "les",
         "cc": "du",
@@ -22,7 +22,7 @@
     "caaga3": {
         "name": "Baldusa contaminé",
         "ia": "un",
-        "da": "le",
+        "da": "l'",
         "p": "Baldusas contaminés",
         "pia": "des",
         "pda": "les",
@@ -39730,30 +39730,30 @@
         "pr": "au"
     },
     "ckedb7": {
-        "name": "Kipucketh",
+        "name": "Kipuketh",
         "ia": "un",
-        "da": "le",
-        "p": "Kipuckeths",
+        "da": "l'",
+        "p": "Kipukeths",
         "pia": "des",
         "pda": "les",
         "cc": "du",
         "pr": "au"
     },
     "ckedc7": {
-        "name": "Kipucketh",
+        "name": "Kipuketh",
         "ia": "un",
-        "da": "le",
-        "p": "Kipuckeths",
+        "da": "l'",
+        "p": "Kipukeths",
         "pia": "des",
         "pda": "les",
         "cc": "du",
         "pr": "au"
     },
     "ckedd7": {
-        "name": "Kipucketh",
+        "name": "Kipuketh",
         "ia": "un",
-        "da": "le",
-        "p": "Kipuckeths",
+        "da": "l'",
+        "p": "Kipukeths",
         "pia": "des",
         "pda": "les",
         "cc": "du",
@@ -39810,10 +39810,10 @@
         "pr": "au"
     },
     "ckede7": {
-        "name": "Kipucketh",
+        "name": "Kipuketh",
         "ia": "un",
-        "da": "le",
-        "p": "Kipuckeths",
+        "da": "l'",
+        "p": "Kipukeths",
         "pia": "des",
         "pda": "les",
         "cc": "du",
@@ -39870,10 +39870,10 @@
         "pr": "au"
     },
     "ckedf7": {
-        "name": "Kipucketh",
+        "name": "Kipuketh",
         "ia": "un",
-        "da": "le",
-        "p": "Kipuckeths",
+        "da": "l'",
+        "p": "Kipukeths",
         "pia": "des",
         "pda": "les",
         "cc": "du",
@@ -40690,30 +40690,30 @@
         "pr": "au"
     },
     "ckejb7": {
-        "name": "Kipuckya",
+        "name": "Kipukya",
         "ia": "un",
-        "da": "le",
-        "p": "Kipuckyas",
+        "da": "l'",
+        "p": "Kipukyas",
         "pia": "des",
         "pda": "les",
         "cc": "du",
         "pr": "au"
     },
     "ckejc7": {
-        "name": "Kipuckya",
+        "name": "Kipukya",
         "ia": "un",
-        "da": "le",
-        "p": "Kipuckyas",
+        "da": "l'",
+        "p": "Kipukyas",
         "pia": "des",
         "pda": "les",
         "cc": "du",
         "pr": "au"
     },
     "ckejd7": {
-        "name": "Kipuckya",
+        "name": "Kipukya",
         "ia": "un",
-        "da": "le",
-        "p": "Kipuckyas",
+        "da": "l'",
+        "p": "Kipukyas",
         "pia": "des",
         "pda": "les",
         "cc": "du",
@@ -40770,10 +40770,10 @@
         "pr": "au"
     },
     "ckeje7": {
-        "name": "Kipuckya",
+        "name": "Kipukya",
         "ia": "un",
-        "da": "le",
-        "p": "Kipuckyas",
+        "da": "l'",
+        "p": "Kipukyas",
         "pia": "des",
         "pda": "les",
         "cc": "du",
@@ -40830,10 +40830,10 @@
         "pr": "au"
     },
     "ckejf7": {
-        "name": "Kipuckya",
+        "name": "Kipukya",
         "ia": "un",
-        "da": "le",
-        "p": "Kipuckyas",
+        "da": "l'",
+        "p": "Kipukyas",
         "pia": "des",
         "pda": "les",
         "cc": "du",
@@ -51360,10 +51360,10 @@
         "pr": "au"
     },
     "cpcfa1": {
-        "name": "Psykopla serein",
+        "name": "Psykopla d'entrainement",
         "ia": "un",
-        "da": "le",
-        "p": "Psykoplas sereins",
+        "da": "l'",
+        "p": "Psykoplas d'entrainement",
         "pia": "des",
         "pda": "les",
         "cc": "du",
@@ -54710,14 +54710,14 @@
         "pr": ""
     },
     "egg": {
-        "name": "",
-        "ia": "",
-        "da": "",
-        "p": "",
-        "pia": "",
-        "pda": "",
-        "cc": "",
-        "pr": ""
+        "name": "Œuf",
+        "ia": "un",
+        "da": "l'",
+        "p": "Œufs",
+        "pia": "des",
+        "pda": "les",
+        "cc": "de l'",
+        "pr": "dans l'"
     },
     "gnoof_mount_00": {
         "name": "Monture Gnoof",
@@ -54859,6 +54859,16 @@
         "cc": "dans le",
         "pr": "au"
     },
+    "object_banner_mar_20_b": {
+        "name": "Bannière maraudeure",
+        "ia": "une",
+        "da": "la",
+        "p": "Bannières maraudeures",
+        "pia": "des",
+        "pda": "les",
+        "cc": "de la",
+        "pr": "au"
+    },
     "object_chest_wisdom_fyros_sel": {
         "name": "Coffre de Sagesse",
         "ia": "un",
@@ -54930,64 +54940,64 @@
         "pr": "au"
     },
     "object_easter_egg_fake_bag_a": {
-        "name": "Sac d'oeufs - Fête des Réfugiés",
+        "name": "Panier d'œufs",
         "ia": "un",
-        "da": "l'",
-        "p": "Sac d'oeufs - Fête des Réfugiés",
+        "da": "le",
+        "p": "Paniers d'œufs",
         "pia": "des",
         "pda": "les",
         "cc": "du",
         "pr": "au"
     },
     "object_easter_egg_fake_campfire_off": {
-        "name": "Oeuf dur - Fête des Réfugiés",
+        "name": "Œuf dur",
         "ia": "un",
         "da": "l'",
-        "p": "Oeuf dur - Fête des Réfugiés",
+        "p": "Œufs dur",
         "pia": "des",
         "pda": "les",
-        "cc": "du",
-        "pr": "au"
+        "cc": "de l'",
+        "pr": "à l'"
     },
     "object_easter_egg_fake_chest": {
-        "name": "Boîte d'oeufs - Fête des Réfugiés",
-        "ia": "un",
-        "da": "l'",
-        "p": "Boîte d'oeufs - Fête des Réfugiés",
+        "name": "Boîte d'œufs",
+        "ia": "une",
+        "da": "la",
+        "p": "Boîtes d'œufs",
         "pia": "des",
         "pda": "les",
-        "cc": "du",
-        "pr": "au"
+        "cc": "de la",
+        "pr": "dans la"
     },
     "object_easter_egg_fake_kitin_egg": {
-        "name": "Oeuf fossilisé - Fête des Réfugiés",
+        "name": "Œuf fossilisé",
         "ia": "un",
         "da": "l'",
-        "p": "Oeuf fossilisé - Fête des Réfugiés",
+        "p": "Œufs fossilisés",
         "pia": "des",
         "pda": "les",
-        "cc": "du",
-        "pr": "au"
+        "cc": "de l'",
+        "pr": "à l'"
     },
     "object_easter_egg_fake_large_easter_egg": {
-        "name": "Oeuf - Fête des Réfugiés",
+        "name": "Œuf",
         "ia": "un",
         "da": "l'",
-        "p": "Oeuf - Fête des Réfugiés",
+        "p": "Œufs",
         "pia": "des",
         "pda": "les",
-        "cc": "du",
-        "pr": "au"
+        "cc": "de l'",
+        "pr": "dans l'"
     },
     "object_easter_egg_fake_snowhill": {
-        "name": "Oeuf à la neige - Fête des Réfugiés",
-        "ia": "un",
+        "name": "Île flottante",
+        "ia": "une",
         "da": "l'",
-        "p": "Oeuf à la neige - Fête des Réfugiés",
+        "p": "Île flottante",
         "pia": "des",
         "pda": "les",
-        "cc": "du",
-        "pr": "au"
+        "cc": "de l'",
+        "pr": "dans l'"
     },
     "object_easter_egg_hug": {
         "name": "œuf énorme",
@@ -55161,23 +55171,23 @@
     },
     "zig_bolobi_jun": {
         "name": "Zig Bolobi",
-        "ia": "un",
-        "da": "le",
+        "ia": "Zig Bolobi",
+        "da": "Zig Bolobi",
         "p": "Zig Bolobi",
-        "pia": "des",
-        "pda": "les",
-        "cc": "du",
-        "pr": "au"
+        "pia": "eine",
+        "pda": "ein",
+        "cc": "die",
+        "pr": "dasdesdendemZig BolobiZig BolobiZig Bolobidie"
     },
     "zig_capryni_for": {
         "name": "Zig Capryni",
-        "ia": "un",
-        "da": "le",
+        "ia": "Zig Capryni",
+        "da": "Zig Capryni",
         "p": "Zig Capryni",
-        "pia": "des",
-        "pda": "les",
-        "cc": "du",
-        "pr": "au"
+        "pia": "eine",
+        "pda": "ein",
+        "cc": "die",
+        "pr": "dasdesdendemZig CapryniZig CapryniZig Caprynidie"
     },
     "zig_yubo_forest": {
         "name": "Zig Yubo",

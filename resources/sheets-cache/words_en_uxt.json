@@ -5654,6 +5654,9 @@
     "tryker_weapon_smith_apprentice": {
         "name": "Tryker Weaponsmith Apprentice"
     },
+    "ui3dview": {
+        "name": "View"
+    },
     "uiabilities": {
         "name": "Abilities"
     },
@@ -9395,6 +9398,9 @@
     "uiemptybuilding": {
         "name": "Empty"
     },
+    "uiemptyitemgroups": {
+        "name": "Create an item group to get started"
+    },
     "uiemptyjob": {
         "name": "- No job activated -"
     },
@@ -9496,6 +9502,9 @@
     },
     "uiexitlogin": {
         "name": "EXIT"
+    },
+    "uiexpandwindow": {
+        "name": "Resize to Fit"
     },
     "uiexpandwindows": {
         "name": "Show\/Hide Desktop Buttons"
@@ -10004,6 +10013,9 @@
     "uifinished": {
         "name": "Finishing"
     },
+    "uifinishlessons": {
+        "name": ""
+    },
     "uifirewallalert": {
         "name": "Please grant firewall permission for Ryzom"
     },
@@ -10362,7 +10374,7 @@
         "name": "Team Members"
     },
     "uiguild": {
-        "name": "Guild"
+        "name": "GUILD"
     },
     "uiguildbearer": {
         "name": "Bearer"
@@ -11973,7 +11985,7 @@
         "name": "RWIN"
     },
     "uikeys": {
-        "name": "Keys"
+        "name": "S"
     },
     "uikeysactionstitle": {
         "name": "ACTION KEYS"
@@ -12233,6 +12245,9 @@
     "uilmwoodcolor": {
         "name": "Wood"
     },
+    "uiloading": {
+        "name": "Loading..."
+    },
     "uiloadingstring0": {
         "name": "Installing ninja Yubos..."
     },
@@ -12472,6 +12487,9 @@
     },
     "uilock": {
         "name": "Lock"
+    },
+    "uilockicons": {
+        "name": "Lock Icons"
     },
     "uilodvalue": {
         "name": "NORMAL"
@@ -13391,6 +13409,9 @@
     "uimk_emotes": {
         "name": "EMOTES"
     },
+    "uimk_encyclopedia": {
+        "name": "Encyclopedia"
+    },
     "uimk_game": {
         "name": "GAME"
     },
@@ -13497,6 +13518,9 @@
         "name": "Config."
     },
     "uimk_system2": {
+        "name": "Keys"
+    },
+    "uimk_system2_abrv": {
         "name": "Keys"
     },
     "uimk_system3": {
@@ -14028,7 +14052,7 @@
         "name": "AFFECTED BY"
     },
     "uimwcap": {
-        "name": "Course"
+        "name": "TUTORIAL"
     },
     "uimwchat": {
         "name": "MAIN CHAT"
@@ -14085,7 +14109,7 @@
         "name": "GUILD FORUM"
     },
     "uimwhands": {
-        "name": "ACTION BAR #1\/HANDS"
+        "name": "ACTION BAR #1 \/ HANDS"
     },
     "uimwhands2": {
         "name": "ACTION BAR #2"
@@ -14178,7 +14202,7 @@
         "name": "TEAM"
     },
     "uimwtell": {
-        "name": "Tell"
+        "name": "TELL"
     },
     "uimwtracking": {
         "name": "TRACKING"
@@ -17015,6 +17039,9 @@
     "uispecialpowerfilter": {
         "name": "Powers"
     },
+    "uispeedfactorzero": {
+        "name": "Your speed factor is zero and you are unable to move."
+    },
     "uispellbooktitle": {
         "name": "SPELL BOOK"
     },
@@ -17484,7 +17511,7 @@
         "name": "CENTER MAP ON YOURSELF"
     },
     "uiteam": {
-        "name": "Team"
+        "name": "TEAM"
     },
     "uiteamchat": {
         "name": "Team Chat"
@@ -18860,6 +18887,9 @@
     "uittinvslots": {
         "name": "Used @{6F6F}slots@{FFFF}\/maximum"
     },
+    "uittitemgroupnameinput": {
+        "name": "Name of the item group\n@{FFFA}(Precede by @{3F3F}!@{FFFA} to remove empty slots)"
+    },
     "uittkeepinfo": {
         "name": "@{6F6F}Pin@{FFFF} this window.\nIf pinned, information for other items will be shown in a new window.\nIf unpinned, this window will be reused."
     },
@@ -19252,6 +19282,9 @@
     },
     "uittplayercolor": {
         "name": "Color used to display player characters"
+    },
+    "uittplayerelyps": {
+        "name": "Elyps"
     },
     "uittplayerfocusformat": {
         "name": "Focus: %v\/%m"
@@ -19681,6 +19714,9 @@
     },
     "uiuniversetitle": {
         "name": "UNIVERSE CHAT"
+    },
+    "uiunlockicons": {
+        "name": "Unlock Icons"
     },
     "uiunpack": {
         "name": "BNP Unpacking:"

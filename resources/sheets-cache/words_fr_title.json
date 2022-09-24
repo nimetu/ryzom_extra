@@ -215,6 +215,54 @@
         "name": "Faucheur Suprême - 2615",
         "women_name": "Faucheuse Suprême - 2615"
     },
+    "2620_number1_marathon": {
+        "name": "Médaille d'Ambre - Marathon",
+        "women_name": "Médaille d'Ambre - Marathon"
+    },
+    "2620_number1_mektoub": {
+        "name": "Médaille d'Ambre - Course montée",
+        "women_name": "Médaille d'Ambre - Course montée"
+    },
+    "2620_number1_swimming": {
+        "name": "Médaille d'Ambre - Natation",
+        "women_name": "Médaille d'Ambre - Natation"
+    },
+    "2620_number1_triathlon": {
+        "name": "Médaille d'Ambre - Triathlon",
+        "women_name": "Médaille d'Ambre - Triathlon"
+    },
+    "2620_number2_marathon": {
+        "name": "Médaille de Nacre - Marathon",
+        "women_name": "Médaille de Nacre - Marathon"
+    },
+    "2620_number2_mektoub": {
+        "name": "Médaille de Nacre - Course montée",
+        "women_name": "Médaille de Nacre - Course montée"
+    },
+    "2620_number2_swimming": {
+        "name": "Médaille de Nacre - Natation",
+        "women_name": "Médaille de Nacre - Natation"
+    },
+    "2620_number2_triathlon": {
+        "name": "Médaille de Nacre - Triathlon",
+        "women_name": "Médaille de Nacre - Triathlon"
+    },
+    "2620_number3_marathon": {
+        "name": "Médaille de Corne - Marathon",
+        "women_name": "Médaille de Corne - Marathon"
+    },
+    "2620_number3_mektoub": {
+        "name": "Médaille de Corne - Course montée",
+        "women_name": "Médaille de Corne - Course montée"
+    },
+    "2620_number3_swimming": {
+        "name": "Médaille de Corne - Natation",
+        "women_name": "Médaille de Corne - Natation"
+    },
+    "2620_number3_triathlon": {
+        "name": "Médaille de Corne - Triathlon",
+        "women_name": "Médaille de Corne - Triathlon"
+    },
     "accomplisheddisciple": {
         "name": "Disciple Accompli des Kamis",
         "women_name": "Disciple Accomplie des Kamis"
@@ -338,6 +386,14 @@
     "amber_medal_atys_tournament_3": {
         "name": "Médaille de Corne - Tournoi d'Atys 2613",
         "women_name": "Médaille de Corne - Tournoi d'Atys 2613"
+    },
+    "ambitious_fighter": {
+        "name": "Combattant ambitieux",
+        "women_name": "Combattante ambitieuse"
+    },
+    "amnesiac_adventurer": {
+        "name": "Aventurier amnésique",
+        "women_name": "Aventurière amnésique"
     },
     "anarchist": {
         "name": "Anarchiste",
@@ -527,6 +583,10 @@
         "name": "Biomanceur",
         "women_name": "Biomanceur"
     },
+    "black_kami": {
+        "name": "Maraudeur",
+        "women_name": "Maraudeur"
+    },
     "black_mage": {
         "name": "Mage Noir",
         "women_name": "Mage Noire"
@@ -707,6 +767,10 @@
         "name": "Ragus Contaminé",
         "women_name": ""
     },
+    "dedicated_altruist": {
+        "name": "Altruiste dévoué",
+        "women_name": "Altruiste dévouée"
+    },
     "defensive_magician": {
         "name": "Magicien Défensif",
         "women_name": "Magicienne Défensive"
@@ -718,6 +782,10 @@
     "destroyer": {
         "name": "Destructeur",
         "women_name": "Destructrice"
+    },
+    "determined_worker": {
+        "name": "Travailleur déterminé",
+        "women_name": "Travailleuse déterminée"
     },
     "devastatingaxe": {
         "name": "Hache Dévastatrice",
@@ -787,6 +855,10 @@
         "name": "Enchanteur",
         "women_name": "Enchanteresse"
     },
+    "endless_talker": {
+        "name": "Bavard intarissable",
+        "women_name": "Bavarde intarissable"
+    },
     "enfant_beni": {
         "name": "Enfant béni de Jena",
         "women_name": "Enfant bénie de Jena"
@@ -814,6 +886,10 @@
     "eradicateur_de_valcorenoch": {
         "name": "Éradicateur de Valcorenoch",
         "women_name": "Éradicatrice de Valcorenoch"
+    },
+    "erkunder_des_umlands": {
+        "name": "Explorateur d'alentours",
+        "women_name": "Exploratrice d'alentours"
     },
     "esteemedcitizen": {
         "name": "Citoyen Tryker Célèbre",
@@ -7943,6 +8019,10 @@
         "name": "Maraudeur",
         "women_name": "Maraudeuse"
     },
+    "marauder_banner": {
+        "name": "Bannière maraudeure",
+        "women_name": "Bannière maraudeure"
+    },
     "marauderapprentice": {
         "name": "Apprenti Maraudeur",
         "women_name": "Apprentie Maraudeuse"
@@ -8219,6 +8299,10 @@
         "name": "Mort Subite",
         "women_name": "Mort Subite"
     },
+    "motivated_explorer": {
+        "name": "Explorateur motivé",
+        "women_name": "Exploratrice motivée"
+    },
     "mrsnow_mainland": {
         "name": "L'assistant le plus zélé de Monsieur Neige",
         "women_name": "L'assistante la plus zélée de Monsieur Neige"
@@ -8314,6 +8398,10 @@
     "owner_of": {
         "name": "#pet de #player",
         "women_name": "#pet de #player"
+    },
+    "passionate_magician": {
+        "name": "Magicien passionné",
+        "women_name": "Magicienne passionnée"
     },
     "pathetic_loser": {
         "name": "Pitoyable perdant",
@@ -8419,6 +8507,10 @@
         "name": "Rapide Coursier d'Atysoël",
         "women_name": "Rapide Coursier d'Atysoël"
     },
+    "recidivist_refugee": {
+        "name": "Réfugié récidiviste",
+        "women_name": "Réfugiée récidiviste"
+    },
     "reflectiveinitiate": {
         "name": "Initié Zoraï Réfléchi",
         "women_name": "Initiée Zoraï Réfléchie"
@@ -8426,6 +8518,10 @@
     "refugee": {
         "name": "Réfugié",
         "women_name": "Réfugiée"
+    },
+    "relentless_picker": {
+        "name": "Piocheur acharné",
+        "women_name": "Piocheuse acharnée"
     },
     "rendors": {
         "name": "Chasseur Officiel - Silan 2613",
@@ -8507,6 +8603,10 @@
         "name": "Ry-Pyk'al",
         "women_name": "Ry-Pyk'al"
     },
+    "ryzom_ambassador": {
+        "name": "Ambassadeur de Ryzom",
+        "women_name": "Ambassadrice de Ryzom"
+    },
     "sandcaravanner": {
         "name": "Caravannier des Sables",
         "women_name": ""
@@ -8522,6 +8622,10 @@
     "scout": {
         "name": "Eclaireur",
         "women_name": ""
+    },
+    "sea_legs": {
+        "name": "Ivrogne au pied marin",
+        "women_name": "Ivrogne au pied marin"
     },
     "seaofblood": {
         "name": "Sea of Blood",
@@ -8627,6 +8731,10 @@
         "name": "Hastaire",
         "women_name": "Hastaire"
     },
+    "speer": {
+        "name": "Bannière maraudeure",
+        "women_name": "Bannière maraudeure"
+    },
     "spirit_of_atys": {
         "name": "Esprit d'Atys",
         "women_name": "Esprit d'Atys"
@@ -8656,8 +8764,8 @@
         "women_name": ""
     },
     "start_trek_treasure_gen_mini": {
-        "name": "",
-        "women_name": ""
+        "name": "Coffre de Sagesse",
+        "women_name": "Coffre de Sagesse"
     },
     "stateless": {
         "name": "Apatride",
@@ -8968,8 +9076,8 @@
         "women_name": "Sans jeton"
     },
     "treasure_chiang": {
-        "name": "",
-        "women_name": ""
+        "name": "Coffre de Sagesse de Silan",
+        "women_name": "Coffre de Sagesse de Silan"
     },
     "treedesigner": {
         "name": "Décorateur de Sapin d'Atysoël",

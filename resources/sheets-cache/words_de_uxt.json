@@ -2286,7 +2286,7 @@
         "name": "Meisterschmied leichter Nahkampfwaffen"
     },
     "melee_warrior": {
-        "name": "Nahkampfkrieger"
+        "name": "Nahkämpfer"
     },
     "melee_warrior_apprentice": {
         "name": "Krieger-Lehrling"
@@ -5654,6 +5654,9 @@
     "tryker_weapon_smith_apprentice": {
         "name": "Tryker-Waffenschmiedelehrling"
     },
+    "ui3dview": {
+        "name": "Vorschau"
+    },
     "uiabilities": {
         "name": "Fertigkeiten"
     },
@@ -6315,7 +6318,7 @@
         "name": "Du stehst kurz davor, Ryzom herunterzuladen.\nDie Vollinstallation von Ryzom benötigt: {0} Festplattenspeicher."
     },
     "uibgd_contentstartprocessrepair": {
-        "name": "Du stehst kurz davor, Ryzom zu aktualisieren.\nDieser Vorgang wird gleichzeitig fehlende oder beschädigte Dateien ersetzen.\nNach dem Update werden alle Konfigurationseinstellungen auf die Standardwerte zurückgesetzt."
+        "name": "Du bist dabei ein Update Deiner Installation von Ryzom auf die neuste Version vorzunehmen. \nDiese Operation wird alle Dateien reparieren die fehlerhaft sind oder fehlen. \nAm Ende des Updates, werden alle Spieleinstellungen auf ihre Standardwerte zurückgesetzt."
     },
     "uibgd_contentstartprocesstorrent": {
         "name": "'Torrent-Download' verwendet das BitTorrent-Protokoll, um Dateien gleichzeitig von mehreren Server zu laden. Solltest du Probleme beim Herunterladen haben, deaktiviere diese Funktion."
@@ -7539,13 +7542,13 @@
         "name": "Y-Position: "
     },
     "uiconfigquitwithoutsaving": {
-        "name": "Bist du sicher, dass du abbrechen willst, ohne die Konfiguration gespeichert zu haben?"
+        "name": "Die Einstellungen wurden nicht gespeichert. \nBis Du sicher, dass Du das Fensters schließen willst?\n"
     },
     "uiconfigrenderer": {
         "name": "Renderer: "
     },
     "uiconfigrestauredefault": {
-        "name": "Bist du sicher, dass du die Standardeinstellungen wiederherstellen willst?"
+        "name": "Bist Du sicher, dass Du die Einstellungen auf die Standardwerte zurücksetzen willst?"
     },
     "uiconfigryzomconfigurationversion": {
         "name": "Ryzom Konfiguration Version 0.9"
@@ -7596,7 +7599,7 @@
         "name": "Hoch  (128MB VRAM)"
     },
     "uiconfigtitle": {
-        "name": "Ryzom-Konfiguration"
+        "name": "Ryzom Configuration"
     },
     "uiconfigtracks": {
         "name": "Tonspuren"
@@ -8244,7 +8247,7 @@
         "name": "Nachtfarbe bestimmen"
     },
     "uideftooltipcolor": {
-        "name": ""
+        "name": "Tooltip-Hintergrundfarbe definieren"
     },
     "uidelchar": {
         "name": "DIESEN CHARAKTER LÖSCHEN?"
@@ -9395,6 +9398,9 @@
     "uiemptybuilding": {
         "name": "LEER"
     },
+    "uiemptyitemgroups": {
+        "name": "Lege eine "
+    },
     "uiemptyjob": {
         "name": "- kein Auftrag aktiv -"
     },
@@ -9496,6 +9502,9 @@
     },
     "uiexitlogin": {
         "name": "AUSGANG"
+    },
+    "uiexpandwindow": {
+        "name": "Fenstergröße anpassen"
     },
     "uiexpandwindows": {
         "name": "Anzeigen \/ Ausblenden der Oberflächen-Buttons"
@@ -10004,6 +10013,9 @@
     "uifinished": {
         "name": "Abschließen"
     },
+    "uifinishlessons": {
+        "name": ""
+    },
     "uifirewallalert": {
         "name": "Bitte den Firewall-Zugriff für Ryzom umstellen."
     },
@@ -10152,7 +10164,7 @@
         "name": "Square-Filter"
     },
     "uifxtooltipbloom": {
-        "name": "Der Bloom-Effekt wird von deinem System nicht unterstützt. Eventuell hilft ein Treiber-Update für deine Grafikkarte."
+        "name": "Your configuration does not support the Bloom effect. Try updating your drivers."
     },
     "uifyculture": {
         "name": "FYROS - KULTUR"
@@ -10170,7 +10182,7 @@
         "name": "SPIEL"
     },
     "uigameconfiguration": {
-        "name": "KONFIGURATION"
+        "name": "Einstellungen"
     },
     "uigamma": {
         "name": "Gamma"
@@ -10350,10 +10362,10 @@
         "name": "Allgemeine Transparenz"
     },
     "uiglobalsettings": {
-        "name": "Konfiguration"
+        "name": "Globale Einstellungen"
     },
     "uiglobalsettingstitle": {
-        "name": "KONFIGURATION"
+        "name": "Einstellungen"
     },
     "uigloves": {
         "name": "HANDSCHUHE"
@@ -10848,7 +10860,7 @@
         "name": "@{FFF9}@{HuittActionSuccessRateSH}Erfolgsrate@{H} in den Urwurzeln:@{T12}@{FFFF}%suc_prime\n"
     },
     "uihelpphraseheaderbricks": {
-        "name": " "
+        "name": " @{FFFF}--- Stanzas ---"
     },
     "uihelpphrasemagicformat": {
         "name": "@{FFF9}Aktion: @{T12}@{FFFF}%name\n@{FFF9}Kosten: @{T12}@{FFFF}%cost\n@{FFF9}Ausgleich: @{T12}@{FFFF}%credit\n@{FFF9}@{HuittActionSpellLevel}Magiestufe: @{T12}@{FFFF}%mglvl@{H}\n%magicresist\n%compostart@{FFF9}@{HuittActionSuccessRateSM}Erfolgsrate: @{H}@{T12}@{FFFF}%success%\n@{FFF9}Zauberzeit: @{T12}@{FFFF}%duration Sekunden\n@{FFF9}Sap-Verbrauch: @{T12}@{FFFF}%energy_cost\n@{FFF9}Lebensverbrauch: @{T12}@{FFFF}%hp_cost\n@{FFF9}Reichweite: @{T12}@{FFFF}%range\n@{FFFF}%desc%req"
@@ -11010,7 +11022,7 @@
         "name": "Horizontal"
     },
     "uihotbartitle": {
-        "name": ""
+        "name": "TASCHEN"
     },
     "uihp": {
         "name": "Leben"
@@ -11973,7 +11985,7 @@
         "name": "RWINDOWS"
     },
     "uikeys": {
-        "name": "Tasten"
+        "name": "S"
     },
     "uikeysactionstitle": {
         "name": "AKTIONS-TASTEN"
@@ -12233,6 +12245,9 @@
     "uilmwoodcolor": {
         "name": "Rohstoffe Holz"
     },
+    "uiloading": {
+        "name": "Ladevorgang..."
+    },
     "uiloadingstring0": {
         "name": "Sap wird in die grünen Adern von Atys gefüllt..."
     },
@@ -12472,6 +12487,9 @@
     },
     "uilock": {
         "name": "Verkaufssperre"
+    },
+    "uilockicons": {
+        "name": "Gegenstand sperren"
     },
     "uilodvalue": {
         "name": "STANDARD"
@@ -13391,6 +13409,9 @@
     "uimk_emotes": {
         "name": "EMOTES"
     },
+    "uimk_encyclopedia": {
+        "name": "Enzyklopädie"
+    },
     "uimk_game": {
         "name": "SPIEL"
     },
@@ -13416,7 +13437,7 @@
         "name": "SPIEL BEENDEN"
     },
     "uimk_game_8": {
-        "name": "SPIELKONFIGURATION"
+        "name": "Einstellungen"
     },
     "uimk_game_desk": {
         "name": "Oberflächen"
@@ -13498,6 +13519,9 @@
     },
     "uimk_system2": {
         "name": "Tastenbelegung"
+    },
+    "uimk_system2_abrv": {
+        "name": "Tasten"
     },
     "uimk_system3": {
         "name": "Fenster"
@@ -14039,6 +14063,9 @@
     "uimwchatmode1": {
         "name": "'ENTER', UM DEN CHAT ZU VERLASSEN"
     },
+    "uimwcolors": {
+        "name": "Einstellungen"
+    },
     "uimwcombat": {
         "name": "KAMPF"
     },
@@ -14082,7 +14109,7 @@
         "name": "GILDENFORUM"
     },
     "uimwhands": {
-        "name": "HÄNDE UND AKTIONSLEISTE 1"
+        "name": "HÄNDE UND AKTIONSLEISTE"
     },
     "uimwhands2": {
         "name": "AKTIONSLEISTE 2"
@@ -14145,7 +14172,7 @@
         "name": "IDENTITÄT"
     },
     "uimwradar": {
-        "name": "KOMPASS"
+        "name": "RADAR"
     },
     "uimwset": {
         "name": "SETS"
@@ -14485,6 +14512,9 @@
     },
     "uiopenwindow": {
         "name": "öffnen"
+    },
+    "uioptcolor": {
+        "name": "Konfiguration-Fenster\n"
     },
     "uioptionals": {
         "name": "OPTIONEN"
@@ -15105,7 +15135,7 @@
         "name": "@{FE7F}Der Fokus der Dünen der Verbannung @{FFFF}:\nErhöht die Schäden der kritischen Schläge um @{2F2F}%p"
     },
     "uipvpeffect_region_dunesofexil_malus": {
-        "name": "@{FE7F}Der Fokus der Dünen der Verbannung @{FFFF}:\nVermindert die Schäden der kritischen Schläge um @{2F2F}%p"
+        "name": "@{FE7F}Der Fokus der Dünen der Verbannung @{FFFF}:\nVermindert Schaden durch kritischen Treffer um @{2F2F}%p"
     },
     "uipvpeffect_region_enchantedisle_bonus": {
         "name": "@{FE7F}Der Fokus der verzauberten Insel @{FFFF}:\nErhöht die Weisheit um @{2F2F}%n"
@@ -15144,10 +15174,10 @@
         "name": "@{FE7F}Der Fokus des Hains der Verwirrung @{FFFF}:\nVermindert die Intensität der Verbindung, die durch einen Beherrschungszauber entsteht, sowie Effekte von Heilzaubern um @{2F2F}%p"
     },
     "uipvpeffect_region_groveofumbra_bonus": {
-        "name": "@{FE7F}Der Fokus des Hains von Umbra @{FFFF}:\nErhöht die Schäden von Offensivzaubersprüchen um @{2F2F}%p"
+        "name": "@{FE7F}Der Fokus des Hains von Umbra @{FFFF}:\nErhöht den Schaden von Offensivzaubersprüchen um @{2F2F}%p"
     },
     "uipvpeffect_region_groveofumbra_malus": {
-        "name": "@{FE7F}Der Fokus des Hains von Umbra @{FFFF}:\nVermindert die Schäden von Offensivzaubersprüchen um @{2F2F}%p"
+        "name": "@{FE7F}Der Fokus des Hains von Umbra @{FFFF}:\nVermindert den Schaden von Offensivzaubersprüchen um @{2F2F}%p"
     },
     "uipvpeffect_region_havenofpurity_bonus": {
         "name": "@{FE7F}Der Fokus des Hafens der Reinheit @{FFFF}:\nErhöht die Weisheit um @{2F2F}%n"
@@ -15264,10 +15294,10 @@
         "name": "@{FE7F}Der Fokus der versunkenen Stadt @{FFFF}:\nKein Effekt"
     },
     "uipvpeffect_region_the_trench_of_trials_bonus": {
-        "name": "@{FE7F}Der Fokus des Grabens der Heimsuchung @{FFFF}:\nErhöht die Schäden der Nahkampfwaffen @{2F2F}%p"
+        "name": "@{FE7F}Der Fokus des Grabens der Heimsuchung @{FFFF}:\nErhöht den Schaden von Nahkampfwaffen @{2F2F}%p"
     },
     "uipvpeffect_region_the_trench_of_trials_malus": {
-        "name": "@{FE7F}Der Fokus des Grabens der Heimsuchung @{FFFF}:\nVermindert die Schäden der Nahkampfwaffen @{2F2F}%p"
+        "name": "@{FE7F}Der Fokus des Grabens der Heimsuchung @{FFFF}:\nVermindert den Schaden durch Nahkampfwaffen @{2F2F}%p"
     },
     "uipvpeffect_region_the_under_spring_bonus": {
         "name": "@{FE7F}Der Fokus der verbotenen Quellen @{FFFF}:\nErhöht die Schussfolge der Fernwaffen um @{2F2F}%p"
@@ -15900,7 +15930,7 @@
         "name": "RASSE: "
     },
     "uiradar": {
-        "name": "Kompass"
+        "name": "RADAR"
     },
     "uiradarusecamera": {
         "name": "Kompass folgt der Kameraausrichtung."
@@ -16611,7 +16641,7 @@
         "name": "Speichern"
     },
     "uisay": {
-        "name": "SAGEN"
+        "name": "SPRECHEN"
     },
     "uisaycolor": {
         "name": "Sprechen"
@@ -16965,7 +16995,7 @@
         "name": "Intro beenden"
     },
     "uislotnumber": {
-        "name": ""
+        "name": "Slot-Nummer"
     },
     "uisnowy": {
         "name": "verschneit"
@@ -17008,6 +17038,9 @@
     },
     "uispecialpowerfilter": {
         "name": "Kräfte"
+    },
+    "uispeedfactorzero": {
+        "name": "Deine Laufgeschwindigkeit ist gleich Null, du kannst dich nicht mehr fortbewegen."
     },
     "uispellbooktitle": {
         "name": "MAGIELISTE"
@@ -17781,10 +17814,10 @@
         "name": "WERKZEUG"
     },
     "uitooltipcolor": {
-        "name": ""
+        "name": "Hintergrundfarbe"
     },
     "uitooltipopacity": {
-        "name": ""
+        "name": "Transparenz der Tooltips"
     },
     "uitorso": {
         "name": "TORSO"
@@ -17820,7 +17853,7 @@
         "name": "Übersetzungen für einige Kanäle deaktivieren"
     },
     "uitranslationdisablearound": {
-        "name": "Um, Shout und Emotes"
+        "name": "Umgebung, Schreie und Emotes"
     },
     "uitranslationdisableguild": {
         "name": "Gilde"
@@ -17847,7 +17880,7 @@
         "name": "Flagge ausblenden"
     },
     "uitranslationinverse": {
-        "name": "Anzeige invertieren"
+        "name": "Nicht übersetzen"
     },
     "uitranslationlanguages": {
         "name": "Sprache"
@@ -18609,22 +18642,22 @@
         "name": "Helm"
     },
     "uitthotbaritem": {
-        "name": ""
+        "name": "Taschen"
     },
     "uitthotbaritem1": {
-        "name": ""
+        "name": "Tasche #1"
     },
     "uitthotbaritem2": {
-        "name": ""
+        "name": "Tasche #2"
     },
     "uitthotbaritem3": {
-        "name": ""
+        "name": "Tasche #3"
     },
     "uitthotbaritem4": {
-        "name": ""
+        "name": "Tasche #4"
     },
     "uitthotbaritem5": {
-        "name": ""
+        "name": "Tasche #5"
     },
     "uitthours": {
         "name": " Stunde(n) "
@@ -18798,7 +18831,7 @@
         "name": "@{6F6F}Abwehrmodifikator @{FFFF}:\nWenn du diesen Gegenstand benutzt, erfährt dein @{6F6F}Abwehr-Wert@{FFFF} entweder eine Verbesserung oder Verringerung (bei Minus-Wert)."
     },
     "uittinfoprot": {
-        "name": "@{6F6F}Schutz @{FFFF}:\nResistenzbonus gegen erlittene magische Schäden. Viele Kreaturen und auch Pflanzen auf Atys können magischen Schaden verursachen."
+        "name": "@{6F6F}Schutz @{FFFF}:\nResistenzbonus gegen magischen Schaden. Viele Kreaturen und auch Pflanzen auf Atys können magischen Schaden verursachen."
     },
     "uittinforequirement": {
         "name": "@{6F6F}Voraussetzung @{FFFF}:\nBenötigte Werte und\/oder Fertigkeiten, um diesen Gegenstand benutzen zu können."
@@ -18819,7 +18852,7 @@
         "name": "@{6F6F}Qualität @{FFFF}:\nZur Herstellung von Gegenständen höherer Stufe ist ein Handwerks-Werkszeug entsprechender Qualität nötig. Fürs Rohstoffernten muss die Qualität der Hacke mindestens der Gebietshöhe entsprechen. Zur Herstellung von Werkzeugen sind Außenposten-Materialien vonnöten. Außenposten werden von Spieler-Gilden gehalten und umkämpft."
     },
     "uittinfoweapondamage": {
-        "name": "@{6F6F}Schaden @{FFFF}:\n@{AAAF}Aktueller Schaden (Maximalschaden)@{FFFF}\nDu richtest nur dann den Maximalschaden an, wenn deine Nahkampfstufe der Qualität der Waffe entspricht. Ist deine Nahkampffertigkeit niedriger, gibt es Abzüge."
+        "name": "@{6F6F}Schaden @{FFFF}:\n@{AAAF}Aktueller Schaden (Maximalschaden)@{FFFF}\nDu richtest nur dann den Maximalschaden an, wenn die Qualität der Waffe deinem Nahkampflevel entspricht. Ist deine Nahkampffertigkeit niedriger, gibt es Abzüge."
     },
     "uittinfoweaponhitmin": {
         "name": "@{6F6F}Treffer \/ Minute @{FFFF}:\nDie Angriffsgeschwindigkeit dieser Waffe."
@@ -18853,6 +18886,9 @@
     },
     "uittinvslots": {
         "name": "Benutzte @{6F6F}Slots@{FFFF} \/ Maximum"
+    },
+    "uittitemgroupnameinput": {
+        "name": "Name der Gegenstandsgruppe"
     },
     "uittkeepinfo": {
         "name": "Dieses Fenster anheften\nWenn angeheftet, werden Informationen zu anderen Gegenständen in einem neuen Fenster angezeigt.\nWenn nicht angeheftet, wird dieses Fenster überschrieben."
@@ -19247,6 +19283,9 @@
     "uittplayercolor": {
         "name": "Farbe, in der Spieler-Charaktere angezeigt werden"
     },
+    "uittplayerelyps": {
+        "name": "Elyps"
+    },
     "uittplayerfocusformat": {
         "name": "Fokus: %v\/%m"
     },
@@ -19605,10 +19644,10 @@
         "name": "Übersetzungen für den Universum-Kanal deaktivieren"
     },
     "uitttranslationhide": {
-        "name": "Blendet das Sprachflag für Nachrichten aus, die aus dieser Sprache stammen"
+        "name": "Blendet die Flagge für Nachrichten in dieser Sprache aus"
     },
     "uitttranslationinverse": {
-        "name": "Invertiert die Anzeige des Originals"
+        "name": "Zeigt den Orginaltext im Chat statt der Übersetzung (und Übersetzung per Mouse-Over)"
     },
     "uittusercolor": {
         "name": "Farbe, in welcher dein Charakter angezeigt wird"
@@ -19676,6 +19715,9 @@
     "uiuniversetitle": {
         "name": "UNIVERSUM"
     },
+    "uiunlockicons": {
+        "name": "Gegenstand entsperren"
+    },
     "uiunpack": {
         "name": "BNP entpacken:"
     },
@@ -19725,7 +19767,7 @@
         "name": "EAX nutzen"
     },
     "uiusehotbaritem": {
-        "name": ""
+        "name": "Benutze Tasche"
     },
     "uiuseitem": {
         "name": "Nutze Gegenstand"
@@ -19953,7 +19995,7 @@
         "name": "@{6F6F}Weisheit@{FFFF},\nSymbolisiert die mentale Kontrolle. Weisheit ist unabkömmlich für den Einsatz von Magie."
     },
     "uiwisdomchest": {
-        "name": ""
+        "name": "Truhe der Weisheit"
     },
     "uiwishmax": {
         "name": "max. Fokus"

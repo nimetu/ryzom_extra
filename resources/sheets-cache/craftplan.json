@@ -9077,5 +9077,53 @@
         "extra": {
             "compo_weapon_mark1.sitem": 10
         }
+    },
+    "bcrmea16": {
+        "item_type": 0,
+        "mpft": {
+            "mpftMpM": 9,
+            "mpftMpG": 2,
+            "mpftMpMF": 10
+        }
+    },
+    "bcrmea17": {
+        "item_type": 0,
+        "mpft": {
+            "mpftMpM": 8,
+            "mpftMpG": 3,
+            "mpftMpMF": 10
+        }
+    },
+    "bcrmea18": {
+        "item_type": 0,
+        "mpft": {
+            "mpftMpM": 8,
+            "mpftMpG": 2,
+            "mpftMpMF": 11
+        }
+    },
+    "bcrmea19": {
+        "item_type": 0,
+        "mpft": {
+            "mpftMpM": 9,
+            "mpftMpG": 2,
+            "mpftMpMF": 11
+        }
+    },
+    "bcrmea20": {
+        "item_type": 58,
+        "mpft": {
+            "mpftMpM": 8,
+            "mpftMpG": 2,
+            "mpftMpMF": 11
+        }
+    },
+    "bcrmea21": {
+        "item_type": 58,
+        "mpft": {
+            "mpftMpM": 9,
+            "mpftMpG": 2,
+            "mpftMpMF": 11
+        }
     }
 }

@@ -23,6 +23,54 @@
         "name": "перламутровая медаль - Атисианских игр 2614",
         "women_name": "перламутровая медаль - Атисианских игр 2614"
     },
+    "2620_number1_marathon": {
+        "name": "янтарная медаль - Марафон",
+        "women_name": "янтарная медаль - Марафон"
+    },
+    "2620_number1_mektoub": {
+        "name": "янтарная медаль - Монтируемая гонка",
+        "women_name": "янтарная медаль - Монтируемая гонка"
+    },
+    "2620_number1_swimming": {
+        "name": "янтарная медаль - Плавание",
+        "women_name": "янтарная медаль - Плавание"
+    },
+    "2620_number1_triathlon": {
+        "name": "янтарная медаль - Триатлон",
+        "women_name": "янтарная медаль - Триатлон"
+    },
+    "2620_number2_marathon": {
+        "name": "перламутровая медаль - Марафон",
+        "women_name": "перламутровая медаль - Марафон"
+    },
+    "2620_number2_mektoub": {
+        "name": "перламутровая медаль - Монтируемая гонка",
+        "women_name": "перламутровая медаль - Монтируемая гонка"
+    },
+    "2620_number2_swimming": {
+        "name": "перламутровая медаль - Плавание",
+        "women_name": "Плаваниеперламутровая медаль -"
+    },
+    "2620_number2_triathlon": {
+        "name": "перламутровая медаль - Триатлон",
+        "women_name": "перламутровая медаль - Триатлон"
+    },
+    "2620_number3_marathon": {
+        "name": "Роговая медаль - Марафон",
+        "women_name": "Роговая медаль - Марафон"
+    },
+    "2620_number3_mektoub": {
+        "name": "Роговая медаль - Монтируемая гонка",
+        "women_name": "Роговая медаль - Монтируемая гонка"
+    },
+    "2620_number3_swimming": {
+        "name": "Роговая медаль - Плавание",
+        "women_name": "Роговая медаль - Плавание"
+    },
+    "2620_number3_triathlon": {
+        "name": "Роговая медаль - Триатлон",
+        "women_name": "Роговая медаль - Триатлон"
+    },
     "accomplisheddisciple": {
         "name": "Accomplished Kami Disciple",
         "women_name": "Accomplished Kami Disciple"
@@ -131,6 +179,14 @@
         "name": "Алхимик",
         "women_name": "Алхимик"
     },
+    "ambitious_fighter": {
+        "name": "Амбициозный боец",
+        "women_name": "Амбициозный боец"
+    },
+    "amnesiac_adventurer": {
+        "name": "Авантюрист с амнезией",
+        "women_name": "Авантюрист с амнезией"
+    },
     "anarchist": {
         "name": "Anarchist",
         "women_name": "Anarchist"
@@ -227,6 +283,10 @@
         "name": "Биомаг",
         "women_name": "Биомаг"
     },
+    "black_kami": {
+        "name": "Мародер",
+        "women_name": "Мародер"
+    },
     "black_mage": {
         "name": "Черный маг",
         "women_name": "Черный маг"
@@ -282,6 +342,10 @@
     "buffercaster": {
         "name": "Маг поддержки",
         "women_name": ""
+    },
+    "byrh": {
+        "name": "Энтузиаст Бирх - Силан 2613",
+        "women_name": "Энтузиаст Бирх - Силан 2613"
     },
     "catch_up_with_ronny_first": {
         "name": "Буран",
@@ -383,6 +447,10 @@
         "name": "Зараженный рагус",
         "women_name": ""
     },
+    "dedicated_altruist": {
+        "name": "Преданный альтруист",
+        "women_name": "Преданный альтруист"
+    },
     "defensive_magician": {
         "name": "Маг защиты",
         "women_name": "Маг защиты"
@@ -394,6 +462,10 @@
     "destroyer": {
         "name": "Уничтожитель",
         "women_name": "Уничтожитель"
+    },
+    "determined_worker": {
+        "name": "Решительный работник",
+        "women_name": "Решительный работник"
     },
     "devastatingaxe": {
         "name": "Devastating Axe",
@@ -455,6 +527,10 @@
         "name": "Искусник",
         "women_name": "Искусница"
     },
+    "endless_talker": {
+        "name": "Непрерывный болтун",
+        "women_name": "Непрерывный болтун"
+    },
     "enqueteur": {
         "name": "Investigator",
         "women_name": "Investigator"
@@ -466,6 +542,10 @@
     "eradicateur_de_valcorenoch": {
         "name": "Искоренитель Валкорноха",
         "women_name": "Искоренитель Валкорноха"
+    },
+    "erkunder_des_umlands": {
+        "name": "Исследователь окрестностей",
+        "women_name": "Исследователь окрестностей"
     },
     "esteemedcitizen": {
         "name": "Esteemed Tryker Citizen",
@@ -1524,8 +1604,8 @@
         "women_name": ""
     },
     "fct_prangeweapon_merchant": {
-        "name": "(Range Weapon Composition Merchant)",
-        "women_name": ""
+        "name": "(Торговец составом дальнего оружия)",
+        "women_name": "(Торговец составом дальнего оружия)"
     },
     "fct_prm_merchant": {
         "name": "(Raw Material Composition Merchant)",
@@ -4904,7 +4984,7 @@
         "women_name": ""
     },
     "gn_kami_welcomer_z2": {
-        "name": "Глашатай Ками в Сумеречной роще",
+        "name": "Глашатай Ками в Роще Мрака",
         "women_name": ""
     },
     "gn_kami_welcomer_z3": {
@@ -7207,6 +7287,10 @@
         "name": "Пьяница",
         "women_name": "Пьяница"
     },
+    "ivrogne2": {
+        "name": "Рыночный пьяница",
+        "women_name": "Рыночная пьяница"
+    },
     "jeweler": {
         "name": "Ювелир",
         "women_name": "Ювелир"
@@ -7459,6 +7543,10 @@
         "name": "Мастер Озер",
         "women_name": ""
     },
+    "leader": {
+        "name": "Предводитель гильдии",
+        "women_name": "Предводитель гильдии"
+    },
     "legeant": {
         "name": "The Giant",
         "women_name": "The Giant"
@@ -7522,6 +7610,10 @@
     "maitreobservateurlacs": {
         "name": "Master Lakes Observer",
         "women_name": "Master Lakes Observer"
+    },
+    "marauder_banner": {
+        "name": "Знамя мародеров",
+        "women_name": "Знамя мародеров"
     },
     "marauderapprentice": {
         "name": "Marauder Apprentice",
@@ -7787,6 +7879,10 @@
         "name": "Внезапная Смерть",
         "women_name": "Внезапная Смерть"
     },
+    "motivated_explorer": {
+        "name": "Мотивированный исследователь",
+        "women_name": "Мотивированный исследователь"
+    },
     "mrsnow_mainland": {
         "name": "Самый усердный помощник мистера Сноу",
         "women_name": "Самая усердная помощница мистера Сноу"
@@ -7839,6 +7935,10 @@
         "name": "Observer",
         "women_name": "Observer"
     },
+    "off": {
+        "name": "Офицер гильдии",
+        "women_name": "Офицер гильдии"
+    },
     "offensive_magician": {
         "name": "Боевой маг",
         "women_name": "Боевой маг"
@@ -7859,6 +7959,10 @@
         "name": "Проводник по Зоре",
         "women_name": ""
     },
+    "offsup": {
+        "name": "Старший офицер гильдии",
+        "women_name": "Старший офицер гильдии"
+    },
     "organisateurmarcheavalae": {
         "name": "Organisateur du Marché d'Avalae",
         "women_name": ""
@@ -7866,6 +7970,10 @@
     "owner_of": {
         "name": "#pet #player",
         "women_name": ""
+    },
+    "passionate_magician": {
+        "name": "Страстный маг",
+        "women_name": "Страстный маг"
     },
     "pathetic_loser": {
         "name": "Жалкий неудачник",
@@ -7959,6 +8067,10 @@
         "name": "Ranger's Termites Expert",
         "women_name": "Ranger's Termites Expert"
     },
+    "recidivist_refugee": {
+        "name": "Беженец-рецидивист",
+        "women_name": "Беженец-рецидивист"
+    },
     "reflectiveinitiate": {
         "name": "Reflective Zoraï Initiate",
         "women_name": "Reflective Zoraï Initiate"
@@ -7966,6 +8078,14 @@
     "refugee": {
         "name": "Беженец",
         "women_name": "Беженка"
+    },
+    "relentless_picker": {
+        "name": "Неустанный сборщик",
+        "women_name": "Неустанный сборщик"
+    },
+    "rendors": {
+        "name": "Официальный охотник - Силан 2613",
+        "women_name": "Официальная охотница - Силан 2613"
     },
     "rendors_2614": {
         "name": "Ужас Рендоров - 2614",
@@ -8002,6 +8122,10 @@
     "ry_pyk_al": {
         "name": "Ry-Pyk'al",
         "women_name": "Ry-Pyk'al"
+    },
+    "ryzom_ambassador": {
+        "name": "осланник Рызома",
+        "women_name": "Посланница Рызома"
     },
     "sandcaravanner": {
         "name": "Караванщик песков",
@@ -8106,6 +8230,10 @@
     "spearman": {
         "name": "Копейщик",
         "women_name": "Копейщик"
+    },
+    "speer": {
+        "name": "",
+        "women_name": ""
     },
     "spirit_of_atys": {
         "name": "Spirit of Atys",

@@ -10565,6 +10565,42 @@
         "pda": "the",
         "description": ""
     },
+    "icrm1pd_amber": {
+        "name": "Amber dagger of the Striker",
+        "ia": "a",
+        "da": "the",
+        "p": "Amber dagger of the Striker",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "icrm1pd_black": {
+        "name": "Purple dagger of the Tireless",
+        "ia": "a",
+        "da": "the",
+        "p": "Purple dagger of the Tireless",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "icrm1pd_purple": {
+        "name": "Purple dagger of the Tireless",
+        "ia": "a",
+        "da": "the",
+        "p": "Purple dagger of the Tireless",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "icrm1pd_red": {
+        "name": "Red dagger of the Survivor",
+        "ia": "a",
+        "da": "the",
+        "p": "Red dagger of the Survivor",
+        "pia": "the",
+        "pda": "the",
+        "description": ""
+    },
     "icrm1ss": {
         "name": "Refugee Sword",
         "ia": "a",
@@ -10579,6 +10615,24 @@
         "ia": "a",
         "da": "the",
         "p": "Refugee Magic Amplifiers",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "icrm2ms_green": {
+        "name": "Green amps of the Tenacious",
+        "ia": "a",
+        "da": "the",
+        "p": "Green amps of the Tenacious",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "icrm2ms_red": {
+        "name": "Red amps of the Survivor",
+        "ia": "a",
+        "da": "the",
+        "p": "Red amps of the Survivor",
         "pia": "",
         "pda": "the",
         "description": ""
@@ -15047,6 +15101,24 @@
         "pda": "the",
         "description": ""
     },
+    "itrtfo_blue": {
+        "name": "Blue pickaxe of the Untiring",
+        "ia": "a",
+        "da": "the",
+        "p": "Blue pickaxe of the Untiring",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "itrtfo_red": {
+        "name": "Red pick of the Hardened",
+        "ia": "a",
+        "da": "the",
+        "p": "Red pick of the Hardened",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
     "itrtje": {
         "name": "Refugee Crafting Tool for Jewelry",
         "ia": "a",
@@ -15094,21 +15166,21 @@
     },
     "ixpca01": {
         "name": "Experience Catalyzer",
-        "ia": "an",
+        "ia": "a",
         "da": "the",
         "p": "Experience Catalyzers",
         "pia": "",
         "pda": "the",
-        "description": "Catalyzers give an XP bonus. Once activated, they are consumed at a rate relative to the gained XP and can double the gained XP. A catalyzer only works for actions with a skill level lower than its quality. To activate it, right-click on the item in the inventory and click on the option in the menu."
+        "description": ""
     },
     "ixpca02": {
         "name": "Experience Catalyzer",
-        "ia": "an",
+        "ia": "a",
         "da": "the",
         "p": "Experience Catalyzers",
         "pia": "",
         "pda": "the",
-        "description": "Catalyzers give an XP bonus. Once activated, they are consumed at a rate relative to the gained XP and can double the gained XP. A catalyzer only works for actions with a skill level lower than its quality. To activate it, right-click on the item in the inventory and click on the option in the menu."
+        "description": ""
     },
     "ixpca03": {
         "name": "Experience Catalyzer (x3)",
@@ -65294,6 +65366,15 @@
         "pda": "the",
         "description": ""
     },
+    "spawn_psykopla": {
+        "name": "Psykopla Bud",
+        "ia": "a",
+        "da": "the",
+        "p": "Psykopla Buds",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
     "stableboy_whistle": {
         "name": "Stableboy's Whistle",
         "ia": "a",
@@ -66226,6 +66307,15 @@
         "ia": "a",
         "da": "the",
         "p": "Perfect Mean Kippe Claws",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "toolbox": {
+        "name": "Crate of things",
+        "ia": "a",
+        "da": "the",
+        "p": "Crates of things",
         "pia": "",
         "pda": "the",
         "description": ""

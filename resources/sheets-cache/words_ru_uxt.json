@@ -234,10 +234,10 @@
         "name": "A group named %name already exist, cannot create one with the same name."
     },
     "cmdcreategroupsuccess1": {
-        "name": "Group %name successfully created."
+        "name": "Группа %название успешно создана."
     },
     "cmdcreategroupsuccess2": {
-        "name": "Group %name successfully created with removal for all unequiped items."
+        "name": "Группа %название успешно создана с удалением всех неэкипированных предметов."
     },
     "cmdcreategroupusage1": {
         "name": "createGroup command usage :"
@@ -252,7 +252,7 @@
         "name": "Cannot delete group %name : no group with this name found."
     },
     "cmddeletegroupsuccess": {
-        "name": "Group %name successfully deleted."
+        "name": "Группа %название успешно удалена."
     },
     "cmddeletegroupusage1": {
         "name": "deleteGroup command usage :"
@@ -264,7 +264,7 @@
         "name": "Could not equip group %name because no group named like this was found."
     },
     "cmdequipgroupsuccess": {
-        "name": "Group %name successfully equipped."
+        "name": "Группа %название успешно экипирована."
     },
     "cmdequipgroupusage1": {
         "name": "equipGroup command usage :"
@@ -273,7 +273,7 @@
         "name": "\/equipGroup group_name : Pull the items from the group group_name from available inventory and equip them."
     },
     "cmdlistgroupheader": {
-        "name": "Available item groups :"
+        "name": "Доступные группы предметов:"
     },
     "cmdlistgroupline": {
         "name": "* %name, with %size items inside."
@@ -282,7 +282,7 @@
         "name": "Could not move group %name to %inventory because no group named like this was found, and\/or it wasn't a valid inventory."
     },
     "cmdmovegroupsuccess": {
-        "name": "Group %name successfully moved to %inventory."
+        "name": "Группа %название успешно перемещена в %инвентарь."
     },
     "cmdmovegroupusage1": {
         "name": "moveGroup command usage :"
@@ -516,7 +516,7 @@
         "name": "Городской глашатай"
     },
     "fct_civil": {
-        "name": ""
+        "name": "(Гражданин)"
     },
     "fct_consumable_merchant": {
         "name": " (Торговец снадобьями)"
@@ -1002,7 +1002,7 @@
         "name": " (Melee weapon composition merchant)"
     },
     "fct_prangeweapon_merchant": {
-        "name": " (Range weapon composition merchant)"
+        "name": "(Торговец составом дальнего оружия)"
     },
     "fct_prm_merchant": {
         "name": " (Raw material composition merchant)"
@@ -2316,7 +2316,7 @@
         "name": "Прочее"
     },
     "mission_real_tooltip": {
-        "name": ""
+        "name": "{FFFC}Это @{6F6F}курс@{FFFC}, за которым вы сейчас следите.\nКликните для большей @{6F6F}информации@{FFFC}."
     },
     "mpcatexotic": {
         "name": "Экзотический"
@@ -5654,6 +5654,9 @@
     "tryker_weapon_smith_apprentice": {
         "name": "Ученик оружейника трайкеров"
     },
+    "ui3dview": {
+        "name": "Превью"
+    },
     "uiabilities": {
         "name": "Характеристики"
     },
@@ -5859,7 +5862,7 @@
         "name": "ВОКРУГ МЕНЯ"
     },
     "uiartefacthelp": {
-        "name": "Purchase a pact before running out of stock."
+        "name": "Приобретайте пакт телепортации до того, как закончатся запасы."
     },
     "uiartefactrestrict": {
         "name": "@{C02F}Your allegiance or level of fame does not allow to use this item."
@@ -5907,7 +5910,7 @@
         "name": "Режим автоматического снаряжения"
     },
     "uiautoloot": {
-        "name": ""
+        "name": "Взять все во время добычи"
     },
     "uiautomaticcamera": {
         "name": "Автоматизировать камеру"
@@ -6324,7 +6327,7 @@
         "name": "В следующий раз не показывать это предупреждение."
     },
     "uibgd_download": {
-        "name": ""
+        "name": "Скачать"
     },
     "uibgd_downloaderdisconnected": {
         "name": "Работа менеджера патчей прервана, пожалуйста, перезапустите Ризом"
@@ -6618,7 +6621,7 @@
         "name": "Соглашение: "
     },
     "uibotchatphrase": {
-        "name": ""
+        "name": " "
     },
     "uibotchatprice": {
         "name": "Цена: "
@@ -6975,7 +6978,7 @@
         "name": "БОЕЦ ДАЛЬНЕГО БОЯ - ХАРАКТЕРИСТИКИ"
     },
     "uicatalyser": {
-        "name": ""
+        "name": "Катализатор"
     },
     "uicategory": {
         "name": "Категория"
@@ -7653,10 +7656,10 @@
         "name": "@{6F6F}Телосложение@{FFFF}, \nпоказывает, насколько долго персонаж может заниматься физически утомительными действиями."
     },
     "uiconsumable": {
-        "name": ""
+        "name": "Расходный"
     },
     "uiconsumables": {
-        "name": ""
+        "name": "Расходный"
     },
     "uicontactalreadyinlist": {
         "name": "Этот персонаж уже есть в вашем списке контактов."
@@ -7677,7 +7680,7 @@
         "name": "Земли файросов"
     },
     "uicontinentindoors": {
-        "name": ""
+        "name": "в помещении"
     },
     "uicontinentlecarrefour": {
         "name": "Перекресток"
@@ -8157,7 +8160,7 @@
         "name": "Debug Show Timed FXs"
     },
     "uidebugswitchconsoledisplay": {
-        "name": "Switch Console Display"
+        "name": "Дисплей Консоли Коммутатора"
     },
     "uidebugtest": {
         "name": "Test"
@@ -8244,7 +8247,7 @@
         "name": "Назначить цвет для ночного времени"
     },
     "uideftooltipcolor": {
-        "name": ""
+        "name": "Определить цвет фона подсказки"
     },
     "uidelchar": {
         "name": "УДАЛИТЬ ПЕРСОНАЖА ?"
@@ -9395,6 +9398,9 @@
     "uiemptybuilding": {
         "name": "Пусто"
     },
+    "uiemptyitemgroups": {
+        "name": "Создайте группу предметов, чтобы начать работу"
+    },
     "uiemptyjob": {
         "name": "- No job activated -"
     },
@@ -9496,6 +9502,9 @@
     },
     "uiexitlogin": {
         "name": "ВЫХОД"
+    },
+    "uiexpandwindow": {
+        "name": "Изменить размер для подгонки"
     },
     "uiexpandwindows": {
         "name": "Показать \/ Скрыть кнопки на рабочем столе"
@@ -10004,6 +10013,9 @@
     "uifinished": {
         "name": "Завершение"
     },
+    "uifinishlessons": {
+        "name": ""
+    },
     "uifirewallalert": {
         "name": "Настройте ваш firewall для совместимости с Ризом"
     },
@@ -10119,7 +10131,7 @@
         "name": "Полноэкранный режим"
     },
     "uifxaa": {
-        "name": "Enable FXAA"
+        "name": "Включить FXAA"
     },
     "uifxbloom": {
         "name": "Включить эффект Bloom"
@@ -10362,7 +10374,7 @@
         "name": "Члены группы"
     },
     "uiguild": {
-        "name": "Гильдия"
+        "name": "ГИЛЬДИЯ"
     },
     "uiguildbearer": {
         "name": "Знаменосец"
@@ -10596,7 +10608,7 @@
         "name": "Помощь"
     },
     "uihelpauradisabled": {
-        "name": "\n\nАура деактивирована.\nВозможно вы находитесь вне зоны действия, или вам требуется подождать какое-то время до возобновления действия ауры."
+        "name": "Аура деактивирована.\nВозможно вы находитесь вне зоны действия, или вам требуется подождать какое-то время до возобновления действия ауры."
     },
     "uihelpbrickcombatskillseparator": {
         "name": "@{FFF9} или\n@{T8}@{FFFF}"
@@ -10848,7 +10860,7 @@
         "name": "@{FFF9}@{HuittActionSuccessRateSH}Вероятность успеха@{H} В Изначальных Корнях:@{T12}@{FFFF}%suc_prime\n"
     },
     "uihelpphraseheaderbricks": {
-        "name": " "
+        "name": " @{FFFF}--- Станцы ---"
     },
     "uihelpphrasemagicformat": {
         "name": "@{FFF9}Название:@{T12}@{FFFF}%name\n@{FFF9}Расход:@{T12}@{FFFF}%cost\n@{FFF9}Кредит:@{T12}@{FFFF}%credit\n@{FFF9}@{HuittActionSpellLevel}Уровень заклинания:@{H}@{T12}@{FFFF}%mglvl\n%magicresist\n%compostart@{FFF9}@{HuittActionSuccessRateSM}Вероятность успеха:@{H}@{T14}@{FFFF}%success%\n@{FFF9}Длительность заклинания:@{T14}@{FFFF}%duration секунд\n@{FFF9}Расход сэп:@{T14}@{FFFF}%energy_cost\n@{FFF9}Расход здоровья:@{T14}@{FFFF}%hp_cost\n@{FFF9}Зона поражения:@{T14}@{FFFF}%range\n@{FFFF}%desc%req"
@@ -11010,7 +11022,7 @@
         "name": "Horizontal"
     },
     "uihotbartitle": {
-        "name": ""
+        "name": "КАРМАНЫ"
     },
     "uihp": {
         "name": "Здоровье"
@@ -11373,7 +11385,7 @@
         "name": "@{FFF9}Сообщение от изготовителя:\n@{FFFF}"
     },
     "uiitemtype": {
-        "name": ""
+        "name": "Используйте первый предмет, найденный в сумке типа"
     },
     "uiitemusersellcolor": {
         "name": "@{FF0F}"
@@ -11643,7 +11655,7 @@
         "name": "CAPITAL"
     },
     "uikeyclear": {
-        "name": "CLEAR"
+        "name": "ОЧИСТИТЬ"
     },
     "uikeycomma": {
         "name": ","
@@ -11790,7 +11802,7 @@
         "name": "HANJA"
     },
     "uikeyhelp": {
-        "name": "HELP"
+        "name": "ПОМОЩЬ"
     },
     "uikeyhome": {
         "name": "HOME"
@@ -11910,7 +11922,7 @@
         "name": "OEM 102"
     },
     "uikeyoem_clear": {
-        "name": "OEM CLEAR"
+        "name": "OEM ОЧИСТИТЬ"
     },
     "uikeyp": {
         "name": "P"
@@ -11928,7 +11940,7 @@
         "name": "PERIOD"
     },
     "uikeyplay": {
-        "name": "PLAY"
+        "name": "ИГРАТЬ"
     },
     "uikeyplaypause": {
         "name": "Играть \/ пауза"
@@ -11973,7 +11985,7 @@
         "name": "RWIN"
     },
     "uikeys": {
-        "name": "Ключи"
+        "name": "S"
     },
     "uikeysactionstitle": {
         "name": "ДЕЙСТВИЯ"
@@ -12233,6 +12245,9 @@
     "uilmwoodcolor": {
         "name": "Древесина"
     },
+    "uiloading": {
+        "name": "Загрузка..."
+    },
     "uiloadingstring0": {
         "name": "Загрузка ниндзя-юбо..."
     },
@@ -12473,6 +12488,9 @@
     "uilock": {
         "name": "Зафиксировать"
     },
+    "uilockicons": {
+        "name": "Фиксировать иконки"
+    },
     "uilodvalue": {
         "name": "NORMAL"
     },
@@ -12609,7 +12627,7 @@
         "name": "Магия"
     },
     "uimagicspellicon": {
-        "name": " "
+        "name": " Икона"
     },
     "uimagicsuffixtitle": {
         "name": "MAGIC SUFFIXES"
@@ -13146,7 +13164,7 @@
         "name": "ПЕРЕДАТЬ"
     },
     "uimgroup": {
-        "name": "Groups"
+        "name": "Группы"
     },
     "uimguild": {
         "name": "ГИЛЬДИЯ"
@@ -13391,6 +13409,9 @@
     "uimk_emotes": {
         "name": "ЭМОЦИИ"
     },
+    "uimk_encyclopedia": {
+        "name": "Энциклопедия"
+    },
     "uimk_game": {
         "name": "ИГРА"
     },
@@ -13494,9 +13515,12 @@
         "name": "Настройки"
     },
     "uimk_system1_short": {
-        "name": ""
+        "name": "Конфиг."
     },
     "uimk_system2": {
+        "name": "Клавиши"
+    },
+    "uimk_system2_abrv": {
         "name": "Клавиши"
     },
     "uimk_system3": {
@@ -14028,7 +14052,7 @@
         "name": "ВЛИЯНИЯ"
     },
     "uimwcap": {
-        "name": "Course"
+        "name": "ТУТОРИАЛ"
     },
     "uimwchat": {
         "name": "ОСНОВНОЙ ЧАТ"
@@ -14919,7 +14943,7 @@
         "name": "Штрафы на выполнение действия: "
     },
     "uiphraseediticon": {
-        "name": " "
+        "name": " Икона"
     },
     "uiphraseeditname": {
         "name": "Название"
@@ -16593,10 +16617,10 @@
         "name": "ОТОБРАЖЕНИЕ СЭП"
     },
     "uisapcristal": {
-        "name": ""
+        "name": "Сэп Кристалл"
     },
     "uisapcrystal": {
-        "name": ""
+        "name": "Сэп Кристалл"
     },
     "uisapdesc": {
         "name": "@{6F6F}Сэп@{FFFF}, \nэнергия,позволяющая использовать магические умения."
@@ -16617,7 +16641,7 @@
         "name": "Save"
     },
     "uisay": {
-        "name": "SAY"
+        "name": "СКАЗАТЬ"
     },
     "uisaycolor": {
         "name": "Сказать"
@@ -16686,7 +16710,7 @@
         "name": "ЮВ"
     },
     "uisearchterm": {
-        "name": ""
+        "name": "Термин поиска (необязательно)"
     },
     "uiseason0": {
         "name": "весна"
@@ -16719,7 +16743,7 @@
         "name": "Выбор установки"
     },
     "uiselectquantity": {
-        "name": ""
+        "name": "ВЫБЕРИТЕ КОЛИЧЕСТВО"
     },
     "uiselectrmbuy": {
         "name": "Hire a Role Master"
@@ -16971,7 +16995,7 @@
         "name": "Пропустить вступление"
     },
     "uislotnumber": {
-        "name": ""
+        "name": "Номер слота"
     },
     "uisnowy": {
         "name": "снег"
@@ -17015,11 +17039,14 @@
     "uispecialpowerfilter": {
         "name": "Силы"
     },
+    "uispeedfactorzero": {
+        "name": "Ваш фактор скорости равен нулю, и вы не можете двигаться."
+    },
     "uispellbooktitle": {
         "name": "КНИГА ЗАКЛИНАНИЙ"
     },
     "uispellcrystallized": {
-        "name": ""
+        "name": "Кристаллизованное заклинание"
     },
     "uispellselectsapcost": {
         "name": "Расход Сэпа: "
@@ -17526,7 +17553,7 @@
         "name": "ПЕРЕМЕСТИТЬСЯ"
     },
     "uiteleportitem": {
-        "name": ""
+        "name": "Телепортер"
     },
     "uiteleportlocation": {
         "name": "МЕСТА ТЕЛЕПОРТАЦИИ"
@@ -17787,10 +17814,10 @@
         "name": "ИНСТРУМЕНТЫ"
     },
     "uitooltipcolor": {
-        "name": ""
+        "name": "Цвет фона"
     },
     "uitooltipopacity": {
-        "name": ""
+        "name": "Непрозрачность подсказки"
     },
     "uitorso": {
         "name": "КОРПУС"
@@ -18270,7 +18297,7 @@
         "name": "@{6F6F}Расстояние @{FFFF}между вами и объектом, который вы выбрали на своем компасе."
     },
     "uittcompassrange": {
-        "name": "@{6F6F}Радиус действия\n@{FFFF}Максимальный радиус действия радара.\nИспользуйте кнопку скроллинга внутри окна @{6F6F}компаса @{FFFF}или щелкните правой кнопкой мыши и выберите из менб функции @{6F6F}Приблизить @{FFFF}или @{6F6F}Отдалить @{FFFF}для того, чтобы изменить настройки @{6F6F}радиуса действия@{FFFF}."
+        "name": "@{6F6F}Радиус действия\n@{FFFF}Максимальный радиус действия радара.\nИспользуйте кнопку скроллинга внутри окна @{6F6F}компаса @{FFFF}или щелкните правой кнопкой мыши и выберите в меню функцыю @{6F6F}Приблизить @{FFFF}или @{6F6F}Отдалить @{FFFF}для того, чтобы изменить настройки @{6F6F}радиуса действия@{FFFF}."
     },
     "uittconsiderboss": {
         "name": "Это животное представляет собой @{6F6F}испытание для гильдии@{FFFF}."
@@ -18615,22 +18642,22 @@
         "name": "Шлем"
     },
     "uitthotbaritem": {
-        "name": ""
+        "name": "Карманы"
     },
     "uitthotbaritem1": {
-        "name": ""
+        "name": "Карман #1"
     },
     "uitthotbaritem2": {
-        "name": ""
+        "name": "Карман #2"
     },
     "uitthotbaritem3": {
-        "name": ""
+        "name": "Карман #3"
     },
     "uitthotbaritem4": {
-        "name": ""
+        "name": "Карман #4"
     },
     "uitthotbaritem5": {
-        "name": ""
+        "name": "Карман #5"
     },
     "uitthours": {
         "name": " часов "
@@ -18859,6 +18886,9 @@
     },
     "uittinvslots": {
         "name": "Использовано @{6F6F}ячеек@{FFFF}\/доступно"
+    },
+    "uittitemgroupnameinput": {
+        "name": "Название группы предметов\n@{FFFA}(Перед @{3F3F}!@{FFFA} для удаления пустых слотов)"
     },
     "uittkeepinfo": {
         "name": "@{6F6F}Закрепить@{FFFF} это окно.\nЕсли окно закреплено, информация о других предметах будет показываться в другом окне.\nЕсли отменить закрепление, окно может использоваться снова."
@@ -19253,6 +19283,9 @@
     "uittplayercolor": {
         "name": "Цвет для обозначения других игроков"
     },
+    "uittplayerelyps": {
+        "name": "Elyps"
+    },
     "uittplayerfocusformat": {
         "name": "Внимание: %v\/%m"
     },
@@ -19494,10 +19527,10 @@
         "name": "Пометьте для отображения трехмерной картинки в окне информации о предмете."
     },
     "uittshowcapinmap": {
-        "name": ""
+        "name": "Показать положение цели туториала на карте"
     },
     "uittshowcappopup": {
-        "name": ""
+        "name": "Отображение\/скрытие туториала появляется в верхней центральной части экрана"
     },
     "uittshowclock": {
         "name": "Пометьте для отображения времени в компасе."
@@ -19599,16 +19632,16 @@
         "name": "@{6F6F}Тип инструмента @{FFFF}:\nПеред тем, как заниматься изготовлением предмета, вам необходимо подготовить инструмент нужного типа."
     },
     "uitttranslationdisablearound": {
-        "name": ""
+        "name": "Отключить переводы для канала Вокруг"
     },
     "uitttranslationdisableguild": {
-        "name": ""
+        "name": "Отключить переводы для канала Гильдии"
     },
     "uitttranslationdisableregion": {
-        "name": ""
+        "name": "Отключить переводы для канала Региона"
     },
     "uitttranslationdisableuniverse": {
-        "name": ""
+        "name": "Отключить переводы для канала Вселенная"
     },
     "uitttranslationhide": {
         "name": "Скрывает флаг языка для сообщений, исходящих с этого языка"
@@ -19682,6 +19715,9 @@
     "uiuniversetitle": {
         "name": "ВСЕЛЕННАЯ"
     },
+    "uiunlockicons": {
+        "name": "Освободить иконки"
+    },
     "uiunpack": {
         "name": "Распаковка BNP :"
     },
@@ -19731,10 +19767,10 @@
         "name": "Использовать EAX"
     },
     "uiusehotbaritem": {
-        "name": ""
+        "name": "Использовать карман"
     },
     "uiuseitem": {
-        "name": ""
+        "name": "Использовать предмет"
     },
     "uiuseralpha": {
         "name": "ПРИМЕНИТЬ ОБЩИЕ НАСТРОЙКИ"
@@ -19779,7 +19815,7 @@
         "name": "Видимость вдаль"
     },
     "uivrenable": {
-        "name": "Enable VR"
+        "name": "Включить VR"
     },
     "uivrgeneral": {
         "name": "Virtual Reality Options"
@@ -19860,37 +19896,37 @@
         "name": "Фактор скорости "
     },
     "uiwelcome_around": {
-        "name": "Roleplay is one of major interests of Ryzom, and around channel is an important place to practice it."
+        "name": "Ролевая игра - один из основных интересов Ryzom, а канал вокруг - важное место для ее практики."
     },
     "uiwelcome_fyros": {
-        "name": "Chat here with players having their avatar being also a patriot."
+        "name": "Дискутируйте здесь с игроками, чей аватар также является патриотом."
     },
     "uiwelcome_kami": {
-        "name": "Chat here with players having their avatar sharing the same cult as yours."
+        "name": "Дискутируйте здесь с игроками, чьи аватары имеют тот же культ, что и у вас."
     },
     "uiwelcome_karavan": {
-        "name": "Chat here with players having their avatar sharing the same cult as yours."
+        "name": "Дискутируйте здесь с игроками, чьи аватары имеют тот же культ, что и у вас."
     },
     "uiwelcome_marauder": {
-        "name": "Chat here with players having their avatar being also a marauder."
+        "name": "Дискутируйте здесь с игроками, чей аватар также является мародером."
     },
     "uiwelcome_matis": {
-        "name": "Chat here with players having their avatar being also a vassal."
+        "name": "Дискутируйте здесь с игроками, чей аватар также является вассалом."
     },
     "uiwelcome_ranger": {
-        "name": "Chat here with players having their avatar being also a ranger."
+        "name": "Дискутируйте здесь с игроками, чей аватар также является рейнджером."
     },
     "uiwelcome_region": {
-        "name": "Chat here with other players having their avatar in the same region as where yours is."
+        "name": "Дискутируйте здесь с игроками, чьи аватары находятся в том же регионе, что и ваш."
     },
     "uiwelcome_tryker": {
-        "name": "Chat here with players having their avatar being also a citizen."
+        "name": "Дискутируйте здесь с игроками, чей аватар также является гражданином."
     },
     "uiwelcome_universe": {
-        "name": "The Universe Channel is first of all intended for players asking help about the game and for those helping them. It's a friendly channel that also can be used for chatting related to Ryzom."
+        "name": "Канал Вселенная - это многоязычный канал, предназначенный в первую очередь для игроков, чтобы просить помощи по игре и тех, кто ее им предоставляет. Кроме того, это удобный канал, который можно использовать для обсуждения Ryzom."
     },
     "uiwelcome_zorai": {
-        "name": "Chat here with players having their avatar being also an initiate."
+        "name": "Дискутируйте здесь с игроками, чей аватар также является инициированным."
     },
     "uiwelcomecs": {
         "name": "Представители службы поддержки днем и ночью неустанно наблюдают за всем, что происходит на Атисе. Связаться с ними можно, выбрав кнопку \"ПОДДЕРЖКА\", в меню, расположенном в правой нижней части экрана."
@@ -19959,7 +19995,7 @@
         "name": "@{6F6F}Мудрость@{FFFF}, \nизмеряет способность персонажа контролировать свой разум, необходима для занятий магией."
     },
     "uiwisdomchest": {
-        "name": ""
+        "name": "Сундук Мудрости"
     },
     "uiwishmax": {
         "name": "Focus Max"

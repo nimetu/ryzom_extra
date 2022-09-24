@@ -5654,6 +5654,9 @@
     "tryker_weapon_smith_apprentice": {
         "name": "Apprenti fabricant d'armes trykers"
     },
+    "ui3dview": {
+        "name": "Aperçu"
+    },
     "uiabilities": {
         "name": "Capacités"
     },
@@ -7755,7 +7758,7 @@
         "name": "Apprenti artisan"
     },
     "uicp_creation": {
-        "name": "CRÉATION"
+        "name": "- CRÉATION -"
     },
     "uicp_delete_no": {
         "name": "NON"
@@ -7887,19 +7890,19 @@
         "name": "Maraudeur"
     },
     "uicp_menu_1": {
-        "name": "CIVILISATION"
+        "name": "SON ORIGINE"
     },
     "uicp_menu_2": {
-        "name": "SEXE"
+        "name": "SON GENRE"
     },
     "uicp_menu_3": {
-        "name": "CORPS"
+        "name": "SON PHYSIQUE"
     },
     "uicp_menu_4": {
-        "name": "VISAGE"
+        "name": "SON VISAGE"
     },
     "uicp_menu_5": {
-        "name": "ACTIONS"
+        "name": "SON HISTOIRE"
     },
     "uicp_name_cancel": {
         "name": "ANNULER"
@@ -7944,7 +7947,7 @@
         "name": "Résultat"
     },
     "uicp_selection": {
-        "name": "SÉLECTION"
+        "name": "- SÉLECTION -"
     },
     "uicp_sex_female": {
         "name": "Homine"
@@ -9395,6 +9398,9 @@
     "uiemptybuilding": {
         "name": "Vide"
     },
+    "uiemptyitemgroups": {
+        "name": "Créer un groupe d'objets pour débuter"
+    },
     "uiemptyjob": {
         "name": "- Pas de travail activé -"
     },
@@ -9496,6 +9502,9 @@
     },
     "uiexitlogin": {
         "name": "QUITTER"
+    },
+    "uiexpandwindow": {
+        "name": "Ajuster la fenêtre"
     },
     "uiexpandwindows": {
         "name": "Afficher \/ Cacher les boutons du bureau"
@@ -10004,6 +10013,9 @@
     "uifinished": {
         "name": "Finition"
     },
+    "uifinishlessons": {
+        "name": ""
+    },
     "uifirewallalert": {
         "name": "Veuillez paramétrer votre pare-feu pour autoriser Ryzom."
     },
@@ -10362,7 +10374,7 @@
         "name": "Co-équipiers"
     },
     "uiguild": {
-        "name": "GUILDE"
+        "name": "Guilde"
     },
     "uiguildbearer": {
         "name": "Titulaire"
@@ -10848,7 +10860,7 @@
         "name": "@{FFF9}@{HuittActionSuccessRateSH}Réussite@{H} dans les Primes Racines :@{T12}@{FFFF}%suc_prime\n"
     },
     "uihelpphraseheaderbricks": {
-        "name": " "
+        "name": " @{FFFF}--- Briques ---"
     },
     "uihelpphrasemagicformat": {
         "name": "@{FFF9}Action :@{T12}@{FFFF}%name\n@{FFF9}Coût :@{T12}@{FFFF}%cost\n@{FFF9}Crédit :@{T12}@{FFFF}%credit\n@{FFF9}@{HuittActionSpellLevel}Niveau du sort :@{H}@{T12}@{FFFF}%mglvl\n%magicresist\n%compostart@{FFF9}@{HuittActionSuccessRateSM}Réussite :@{H}@{T12}@{FFFF}%success%\n@{FFF9}Temps d'incantation :@{T12}@{FFFF}%duration secondes\n@{FFF9}Sève consommée :@{T12}@{FFFF}%energy_cost\n@{FFF9}Vie consommée :@{T12}@{FFFF}%hp_cost\n@{FFF9}Portée :@{T12}@{FFFF}%range\n@{FFFF}%desc%req"
@@ -10872,7 +10884,7 @@
         "name": "Moi"
     },
     "uihelpphraserequirementheader": {
-        "name": "\n@{FFFF}--- Prérequis---\n@{FFF9}@{HuittActionSkillPoint}Coût en points de compétences :@{H}@{T12}@{FFFF}%sp \/ %basesp\n@{FFF9}@{HuittActionSkillReq}Compétences requises :@{H}\n"
+        "name": "@{FFFF}--- Prérequis---\n@{FFF9}@{HuittActionSkillPoint}Coût en points de compétences :@{H}@{T12}@{FFFF}%sp \/ %basesp\n@{FFF9}@{HuittActionSkillReq}Compétences requises :@{H}\n"
     },
     "uihelpphraserequirementline": {
         "name": "@{T4}@{FFF9}Compétence @{FFFF}%s@{FFF9} de niveau @{FFFF}%d\n"
@@ -11973,7 +11985,7 @@
         "name": "WinD"
     },
     "uikeys": {
-        "name": "S"
+        "name": "Touches"
     },
     "uikeysactionstitle": {
         "name": "TOUCHES D'ACTION"
@@ -12233,6 +12245,9 @@
     "uilmwoodcolor": {
         "name": "Bois"
     },
+    "uiloading": {
+        "name": "Chargement..."
+    },
     "uiloadingstring0": {
         "name": "Votre horoscope prédit une rencontre passionnée avec un kirosta."
     },
@@ -12472,6 +12487,9 @@
     },
     "uilock": {
         "name": "Verrouiller"
+    },
+    "uilockicons": {
+        "name": "Verouiller les icônes"
     },
     "uilodvalue": {
         "name": "Normal"
@@ -13391,6 +13409,9 @@
     "uimk_emotes": {
         "name": "Emotes"
     },
+    "uimk_encyclopedia": {
+        "name": "Encyclopédie"
+    },
     "uimk_game": {
         "name": "Jeu"
     },
@@ -13493,7 +13514,13 @@
     "uimk_system1": {
         "name": "Configuration"
     },
+    "uimk_system1_short": {
+        "name": "Config."
+    },
     "uimk_system2": {
+        "name": "Touches"
+    },
+    "uimk_system2_abrv": {
         "name": "Touches"
     },
     "uimk_system3": {
@@ -16584,13 +16611,13 @@
         "name": "il y a de l'orage de sciure dans l'air."
     },
     "uisap": {
-        "name": "Sève du personnage"
+        "name": "Sève"
     },
     "uisapbardisplay": {
         "name": "Affichage Sève"
     },
     "uisapcristal": {
-        "name": ""
+        "name": "Cristal de Sève"
     },
     "uisapcrystal": {
         "name": "Cristal de sève"
@@ -17011,6 +17038,9 @@
     },
     "uispecialpowerfilter": {
         "name": "Pouvoirs"
+    },
+    "uispeedfactorzero": {
+        "name": "Votre facteur de vitesse est de zéro et vous ne pouvez pas vous déplacer."
     },
     "uispellbooktitle": {
         "name": "Livre des sorts"
@@ -18857,6 +18887,9 @@
     "uittinvslots": {
         "name": "@{6F6F}Emplacements @{FFFF}utilisés \/ maximum"
     },
+    "uittitemgroupnameinput": {
+        "name": "Nom du groupe d'objets\n@{FFFA}(Précédé de @{3F3F}!@{FFFA} pour le retrait des emplacements vides)"
+    },
     "uittkeepinfo": {
         "name": "Conserver l'info dans cette fenêtre"
     },
@@ -19249,6 +19282,9 @@
     },
     "uittplayercolor": {
         "name": "Couleur utilisée pour l'affichage des personnages joueurs"
+    },
+    "uittplayerelyps": {
+        "name": "Elyps"
     },
     "uittplayerfocusformat": {
         "name": "Concentration : %v\/%m"
@@ -19679,6 +19715,9 @@
     "uiuniversetitle": {
         "name": "UNIVERS"
     },
+    "uiunlockicons": {
+        "name": "Déverouiller les icônes"
+    },
     "uiunpack": {
         "name": "Décompression BNP :"
     },
@@ -19954,6 +19993,9 @@
     },
     "uiwisdesc": {
         "name": "@{6F6F}Sagesse@{FFFF},\ndétermine le temps de régénération de la sève, l'énergie utilisée pour faire de la magie."
+    },
+    "uiwisdomchest": {
+        "name": "Coffre de Sagesse"
     },
     "uiwishmax": {
         "name": "Concentration max."
