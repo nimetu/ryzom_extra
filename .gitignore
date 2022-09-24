@@ -1,4 +1,11 @@
 
+.idea
+.vscode
+.phpunit.result.cache
+.phan
+psalm.xml
+composer.lock
+
 vendor
 bin/config*.php
 
