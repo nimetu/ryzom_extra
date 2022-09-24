@@ -25,8 +25,6 @@ namespace RyzomExtra\Export\Sheets;
 use Ryzom\Common\EItemFamily;
 use Ryzom\Sheets\Client\CMp;
 use Ryzom\Sheets\Client\CMpItemPart;
-use Ryzom\Sheets\Client\ItemSheet;
-use Ryzom\Sheets\Client\SkilltreeSheet;
 
 /**
  * Export ItemSheet to array using only few needed fields
@@ -45,10 +43,11 @@ class ItemSheetExport extends AbstractSheetExport {
 	 * @param $sheet
 	 */
 	function export(array $data, $sheet) {
+		/** @var \Ryzom\Sheets\Client\ItemSheet[] $data */
 		echo "+ exporting $sheet\n";
 
 		$skilltreeId = $this->sheetIds->getSheetId('skills.skill_tree');
-		/** @var SkilltreeSheet  */
+		/** @var \Ryzom\Sheets\Client\SkilltreeSheet $skilltree */
 		$skilltree = $this->sheetsManager->findById($skilltreeId);
 
 		$exportItems = array();
@@ -61,10 +60,7 @@ class ItemSheetExport extends AbstractSheetExport {
 			EItemFamily::COMMAND_TICKET,
 		);
 
-		/**
-		 * @var $item ItemSheet
-		 * @var int $id
-		 */
+		/** @var int $id */
 		foreach ($data as $id => $item) {
 			if (in_array($item->Family, $skipTypes)) {
 				continue;
@@ -218,7 +214,7 @@ class ItemSheetExport extends AbstractSheetExport {
 	}
 
 	/**
-	 * @param \Ryzom\Sheets\Client\CMp $mp
+	 * @param CMp $mp
 	 * @param $txt
 	 *
 	 * @return int foraged=0, looted=1, unknown=-1
@@ -282,7 +278,7 @@ class ItemSheetExport extends AbstractSheetExport {
 	/**
 	 * FIXME: needs OriginFilter too?
 	 *
-	 * @param \Ryzom\Sheets\Client\CMp $mp
+	 * @param CMp $mp
 	 * @param CMpItemPart[] $stats
 	 *
 	 * @return array

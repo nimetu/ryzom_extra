@@ -34,7 +34,7 @@ interface EncoderInterface {
 	/**
 	 * Serial data array into string
 	 *
-	 * @param array $array
+	 * @param array $data
 	 *
 	 * @return string
 	 */

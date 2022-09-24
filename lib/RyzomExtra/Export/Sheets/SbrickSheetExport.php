@@ -22,14 +22,6 @@
 
 namespace RyzomExtra\Export\Sheets;
 
-use RyzomExtra\Export\ExportInterface;
-use Nel\Misc\SheetId;
-use Ryzom\Sheets\Client\SbrickSheet;
-use Ryzom\Sheets\Client\CItemPartMps;
-use Ryzom\Sheets\Client\CFormulaMps;
-use Ryzom\Sheets\Client\ItemSheet;
-use Ryzom\Sheets\Client\CRequiredSkill;
-
 /**
  * Export SbrickSheet to array using only few needed fields
  * Numeric sheetIds and skill's are converted into string
@@ -54,7 +46,7 @@ class SbrickSheetExport extends AbstractSheetExport {
 		foreach ($data as $id => $sbrick) {
 			/**
 			 * @var int $id
-			 * @var SbrickSheet $sbrick
+			 * @var \Ryzom\Sheets\Client\SbrickSheet $sbrick
 			 */
 			$key = $this->sheetIds->getSheetIdName($id, false);
 
@@ -131,7 +123,7 @@ class SbrickSheetExport extends AbstractSheetExport {
 			}
 
 			if (!empty($sbrick->RequiredSkills)) {
-				/** @var CRequiredSkill $skill */
+				/** @var \Ryzom\Sheets\Client\CRequiredSkill $skill */
 				foreach ($sbrick->RequiredSkills as $skill) {
 					$skillCode = strtolower($skilltree->get($skill->Skill)->SkillCode);
 					$array['required_skills'][$skillCode] = $skill->Value;
@@ -139,7 +131,7 @@ class SbrickSheetExport extends AbstractSheetExport {
 			}
 
 			if (!empty($sbrick->RequireAllSkills)) {
-				/** @var CRequiredSkill $skill */
+				/** @var \Ryzom\Sheets\Client\CRequiredSkill $skill */
 				foreach ($sbrick->RequireAllSkills as $skill) {
 					$skillCode = strtolower($skilltree->get($skill->Skill)->SkillCode);
 					$array['require_all_skills'][$skillCode] = $skill->Value;
@@ -148,20 +140,20 @@ class SbrickSheetExport extends AbstractSheetExport {
 
 			// brick has craft plan info
 			if ($sbrick->FaberPlan->ItemBuilt > 0) {
-				/** @var $item ItemSheet */
+				/** @var \Ryzom\Sheets\Client\ItemSheet $item */
 				$item = $this->sheetsManager->findById($sbrick->FaberPlan->ItemBuilt);
 
 				$plan = array(
 					'item_type' => $item->ItemType,
 				);
 
-				/** @var CItemPartMps $pmp */
+				/** @var \Ryzom\Sheets\Client\CItemPartMps $pmp */
 				foreach ($sbrick->FaberPlan->ItemPartMps as $pmp) {
 					$name = $this->getMpftName($pmp->FaberTypeFilter);
 					$plan['mpft'][$name] = $pmp->Quantity;
 				}
 
-				/** @var CFormulaMps $fmp */
+				/** @var \Ryzom\Sheets\Client\CFormulaMps $fmp */
 				foreach ($sbrick->FaberPlan->FormulaMps as $fmp) {
 					$name = $this->sheetIds->getSheetIdName($fmp->ItemRequired);
 					$plan['extra'][$name] = $fmp->Quantity;

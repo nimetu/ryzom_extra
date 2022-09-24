@@ -26,6 +26,9 @@ use Nel\Misc\SheetId;
 
 class SheetIdExport implements ExportInterface {
 
+	/** @var string */
+	protected $path;
+
 	/** @var EncoderInterface */
 	protected $encoder;
 
@@ -46,7 +49,7 @@ class SheetIdExport implements ExportInterface {
 		// split full list into separate files
 		// reading them back in is a lot faster this way
 		foreach ($data as $id => $array) {
-			$key = floor($id / 1000000);
+			$key = intval($id / 1000000);
 			$groups[$key][$id] = $array['name'].'.'.$array['sheet'];
 		}
 

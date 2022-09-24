@@ -57,7 +57,7 @@ class Application extends Pimple {
 
 			$file = 'sheet_id.bin';
 
-			/** @var $bnp BnpFile */
+			/** @var BnpFile $bnp */
 			$bnp = $app['bnp.leveldesign'];
 			if ($bnp->hasFile($file)) {
 				$app->debug('loading %s', $file);
@@ -123,10 +123,10 @@ class Application extends Pimple {
 	}
 
 	function exportSheets($sheetKeys) {
-		/** @var $sheets SheetsManager */
+		/** @var SheetsManager $sheets */
 		$sheets = $this['sheets'];
 
-		/** @var $export PackedSheetsExport */
+		/** @var PackedSheetsExport $export */
 		$export = $this['export.packed_sheets'];
 
 		foreach ($sheetKeys as $sheet) {
@@ -150,7 +150,7 @@ class Application extends Pimple {
 		}
 		$this->debug('loading translations (%s) (%s)', $lang, join(', ', $sheets));
 
-		/** @var $bnp BnpFile */
+		/** @var BnpFile $bnp */
 		$bnp = $this['bnp.gamedev'];
 		foreach ($sheets as $sheet) {
 			if ($sheet == 'uxt') {
@@ -221,10 +221,10 @@ class Application extends Pimple {
 	}
 
 	function fixStubDescription(array $messages, $prefix) {
-		/** @var $sheetIds SheetId */
+		/** @var SheetId $sheetIds */
 		$sheetIds = $this['sheetid'];
 
-		/** @var $sheetsManager SheetsManager */
+		/** @var SheetsManager $sheetsManager */
 		$sheetsManager = $this['sheets'];
 
 		foreach ($messages as $key => &$row) {
@@ -233,7 +233,7 @@ class Application extends Pimple {
 				printf("- numeric sheetid not found (%s)\n", $key.'.'.$prefix);
 				continue;
 			}
-			/** @var $sheet \Ryzom\Sheets\Client\SbrickSheet */
+			/** @var \Ryzom\Sheets\Client\SbrickSheet $sheet */
 			$sheet = $sheetsManager->findById($sheetId);
 			if (!empty($sheet) && !empty($sheet->Properties)) {
 				// Properties is array of strings like 'SP_SHIELDING:25:5:50:10:75:15:15:120'

@@ -27,6 +27,9 @@ class WordsExport implements ExportInterface {
 	/** @var EncoderInterface */
 	protected $encoder;
 
+	/** @var string */
+	protected $path;
+
 	function __construct($path, EncoderInterface $encoder) {
 		$this->path = $path;
 
@@ -35,16 +38,17 @@ class WordsExport implements ExportInterface {
 
 	/**
 	 * @param array $data
-	 * @param string $lang
+	 * @param string $sheet en|fr|de|es|ru language code
 	 */
-	function export(array $data, $lang) {
-		foreach ($data as $sheet => $array) {
-			if ($sheet == 'sitem') {
-				$sheet = 'item';
+	function export(array $data, $sheet) {
+		$lang = $sheet;
+		foreach ($data as $sheetName => $array) {
+			if ($sheetName == 'sitem') {
+				$sheetName = 'item';
 			}
 
 			$ext = $this->encoder->name();
-			$filename = "{$this->path}/words_{$lang}_{$sheet}.{$ext}";
+			$filename = "{$this->path}/words_{$lang}_{$sheetName}.{$ext}";
 
 			// keep array sorted to minimize change diff
 			ksort($array);

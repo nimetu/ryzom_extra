@@ -22,8 +22,6 @@
 
 namespace RyzomExtra\Export;
 
-use Nel\Misc\SheetId;
-
 interface ExportInterface {
 
 	/**

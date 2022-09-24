@@ -39,13 +39,13 @@ class GuildIconRenderer
 
     /**
      * @param GuildIconBuilder $icon
-     * @param string           $dataPath
+     * @param string|bool      $dataPath optional path for guild icon textures
      */
     public function __construct(GuildIconBuilder $icon, $dataPath = false)
     {
         $this->icon = $icon;
 
-        $this->dataPath = $dataPath ?: __DIR__.'/../../resources/guild-icon';
+        $this->dataPath = is_string($dataPath) ? $dataPath : __DIR__.'/../../resources/guild-icon';
         $this->size = 'b';
 
         $this->withSymbol = true;

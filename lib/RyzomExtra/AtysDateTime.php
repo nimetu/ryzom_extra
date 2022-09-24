@@ -101,11 +101,11 @@ class AtysDateTime extends RyzomClock
      * @param bool   $legacyTick  If set to true, tick start from year 2525 (aniro, arispotle, leanon)
      *                            else tick start from 2568 (atys)
      *
-     * @throw \RuntimeException
+     * @throws \RuntimeException
      */
     public function __construct($lang = 'en', $legacyTick = false)
     {
-        parent::__construct(0, 0, $legacyTick);
+        parent::__construct(0, $legacyTick);
         $this->lang = $lang;
     }
 

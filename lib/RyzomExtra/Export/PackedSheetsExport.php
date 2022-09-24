@@ -22,8 +22,6 @@
 
 namespace RyzomExtra\Export;
 
-use Nel\Misc\SheetId;
-use Ryzom\Sheets\Client\SkilltreeSheet;
 use RyzomExtra\Export\Sheets\AbstractSheetExport;
 
 class PackedSheetsExport extends AbstractSheetExport {
@@ -33,7 +31,6 @@ class PackedSheetsExport extends AbstractSheetExport {
 	 * @param string $sheet sheet name
 	 *
 	 * @throws \RuntimeException
-	 * @return
 	 */
 	function export(array $data, $sheet) {
 		switch ($sheet) {

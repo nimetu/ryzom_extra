@@ -26,7 +26,6 @@ use Nel\Misc\SheetId;
 use RyzomExtra\Export\EncoderInterface;
 use RyzomExtra\Export\ExportInterface;
 use Ryzom\Sheets\SheetsManager;
-use Ryzom\Sheets\Client\SkilltreeSheet;
 
 abstract class AbstractSheetExport implements ExportInterface {
 	/** @var EncoderInterface */
@@ -37,6 +36,9 @@ abstract class AbstractSheetExport implements ExportInterface {
 
 	/** @var SheetsManager */
 	protected $sheetsManager;
+
+	/** @var SheetId */
+	protected $sheetIds;
 
 	function __construct(SheetId $sheetIds, SheetsManager $sheetsManager, $path, EncoderInterface $encoder) {
 		$this->sheetsManager = $sheetsManager;

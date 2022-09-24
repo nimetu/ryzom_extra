@@ -22,11 +22,6 @@
 
 namespace RyzomExtra\Export\Sheets;
 
-use RyzomExtra\Export\ExportInterface;
-use Nel\Misc\SheetId;
-use Ryzom\Sheets\Client\SkilltreeSheet;
-use Ryzom\Sheets\Client\CSkill;
-
 /**
  * Export SkilltreeSheet to array.
  *
@@ -40,11 +35,12 @@ class SkilltreeSheetExport extends AbstractSheetExport {
 	 */
 	function export(array $data, $sheet) {
 		echo "+ exporting $sheet\n";
-		/** @var $skilltree SkilltreeSheet */
+		/** @var \Ryzom\Sheets\Client\SkilltreeSheet $skilltree */
 		$skilltree = $data[36]; // #36 == skills.skill_tree
 
+		$exportSkills = array();
 		foreach ($skilltree->getSkills() as $skill) {
-			/** @var $skill CSkill */
+			/** @var \Ryzom\Sheets\Client\CSkill $skill */
 			$skillCode = strtolower($skill->SkillCode);
 			$array = array(
 				'max' => $skill->MaxSkillValue,

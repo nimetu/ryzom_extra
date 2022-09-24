@@ -27,8 +27,8 @@ use RyzomExtra\Export\EncoderInterface;
 class SerializeEncoder implements EncoderInterface {
 
 	/** {@inheritdoc} */
-	function encode(array $array) {
-		return serialize($array);
+	function encode(array $data) {
+		return serialize($data);
 	}
 
 	/** {@inheritdoc} */

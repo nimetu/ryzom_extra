@@ -27,8 +27,8 @@ use RyzomExtra\Export\EncoderInterface;
 class JsonEncoder implements EncoderInterface {
 
 	/** {@inheritdoc} */
-	function encode(array $array) {
-		$ret = json_encode($array, JSON_PRETTY_PRINT|JSON_UNESCAPED_UNICODE);
+	function encode(array $data) {
+		$ret = json_encode($data, JSON_PRETTY_PRINT|JSON_UNESCAPED_UNICODE);
 		if ($ret === false) {
 			echo "!! json encoding error\n";
 			// monkey patch extended ascii chars that give utf8 errors
@@ -39,13 +39,13 @@ class JsonEncoder implements EncoderInterface {
 				"\xE9" => 'é',
 				"\x92" => '’',
 			);
-			foreach($array as $key => $value) {
+			foreach($data as $key => $value) {
 				$fixed = false;
 				foreach($fixes as $find => $replace) {
-					// test agains $value, but do replacement in $array
+					// test agains $value, but do replacement in $data
 					if (strpos($value, $find) !== false) {
-						$fixed = str_replace($find, $replace, $array[$key]);
-						$array[$key] = $fixed;
+						$fixed = str_replace($find, $replace, $data[$key]);
+						$data[$key] = $fixed;
 					}
 				}
 				if ($fixed !== false) {
@@ -53,9 +53,9 @@ class JsonEncoder implements EncoderInterface {
 				}
 			}
 
-			$ret = json_encode($array, JSON_PRETTY_PRINT|JSON_UNESCAPED_UNICODE);
+			$ret = json_encode($data, JSON_PRETTY_PRINT|JSON_UNESCAPED_UNICODE);
 			if ($ret === false) {
-				foreach($array as $key => $value) {
+				foreach($data as $key => $value) {
 					if (json_encode(array($key => $value)) !== false) {
 						throw new \RuntimeException("Invalid value for json encoder: [$key]($value)");
 					}

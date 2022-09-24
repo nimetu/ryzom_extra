@@ -22,8 +22,6 @@
 
 namespace RyzomExtra\Export\Sheets;
 
-use Nel\Misc\SheetId;
-
 /**
  * Export CharacterSheet to array using only few needed fields
  *
@@ -36,14 +34,12 @@ class CharacterSheetExport extends AbstractSheetExport {
 	 * @param $sheet
 	 */
 	function export(array $data, $sheet) {
+		/** @var \Ryzom\Sheets\Client\CharacterSheet[] $data */
 		echo "+ exporting $sheet\n";
 
 		$export = [];
 
-		/**
-		 * @var $creature CharacterSheet
-		 * @var int $id
-		 */
+		/** @var int $id */
 		foreach ($data as $id => $creature) {
 			$key = $this->sheetIds->getSheetIdName($id, false);
 
