@@ -28,7 +28,6 @@ use Nel\Misc\BnpFile;
 use Ryzom\Sheets\PackedSheetsLoader;
 use Ryzom\Sheets\SheetsManager;
 use Ryzom\Sheets\VisualSlotManager;
-use Ryzom\Translation\Loader\LoaderInterface;
 use Ryzom\Translation\Loader\WordsLoader;
 use Ryzom\Translation\Loader\UxtLoader;
 use RyzomExtra\Export\Encoder\SerializeEncoder;
@@ -255,7 +254,7 @@ class Application extends Pimple {
 					) {
 						foreach($match[0] as $k => $stub){
 							$propKey = strtolower($match[2][$k]);
-							$propIdx = ($match[1] != '') ? $match[1][$k] : 0;
+							$propIdx = !empty($match[1][$k]) ? $match[1][$k] : 0;
 							if(isset($props[$propKey]) && isset($props[$propKey][$propIdx])){
 								$propVal = trim($props[$propKey][$propIdx]);
 								$row[$msgIndex] = str_ireplace($stub, $propVal, $row[$msgIndex]);
