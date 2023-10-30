@@ -263,6 +263,10 @@
         "name": "Médaille de Corne - Triathlon",
         "women_name": "Médaille de Corne - Triathlon"
     },
+    "2621_storyteller": {
+        "name": "Conteur d'Atysoël 2621",
+        "women_name": "Conteuse d'Atysoël 2621"
+    },
     "accomplisheddisciple": {
         "name": "Disciple Accompli des Kamis",
         "women_name": "Disciple Accomplie des Kamis"
@@ -355,6 +359,14 @@
         "name": "akenakos fyros",
         "women_name": "akenakos fyros"
     },
+    "akenakosdyron": {
+        "name": "akenakos de Dyron",
+        "women_name": "akenakos de Dyron"
+    },
+    "akenakospyr": {
+        "name": "akenakos de Pyr",
+        "women_name": "akenakos de Pyr"
+    },
     "akenos": {
         "name": "akenos fyros",
         "women_name": "akenos fyros"
@@ -366,6 +378,10 @@
     "akenosthesos": {
         "name": "akenos de Thesos",
         "women_name": "akenos de Thesos"
+    },
+    "akilia_champion": {
+        "name": "Champion d'Akilia",
+        "women_name": "Championne d'Akilia"
     },
     "alchemist": {
         "name": "Alchimiste",
@@ -398,6 +414,10 @@
     "anarchist": {
         "name": "Anarchiste",
         "women_name": "Anarchiste"
+    },
+    "animal_trainer": {
+        "name": "(Dresseur)",
+        "women_name": "(Dresseur)"
     },
     "anlorwinn_yuboball_tournament_champion": {
         "name": "Vainqueur du Tournoi de Yubo Ball d'Anlor Winn",
@@ -1143,9 +1163,9 @@
         "name": "(Hôte d'Accueil des Villes)",
         "women_name": ""
     },
-    "fct_civil": {
-        "name": "",
-        "women_name": ""
+    "fct_collector": {
+        "name": "(Collectionneur)",
+        "women_name": "(Collectionneuse)"
     },
     "fct_confgu": {
         "name": "Confrérie du Gubani Fortuné",
@@ -7759,6 +7779,10 @@
         "name": "Champion Karavan",
         "women_name": ""
     },
+    "karavan_champion": {
+        "name": "Champion de la Karavan - 2622",
+        "women_name": "Champion de la Karavan - 2622"
+    },
     "karavanenemy": {
         "name": "Ennemi de la Karavan",
         "women_name": "Ennemie de la Karavan"
@@ -8351,6 +8375,114 @@
         "name": "Combattant Débutant",
         "women_name": "Combattante Débutante"
     },
+    "number1marathon2624": {
+        "name": "Médaille d'Ambre - Marathon - 2624",
+        "women_name": "Médaille d'Ambre - Marathon - 2624"
+    },
+    "number1mektoubride2624": {
+        "name": "Médaille d'Ambre - Course montée - 2624",
+        "women_name": "Médaille d'Ambre - Course montée - 2624"
+    },
+    "number1natation2624": {
+        "name": "Médaille d'Ambre - Natation - 2624",
+        "women_name": "Médaille d'Ambre - Natation - 2624"
+    },
+    "number1triathlon2624": {
+        "name": "Médaille d'Ambre - Triathlon - 2624",
+        "women_name": "Médaille d'Ambre - Triathlon - 2624"
+    },
+    "number1yubogolffyros2624": {
+        "name": "Médaille d'Ambre - Yubogolf du Désert - 2624",
+        "women_name": "Médaille d'Ambre - Yubogolf du Désert - 2624"
+    },
+    "number1yubogolfmatis2624": {
+        "name": "Médaille d'Ambre - Yubogolf de la Forêt - 2624",
+        "women_name": "Médaille d'Ambre - Yubogolf de la Forêt - 2624"
+    },
+    "number1yubogolfprime2624": {
+        "name": "Médaille d'Ambre - Yubogolf des Primes Racines - 2624",
+        "women_name": "Médaille d'Ambre - Yubogolf des Primes Racines - 2624"
+    },
+    "number1yubogolftryker2624": {
+        "name": "Médaille d'Ambre - Yubogolf des Lacs - 2624",
+        "women_name": "Médaille d'Ambre - Yubogolf des Lacs - 2624"
+    },
+    "number1yubogolfzorai2624": {
+        "name": "Médaille d'Ambre - Yubogolf de la Jungle - 2624",
+        "women_name": "Médaille d'Ambre - Yubogolf de la Jungle - 2624"
+    },
+    "number2marathon2624": {
+        "name": "Médaille de Nacre - Marathon - 2624",
+        "women_name": "Médaille de Nacre - Marathon - 2624"
+    },
+    "number2mektoubride2624": {
+        "name": "Médaille de Nacre - Course montée - 2624",
+        "women_name": "Médaille de Nacre - Course montée - 2624"
+    },
+    "number2natation2624": {
+        "name": "Médaille de Nacre - Natation - 2624",
+        "women_name": "Médaille de Nacre - Natation - 2624"
+    },
+    "number2triathlon2624": {
+        "name": "Médaille de Nacre - Triathlon - 2624",
+        "women_name": "Médaille de Nacre - Triathlon - 2624"
+    },
+    "number2yubogolffyros2624": {
+        "name": "Médaille de Nacre - Yubogolf du Désert - 2624",
+        "women_name": "Médaille de Nacre - Yubogolf du Désert - 2624"
+    },
+    "number2yubogolfmatis2624": {
+        "name": "Médaille de Nacre - Yubogolf de la Forêt - 2624",
+        "women_name": "Médaille de Nacre - Yubogolf de la Forêt - 2624"
+    },
+    "number2yubogolfprime2624": {
+        "name": "Médaille de Nacre - Yubogolf des Primes Racines - 2624",
+        "women_name": "Médaille de Nacre - Yubogolf des Primes Racines - 2624"
+    },
+    "number2yubogolftryker2624": {
+        "name": "Médaille de Nacre - Yubogolf des Lacs - 2624",
+        "women_name": "Médaille de Nacre - Yubogolf des Lacs - 2624"
+    },
+    "number2yubogolfzorai2624": {
+        "name": "Médaille de Nacre - Yubogolf de la Jungle - 2624",
+        "women_name": "Médaille de Nacre - Yubogolf de la Jungle - 2624"
+    },
+    "number3marathon2624": {
+        "name": "Médaille de Corne - Marathon - 2624",
+        "women_name": "Médaille de Corne - Marathon - 2624"
+    },
+    "number3mektoubride2624": {
+        "name": "Médaille de Corne - Course montée - 2624",
+        "women_name": "Médaille de Corne - Course montée - 2624"
+    },
+    "number3natation2624": {
+        "name": "Médaille de Corne - Natation - 2624",
+        "women_name": "Médaille de Corne - Natation - 2624"
+    },
+    "number3triathlon2624": {
+        "name": "Médaille de Corne - Triathlon - 2624",
+        "women_name": "Médaille de Corne - Triathlon - 2624"
+    },
+    "number3yubogolffyros2624": {
+        "name": "Médaille de Corne - Yubogolf du Désert - 2624",
+        "women_name": "Médaille de Corne - Yubogolf du Désert - 2624"
+    },
+    "number3yubogolfmatis2624": {
+        "name": "Médaille de Corne - Yubogolf de la Forêt - 2624",
+        "women_name": "Médaille de Corne - Yubogolf de la Forêt - 2624"
+    },
+    "number3yubogolfprime2624": {
+        "name": "Médaille de Corne - Yubogolf des Primes Racines - 2624",
+        "women_name": "Médaille de Corne - Yubogolf des Primes Racines - 2624"
+    },
+    "number3yubogolftryker2624": {
+        "name": "Médaille de Corne - Yubogolf des Lacs - 2624",
+        "women_name": "Médaille de Corne - Yubogolf des Lacs - 2624"
+    },
+    "number3yubogolfzorai2624": {
+        "name": "Médaille de Corne - Yubogolf de la Jungle - 2624",
+        "women_name": "Médaille de Corne - Yubogolf de la Jungle - 2624"
+    },
     "observateurlacs": {
         "name": "Observateur des Lacs",
         "women_name": "Observatrice des Lacs"
@@ -8387,9 +8519,17 @@
         "name": "Guide Touristique de Zora",
         "women_name": ""
     },
+    "official_brewer": {
+        "name": "Brasseur officiel des noces",
+        "women_name": "Brasseuse officielle des noces"
+    },
     "offsup": {
         "name": "Officier Supérieur de la guilde",
         "women_name": "Officier Supérieur de la guilde"
+    },
+    "old_lands_explorer": {
+        "name": "Explorateur des Anciennes Terres",
+        "women_name": "Exploratrice des Anciennes Terres"
     },
     "organisateurmarcheavalae": {
         "name": "Organisateur du Marché d'Avalae",
@@ -9199,9 +9339,17 @@
         "name": "Vagabond Taciturne",
         "women_name": ""
     },
+    "valiant_fighter_karavan_2622": {
+        "name": "Vaillant Combattant de la Karavan - 2622",
+        "women_name": "Vaillante Combattante de la Karavan - 2622"
+    },
     "vg": {
         "name": "Guide Vétéran",
         "women_name": "Guide Vétéran"
+    },
+    "vicechampion_karavan_2622": {
+        "name": "Vice-Champion de la Karavan - 2622",
+        "women_name": "Vice-Champion de la Karavan - 2622"
     },
     "viscount_of_avalae": {
         "name": "Vicomte d'Avalae",
@@ -9215,6 +9363,18 @@
         "name": "Apprenti Combattant",
         "women_name": "Apprentie Combattante"
     },
+    "wedding_bard": {
+        "name": "Barde des noces",
+        "women_name": "Barde des noces"
+    },
+    "wedding_drunkard": {
+        "name": "Trinqueur copieux",
+        "women_name": "Trinqueuse copieuse"
+    },
+    "wedding_witness": {
+        "name": "Témoin du mariage",
+        "women_name": "Témoin du mariage"
+    },
     "windchild": {
         "name": "Enfant des Vents",
         "women_name": ""
@@ -9222,6 +9382,10 @@
     "windguardian": {
         "name": "Gardien des Vents",
         "women_name": ""
+    },
+    "winner_2624": {
+        "name": "Mister Atys 2624",
+        "women_name": "Miss Atys 2624"
     },
     "winnerraceatysmas2019": {
         "name": "Blizzard Suprême",

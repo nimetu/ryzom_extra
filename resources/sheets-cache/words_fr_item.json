@@ -1208,7 +1208,7 @@
     "event_barrel_of_water": {
         "name": "Tonneau d'eau lacustre",
         "ia": "un",
-        "da": "le",
+        "da": "l'",
         "p": "Tonneaux d'eau lacustre",
         "pia": "des",
         "pda": "les",
@@ -3428,6 +3428,15 @@
         "pda": "",
         "description": ""
     },
+    "gift": {
+        "name": "Cadeau",
+        "ia": "un",
+        "da": "l'",
+        "p": "Cadeaux",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
     "gnoof_mount_0": {
         "name": "monture gnoof",
         "ia": "un",
@@ -3627,19 +3636,19 @@
         "description": ""
     },
     "iaad": {
-        "name": "Zig Gubani",
+        "name": "Zig",
         "ia": "un",
-        "da": "le",
-        "p": "Zigs Gubani",
+        "da": "l'",
+        "p": "Zigs",
         "pia": "des",
         "pda": "les",
         "description": ""
     },
     "iaad2": {
-        "name": "Zig Frippo",
+        "name": "Zig",
         "ia": "un",
-        "da": "le",
-        "p": "Zig Frippo",
+        "da": "l'",
+        "p": "Zigs",
         "pia": "des",
         "pda": "les",
         "description": ""
@@ -13428,9 +13437,9 @@
         "description": ""
     },
     "iczp1ps": {
-        "name": "Munition Ttranchante de Tchaï",
-        "ia": "une",
-        "da": "la",
+        "name": "Munition Tranchante de Tchaï",
+        "ia": "un",
+        "da": "l'",
         "p": "Munitions tranchantes de Tchaïs",
         "pia": "des",
         "pda": "les",
@@ -65269,11 +65278,20 @@
     },
     "slot_fingerl": {
         "name": "mettre la bague à votre doigt gauche",
-        "ia": "",
-        "da": "",
-        "p": "",
-        "pia": "",
-        "pda": "",
+        "ia": "un",
+        "da": "l'",
+        "p": "mettre la bague à votre doigt gauche",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "slot_fingerr": {
+        "name": "mettre la bague à votre doigt droit",
+        "ia": "un",
+        "da": "l'",
+        "p": "mettre la bague à votre doigt droit",
+        "pia": "des",
+        "pda": "les",
         "description": ""
     },
     "slot_neck": {
@@ -65740,6 +65758,15 @@
         "ia": "une",
         "da": "la",
         "p": "Matières premières génériques fines",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "system_mp_loot": {
+        "name": "Matière première générique",
+        "ia": "un",
+        "da": "l'",
+        "p": "Matières premières génériques",
         "pia": "des",
         "pda": "les",
         "description": ""
@@ -69200,6 +69227,69 @@
         "pda": "les",
         "description": ""
     },
+    "ulo_1": {
+        "name": "Archoleth",
+        "ia": "un",
+        "da": "l'",
+        "p": "Archoleths",
+        "pia": "des",
+        "pda": "les",
+        "description": "Les Archoleth peuvent être échangées auprès du Collectionneur qui donnera en fonction de ce qu'il a en stock (random donc)"
+    },
+    "ulo_2": {
+        "name": "Archoleth",
+        "ia": "un",
+        "da": "l'",
+        "p": "Archoleths",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "ulo_3": {
+        "name": "Archoleth",
+        "ia": "un",
+        "da": "l'",
+        "p": "Archoleths",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "ulo_4": {
+        "name": "Archoleth",
+        "ia": "un",
+        "da": "l'",
+        "p": "Archoleths",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "ulo_5": {
+        "name": "Archoleth",
+        "ia": "un",
+        "da": "l'",
+        "p": "Archoleth",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "ulo_6": {
+        "name": "Archoleth",
+        "ia": "un",
+        "da": "l'",
+        "p": "Archoleths",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "ulo_7": {
+        "name": "Archoleth",
+        "ia": "un",
+        "da": "l'",
+        "p": "Archoleths",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
     "unstable_goo_vial": {
         "name": "Potion Instable de Goo",
         "ia": "une",
@@ -69214,6 +69304,15 @@
         "ia": "une",
         "da": "l'",
         "p": "Eaux stimulantes",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "water_trek_barrel": {
+        "name": "Tonneau d'eau",
+        "ia": "un",
+        "da": "le",
+        "p": "Tonneaux d'eau",
         "pia": "des",
         "pda": "les",
         "description": ""
@@ -69633,46 +69732,46 @@
         "description": ""
     },
     "zig_bolobi": {
-        "name": "Zig Bolobi",
+        "name": "Zig",
         "ia": "un",
-        "da": "le",
-        "p": "Zig Bolobi",
+        "da": "l'",
+        "p": "Zig",
         "pia": "des",
         "pda": "les",
         "description": ""
     },
     "zig_capryni": {
-        "name": "Zig Capryni",
+        "name": "Zig",
         "ia": "un",
-        "da": "le",
-        "p": "Zig Capryni",
+        "da": "l'",
+        "p": "Zig",
         "pia": "des",
         "pda": "les",
         "description": ""
     },
     "zig_yubo_forest": {
-        "name": "Zig Yubo",
+        "name": "Zig",
         "ia": "un",
-        "da": "le",
-        "p": "Zig Yubo",
+        "da": "l'",
+        "p": "Zig",
         "pia": "des",
         "pda": "les",
         "description": ""
     },
     "zig_yubo_lakes": {
-        "name": "Zig Yubo",
+        "name": "Zig",
         "ia": "un",
-        "da": "le",
-        "p": "Zig Yubo",
+        "da": "l'",
+        "p": "Zig",
         "pia": "des",
         "pda": "les",
         "description": ""
     },
     "zig_yubo_white": {
-        "name": "Zig Yubo",
+        "name": "Zig",
         "ia": "un",
-        "da": "le",
-        "p": "Zig Yubo",
+        "da": "l'",
+        "p": "Zig",
         "pia": "des",
         "pda": "les",
         "description": ""

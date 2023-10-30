@@ -47,6 +47,12 @@
         "placeaccus": "Лагерь Пэй-Руза",
         "placedat": "Лагерю Пэй-Руза"
     },
+    "cont_kitiniere": {
+        "name": "Логово Китинов",
+        "placegen": "Логово Китинов",
+        "placeaccus": "",
+        "placedat": ""
+    },
     "cont_newbieland": {
         "name": "Силана",
         "placegen": "Силана",
@@ -116,6 +122,36 @@
     "continent_nexus": {
         "name": "Плато Нексус",
         "placegen": "Плато Нексус",
+        "placeaccus": "",
+        "placedat": ""
+    },
+    "continent_r2_desert": {
+        "name": "Неисследованная Пустыня",
+        "placegen": "Неисследованная Пустыня",
+        "placeaccus": "",
+        "placedat": ""
+    },
+    "continent_r2_forest": {
+        "name": "Земли Ливинд",
+        "placegen": "Земли Ливинд",
+        "placeaccus": "",
+        "placedat": ""
+    },
+    "continent_r2_jungle": {
+        "name": "Неисследованные Джунгли",
+        "placegen": "Неисследованные Джунгли",
+        "placeaccus": "",
+        "placedat": ""
+    },
+    "continent_r2_lakes": {
+        "name": "Неисследованные Озера",
+        "placegen": "Неисследованные Озера",
+        "placeaccus": "",
+        "placedat": ""
+    },
+    "continent_r2_roots": {
+        "name": "Неисследованные Примусы",
+        "placegen": "Неисследованные Примусы",
         "placeaccus": "",
         "placedat": ""
     },
@@ -606,8 +642,14 @@
         "placedat": ""
     },
     "marauder_camp_stable": {
-        "name": "Marauder Stables",
-        "placegen": "the",
+        "name": "Стойло мародеров",
+        "placegen": "Стойло мародеров",
+        "placeaccus": "",
+        "placedat": ""
+    },
+    "marauder_stable": {
+        "name": "Стойло мародеров",
+        "placegen": "Стойло мародеров",
         "placeaccus": "",
         "placedat": ""
     },
@@ -672,8 +714,8 @@
         "placedat": ""
     },
     "newbie_start_point": {
-        "name": "",
-        "placegen": "",
+        "name": "Убежище рейнджеров",
+        "placegen": "Убежище рейнджеров",
         "placeaccus": "",
         "placedat": ""
     },
@@ -2045,6 +2087,12 @@
         "placeaccus": "",
         "placedat": ""
     },
+    "place_matis_island_3": {
+        "name": "Остров Рейнджеров",
+        "placegen": "Острова Рейнджеров",
+        "placeaccus": "Остров Рейнджеров",
+        "placedat": "Острову Рейнджеров"
+    },
     "place_men_xing": {
         "name": "Нен-Ксинг",
         "placegen": "Нен-Ксинг",
@@ -2262,7 +2310,7 @@
         "placedat": ""
     },
     "place_outpost_fyros_18": {
-        "name": "Ферма Каньона Искусников",
+        "name": "Ферма Каньона Короедов",
         "placegen": "Фермы Каньона Короедов",
         "placeaccus": "",
         "placedat": ""
@@ -4067,6 +4115,12 @@
         "placeaccus": "",
         "placedat": ""
     },
+    "region_matis_island_3": {
+        "name": "Остров Алмати",
+        "placegen": "Острова Алмати",
+        "placeaccus": "Остров Алмати",
+        "placedat": "Острову Алмати"
+    },
     "region_mistvalley": {
         "name": "Долина Туманов",
         "placegen": "Долины Туманов",
@@ -4580,6 +4634,36 @@
     "tryker_terrace_2nd": {
         "name": "Терраса, 2й этаж",
         "placegen": "Террасы, 2й этаж",
+        "placeaccus": "",
+        "placedat": ""
+    },
+    "uir2_forest49": {
+        "name": "Глубины Отчаяния",
+        "placegen": "Глубины Отчаяния",
+        "placeaccus": "",
+        "placedat": ""
+    },
+    "uir2_forest50": {
+        "name": "Воющие Высоты",
+        "placegen": "Воющие Высоты",
+        "placeaccus": "",
+        "placedat": ""
+    },
+    "uir2_forest51": {
+        "name": "Безумный Фриндж",
+        "placegen": "Безумный Фриндж",
+        "placeaccus": "",
+        "placedat": ""
+    },
+    "uir2_forest52": {
+        "name": "Ползучие Пещеры",
+        "placegen": "Ползучие Пещеры",
+        "placeaccus": "",
+        "placedat": ""
+    },
+    "uir2_forest53": {
+        "name": "Земля Потерянных",
+        "placegen": "Земля Потерянных",
         "placeaccus": "",
         "placedat": ""
     },

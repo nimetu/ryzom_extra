@@ -133383,7 +133383,7 @@
     "death_penalty": {
         "sheet_id": "death_penalty",
         "brick_family": 451,
-        "index_in_family": 98,
+        "index_in_family": 54,
         "level": 0,
         "sabrina_cost": 0,
         "sabrina_relative_cost": 0,
@@ -142070,6 +142070,212 @@
         },
         "required_skills": {
             "sc": 0
+        }
+    },
+    "jboost_100x": {
+        "sheet_id": "jboost_100x",
+        "brick_family": 490,
+        "index_in_family": 0,
+        "level": 0,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "forage_spawn.png"
+        }
+    },
+    "jloot_forage": {
+        "sheet_id": "jloot_forage",
+        "brick_family": 489,
+        "index_in_family": 0,
+        "level": 0,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "jloot_forage.png",
+            "back": "us_back_3.png"
+        }
+    },
+    "jloot_generic": {
+        "sheet_id": "jloot_generic",
+        "brick_family": 489,
+        "index_in_family": 0,
+        "level": 0,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "jloot_hunt_generic.png",
+            "back": "us_back_6.png"
+        }
+    },
+    "jloot_hunt": {
+        "sheet_id": "jloot_hunt",
+        "brick_family": 489,
+        "index_in_family": 0,
+        "level": 0,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "jloot_hunt.png",
+            "back": "us_back_6.png"
+        }
+    },
+    "jrez_lastpoint": {
+        "sheet_id": "jrez_lastpoint",
+        "brick_family": 489,
+        "index_in_family": 0,
+        "level": 0,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "jrez_lastpoint.png",
+            "back": "bk_generic_brick.png"
+        }
+    },
+    "jboost_1000x": {
+        "sheet_id": "jboost_1000x",
+        "brick_family": 490,
+        "index_in_family": 0,
+        "level": 0,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "ico_fear.png"
+        }
+    },
+    "aqua_speed": {
+        "sheet_id": "aqua_speed",
+        "brick_family": 451,
+        "index_in_family": 104,
+        "level": 0,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "ico_speed.png",
+            "back": "ico_gentle.png"
+        }
+    },
+    "jrez_nodp": {
+        "sheet_id": "jrez_nodp",
+        "brick_family": 489,
+        "index_in_family": 0,
+        "level": 0,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 11,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            226
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "jrez_nodp.png",
+            "back": "us_back_0.png"
         }
     }
 }

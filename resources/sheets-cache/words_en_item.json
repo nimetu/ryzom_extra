@@ -3428,6 +3428,15 @@
         "pda": "the",
         "description": ""
     },
+    "gift": {
+        "name": "Gift",
+        "ia": "a",
+        "da": "the",
+        "p": "Gifts",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
     "gnoof_mount_0": {
         "name": "gnoof mount",
         "ia": "a",
@@ -3627,19 +3636,19 @@
         "description": ""
     },
     "iaad": {
-        "name": "Gubani Zig",
+        "name": "Zig",
         "ia": "a",
         "da": "the",
-        "p": "Gubani Zig",
+        "p": "Zig",
         "pia": "",
         "pda": "the",
         "description": ""
     },
     "iaad2": {
-        "name": "Frippo Zig",
+        "name": "Zig",
         "ia": "a",
         "da": "the",
-        "p": "Frippo Zig",
+        "p": "Zig",
         "pia": "",
         "pda": "the",
         "description": ""
@@ -65273,7 +65282,16 @@
         "da": "the",
         "p": "",
         "pia": "",
-        "pda": "",
+        "pda": "the",
+        "description": ""
+    },
+    "slot_fingerr": {
+        "name": "Equip a ring on your right finger",
+        "ia": "a",
+        "da": "the",
+        "p": "Equip a ring on your right finger",
+        "pia": "the",
+        "pda": "the",
         "description": ""
     },
     "slot_neck": {
@@ -65740,6 +65758,15 @@
         "ia": "a",
         "da": "the",
         "p": "Fine Generic Raw Materials",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "system_mp_loot": {
+        "name": "Generic Raw Material",
+        "ia": "a",
+        "da": "the",
+        "p": "Generic Raw Materials",
         "pia": "",
         "pda": "the",
         "description": ""
@@ -69200,6 +69227,69 @@
         "pda": "the",
         "description": ""
     },
+    "ulo_1": {
+        "name": "Archoleth",
+        "ia": "a",
+        "da": "the",
+        "p": "Archoleths",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "ulo_2": {
+        "name": "Archoleth",
+        "ia": "a",
+        "da": "the",
+        "p": "Archoleths",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "ulo_3": {
+        "name": "Archoleth",
+        "ia": "a",
+        "da": "the",
+        "p": "Archoleths",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "ulo_4": {
+        "name": "Archoleth",
+        "ia": "a",
+        "da": "the",
+        "p": "Archoleths",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "ulo_5": {
+        "name": "Archoleth",
+        "ia": "a",
+        "da": "the",
+        "p": "Archoleth",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "ulo_6": {
+        "name": "Archoleth",
+        "ia": "a",
+        "da": "the",
+        "p": "Archoleths",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "ulo_7": {
+        "name": "Archoleth",
+        "ia": "a",
+        "da": "the",
+        "p": "Archoleths",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
     "unstable_goo_vial": {
         "name": "Unstable Potion",
         "ia": "an",
@@ -69214,6 +69304,15 @@
         "ia": "a",
         "da": "the",
         "p": "Stimulating Waters",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "water_trek_barrel": {
+        "name": "Barrel of Water",
+        "ia": "a",
+        "da": "the",
+        "p": "Barrels of Water",
         "pia": "",
         "pda": "the",
         "description": ""
@@ -69633,46 +69732,46 @@
         "description": ""
     },
     "zig_bolobi": {
-        "name": "Zig Bolobi",
+        "name": "Zig",
         "ia": "a",
         "da": "the",
-        "p": "Zig Bolobi",
+        "p": "Zig",
         "pia": "",
         "pda": "the",
         "description": ""
     },
     "zig_capryni": {
-        "name": "Zig Capryni",
+        "name": "Zig",
         "ia": "a",
         "da": "the",
-        "p": "Zig Capryni",
+        "p": "Zig",
         "pia": "",
         "pda": "the",
         "description": ""
     },
     "zig_yubo_forest": {
-        "name": "Zig Yubo",
+        "name": "Zig",
         "ia": "a",
         "da": "the",
-        "p": "Zig Yubo",
+        "p": "Zig",
         "pia": "the",
         "pda": "the",
         "description": ""
     },
     "zig_yubo_lakes": {
-        "name": "Zig Yubo",
+        "name": "Zig",
         "ia": "a",
         "da": "the",
-        "p": "Zig Yubo",
+        "p": "Zig",
         "pia": "the",
         "pda": "the",
         "description": ""
     },
     "zig_yubo_white": {
-        "name": "Zig Yubo",
+        "name": "Zig",
         "ia": "a",
         "da": "the",
-        "p": "Zig Yubo",
+        "p": "Zig",
         "pia": "the",
         "pda": "the",
         "description": ""

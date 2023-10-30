@@ -99,12 +99,12 @@
         "lpp": "zum"
     },
     "continent_corrupted_moor": {
-        "name": "Verseuchte Heiden",
-        "namea": "Verseuchten Heiden",
-        "nameda": "Verseuchten Heiden",
-        "da": "die",
-        "daa": "die",
-        "pp": "in den",
+        "name": "Verseuchtes Ödland",
+        "namea": "Verseuchten Ödland",
+        "nameda": "Verseuchten Ödland",
+        "da": "das",
+        "daa": "",
+        "pp": "im",
         "lpp": "zu den"
     },
     "continent_fyros": {
@@ -189,12 +189,12 @@
         "lpp": "zum"
     },
     "continent_r2_desert": {
-        "name": "Unerforschte Desert",
-        "namea": "",
-        "nameda": "",
-        "da": "der",
+        "name": "Unerforschte Wüste",
+        "namea": "Unerforschte Wüste",
+        "nameda": "Unerforschte Wüsten",
+        "da": "die",
         "daa": "den",
-        "pp": "beim",
+        "pp": "bei",
         "lpp": "zum"
     },
     "continent_r2_forest": {
@@ -1098,10 +1098,10 @@
         "lpp": "zum"
     },
     "newbie_start_point": {
-        "name": "",
+        "name": "Zuflucht der Ranger",
         "namea": "",
         "nameda": "",
-        "da": "",
+        "da": "die",
         "daa": "",
         "pp": "",
         "lpp": ""
@@ -1800,11 +1800,11 @@
         "lpp": "zur"
     },
     "place_lieudit_citiesofintuition_1": {
-        "name": "Stille Wasser",
-        "namea": "Stille Wasser",
-        "nameda": "Stillen Wasser",
-        "da": "das",
-        "daa": "das",
+        "name": "Ruhigen Wasser",
+        "namea": "Ruhigen Wassern",
+        "nameda": "Ruhigen Wassern",
+        "da": "die",
+        "daa": "den",
         "pp": "an den",
         "lpp": "zu den"
     },
@@ -7729,6 +7729,51 @@
         "daa": "den",
         "pp": "beim",
         "lpp": "zum"
+    },
+    "uir2_forest49": {
+        "name": "Tiefen der Verzweiflung",
+        "namea": "",
+        "nameda": "",
+        "da": "die",
+        "daa": "den",
+        "pp": "",
+        "lpp": ""
+    },
+    "uir2_forest50": {
+        "name": "Heulende Höhen",
+        "namea": "",
+        "nameda": "",
+        "da": "die",
+        "daa": "den",
+        "pp": "",
+        "lpp": ""
+    },
+    "uir2_forest51": {
+        "name": "Wilden Randgebiete",
+        "namea": "",
+        "nameda": "",
+        "da": "die",
+        "daa": "den",
+        "pp": "",
+        "lpp": ""
+    },
+    "uir2_forest52": {
+        "name": "Kriechenden Höhlen",
+        "namea": "",
+        "nameda": "",
+        "da": "die",
+        "daa": "den",
+        "pp": "",
+        "lpp": ""
+    },
+    "uir2_forest53": {
+        "name": "Land der Verlorenen",
+        "namea": "",
+        "nameda": "",
+        "da": "das",
+        "daa": "den",
+        "pp": "",
+        "lpp": ""
     },
     "uir2_jungle01": {
         "name": "Wald aus Wellen",

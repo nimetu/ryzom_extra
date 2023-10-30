@@ -263,6 +263,10 @@
         "name": "Horn-Medaille - Triathlon",
         "women_name": "Horn-Medaille - Triathlon"
     },
+    "2621_storyteller": {
+        "name": "2621 Segensfest-Geschichtenerzähler",
+        "women_name": "2621 Segensfest-Geschichtenerzählerin"
+    },
     "accomplisheddisciple": {
         "name": "Verdienter Jünger der Kamis",
         "women_name": "Verdiente Jüngerin der Kamis"
@@ -355,6 +359,14 @@
         "name": "Akenakos der Fyros",
         "women_name": "Akenakos der Fyros"
     },
+    "akenakosdyron": {
+        "name": "Akenakos von Dyron",
+        "women_name": "Akenakos von Dyron"
+    },
+    "akenakospyr": {
+        "name": "Akenakos von Pyr",
+        "women_name": "Akenakos von Pyr"
+    },
     "akenos": {
         "name": "Akenos der Fyros",
         "women_name": "Akenos der Fyros"
@@ -366,6 +378,10 @@
     "akenosthesos": {
         "name": "akenos von Thesos",
         "women_name": "akenos von Thesos"
+    },
+    "akilia_champion": {
+        "name": "Champion von Akilia",
+        "women_name": "Champion von Akilia"
     },
     "alchemist": {
         "name": "Alchemist",
@@ -398,6 +414,10 @@
     "anarchist": {
         "name": "Anarchist",
         "women_name": "Anarchistin"
+    },
+    "animal_trainer": {
+        "name": "(Ausbilder)",
+        "women_name": "(Ausbilder)"
     },
     "anlorwinn_yuboball_tournament_champion": {
         "name": "Champion des Anlor-Winn-Yuboball-Turniers",
@@ -1044,8 +1064,8 @@
         "women_name": "(Schauspielerin)"
     },
     "fct_allegory_maker": {
-        "name": "Graveur für Allegorien",
-        "women_name": "Graveurin für Allegorien"
+        "name": "Graveur von Allegorien",
+        "women_name": "Graveur von Allegorien"
     },
     "fct_amayor": {
         "name": "(Bürgermeister-Assistent)",
@@ -1060,12 +1080,12 @@
         "women_name": "(Händlerin für Munition)"
     },
     "fct_animals_and_co": {
-        "name": "Vertreteter von \"Tiere & Co\"",
-        "women_name": "Vertreterin von \"Tiere & Co\""
+        "name": "Repräsentant von Tiere & Co",
+        "women_name": "Repräsentant von Tiere & Co"
     },
     "fct_arionasiszig": {
-        "name": "Arionasis's Zig",
-        "women_name": ""
+        "name": "Arionasis' Zig",
+        "women_name": "Arionasis' Zig"
     },
     "fct_artisan_aklareen": {
         "name": "(Handwerker das Aklareen)",
@@ -1143,9 +1163,9 @@
         "name": "(Stadtempfänger)",
         "women_name": "(Stadtempfängerin)"
     },
-    "fct_civil": {
-        "name": "(Einwohner)",
-        "women_name": "(Einwohnerin)"
+    "fct_collector": {
+        "name": "(Sammler)",
+        "women_name": "(Sammlerin)"
     },
     "fct_confgu": {
         "name": "Bruderschaft des glücklichen Gubani",
@@ -2392,8 +2412,8 @@
         "women_name": "(Intendantin von Fairhaven)"
     },
     "fct_tyneetrykzig": {
-        "name": "Tyneetryk's Zig",
-        "women_name": ""
+        "name": "Tyneetryks Zig",
+        "women_name": "Tyneetryks Zig"
     },
     "fct_vagabond": {
         "name": "(Vagabund)",
@@ -4376,8 +4396,8 @@
         "women_name": "Elite-Wächterin"
     },
     "gn_fresh_water_barrel": {
-        "name": "Frischwasserfaß",
-        "women_name": ""
+        "name": "Trinkwasserfass",
+        "women_name": "Trinkwasserfass"
     },
     "gn_fyros_armoury_master_event": {
         "name": "Fyros-Rüstungsmeister",
@@ -6440,8 +6460,8 @@
         "women_name": "Ordis Nirosis"
     },
     "gn_outpost_flag": {
-        "name": "Außenpostenflagge",
-        "women_name": "Außenpostenflagge"
+        "name": "Banner des Krieges",
+        "women_name": "Banner des Krieges"
     },
     "gn_outpost_info": {
         "name": "Außenposten-Information",
@@ -7759,6 +7779,10 @@
         "name": "Karavan-Champion",
         "women_name": "Karavan-Champion"
     },
+    "karavan_champion": {
+        "name": "Karavan-Champion - 2622",
+        "women_name": "Karavan-Champion - 2622"
+    },
     "karavanenemy": {
         "name": "Feind der Karavan",
         "women_name": "Feindin der Karavan"
@@ -8351,6 +8375,114 @@
         "name": "Kampf-Neuling",
         "women_name": "Kampf-Neuling"
     },
+    "number1marathon2624": {
+        "name": "Bernstein-Medaille - Marathon - 2624",
+        "women_name": "Bernstein-Medaille - Marathon - 2624"
+    },
+    "number1mektoubride2624": {
+        "name": "Bernstein-Medaille - Mektoub-Rennen - 2624",
+        "women_name": "Bernstein-Medaille - Mektoub-Rennen - 2624"
+    },
+    "number1natation2624": {
+        "name": "Bernstein-Medaille - Schwimmen - 2624",
+        "women_name": "Bernstein-Medaille - Schwimmen - 2624"
+    },
+    "number1triathlon2624": {
+        "name": "Bernstein-Medaille - Triathlon - 2624",
+        "women_name": "Bernstein-Medaille - Triathlon - 2624"
+    },
+    "number1yubogolffyros2624": {
+        "name": "Bernstein-Medaille - Yubo-golf in der Wüste - 2624",
+        "women_name": "Bernstein-Medaille - Yubo-golf in der Wüste - 2624"
+    },
+    "number1yubogolfmatis2624": {
+        "name": "Bernstein-Medaille - Yubo-golf im Wald - 2624",
+        "women_name": "Bernstein-Medaille - Yubo-golf im Wald - 2624"
+    },
+    "number1yubogolfprime2624": {
+        "name": "Bernstein-Medaille - Yubo-golf in Wurzeln - 2624",
+        "women_name": "Bernstein-Medaille - Yubo-golf in Wurzeln - 2624"
+    },
+    "number1yubogolftryker2624": {
+        "name": "Bernstein-Medaille - Yubo-golf im Seen - 2624",
+        "women_name": "Bernstein-Medaille - Yubo-golf im Seen - 2624"
+    },
+    "number1yubogolfzorai2624": {
+        "name": "Bernstein-Medaille - Yubo-golf im Dschungel - 2624",
+        "women_name": "Bernstein-Medaille - Yubo-golf im Dschungel - 2624"
+    },
+    "number2marathon2624": {
+        "name": "Perlmutt-Medaille - Marathon - 2624",
+        "women_name": "Perlmutt-Medaille - Marathon - 2624"
+    },
+    "number2mektoubride2624": {
+        "name": "Perlmutt-Medaille - Mektoub-Rennen - 2624",
+        "women_name": "Perlmutt-Medaille - Mektoub-Rennen - 2624"
+    },
+    "number2natation2624": {
+        "name": "Perlmutt-Medaille - Schwimmen - 2624",
+        "women_name": "Perlmutt-Medaille - Schwimmen - 2624"
+    },
+    "number2triathlon2624": {
+        "name": "Perlmutt-Medaille - Triathlon - 2624",
+        "women_name": "Perlmutt-Medaille - Triathlon - 2624"
+    },
+    "number2yubogolffyros2624": {
+        "name": "Perlmutt-Medaille - Yubo-Golf in der Wüste - 2624",
+        "women_name": "Perlmutt-Medaille - Yubo-Golf in der Wüste - 2624"
+    },
+    "number2yubogolfmatis2624": {
+        "name": "Perlmutt-Medaille - Yubo-Golf im Wald - 2624",
+        "women_name": "Perlmutt-Medaille - Yubo-Golf im Wald - 2624"
+    },
+    "number2yubogolfprime2624": {
+        "name": "Perlmutt-Medaille - Yubo-golf in Wurzeln - 2624",
+        "women_name": "Perlmutt-Medaille - Yubo-golf in Wurzeln - 2624"
+    },
+    "number2yubogolftryker2624": {
+        "name": "Perlmutt-Medaille - Yubo-Golf im der Seen - 2624",
+        "women_name": "Perlmutt-Medaille - Yubo-Golf im der Seen - 2624"
+    },
+    "number2yubogolfzorai2624": {
+        "name": "Perlmutt-Medaille - Yubo-Golf im Dschungel - 2624",
+        "women_name": "Perlmutt-Medaille - Yubo-Golf im Dschungel - 2624"
+    },
+    "number3marathon2624": {
+        "name": "Horn-Medaille - Marathon - 2624",
+        "women_name": "Horn-Medaille - Marathon - 2624"
+    },
+    "number3mektoubride2624": {
+        "name": "Horn-Medaille - Mektoub-Rennen - 2624",
+        "women_name": "Horn-Medaille - Mektoub-Rennen - 2624"
+    },
+    "number3natation2624": {
+        "name": "Horn-Medaille - Schwimmen - 2624",
+        "women_name": "Horn-Medaille - Schwimmen - 2624"
+    },
+    "number3triathlon2624": {
+        "name": "Horn-Medaille - Triathlon - 2624",
+        "women_name": "Horn-Medaille - Triathlon - 2624"
+    },
+    "number3yubogolffyros2624": {
+        "name": "Horn-Medaille - Yubo-Golf in der Wüste - 2624",
+        "women_name": "Horn-Medaille - Yubo-Golf in der Wüste - 2624"
+    },
+    "number3yubogolfmatis2624": {
+        "name": "Horn-Medaille - Yubo-Golf im Wald- 2624",
+        "women_name": "Horn-Medaille - Yubo-Golf im Wald- 2624"
+    },
+    "number3yubogolfprime2624": {
+        "name": "Horn-Medaille - Yubo-golf in Wurzeln - 2624",
+        "women_name": "Horn-Medaille - Yubo-golf in Wurzeln - 2624"
+    },
+    "number3yubogolftryker2624": {
+        "name": "Horn-Medaille - Yubo-Golf im Seen- 2624",
+        "women_name": "Horn-Medaille - Yubo-Golf im Seen- 2624"
+    },
+    "number3yubogolfzorai2624": {
+        "name": "Horn-Medaille - Yubo-Golf im Dschungel - 2624",
+        "women_name": "Horn-Medaille - Yubo-Golf im Dschungel - 2624"
+    },
     "observateurlacs": {
         "name": "Beobachter der Seen",
         "women_name": "Beobachterin der Seen"
@@ -8387,9 +8519,17 @@
         "name": "Fremdenführer von Zora",
         "women_name": "Fremdenführerin von Zora"
     },
+    "official_brewer": {
+        "name": "Offizieller Brauer der Hochzeit",
+        "women_name": "Offizielle Brauerin der Hochzeit"
+    },
     "offsup": {
         "name": "Hoher Offizier der Gilde",
         "women_name": "Hohe Offizierin der Gilde"
+    },
+    "old_lands_explorer": {
+        "name": "Entdecker der alten Lande",
+        "women_name": "Entdeckerin der alten Lande"
     },
     "organisateurmarcheavalae": {
         "name": "Organisator des Markts von Avalae",
@@ -8712,8 +8852,8 @@
         "women_name": "Lanzenkämpferin"
     },
     "speer": {
-        "name": "Marodeur Flagge",
-        "women_name": "Marodeur Flagge"
+        "name": "Speer",
+        "women_name": ""
     },
     "spirit_of_atys": {
         "name": "Seele von Atys",
@@ -8740,8 +8880,8 @@
         "women_name": "Spirituelles Schild"
     },
     "start_trek_chest": {
-        "name": "Kiste für Neulinge",
-        "women_name": "Kiste für Neulinge"
+        "name": "Kiste für Neuankömmlinge",
+        "women_name": "Kiste für Neuankömmlinge"
     },
     "start_trek_treasure_gen_mini": {
         "name": "Weisheitstruhe",
@@ -9052,8 +9192,8 @@
         "women_name": "Ohne Jetons"
     },
     "treasure_chiang": {
-        "name": "Silans Truhe der Weisheit",
-        "women_name": "Silans Truhe der Weisheit"
+        "name": "Silan-Truhe der Weisheit",
+        "women_name": "Silan-Truhe der Weisheit"
     },
     "treedesigner": {
         "name": "Segensfestbaumschmücker",
@@ -9175,9 +9315,17 @@
         "name": "Schweigsamer Vagabund",
         "women_name": "Schweigsamer Vagabund"
     },
+    "valiant_fighter_karavan_2622": {
+        "name": "Ruhmreicher Kämpfer der Karavan - 2622",
+        "women_name": "Ruhmreiche Kämpferin der Karavan - 2622"
+    },
     "vg": {
         "name": "Veteran Guide",
         "women_name": "Veteran Guide"
+    },
+    "vicechampion_karavan_2622": {
+        "name": "Vice-Champion der Karavan - 2622",
+        "women_name": "Vice-Champion der Karavan - 2622"
     },
     "viscount_of_avalae": {
         "name": "Statthalter von Avalae",
@@ -9191,6 +9339,18 @@
         "name": "Kampf-Lehrling",
         "women_name": "Kampf-Lehrling"
     },
+    "wedding_bard": {
+        "name": "Barde der Hochzeit",
+        "women_name": "Bardin der Hochzeit"
+    },
+    "wedding_drunkard": {
+        "name": "Trunkenbold der Hochzeit",
+        "women_name": "Trunkenboldin der Hochzeit"
+    },
+    "wedding_witness": {
+        "name": "Trauzeuge",
+        "women_name": "Trauzeugin"
+    },
     "windchild": {
         "name": "Kind des Windes",
         "women_name": "Kind des Windes"
@@ -9198,6 +9358,10 @@
     "windguardian": {
         "name": "Wächter des Windes",
         "women_name": "Wächterin des Windes"
+    },
+    "winner_2624": {
+        "name": "Mister Atys 2624",
+        "women_name": "Miss Atys 2624"
     },
     "winnerraceatysmas2019": {
         "name": "Erhabener Schneesturm",

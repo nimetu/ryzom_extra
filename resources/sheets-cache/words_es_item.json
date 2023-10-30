@@ -909,11 +909,11 @@
         "description": ""
     },
     "ep2_large_bark_splinter": {
-        "name": "Fragmento de Corteza Grande",
-        "ia": "un",
+        "name": "Trozo de Corteza Grande",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Corteza Grandes",
-        "pia": "",
+        "p": "Trozos de Corteza Grande",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -1116,20 +1116,20 @@
         "description": ""
     },
     "ep2_small_bark_splinter": {
-        "name": "Fragmento Pequeño de Corteza",
-        "ia": "un",
+        "name": "Trozo Pequeño de Corteza",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos Pequeños de Corteza",
-        "pia": "",
+        "p": "Trozos Pequeños de Corteza",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "ep2_small_bud": {
         "name": "Brote Ornamental Pequeño",
-        "ia": "un",
+        "ia": "uno",
         "da": "el",
         "p": "Brotes Ornamental Pequeño",
-        "pia": "",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -1207,11 +1207,11 @@
     },
     "event_barrel_of_water": {
         "name": "Barril de Agua del Lago",
-        "ia": "",
-        "da": "",
+        "ia": "uno",
+        "da": "el",
         "p": "",
-        "pia": "",
-        "pda": "",
+        "pia": "unos",
+        "pda": "los",
         "description": ""
     },
     "event_blood": {
@@ -1629,11 +1629,11 @@
         "description": ""
     },
     "fh60_pendentif": {
-        "name": "Pendiente Precioso",
-        "ia": "un",
+        "name": "Collar Precioso",
+        "ia": "uno",
         "da": "el",
-        "p": "Pendientes Preciosos",
-        "pia": "",
+        "p": "Collares Preciosos",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -1764,11 +1764,11 @@
         "description": ""
     },
     "fragment_carapace_kitin_encore_plus_solide": {
-        "name": "Fragmento de Concha Kitin",
-        "ia": "un",
+        "name": "Trozo de Concha Kitin",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmento de Concha Kitin",
-        "pia": "",
+        "p": "Trozos de Concha Kitin",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -3428,6 +3428,15 @@
         "pda": "unas",
         "description": "las"
     },
+    "gift": {
+        "name": "Regalo",
+        "ia": "uno",
+        "da": "el",
+        "p": "Regalos",
+        "pia": "unos",
+        "pda": "los",
+        "description": ""
+    },
     "gnoof_mount_0": {
         "name": "montura gnoof",
         "ia": "una",
@@ -3627,20 +3636,20 @@
         "description": ""
     },
     "iaad": {
-        "name": "Zig Gubani",
-        "ia": "un",
+        "name": "Zig",
+        "ia": "uno",
         "da": "el",
-        "p": "Zigs Gubani",
-        "pia": "",
+        "p": "Zigs",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "iaad2": {
-        "name": "Zig Frippo",
-        "ia": "",
+        "name": "Zig",
+        "ia": "uno",
         "da": "el",
-        "p": "Zig Frippo",
-        "pia": "",
+        "p": "Zig",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -4320,11 +4329,11 @@
         "description": ""
     },
     "icbm1bs_2": {
-        "name": "Bastón de Shopan Staff de los Espigadores de la Savia",
-        "ia": "un",
+        "name": "Bastón de Shopan de los Recolectores de Savia",
+        "ia": "uno",
         "da": "el",
-        "p": "Bastones de Shopan Staff de los Espigadores de la Savia",
-        "pia": "",
+        "p": "Bastones de Shopan de los Recolectores de la Savia",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -4572,12 +4581,12 @@
         "description": ""
     },
     "icbr1p_2": {
-        "name": "Pistola Maka de la Savia Oscurecedora",
-        "ia": "una",
-        "da": "la",
-        "p": "Pistolas Maka de las Savia Oscurecedora",
-        "pia": "",
-        "pda": "las",
+        "name": "Pistola Maka de Oscurecedores de Savia",
+        "ia": "uno",
+        "da": "el",
+        "p": "Pistolas Maka de Oscurecedores de Savia",
+        "pia": "unos",
+        "pda": "los",
         "description": ""
     },
     "icbr1p_3": {
@@ -4698,11 +4707,11 @@
         "description": ""
     },
     "icbsb_2": {
-        "name": "Escudo Kastu de los Limpia Playas",
-        "ia": "un",
+        "name": "Escudo Kastu de los Raqueros",
+        "ia": "uno",
         "da": "el",
-        "p": "Escudos Kastu de los Limpia Playas",
-        "pia": "",
+        "p": "Escudos Kastu de los Raqueros",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -5473,12 +5482,12 @@
     },
     "icfahb_2": {
         "name": "Botas Kostomus",
-        "ia": "unas",
-        "da": "la",
+        "ia": "uno",
+        "da": "el",
         "p": "Botas Kostomus",
-        "pia": "",
-        "pda": "las",
-        "description": "Botas Pesadas de Mediana Calidad Fyros"
+        "pia": "unos",
+        "pda": "los",
+        "description": "Botas Pesadas de Calidad Media Fyros"
     },
     "icfahb_3": {
         "name": "Botas Kostomyx",
@@ -5509,12 +5518,12 @@
     },
     "icfahg_2": {
         "name": "Guantes Kostomus",
-        "ia": "unos",
+        "ia": "uno",
         "da": "el",
         "p": "Guantes Kostomus",
-        "pia": "",
+        "pia": "unos",
         "pda": "los",
-        "description": "Guantes Pesados de Mediana Calidad Fyros"
+        "description": "Guantes Pesados de Calidad Media Fyros"
     },
     "icfahg_3": {
         "name": "Guantes Kostomyx",
@@ -5536,12 +5545,12 @@
     },
     "icfahh_2": {
         "name": "Casco Kostomus",
-        "ia": "un",
+        "ia": "uno",
         "da": "el",
         "p": "Cascos Kostomus",
-        "pia": "",
+        "pia": "unos",
         "pda": "los",
-        "description": "Casco Pesado de Mediana Calidad Fyros"
+        "description": "Casco Pesado de Calidad Media Fyros"
     },
     "icfahh_3": {
         "name": "Casco Kostomyx",
@@ -5563,12 +5572,12 @@
     },
     "icfahp_2": {
         "name": "Pantalones Kostomus",
-        "ia": "unos",
+        "ia": "uno",
         "da": "el",
         "p": "Pantalones Kostomus",
-        "pia": "",
+        "pia": "unos",
         "pda": "los",
-        "description": "Pantalones Pesados de Mediana Calidad Fyros"
+        "description": "Pantalones Pesados de Calidad Media Fyros"
     },
     "icfahp_3": {
         "name": "Pantalones Kostomyx",
@@ -5599,12 +5608,12 @@
     },
     "icfahs_2": {
         "name": "Mangas Kostomus",
-        "ia": "unas",
+        "ia": "una",
         "da": "la",
         "p": "Mangas Kostomus",
-        "pia": "",
+        "pia": "unas",
         "pda": "las",
-        "description": "Mangas Livianas de Mediana Calidad Fyros"
+        "description": "Mangas Pesadas de Calidad Media Fyros"
     },
     "icfahs_3": {
         "name": "Mangas Kostomyx",
@@ -5635,12 +5644,12 @@
     },
     "icfahv_2": {
         "name": "Chaleco Kostomus",
-        "ia": "un",
+        "ia": "uno",
         "da": "el",
         "p": "Chalecos Kostomus",
-        "pia": "",
+        "pia": "unos",
         "pda": "los",
-        "description": "Chaleco Liviano de Mediana Calidad Fyros"
+        "description": "Chaleco Pesado de Calidad Media Fyros"
     },
     "icfahv_3": {
         "name": "Chaleco Kostomyx",
@@ -6057,29 +6066,29 @@
         "description": ""
     },
     "icfjp": {
-        "name": "Pendiente Fyros",
-        "ia": "un",
+        "name": "Collar Fyros",
+        "ia": "uno",
         "da": "el",
-        "p": "Pendientes Fyros",
-        "pia": "",
+        "p": "Collares Fyros",
+        "pia": "unos",
         "pda": "los",
-        "description": "Pendiente Fyros"
+        "description": "Collar Fyros"
     },
     "icfjp_2": {
-        "name": "Pendiente Fyros de Mediana Calidad",
-        "ia": "unos",
-        "da": "los",
-        "p": "Pendientes Fyros de Mediana Calidad",
-        "pia": "",
+        "name": "Collar Fyros de Calidad Meeia",
+        "ia": "uno",
+        "da": "el",
+        "p": "Collares Fyros de Calidad Media",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "icfjp_3": {
-        "name": "Pendiente Fyros de Alta Calidad",
-        "ia": "un",
+        "name": "Collar Fyros de Alta Calidad",
+        "ia": "uno",
         "da": "el",
-        "p": "Pendientes Fyros de Alta Calidad",
-        "pia": "",
+        "p": "Collares Fyros de Alta Calidad",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -7650,29 +7659,29 @@
         "description": ""
     },
     "icmjp": {
-        "name": "Pendiente Matis",
-        "ia": "un",
+        "name": "Collar Matis",
+        "ia": "uno",
         "da": "el",
-        "p": "Pendientes Matis",
-        "pia": "",
+        "p": "Collares Matis",
+        "pia": "unos",
         "pda": "los",
-        "description": "Pendiente Matis"
+        "description": "Collar Matis"
     },
     "icmjp_2": {
-        "name": "Pendiente Matis de Mediana Calidad",
-        "ia": "un",
+        "name": "Collar Matis de Calidad Media",
+        "ia": "uno",
         "da": "el",
-        "p": "Pendientes Matis de Mediana Calidad",
-        "pia": "",
+        "p": "Collares Matis de Calidad Media",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "icmjp_3": {
-        "name": "Pendiente Matis de Alta Calidad",
-        "ia": "un",
+        "name": "Collar Matis de Alta Calidad",
+        "ia": "uno",
         "da": "el",
-        "p": "Pendientes Matis de Alta Calidad",
-        "pia": "",
+        "p": "Collares Matis de Alta Calidad",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -11367,29 +11376,29 @@
         "description": ""
     },
     "ictjp": {
-        "name": "Pendientes Tryker",
-        "ia": "un",
+        "name": "Collar Tryker",
+        "ia": "uno",
         "da": "el",
-        "p": "Pendientes Tryker",
-        "pia": "",
+        "p": "Collares Tryker",
+        "pia": "unos",
         "pda": "los",
-        "description": "Pendiente Tryker"
+        "description": "Collar Tryker"
     },
     "ictjp_2": {
-        "name": "Pendiente Tryker de Mediana Calidad",
-        "ia": "un",
+        "name": "Collar Tryker de Calidad Media",
+        "ia": "uno",
         "da": "el",
-        "p": "Pendientes Tryker de Mediana Calidad",
-        "pia": "",
+        "p": "Collares Tryker de Calidad Media",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "ictjp_3": {
-        "name": "Pendiente Tryker de Alta Calidad",
-        "ia": "un",
+        "name": "Collar Tryker de Alta Calidad",
+        "ia": "uno",
         "da": "el",
-        "p": "Pendientes Tryker de Alta Calidad",
-        "pia": "",
+        "p": "Collares Tryker de Alta Calidad",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -12978,29 +12987,29 @@
         "description": ""
     },
     "iczjp": {
-        "name": "Pendiente Zoraï",
-        "ia": "un",
+        "name": "Collar Zoraï",
+        "ia": "uno",
         "da": "el",
-        "p": "Pendientes Zoraï",
-        "pia": "",
+        "p": "Collares Zoraï",
+        "pia": "unos",
         "pda": "los",
-        "description": "Pendientes Zoraï"
+        "description": "Collares Zoraï"
     },
     "iczjp_2": {
-        "name": "Pendiente Zoraï de Mediana Calidad",
-        "ia": "un",
+        "name": "Collar Zoraï de Calidad Media",
+        "ia": "uno",
         "da": "el",
-        "p": "Pendientes Zoraï de Mediana Calidad",
-        "pia": "",
+        "p": "Collares Zoraï de Calidad Media",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "iczjp_3": {
-        "name": "Pendiente Zoraï de Alta Calidad",
-        "ia": "un",
+        "name": "Collar Zoraï de Alta Calidad",
+        "ia": "uno",
         "da": "el",
-        "p": "Pendientes Zoraï de Alta Calidad",
-        "pia": "",
+        "p": "Collares Zoraï de Alta Calidad",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -13023,11 +13032,11 @@
         "description": ""
     },
     "iczjr_3": {
-        "name": "Anillo Zoraï Ring de Alta Calidad",
-        "ia": "un",
+        "name": "Anillo Zoraï de Alta Calidad",
+        "ia": "uno",
         "da": "el",
-        "p": "Anillos Zoraï Ring de Alta Calidad",
-        "pia": "",
+        "p": "Anillos Zoraï de Alta Calidad",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -14914,12 +14923,12 @@
     },
     "issfa": {
         "name": "Servicio de Alimentación Animal",
-        "ia": "un",
+        "ia": "uno",
         "da": "el",
         "p": "Servicios de Alimentación Animal",
-        "pia": "",
+        "pia": "unos",
         "pda": "los",
-        "description": "El mozo del establo te ofrece alimentar a todos tus animales que están en su establo. Tus animales serán capaces de comer su relleno."
+        "description": "El mozo del establo te ofrece alimentar a todos tus animales que están en su establo. Tus animales serán capaces de comer su heno."
     },
     "itammo": {
         "name": "Munición de Herramienta de Fabricación",
@@ -22419,146 +22428,146 @@
         "description": ""
     },
     "m0125dxacc01": {
-        "name": "Fragmento de Astilla de Concha Fina",
-        "ia": "un",
+        "name": "Fragmento de Concha de Astilla Fina",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Astilla de Concha Fina",
-        "pia": "",
+        "p": "Fragmentos de Concha de Astilla Fina",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0125dxadd01": {
-        "name": "Fragmento de Astilla de Concha de Selección del Desierto",
-        "ia": "un",
+        "name": "Fragmento de Concha de Astilla Selecta del Desierto",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Astilla de Concha de Selección del Desierto",
-        "pia": "",
+        "p": "Fragmentos de Concha de Astilla Selecta del Desierto",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0125dxade01": {
-        "name": "Fragmento de Astilla de Concha Excelente del Desierto",
-        "ia": "un",
+        "name": "Fragmento de Concha de Astilla Excelente del Desierto",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Astilla de Concha Excelente del Desierto",
-        "pia": "",
+        "p": "Fragmentos de Concha de Astilla  Excelente del Desierto",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0125dxadf01": {
-        "name": "Fragmento de Astilla de Concha Suprema del Desierto",
-        "ia": "un",
+        "name": "Fragmento de Concha de Astilla Suprema del Desierto",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Astilla de Concha Suprema del Desierto",
-        "pia": "",
+        "p": "Fragmentos de Concha de Astilla Suprema del Desierto",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0125dxafd01": {
-        "name": "Fragmento de Astilla de Concha de Selección del Bosque",
-        "ia": "un",
+        "name": "Fragmento de Concha de Astilla Selecta del Bosque",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Astilla de Concha de Selección del Bosque",
-        "pia": "",
+        "p": "Fragmentos de Concha de Astilla Selecta del Bosque",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0125dxafe01": {
-        "name": "Fragmento de Astilla de Concha Excelente del Bosque",
-        "ia": "un",
+        "name": "Fragmento de Concha de Astilla Excelente del Bosque",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Astilla de Concha Excelente del Bosque",
-        "pia": "",
+        "p": "Fragmentos de Concha de Astilla Excelente del Bosque",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0125dxaff01": {
-        "name": "Fragmento de Astilla de Concha Suprema del Bosque",
-        "ia": "un",
+        "name": "Fragmento de Concha de Astilla Suprema del Bosque",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Astilla de Concha Suprema del Bosque",
-        "pia": "",
+        "p": "Fragmentos de Concha de Astilla Suprema del Bosque",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0125dxajd01": {
-        "name": "Fragmento de Astilla de Concha de Selección de la Selva",
-        "ia": "un",
+        "name": "Fragmento de Concha de Astilla Selecta de la Selva",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Astilla de Concha de Selección de la Selva",
-        "pia": "",
+        "p": "Fragmentos de Concha de Astilla Selecta de la Selva",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0125dxaje01": {
-        "name": "Fragmento de Astilla de Concha Excelente de la Selva",
-        "ia": "un",
+        "name": "Fragmento de Concha de Astilla Excelente de la Selva",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Astilla de Concha Excelente de la Selva",
-        "pia": "",
+        "p": "Fragmentos de Concha de Astilla Excelente de la Selva",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0125dxajf01": {
-        "name": "Fragmento de Astilla de Concha Suprema de la Selva",
-        "ia": "un",
+        "name": "Fragmento de Concha de Astilla Suprema de la Selva",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Astilla de Concha Suprema de la Selva",
-        "pia": "",
+        "p": "Fragmentos de Concha de Astilla Suprema de la Selva",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0125dxald01": {
-        "name": "Fragmento de Astilla de Concha de Selección de los Lagos",
-        "ia": "un",
+        "name": "Fragmento de Concha de Astilla Selecta de los Lagos",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Astilla de Concha de Selección de los Lagos",
-        "pia": "",
+        "p": "Fragmentos de Concha de Astilla Selecta de los Lagos",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0125dxale01": {
-        "name": "Fragmento de Astilla de Concha Excelente de los Lagos",
-        "ia": "un",
+        "name": "Fragmento de Concha de Astilla Excelente de los Lagos",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Astilla de Concha Excelente de los Lagos",
-        "pia": "",
+        "p": "Fragmentos de Concha de Astilla Excelente de los Lagos",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0125dxalf01": {
-        "name": "Fragmento de Astilla de Concha Suprema de los lagos",
-        "ia": "un",
+        "name": "Fragmento de Concha de Astilla Suprema de los lagos",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Astilla de Concha Suprema de los Lagos",
-        "pia": "",
+        "p": "Fragmentos de Concha de Astilla Suprema de los Lagos",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0125dxapd01": {
-        "name": "Fragmento de Astilla de Concha de Selección de la Primera Raíz",
-        "ia": "un",
+        "name": "Fragmento de Concha de Astilla Selecta de la Primera Raíz",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Astilla de Concha de Selección de la Primera Raíz",
-        "pia": "",
+        "p": "Fragmentos de Concha de Astilla Selecta de la Primera Raíz",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0125dxape01": {
-        "name": "Fragmento de Astilla de Concha Excelente de la Primera Raíz",
-        "ia": "un",
+        "name": "Fragmento de Concha de Astilla Excelente de la Raíz Primaria",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos Astilla de Concha Excelente de la Primera Raíz",
-        "pia": "",
+        "p": "Fragmentos de Concha de Astilla Excelente de la Raíz Primaria",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0125dxapf01": {
-        "name": "Fragmento de Astilla de Concha Suprema de la Primera Raíz",
-        "ia": "un",
+        "name": "Fragmento de Concha de Astilla Suprema de la Raíz Primaria",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Astilla de Concha Suprema de la Primera Raíz",
-        "pia": "",
+        "p": "Fragmentos de Concha de Astilla Suprema de la Raíz Primaria",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -22726,19 +22735,19 @@
     },
     "m0133chkcb01": {
         "name": "Fragmento de Piel de Timari Fino",
-        "ia": "un",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Piel de Timaria Fino",
-        "pia": "",
+        "p": "Fragmentos de Piel de Timari Fino",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0133chkdd01": {
         "name": "Fragmento de Piel de Timari Excelente del Desierto",
-        "ia": "un",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Piel de Timaria Excelente del Desierto",
-        "pia": "",
+        "p": "Fragmentos de Piel de Timari Excelente del Desierto",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -25290,11 +25299,11 @@
         "description": ""
     },
     "m0182dxaca01": {
-        "name": "Punado de Aserrín de Madera Seca Simple",
-        "ia": "un",
+        "name": "Puñado de Aserrín de Madera Seca Simple",
+        "ia": "uno",
         "da": "el",
         "p": "Puñados de Aserrín de Madera Seca Simple",
-        "pia": "",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -26190,20 +26199,20 @@
         "description": ""
     },
     "m0198dxaca01": {
-        "name": "Fragmento de Concha Nacarada Pequeña Simple",
-        "ia": "un",
+        "name": "Fragmento de Concha Nácar Pequeña Simple",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Concha Nacarada Pequeña Simple",
-        "pia": "",
+        "p": "Fragmentos de Concha Nácar Pequeña Simple",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0198dxacb01": {
-        "name": "Fragmento de Concha Nacarada Pequeña Promedio",
-        "ia": "un",
+        "name": "Fragmento de Concha Nácar Pequeña Promedio",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Concha Nacarada Pequeña Promedio",
-        "pia": "",
+        "p": "Fragmentos de Concha Nácar Pequeña Promedio",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -31032,11 +31041,11 @@
         "description": ""
     },
     "m0281ckhdc01": {
-        "name": "Bocado de Carne de Kipee de la Primera Raíz",
-        "ia": "un",
-        "da": "los",
-        "p": "Bocados de Carne de Kipee de la Primera Raíz",
-        "pia": "",
+        "name": "Bocado de Carne de Kipee del Desierto",
+        "ia": "uno",
+        "da": "el",
+        "p": "Bocados de Carne de Kipee del Desierto",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -31563,38 +31572,38 @@
         "description": ""
     },
     "m0284cdald01": {
-        "name": "Fragmento de Craneo de Cute Selecto de los Lagos",
-        "ia": "un",
+        "name": "Fragmento de Cráneo de Cute Selecto de los Lagos",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Craneo de Cute Selecto de los Lagos",
-        "pia": "",
+        "p": "Fragmentos de Cráneo de Cute Selecto de los Lagos",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0284cdale01": {
-        "name": "Fragmento de Craneo de Cute Excelente de los Lagos",
-        "ia": "un",
+        "name": "Fragmento de Cráneo de Cute Excelente de los Lagos",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Craneo de Cute Excelente de los Lagos",
-        "pia": "",
+        "p": "Fragmentos de Cráneo de Cute Excelente de los Lagos",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0284cdapd01": {
-        "name": "Fragmento de Craneo de Cute Selecto de la Primera Raíz",
-        "ia": "un",
+        "name": "Fragmento de Cráneo de Cute Selecto de Raíces Primarias",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Craneo de Cute Selecto de la Primera Raíz",
-        "pia": "",
+        "p": "Fragmentos de Cráneo de Cute Selecto de Raíces Primarias",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0284cdape01": {
-        "name": "Fragmento de Craneo de Cute Excelente de la Primera Raíz",
-        "ia": "un",
+        "name": "Fragmento de Cráneo de Cute Excelente de Raíces Primarias",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Craneo de Cute Excelente de la Primera Raíz",
-        "pia": "",
+        "p": "Fragmentos de Cráneo de Cute Excelente de Raíces Primarias",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -34218,11 +34227,11 @@
         "description": ""
     },
     "m0326chkdf01": {
-        "name": "Fragmento de Craneo de Timaria Magnifico del Desierto",
-        "ia": "un",
+        "name": "Fragmento de Craneo de Timari Magnifico del Desierto",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Craneo de Timaria Magnifico del Desierto",
-        "pia": "",
+        "p": "Fragmentos de Craneo de Timari Magnifico del Desierto",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -34371,11 +34380,11 @@
         "description": ""
     },
     "m0330cbclc01": {
-        "name": "Fragmento de Craneo de Yber Principal de los Lagos",
-        "ia": "un",
+        "name": "Fragmento de Cráneo de Yber Principal de los Lagos",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Craneo de Yber Principal de los Lagos",
-        "pia": "",
+        "p": "Fragmentos de Cráneo de Yber Principal de los Lagos",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -37557,20 +37566,20 @@
         "description": ""
     },
     "m0415chnfd01": {
-        "name": "Fragmento de Cráneo de Bawaad Selecto del Bosque",
-        "ia": "un",
+        "name": "Fragmento de Cráneo de Bawaab Selecto del Bosque",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Cráneo de Bawaad Selecto del Bosque",
-        "pia": "",
+        "p": "Fragmentos de Cráneo de Bawaab Selecto del Bosque",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0415chnjc01": {
-        "name": "Fragmento de Cráneo de Bawaad Principal de la Selva",
-        "ia": "un",
+        "name": "Fragmento de Cráneo de Bawaab Principal de la Selva",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Cráneo de Bawaad Principal de la Selva",
-        "pia": "",
+        "p": "Fragmentos de Cráneo de Bawaab Principal de la Selva",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -37854,11 +37863,11 @@
         "description": ""
     },
     "m0433chkde01": {
-        "name": "Frasco de Sangre de Timaria Excelente del Desierto",
-        "ia": "un",
+        "name": "Frasco de Sangre de Timari Excelente del Desierto",
+        "ia": "uno",
         "da": "el",
-        "p": "Frascos de Sangre de Timaria Excelente del Desierto",
-        "pia": "",
+        "p": "Frascos de Sangre de Timari Excelente del Desierto",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -37908,20 +37917,20 @@
         "description": ""
     },
     "m0435chnfd01": {
-        "name": "Frasco de Sangre de Bawaad Selecto del Bosque",
-        "ia": "un",
+        "name": "Frasco de Sangre de Bawaab Selecto del Bosque",
+        "ia": "uno",
         "da": "el",
-        "p": "Frascos de Sangre de Bawaad Selecto del Bosque",
-        "pia": "",
+        "p": "Frascos de Sangre de Bawaab Selecto del Bosque",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0435chnjc01": {
-        "name": "Frasco de Sangre de Bawaad Principal de la Selva",
-        "ia": "un",
+        "name": "Frasco de Sangre de Bawaab Principal de la Selva",
+        "ia": "uno",
         "da": "el",
-        "p": "Frascos de Sangre de Bawaad Principal de la Selva",
-        "pia": "",
+        "p": "Frascos de Sangre de Bawaab Principal de la Selva",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -41148,182 +41157,182 @@
         "description": ""
     },
     "m0506chnca01": {
-        "name": "Fragmento de Ojo de Bawaad Básico",
-        "ia": "un",
+        "name": "Fragmento de Ojo de Bawaab Básico",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Ojo de Bawaad Básico",
-        "pia": "",
+        "p": "Fragmentos de Ojo de Bawaab Básico",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0506chncb01": {
-        "name": "Fragmento de Ojo de Bawaad Fino",
-        "ia": "un",
+        "name": "Fragmento de Ojo de Bawaab Fino",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Ojo de Bawaad Fino",
-        "pia": "",
+        "p": "Fragmentos de Ojo de Bawaab Fino",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0506chnde01": {
-        "name": "Fragmento de Ojo de Bawaad Supremo del Desierto",
-        "ia": "un",
+        "name": "Fragmento de Ojo de Bawaab Supremo del Desierto",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Ojo de Bawaad Supremo del Desierto",
-        "pia": "",
+        "p": "Fragmentos de Ojo de Bawaab Supremo del Desierto",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0506chnfc01": {
-        "name": "Fragmento de Ojo de Bawaad de Selección del Bosque",
-        "ia": "un",
+        "name": "Fragmento de Ojo de Bawaab de Selección del Bosque",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Ojo de Bawaad de Selección del Bosque",
-        "pia": "",
+        "p": "Fragmentos de Ojo de Bawaab de Selección del Bosque",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0506chnfd01": {
-        "name": "Fragmento de Ojo de Bawaad Excelente del Bosque",
-        "ia": "un",
+        "name": "Fragmento de Ojo de Bawaab Excelente del Bosque",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Ojo de Bawaad Excelente del Bosque",
-        "pia": "",
+        "p": "Fragmentos de Ojo de Bawaab Excelente del Bosque",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0506chnfe01": {
-        "name": "Fragmento de Ojo de Bawaad Supremo del Bosque",
-        "ia": "un",
+        "name": "Fragmento de Ojo de Bawaab Supremo del Bosque",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Ojo de Bawaad Supremo del Bosque",
-        "pia": "",
+        "p": "Fragmentos de Ojo de Bawaab Supremo del Bosque",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0506chnje01": {
-        "name": "Fragmento de Ojo de Bawaad Supremo de la Selva",
-        "ia": "un",
+        "name": "Fragmento de Ojo de Bawaab Supremo de la Selva",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Ojo de Bawaad Supremo de la Selva",
-        "pia": "",
+        "p": "Fragmentos de Ojo de Bawaab Supremo de la Selva",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0506chnle01": {
-        "name": "Fragmento de Ojo de Bawaad Supremo de los Lagos",
-        "ia": "un",
+        "name": "Fragmento de Ojo de Bawaab Supremo de los Lagos",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Ojo de Bawaad Supremo de los Lagos",
-        "pia": "",
+        "p": "Fragmentos de Ojo de Bawaab Supremo de los Lagos",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0506chnpe01": {
-        "name": "Fragmento de Ojo de Bawaad Supremo de la Primera Raíz",
-        "ia": "un",
+        "name": "Fragmento de Ojo de Bawaab Supremo de la Primera Raíz",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Ojo de Bawaad Supremo de la Primera Raíz",
-        "pia": "",
+        "p": "Fragmentos de Ojo de Bawaab Supremo de la Primera Raíz",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0507chnca01": {
-        "name": "Fragmento de Pelvis de Bawaad Básico",
-        "ia": "un",
+        "name": "Fragmento de Pelvis de Bawaab Básico",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Pelvis de Bawaad Básico",
-        "pia": "",
+        "p": "Fragmentos de Pelvis de Bawaab Básico",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0507chncb01": {
-        "name": "Fragmento de Pelvis de Bawaad Fino",
-        "ia": "un",
+        "name": "Fragmento de Pelvis de Bawaab Fino",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Pelvis de Bawaad Fino",
-        "pia": "",
+        "p": "Fragmentos de Pelvis de Bawaab Fino",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0507chnde01": {
-        "name": "Fragmento de Pelvis de Bawaad Supremo del Desierto",
-        "ia": "un",
+        "name": "Fragmento de Pelvis de Bawaab Supremo del Desierto",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Pelvis de Bawaad Supremo del Desierto",
-        "pia": "",
+        "p": "Fragmentos de Pelvis de Bawaab Supremo del Desierto",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0507chnfc01": {
-        "name": "Fragmento de Pelvis de Bawaad de Selección del Bosque",
-        "ia": "un",
+        "name": "Fragmento de Pelvis de Bawaab de Selección del Bosque",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Pelvis de Bawaad de Selección del Bosque",
-        "pia": "",
+        "p": "Fragmentos de Pelvis de Bawaab de Selección del Bosque",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0507chnfd01": {
-        "name": "Fragmento de Pelvis de Bawaad Excelente del Bosque",
-        "ia": "un",
+        "name": "Fragmento de Pelvis de Bawaab Excelente del Bosque",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Pelvis de Bawaad Excelente del Bosque",
-        "pia": "",
+        "p": "Fragmentos de Pelvis de Bawaab Excelente del Bosque",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0507chnfe01": {
-        "name": "Fragmento de Pelvis de Bawaad Supremo del Bosque",
-        "ia": "un",
+        "name": "Fragmento de Pelvis de Bawaab Supremo del Bosque",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Pelvis de Bawaad Supremo del Bosque",
-        "pia": "",
+        "p": "Fragmentos de Pelvis de Bawaab Supremo del Bosque",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0507chnje01": {
-        "name": "Fragmento de Pelvis de Bawaad Supremo de la Selva",
-        "ia": "un",
+        "name": "Fragmento de Pelvis de Bawaab Supremo de la Selva",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Pelvis de Bawaad Supremo de la Selva",
-        "pia": "",
+        "p": "Fragmentos de Pelvis de Bawaab Supremo de la Selva",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0507chnle01": {
-        "name": "Fragmento de Pelvis de Bawaad Supremo de los Lagos",
-        "ia": "un",
+        "name": "Fragmento de Pelvis de Bawaab Supremo de los Lagos",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Pelvis de Bawaad Supremo de los Lagos",
-        "pia": "",
+        "p": "Fragmentos de Pelvis de Bawaab Supremo de los Lagos",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0507chnpe01": {
-        "name": "Fragmento de Pelvis de Bawaad Supremo de la Primera Raíz",
-        "ia": "un",
+        "name": "Fragmento de Pelvis de Bawaab Supremo de la Primera Raíz",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Pelvis de Bawaad Supremo de la Primera Raíz",
-        "pia": "",
+        "p": "Fragmentos de Pelvis de Bawaab Supremo de la Primera Raíz",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0508chnca01": {
-        "name": "Diente de Bawaad Básico",
-        "ia": "un",
+        "name": "Diente de Bawaab Básico",
+        "ia": "uno",
         "da": "el",
-        "p": "Dientes de Bawaad Básico",
-        "pia": "",
+        "p": "Dientes de Bawaab Básico",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0508chncb01": {
-        "name": "Diente de Bawaad Fino",
-        "ia": "un",
+        "name": "Diente de Bawaab Fino",
+        "ia": "uno",
         "da": "el",
-        "p": "Dientes de Bawaad Fino",
-        "pia": "",
+        "p": "Dientes de Bawaab Fino",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -41337,20 +41346,20 @@
         "description": ""
     },
     "m0508chnfc01": {
-        "name": "Diente de Bawaad de Selección del Bosque",
-        "ia": "un",
+        "name": "Diente de Bawaab de Selección del Bosque",
+        "ia": "uno",
         "da": "el",
-        "p": "Diente de Bawaad de Selección del Bosque",
-        "pia": "",
+        "p": "Diente de Bawaab de Selección del Bosque",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0508chnfd01": {
-        "name": "Diente de Bawaad Excelente del Bosque",
-        "ia": "un",
+        "name": "Diente de Bawaab Excelente del Bosque",
+        "ia": "uno",
         "da": "el",
-        "p": "Dientes de Bawaad Excelente del Bosque",
-        "pia": "",
+        "p": "Dientes de Bawaab Excelente del Bosque",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -44244,11 +44253,11 @@
         "description": ""
     },
     "m0545chqfc01": {
-        "name": "Una de Gnoof de Selección del Bosque",
+        "name": "Uña de Gnoof Selecta del Bosque",
         "ia": "una",
         "da": "la",
-        "p": "Unas de Gonnof de Selección del Bosque",
-        "pia": "",
+        "p": "Uñas de Gnoof Selectas del Bosque",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -44964,11 +44973,11 @@
         "description": ""
     },
     "m0554chxjc01": {
-        "name": "Una de Gubani de Selección de la Selva",
+        "name": "Uña de Gubani Selecta de la Selva",
         "ia": "una",
         "da": "la",
-        "p": "Unas de Gubani de Selección de la Selva",
-        "pia": "",
+        "p": "Uñas de Gubani Selectas de la Selva",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -44991,11 +45000,11 @@
         "description": ""
     },
     "m0554chxpc01": {
-        "name": "Una de Gubani de Selección de la Primera Raíz",
+        "name": "Uña de Gubani Selecta de las Raíces Primarias",
         "ia": "una",
         "da": "la",
-        "p": "Unas de Gubani de Selección de la Primera Raíz",
-        "pia": "",
+        "p": "Uñas de Gubani Selectas de las Raíces Primarias",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -59706,20 +59715,20 @@
         "description": ""
     },
     "m0782dxacb01": {
-        "name": "Fragmento de Una de Najab Básico Dañado",
-        "ia": "un",
+        "name": "Fragmento de Uña de Najab Básico Dañado",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos de Una de Najab Básico Dañado",
-        "pia": "",
+        "p": "Fragmentos de Uña de Najab Básico Dañado",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "m0782dxape01": {
-        "name": "Una de Najab Excelente Dañada",
+        "name": "Cola de Najab Excelente Corrupta",
         "ia": "una",
         "da": "la",
-        "p": "Unas de Najab Excelente Dañada",
-        "pia": "",
+        "p": "Colas de Najab Excelente Corruptas",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -59733,11 +59742,11 @@
         "description": ""
     },
     "m0783dxapd01": {
-        "name": "Diente de Ragus de Selección Dañado",
-        "ia": "un",
+        "name": "Diente Selecto de Ragus Corrupto",
+        "ia": "uno",
         "da": "el",
-        "p": "Diente de Ragus de Selección Dañado",
-        "pia": "",
+        "p": "Dientes Selectos de Ragus Corruptos",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -59751,11 +59760,11 @@
         "description": ""
     },
     "m0784dxapd01": {
-        "name": "Mandíbula de Kipesta de Selección Dañada",
+        "name": "Mandíbula de Kipesta Selecta Corrupta",
         "ia": "una",
         "da": "la",
-        "p": "Mandíbulas de Kipesta de Selección Dañada",
-        "pia": "",
+        "p": "Mandíbulas de Kipesta Selectas Corruptas",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -60156,66 +60165,66 @@
         "description": ""
     },
     "m0807dxaca01": {
-        "name": "Plain soie fine de la reine",
-        "ia": "a",
-        "da": "the",
-        "p": "Plain soie fine de la reines",
-        "pia": "",
-        "pda": "the",
+        "name": "Seda Básica de Reina",
+        "ia": "uno",
+        "da": "el",
+        "p": "Sedas Básicas de Reinas",
+        "pia": "unos",
+        "pda": "los",
         "description": ""
     },
     "m0808dxaca01": {
-        "name": "Plain ecailles rigides de la reine",
-        "ia": "a",
-        "da": "the",
-        "p": "Plain ecailles rigides de la reines",
-        "pia": "",
-        "pda": "the",
+        "name": "Escama Básica de Reina",
+        "ia": "una",
+        "da": "la",
+        "p": "Escamas Básicas de Reinas",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "m0809dxaca01": {
-        "name": "Plain peau épaisse de la reine",
-        "ia": "a",
-        "da": "the",
-        "p": "Plain peau épaisse de la reines",
-        "pia": "",
-        "pda": "the",
+        "name": "Piel Gruesa Básica de Reina",
+        "ia": "una",
+        "da": "la",
+        "p": "Pieles Gruesas Básicas de Reinas",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "m0810dxaca01": {
-        "name": "Plain ligaments denses de la reine",
-        "ia": "a",
-        "da": "the",
-        "p": "Plain ligaments denses de la reines",
-        "pia": "",
-        "pda": "the",
+        "name": "Ligamento Denso Básico de Reina",
+        "ia": "uno",
+        "da": "el",
+        "p": "Ligamentos Densos Básicos de Reinas",
+        "pia": "unos",
+        "pda": "los",
         "description": ""
     },
     "m0811dxaca01": {
-        "name": "Plain griffes puissantes de la reine",
-        "ia": "a",
-        "da": "the",
-        "p": "Plain griffes puissantes de la reines",
-        "pia": "",
-        "pda": "the",
+        "name": "Garra Básica de Reina",
+        "ia": "una",
+        "da": "la",
+        "p": "Garras Básicas de Reinas",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "m0812dxaca01": {
-        "name": "Plain soie robuste de la reine",
-        "ia": "a",
-        "da": "the",
-        "p": "Plain soie robuste de la reines",
-        "pia": "",
-        "pda": "the",
+        "name": "Seda Fuerte Básica de Reina",
+        "ia": "una",
+        "da": "la",
+        "p": "Sedas Fuertes Básicas de Reinas",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "m0813dxaca01": {
-        "name": "Plain carapace la reine",
-        "ia": "a",
-        "da": "the",
-        "p": "Plain carapace la reines",
-        "pia": "",
-        "pda": "the",
+        "name": "Caparazón Básica de Reina",
+        "ia": "uno",
+        "da": "el",
+        "p": "Caparazones Básicas de Reinas",
+        "pia": "unos",
+        "pda": "los",
         "description": ""
     },
     "m0815dxacc01": {
@@ -62406,10 +62415,10 @@
         "description": ""
     },
     "marauder_teleport_crystal": {
-        "name": "Cristal de Teletransporte Merodeador",
-        "ia": "un",
+        "name": "Cristal de Teletransporte Marauder",
+        "ia": "uno",
         "da": "el",
-        "p": "Cristales de Teletransporte Merodeadores",
+        "p": "Cristales de Teletransporte Marauder",
         "pia": "unos",
         "pda": "los",
         "description": ""
@@ -62541,12 +62550,12 @@
         "description": ""
     },
     "mc60_bottes": {
-        "name": "Stealth Boot",
-        "ia": "a",
-        "da": "the",
-        "p": "Stealth Boots",
-        "pia": "",
-        "pda": "the",
+        "name": "Bota Sigilosa",
+        "ia": "una",
+        "da": "la",
+        "p": "Botas Sigilosas",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "mc60_feuilles": {
@@ -62622,11 +62631,11 @@
         "description": ""
     },
     "mc90_statuette": {
-        "name": "Estatuilla de Yrkranis",
+        "name": "Estatuilla de Yrkanis",
         "ia": "una",
         "da": "la",
-        "p": "Estatuillas de Yrkranis",
-        "pia": "",
+        "p": "Estatuillas de Yrkanis",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -62928,11 +62937,11 @@
         "description": ""
     },
     "mm100_cratcha": {
-        "name": "Cratch Deshidratada Normal",
+        "name": "Cratcha Deshidratada Normal",
         "ia": "una",
         "da": "la",
         "p": "Cratchas Deshidratadas Normales",
-        "pia": "",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -63459,11 +63468,11 @@
         "description": ""
     },
     "prospector_pendant": {
-        "name": "Colgante Pendiente de Buscador",
-        "ia": "un",
+        "name": "Collar de Buscador",
+        "ia": "uno",
         "da": "el",
-        "p": "Colgantes Pendientes de Buscador",
-        "pia": "",
+        "p": "Collares de Buscador",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -64143,21 +64152,21 @@
         "description": ""
     },
     "rpjob_200": {
-        "name": "aprendiz de carnicero",
-        "ia": "un",
-        "da": "de",
-        "p": "Aprendiz de carnicero",
-        "pia": "un",
-        "pda": "de",
+        "name": "Aprendiz de Carnicero",
+        "ia": "uno",
+        "da": "el",
+        "p": "Aprendices de Carniceros",
+        "pia": "unos",
+        "pda": "los",
         "description": ""
     },
     "rpjob_201": {
-        "name": "aprendiz de Florista",
-        "ia": "un",
+        "name": "Aprendiz de Florista",
+        "ia": "uno",
         "da": "el",
-        "p": "Aprendiz de Florista",
-        "pia": "un",
-        "pda": "el",
+        "p": "Aprendices de Floristas",
+        "pia": "unos",
+        "pda": "los",
         "description": ""
     },
     "rpjob_202": {
@@ -64179,12 +64188,12 @@
         "description": ""
     },
     "rpjob_204": {
-        "name": "aprendiz de fabricante de herramientas",
-        "ia": "un",
+        "name": "Aprendiz de Fabricante de Herramientas",
+        "ia": "uno",
         "da": "el",
-        "p": "Aprendiz de fabricante de herramientas",
-        "pia": "un",
-        "pda": "de",
+        "p": "Aprendices de Fabricantes de Herramientas",
+        "pia": "unos",
+        "pda": "los",
         "description": ""
     },
     "rpjob_205": {
@@ -64197,21 +64206,21 @@
         "description": ""
     },
     "rpjob_206": {
-        "name": "aprendiz de criador de larvas",
-        "ia": "un",
-        "da": "de",
-        "p": "aprendiz de criador de larvas",
-        "pia": "un",
-        "pda": "de",
+        "name": "Aprendiz de Larvero",
+        "ia": "uno",
+        "da": "el",
+        "p": "Aprendices de Larveros",
+        "pia": "unos",
+        "pda": "los",
         "description": ""
     },
     "rpjob_207": {
-        "name": "Aprendiz de fabricante de rollos de papel",
+        "name": "Aprendiz de Fabricante de Pergaminos",
         "ia": "un",
         "da": "el",
-        "p": "Aprendiz de fabricante de rollos de papel",
-        "pia": "un",
-        "pda": "de",
+        "p": "Aprendices de Fabricantes de Pergaminos",
+        "pia": "unos",
+        "pda": "los",
         "description": ""
     },
     "rpjob_advanced": {
@@ -64242,56 +64251,56 @@
         "description": ""
     },
     "rpjobitem_200_a0": {
-        "name": "Elementos del kit de carnicero",
-        "ia": "",
-        "da": "los",
-        "p": "Elementos del kit de carnicero",
-        "pia": "",
+        "name": "Elemento de Carnicería",
+        "ia": "uno",
+        "da": "el",
+        "p": "Elementos de Carnicería",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "rpjobitem_200_a1": {
-        "name": "Elementos del kit de gran carnicero",
-        "ia": "",
-        "da": "los",
-        "p": "Elementos del kit del gran carnicero",
-        "pia": "",
+        "name": "Elemento de Carnicería Mayor",
+        "ia": "uno",
+        "da": "el",
+        "p": "Elementos de Carnicería Mayor",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "rpjobitem_200_b0": {
-        "name": "Piezas de los herbívoros",
-        "ia": "",
-        "da": "las",
-        "p": "Piezas de los herbívoros",
-        "pia": "",
+        "name": "Carne de Herbívoro",
+        "ia": "una",
+        "da": "la",
+        "p": "Carnes de Herbívoros",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "rpjobitem_200_b1": {
-        "name": "Las mejores piezas de los herbívoros",
-        "ia": "",
-        "da": "las",
-        "p": "Las mejores piezas de los herbívoros",
-        "pia": "",
+        "name": "Carne de Primera de Herbívoro",
+        "ia": "una",
+        "da": "la",
+        "p": "Carnes de Primera de Herbívoros",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "rpjobitem_200_c0": {
-        "name": "Muslos de Yubo",
-        "ia": "",
-        "da": "los",
-        "p": "Muslos de Yubo",
-        "pia": "",
-        "pda": "los",
+        "name": "Pata de Yubo",
+        "ia": "una",
+        "da": "la",
+        "p": "Patas de Yubo",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "rpjobitem_200_c1": {
-        "name": "Bistecs de Bodoc",
-        "ia": "",
-        "da": "los",
+        "name": "Bistec de Bodoc",
+        "ia": "uno",
+        "da": "el",
         "p": "Bistecs de Bodoc",
-        "pia": "",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -64350,29 +64359,29 @@
         "description": ""
     },
     "rpjobitem_201_a1": {
-        "name": "Oferta abundante de certificados de flores",
-        "ia": "",
-        "da": "la",
-        "p": "Oferta abundante de certificado de flores",
-        "pia": "",
-        "pda": "las",
+        "name": "Certificado de Oferta Abundante de Flores",
+        "ia": "uno",
+        "da": "el",
+        "p": "Certificados de Oferta Abundante de Flores",
+        "pia": "unos",
+        "pda": "los",
         "description": ""
     },
     "rpjobitem_201_b0": {
-        "name": "Certificados de mantenimiento de flores",
-        "ia": "",
-        "da": "los",
-        "p": "Certificados de mantenimiento de flores",
-        "pia": "",
+        "name": "Certificado de Mantenimiento de Flores",
+        "ia": "uno",
+        "da": "el",
+        "p": "Certificados de Mantenimiento de Flores",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "rpjobitem_201_b1": {
-        "name": "Certificados de mantenimiento de flores perfecto",
-        "ia": "",
-        "da": "los",
-        "p": "Certificado de mantenimiento de flores perfecto",
-        "pia": "",
+        "name": "Certificado de Mantenimiento de Flores Perfectas",
+        "ia": "uno",
+        "da": "el",
+        "p": "Certificados de Mantenimiento de Flores Perfectas",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -64440,20 +64449,20 @@
         "description": ""
     },
     "rpjobitem_202_a0": {
-        "name": "Certificados de la calidad del agua",
-        "ia": "",
-        "da": "los",
-        "p": "Certificados de la calidad del agua",
-        "pia": "",
+        "name": "Certificado de Calidad del Agua",
+        "ia": "uno",
+        "da": "el",
+        "p": "Certificados de Calidad del Agua",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "rpjobitem_202_a1": {
-        "name": "Certificados de agua buena calidad",
-        "ia": "",
-        "da": "los",
-        "p": "Certificados de agua de buena calidad",
-        "pia": "",
+        "name": "Certificado de Agua Buena Calidad",
+        "ia": "uno",
+        "da": "el",
+        "p": "Certificados de Agua de Buena Calidad",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -64674,66 +64683,66 @@
         "description": ""
     },
     "rpjobitem_204_c0": {
-        "name": "Herramienta de resumen",
-        "ia": "",
+        "name": "Herramienta Básica",
+        "ia": "una",
         "da": "la",
-        "p": "Herramienta de resumen",
-        "pia": "",
-        "pda": "la",
+        "p": "Herramienta Básicas",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "rpjobitem_204_c1": {
-        "name": "Herramienta practica",
-        "ia": "",
+        "name": "Herramienta Práctica",
+        "ia": "una",
         "da": "la",
-        "p": "Herramienta practica",
-        "pia": "",
-        "pda": "la",
+        "p": "Herramientas Prácticas",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "rpjobitem_204_c2": {
-        "name": "Herramienta inteligente",
-        "ia": "",
+        "name": "Herramienta Inteligente",
+        "ia": "una",
         "da": "la",
-        "p": "Herramienta inteligente",
-        "pia": "",
-        "pda": "la",
+        "p": "Herramientas Inteligentes",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "rpjobitem_204_c3": {
-        "name": "Herramienta productiva",
-        "ia": "",
+        "name": "Herramienta Productiva",
+        "ia": "una",
         "da": "la",
-        "p": "Herramienta productiva",
-        "pia": "",
-        "pda": "la",
+        "p": "Herramientas Productivas",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "rpjobitem_204_c4": {
-        "name": "Herramienta operativa",
-        "ia": "",
+        "name": "Herramienta Destacada",
+        "ia": "una",
         "da": "la",
-        "p": "Herramienta operativa",
-        "pia": "",
-        "pda": "la",
+        "p": "Herramientas Destacadas",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "rpjobitem_204_c5": {
-        "name": "Herramienta revolucionaria",
-        "ia": "",
+        "name": "Herramienta Revolucionaria",
+        "ia": "una",
         "da": "la",
-        "p": "Herramienta revolucionaria",
-        "pia": "",
-        "pda": "la",
+        "p": "Herramientas Revolucionarias",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "rpjobitem_204_c6": {
-        "name": "Herramienta fantástica",
-        "ia": "",
+        "name": "Herramienta Fantástica",
+        "ia": "una",
         "da": "la",
-        "p": "Herramienta fantástica",
-        "pia": "",
-        "pda": "la",
+        "p": "Herramientas Fantásticas",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "rpjobitem_205_a0": {
@@ -64971,84 +64980,84 @@
         "description": ""
     },
     "rpjobitem_207_c0": {
-        "name": "Básicos necesarios para escribir",
-        "ia": "",
-        "da": "los",
-        "p": "Básicos necesarios para escribir",
-        "pia": "",
+        "name": "Implemento básico para escribir",
+        "ia": "uno",
+        "da": "el",
+        "p": "Implementos básicos para escribir",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "rpjobitem_207_c1": {
-        "name": "Modestos necesario para escribir",
-        "ia": "",
-        "da": "los",
-        "p": "Modestos necesarios para escribir",
-        "pia": "",
+        "name": "Implemento Modesto para escribir",
+        "ia": "uno",
+        "da": "el",
+        "p": "Implementos Modestos para escribir",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "rpjobitem_207_c2": {
-        "name": "Simples necesarios para escribir",
-        "ia": "",
-        "da": "los",
-        "p": "Simples necesarios para escribir",
-        "pia": "",
+        "name": "Implemento Simple para escribir",
+        "ia": "uno",
+        "da": "el",
+        "p": "Implementos Simples para escribir",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "rpjobitem_207_c3": {
-        "name": "Necesarios para la escritura a mano",
-        "ia": "",
-        "da": "los",
-        "p": "Necesarios para la escritura a mano",
-        "pia": "",
+        "name": "Implemento para Manuscritos",
+        "ia": "uno",
+        "da": "el",
+        "p": "Implementos para Manuscritos",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "rpjobitem_207_c4": {
-        "name": "Necesarios para escribir bien",
-        "ia": "",
-        "da": "los",
-        "p": "Necesarios para escribir bien",
-        "pia": "",
+        "name": "Implemento para Escritura Fina",
+        "ia": "uno",
+        "da": "el",
+        "p": "Implementos para Escritura Fina",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "rpjobitem_207_c5": {
-        "name": "Necesarios para dominar la escritura",
-        "ia": "",
-        "da": "los",
-        "p": "Necesarios para dominar la escritura",
-        "pia": "",
+        "name": "Implemento Maestro para escritura",
+        "ia": "uno",
+        "da": "el",
+        "p": "Implementos Maestros para escritura",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "rpjobitem_207_c6": {
-        "name": "Necesario para la escritura del arte",
-        "ia": "",
+        "name": "Implemento para Escritura Artística",
+        "ia": "uno",
         "da": "el",
-        "p": "Necesario para la escritura del arte",
-        "pia": "",
-        "pda": "el",
+        "p": "Implementos para Escritura Artística",
+        "pia": "unos",
+        "pda": "los",
         "description": ""
     },
     "rpjobitem_certifications": {
-        "name": "Instrumento maestro",
-        "ia": "un",
+        "name": "Instrumento del Maestro",
+        "ia": "uno",
         "da": "el",
-        "p": "Instrumentos maestros",
-        "pia": "",
+        "p": "Instrumentos del Maestro",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "rpjobloot_casket": {
-        "name": "Cofre ataúd Misterioso",
-        "ia": "",
-        "da": "",
-        "p": "",
-        "pia": "",
-        "pda": "",
+        "name": "Cofre Misterioso",
+        "ia": "uno",
+        "da": "el",
+        "p": "Cofres Misteriosos",
+        "pia": "unos",
+        "pda": "los",
         "description": ""
     },
     "rpjobloot_event": {
@@ -65275,6 +65284,15 @@
         "pia": "equipar los anillos en tu dedo izquierdo",
         "pda": "unos",
         "description": "los"
+    },
+    "slot_fingerr": {
+        "name": "Equipar un anillo en tu dedo derecho",
+        "ia": "",
+        "da": "",
+        "p": "Equipar un anillo en tu dedo derecho",
+        "pia": "",
+        "pda": "",
+        "description": ""
     },
     "slot_neck": {
         "name": "Equipa una joya en la ranura del collar",
@@ -65503,20 +65521,20 @@
     },
     "system_mp": {
         "name": "Materia Prima Genérica",
-        "ia": "una",
-        "da": "la",
+        "ia": "uno",
+        "da": "el",
         "p": "Materias Primas Genéricas",
-        "pia": "unas",
-        "pda": "las",
+        "pia": "unos",
+        "pda": "los",
         "description": ""
     },
     "system_mp_basic": {
         "name": "Materia Prima Genérica Básica",
-        "ia": "una",
-        "da": "la",
+        "ia": "uno",
+        "da": "el",
         "p": "Materias Primas Genéricas Básicas",
-        "pia": "",
-        "pda": "las",
+        "pia": "unos",
+        "pda": "los",
         "description": ""
     },
     "system_mp_choice": {
@@ -65744,6 +65762,15 @@
         "pda": "las",
         "description": ""
     },
+    "system_mp_loot": {
+        "name": "Materia prima genérica",
+        "ia": "una",
+        "da": "la",
+        "p": "Materias primas genéricas",
+        "pia": "unas",
+        "pda": "las",
+        "description": ""
+    },
     "system_mp_supreme": {
         "name": "Materia Prima Genérica Suprema",
         "ia": "una",
@@ -65808,11 +65835,11 @@
         "description": ""
     },
     "tc80_os_retravailles": {
-        "name": "Hueso de Capryni Re-Elaborado",
+        "name": "Hueso Reconstruido de Capryni",
         "ia": "un",
         "da": "el",
-        "p": "Huesos de Capryni Re-Elaborados",
-        "pia": "",
+        "p": "Huesos Reconstruidos de Capryni",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -65826,12 +65853,12 @@
         "description": ""
     },
     "tcm_chlorogoo_drug": {
-        "name": "Medicina Fármaco Chlorogoo",
+        "name": "Droga Chlorogoo",
         "ia": "una",
         "da": "la",
-        "p": "Medicinas Fármacos Chlorogoo",
-        "pia": "",
-        "pda": "los",
+        "p": "Drogas Chlorogoo",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "tcm_crate_id": {
@@ -65916,12 +65943,12 @@
         "description": ""
     },
     "tcm_rewardkey": {
-        "name": "Llave para el Tesoro",
-        "ia": "un",
+        "name": "Llave del Tesoro",
+        "ia": "una",
         "da": "la",
         "p": "",
-        "pia": "",
-        "pda": "",
+        "pia": "unos",
+        "pda": "los",
         "description": ""
     },
     "tcm_shaman_stick": {
@@ -65934,12 +65961,12 @@
         "description": ""
     },
     "tcm_soulkey": {
-        "name": "Llave para el Alma",
+        "name": "Llave para las Almas",
         "ia": "una",
         "da": "la",
         "p": "",
-        "pia": "",
-        "pda": "",
+        "pia": "unos",
+        "pda": "los",
         "description": ""
     },
     "tcm_tete_chad": {
@@ -66060,11 +66087,11 @@
         "description": ""
     },
     "tf60_ailes": {
-        "name": "Ala de Kizoar a la Parilla",
+        "name": "Ala de Kizoar a la Parrilla",
         "ia": "un",
         "da": "el",
-        "p": "Alas de Kizoar a la Parrila",
-        "pia": "",
+        "p": "Alas de Kizoar a la Parrilla",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -66123,20 +66150,20 @@
         "description": ""
     },
     "tf90_outil": {
-        "name": "Herramienta Espacial",
+        "name": "Herramienta Especial",
         "ia": "una",
         "da": "la",
         "p": "Herramientas Especiales",
-        "pia": "",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
     "th100_carapace": {
-        "name": "Conca Especial",
+        "name": "Concha Especial",
         "ia": "una",
         "da": "la",
         "p": "Conchas Especiales",
-        "pia": "",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -66159,11 +66186,11 @@
         "description": ""
     },
     "th60_mousse": {
-        "name": "Musgo de Stinga Protuberante",
-        "ia": "algo de",
+        "name": "Musgo de Brotes de Stinga",
+        "ia": "uno",
         "da": "el",
-        "p": "Musgos de Stinga Protuberante",
-        "pia": "",
+        "p": "Musgos de Brotes de Stinga",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -66582,11 +66609,11 @@
         "description": ""
     },
     "tp_kami_maidengrove": {
-        "name": "Pacto Teletransportador Kami para el Bosque de las Doncellas",
-        "ia": "un",
+        "name": "Pacto Teletransportador Kami para Selva Virgen",
+        "ia": "uno",
         "da": "el",
-        "p": "Pactos Teletransportadores Kami para el Bosque de las Doncellas",
-        "pia": "",
+        "p": "Pactos Teletransportadores Kami para Selva Virgen",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -66663,11 +66690,11 @@
         "description": ""
     },
     "tp_kami_ranger_camp": {
-        "name": "Pacto Kami  Teleportador hacia el Campamiento Ranger",
-        "ia": "un",
+        "name": "Pacto Kami Teleportador hacia el Campamento Ranger",
+        "ia": "uno",
         "da": "el",
-        "p": "Pactos Kami  Teleportadores hacia el Campamiento Ranger",
-        "pia": "",
+        "p": "Pactos Kami Teleportadores hacia el Campamento Ranger",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -67122,11 +67149,11 @@
         "description": ""
     },
     "tp_karavan_maidengrove": {
-        "name": "Pacto Teletransportador Karavan para el Bosque de las Doncellas",
-        "ia": "un",
+        "name": "Pacto Teletransportador Karavan para Selva Virgen",
+        "ia": "uno",
         "da": "el",
-        "p": "Pactos Teletransportadores Karavan para el Bosque de las Doncellas",
-        "pia": "",
+        "p": "Pactos Teletransportadores Karavan para Selva Virgen",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -68769,20 +68796,20 @@
         "description": ""
     },
     "tr_hom_tatoo30": {
-        "name": "Orilla Lamida Besada",
+        "name": "Orilla Pulida",
         "ia": "una",
         "da": "la",
         "p": "",
         "pia": "",
-        "pda": "las",
+        "pda": "",
         "description": ""
     },
     "tr_hom_tatoo31": {
-        "name": "Arroyo Corriente en los Campos",
+        "name": "Arroyo de los Campos",
         "ia": "un",
         "da": "el",
         "p": "",
-        "pia": "",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -68855,7 +68882,7 @@
         "da": "la",
         "p": "",
         "pia": "",
-        "pda": "las",
+        "pda": "",
         "description": ""
     },
     "tr_hom_tatoo4": {
@@ -68864,7 +68891,7 @@
         "da": "las",
         "p": "",
         "pia": "",
-        "pda": "las",
+        "pda": "",
         "description": ""
     },
     "tr_hom_tatoo40": {
@@ -69200,6 +69227,69 @@
         "pda": "los",
         "description": ""
     },
+    "ulo_1": {
+        "name": "Archoleth",
+        "ia": "uno",
+        "da": "el",
+        "p": "Archoleth",
+        "pia": "unos",
+        "pda": "los",
+        "description": ""
+    },
+    "ulo_2": {
+        "name": "Archoleth",
+        "ia": "uno",
+        "da": "el",
+        "p": "Archoleth",
+        "pia": "unos",
+        "pda": "los",
+        "description": ""
+    },
+    "ulo_3": {
+        "name": "Archoleth",
+        "ia": "uno",
+        "da": "el",
+        "p": "Archoleth",
+        "pia": "unos",
+        "pda": "los",
+        "description": ""
+    },
+    "ulo_4": {
+        "name": "Archoleth",
+        "ia": "uno",
+        "da": "el",
+        "p": "Archoleth",
+        "pia": "unos",
+        "pda": "los",
+        "description": ""
+    },
+    "ulo_5": {
+        "name": "Archoleth",
+        "ia": "uno",
+        "da": "el",
+        "p": "Archoleth",
+        "pia": "unos",
+        "pda": "los",
+        "description": ""
+    },
+    "ulo_6": {
+        "name": "Archoleth",
+        "ia": "uno",
+        "da": "el",
+        "p": "Archoleth",
+        "pia": "unos",
+        "pda": "los",
+        "description": ""
+    },
+    "ulo_7": {
+        "name": "Archoleth",
+        "ia": "uno",
+        "da": "el",
+        "p": "Archoleth",
+        "pia": "unos",
+        "pda": "los",
+        "description": ""
+    },
     "unstable_goo_vial": {
         "name": "Poción Inestable",
         "ia": "una",
@@ -69216,6 +69306,15 @@
         "p": "Agua estimulante",
         "pia": "",
         "pda": "el",
+        "description": ""
+    },
+    "water_trek_barrel": {
+        "name": "Barril de Agua",
+        "ia": "uno",
+        "da": "el",
+        "p": "Barrils de Agua",
+        "pia": "unos",
+        "pda": "los",
         "description": ""
     },
     "web_transaction": {
@@ -69363,11 +69462,11 @@
         "description": ""
     },
     "young_girl_pendant": {
-        "name": "Pendiente de Chica Joven",
-        "ia": "un",
+        "name": "Collar de Chica Joven",
+        "ia": "uno",
         "da": "el",
-        "p": "Pendientes de Chica Joven",
-        "pia": "",
+        "p": "Collares de Chica Joven",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -69633,56 +69732,56 @@
         "description": ""
     },
     "zig_bolobi": {
-        "name": "Zig Bolobi",
+        "name": "Zig",
         "ia": "uno",
         "da": "el",
-        "p": "Zig Bolobi",
+        "p": "Zig",
         "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "zig_capryni": {
-        "name": "Zig Capryni",
+        "name": "Zig",
         "ia": "uno",
         "da": "el",
-        "p": "Zig Capryni",
+        "p": "Zig",
         "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "zig_yubo_forest": {
-        "name": "Zig Yubo",
-        "ia": "une",
+        "name": "Zig",
+        "ia": "uno",
         "da": "el",
-        "p": "Zig Yubo",
+        "p": "Zig",
         "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "zig_yubo_lakes": {
-        "name": "Zig Yubo",
-        "ia": "une",
+        "name": "Zig",
+        "ia": "uno",
         "da": "el",
-        "p": "Zig Yubo",
+        "p": "Zig",
         "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "zig_yubo_white": {
-        "name": "Zig Yubo",
-        "ia": "une",
+        "name": "Zig",
+        "ia": "uno",
         "da": "el",
-        "p": "Zig Yubo",
+        "p": "Zig",
         "pia": "unos",
         "pda": "los",
         "description": ""
     },
     "zm50_ecailles": {
-        "name": "Scamas de Bawaab Robusto",
-        "ia": "algo de",
-        "da": "las",
+        "name": "Escama de Bawaab Robusto",
+        "ia": "una",
+        "da": "la",
         "p": "Escamas de Bawaab Robusto",
-        "pia": "",
+        "pia": "unas",
         "pda": "las",
         "description": ""
     },
@@ -70101,11 +70200,11 @@
         "description": ""
     },
     "zo_hof_haircolor4": {
-        "name": "Blue",
-        "ia": "un",
+        "name": "Azul",
+        "ia": "uno",
         "da": "el",
         "p": "",
-        "pia": "",
+        "pia": "unos",
         "pda": "los",
         "description": ""
     },
@@ -71055,12 +71154,12 @@
         "description": ""
     },
     "zo_hom_tatoo26": {
-        "name": "Ceremonia de Conmemoración",
-        "ia": "una",
-        "da": "la",
+        "name": "Conmemoración de Ceremonia",
+        "ia": "uno",
+        "da": "el",
         "p": "",
-        "pia": "",
-        "pda": "las",
+        "pia": "unos",
+        "pda": "los",
         "description": ""
     },
     "zo_hom_tatoo27": {
@@ -71253,12 +71352,12 @@
         "description": ""
     },
     "zo_hom_tatoo46": {
-        "name": "Previsión Precaución",
-        "ia": "una",
-        "da": "la",
+        "name": "Previsión",
+        "ia": "uno",
+        "da": "el",
         "p": "",
         "pia": "",
-        "pda": "las",
+        "pda": "",
         "description": ""
     },
     "zo_hom_tatoo47": {

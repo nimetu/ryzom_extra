@@ -73,7 +73,7 @@
     },
     "continent_matis_island": {
         "name": "Tierras Antiguas",
-        "da": "las"
+        "da": "el"
     },
     "continent_matis_newbie": {
         "name": "Isla Matis",
@@ -424,8 +424,8 @@
         "da": "el"
     },
     "mairie_rdc": {
-        "name": "planta baja",
-        "da": ""
+        "name": "Planta baja",
+        "da": "la"
     },
     "marauder_camp_stable": {
         "name": "Establos Marauders",
@@ -452,12 +452,12 @@
         "da": "el"
     },
     "mission_place_ranger_01": {
-        "name": "",
-        "da": ""
+        "name": "Sitio Ranger",
+        "da": "el"
     },
     "mission_place_ranger_02": {
-        "name": "",
-        "da": ""
+        "name": "Sitio Ranger",
+        "da": "el"
     },
     "mission_place_tryker_02": {
         "name": "Zona de Prospección",
@@ -780,11 +780,11 @@
         "da": "la"
     },
     "place_lieudit_bountybeaches_2": {
-        "name": "Lindos Manantiales",
-        "da": "los"
+        "name": "Manantial de Cutes",
+        "da": "el"
     },
     "place_lieudit_bountybeaches_3": {
-        "name": "Hermanamiento de Bellos Manantiales",
+        "name": "Hermanamiento de Manantial de Cutes",
         "da": "el"
     },
     "place_lieudit_bountybeaches_4": {
@@ -1068,7 +1068,7 @@
         "da": "el"
     },
     "place_lieudit_maidengrove_2": {
-        "name": "Estanque de la Doncella",
+        "name": "Estanque de Selva Virgen",
         "da": "el"
     },
     "place_lieudit_maidengrove_3": {
@@ -1944,7 +1944,7 @@
         "da": "la"
     },
     "place_outpost_tryker_18": {
-        "name": "Centro de Investigación de Bellos Manantiales",
+        "name": "Centro de Investigación de Manantial de Cutes",
         "da": "el"
     },
     "place_outpost_tryker_19": {
@@ -1952,8 +1952,8 @@
         "da": "el"
     },
     "place_outpost_tryker_20": {
-        "name": "Fortaleza Hermanamiento de Bellos Manantiales",
-        "da": "la"
+        "name": "Fortaleza Hermanamiento de Manantial de Cutes",
+        "da": "el"
     },
     "place_outpost_tryker_21": {
         "name": "Puesto de Comercio Tupile",
@@ -2044,7 +2044,7 @@
         "da": "la"
     },
     "place_outpost_zorai_11": {
-        "name": "Taller del Estanque de las Doncellas",
+        "name": "Taller del Estanque de Selva Virgen",
         "da": "el"
     },
     "place_outpost_zorai_12": {
@@ -3199,6 +3199,10 @@
         "name": "Laberinto",
         "da": "el"
     },
+    "uir2_deserts21": {
+        "name": "La Emboscada",
+        "da": ""
+    },
     "uir2_deserts22": {
         "name": "Arenas de Soledad",
         "da": ""
@@ -3231,8 +3235,20 @@
         "name": "Camino Oscuro",
         "da": "el"
     },
+    "uir2_deserts30": {
+        "name": "Los Dos Salones",
+        "da": ""
+    },
+    "uir2_deserts31": {
+        "name": "El Surco",
+        "da": ""
+    },
     "uir2_deserts32": {
         "name": "Huellas de Shalah",
+        "da": ""
+    },
+    "uir2_deserts33": {
+        "name": "Meditaciones del Maestro del Laberinto",
         "da": ""
     },
     "uir2_forest01": {
@@ -3249,6 +3265,10 @@
     },
     "uir2_forest04": {
         "name": "Pantano Cínico",
+        "da": "el"
+    },
+    "uir2_forest05": {
+        "name": "Tocón Cortado",
         "da": "el"
     },
     "uir2_forest06": {
@@ -3279,6 +3299,10 @@
         "name": "Claro Confinado",
         "da": "el"
     },
+    "uir2_forest13": {
+        "name": "Muelle de Invierno",
+        "da": "el"
+    },
     "uir2_forest14": {
         "name": "Gran Arena",
         "da": "la"
@@ -3287,6 +3311,10 @@
         "name": "Cima Kitin",
         "da": "la"
     },
+    "uir2_forest16": {
+        "name": "Monte Torbellino",
+        "da": "el"
+    },
     "uir2_forest17": {
         "name": "Cima Bawaab",
         "da": "la"
@@ -3294,6 +3322,22 @@
     "uir2_forest18": {
         "name": "Espinal",
         "da": "el"
+    },
+    "uir2_forest19": {
+        "name": "Corredor Encantado",
+        "da": "el"
+    },
+    "uir2_forest20": {
+        "name": "Paso Oscuro",
+        "da": "el"
+    },
+    "uir2_forest21": {
+        "name": "Pasadizo del Pozo",
+        "da": "el"
+    },
+    "uir2_forest22": {
+        "name": "Isla Colmillos",
+        "da": "la"
     },
     "uir2_forest23": {
         "name": "Paso Vacío",
@@ -3331,6 +3375,14 @@
         "name": "Solo de Sueños",
         "da": ""
     },
+    "uir2_forest32": {
+        "name": "Fuentes Secas",
+        "da": ""
+    },
+    "uir2_forest33": {
+        "name": "Abismo del Kincher",
+        "da": "el"
+    },
     "uir2_forest34": {
         "name": "Fauces de Torbak",
         "da": ""
@@ -3349,6 +3401,14 @@
     },
     "uir2_forest38": {
         "name": "Jardín de Recompensas",
+        "da": "el"
+    },
+    "uir2_forest39": {
+        "name": "Los Tres Claros",
+        "da": ""
+    },
+    "uir2_forest40": {
+        "name": "Rastro del Madakam",
         "da": "el"
     },
     "uir2_forest41": {
@@ -3371,6 +3431,30 @@
         "name": "Corteza Rota",
         "da": "la"
     },
+    "uir2_forest46": {
+        "name": "Cañada Salvaje",
+        "da": "la"
+    },
+    "uir2_forest49": {
+        "name": "Profundidad del Desespero",
+        "da": "la"
+    },
+    "uir2_forest50": {
+        "name": "Altura de los Aullidos",
+        "da": "la"
+    },
+    "uir2_forest51": {
+        "name": "Franja Frenética",
+        "da": "la"
+    },
+    "uir2_forest52": {
+        "name": "Caverna Reptante",
+        "da": "la"
+    },
+    "uir2_forest53": {
+        "name": "Tierra de los Perdidos",
+        "da": "la"
+    },
     "uir2_jungle01": {
         "name": "Bosque de Olas",
         "da": "el"
@@ -3391,6 +3475,10 @@
         "name": "Sabor del Paraíso",
         "da": "el"
     },
+    "uir2_jungle06": {
+        "name": "Valle Inclinado",
+        "da": "el"
+    },
     "uir2_jungle07": {
         "name": "Mano",
         "da": "la"
@@ -3406,6 +3494,10 @@
     "uir2_jungle11": {
         "name": "Meseta Calva",
         "da": "la"
+    },
+    "uir2_jungle12": {
+        "name": "Caminos del Laberinto",
+        "da": "el"
     },
     "uir2_jungle13": {
         "name": "Espejo de Goo",
@@ -3435,6 +3527,10 @@
         "name": "Selva Acuática",
         "da": "la"
     },
+    "uir2_jungle21": {
+        "name": "Desigual y Diverso",
+        "da": "el"
+    },
     "uir2_jungle22": {
         "name": "Corredor Tropical",
         "da": "el"
@@ -3443,9 +3539,17 @@
         "name": "Montaña de Bambú",
         "da": "la"
     },
+    "uir2_jungle24": {
+        "name": "Ladera de Montaña",
+        "da": "la"
+    },
     "uir2_jungle25": {
         "name": "El Círculo",
         "da": ""
+    },
+    "uir2_jungle26": {
+        "name": "Más lejos va al Goo",
+        "da": "el"
     },
     "uir2_jungle27": {
         "name": "Valle Vacío",
@@ -3453,6 +3557,14 @@
     },
     "uir2_jungle28": {
         "name": "Pequeño Manantial",
+        "da": "el"
+    },
+    "uir2_jungle29": {
+        "name": "Playa del Agua",
+        "da": "la"
+    },
+    "uir2_jungle30": {
+        "name": "Gran Valle",
         "da": "el"
     },
     "uir2_jungle31": {
@@ -3478,6 +3590,10 @@
     "uir2_jungle36": {
         "name": "Lago Olvidado",
         "da": "el"
+    },
+    "uir2_jungle38": {
+        "name": "Pozos Gemelos",
+        "da": ""
     },
     "uir2_jungle39": {
         "name": "Paso de Wombaï",
@@ -3555,6 +3671,10 @@
         "name": "Valle de Tres Picos",
         "da": "el"
     },
+    "uir2_lakes06": {
+        "name": "Paso Crepúsculo",
+        "da": "el"
+    },
     "uir2_lakes07": {
         "name": "Dunas de Dawn",
         "da": ""
@@ -3563,8 +3683,20 @@
         "name": "Triángulo Messab",
         "da": "el"
     },
+    "uir2_lakes09": {
+        "name": "Lago de la Hondonada",
+        "da": "el"
+    },
+    "uir2_lakes10": {
+        "name": "Sólo Místico",
+        "da": "el"
+    },
     "uir2_lakes11": {
         "name": "El Tridente",
+        "da": ""
+    },
+    "uir2_lakes12": {
+        "name": "Estanques del Valle",
         "da": ""
     },
     "uir2_lakes14": {
@@ -3578,6 +3710,10 @@
     "uir2_lakes16": {
         "name": "Dunas Conquistadas",
         "da": ""
+    },
+    "uir2_lakes17": {
+        "name": "Paso del Precipicio",
+        "da": "el"
     },
     "uir2_lakes18": {
         "name": "Tierra de Libertad",
@@ -3595,6 +3731,10 @@
         "name": "Viaje de Sueños",
         "da": "el"
     },
+    "uir2_lakes22": {
+        "name": "Grietas Ocultas",
+        "da": ""
+    },
     "uir2_lakes23": {
         "name": "Cueva Yubo",
         "da": "la"
@@ -3603,9 +3743,25 @@
         "name": "El Cuello",
         "da": ""
     },
+    "uir2_lakes25": {
+        "name": "Gargantas de Sitra",
+        "da": ""
+    },
+    "uir2_lakes26": {
+        "name": "El Sendero",
+        "da": ""
+    },
+    "uir2_lakes27": {
+        "name": "Playa Dacoco",
+        "da": "la"
+    },
     "uir2_lakes28": {
         "name": "Lágrimas del Cielo",
         "da": ""
+    },
+    "uir2_lakes29": {
+        "name": "Pinza de Clopper",
+        "da": "la"
     },
     "uir2_lakes30": {
         "name": "La K",
@@ -3619,8 +3775,28 @@
         "name": "Camino Soleado",
         "da": "el"
     },
+    "uir2_lakes33": {
+        "name": "Escalera Estrecha",
+        "da": "la"
+    },
+    "uir2_lakes34": {
+        "name": "Laberinto Serpenteante",
+        "da": "el"
+    },
+    "uir2_lakes35": {
+        "name": "Los Dos Escondrijos",
+        "da": ""
+    },
+    "uir2_lakes36": {
+        "name": "Esquina Raskous",
+        "da": "la"
+    },
     "uir2_lakes37": {
         "name": "Excavaciones",
+        "da": ""
+    },
+    "uir2_lakes38": {
+        "name": "Los Nichos",
         "da": ""
     },
     "uir2_lakes39": {

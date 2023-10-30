@@ -5915,6 +5915,9 @@
     "uiautomaticcamera": {
         "name": "Automatic Camera"
     },
+    "uiautomaticlight": {
+        "name": "Turn on light on connection"
+    },
     "uiawrsf": {
         "name": "All Weapons and Close-Combat"
     },
@@ -11153,6 +11156,9 @@
     "uiinterfacescale": {
         "name": "Interface scale"
     },
+    "uiinterfacescaleauto": {
+        "name": "Automatic interface scale"
+    },
     "uiinterrupt": {
         "name": "Interrupted!"
     },
@@ -11413,6 +11419,9 @@
     },
     "uiitgateofobscurity": {
         "name": "gate"
+    },
+    "uiitgift": {
+        "name": "Gift"
     },
     "uiitgroveofconfusion": {
         "name": "grove"
@@ -13386,7 +13395,7 @@
         "name": "TALK TO"
     },
     "uimk_actions": {
-        "name": "ACTIONS"
+        "name": "Levels"
     },
     "uimk_attack": {
         "name": "ATTACK\/DISENGAGE TOGGLE"
@@ -13410,7 +13419,7 @@
         "name": "EMOTES"
     },
     "uimk_encyclopedia": {
-        "name": "Encyclopedia"
+        "name": "Actions"
     },
     "uimk_game": {
         "name": "GAME"
@@ -13560,7 +13569,7 @@
         "name": "Inventory"
     },
     "uimk_window3": {
-        "name": "Actions"
+        "name": "Levels"
     },
     "uimk_window4": {
         "name": "Missions"
@@ -13621,6 +13630,9 @@
     },
     "uimmacros": {
         "name": "MACROS"
+    },
+    "uimmacrounassign": {
+        "name": ""
     },
     "uimmadel": {
         "name": "Delete sentence"
@@ -17794,6 +17806,9 @@
     },
     "uitoggledodgeparry": {
         "name": "Dodge \/ Parry"
+    },
+    "uitogglefreelook": {
+        "name": "Toggle Free Look"
     },
     "uitoggleinventory": {
         "name": "Toggle Inventory"

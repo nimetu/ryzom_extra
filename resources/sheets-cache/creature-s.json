@@ -974,5 +974,21 @@
         "givable": 0,
         "mountable": 0,
         "display_in_radar": 0
+    },
+    "sagass_mount_00": {
+        "sheetid": "sagass_mount_00",
+        "gender": 0,
+        "race": "142",
+        "fame": "none",
+        "speed": 10,
+        "region_force": 6,
+        "force_level": 1,
+        "level": 183,
+        "selectable": 1,
+        "talkable": 0,
+        "attackable": 0,
+        "givable": 0,
+        "mountable": 1,
+        "display_in_radar": 1
     }
 }

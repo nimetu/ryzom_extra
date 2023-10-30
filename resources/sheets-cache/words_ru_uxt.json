@@ -5915,6 +5915,9 @@
     "uiautomaticcamera": {
         "name": "Автоматизировать камеру"
     },
+    "uiautomaticlight": {
+        "name": "Включите свет при инциализации"
+    },
     "uiawrsf": {
         "name": "Оружие и ближний бой"
     },
@@ -11153,6 +11156,9 @@
     "uiinterfacescale": {
         "name": "Interface scale"
     },
+    "uiinterfacescaleauto": {
+        "name": ""
+    },
     "uiinterrupt": {
         "name": "Действие прервано!"
     },
@@ -11414,6 +11420,9 @@
     "uiitgateofobscurity": {
         "name": "gate"
     },
+    "uiitgift": {
+        "name": "Подарок"
+    },
     "uiitgroveofconfusion": {
         "name": "grove"
     },
@@ -11505,7 +11514,7 @@
         "name": "upper"
     },
     "uiitvoid": {
-        "name": "void"
+        "name": "Великая пустота"
     },
     "uiitwindermeer": {
         "name": "windermeer"
@@ -11985,7 +11994,7 @@
         "name": "RWIN"
     },
     "uikeys": {
-        "name": "S"
+        "name": "Ключи"
     },
     "uikeysactionstitle": {
         "name": "ДЕЙСТВИЯ"
@@ -13386,7 +13395,7 @@
         "name": "ПОГОВОРИТЬ С"
     },
     "uimk_actions": {
-        "name": "ДЕЙСТВИЯ"
+        "name": "Уровни"
     },
     "uimk_attack": {
         "name": "ПЕРЕКЛЮЧАТЕЛЬ НАПАДЕНИЕ\/ОТСТУПЛЕНИЕ"
@@ -13410,7 +13419,7 @@
         "name": "ЭМОЦИИ"
     },
     "uimk_encyclopedia": {
-        "name": "Энциклопедия"
+        "name": "Действия"
     },
     "uimk_game": {
         "name": "ИГРА"
@@ -13560,7 +13569,7 @@
         "name": "Инвентарь"
     },
     "uimk_window3": {
-        "name": "Действия"
+        "name": "Уровни"
     },
     "uimk_window4": {
         "name": "Задания"
@@ -13621,6 +13630,9 @@
     },
     "uimmacros": {
         "name": "МАКРО"
+    },
+    "uimmacrounassign": {
+        "name": ""
     },
     "uimmadel": {
         "name": "УДАЛИТЬ ПРЕДЛОЖЕНИЕ"
@@ -17794,6 +17806,9 @@
     },
     "uitoggledodgeparry": {
         "name": "Уклонение \/ Парирование"
+    },
+    "uitogglefreelook": {
+        "name": ""
     },
     "uitoggleinventory": {
         "name": "Переключатель инвентаря"

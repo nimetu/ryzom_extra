@@ -3047,6 +3047,14 @@
         "twogen": "Кинжала Файлер Порабощенных Гуу",
         "onegen": "Кинжал Файлер Порабощенных Гуу"
     },
+    "gift": {
+        "name": "Подарок",
+        "p": "Подарок",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
     "goo_covered_seeds": {
         "name": "Семена, покрытые гуу",
         "p": "Семена, покрытые гуу",
@@ -3216,20 +3224,20 @@
         "onegen": "Тяжелый сверток"
     },
     "iaad": {
-        "name": "Gubani Zig",
-        "p": "Gubani Zig",
+        "name": "Zig",
+        "p": "Zig",
         "description": "",
-        "somgen": "",
-        "twogen": "",
-        "onegen": ""
+        "somgen": "Zig",
+        "twogen": "Zig",
+        "onegen": "Zig"
     },
     "iaad2": {
-        "name": "Frippo Zig",
-        "p": "Frippo Zig",
+        "name": "Zig",
+        "p": "Zig",
         "description": "",
-        "somgen": "",
-        "twogen": "",
-        "onegen": ""
+        "somgen": "Zig",
+        "twogen": "Zig",
+        "onegen": "Zig"
     },
     "iadc": {
         "name": "Вьючный мектуб",
@@ -51207,6 +51215,14 @@
         "twogen": "",
         "onegen": "Кусок истребителя Зораи"
     },
+    "slot_fingerr": {
+        "name": "",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
     "slot_neck": {
         "name": "Поместить украшение в слот ожерелья.",
         "p": "Поместить украшение в слот ожерелья.",
@@ -51622,6 +51638,14 @@
         "somgen": "Хорошего базового сырья",
         "twogen": "Хорошего базового сырья",
         "onegen": "Хорошее базовое сырье"
+    },
+    "system_mp_loot": {
+        "name": "Стандартное сырье",
+        "p": "Стандартного сырья",
+        "description": "",
+        "somgen": "Стандартного сырья",
+        "twogen": "Стандартного сырья",
+        "onegen": "Стандартное сырье"
     },
     "system_mp_supreme": {
         "name": "Превосходное базовое сырье",
@@ -52584,12 +52608,12 @@
         "onegen": "Соглашение с Ками о перемещении в Фессос"
     },
     "tp_kami_thevoid": {
-        "name": "Соглашение с Ками о перемещении в Бездну",
-        "p": "Соглашения с Ками о перемещении в Бездну",
+        "name": "Соглашение с Ками о перемещении в Великую Пустоту",
+        "p": "Соглашения с Ками о перемещении в Великую Пустоту",
         "description": "",
-        "somgen": "Соглашений с Ками о перемещении в Бездну",
-        "twogen": "Соглашения с Ками о перемещении в Бездну",
-        "onegen": "Соглашение с Ками о перемещении в Бездну"
+        "somgen": "Соглашений с Ками о перемещении в Великую Пустоту",
+        "twogen": "Соглашения с Ками о перемещении в Великую Пустоту",
+        "onegen": "Соглашение с Ками о перемещении в Великую Пустоту"
     },
     "tp_kami_upperbog": {
         "name": "Соглашение с Ками о перемещении в Верхнюю Топь",
@@ -53080,12 +53104,12 @@
         "onegen": "Соглашение с Караваном о перемещении в Фессос"
     },
     "tp_karavan_thevoid": {
-        "name": "Соглашение с Караваном о перемещении в Бездну",
-        "p": "Соглашения с Караваном о перемещении в Бездну",
+        "name": "Соглашение с Караваном о перемещении в Великую Пустоту.",
+        "p": "Соглашение с Караваном о перемещении в Великую Пустоту.",
         "description": "",
-        "somgen": "Соглашений с Караваном о перемещении в Бездну",
-        "twogen": "Соглашения с Караваном о перемещении в Бездну",
-        "onegen": "Соглашение с Караваном о перемещении в Бездну"
+        "somgen": "Соглашение с Караваном о перемещении в Великую Пустоту.",
+        "twogen": "Соглашение с Караваном о перемещении в Великую Пустоту.",
+        "onegen": "Соглашение с Караваном о перемещении в Великую Пустоту."
     },
     "tp_karavan_upperbog": {
         "name": "Соглашение с Караваном о перемещении в Верхнюю Топь",
@@ -54695,6 +54719,62 @@
         "twogen": "Пики Стилла Вайлера",
         "onegen": "Пику Стилла Вайлера"
     },
+    "ulo_1": {
+        "name": "Архолет",
+        "p": "Архолет",
+        "description": "",
+        "somgen": "",
+        "twogen": "АрхолетАрхолет",
+        "onegen": "Архолет"
+    },
+    "ulo_2": {
+        "name": "Архолет",
+        "p": "Архолет",
+        "description": "",
+        "somgen": "Архолет",
+        "twogen": "Архолет",
+        "onegen": "Архолет"
+    },
+    "ulo_3": {
+        "name": "Архолет",
+        "p": "Архолет",
+        "description": "",
+        "somgen": "Архолет",
+        "twogen": "Архолет",
+        "onegen": "Архолет"
+    },
+    "ulo_4": {
+        "name": "Архолет",
+        "p": "Архолет",
+        "description": "",
+        "somgen": "Архолет",
+        "twogen": "Архолет",
+        "onegen": "Архолет"
+    },
+    "ulo_5": {
+        "name": "Архолет",
+        "p": "Архолет",
+        "description": "",
+        "somgen": "Архолет",
+        "twogen": "Архолет",
+        "onegen": "Архолет"
+    },
+    "ulo_6": {
+        "name": "Архолет",
+        "p": "Архолет",
+        "description": "",
+        "somgen": "Архолет",
+        "twogen": "Архолет",
+        "onegen": "Архолет"
+    },
+    "ulo_7": {
+        "name": "Архолет",
+        "p": "Архолет",
+        "description": "",
+        "somgen": "Архолет",
+        "twogen": "Архолет",
+        "onegen": "Архолет"
+    },
     "unstable_goo_vial": {
         "name": "Неустойчивое снадобье",
         "p": "Неустойчивые снадобья",
@@ -54710,6 +54790,14 @@
         "somgen": "Стимулирующей воды",
         "twogen": "Стимулирующей воды",
         "onegen": "Стимулирующую вода"
+    },
+    "water_trek_barrel": {
+        "name": "Бочка с озерной водой",
+        "p": "Бочки с озерной водой",
+        "description": "",
+        "somgen": "Бочек с озерной водой",
+        "twogen": "Бочки с озерной водой",
+        "onegen": "Бочка с озерной водой"
     },
     "web_transaction": {
         "name": "Операция",
@@ -55072,44 +55160,44 @@
         "onegen": "Полосатый малый щит"
     },
     "zig_bolobi": {
-        "name": "",
-        "p": "",
+        "name": "Zig",
+        "p": "Zig",
         "description": "",
-        "somgen": "",
-        "twogen": "",
-        "onegen": ""
+        "somgen": "Zig",
+        "twogen": "Zig",
+        "onegen": "Zig"
     },
     "zig_capryni": {
-        "name": "",
-        "p": "",
+        "name": "Zig",
+        "p": "Zig",
         "description": "",
-        "somgen": "",
-        "twogen": "",
-        "onegen": ""
+        "somgen": "Zig",
+        "twogen": "Zig",
+        "onegen": "Zig"
     },
     "zig_yubo_forest": {
-        "name": "Zig Yubo",
-        "p": "Zig Yubo",
+        "name": "Zig",
+        "p": "Zig",
         "description": "",
-        "somgen": "Zig Yubo",
-        "twogen": "Zig Yubo",
-        "onegen": "Zig Yubo"
+        "somgen": "Zig",
+        "twogen": "Zig",
+        "onegen": "Zig"
     },
     "zig_yubo_lakes": {
-        "name": "Zig Yubo",
-        "p": "Zig Yubo",
+        "name": "Zig",
+        "p": "Zig",
         "description": "",
-        "somgen": "Zig Yubo",
-        "twogen": "Zig Yubo",
-        "onegen": "Zig Yubo"
+        "somgen": "Zig",
+        "twogen": "Zig",
+        "onegen": "Zig"
     },
     "zig_yubo_white": {
-        "name": "Zig Yubo",
-        "p": "Zig Yubo",
+        "name": "Zig",
+        "p": "Zig",
         "description": "",
-        "somgen": "Zig Yubo",
-        "twogen": "Zig Yubo",
-        "onegen": "Zig Yubo"
+        "somgen": "Zig",
+        "twogen": "Zig",
+        "onegen": "Zig"
     },
     "zm50_ecailles": {
         "name": "Чешуя энергичного бавааба",

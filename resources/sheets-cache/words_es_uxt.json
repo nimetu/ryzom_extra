@@ -15,7 +15,7 @@
         "name": " (Ciudadano de Yrkanis)"
     },
     "advanced_close_fighter": {
-        "name": "Luchador Avanzado de Cerca"
+        "name": "Luchador Avanzado"
     },
     "advanced_desert_forager": {
         "name": "Recolector Avanzado del Desierto"
@@ -24,7 +24,7 @@
         "name": "Recolector Avanzado del Bosque"
     },
     "advanced_gunman": {
-        "name": "Portador Avanzado de Armas"
+        "name": "Pistolero Avanzado"
     },
     "advanced_heavy_armorer": {
         "name": "Artesano Avanzado de Armaduras Pesadas"
@@ -36,7 +36,7 @@
         "name": "Joyero Avanzado"
     },
     "advanced_jungle_forager": {
-        "name": "Recolector Avanzado de la Jungla"
+        "name": "Recolector Avanzado de la Selva"
     },
     "advanced_lacustre_forager": {
         "name": "Recolector Avanzado de los Lagos"
@@ -231,10 +231,10 @@
         "name": "Luchador de Cerca"
     },
     "cmdcreategrouperror": {
-        "name": "Ya existe un grupo llamado% name, no puedes crear un segundo grupo con el mismo nombre."
+        "name": "Ya existe un grupo llamado %name, no puedes crear un segundo grupo con el mismo nombre."
     },
     "cmdcreategroupsuccess1": {
-        "name": "Grupo %nombre ha sido creado con éxito."
+        "name": "Grupo %name ha sido creado con éxito."
     },
     "cmdcreategroupsuccess2": {
         "name": "Grupo %name ha sido creado con éxito, incluyendo la eliminación de todos los elementos no equipados."
@@ -249,22 +249,22 @@
         "name": "\/createGroup group_name true : crear un grupo llamado group_name con todos los elementos equipados, y crear un comando de eliminación para cada espacio vacío."
     },
     "cmddeletegrouperror": {
-        "name": "No se puede eliminar el grupo %nombre : No se ha encontrado ningún grupo con este nombre."
+        "name": "No se puede eliminar el grupo %name : No se ha encontrado ningún grupo con este nombre."
     },
     "cmddeletegroupsuccess": {
-        "name": "Grupo %nombre borrado con éxito."
+        "name": "Grupo %name borrado con éxito."
     },
     "cmddeletegroupusage1": {
-        "name": "deleteGroup uso del comando :"
+        "name": "deleteGroup uso del comando:"
     },
     "cmddeletegroupusage2": {
         "name": "\/deleteGroup group_name : eliminar el grupo llamado group_name si existe."
     },
     "cmdequipgrouperror": {
-        "name": "No se puede equipar el grupo %nombre porque no se encontró ningún grupo con este nombre."
+        "name": "No se puede equipar el grupo %name porque no se encontró ningún grupo con este nombre."
     },
     "cmdequipgroupsuccess": {
-        "name": "Grupo %nombre equipado con éxito."
+        "name": "Grupo %name equipado con éxito."
     },
     "cmdequipgroupusage1": {
         "name": "equipGroup uso del comando :"
@@ -276,13 +276,13 @@
         "name": "Grupo de artículos disponibles :"
     },
     "cmdlistgroupline": {
-        "name": "* %nombre, con %tamaño objetos contenidos."
+        "name": "* %name, con %size objetos contenidos."
     },
     "cmdmovegrouperror": {
         "name": "No se pudo mover el grupo %name a %inventory porque no se encontró ningún grupo con ese nombre y\/o no era un inventario válido."
     },
     "cmdmovegroupsuccess": {
-        "name": "Grupo %nombre movido con éxito a %inventario."
+        "name": "Grupo %name movido con éxito a tu saco."
     },
     "cmdmovegroupusage1": {
         "name": "moveGroup uso del comando :"
@@ -351,10 +351,10 @@
         "name": "Veneno"
     },
     "dtrot": {
-        "name": "Podredumbre"
+        "name": "Pudrición"
     },
     "dtshock": {
-        "name": "Choque"
+        "name": "Onda de Choque"
     },
     "dtslashing": {
         "name": "Cortante"
@@ -378,7 +378,7 @@
         "name": "Goo"
     },
     "ecosysjungle": {
-        "name": "Jungla"
+        "name": "Selva"
     },
     "ecosyslacustre": {
         "name": "Lagos"
@@ -393,7 +393,7 @@
         "name": "Elementalista"
     },
     "elementalist_apprentice": {
-        "name": "Aprendiz Elementalista"
+        "name": "Elementalista Aprendiz"
     },
     "enchanter": {
         "name": "Encantador"
@@ -402,49 +402,49 @@
         "name": "Error al crear la frase"
     },
     "expert_desert_forager": {
-        "name": "Experto Recolector del Desierto"
+        "name": "Recolector Experto del Desierto"
     },
     "expert_forest_forager": {
-        "name": "Experto Recolector del Bosque"
+        "name": "Recolector Experto del Bosque"
     },
     "expert_heavy_armorer": {
-        "name": "Experto Artesano de Armaduras Pesadas"
+        "name": "Artesano Experto de Armaduras Pesadas"
     },
     "expert_jeweler": {
         "name": "Joyero Experto"
     },
     "expert_jungle_forager": {
-        "name": "Experto Recolector de la Jungla"
+        "name": "Recolector Experto de la Selva"
     },
     "expert_lacustre_forager": {
-        "name": "Experto Recolector de los Lagos"
+        "name": "Recolector Experto de los Lagos"
     },
     "expert_light_armorer": {
-        "name": "Experto Artesano de Armaduras Ligeras"
+        "name": "Artesano Experto de Armaduras Ligeras"
     },
     "expert_medium_armorer": {
-        "name": "Experto Artesano de Armaduras Medianas"
+        "name": "Artesano Experto de Armaduras Medianas"
     },
     "expert_melee_heavy_weapon_smith": {
-        "name": "Experto Artesano de Armas Pesadas"
+        "name": "Artesano Experto de Armas Pesadas"
     },
     "expert_melee_light_weapon_smith": {
-        "name": "Experto Artesano de Armas Ligeras"
+        "name": "Artesano Experto de Armas Ligeras"
     },
     "expert_melee_weapon_smith": {
-        "name": "Experto Artesano de Armas"
+        "name": "Artesano Experto de Armas"
     },
     "expert_prime_roots_forager": {
-        "name": "Experto Recolector de las Raíces Primarias"
+        "name": "Recolector Experto de las Raíces Primarias"
     },
     "expert_range_heavy_weapon_smith": {
-        "name": "Experto Artesano de Armas Pesadas de Largo Alcance"
+        "name": "Artesano Experto de Armas Pesadas de Largo Alcance"
     },
     "expert_range_weapon_smith": {
-        "name": "Experto Artesano de Armas de Largo Alcance"
+        "name": "Artesano Experto de Armas de Largo Alcance"
     },
     "expert_shield_smith": {
-        "name": "Experto Artesano de Escudos"
+        "name": "Artesano Experto de Escudos"
     },
     "extremelydifficult": {
         "name": "Extremadamente difícil"
@@ -540,7 +540,7 @@
         "name": " (Jefe de la Aldea de Davae)"
     },
     "fct_f_chief": {
-        "name": " (Lídel del Gremio de Artesanos)"
+        "name": " (Líder del Gremio de Artesanos)"
     },
     "fct_f_guild_trainer": {
         "name": " (Entrenador de Combate del Gremio)"
@@ -675,7 +675,7 @@
         "name": " (Mercader de Joyas)"
     },
     "fct_journeyman": {
-        "name": "Viajante"
+        "name": "Viajero"
     },
     "fct_k_pactgiver": {
         "name": " (Dador del pacto Kami)"
@@ -750,10 +750,10 @@
         "name": " (Intendente de Natae)"
     },
     "fct_ma_rolemaster": {
-        "name": " (Maestro del rol del Gremio de los Lanzadores de Ataque)"
+        "name": " (Maestro del rol del Gremio de Magos de Ataque)"
     },
     "fct_ma_welcomer": {
-        "name": " (Anfitrión del Gremio de Lanzadores de Ataque)"
+        "name": " (Anfitrión del Gremio de Magos de Ataque)"
     },
     "fct_marmor_merchant": {
         "name": " (Mercader de armaduras medianas)"
@@ -762,7 +762,7 @@
         "name": " (Alcalde)"
     },
     "fct_mb_chief": {
-        "name": " (Líder del Gremio del Lanzadores de Defensa)"
+        "name": " (Líder del Gremio de Magos de Defensa)"
     },
     "fct_mb_guard": {
         "name": " (Guardia de Davae)"
@@ -774,10 +774,10 @@
         "name": " (Intendente de Davae)"
     },
     "fct_mb_rolemaster": {
-        "name": " (Maestro del rol del Gremio de los Lanzadores de Defensa)"
+        "name": " (Maestro del rol del Gremio de Magos de Defensa)"
     },
     "fct_mb_welcomer": {
-        "name": " (Anfitrión del Gremio de Lanzadores de Defensa)"
+        "name": " (Anfitrión del Gremio de Magos de Defensa)"
     },
     "fct_mc_guard": {
         "name": " (Guardia de Avalae)"
@@ -1029,7 +1029,7 @@
         "name": " (Líder del Gremio de  Luchadores de Alcance)"
     },
     "fct_rf_rolemaster": {
-        "name": " (Maestro del rol del Gremio de los Luchadores a Distancia )"
+        "name": " (Maestro del rol del Gremio de Luchadores a Distancia )"
     },
     "fct_rf_welcomer": {
         "name": " (Anfitrión del de Gremio de Luchadores de Alcance)"
@@ -1038,7 +1038,7 @@
         "name": " (Mercader de materias primas)"
     },
     "fct_sage": {
-        "name": " (Savio)"
+        "name": " (Sabio)"
     },
     "fct_scout": {
         "name": "Explorador"
@@ -1179,13 +1179,13 @@
         "name": "Maestro del Fuego"
     },
     "flowermaster": {
-        "name": "Maestro de las Flores"
+        "name": "Maestro Florista"
     },
     "forager": {
         "name": "Recolector"
     },
     "forager_apprentice": {
-        "name": "Aprendiz de Recolector"
+        "name": "Recolector Aprendiz"
     },
     "forest_forager": {
         "name": "Recolector del Bosque"
@@ -1194,25 +1194,25 @@
         "name": "Pestilente"
     },
     "fyros_armorer_apprentice": {
-        "name": "Aprendiz de Artesano de Armaduras Fyros"
+        "name": "Artesano Aprendiz de Armaduras Fyros"
     },
     "fyros_artisan_apprentice": {
-        "name": "Aprendiz de Artesano Fyros"
+        "name": "Artesano Aprendiz Fyros"
     },
     "fyros_gun_smith_apprentice": {
-        "name": "Aprendiz de Artesano de Armas de Fuego Fyros"
+        "name": "Artesano Aprendiz de Armas de Fuego Fyros"
     },
     "fyros_jeweler_apprentice": {
-        "name": "Aprendiz de Joyero Fyros"
+        "name": "Joyero Aprendiz Fyros"
     },
     "fyros_munitioner_apprentice": {
-        "name": "Aprendiz de Artesano de Municiones Fyros"
+        "name": "Artesano Aprendiz de Municiones Fyros"
     },
     "fyros_shield_smith_apprentice": {
-        "name": "Aprendiz de Artesano de Escudos Fyros"
+        "name": "Artesano Aprendiz de Escudos Fyros"
     },
     "fyros_weapon_smith_apprentice": {
-        "name": "Aprendiz de Artesano de Armas Fyros"
+        "name": "Artesano Aprendiz de Armas Fyros"
     },
     "g": {
         "name": "Guía"
@@ -1227,16 +1227,16 @@
         "name": "Aprendiz de Trazador"
     },
     "gn_bandit_bountybeaches_1": {
-        "name": "Fanaticos de la Sangre"
+        "name": "Fanáticos de la Sangre"
     },
     "gn_bandit_bountybeaches_2": {
-        "name": "Arrebatores de Recompensas"
+        "name": "Arrebatadores de Recompensas"
     },
     "gn_bandit_bountybeaches_3": {
-        "name": "Los Cinco Infames"
+        "name": "Cinco Infames"
     },
     "gn_bandit_citiesofintuition_1": {
-        "name": "Pájaros del Augurio"
+        "name": "Aves del Augurio"
     },
     "gn_bandit_citiesofintuition_2": {
         "name": "Kovans de Zora"
@@ -1272,13 +1272,13 @@
         "name": "Ojos Muertos"
     },
     "gn_bandit_fleetinggarden_3": {
-        "name": "Observadores Altos"
+        "name": "Vigilantes de las Alturas"
     },
     "gn_bandit_fleetinggarden_4": {
         "name": "Señores de Fugaz"
     },
     "gn_bandit_fleetinggarden_5": {
-        "name": "Adictos a las Semillas"
+        "name": "Adictos a la Semilla"
     },
     "gn_bandit_forbidden_depths_1": {
         "name": "Empaladores de Eva"
@@ -1302,7 +1302,7 @@
         "name": "Espadas de la Furia"
     },
     "gn_bandit_frahartowers_4": {
-        "name": "Frahar Fogosos"
+        "name": "Chaquetas Frahar"
     },
     "gn_bandit_gate_of_obscurity_1": {
         "name": "Rompe Corazones"
@@ -1317,7 +1317,7 @@
         "name": "Haraganes Escarlata"
     },
     "gn_bandit_groveofconfusion_1": {
-        "name": "Doncellas Enloquecidas"
+        "name": "Doncellas Dementes"
     },
     "gn_bandit_groveofconfusion_2": {
         "name": "Tiranos de la Arboleda"
@@ -1332,13 +1332,13 @@
         "name": "Destructores de Bazos"
     },
     "gn_bandit_groveofumbra_3": {
-        "name": "Corderos Negros"
+        "name": "Apaleadores Negros"
     },
     "gn_bandit_groveofumbra_4": {
-        "name": "Hacedores Atrevidos\/Desafiantes"
+        "name": "Desafiantes Osados"
     },
     "gn_bandit_havenofpurity_1": {
-        "name": "Skelter Punks"
+        "name": "Rufianes Agitados"
     },
     "gn_bandit_havenofpurity_2": {
         "name": "Sabuesos Homin"
@@ -1359,10 +1359,10 @@
         "name": "Arruinadores"
     },
     "gn_bandit_hiddensource_2": {
-        "name": "Criadores del Infierno"
+        "name": "Criados del Infierno"
     },
     "gn_bandit_hiddensource_3": {
-        "name": "Maldiciones de Jena"
+        "name": "Malditos por Jena"
     },
     "gn_bandit_imperialdunes_1": {
         "name": "Ojo del Dragón"
@@ -1380,7 +1380,7 @@
         "name": "Saqueadores de la Frontera"
     },
     "gn_bandit_knollofdissent_2": {
-        "name": "Lanzadores del Desacuerdo"
+        "name": "Magos de Discordias"
     },
     "gn_bandit_knollofdissent_3": {
         "name": "Jinetes de los Acantilados"
@@ -1416,7 +1416,7 @@
         "name": "Colegas de la Cienaga"
     },
     "gn_bandit_lagoonsofloria_5": {
-        "name": "Damas Mordaces\/Críticas"
+        "name": "Damas Malditas"
     },
     "gn_bandit_lagoonsofloria_6": {
         "name": "Siete Espadas del Pecado"
@@ -1425,7 +1425,7 @@
         "name": "Piratas de Libertad"
     },
     "gn_bandit_libertylake_2": {
-        "name": "Despellejadores de Cristabell"
+        "name": "Desolladores de Cristabell"
     },
     "gn_bandit_libertylake_3": {
         "name": "Amigos de Furia"
@@ -1458,13 +1458,13 @@
         "name": "Rebeldes del Este"
     },
     "gn_bandit_nexus_2": {
-        "name": "Vijilantes de las Alturas"
+        "name": "Vigilantes de las Alturas"
     },
     "gn_bandit_nexus_3": {
         "name": "Estranguladores de Nexus"
     },
     "gn_bandit_nexus_4": {
-        "name": "Lanzadores del Nudo"
+        "name": "Brujos del Nudo"
     },
     "gn_bandit_oflovaksoasis_1": {
         "name": "Aliento del Dragón"
@@ -1473,7 +1473,7 @@
         "name": "Jinetes de la Sombra"
     },
     "gn_bandit_oflovaksoasis_3": {
-        "name": "Angeles del Fuego del Dragón"
+        "name": "Ángeles del Fuego del Dragón"
     },
     "gn_bandit_oflovaksoasis_4": {
         "name": "Aficionados Irascibles"
@@ -1509,7 +1509,7 @@
         "name": "Marauders"
     },
     "gn_bandit_the_elusive_forest_1": {
-        "name": "Fien de Lino"
+        "name": "Demonios de Lino"
     },
     "gn_bandit_the_elusive_forest_2": {
         "name": "Bravos Marrones"
@@ -1518,10 +1518,10 @@
         "name": "Luto Verde"
     },
     "gn_bandit_the_land_of_continuty_1": {
-        "name": "Zoners de la Sombra"
+        "name": "Zonales de Sombra"
     },
     "gn_bandit_the_land_of_continuty_2": {
-        "name": "Príncipes de las Primeras Raíces"
+        "name": "Príncipes de Raíces Primarias"
     },
     "gn_bandit_the_land_of_continuty_3": {
         "name": "Cascarrabias de las Cavernas"
@@ -1530,7 +1530,7 @@
         "name": "Colegas del Dragón"
     },
     "gn_bandit_the_land_of_continuty_5": {
-        "name": "Zanjadores Instransijentes"
+        "name": "Excavadores Devotos"
     },
     "gn_bandit_the_sunken_city_1": {
         "name": "Hermanas de Alma"
@@ -1542,13 +1542,13 @@
         "name": "Jaks Excelentes"
     },
     "gn_bandit_the_sunken_city_4": {
-        "name": "Gotas de Goo Cariñosas"
+        "name": "Amantes del Goo"
     },
     "gn_bandit_the_trench_of_trials_1": {
         "name": "Artificieros"
     },
     "gn_bandit_the_trench_of_trials_2": {
-        "name": "Paganos de las Tierras Altas"
+        "name": "Paganos de Tierras Altas"
     },
     "gn_bandit_the_trench_of_trials_3": {
         "name": "Bandidos de Montañagrande"
@@ -1605,7 +1605,7 @@
         "name": "Sabuesos del Túnel"
     },
     "gn_bandit_thescorchedcorridor_3": {
-        "name": "Errantes\/Perdidos del Callejón"
+        "name": "Errantes del Callejón"
     },
     "gn_bandit_thevoid_1": {
         "name": "Rebeldes Bajomadera"
@@ -1638,7 +1638,7 @@
         "name": "Malvados Vientos del Oeste"
     },
     "gn_class_apprentice_trader": {
-        "name": "Aprendiz de Comerciante"
+        "name": "Comerciante Aprendiz"
     },
     "gn_class_arcane_apprentice": {
         "name": "Mago de Élite Senior"
@@ -2091,13 +2091,13 @@
         "name": "Joyero"
     },
     "jeweler_apprentice": {
-        "name": "Aprendiz de Joyero"
+        "name": "Joyero Aprendiz"
     },
     "jeweler_master": {
         "name": "Maestro Joyero"
     },
     "jungle_forager": {
-        "name": "Recolector de la Jungla"
+        "name": "Recolector de la Selva"
     },
     "kamicfist": {
         "name": "Puño Kámico"
@@ -2286,7 +2286,7 @@
         "name": "Maestro Artesano de Armas Ligeras"
     },
     "melee_warrior": {
-        "name": "Luchador Cuerpo a Cuerpo"
+        "name": "Guerrero Cuerpo a Cuerpo"
     },
     "melee_warrior_apprentice": {
         "name": "Aprendiz de Luchador Cuerpo a Cuerpo"
@@ -2382,7 +2382,7 @@
         "name": "Cuero de Ragus"
     },
     "mpfam109": {
-        "name": "Savia de Redhot"
+        "name": "Savia Rojaviva"
     },
     "mpfam11": {
         "name": "Madera de Avinash"
@@ -5826,7 +5826,7 @@
         "name": "LA CIVILIZACIÓN DE LOS FYROS\n\nVerdad, honor y discíplina son los valores apreciados por todo verdadero nacido Fyros! Somos los campiones del desierto quiénes nos regimos por un estricto código de honor. Somos los guerreros del conocimiento que prometimos nunca echar pie atrás en nuestra búsqueda de la verdad detrás del Dragón del Mito. Ni las Leyes de Jena ni las prohibiciones de los Karavan nos detendrán de ahondar abajo en las entreñs de Atys donde hemos descubierto tantas reliquias misterioras como males\nSomos los protectores de las regiones más fertiles. Porque somos los únicos suficientemente valientes para reconstruir nuestros pueblos en el desierto abrasador donde el Dragón es más probable que vuelva a aparecer.\n\nDe estas dunas hostiles vamos a dar forma a nuestro nuevo Imperio, hacerlo fuerte, y construir nuestra alianza con los Kami cuya magia están orgullos de ejercer. También aspiramos a desarrollar más nuestros conocimientos de la fabricación de herramientas y armas fundidas y endurecidas al fuego para ayudarnos en nuestra conquista de la verdad.\n\nSi estás entusiasmado y eres justo, ven y únete a nuestras filas, homin. Un Imperio te necesita!!\n\nAhora, si tienes algunas preguntas...\n\n\nQuién soy yo?\nEres un joven refugiado homin. Has tomado con valentía el largo y peligroso viaje desde las tierras antiguas hasta estas nuevas tierras donde hemos empezado a construir nuestro nuevo Imperio. Una vez que hayas acumulado suficiente entrenamiento, serás capaz de poner tus habilidades y destrezas en buen uso para nuestro Emperador y ayudarnos a reconstruir nuestra civilización.\n\nQuiénes son mis ancestros?\nPor la espada y el fuego, tus ancestros forjaron el más poderoso imperio en la historia. Honra su memoria mientras vivas! Pero el fruto de su trabajo fue destruido por las grandes invasiones de los Kitins. Tus padres, y sus padres, fueron suerteros de escapar de la masacre. Por muchos años sobrevivieron en las selvas de Atys donde fuiste criado. Mostraron mucho valor para instarte a ti a tomar el largo camino para unirte a tu propio pueblo aquí en estas tierras nuevas. Ahora nos has encontrado y tienes que vivir por su valor. Ha tomado cuarenta años de sangre y sudor para construir las bases de nuestro nuevo Imperio, tu generación ahora debe construirla.\n\nQuién es nuestro jefe?\nDexton es nuestro Emperador legítimo, le debes tu lealtad. Su órdenes solo pueden ser debatidas en esferas superiores. Hasta que hayas ganado suficiente rango te opondrás a ellos, nunca lo ovlides, joven homin! Llevarás a cabo nuestras órdenes imperiales con éxito o morirás intentándolos, a menos que voluntariamente empañes el nombre de tus ancestros. Dexton ha escogido el mejor consejo para él, Abycus Zekops y Kyla Dyntheus son sus senadores.\n\nEn qué creemos?\nCreemos en la energía de Atys, la energía que llena cada ser con vida y consciencia. De acuerdo con los Zoraïs, los Kamis son una  manifestación de esa gran energía que creó al mundo que ellos llaman Ma-Duk. Aunque nos rehusamos a la adhesión ciega a sus enseñanzas, en estos últimos años nos hemos acercado más a los Kamis para escapar de las sanciones de los Karavan para la explotación. A los Kamis les debemos, si no es nuestra fe, nuestra lealtada.\n\nCuáles son nuestros valores?\nTu vida debe ser construída en base a los cuatro pilares que sustentan nuestro Imperio:\nLa Verdad es el primer pilar.\nLas mentiras cobardes no van engañarán los tira y afloja de la batalla! No digas nada pero la verdad a tus camaradas, así como también deben darte respuestas directas a tus preguntas. No vaciles, sin embargo, en utilizar el arte de la astucia o sagacidad en el rostro del enemigo. La estratagema sabiamente utilizada es un arma poderosa como una lanza afilida sostenida firmemente en la mano!\nEl honor es el segundo pilar.\nDéjate guiar por el honor si importar qué. Nunca te inclines en el espejo de los sentimientos, no importa cuan alto sea la ganancia potencial. Y recuerda, una muerte honorable es mejor que una existencia cobarde.\nDiscíplina es el tercer pilar.\nEl Imperio de los Fyros existe gracias a la cadena de obediencia que nos vincula con el Emperador, desde el novato más joven hasta el general más cerebral. Cada uno de nosotros debe mostrar obediencia a un mando superior. Sólo un insubordinado Fyros es suficiente para romper el vínculo y así amenazar todo el Imperio.\nLa Justicia es el cuarto pilar.\nEl Emperador es nuestro jefe absolut, aunque él obecede escrupulosamente las leyes decretadas por nuestros ancestros. Desde el más poderoso hasta el más humilde, nosotros respetamos nuestras leyes sin compromiso. En verdad, entonces, no es el Jefe Imperial sino la Ley Imperial la que dicta nuestra conducta.\n\nCuáles son nuestras prohibiciones?\n- Nunce te sientas tentado a hacer favores para los Karavan. Ellos están en contra de los Kamis y en contra de nuestro sentido de justicia. En realidad, ellos colocan la Ley de jena por encima de la justicia social.\n- Nunca lleves a cabo una misión para los Karavan.\n- Nunca lleves a cabo una misión para las tribus enemigas.\n- Nunca violes el código de honor.\n\nCuáles son nuestras metas?\nNuestro imperio sufrió grandemente desde el Gran Emjambre. Nuestro sentido de la discíplina nos ha permitido sobrevir mucho mejor que los Matis y que los Trykers, nuestra gran ciudad de Pyr es la prueba. Ahora debemosis:\n- desarrollar nuestras fortalezas y habilidades individuales\n- formar gremio poderosos y bien estructurados para construir una fuerza conductora\n- descubrir la verdad detrás del dragón\n- luchar contra los Karavan para imponer un nuevo orden en todos los Kami\n- acumular el conocimiento que fue esparcido por toda la tierra durante el Gran Enjambre para abrir las puertas a los secretos del pasado.\n- consolidar y conquistar más territorio.\n\nQuiénes son nuestros amigos?\nDesde el Tratado de Paz firmado en Fairhaven, hemos estado en paz con los otros pueblos homin. No obstante, el pasado nos ha dejado con muchas cicatrices así como el símbolo de una inestabilidad pasada, y nuestras revelaciones varían dependiendo de las civilizaciones.\nZoraï: A lo largo de los años los Zoraïs han probado su lealtad y amistad hacia nuestro pueblo de nuevo. Lo que es más, ambos tenemos a los Kamis en nuestros corazones y compartirmos una profunda aversión por los Karavan.\nTryker: Tiempo y de nuevo hemos tratado de tomar a los Tryker bajo nuestra ala protectora, pero ellos se han demostrado muy caóticos y muy frívolos y caprichosos para una amistad duradera. Actualmente, tenemos que ser cuidadosos con estos inconstantes y voluble pequeños homins, y más que nunca se han intensificado en consonancia con los Matis en su veneración de la diosa Karavan.\nMatis: Los Matis son nuestro enemigo inherente en el que no hay que confiar. No nos apegamos al sentido de justicia de los Matis que se centra alrededor de la Monarquía y la Ley de Jena. Incluso en estos tiemos de paz debemos permanecer vigilantes para que no se vulvan en contra de nosotros.\nLas tribus amigables incluyen: Los Golpeadores de Raíces, Los Recolectores de Kitins, Los Pyromancios, Los Observadores, Los Cazadores de Frahar, Los Rompedores de Agua, Los Primeros Desertores, La Tala y la Quema, Los Excavadores de Oasis, La Savia Sagrada.\n\nQuiénes son nuestros enemigos?\n- Los Karavan: Ellos están en contra de nosotros que estamos socavando por la verdad. No hay que confiar en ellos.\n- Los Kitins: Estos insectos gigantes masacaron a varios miles de Fyros y devastaron nuestro gran Imperio en las tierras antiguas.\n- El Dragón del mito: Por siglos hemos estado en busca de la verdad detrás del Dragón de la legenda. Son nuestras excavaciones en las entrañas de Atys donde se dice que el dragón duerme o permanece inactivo lo que trajo primero la retribución Karavan hacia nosotros. Vamos a continuar cavando hasta que la verdad sea descubierta.\n- Las tribus enemigas incluyen: Los Espigadores de la Sabia, Las Cucarachas, Los Chlorogoos, Los Ilegales, Los Quemadores, Los Renegados, Los Hermanos de la Laguna, Los Tutores, Las Dríadas.\n- Bandidos: Ten cuidado, las tierras están llenas de foragidos, ladores y asesinos.\n- Depredadores de animales: Hay mucho depredadores en el reino animal, estate atento ya que no son imparciales ante un poco de carne homin!\n\nCómo puedo ayudar a mi pueblo?\nNecesitamos artesanos, fabricantes, cosechadores, magos y guerreros para mantener y volver a nuestra civilización más fuerte.\n- Atys es un lugar traicionero, necesitamos guerreros para defender nuestro territorio y conquistar nuevas tierras para nuevos asentamientos.\n- Deseamos artesanos para producir objetos y armas para todos los días; y cosechadores para recolectar las materias primas para los alimentos y la fabricación.\n- Necesitamos magos para encantar objetos, proteger a los recolectores, y curar a los guerreros en combate y ayudarlos a combatir.\n\nQué puedo esperar de mi pueblo?\n- Entrenamiento de nuestros entrenadores expertos.\n- Nuestro pueblo está defendido por gremios que podrán venir en tu ayuda una vez que has unido a ellos.\n- Mientras más actues por el bien de nuestro pueblo mayor serán recompensados tus actos de valor.\n\nQué es nuestra nueva tierra?\nNuestro pueblo primero se estableció en estas tierras desiertas en 2483 en su resurgimiento de la tierra recién encontrada de las Primeras Raíces. El desierto es la región más dura de todas a pesar que esto siempre ha sido el reto igual a nuestro corage y a los valores de nuestro pueblo. Desde 2487 nuestra cantidad ha esta aumentando continuamente por refugiados en el camino de las antiguas tierras, el mismo camino que tu tan valientemente has tomado.\nQué puedo esperar de Atys, nuestro mundo?\nAtys es abundante de materias primas, joven homin, mientras respetes el medio ambiente cosecharás muchas recompensas de su seno. A medida que te vayas volviendo experto en los caminos del mundo aprenderás a domesticar al desierto y a conquistar nuevos terrenos."
     },
     "uiappear_infos_matis": {
-        "name": "LA CIVILIZACIÓN MATIS\n\nUn Matis debe poseer los más nobles reasgos de la hominidad. Un Matis debe ser leal, cortés, tenaz, y sobre todas las cosas, reverente. Al obedecer a nuestro rey, estamos glorificando a Jena, nuestra Diosa, quien otorgó a él con la luz divina. Nosotros creemos que así como cada partícula del universo de Jena tiene una función, cada homin debe esforzarse por ella o por su verdadero lugar en la sociedad.\n\nJena ayuda a aquellos que se ayudan a si mismos, un Matis nunca debe rendirse. Al esforzarse por el éxito estamos haciendo nuestra civilización fuerte como un conjunto. Sólo los mejores pueden alcanzar las más elevadas esferas de nuestra sociedad, solo la élite puede liderar a nuestro pueblo.\n\nAl manipular a la naturaleza estamos elevando nuestras almas más cerca de la devoción. En efecto, homin, no es por pura coincidencia que hemos llegado a ser Maestros Manipuladores Atysianos de la vida animal y vegetal. Nuestras armas, armaduras y incluso artículos del hogar familiar son objetos vivientes!\n\nHemos tomado raíces en las áreas boscosas de las tierras nuevas donde encontramos cada escencia viviente necesaria para la experimentación. Ahora necesitamos hacer nuestro reion más fuerte y mejor, en el nombre de Jena.\n\nSi la sangre noble corre por tus venas, ven a jurar lealtad a tu Rey! Nuestro reino necesita triunfadores!!\n\nVen ahora, homin, si tienes algunas preguntas...\n\n\nQuién soy yo?\nEres un joven refugiado homin. Has tomado el largo y peligroso viaje desde las tierras antiguas hasta estas nuevas tierras donde hemos establecido nuestro nuevo reino. Depsués de un período de entrenamiento, como un súbdito leal al rey serás capaz de poner tus habilidades en buen uso y ayudar a reconstruir nuestro Reino.\n\nQuiénes son mis ancestros?\nTus antepsadaos construyeron el más glorioso reino en todo Atys. Pero la antigua tierra de Matia fue destruída por los Kitins en el 2481 en un enjambre terrible. Tus abuelos escaparon a los bosques donde tus padres y tu mismo vivieron una vida dura bajo constantes amenazas de los Kitins. Para tu propio bien, tus padres te instaron a tomar el gran camino para unirte a tu pueblo aquí en las nuevas tierras. Después de muchos años nos has encontrado, tenemos un territorio seguro y empezamos a dar forma a nuestro reino. Corresponde a tu generación estar a la altura de nuestra antigua gloria y hacer a nuestra civilización majestuosa otra vez.\n\nQuién es nuestro jefe?\nEl Rey Yrkanis. El es nuestro señor supremo después de Jena. A él le debes absoluta lealtad. Retar su autoridad es oponerse a Jena, una herejía digna de muerte. Si eres lo suficientemente honrado como para que te asignen una misión real, debes tener éxito con dignidad, a menos que voluntariamente desafíes su divina autoridad. Debes esforzarte para ser digno de su confianza y tú también ganarás rango. Rodi di Varello y Girini di Antorello son los fieles duques que le dan consejo.\n\nCuás es tu fe?\nJena es nuestra Diosa, debemos respetar sus leyes, ya que nos es predicada por sus fieles discípulos, los Karavan. Nos vigilan para que no nos salgamos del camino correcto. Ellos nos permiten realizar ofrender y rendir servicios a ella para prepararnos para el futuro en el mundo más allá de la promesa. Recuerda, joven homin, los Karavan están investidos con gran poder que ellos compartirán solo con los fieles. Es tu deber buscar el favor de Jena a través de las relaciones con sus discípulos y tu también aprenderás a manejar su tecnología.\n\nCuáles son nuestro valores?\nPara tener éxito como un verdadero Matis, debes construir tu vida sobre los tres valores principales:\n- Lealtad al Rey y a Jena: El rey tiene el poder a través del derecho divino, sus enemigos son tus enemigos, al defender a nuestra religión estás defendiendo a nuestro reino. De la misma forma, al desobedecerlo a él y a su corte estás irrespetando a Jena, y por lo tanto eres culpable de herejía.\n- Logro estético: Nuestra cultura no tendrá más que lo mejor, honramos a nuestra diosa al hacer cosas bellas así como ella como ella nos hizo noble.\n- Competencia: Creemos que cada Matis debe esforzarse por su verdadero lugar en la sociedad. La Competencia es lo que da fuerza a nuestro temperamento, ordena a los débiles de los fuertes. Y nosostors los Matis luchamos para ganar!\n\nCuáles son las prohibiciones?\n- Está estrictamente prohibido para acercarse a los Kamis (a menos que se ordene hacer hacer algo por los Karavan). Son demonios malvados y están en contra de los Karavan.\n- Nunca violen la Ley de Jena.\n- No vayas por debajo de la superficie de Atys, estarás en peligro de despertar al temido dragón del apocalipsis.\n- Nunca lleves a cabo misiones para las tribus enemigas.\n- Es prohibido esparcir el fuego del dragón por las tierras. Este devora árboles y nos priva de las escencias necesarias para nuestras creaciones.\n\nCuáles son nuestras metas?\nDespués de resurgir de las Primeras Raíces, nuestro mayor reto fue domar esta tierra y hacerla noble. Nuestro pueblo y los asentamientos esculpidos de los propios árboles son prueba viviente de nuestro éxito. Ahora debemos:\n- desarrollar nuestras fortalezas y habilidades individuales\n- Construir gremios fuertes y leales para difundir la palabra de Jena entre los infieles y libere al mundo de la posesión Kami\n- además de nuestro conocimiento para hacer incluso mejores armas y herramientas. Durante el Gran Enjambre, mucho conocimiento fue diseminado a través de la tierra. Al descubrir este conocimiento y más abrirá puertas a los secretos del pasado.\n\nDonde están nuestros amigos?\nDesde el Tratado de Paz firmado en Fairhaven en 2515, hemos estado en paz con otros pueblos homins. Pero una década de paz nunca podría borrar las cicatrices de la infamia pasada. En realidad nuestras relaciones varían dependiendo de la civilización.\nTryker: El pasado nos ha enseñado que los Trykers no pueden ser domesticados, que ellos venderían sus almas a los demonios solo para manter su estilo de vida. Por lo que, en el nombre de Jena hemos aprendido a vivir como amigos indulgentes en lugar de tener que vivir al lado de los infieles. Gracias a Jena nuestra amistad nunca ha sido más fuerte, a pesar que su fervor a menudo deja mucho que desear.\nZoraï: Los Zoraïs son infieles y su paganismo debe ser revisado. Aún así, fue un guerrero Zoraï quien salvó al actual rey. Con todo el respeto, muchos de nosotros resentimos esta 'deuda' con los Zoraïs la que empaña nuestra credibilidad a los ojos de los Karavan. Es preferible que esto no suceda otra vez.\nFyros: Los Fyros son nuestros enemigos inherentes que, en las décadas pasadas, se han movido cada vez más cerca y a los malvados Kamis. No debemos olvidar que en el pasado ellos tuvieron éxito coaccionando a los Trykers para juntarse con ellos en contra de nosotros. Pero los Fyros ahora prefieren juntarse con los Zoraïs que comparten su amor por el demonio Kami. Sin embargo, debemos permanecer vigilantes y atentos para que no conviertan a los Trykers con sus pláticas blasfemas.\nLas tribus amigables incluyen: Los Descortezadores, Los Cazadores de Frahar, Los Escultores de Limo, Los Renegados, Los Esclavistas, Los Adoradores de Iconos, Los Hamazans de la Semilla Muerta, La Semilla Verde, Los Esclavos de la Savia, Los Matis Áridos, La Savia Oscurecedora, El Kuilde.\n\nQuiénes son nuestros otros enemigos?\n- Los Kamis: Ellos están en contra de nosotros de traer el orden y la belleza a la tierra de Jena. Son un azote maligno y tienen que ser erradicados.\n- Los Kitins: Estos gigantescos insectos masacraron a varios miles de Matis y devastaron nuestro majestuoso reino en las tierras de los antiguos.\n- Las tribus enemigas incluyen: Los Espigadores de la Savia, Las Cucarachas, Los Chlorogoos, Los Ilegales, Los Quemadores, Los Hermanos de la Laguna, Los Tutores, Los Antiguas Dríadas, Los Primeros Desertores, La Tala y la Quema, Las Bridas Tejidas.\n- Los Bandidos: Vigila a los foragidos fuera de la ley, a los ladrones y a los asesinos que merodean los bosques en busca de presa fácil.\n- Los depredadores de animales: Los animales salvajes pueden ser feroces, muchos de ellos atacarán a los homins que tengan a la vista!\n\nCómo puedo ayudar a mi pueblo?\nEstamos escazos de artesanos, fabricantes, magos y guerreros para ampliar aún más nuestras capacidades y así podamos mantenernos a la cabeza de la competencia.\n- Necesitamos guerreros para defender nuestro territorio y establecer un nuevo espacio para vivir.\n- Estamos necesitando artesanos expertos para producir objetos y armas de uso cotidiano; y recolectores para recoger las materias primas para los alimentos y la fabricación.\n- Necesitamos magos para encantar objetos fabricados, proteger a los recolectores, y sanar a los guerreros en combate y mantener al enemigo vigilado.\n\nQué puedo esperar de mi pueblo?\n- Entrenamiento de entranadores expertos.\n- Nuestro pueblo está defendido por gremios que vendrán en tu ayuda una vez que ta hayas unido a uno.\n- Mientras más actues para el bien de nuestro pueblo mayor serás recompensado por tus nobles acciones.\n\nQués es nuestra nueva tierra?\nNuestro pueblo primero hechó raíces en estas tierras boscosas en 2483 durante el resurgimiento del santuraio de las Primeras Raíces en las nuevas tierras. El bosdque es con mucho el lugar más bello de Atys y para el ojo agudo y observador ofrece todas las escencias vivientes necesarias para la cración. Desde el 2487 se nos han estado reincorporando continuamente refugiados que han tomado el camino desde las tierras antiguas, el mismo camino que tu has tomado tan valientemente, homin.\n\nQué puedo esperar de Atys, nuestro mundo?\nAtys es una mina de riquezas naturales fabulosas, joven homin, con el tiempo vas a aprender la forma de convertirlos en una riqueza vendible. A medida que te vuelvas experto en los caminos del mundo aprenderás a domesticar al desierto y a conquistar nuevos tierras."
+        "name": "LA CIVILIZACIÓN MATIS\n\nUn Matis debe poseer los más nobles reasgos de la hominidad. Un Matis debe ser leal, cortés, tenaz, y sobre todas las cosas, reverente. Al obedecer a nuestro rey, estamos glorificando a Jena, nuestra Diosa, quien otorgó a él con la luz divina. Nosotros creemos que así como cada partícula del universo de Jena tiene una función, cada homin debe esforzarse por ella o por su verdadero lugar en la sociedad.\n\nJena ayuda a aquellos que se ayudan a si mismos, un Matis nunca debe rendirse. Al esforzarse por el éxito estamos haciendo nuestra civilización fuerte como un conjunto. Sólo los mejores pueden alcanzar las más elevadas esferas de nuestra sociedad, solo la élite puede liderar a nuestro pueblo.\n\nAl manipular a la naturaleza estamos elevando nuestras almas más cerca de la devoción. En efecto, homin, no es por pura coincidencia que hemos llegado a ser Maestros Manipuladores Atysianos de la vida animal y vegetal. Nuestras armas, armaduras y incluso artículos del hogar familiar son objetos vivientes!\n\nHemos tomado raíces en las áreas boscosas de las tierras nuevas donde encontramos cada escencia viviente necesaria para la experimentación. Ahora necesitamos hacer nuestro reion más fuerte y mejor, en el nombre de Jena.\n\nSi la sangre noble corre por tus venas, ven a jurar lealtad a tu Rey! Nuestro reino necesita triunfadores!!\n\nVen ahora, homin, si tienes algunas preguntas...\n\n\n¿Quién soy yo?\nEres un joven refugiado homin. Has tomado el largo y peligroso viaje desde las tierras antiguas hasta estas nuevas tierras donde hemos establecido nuestro nuevo reino. Después de un período de entrenamiento, como un súbdito leal al Rey serás capaz de poner tus habilidades en buen uso y ayudar a reconstruir nuestro Reino.\n\n¿Quiénes son mis ancestros?\nTus antepasados construyeron el más glorioso reino en todo Atys. Pero la antigua tierra de Matia fue destruida por los Kitins en el 2481 en un enjambre terrible. Tus abuelos escaparon a los bosques donde tus padres y tu mismo vivieron una vida dura bajo constantes amenazas de los Kitins. Para tu propio bien, tus padres te instaron a tomar el gran camino para unirte a tu pueblo aquí en las nuevas tierras. Después de muchos años nos has encontrado, tenemos un territorio seguro y empezamos a dar forma a nuestro reino. Corresponde a tu generación estar a la altura de nuestra antigua gloria y hacer a nuestra civilización majestuosa otra vez.\n\n¿Quién es nuestro jefe?\nEl Rey Yrkanis. El es nuestro señor supremo después de Jena. A él le debes absoluta lealtad. Retar su autoridad es oponerse a Jena, una herejía digna de muerte. Si eres lo suficientemente honrado como para que te asignen una misión real, debes tener éxito con dignidad, a menos que voluntariamente desafíes su divina autoridad. Debes esforzarte para ser digno de su confianza y tú también ganarás rango. Rodi di Varello y Girini di Antorello son los fieles duques que le dan consejo.\n\n¿Cuál es tu fe?\nJena es nuestra Diosa, debemos respetar sus leyes, ya que nos es predicada por sus fieles discípulos, los Karavan. Nos vigilan para que no nos salgamos del camino correcto. Ellos nos permiten realizar ofrendas y rendir servicios a ella para prepararnos para el futuro en el mundo más allá de la promesa. Recuerda, joven homin, los Karavan están investidos con gran poder que ellos compartirán solo con los fieles. Es tu deber buscar el favor de Jena a través de las relaciones con sus discípulos y tu también aprenderás a manejar su tecnología.\n\n¿Cuáles son nuestro valores?\nPara tener éxito como un verdadero Matis, debes construir tu vida sobre los tres valores principales:\n- Lealtad al Rey y a Jena: El rey tiene el poder a través del derecho divino, sus enemigos son tus enemigos, al defender a nuestra religión estás defendiendo a nuestro reino. De la misma forma, al desobedecerlo a él y a su corte estás irrespetando a Jena, y por lo tanto eres culpable de herejía.\n- Logro estético: Nuestra cultura no tendrá más que lo mejor, honramos a nuestra diosa al hacer cosas bellas así como ella como ella nos hizo noble.\n- Competencia: Creemos que cada Matis debe esforzarse por su verdadero lugar en la sociedad. La Competencia es lo que da fuerza a nuestro temperamento, ordena a los débiles de los fuertes. Y nosotros los Matis luchamos para ganar!\n\nCuáles son las prohibiciones?\n- Está estrictamente prohibido para acercarse a los Kamis (a menos que se ordene hacer hacer algo por los Karavan). Son demonios malvados y están en contra de los Karavan.\n- Nunca violen la Ley de Jena.\n- No vayas por debajo de la superficie de Atys, estarás en peligro de despertar al temido dragón del Apocalipsis.\n- Nunca lleves a cabo misiones para las tribus enemigas.\n- Es prohibido esparcir el fuego del dragón por las tierras. Este devora árboles y nos priva de las esencias necesarias para nuestras creaciones.\n\n¿Cuáles son nuestras metas?\nDespués de resurgir de las Raíces Primarias, nuestro mayor reto fue domar esta tierra y hacerla noble. Nuestro pueblo y los asentamientos esculpidos de los propios árboles son prueba viviente de nuestro éxito. Ahora debemos:\n- desarrollar nuestras fortalezas y habilidades individuales\n- Construir gremios fuertes y leales para difundir la palabra de Jena entre los infieles y libere al mundo de la posesión Kami\n- además de nuestro conocimiento para hacer incluso mejores armas y herramientas. Durante el Gran Enjambre, mucho conocimiento fue diseminado a través de la tierra. Al descubrir este conocimiento y más abrirá puertas a los secretos del pasado.\n\n¿Dónde están nuestros amigos?\nDesde el Tratado de Paz firmado en Fairhaven en 2515, hemos estado en paz con otros pueblos homins. Pero una década de paz nunca podría borrar las cicatrices de la infamia pasada. En realidad nuestras relaciones varían dependiendo de la civilización.\nTryker: El pasado nos ha enseñado que los Trykers no pueden ser domesticados, que ellos venderían sus almas a los demonios solo para mantener su estilo de vida. Por lo que, en el nombre de Jena hemos aprendido a vivir como amigos indulgentes en lugar de tener que vivir al lado de los infieles. Gracias a Jena nuestra amistad nunca ha sido más fuerte, a pesar que su fervor a menudo deja mucho que desear.\nZoraï: Los Zoraïs son infieles y su paganismo debe ser revisado. Aún así, fue un guerrero Zoraï quien salvó al actual rey. Con todo el respeto, muchos de nosotros resentimos esta 'deuda' con los Zoraïs la que empaña nuestra credibilidad a los ojos de los Karavan. Es preferible que esto no suceda otra vez.\nFyros: Los Fyros son nuestros enemigos inherentes que, en las décadas pasadas, se han movido cada vez más cerca de los malvados Kamis. No debemos olvidar que en el pasado ellos tuvieron éxito coaccionando a los Trykers para juntarse con ellos en contra de nosotros. Pero los Fyros ahora prefieren juntarse con los Zoraïs que comparten su amor por el demonio Kami. Sin embargo, debemos permanecer vigilantes y atentos para que no conviertan a los Trykers con sus pláticas blasfemas.\nLas tribus amigables incluyen: Los Descortezadores, Los Cazadores de Frahar, Los Escultores de Limo, Los Renegados, Los Esclavistas, Los Adoradores de Iconos, Las Amazonas de la Semilla Muerta, La Semilla Verde, Los Esclavos de la Savia, Los Matis Áridos, La Savia Oscurecedora, El Kuilde.\n\n¿Quiénes son nuestros otros enemigos?\n- Los Kamis: Ellos están en contra de nosotros de traer el orden y la belleza a la tierra de Jena. Son un azote maligno y tienen que ser erradicados.\n- Los Kitins: Estos gigantescos insectos masacraron a varios miles de Matis y devastaron nuestro majestuoso reino en las tierras de los antiguos.\n- Las tribus enemigas incluyen: Los Recolectores de Savia, Las Cucarachas, Los Chlorogoos, Los Ilegales, Los Quemadores, Los Hermanos de la Laguna, Los Tutores, Los Antiguas Dríadas, Los Primeros Desertores, La Tala y la Quema, Las Bridas Tejidas.\n- Los Bandidos: Vigila a los forajidos fuera de la ley, a los ladrones y a los asesinos que merodean los bosques en busca de presa fácil.\n- Los depredadores de animales: Los animales salvajes pueden ser feroces, muchos de ellos atacarán a los homins que tengan a la vista!\n\n¿Cómo puedo ayudar a mi pueblo?\nEstamos escasos de artesanos, fabricantes, magos y guerreros para ampliar aún más nuestras capacidades y así podamos mantenernos a la cabeza de la competencia.\n- Necesitamos guerreros para defender nuestro territorio y establecer un nuevo espacio para vivir.\n- Estamos necesitando artesanos expertos para producir objetos y armas de uso cotidiano; y recolectores para recoger las materias primas para los alimentos y la fabricación.\n- Necesitamos magos para encantar objetos fabricados, proteger a los recolectores, y sanar a los guerreros en combate y mantener al enemigo vigilado.\n\n¿Qué puedo esperar de mi pueblo?\n- Entrenamiento de entrenadores expertos.\n- Nuestro pueblo está defendido por gremios que vendrán en tu ayuda una vez que ta hayas unido a uno.\n- Mientras más actúes para el bien de nuestro pueblo mayor serás recompensado por tus nobles acciones.\n\n¿Qué es nuestra nueva tierra?\nNuestro pueblo primero echó raíces en estas tierras boscosas en 2483 durante el resurgimiento del santuario de las Primeras Raíces en las nuevas tierras. El bosque es con mucho el lugar más bello de Atys y para el ojo agudo y observador ofrece todas las esencias vivientes necesarias para la creación. Desde el 2487 se nos han estado reincorporando continuamente refugiados que han tomado el camino desde las tierras antiguas, el mismo camino que tu has tomado tan valientemente, homin.\n\n¿Qué puedo esperar de Atys, nuestro mundo?\nAtys es una mina de riquezas naturales fabulosas, joven homin, con el tiempo vas a aprender la forma de convertirlos en una riqueza vendible. A medida que te vuelvas experto en los caminos del mundo aprenderás a domesticar al desierto y a conquistar nuevas tierras."
     },
     "uiappear_infos_tryker": {
         "name": "LA CIVILIZACIÓN TRYKER\n\nNosotros los Trykers vivimos por las virtudes de la libertad, igualdad, equidad y el compartir. Creemos que todos los homins son iguales y deben vivir y dejar vivir. Creemos en fomentar las cualidades del individuo, y no solo del grupo como un todo. Después de todo, nuestra dulce Diosa Jena hace que los homins vengan a la vida uno por uno, no en onces ni en nueves! Al favorecer el desarrollo individual y la felicidad, la armonía y la solidaridd en el grupo sigue con la misma naturalidad como los arroyos se juntan para formar un sólo río!\n\nLos Trykers son grandes viajeros y exploradores y también son expertos en la tencnología del viento. Desde el Gran Enjambre del os Kitins que destruyó nuestras ciudades islas en las antiguas tierras, hemos hecho nuestros hogares en las nuevas tierras del lago donde hemos establecido las bases de nuestra nueva Federación.\n\nSi crees en una palabra sin tiranía o intolerenacia, sin amos ni esclavos, ven a ayudarnos a construirla!!\n\nAhora puedes hacer tus preguntas...\n\n\nQuién soy yo?\nEres un joven refugiado homin. Has hecho bien al tomar el largo y peligroso camino desde las tierras antiguas para unirte a nosotros aquí donde hemos establecido nuestro nuevo hogar. Una vez que hayas adquirido algo de entrenamiento, serás capaz de mostrarnos de lo que estás constituído y ayudarnos a construir nuestra federación de pueblos Tryker.\/n\nQuiénes son mis ancestros?\nTus ancestros construyeron las ciudades islas más bellas en las tierras antiguas de Trykoth donde vivieron libres como el viento. Eso fue hace tres generaciones cuando los kitins llegaron y llevaron muerte y destrucción por toda la tierra. Tus abuelos escaparon hacia las Colinas donde tus padres y luego tu mismo fuiste criado con el temor constant del ataque kitin. Fue algo bueno que tus padres te insitaron a abandonar tu vida de callejón sin salida, y arriesgarte a tomar el gran camino para unirte a nosotros aquí en las nuevas tierras prometidas. Al final no has encontrado, tu nueva vida puede comenzar.\n\nQuién es tu jefe?\nLady Ailan Mac'kean, ella es la gran jefa. Es la governadora del Consejo Tryker. Cuando ella hable, tu saltas! Al menos hasta que hayas trabajado lo suficiente para ser capaz de hablar con ella cara a cara. Te aseguras de permanecer a su lado, joven Homin, nuestra independencia depende de nuestra solidaridad! Su mano derecha Homins es su segundo en mando, Rehn Kirran, es  un Homin experimentado y le brinda consejo. Si alguna vez te honran con llevar a cabo una misión para el consejo, asegúrate que dar tu mejor golpe, nunca se sabe, nuestra libertad podría depender de esto.\n\nCuál es nuestra fe?\nJena es nuestra Diosa, es la Madre de la Creación. Muchas de nuestras costumbres están centradas alrededor de su adoración. Por ejemplo, existe el Día de Acción de Gracias, este cae en el solsticio de invierno para simbolizar el regreso de la luz después de los años oscuros que siguieron al Gran Enjambre. Para que esto no ocurra otra vez, debemos vivir bajo su Ley, las cuales son entregadas a nosotros por sus fieles discípulos, los Karavan. Ellos velan por nosotros y nos protegen de la posesión Kami. Recuerda, joven homin, mientras hagas lo que se te ha dicho que hagas y no te voltees contra ellos, tú también serás capaz de aprender a ejercer su tecnología. Ah, y por cierto, manten esto bajo tu gorro pero algunos dicen que Elias no es otro que el esposo de Jena, lo que lo convierte en el santo Padre, pero no menciones esto a los Karavan!\n\nQué valoramos más?\nPara ser un verdadero Tryker, debes vivir bajo las virtudes de la libertad, igualdad y el compartir:\n- Libertad: Considera a todos los homins responsables y libres de sus actos. Cualquier homin que viole la libertad de otro estará en violación del Acta de los Derechos de los Homins, como sucedió, fue redactada por primera vez por el Consejo Tryker.\n- Igualdad: Cada homin tiene igual derecho a caminar por la tierra, para obtener instrucción, para cosechar y recolectar los recursos naturals, para escoger su propio destino, siempre y cuando no invadan en los derechos de otro homin.\n- El compartir: Creemos que nuestra fuerza yace en nuestra solidaridad y que la solidaridad se transmite en el compartir. Si pudiéramos persuader a todos los hijos de Jena a ser como nosotros Trykers el mundo sería un lugar más seguro!\n\nCuáles son nuestras prohibiciiones?\n- Nunca debes hacer un pacto o una misión para los Kamis. Ellos son malvados demonios y poseerán tu alma.\n- Nunca violes la Ley de Jena.\n- Nunca lleves a cabo una misión para las tribus enemigas.\n- Si te aventuras a ir abajo a la superficie de Atys, ten cuidado de no despertar al temible dragón del apocalipsis.\n- Está prohibido propagar el fuego del dragón por las tierras. Vuelve a las tierras estériles.\n\nCuáles son nuestras metas?\nDesde que resurgimos de las Primeras Raíces hemos estado construyendo bases sólidas para nuestra civilización future sin la tiranía o la intolerancia, donde todos los hijos de Jena podrán vivir en libertad. Ahora debemos:\n- desarrollar nuestras fortalezas y habilidades individuals\n- construir gremios fuertes y estrechamente unidos para propagar la palabra de los Karavan y liberal a los infieles de la posesión de los Kami\n- mejorar tus conocimientos para hacer mejores armas y herramientas. Durante el Gran Enjambres, muchos conocimientos fueron esparcidos por la tierra. Descubrir este conocimiento y más abribrá las puertas a los secretos del pasado.\n\nQuiénes son nuestros amigos?\nDesde el Tratado de Paz firmado en Fairhaven en 2515, hemos estado en paz con los otros pueblos homins. Pero eso no nos impide de tener nuestros gustos y nuestros disgustos.\nMatis: A pesar de las disputas pasadas y de los malos entendidos, los Matis ahora respetan nuestra libertad de pensamento y nuestro derecho para construir nuestra sociedad a como nosotros deseamos. Después de todo, lo que realmente cuenta es que compartimos una fe en Jena. Gracias a Jena nuestra Amistad nunca ha sido tan fuerte, especialmente desde que los Matis ratificaron el Acta de los Derechos de los Homins. Lo que es má, hasta cierto punto los Matis nos deben su libertad después de la dictadura de Jinovitch. No solo el Consejo Tryker dió a Yrkanis asilo político en Fairhaven sino que Still Wyler  nuestro antiguo Governador  lo escoltó de regreso a las tierras Matis para derrotar a Jinovitch a acceder al tronoe.\nFyros: Los Fyros una vez fueron aliados que explotaron nuestra necesidad de protección al tenernos a nosotros para brindar suministros a los pueblos Fyros con mercancías a bajo precio. Desde que aprendimos a luchar por nosotros mismos ya no necesitamos a los paternalistas y protectores Fryos, especialmente con el nuevo sentimiento de fraternidad con los Matis. Y además, los Fyros se han vuelto más cercanos a los Kamis.\nZoraï: Los Zoraïs no son de fiar, son abiertamente contrarios a la Ley de Jena al venerar a los Kamis. Lo que es más, durante el Gran Enjambre en las tierras antiguas, los Zoraïs se rehusaron a dejarnos pasar a través de su gran muralla y dejaron perecer a muchos miles de Trykers en las en las mandíbulas de los Kitins. Más recientemente, fueron los Zoraïs los primeros en instalar la esclavitud en las nuevas tierras.\nLas tribus amigables incluyen: Los Cazadores Frahar, Los Escultores de Limo, Los Corsarios, Los Limpia Playa, Los Corredores de las Sombras, La Tala y la Quema, Los Ecoguerreros, Los Excavadores de Oasis, Los Kuilde.\n\nQuiénes son nuestros otros enemigos?\n- Los Kamis: Son una plaga maligna, tratan de volar tu mente con su magia solo para poseerte. Ellos deben ser erradicados.\n- Los Kitins: Estos insectos gigantescos masacraron a muchos miles de Trykers y devastaron nuestras bellas ciudades flotantes en las tierras antiguas de Trykoth.\n- El Dragón: Nunca ha sido visto, pero sabemos que está al acecho en las profundidades de Atys en alguna parte. Aunque no hay mucho que podamos hacer sobre esto, lo mejor es ponerlo en la parte trasera de la mente.\n- Las tribus enemigas incluyen: Los Espigadores de la Savia, Los Los Chlorogoos, Los Ilegles, Los Hermanos de la Laguna, Los Esclavistas, Los Tutores, Los Antiguos Dríadas, Las Bridas Tejidas, La Savia Oscurecedora.\n- Los bandidos: Mejor vigila a los foragidos, ladrones, y asesinos, están por todas partes.\n- Los depredadores de animales: Existen muchos animales repugnantes en Atys, asegúrate de vigilar tus pasos si no quieres terminar como su cena!\n\nCómo puedo ayudar a mi pueblo?\nBien, es muy simple, ya sea que eres un artesano, o un cosechador, o mago, o un guerrero, te necesitamos!\n- Necesitamos guerreros para defender nuestros derechos territoriales y sustentar nuestras necesidades para el crecimiento.\n- Necesitamos artesanos capaces de producir objetos y armas cotidianas; y cosechadores para recolectar las materias primas para los alimentos y la fabricación.\n- Necesitamos magos para encantar objetos fabricados, proteger a los cosechadores y recolectores, y sanar a los guerreros en combate y mantener al enemigo vigilado.\n\nQué puedo esperar de mi pueblo?\n- Entrenamiento de entrenadores expertos.\n- Nuestro pueblo es defendido por los gremios que podrán venir en tu ayuda una vez que te hayas unido a ellos.\n- Mientras más actues por el bien de nuestro pueblo más serán recompensandas tus brillantes obras.\n\nQué es nuestra nueva tierra?\nNuestro pueblo primero estableció su hogar en las tierras del lago en 2483 en nuestro resurgimiento de las Primeras Raíces en las nuevas tierras. Los lagos son los lugares más mágicos de Atys aunque debes ser rápido porque sin duda no es un lugar para flojos o miedosos! Desde 2487 se nos han estado uniendo continuamente refugiados que han tomado el camino desde las tierras antiguas, el mismo camino que tú has valientemente tomado, homin.\n\nQué puedo esperar de Atys, nuestro mundo?\nAtys es una mina de riquezas naturales fabulosas, joven homin, con el tiempo aprenderás a vivir de ellas.\nA medida que te vuelves más experto en los caminos del mundo aprenderás cómo la tierra se extiende para ser capaz de moverse hacia nuevos territorios."
@@ -5914,6 +5914,9 @@
     },
     "uiautomaticcamera": {
         "name": "Cámara Automática"
+    },
+    "uiautomaticlight": {
+        "name": "Encender la luz al conectarse"
     },
     "uiawrsf": {
         "name": "Todas las Armas y Combate Cercano"
@@ -7293,7 +7296,7 @@
         "name": "Comprobación de archivo terminó con errores:"
     },
     "uicheckinbnp": {
-        "name": "Comprabando en BNP:"
+        "name": "Comprobando en BNP:"
     },
     "uichecking": {
         "name": "Comprobando"
@@ -9441,7 +9444,7 @@
         "name": "NOMBRE DE LA TAREA :"
     },
     "uienrequired": {
-        "name": "TAREAS DEL RITUAL"
+        "name": "TAREAS RITUALES"
     },
     "uienrite": {
         "name": "RITO"
@@ -10608,7 +10611,7 @@
         "name": "Ayudar"
     },
     "uihelpauradisabled": {
-        "name": "\n\nEste aura está desactivada.\nPuede que estes fuera del área, o puedas necesitar esperar un rato para que este aura actue de nuevo."
+        "name": "Este aura está desactivada.\nPuede que estés fuera del área, o puedas necesitar esperar un rato para que este aura actúe de nuevo."
     },
     "uihelpbrickcombatskillseparator": {
         "name": "@{FFF9} o\n@{T8}@{FFFF}"
@@ -10626,7 +10629,7 @@
         "name": "Detalles de Construcción"
     },
     "uihelpbuildingrequirement": {
-        "name": "Detalles de los Requisites de Construcción"
+        "name": "Detalles de los Requisitos de Construcción"
     },
     "uihelpfabermpheader": {
         "name": "%f"
@@ -10638,10 +10641,10 @@
         "name": "Este objeto representa tu\nanimal #%petnumber.\n\nPuedes dar o vender un animal a través de este objeto, pero ¡Sólo si el inventario de tu animal está vacío!\n\n%cansell\n%desc%custom_text"
     },
     "uihelpitemanyskillreqmetfmt": {
-        "name": "\n@{FFFF}%d @{FFF9}en @{FFFF}cualquier habilidad"
+        "name": "@{FFFF}%d @{FFF9}en @{FFFF}cualquier habilidad"
     },
     "uihelpitemanyskillreqnotmetfmt": {
-        "name": "\n@{F80B}%d en cualquier habilidad"
+        "name": "@{F80B}%d en cualquier habilidad"
     },
     "uihelpitemarmorformat": {
         "name": "@{FFF9}@{HuittInfoOrigin}Orígen:@{H}@{T10}@{FFFF}%origin\n@{FFF9}@{HuittInfoArmorQuality}Calidad:@{H}@{T10}@{FFFF}%quality\n@{FFF9}@{HuittInfoWeight}Peso:@{H}@{T10}@{FFFF}%weight Kg\n@{FFF9}@{HuittInfoBulk}Volumen:@{H}@{T10}@{FFFF}%bulk\n@{FFF9}@{HuittInfoHP}Puntos de Salud:@{H}@{T10}@{FFFF}%hp\/%hpmax\n%cansell\n@{FFF9}@{HuittInfoRequirement}Requisitos:@{H}@{T12}@{FFFF}%caracreq@{FFFF}%skillreq@{FFFF}%skillreq2\n\n@{FFF9}@{HuittInfoArmorType}Tipo de Armadura:@{H}@{T12}@{FFFF}%armor %armor_bonus\n@{FFF9}@{HuittInfoDodgeMod}Modificador de Evasión:@{H}@{T16}@{FFFF}%dodge\n@{FFF9}@{HuittInfoParryMod}Modificador de Bloqueo:@{H}@{T16}@{FFFF}%parry\n@{FFF9}@{HuittInfoMalus}Malus de Acción:@{H}@{T16}@{FFFF}+%actmalus\n@{FFF9}@{HuittInfoArmorProtection}Protección:@{H}@{T16}@{FFFF}%protect%\n@{FFF9}  @{HuittInfoArmorSlash}Max. vs Cortante:@{H}@{T16}@{FFFF}%p_slash\n@{FFF9}  @{HuittInfoArmorBlunt}Max.vs Contundente:@{H}@{T16}@{FFFF}%p_blunt\n@{FFF9}  @{HuittInfoArmorPierc}Max. vs Perforante:@{H}@{T16}@{FFFF}%p_pierce\n%buffs%special_effects%desc%custom_text"
@@ -10650,16 +10653,16 @@
         "name": "@{F80B}Este objeto no se puede vender a un mercader.@{FFFF}\n"
     },
     "uihelpitemcaracreqand": {
-        "name": "\n@{FFF9}y@{FFFF}"
+        "name": "@{FFF9}y@{FFFF}"
     },
     "uihelpitemcaracreqmetfmt": {
-        "name": "\n@{FFFF}%d @{FFF9}en @{FFFF}%s"
+        "name": "@{FFFF}%d @{FFF9}en @{FFFF}%s"
     },
     "uihelpitemcaracreqnone": {
         "name": "Ninguno"
     },
     "uihelpitemcaracreqnotmetfmt": {
-        "name": "\n@{F80B}%d en %s"
+        "name": "@{F80B}%d en %s"
     },
     "uihelpitemchargespell": {
         "name": "@{FFF9}Carga de Savia:@{T12}@{FFFF}%quality\n@{FFF9}@{HuittInfoBulk}Volumen:@{H}@{T10}@{FFFF}%bulk\n\nEste objeto puede ser utilizado para\nrecargar savia de un arma encantada.\n\nColocar el arma que deseas recargar en tu mano derecha, luego haga clic derecho en la recarga, y seleccione \"Recargar Mano Derecha\".\n\nLa carga de savia actual y la carga maxima que el objeto puede soportarn pueden verse haciendo clic derecho del raton en el articulo y seleccionar 'Info'.\n\n%cansell%custom_text"
@@ -10668,7 +10671,7 @@
         "name": "@{FFF9}Tiempo de Consumo:@{T16}@{FFFF}%consumption_time segundos\n@{FFF9}Reutilizar Tiempo:@{T16}@{FFFF}%overdose_timer_min minutos %overdose_timer_sec\n\n\n@{FFFF}%consumable_effects%custom_text"
     },
     "uihelpitemcosmetic": {
-        "name": "\n\n%cansell\n@{FFFF}%desc"
+        "name": "%cansell\n@{FFFF}%desc"
     },
     "uihelpitemcosmeticdontfit": {
         "name": "@{F80B}Este cosmético no puede serte aplicado, debido a tu raza o géneor@{FFFF}\n"
@@ -10716,7 +10719,7 @@
         "name": "@{FFF9}Bonus para Magia Defensiva de Sanación:\n@{T3}Velocidad de Lanzamiento:@{T14}@{FFFF}%cs%@{FFF9}\n@{T3}Poder:@{T14}@{FFFF}%mp%\n"
     },
     "uihelpitemmagicbonusheader": {
-        "name": "\n@{FFFF}Bonus Mágico@{FFF9} si el hechizo tiene una Nivel de Hechizo inferior o igual a @{FFFF}%mglvl@{FFF9}):\n"
+        "name": "@{FFFF}Bonus Mágico@{FFF9} si el hechizo tiene una Nivel de Hechizo inferior o igual a @{FFFF}%mglvl@{FFF9}):\n"
     },
     "uihelpitemmagicbonusoffaffliction": {
         "name": "@{FFF9}Bono para Magia Aflictiva Ofensiva:\n@{T3}Velocidad de Lanzamiento:@{T14}@{FFFF}%cs%@{FFF9}\n@{T3}Poder:@{T14}@{FFFF}%mp%\n"
@@ -10728,10 +10731,10 @@
         "name": "@{FFF9}@{HuittInfoOrigin}Orígen:@{H}@{T10}@{FFFF}%origin\n@{FFF9}@{HuittInfoWeaponQuality}Calidad:@{H}@{T10}@{FFFF}%quality\n@{FFF9}@{HuittInfoWeight}Peso:@{H}@{T10}@{FFFF}%weight Kg\n@{FFF9}@{HuittInfoBulk}Volumen:@{H}@{T10}@{FFFF}%bulk\n@{FFF9}@{HuittInfoHP}Puntos de Salud:@{H}@{T10}@{FFFF}%hp\/%hpmax\n@{FFF9}@{HuittInfoWeaponSapLoad}Carga de Savia:@{H}@{T10}@{FFFF}%sap\/%sapmax\n@{FFF9}@{HuittInfoItemSkill}Habilidad:@{H}@{T10}@{FFFF}%skill\n%cansell\n@{FFF9}@{HuittInfoRequirement}Requisitos: @{H}@{T10}@{FFFF}%caracreq@{FFFF}%skillreq@{FFFF}%skillreq2\n\n@{FFF9}@{HuittInfoDamageType}Tipo de Daño:@{H}@{T14}@{FFFF}%dmtype\n@{FFF9}@{HuittInfoWeaponDamage}Daño:@{H}@{T14}@{FFFF}%dmg (@{T12}@{FFFF}%max_dmg)\n@{FFF9}@{HuittInfoWeaponHitMin}Golpe\/Minuto:@{H}@{T14}@{FFFF}%speed\n@{FFF9}@{HuittInfoWeaponReach}Alcance:@{H}@{T14}@{FFFF}%reach\n@{FFF9}@{HuittInfoDodgeMod}Modificador de Evasión:@{H}@{T20}@{FFFF}%dodge\n@{FFF9}@{HuittInfoParryMod}Modificador de Bloqueo:@{H}@{T20}@{FFFF}%parry\n@{FFF9}@{HuittInfoTargetDodgeMod}Modificador Evasión Adversario:@{H}@{T20}@{FFFF}%adv_dodge\n@{FFF9}@{HuittInfoTargetParryMod}Modificador Bloqueo Adversario:@{H}@{T20}@{FFFF}%adv_parry\n@{FFF9}@{HuittInfoMalus}Action Malus:@{H}@{T20}@{FFFF}+%actmalus\n%magic_bonus%buffs%special_effects%skill_mod_vs_type%desc%custom_text%enchantment"
     },
     "uihelpitemmpallcraft": {
-        "name": "Todoss los Componentes de un Objeto"
+        "name": "Todas las partes de un Objeto"
     },
     "uihelpitemmpcraft": {
-        "name": "@{FFF9}Puedes usarser para Fabricar:\n@{FFFF}@{T2}%ip\n"
+        "name": "@{FFF9}Puedes usarse para Fabricar:\n@{FFFF}@{T2}%ip\n"
     },
     "uihelpitemmpcraftrequirement": {
         "name": "@{FFF9}Usado como un componente en la fabricación de objetos especiales.@{FFFF}\n"
@@ -10746,7 +10749,7 @@
         "name": "@{F80B}Objeto Sin Renta: @{FFFF}"
     },
     "uihelpitemnorentdesc": {
-        "name": "@{F80B}Este objeto será destruído pocos minutos después de desconectarte.@{FFFF}\n"
+        "name": "@{F80B}Este objeto será destruido pocos minutos después de desconectarte.@{FFFF}\n"
     },
     "uihelpitemrangeweaponformat": {
         "name": "@{FFF9}@{HuittInfoOrigin}Orígen:@{H}@{T10}@{FFFF}%origin\n@{FFF9}@{HuittInfoWeaponQuality}Calidad:@{H}@{T10}@{FFFF}%quality\n@{FFF9}@{HuittInfoWeight}Peso:@{H}@{T10}@{FFFF}%weight Kg\n@{FFF9}@{HuittInfoBulk}Volumen:@{H}@{T10}@{FFFF}%bulk\n@{FFF9}@{HuittInfoHP}Puntos de Salud:@{H}@{T10}@{FFFF}%hp\/%hpmax\n@{FFF9}@{HuittInfoWeaponSapLoad}Carga de Savia:@{H}@{T10}@{FFFF}%sap\/%sapmax\n@{FFF9}@{HuittInfoItemSkill}Habilidad:@{H}@{T10}@{FFFF}%skill\n%cansell\n@{FFF9}@{HuittInfoRequirement}Requisitos:@{H}@{T10}@{FFFF}%caracreq@{FFFF}%skillreq@{FFFF}%skillreq2\n\n@{FFF9}@{HuittInfoWeaponRDamage}Daño:@{H}@{T12}@{FFFF}%dmg (@{T12}@{FFFF}%max_dmg)\n@{FFF9}@{HuittInfoWeaponRHitMin}Golpe\/Minuto:@{H}@{T12}@{FFFF}%speed\n@{FFF9}@{HuittInfoWeaponRange}Alcance:@{H}@{T12}@{FFFF}%range\n@{FFF9}@{HuittInfoDodgeMod}Modificador de Evasión :@{H}@{T20}@{FFFF}%dodge\n@{FFF9}@{HuittInfoParryMod}Modificador de Bloqueo:@{H}@{T20}@{FFFF}%parry\n@{FFF9}@{HuittInfoTargetDodgeMod}Modificador Evasión Adversario:@{H}@{T20}@{FFFF}%adv_dodge\n@{FFF9}@{HuittInfoTargetParryMod}Modificador Bloqueo Adversario:@{H}@{T20}@{FFFF}%adv_parry\n@{FFF9}@{HuittInfoMalus}Malus de Acción:@{H}@{T20}@{FFFF}+%actmalus\n%magic_bonus%buffs%special_effects%skill_mod_vs_type%desc%custom_text%enchantment"
@@ -10767,10 +10770,10 @@
         "name": "@{FFF9}@{HuittInfoOrigin}Orígen:@{H}@{T10}@{FFFF}%origin\n@{FFF9}@{HuittInfoArmorQuality}Calidad:@{H}@{T10}@{FFFF}%quality\n@{FFF9}@{HuittInfoWeight}Peso:@{H}@{T10}@{FFFF}%weight Kg\n@{FFF9}@{HuittInfoBulk}Volumen:@{H}@{T10}@{FFFF}%bulk\n@{FFF9}@{HuittInfoHP}Puntos de Salud:@{H}@{T10}@{FFFF}%hp\/%hpmax\n%cansell\n@{FFF9}@{HuittInfoRequirement}Requisitos:@{H}@{T12}@{FFFF}%caracreq@{FFFF}%skillreq@{FFFF}%skillreq2\n\n@{FFF9}@{HuittInfoShieldCat}Categoría:@{H}@{T12}@{FFFF}%cat\n@{FFF9}@{HuittInfoDodgeMod}Modificador de Evasión:@{H}@{T18}@{FFFF}%dodge\n@{FFF9}@{HuittInfoParryMod}Modificador de Bloqueo:@{H}@{T18}@{FFFF}%parry\n@{FFF9}@{HuittInfoMalus}Malus de Acción:@{H}@{T18}@{FFFF}+%actmalus\n@{FFF9}@{HuittInfoArmorProtection}Protección:@{H}@{T12}@{FFFF}%protect%\n@{FFF9}  @{HuittInfoArmorSlash}Max. vs Cortante:@{H}@{T12}@{FFFF}%p_slash\n@{FFF9}  @{HuittInfoArmorBlunt}Max. vs Contundente:@{H}@{T12}@{FFFF}%p_blunt\n@{FFF9}  @{HuittInfoArmorPierc}Max. vs Perforante:@{H}@{T12}@{FFFF}%p_pierce\n%buffs%special_effects%desc%custom_text"
     },
     "uihelpitemskillreqmetfmt": {
-        "name": "\n@{FFFF}%d @{FFF9}en @{FFFF}%s"
+        "name": "@{FFFF}%d @{FFF9}en @{FFFF}%s"
     },
     "uihelpitemskillreqnotmetfmt": {
-        "name": "\n@{F80B}%d en %s"
+        "name": "@{F80B}%d en %s"
     },
     "uihelpitemstabonus": {
         "name": "@{FFF9}Bonus de Resistencia:@{T12}@{2F2F}%val\n"
@@ -10791,7 +10794,7 @@
         "name": "@{FFF9}@{HuittInfoProt}Protecciones:@{H}\n"
     },
     "uihelpmagicprotectmaxabsorbformat": {
-        "name": "@{T4}@{FFF9}Máximo Absorvido:@{T18}@{FFFF}+%v\n"
+        "name": "@{T4}@{FFF9}Máximo Absorbido:@{T18}@{FFFF}+%v\n"
     },
     "uihelpmagicresistformat": {
         "name": "@{T4}@{FFF9}%t:@{T18}@{FFFF}+%v\n"
@@ -10809,10 +10812,10 @@
         "name": "@{FFFF}%name\n\n@{FFF9}Esta construcción es un taladro, capaz extraer materias primas.\n\n@{FFF9}Sólo puede haber un taladro por puesto de avanzada.\n\n@{FFF9}Tiempo de instalación: @{T12}@{FFFF}%costtime\n@{FFF9}Coste de instalación: @{T12}@{FFFF}%costdapper\n\n@{FFFF}--- Materiales Extraídos ---\n@{FFF9}Este taladro extrae materiales de nivel @{FFFF}%lvl"
     },
     "uihelpobformat_empty": {
-        "name": "@{FFFF}Esta es un terreno de construcción.\nAl construir en este espacio la construcción actual será destruída.\nNo obstante, serás capaz de construir uno nuevo.\n\n@{FFF9}Tiempo de construcción: @{T12}@{FFFF}%costtime\n@{FFF9}Coste de construcción: @{T12}@{FFFF}%costdapper\n"
+        "name": "@{FFFF}Este es un terreno de construcción.\nAl construir en este espacio la construcción actual será destruida.\nNo obstante, serás capaz de construir uno nuevo.\n\n@{FFF9}Tiempo de construcción: @{T12}@{FFFF}%costtime\n@{FFF9}Coste de construcción: @{T12}@{FFFF}%costdapper\n"
     },
     "uihelpobformat_townhall": {
-        "name": "@{FFFF}Esta es el Hall del Puesto de Avanzada.\nEste edificio da acceso al inventario del gremio cuando uno está cerca.\nSe adquiere de manera automática cuando se gana el Puesto de Avanzada.\n"
+        "name": "@{FFFF}Esta es el Salón del Puesto de Avanzada.\nEste edificio da acceso al inventario del gremio cuando uno está cerca.\nSe adquiere de manera automática cuando se gana el Puesto de Avanzada.\n"
     },
     "uihelpoutpostbuilding": {
         "name": "Detalles de Construcción"
@@ -10824,10 +10827,10 @@
         "name": "@{FFF9}@{HuittActionStanzaReq}Estancias requeridas:@{H}@{FFFF}\n"
     },
     "uihelpphrasecharacteristic": {
-        "name": "@{FFFF}Esta es una actulización que aumenta algunas características.\nNo puedes lanzarlo ni ponerlo en tu barra de acción.\n@{FFFF}%desc%req"
+        "name": "@{FFFF}Esta es una actualización que aumenta algunas características.\nNo puedes lanzarlo ni ponerlo en tu barra de acción.\n@{FFFF}%desc%req"
     },
     "uihelpphrasecombatformat": {
-        "name": "@{FFF9}Nombre de Acción@{T12}@{FFFF}%name\n@{FFF9}Coste de Acción:@{T12}@{FFFF}%cost\n@{FFF9}Crédito de Acción:@{T12}@{FFFF}%credit\n@{FFF9}Puede usarse con:@{T12}@{FFFF}%wcomp\n\n%compostartEstas características del arma equipada..\n@{FFF9}@{HuittActionSuccessRateSF}Tasa de Éxito:@{H}@{T16}@{FFFF}%success%\n@{FFF9}Coste de Resistencia:@{T16}@{FFFF}%energy_cost\n@{FFF9}Coste de Salud:@{T16}@{FFFF}%hp_cost\n@{FFFF}%desc%req"
+        "name": "@{FFF9}Nombre de Acción@{T12}@{FFFF}%name\n@{FFF9}Coste de Acción:@{T12}@{FFFF}%cost\n@{FFF9}Crédito de Acción:@{T12}@{FFFF}%credit\n@{FFF9}Puede usarse con:@{T12}@{FFFF}%wcomp\n\n%compostart Estas características del arma equipada.\n@{FFF9}@{HuittActionSuccessRateSF}Tasa de Éxito:@{H}@{T16}@{FFFF}%success%\n@{FFF9}Coste de Resistencia:@{T16}@{FFFF}%energy_cost\n@{FFF9}Coste de Salud:@{T16}@{FFFF}%hp_cost\n@{FFFF}%desc%req"
     },
     "uihelpphrasecraftformat": {
         "name": "@{FFF9}Nombre de Acción:@{T12}@{FFFF}%name\n@{FFF9}Coste de Acción:@{T12}@{FFFF}%cost\n@{FFF9}Crédito de Acción:@{T12}@{FFFF}%credit\n\n%compostart@{FFF9}@{HuittActionSuccessRateSC}Tasa de Éxito:@{H}@{T14}@{FFFF}Depende del objeto fabricado.\n@{FFF9}Duración de Acción:@{T14}@{FFFF}%duration segundos\n@{FFF9}Coste de Concentración:@{T14}@{FFFF}%energy_cost\n@{FFFF}%desc%req"
@@ -10836,13 +10839,13 @@
         "name": "@{FFFF}--- Encantamiento ---\n@{FFF9}Este objeto puede encantar un arma con este acción:\n@{FFF9}Coste de Acción:@{T12}@{FFFF}%cost\n@{FFF9}Crédito de Acción:@{T12}@{FFFF}%credit\n\n@{FFF9}Las Acciones en los objetos encantados siempre tienen éxito\n@{FFF9}Duración del Lanzamiento:@{T14}@{FFFF}%duration segundos\n@{FFF9}Coste de Savia:@{T14}@{FFFF}%energy_cost\n@{FFF9}Coste de Salud:@{T14}@{FFFF}%hp_cost\n@{FFF9}Alcance:@{T14}@{FFFF}%range\n"
     },
     "uihelpphraseenchantmentformat": {
-        "name": "\n@{FFFF}--- Encantamiento ---\n@{FFF9}Este objeto está encantado con esta acción:\n@{FFF9}Coste de Acción:@{T12}@{FFFF}%cost\n@{FFF9}Crédito de Acción:@{T12}@{FFFF}%credit\n\n@{FFF9}Las Acciones en objetos encantados siempre tiene éxito\n@{FFF9}Duración del Lanzamiento:@{T14}@{FFFF}%duration segundos\n@{FFF9}Coste de Savia:@{T14}@{FFFF}%energy_cost\n@{FFF9}Coste de Salud:@{T14}@{FFFF}%hp_cost\n@{FFF9}Alcance:@{T14}@{FFFF}%range\n"
+        "name": "@{FFFF}--- Encantamiento ---\n@{FFF9}Este objeto está encantado con esta acción:\n@{FFF9}Coste de Acción:@{T12}@{FFFF}%cost\n@{FFF9}Crédito de Acción:@{T12}@{FFFF}%credit\n\n@{FFF9}Las Acciones en objetos encantados siempre tiene éxito\n@{FFF9}Duración del Lanzamiento:@{T14}@{FFFF}%duration segundos\n@{FFF9}Coste de Savia:@{T14}@{FFFF}%energy_cost\n@{FFF9}Coste de Salud:@{T14}@{FFFF}%hp_cost\n@{FFF9}Alcance:@{T14}@{FFFF}%range\n"
     },
     "uihelpphraseforageextractionformat": {
         "name": "@{FFF9}Nombre de Acción:@{T12}@{FFFF}%name\n@{FFF9}Coste de Acción:@{T12}@{FFFF}%cost\n@{FFF9}Crédito de Acción:@{T12}@{FFFF}%credit\n\n%compostart%suc_forage@{FFF9}Duración del Lanzamiento:@{T16}@{FFFF}%duration segundos\n@{FFF9}Coste de Concentración:@{T16}@{FFFF}%energy_cost\n@{FFFF}%desc%req"
     },
     "uihelpphraseforagesuccessall": {
-        "name": "@{FFF9}@{HuittActionSuccessRateSH}Tasa de Éxito@{H} (Desierto\/Bosque\/Jungla\/Lagos\/Primeras Raíces):\n@{T4}@{FFFF}%suc_desert%@{FFF9} \/ @{FFFF}%suc_forest%@{FFF9} \/ @{FFFF}%suc_jungle%@{FFF9} \/ @{FFFF}%suc_lake%@{FFF9} \/ @{FFFF}%suc_prime%\n"
+        "name": "@{FFF9}@{HuittActionSuccessRateSH}Tasa de Éxito@{H} (Desierto\/Bosque\/Selva\/Lagos\/Raíces Primarias):\n@{T4}@{FFFF}%suc_desert%@{FFF9} \/ @{FFFF}%suc_forest%@{FFF9} \/ @{FFFF}%suc_jungle%@{FFF9} \/ @{FFFF}%suc_lake%@{FFF9} \/ @{FFFF}%suc_prime%\n"
     },
     "uihelpphraseforagesuccessdesert": {
         "name": "@{FFF9}@{HuittActionSuccessRateSH}Tasa de Éxito@{H} En el Desierto:@{T16}@{FFFF}%suc_desert\n"
@@ -10851,13 +10854,13 @@
         "name": "@{FFF9}@{HuittActionSuccessRateSH}Tasa de Éxito@{H} En el Bosque:@{T16}@{FFFF}%suc_forest\n"
     },
     "uihelpphraseforagesuccessjungle": {
-        "name": "@{FFF9}@{HuittActionSuccessRateSH}Tasa de Éxito@{H} En la Jungla:@{T16}@{FFFF}%suc_jungle\n"
+        "name": "@{FFF9}@{HuittActionSuccessRateSH}Tasa de Éxito@{H} En la Selva:@{T16}@{FFFF}%suc_jungle\n"
     },
     "uihelpphraseforagesuccesslacustre": {
         "name": "@{FFF9}@{HuittActionSuccessRateSH}Tasa de Éxito@{H} En los Lagos:@{T16}@{FFFF}%suc_lake\n"
     },
     "uihelpphraseforagesuccessprimaryroot": {
-        "name": "@{FFF9}@{HuittActionSuccessRateSH}Tasa de Éxito@{H} En las Primeras Raíces:@{T16}@{FFFF}%suc_prime\n"
+        "name": "@{FFF9}@{HuittActionSuccessRateSH}Tasa de Éxito@{H} En las Raíces Primarias:@{T16}@{FFFF}%suc_prime\n"
     },
     "uihelpphraseheaderbricks": {
         "name": "  @{FFFF}--- Estrofas ---"
@@ -10884,7 +10887,7 @@
         "name": "Yo"
     },
     "uihelpphraserequirementheader": {
-        "name": "\n@{FFFF}--- Requisitos ---\n@{FFF9}@{HuittActionSkillPoint}Coste de Puntos de Habilidad:@{H}@{T16}@{FFFF}%sp\/%basesp\n@{FFF9}@{HuittActionSkillReq}Habilidades Necesarias:@{H}\n"
+        "name": "@{FFFF}--- Requisitos ---\n@{FFF9}@{HuittActionSkillPoint}Coste de Puntos de Habilidad:@{H}@{T16}@{FFFF}%sp\/%basesp\n@{FFF9}@{HuittActionSkillReq}Habilidades Necesarias:@{H}\n"
     },
     "uihelpphraserequirementline": {
         "name": "@{T4}@{FFFF}%s@{FFF9} en nivel @{FFFF}%d\n"
@@ -11153,6 +11156,9 @@
     "uiinterfacescale": {
         "name": "Escala de interfaz"
     },
+    "uiinterfacescaleauto": {
+        "name": "Escala de interfaz automática"
+    },
     "uiinterrupt": {
         "name": "¡Interrumpido!"
     },
@@ -11196,7 +11202,7 @@
         "name": "HABITACIÓN"
     },
     "uiitabyssofichor": {
-        "name": "abyss"
+        "name": "Ichor"
     },
     "uiitalmati": {
         "name": "almati"
@@ -11208,7 +11214,7 @@
         "name": "avendale"
     },
     "uiitbountybeaches": {
-        "name": "bounty"
+        "name": "playas"
     },
     "uiitcrystabell": {
         "name": "crystabell"
@@ -11220,7 +11226,7 @@
         "name": "dewdrop"
     },
     "uiitdunesofexil": {
-        "name": "dunes"
+        "name": "dunas"
     },
     "uiitdyron": {
         "name": "dyron"
@@ -11322,7 +11328,7 @@
         "name": "@{2F2F}%p%@{FFFF} oportunidad de que el lanzamiento no aplique créditos de acción."
     },
     "uiitemfx_ise_magic_shoot_again": {
-        "name": "@{2F2F}%p%@{FFFF} oportunidad de que el próximo lanzamiento no aplicquecréditos de tiempo, siempre que sea un lanzamiento inferor a @{2F2F}%r @{FFFF}segundos."
+        "name": "@{2F2F}%p%@{FFFF} oportunidad de que el próximo lanzamiento no aplique créditos de tiempo, siempre que sea menor a @{2F2F}%r @{FFFF}segundos."
     },
     "uiitemmpcancraft": {
         "name": "Puedes fabricar: "
@@ -11394,40 +11400,43 @@
         "name": "@{FF08}"
     },
     "uiitenchantedisle": {
-        "name": "enchanted"
+        "name": "Encantada"
     },
     "uiitfairhaven": {
         "name": "fairhaven"
     },
     "uiitfleetinggarden": {
-        "name": "fleeting"
+        "name": "Pasajero"
     },
     "uiitforbiddendepths": {
-        "name": "forbidden"
+        "name": "prohibida"
     },
     "uiitfount": {
-        "name": "fount"
+        "name": "fuente"
     },
     "uiitfrahartowers": {
         "name": "frahar"
     },
     "uiitgateofobscurity": {
-        "name": "gate"
+        "name": "Oscuridad"
+    },
+    "uiitgift": {
+        "name": "Regalo"
     },
     "uiitgroveofconfusion": {
-        "name": "grove"
+        "name": "confusion"
     },
     "uiitgroveofumbra": {
-        "name": "grove"
+        "name": "Sombra"
     },
     "uiithavenofpurity": {
-        "name": "haven"
+        "name": "pureza"
     },
     "uiithereticshovel": {
-        "name": "heretic"
+        "name": "hereje"
     },
     "uiithiddensource": {
-        "name": "hidden"
+        "name": "oculta"
     },
     "uiithoicho": {
         "name": "hoicho"
@@ -11436,19 +11445,19 @@
         "name": "jenlai"
     },
     "uiitknollofdissent": {
-        "name": "knoll"
+        "name": "discordia"
     },
     "uiitknotofdementia": {
-        "name": "knot"
+        "name": "demencia"
     },
     "uiitlagoonsofloria": {
-        "name": "lagoon"
+        "name": "loria"
     },
     "uiitlandofcontinuity": {
-        "name": "land"
+        "name": "continuidad"
     },
     "uiitmaidengrove": {
-        "name": "maiden"
+        "name": "virgen"
     },
     "uiitmincho": {
         "name": "mincho"
@@ -11475,46 +11484,46 @@
         "name": "resting"
     },
     "uiitsavagedunes": {
-        "name": "savage"
+        "name": "dunas"
     },
     "uiitsawdustmines": {
-        "name": "sawdust"
+        "name": "minas"
     },
     "uiitscorchedcorridor": {
-        "name": "scorched"
+        "name": "corredor"
     },
     "uiitshatteredruins": {
-        "name": "shattered"
+        "name": "ruinas"
     },
     "uiitshininglake": {
-        "name": "shining"
+        "name": "brillante"
     },
     "uiitsunkencity": {
-        "name": "sunken"
+        "name": "sumergida"
     },
     "uiitthesos": {
         "name": "thesos"
     },
     "uiittrenchoftrials": {
-        "name": "trench"
+        "name": "trinchera"
     },
     "uiitunderspring": {
-        "name": "under"
+        "name": "subterranea"
     },
     "uiitupperbog": {
-        "name": "upper"
+        "name": "pantano"
     },
     "uiitvoid": {
-        "name": "void"
+        "name": "vacio"
     },
     "uiitwindermeer": {
         "name": "windermeer"
     },
     "uiitwindsofmuse": {
-        "name": "winds"
+        "name": "musa"
     },
     "uiitwindygate": {
-        "name": "windy"
+        "name": "vientos"
     },
     "uiityrkanis": {
         "name": "yrkanis"
@@ -11985,7 +11994,7 @@
         "name": "WIND"
     },
     "uikeys": {
-        "name": "S"
+        "name": "Teclas"
     },
     "uikeysactionstitle": {
         "name": "TECLAS DE ACCIÓN"
@@ -12402,7 +12411,7 @@
         "name": "¿Donde estoy? "
     },
     "uiloadingstring7": {
-        "name": "Escodiendo cosas en el suelo..."
+        "name": "Escondiendo cosas en el suelo..."
     },
     "uiloadingstring8": {
         "name": "Molestando a los Gingos por agresividad aumentada..."
@@ -12531,7 +12540,7 @@
         "name": "Resolución del Juego"
     },
     "uilogturnedoff": {
-        "name": "El regitro de Chat está Apagado."
+        "name": "El registro de Chat está Apagado."
     },
     "uilogturnedon": {
         "name": "El registro de Chat está Encendido."
@@ -13356,7 +13365,7 @@
         "name": "Extraer"
     },
     "uimk_action6_tt": {
-        "name": "Haga click para @{6F6F}Extraer@{FFFF}la fuente seleccionada.\nTambién puedes usar una de las acciones de extracción de tu barra de acción en la parte superior de la pantalla (por defecto)."
+        "name": "Haga click para @{6F6F}Extraer@{FFFF} la fuente seleccionada.\nTambién puedes usar una de las acciones de extracción de tu barra de acción en la parte superior de la pantalla (por defecto)."
     },
     "uimk_action7": {
         "name": "Invitar"
@@ -13386,7 +13395,7 @@
         "name": "HABLAR CON"
     },
     "uimk_actions": {
-        "name": "ACCIONES"
+        "name": "Nivel"
     },
     "uimk_attack": {
         "name": "ALTENAR ATACAR\/RETIRADA"
@@ -13410,7 +13419,7 @@
         "name": "EMOTICONOS"
     },
     "uimk_encyclopedia": {
-        "name": "Enciclopedia"
+        "name": "Acciones"
     },
     "uimk_game": {
         "name": "JUEGO"
@@ -13560,7 +13569,7 @@
         "name": "Inventario"
     },
     "uimk_window3": {
-        "name": "Acciones"
+        "name": "Nivel"
     },
     "uimk_window4": {
         "name": "Misiones"
@@ -13621,6 +13630,9 @@
     },
     "uimmacros": {
         "name": "MACROS"
+    },
+    "uimmacrounassign": {
+        "name": "Quitar Acceso Directo"
     },
     "uimmadel": {
         "name": "BORRAR FRASE"
@@ -15087,13 +15099,13 @@
         "name": "Fuego"
     },
     "uiprotect_maxabsorb": {
-        "name": "Máx. Absorvido"
+        "name": "Máx. Absorbido"
     },
     "uiprotect_poison": {
         "name": "Veneno"
     },
     "uiprotect_rot": {
-        "name": "Podredumbre"
+        "name": "Pudrición"
     },
     "uiprotect_shockwave": {
         "name": "Onda de Choque"
@@ -15447,7 +15459,7 @@
         "name": "¿Realmente deseas reiniciar la UI?"
     },
     "uiqsetleader": {
-        "name": "¿Estás seguro de que quieres convertir a este mienbro en Lider de Gremio?"
+        "name": "¿Estás seguro(a) de que quieres convertir a este miembro en Líder del Gremio?"
     },
     "uiqtty": {
         "name": "Cantidad"
@@ -17163,7 +17175,7 @@
         "name": "Sistema"
     },
     "uisysteminfo": {
-        "name": "Información del Sistema"
+        "name": "Inf. del Sistema"
     },
     "uisysteminfotitle": {
         "name": "INFORMACIÓN DEL SISTEMA"
@@ -17640,7 +17652,7 @@
         "name": "Thermis"
     },
     "uitheseasonis": {
-        "name": "La estación es"
+        "name": "La estación es "
     },
     "uithousandsseparator": {
         "name": "."
@@ -17794,6 +17806,9 @@
     },
     "uitoggledodgeparry": {
         "name": "Evasión \/ Bloqueo"
+    },
+    "uitogglefreelook": {
+        "name": "Conmutar Vista Libre"
     },
     "uitoggleinventory": {
         "name": "Act\/Desact Inventario"
@@ -18075,7 +18090,7 @@
         "name": "@{6F6F}Región\n@{FFFF}Muestra los mensajes a todos los jugadores situados en tu región.\nClick derecho para separar."
     },
     "uittchatsysinfo": {
-        "name": "@{6F6F}Información del Sistema\n@{FFFF}Muestra los mensajes relativos a las acciones y a otras informaciones del sistema.\nClick derecho para separar."
+        "name": "@{6F6F}Inf. del Sistema\n@{FFFF}Muestra los mensajes relativos a las acciones y a otras informaciones del sistema.\nClic derecho para separar."
     },
     "uittchatteam": {
         "name": "@{6F6F}Equipo\n@{FFFF}Click derecho para separar."
@@ -18354,7 +18369,7 @@
         "name": "Proteje tus brazos"
     },
     "uittdefensechest": {
-        "name": "Proteje tu pecho"
+        "name": "Protege tu pecho"
     },
     "uittdefensefeet": {
         "name": "Proteje tus pies"
@@ -19923,7 +19938,7 @@
         "name": "Chatea aquí con jugadores cuyos avatares también son ciudadanos."
     },
     "uiwelcome_universe": {
-        "name": "El Canal Universo es multilingüe y está destinado en primer lugar a los jugadores que piden ayuda sobre el juego y a los que les ayudan. Es un canal amigable que también puede ser utilizado para chatear relacionado con Ryzom."
+        "name": "El Canal Universo es multilingüe y está destinado, en primer lugar, a los jugadores que piden ayuda sobre el juego y a los que les ayudan. Es un canal amigable que también puede ser utilizado para hablar sobre Ryzom."
     },
     "uiwelcome_zorai": {
         "name": "Chatea aquí con jugadores cuyos avatares también son iniciados."

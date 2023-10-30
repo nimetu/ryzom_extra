@@ -30816,10 +30816,10 @@
         "screagen": "Псайкукет"
     },
     "cpcfa1": {
-        "name": "Безмятежная псикопла",
-        "p": "Безмятежные псикоплы",
-        "creagen": "Безмятежных псикопл",
-        "screagen": "Безмятежную псикоплу"
+        "name": "Тренировка псикопла",
+        "p": "Тренировка псикоплы",
+        "creagen": "Тренировка псикопл",
+        "screagen": "Тренировку псикоплу"
     },
     "cpcfa2": {
         "name": "Беспечная псикопла",
@@ -33073,9 +33073,9 @@
     },
     "object_pr_s3_ploomweed_a": {
         "name": "Ploomweed Dash",
-        "p": "",
-        "creagen": "",
-        "screagen": ""
+        "p": "Ploomweed Dash",
+        "creagen": "Ploomweed Dash",
+        "screagen": "Ploomweed Dash"
     },
     "object_pr_s3_ploomweed_b": {
         "name": "Ploomweed Zuc",
@@ -33110,6 +33110,12 @@
     "zig_capryni_for": {
         "name": "",
         "p": "",
+        "creagen": "",
+        "screagen": ""
+    },
+    "zig_gubani_pr": {
+        "name": "Zig Gubani Albinos",
+        "p": "Zig Gubani Albinos",
         "creagen": "",
         "screagen": ""
     },

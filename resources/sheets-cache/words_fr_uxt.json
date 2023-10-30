@@ -5915,6 +5915,9 @@
     "uiautomaticcamera": {
         "name": "Caméra automatique"
     },
+    "uiautomaticlight": {
+        "name": "Allumer la lumière à la connexion"
+    },
     "uiawrsf": {
         "name": "Toutes armes et combat rapproché"
     },
@@ -11153,6 +11156,9 @@
     "uiinterfacescale": {
         "name": "Échelle d’interface"
     },
+    "uiinterfacescaleauto": {
+        "name": "Taille d'interface automatique"
+    },
     "uiinterrupt": {
         "name": "Interrompu !"
     },
@@ -11413,6 +11419,9 @@
     },
     "uiitgateofobscurity": {
         "name": "gate"
+    },
+    "uiitgift": {
+        "name": "Cadeau"
     },
     "uiitgroveofconfusion": {
         "name": "grove"
@@ -13386,7 +13395,7 @@
         "name": "Parler à"
     },
     "uimk_actions": {
-        "name": "Actions"
+        "name": "Niveaux"
     },
     "uimk_attack": {
         "name": "Attaquer \/ Désengager"
@@ -13410,7 +13419,7 @@
         "name": "Emotes"
     },
     "uimk_encyclopedia": {
-        "name": "Encyclopédie"
+        "name": "Actions"
     },
     "uimk_game": {
         "name": "Jeu"
@@ -13560,7 +13569,7 @@
         "name": "Inventaire"
     },
     "uimk_window3": {
-        "name": "Actions"
+        "name": "NIveaux"
     },
     "uimk_window4": {
         "name": "Missions"
@@ -13621,6 +13630,9 @@
     },
     "uimmacros": {
         "name": "Macros"
+    },
+    "uimmacrounassign": {
+        "name": ""
     },
     "uimmadel": {
         "name": "Annuler l'action"
@@ -15138,16 +15150,16 @@
         "name": "@{FE7F}Le foyer des Dunes de l'Exil @{FFFF}:\nRéduit les dégats des coups critiques de @{2F2F}%p"
     },
     "uipvpeffect_region_enchantedisle_bonus": {
-        "name": "@{FE7F}Le foyer de l'Ile Enchanté @{FFFF}:\nAugmente la sagesse de @{2F2F}%n"
+        "name": "@{FE7F}Le foyer de l'Île Enchantée @{FFFF}:\nAugmente la sagesse de @{2F2F}%n"
     },
     "uipvpeffect_region_enchantedisle_malus": {
-        "name": "@{FE7F}Le foyer de l'Ile Enchanté @{FFFF}:\nRéduit la sagesse de @{2F2F}%n"
+        "name": "@{FE7F}Le foyer de l'île Enchantée @{FFFF}:\nRéduit la sagesse de @{2F2F}%n"
     },
     "uipvpeffect_region_fleetinggarden_bonus": {
-        "name": "@{FE7F}Le foyer du jardin Fugace @{FFFF}:\nAugmente l'intelligence de @{2F2F}%n"
+        "name": "@{FE7F}Le foyer du Jardin Fugace @{FFFF}:\nAugmente l'intelligence de @{2F2F}%n"
     },
     "uipvpeffect_region_fleetinggarden_malus": {
-        "name": "@{FE7F}Le foyer du jardin Fugace @{FFFF}:\nRéduit l'intelligence de @{2F2F}%n"
+        "name": "@{FE7F}Le foyer du Jardin Fugace @{FFFF}:\nRéduit l'intelligence de @{2F2F}%n"
     },
     "uipvpeffect_region_forbidden_depths_bonus": {
         "name": "@{FE7F}Le foyer des Profondeurs Interdites @{FFFF}:\nAugmente la vitesse de déplacement de @{2F2F}%p"
@@ -16611,7 +16623,7 @@
         "name": "il y a de l'orage de sciure dans l'air."
     },
     "uisap": {
-        "name": "Sève"
+        "name": "Sève du personnage"
     },
     "uisapbardisplay": {
         "name": "Affichage Sève"
@@ -17511,7 +17523,7 @@
         "name": "Centrer sur vous-même"
     },
     "uiteam": {
-        "name": "ÉQUIPE"
+        "name": "Équipe"
     },
     "uiteamchat": {
         "name": "Chat de l'équipe"
@@ -17794,6 +17806,9 @@
     },
     "uitoggledodgeparry": {
         "name": "Esquive \/ Parade"
+    },
+    "uitogglefreelook": {
+        "name": "Basculer le Mode Observateur"
     },
     "uitoggleinventory": {
         "name": "Act\/Désact l'inventaire"

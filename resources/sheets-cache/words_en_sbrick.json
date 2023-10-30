@@ -19,6 +19,16 @@
         "description": "You are protected from magic attacks.",
         "description2": ""
     },
+    "aqua_speed": {
+        "name": "Aquatic Propulsor",
+        "ia": "a",
+        "da": "the",
+        "p": "Aquatic Propulsors",
+        "pia": "",
+        "pda": "the",
+        "description": "",
+        "description2": ""
+    },
     "bapa01": {
         "name": "Teleport",
         "ia": "a",
@@ -41539,6 +41549,36 @@
         "description": "Multiplies the Allegoric effect by @{5F5F}9@{FFFF}.",
         "description2": ""
     },
+    "jloot_forage": {
+        "name": "Joyful Harvest",
+        "ia": "a",
+        "da": "the",
+        "p": "Joyful Harvests",
+        "pia": "",
+        "pda": "the",
+        "description": "@{5F5F}0.1% @{FFFF}chance to @{5F5F}extract, during an ectraction session, an item to bring to the Collector in Capitals for identification.",
+        "description2": ""
+    },
+    "jloot_generic": {
+        "name": "Profitable Loot",
+        "ia": "a",
+        "da": "the",
+        "p": "Profitable Loots",
+        "pia": "",
+        "pda": "the",
+        "description": "Turn loot materials into generic ones for common creatures. @{5F5F}0.1% @{FFFF}chance to @{5F5F}get double quantity of some materials.",
+        "description2": ""
+    },
+    "jloot_hunt": {
+        "name": "Happy Hunt",
+        "ia": "a",
+        "da": "the",
+        "p": "Happy Hunts",
+        "pia": "",
+        "pda": "the",
+        "description": "@{5F5F}0.1% @{FFFF}chance to @{5F5F}find, during a hunt session, an unidentified object to give to Collector NPC in Capitals.",
+        "description2": ""
+    },
     "jrez_fulllife_fyros": {
         "name": "Back in Glory",
         "ia": "a",
@@ -41657,6 +41697,26 @@
         "pia": "",
         "pda": "the",
         "description": "@{5F5F}3% @{FFFF}chance to recover, at the time of your resurrection, @{5F5F}half @{FFFF}of your life, stamina, sap and focus maxima. @{FAAF}Witherings and Nexus Minor only.",
+        "description2": ""
+    },
+    "jrez_lastpoint": {
+        "name": "Last breath",
+        "ia": "a",
+        "da": "the",
+        "p": "Last breaths",
+        "pia": "",
+        "pda": "the",
+        "description": "@{5F5F}0.5% @{FFFF}chance to @{5F5F}survive with 1 HP instead of dying.",
+        "description2": ""
+    },
+    "jrez_nodp": {
+        "name": "Sweet Death",
+        "ia": "a",
+        "da": "the",
+        "p": "Sweet Deaths",
+        "pia": "the",
+        "pda": "the",
+        "description": "@{5F5F}1% @{FFFF}chance of {5F5F}no death penality @{FFFF}after a resurrection.",
         "description2": ""
     },
     "jrez_nodp_fyros": {

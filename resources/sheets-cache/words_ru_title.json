@@ -1,4 +1,16 @@
 {
+    "2604ambreyuboball": {
+        "name": "Янтарный Обладатель Медали - Юбо Болл - Атис Геймс 2604",
+        "women_name": "Янтарная Обладательница Медали - Юбо Болл - Атис Геймс 2604"
+    },
+    "2604corneyuboball": {
+        "name": "Рогатый Обладатель Медали - Юбо Болл - Атис Геймс 2604",
+        "women_name": "Рогатая Обладательница Медали - Юбо Болл - Атис Геймс 2604"
+    },
+    "2604nacreyuboball": {
+        "name": "Перламутровый Обладатель Медали - Юбо Болл - Атис Геймс 2604",
+        "women_name": "Перламутровая Обладательница Медали - Юбо Болл - Атис Геймс 2604"
+    },
     "2609_1": {
         "name": "Атисианских игр 2609 - янтарная медаль",
         "women_name": "Атисианских игр 2609 - янтарная медаль"
@@ -70,6 +82,10 @@
     "2620_number3_triathlon": {
         "name": "Роговая медаль - Триатлон",
         "women_name": "Роговая медаль - Триатлон"
+    },
+    "2621_storyteller": {
+        "name": "Атисмас Рассказчик историй - 2621",
+        "women_name": "Атисмас Рассказчик историй - 2621"
     },
     "accomplisheddisciple": {
         "name": "Accomplished Kami Disciple",
@@ -163,6 +179,14 @@
         "name": "Fyros akenakos",
         "women_name": "Fyros akenakos"
     },
+    "akenakosdyron": {
+        "name": "Dyron akenakos",
+        "women_name": "Dyron akenakos"
+    },
+    "akenakospyr": {
+        "name": "Pyr akenakos",
+        "women_name": "Pyr akenakos"
+    },
     "akenos": {
         "name": "Fyros akenos",
         "women_name": "Fyros akenos"
@@ -190,6 +214,10 @@
     "anarchist": {
         "name": "Anarchist",
         "women_name": "Anarchist"
+    },
+    "animal_trainer": {
+        "name": "",
+        "women_name": ""
     },
     "anlorwinn_yuboball_tournament_champion": {
         "name": "Чемпион турнира Анлор Винн Юбо Болл",
@@ -247,9 +275,37 @@
         "name": "Atys Citizen",
         "women_name": "Atys Citizen"
     },
+    "atysgames2589_yuboballsecond": {
+        "name": "Перламутровый Обладатель Медали - Юбо Болл, Атис Геймс 2589",
+        "women_name": "Перламутровая Обладательница Медали - Юбо Болл, Атис Геймс 2589"
+    },
+    "atysgames2589_yuboballwinner": {
+        "name": "Янтарный Обладатель Медали - Юбо Болл, Атис Геймс 2589",
+        "women_name": "Янтарная Обладательница Медали - Юбо Болл, Атис Геймс 2589"
+    },
     "atysguardian": {
         "name": "Страж Атиса",
         "women_name": ""
+    },
+    "atysmas_artist": {
+        "name": "Художник Атиства",
+        "women_name": "Художница Атиства"
+    },
+    "atysmas_elves": {
+        "name": "Атиства эльф",
+        "women_name": "Атиства эльф"
+    },
+    "atysmas_fairy": {
+        "name": "Фея Атиства",
+        "women_name": "Фея Атиства"
+    },
+    "atysmas_pixie": {
+        "name": "Атиства Пикси",
+        "women_name": "Атиства Пикси"
+    },
+    "atysmas_rudolf": {
+        "name": "Атиства Юбо Друг",
+        "women_name": "Атиства Юбо Подруга"
     },
     "atysmas_storyteller": {
         "name": "Атисмас Рассказчик историй",
@@ -783,9 +839,9 @@
         "name": "(Глашатай города)",
         "women_name": ""
     },
-    "fct_civil": {
-        "name": "",
-        "women_name": ""
+    "fct_collector": {
+        "name": "(Коллекционер)",
+        "women_name": "(Коллекционер)"
     },
     "fct_confgu": {
         "name": "Братство счастливого губани",
@@ -2158,6 +2214,10 @@
     "fournisseur_datysoel": {
         "name": "Поставщик Атисмаса",
         "women_name": "Поставщица Атисмаса"
+    },
+    "frozen": {
+        "name": "Замороженный",
+        "women_name": "Замороженная"
     },
     "fyros_armorer_apprentice": {
         "name": "Доспехи файросов: Ученик",
@@ -4992,7 +5052,7 @@
         "women_name": ""
     },
     "gn_kami_welcomer_z4": {
-        "name": "Глашатай Ками в Узловине Безумия",
+        "name": "Глашатай Ками в Узле Безумия",
         "women_name": ""
     },
     "gn_kami_welcomer_z5": {
@@ -5500,7 +5560,7 @@
         "women_name": ""
     },
     "gn_karavan_welcomer_z4": {
-        "name": "Глашатай Каравана в Узловине Безумия",
+        "name": "Глашатай Каравана в Узле Безумия",
         "women_name": ""
     },
     "gn_karavan_welcomer_z5": {
@@ -7571,6 +7631,10 @@
         "name": "Lor-Pyk'al",
         "women_name": "Lor-Pyk'al"
     },
+    "lumographer": {
+        "name": "Люциограф",
+        "women_name": "Люциограф"
+    },
     "maceman": {
         "name": "Сокрушитель",
         "women_name": "Сокрушитель"
@@ -7959,9 +8023,17 @@
         "name": "Проводник по Зоре",
         "women_name": ""
     },
+    "official_brewer": {
+        "name": "Официальный пивовар свадьбы",
+        "women_name": "Официальный пивовар свадьбы"
+    },
     "offsup": {
         "name": "Старший офицер гильдии",
         "women_name": "Старший офицер гильдии"
+    },
+    "old_lands_explorer": {
+        "name": "Исследователь древних земель",
+        "women_name": "Исследователь древних земель"
     },
     "organisateurmarcheavalae": {
         "name": "Organisateur du Marché d'Avalae",
@@ -8067,6 +8139,10 @@
         "name": "Ranger's Termites Expert",
         "women_name": "Ranger's Termites Expert"
     },
+    "rapid_ronny_runner": {
+        "name": "Быстрый Ронни Раннер",
+        "women_name": "Быстрая Ронни Раннера"
+    },
     "recidivist_refugee": {
         "name": "Беженец-рецидивист",
         "women_name": "Беженец-рецидивист"
@@ -8094,6 +8170,10 @@
     "rifleman": {
         "name": "Стрелок из винтовки",
         "women_name": "Стрелок из винтовки"
+    },
+    "ronny_runner": {
+        "name": "Ронни Раннер",
+        "women_name": "Ронни Раннера"
     },
     "royal_linguist": {
         "name": "Royal Linguist",
@@ -8671,6 +8751,18 @@
         "name": "Ученик воина",
         "women_name": "Ученица воина"
     },
+    "wedding_bard": {
+        "name": "Свадебный бард",
+        "women_name": "Свадебный бард"
+    },
+    "wedding_drunkard": {
+        "name": "Свадебный пьяница",
+        "women_name": "Свадебный пьяница"
+    },
+    "wedding_witness": {
+        "name": "Свидетель на свадьбе",
+        "women_name": "Свидетель на свадьбе"
+    },
     "windchild": {
         "name": "Дитя ветра",
         "women_name": ""
@@ -8678,6 +8770,10 @@
     "windguardian": {
         "name": "Страж ветра",
         "women_name": ""
+    },
+    "winner_2624": {
+        "name": "Мистер Атис 2624",
+        "women_name": "Мисс Атис 2624"
     },
     "winnerraceatysmas2019": {
         "name": "Буран",
@@ -8692,8 +8788,8 @@
         "women_name": "Пастушка Юбо"
     },
     "yuboball_2614": {
-        "name": "Yubo Ball - 2614",
-        "women_name": "Yubo Ball - 2614"
+        "name": "Юбо Болл - 2614",
+        "women_name": "Юбо Болл - 2614"
     },
     "zombie": {
         "name": "Зомби",

@@ -4046,5 +4046,21 @@
         "givable": 0,
         "mountable": 0,
         "display_in_radar": 1
+    },
+    "basic_fyros_male_tribe_renegades": {
+        "sheetid": "basic_fyros_male_tribe_renegades",
+        "gender": 0,
+        "race": "0",
+        "fame": "tribe_renegades",
+        "speed": 6,
+        "region_force": 0,
+        "force_level": 0,
+        "level": 1,
+        "selectable": 1,
+        "talkable": 1,
+        "attackable": 1,
+        "givable": 0,
+        "mountable": 0,
+        "display_in_radar": 1
     }
 }

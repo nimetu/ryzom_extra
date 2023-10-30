@@ -2286,7 +2286,7 @@
         "name": "Meisterschmied leichter Nahkampfwaffen"
     },
     "melee_warrior": {
-        "name": "Nahkämpfer"
+        "name": "Nahkampfkrieger"
     },
     "melee_warrior_apprentice": {
         "name": "Krieger-Lehrling"
@@ -5915,6 +5915,9 @@
     "uiautomaticcamera": {
         "name": "Automatische Kamera"
     },
+    "uiautomaticlight": {
+        "name": "Licht bei Anschluss einschalten"
+    },
     "uiawrsf": {
         "name": "allen Waffen und Nahkampf"
     },
@@ -7902,7 +7905,7 @@
         "name": "GESICHT"
     },
     "uicp_menu_5": {
-        "name": "AKTIONEN"
+        "name": "HINTERGRUND"
     },
     "uicp_name_cancel": {
         "name": "ABBRECHEN"
@@ -11153,6 +11156,9 @@
     "uiinterfacescale": {
         "name": "Skalierung UI"
     },
+    "uiinterfacescaleauto": {
+        "name": "Automatische Schnittstellenskalierung"
+    },
     "uiinterrupt": {
         "name": "Unterbrochen!"
     },
@@ -11196,37 +11202,37 @@
         "name": "RAUM"
     },
     "uiitabyssofichor": {
-        "name": "abyss"
+        "name": "Ichor"
     },
     "uiitalmati": {
-        "name": "almati"
+        "name": "Almati"
     },
     "uiitavalae": {
-        "name": "avalae"
+        "name": "Avalae"
     },
     "uiitavendale": {
-        "name": "avendale"
+        "name": "Avendale"
     },
     "uiitbountybeaches": {
-        "name": "bounty"
+        "name": "Straende"
     },
     "uiitcrystabell": {
-        "name": "crystabell"
+        "name": "Crystabell"
     },
     "uiitdavae": {
-        "name": "davae"
+        "name": "Davae"
     },
     "uiitdewdrops": {
-        "name": "dewdrop"
+        "name": "Tautropf"
     },
     "uiitdunesofexil": {
-        "name": "dunes"
+        "name": "Verbann"
     },
     "uiitdyron": {
-        "name": "dyron"
+        "name": "Dyron"
     },
     "uiitelusiveforest": {
-        "name": "elusive"
+        "name": "UnerWald"
     },
     "uiitem11to15": {
         "name": "Gegenstandsstufe von 11 bis 15"
@@ -11298,7 +11304,7 @@
         "name": "Aktiviert eine @{2F2F}Aura der Ausdauer@{FFFF} mit einem Bonus von @{2F2F}%modifier@{FFFF} über %minutes Minuten und %secondes Sekunden mit einem Radius von %radius.\nDeaktivierung: Ziel = %targetDisableTime sek, Benutzer = %userDisableTime sek."
     },
     "uiitemconsumableeffectupcharac": {
-        "name": "Gibt einen Bonus von @{2F2F}%charac@{FFFF} Punkt(en) auf @{2F2F}%bonus@{FFFF}\nfür %minutes Minuten and %secondes Sekunden."
+        "name": "Gibt einen Bonus von @{2F2F}%bonus\n@{FFFF} Punkt(en) auf @{2F2F}%charac@{FFFF}\nfür %minutes Minuten and %secondes Sekunden."
     },
     "uiitemfx_ise_craft_add_limit": {
         "name": "@{2F2F}%p0% @{FFFF}Chance, die Werte des hergestellten Gegenstandes um @{2F2F}%p1% zu erhöhen."
@@ -11394,133 +11400,136 @@
         "name": "@{FF08}"
     },
     "uiitenchantedisle": {
-        "name": "enchanted"
+        "name": "VerzauIn"
     },
     "uiitfairhaven": {
-        "name": "fairhaven"
+        "name": "Fairhaven"
     },
     "uiitfleetinggarden": {
-        "name": "fleeting"
+        "name": "Vergaeng"
     },
     "uiitforbiddendepths": {
-        "name": "forbidden"
+        "name": "Verboten"
     },
     "uiitfount": {
-        "name": "fount"
+        "name": "Ursprung"
     },
     "uiitfrahartowers": {
-        "name": "frahar"
+        "name": "Frahar"
     },
     "uiitgateofobscurity": {
-        "name": "gate"
+        "name": "Dunkel"
+    },
+    "uiitgift": {
+        "name": "Geschenk"
     },
     "uiitgroveofconfusion": {
-        "name": "grove"
+        "name": "Verwirrung"
     },
     "uiitgroveofumbra": {
-        "name": "grove"
+        "name": "Umbra"
     },
     "uiithavenofpurity": {
-        "name": "haven"
+        "name": "Reinheit"
     },
     "uiithereticshovel": {
-        "name": "heretic"
+        "name": "Ketzers"
     },
     "uiithiddensource": {
-        "name": "hidden"
+        "name": "Quelle"
     },
     "uiithoicho": {
-        "name": "hoicho"
+        "name": "HoiCho"
     },
     "uiitjenlai": {
-        "name": "jenlai"
+        "name": "JenLai"
     },
     "uiitknollofdissent": {
-        "name": "knoll"
+        "name": "Abtruenn"
     },
     "uiitknotofdementia": {
-        "name": "knot"
+        "name": "Demenz"
     },
     "uiitlagoonsofloria": {
-        "name": "lagoon"
+        "name": "Lagunen"
     },
     "uiitlandofcontinuity": {
-        "name": "land"
+        "name": "Kontinui"
     },
     "uiitmaidengrove": {
-        "name": "maiden"
+        "name": "Jungfrau"
     },
     "uiitmincho": {
-        "name": "mincho"
+        "name": "MinCho"
     },
     "uiitnatae": {
-        "name": "natae"
+        "name": "Natae"
     },
     "uiitnexus": {
-        "name": "nexus"
+        "name": "Nexus"
     },
     "uiitoflovaksoasis": {
-        "name": "oflovak"
+        "name": "Oflovaks"
     },
     "uiitoutlawcanyon": {
-        "name": "outlaw"
+        "name": "Canyon"
     },
     "uiitpyr": {
-        "name": "pyr"
+        "name": "Pyr"
     },
     "uiitrangercamp": {
-        "name": "ranger"
+        "name": "Ranger"
     },
     "uiitrestingwater": {
-        "name": "resting"
+        "name": "Stilles"
     },
     "uiitsavagedunes": {
-        "name": "savage"
+        "name": "Wilde"
     },
     "uiitsawdustmines": {
-        "name": "sawdust"
+        "name": "Saegemin"
     },
     "uiitscorchedcorridor": {
-        "name": "scorched"
+        "name": "Sengende"
     },
     "uiitshatteredruins": {
-        "name": "shattered"
+        "name": "Ruinen"
     },
     "uiitshininglake": {
-        "name": "shining"
+        "name": "Funkelnd"
     },
     "uiitsunkencity": {
-        "name": "sunken"
+        "name": "Versunke"
     },
     "uiitthesos": {
-        "name": "thesos"
+        "name": "Thesos"
     },
     "uiittrenchoftrials": {
-        "name": "trench"
+        "name": "Heimsuch"
     },
     "uiitunderspring": {
-        "name": "under"
+        "name": "Quelle"
     },
     "uiitupperbog": {
-        "name": "upper"
+        "name": "Sumpf"
     },
     "uiitvoid": {
-        "name": "void"
+        "name": "Nichts"
     },
     "uiitwindermeer": {
-        "name": "windermeer"
+        "name": "Windermeer"
     },
     "uiitwindsofmuse": {
-        "name": "winds"
+        "name": "Winde"
     },
     "uiitwindygate": {
-        "name": "windy"
+        "name": "Pforte"
     },
     "uiityrkanis": {
-        "name": "yrkanis"
+        "name": "Yrkanis"
     },
     "uiitzora": {
-        "name": "zora"
+        "name": "Zora"
     },
     "uijauges": {
         "name": "MEINE WERTE-ANZEIGE"
@@ -13386,7 +13395,7 @@
         "name": "REDE MIT"
     },
     "uimk_actions": {
-        "name": "AKTIONEN"
+        "name": "Levels"
     },
     "uimk_attack": {
         "name": "ANGRIFF\/ABBRECHEN"
@@ -13410,7 +13419,7 @@
         "name": "EMOTES"
     },
     "uimk_encyclopedia": {
-        "name": "Enzyklopädie"
+        "name": "Aktionen"
     },
     "uimk_game": {
         "name": "SPIEL"
@@ -13560,7 +13569,7 @@
         "name": "Inventar"
     },
     "uimk_window3": {
-        "name": "Aktionen"
+        "name": "Levels"
     },
     "uimk_window4": {
         "name": "Missionen"
@@ -13621,6 +13630,9 @@
     },
     "uimmacros": {
         "name": "MAKROS"
+    },
+    "uimmacrounassign": {
+        "name": ""
     },
     "uimmadel": {
         "name": "AKTION LÖSCHEN"
@@ -14928,7 +14940,7 @@
         "name": "Neue Aktion erstellen"
     },
     "uiphrasecredits": {
-        "name": "AUSGLEICH:"
+        "name": "Über Ryzom \/ Abspann:"
     },
     "uiphrasedisplaytextlist": {
         "name": "Detaillierte Liste"
@@ -17712,7 +17724,7 @@
         "name": "Mit Rechtsklick auf das Hauptchatfenster kannst du deinen Nachrichtenfilter einstellen."
     },
     "uitips4": {
-        "name": "Drücke 'F1','F2','F3' oder 'F4', um zwischen den Oberflächen (UIs) umzuschalten\nHalte 'F1', 'F2', 'F3' oder 'F4' gedrückt, um ins Fenster-Auswahlmenü zu gelangen"
+        "name": "Drücke 'F1','F2','F3' oder 'F4', um zwischen den Nutzer-Interfaces (UIs) umzuschalten\nHalte 'F1', 'F2', 'F3' oder 'F4' gedrückt, um ins Auswahlmenü zu gelangen"
     },
     "uitips5": {
         "name": "Drücke '1', '2' ... '9', um die entsprechenden Aktionen in der oberen Aktionsleiste auszuführen.\nDrücke SHIFT + '1', '2' ... '9', um die entsprechenden Aktionen in der unteren Aktionsleiste auszuführen."
@@ -17794,6 +17806,9 @@
     },
     "uitoggledodgeparry": {
         "name": "Ausweichen \/ Abwehren"
+    },
+    "uitogglefreelook": {
+        "name": "Freier Mauszeiger umschalten"
     },
     "uitoggleinventory": {
         "name": "Inventar ein-\/ausschalten"

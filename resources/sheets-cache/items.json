@@ -120103,7 +120103,7 @@
         "item_type": 5,
         "race": 0,
         "quality": 0,
-        "bulk": 5,
+        "bulk": 0,
         "icon": {
             "main": "teddy_bear.png",
             "back": "bk_generic.png"
@@ -122624,7 +122624,7 @@
         "item_type": 68,
         "race": 3,
         "quality": 0,
-        "bulk": 150,
+        "bulk": 50,
         "icon": {
             "main": "ico_mission_barrel.png",
             "back": "bk_tryker.png"
@@ -122639,7 +122639,7 @@
         "item_type": 68,
         "race": 1,
         "quality": 0,
-        "bulk": 1,
+        "bulk": 50,
         "icon": {
             "main": "ico_mission_barrel.png",
             "back": "bk_fyros.png"
@@ -128616,7 +128616,7 @@
         "item_type": 5,
         "race": 0,
         "quality": 0,
-        "bulk": 5,
+        "bulk": 0,
         "icon": {
             "main": "teddy_bear.png",
             "back": "bk_generic.png"
@@ -128629,7 +128629,7 @@
         "item_type": 5,
         "race": 0,
         "quality": 0,
-        "bulk": 5,
+        "bulk": 0,
         "icon": {
             "main": "teddy_bear.png",
             "back": "bk_generic.png"
@@ -128642,7 +128642,7 @@
         "item_type": 5,
         "race": 0,
         "quality": 0,
-        "bulk": 5,
+        "bulk": 0,
         "icon": {
             "main": "teddy_bear.png",
             "back": "bk_generic.png"
@@ -128655,7 +128655,7 @@
         "item_type": 5,
         "race": 0,
         "quality": 0,
-        "bulk": 5,
+        "bulk": 0,
         "icon": {
             "main": "teddy_bear.png",
             "back": "bk_generic.png"
@@ -128668,7 +128668,7 @@
         "item_type": 5,
         "race": 0,
         "quality": 0,
-        "bulk": 5,
+        "bulk": 0,
         "icon": {
             "main": "teddy_bear.png",
             "back": "bk_generic.png"
@@ -128681,7 +128681,7 @@
         "item_type": 5,
         "race": 0,
         "quality": 0,
-        "bulk": 5,
+        "bulk": 0,
         "icon": {
             "main": "teddy_bear.png",
             "back": "bk_generic.png"
@@ -129472,7 +129472,7 @@
         "bulk": 0,
         "icon": {
             "main": "w_pa_ring.png",
-            "back": "bk_mission.png"
+            "back": "grey_0.png"
         }
     },
     "slot_handl": {
@@ -144458,7 +144458,7 @@
         "item_type": 5,
         "race": 0,
         "quality": 0,
-        "bulk": 5,
+        "bulk": 0,
         "icon": {
             "main": "teddy_bear.png",
             "back": "bk_generic.png"
@@ -144471,7 +144471,7 @@
         "item_type": 5,
         "race": 0,
         "quality": 0,
-        "bulk": 5,
+        "bulk": 0,
         "icon": {
             "main": "teddy_bear.png",
             "back": "bk_generic.png"
@@ -144484,7 +144484,7 @@
         "item_type": 5,
         "race": 0,
         "quality": 0,
-        "bulk": 5,
+        "bulk": 0,
         "icon": {
             "main": "teddy_bear.png",
             "back": "bk_generic.png"
@@ -144940,6 +144940,192 @@
         "icon": {
             "main": "mp_bud.png",
             "back": "bk_consommable.png"
+        }
+    },
+    "icomarm1bm_1": {
+        "sheetid": "icomarm1bm_1",
+        "type": 3,
+        "item_type": 2,
+        "race": 0,
+        "quality": 2,
+        "bulk": 10,
+        "icon": {
+            "main": "mw_mace.png",
+            "back": "bk_outpost.png"
+        },
+        "craftplan": "bcomarem1bm_1",
+        "skill": "sfm1bmm",
+        "damage": 2,
+        "reach": 5,
+        "effects": [
+            "ise_fight_add_critical:0.1"
+        ]
+    },
+    "super_aqua_speed": {
+        "sheetid": "super_aqua_speed",
+        "type": 35,
+        "item_type": 68,
+        "race": 0,
+        "quality": 0,
+        "bulk": 0,
+        "icon": {
+            "main": "aqua_speed.png",
+            "back": "bk_tryker.png"
+        }
+    },
+    "secretions_of_kitins": {
+        "sheetid": "secretions_of_kitins",
+        "type": 28,
+        "item_type": 68,
+        "race": 0,
+        "quality": 0,
+        "bulk": 0,
+        "icon": {
+            "main": "mp_generic_colorize.png",
+            "back": "bk_mission.png"
+        },
+        "txt": "Kitin"
+    },
+    "ulo_1": {
+        "sheetid": "ulo_1",
+        "type": 28,
+        "item_type": 68,
+        "race": 0,
+        "quality": 0,
+        "bulk": 1,
+        "icon": {
+            "main": "ulo.png",
+            "back": "bk_mission.png",
+            "over": "pw_light.png"
+        },
+        "txt": "CHANCE"
+    },
+    "ulo_2": {
+        "sheetid": "ulo_2",
+        "type": 28,
+        "item_type": 68,
+        "race": 0,
+        "quality": 0,
+        "bulk": 1,
+        "icon": {
+            "main": "ulo.png",
+            "back": "bk_mission.png",
+            "over": "pw_medium.png"
+        },
+        "txt": "CHANCE"
+    },
+    "ulo_3": {
+        "sheetid": "ulo_3",
+        "type": 28,
+        "item_type": 68,
+        "race": 0,
+        "quality": 0,
+        "bulk": 1,
+        "icon": {
+            "main": "ulo.png",
+            "back": "bk_mission.png",
+            "over": "pw_heavy.png"
+        },
+        "txt": "CHANCE"
+    },
+    "ulo_4": {
+        "sheetid": "ulo_4",
+        "type": 28,
+        "item_type": 68,
+        "race": 0,
+        "quality": 0,
+        "bulk": 1,
+        "icon": {
+            "main": "ulo.png",
+            "back": "bk_mission.png",
+            "over": "pw_4.png"
+        },
+        "txt": "CHANCE"
+    },
+    "ulo_5": {
+        "sheetid": "ulo_5",
+        "type": 28,
+        "item_type": 68,
+        "race": 0,
+        "quality": 0,
+        "bulk": 1,
+        "icon": {
+            "main": "ulo.png",
+            "back": "bk_mission.png",
+            "over": "pw_5.png"
+        },
+        "txt": "CHANCE"
+    },
+    "ulo_6": {
+        "sheetid": "ulo_6",
+        "type": 28,
+        "item_type": 68,
+        "race": 0,
+        "quality": 0,
+        "bulk": 1,
+        "icon": {
+            "main": "ulo.png",
+            "back": "bk_mission.png",
+            "over": "pw_6.png"
+        },
+        "txt": "CHANCE"
+    },
+    "system_mp_loot": {
+        "sheetid": "system_mp_loot",
+        "type": 6,
+        "item_type": 68,
+        "bulk": 0.5,
+        "icon": {
+            "main": "mp_generic_loot.png"
+        },
+        "txt": "Generic",
+        "ecosystem": 0,
+        "grade": 0,
+        "mpft": "67108863",
+        "color": 1,
+        "is_looted": -1,
+        "is_mission": 0,
+        "index": 392
+    },
+    "gift": {
+        "sheetid": "gift",
+        "type": 37,
+        "item_type": 68,
+        "race": 0,
+        "quality": 0,
+        "bulk": 1,
+        "icon": {
+            "main": "gift.png",
+            "back": "bk_atysmas.png"
+        },
+        "txt": "uiitGift"
+    },
+    "water_trek_barrel": {
+        "sheetid": "water_trek_barrel",
+        "type": 28,
+        "item_type": 68,
+        "race": 0,
+        "quality": 0,
+        "bulk": 100,
+        "icon": {
+            "main": "ico_mission_barrel.png",
+            "back": "bk_event.png"
+        },
+        "icon_color": {
+            "main": -1911625
+        },
+        "txt": "WATER"
+    },
+    "crystalized_allegory": {
+        "sheetid": "crystalized_allegory",
+        "type": 29,
+        "item_type": 68,
+        "race": 0,
+        "quality": 0,
+        "bulk": 0,
+        "icon": {
+            "main": "cristal_allegory.png",
+            "back": "bk_generic.png"
         }
     }
 }

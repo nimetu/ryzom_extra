@@ -894,5 +894,21 @@
         "givable": 0,
         "mountable": 1,
         "display_in_radar": 1
+    },
+    "gibbais_harvesters": {
+        "sheetid": "gibbais_harvesters",
+        "gender": 0,
+        "race": "20",
+        "fame": "none",
+        "speed": 6,
+        "region_force": 4,
+        "force_level": 2,
+        "level": 120,
+        "selectable": 1,
+        "talkable": 0,
+        "attackable": 1,
+        "givable": 0,
+        "mountable": 0,
+        "display_in_radar": 1
     }
 }

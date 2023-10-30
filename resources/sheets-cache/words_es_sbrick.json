@@ -19,6 +19,16 @@
         "description": "Estas protegido de los ataques mágicos.",
         "description2": ""
     },
+    "aqua_speed": {
+        "name": "Propulsor Acuático",
+        "ia": "uno",
+        "da": "el",
+        "p": "Propulsores Acuáticos",
+        "pia": "unos",
+        "pda": "los",
+        "description": "",
+        "description2": ""
+    },
     "bapa01": {
         "name": "Telepuerto",
         "ia": "un",
@@ -410,13 +420,13 @@
         "description2": ""
     },
     "bcbmea09_2": {
-        "name": "Plan de Bastón de Espigadores de la Savia",
-        "ia": "un",
+        "name": "Plan de Bastón de Recolectores de Savia",
+        "ia": "uno",
         "da": "el",
         "p": "",
-        "pia": "",
-        "pda": "",
-        "description": "Plan de Bastón de Espigadores de la Savia.",
+        "pia": "unos",
+        "pda": "los",
+        "description": "Plan de Bastón de Recolectores de Savia.",
         "description2": ""
     },
     "bcbmea09_3": {
@@ -2301,11 +2311,11 @@
     },
     "bcfjea05": {
         "name": "Collar Fyros - Calidad Básica",
-        "ia": "un",
+        "ia": "uno",
         "da": "el",
         "p": "",
-        "pia": "",
-        "pda": "",
+        "pia": "unos",
+        "pda": "los",
         "description": "Plan de fabricación de Collar Fyros - Calidad Básica",
         "description2": ""
     },
@@ -4500,13 +4510,13 @@
         "description2": "Construcción Kami 25 - Calidad: 250"
     },
     "bckammi_ep2_large_bark_splinter": {
-        "name": "Fragmento Grande de Corteza",
-        "ia": "un",
+        "name": "Trozo Grande de Corteza",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos Grandes de Corteza",
-        "pia": "",
+        "p": "Trozos Grandes de Corteza",
+        "pia": "unos",
         "pda": "los",
-        "description": "Plan de Fabricación \/ Fragmento Grande de Corteza.",
+        "description": "Plan de Fabricación \/ Trozo Grande de Corteza.",
         "description2": ""
     },
     "bckammi_ep2_large_bud": {
@@ -4600,13 +4610,13 @@
         "description2": ""
     },
     "bckammi_ep2_small_bark_splinter": {
-        "name": "Fragmento Pequeño de Corteza",
-        "ia": "un",
+        "name": "Trozo Pequeño de Corteza",
+        "ia": "uno",
         "da": "el",
-        "p": "Fragmentos Pequeños de Corteza",
-        "pia": "",
+        "p": "Trozos Pequeños de Corteza",
+        "pia": "unos",
         "pda": "los",
-        "description": "Plan de Fabricación\/Fragmento Pequeño de Corteza.",
+        "description": "Plan de Fabricación\/Trozo Pequeño de Corteza.",
         "description2": ""
     },
     "bckammi_ep2_small_bud": {
@@ -13080,33 +13090,33 @@
         "description2": "Joyas Tryker 25 - Calidad: 250"
     },
     "bctjea01": {
-        "name": "Plan de Fabricación de Tobillera Tryker",
-        "ia": "un",
+        "name": "Tobillera Tryker - Calidad Básica",
+        "ia": "uno",
         "da": "el",
         "p": "",
-        "pia": "",
-        "pda": "",
-        "description": "Plan de fabricación de tobilleras Tryker.",
+        "pia": "unos",
+        "pda": "los",
+        "description": "Plan de fabricación de tobilleras Tryker de calidad básica",
         "description2": ""
     },
     "bctjea01_2": {
-        "name": "Plan de Fabricación para la Tobillera de Mediana Calidad Tryker",
-        "ia": "un",
+        "name": "Tobillera Tryker - Calidad Media",
+        "ia": "uno",
         "da": "el",
-        "p": "Planes de Fabricación para la Tobillera de Mediana Calidad Tryker",
-        "pia": "",
+        "p": "",
+        "pia": "unos",
         "pda": "los",
-        "description": "Estancia para el Plan de Fabricación de Tobillera de Mediana Calidad Tryker.",
+        "description": "Estancia para el Plan de Fabricación de Tobillera Tryker de calidad media",
         "description2": ""
     },
     "bctjea01_3": {
-        "name": "Plan de Fabricación para Tobillera de Alta Calidad Tryker",
-        "ia": "un",
+        "name": "Tobillera Tryker - Alta Calidad",
+        "ia": "uno",
         "da": "el",
-        "p": "Planes de Fabricación de Tobillera de Alta Calidad Tryker",
-        "pia": "",
+        "p": "",
+        "pia": "unos",
         "pda": "los",
-        "description": "Estancia para el Plan de Fabricación de Tobillera de Alta Calidad Tryker.",
+        "description": "Estancia para fabricar Tobillera Tryker de Alta Calidad",
         "description2": ""
     },
     "bctjea02": {
@@ -13200,33 +13210,33 @@
         "description2": ""
     },
     "bctjea05": {
-        "name": "Plan de Fabricación de Pendiente Tryker",
-        "ia": "un",
+        "name": "Collar Tryker - Calidad Básica",
+        "ia": "uno",
         "da": "el",
-        "p": "",
-        "pia": "",
-        "pda": "",
-        "description": "Plan de fabricación de pendientes Tryker.",
+        "p": "Planes de Collar Tryker de Calidad Básica",
+        "pia": "unos",
+        "pda": "los",
+        "description": "Plan de Collar Tryker.",
         "description2": ""
     },
     "bctjea05_2": {
-        "name": "Plan de Fabricación para Pendiente de Mediana Calidad Tryker",
-        "ia": "un",
+        "name": "Collar Tryker - Calidad Media",
+        "ia": "uno",
         "da": "el",
-        "p": "Planes de Fabricación para Pendiente de Mediana Calidad Tryker",
-        "pia": "",
+        "p": "Planes de Collar Tryker de Calidad Media",
+        "pia": "unos",
         "pda": "los",
-        "description": "Estancia para el Plan de Fabricación de Pendiente de Mediana Calidad Tryker.",
+        "description": "Estancia para Plan de Collar Tryker de Calidad Media",
         "description2": ""
     },
     "bctjea05_3": {
-        "name": "Plan de Fabricación para Pendiente de Alta Calidad Tryker",
-        "ia": "un",
+        "name": "Collar Tryker - Alta Calidad",
+        "ia": "uno",
         "da": "el",
-        "p": "Planes de Fabricación para Pendiente de Alta Calidad Tryker",
-        "pia": "",
+        "p": "Planes de Collar Tryker de Alta Calidad",
+        "pia": "unos",
         "pda": "los",
-        "description": "Estancia para el Plan de Fabricación de Pendiente de Alta Calidad Tryker.",
+        "description": "Estancia para el Plan de Collar Tryker de Alta Calidad",
         "description2": ""
     },
     "bctjea06": {
@@ -16330,33 +16340,33 @@
         "description2": "Joyas Zoraï 25 - Calidad: 250"
     },
     "bczjea01": {
-        "name": "Plan de Fabricación de Tobillera Zoraï",
-        "ia": "un",
+        "name": "Tobillera Zoraï - Calidad Básica",
+        "ia": "uno",
         "da": "el",
         "p": "",
-        "pia": "",
-        "pda": "",
-        "description": "Plan de fabricación de tobilleras Zoraï.",
+        "pia": "unos",
+        "pda": "los",
+        "description": "Estancia para fabricar tobilleras Zoraï de calidad básica",
         "description2": ""
     },
     "bczjea01_2": {
-        "name": "Plan de Fabricación para Tobillera de Mediana Calidad Zoraï",
-        "ia": "un",
+        "name": "Tobillera Zoraï- Calidad Media",
+        "ia": "uno",
         "da": "el",
-        "p": "Planes de Fabricación para Tobillera de Mediana Calidad Zoraï",
-        "pia": "",
+        "p": "",
+        "pia": "unos",
         "pda": "los",
-        "description": "Estancia para el Plan de Fabricación de Tobillera de Mediana Calidad Zoraï.",
+        "description": "Estancia fabricar Tobillera Zoraï de calidad media.",
         "description2": ""
     },
     "bczjea01_3": {
-        "name": "Plan de Fabricación para Tobillera de Alta Calidad Zoraï",
-        "ia": "un",
+        "name": "Tobillera Zoraï - Alta Calidad",
+        "ia": "uno",
         "da": "el",
-        "p": "Planes de Fabricación para Tobillera de Alta Calidad Zoraï",
-        "pia": "",
+        "p": "",
+        "pia": "unos",
         "pda": "los",
-        "description": "Estancia para el Plan de Fabricación de Tobillera de Alta Calidad Zoraï.",
+        "description": "Estancia para fabricar Tobillera Zoraï de Alta Calidad.",
         "description2": ""
     },
     "bczjea02": {
@@ -16450,33 +16460,33 @@
         "description2": ""
     },
     "bczjea05": {
-        "name": "Plan de Fabricación de Pendiente Zoraï",
-        "ia": "un",
+        "name": "Collar Zoraï - Calidad Básica",
+        "ia": "uno",
         "da": "el",
-        "p": "",
-        "pia": "",
-        "pda": "",
-        "description": "Plan de fabricación de pendientes Zoraï.",
+        "p": "Planes de Collar Zoraï de Calidad Básica",
+        "pia": "unos",
+        "pda": "los",
+        "description": "Estancia para fabricación de Collar Zoraï de Calidad Básica",
         "description2": ""
     },
     "bczjea05_2": {
-        "name": "Plan de Fabricación para Pendiente de Mediana Calidad Zoraï",
-        "ia": "un",
+        "name": "Collar Zoraï - Calidad Media",
+        "ia": "uno",
         "da": "el",
-        "p": "Planes de Fabricación para Pendiente de Mediana Calidad Zoraï",
-        "pia": "",
+        "p": "Planes de Collar Zoraï de Calidad Media",
+        "pia": "unos",
         "pda": "los",
-        "description": "Estancia para el Plan de Fabricación de Pendiente de Mediana Calidad Zoraï.",
+        "description": "Estancia para fabricación de Collar Zoraï de Calidad Media",
         "description2": ""
     },
     "bczjea05_3": {
-        "name": "Plan de Fabricación para Pendiente de Alta Calidad Zoraï",
-        "ia": "un",
+        "name": "Collar Zoraï - Alta Calidad",
+        "ia": "uno",
         "da": "el",
-        "p": "Planes de Fabricación para Pendiente de Alta Calidad Zoraï",
-        "pia": "",
+        "p": "Planes de Collar Zoraï de Alta Calidad",
+        "pia": "unos",
         "pda": "los",
-        "description": "Estancia para el Plan de Fabricación de Pendiente de Alta Calidad Zoraï.",
+        "description": "Estancia para fabricación de Collar Zoraï de Alta Calidad",
         "description2": ""
     },
     "bczjea06": {
@@ -25070,13 +25080,13 @@
         "description2": ""
     },
     "bhfpmk02": {
-        "name": "Hasta Materiales de Selección",
-        "ia": "unos",
-        "da": "los",
+        "name": "Hasta Materiales Selectos",
+        "ia": "uno",
+        "da": "el",
         "p": "",
-        "pia": "",
-        "pda": "",
-        "description": "Permite encontrar hasta materias primas selectas & de selección.",
+        "pia": "unos",
+        "pda": "los",
+        "description": "Permite encontrar hasta materias primas selectas.",
         "description2": ""
     },
     "bhfpmk03": {
@@ -25110,13 +25120,13 @@
         "description2": ""
     },
     "bhfpmk06": {
-        "name": "Solo Materiales de Selección",
-        "ia": "unos",
-        "da": "los",
+        "name": "Solo Materiales Selectos",
+        "ia": "uno",
+        "da": "el",
         "p": "",
-        "pia": "",
-        "pda": "",
-        "description": "Permite encontrar solo materias primas selectas & de selección.",
+        "pia": "unos",
+        "pda": "los",
+        "description": "Permite encontrar solo materias primas selectas.",
         "description2": ""
     },
     "bhfpmk07": {
@@ -37741,11 +37751,11 @@
     },
     "bsfeb08": {
         "name": "Muralla de Fuego",
-        "ia": "un",
+        "ia": "uno",
         "da": "el",
         "p": "",
-        "pia": "",
-        "pda": "",
+        "pia": "unos",
+        "pda": "los",
         "description": "Crea una muralla de fuego a tu alrededor que hiere a los enemigos que te golpean en combate cuerpo a cuerpo.",
         "description2": ""
     },
@@ -37781,12 +37791,12 @@
     },
     "bsfma01": {
         "name": "Poder de Provocación 1",
-        "ia": "un",
+        "ia": "uno",
         "da": "el",
         "p": "",
-        "pia": "",
-        "pda": "",
-        "description": "Provoca a tu objetivo para que hacer que te ataque. Funciona un 100% en criaturas con un promedio de habilidad de hasta 20.",
+        "pia": "unos",
+        "pda": "los",
+        "description": "Provoca a tu objetivo para hacer que te ataque. Funciona un 100% en criaturas con un promedio de habilidad de hasta 20.",
         "description2": "Efecto de Provocación - Nivel de habilidad ideal del objetivo: 20"
     },
     "bsfma02": {
@@ -41539,6 +41549,36 @@
         "description": "Multiplica el efecto Alegórico por @{5F5F}9@{FFFF}.",
         "description2": ""
     },
+    "jloot_forage": {
+        "name": "Alegre Cosecha",
+        "ia": "una",
+        "da": "la",
+        "p": "Alegres Cosechas",
+        "pia": "unas",
+        "pda": "las",
+        "description": "@{5F5F}0.1% @{FFFF} de chance para  {5F5F}encontrar, durante un sesión de cosecha, un objeto no identificado para dar a un PNJ Coleccionista en las Capitales",
+        "description2": ""
+    },
+    "jloot_generic": {
+        "name": "Botín rentable",
+        "ia": "uno",
+        "da": "el",
+        "p": "Botines rentables",
+        "pia": "unos",
+        "pda": "los",
+        "description": "Cambia materiales de botín  en genéricos para criaturas comunes. @{5F5F}0.1% @{FFFF}de chance para {5F5F}obtener doble cantidad de materiales.",
+        "description2": ""
+    },
+    "jloot_hunt": {
+        "name": "Feliz Cacería",
+        "ia": "uno",
+        "da": "el",
+        "p": "Felices Cacerías",
+        "pia": "unos",
+        "pda": "los",
+        "description": "@{5F5F}0.1% @{FFFF} de chance de  {5F5F}encontrar, durante una sesión de caza, un objeto no identificado para dar a un PNJ Coleccionista en las Capitales.",
+        "description2": ""
+    },
     "jrez_fulllife_fyros": {
         "name": "Regreso en gloria",
         "ia": "",
@@ -41659,6 +41699,26 @@
         "description": "el @{5F5F}3% de @{FFFF}chance de recuperar, al momento de tu resurrección,  @{5F5F}la mitad @{FFFF}de tu salud, savia, resistencia y concentración máxima.",
         "description2": "@{FAAF}Solo en Witherings y el Nexo."
     },
+    "jrez_lastpoint": {
+        "name": "Último respiro",
+        "ia": "uno",
+        "da": "el",
+        "p": "Últimos Respiros",
+        "pia": "unos",
+        "pda": "los",
+        "description": "Un @{5F5F}0.5% @{FFFF} de chance de {5F5F}mantenerse con 1 de HP en vez de morir.",
+        "description2": ""
+    },
+    "jrez_nodp": {
+        "name": "Dulce muerte",
+        "ia": "uno",
+        "da": "el",
+        "p": "Dulce muertes",
+        "pia": "unos",
+        "pda": "los",
+        "description": "el @{5F5F}1% de @{FFFF}chance de @{5F5F}no sufrir penalización por muerte @{FFFF}después de una resurrección.",
+        "description2": ""
+    },
     "jrez_nodp_fyros": {
         "name": "Dulce muerte",
         "ia": "una",
@@ -41691,11 +41751,11 @@
     },
     "jrez_nodp_zorai": {
         "name": "Dulce muerte",
-        "ia": "una",
-        "da": "la",
+        "ia": "uno",
+        "da": "el",
         "p": "Dulces muerte",
-        "pia": "unas",
-        "pda": "las",
+        "pia": "unos",
+        "pda": "los",
         "description": "el @{5F5F}1% de @{FFFF}chance de @{5F5F}no sufrir penalización por muerte @{FFFF}después de una resurrección.",
         "description2": "@{FAAF}Solo en Witherings y el Nexo."
     },

@@ -19,6 +19,16 @@
         "description": "Vous protège des attaques magiques.",
         "description2": ""
     },
+    "aqua_speed": {
+        "name": "Propulseur aquatique",
+        "ia": "un",
+        "da": "le",
+        "p": "Propulseurs aquatiques",
+        "pia": "des",
+        "pda": "les",
+        "description": "",
+        "description2": ""
+    },
     "bapa01": {
         "name": "Pacte de Téléportation",
         "ia": "un",
@@ -41539,6 +41549,36 @@
         "description": "Multiplie l'effet de l'Allégorie par @{5F5F}9@{FFFF}.",
         "description2": ""
     },
+    "jloot_forage": {
+        "name": "Forage généreux",
+        "ia": "un",
+        "da": "l'",
+        "p": "Forages généreux",
+        "pia": "des",
+        "pda": "les",
+        "description": "@{5F5F}0.1% @{FFFF}de chance d'@{5F5F}extraire, pendant une session de forage, un objet à apporter au Collectionneur dans les capitales",
+        "description2": ""
+    },
+    "jloot_generic": {
+        "name": "Dépouille générique",
+        "ia": "un",
+        "da": "l'",
+        "p": "Dépouilles génériques",
+        "pia": "des",
+        "pda": "les",
+        "description": "Obtention de matières génériques au lieu des matières propres en dépeçant le cadavre de créatures communes. @{5F5F}0.1% @{FFFF} de chance de @{5F5F}doubler les quantités d'une partie du butin",
+        "description2": ""
+    },
+    "jloot_hunt": {
+        "name": "Chasse radieuse",
+        "ia": "un",
+        "da": "l'",
+        "p": "Chasses radieuses",
+        "pia": "des",
+        "pda": "les",
+        "description": "@{5F5F}0.1% @{FFFF}de chance de @{5F5F}trouver, pendant une session de chasse, un objet à apporter au Collectionneur des Capitales pour identification",
+        "description2": ""
+    },
     "jrez_fulllife_fyros": {
         "name": "Retour en gloire",
         "ia": "un",
@@ -41659,10 +41699,30 @@
         "description": "@{5F5F}3% @{FFFF}de chances de récupérer, lors de votre résurrection, la @{5F5F}moitié @{FFFF}de vos maximums de vie, endurance, sève et concentration. @{FAAF}Efficace uniquement dans le Pays Malade et au Nexus Mineur.",
         "description2": ""
     },
+    "jrez_lastpoint": {
+        "name": "Mort épargnée",
+        "ia": "un",
+        "da": "la",
+        "p": "Morts épargnées",
+        "pia": "des",
+        "pda": "les",
+        "description": "@{5F5F}0.5% @{FFFF}de chance de @{5F5F}survivre avec 1 point de vie au lieu de mourir",
+        "description2": ""
+    },
+    "jrez_nodp": {
+        "name": "Mort douce",
+        "ia": "un",
+        "da": "l'",
+        "p": "Mort douces",
+        "pia": "des",
+        "pda": "les",
+        "description": "@{5F5F}1% @{FFFF}de chances de ne pas avoir de @{5F5F}pénalité de mort @{FFFF}après une résurrection.",
+        "description2": ""
+    },
     "jrez_nodp_fyros": {
         "name": "Mort douce",
-        "ia": "une",
-        "da": "la",
+        "ia": "un",
+        "da": "l'",
         "p": "Morts douces",
         "pia": "des",
         "pda": "les",

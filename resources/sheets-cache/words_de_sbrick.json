@@ -23,6 +23,18 @@
         "description": "Du bist jetzt durch eine Aura vor magischen Attacken geschützt",
         "description2": ""
     },
+    "aqua_speed": {
+        "name": "aquatischer Beschleuniger",
+        "named": "aquatische Beschleuniger",
+        "p": "aquatische Beschleuniger",
+        "pd": "aquatischen Beschleuniger",
+        "ia": "eine",
+        "da": "die",
+        "pia": "einen",
+        "pda": "die",
+        "description": "",
+        "description2": ""
+    },
     "bapa01": {
         "name": "Teleportation",
         "named": "Teleportation",
@@ -436,8 +448,8 @@
         "named": "Handwerksplan: Palor der Sapsklaven",
         "p": "Handwerksplan: Palor der Sapsklaven",
         "pd": "Handwerksplan: Palor der Sapsklaven",
-        "ia": "ein",
-        "da": "der",
+        "ia": "eine",
+        "da": "die",
         "pia": "",
         "pda": "die",
         "description": "Einhand-Lanze der Sapsklaven",
@@ -448,8 +460,8 @@
         "named": "Handwerksplan: Nanka des Heiligen Sap",
         "p": "Handwerksplan: Nanka des Heiligen Sap",
         "pd": "Handwerksplan: Nanka des Heiligen Sap",
-        "ia": "ein",
-        "da": "der",
+        "ia": "eine",
+        "da": "die",
         "pia": "",
         "pda": "die",
         "description": "Einhand-Streitkolben des Heiligen Sap",
@@ -10432,9 +10444,9 @@
         "named": "Sap-Bonus auf Handwerkserzeugnis 15",
         "p": "Sap-Boni auf Handwerkserzeugnis 15",
         "pd": "Sap-Boni auf Handwerkserzeugnis 15",
-        "ia": "ein",
-        "da": "der",
-        "pia": "",
+        "ia": "eine",
+        "da": "die",
+        "pia": "einen",
         "pda": "die",
         "description": "Erhöht den maximalen Sap des Trägers um 75.",
         "description2": "Sap-Bonus auf Handwerkserzeugnis: 75"
@@ -49847,6 +49859,42 @@
         "description": "Multipliziert den allegorischen Effekt mit @{5F5F}9@{FFFF}.",
         "description2": "Verstärker für Allegorie-Effekte"
     },
+    "jloot_forage": {
+        "name": "Fröhliche Ernte",
+        "named": "Fröhliche Ernte",
+        "p": "fröhlichen Ernten",
+        "pd": "fröhlichen Ernten",
+        "ia": "eine",
+        "da": "die",
+        "pia": "einen",
+        "pda": "die",
+        "description": "@{5F5F}0,1% @{FFFF}Chance@{5F5F}, während einer Grabungssession ein nicht identifiziertes Objekt zu finden, um es dem Sammler-NPC in den Hauptstädten zu geben",
+        "description2": ""
+    },
+    "jloot_generic": {
+        "name": "Profitabel loot",
+        "named": "Profitabel loot",
+        "p": "profitablen Looten",
+        "pd": "profitablen Looten",
+        "ia": "eine",
+        "da": "die",
+        "pia": "einen",
+        "pda": "die",
+        "description": "Loot-Materialien in generische Materialien für gewöhnliche Kreaturen umwandeln. @{5F5F}0.1% @{FFFF}Chance auf @{5F5F}doppelte Menge einiger Materialien",
+        "description2": ""
+    },
+    "jloot_hunt": {
+        "name": "Glückliche Jagd",
+        "named": "Glückliche Jagd",
+        "p": "glücklichen Jagden",
+        "pd": "glücklichen Jagden",
+        "ia": "eine",
+        "da": "die",
+        "pia": "einen",
+        "pda": "die",
+        "description": "@{5F5F}0,1% @{FFFF}Chance@{5F5F}, während einer Jagdsession einen nicht identifizierten Objekt zu finden, um es dem Sammler-NPC in den Hauptstädten zu geben",
+        "description2": ""
+    },
     "jrez_fulllife_fyros": {
         "name": "Glorreiche Rückkehr",
         "named": "Glorreiche Rückkehr",
@@ -49990,6 +50038,30 @@
         "pda": "",
         "description": "@{5F5F}3% @{FFFF}Chance bei Wiederauferstehung @{5F5F}die Hälfte @{FFFF}des Lebens, der Ausdauer, des Sap und des Fokus wiederzuerlangen. @{FAAF}Nur in den Verdorrenden Landen und im Nexus.",
         "description2": "gut zu Fuß"
+    },
+    "jrez_lastpoint": {
+        "name": "letzte Atemzug",
+        "named": "letzte Atemzug",
+        "p": "letzten Atemzügen",
+        "pd": "letzten Atemzügen",
+        "ia": "eine",
+        "da": "die",
+        "pia": "einen",
+        "pda": "die",
+        "description": "@{5F5F}0,5% @{FFFF}Chance@{5F5F}, mit 1 HP zu überleben, anstatt zu sterben",
+        "description2": ""
+    },
+    "jrez_nodp": {
+        "name": "Süßer Tod",
+        "named": "",
+        "p": "",
+        "pd": "",
+        "ia": "eine",
+        "da": "die",
+        "pia": "einen",
+        "pda": "die",
+        "description": "@{5F5F}1% @{FFFF}Chance @{5F5F}keine Todesstrafe @{FFFF}nach einer Wiederauferstehung zu erhalten.",
+        "description2": ""
     },
     "jrez_nodp_fyros": {
         "name": "Süßer Tod",
