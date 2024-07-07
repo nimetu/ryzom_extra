@@ -87,6 +87,10 @@
         "name": "Атисмас Рассказчик историй - 2621",
         "women_name": "Атисмас Рассказчик историй - 2621"
     },
+    "2626_storyteller": {
+        "name": "Атисмас Рассказчик историй - 2626",
+        "women_name": "Атисмас Рассказчик историй - 2626"
+    },
     "accomplisheddisciple": {
         "name": "Accomplished Kami Disciple",
         "women_name": "Accomplished Kami Disciple"
@@ -4583,10 +4587,6 @@
         "name": "Алтарь Ками",
         "women_name": ""
     },
-    "gn_kami_altar_": {
-        "name": "Алтарь Ками в  Роще заблуждений",
-        "women_name": ""
-    },
     "gn_kami_altar_almati": {
         "name": "Алтарь Ками в лесах Алмати",
         "women_name": ""
@@ -4637,6 +4637,10 @@
     },
     "gn_kami_altar_gate_of_obscurity": {
         "name": "Алтарь Ками у  Врат неопределенности",
+        "women_name": ""
+    },
+    "gn_kami_altar_groveofconfusion": {
+        "name": "Алтарь Ками в  Роще заблуждений",
         "women_name": ""
     },
     "gn_kami_altar_groveofumbra": {
@@ -5103,10 +5107,6 @@
         "name": "Алтарь Каравана",
         "women_name": ""
     },
-    "gn_karavan_altar_": {
-        "name": "Алтарь Каравана в  Роще заблуждений",
-        "women_name": ""
-    },
     "gn_karavan_altar_almati": {
         "name": "Алтарь Каравана в лесах Алмати",
         "women_name": ""
@@ -5145,6 +5145,10 @@
     },
     "gn_karavan_altar_gate_of_obscurity": {
         "name": "Алтарь Каравана у  Врат неопределенности",
+        "women_name": ""
+    },
+    "gn_karavan_altar_groveofconfusion": {
+        "name": "Алтарь Каравана в  Роще заблуждений",
         "women_name": ""
     },
     "gn_karavan_altar_groveofumbra": {
@@ -8131,9 +8135,17 @@
         "name": "Аспирант рейнджера",
         "women_name": ""
     },
+    "ranger_campfire": {
+        "name": "Костер",
+        "women_name": "Костер"
+    },
     "ranger_companion": {
         "name": "Ranger Companion",
         "women_name": "Ranger Companion"
+    },
+    "ranger_cooking_fire": {
+        "name": "Cooking Fire",
+        "women_name": "Cooking Fire"
     },
     "ranger_termite_expert": {
         "name": "Ranger's Termites Expert",
@@ -8166,6 +8178,10 @@
     "rendors_2614": {
         "name": "Ужас Рендоров - 2614",
         "women_name": "Ужас Рендоров - 2614"
+    },
+    "reporter": {
+        "name": "Reporter",
+        "women_name": "Reporter"
     },
     "rifleman": {
         "name": "Стрелок из винтовки",

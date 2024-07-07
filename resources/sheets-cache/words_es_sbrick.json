@@ -220,13 +220,13 @@
         "description2": ""
     },
     "bcbmea02": {
-        "name": "Plan de Pica de Guardias Fronterizos Matisianos",
-        "ia": "un",
+        "name": "Plan de Pica de Guardias Fronterizos Matis",
+        "ia": "uno",
         "da": "el",
         "p": "",
-        "pia": "",
-        "pda": "",
-        "description": "Plan de Pica de Guardias Fronterizos Matisianos",
+        "pia": "unos",
+        "pda": "los",
+        "description": "Plan de Pica de Guardias Fronterizos Matis",
         "description2": ""
     },
     "bcbmea02_2": {
@@ -450,13 +450,13 @@
         "description2": ""
     },
     "bcbmea10_2": {
-        "name": "Plan de Espada de la Tala y la Quema",
-        "ia": "un",
+        "name": "Plan de Espada de Cortar y Quemar",
+        "ia": "uno",
         "da": "el",
         "p": "",
-        "pia": "",
-        "pda": "",
-        "description": "Plan de Espada de la Tala y la Quema.",
+        "pia": "unos",
+        "pda": "los",
+        "description": "Plan de Espada de Cortar y Quemar",
         "description2": ""
     },
     "bcbmea10_3": {
@@ -41556,7 +41556,7 @@
         "p": "Alegres Cosechas",
         "pia": "unas",
         "pda": "las",
-        "description": "@{5F5F}0.1% @{FFFF} de chance para  {5F5F}encontrar, durante un sesión de cosecha, un objeto no identificado para dar a un PNJ Coleccionista en las Capitales",
+        "description": "@{5F5F}0.1% @{FFFF} de chance para @{5F5F}encontrar, durante un sesión de cosecha, un objeto no identificado para dar a un PNJ Coleccionista en las Capitales",
         "description2": ""
     },
     "jloot_generic": {
@@ -41566,7 +41566,7 @@
         "p": "Botines rentables",
         "pia": "unos",
         "pda": "los",
-        "description": "Cambia materiales de botín  en genéricos para criaturas comunes. @{5F5F}0.1% @{FFFF}de chance para {5F5F}obtener doble cantidad de materiales.",
+        "description": "Cambia materiales de botín  en genéricos para criaturas comunes. @{5F5F}0.1% @{FFFF}de chance para @{5F5F}obtener doble cantidad de materiales.",
         "description2": ""
     },
     "jloot_hunt": {
@@ -41679,6 +41679,16 @@
         "description": "el @{5F5F}3% de @{FFFF}chance de recuperar, al momento de tu resurrección, @{5F5F}la mitad @{FFFF}de tu salud, savia, resistencia y concentración máxima.",
         "description2": "@{FAAF}Solo en Alturas Verdes y el Nexo."
     },
+    "jrez_halflife_primes": {
+        "name": "",
+        "ia": "",
+        "da": "",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
+    },
     "jrez_halflife_tryker": {
         "name": "Regreso de pie",
         "ia": "",
@@ -41706,7 +41716,7 @@
         "p": "Últimos Respiros",
         "pia": "unos",
         "pda": "los",
-        "description": "Un @{5F5F}0.5% @{FFFF} de chance de {5F5F}mantenerse con 1 de HP en vez de morir.",
+        "description": "Un @{5F5F} 0.5% @{FFFF} de chance de @{5F5F} mantenerse con 1 de HP en vez de morir.",
         "description2": ""
     },
     "jrez_nodp": {

@@ -267,6 +267,10 @@
         "name": "2621 Atysmas Storyteller",
         "women_name": "2621 Atysmas Storyteller"
     },
+    "2626_storyteller": {
+        "name": "2626 Atysmas Storyteller",
+        "women_name": "2626 Atysmas Storyteller"
+    },
     "accomplisheddisciple": {
         "name": "Accomplished Kami Disciple",
         "women_name": "Accomplished Kami Disciple"
@@ -2554,6 +2558,10 @@
     "fournisseur_datysoel": {
         "name": "Atysmas Supplier",
         "women_name": "Atysmas Supplier"
+    },
+    "freedom_day_drinker": {
+        "name": "Freedom drinker",
+        "women_name": "Freedom drinker"
     },
     "frozen": {
         "name": "Frozen",
@@ -4935,10 +4943,6 @@
         "name": "Kami Altar",
         "women_name": ""
     },
-    "gn_kami_altar_": {
-        "name": "Grove of Confusion Kami Altar",
-        "women_name": ""
-    },
     "gn_kami_altar_almati": {
         "name": "Almati Wood Kami Altar",
         "women_name": ""
@@ -4989,6 +4993,10 @@
     },
     "gn_kami_altar_gate_of_obscurity": {
         "name": "Gate of Obscurity Kami Altar",
+        "women_name": ""
+    },
+    "gn_kami_altar_groveofconfusion": {
+        "name": "Grove of Confusion Kami Altar",
         "women_name": ""
     },
     "gn_kami_altar_groveofumbra": {
@@ -5455,10 +5463,6 @@
         "name": "Karavan Altar",
         "women_name": ""
     },
-    "gn_karavan_altar_": {
-        "name": "Grove of Confusion Karavan Altar",
-        "women_name": ""
-    },
     "gn_karavan_altar_almati": {
         "name": "Almati Wood Karavan Altar",
         "women_name": ""
@@ -5497,6 +5501,10 @@
     },
     "gn_karavan_altar_gate_of_obscurity": {
         "name": "Gate of Obscurity Karavan Altar",
+        "women_name": ""
+    },
+    "gn_karavan_altar_groveofconfusion": {
+        "name": "Grove of Confusion Karavan Altar",
         "women_name": ""
     },
     "gn_karavan_altar_groveofumbra": {
@@ -7679,6 +7687,10 @@
         "name": "Devourer of Hope",
         "women_name": "Devourer of Hope"
     },
+    "horror_teller": {
+        "name": "Horror Teller",
+        "women_name": "Horror Teller"
+    },
     "impaler": {
         "name": "Impaler",
         "women_name": "Impaler"
@@ -7915,6 +7927,10 @@
         "name": "Killer of Evil Marauder",
         "women_name": "Killer of Evil Marauder"
     },
+    "killjoy": {
+        "name": "Killjoy",
+        "women_name": "Killjoy"
+    },
     "kingdomdefender": {
         "name": "Defender of the Kingdom",
         "women_name": "Defender of the Kingdom"
@@ -7974,6 +7990,10 @@
     "legeant": {
         "name": "The Giant",
         "women_name": "The Giant"
+    },
+    "life_of_the_wedding": {
+        "name": "Life-of-the-wedding",
+        "women_name": "Life-of-the-wedding"
     },
     "lifestealer": {
         "name": "Life Stealer",
@@ -8571,6 +8591,10 @@
         "name": "[e]getplayerinfos(name)[\/e]",
         "women_name": "[e]getplayerinfos(name)[\/e]"
     },
+    "prankster": {
+        "name": "Prankster",
+        "women_name": "Prankster"
+    },
     "precurseurduchaos": {
         "name": "Herald of Chaos",
         "women_name": "Herald of Chaos"
@@ -8635,9 +8659,17 @@
         "name": "Ranger Aspirant",
         "women_name": "Ranger Aspirant"
     },
+    "ranger_campfire": {
+        "name": "Campfire",
+        "women_name": "Campfire"
+    },
     "ranger_companion": {
         "name": "Ranger Companion",
         "women_name": "Ranger Companion"
+    },
+    "ranger_cooking_fire": {
+        "name": "Cooking Fire",
+        "women_name": "Cooking Fire"
     },
     "ranger_termite_expert": {
         "name": "Ranger's Termites Expert",
@@ -8670,6 +8702,10 @@
     "rendors_2614": {
         "name": "Terror of Rendors - 2614",
         "women_name": "Terror of Rendors - 2614"
+    },
+    "reporter": {
+        "name": "Reporter",
+        "women_name": "Reporter"
     },
     "rifleman": {
         "name": "Rifleman",
@@ -9394,6 +9430,10 @@
     "yuboball_2614": {
         "name": "Yubo Ball - 2614",
         "women_name": "Yubo Ball - 2614"
+    },
+    "yubopetanque_champion": {
+        "name": "Yubo-petanque Champion",
+        "women_name": "Yubo-petanque Champion"
     },
     "yuboshunt": {
         "name": "Amber Medal-holder - Yubo Hunt, Atys Games 2589",

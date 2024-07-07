@@ -267,6 +267,10 @@
         "name": "Conteur d'Atysoël 2621",
         "women_name": "Conteuse d'Atysoël 2621"
     },
+    "2626_storyteller": {
+        "name": "Conteur d'Atysoël 2626",
+        "women_name": "Conteuse d'Atysoël 2626"
+    },
     "accomplisheddisciple": {
         "name": "Disciple Accompli des Kamis",
         "women_name": "Disciple Accomplie des Kamis"
@@ -2554,6 +2558,10 @@
     "fournisseur_datysoel": {
         "name": "Fournisseur d'Atysoël.",
         "women_name": "Fournisseuse d'Atysoël."
+    },
+    "freedom_day_drinker": {
+        "name": "Buveur de liberté",
+        "women_name": "Buveuse de liberté"
     },
     "frozen": {
         "name": "Congelé",
@@ -4935,10 +4943,6 @@
         "name": "Autel Kami",
         "women_name": ""
     },
-    "gn_kami_altar_": {
-        "name": "Autel Kami du Bosquet de la Confusion",
-        "women_name": ""
-    },
     "gn_kami_altar_almati": {
         "name": "Autel kamiste du Bois d'Almati",
         "women_name": ""
@@ -4989,6 +4993,10 @@
     },
     "gn_kami_altar_gate_of_obscurity": {
         "name": "Autel Kami de la Porte de l'Obscurité",
+        "women_name": ""
+    },
+    "gn_kami_altar_groveofconfusion": {
+        "name": "Autel Kami du Bosquet de la Confusion",
         "women_name": ""
     },
     "gn_kami_altar_groveofumbra": {
@@ -5455,10 +5463,6 @@
         "name": "Autel Karavan",
         "women_name": ""
     },
-    "gn_karavan_altar_": {
-        "name": "Autel Karavan du Bosquet de la Confusion",
-        "women_name": ""
-    },
     "gn_karavan_altar_almati": {
         "name": "Autel karavan du Bois d'Almati",
         "women_name": ""
@@ -5497,6 +5501,10 @@
     },
     "gn_karavan_altar_gate_of_obscurity": {
         "name": "Autel Karavan de la Porte de l'Obscurité",
+        "women_name": ""
+    },
+    "gn_karavan_altar_groveofconfusion": {
+        "name": "Autel Karavan du Bosquet de la Confusion",
         "women_name": ""
     },
     "gn_karavan_altar_groveofumbra": {
@@ -7679,6 +7687,10 @@
         "name": "Dévoreur d'Espoir",
         "women_name": "Dévoreur d'Espoir"
     },
+    "horror_teller": {
+        "name": "Guichetier de l'Horreur",
+        "women_name": "Guichetière de l'Horreur"
+    },
     "impaler": {
         "name": "Empaleur",
         "women_name": "Empaleuse"
@@ -7915,6 +7927,10 @@
         "name": "Tueur de Maraudeurs Maléfiques",
         "women_name": "Tueuse de Maraudeurs Maléfiques"
     },
+    "killjoy": {
+        "name": "Rabat-joie",
+        "women_name": "Rabat-joie"
+    },
     "kingdomdefender": {
         "name": "Défenseur du Royaume",
         "women_name": "Défenseur du Royaume"
@@ -7974,6 +7990,10 @@
     "legeant": {
         "name": "Le Géant",
         "women_name": "Le Géant"
+    },
+    "life_of_the_wedding": {
+        "name": "Boute-en-train du mariage",
+        "women_name": "Boute-en-train du mariage"
     },
     "lifestealer": {
         "name": "Voleur de Vies",
@@ -8093,7 +8113,7 @@
     },
     "master_heavy_axeman": {
         "name": "Exécuteur Ecarlate",
-        "women_name": "Exécuteur Ecarlate"
+        "women_name": "Exécutrice Ecarlate"
     },
     "master_heavy_bowman": {
         "name": "Maître Archer Lourd",
@@ -8571,6 +8591,10 @@
         "name": "[e]getplayerinfos(name)[\/e]",
         "women_name": "[e]getplayerinfos(name)[\/e]"
     },
+    "prankster": {
+        "name": "Petit farceur",
+        "women_name": "Petite farceuse"
+    },
     "precurseurduchaos": {
         "name": "Précurseur du Chaos",
         "women_name": "Précurseur du Chaos"
@@ -8635,9 +8659,17 @@
         "name": "Aspirant Ranger",
         "women_name": "Aspirante Ranger"
     },
+    "ranger_campfire": {
+        "name": "Feu de camp",
+        "women_name": "Feu de camp"
+    },
     "ranger_companion": {
         "name": "Compagnon Ranger",
         "women_name": "Compagnon Ranger"
+    },
+    "ranger_cooking_fire": {
+        "name": "Feu de cuisine",
+        "women_name": "Feu de cuisine"
     },
     "ranger_termite_expert": {
         "name": "Ranger Expert en Termites",
@@ -8670,6 +8702,10 @@
     "rendors_2614": {
         "name": "Terreur des Rendors - 2614",
         "women_name": "Terreur des Rendors - 2614"
+    },
+    "reporter": {
+        "name": "Reporter",
+        "women_name": "Reporter"
     },
     "rifleman": {
         "name": "Fusilier",
@@ -9406,6 +9442,10 @@
     "yuboball_2614": {
         "name": "Yubo Ball - 2614",
         "women_name": "Yubo Ball - 2614"
+    },
+    "yubopetanque_champion": {
+        "name": "Champion de Yubo-Pétanque",
+        "women_name": "Championne de Yubo-Pétanque"
     },
     "yuboshunt": {
         "name": "Médaillé d'Ambre - Chasse aux yubos, Jeux d'Atys 2589",

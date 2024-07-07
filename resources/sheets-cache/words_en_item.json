@@ -63071,6 +63071,24 @@
         "pda": "the",
         "description": ""
     },
+    "mp_colonne": {
+        "name": "Part of Column",
+        "ia": "a",
+        "da": "the",
+        "p": "Parts of Column",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "mp_hard": {
+        "name": "Generic Hard Raw Material",
+        "ia": "a",
+        "da": "the",
+        "p": "Generic Hard Raw Materials",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
     "mp_kami_ep2_choice_100": {
         "name": "Confirmed Kamist Resource",
         "ia": "a",
@@ -63247,6 +63265,42 @@
         "ia": "a",
         "da": "the",
         "p": "Major Karavaneer Apprentice Resources",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "mp_ornement": {
+        "name": "Ornamental Part",
+        "ia": "a",
+        "da": "the",
+        "p": "Ornamental Parts",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "mp_revetement": {
+        "name": "Covering Plate",
+        "ia": "a",
+        "da": "the",
+        "p": "Covering Plates",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "mp_socle": {
+        "name": "Part of Pedestal",
+        "ia": "a",
+        "da": "the",
+        "p": "Parts of Pedestal",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "mp_soft": {
+        "name": "Generic Soft\/Liquid Raw Material",
+        "ia": "a",
+        "da": "the",
+        "p": "Generic Soft\/Liquid Raw Material",
         "pia": "",
         "pda": "the",
         "description": ""

@@ -1,4 +1,19 @@
 {
+    "0_desc": {
+        "name": "Rede im 1. dynamischen Kanal des Spielers. Der erste dynamische Kanal ist üblicherweise der Fraktionskanal."
+    },
+    "1_desc": {
+        "name": "Rede im 2. dynamischen Chat-Kanal des Spielers. Der zweite dynamische Kanal ist normalerweise der Rassenkanal."
+    },
+    "2_desc": {
+        "name": "Rede im 3. dynamischen Kanal des Spielers. Dies könnte ein selbst angelegter Kanal oder ein Event-Kanal sein."
+    },
+    "3_desc": {
+        "name": "Rede im 4. dynamischen Kanal des Spielers. Dies könnte ein selbst angelegter Kanal oder ein Event-Kanal sein."
+    },
+    "4_desc": {
+        "name": "Rede im 5. dynamischen Chat-Kanal des Spielers. Du wirst nie so viele dynamische Kanäle haben, es sei denn, es ist ein Event-Kanal aktiv."
+    },
     "___faber_skill_sep___": {
         "name": "--------------------------------"
     },
@@ -13,6 +28,39 @@
     },
     "_yrkanis_citizen": {
         "name": "(Einwohner von Yrkanis)"
+    },
+    "a_desc": {
+        "name": "Um die Befehle im Spiel zu verwenden, wenn dein Account mit dem richtigen Privileg gekennzeichnet ist, verwende die folgenden Chat-Befehle im Spiel je nach Ziel: Für dich selbst"
+    },
+    "addfactionattackabletotarget_desc": {
+        "name": "Angriffsmöglichkeit für Spieler auf Ziel für bestimmte Fraktion hinzufügen"
+    },
+    "addguildmember_desc": {
+        "name": "Füge ein neues Mitglied der Gilde hinzu: <guild name> <member name>"
+    },
+    "addguildxp_desc": {
+        "name": "Füge XP der Gilde hinzu: <guild name> <XP (positiv oder negativ)>"
+    },
+    "addhp_desc": {
+        "name": "Füge HP einer NPC-Gruppe hinzu"
+    },
+    "addmission_desc": {
+        "name": "Füge einem Charakter eine Mission hinzu"
+    },
+    "addpetanimal_desc": {
+        "name": "Füge ein Tier dem Charakter hinzu: <PetTicket>"
+    },
+    "addposflag_desc": {
+        "name": "Füge einen Ortsmarker hinzu: <flag name>"
+    },
+    "addprofileparameter_desc": {
+        "name": "Füge Profil-Parameter einer NPC-Gruppe hinzu"
+    },
+    "addskillpoints_desc": {
+        "name": "Füge Fähigkeitspunkte des entsprechenden Typs hinzu (Kampf=0, Magie=1, Handwerk=2, Ernte=3): <SP type 0..3> <nb SP>"
+    },
+    "addxptoskill_desc": {
+        "name": "Sammle Erfahrung in der angegebenen Fertigkeit: <xp> <Fertigkeit> <Anzahl>"
     },
     "advanced_close_fighter": {
         "name": "Fortgeschrittener Nahkämpfer"
@@ -71,11 +119,35 @@
     "affliction_bringer": {
         "name": "Peiniger"
     },
+    "afk_autoresponse_desc": {
+        "name": "Die Nachricht ist optional und wird angezeigt, wenn dir ein Spieler eine Nachricht schickt."
+    },
+    "afk_desc": {
+        "name": "Aktiviert das afk-Tag, damit andere Spieler sehen können, dass du nicht an deinem Terminal bist. Dies ist nur ein visueller Indikator und schützt dich nicht vor Angriffen durch Flora, Fauna oder andere Spieler."
+    },
+    "aggro_desc": {
+        "name": "Mobs können einen Spieler angreifen?"
+    },
     "agp_trouble": {
         "name": "Dem Treiber war es nicht möglich AGP-Speicher zu belegen, was zu Funktions- und Anzeigeproblemen führen kann.\nMöchtest du mehr Details erfahren?"
     },
+    "aiaction_desc": {
+        "name": "eine NPC-Gruppe eine Ai-Aktion ausführen lassen"
+    },
+    "aiactionself_desc": {
+        "name": "eine NPC-Gruppe eine Ai-Aktion ausführen lassen"
+    },
     "alchemist": {
         "name": "Alchemist"
+    },
+    "allowsummonpet_desc": {
+        "name": "dem Spieler erlauben, sein Haustier einmal pro Haustier zu rufen"
+    },
+    "appzone_desc": {
+        "name": "die Anwendung öffnen und dabei XXX durch die ID der Anwendung ersetzen"
+    },
+    "appzone_hide_desc": {
+        "name": "Ausblenden der Webapps-Symbolleiste"
     },
     "archmage": {
         "name": "Elementarmagier"
@@ -84,7 +156,7 @@
         "name": "Rüstungsmacherlehrling"
     },
     "armorwear": {
-        "name": "Rüstung tragen"
+        "name": "Rüstungsabnutzung"
     },
     "arrivedgreatdesert": {
         "name": "Du bist östlich der Vitka-Oase in der großen Wüste angekommen."
@@ -98,11 +170,14 @@
     "artisan_apprentice": {
         "name": "Handwerker-Lehrling"
     },
+    "assist_desc": {
+        "name": "Zielt auf das Ziel der anvisierten Entität (typischerweise: bei einem offensiven Magier auf den Tank, den Heiler eines Ernters)."
+    },
     "atheavy": {
-        "name": "schwer"
+        "name": "schwere"
     },
     "atlight": {
-        "name": "leicht"
+        "name": "leichte"
     },
     "atmedium": {
         "name": "mittelschwer"
@@ -133,6 +208,9 @@
     },
     "axeman": {
         "name": "Axtkämpfer"
+    },
+    "b_desc": {
+        "name": "Um die Befehle im Spiel zu verwenden, wenn dein Account mit dem richtigen Privileg gekennzeichnet ist, verwende die folgenden Chat-Befehle im Spiel je nach Ziel: Auf dein Ziel"
     },
     "biomancer": {
         "name": "Biomagier"
@@ -185,6 +263,12 @@
     "bricktunknown": {
         "name": "unbekannt"
     },
+    "broadcast_desc": {
+        "name": "Senden einer Nachricht: repeat=<num repeat> oder during=<time in seconds> every=<delay in secondses> <message>"
+    },
+    "brutalquit_desc": {
+        "name": "Beendet den Spiel-Client sofort."
+    },
     "brute": {
         "name": "Stabkämpfer"
     },
@@ -193,6 +277,9 @@
     },
     "buffercaster": {
         "name": "Schutzmagier"
+    },
+    "c_desc": {
+        "name": "So verwendest du die Befehle im Spiel, wenn dein Konto mit dem richtigen Privileg gekennzeichnet ist Verwende die folgenden Chat-Befehle im Spiel je nach Ziel: Bei einer anderen Person"
     },
     "can_t_create_a_fullscreen_display": {
         "name": "Vollbildmodus kann nicht eingestellt werden"
@@ -212,8 +299,44 @@
     "celestial_guardian": {
         "name": "Himmelswächter"
     },
+    "changehaircut_desc": {
+        "name": "Ändere den Haarschnitt eines Spielers: <sheet name>"
+    },
+    "changemode_desc": {
+        "name": "Modus eines Spielers ändern: <mode>"
+    },
+    "changevar_desc": {
+        "name": "Ändere eine Variable eines Spielers: <var> <val>"
+    },
+    "channel_desc": {
+        "name": "Tritt dem Kanal mit dem angegebenen Namen bei oder erstellt ihn, wenn er noch nicht existiert."
+    },
+    "channel_leave_desc": {
+        "name": "Verlasse den Kanal mit dem angegebenen Namens."
+    },
+    "channel_password_desc": {
+        "name": "Einem passwortgeschützten Kanal beitreten oder einen solchen erstellen."
+    },
+    "channel_remove_admin_desc": {
+        "name": "Einen Kanal entfernen, auch wenn er passwortgeschützt ist"
+    },
+    "characterinventorydump_desc": {
+        "name": "Inventarinformationen des Charakters ausgeben: <Inventar> <vom Steckplatz> <zum Steckplatz>"
+    },
+    "charactermissiondump_desc": {
+        "name": "Missionsliste für einen Charakter ausgeben"
+    },
+    "chat_desc": {
+        "name": "Hält den Fokus auf dem Chat, Enter verlässt den Chat nicht."
+    },
+    "chatlog_desc": {
+        "name": "erstellt ein Chatlog im Speicherordner, der sich im Hauptverzeichnis von Ryzom befindet."
+    },
     "cheater": {
         "name": "Cheaten ist falsch, solltest du wissen..."
+    },
+    "checktargetsp_desc": {
+        "name": "Fertigkeitspunkte des Zielspielers überprüfen"
     },
     "childplay": {
         "name": "Ein Kinderspiel"
@@ -223,6 +346,24 @@
     },
     "civilizationknowledge": {
         "name": "ZIVILISATIONSWISSEN"
+    },
+    "clearaggrolist_desc": {
+        "name": "die AggroList einer NPC-Gruppe löschen"
+    },
+    "cleareventfaction_desc": {
+        "name": "Lösche die Event-Fraktion des Spielers: <Name des Spielers>"
+    },
+    "clearfriendslist_desc": {
+        "name": "Die Freundesliste eines Spielers löschen"
+    },
+    "clearguildmessage_desc": {
+        "name": "Die Gildennachricht des Tages löschen"
+    },
+    "clearignorelist_desc": {
+        "name": "Löschen der Ignorierliste eines Spielers"
+    },
+    "clearisfriendoflist_desc": {
+        "name": "Die 'ist befreundet mit'-Liste eines Spielers löschen"
     },
     "cleaver": {
         "name": "Aufspalter"
@@ -296,11 +437,41 @@
     "combat": {
         "name": "Kampf"
     },
+    "connectlangchannel_1_desc": {
+        "name": "wenn auf 1 gesetzt, verlässt du diesen Kanal"
+    },
+    "connectlangchannel_desc": {
+        "name": "Es gibt auch Universumskanäle \"pro Sprache\". Um ihnen beizutreten und sie zu verlassen, verwenden Sie den folgenden Befehl:"
+    },
+    "connectuserchannel_desc": {
+        "name": "Verbindung zum Benutzerkanal-Chat"
+    },
     "craft": {
         "name": "Handwerk"
     },
     "craftsman": {
         "name": "Handwerker"
+    },
+    "createcharacterstartskillsvalue_desc": {
+        "name": "Erstelle Charakter-Start-Fähigkeiten, Fähigkeitspunkte und Geld"
+    },
+    "createfullarmorset_desc": {
+        "name": "Erstelle einen Spieler und rüste ihn mit einem vollständigen Rüstungssatz aus: <Rasse (fyros\/matis\/zorai\/tryker)> <Typ (leicht\/mittel\/schwer)> <Qualität>"
+    },
+    "creategroup_desc": {
+        "name": "erstellt eine Gruppe von Gegenständen, ein Outfit, aus den Gegenständen, die der Charakter derzeit trägt; wenn der optionale Parameter 'true' angegeben wird, werden leere Slots nicht ausgerüstet"
+    },
+    "createiteminbag_desc": {
+        "name": "Erstelle einen Gegenstand und lege ihn in die Spielertasche: <sheetId>|<sheetName> <Menge> <Qualität>"
+    },
+    "createitemininv_desc": {
+        "name": "Erstellt einen Gegenstand und legt ihn in das angegebene Spielerinventar: <invId> <sheetId>|<sheetName> <Menge> <Qualität>"
+    },
+    "createitemintmpinv_desc": {
+        "name": "Erstelle einen Gegenstand und lege ihn in das temporäre Inventar des Spielers: <sheetId>|<sheetName> <Menge> <Qualität>"
+    },
+    "createnamediteminbag_desc": {
+        "name": "Erstelle einen benannten Gegenstand und lege ihn in die Spielertasche: <Gegenstandsname> <Menge>"
     },
     "crossbowman": {
         "name": "Armbrustschütze"
@@ -314,8 +485,20 @@
     "defensive_magician": {
         "name": "Defensiv-Magier"
     },
+    "deletegroup_desc": {
+        "name": "löscht die Gegenstandsgruppe"
+    },
+    "deleteinventoryitem_desc": {
+        "name": "Einen Gegenstand aus dem Inventar eines Charakters löschen: <Inventar> <Slot> <sheetname> <Qualität> <Menge>"
+    },
+    "delposflag_desc": {
+        "name": "Löschen einer Positionsmarkierung: <Flaggenname>"
+    },
     "desert_forager": {
         "name": "Wüstenernter"
+    },
+    "despawn_desc": {
+        "name": "Eine NPC-Gruppe entfernen"
     },
     "destroyer": {
         "name": "Zerstörer"
@@ -323,11 +506,26 @@
     "difficult": {
         "name": "Schwierig"
     },
+    "dismiss_desc": {
+        "name": "Teleportiert einen Spieler zurück an seine vorherige Position (vor dem letzten Aufruf von summonPlayer): <Name des Spielers>"
+    },
+    "displayforagerm_desc": {
+        "name": "Anzeige von abbaubaren Rohstoffen in der Nähe oder an der genauen Position eines Spielers: <exactPos=1> <extendedInfo=0>"
+    },
+    "displayinfosontarget_desc": {
+        "name": "Informationen zum Zielobjekt anzeigen"
+    },
+    "displayshopselector_desc": {
+        "name": "Shop-Auswahl für einen NPC anzeigen"
+    },
     "disturber": {
         "name": "Störenfried"
     },
     "dodge": {
         "name": "Ausweichen"
+    },
+    "dodge_desc": {
+        "name": "Den Verteidigungsmodus auf Ausweichen einstellen"
     },
     "dtacid": {
         "name": "Säure"
@@ -395,11 +593,44 @@
     "elementalist_apprentice": {
         "name": "Elementalisten-Lehrling"
     },
+    "emote_desc": {
+        "name": "eine NPC-Gruppe ein Emote ausführen lassen"
+    },
     "enchanter": {
         "name": "Verzauberer"
     },
+    "equipgroup_desc": {
+        "name": "stattet die Gegenstandsgruppe aus"
+    },
     "errorcreating": {
         "name": "Fehler bei der Satzerstellung"
+    },
+    "escript_desc": {
+        "name": "Ein Skript auf eine Event-NPC-Gruppe ausführen (neue Version)"
+    },
+    "eventcreatenpcgroup_desc": {
+        "name": "Eine NPC-Gruppe erstellen"
+    },
+    "eventnpcsay_desc": {
+        "name": "Einen NPC einen Text sagen lassen"
+    },
+    "eventsetbotfacing_desc": {
+        "name": "Einstellen der Richtung, in die ein Bot schaut"
+    },
+    "eventsetbotfacing_group_desc": {
+        "name": "1 Mittelwert für die gesamte Gruppe"
+    },
+    "eventsetbotname_desc": {
+        "name": "Den Namen eines Bots festlegen"
+    },
+    "eventsetbotscale_desc": {
+        "name": "Skalierung eines Bots einstellen"
+    },
+    "execphrase_desc": {
+        "name": "Ausführen einer Phrase mit gegebenen Bausteinen: <zyklisch 0\/1> <brick ids>..."
+    },
+    "executesabrinaphrase_desc": {
+        "name": "Ausführen eines Sabrina-Satzes: <zyklisch 0\/1> <phraseId>"
     },
     "expert_desert_forager": {
         "name": "Erfahrener Wüstenernter"
@@ -455,14 +686,29 @@
     "fabercompetences": {
         "name": "HANDWERKSFERTIGKEITEN"
     },
+    "facing_desc": {
+        "name": "Ändern des Blickwinkels einer Npc-Gruppe"
+    },
+    "failmission_desc": {
+        "name": "Scheitern der Mission erzwingen: <Mission idx>"
+    },
     "fairlyeasy": {
         "name": "Ziemlich einfach"
     },
     "faker": {
         "name": "Fälscher"
     },
+    "fartppush_desc": {
+        "name": "verwendet, um auf eine bestimmte Sitzung zu wechseln"
+    },
+    "fartpreturn_desc": {
+        "name": "verwendet, um zur vorherigen Sitzung zurück zu kehren"
+    },
     "fbt": {
         "name": "Ältester von Atys"
+    },
+    "fbt_desc": {
+        "name": "Ist ein Focus Beta-Tester?"
     },
     "fct_actor": {
         "name": "(Schauspieler)"
@@ -1181,17 +1427,32 @@
     "flowermaster": {
         "name": "Blumen-Meister"
     },
+    "follow_desc": {
+        "name": "Verfolgt das Zielobjekt."
+    },
+    "followplayer_desc": {
+        "name": "eine NPC-Gruppe einem Spieler folgen lassen BUGGY!!!!"
+    },
     "forager": {
         "name": "Ernterin"
     },
     "forager_apprentice": {
         "name": "Ernte-Lehrling"
     },
+    "forcemissionprogress_desc": {
+        "name": "Missionsfortschritt erzwingen (nur zu Debug-Zwecken)"
+    },
+    "forcetargettodie_desc": {
+        "name": "Erzwinge den Tod des Zielobjekts"
+    },
     "forest_forager": {
         "name": "Waldernter"
     },
     "fouler": {
         "name": "Verderber"
+    },
+    "fullpvp_desc": {
+        "name": "Schaltet Full PVP für den Charakter ein\/aus"
     },
     "fyros_armorer_apprentice": {
         "name": "Fyros-Rüstungsmacherlehrling"
@@ -1219,6 +1480,15 @@
     },
     "genericcompetences": {
         "name": "ALLGEMEINE FERTIGKEITEN"
+    },
+    "geteventfaction_desc": {
+        "name": "Ermittelt die Ereignisfraktion des Spielers: <Name des Spielers>"
+    },
+    "getpetanimalsatiety_desc": {
+        "name": "Ermittelt die Sättigung des Haustieres (petIndex in 0..3): <petIndex> <NameFürAntwort>"
+    },
+    "giverespawnpoint_desc": {
+        "name": "Einem Spieler einen Respawn-Punkt geben: <Name des Respawn-Punkts>"
     },
     "gm": {
         "name": "Game Master"
@@ -1889,8 +2159,26 @@
     "gn_zorai_voluteer_m": {
         "name": "Verteidiger der Zoraï"
     },
+    "go_desc": {
+        "name": "Öffnet das WebIG (= SHIFT+W)"
+    },
+    "god_desc": {
+        "name": "Gott-Modus, Unverwundbarkeit"
+    },
     "greenhunter": {
         "name": "Grüner Jäger"
+    },
+    "guild_desc": {
+        "name": "Mit diesen Befehlen wird eine Nachricht an den Gildenkanal gesendet, die für alle sichtbar ist, die in der gleichen Gilde sind wie ihr."
+    },
+    "guildinvite_desc": {
+        "name": "Lädt einen Spieler in deine Gilde ein. Kann nur von Offizieren, hohen Offizieren und dem Gildenleiter verwendet werden."
+    },
+    "guildmotd_arg1_desc": {
+        "name": "Zeigt die Nachricht des Tages der Gilde an."
+    },
+    "guildmotd_desc": {
+        "name": "Aktualisiert die Gildennachricht des Tages. Kann nur von Offizieren, hohen Offizieren und dem Gildenanführer verwendet werden.Beispiel: \/guildmotd Heute, Bolobi-Jagd !: zeigt zur Einschaltzeit im Gildenkanal die Nachricht \"Heute, Bolobi-Jagd !\" an."
     },
     "gunman": {
         "name": "Einhandschütze"
@@ -1946,6 +2234,12 @@
     "heavy_swordsman": {
         "name": "Zweihand-Schwertkämpfer"
     },
+    "help_all_desc": {
+        "name": "Hilfe zu allen Chat-Befehlen anzeigen"
+    },
+    "help_desc": {
+        "name": "Infos zu einem Chat-Befehl anzeigen"
+    },
     "hesays": {
         "name": "sagt"
     },
@@ -1954,6 +2248,9 @@
     },
     "homin": {
         "name": "Homin"
+    },
+    "hp_desc": {
+        "name": "Trefferpunkte eines Spielers"
     },
     "ifai": {
         "name": "KI"
@@ -2021,14 +2318,35 @@
     "ifundefined": {
         "name": "undefiniert"
     },
+    "ignore_desc": {
+        "name": "Fügt einen Spieler zu deiner Ignorierliste hinzu"
+    },
+    "ignoreoffensiveactions_desc": {
+        "name": "eine NPC-Gruppe jede Offensivaktion ignorieren lassen"
+    },
+    "ignoretells_desc": {
+        "name": "Eingehende Nachrichten ignorieren: <0\/false\/1\/true>"
+    },
     "impaler": {
         "name": "Durchbohrer"
     },
     "imperialsupplier": {
         "name": "Imperialer Ausrüster"
     },
+    "infos_desc": {
+        "name": "Informationen über den Charakter geben (GodMode, Unsichtbar...)"
+    },
     "invalidsentence": {
         "name": "Ungültiger Satz"
+    },
+    "invisible_desc": {
+        "name": "Unsichtbarkeit eines Spielers"
+    },
+    "invite_desc": {
+        "name": "lädt einen Spieler in dein Team ein. Kann nur vom Teamleiter oder von jemandem verwendet werden, der nicht im Team ist (dann wird ein Team erstellt)."
+    },
+    "invulnerable_desc": {
+        "name": "Unverwundbar-Modus, Unverwundbarkeit für alle"
     },
     "iocommon": {
         "name": "gewöhnlich"
@@ -2108,6 +2426,9 @@
     "kamicguardian": {
         "name": "Wächter der Kami"
     },
+    "killmob_desc": {
+        "name": "Töte einen Mob (\/b killMob)"
+    },
     "knifeman": {
         "name": "Dolchkämpfer"
     },
@@ -2123,6 +2444,33 @@
     "launcher": {
         "name": "Granatenwerfer"
     },
+    "league_desc": {
+        "name": "Erzeugt eine Liga mit dem angegebenen Namen und bringt dein Team in diese Liga. Kann nur vom Teamleiter verwendet werden."
+    },
+    "leagueinvite_desc": {
+        "name": "Lädt die Mannschaft eines Spielers in deine Liga ein. Die Einladung geht an den Teamleiter des Spielers."
+    },
+    "leaguekick_desc": {
+        "name": "eine Person oder ein Team (wenn die Person Teamleiter ist) aus der Liga zu werfen"
+    },
+    "leaguequit_desc": {
+        "name": "Verläßt deine Liga, läßt dein Team aus der Liga ausscheiden, wenn du Teamleiter bist."
+    },
+    "learnallbricks_desc": {
+        "name": "Der angegebene Spieler lernt alle möglichen Bausteine für seine Fertigkeitswerte"
+    },
+    "learnallforagephrases_desc": {
+        "name": "Lerne alle Erntephrasen, beginnend beim angegebenen Index: <Index>"
+    },
+    "learnallphrases_desc": {
+        "name": "Der angegebene Spieler lernt alle möglichen Phrasen für seine Fertigkeitswerte."
+    },
+    "learnbrick_desc": {
+        "name": "Der angegebene Spieler lernt einen bestimmten Baustein: <brick sheet>"
+    },
+    "learnphrase_desc": {
+        "name": "Der angegebene Spieler lernt eine Phrase und setzt sie auf den Index knownPhraseIndex: <phrase sheet>"
+    },
     "lifestealer": {
         "name": "Lebensräuber"
     },
@@ -2134,6 +2482,30 @@
     },
     "light_armsman": {
         "name": "Einhandkämpfer"
+    },
+    "listgroup_desc": {
+        "name": "Listet alle aktuell gespeicherten Gruppen auf"
+    },
+    "listguildmembers_desc": {
+        "name": "Liste der Gildenmitglieder anzeigen: <Gildenname>"
+    },
+    "listposflags_desc": {
+        "name": "Positionsflaggen auflisten: <Radius in Metern>"
+    },
+    "lmtar_desc": {
+        "name": "Nächstgelegene Landmarke als Ziel hinzufügen"
+    },
+    "loadfrompdr_desc": {
+        "name": "Lade einen Charakter von einer binären PDR-Datei: <file name>"
+    },
+    "loadfromxml_desc": {
+        "name": "Lade einen Charakter von einer XML-Datei: <file name>"
+    },
+    "lockitem_desc": {
+        "name": "Sperre\/entsperre Gegenstand für Handel, Verkauf, Zerstörung."
+    },
+    "logxpgain_desc": {
+        "name": "Loggt die Informationen über den Xp-Fortschritt für den angegebenen Spieler oder nicht: <on\/off>"
     },
     "mace": {
         "name": "Streitkolben"
@@ -2267,6 +2639,12 @@
     "matis_weapon_smith_apprentice": {
         "name": "Matis-Waffenschmiedelehrling"
     },
+    "maxhitrange_desc": {
+        "name": "Den Trefferbereich einer NPC-Gruppe ändern"
+    },
+    "maxhp_desc": {
+        "name": "Maximale Trefferpunkte eines Bots"
+    },
     "medium_armorer": {
         "name": "Schmied für mittelschwere Rüstungen"
     },
@@ -2317,6 +2695,21 @@
     },
     "mission_real_tooltip": {
         "name": "{FFFC}Dies ist der @{6F6F}Kurs@{FFFC}, dem Du gerade folgst.\nKlick, um @{6F6F}weitere Informationen@{FFFC} zu erhalten."
+    },
+    "money_desc": {
+        "name": "Geld eines Spielers"
+    },
+    "monitormissions_desc": {
+        "name": "Missionen des angegebenen Spielers überwachen: <Name des Spielers>"
+    },
+    "motd_desc": {
+        "name": "Legen Sie die aktuelle Nachricht des Tages fest: <Anzuzeigende Nachricht>"
+    },
+    "mount_desc": {
+        "name": "Mounten Sie Ihr Mektoub-Mount. Du musst in der Nähe deines Reittiers sein und es muss sich außerhalb des Stables befinden.)"
+    },
+    "movegroup_desc": {
+        "name": "Bewegt das Outfit zu pet_animal1 oder player_room"
     },
     "mpcatexotic": {
         "name": "exotisch"
@@ -5228,6 +5621,18 @@
     "msgusermodeparry": {
         "name": "&CHKCB&Du wirst jetzt versuchen, Nahkampfangriffe abzuwehren."
     },
+    "mute_desc": {
+        "name": "Einen Benutzer stummschalten: <Name des Spielers> <Dauer>"
+    },
+    "muteuniverse_desc": {
+        "name": "Stummschaltung des Universumskanals: <Dauer>"
+    },
+    "naked_desc": {
+        "name": "Alle Ausrüstungsgegenstände entfernen (auch Taschen)"
+    },
+    "name_desc": {
+        "name": "Name eines Spielers"
+    },
     "nocastonmount": {
         "name": "Zauber zu sprechen ist beim Reiten unmöglich."
     },
@@ -5252,8 +5657,29 @@
     "novice_warrior": {
         "name": "Kämpfer-Neuling"
     },
+    "npcsay_desc": {
+        "name": "Eine NPC-Gruppe sprechen lassen"
+    },
+    "nude_desc": {
+        "name": "Um alle Ausrüstungsgegenstände zu entfernen, ohne die Taschen zu wechseln"
+    },
     "offensive_magician": {
         "name": "Offensiv-Magier"
+    },
+    "outpostbanguild_desc": {
+        "name": "Verbanne eine Gilde wegen eines Außenpostenkonflikts: <Außenposten_id> <Gildenname> <alle|atk|def>"
+    },
+    "outpostbanplayer_desc": {
+        "name": "Verbietet einen Charakter wegen eines Außenpostenkonflikts: <Außenposten_id> <eid> <all|atk|def>"
+    },
+    "outpostunbanguild_desc": {
+        "name": "Hebe den Bann einer Gilde wegen eines Außenpostenkonflikts auf: <Außenposten_id> <Gildenname> <all|atk|def>"
+    },
+    "outpostunbanplayer_desc": {
+        "name": "Hebt den Bann eines Charakters wegen eines Außenpostenkonflikts auf: <Außenposten_id> <eid> <all|atk|def>"
+    },
+    "parry_desc": {
+        "name": "Den Verteidigungsmodus auf Parieren einstellen"
     },
     "pikeman": {
         "name": "Pikenier"
@@ -5318,11 +5744,26 @@
     "place_zora": {
         "name": "Zora"
     },
+    "playedtime_desc": {
+        "name": "Zeigt im Around-Chat die Anzahl der Tage an, an denen Sie gespielt haben."
+    },
+    "position_desc": {
+        "name": "Position eines Spielers (in Metern) <posx>,<posy>,<posz> | <bot name> | <player name> | home"
+    },
     "priest": {
         "name": "Priester"
     },
     "prime_roots_forager": {
         "name": "Urwurzelernter"
+    },
+    "priv_desc": {
+        "name": "Benutzerprivileg"
+    },
+    "priviledgepvp_desc": {
+        "name": "Schaltet PVP für den Charakter ein\/aus"
+    },
+    "progressmission_desc": {
+        "name": "Missionsfortschritt erzwingen: <Mission idx> wiederholen"
     },
     "propertynotfound": {
         "name": "Eigenschaft nicht gefunden."
@@ -5353,6 +5794,12 @@
     },
     "quitedifficult": {
         "name": "Ziemlich schwierig"
+    },
+    "random_desc": {
+        "name": "Zieht eine Zufallszahl zwischen der ersten und der letzten angegebenen Zahl. Das Ergebnis wird im Around-Chat angezeigt und ist für alle anderen in der Nähe sichtbar. Wenn nur eine Zahl angegeben wird, wird das andere Limit auf 1 gesetzt. Grenzwerte für diese Ziehung: -32767, 32767"
+    },
+    "random_hide_desc": {
+        "name": "Wie zuvor, aber das Ergebnis wird nur in der Sys-Info angezeigt (und erscheint nicht im Umkreiskanal)."
     },
     "range_fighter": {
         "name": "Fernkämpfer"
@@ -5390,6 +5837,9 @@
     "refugee": {
         "name": "Flüchtling"
     },
+    "region_desc": {
+        "name": "Diese Befehle senden eine Nachricht, die für alle sichtbar ist, die sich zu diesem Zeitpunkt in der gleichen Region wie Sie befinden."
+    },
     "region_fleetinggarden": {
         "name": "Vergänglicher Garten"
     },
@@ -5414,8 +5864,47 @@
     "region_upperbog": {
         "name": "Oberer Sumpf"
     },
+    "reloadplayer_desc": {
+        "name": "Legen Sie den nächsten Dateinamen fest, der zum Laden eines Zeichens verwendet wird (muss offline sein und später protokolliert werden), oder setzen Sie ein Online-Zeichen auf die vorherige Sicherung oder auf einen angegebenen Dateinamen zurück."
+    },
+    "removemission_desc": {
+        "name": "Eine Mission eines Charakters entfernen"
+    },
+    "removeprofileparameter_desc": {
+        "name": "Profilparameter zu einer npc-Gruppe entfernen"
+    },
+    "rename_desc": {
+        "name": "Eine NPC-Gruppe umbenennen"
+    },
+    "renameguild_desc": {
+        "name": "Eine Gilde umbenennen: <Gildenname> <neuer Gildenname>"
+    },
+    "renameplayer_desc": {
+        "name": "Einen Spieler umbenennen: <Spielername> <neuer Spielername>"
+    },
+    "renameplayerforevent_desc": {
+        "name": "Vorübergehendes Umbenennen eines Spielers für ein Ereignis: <Name des Spielers> <Neuer Spielername>"
+    },
+    "resetname_desc": {
+        "name": "Den Spielernamen zurücksetzen; eine temporäre Umbenennung rückgängig machen"
+    },
+    "resetpowerflags_desc": {
+        "name": "Zurücksetzen der unwirksamen Aura und der Machtflaggen für einen bestimmten Charakter"
+    },
+    "resetpvptimers_desc": {
+        "name": "Setzt die PvP-Timer eines Spielers zurück: <Name des Spielers>"
+    },
     "rifleman": {
         "name": "Gewehrschütze"
+    },
+    "roominvite_desc": {
+        "name": "Laden Sie einen Freund in Ihre Wohnung ein"
+    },
+    "roomkick_desc": {
+        "name": "Senden Sie eine Raumeinladung"
+    },
+    "root_desc": {
+        "name": "Verwurzeln Sie einen Spieler: <Name des Spielers> <Zeit in Sekunden>"
     },
     "rpjob_200": {
         "name": "Fleischer-Lehrling"
@@ -5462,6 +5951,15 @@
     "runner": {
         "name": "Läufer"
     },
+    "ryzomdate_desc": {
+        "name": "Aktuelles Ryzom-Datum"
+    },
+    "ryzomtime_desc": {
+        "name": "Aktuelle Ryzomzeit"
+    },
+    "s_param1_desc": {
+        "name": "Sprechen in der Umgebung ohne automatische Übersetzung;"
+    },
     "sandcaravanner": {
         "name": "Dünen-Karavanenführer"
     },
@@ -5471,8 +5969,20 @@
     "sapmaster": {
         "name": "Sap-Meister"
     },
+    "saveplayeractivechar_desc": {
+        "name": "Sofortiges Speichern eines aktiven Charakters, ein bestimmter Dateiname kann zur Sicherung eines Charakters in einer bestimmten Situation\/Kontext eingegeben werden"
+    },
+    "savetopdr_desc": {
+        "name": "Speichern eines Zeichens in einer binären PDR-Datei: <Dateiname>"
+    },
+    "savetoxml_desc": {
+        "name": "Ein Zeichen in einer XML-Datei speichern: <Dateiname>"
+    },
     "say": {
         "name": "Sagen: "
+    },
+    "say_desc": {
+        "name": "Normalerweise haben Nachrichten, die auf dem Rundrufkanal gesendet werden, eine Reichweite von 25 m."
     },
     "sc": {
         "name": "Handwerk"
@@ -5522,6 +6032,126 @@
     "secondlife": {
         "name": "Zweites Leben"
     },
+    "self_desc": {
+        "name": "Nehmen Sie sich selbst ins Visier."
+    },
+    "setactivity_desc": {
+        "name": "Ändern einer npc-Gruppe Aktivität"
+    },
+    "setaggro_desc": {
+        "name": "Ändert den Aggro-Bereich einer NPC-Gruppe"
+    },
+    "setattackable_desc": {
+        "name": "Eine NPC-Gruppe angreifbar machen"
+    },
+    "setautospawn_desc": {
+        "name": "Die Npc-Gruppe sofort spawnen"
+    },
+    "setbotattackable_desc": {
+        "name": "Eine NPC-Gruppe für Bots angreifbar machen"
+    },
+    "setcanaggro_desc": {
+        "name": "Erlaube npc Gruppe Aggro zu sein"
+    },
+    "setclientsheet_desc": {
+        "name": "Überschreibe das NPC-Gruppenblatt (mehr visuell)"
+    },
+    "setdespawntime_desc": {
+        "name": "Legt die Zeit in Ticks fest, wann eine npc-Gruppe nach dem"
+    },
+    "setdonttranslatelangs_codelang_desc": {
+        "name": "Zum Beispiel deaktiviert \/a setDontTranslateLangs us|fr die automatische Übersetzung von Sätzen ins Französische, die von einem amerikanischen Kunden gesendet werden."
+    },
+    "setdonttranslatelangs_desc": {
+        "name": "deaktiviert die maschinelle Übersetzung für einige Sprachpaare."
+    },
+    "seteventfaction_desc": {
+        "name": "Legt die Ereignisfraktion des Spielers fest: <Name des Spielers> <Ereignisfraktion>"
+    },
+    "setfactionattackablebelow_desc": {
+        "name": "Told eine npc Gruppe, wenn er die gegnerische Fraktion angreifen soll"
+    },
+    "setfactionprop_desc": {
+        "name": "Ändern der Interaktion einer NPC-Gruppe"
+    },
+    "setfameplayer_desc": {
+        "name": "Setzt den Ruhmeswert eines Spielers in der angegebenen Fraktion: <Fraktion> <Ruhm>"
+    },
+    "setgmguild_desc": {
+        "name": "Einstellen der aktuellen GM-Gilde"
+    },
+    "setguildchargepoint_desc": {
+        "name": "Setzt die Ladepunkte einer Gilde: <Gildenname> <Punkte>"
+    },
+    "setguilddescription_desc": {
+        "name": "Legen Sie eine Gildenbeschreibung fest: <Gildenname> <neue Gildenbeschreibung>"
+    },
+    "setguildleader_desc": {
+        "name": "Legt den Anführer einer Gilde fest: <Gildenname> <Mitgliedsname>"
+    },
+    "setguildmembergrade_desc": {
+        "name": "Legt den Grad eines Gildenmitglieds fest: <Gildenname> <Mitgliedsname> <Grad = Mitglied\/Offizier\/Hochoffizier\/Leiter>"
+    },
+    "setguildmessage_desc": {
+        "name": "Setzt die Gildennachricht des Tages: <Nachricht>"
+    },
+    "sethealer_desc": {
+        "name": "Npc-Gruppe als Heiler einstellen"
+    },
+    "sethpscale_desc": {
+        "name": "\/\/ 1 ==100% bis 0.0 == Tod also 0.5 = 50% der MAX HP"
+    },
+    "setitemsapload_desc": {
+        "name": "Ein Element sap load einstellen: <Slot-Index im Beutel (beginnt bei 0)> <Float-Wert>"
+    },
+    "setleague_desc": {
+        "name": "Senden Sie eine Liga-Einladung an einen Teamleiter-Charakter ohne Entfernungsbeschränkung"
+    },
+    "setmaxhp_desc": {
+        "name": "Ändern der maximalen PS einer NPC-Gruppe"
+    },
+    "setmode_desc": {
+        "name": "Den Modus einer npc-Gruppe ändern"
+    },
+    "setpetanimalname_desc": {
+        "name": "Setzt den Namen eines Haustieres (petIndex in 0..3): <HaustierIndex> <Name>"
+    },
+    "setpetanimalsatiety_desc": {
+        "name": "Legt die Sättigung des Haustieres fest (petIndex in 0..3): <petIndex> voll|<Wert> <NameFürAntwort>"
+    },
+    "setplayerattackable_desc": {
+        "name": "Eine NPC-Gruppe für Spieler angreifbar machen"
+    },
+    "setposflag_desc": {
+        "name": "Setzen eines Positionsflags: <Flaggenname>"
+    },
+    "setpvptag_desc": {
+        "name": "PvP-Tag für Spielercharaktere auf true oder false setzen"
+    },
+    "setrespawntime_desc": {
+        "name": "setze die Zeit in Ticks, wann eine NPC Gruppe respawnt, nachdem sie getötet wurde (ganze NPC Gruppe)"
+    },
+    "setsheet_desc": {
+        "name": "Überschreiben des NPC-Gruppenblattes (Blattkonfiguration ändern)"
+    },
+    "setsimplephrase_desc": {
+        "name": "Legen Sie einen IOS-Satz fest: <id> <Phrase> <Sprachcode>"
+    },
+    "setskillstomaxvalue_desc": {
+        "name": "Spielerfähigkeiten auf Maximalwert setzen"
+    },
+    "setteamleader_desc": {
+        "name": "Den Teamleiter festlegen"
+    },
+    "setuiscale_desc": {
+        "name": "Skalierungsfaktor der Benutzeroberfläche von 0,8 auf 2,0 setzen"
+    },
+    "seturl_desc": {
+        "name": "Eine Url zum Gesprächsdialog für eine npc-Gruppe festlegen"
+    },
+    "setzonestate_desc": {
+        "name": "den Status einer Zone ändern, eine PVP-Zone deaktivieren"
+    },
     "sf": {
         "name": "Kampf"
     },
@@ -5537,6 +6167,9 @@
     "shaman": {
         "name": "Schamane"
     },
+    "shape_desc": {
+        "name": "Fügen Sie der Szene eine Form hinzu."
+    },
     "shield_smith": {
         "name": "Schildschmied"
     },
@@ -5549,14 +6182,47 @@
     "shout": {
         "name": "Rufen: "
     },
+    "shout_desc": {
+        "name": "Diese Befehle sorgen dafür, dass Ihre Nachrichten eine Reichweite von 50 m haben und für Sie (standardmäßig) rot erscheinen."
+    },
+    "showcsr_desc": {
+        "name": "CSR-Titel anzeigen, wenn der Spieler ein CSR ist"
+    },
+    "showfactionchannels_desc": {
+        "name": "Fraktionskanal für Moderation anzeigen"
+    },
+    "showfbt_desc": {
+        "name": "Focus Beta Tester Titel anzeigen, wenn der Spieler ein FBT ist"
+    },
+    "showonline_0_desc": {
+        "name": "Jeder kann es sehen. (Standard)"
+    },
+    "showonline_1_desc": {
+        "name": "Nur Freunde und Gildenmitglieder können sehen, dass Sie ON- \/Offline sind."
+    },
+    "showonline_2_desc": {
+        "name": "Nur Gildenmitglieder können sehen, dass du ON- \/Offline bist."
+    },
+    "showonline_desc": {
+        "name": "Diese Funktion dient dazu, die Ausgabe in Ihrem Freunde- oder Gildenmitglieder-Chat einzustellen, wenn Sie ON- \/Offline sind."
+    },
     "sickness": {
         "name": "Krankheit"
+    },
+    "sitdown_desc": {
+        "name": "Eine npc-Gruppe zum Sitzen bringen"
     },
     "skewerer": {
         "name": "Aufspießer"
     },
+    "skiptutorial_desc": {
+        "name": "Überspringt das Tutorium über Silan."
+    },
     "slasher": {
         "name": "Aufschlitzer"
+    },
+    "sleep_desc": {
+        "name": "Versetzt den Spielclient für die angegebene Anzahl von Sekunden in den Ruhezustand. In dieser Zeit können Sie nichts tun."
     },
     "sm": {
         "name": "Magie"
@@ -5576,6 +6242,18 @@
     "staff": {
         "name": "Stab"
     },
+    "standup_desc": {
+        "name": "Eine npc-Gruppe aufstehen lassen"
+    },
+    "startevent_desc": {
+        "name": "Start eines Ereignisses mit dem angegebenen Namen: <Ereignisname>"
+    },
+    "startmoving_desc": {
+        "name": "Eine npc-Gruppe zu einer Position schicken"
+    },
+    "startwander_desc": {
+        "name": "Lass eine NPC-Gruppe in einen Radius wandern"
+    },
     "steward": {
         "name": "Verwalter"
     },
@@ -5585,11 +6263,26 @@
     "stnone": {
         "name": "nichts"
     },
+    "stopevent_desc": {
+        "name": "Vorheriges gestartetes Ereignis stoppen"
+    },
+    "stopmonitormissions_desc": {
+        "name": "Überwachung der Missionen des angegebenen Spielers beenden"
+    },
+    "stopmoving_desc": {
+        "name": "Eine NPC-Gruppe an der Bewegung hindern"
+    },
     "stsmall_shield": {
         "name": "kleiner Schild"
     },
+    "summon_desc": {
+        "name": "Beschwört einen Spieler vor den CSR: <Name des Spielers>"
+    },
     "summoner": {
         "name": "Illusionist"
+    },
+    "summonpet_desc": {
+        "name": "Der Spieler kann sein Haustier nur ein einziges Mal beschwören"
     },
     "swashbuckler": {
         "name": "Säbelrassler"
@@ -5597,11 +6290,38 @@
     "swordsman": {
         "name": "Schwertkämpfer"
     },
+    "tar_desc": {
+        "name": "Findet die nächstgelegene Entität, deren Name die angegebene Zeichenkette (\/tar oder \/target) enthält. Verwenden Sie einfache oder doppelte Anführungszeichen für eine exakte Übereinstimmung (z. B. NPC mit zwei Namen)."
+    },
+    "tar_quiet_desc": {
+        "name": "Mit der Leise-Option (bspw. \/tar NAME|quiet=true) wird nicht angezeigt, wenn die Kreatur nicht gefunden wird."
+    },
+    "target_quiet_desc": {
+        "name": "\/tarq <Name> abgekürzte Version des Befehls \/target_quiet oder \/tar <Name>|quiet=true"
+    },
+    "targetinfos_desc": {
+        "name": "Geben Sie Informationen über das Ziel"
+    },
+    "team_desc": {
+        "name": "Mit diesen Befehlen wird eine Nachricht an den Team-Kanal gesendet und ist für alle sichtbar, die sich in eurer Gruppe befinden."
+    },
+    "teaminvite_desc": {
+        "name": "Eine Teameinladung an einen Spielercharakter senden"
+    },
+    "teleport_desc": {
+        "name": "Teleportiert den CSR vor einen Spieler: <Name des Spielers>"
+    },
+    "tell_desc": {
+        "name": "Flüstern an einen Spieler senden (wenn der Spieler im Spiel ist)"
+    },
     "tellsyou": {
         "name": "sagt dir"
     },
     "thesagaofryzom": {
         "name": "Ryzom"
+    },
+    "time_desc": {
+        "name": "Zeigt Ihre aktuelle Ortszeit und die UTC-Zeit im Around-Chat an."
     },
     "toolammotool": {
         "name": "Munitionswerkzeug"
@@ -5623,6 +6343,15 @@
     },
     "tooltoolmaker": {
         "name": "Werkzeughersteller"
+    },
+    "tp_1_desc": {
+        "name": "Es ist nicht nötig, die Syntax mit Trennzeichen zu verwenden, der Befehl versucht, die richtige Position und Syntax herauszufinden. Solange die Eingabe gültige X- und Y-Koordinaten hat, funktioniert der Teleport."
+    },
+    "tp_desc": {
+        "name": "Teleportiere einen Spieler an die angegebene <Position> | <Bot> | <Spieler>"
+    },
+    "tpposflag_desc": {
+        "name": "Teleportiert einen Spieler zu einer Positionsflagge: <Flaggenname>"
     },
     "tradingcompetences": {
         "name": "HANDELSFERTIGKEITEN"
@@ -10377,7 +11106,7 @@
         "name": "Team-Mitglieder"
     },
     "uiguild": {
-        "name": "Gilde"
+        "name": "GILDE"
     },
     "uiguildbearer": {
         "name": "Bote"
@@ -13680,7 +14409,13 @@
         "name": "TASCHE"
     },
     "uimmtguild": {
-        "name": "GILDE"
+        "name": "GH 1"
+    },
+    "uimmtguild2": {
+        "name": "GH 2"
+    },
+    "uimmtguildother": {
+        "name": "Anderes Gildeninventar"
     },
     "uimmtpademon0": {
         "name": "DÄMON 1"
@@ -13886,6 +14621,9 @@
     "uimoveturnright": {
         "name": "Rechtsdrehung"
     },
+    "uimovingtargetwarning": {
+        "name": "Dies ist die Position des Ziels beim Start dieses \"Dynamischen Ereignisses\". Sei vorsichtig, manche Ziele sind in Bewegung!"
+    },
     "uimp3next": {
         "name": "Weiter"
     },
@@ -13981,6 +14719,15 @@
     },
     "uimsort": {
         "name": "SORTIEREN"
+    },
+    "uimsortbyindex": {
+        "name": ""
+    },
+    "uimsortbyname": {
+        "name": ""
+    },
+    "uimsortbyonline": {
+        "name": ""
     },
     "uimsortname": {
         "name": "Sortierung: NAME"
@@ -14467,6 +15214,12 @@
     },
     "uinw": {
         "name": "NW"
+    },
+    "uiocceventbnps": {
+        "name": "Aktiviere OOC-Texturen (nur während Events)"
+    },
+    "uioccitems": {
+        "name": "Aktiviere dauerhaft OOC-Skins für Gegenstände"
     },
     "uioffline": {
         "name": "OFFLINE"
@@ -16721,6 +17474,288 @@
     "uise": {
         "name": "SO"
     },
+    "uisearchcommandall": {
+        "name": "alle"
+    },
+    "uisearchcommandautoresponse": {
+        "name": "Autoresponse"
+    },
+    "uisearchcommandbotname": {
+        "name": "BotName"
+    },
+    "uisearchcommandbots": {
+        "name": "Bots"
+    },
+    "uisearchcommandbricksheet": {
+        "name": "BrickSheet"
+    },
+    "uisearchcommandchannelname": {
+        "name": "Kanalname"
+    },
+    "uisearchcommandcharindex": {
+        "name": "CharIndex"
+    },
+    "uisearchcommandcommand": {
+        "name": "Befehl"
+    },
+    "uisearchcommandcontinentname": {
+        "name": "Kontinent"
+    },
+    "uisearchcommandcount": {
+        "name": "Anzahl"
+    },
+    "uisearchcommanddescription": {
+        "name": "Beschreibung"
+    },
+    "uisearchcommanddestsessionid": {
+        "name": "DestSessionId"
+    },
+    "uisearchcommanddispersionradius": {
+        "name": "DispersionRadius"
+    },
+    "uisearchcommandduration": {
+        "name": "Dauer"
+    },
+    "uisearchcommandemote": {
+        "name": "Emote"
+    },
+    "uisearchcommandeventfaction": {
+        "name": "EventFaction"
+    },
+    "uisearchcommandeventname": {
+        "name": "EventName"
+    },
+    "uisearchcommandeventnpcgroup": {
+        "name": "EventNpcGroup"
+    },
+    "uisearchcommandeventzonename": {
+        "name": "ZoneName"
+    },
+    "uisearchcommandfaction": {
+        "name": "Fraktion"
+    },
+    "uisearchcommandfactionname": {
+        "name": "Fraktionsname"
+    },
+    "uisearchcommandfame": {
+        "name": "Ruhm"
+    },
+    "uisearchcommandfamename": {
+        "name": "Name des Ruhms"
+    },
+    "uisearchcommandfilename": {
+        "name": "Dateiname"
+    },
+    "uisearchcommandfilter": {
+        "name": "Filter"
+    },
+    "uisearchcommandflagname": {
+        "name": "Markierungsname"
+    },
+    "uisearchcommandfloat": {
+        "name": "Float"
+    },
+    "uisearchcommandfound": {
+        "name": "Kommandos gefunden"
+    },
+    "uisearchcommandguildname": {
+        "name": "Gildenname"
+    },
+    "uisearchcommandhelp": {
+        "name": "Kommando Hilfe"
+    },
+    "uisearchcommandhex": {
+        "name": "Hex"
+    },
+    "uisearchcommandhighestnumber": {
+        "name": "HöchsteZahl"
+    },
+    "uisearchcommandhp": {
+        "name": "Hp"
+    },
+    "uisearchcommandid": {
+        "name": "Id"
+    },
+    "uisearchcommandindex": {
+        "name": "Index"
+    },
+    "uisearchcommandinitdialog": {
+        "name": "\/<command> oder \/? all"
+    },
+    "uisearchcommandinventory": {
+        "name": "Inventar"
+    },
+    "uisearchcommandinventoryid": {
+        "name": "InventarID"
+    },
+    "uisearchcommanditemname": {
+        "name": "ItemName"
+    },
+    "uisearchcommandleaguename": {
+        "name": "LigaName"
+    },
+    "uisearchcommandlowestnumber": {
+        "name": "NiedrigsteZahl"
+    },
+    "uisearchcommandmaxslot": {
+        "name": "MaxSlot"
+    },
+    "uisearchcommandmenu_name": {
+        "name": "MENU_NAME"
+    },
+    "uisearchcommandmessage": {
+        "name": "Nachricht"
+    },
+    "uisearchcommandmeter": {
+        "name": "Meter"
+    },
+    "uisearchcommandminslot": {
+        "name": "MinSlot"
+    },
+    "uisearchcommandmissiongiveralias": {
+        "name": "MissionGiverAlias"
+    },
+    "uisearchcommandmissionidex": {
+        "name": "MissionIdex"
+    },
+    "uisearchcommandmode": {
+        "name": "Modus"
+    },
+    "uisearchcommandname": {
+        "name": "Name"
+    },
+    "uisearchcommandnameaiaction": {
+        "name": "NameAiaction"
+    },
+    "uisearchcommandnameforanswer": {
+        "name": "NameFürAntwort"
+    },
+    "uisearchcommandnewguildname": {
+        "name": "NeuGildenname"
+    },
+    "uisearchcommandnewplayername": {
+        "name": "NeuerSpielernamen"
+    },
+    "uisearchcommandnumber": {
+        "name": "Nummer"
+    },
+    "uisearchcommandoutfitgroupname": {
+        "name": "OutfitGroupName"
+    },
+    "uisearchcommandoutpostid": {
+        "name": "OutpostId"
+    },
+    "uisearchcommandparameter": {
+        "name": "Parameter"
+    },
+    "uisearchcommandpassword": {
+        "name": "Passwort"
+    },
+    "uisearchcommandpetanimal1": {
+        "name": "PetAnimal1"
+    },
+    "uisearchcommandpetnumber": {
+        "name": "PetNumber"
+    },
+    "uisearchcommandpetticket": {
+        "name": "PetTicket"
+    },
+    "uisearchcommandphrase": {
+        "name": "Phrase"
+    },
+    "uisearchcommandphrasesheet": {
+        "name": "PhraseSheet"
+    },
+    "uisearchcommandplayereid": {
+        "name": "SpielerEID"
+    },
+    "uisearchcommandplayername": {
+        "name": "Spielername"
+    },
+    "uisearchcommandpoints": {
+        "name": "Punkte"
+    },
+    "uisearchcommandpositionx": {
+        "name": "PositionX"
+    },
+    "uisearchcommandpositiony": {
+        "name": "PositionY"
+    },
+    "uisearchcommandpositionz": {
+        "name": "PositionZ"
+    },
+    "uisearchcommandpriv": {
+        "name": "Privilegien"
+    },
+    "uisearchcommandquality": {
+        "name": "Qualität"
+    },
+    "uisearchcommandquantity": {
+        "name": "Menge"
+    },
+    "uisearchcommandradius": {
+        "name": "Radius"
+    },
+    "uisearchcommandrange": {
+        "name": "Range"
+    },
+    "uisearchcommandrespawnpointname": {
+        "name": "RespawnPointName"
+    },
+    "uisearchcommandscalefactor": {
+        "name": "ScaleFactor"
+    },
+    "uisearchcommandscriptcommand": {
+        "name": "SkriptBefehl"
+    },
+    "uisearchcommandsecound": {
+        "name": "Secound"
+    },
+    "uisearchcommandshapefile": {
+        "name": "ShapeFile"
+    },
+    "uisearchcommandsheet": {
+        "name": "Sheet"
+    },
+    "uisearchcommandskill": {
+        "name": "Skill"
+    },
+    "uisearchcommandskillpoints": {
+        "name": "SkillPoints"
+    },
+    "uisearchcommandslot": {
+        "name": "Slot"
+    },
+    "uisearchcommandtargetname": {
+        "name": "ZielName"
+    },
+    "uisearchcommandtext": {
+        "name": "Text"
+    },
+    "uisearchcommandticks": {
+        "name": "Ticks"
+    },
+    "uisearchcommandtitle": {
+        "name": "Titel"
+    },
+    "uisearchcommandtribename": {
+        "name": "Stammesname"
+    },
+    "uisearchcommandurl": {
+        "name": "Url"
+    },
+    "uisearchcommandvalue": {
+        "name": "Wert"
+    },
+    "uisearchcommandvariable": {
+        "name": "Variable"
+    },
+    "uisearchcommandwarningparameter": {
+        "name": "Warnung vor zu vielen Argumenten"
+    },
+    "uisearchcommandzonename": {
+        "name": "Zonenname"
+    },
     "uisearchterm": {
         "name": "Suchfilter (Optional)"
     },
@@ -17253,7 +18288,10 @@
         "name": "ANLEGEN"
     },
     "uitabinvguild": {
-        "name": "GILDE"
+        "name": "GH 1"
+    },
+    "uitabinvguild2": {
+        "name": "GH 2"
     },
     "uitabinvpademon0": {
         "name": "DÄMON 1"
@@ -20060,8 +21098,47 @@
     "undefined": {
         "name": "undefiniert"
     },
+    "universe_desc": {
+        "name": "Dies sendet eine Nachricht an den Universumskanal, die für jeden sichtbar ist, der in diesem Moment online ist."
+    },
     "unknown": {
         "name": "Unbekannt"
+    },
+    "unlearnbrick_desc": {
+        "name": "Der angegebene Spieler verlernt den gegebenen Baustein: <brick sheet>"
+    },
+    "unmount_desc": {
+        "name": "Verlässt dein Mektoub-Reittier."
+    },
+    "unmute_desc": {
+        "name": "Stummschaltung eines Benutzers aufheben: <Name des Spielers>"
+    },
+    "unmuteuniverse_desc": {
+        "name": "Stummschaltung des Universumskanals aufheben"
+    },
+    "unroot_desc": {
+        "name": "Beende die Verwurzelung eines Spielers: <Name des Spielers>"
+    },
+    "updateguildmemberslist_desc": {
+        "name": "Aktualisierung der Liste der Gildenmitglieder auf den Mitglieder-Clients: <Gildenname>"
+    },
+    "updatetarget_desc": {
+        "name": "Aktuelles Ziel aktualisieren"
+    },
+    "version_desc": {
+        "name": "zeigt die aktuelle Version des Clients an (kann im Falle eines Fehlers nützlich sein)."
+    },
+    "vpx_a_desc": {
+        "name": "Ändern des körperlichen Erscheinungsbildes einer NPC-Gruppe"
+    },
+    "vpx_b_desc": {
+        "name": "Ändern der Größe einer NPC-Gruppe"
+    },
+    "vpx_c_desc": {
+        "name": "die Waffe einer NPC-Gruppe ändern"
+    },
+    "vpx_desc": {
+        "name": "Ändern des Erscheinungsbildes einer NPC-Gruppe"
     },
     "warlock": {
         "name": "Hexenmeister"
@@ -20072,8 +21149,17 @@
     "welcome_phrase": {
         "name": "Ich heiße dich willkommen, junger Homin.\nDu hast großen Mut bewiesen und diese gefahrenvolle Reise auf dich genommen, um unserem Ruf nach Hilfe bei der Wiedererrichtung des großen Königreiches der Matis zu folgen...{break}\nWir bewundern deinen Mut und heißen dich bei uns willkommen.\nNun ist es meine Pflicht, dir mehr über diesen Ort zu berichten. Du bist auf einer kleinen Insel, die unweit des Hauptlandes der Matis liegt.\nEs gibt fünf kleine Außenposten auf dieser Insel, und du bist in einem von diesen.\nJeder dieser Außenposten beherbergt einen Missionsoffizier, dazu Lehrer, Händler und Wachen.\nWir sind durch die Anwesenheit einiger Repräsentanten des Karavan gesegnet.\nBevor du uns verlässt und eines der anderen Dörfer besuchst, solltest du deine Fertigkeiten und Ausrüstung verbessern.\nWenn du mehr erfahren willst, solltest du gehen und unsere Lehrer aufsuchen.\nSie befinden sich in diesem Gebäude und du kannst zu ihnen, indem du einfach den Aufzug benutzt."
     },
+    "where_desc": {
+        "name": "Zeigt deinen aktuellen Standort als schwebende Meldung am oberen Bildschirmrand und in der Systeminfo an."
+    },
     "whisper": {
         "name": "Flüstern: "
+    },
+    "who_desc": {
+        "name": "Zeigt die Namen aller Spieler in einer Region an, sortiert nach Alter des Kontos. Die Liste wird in der Systeminfo angezeigt."
+    },
+    "who_gm_desc": {
+        "name": "Zeigt alle CSR und GM an, die derzeit online sind. Beachte, daß CSR und GM ein spezielle Markierung haben, die sie aktivieren können, um ihre Online-Präsenz zu verbergen, auch vor diesem Befehl. Die Liste wird in der Systeminfo angezeigt."
     },
     "windchild": {
         "name": "Kind des Windes"

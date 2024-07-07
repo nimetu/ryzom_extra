@@ -63071,6 +63071,24 @@
         "pda": "les",
         "description": ""
     },
+    "mp_colonne": {
+        "name": "Pièce de Colonne",
+        "ia": "une",
+        "da": "la",
+        "p": "Pièce de Colonne",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "mp_hard": {
+        "name": "Matière première générique dure",
+        "ia": "un",
+        "da": "l'",
+        "p": "Matières premières génériques dures",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
     "mp_kami_ep2_choice_100": {
         "name": "Ressource du Kamiste confirmé",
         "ia": "une",
@@ -63247,6 +63265,42 @@
         "ia": "une",
         "da": "la",
         "p": "Ressources majeure de l'apprenti karavanier",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "mp_ornement": {
+        "name": "Pièce d'Ornement",
+        "ia": "un",
+        "da": "l'",
+        "p": "Pièces d'Ornement",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "mp_revetement": {
+        "name": "Plaque de Revêtement",
+        "ia": "un",
+        "da": "l'",
+        "p": "Plaques de Revêtement",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "mp_socle": {
+        "name": "Pièce de Socle",
+        "ia": "un",
+        "da": "l'",
+        "p": "Pièces de Socle",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "mp_soft": {
+        "name": "Matière première générique molle\/liquide",
+        "ia": "un",
+        "da": "l'",
+        "p": "Matières premières génériques molles\/liquides",
         "pia": "des",
         "pda": "les",
         "description": ""

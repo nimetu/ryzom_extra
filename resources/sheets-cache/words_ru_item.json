@@ -49287,6 +49287,22 @@
         "twogen": "Хлыста для скакуна",
         "onegen": "Хлыст для скакуна"
     },
+    "mp_colonne": {
+        "name": "",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "mp_hard": {
+        "name": "Generic Hard Raw Material",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
     "mp_kami_ep2_choice_100": {
         "name": "Ресурс признанного камиста",
         "p": "Ресурсы признанного камиста",
@@ -49446,6 +49462,38 @@
         "somgen": "Исключительных ресурсов караванера-подмастерья",
         "twogen": "Исключительных ресурса караванера-подмастерья",
         "onegen": "Исключительный ресурс караванера-подмастерья"
+    },
+    "mp_ornement": {
+        "name": "",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "mp_revetement": {
+        "name": "",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "mp_socle": {
+        "name": "",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "mp_soft": {
+        "name": "Generic Soft\/Liquid Raw Material",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
     },
     "nanka_mace_crate": {
         "name": "Палица Нанка Черного Круга",

@@ -1,4 +1,19 @@
 {
+    "0_desc": {
+        "name": "Hablar en el Canal 1 de chat dinámico. El primer canal dinámico es usualmente el canal de facción."
+    },
+    "1_desc": {
+        "name": "Hablar en el Canal 2 de chat dinámico. El segundo canal dinámico es usualmente el canal de nación."
+    },
+    "2_desc": {
+        "name": "Hablar en el Canal 3 de chat dinámico. Podría ser un canal personalizado o un canal de evento."
+    },
+    "3_desc": {
+        "name": "Hablar en el Canal 4 de chat dinámico. El cuarto canal dinámico podría ser un canal personalizado o un canal de evento."
+    },
+    "4_desc": {
+        "name": "Hablar en el Canal 5 de chat dinámico. Usted nunca tendrá tantos canales dinámicos a menos que haya un canal de evento activo."
+    },
     "___faber_skill_sep___": {
         "name": "--------------------------------"
     },
@@ -13,6 +28,39 @@
     },
     "_yrkanis_citizen": {
         "name": " (Ciudadano de Yrkanis)"
+    },
+    "a_desc": {
+        "name": "Para utilizar los comandos en el juego cuando tu cuenta está marcada con el Privilegio adecuado Utiliza los siguientes comandos de chat en el juego en función de tu objetivo: En ti mismo"
+    },
+    "addfactionattackabletotarget_desc": {
+        "name": "Añade la posibilidad de colocar en objetivo atacable para una facción específica."
+    },
+    "addguildmember_desc": {
+        "name": "Añadir a un nuevo miembro al gremio: <guild name> <member name>"
+    },
+    "addguildxp_desc": {
+        "name": "Añadir experiencia a un gremio: <guild name> <xp (positive or negative)>"
+    },
+    "addhp_desc": {
+        "name": "Añade HP a un grupo PNJ"
+    },
+    "addmission_desc": {
+        "name": "Añadir una misión a un personaje"
+    },
+    "addpetanimal_desc": {
+        "name": "Añadir una mascota al personaje: <PetTicket>"
+    },
+    "addposflag_desc": {
+        "name": "Añadir una nueva bandera de posición: <flag name>"
+    },
+    "addprofileparameter_desc": {
+        "name": "Añadir Parámetro de Perfil a un grupo PNJ"
+    },
+    "addskillpoints_desc": {
+        "name": "Añadir puntos de habilidad a un tipo específico (Lucha=0, Magia=1, Artesanía=2, Cosecha=3):  <SP type 0..3> <nb SP>"
+    },
+    "addxptoskill_desc": {
+        "name": "Ganar experiencia en una habilidad dada: <xp> <skill> <count>"
     },
     "advanced_close_fighter": {
         "name": "Luchador Avanzado"
@@ -71,11 +119,35 @@
     "affliction_bringer": {
         "name": "Portador de Aflicción"
     },
+    "afk_autoresponse_desc": {
+        "name": "El mensaje es opcional y se muestra cuando un jugador le envía un mensaje (tell)."
+    },
+    "afk_desc": {
+        "name": "Activa la etiqueta AFK para que un jugador pueda ver que usted está lejos de su equipo. Esto es solo una indicación visual y no le protegerá de ataques por flora, fauna u otros jugadores."
+    },
+    "aggro_desc": {
+        "name": "¿Las bestias pueden agredir a un jugador?"
+    },
     "agp_trouble": {
         "name": "La unidad ha fallado en asignar memoria AGP. Esto puede resultar en problemas de rendimiento y visualización.\n\n¿Quieres saber más?"
     },
+    "aiaction_desc": {
+        "name": "Permite a un grupo PNJ correr una acción IA"
+    },
+    "aiactionself_desc": {
+        "name": "Permite a un grupo PNJ correr una acción IA"
+    },
     "alchemist": {
         "name": "Alquimista"
+    },
+    "allowsummonpet_desc": {
+        "name": "Autoriza al jugador a reunir sus mascotas una por vez"
+    },
+    "appzone_desc": {
+        "name": "Abrir la app, reemplanzado XXX por la ID de la app"
+    },
+    "appzone_hide_desc": {
+        "name": "Ocultar la barra de herramientas webapps"
     },
     "archmage": {
         "name": "Archimago"
@@ -97,6 +169,9 @@
     },
     "artisan_apprentice": {
         "name": "Aprendiz de Artesano"
+    },
+    "assist_desc": {
+        "name": "Poner como objetivo el objetivo de la entidad apuntada (Típicamente: para un mago ofensivo sobre un Luchador (tanque), el sanador de un excavador)"
     },
     "atheavy": {
         "name": "Pesado"
@@ -134,8 +209,11 @@
     "axeman": {
         "name": "Porta Hachas"
     },
+    "b_desc": {
+        "name": "Para utilizar los comandos en el juego cuando tu cuenta está marcada con el Privilegio adecuado Utiliza los siguientes comandos de chat en el juego en función del objetivo: En tu objetivo"
+    },
     "biomancer": {
-        "name": "Biomantico"
+        "name": "Biomántico"
     },
     "bits": {
         "name": "bits"
@@ -185,6 +263,12 @@
     "bricktunknown": {
         "name": "Desconocido"
     },
+    "broadcast_desc": {
+        "name": "Publicar un mensaje: repeat=<num repeat> o during=<time in seconds> every=<delay in secondes> <message>"
+    },
+    "brutalquit_desc": {
+        "name": "Instantáneamente saca al cliente del juego."
+    },
     "brute": {
         "name": "Bruto"
     },
@@ -193,6 +277,9 @@
     },
     "buffercaster": {
         "name": "Lanzador de Defensa"
+    },
+    "c_desc": {
+        "name": "El uso de comandos en el juego cuando su cuenta es etiquetada con derecho de Uso Privilegiado los siguientes comandos de chat en el juego dependiendo de su objetivos: En alguien más"
     },
     "can_t_create_a_fullscreen_display": {
         "name": "No se puede crear una visualización de pantalla completa"
@@ -212,8 +299,44 @@
     "celestial_guardian": {
         "name": "Guardián Celestial"
     },
+    "changehaircut_desc": {
+        "name": "Cambiar el corte de cabello de un jugador: <sheet name>"
+    },
+    "changemode_desc": {
+        "name": "Cambiar el modo de un jugador: <mode>"
+    },
+    "changevar_desc": {
+        "name": "Cambiar una variable de un jugador: <var> <val>"
+    },
+    "channel_desc": {
+        "name": "Unirse al canal con el nombre dado, o créalo si no existe."
+    },
+    "channel_leave_desc": {
+        "name": "Dejar el canal con el nombre dado."
+    },
+    "channel_password_desc": {
+        "name": "Unirse o crear un canal con protección de clave."
+    },
+    "channel_remove_admin_desc": {
+        "name": "Eliminar un canal incluso si está protegido por Contraseña"
+    },
+    "characterinventorydump_desc": {
+        "name": "Arrojar información del inventario del personaje <inventory> <from slot> <to slot>"
+    },
+    "charactermissiondump_desc": {
+        "name": "Arrojar la lista de misiones de un personaje"
+    },
+    "chat_desc": {
+        "name": "Se mantiene en el chat, Enter no abandona el chat"
+    },
+    "chatlog_desc": {
+        "name": "Crea un chatlog en la carpeta de guardado situada en el directorio principal de Ryzom."
+    },
     "cheater": {
         "name": "Hacer trampas está mal, ya sabes..."
+    },
+    "checktargetsp_desc": {
+        "name": "Comprobar los puntos de habilidad del jugador señalado"
     },
     "childplay": {
         "name": "Juego de niños"
@@ -224,6 +347,24 @@
     "civilizationknowledge": {
         "name": "CONOCIMIENTO DE LA CIVILIZACIÓN"
     },
+    "clearaggrolist_desc": {
+        "name": "limpiar la AggroList de un grupo PNJ"
+    },
+    "cleareventfaction_desc": {
+        "name": "Limpiar el evento de facción del jugador: <player name>"
+    },
+    "clearfriendslist_desc": {
+        "name": "Limpiar la lista de amigos del jugador"
+    },
+    "clearguildmessage_desc": {
+        "name": "Limpiar el mensaje de gremio del día"
+    },
+    "clearignorelist_desc": {
+        "name": "Limpiar la lista de ignorados de un jugador"
+    },
+    "clearisfriendoflist_desc": {
+        "name": "Limpiar la lista \"es amigo de\" de un jugador"
+    },
     "cleaver": {
         "name": "Cuchilla"
     },
@@ -231,7 +372,7 @@
         "name": "Luchador de Cerca"
     },
     "cmdcreategrouperror": {
-        "name": "Ya existe un grupo llamado %name, no puedes crear un segundo grupo con el mismo nombre."
+        "name": "Ya existe un grupo llamado %name, no puedes crear un grupo con el mismo nombre."
     },
     "cmdcreategroupsuccess1": {
         "name": "Grupo %name ha sido creado con éxito."
@@ -296,11 +437,41 @@
     "combat": {
         "name": "Combate"
     },
+    "connectlangchannel_1_desc": {
+        "name": "si se establece en 1 entonces saldrá de este canal"
+    },
+    "connectlangchannel_desc": {
+        "name": "También existen canales universales 'por idioma'. Para entrar y salir de ellos, utilice el siguiente comando:"
+    },
+    "connectuserchannel_desc": {
+        "name": "Conectarse al Chat del Canal de Usuario"
+    },
     "craft": {
         "name": "Fabricar"
     },
     "craftsman": {
         "name": "Artesano"
+    },
+    "createcharacterstartskillsvalue_desc": {
+        "name": "Crear habilidades de inicio de personaje, punto de habilidad y dinero"
+    },
+    "createfullarmorset_desc": {
+        "name": "Crea y equipa al jugador con la armadura completa seleccionada: <race (fyros\/matis\/zorai\/tryker)> <type (light\/medium\/heavy)> <quality>"
+    },
+    "creategroup_desc": {
+        "name": "crea un grupo de objetos, un atuendo a partir de los objetos que el personaje lleva actualmente, cuando se especifica el parámetro opcional 'true', las ranuras vacías no se equipan."
+    },
+    "createiteminbag_desc": {
+        "name": "Crear un objeto y colocarlo en la bolsa del jugador: <sheetId>|<sheetName> <quantity> <quality>"
+    },
+    "createitemininv_desc": {
+        "name": "Crea un objeto y lo coloca en el inventario del jugador dado: <invId> <sheetId>|<sheetName> <quantity> <quality>"
+    },
+    "createitemintmpinv_desc": {
+        "name": "Crear un ítem y colocarlo en el inventario temporal del jugador: <sheetId>|<sheetName> <quantity> <quality>"
+    },
+    "createnamediteminbag_desc": {
+        "name": "Crear un ítem nombrado y colocarlo en la bolsa del jugador: <item name> <quantity>"
     },
     "crossbowman": {
         "name": "Ballestero"
@@ -314,8 +485,20 @@
     "defensive_magician": {
         "name": "Mago Defensivo"
     },
+    "deletegroup_desc": {
+        "name": "Borra los grupos de ítem."
+    },
+    "deleteinventoryitem_desc": {
+        "name": "Borrar un ítem de un inventario de personajes:  <inventory> <slot> <sheetname> <quality> <quantity>"
+    },
+    "delposflag_desc": {
+        "name": "Borrar una bandera de posición:  <flag name>"
+    },
     "desert_forager": {
         "name": "Recolector del Desierto"
+    },
+    "despawn_desc": {
+        "name": "Desaparecer un grupo PNJ"
     },
     "destroyer": {
         "name": "Destructor"
@@ -323,11 +506,26 @@
     "difficult": {
         "name": "Difícil"
     },
+    "dismiss_desc": {
+        "name": "Teletransportar a un jugador a su posición previa (antes de la última llamada de summonPlayer): <player name>"
+    },
+    "displayforagerm_desc": {
+        "name": "Mostrar materiales cosechables cerca o en la posición exacta del jugador: <exactPos=1> <extendedInfo=0>"
+    },
+    "displayinfosontarget_desc": {
+        "name": "Mostrar información de una entidad objetivo"
+    },
+    "displayshopselector_desc": {
+        "name": "Muestra selector de tienda para un NPC"
+    },
     "disturber": {
         "name": "Perturbador"
     },
     "dodge": {
         "name": "Evadir"
+    },
+    "dodge_desc": {
+        "name": "Fija el modo de defensa en esquivar"
     },
     "dtacid": {
         "name": "Ácido"
@@ -395,11 +593,44 @@
     "elementalist_apprentice": {
         "name": "Elementalista Aprendiz"
     },
+    "emote_desc": {
+        "name": "Permite a un grupo PNJ colocar un emoticón"
+    },
     "enchanter": {
         "name": "Encantador"
     },
+    "equipgroup_desc": {
+        "name": "equipa un grupo de ítem"
+    },
     "errorcreating": {
         "name": "Error al crear la frase"
+    },
+    "escript_desc": {
+        "name": "Ejecutar un script en un grupo PNJ de evento (nueva versión)"
+    },
+    "eventcreatenpcgroup_desc": {
+        "name": "Crear un grupo PNJ"
+    },
+    "eventnpcsay_desc": {
+        "name": "Hacer que un PNJ diga un texto"
+    },
+    "eventsetbotfacing_desc": {
+        "name": "Establecer la dirección en la cual un bot se dirige"
+    },
+    "eventsetbotfacing_group_desc": {
+        "name": "1 significa aplica a todo el grupo"
+    },
+    "eventsetbotname_desc": {
+        "name": "Establecer el nombre de un bot"
+    },
+    "eventsetbotscale_desc": {
+        "name": "Establecer la escala de un bot"
+    },
+    "execphrase_desc": {
+        "name": "Ejecutar una frase con los bloques dados:  <cyclic 0\/1> <brick ids>..."
+    },
+    "executesabrinaphrase_desc": {
+        "name": "Ejecutar una frase sabrina:  <cyclic 0\/1> <phraseId>"
     },
     "expert_desert_forager": {
         "name": "Recolector Experto del Desierto"
@@ -455,62 +686,77 @@
     "fabercompetences": {
         "name": "HABILIDADES DE ARTESANÍA"
     },
+    "facing_desc": {
+        "name": "Cambia el ángulo en que mira un grupo de PNJ"
+    },
+    "failmission_desc": {
+        "name": "Fuerza falla de misión: <mission idx>"
+    },
     "fairlyeasy": {
         "name": "Bastante fácil"
     },
     "faker": {
         "name": "Farsante"
     },
+    "fartppush_desc": {
+        "name": "usado para teletransportarse a una sesión específica"
+    },
+    "fartpreturn_desc": {
+        "name": "usado para teletransportarse de regreso a una sesión previa"
+    },
     "fbt": {
         "name": "Anciano de Atys"
     },
+    "fbt_desc": {
+        "name": "¿Es un Probador Beta de Enfoque?"
+    },
     "fct_actor": {
-        "name": " (Actor)"
+        "name": "(Actor)"
     },
     "fct_actress": {
-        "name": " (Actriz)"
+        "name": "(Actriz)"
     },
     "fct_amayor": {
-        "name": " (Asistente del Alcalde)"
+        "name": "(Asistente del Alcalde)"
     },
     "fct_ambassador": {
         "name": "Embajador"
     },
     "fct_ammo_merchant": {
-        "name": " (Mercader de munición)"
+        "name": "(Mercader de munición)"
     },
     "fct_avalae_chief": {
-        "name": " (Jefe de la Aldea de Avalae)"
+        "name": "(Jefe de la Aldea de Avalae)"
     },
     "fct_bandit": {
-        "name": " (Bandido)"
+        "name": "(Bandido)"
     },
     "fct_bandit_chief": {
-        "name": " (jefe bandido)"
+        "name": "(Jefe bandido)"
     },
     "fct_barmaid": {
-        "name": " (Tabernera)"
+        "name": "(Tabernera)"
     },
     "fct_barman": {
-        "name": " (Tabernero)"
+        "name": "(Tabernero)"
     },
     "fct_bg": {
-        "name": " (Guardaespaldas)"
+        "name": "(Guardaespaldas)"
     },
     "fct_c_guild_trainer": {
-        "name": " (Entrenador de artesano del Gremio)"
+        "name": "(Entrenador de artesano del Gremio)"
     },
     "fct_c_rolemaster": {
-        "name": " (Maestro del rol del Gremio de los Luchadores)"
+        "name": "(Maestro del rol del Gremio de los Luchadores)"
     },
     "fct_c_trainer": {
-        "name": " (Entrenador de Artesanía)"
+        "name": "(Entrenador de Artesanía)"
     },
     "fct_captain": {
         "name": "Capitán"
     },
     "fct_caretaker": {
-        "name": " (Portero)"
+        "name": "(Conserje)"
     },
     "fct_city_welcomer": {
         "name": "Anfitrión de la Ciudad"
@@ -519,67 +765,67 @@
         "name": "(Civil)"
     },
     "fct_consumable_merchant": {
-        "name": " (Mercader de consumibles)"
+        "name": "(Mercader de consumibles)"
     },
     "fct_corporal": {
         "name": "Cabo"
     },
     "fct_counselor": {
-        "name": " (Consejero del Rey)"
+        "name": "(Consejero del Rey)"
     },
     "fct_craftsman": {
-        "name": " (Artesano)"
+        "name": "(Artesano)"
     },
     "fct_ctool_merchant": {
-        "name": " (Mercader de herramientas de artesanía)"
+        "name": "(Mercader de herramientas de artesanía)"
     },
     "fct_cutthroat": {
-        "name": " (Degollador Matis)"
+        "name": "(Degollador Matis)"
     },
     "fct_davae_chief": {
-        "name": " (Jefe de la Aldea de Davae)"
+        "name": "(Jefe de la Aldea de Davae)"
     },
     "fct_f_chief": {
-        "name": " (Líder del Gremio de Artesanos)"
+        "name": "(Líder del Gremio de Artesanos)"
     },
     "fct_f_guild_trainer": {
-        "name": " (Entrenador de Combate del Gremio)"
+        "name": "(Entrenador de Combate del Gremio)"
     },
     "fct_f_hairdresser": {
-        "name": " (Peluquero Femenino)"
+        "name": "(Peluquera)"
     },
     "fct_f_rolemaster": {
-        "name": " (Maestro del rol del Gremio de los Artesanos)"
+        "name": "(Maestro del rol del Gremio de los Artesanos)"
     },
     "fct_f_tattooer": {
-        "name": " (Artista Tatuador Femenino)"
+        "name": "(Artista Tatuadora)"
     },
     "fct_f_trainer": {
-        "name": " (Entrenador de Combate)"
+        "name": "(Entrenador de Combate)"
     },
     "fct_f_welcomer": {
-        "name": " (Anfitrión del Gremio de Artesanos)"
+        "name": "(Anfitrión del Gremio de Artesanos)"
     },
     "fct_fa_guard": {
-        "name": " (Guardia de Thesos)"
+        "name": "(Guardia de Thesos)"
     },
     "fct_fa_guardchief": {
-        "name": " (Jefe de la Guardia de Thesos)"
+        "name": "(Jefe de la Guardia de Thesos)"
     },
     "fct_fa_intendant": {
-        "name": " (Intendente de Thesos)"
+        "name": "(Intendente de Thesos)"
     },
     "fct_fb_guard": {
-        "name": " (Guardia de Dyron)"
+        "name": "(Guardia de Dyron)"
     },
     "fct_fb_guardchief": {
-        "name": " (Jefe de la Guardia de Dyron)"
+        "name": "(Jefe de la Guardia de Dyron)"
     },
     "fct_fb_intendant": {
-        "name": " (Intendente de Dyron)"
+        "name": "(Intendente de Dyron)"
     },
     "fct_ff_guard": {
-        "name": " (Guardia Fronterizo)"
+        "name": "(Guardia Fronterizo)"
     },
     "fct_foreman": {
         "name": "Supervisor"
@@ -597,97 +843,97 @@
         "name": "Proveedor fronterizo"
     },
     "fct_fv_guard": {
-        "name": " (Guardia de Pyr)"
+        "name": "(Guardia de Pyr)"
     },
     "fct_fv_guardchief": {
-        "name": " (Jefe de la Guardia de Pyr)"
+        "name": "(Jefe de la Guardia de Pyr)"
     },
     "fct_fv_intendant": {
-        "name": " (Intendente de Pyr)"
+        "name": "(Intendente de Pyr)"
     },
     "fct_fv_rookieguard": {
-        "name": " (Guardia Novato de Pyr)"
+        "name": "(Guardia Novato de Pyr)"
     },
     "fct_g_caretaker": {
-        "name": " (Portero de Apartamento del Gremio)"
+        "name": "(Portero de Apartamento del Gremio)"
     },
     "fct_guild_rm_craft": {
-        "name": " (Maestro de Rol de Artesanía)"
+        "name": "(Maestro de Rol de Artesanía)"
     },
     "fct_guild_rm_fight": {
-        "name": " (Maestro de Rol de Combate)"
+        "name": "(Maestro de Rol de Combate)"
     },
     "fct_guild_rm_magic": {
-        "name": " (Maestro de Rol de Magia)"
+        "name": "(Maestro de Rol de Magia)"
     },
     "fct_guild_we": {
-        "name": " (Anfitrión)"
+        "name": "(Anfitrión)"
     },
     "fct_h_chief": {
-        "name": " (Líder del Gremio de Recolectores)"
+        "name": "(Líder del Gremio de Recolectores)"
     },
     "fct_h_guild_trainer": {
-        "name": " (Entrenador de recolector del Gremio)"
+        "name": "(Entrenador de recolector del Gremio)"
     },
     "fct_h_hairdresser": {
-        "name": " (Peluquero Masculino)"
+        "name": "(Peluquero)"
     },
     "fct_h_rolemaster": {
-        "name": " (Maestro del rol del Gremio de los Recolectores)"
+        "name": "(Maestro del rol del Gremio de los Recolectores)"
     },
     "fct_h_tattooer": {
-        "name": " (Artista Tatuador Masculino)"
+        "name": "(Artista Tatuador)"
     },
     "fct_h_trainer": {
-        "name": " (Entrenador de Recolección)"
+        "name": "(Entrenador de Recolección)"
     },
     "fct_h_welcomer": {
-        "name": " (Anfitrión del Gremio de Recolectores)"
+        "name": "(Anfitrión del Gremio de Recolectores)"
     },
     "fct_harmor_merchant": {
-        "name": " (Mercader de armaduras pesadas)"
+        "name": "(Mercader de armaduras pesadas)"
     },
     "fct_hawker": {
         "name": "Buhonero"
     },
     "fct_htool_merchant": {
-        "name": " (Mercader de herramientas de recolección)"
+        "name": "(Mercader de herramientas de recolección)"
     },
     "fct_hunter": {
-        "name": " (Cazador)"
+        "name": "(Cazador)"
     },
     "fct_hunter_chief": {
-        "name": " (Jefe Cazador)"
+        "name": "(Jefe Cazador)"
     },
     "fct_ins_f": {
-        "name": " (Instructor de Combate)"
+        "name": "(Instructor de Combate)"
     },
     "fct_ins_h": {
-        "name": " (Instructor de Recolectores)"
+        "name": "(Instructor Ranger)"
     },
     "fct_ins_m": {
-        "name": " (Instructor de Magia)"
+        "name": "(Instructor de Magia)"
     },
     "fct_ins_r": {
-        "name": " (Instructor de Artesanía)"
+        "name": "(Instructor de Artesanía)"
     },
     "fct_jewel_merchant": {
-        "name": " (Mercader de Joyas)"
+        "name": "(Mercader de Joyas)"
     },
     "fct_journeyman": {
         "name": "Viajero"
     },
     "fct_k_pactgiver": {
-        "name": " (Dador del pacto Kami)"
+        "name": "(Dador del pacto Kami)"
     },
     "fct_kami_adept": {
-        "name": " (Adepto Kami)"
+        "name": "(Adepto Kami)"
     },
     "fct_kami_ambassador": {
         "name": "Embajador Kami"
     },
     "fct_kami_master": {
-        "name": " (Maestro Kami)"
+        "name": "(Maestro Kami)"
     },
     "fct_kami_welcomer": {
         "name": "Anfitrión Kami"
@@ -699,28 +945,28 @@
         "name": "Embajador Karavan"
     },
     "fct_karavan_officer": {
-        "name": " (Oficial Karavan)"
+        "name": "(Oficial Karavan)"
     },
     "fct_karavan_welcomer": {
         "name": "Anfitrión Karavan"
     },
     "fct_kitin_mg_1": {
-        "name": " (Vigilante de la amenaza Kitin)"
+        "name": "(Vigilante de la amenaza Kitin)"
     },
     "fct_kitin_mg_2": {
-        "name": " (Vigilante de la amenaza Kitin)"
+        "name": "(Vigilante de la amenaza Kitin)"
     },
     "fct_kitin_mg_3": {
-        "name": " (Vigilante de la amenaza Kitin)"
+        "name": "(Vigilante de la amenaza Kitin)"
     },
     "fct_kitin_mg_4": {
-        "name": " (Vigilante de la amenaza Kitin)"
+        "name": "(Vigilante de la amenaza Kitin)"
     },
     "fct_kv_pactgiver": {
-        "name": " (Dador de pacto Karavan)"
+        "name": "(Dador del pacto Karavan)"
     },
     "fct_larmor_merchant": {
-        "name": " (Mercader de armaduras ligeras)"
+        "name": "(Mercader de armaduras ligeras)"
     },
     "fct_local_messenger": {
         "name": "Mensajero Local"
@@ -729,226 +975,226 @@
         "name": "Proveedor Local"
     },
     "fct_m_guild_trainer": {
-        "name": " (Entrenador de mago del Gremio)"
+        "name": "(Entrenador de mago del Gremio)"
     },
     "fct_m_rolemaster": {
-        "name": " (Maestro del rol del Gremio de la Magos)"
+        "name": "(Maestro del rol del Gremio de Magia)"
     },
     "fct_m_trainer": {
-        "name": " (Entrenador de Magia)"
+        "name": "(Entrenador de Magia)"
     },
     "fct_ma_chief": {
-        "name": " (Líder del Gremio del Lanzadores de Ataque)"
+        "name": "(Líder del Gremio de Hechiceros de Ataque)"
     },
     "fct_ma_guard": {
-        "name": " (Guardia  de Natae)"
+        "name": "(Guardia  de Natae)"
     },
     "fct_ma_guardchief": {
-        "name": " (Jefe de la Guardia de Natae)"
+        "name": "(Jefe de la Guardia de Natae)"
     },
     "fct_ma_intendant": {
-        "name": " (Intendente de Natae)"
+        "name": "(Intendente de Natae)"
     },
     "fct_ma_rolemaster": {
-        "name": " (Maestro del rol del Gremio de Magos de Ataque)"
+        "name": "(Maestro del rol del Gremio de Ataque Mágico)"
     },
     "fct_ma_welcomer": {
-        "name": " (Anfitrión del Gremio de Magos de Ataque)"
+        "name": "(Anfitrión del Gremio de Ataque Mágico)"
     },
     "fct_marmor_merchant": {
-        "name": " (Mercader de armaduras medianas)"
+        "name": "(Mercader de armaduras medianas)"
     },
     "fct_mayor": {
-        "name": " (Alcalde)"
+        "name": "(Alcalde)"
     },
     "fct_mb_chief": {
-        "name": " (Líder del Gremio de Magos de Defensa)"
+        "name": "(Líder del Gremio de Magos de Defensa)"
     },
     "fct_mb_guard": {
-        "name": " (Guardia de Davae)"
+        "name": "(Guardia de Davae)"
     },
     "fct_mb_guardchief": {
-        "name": " (Jefe de la Guardia de Davae)"
+        "name": "(Jefe de la Guardia de Davae)"
     },
     "fct_mb_intendant": {
-        "name": " (Intendente de Davae)"
+        "name": "(Intendente de Davae)"
     },
     "fct_mb_rolemaster": {
-        "name": " (Maestro del rol del Gremio de Magos de Defensa)"
+        "name": "(Maestro del rol del Gremio de Magos de Defensa)"
     },
     "fct_mb_welcomer": {
-        "name": " (Anfitrión del Gremio de Magos de Defensa)"
+        "name": "(Anfitrión del Gremio de Magos de Defensa)"
     },
     "fct_mc_guard": {
-        "name": " (Guardia de Avalae)"
+        "name": "(Guardia de Avalae)"
     },
     "fct_mc_guardchief": {
-        "name": " (Jefe de la Guardia  de Avalae)"
+        "name": "(Jefe de la Guardia  de Avalae)"
     },
     "fct_mc_intendant": {
-        "name": " (Intendente de Avalae)"
+        "name": "(Intendente de Avalae)"
     },
     "fct_meleeweapon_merchant": {
-        "name": " (Mercader de armas de combate cuerpo a cuerpo)"
+        "name": "(Mercader de armas de lucha)"
     },
     "fct_mf_chief": {
-        "name": " (Líder del Gremio de Luchadores Cuerpo a Cuerpo)"
+        "name": "(Líder del Gremio de Luchadores)"
     },
     "fct_mf_guard": {
-        "name": " (Guardia fronterizo)"
+        "name": "(Guardia fronterizo)"
     },
     "fct_mf_rolemaster": {
-        "name": " (Maestro del rol del Gremio de los Luchadores Cuerpo a Cuerpo)"
+        "name": "(Maestro del rol del Gremio de Luchadores)"
     },
     "fct_mf_welcomer": {
-        "name": " (Anfitrión del Gremio de Luchadores Cuerpo a Cuerpo)"
+        "name": "(Anfitrión del Gremio de Luchadores)"
     },
     "fct_mh_chief": {
-        "name": " (Líder del Gremio de Sanadores)"
+        "name": "(Líder del Gremio de Sanadores)"
     },
     "fct_mh_rolemaster": {
-        "name": " (Maestro del rol del Gremio de los Sanadores)"
+        "name": "(Maestro del rol del Gremio de Sanadores)"
     },
     "fct_mh_welcomer": {
-        "name": " (Anfitrión del Gremio de Sanadores)"
+        "name": "(Anfitrión del Gremio de Sanadores)"
     },
     "fct_mission_officer": {
-        "name": " (Oficial de Misión)"
+        "name": "(Oficial de Misión)"
     },
     "fct_mv_guard": {
-        "name": " (Guardia de Yrkanis"
+        "name": "(Guardia de Yrkanis)"
     },
     "fct_mv_guardchief": {
-        "name": " (Jefe de la Guardia de Yrkanis)"
+        "name": "(Jefe de la Guardia de Yrkanis)"
     },
     "fct_mv_intendant": {
-        "name": " (Intendente de Yrkanis)"
+        "name": "(Intendente de Yrkanis)"
     },
     "fct_natae_chief": {
-        "name": " (Jefe de la Aldea de Natae)"
+        "name": "(Jefe de la Aldea de Natae)"
     },
     "fct_newb_a": {
-        "name": " (Guardia de Stalli)"
+        "name": "(Guardia de Stalli)"
     },
     "fct_newb_a_chief": {
-        "name": " (Jefe de la Guardia de Stalli)"
+        "name": "(Jefe de la Guardia de Stalli)"
     },
     "fct_newb_b": {
-        "name": " (Guardia de Borea)"
+        "name": "(Guardia de Borea)"
     },
     "fct_newb_b_chief": {
-        "name": " (Jefe de la Guardia de Borea)"
+        "name": "(Jefe de la Guardia de Borea)"
     },
     "fct_newb_c": {
-        "name": " (Guardia de Nistia)"
+        "name": "(Guardia de Nistia)"
     },
     "fct_newb_c_chief": {
-        "name": " (Jefe de la Guardia de Nistia)"
+        "name": "(Jefe de la Guardia de Nistia)"
     },
     "fct_newb_d": {
-        "name": " (Guardia de Rosilio)"
+        "name": "(Guardia de Rosilio)"
     },
     "fct_newb_d_chief": {
-        "name": " (Jefe de la Guardia de Rosilio)"
+        "name": "(Jefe de la Guardia de Rosilio)"
     },
     "fct_newb_e": {
-        "name": " (Guardia de Miani)"
+        "name": "(Guardia de Miani)"
     },
     "fct_newb_e_chief": {
-        "name": " (Jefe de la Guardia de Miani)"
+        "name": "(Jefe de la Guardia de Miani)"
     },
     "fct_newb_fa": {
-        "name": " (Guardia de Aegus)"
+        "name": "(Guardia de Aegus)"
     },
     "fct_newb_fa_chief": {
-        "name": " (Jefe de la Guardia de Aegus)"
+        "name": "(Jefe de la Guardia de Aegus)"
     },
     "fct_newb_fb": {
-        "name": " (Guardia de Kaemon)"
+        "name": "(Guardia de Kaemon)"
     },
     "fct_newb_fb_chief": {
-        "name": " (Jefe de la Guardia de Kaemon)"
+        "name": "(Jefe de la Guardia de Kaemon)"
     },
     "fct_newb_fc": {
-        "name": " (Guardia de Sekovix)"
+        "name": "(Guardia de Sekovix)"
     },
     "fct_newb_fc_chief": {
-        "name": " (Jefe de la Guardia de Sekovix)"
+        "name": "(Jefe de la Guardia de Sekovix)"
     },
     "fct_newb_fd": {
-        "name": " (Guardia de Phyxon)"
+        "name": "(Guardia de Phyxon)"
     },
     "fct_newb_fd_chief": {
-        "name": " (Jefe de la Guardia Phyxon)"
+        "name": "(Jefe de la Guardia Phyxon)"
     },
     "fct_newb_fe": {
-        "name": " (Guardia de Galemus)"
+        "name": "(Guardia de Galemus)"
     },
     "fct_newb_fe_chief": {
-        "name": " (Jefe de la Guardia de Galemus)"
+        "name": "(Jefe de la Guardia de Galemus)"
     },
     "fct_newb_ta": {
-        "name": " (Guardia de Aubermouth)"
+        "name": "(Guardia de Aubermouth)"
     },
     "fct_newb_ta_chief": {
-        "name": " (Jefe de la Guardia de Aubermouth)"
+        "name": "(Jefe de la Guardia de Aubermouth)"
     },
     "fct_newb_tb": {
-        "name": " (Guardia de Barkdell)"
+        "name": "(Guardia de Barkdell)"
     },
     "fct_newb_tb_chief": {
-        "name": " (Jefe de la Guadia de Barkdell)"
+        "name": "(Jefe de la Guadia de Barkdell)"
     },
     "fct_newb_tc": {
-        "name": " (Guardia de Hobwelly)"
+        "name": "(Guardia de Hobwelly)"
     },
     "fct_newb_tc_chief": {
-        "name": " (Jefe de la Guardia de Hobwelly)"
+        "name": "(Jefe de la Guardia de Hobwelly)"
     },
     "fct_newb_td": {
-        "name": " (Guardia de Waverton)"
+        "name": "(Guardia de Waverton)"
     },
     "fct_newb_td_chief": {
-        "name": " (Jefe de la Guardia de Waverton)"
+        "name": "(Jefe de la Guardia de Waverton)"
     },
     "fct_newb_te": {
-        "name": " (Guardia de Dingleton)"
+        "name": "(Guardia de Dingleton)"
     },
     "fct_newb_te_chief": {
-        "name": " (Jefe de la Guardia de Dingleton)"
+        "name": "(Jefe de la Guardia de Dingleton)"
     },
     "fct_newb_welcomer": {
-        "name": " (Anfitrión)"
+        "name": "(Anfitrión)"
     },
     "fct_newb_za": {
-        "name": " (Guardia de Qaï-Lo)"
+        "name": "(Guardia de Qaï-Lo)"
     },
     "fct_newb_za_chief": {
-        "name": " (Jefe de la Guardia de Qaï-Lo)"
+        "name": "(Jefe de la Guardia de Qaï-Lo)"
     },
     "fct_newb_zb": {
-        "name": " (Guardia Sheng-Wo)"
+        "name": "(Guardia Sheng-Wo)"
     },
     "fct_newb_zb_chief": {
-        "name": " (Jefe de la Guardia de Sheng-Wo)"
+        "name": "(Jefe de la Guardia de Sheng-Wo)"
     },
     "fct_newb_zc": {
-        "name": " ( Guardia de Nen-Xing)"
+        "name": "(Guardia de Nen-Xing)"
     },
     "fct_newb_zc_chief": {
-        "name": " (Jefe de la Guardia de Nen-Xing)"
+        "name": "(Jefe de la Guardia de Nen-Xing)"
     },
     "fct_newb_zd": {
-        "name": " (Guardia de Koï-Zun)"
+        "name": "(Guardia de Koï-Zun)"
     },
     "fct_newb_zd_chief": {
-        "name": " (Jefe de la Guardia de Koï-Zun)"
+        "name": "(Jefe de la Guardia de Koï-Zun)"
     },
     "fct_newb_ze": {
-        "name": " (Guardia de Yin-Piang)"
+        "name": "(Guardia de Yin-Piang)"
     },
     "fct_newb_ze_chief": {
-        "name": " (Jefe de la Guardia de Yin-Piang)"
+        "name": "(Jefe de la Guardia de Yin-Piang)"
     },
     "fct_outlands_messenger": {
         "name": "Mensajero de las Tierras Lejanas"
@@ -969,76 +1215,76 @@
         "name": "Admnistrador del Puesto de Avanzada de la Tribu"
     },
     "fct_p_caretaker": {
-        "name": " (Portero de Apartamento Homin)"
+        "name": "(Conserje de Apartamento Homin)"
     },
     "fct_pammo_merchant": {
-        "name": " (Mercader de composición de munición)"
+        "name": "(Mercader de planes de munición)"
     },
     "fct_parmor_merchant": {
-        "name": " (Mercader de composición de armaduras)"
+        "name": "(Mercader de planes de armaduras)"
     },
     "fct_patrolman": {
         "name": "Patrullero"
     },
     "fct_pctool_merchant": {
-        "name": " (Mercader de composición de herramientas de artesanía)"
+        "name": "(Mercader de planes de herramientas de artesanía)"
     },
     "fct_pharmor_merchant": {
-        "name": " (Mercader de composición de armaduras pesadas)"
+        "name": "(Mercader de planes de armaduras pesadas)"
     },
     "fct_phtool_merchant": {
-        "name": " (Mercader de composición de herramientas de recolección)"
+        "name": "(Mercader de planes de herramientas de recolección)"
     },
     "fct_pjewel_merchant": {
-        "name": " (Mercader de composición de joyas)"
+        "name": "(Mercader de planes de joyas)"
     },
     "fct_plarmor_merchant": {
-        "name": " (Mercader de composición de armaduras ligeras)"
+        "name": "(Mercader de planes de armaduras ligeras)"
     },
     "fct_pmarmor_merchant": {
-        "name": " (Mercader de composición de armaduras medianas)"
+        "name": "(Mercader de planes de armaduras medianas)"
     },
     "fct_pmeleeweapon_merchant": {
-        "name": " (Mercader de composición de armas de combate cuerpo a cuerpo)"
+        "name": "(Mercader de planes de armas de lucha)"
     },
     "fct_prangeweapon_merchant": {
-        "name": " (Mercader de composición de armas de alcance)"
+        "name": "(Mercader de planes de armas de tiro)"
     },
     "fct_prm_merchant": {
-        "name": " (Mercader de composición de materias primas)"
+        "name": "(Mercader de planes de materias primas)"
     },
     "fct_prospector": {
         "name": "Prospector"
     },
     "fct_pshield_merchant": {
-        "name": " (Mercader de composición de escudos)"
+        "name": "(Mercader de planes de escudos)"
     },
     "fct_ptool_merchant": {
-        "name": " (Mercader de composición de herramientas)"
+        "name": "(Mercader de planes de herramientas)"
     },
     "fct_pttool_merchant": {
-        "name": " (Mercader de composición de herramientas de doma)"
+        "name": "(Mercader de planes de herramientas de doma)"
     },
     "fct_rangeweapon_merchant": {
-        "name": " (Mercader de armas de alcance)"
+        "name": "(Mercader de armas de tiro)"
     },
     "fct_registar": {
-        "name": " (Clérigo del Gremio)"
+        "name": "(Clérigo del Gremio)"
     },
     "fct_rf_chief": {
-        "name": " (Líder del Gremio de  Luchadores de Alcance)"
+        "name": "(Líder del Gremio de Tiradores)"
     },
     "fct_rf_rolemaster": {
-        "name": " (Maestro del rol del Gremio de Luchadores a Distancia )"
+        "name": "(Maestro del rol del Gremio de Tiradores)"
     },
     "fct_rf_welcomer": {
-        "name": " (Anfitrión del de Gremio de Luchadores de Alcance)"
+        "name": "(Anfitrión del de Gremio de Tiradores)"
     },
     "fct_rm_merchant": {
-        "name": " (Mercader de materias primas)"
+        "name": "(Mercader de materias primas)"
     },
     "fct_sage": {
-        "name": " (Sabio)"
+        "name": "(Sabio)"
     },
     "fct_scout": {
         "name": "Explorador"
@@ -1047,61 +1293,61 @@
         "name": "Sargento"
     },
     "fct_shield_merchant": {
-        "name": " (Mercader de Escudos)"
+        "name": "(Mercader de Escudos)"
     },
     "fct_stableboy_merchant": {
-        "name": " (Mozo de Establo)"
+        "name": "(Mozo de Establo)"
     },
     "fct_stablegirl_merchant": {
-        "name": " (Moza de Establo)"
+        "name": "(Moza de Establo)"
     },
     "fct_steward": {
-        "name": " (Administrador)"
+        "name": "(Administrador)"
     },
     "fct_supplier": {
-        "name": " (Proveedor)"
+        "name": "(Proveedor)"
     },
     "fct_t_chief": {
-        "name": " (Líder del Gremio de Mercaderes)"
+        "name": "(Líder del Gremio de Mercaderes)"
     },
     "fct_t_rolemaster": {
-        "name": " (Maestro del rol del Gremio de los Mercaderes)"
+        "name": "(Maestro del rol del Gremio de Mercaderes)"
     },
     "fct_t_welcomer": {
-        "name": " (Anfitrión del Gremio de Mercaderes)"
+        "name": "(Anfitrión del Gremio de Mercaderes)"
     },
     "fct_ta_guard": {
-        "name": " (Guardia de Windermeer)"
+        "name": "(Guardia de Windermeer)"
     },
     "fct_ta_guardchief": {
-        "name": " (Jefe de la Guardia de Windermeer)"
+        "name": "(Jefe de la Guardia de Windermeer)"
     },
     "fct_ta_intendant": {
-        "name": " (Intendente de Windermeer)"
+        "name": "(Intendente de Windermeer)"
     },
     "fct_tax_collector": {
         "name": "(Recaudador de Impuestos)"
     },
     "fct_tb_guard": {
-        "name": " (Guardia de Avendale)"
+        "name": "(Guardia de Avendale)"
     },
     "fct_tb_guardchief": {
-        "name": " (Jefe de la Guardia de Avendale)"
+        "name": "(Jefe de la Guardia de Avendale)"
     },
     "fct_tb_intendant": {
-        "name": " (Intendente de Crystabell)"
+        "name": "(Intendente de Crystabell)"
     },
     "fct_tc_guard": {
-        "name": " (Guardia de Crystabell)"
+        "name": "(Guardia de Crystabell)"
     },
     "fct_tc_guardchief": {
-        "name": " (Jefe de la guardia de Crystabell)"
+        "name": "(Jefe de la guardia de Crystabell)"
     },
     "fct_tc_intendant": {
-        "name": " (Intendente de Avendale)"
+        "name": "(Intendente de Avendale)"
     },
     "fct_tool_merchant": {
-        "name": " (Mercader de herramientas)"
+        "name": "(Mercader de herramientas)"
     },
     "fct_tribe_chief": {
         "name": "(Jefe de la Tribu)"
@@ -1110,61 +1356,61 @@
         "name": "Anfitrión de la Tribu"
     },
     "fct_ttool_merchant": {
-        "name": " (Mercader de herramientas de doma)"
+        "name": "(Mercader de herramientas de doma)"
     },
     "fct_tv_guard": {
-        "name": " (Guardia de Fairhaven)"
+        "name": "(Guardia de Fairhaven)"
     },
     "fct_tv_guardchief": {
-        "name": " (Jefe de la Guardia de Fairhaven)"
+        "name": "(Jefe de la Guardia de Fairhaven)"
     },
     "fct_tv_intendant": {
-        "name": " (Intendente de Fairhaven)"
+        "name": "(Intendente de Fairhaven)"
     },
     "fct_village_welcomer": {
         "name": "Anfitrión de la Aldea"
     },
     "fct_welcomer": {
-        "name": " (Anfitrión del Gremio)"
+        "name": "(Anfitrión del Gremio)"
     },
     "fct_za_guard": {
-        "name": " (Guardia de Jen-Laï)"
+        "name": "(Guardia de Jen-Laï)"
     },
     "fct_za_guardchief": {
-        "name": " (Jefe de la guardia de Jen-Laï)"
+        "name": "(Jefe de la guardia de Jen-Laï)"
     },
     "fct_za_intendant": {
-        "name": " (Intendente de Jen-Laï)"
+        "name": "(Intendente de Jen-Laï)"
     },
     "fct_zb_guard": {
-        "name": " (Guardia de Min-Cho)"
+        "name": "(Guardia de Min-Cho)"
     },
     "fct_zb_guardchief": {
-        "name": " (Jefe de la guardia de Min-Cho)"
+        "name": "(Jefe de la guardia de Min-Cho)"
     },
     "fct_zb_intendant": {
-        "name": " (Intendente de Min-Cho)"
+        "name": "(Intendente de Min-Cho)"
     },
     "fct_zc_guard": {
-        "name": " (Guardia de Hoï-Cho)"
+        "name": "(Guardia de Hoï-Cho)"
     },
     "fct_zc_guardchief": {
-        "name": " (Jefe de la Guardia de Hoï-Cho)"
+        "name": "(Jefe de la Guardia de Hoï-Cho)"
     },
     "fct_zc_intendant": {
-        "name": " (Intendente de Hoï-Cho)"
+        "name": "(Intendente de Hoï-Cho)"
     },
     "fct_zf_guard": {
-        "name": " (Guardia Fronterizo)"
+        "name": "(Guardia Fronterizo)"
     },
     "fct_zv_guard": {
-        "name": " (Guardia de Zora)"
+        "name": "(Guardia de Zora)"
     },
     "fct_zv_guardchief": {
-        "name": " (Jefe de la guardia de Zora)"
+        "name": "(Jefe de la guardia de Zora)"
     },
     "fct_zv_intendant": {
-        "name": " (Intendente de Zora)"
+        "name": "(Intendente de Zora)"
     },
     "featureunderconstruction": {
         "name": "Característica en construcción"
@@ -1181,17 +1427,32 @@
     "flowermaster": {
         "name": "Maestro Florista"
     },
+    "follow_desc": {
+        "name": "Sigue la entidad apuntada."
+    },
+    "followplayer_desc": {
+        "name": "permite a un grupo de PNJ seguir a un ¡Jugador BUGGY!"
+    },
     "forager": {
         "name": "Recolector"
     },
     "forager_apprentice": {
         "name": "Recolector Aprendiz"
     },
+    "forcemissionprogress_desc": {
+        "name": "fuerza la prosecución de una misión paso a paso (con fines de depuración solamente)"
+    },
+    "forcetargettodie_desc": {
+        "name": "Fuerza la muerte de la entidad señalada."
+    },
     "forest_forager": {
         "name": "Recolector del Bosque"
     },
     "fouler": {
         "name": "Pestilente"
+    },
+    "fullpvp_desc": {
+        "name": "Cambia Completo JcJ on\/off del personaje"
     },
     "fyros_armorer_apprentice": {
         "name": "Artesano Aprendiz de Armaduras Fyros"
@@ -1219,6 +1480,15 @@
     },
     "genericcompetences": {
         "name": "HABILIDADES GENÉRICAS"
+    },
+    "geteventfaction_desc": {
+        "name": "Obtiene el facción del evento del jugador: <player name>"
+    },
+    "getpetanimalsatiety_desc": {
+        "name": "Obtiene la saciedad de un animal (petIndex en 0..3): <petIndex> <nameForAnswer>"
+    },
+    "giverespawnpoint_desc": {
+        "name": "Da un punto de resurección a un jugador: <respawn point name>"
     },
     "gm": {
         "name": "Maestro de Juego"
@@ -1889,8 +2159,26 @@
     "gn_zorai_voluteer_m": {
         "name": "Voluntario Zoraï"
     },
+    "go_desc": {
+        "name": "Abre el WebIG (= SHIFT+W)"
+    },
+    "god_desc": {
+        "name": "Modo Dios, invulnerabilidad"
+    },
     "greenhunter": {
         "name": "Cazador Verde"
+    },
+    "guild_desc": {
+        "name": "Con estos comandos se envía un mensaje al canal de gremio, visible para todos quienes están en el mismo gremio que tu."
+    },
+    "guildinvite_desc": {
+        "name": "Invita a un jugador a su gremio. Solo puede ser usado por oficiales, altos oficiales y el líder del gremio."
+    },
+    "guildmotd_arg1_desc": {
+        "name": "Muestra el mensaje de gremio del día."
+    },
+    "guildmotd_desc": {
+        "name": "Actualiza el mensaje de gremio del día. Solo puede ser usado por oficiales, altos oficiales y líder del gremio. Ejemplo: \/guildmotd ¡Hoy, cacería de Bolobi! : muestra durante el tiempo de conexión, en el canal de gremio, el mensaje \" ¡Hoy, cacería de Bolobi!\""
     },
     "gunman": {
         "name": "Portador de Armas"
@@ -1946,6 +2234,12 @@
     "heavy_swordsman": {
         "name": "Espadachín Pesado"
     },
+    "help_all_desc": {
+        "name": "Muestra ayuda en todos los Comandos de Chat"
+    },
+    "help_desc": {
+        "name": "Muestra información a un Comando de Chat"
+    },
     "hesays": {
         "name": "dice"
     },
@@ -1954,6 +2248,9 @@
     },
     "homin": {
         "name": "Homin"
+    },
+    "hp_desc": {
+        "name": "Puntos de Golpe (de Vida) de un jugador"
     },
     "ifai": {
         "name": "IA"
@@ -2021,14 +2318,35 @@
     "ifundefined": {
         "name": "Indefinido"
     },
+    "ignore_desc": {
+        "name": "Añade a un jugador a tu lista de ignorados"
+    },
+    "ignoreoffensiveactions_desc": {
+        "name": "permite a un PNJ ignorar cualquier Acción Ofensiva"
+    },
+    "ignoretells_desc": {
+        "name": "Ignorar llamada entrante: <0\/false\/1\/true>"
+    },
     "impaler": {
         "name": "Empalador"
     },
     "imperialsupplier": {
         "name": "Proveedor Imperial"
     },
+    "infos_desc": {
+        "name": "Dar información del personaje (GodMode, Invisible...)"
+    },
     "invalidsentence": {
         "name": "Frase no válida"
+    },
+    "invisible_desc": {
+        "name": "Invisibilidad de un jugador"
+    },
+    "invite_desc": {
+        "name": "Invita a un jugador a tu equipo. Solo puede ser usado por el líder del equipo o por alguien que no posea equipo (entonces se forma un equipo)."
+    },
+    "invulnerable_desc": {
+        "name": "Modo Invulnerable, invulnerabilidad a todo"
     },
     "iocommon": {
         "name": "Común"
@@ -2108,6 +2426,9 @@
     "kamicguardian": {
         "name": "Guardián Kámico"
     },
+    "killmob_desc": {
+        "name": "Matar a una bestia (\/b killMob)"
+    },
     "knifeman": {
         "name": "Cuchillero"
     },
@@ -2123,6 +2444,33 @@
     "launcher": {
         "name": "Lanzador"
     },
+    "league_desc": {
+        "name": "Crea un liga con el nombre dado y agrega a tu equipo a la liga. Puede ser usado sólo por el líder del equipo."
+    },
+    "leagueinvite_desc": {
+        "name": "Invita al equipo de un jugador a tu liga. La invitación irá al líder del equipo."
+    },
+    "leaguekick_desc": {
+        "name": "Expulsa una persona o equipo (sí la persona es el líder del equipo) de tu liga."
+    },
+    "leaguequit_desc": {
+        "name": "Sales de tu liga, sale tu equipo de la liga sí tu eres el líder del equipo."
+    },
+    "learnallbricks_desc": {
+        "name": "Un jugador específico aprende todos los bloques posibles para su habilidad."
+    },
+    "learnallforagephrases_desc": {
+        "name": "Aprender todas las frases de forrajeo, comienza en el índice especificado: <index>"
+    },
+    "learnallphrases_desc": {
+        "name": "El jugador especificado aprende todas las frases posibles para sus valores de habilidad"
+    },
+    "learnbrick_desc": {
+        "name": "El jugador especificado aprende un bloque dado: <brick sheet>"
+    },
+    "learnphrase_desc": {
+        "name": "El jugador especificado aprende una frase y establece un índice conocido knownPhraseIndex: <phrase Sheet>"
+    },
     "lifestealer": {
         "name": "Ladrón de Vida"
     },
@@ -2134,6 +2482,30 @@
     },
     "light_armsman": {
         "name": "Portador de Armas Ligeras"
+    },
+    "listgroup_desc": {
+        "name": "Listar todos los grupos salvados actualmente"
+    },
+    "listguildmembers_desc": {
+        "name": "Muestra la lista de miembros del gremio:  <guild name>"
+    },
+    "listposflags_desc": {
+        "name": "Lista las banderas de posición:  <radius in meters>"
+    },
+    "lmtar_desc": {
+        "name": "Añade como objetivo a la marca más cercana"
+    },
+    "loadfrompdr_desc": {
+        "name": "Cargar un personaje desde un archivo binario PDR: <file name>"
+    },
+    "loadfromxml_desc": {
+        "name": "Cargar un personaje desde un archivo XML: <file name>"
+    },
+    "lockitem_desc": {
+        "name": "Bloque\/Desbloquea ítem par comerciar, vender, destruir."
+    },
+    "logxpgain_desc": {
+        "name": "Ingresar o no ganar experiencia para un jugador especificado: <file name>"
     },
     "mace": {
         "name": "Maza"
@@ -2160,7 +2532,7 @@
         "name": "Mago"
     },
     "magician_apprentice": {
-        "name": "Aprendiz de Mago "
+        "name": "Aprendiz de Mago"
     },
     "master_artilleryman": {
         "name": "Maestro Artillero"
@@ -2267,6 +2639,12 @@
     "matis_weapon_smith_apprentice": {
         "name": "Aprendiz de Artesano de Armas Matis"
     },
+    "maxhitrange_desc": {
+        "name": "Cambiar el rango de Golpe de un grupo PNJ"
+    },
+    "maxhp_desc": {
+        "name": "Puntos máximos de golpe de un bot"
+    },
     "medium_armorer": {
         "name": "Artesano de Armaduras Medianas"
     },
@@ -2286,7 +2664,7 @@
         "name": "Maestro Artesano de Armas Ligeras"
     },
     "melee_warrior": {
-        "name": "Guerrero Cuerpo a Cuerpo"
+        "name": "Luchador Cuerpo a Cuerpo"
     },
     "melee_warrior_apprentice": {
         "name": "Aprendiz de Luchador Cuerpo a Cuerpo"
@@ -2317,6 +2695,21 @@
     },
     "mission_real_tooltip": {
         "name": "{FFFC}Este es el @{6F6F}Curso@{FFFC} que usted sigue actualmente.\nClic para más @{6F6F}información@{FFFC}."
+    },
+    "money_desc": {
+        "name": "Dinero de un jugador"
+    },
+    "monitormissions_desc": {
+        "name": "Monitoriza las misiones del jugador dado: <nombre del jugador>"
+    },
+    "motd_desc": {
+        "name": "Establece el mensaje actual del día: <mensaje a mostrar>"
+    },
+    "mount_desc": {
+        "name": "Monta tu montura mektoub. Usted debe estar cerca de su montura y debe estar fuera de la stable.and \/unmount también :)"
+    },
+    "movegroup_desc": {
+        "name": "Mueve el equipo a pet_animal1 o player_room"
     },
     "mpcatexotic": {
         "name": "Exótico"
@@ -5228,6 +5621,18 @@
     "msgusermodeparry": {
         "name": "&CHKCB&Tratarás de bloquear los ataques cuerpo a cuerpo."
     },
+    "mute_desc": {
+        "name": "Silenciar a un usuario: <nombre del jugador> <duración>"
+    },
+    "muteuniverse_desc": {
+        "name": "Silenciar el canal universo: <duración>"
+    },
+    "naked_desc": {
+        "name": "Remover todo el equipamiento (también los bolsillos)"
+    },
+    "name_desc": {
+        "name": "Nombre de un jugador"
+    },
     "nocastonmount": {
         "name": "No es posible lanzar un hechizo montado sobre una montura."
     },
@@ -5252,8 +5657,29 @@
     "novice_warrior": {
         "name": "Guerrero Novato"
     },
+    "npcsay_desc": {
+        "name": "Permite a un grupo PNJ hablar"
+    },
+    "nude_desc": {
+        "name": "remover todo el equipamiento sin tocar los bolsillos."
+    },
     "offensive_magician": {
         "name": "Mago Ofensivo"
+    },
+    "outpostbanguild_desc": {
+        "name": "Prohibir a un gremio ingresar a un conflicto de Puesto de Avanzada: <outpost_id> <guild_name> <all|atk|def>"
+    },
+    "outpostbanplayer_desc": {
+        "name": "Prohibir a un personaje ingresar a un conflicto de Puesto de Avanzada: <outpost_id> <eid> <all|atk|def>"
+    },
+    "outpostunbanguild_desc": {
+        "name": "Unban un gremio para un puesto de avanzada conflit: <id_de_puesto_de_post> <nombre_del_gremio> <all|atk|def>"
+    },
+    "outpostunbanplayer_desc": {
+        "name": "Desbanear a un personaje por un conflit de puesto de avanzada: <outpost_id> <eid> <all|atk|def>"
+    },
+    "parry_desc": {
+        "name": "Establecer el modo de defensa para parar"
     },
     "pikeman": {
         "name": "Piquero"
@@ -5318,11 +5744,26 @@
     "place_zora": {
         "name": "Zora"
     },
+    "playedtime_desc": {
+        "name": "Muestra el número de días que has jugado, en el chat Alrededor."
+    },
+    "position_desc": {
+        "name": "Posición de un jugador (en metros) <posx>,<posy>,<posz> | <nombre del robot> | <nombre del jugador> | home"
+    },
     "priest": {
         "name": "Sacerdote"
     },
     "prime_roots_forager": {
         "name": "Recolector de las Primeras Raíces"
+    },
+    "priv_desc": {
+        "name": "Privilegio de usuario"
+    },
+    "priviledgepvp_desc": {
+        "name": "Activa\/desactiva PVP en el personaje"
+    },
+    "progressmission_desc": {
+        "name": "Forzar la progresión de la misión: <idx de misión> repetir"
     },
     "propertynotfound": {
         "name": "Propiedad no encontrada."
@@ -5353,6 +5794,12 @@
     },
     "quitedifficult": {
         "name": "Algo difícil"
+    },
+    "random_desc": {
+        "name": "Saca un número al azar entre el primero y el último proporcionados. El resultado se muestra en el chat de Around y es visible para todos los que estén cerca.Si sólo se proporciona un número, el otro límite se establece en 1. Límites para este sorteo: -32767, 32767"
+    },
+    "random_hide_desc": {
+        "name": "Como antes, pero el resultado sólo se muestra en Sys info (y no aparece en el canal de alrededor)."
     },
     "range_fighter": {
         "name": "Luchador de Alcance"
@@ -5390,6 +5837,9 @@
     "refugee": {
         "name": "Refugiado"
     },
+    "region_desc": {
+        "name": "Estos comandos envían un mensaje visible para todos los que se encuentren en la misma región que tú en ese momento."
+    },
     "region_fleetinggarden": {
         "name": "Jardín Fugaz"
     },
@@ -5414,8 +5864,47 @@
     "region_upperbog": {
         "name": "Pantano Alto"
     },
+    "reloadplayer_desc": {
+        "name": "Establece el siguiente nombre de archivo utilizado para cargar un carácter (debe estar fuera de línea y registrarse más tarde) o relaod un carácter en línea a la copia de seguridad anterior o con un nombre de archivo especificado."
+    },
+    "removemission_desc": {
+        "name": "Eliminar una misión de un personaje"
+    },
+    "removeprofileparameter_desc": {
+        "name": "Eliminar parámetro de perfil a un grupo npc"
+    },
+    "rename_desc": {
+        "name": "Renombrar un grupo npc"
+    },
+    "renameguild_desc": {
+        "name": "Cambiar el nombre de un gremio: <nombre de gremio> <nuevo nombre de gremio>"
+    },
+    "renameplayer_desc": {
+        "name": "Cambiar el nombre de un jugador: <nombrejugador> <nuevo jugadorNombre>"
+    },
+    "renameplayerforevent_desc": {
+        "name": "Cambia el nombre de un jugador temporalmente para un evento: <nombrejugador> <nuevo jugadorNombre>"
+    },
+    "resetname_desc": {
+        "name": "Restablecer el nombre del jugador; deshacer un cambio de nombre temporal"
+    },
+    "resetpowerflags_desc": {
+        "name": "Restablecer el aura ineficaz y las banderas de poder para un personaje determinado"
+    },
+    "resetpvptimers_desc": {
+        "name": "Reinicia los temporizadores pvp de un jugador: <nombre del jugador>"
+    },
     "rifleman": {
         "name": "Fusilero"
+    },
+    "roominvite_desc": {
+        "name": "Invita a un amigo a tu apartamento"
+    },
+    "roomkick_desc": {
+        "name": "Enviar una invitación"
+    },
+    "root_desc": {
+        "name": "Arraiga a un jugador: <nombre del jugador> <tiempo en segundos>"
     },
     "rpjob_200": {
         "name": "Aprendiz de Carnicero"
@@ -5462,6 +5951,15 @@
     "runner": {
         "name": "Corredor"
     },
+    "ryzomdate_desc": {
+        "name": "Fecha actual de Ryzom"
+    },
+    "ryzomtime_desc": {
+        "name": "Hora actual de Ryzom"
+    },
+    "s_param1_desc": {
+        "name": "Hablar en Alrededor sin traducción automática;"
+    },
     "sandcaravanner": {
         "name": "Caravanero de la Duna"
     },
@@ -5471,8 +5969,20 @@
     "sapmaster": {
         "name": "Maestro de la Savia"
     },
+    "saveplayeractivechar_desc": {
+        "name": "Guardar inmediatamente un personaje activo, un nombre de archivo puede añadirse para respaldar un personaje en una situación\/contexto específico"
+    },
+    "savetopdr_desc": {
+        "name": "Guardar un personaje en un archivo binario PDR:  <file name>"
+    },
+    "savetoxml_desc": {
+        "name": "Guardar un personaje en un archivo XML: <file name>"
+    },
     "say": {
         "name": "Decir:"
+    },
+    "say_desc": {
+        "name": "Los mensajes enviados normalmente en el canal de alrededor tienen un alcance de 25 m."
     },
     "sc": {
         "name": "Artesanía"
@@ -5522,6 +6032,126 @@
     "secondlife": {
         "name": "Segunda Vida"
     },
+    "self_desc": {
+        "name": "Se apunta a si mismo(a)"
+    },
+    "setactivity_desc": {
+        "name": "Cambiar un grupo npc Actividad"
+    },
+    "setaggro_desc": {
+        "name": "Cambia el rango de aggro de un grupo npc"
+    },
+    "setattackable_desc": {
+        "name": "Hacer atacable un grupo de npc"
+    },
+    "setautospawn_desc": {
+        "name": "Generar el grupo npc instantáneamente"
+    },
+    "setbotattackable_desc": {
+        "name": "Hacer un grupo npc atacable para Bots"
+    },
+    "setcanaggro_desc": {
+        "name": "Permitir que el grupo npc sea Aggro"
+    },
+    "setclientsheet_desc": {
+        "name": "Sobrescribir la hoja de grupo de npc (más visual)"
+    },
+    "setdespawntime_desc": {
+        "name": "Establece el tiempo en ticks cuando un grupo de npc despawn despues de ser matado (todo el grupo de npc)"
+    },
+    "setdonttranslatelangs_codelang_desc": {
+        "name": "Por ejemplo, \/a setDontTranslateLangs us|fr desactiva la traducción automática al francés de las frases enviadas por un cliente estadounidense."
+    },
+    "setdonttranslatelangs_desc": {
+        "name": "desactiva la traducción automática en algunos pares de idiomas."
+    },
+    "seteventfaction_desc": {
+        "name": "Establece la facción de evento del jugador: <nombre del jugador> <facción del evento>"
+    },
+    "setfactionattackablebelow_desc": {
+        "name": "zold un grupo npc cuando debería atacar a la enemie Facción"
+    },
+    "setfactionprop_desc": {
+        "name": "cambiar la forma de interactuar de un grupo de npc"
+    },
+    "setfameplayer_desc": {
+        "name": "Establece el valor de fama de un jugador en la facción dada: <facción> <fama>"
+    },
+    "setgmguild_desc": {
+        "name": "Establecer el gremio actual de GM"
+    },
+    "setguildchargepoint_desc": {
+        "name": "Establece los puntos de carga de un gremio: <nombre del gremio> <puntos>"
+    },
+    "setguilddescription_desc": {
+        "name": "Establece una descripción de gremio: <nombre del gremio> <nueva descripción del gremio>"
+    },
+    "setguildleader_desc": {
+        "name": "Establece el líder de un gremio: <nombre del gremio> <nombre del miembro>"
+    },
+    "setguildmembergrade_desc": {
+        "name": "Establece el grado de un miembro del gremio: <nombre del gremio> <nombre del miembro> <grado = Member\/Officer\/HighOfficer\/Leader>"
+    },
+    "setguildmessage_desc": {
+        "name": "Establece el mensaje del gremio del día: <mensaje>"
+    },
+    "sethealer_desc": {
+        "name": "establecer grupo npc para ser un sanador"
+    },
+    "sethpscale_desc": {
+        "name": "\/\/ 1 ==100% a 0.0 == Muerte entonces 0.5 = 50% del MAX HP"
+    },
+    "setitemsapload_desc": {
+        "name": "Establece la carga de savia de un elemento: <índice de ranura en la bolsa (empieza en 0)> <valor flotante>."
+    },
+    "setleague_desc": {
+        "name": "Enviar una invitación de Liga a un personaje Líder de Equipo sin límite de distancia"
+    },
+    "setmaxhp_desc": {
+        "name": "cambiar el max hp de un grupo npc"
+    },
+    "setmode_desc": {
+        "name": "cambiar el Modo de un grupo npc"
+    },
+    "setpetanimalname_desc": {
+        "name": "Establece el nombre de un animal de compañía (petIndex en 0..3): <índiceMascota> <nombre>"
+    },
+    "setpetanimalsatiety_desc": {
+        "name": "Establece la saciedad del animal mascota (petIndex en 0..3): <petIndex> full|<valor> <nombreParaRespuesta>"
+    },
+    "setplayerattackable_desc": {
+        "name": "Hacer un grupo npc atacable para los Jugadores"
+    },
+    "setposflag_desc": {
+        "name": "Establece una bandera de posición: <nombre de la bandera>"
+    },
+    "setpvptag_desc": {
+        "name": "Establecer la etiqueta PvP del personaje del jugador en verdadero o falso"
+    },
+    "setrespawntime_desc": {
+        "name": "establece el tiempo en ticks cuando un grupo de npc respawn despues de ser matado (todo el grupo de npc)"
+    },
+    "setsheet_desc": {
+        "name": "sobrescribir la hoja de grupo de npc (cambiar la configuración de la hoja)"
+    },
+    "setsimplephrase_desc": {
+        "name": "Establece una frase IOS: <id> <frase> <código de idioma>"
+    },
+    "setskillstomaxvalue_desc": {
+        "name": "Poner las habilidades del jugador al valor máximo"
+    },
+    "setteamleader_desc": {
+        "name": "Establecer el jefe de equipo"
+    },
+    "setuiscale_desc": {
+        "name": "Ajustar el factor de escala de la interfaz de usuario de 0,8 a 2,0"
+    },
+    "seturl_desc": {
+        "name": "Establecer una Url para hablar de diálogo para un grupo npc"
+    },
+    "setzonestate_desc": {
+        "name": "cambiar el Estado de una Zona, desactivar una Zona PVP"
+    },
     "sf": {
         "name": "Lucha"
     },
@@ -5537,6 +6167,9 @@
     "shaman": {
         "name": "Chamán"
     },
+    "shape_desc": {
+        "name": "Añade una forma en la escena."
+    },
     "shield_smith": {
         "name": "Artesano de Escudos"
     },
@@ -5549,14 +6182,47 @@
     "shout": {
         "name": "Gritar:"
     },
+    "shout_desc": {
+        "name": "Estos comandos harán que tus mensajes tengan un alcance de 50m y aparecerán en rojo (por defecto) para ti."
+    },
+    "showcsr_desc": {
+        "name": "Mostrar el título CSR si el jugador es un CSR"
+    },
+    "showfactionchannels_desc": {
+        "name": "Mostrar canal de facción para la moderación"
+    },
+    "showfbt_desc": {
+        "name": "Mostrar el título Focus Beta Tester si el jugador es un FBT"
+    },
+    "showonline_0_desc": {
+        "name": "Todo el mundo puede verlo. (Por defecto)"
+    },
+    "showonline_1_desc": {
+        "name": "Sólo los amigos y los miembros del gremio pueden ver que estás conectado\/desconectado."
+    },
+    "showonline_2_desc": {
+        "name": "Sólo los miembros del gremio pueden ver que vienes ON- \/Offline."
+    },
+    "showonline_desc": {
+        "name": "Esta función envía un mensaje a sus amigos o miembros de gremio cuando usted entra en línea o sale de línea."
+    },
     "sickness": {
         "name": "Enfermedad"
+    },
+    "sitdown_desc": {
+        "name": "Hace que un grupo de PNJ se sienten"
     },
     "skewerer": {
         "name": "Ensartador"
     },
+    "skiptutorial_desc": {
+        "name": "Salta el tutorial de Silan"
+    },
     "slasher": {
         "name": "Tajador"
+    },
+    "sleep_desc": {
+        "name": "Pone el cliente del juego en reposo durante la cantidad de segundos especificada. No se puede hacer nada durante este tiempo."
     },
     "sm": {
         "name": "Magia"
@@ -5576,6 +6242,18 @@
     "staff": {
         "name": "Porra"
     },
+    "standup_desc": {
+        "name": "Hacer que un grupo npc se levante"
+    },
+    "startevent_desc": {
+        "name": "Inicia un evento con el nombre dado: <nombre del evento>"
+    },
+    "startmoving_desc": {
+        "name": "Enviar un grupo npc a una posición"
+    },
+    "startwander_desc": {
+        "name": "Que un grupo de npc deambulen en un radio"
+    },
     "steward": {
         "name": "Mayordomo"
     },
@@ -5585,11 +6263,26 @@
     "stnone": {
         "name": "Ninguno"
     },
+    "stopevent_desc": {
+        "name": "Detener el evento iniciado anteriormente"
+    },
+    "stopmonitormissions_desc": {
+        "name": "Detener el seguimiento de las misiones del jugador en cuestión"
+    },
+    "stopmoving_desc": {
+        "name": "Impedir el movimiento de un grupo de npc"
+    },
     "stsmall_shield": {
         "name": "Escudo pequeño"
     },
+    "summon_desc": {
+        "name": "Invoca a un jugador frente al CSR: <nombre del jugador>"
+    },
     "summoner": {
         "name": "Invocador"
+    },
+    "summonpet_desc": {
+        "name": "El jugador puede invocar a su mascota una sola vez"
     },
     "swashbuckler": {
         "name": "Espadachín"
@@ -5597,14 +6290,41 @@
     "swordsman": {
         "name": "Espadachín"
     },
+    "tar_desc": {
+        "name": "Busca la entidad más cercana cuyo nombre contenga la cadena dada (\/tar o \/target). Utiliza comillas simples o dobles para una coincidencia exacta (por ejemplo, NPC con dos nombres)."
+    },
+    "tar_quiet_desc": {
+        "name": "Con la opción silenciosa (como por ejemplo \/tar <nombre>|quiet=true), no mostrará el mensaje entidad no encontrada"
+    },
+    "target_quiet_desc": {
+        "name": "\/tarq <nombre> versión abreviada del comando \/target_quiet o \/tar <nombre>|quiet=true"
+    },
+    "targetinfos_desc": {
+        "name": "Dar información sobre el objetivo"
+    },
+    "team_desc": {
+        "name": "Con estos comandos se envía un mensaje al canal de Equipo y es visible para aquellos que están actualmente en tu grupo."
+    },
+    "teaminvite_desc": {
+        "name": "Enviar una invitación de equipo a un personaje jugador"
+    },
+    "teleport_desc": {
+        "name": "Teletransporta el CSR delante de un jugador: <nombre del jugador>"
+    },
+    "tell_desc": {
+        "name": "Enviar un susurro a un jugador (si el jugador está en el juego)"
+    },
     "tellsyou": {
         "name": "te dice"
     },
     "thesagaofryzom": {
         "name": "Ryzom"
     },
+    "time_desc": {
+        "name": "Muestra tu hora local actual y la hora UTC en el chat Alrededor."
+    },
     "toolammotool": {
-        "name": "Herramienta para la Creación de Armaduras"
+        "name": "Herramienta para Fabricar Munición"
     },
     "toolarmortool": {
         "name": "Herramienta para la Creación de Armaduras"
@@ -5623,6 +6343,15 @@
     },
     "tooltoolmaker": {
         "name": "Herramienta para la Creación de Herramientas"
+    },
+    "tp_1_desc": {
+        "name": "No hay necesidad de usar exactamente la sintaxis con separador, el comando intenta averiguar la posición correcta y la sintaxis, siempre y cuando la entrada tenga coordenadas X e Y válidas, el teletransporte funcionará."
+    },
+    "tp_desc": {
+        "name": "Teletransporta a un jugador a la <Posición> | <Bot> | <Jugador> dada."
+    },
+    "tpposflag_desc": {
+        "name": "Teletransporta a un jugador a una bandera de posición: <nombre de la bandera>"
     },
     "tradingcompetences": {
         "name": "HABILIDADES DE COMERCIO"
@@ -5721,7 +6450,7 @@
         "name": "Crear Nueva Tecla:"
     },
     "uiaddmacro": {
-        "name": "Crear Nueva Macro: "
+        "name": "Crear Nueva Macro:"
     },
     "uiaddpartychatcmd": {
         "name": "<añadir_a_sala_chat> un argumento necesario: nombe de la sala de chat a unirse."
@@ -5778,7 +6507,7 @@
         "name": "Enviar el informe siempre"
     },
     "uiandtheweatheris": {
-        "name": " y el clima es "
+        "name": "y el clima es"
     },
     "uianicolor": {
         "name": "Ventanas de Animales"
@@ -5823,16 +6552,16 @@
         "name": "Información de Apariencia - Acciones"
     },
     "uiappear_infos_fyros": {
-        "name": "LA CIVILIZACIÓN DE LOS FYROS\n\nVerdad, honor y discíplina son los valores apreciados por todo verdadero nacido Fyros! Somos los campiones del desierto quiénes nos regimos por un estricto código de honor. Somos los guerreros del conocimiento que prometimos nunca echar pie atrás en nuestra búsqueda de la verdad detrás del Dragón del Mito. Ni las Leyes de Jena ni las prohibiciones de los Karavan nos detendrán de ahondar abajo en las entreñs de Atys donde hemos descubierto tantas reliquias misterioras como males\nSomos los protectores de las regiones más fertiles. Porque somos los únicos suficientemente valientes para reconstruir nuestros pueblos en el desierto abrasador donde el Dragón es más probable que vuelva a aparecer.\n\nDe estas dunas hostiles vamos a dar forma a nuestro nuevo Imperio, hacerlo fuerte, y construir nuestra alianza con los Kami cuya magia están orgullos de ejercer. También aspiramos a desarrollar más nuestros conocimientos de la fabricación de herramientas y armas fundidas y endurecidas al fuego para ayudarnos en nuestra conquista de la verdad.\n\nSi estás entusiasmado y eres justo, ven y únete a nuestras filas, homin. Un Imperio te necesita!!\n\nAhora, si tienes algunas preguntas...\n\n\nQuién soy yo?\nEres un joven refugiado homin. Has tomado con valentía el largo y peligroso viaje desde las tierras antiguas hasta estas nuevas tierras donde hemos empezado a construir nuestro nuevo Imperio. Una vez que hayas acumulado suficiente entrenamiento, serás capaz de poner tus habilidades y destrezas en buen uso para nuestro Emperador y ayudarnos a reconstruir nuestra civilización.\n\nQuiénes son mis ancestros?\nPor la espada y el fuego, tus ancestros forjaron el más poderoso imperio en la historia. Honra su memoria mientras vivas! Pero el fruto de su trabajo fue destruido por las grandes invasiones de los Kitins. Tus padres, y sus padres, fueron suerteros de escapar de la masacre. Por muchos años sobrevivieron en las selvas de Atys donde fuiste criado. Mostraron mucho valor para instarte a ti a tomar el largo camino para unirte a tu propio pueblo aquí en estas tierras nuevas. Ahora nos has encontrado y tienes que vivir por su valor. Ha tomado cuarenta años de sangre y sudor para construir las bases de nuestro nuevo Imperio, tu generación ahora debe construirla.\n\nQuién es nuestro jefe?\nDexton es nuestro Emperador legítimo, le debes tu lealtad. Su órdenes solo pueden ser debatidas en esferas superiores. Hasta que hayas ganado suficiente rango te opondrás a ellos, nunca lo ovlides, joven homin! Llevarás a cabo nuestras órdenes imperiales con éxito o morirás intentándolos, a menos que voluntariamente empañes el nombre de tus ancestros. Dexton ha escogido el mejor consejo para él, Abycus Zekops y Kyla Dyntheus son sus senadores.\n\nEn qué creemos?\nCreemos en la energía de Atys, la energía que llena cada ser con vida y consciencia. De acuerdo con los Zoraïs, los Kamis son una  manifestación de esa gran energía que creó al mundo que ellos llaman Ma-Duk. Aunque nos rehusamos a la adhesión ciega a sus enseñanzas, en estos últimos años nos hemos acercado más a los Kamis para escapar de las sanciones de los Karavan para la explotación. A los Kamis les debemos, si no es nuestra fe, nuestra lealtada.\n\nCuáles son nuestros valores?\nTu vida debe ser construída en base a los cuatro pilares que sustentan nuestro Imperio:\nLa Verdad es el primer pilar.\nLas mentiras cobardes no van engañarán los tira y afloja de la batalla! No digas nada pero la verdad a tus camaradas, así como también deben darte respuestas directas a tus preguntas. No vaciles, sin embargo, en utilizar el arte de la astucia o sagacidad en el rostro del enemigo. La estratagema sabiamente utilizada es un arma poderosa como una lanza afilida sostenida firmemente en la mano!\nEl honor es el segundo pilar.\nDéjate guiar por el honor si importar qué. Nunca te inclines en el espejo de los sentimientos, no importa cuan alto sea la ganancia potencial. Y recuerda, una muerte honorable es mejor que una existencia cobarde.\nDiscíplina es el tercer pilar.\nEl Imperio de los Fyros existe gracias a la cadena de obediencia que nos vincula con el Emperador, desde el novato más joven hasta el general más cerebral. Cada uno de nosotros debe mostrar obediencia a un mando superior. Sólo un insubordinado Fyros es suficiente para romper el vínculo y así amenazar todo el Imperio.\nLa Justicia es el cuarto pilar.\nEl Emperador es nuestro jefe absolut, aunque él obecede escrupulosamente las leyes decretadas por nuestros ancestros. Desde el más poderoso hasta el más humilde, nosotros respetamos nuestras leyes sin compromiso. En verdad, entonces, no es el Jefe Imperial sino la Ley Imperial la que dicta nuestra conducta.\n\nCuáles son nuestras prohibiciones?\n- Nunce te sientas tentado a hacer favores para los Karavan. Ellos están en contra de los Kamis y en contra de nuestro sentido de justicia. En realidad, ellos colocan la Ley de jena por encima de la justicia social.\n- Nunca lleves a cabo una misión para los Karavan.\n- Nunca lleves a cabo una misión para las tribus enemigas.\n- Nunca violes el código de honor.\n\nCuáles son nuestras metas?\nNuestro imperio sufrió grandemente desde el Gran Emjambre. Nuestro sentido de la discíplina nos ha permitido sobrevir mucho mejor que los Matis y que los Trykers, nuestra gran ciudad de Pyr es la prueba. Ahora debemosis:\n- desarrollar nuestras fortalezas y habilidades individuales\n- formar gremio poderosos y bien estructurados para construir una fuerza conductora\n- descubrir la verdad detrás del dragón\n- luchar contra los Karavan para imponer un nuevo orden en todos los Kami\n- acumular el conocimiento que fue esparcido por toda la tierra durante el Gran Enjambre para abrir las puertas a los secretos del pasado.\n- consolidar y conquistar más territorio.\n\nQuiénes son nuestros amigos?\nDesde el Tratado de Paz firmado en Fairhaven, hemos estado en paz con los otros pueblos homin. No obstante, el pasado nos ha dejado con muchas cicatrices así como el símbolo de una inestabilidad pasada, y nuestras revelaciones varían dependiendo de las civilizaciones.\nZoraï: A lo largo de los años los Zoraïs han probado su lealtad y amistad hacia nuestro pueblo de nuevo. Lo que es más, ambos tenemos a los Kamis en nuestros corazones y compartirmos una profunda aversión por los Karavan.\nTryker: Tiempo y de nuevo hemos tratado de tomar a los Tryker bajo nuestra ala protectora, pero ellos se han demostrado muy caóticos y muy frívolos y caprichosos para una amistad duradera. Actualmente, tenemos que ser cuidadosos con estos inconstantes y voluble pequeños homins, y más que nunca se han intensificado en consonancia con los Matis en su veneración de la diosa Karavan.\nMatis: Los Matis son nuestro enemigo inherente en el que no hay que confiar. No nos apegamos al sentido de justicia de los Matis que se centra alrededor de la Monarquía y la Ley de Jena. Incluso en estos tiemos de paz debemos permanecer vigilantes para que no se vulvan en contra de nosotros.\nLas tribus amigables incluyen: Los Golpeadores de Raíces, Los Recolectores de Kitins, Los Pyromancios, Los Observadores, Los Cazadores de Frahar, Los Rompedores de Agua, Los Primeros Desertores, La Tala y la Quema, Los Excavadores de Oasis, La Savia Sagrada.\n\nQuiénes son nuestros enemigos?\n- Los Karavan: Ellos están en contra de nosotros que estamos socavando por la verdad. No hay que confiar en ellos.\n- Los Kitins: Estos insectos gigantes masacaron a varios miles de Fyros y devastaron nuestro gran Imperio en las tierras antiguas.\n- El Dragón del mito: Por siglos hemos estado en busca de la verdad detrás del Dragón de la legenda. Son nuestras excavaciones en las entrañas de Atys donde se dice que el dragón duerme o permanece inactivo lo que trajo primero la retribución Karavan hacia nosotros. Vamos a continuar cavando hasta que la verdad sea descubierta.\n- Las tribus enemigas incluyen: Los Espigadores de la Sabia, Las Cucarachas, Los Chlorogoos, Los Ilegales, Los Quemadores, Los Renegados, Los Hermanos de la Laguna, Los Tutores, Las Dríadas.\n- Bandidos: Ten cuidado, las tierras están llenas de foragidos, ladores y asesinos.\n- Depredadores de animales: Hay mucho depredadores en el reino animal, estate atento ya que no son imparciales ante un poco de carne homin!\n\nCómo puedo ayudar a mi pueblo?\nNecesitamos artesanos, fabricantes, cosechadores, magos y guerreros para mantener y volver a nuestra civilización más fuerte.\n- Atys es un lugar traicionero, necesitamos guerreros para defender nuestro territorio y conquistar nuevas tierras para nuevos asentamientos.\n- Deseamos artesanos para producir objetos y armas para todos los días; y cosechadores para recolectar las materias primas para los alimentos y la fabricación.\n- Necesitamos magos para encantar objetos, proteger a los recolectores, y curar a los guerreros en combate y ayudarlos a combatir.\n\nQué puedo esperar de mi pueblo?\n- Entrenamiento de nuestros entrenadores expertos.\n- Nuestro pueblo está defendido por gremios que podrán venir en tu ayuda una vez que has unido a ellos.\n- Mientras más actues por el bien de nuestro pueblo mayor serán recompensados tus actos de valor.\n\nQué es nuestra nueva tierra?\nNuestro pueblo primero se estableció en estas tierras desiertas en 2483 en su resurgimiento de la tierra recién encontrada de las Primeras Raíces. El desierto es la región más dura de todas a pesar que esto siempre ha sido el reto igual a nuestro corage y a los valores de nuestro pueblo. Desde 2487 nuestra cantidad ha esta aumentando continuamente por refugiados en el camino de las antiguas tierras, el mismo camino que tu tan valientemente has tomado.\nQué puedo esperar de Atys, nuestro mundo?\nAtys es abundante de materias primas, joven homin, mientras respetes el medio ambiente cosecharás muchas recompensas de su seno. A medida que te vayas volviendo experto en los caminos del mundo aprenderás a domesticar al desierto y a conquistar nuevos terrenos."
+        "name": "LA CIVILIZACIÓN DE LOS FYROS\n\nVerdad, honor y discíplina son los valores apreciados por todo verdadero nacido Fyros! Somos los campeones del desierto quienes nos regimos por un estricto código de honor. Somos los guerreros del conocimiento que prometimos nunca echar pie atrás en nuestra búsqueda de la verdad detrás del Dragón del Mito. Ni las Leyes de Jena ni las prohibiciones de los Karavan nos detendrán de ahondar abajo en las entreñas de Atys donde hemos descubierto tantas reliquias misteriosas como males\nSomos los protectores de las regiones más fértiles. Porque somos los únicos suficientemente valientes para reconstruir nuestros pueblos en el desierto abrasador donde el Dragón es más probable que vuelva a aparecer.\n\nDe estas dunas hostiles vamos a dar forma a nuestro nuevo Imperio, hacerlo fuerte, y construir nuestra alianza con los Kami cuya magia están orgullos de ejercer. También aspiramos a desarrollar más nuestros conocimientos de la fabricación de herramientas y armas fundidas y endurecidas al fuego para ayudarnos en nuestra conquista de la verdad.\n\nSi estás entusiasmado y eres justo, ven y únete a nuestras filas, homin. Un Imperio te necesita!!\n\nAhora, si tienes algunas preguntas...\n\n\n¿Quién soy yo?\nEres un joven refugiado homin. Has tomado con valentía el largo y peligroso viaje desde las tierras antiguas hasta estas nuevas tierras donde hemos empezado a construir nuestro nuevo Imperio. Una vez que hayas acumulado suficiente entrenamiento, serás capaz de poner tus habilidades y destrezas en buen uso para nuestro Emperador y ayudarnos a reconstruir nuestra civilización.\n\nQuiénes son mis ancestros?\nPor la espada y el fuego, tus ancestros forjaron el más poderoso imperio en la historia. Honra su memoria mientras vivas! Pero el fruto de su trabajo fue destruido por las grandes invasiones de los Kitins. Tus padres, y sus padres, tuvieron suerte de escapar de la masacre. Por muchos años sobrevivieron en las selvas de Atys donde fuiste criado. Mostraron mucho valor para instarte a ti a tomar el largo camino para unirte a tu propio pueblo aquí en estas tierras nuevas. Ahora nos has encontrado y tienes que vivir por su valor. Ha tomado cuarenta años de sangre y sudor para construir las bases de nuestro nuevo Imperio, tu generación ahora debe construirla.\n\n¿Quién es nuestro jefe?\nDexton es nuestro Emperador legítimo, le debes tu lealtad. Su órdenes solo pueden ser debatidas en esferas superiores. Hasta que hayas ganado suficiente rango te opondrás a ellos, nunca lo ovlides, joven homin! Llevarás a cabo nuestras órdenes imperiales con éxito o morirás intentándolos, a menos que voluntariamente empañes el nombre de tus ancestros. Dexton ha escogido el mejor consejo para él, Abycus Zekops y Kyla Dyntheus son sus senadores.\n\nEn qué creemos?\nCreemos en la energía de Atys, la energía que llena cada ser con vida y consciencia. De acuerdo con los Zoraïs, los Kamis son una  manifestación de esa gran energía que creó al mundo que ellos llaman Ma-Duk. Aunque nos rehusamos a la adhesión ciega a sus enseñanzas, en estos últimos años nos hemos acercado más a los Kamis para escapar de las sanciones de los Karavan para la explotación. A los Kamis les debemos, si no es nuestra fe, nuestra lealtada.\n\nCuáles son nuestros valores?\nTu vida debe ser construida en base a los cuatro pilares que sustentan nuestro Imperio:\nLa Verdad es el primer pilar.\nLas mentiras cobardes no van engañarán los tira y afloja de la batalla! No digas nada pero la verdad a tus camaradas, así como también deben darte respuestas directas a tus preguntas. No vaciles, sin embargo, en utilizar el arte de la astucia o sagacidad en el rostro del enemigo. La estratagema sabiamente utilizada es un arma poderosa como una lanza afilada sostenida firmemente en la mano!\nEl honor es el segundo pilar.\nDéjate guiar por el honor si importar qué. Nunca te inclines en el espejo de los sentimientos, no importa cuan alto sea la ganancia potencial. Y recuerda, una muerte honorable es mejor que una existencia cobarde.\nDiscíplina es el tercer pilar.\nEl Imperio de los Fyros existe gracias a la cadena de obediencia que nos vincula con el Emperador, desde el novato más joven hasta el general más cerebral. Cada uno de nosotros debe mostrar obediencia a un mando superior. Sólo un insubordinado Fyros es suficiente para romper el vínculo y así amenazar todo el Imperio.\nLa Justicia es el cuarto pilar.\nEl Emperador es nuestro jefe absoluto, aunque él obecede escrupulosamente las leyes decretadas por nuestros ancestros. Desde el más poderoso hasta el más humilde, nosotros respetamos nuestras leyes sin compromiso. En verdad, entonces, no es el Jefe Imperial sino la Ley Imperial la que dicta nuestra conducta.\n\nCuáles son nuestras prohibiciones?\n- Nunce te sientas tentado a hacer favores para los Karavan. Ellos están en contra de los Kamis y en contra de nuestro sentido de justicia. En realidad, ellos colocan la Ley de jena por encima de la justicia.\n- Nunca lleves a cabo una misión para los Karavan.\n- Nunca lleves a cabo una misión para las tribus enemigas.\n- Nunca violes el código de honor.\n\nCuáles son nuestras metas?\nNuestro imperio sufrió grandemente desde el Gran Enjambre. Nuestro sentido de la discíplina nos ha permitido sobrevivir mucho mejor que los Matis y que los Trykers, nuestra gran ciudad de Pyr es la prueba. Ahora debemos:\n- desarrollar nuestras fortalezas y habilidades individuales\n- formar gremios poderosos y bien estructurados para construir una fuerza conductora\n- descubrir la verdad detrás del dragón\n- luchar contra los Karavan para imponer un nuevo orden en todos los Kami\n- acumular el conocimiento que fue esparcido por toda la tierra durante el Gran Enjambre para abrir las puertas a los secretos del pasado.\n- consolidar y conquistar más territorio.\n\nQuiénes son nuestros amigos?\nDesde el Tratado de Paz firmado en Fairhaven, hemos estado en paz con los otros pueblos homin. No obstante, el pasado nos ha dejado con muchas cicatrices así como el símbolo de una inestabilidad pasada, y nuestras revelaciones varían dependiendo de las civilizaciones.\nZoraï: A lo largo de los años los Zoraïs han probado su lealtad y amistad hacia nuestro pueblo. Lo que es más, ambos tenemos a los Kamis en nuestros corazones y compartimos una profunda aversión por los Karavan.\nTryker: Tiempo y de nuevo hemos tratado de tomar a los Tryker bajo nuestra ala protectora, pero ellos se han demostrado muy caóticos y muy frívolos y caprichosos para una amistad duradera. Actualmente, tenemos que ser cuidadosos con estos inconstantes y volubles pequeños homins, y más que nunca se han intensificado en consonancia con los Matis en su veneración de la diosa Karavan.\nMatis: Los Matis son nuestro enemigo inherente en el que no hay que confiar. No nos apegamos al sentido de justicia de los Matis que se centra alrededor de la Monarquía y la Ley de Jena. Incluso en estos tiemos de paz debemos permanecer vigilantes para que no se vulvan en contra de nosotros.\nLas tribus amigables incluyen: Los Golpeadores de Raíces, Los Recolectores de Kitins, Los Pyromancios, Los Vigilantes, Los Cazadores de Frahar, Rompe Aguas, Los Primeros Desertores, Cortar y Quemar, Los Excavadores de Oasis, La Savia Sagrada.\n\nQuiénes son nuestros enemigos?\n- Los Karavan: Ellos están en contra de nosotros que estamos socavando por la verdad. No hay que confiar en ellos.\n- Los Kitins: Estos insectos gigantes masacraron a varios miles de Fyros y devastaron nuestro gran Imperio en las tierras antiguas.\n- El Dragón del mito: Por siglos hemos estado en busca de la verdad detrás del Dragón de la legenda. Son nuestras excavaciones en las entrañas de Atys donde se dice que el dragón duerme o permanece inactivo lo que trajo primero la retribución Karavan hacia nosotros. Vamos a continuar cavando hasta que la verdad sea descubierta.\n- Las tribus enemigas incluyen: Los Espigadores de la Sabia, Las Cucarachas, Los Clorogoos, Los Sin Ley, Los Abrasadores, Los Renegados, Los Hermanos de la Laguna, Los Tutores, Las Dríadas Antiguas.\n- Bandidos: Ten cuidado, las tierras están llenas de forajidos, ladrones y asesinos.\n- Depredadores de animales: Hay mucho depredadores en el reino animal, estate atento ya que no son imparciales ante un poco de carne homin!\n\nCómo puedo ayudar a mi pueblo?\nNecesitamos artesanos, fabricantes, cosechadores, magos y guerreros para mantener y volver a nuestra civilización más fuerte.\n- Atys es un lugar traicionero, necesitamos guerreros para defender nuestro territorio y conquistar nuevas tierras para nuevos asentamientos.\n- Deseamos artesanos para producir objetos y armas para todos los días; y cosechadores para recolectar las materias primas para los alimentos y la fabricación.\n- Necesitamos magos para encantar objetos, proteger a los recolectores, y curar a los guerreros en combate y ayudarlos a combatir.\n\nQué puedo esperar de mi pueblo?\n- Entrenamiento de nuestros entrenadores expertos.\n- Nuestro pueblo está defendido por gremios que podrán venir en tu ayuda una vez que has unido a ellos.\n- Mientras más actúes por el bien de nuestro pueblo mayor serán recompensados tus actos de valor.\n\n¿Qué es nuestra nueva tierra?\nNuestro pueblo primero se estableció en estas tierras desiertas en 2483 en su resurgimiento de la tierra recién encontrada de las Primeras Raíces. El desierto es la región más dura de todas a pesar que esto siempre ha sido el reto igual a nuestro coraje y a los valores de nuestro pueblo. Desde 2487 nuestra cantidad ha esta aumentando continuamente por refugiados en el camino de las antiguas tierras, el mismo camino que tu tan valientemente has tomado.\n¿Qué puedo esperar de Atys, nuestro mundo?\nAtys es abundante de materias primas, joven homin, mientras respetes el medio ambiente cosecharás muchas recompensas de su seno. A medida que te vayas volviendo experto en los caminos del mundo aprenderás a domesticar al desierto y a conquistar nuevos terrenos."
     },
     "uiappear_infos_matis": {
-        "name": "LA CIVILIZACIÓN MATIS\n\nUn Matis debe poseer los más nobles reasgos de la hominidad. Un Matis debe ser leal, cortés, tenaz, y sobre todas las cosas, reverente. Al obedecer a nuestro rey, estamos glorificando a Jena, nuestra Diosa, quien otorgó a él con la luz divina. Nosotros creemos que así como cada partícula del universo de Jena tiene una función, cada homin debe esforzarse por ella o por su verdadero lugar en la sociedad.\n\nJena ayuda a aquellos que se ayudan a si mismos, un Matis nunca debe rendirse. Al esforzarse por el éxito estamos haciendo nuestra civilización fuerte como un conjunto. Sólo los mejores pueden alcanzar las más elevadas esferas de nuestra sociedad, solo la élite puede liderar a nuestro pueblo.\n\nAl manipular a la naturaleza estamos elevando nuestras almas más cerca de la devoción. En efecto, homin, no es por pura coincidencia que hemos llegado a ser Maestros Manipuladores Atysianos de la vida animal y vegetal. Nuestras armas, armaduras y incluso artículos del hogar familiar son objetos vivientes!\n\nHemos tomado raíces en las áreas boscosas de las tierras nuevas donde encontramos cada escencia viviente necesaria para la experimentación. Ahora necesitamos hacer nuestro reion más fuerte y mejor, en el nombre de Jena.\n\nSi la sangre noble corre por tus venas, ven a jurar lealtad a tu Rey! Nuestro reino necesita triunfadores!!\n\nVen ahora, homin, si tienes algunas preguntas...\n\n\n¿Quién soy yo?\nEres un joven refugiado homin. Has tomado el largo y peligroso viaje desde las tierras antiguas hasta estas nuevas tierras donde hemos establecido nuestro nuevo reino. Después de un período de entrenamiento, como un súbdito leal al Rey serás capaz de poner tus habilidades en buen uso y ayudar a reconstruir nuestro Reino.\n\n¿Quiénes son mis ancestros?\nTus antepasados construyeron el más glorioso reino en todo Atys. Pero la antigua tierra de Matia fue destruida por los Kitins en el 2481 en un enjambre terrible. Tus abuelos escaparon a los bosques donde tus padres y tu mismo vivieron una vida dura bajo constantes amenazas de los Kitins. Para tu propio bien, tus padres te instaron a tomar el gran camino para unirte a tu pueblo aquí en las nuevas tierras. Después de muchos años nos has encontrado, tenemos un territorio seguro y empezamos a dar forma a nuestro reino. Corresponde a tu generación estar a la altura de nuestra antigua gloria y hacer a nuestra civilización majestuosa otra vez.\n\n¿Quién es nuestro jefe?\nEl Rey Yrkanis. El es nuestro señor supremo después de Jena. A él le debes absoluta lealtad. Retar su autoridad es oponerse a Jena, una herejía digna de muerte. Si eres lo suficientemente honrado como para que te asignen una misión real, debes tener éxito con dignidad, a menos que voluntariamente desafíes su divina autoridad. Debes esforzarte para ser digno de su confianza y tú también ganarás rango. Rodi di Varello y Girini di Antorello son los fieles duques que le dan consejo.\n\n¿Cuál es tu fe?\nJena es nuestra Diosa, debemos respetar sus leyes, ya que nos es predicada por sus fieles discípulos, los Karavan. Nos vigilan para que no nos salgamos del camino correcto. Ellos nos permiten realizar ofrendas y rendir servicios a ella para prepararnos para el futuro en el mundo más allá de la promesa. Recuerda, joven homin, los Karavan están investidos con gran poder que ellos compartirán solo con los fieles. Es tu deber buscar el favor de Jena a través de las relaciones con sus discípulos y tu también aprenderás a manejar su tecnología.\n\n¿Cuáles son nuestro valores?\nPara tener éxito como un verdadero Matis, debes construir tu vida sobre los tres valores principales:\n- Lealtad al Rey y a Jena: El rey tiene el poder a través del derecho divino, sus enemigos son tus enemigos, al defender a nuestra religión estás defendiendo a nuestro reino. De la misma forma, al desobedecerlo a él y a su corte estás irrespetando a Jena, y por lo tanto eres culpable de herejía.\n- Logro estético: Nuestra cultura no tendrá más que lo mejor, honramos a nuestra diosa al hacer cosas bellas así como ella como ella nos hizo noble.\n- Competencia: Creemos que cada Matis debe esforzarse por su verdadero lugar en la sociedad. La Competencia es lo que da fuerza a nuestro temperamento, ordena a los débiles de los fuertes. Y nosotros los Matis luchamos para ganar!\n\nCuáles son las prohibiciones?\n- Está estrictamente prohibido para acercarse a los Kamis (a menos que se ordene hacer hacer algo por los Karavan). Son demonios malvados y están en contra de los Karavan.\n- Nunca violen la Ley de Jena.\n- No vayas por debajo de la superficie de Atys, estarás en peligro de despertar al temido dragón del Apocalipsis.\n- Nunca lleves a cabo misiones para las tribus enemigas.\n- Es prohibido esparcir el fuego del dragón por las tierras. Este devora árboles y nos priva de las esencias necesarias para nuestras creaciones.\n\n¿Cuáles son nuestras metas?\nDespués de resurgir de las Raíces Primarias, nuestro mayor reto fue domar esta tierra y hacerla noble. Nuestro pueblo y los asentamientos esculpidos de los propios árboles son prueba viviente de nuestro éxito. Ahora debemos:\n- desarrollar nuestras fortalezas y habilidades individuales\n- Construir gremios fuertes y leales para difundir la palabra de Jena entre los infieles y libere al mundo de la posesión Kami\n- además de nuestro conocimiento para hacer incluso mejores armas y herramientas. Durante el Gran Enjambre, mucho conocimiento fue diseminado a través de la tierra. Al descubrir este conocimiento y más abrirá puertas a los secretos del pasado.\n\n¿Dónde están nuestros amigos?\nDesde el Tratado de Paz firmado en Fairhaven en 2515, hemos estado en paz con otros pueblos homins. Pero una década de paz nunca podría borrar las cicatrices de la infamia pasada. En realidad nuestras relaciones varían dependiendo de la civilización.\nTryker: El pasado nos ha enseñado que los Trykers no pueden ser domesticados, que ellos venderían sus almas a los demonios solo para mantener su estilo de vida. Por lo que, en el nombre de Jena hemos aprendido a vivir como amigos indulgentes en lugar de tener que vivir al lado de los infieles. Gracias a Jena nuestra amistad nunca ha sido más fuerte, a pesar que su fervor a menudo deja mucho que desear.\nZoraï: Los Zoraïs son infieles y su paganismo debe ser revisado. Aún así, fue un guerrero Zoraï quien salvó al actual rey. Con todo el respeto, muchos de nosotros resentimos esta 'deuda' con los Zoraïs la que empaña nuestra credibilidad a los ojos de los Karavan. Es preferible que esto no suceda otra vez.\nFyros: Los Fyros son nuestros enemigos inherentes que, en las décadas pasadas, se han movido cada vez más cerca de los malvados Kamis. No debemos olvidar que en el pasado ellos tuvieron éxito coaccionando a los Trykers para juntarse con ellos en contra de nosotros. Pero los Fyros ahora prefieren juntarse con los Zoraïs que comparten su amor por el demonio Kami. Sin embargo, debemos permanecer vigilantes y atentos para que no conviertan a los Trykers con sus pláticas blasfemas.\nLas tribus amigables incluyen: Los Descortezadores, Los Cazadores de Frahar, Los Escultores de Limo, Los Renegados, Los Esclavistas, Los Adoradores de Iconos, Las Amazonas de la Semilla Muerta, La Semilla Verde, Los Esclavos de la Savia, Los Matis Áridos, La Savia Oscurecedora, El Kuilde.\n\n¿Quiénes son nuestros otros enemigos?\n- Los Kamis: Ellos están en contra de nosotros de traer el orden y la belleza a la tierra de Jena. Son un azote maligno y tienen que ser erradicados.\n- Los Kitins: Estos gigantescos insectos masacraron a varios miles de Matis y devastaron nuestro majestuoso reino en las tierras de los antiguos.\n- Las tribus enemigas incluyen: Los Recolectores de Savia, Las Cucarachas, Los Chlorogoos, Los Ilegales, Los Quemadores, Los Hermanos de la Laguna, Los Tutores, Los Antiguas Dríadas, Los Primeros Desertores, La Tala y la Quema, Las Bridas Tejidas.\n- Los Bandidos: Vigila a los forajidos fuera de la ley, a los ladrones y a los asesinos que merodean los bosques en busca de presa fácil.\n- Los depredadores de animales: Los animales salvajes pueden ser feroces, muchos de ellos atacarán a los homins que tengan a la vista!\n\n¿Cómo puedo ayudar a mi pueblo?\nEstamos escasos de artesanos, fabricantes, magos y guerreros para ampliar aún más nuestras capacidades y así podamos mantenernos a la cabeza de la competencia.\n- Necesitamos guerreros para defender nuestro territorio y establecer un nuevo espacio para vivir.\n- Estamos necesitando artesanos expertos para producir objetos y armas de uso cotidiano; y recolectores para recoger las materias primas para los alimentos y la fabricación.\n- Necesitamos magos para encantar objetos fabricados, proteger a los recolectores, y sanar a los guerreros en combate y mantener al enemigo vigilado.\n\n¿Qué puedo esperar de mi pueblo?\n- Entrenamiento de entrenadores expertos.\n- Nuestro pueblo está defendido por gremios que vendrán en tu ayuda una vez que ta hayas unido a uno.\n- Mientras más actúes para el bien de nuestro pueblo mayor serás recompensado por tus nobles acciones.\n\n¿Qué es nuestra nueva tierra?\nNuestro pueblo primero echó raíces en estas tierras boscosas en 2483 durante el resurgimiento del santuario de las Primeras Raíces en las nuevas tierras. El bosque es con mucho el lugar más bello de Atys y para el ojo agudo y observador ofrece todas las esencias vivientes necesarias para la creación. Desde el 2487 se nos han estado reincorporando continuamente refugiados que han tomado el camino desde las tierras antiguas, el mismo camino que tu has tomado tan valientemente, homin.\n\n¿Qué puedo esperar de Atys, nuestro mundo?\nAtys es una mina de riquezas naturales fabulosas, joven homin, con el tiempo vas a aprender la forma de convertirlos en una riqueza vendible. A medida que te vuelvas experto en los caminos del mundo aprenderás a domesticar al desierto y a conquistar nuevas tierras."
+        "name": "LA CIVILIZACIÓN MATIS\n\nUn Matis debe poseer los más nobles reasgos de la hominidad. Un Matis debe ser leal, cortés, tenaz, y sobre todas las cosas, reverente. Al obedecer a nuestro rey, estamos glorificando a Jena, nuestra Diosa, quien otorgó a él con la luz divina. Nosotros creemos que así como cada partícula del universo de Jena tiene una función, cada homin debe esforzarse por ella o por su verdadero lugar en la sociedad.\n\nJena ayuda a aquellos que se ayudan a si mismos, un Matis nunca debe rendirse. Al esforzarse por el éxito estamos haciendo nuestra civilización fuerte como un conjunto. Sólo los mejores pueden alcanzar las más elevadas esferas de nuestra sociedad, solo la élite puede liderar a nuestro pueblo.\n\nAl manipular a la naturaleza estamos elevando nuestras almas más cerca de la devoción. En efecto, homin, no es por pura coincidencia que hemos llegado a ser Maestros Manipuladores Atysianos de la vida animal y vegetal. Nuestras armas, armaduras y incluso artículos del hogar familiar son objetos vivientes!\n\nHemos tomado raíces en las áreas boscosas de las tierras nuevas donde encontramos cada escencia viviente necesaria para la experimentación. Ahora necesitamos hacer nuestro reion más fuerte y mejor, en el nombre de Jena.\n\nSi la sangre noble corre por tus venas, ven a jurar lealtad a tu Rey! Nuestro reino necesita triunfadores!!\n\nVen ahora, homin, si tienes algunas preguntas...\n\n\n¿Quién soy yo?\nEres un joven refugiado homin. Has tomado el largo y peligroso viaje desde las tierras antiguas hasta estas nuevas tierras donde hemos establecido nuestro nuevo reino. Después de un período de entrenamiento, como un súbdito leal al Rey serás capaz de poner tus habilidades en buen uso y ayudar a reconstruir nuestro Reino.\n\n¿Quiénes son mis ancestros?\nTus antepasados construyeron el más glorioso reino en todo Atys. Pero la antigua tierra de Matia fue destruida por los Kitins en el 2481 en un enjambre terrible. Tus abuelos escaparon a los bosques donde tus padres y tu mismo vivieron una vida dura bajo constantes amenazas de los Kitins. Para tu propio bien, tus padres te instaron a tomar el gran camino para unirte a tu pueblo aquí en las nuevas tierras. Después de muchos años nos has encontrado, tenemos un territorio seguro y empezamos a dar forma a nuestro reino. Corresponde a tu generación estar a la altura de nuestra antigua gloria y hacer a nuestra civilización majestuosa otra vez.\n\n¿Quién es nuestro jefe?\nEl Rey Yrkanis. El es nuestro señor supremo después de Jena. A él le debes absoluta lealtad. Retar su autoridad es oponerse a Jena, una herejía digna de muerte. Si eres lo suficientemente honrado como para que te asignen una misión real, debes tener éxito con dignidad, a menos que voluntariamente desafíes su divina autoridad. Debes esforzarte para ser digno de su confianza y tú también ganarás rango. Rodi di Varello y Girini di Antorello son los fieles duques que le dan consejo.\n\n¿Cuál es tu fe?\nJena es nuestra Diosa, debemos respetar sus leyes, ya que nos es predicada por sus fieles discípulos, los Karavan. Nos vigilan para que no nos salgamos del camino correcto. Ellos nos permiten realizar ofrendas y rendir servicios a ella para prepararnos para el futuro en el mundo más allá de la promesa. Recuerda, joven homin, los Karavan están investidos con gran poder que ellos compartirán solo con los fieles. Es tu deber buscar el favor de Jena a través de las relaciones con sus discípulos y tu también aprenderás a manejar su tecnología.\n\n¿Cuáles son nuestro valores?\nPara tener éxito como un verdadero Matis, debes construir tu vida sobre los tres valores principales:\n- Lealtad al Rey y a Jena: El rey tiene el poder a través del derecho divino, sus enemigos son tus enemigos, al defender a nuestra religión estás defendiendo a nuestro reino. De la misma forma, al desobedecerlo a él y a su corte estás irrespetando a Jena, y por lo tanto eres culpable de herejía.\n- Logro estético: Nuestra cultura no tendrá más que lo mejor, honramos a nuestra diosa al hacer cosas bellas así como ella como ella nos hizo noble.\n- Competencia: Creemos que cada Matis debe esforzarse por su verdadero lugar en la sociedad. La Competencia es lo que da fuerza a nuestro temperamento, ordena a los débiles de los fuertes. Y nosotros los Matis luchamos para ganar!\n\nCuáles son las prohibiciones?\n- Está estrictamente prohibido para acercarse a los Kamis (a menos que se ordene hacer hacer algo por los Karavan). Son demonios malvados y están en contra de los Karavan.\n- Nunca violen la Ley de Jena.\n- No vayas por debajo de la superficie de Atys, estarás en peligro de despertar al temido dragón del Apocalipsis.\n- Nunca lleves a cabo misiones para las tribus enemigas.\n- Es prohibido esparcir el fuego del dragón por las tierras. Este devora árboles y nos priva de las esencias necesarias para nuestras creaciones.\n\n¿Cuáles son nuestras metas?\nDespués de resurgir de las Raíces Primarias, nuestro mayor reto fue domar esta tierra y hacerla noble. Nuestro pueblo y los asentamientos esculpidos de los propios árboles son prueba viviente de nuestro éxito. Ahora debemos:\n- desarrollar nuestras fortalezas y habilidades individuales\n- Construir gremios fuertes y leales para difundir la palabra de Jena entre los infieles y libere al mundo de la posesión Kami\n- además de nuestro conocimiento para hacer incluso mejores armas y herramientas. Durante el Gran Enjambre, mucho conocimiento fue diseminado a través de la tierra. Al descubrir este conocimiento y más abrirá puertas a los secretos del pasado.\n\n¿Dónde están nuestros amigos?\nDesde el Tratado de Paz firmado en Fairhaven en 2515, hemos estado en paz con otros pueblos homins. Pero una década de paz nunca podría borrar las cicatrices de la infamia pasada. En realidad nuestras relaciones varían dependiendo de la civilización.\nTryker: El pasado nos ha enseñado que los Trykers no pueden ser domesticados, que ellos venderían sus almas a los demonios solo para mantener su estilo de vida. Por lo que, en el nombre de Jena hemos aprendido a vivir como amigos indulgentes en lugar de tener que vivir al lado de los infieles. Gracias a Jena nuestra amistad nunca ha sido más fuerte, a pesar que su fervor a menudo deja mucho que desear.\nZoraï: Los Zoraïs son infieles y su paganismo debe ser revisado. Aún así, fue un guerrero Zoraï quien salvó al actual rey. Con todo el respeto, muchos de nosotros resentimos esta 'deuda' con los Zoraïs la que empaña nuestra credibilidad a los ojos de los Karavan. Es preferible que esto no suceda otra vez.\nFyros: Los Fyros son nuestros enemigos inherentes que, en las décadas pasadas, se han movido cada vez más cerca de los malvados Kamis. No debemos olvidar que en el pasado ellos tuvieron éxito coaccionando a los Trykers para juntarse con ellos en contra de nosotros. Pero los Fyros ahora prefieren juntarse con los Zoraïs que comparten su amor por el demonio Kami. Sin embargo, debemos permanecer vigilantes y atentos para que no conviertan a los Trykers con sus pláticas blasfemas.\nLas tribus amigables incluyen: Los Descortezadores, Los Cazadores de Frahar, Los Escultores de Limo, Los Renegados, Los Esclavistas, Los Adoradores de Iconos, Las Amazonas de la Semilla Muerta, La Semilla Verde, Los Esclavos de la Savia, Los Matis Áridos, La Savia Oscurecedora, El Kuilde.\n\n¿Quiénes son nuestros otros enemigos?\n- Los Kamis: Ellos están en contra de nosotros de traer el orden y la belleza a la tierra de Jena. Son un azote maligno y tienen que ser erradicados.\n- Los Kitins: Estos gigantescos insectos masacraron a varios miles de Matis y devastaron nuestro majestuoso reino en las tierras de los antiguos.\n- Las tribus enemigas incluyen: Los Recolectores de Savia, Las Cucarachas, Los Clorogoos, Los Sin Ley, Los Abrasadores, Los Hermanos de la Laguna, Los Tutores, Los Driadas Antiguas, Los Primeros Desertores, La Tala y la Quema, Las Bridas Tejidas.\n- Los Bandidos: Vigila a los forajidos fuera de la ley, a los ladrones y a los asesinos que merodean los bosques en busca de presa fácil.\n- Los depredadores de animales: Los animales salvajes pueden ser feroces, muchos de ellos atacarán a los homins que tengan a la vista!\n\n¿Cómo puedo ayudar a mi pueblo?\nEstamos escasos de artesanos, fabricantes, magos y guerreros para ampliar aún más nuestras capacidades y así podamos mantenernos a la cabeza de la competencia.\n- Necesitamos guerreros para defender nuestro territorio y establecer un nuevo espacio para vivir.\n- Estamos necesitando artesanos expertos para producir objetos y armas de uso cotidiano; y recolectores para recoger las materias primas para los alimentos y la fabricación.\n- Necesitamos magos para encantar objetos fabricados, proteger a los recolectores, y sanar a los guerreros en combate y mantener al enemigo vigilado.\n\n¿Qué puedo esperar de mi pueblo?\n- Entrenamiento de entrenadores expertos.\n- Nuestro pueblo está defendido por gremios que vendrán en tu ayuda una vez que ta hayas unido a uno.\n- Mientras más actúes para el bien de nuestro pueblo mayor serás recompensado por tus nobles acciones.\n\n¿Qué es nuestra nueva tierra?\nNuestro pueblo primero echó raíces en estas tierras boscosas en 2483 durante el resurgimiento del santuario de las Primeras Raíces en las nuevas tierras. El bosque es con mucho el lugar más bello de Atys y para el ojo agudo y observador ofrece todas las esencias vivientes necesarias para la creación. Desde el 2487 se nos han estado reincorporando continuamente refugiados que han tomado el camino desde las tierras antiguas, el mismo camino que tu has tomado tan valientemente, homin.\n\n¿Qué puedo esperar de Atys, nuestro mundo?\nAtys es una mina de riquezas naturales fabulosas, joven homin, con el tiempo vas a aprender la forma de convertirlos en una riqueza vendible. A medida que te vuelvas experto en los caminos del mundo aprenderás a domesticar al desierto y a conquistar nuevas tierras."
     },
     "uiappear_infos_tryker": {
         "name": "LA CIVILIZACIÓN TRYKER\n\nNosotros los Trykers vivimos por las virtudes de la libertad, igualdad, equidad y el compartir. Creemos que todos los homins son iguales y deben vivir y dejar vivir. Creemos en fomentar las cualidades del individuo, y no solo del grupo como un todo. Después de todo, nuestra dulce Diosa Jena hace que los homins vengan a la vida uno por uno, no en onces ni en nueves! Al favorecer el desarrollo individual y la felicidad, la armonía y la solidaridd en el grupo sigue con la misma naturalidad como los arroyos se juntan para formar un sólo río!\n\nLos Trykers son grandes viajeros y exploradores y también son expertos en la tencnología del viento. Desde el Gran Enjambre del os Kitins que destruyó nuestras ciudades islas en las antiguas tierras, hemos hecho nuestros hogares en las nuevas tierras del lago donde hemos establecido las bases de nuestra nueva Federación.\n\nSi crees en una palabra sin tiranía o intolerenacia, sin amos ni esclavos, ven a ayudarnos a construirla!!\n\nAhora puedes hacer tus preguntas...\n\n\nQuién soy yo?\nEres un joven refugiado homin. Has hecho bien al tomar el largo y peligroso camino desde las tierras antiguas para unirte a nosotros aquí donde hemos establecido nuestro nuevo hogar. Una vez que hayas adquirido algo de entrenamiento, serás capaz de mostrarnos de lo que estás constituído y ayudarnos a construir nuestra federación de pueblos Tryker.\/n\nQuiénes son mis ancestros?\nTus ancestros construyeron las ciudades islas más bellas en las tierras antiguas de Trykoth donde vivieron libres como el viento. Eso fue hace tres generaciones cuando los kitins llegaron y llevaron muerte y destrucción por toda la tierra. Tus abuelos escaparon hacia las Colinas donde tus padres y luego tu mismo fuiste criado con el temor constant del ataque kitin. Fue algo bueno que tus padres te insitaron a abandonar tu vida de callejón sin salida, y arriesgarte a tomar el gran camino para unirte a nosotros aquí en las nuevas tierras prometidas. Al final no has encontrado, tu nueva vida puede comenzar.\n\nQuién es tu jefe?\nLady Ailan Mac'kean, ella es la gran jefa. Es la governadora del Consejo Tryker. Cuando ella hable, tu saltas! Al menos hasta que hayas trabajado lo suficiente para ser capaz de hablar con ella cara a cara. Te aseguras de permanecer a su lado, joven Homin, nuestra independencia depende de nuestra solidaridad! Su mano derecha Homins es su segundo en mando, Rehn Kirran, es  un Homin experimentado y le brinda consejo. Si alguna vez te honran con llevar a cabo una misión para el consejo, asegúrate que dar tu mejor golpe, nunca se sabe, nuestra libertad podría depender de esto.\n\nCuál es nuestra fe?\nJena es nuestra Diosa, es la Madre de la Creación. Muchas de nuestras costumbres están centradas alrededor de su adoración. Por ejemplo, existe el Día de Acción de Gracias, este cae en el solsticio de invierno para simbolizar el regreso de la luz después de los años oscuros que siguieron al Gran Enjambre. Para que esto no ocurra otra vez, debemos vivir bajo su Ley, las cuales son entregadas a nosotros por sus fieles discípulos, los Karavan. Ellos velan por nosotros y nos protegen de la posesión Kami. Recuerda, joven homin, mientras hagas lo que se te ha dicho que hagas y no te voltees contra ellos, tú también serás capaz de aprender a ejercer su tecnología. Ah, y por cierto, manten esto bajo tu gorro pero algunos dicen que Elias no es otro que el esposo de Jena, lo que lo convierte en el santo Padre, pero no menciones esto a los Karavan!\n\nQué valoramos más?\nPara ser un verdadero Tryker, debes vivir bajo las virtudes de la libertad, igualdad y el compartir:\n- Libertad: Considera a todos los homins responsables y libres de sus actos. Cualquier homin que viole la libertad de otro estará en violación del Acta de los Derechos de los Homins, como sucedió, fue redactada por primera vez por el Consejo Tryker.\n- Igualdad: Cada homin tiene igual derecho a caminar por la tierra, para obtener instrucción, para cosechar y recolectar los recursos naturals, para escoger su propio destino, siempre y cuando no invadan en los derechos de otro homin.\n- El compartir: Creemos que nuestra fuerza yace en nuestra solidaridad y que la solidaridad se transmite en el compartir. Si pudiéramos persuader a todos los hijos de Jena a ser como nosotros Trykers el mundo sería un lugar más seguro!\n\nCuáles son nuestras prohibiciiones?\n- Nunca debes hacer un pacto o una misión para los Kamis. Ellos son malvados demonios y poseerán tu alma.\n- Nunca violes la Ley de Jena.\n- Nunca lleves a cabo una misión para las tribus enemigas.\n- Si te aventuras a ir abajo a la superficie de Atys, ten cuidado de no despertar al temible dragón del apocalipsis.\n- Está prohibido propagar el fuego del dragón por las tierras. Vuelve a las tierras estériles.\n\nCuáles son nuestras metas?\nDesde que resurgimos de las Primeras Raíces hemos estado construyendo bases sólidas para nuestra civilización future sin la tiranía o la intolerancia, donde todos los hijos de Jena podrán vivir en libertad. Ahora debemos:\n- desarrollar nuestras fortalezas y habilidades individuals\n- construir gremios fuertes y estrechamente unidos para propagar la palabra de los Karavan y liberal a los infieles de la posesión de los Kami\n- mejorar tus conocimientos para hacer mejores armas y herramientas. Durante el Gran Enjambres, muchos conocimientos fueron esparcidos por la tierra. Descubrir este conocimiento y más abribrá las puertas a los secretos del pasado.\n\nQuiénes son nuestros amigos?\nDesde el Tratado de Paz firmado en Fairhaven en 2515, hemos estado en paz con los otros pueblos homins. Pero eso no nos impide de tener nuestros gustos y nuestros disgustos.\nMatis: A pesar de las disputas pasadas y de los malos entendidos, los Matis ahora respetan nuestra libertad de pensamento y nuestro derecho para construir nuestra sociedad a como nosotros deseamos. Después de todo, lo que realmente cuenta es que compartimos una fe en Jena. Gracias a Jena nuestra Amistad nunca ha sido tan fuerte, especialmente desde que los Matis ratificaron el Acta de los Derechos de los Homins. Lo que es má, hasta cierto punto los Matis nos deben su libertad después de la dictadura de Jinovitch. No solo el Consejo Tryker dió a Yrkanis asilo político en Fairhaven sino que Still Wyler  nuestro antiguo Governador  lo escoltó de regreso a las tierras Matis para derrotar a Jinovitch a acceder al tronoe.\nFyros: Los Fyros una vez fueron aliados que explotaron nuestra necesidad de protección al tenernos a nosotros para brindar suministros a los pueblos Fyros con mercancías a bajo precio. Desde que aprendimos a luchar por nosotros mismos ya no necesitamos a los paternalistas y protectores Fryos, especialmente con el nuevo sentimiento de fraternidad con los Matis. Y además, los Fyros se han vuelto más cercanos a los Kamis.\nZoraï: Los Zoraïs no son de fiar, son abiertamente contrarios a la Ley de Jena al venerar a los Kamis. Lo que es más, durante el Gran Enjambre en las tierras antiguas, los Zoraïs se rehusaron a dejarnos pasar a través de su gran muralla y dejaron perecer a muchos miles de Trykers en las en las mandíbulas de los Kitins. Más recientemente, fueron los Zoraïs los primeros en instalar la esclavitud en las nuevas tierras.\nLas tribus amigables incluyen: Los Cazadores Frahar, Los Escultores de Limo, Los Corsarios, Los Limpia Playa, Los Corredores de las Sombras, La Tala y la Quema, Los Ecoguerreros, Los Excavadores de Oasis, Los Kuilde.\n\nQuiénes son nuestros otros enemigos?\n- Los Kamis: Son una plaga maligna, tratan de volar tu mente con su magia solo para poseerte. Ellos deben ser erradicados.\n- Los Kitins: Estos insectos gigantescos masacraron a muchos miles de Trykers y devastaron nuestras bellas ciudades flotantes en las tierras antiguas de Trykoth.\n- El Dragón: Nunca ha sido visto, pero sabemos que está al acecho en las profundidades de Atys en alguna parte. Aunque no hay mucho que podamos hacer sobre esto, lo mejor es ponerlo en la parte trasera de la mente.\n- Las tribus enemigas incluyen: Los Espigadores de la Savia, Los Los Chlorogoos, Los Ilegles, Los Hermanos de la Laguna, Los Esclavistas, Los Tutores, Los Antiguos Dríadas, Las Bridas Tejidas, La Savia Oscurecedora.\n- Los bandidos: Mejor vigila a los foragidos, ladrones, y asesinos, están por todas partes.\n- Los depredadores de animales: Existen muchos animales repugnantes en Atys, asegúrate de vigilar tus pasos si no quieres terminar como su cena!\n\nCómo puedo ayudar a mi pueblo?\nBien, es muy simple, ya sea que eres un artesano, o un cosechador, o mago, o un guerrero, te necesitamos!\n- Necesitamos guerreros para defender nuestros derechos territoriales y sustentar nuestras necesidades para el crecimiento.\n- Necesitamos artesanos capaces de producir objetos y armas cotidianas; y cosechadores para recolectar las materias primas para los alimentos y la fabricación.\n- Necesitamos magos para encantar objetos fabricados, proteger a los cosechadores y recolectores, y sanar a los guerreros en combate y mantener al enemigo vigilado.\n\nQué puedo esperar de mi pueblo?\n- Entrenamiento de entrenadores expertos.\n- Nuestro pueblo es defendido por los gremios que podrán venir en tu ayuda una vez que te hayas unido a ellos.\n- Mientras más actues por el bien de nuestro pueblo más serán recompensandas tus brillantes obras.\n\nQué es nuestra nueva tierra?\nNuestro pueblo primero estableció su hogar en las tierras del lago en 2483 en nuestro resurgimiento de las Primeras Raíces en las nuevas tierras. Los lagos son los lugares más mágicos de Atys aunque debes ser rápido porque sin duda no es un lugar para flojos o miedosos! Desde 2487 se nos han estado uniendo continuamente refugiados que han tomado el camino desde las tierras antiguas, el mismo camino que tú has valientemente tomado, homin.\n\nQué puedo esperar de Atys, nuestro mundo?\nAtys es una mina de riquezas naturales fabulosas, joven homin, con el tiempo aprenderás a vivir de ellas.\nA medida que te vuelves más experto en los caminos del mundo aprenderás cómo la tierra se extiende para ser capaz de moverse hacia nuevos territorios."
     },
     "uiappear_infos_zorai": {
-        "name": "LA CIVILIZACIÓN ZORAÏ\n\nNuestra sociedad descansa en la realización de logros espirituales, sabiduría y respeto a la naturaleza. A lo largo de los siglos hemos construídos una relación conlos Kamis, entidades divinas enviadas por Ma-Duk, el creador de Atys. Llevamos con orgullo la máscara Kami del parentesco, la que nos distingue de las otras razas homins de substancia espiritual más débil.\n\nHemos buscado por el conocimiento donde otros han buscado por la ganancia personal. Fuimos los primeros en escribir la palabra hablada de modo que el conocimiento de nuestros ancestros pudiera prevalecer. Nuestra sociedad se volvió estructurada cerca de magníficas ciudades-templos donde grandes ceremonias fueron orquestadas para detener el cáncer devorador de la flora que los Kamis fueron incapaces de repeler por ellos mismos.\n\nDesde el devastador enjambre de los kitins, hemos seleccionado expresamente una vez más nuestros nuevos sitios en el medio de la jungla encantada donde la contaminación del Goo es moneda corriente.\n\nAhora buscamos recuperar la magnificiencia de nuestra Antigua dinastía y hacerla brillar como un faro de sabiduría. Estamos dispuestos a compartir la conciencia espiritual a través del mundo de modo que toda la hominidad pueda alcanzar la felicidad eterna.\n\nSi consideras que hay más vida que a simple vista, entonces te necesitamos!!\n\nRealiza tus preguntas ahora, y pon tu mente en descanso...\n\n\nQuién soy yo?\nEres un joven refugiado homin. Has respondido con sabiduría al llamado de nuestro pueblo al tomar el largo y peligroso viaje desde las tierras antiguas. En las últimas décadas hemos estado reconstruyendo laas bases de nuetra sociedad en estas nuevas tierras de promesa, necesitamos tu ayuda. Después de un período de entrenamiento, serás capaz de poner tus habilidades y destrezas en buen uso y ayudarnos a reconstruir nuestra civilización.\n\nQuiénes son mis ancestros?\nTus ancestros construyeron una sociedad estructurada cerca de ciudades templos magnéticas donde grandes ceremonias fueron orquestadas para la iluminación spiritual. Corresponde a tu generación volver a vencer la llama, para hacer nuestra civilización brillar otra vez como la verdadera líder espiritual. Fuiste criado en la selva donde tus abuelos se refugiaron de los ataques kitin de 2481. Tus padres hicieron lo correcto al instanter a dejar tu infeliz vida y tomar el gran camino para unirte al resto de tu pueblo. Has viajado por muchos años pero ahora nos has encontrado. Tu nueva vida acaba de comenzar.\n\nQuién es nuestro jefe?\nMabreka, el Gran Sabio, es nuestro líder spiritual. Donde él nos conduce, debes seguirlo, su aura brilla como un faro en la noche y guía a nuestras almas. Sigue su luz y tu también brillarás entre tu pueblo. Considera esto un gran honor si eres escogido para llevar a cabo una misión solicitada por él, el resultado ilustrará lo digno que eres. Cuan Sa-Ki y Shon Wo-Can son los grandes gurus que, habiendo alcanzado el mérito, le otorgan consejo.\n\nCuál es nuestra fe?\nRendimos culto a la energía de vida superior que creó a Atys, y que se llama Ma-Duk. Ma-Duk manifiesta su presencia en Atys a través de los Kamis que vigilan su creación. Recuerda, homin, los Kamis deben ser protegidos, es a través de ellos que ganarás mérito para acceder a la iluminación completa. Hazles ofrendas y favores cada vez que pudeas, y ellos impartirán su magia en ti.\n\nQué es lo que valoramos?\nPara renacer plenamente como un verdadero Zoraï debes estructurar tu nueva vida en las piedras angulares de la sabiduría, logro espiritual y respeto a la naturaleza.\n- Sabiduría: Para servir mejor a los Kamis es importante que aprendas sobre ti mismo, tu pueblo y sobre Atys. Al adquirir conocimientos también aprenderás cómo defender a Atys de una mejor manera, a los Kamis y a tus pueblos contra la barbarie.\n- Logro espiritual: Debes buscar como ganar mérito para que tu alma alcance la iluminación. Para esto no solo debes fortificar tu relación individual con los Kamis, sino también propagar la palabra de la iluminación de los Kamis a otros homins para que ellos también puedan compartir la dicha final.\n- El respeto a la naturaleza: Nuestra cultura está construída en un profundo respeto por la naturaleza. Debes vigilar la sobre explotación y los incendios o el fuego, y a toda costa luchar contra el Goo al que los Kamis han sido incapaces de repeler.\n\nCuáles son nuestras prohibiciones?\n- Nunca debes tener transacciones con los Karavan. Ellos son el enemigo de los Kamis y tratan de detenernos en nuestra tarea de erradicar el Goo. Al reunir materias primas para los Karavan, serás culpable de violar el planeta que hemos hecho para cuidar. Los Karavan son responsables del agotamiento de los recursos y del daño al medio ambiente.\n- Nunca te burles o te opongas a los Kamis. Los Kamis actúan por el bien de Atys.\n- Está prohibido esparcir el fieugo en las tierras. Esto le quita al a tierra su riqueza y la deja estéril.\n- Nunca lleves a cabo misiones para tribus enemigas.\n\nCuáles son nuestras metas?\nEn las últimas décadas hemos estado construyendo diligentemente las bases a partir de las cuales construir nuestra civilización. Ahora debemos:\n- desarrolar las fortalezas y habilidades individuales\n- hacer que nuestra dinastía brille y prmover la conciencia spiritual a través de todas las tierras recién encontradas centradas alrededor de la adoración a los Kami\n- construir gremios fuertes para liberar a la hominidad de las influencias de los Karavan. Entonces nos vamos a unir a las fuerzas en nuestra cruzada contra el Goo para hacer de este mundo un mejor lugar\n- recuperar el conocimiento perdido durante el Gran Enjambre. Si descubres este conociiento serás capaz de abrir las puertas a los secretos del pasado.\n\nQuiénes son nuestros amigos?\nDesde el Tratado de Paz firmado en Fairhaven en 2515, hemos estado en paz con los otros pueblos homin. Pero diez años de paz no pudieron borrar los muchos años de barbarie que predominaba en otras tierras homins. Y todavía encontramos que algunos homins tienen más mérito que otros.\nFyros: Los Fyros son temerarios aunque guerreros valientes que en los últimos tiemos han demostrado ser dignos de nuestra confianza. Han estado haciendo buenos progresos en su desarrollo espiritual y han claramente seleccionado la forma de vida de los Kamis.\nTryker: Las mentes de los no han evolucionado lo suficiente como para ser capaces de aceptar la iluminación Kami. Son de poco valor espiritual. No solo se ha dicho que trataron a los Kamis con frivolidad en el pasado, sino que veneraron a los Karavan que son hostiles con los Kamis.\nMatis: Debemos tratar de liberar a los Matis de la influencia de los Karavan y traerlos alrededor del estilo de vida de los Kami. Es por eso que en 2509, el actual Rey Matis, Yrkanis, se le dio refugio en Zora y se le ayudó a reunir un ejército para derrocar al monarca ultra-Karavan e instalar un gobierno más tolerante. Este fue el primer paso para coaccionar a los Matis hacia el mundo Kami. Pero se corrió la voz que existe una creciente oposiciión contra Yrkanis en su propio reino. Debemos permanecer vigilantes!\nLas tribus amigables incluyen: Los Descortezadores, Los Corredores de las Dunas, Los Limpia Playa, Los Adoradores de Iconos, Los Tutores, Los Hamazans de la Semilla Muerta, los Eco Guerreros, Los Excavadores de Oasis, La Savia Sagrada, Los Hermanos de la Maleza.\n\nQuiénes son nuestros enemigos?\n- Los Karavan: Son hostiles con los Kamis, y entre las mentes han impuesto adhesión ciega a su diosa, Jena. Nuestros antepasados, y más recientemente, los Fyros, se las arreglaron para romper con su dominio. Debemos ayudar a los otros pueblos a hacer lo mismo.\n- Los Kitins: Estos insectos gigantes masacraron a muchos miles de Zoraïs y devastaron nuestra dinastía en las tierras de los antiguos.\n- El Goo: Este es un cáncer para nuestro planeta. Esto ofende a los Kamis y debe ser erradicado.\n- Las tribus enemigas incluyen: Las Cucarachas, Los Chlorogoos, Los Ilegales, Los Quemadores, Los Hermanos de la Laguna, Los Maestros del Goo, Los Antikamis, Los Cabezas de Goo, Las Bridas Tejidas, La Savia Oscurecederoas.\n- Los bandidos: Ten cuidado con los foragidos, ladroens y criminals, joven homin. No te perdonarán la vida si hay alguna ganancia de por medio.\n- Depredadores de animales: La jungla es el hogar de muchos animales salvajes, muchos de ellos atacarán a los homins que tengan a la vista!\n\nCómo puedo ayudar a mi pueblo?\nPara ser capaces de construir nuestras ciudades templos y jugar un papel como líderes espirituales de Atys, debemos ser lo suficientemente fuertes para resistir a la oposición. Para esto debemos reclutar más artesanos, cosechadores, recolectores, magos y guerreros.\n- Necesitamos guerreros para defender nuestro territorio y establecer nuevos centros de adoración Kami.\n- Necesitamos artesanos para poducir objetos de uso cotidiano y armas; y cosechadores\/recolectores para reunir las materias primas para los alimentos y la fabricación.\n- Necesitamos magos para encantar los objetos fabricados, proteger a los recolectores y sanar a los guerreros en combate y mantener al enemigo bajo vigilancia.\n\nQué puedo esperar de mi pueblo?\n- Entrenamiento de entrenadores expertos.\n- Nuestro pueblo es defendido por los gremios que vendrán en tu ayuda una vez que te hayas unido a uno.\n- Mientras más actues por el bien de nuestro pueblo mayor serán recompensandas tus nobles acciones.\n\nCuál es nuestra nueva tierra?\nDespués del resurgimiento de las Primeras Raíces en las nuevas tierras en 2483, aseguramos nuevos sitios en el medio de la selva donde los Kamis más nos necesitan. La selva es el lugar más encantado de Atys, pero uno que necesita cuidados, es aquí donde el Goo es más abundante. Desde 2487 se nos han reincorporado continuamente refugiados que han tomado el camino desde las tierras antiguas, el mismo camino que tu tan valientemente has tomado, homin.\n\nQué puedo esperar de Aty, nuestro mundo?\nAtys ofrece una gran cantidad de riquezas naturales, joven homin,  puedes ayudarte a ti mismo para promover tu desarrollo siempre y cuando se respete al medio ambiente. Si no lo haces, los Kamis estarán sobre ti como un trueno!\nA medida que te vuelves experto en los caminos del mundo aprenderás la disposición de la tierra, y todos los importantes ritos de paso si vas a reclamar un nuevo territorio, homin."
+        "name": "LA CIVILIZACIÓN ZORAÏ\n\nNuestra sociedad descansa en la realización de logros espirituales, sabiduría y respeto a la naturaleza. A lo largo de los siglos hemos construídos una relación conlos Kamis, entidades divinas enviadas por Ma-Duk, el creador de Atys. Llevamos con orgullo la máscara Kami del parentesco, la que nos distingue de las otras razas homins de substancia espiritual más débil.\n\nHemos buscado por el conocimiento donde otros han buscado por la ganancia personal. Fuimos los primeros en escribir la palabra hablada de modo que el conocimiento de nuestros ancestros pudiera prevalecer. Nuestra sociedad se volvió estructurada cerca de magníficas ciudades-templos donde grandes ceremonias fueron orquestadas para detener el cáncer devorador de la flora que los Kamis fueron incapaces de repeler por ellos mismos.\n\nDesde el devastador enjambre de los kitins, hemos seleccionado expresamente una vez más nuestros nuevos sitios en el medio de la jungla encantada donde la contaminación del Goo es moneda corriente.\n\nAhora buscamos recuperar la magnificencia de nuestra Antigua dinastía y hacerla brillar como un faro de sabiduría. Estamos dispuestos a compartir la conciencia espiritual a través del mundo de modo que toda la hominidad pueda alcanzar la felicidad eterna.\n\nSi consideras que hay más vida que a simple vista, entonces te necesitamos!!\n\nRealiza tus preguntas ahora, y pon tu mente en descanso...\n\n\nQuién soy yo?\nEres un joven refugiado homin. Has respondido con sabiduría al llamado de nuestro pueblo al tomar el largo y peligroso viaje desde las tierras antiguas. En las últimas décadas hemos estado reconstruyendo las bases de nuestra sociedad en estas nuevas tierras de promesa, necesitamos tu ayuda. Después de un período de entrenamiento, serás capaz de poner tus habilidades y destrezas en buen uso y ayudarnos a reconstruir nuestra civilización.\n\nQuiénes son mis ancestros?\nTus ancestros construyeron una sociedad estructurada cerca de ciudades templos magnéticas donde grandes ceremonias fueron orquestadas para la iluminación espiritual. Corresponde a tu generación volver a vencer la llama, para hacer nuestra civilización brillar otra vez como la verdadera líder espiritual. Fuiste criado en la selva donde tus abuelos se refugiaron de los ataques kitin de 2481. Tus padres hicieron lo correcto al instante a dejar tu infeliz vida y tomar el gran camino para unirte al resto de tu pueblo. Has viajado por muchos años pero ahora nos has encontrado. Tu nueva vida acaba de comenzar.\n\nQuién es nuestro jefe?\nMabreka, el Gran Sabio, es nuestro líder espiritual. Donde él nos conduce, debes seguirlo, su aura brilla como un faro en la noche y guía a nuestras almas. Sigue su luz y tu también brillarás entre tu pueblo. Considera esto un gran honor si eres escogido para llevar a cabo una misión solicitada por él, el resultado ilustrará lo digno que eres. Cuan Sa-Ki y Shon Wo-Can son los grandes gurús que, habiendo alcanzado el mérito, le otorgan consejo.\n\nCuál es nuestra fe?\nRendimos culto a la energía de vida superior que creó a Atys, y que se llama Ma-Duk. Ma-Duk manifiesta su presencia en Atys a través de los Kamis que vigilan su creación. Recuerda, homin, los Kamis deben ser protegidos, es a través de ellos que ganarás mérito para acceder a la iluminación completa. Hazles ofrendas y favores cada vez que pudeas, y ellos impartirán su magia en ti.\n\nQué es lo que valoramos?\nPara renacer plenamente como un verdadero Zoraï debes estructurar tu nueva vida en las piedras angulares de la sabiduría, logro espiritual y respeto a la naturaleza.\n- Sabiduría: Para servir mejor a los Kamis es importante que aprendas sobre ti mismo, tu pueblo y sobre Atys. Al adquirir conocimientos también aprenderás cómo defender a Atys de una mejor manera, a los Kamis y a tus pueblos contra la barbarie.\n- Logro espiritual: Debes buscar como ganar mérito para que tu alma alcance la iluminación. Para esto no solo debes fortificar tu relación individual con los Kamis, sino también propagar la palabra de la iluminación de los Kamis a otros homins para que ellos también puedan compartir la dicha final.\n- El respeto a la naturaleza: Nuestra cultura está construida en un profundo respeto por la naturaleza. Debes vigilar la sobre explotación y los incendios o el fuego, y a toda costa luchar contra el Goo al que los Kamis han sido incapaces de repeler.\n\nCuáles son nuestras prohibiciones?\n- Nunca debes tener transacciones con los Karavan. Ellos son el enemigo de los Kamis y tratan de detenernos en nuestra tarea de erradicar el Goo. Al reunir materias primas para los Karavan, serás culpable de violar el planeta que hemos hecho para cuidar. Los Karavan son responsables del agotamiento de los recursos y del daño al medio ambiente.\n- Nunca te burles o te opongas a los Kamis. Los Kamis actúan por el bien de Atys.\n- Está prohibido esparcir el fieugo en las tierras. Esto le quita al a tierra su riqueza y la deja estéril.\n- Nunca lleves a cabo misiones para tribus enemigas.\n\nCuáles son nuestras metas?\nEn las últimas décadas hemos estado construyendo diligentemente las bases a partir de las cuales construir nuestra civilización. Ahora debemos:\n- desarrollar las fortalezas y habilidades individuales\n- hacer que nuestra dinastía brille y promover la conciencia espiritual a través de todas las tierras recién encontradas centradas alrededor de la adoración a los Kami\n- construir gremios fuertes para liberar a la hominidad de las influencias de los Karavan. Entonces nos vamos a unir a las fuerzas en nuestra cruzada contra el Goo para hacer de este mundo un mejor lugar\n- recuperar el conocimiento perdido durante el Gran Enjambre. Si descubres este conocimiento serás capaz de abrir las puertas a los secretos del pasado.\n\nQuiénes son nuestros amigos?\nDesde el Tratado de Paz firmado en Fairhaven en 2515, hemos estado en paz con los otros pueblos homin. Pero diez años de paz no pudieron borrar los muchos años de barbarie que predominaba en otras tierras homins. Y todavía encontramos que algunos homins tienen más mérito que otros.\nFyros: Los Fyros son temerarios aunque guerreros valientes que en los últimos tiempos han demostrado ser dignos de nuestra confianza. Han estado haciendo buenos progresos en su desarrollo espiritual y han claramente seleccionado la forma de vida de los Kamis.\nTryker: Las mentes de los no han evolucionado lo suficiente como para ser capaces de aceptar la iluminación Kami. Son de poco valor espiritual. No solo se ha dicho que trataron a los Kamis con frivolidad en el pasado, sino que veneraron a los Karavan que son hostiles con los Kamis.\nMatis: Debemos tratar de liberar a los Matis de la influencia de los Karavan y traerlos alrededor del estilo de vida de los Kami. Es por eso que en 2509, el actual Rey Matis, Yrkanis, se le dio refugio en Zora y se le ayudó a reunir un ejército para derrocar al monarca ultra-Karavan e instalar un gobierno más tolerante. Este fue el primer paso para coaccionar a los Matis hacia el mundo Kami. Pero se corrió la voz que existe una creciente oposición contra Yrkanis en su propio reino. Debemos permanecer vigilantes!\nLas tribus amigables incluyen: Los Descortezadores, Los Jinetes de las Dunas, Los Limpia Playa, Los Adoradores de Iconos, Los Tutores, Los Hamazans de la Semilla Muerta, los Ecoguerreros, Los Excavadores de Oasis, La Savia Sagrada, Los Hermanos de la Maleza.\n\nQuiénes son nuestros enemigos?\n- Los Karavan: Son hostiles con los Kamis, y entre las mentes han impuesto adhesión ciega a su diosa, Jena. Nuestros antepasados, y más recientemente, los Fyros, se las arreglaron para romper con su dominio. Debemos ayudar a los otros pueblos a hacer lo mismo.\n- Los Kitins: Estos insectos gigantes masacraron a muchos miles de Zoraïs y devastaron nuestra dinastía en las tierras de los antiguos.\n- El Goo: Este es un cáncer para nuestro planeta. Esto ofende a los Kamis y debe ser erradicado.\n- Las tribus enemigas incluyen: Las Cucarachas, Los Clorogoos, Los Ilegales, Los Abrasadores, Los Hermanos de la Laguna, Los Maestros del Goo, Los Antikamis, Los Cabezas de Goo, Las Bridas Tejidas, los Oscurecedores de Savia.\n- Los bandidos: Ten cuidado con los forajidos, ladrones y criminales, joven homin. No te perdonarán la vida si hay alguna ganancia de por medio.\n- Depredadores de animales: La jungla es el hogar de muchos animales salvajes, muchos de ellos atacarán a los homins que tengan a la vista!\n\nCómo puedo ayudar a mi pueblo?\nPara ser capaces de construir nuestras ciudades templos y jugar un papel como líderes espirituales de Atys, debemos ser lo suficientemente fuertes para resistir a la oposición. Para esto debemos reclutar más artesanos, cosechadores, recolectores, magos y guerreros.\n- Necesitamos guerreros para defender nuestro territorio y establecer nuevos centros de adoración Kami.\n- Necesitamos artesanos para producir objetos de uso cotidiano y armas; y cosechadores\/recolectores para reunir las materias primas para los alimentos y la fabricación.\n- Necesitamos magos para encantar los objetos fabricados, proteger a los recolectores y sanar a los guerreros en combate y mantener al enemigo bajo vigilancia.\n\nQué puedo esperar de mi pueblo?\n- Entrenamiento de entrenadores expertos.\n- Nuestro pueblo es defendido por los gremios que vendrán en tu ayuda una vez que te hayas unido a uno.\n- Mientras más actúes por el bien de nuestro pueblo mayor serán recompensadas tus nobles acciones.\n\nCuál es nuestra nueva tierra?\nDespués del resurgimiento de las Primeras Raíces en las nuevas tierras en 2483, aseguramos nuevos sitios en el medio de la selva donde los Kamis más nos necesitan. La selva es el lugar más encantado de Atys, pero uno que necesita cuidados, es aquí donde el Goo es más abundante. Desde 2487 se nos han reincorporado continuamente refugiados que han tomado el camino desde las tierras antiguas, el mismo camino que tu tan valientemente has tomado, homin.\n\nQué puedo esperar de Atys, nuestro mundo?\nAtys ofrece una gran cantidad de riquezas naturales, joven homin,  puedes ayudarte a ti mismo para promover tu desarrollo siempre y cuando se respete al medio ambiente. Si no lo haces, los Kamis estarán sobre ti como un trueno!\nA medida que te vuelves experto en los caminos del mundo aprenderás la disposición de la tierra, y todos los importantes ritos de paso si vas a reclamar un nuevo territorio, homin."
     },
     "uiappeartitle": {
         "name": "¿CÓMO QUIERES SER?"
@@ -6129,7 +6858,7 @@
         "name": "Lanzador Ardiente"
     },
     "uiawrsfr2ale": {
-        "name": "Lanzador Elétrico"
+        "name": "Lanzador Eléctrico"
     },
     "uiawrsfr2alm": {
         "name": "Lanzador"
@@ -6300,13 +7029,13 @@
         "name": "Revisión del archivo finalizada."
     },
     "uibgd_choosepackage": {
-        "name": "Por favor elegir un paquete para instalar: "
+        "name": "Por favor elegir un paquete para instalar:"
     },
     "uibgd_closewarning": {
         "name": "Esta acción no cerrará al descargador, seguirá funcionando de forma secundaria. Para cerrar el descargador, haz clic en el icono de la bandeja y seleccione 'Salida'."
     },
     "uibgd_congratsuccessfullinstall": {
-        "name": "Ryzom ha sido instalado con éxito.\n¡Le deseamos grandes aventuras en Atys!\n"
+        "name": "Ryzom ha sido instalado con éxito.\n¡Le deseamos grandes aventuras en Atys!"
     },
     "uibgd_connecting": {
         "name": "Conectando"
@@ -6444,10 +7173,10 @@
         "name": "ACEPTAR"
     },
     "uibgd_package": {
-        "name": "Por favor elegir ñas opciones de instalación\n"
+        "name": "Por favor elegir ñas opciones de instalación"
     },
     "uibgd_packagetitle": {
-        "name": "Instalación de Ryzom\n\n"
+        "name": "Instalación de Ryzom"
     },
     "uibgd_patch": {
         "name": "Descargando"
@@ -6474,7 +7203,7 @@
         "name": "Seleccionar la prioridad del Descargador de Ryzom. Es posible que desee hacer una @{6F6F}Pausa@{FFFF} en la descarga si experimenta una reducción de la velocidad. Si tienes un equipo rápido, o deseas acelerar la velocidad del proceso de parcheado, seleccione @{6F6F}Prioridad Normal@{FFFF}"
     },
     "uibgd_progress": {
-        "name": "Progreso del parche: "
+        "name": "Progreso del parche:"
     },
     "uibgd_protocolerror": {
         "name": "Error de comunicación del juego\/descargador. Por favor reinicie Ryzom o como último recurso utilize el Descargador de Ryzom para reparar su instalación."
@@ -6492,7 +7221,7 @@
         "name": "¿Salir?"
     },
     "uibgd_rateformat": {
-        "name": " at {0}\/s"
+        "name": "at {0}\/s"
     },
     "uibgd_rbg": {
         "name": "Descargador de Ryzom"
@@ -6528,7 +7257,7 @@
         "name": "Mostrar\/Ocultar"
     },
     "uibgd_shutdownfailed": {
-        "name": "No se ha podido apagar el Descargador de Ryzom, uizás tenga que reiniciar el equipo para resolver el problema"
+        "name": "No se ha podido apagar el Descargador de Ryzom, quizás deba reiniciar el equipo para resolver el problema"
     },
     "uibgd_shuttingdown": {
         "name": "Apagando el Descargador de Ryzom..."
@@ -6555,7 +7284,7 @@
         "name": "Modo Torrent"
     },
     "uibgd_welcome": {
-        "name": "Ryzom está a punto de ser instalado en tu ordenador. También puede reparar un versión existente de Ryzom.\n"
+        "name": "Ryzom está a punto de ser instalado en tu ordenador. También puede reparar un versión existente de Ryzom."
     },
     "uibgd_windowtitle": {
         "name": "Descargador"
@@ -6576,7 +7305,7 @@
         "name": "Chat"
     },
     "uibotchatbrick": {
-        "name": "Ladrillo: "
+        "name": "Ladrillo:"
     },
     "uibotchatbuilding": {
         "name": "CONSTRUCCIONES"
@@ -6588,16 +7317,16 @@
         "name": "MISIÓN DINÁMICA"
     },
     "uibotchatfaberplan": {
-        "name": "Plan de Artesanía: "
+        "name": "Plan de artesanía:"
     },
     "uibotchatfaction": {
         "name": "OBJETOS DE UNA FACCIÓN"
     },
     "uibotchatfactionpointprice": {
-        "name": ". Puntos: "
+        "name": ". Puntos:"
     },
     "uibotchatfactiontype": {
-        "name": "Facción: "
+        "name": "Facción:"
     },
     "uibotchatguildoptions": {
         "name": "EDIFICIO"
@@ -6606,7 +7335,7 @@
         "name": "ROL MASTER DEL GREMIO"
     },
     "uibotchatitem": {
-        "name": "Objeto: "
+        "name": "Objeto:"
     },
     "uibotchatmissions": {
         "name": "MISIONES"
@@ -6621,13 +7350,13 @@
         "name": "HAZ TU OFERTA"
     },
     "uibotchatpact": {
-        "name": "Pacto: "
+        "name": "Pacto:"
     },
     "uibotchatphrase": {
-        "name": " "
+        "name": ""
     },
     "uibotchatprice": {
-        "name": "Precio: "
+        "name": "Precio:"
     },
     "uibotchatrefresh": {
         "name": "Actualizar"
@@ -6636,7 +7365,7 @@
         "name": "Tiempo de Reventa Restante: %d días, %h horas."
     },
     "uibotchatretireprice": {
-        "name": ". Retirar Precio: "
+        "name": ". Precio de canje:\n"
     },
     "uibotchatreward": {
         "name": "RECOMPENSA"
@@ -6651,10 +7380,10 @@
         "name": "SELECCIONA UN TRABAJO PARA ACTIVAR"
     },
     "uibotchatskill": {
-        "name": "Habilidad: "
+        "name": "Habilidad:"
     },
     "uibotchatskillpointcost": {
-        "name": "Puntos de Habilidad: "
+        "name": "Puntos de habilidad:"
     },
     "uibotchatskillpointcostnotreceived": {
         "name": "Coste de Punto de Habilidad no recibido."
@@ -6663,19 +7392,19 @@
         "name": "HACER UN PACTO"
     },
     "uibotchattime": {
-        "name": ". Tiempo: "
+        "name": ". Tiempo:"
     },
     "uibotchattimeminute": {
-        "name": " m "
+        "name": "m"
     },
     "uibotchattimesecond": {
-        "name": " s."
+        "name": "s."
     },
     "uibotchattrade": {
         "name": "COMERCIO"
     },
     "uibotchatvendortag": {
-        "name": "Comerciante: "
+        "name": "Comerciante:"
     },
     "uibotchatzccharges": {
         "name": "CARGAS DE ZONA"
@@ -6693,7 +7422,7 @@
         "name": "ESCOGE UNA MISIÓN"
     },
     "uibottalk": {
-        "name": "Hablando con PNJ "
+        "name": "Hablando con PNJ"
     },
     "uibreasts": {
         "name": "BUSTO"
@@ -6804,7 +7533,7 @@
         "name": "COMPRAR"
     },
     "uibuyfrom": {
-        "name": "Comprar a "
+        "name": "Comprar a"
     },
     "uibyte": {
         "name": "B"
@@ -6864,7 +7593,7 @@
         "name": "Ha ocurrido un error al instalar uno de los archivos de de instalación de Ryzom.\nPor avor asegurese de que tiene suficiente espacio en el disco para la instalación."
     },
     "uicannotwritedynchat": {
-        "name": " No puedes escribir en este canal."
+        "name": "No puedes escribir en este canal."
     },
     "uicantaddyourselfincontactlist": {
         "name": "No te puedes agregar a ti mismo a la lista de tus amigos, tonto."
@@ -7428,7 +8157,7 @@
         "name": "&Defecto"
     },
     "uiconfigdescription": {
-        "name": "Descripción: "
+        "name": "Descripción:"
     },
     "uiconfigdirect3d": {
         "name": "Direct3D"
@@ -7467,10 +8196,10 @@
         "name": "Driver"
     },
     "uiconfigdriverdesc": {
-        "name": "Driver: "
+        "name": "Controlador (Driver):"
     },
     "uiconfigdriverversion": {
-        "name": "Versión del driver: "
+        "name": "Versión del controlador (driver):"
     },
     "uiconfigenableeax": {
         "name": "Activar EAX"
@@ -7485,7 +8214,7 @@
         "name": "Error al escribir el archivo"
     },
     "uiconfigextensions": {
-        "name": "Extensiones: "
+        "name": "Extensiones:"
     },
     "uiconfigfullscreen": {
         "name": "Pantalla completa"
@@ -7548,7 +8277,7 @@
         "name": "¿Desea salir del juego sin guardar la configuración?"
     },
     "uiconfigrenderer": {
-        "name": "Renderizador: "
+        "name": "Renderizador:"
     },
     "uiconfigrestauredefault": {
         "name": "¿Seguro que desea restaurar la configuración por defecto?"
@@ -7575,19 +8304,19 @@
         "name": "Alto"
     },
     "uiconfigsysteminfocpu": {
-        "name": "CPU: "
+        "name": "CPU:"
     },
     "uiconfigsysteminfoos": {
-        "name": "Sitema operativo: "
+        "name": "Sitema operativo:"
     },
     "uiconfigsysteminfophymem": {
-        "name": "Memoria física: "
+        "name": "Memoria física:"
     },
     "uiconfigsysteminfovideo": {
-        "name": "Dispositivo de video: "
+        "name": "Dispositivo de video:"
     },
     "uiconfigsysteminfovideodriver": {
-        "name": "Versión del driver de video: "
+        "name": "Versión del driver de video:"
     },
     "uiconfigtexture": {
         "name": "Texturas"
@@ -7608,10 +8337,10 @@
         "name": "Pistas"
     },
     "uiconfigvendor": {
-        "name": "Distribuidor: "
+        "name": "Distribuidor:"
     },
     "uiconfigversion": {
-        "name": "Versión: "
+        "name": "Versión:"
     },
     "uiconfigvideomode": {
         "name": "Especificar un modo de video:"
@@ -7719,7 +8448,7 @@
         "name": "Copiar el Escritorio Actual al Escritorio"
     },
     "uicorruptedfile": {
-        "name": "Falta Archivo o está Corrupto: "
+        "name": "Archivo faltando o corrupto:"
     },
     "uicosmcolor": {
         "name": "Cambiar Color de Pelo"
@@ -7743,7 +8472,7 @@
         "name": "ACCIONES:"
     },
     "uicp_bp1": {
-        "name": "Especialización: "
+        "name": "Especialización:"
     },
     "uicp_bp_des": {
         "name": "DETALLES DEL CONTENIDO:"
@@ -7911,7 +8640,7 @@
         "name": "CANCELAR"
     },
     "uicp_name_enter": {
-        "name": "Introducir Nombre\n\nCada personaje de Ryzom tiene un nombre único que le permite reconocer y comunicarse con otros jugadores. El nombre debe seguir las reglas de la Política de Nombres (ver www.ryzom.com) y debe consistir en una sola palabra compuesta por las letras de la A a la Z, sin acentos, espacios, números o símbolos especiales.\n"
+        "name": "Introducir nombre\n\nCada personaje de Ryzom tiene un nombre único que le permite reconocer y comunicarse con otros jugadores. El nombre debe seguir las reglas de la Política de Nombres (ver www.ryzom.com) y debe consistir en una sola palabra compuesta por las letras de la A a la Z, sin acentos, espacios, números o símbolos especiales."
     },
     "uicp_name_generate": {
         "name": "Generar"
@@ -7971,7 +8700,7 @@
         "name": "ZORAÏ"
     },
     "uicp_title": {
-        "name": "TÍTULO: "
+        "name": "TÍTULO:"
     },
     "uicp_title1": {
         "name": "PERSONAJE"
@@ -7992,7 +8721,7 @@
         "name": "CREAR CUENTA"
     },
     "uicreateaccountwelcome": {
-        "name": "¡Bienvendio!\nPor favor relleno estos espacios para crear su nueva cuenta de Ryzom.\n"
+        "name": "¡Bienvendio!\nPor favor relleno estos espacios para crear su nueva cuenta de Ryzom."
     },
     "uicreatenewlandmark": {
         "name": "Crear nuevo marcador"
@@ -8007,7 +8736,7 @@
         "name": "CREAR MARCADOR EN UBICACIÓN ACTUAL"
     },
     "uicreatorheader": {
-        "name": "Artesano: "
+        "name": "Artesano:"
     },
     "uicriticalhit": {
         "name": "Golpe Crítico"
@@ -8052,7 +8781,7 @@
         "name": "Hojear los Últimos Contactos"
     },
     "uidate": {
-        "name": "La fecha es "
+        "name": "La fecha es"
     },
     "uiday0": {
         "name": "Domingo"
@@ -8076,7 +8805,7 @@
         "name": "Sábado"
     },
     "uidaybeforenextzcdistrib": {
-        "name": "Día(s)que Faltan Antes de la Atribución de la Próxima Carga: "
+        "name": "Día(s)que Faltan Antes de la Atribución de la Próxima Carga:"
     },
     "uideadcolor": {
         "name": "Cadáveres"
@@ -8391,7 +9120,7 @@
         "name": "E"
     },
     "uiechelon": {
-        "name": "Grado : "
+        "name": "Grado :"
     },
     "uiecosystem": {
         "name": "ECOSISTEMA"
@@ -9426,7 +10155,7 @@
         "name": "TEMA"
     },
     "uiendesc": {
-        "name": "NOMBRE DE LA TAREA: "
+        "name": "NOMBRE DE LA TAREA:"
     },
     "uiene": {
         "name": "ENE"
@@ -9540,7 +10269,7 @@
         "name": "VISTA PREVIA"
     },
     "uifaberitemresultlevel": {
-        "name": "Nivel: "
+        "name": "Nivel:"
     },
     "uifabermpremove": {
         "name": "Quitar"
@@ -9783,7 +10512,7 @@
         "name": "Maestros del Goo"
     },
     "uifame_tribe_matisian_border_guards": {
-        "name": "Guardas Fronterizos Matis"
+        "name": "Guardias Fronterizos Matis"
     },
     "uifame_tribe_night_turners": {
         "name": "Torneros Nocturnos"
@@ -10431,7 +11160,7 @@
         "name": "La descripción no debe tener más de 200 caracteres."
     },
     "uiguildfameprogress": {
-        "name": "Progreso de la Fama del Gremio: "
+        "name": "Progreso de la Fama del Gremio:"
     },
     "uiguildforum": {
         "name": "Foro de Gremio"
@@ -10449,28 +11178,28 @@
         "name": "EDIFICIOS"
     },
     "uiguildinfocharge": {
-        "name": "Puesto de Avanzada: "
+        "name": "Puesto de Avanzada:"
     },
     "uiguildinfocharge2": {
         "name": "Ninguno"
     },
     "uiguildinfodes": {
-        "name": "Descripción: "
+        "name": "Descripción:"
     },
     "uiguildinfoeff": {
         "name": "miembros"
     },
     "uiguildinfofame": {
-        "name": "Fama: "
+        "name": "Fama:"
     },
     "uiguildinfohead": {
-        "name": "Cuartel General: "
+        "name": "Cuartel General:"
     },
     "uiguildinfohead2": {
         "name": "Boro"
     },
     "uiguildinfoscore": {
-        "name": "Puntos de Gremio: "
+        "name": "Puntos del Gremio:"
     },
     "uiguildinfotitle": {
         "name": "Icono y Nombre"
@@ -10494,10 +11223,10 @@
         "name": "Puntuación"
     },
     "uiguildmembership": {
-        "name": "GREMIO: "
+        "name": "GREMIO:"
     },
     "uiguildname": {
-        "name": " Nombre del Gremio"
+        "name": "Nombre del Gremio"
     },
     "uiguildnamewarning": {
         "name": "El nombre no debe tener más de 32 caracteres. Ni símbolos ni números."
@@ -10674,7 +11403,7 @@
         "name": "%cansell\n@{FFFF}%desc"
     },
     "uihelpitemcosmeticdontfit": {
-        "name": "@{F80B}Este cosmético no puede serte aplicado, debido a tu raza o géneor@{FFFF}\n"
+        "name": "@{F80B}Este cosmético no puede serte aplicado, debido a tu raza o géneor@{FFFF}"
     },
     "uihelpitemcraftingtoolformat": {
         "name": "@{FFF9}@{HuittInfoOrigin}Orígen:@{H}@{T12}@{FFFF}%origin\n@{FFF9}@{HuittInfoToolQuality}Calidad:@{H}@{T12}@{FFFF}%quality\n@{FFF9}@{HuittInfoWeight}Peso:@{H}@{T12}@{FFFF}%weight Kg\n@{FFF9}@{HuittInfoBulk}Volumen:@{H}@{T12}@{FFFF}%bulk\n@{FFF9}@{HuittInfoHP}Puntos de Salud:@{H}@{T12}@{FFFF}%hp \/ %hpmax\n@{FFF9}@{HuittToolCraftType}Tipo de Herramienta:@{H}@{T12}@{FFFF}%tool\n%cansell\n@{FFF9}@{HuittInfoRequirement}Prerequisitos:@{H}@{T12}@{FFFF}%caracreq@{FFFF}%skillreq@{FFFF}%skillreq2\n%buffs\n%special_effects\n\n@{FFFF}%desc%custom_text"
@@ -10692,40 +11421,40 @@
         "name": "%p %n %s"
     },
     "uihelpitemfocusbonus": {
-        "name": "@{FFF9}Bonus de Concentración:@{T12}@{2F2F}%val\n"
+        "name": "@{FFF9}Bonus de Concentración:@{T12}@{2F2F}%val"
     },
     "uihelpitemfocusmalus": {
-        "name": "@{FFF9}Penalización de Concentración:@{T12}@{F44F}%val\n"
+        "name": "@{FFF9}Penalización de Concentración:@{T12}@{F44F}%val"
     },
     "uihelpitemharvesttoolformat": {
         "name": "@{FFF9}@{HuittInfoOrigin}Orígen:@{H}@{T12}@{FFFF}%origin\n@{FFF9}@{HuittInfoToolQuality}Calidad:@{H}@{T12}@{FFFF}%quality\n@{FFF9}@{HuittInfoWeight}Peso:@{H}@{T12}@{FFFF}%weight Kg\n@{FFF9}@{HuittInfoBulk}Volumen:@{H}@{T12}@{FFFF}%bulk\n@{FFF9}@{HuittInfoHP}Points de Salud:@{H}@{T12}@{FFFF}%hp \/ %hpmax\n%cansell\n@{FFF9}@{HuittInfoRequirement}Requisitos:@{H}@{T12}@{FFFF}%caracreq@{FFFF}%skillreq@{FFFF}%skillreq2\n%buffs\n%special_effects\n\n@{FFFF}%desc%custom_text"
     },
     "uihelpitemhpbonus": {
-        "name": "@{FFF9}Bonus de Salud:@{T12}@{2F2F}%val\n"
+        "name": "@{FFF9}Bonus de Salud:@{T12}@{2F2F}%val"
     },
     "uihelpitemhpmalus": {
-        "name": "@{FFF9}Penalización de Salud:@{T12}@{F44F}%val\n"
+        "name": "@{FFF9}Penalización de Salud:@{T12}@{F44F}%val"
     },
     "uihelpitemjewelformat": {
         "name": "@{FFF9}@{HuittInfoOrigin}Orígen:@{H}@{T10}@{FFFF}%origin\n@{FFF9}@{HuittInfoJewelryQuality}Calidad:@{H}@{T10}@{FFFF}%quality\n@{FFF9}@{HuittInfoWeight}Peso:@{H}@{T10}@{FFFF}%weight Kg\n@{FFF9}@{HuittInfoBulk}Volumen:@{H}@{T10}@{FFFF}%bulk\n@{FFF9}@{HuittInfoHP}Puntos de Salud:@{H}@{T10}@{FFFF}%hp\/%hpmax\n%cansell\n@{FFF9}@{HuittInfoRequirement}Requisitos:@{H}@{T12}@{FFFF}%caracreq@{FFFF}%skillreq@{FFFF}%skillreq2\n\n%magic_protection%magic_resistance%buffs%desc%enchantment%custom_text"
     },
     "uihelpitemmagicbonusall": {
-        "name": "@{FFF9}Bonus para Toda la Magia:\n@{T3}Velocidad de Lanzamiento:@{T14}@{FFFF}%cs%@{FFF9}\n@{T3}Poder:@{T14}@{FFFF}%mp%\n"
+        "name": "@{FFF9}Bonus para Toda la Magia:\n@{T3}Velocidad de Lanzamiento:@{T14}@{FFFF}%cs%@{FFF9}\n@{T3}Poder:@{T14}@{FFFF}%mp%"
     },
     "uihelpitemmagicbonusdefaffliction": {
-        "name": "@{FFF9}Bonus para Magia Defensiva Aflictiva:\n@{T3}Velocidad de Lanzamiento:@{T14}@{FFFF}%cs%@{FFF9}\n@{T3}Poder:@{T14}@{FFFF}%mp%\n"
+        "name": "@{FFF9}Bonus para Magia Defensiva Aflictiva:\n@{T3}Velocidad de Lanzamiento:@{T14}@{FFFF}%cs%@{FFF9}\n@{T3}Poder:@{T14}@{FFFF}%mp%"
     },
     "uihelpitemmagicbonusdefheal": {
-        "name": "@{FFF9}Bonus para Magia Defensiva de Sanación:\n@{T3}Velocidad de Lanzamiento:@{T14}@{FFFF}%cs%@{FFF9}\n@{T3}Poder:@{T14}@{FFFF}%mp%\n"
+        "name": "@{FFF9}Bonus para Magia Defensiva de Sanación:\n@{T3}Velocidad de Lanzamiento:@{T14}@{FFFF}%cs%@{FFF9}\n@{T3}Poder:@{T14}@{FFFF}%mp%"
     },
     "uihelpitemmagicbonusheader": {
-        "name": "@{FFFF}Bonus Mágico@{FFF9} si el hechizo tiene una Nivel de Hechizo inferior o igual a @{FFFF}%mglvl@{FFF9}):\n"
+        "name": "@{FFFF}Bonus Mágico@{FFF9} si el hechizo tiene una Nivel de Hechizo inferior o igual a @{FFFF}%mglvl@{FFF9}):"
     },
     "uihelpitemmagicbonusoffaffliction": {
-        "name": "@{FFF9}Bono para Magia Aflictiva Ofensiva:\n@{T3}Velocidad de Lanzamiento:@{T14}@{FFFF}%cs%@{FFF9}\n@{T3}Poder:@{T14}@{FFFF}%mp%\n"
+        "name": "@{FFF9}Bono para Magia Aflictiva Ofensiva:\n@{T3}Velocidad de Lanzamiento:@{T14}@{FFFF}%cs%@{FFF9}\n@{T3}Poder:@{T14}@{FFFF}%mp%"
     },
     "uihelpitemmagicbonusoffelemental": {
-        "name": "@{FFF9}Bonus para Magia Elemental Ofensiva:\n@{T3}Velocidad de Lanzamiento:@{T14}@{FFFF}%cs%@{FFF9}\n@{T3}Poder:@{T14}@{FFFF}%mp%\n"
+        "name": "@{FFF9}Bonus para Magia Elemental Ofensiva:\n@{T3}Velocidad de Lanzamiento:@{T14}@{FFFF}%cs%@{FFF9}\n@{T3}Poder:@{T14}@{FFFF}%mp%"
     },
     "uihelpitemmeleeweaponformat": {
         "name": "@{FFF9}@{HuittInfoOrigin}Orígen:@{H}@{T10}@{FFFF}%origin\n@{FFF9}@{HuittInfoWeaponQuality}Calidad:@{H}@{T10}@{FFFF}%quality\n@{FFF9}@{HuittInfoWeight}Peso:@{H}@{T10}@{FFFF}%weight Kg\n@{FFF9}@{HuittInfoBulk}Volumen:@{H}@{T10}@{FFFF}%bulk\n@{FFF9}@{HuittInfoHP}Puntos de Salud:@{H}@{T10}@{FFFF}%hp\/%hpmax\n@{FFF9}@{HuittInfoWeaponSapLoad}Carga de Savia:@{H}@{T10}@{FFFF}%sap\/%sapmax\n@{FFF9}@{HuittInfoItemSkill}Habilidad:@{H}@{T10}@{FFFF}%skill\n%cansell\n@{FFF9}@{HuittInfoRequirement}Requisitos: @{H}@{T10}@{FFFF}%caracreq@{FFFF}%skillreq@{FFFF}%skillreq2\n\n@{FFF9}@{HuittInfoDamageType}Tipo de Daño:@{H}@{T14}@{FFFF}%dmtype\n@{FFF9}@{HuittInfoWeaponDamage}Daño:@{H}@{T14}@{FFFF}%dmg (@{T12}@{FFFF}%max_dmg)\n@{FFF9}@{HuittInfoWeaponHitMin}Golpe\/Minuto:@{H}@{T14}@{FFFF}%speed\n@{FFF9}@{HuittInfoWeaponReach}Alcance:@{H}@{T14}@{FFFF}%reach\n@{FFF9}@{HuittInfoDodgeMod}Modificador de Evasión:@{H}@{T20}@{FFFF}%dodge\n@{FFF9}@{HuittInfoParryMod}Modificador de Bloqueo:@{H}@{T20}@{FFFF}%parry\n@{FFF9}@{HuittInfoTargetDodgeMod}Modificador Evasión Adversario:@{H}@{T20}@{FFFF}%adv_dodge\n@{FFF9}@{HuittInfoTargetParryMod}Modificador Bloqueo Adversario:@{H}@{T20}@{FFFF}%adv_parry\n@{FFF9}@{HuittInfoMalus}Action Malus:@{H}@{T20}@{FFFF}+%actmalus\n%magic_bonus%buffs%special_effects%skill_mod_vs_type%desc%custom_text%enchantment"
@@ -10734,31 +11463,31 @@
         "name": "Todas las partes de un Objeto"
     },
     "uihelpitemmpcraft": {
-        "name": "@{FFF9}Puedes usarse para Fabricar:\n@{FFFF}@{T2}%ip\n"
+        "name": "@{FFF9}Puedes usarse para Fabricar:\n@{FFFF}@{T2}%ip"
     },
     "uihelpitemmpcraftrequirement": {
-        "name": "@{FFF9}Usado como un componente en la fabricación de objetos especiales.@{FFFF}\n"
+        "name": "@{FFF9}Usado como un componente en la fabricación de objetos especiales.@{FFFF}"
     },
     "uihelpitemmpformat": {
         "name": "@{FFF9}@{HuittInfoMpQuality}Calidad:@{H}@{T10}@{FFFF}%quality\n@{FFF9}@{HuittInfoWeight}Peso:@{H}@{T10}@{FFFF}%weight Kg\n@{FFF9}@{HuittInfoBulk}Volumen:@{H}@{T10}@{FFFF}%bulk\n%cansell\n@{FFF9}@{HuittInfoMpEco}Ecosistema:@{H}@{T10}@{FFFF}%ecosystem\n@{FFF9}@{HuittInfoMpFam}Familia:@{H}@{T10}@{FFFF}%family\n@{FFF9}@{HuittInfoMpColor}Color:@{H}@{T10}@{FFFF}%mpcolor\n@{FFFF}%desc\n%craft"
     },
     "uihelpitemmpnocraft": {
-        "name": "@{FFF9}Este es un objeto de misión y no puede ser usado para Fabricar.@{FFFF}\n"
+        "name": "@{FFF9}Este es un objeto de misión y no puede ser usado para Fabricar.@{FFFF}"
     },
     "uihelpitemnorent": {
         "name": "@{F80B}Objeto Sin Renta: @{FFFF}"
     },
     "uihelpitemnorentdesc": {
-        "name": "@{F80B}Este objeto será destruido pocos minutos después de desconectarte.@{FFFF}\n"
+        "name": "@{F80B}Este objeto será destruido pocos minutos después de desconectarte.@{FFFF}"
     },
     "uihelpitemrangeweaponformat": {
         "name": "@{FFF9}@{HuittInfoOrigin}Orígen:@{H}@{T10}@{FFFF}%origin\n@{FFF9}@{HuittInfoWeaponQuality}Calidad:@{H}@{T10}@{FFFF}%quality\n@{FFF9}@{HuittInfoWeight}Peso:@{H}@{T10}@{FFFF}%weight Kg\n@{FFF9}@{HuittInfoBulk}Volumen:@{H}@{T10}@{FFFF}%bulk\n@{FFF9}@{HuittInfoHP}Puntos de Salud:@{H}@{T10}@{FFFF}%hp\/%hpmax\n@{FFF9}@{HuittInfoWeaponSapLoad}Carga de Savia:@{H}@{T10}@{FFFF}%sap\/%sapmax\n@{FFF9}@{HuittInfoItemSkill}Habilidad:@{H}@{T10}@{FFFF}%skill\n%cansell\n@{FFF9}@{HuittInfoRequirement}Requisitos:@{H}@{T10}@{FFFF}%caracreq@{FFFF}%skillreq@{FFFF}%skillreq2\n\n@{FFF9}@{HuittInfoWeaponRDamage}Daño:@{H}@{T12}@{FFFF}%dmg (@{T12}@{FFFF}%max_dmg)\n@{FFF9}@{HuittInfoWeaponRHitMin}Golpe\/Minuto:@{H}@{T12}@{FFFF}%speed\n@{FFF9}@{HuittInfoWeaponRange}Alcance:@{H}@{T12}@{FFFF}%range\n@{FFF9}@{HuittInfoDodgeMod}Modificador de Evasión :@{H}@{T20}@{FFFF}%dodge\n@{FFF9}@{HuittInfoParryMod}Modificador de Bloqueo:@{H}@{T20}@{FFFF}%parry\n@{FFF9}@{HuittInfoTargetDodgeMod}Modificador Evasión Adversario:@{H}@{T20}@{FFFF}%adv_dodge\n@{FFF9}@{HuittInfoTargetParryMod}Modificador Bloqueo Adversario:@{H}@{T20}@{FFFF}%adv_parry\n@{FFF9}@{HuittInfoMalus}Malus de Acción:@{H}@{T20}@{FFFF}+%actmalus\n%magic_bonus%buffs%special_effects%skill_mod_vs_type%desc%custom_text%enchantment"
     },
     "uihelpitemsapbonus": {
-        "name": "@{FFF9}Bonus de Savia:@{T12}@{2F2F}%val\n"
+        "name": "@{FFF9}Bono de Savia:@{T12}@{2F2F}%val"
     },
     "uihelpitemsapmalus": {
-        "name": "@{FFF9}Penalización de Savia:@{T12}@{F44F}%val\n"
+        "name": "@{FFF9}Penalización de Savia:@{T12}@{F44F}%val"
     },
     "uihelpitemscroll": {
         "name": "%custom_text"
@@ -10776,10 +11505,10 @@
         "name": "@{F80B}%d en %s"
     },
     "uihelpitemstabonus": {
-        "name": "@{FFF9}Bonus de Resistencia:@{T12}@{2F2F}%val\n"
+        "name": "@{FFF9}Bono de Resistencia:@{T12}@{2F2F}%val"
     },
     "uihelpitemstamalus": {
-        "name": "@{FFF9}Penalización de Resistencia:@{T12}@{F44F}%val\n"
+        "name": "@{FFF9}Penalización de Resistencia:@{T12}@{F44F}%val"
     },
     "uihelpitemtamingtoolformat": {
         "name": "@{FFF9}@{HuittInfoOrigin}Orígen:@{H}@{T12}@{FFFF}%origin\n@{FFF9}@{HuittInfoToolQuality}Calidad:@{H}@{T12}@{FFFF}%quality\n@{FFF9}@{HuittInfoWeight}Peso:@{H}@{T12}@{FFFF}%weight Kg\n@{FFF9}@{HuittInfoBulk}Volumen:@{H}@{T12}@{FFFF}%bulk\n@{FFF9}@{HuittInfoHP}Puntos de Salud:@{H}@{T12}@{FFFF}%hp \/ %hpmax\n@{FFF9}@{HuittInfoItemSkill}Habilidad:@{H}@{T12}@{FFFF}%skill\n%cansell\n@{FFF9}Rango del Comando :@{T12}@{FFFF}%cmdrange\n@{FFF9}Max. de Animales de Carga :@{T12}@{FFFF}%maxpacker\n\n@{FFFF}%desc%custom_text"
@@ -10788,43 +11517,43 @@
         "name": "Para usar, hacer clic derecho y seleccionar\n\"USAR TELEPORTADOR\"\n\n\n%cansell\n%desc%custom_text"
     },
     "uihelpmagicprotectformat": {
-        "name": "@{T4}@{FFF9}%t:@{T18}@{FFFF}+%v%\n"
+        "name": "@{T4}@{FFF9}%t:@{T18}@{FFFF}+%v%"
     },
     "uihelpmagicprotectformatheader": {
-        "name": "@{FFF9}@{HuittInfoProt}Protecciones:@{H}\n"
+        "name": "@{FFF9}@{HuittInfoProt}Protecciones:@{H}"
     },
     "uihelpmagicprotectmaxabsorbformat": {
-        "name": "@{T4}@{FFF9}Máximo Absorbido:@{T18}@{FFFF}+%v\n"
+        "name": "@{T4}@{FFF9}Máximo Absorbido:@{T18}@{FFFF}+%v"
     },
     "uihelpmagicresistformat": {
-        "name": "@{T4}@{FFF9}%t:@{T18}@{FFFF}+%v\n"
+        "name": "@{T4}@{FFF9}%t:@{T18}@{FFFF}+%v"
     },
     "uihelpmagicresistformatheader": {
-        "name": "@{FFF9}@{HuittInfoResist}Resistencia:@{H}\n"
+        "name": "@{FFF9}@{HuittInfoResist}Resistencia:@{H}"
     },
     "uihelpmission": {
         "name": "Detalles de la Misión"
     },
     "uihelpmpnone": {
-        "name": "@{T4}Ninguno\n"
+        "name": "@{T4}Ninguno"
     },
     "uihelpobformat_driller": {
         "name": "@{FFFF}%name\n\n@{FFF9}Esta construcción es un taladro, capaz extraer materias primas.\n\n@{FFF9}Sólo puede haber un taladro por puesto de avanzada.\n\n@{FFF9}Tiempo de instalación: @{T12}@{FFFF}%costtime\n@{FFF9}Coste de instalación: @{T12}@{FFFF}%costdapper\n\n@{FFFF}--- Materiales Extraídos ---\n@{FFF9}Este taladro extrae materiales de nivel @{FFFF}%lvl"
     },
     "uihelpobformat_empty": {
-        "name": "@{FFFF}Este es un terreno de construcción.\nAl construir en este espacio la construcción actual será destruida.\nNo obstante, serás capaz de construir uno nuevo.\n\n@{FFF9}Tiempo de construcción: @{T12}@{FFFF}%costtime\n@{FFF9}Coste de construcción: @{T12}@{FFFF}%costdapper\n"
+        "name": "@{FFFF}Este es un terreno de construcción.\nAl construir en este espacio la construcción actual será destruida.\nNo obstante, serás capaz de construir uno nuevo.\n\n@{FFF9}Tiempo de construcción: @{T12}@{FFFF}%costtime\n@{FFF9}Coste de construcción: @{T12}@{FFFF}%costdapper"
     },
     "uihelpobformat_townhall": {
-        "name": "@{FFFF}Esta es el Salón del Puesto de Avanzada.\nEste edificio da acceso al inventario del gremio cuando uno está cerca.\nSe adquiere de manera automática cuando se gana el Puesto de Avanzada.\n"
+        "name": "@{FFFF}Esta es el Salón del Puesto de Avanzada.\nEste edificio da acceso al inventario del gremio cuando uno está cerca.\nSe adquiere de manera automática cuando se gana el Puesto de Avanzada."
     },
     "uihelpoutpostbuilding": {
         "name": "Detalles de Construcción"
     },
     "uihelppactformat": {
-        "name": "@{FFF9}Nivel:@{T12}@{FFFF}%lvl\n@{FFF9}Puntos de salud perdidos:@{T12}@{FFFF}%hp\n@{FFF9}Resistencia perdida:@{T12}@{FFFF}%sta\n@{FFF9}Savia perdida:@{T12}@{FFFF}%sap\n@{FFF9}Habilidades perdidas:@{T12}@{FFFF}%skill\n"
+        "name": "@{FFF9}Nivel:@{T12}@{FFFF}%lvl\n@{FFF9}Puntos de salud perdidos:@{T12}@{FFFF}%hp\n@{FFF9}Resistencia perdida:@{T12}@{FFFF}%sta\n@{FFF9}Savia perdida:@{T12}@{FFFF}%sap\n@{FFF9}Habilidades perdidas:@{T12}@{FFFF}%skill"
     },
     "uihelpphrasebrickrequirement": {
-        "name": "@{FFF9}@{HuittActionStanzaReq}Estancias requeridas:@{H}@{FFFF}\n"
+        "name": "@{FFF9}@{HuittActionStanzaReq}Estancias requeridas:@{H}@{FFFF}"
     },
     "uihelpphrasecharacteristic": {
         "name": "@{FFFF}Esta es una actualización que aumenta algunas características.\nNo puedes lanzarlo ni ponerlo en tu barra de acción.\n@{FFFF}%desc%req"
@@ -10836,49 +11565,49 @@
         "name": "@{FFF9}Nombre de Acción:@{T12}@{FFFF}%name\n@{FFF9}Coste de Acción:@{T12}@{FFFF}%cost\n@{FFF9}Crédito de Acción:@{T12}@{FFFF}%credit\n\n%compostart@{FFF9}@{HuittActionSuccessRateSC}Tasa de Éxito:@{H}@{T14}@{FFFF}Depende del objeto fabricado.\n@{FFF9}Duración de Acción:@{T14}@{FFFF}%duration segundos\n@{FFF9}Coste de Concentración:@{T14}@{FFFF}%energy_cost\n@{FFFF}%desc%req"
     },
     "uihelpphrasecrystalspellformat": {
-        "name": "@{FFFF}--- Encantamiento ---\n@{FFF9}Este objeto puede encantar un arma con este acción:\n@{FFF9}Coste de Acción:@{T12}@{FFFF}%cost\n@{FFF9}Crédito de Acción:@{T12}@{FFFF}%credit\n\n@{FFF9}Las Acciones en los objetos encantados siempre tienen éxito\n@{FFF9}Duración del Lanzamiento:@{T14}@{FFFF}%duration segundos\n@{FFF9}Coste de Savia:@{T14}@{FFFF}%energy_cost\n@{FFF9}Coste de Salud:@{T14}@{FFFF}%hp_cost\n@{FFF9}Alcance:@{T14}@{FFFF}%range\n"
+        "name": "@{FFFF}--- Encantamiento ---\n@{FFF9}Este objeto puede encantar un arma con este acción:\n@{FFF9}Coste de Acción:@{T12}@{FFFF}%cost\n@{FFF9}Crédito de Acción:@{T12}@{FFFF}%credit\n\n@{FFF9}Las Acciones en los objetos encantados siempre tienen éxito\n@{FFF9}Duración del Lanzamiento:@{T14}@{FFFF}%duration segundos\n@{FFF9}Coste de Savia:@{T14}@{FFFF}%energy_cost\n@{FFF9}Coste de Salud:@{T14}@{FFFF}%hp_cost\n@{FFF9}Alcance:@{T14}@{FFFF}%range"
     },
     "uihelpphraseenchantmentformat": {
-        "name": "@{FFFF}--- Encantamiento ---\n@{FFF9}Este objeto está encantado con esta acción:\n@{FFF9}Coste de Acción:@{T12}@{FFFF}%cost\n@{FFF9}Crédito de Acción:@{T12}@{FFFF}%credit\n\n@{FFF9}Las Acciones en objetos encantados siempre tiene éxito\n@{FFF9}Duración del Lanzamiento:@{T14}@{FFFF}%duration segundos\n@{FFF9}Coste de Savia:@{T14}@{FFFF}%energy_cost\n@{FFF9}Coste de Salud:@{T14}@{FFFF}%hp_cost\n@{FFF9}Alcance:@{T14}@{FFFF}%range\n"
+        "name": "@{FFFF}--- Encantamiento ---\n@{FFF9}Este objeto está encantado con esta acción:\n@{FFF9}Coste de Acción:@{T12}@{FFFF}%cost\n@{FFF9}Crédito de Acción:@{T12}@{FFFF}%credit\n\n@{FFF9}Las Acciones en objetos encantados siempre tiene éxito\n@{FFF9}Duración del Lanzamiento:@{T14}@{FFFF}%duration segundos\n@{FFF9}Coste de Savia:@{T14}@{FFFF}%energy_cost\n@{FFF9}Coste de Salud:@{T14}@{FFFF}%hp_cost\n@{FFF9}Alcance:@{T14}@{FFFF}%range"
     },
     "uihelpphraseforageextractionformat": {
         "name": "@{FFF9}Nombre de Acción:@{T12}@{FFFF}%name\n@{FFF9}Coste de Acción:@{T12}@{FFFF}%cost\n@{FFF9}Crédito de Acción:@{T12}@{FFFF}%credit\n\n%compostart%suc_forage@{FFF9}Duración del Lanzamiento:@{T16}@{FFFF}%duration segundos\n@{FFF9}Coste de Concentración:@{T16}@{FFFF}%energy_cost\n@{FFFF}%desc%req"
     },
     "uihelpphraseforagesuccessall": {
-        "name": "@{FFF9}@{HuittActionSuccessRateSH}Tasa de Éxito@{H} (Desierto\/Bosque\/Selva\/Lagos\/Raíces Primarias):\n@{T4}@{FFFF}%suc_desert%@{FFF9} \/ @{FFFF}%suc_forest%@{FFF9} \/ @{FFFF}%suc_jungle%@{FFF9} \/ @{FFFF}%suc_lake%@{FFF9} \/ @{FFFF}%suc_prime%\n"
+        "name": "@{FFF9}@{HuittActionSuccessRateSH}Tasa de Éxito@{H} (Desierto\/Bosque\/Selva\/Lagos\/Raíces Primarias):\n@{T4}@{FFFF}%suc_desert%@{FFF9} \/ @{FFFF}%suc_forest%@{FFF9} \/ @{FFFF}%suc_jungle%@{FFF9} \/ @{FFFF}%suc_lake%@{FFF9} \/ @{FFFF}%suc_prime%"
     },
     "uihelpphraseforagesuccessdesert": {
-        "name": "@{FFF9}@{HuittActionSuccessRateSH}Tasa de Éxito@{H} En el Desierto:@{T16}@{FFFF}%suc_desert\n"
+        "name": "@{FFF9}@{HuittActionSuccessRateSH}Tasa de Éxito@{H} En el Desierto:@{T16}@{FFFF}%suc_desert"
     },
     "uihelpphraseforagesuccessforest": {
-        "name": "@{FFF9}@{HuittActionSuccessRateSH}Tasa de Éxito@{H} En el Bosque:@{T16}@{FFFF}%suc_forest\n"
+        "name": "@{FFF9}@{HuittActionSuccessRateSH}Tasa de Éxito@{H} En el Bosque:@{T16}@{FFFF}%suc_forest"
     },
     "uihelpphraseforagesuccessjungle": {
-        "name": "@{FFF9}@{HuittActionSuccessRateSH}Tasa de Éxito@{H} En la Selva:@{T16}@{FFFF}%suc_jungle\n"
+        "name": "@{FFF9}@{HuittActionSuccessRateSH}Tasa de Éxito@{H} En la Selva:@{T16}@{FFFF}%suc_jungle"
     },
     "uihelpphraseforagesuccesslacustre": {
-        "name": "@{FFF9}@{HuittActionSuccessRateSH}Tasa de Éxito@{H} En los Lagos:@{T16}@{FFFF}%suc_lake\n"
+        "name": "@{FFF9}@{HuittActionSuccessRateSH}Tasa de Éxito@{H} En los Lagos:@{T16}@{FFFF}%suc_lake"
     },
     "uihelpphraseforagesuccessprimaryroot": {
-        "name": "@{FFF9}@{HuittActionSuccessRateSH}Tasa de Éxito@{H} En las Raíces Primarias:@{T16}@{FFFF}%suc_prime\n"
+        "name": "@{FFF9}@{HuittActionSuccessRateSH}Tasa de Éxito@{H} En las Raíces Primarias:@{T16}@{FFFF}%suc_prime"
     },
     "uihelpphraseheaderbricks": {
-        "name": "  @{FFFF}--- Estrofas ---"
+        "name": "@{FFFF}--- Estrofas ---"
     },
     "uihelpphrasemagicformat": {
         "name": "@{FFF9}Nombre de la Acción:@{T12}@{FFFF}%name\n@{FFF9}Coste de Acción:@{T12}@{FFFF}%cost\n@{FFF9}Crédito de Acción:@{T12}@{FFFF}%credit\n@{FFF9}@{HuittActionSpellLevel}Nivel de Hechizo:@{H}@{T12}@{FFFF}%mglvl\n%magicresist\n%compostart@{FFF9}@{HuittActionSuccessRateSM}Tasa de Éxito:@{H}@{T14}@{FFFF}%success%\n@{FFF9}Duración del Lanzamiento:@{T14}@{FFFF}%duration segundos\n@{FFF9}Coste de Savia:@{T14}@{FFFF}%energy_cost\n@{FFF9}Coste de Salud:@{T14}@{FFFF}%hp_cost\n@{FFF9}Alcance:@{T14}@{FFFF}%range\n@{FFFF}%desc%req"
     },
     "uihelpphrasemagicresist": {
-        "name": "@{FFF9}Dominio Mágico:\n@{T4}@{FFFF}%t\n"
+        "name": "@{FFF9}Dominio Mágico:\n@{T4}@{FFFF}%t"
     },
     "uihelpphrasenotcastableformat": {
-        "name": "@{FFFF}Esta es una actulización de acción que te enseña algunos ladrillos nuevos.\nNo puedes lanzarlo ni ponerlo en tu barra de acción.\n@{FFFF}%desc%req"
+        "name": "@{FFFF}Esta es una actualización de acción que te enseña estrofas nuevas.\nNo puedes memorizarlo ni lanzarlo.\n@{FFFF}%desc%req"
     },
     "uihelpphraseotherformat": {
         "name": "@{FFF9}Nombre de Acción :@{T12}@{FFFF}%name\n@{FFF9}Coste de Acción:@{T12}@{FFFF}%cost\n@{FFF9}Crédito de Acción:@{T12}@{FFFF}%credit\n\n%compostart@{FFF9}Tasa de Éxito:@{T16}@{FFFF}%success%\n@{FFF9}Duración del Lanzamiento:@{T16}@{FFFF}%duration segundos\n@{FFF9}Coste de Concentración:@{T16}@{FFFF}%energy_cost\n@{FFFF}%desc%req"
     },
     "uihelpphraseprocenchantment": {
-        "name": "@{FFFF}Con esta acción activas el encantamiento del objeto en tu mano derecha.\n\nSi el objeto en tu mano derecha no está encantado, esta acción no puede ser ejecutada.\n"
+        "name": "@{FFFF}Con esta acción activas el encantamiento del objeto en tu mano derecha.\n\nSi el objeto en tu mano derecha no está encantado, esta acción no puede ser ejecutada."
     },
     "uihelpphraserangemeters": {
         "name": "%dist metros"
@@ -10887,16 +11616,16 @@
         "name": "Yo"
     },
     "uihelpphraserequirementheader": {
-        "name": "@{FFFF}--- Requisitos ---\n@{FFF9}@{HuittActionSkillPoint}Coste de Puntos de Habilidad:@{H}@{T16}@{FFFF}%sp\/%basesp\n@{FFF9}@{HuittActionSkillReq}Habilidades Necesarias:@{H}\n"
+        "name": "@{FFFF}--- Requisitos ---\n@{FFF9}@{HuittActionSkillPoint}Coste de Puntos de Habilidad:@{H}@{T16}@{FFFF}%sp\/%basesp\n@{FFF9}@{HuittActionSkillReq}Habilidades Necesarias:@{H}"
     },
     "uihelpphraserequirementline": {
-        "name": "@{T4}@{FFFF}%s@{FFF9} en nivel @{FFFF}%d\n"
+        "name": "@{T4}@{FFFF}%s@{FFF9} en nivel @{FFFF}%d"
     },
     "uihelpphraserequirementnotmetline": {
-        "name": "@{T4}@{F80F}%s@{F80B} en nivel @{F80F}%d\n"
+        "name": "@{T4}@{F80F}%s@{F80B} en nivel @{F80F}%d"
     },
     "uihelpphraserequirementor": {
-        "name": "@{FFFF}O\n"
+        "name": "@{FFFF}O"
     },
     "uihelpphrasespecialpowerformat": {
         "name": "@{FFF9}Nombre de Acción:@{T12}@{FFFF}%name\n@{FFF9}Coste de Acción:@{T12}@{FFFF}%cost\n@{FFF9}Crédito de Acción:@{T12}@{FFFF}%credit\n\n%compostart@{FFF9}Alcance:@{T12}@{FFFF}%range\n@{FFFF}%desc%req"
@@ -10926,7 +11655,7 @@
         "name": "INFORMACIÓN"
     },
     "uihelptooltype": {
-        "name": "Tipo de Herramienta: "
+        "name": "Tipo de Herramienta:"
     },
     "uihelpzccharge": {
         "name": "Detalles de la Zona"
@@ -11331,7 +12060,7 @@
         "name": "@{2F2F}%p%@{FFFF} oportunidad de que el próximo lanzamiento no aplique créditos de tiempo, siempre que sea menor a @{2F2F}%r @{FFFF}segundos."
     },
     "uiitemmpcancraft": {
-        "name": "Puedes fabricar: "
+        "name": "Puedes fabricar:"
     },
     "uiitemmpcraftrequirement": {
         "name": "Necesario para la fabricación de objetos especiales"
@@ -11550,7 +12279,7 @@
         "name": "¿Desea unirse a la sala de chat?"
     },
     "uijoinclanproposaldesc": {
-        "name": "Entras en un area JcJ de Clan. Escoge un Clan o permanece Neutral. Atención: ¡Escoger un Clan puede afectar a tu fama! "
+        "name": "Entras en un area JcJ de Clan. Escoge un Clan o permanece Neutral. Atención: ¡Escoger un Clan puede afectar a tu fama!"
     },
     "uijoinclanproposaltitle": {
         "name": "JcJ de Clan"
@@ -12129,7 +12858,7 @@
         "name": "APRENDER"
     },
     "uilearnfrom": {
-        "name": "Aprender de "
+        "name": "Aprender de"
     },
     "uilegs": {
         "name": "PIERNAS"
@@ -12384,10 +13113,10 @@
         "name": "Que tenga un buen  día en Atys..."
     },
     "uiloadingstring47": {
-        "name": "¡Oh Dios mio!, mira, ¡Un Yubo volando!  "
+        "name": "Cavando una tumba..."
     },
     "uiloadingstring48": {
-        "name": "Perdone a los Yubos, quien sabe, quizás algún día, ¿Le salven la vida?  "
+        "name": "Perdone a los Yubos, quien sabe, quizás algún día, ¿Le salven la vida?"
     },
     "uiloadingstring49": {
         "name": "Yubos, ¡Probablemente tus mejores amigos!"
@@ -12408,7 +13137,7 @@
         "name": "Repostando las puertas de las ciudades Fyros..."
     },
     "uiloadingstring6": {
-        "name": "¿Donde estoy? "
+        "name": "¿Donde estoy?"
     },
     "uiloadingstring7": {
         "name": "Escondiendo cosas en el suelo..."
@@ -12612,7 +13341,7 @@
         "name": "Magia"
     },
     "uimagiccreatenewspell": {
-        "name": "NUEVO HECHIZO : "
+        "name": "NUEVO HECHIZO :"
     },
     "uimagiceditdifficulty": {
         "name": "DIFICULTAD"
@@ -13245,7 +13974,7 @@
         "name": "Mostrar estandarte de la facción"
     },
     "uimissionand": {
-        "name": " -    "
+        "name": "-"
     },
     "uimissioncatalog": {
         "name": "Abrir Diario de Misiones"
@@ -13263,7 +13992,7 @@
         "name": "???"
     },
     "uimissionor": {
-        "name": "o "
+        "name": "o"
     },
     "uimissionprereq": {
         "name": "Prerequisitos:"
@@ -13359,7 +14088,7 @@
         "name": "Retirada"
     },
     "uimk_action5_1_tt": {
-        "name": "Click para @{6F6F}Retirada@{FFFF}"
+        "name": "Click para @{6F6F}Desconectar@{FFFF}"
     },
     "uimk_action6": {
         "name": "Extraer"
@@ -13680,7 +14409,13 @@
         "name": "MOCHILA"
     },
     "uimmtguild": {
-        "name": "GREMIO"
+        "name": "GH 1"
+    },
+    "uimmtguild2": {
+        "name": "GH 2"
+    },
+    "uimmtguildother": {
+        "name": "Otro cofre del gremio"
     },
     "uimmtpademon0": {
         "name": "DEMONIO 1"
@@ -13886,6 +14621,9 @@
     "uimoveturnright": {
         "name": "Girar a la Derecha"
     },
+    "uimovingtargetwarning": {
+        "name": "Esta es la posición del objetivo al inicio de este \"Evento Dinámico\". Tenga cuidado, ¡algunos objetivos se mueven!"
+    },
     "uimp3next": {
         "name": "Siguiente"
     },
@@ -13981,6 +14719,15 @@
     },
     "uimsort": {
         "name": "Ordenar"
+    },
+    "uimsortbyindex": {
+        "name": ""
+    },
+    "uimsortbyname": {
+        "name": ""
+    },
+    "uimsortbyonline": {
+        "name": ""
     },
     "uimsortname": {
         "name": "Ordenar: NOMBRE"
@@ -14277,7 +15024,7 @@
         "name": "CHAT DE FIESTA NUEVA"
     },
     "uinewspell": {
-        "name": "Nuevo Hechizo: "
+        "name": "Nuevo Hechizo:"
     },
     "uinewtitlebold": {
         "name": "HAS GANADO UN NUEVO TÍTULO:"
@@ -14295,7 +15042,7 @@
         "name": "Siguiente"
     },
     "uinightwarningcontent": {
-        "name": "Es de noche en Atys.\n\nPuedes eliminar tus alrededores presionando 'L' (por defecto) en tu teclado.\n"
+        "name": "Es de noche en Atys.\n\nPuedes eliminar tus alrededores presionando 'L' (por defecto) en tu teclado."
     },
     "uinightwarningtitle": {
         "name": "Noche"
@@ -14397,7 +15144,7 @@
         "name": "PNJ"
     },
     "uinpcgiver": {
-        "name": "DADOR: "
+        "name": "DADOR:"
     },
     "uinpctitle": {
         "name": "Título PNJ"
@@ -14467,6 +15214,12 @@
     },
     "uinw": {
         "name": "NO"
+    },
+    "uiocceventbnps": {
+        "name": "Activar texturas OOC (solo durante los eventos)"
+    },
+    "uioccitems": {
+        "name": "Activar apariencias OOC permanentes para los ítem"
     },
     "uioffline": {
         "name": "DESCONECTADO"
@@ -14565,16 +15318,16 @@
         "name": "Antes del Ataque"
     },
     "uioutpostattacker": {
-        "name": "Atacante: "
+        "name": "Atacante:"
     },
     "uioutpostattackround": {
         "name": "Fase de Ataque"
     },
     "uioutpostatthour": {
-        "name": "Horario de Ataque: "
+        "name": "Horario de Ataque:"
     },
     "uioutpostattperiod": {
-        "name": "Fase de Ataque: "
+        "name": "Fase de Ataque:"
     },
     "uioutpostautotimezone": {
         "name": "Auto"
@@ -14583,13 +15336,13 @@
         "name": "No puedes obtener más información sobre los edificios enemigos."
     },
     "uioutpostbuildinginfoowned": {
-        "name": "Edificios en tu Puesto de Avanzada: "
+        "name": "Edificios en tu Puesto de Avanzada:"
     },
     "uioutpostcapital": {
         "name": "COFRE DE GUERRA"
     },
     "uioutpostcapitaldoc": {
-        "name": "En estos momentos los escuadrones que editas aquí no cuestan dappers al gremio.\nSólo cuestan dappers cuando los escuadrones salen para una ronda.\nSin embargo, si el gremio no tiene suficientes dappers para @{6F6F}generar un escuadrón@{FFFF}, se utilizará un escuadrón por defecto (mucho menos poderoso).\nTambién puedes limitar los gastos del escuadrón @{6F6F}a través del Gremio@{FFFF} cambiando los @{6F6F}Cofres@{FFFF} a continuación.\nCada que vez que se @{6F6F}genere un escuadrón@{FFFF}, tanto los @{6F6F}Cofres@{FFFF} del Gremio como del Puesto de Avanzada (de ser posible) se reducirán.\nCada vez que un @{6F6F}escuadrón@{FFFF} regresa con vida (aunque sea parcialmente),los @{6F6F}Cofres@{FFFF} del Gremio y del Puesto de Avanzada aumentarán.\n"
+        "name": "En estos momentos los escuadrones que editas aquí no cuestan dappers al gremio.\nSólo cuestan dappers cuando los escuadrones salen para una ronda.\nSin embargo, si el gremio no tiene suficientes dappers para @{6F6F}generar un escuadrón@{FFFF}, se utilizará un escuadrón por defecto (mucho menos poderoso).\nTambién puedes limitar los gastos del escuadrón @{6F6F}a través del Gremio@{FFFF} cambiando los @{6F6F}Cofres@{FFFF} a continuación.\nCada que vez que se @{6F6F}genere un escuadrón@{FFFF}, tanto los @{6F6F}Capital@{FFFF} del Gremio como del Puesto de Avanzada (de ser posible) se reducirán.\nCada vez que un @{6F6F}escuadrón@{FFFF} regresa con vida (aunque sea parcialmente),los @{6F6F}Cofres@{FFFF} del Gremio y del Puesto de Avanzada aumentarán."
     },
     "uioutpostcapitaleditko": {
         "name": "Sólo un Líder de Gremio o un Alto Oficial puede editar el @{6F6F}Cofre@{FFFF} del Puesto de Avanzada."
@@ -14598,7 +15351,7 @@
         "name": "Hacer click para editar el @{6F6F}Cofre@{FFFF} de guerra del Puesto de Avanzada."
     },
     "uioutpostcapitalheader": {
-        "name": "Cofre: "
+        "name": "Capital:"
     },
     "uioutpostchangecapital": {
         "name": "Cambiar Cofre."
@@ -16721,6 +17474,288 @@
     "uise": {
         "name": "SE"
     },
+    "uisearchcommandall": {
+        "name": "todos"
+    },
+    "uisearchcommandautoresponse": {
+        "name": "Autorespuesta"
+    },
+    "uisearchcommandbotname": {
+        "name": "BotName"
+    },
+    "uisearchcommandbots": {
+        "name": "Bots"
+    },
+    "uisearchcommandbricksheet": {
+        "name": "BrickSheet"
+    },
+    "uisearchcommandchannelname": {
+        "name": "Nombre del canal"
+    },
+    "uisearchcommandcharindex": {
+        "name": "CharIndex"
+    },
+    "uisearchcommandcommand": {
+        "name": "Comando"
+    },
+    "uisearchcommandcontinentname": {
+        "name": "NombreContinente"
+    },
+    "uisearchcommandcount": {
+        "name": "Cuenta"
+    },
+    "uisearchcommanddescription": {
+        "name": "Descripción"
+    },
+    "uisearchcommanddestsessionid": {
+        "name": "DestSessionId"
+    },
+    "uisearchcommanddispersionradius": {
+        "name": "Radio de dispersión"
+    },
+    "uisearchcommandduration": {
+        "name": "Duración"
+    },
+    "uisearchcommandemote": {
+        "name": "Emote"
+    },
+    "uisearchcommandeventfaction": {
+        "name": "EventFaction"
+    },
+    "uisearchcommandeventname": {
+        "name": "EventName"
+    },
+    "uisearchcommandeventnpcgroup": {
+        "name": "EventoNpcGrupo"
+    },
+    "uisearchcommandeventzonename": {
+        "name": "NombreZona"
+    },
+    "uisearchcommandfaction": {
+        "name": "Facción"
+    },
+    "uisearchcommandfactionname": {
+        "name": "Nombre de la facción"
+    },
+    "uisearchcommandfame": {
+        "name": "Fama"
+    },
+    "uisearchcommandfamename": {
+        "name": "FameName"
+    },
+    "uisearchcommandfilename": {
+        "name": "Archivo"
+    },
+    "uisearchcommandfilter": {
+        "name": "Filtro"
+    },
+    "uisearchcommandflagname": {
+        "name": "FlagName"
+    },
+    "uisearchcommandfloat": {
+        "name": "Float"
+    },
+    "uisearchcommandfound": {
+        "name": "Encontrado"
+    },
+    "uisearchcommandguildname": {
+        "name": "GuildName"
+    },
+    "uisearchcommandhelp": {
+        "name": "Ayuda al mando"
+    },
+    "uisearchcommandhex": {
+        "name": "Hex"
+    },
+    "uisearchcommandhighestnumber": {
+        "name": "NúmeroMásAlto"
+    },
+    "uisearchcommandhp": {
+        "name": "Hp"
+    },
+    "uisearchcommandid": {
+        "name": "Id"
+    },
+    "uisearchcommandindex": {
+        "name": "Index"
+    },
+    "uisearchcommandinitdialog": {
+        "name": "\/<comando> o \/? all"
+    },
+    "uisearchcommandinventory": {
+        "name": "Inventario"
+    },
+    "uisearchcommandinventoryid": {
+        "name": "InventoryID"
+    },
+    "uisearchcommanditemname": {
+        "name": "NombreArtículo"
+    },
+    "uisearchcommandleaguename": {
+        "name": "Nombre de la Liga"
+    },
+    "uisearchcommandlowestnumber": {
+        "name": "NúmeroMínimo"
+    },
+    "uisearchcommandmaxslot": {
+        "name": "MaxSlot"
+    },
+    "uisearchcommandmenu_name": {
+        "name": "MENU_NAME"
+    },
+    "uisearchcommandmessage": {
+        "name": "Mensaje"
+    },
+    "uisearchcommandmeter": {
+        "name": "Contador"
+    },
+    "uisearchcommandminslot": {
+        "name": "MinSlot"
+    },
+    "uisearchcommandmissiongiveralias": {
+        "name": "MisiónDadorAlias"
+    },
+    "uisearchcommandmissionidex": {
+        "name": "MisiónIdex"
+    },
+    "uisearchcommandmode": {
+        "name": "Modo"
+    },
+    "uisearchcommandname": {
+        "name": "Nombre"
+    },
+    "uisearchcommandnameaiaction": {
+        "name": "NombreAcción"
+    },
+    "uisearchcommandnameforanswer": {
+        "name": "NombreParaRespuesta"
+    },
+    "uisearchcommandnewguildname": {
+        "name": "NewGuildName"
+    },
+    "uisearchcommandnewplayername": {
+        "name": "NuevoNombreJugador"
+    },
+    "uisearchcommandnumber": {
+        "name": "Número"
+    },
+    "uisearchcommandoutfitgroupname": {
+        "name": "OutfitGroupName"
+    },
+    "uisearchcommandoutpostid": {
+        "name": "OutpostId"
+    },
+    "uisearchcommandparameter": {
+        "name": "Parámetro"
+    },
+    "uisearchcommandpassword": {
+        "name": "Contraseña"
+    },
+    "uisearchcommandpetanimal1": {
+        "name": "MascotaAnimal1"
+    },
+    "uisearchcommandpetnumber": {
+        "name": "PetNumber"
+    },
+    "uisearchcommandpetticket": {
+        "name": "PetTicket"
+    },
+    "uisearchcommandphrase": {
+        "name": "Frase"
+    },
+    "uisearchcommandphrasesheet": {
+        "name": "Hoja de frases"
+    },
+    "uisearchcommandplayereid": {
+        "name": "PlayerEID"
+    },
+    "uisearchcommandplayername": {
+        "name": "NombreJugador"
+    },
+    "uisearchcommandpoints": {
+        "name": "Puntos"
+    },
+    "uisearchcommandpositionx": {
+        "name": "PositionX"
+    },
+    "uisearchcommandpositiony": {
+        "name": "PositionY"
+    },
+    "uisearchcommandpositionz": {
+        "name": "PositionZ"
+    },
+    "uisearchcommandpriv": {
+        "name": "Privilegios"
+    },
+    "uisearchcommandquality": {
+        "name": "Calidad"
+    },
+    "uisearchcommandquantity": {
+        "name": "Cantidad"
+    },
+    "uisearchcommandradius": {
+        "name": "Radio"
+    },
+    "uisearchcommandrange": {
+        "name": "Gama"
+    },
+    "uisearchcommandrespawnpointname": {
+        "name": "RespawnPointName"
+    },
+    "uisearchcommandscalefactor": {
+        "name": "FactorEscala"
+    },
+    "uisearchcommandscriptcommand": {
+        "name": "ScriptCommand"
+    },
+    "uisearchcommandsecound": {
+        "name": "Segundo"
+    },
+    "uisearchcommandshapefile": {
+        "name": "ShapeFile"
+    },
+    "uisearchcommandsheet": {
+        "name": "Sheet"
+    },
+    "uisearchcommandskill": {
+        "name": "Habilidad"
+    },
+    "uisearchcommandskillpoints": {
+        "name": "Puntos de habilidad"
+    },
+    "uisearchcommandslot": {
+        "name": "Ranura"
+    },
+    "uisearchcommandtargetname": {
+        "name": "NombreDestino"
+    },
+    "uisearchcommandtext": {
+        "name": "Texto"
+    },
+    "uisearchcommandticks": {
+        "name": "Garrapatas"
+    },
+    "uisearchcommandtitle": {
+        "name": "Título"
+    },
+    "uisearchcommandtribename": {
+        "name": "TribeName"
+    },
+    "uisearchcommandurl": {
+        "name": "Url"
+    },
+    "uisearchcommandvalue": {
+        "name": "Valor"
+    },
+    "uisearchcommandvariable": {
+        "name": "Variable"
+    },
+    "uisearchcommandwarningparameter": {
+        "name": "Advertencia a muchos argumentos"
+    },
+    "uisearchcommandzonename": {
+        "name": "NombreZona"
+    },
     "uisearchterm": {
         "name": "Término de búsqueda (Opcional)"
     },
@@ -17253,7 +18288,10 @@
         "name": "EQUIPO"
     },
     "uitabinvguild": {
-        "name": "GREMIO"
+        "name": "GH 1"
+    },
+    "uitabinvguild2": {
+        "name": "GH 2"
     },
     "uitabinvpademon0": {
         "name": "DEMONIO 1"
@@ -20060,8 +21098,47 @@
     "undefined": {
         "name": "Indefinido"
     },
+    "universe_desc": {
+        "name": "Estos envían un mensaje al canal universo, que es visible para todos los que estén conectados en ese momento."
+    },
     "unknown": {
         "name": "Desconocido"
+    },
+    "unlearnbrick_desc": {
+        "name": "Jugador especificado desaprende ladrillo dado: <brick sheet>"
+    },
+    "unmount_desc": {
+        "name": "Desmonta tu montura mektoub."
+    },
+    "unmute_desc": {
+        "name": "Anula el silencio de un usuario: <nombre del jugador>"
+    },
+    "unmuteuniverse_desc": {
+        "name": "Desactivar el canal universo"
+    },
+    "unroot_desc": {
+        "name": "Dejar de rootear a un jugador: <nombre del jugador>"
+    },
+    "updateguildmemberslist_desc": {
+        "name": "actualizar la lista de miembros del gremio en los clientes miembros: <nombre del gremio>"
+    },
+    "updatetarget_desc": {
+        "name": "Actualizar el objetivo actual"
+    },
+    "version_desc": {
+        "name": "Muestra la versión actual del cliente (puede ser útil en caso de error)."
+    },
+    "vpx_a_desc": {
+        "name": "Cambiar el cuerpo visual de un grupo npc"
+    },
+    "vpx_b_desc": {
+        "name": "Cambiar el tamaño de un grupo npc"
+    },
+    "vpx_c_desc": {
+        "name": "Cambiar el arma de un grupo npc"
+    },
+    "vpx_desc": {
+        "name": "Cambiar el visual de un grupo npc"
     },
     "warlock": {
         "name": "Brujo"
@@ -20072,8 +21149,17 @@
     "welcome_phrase": {
         "name": "Le doy la bienvenida, joven homin.\nHa mostrado gran coraje al tomar el arriesgado viaje para responder a nuestra llamada de unirse a nosotros en nuestro esfuerzo  para reconstruir nuestro grandioso Reino Matis...{break}\nElogiamos su coraje y le damos la bienvenida entre nosotros.\nAhora, es mi deber contarle más sobre este lugar. Está en una pequeña isla, no muy lejos del continente Matis.\nTenemos cinco pequeños puestos de avanzada en esta isla, y usted está en uno de ellos.\nCada uno de estos puestos tiene Oficiales de Misión, Maestros, Mercaderes y Guardias.\nTambién somos bendicidos por la presencia de un número de representantes Karavan.\nAntes de que parta hacia una de nuestras aldeas, le recomiendo que empiece a mejorar sus habilidades y su equipo.\nSi desea saber más, deberá ir a encontrarse con nuestros Maestros.\nEstán en este edificio, les puede conocer o simplemente salir utilizando el ascensor justo detrás usted."
     },
+    "where_desc": {
+        "name": "Muestra tu ubicación actual como un mensaje flotante en la parte superior de la pantalla, así como en Información del sistema."
+    },
     "whisper": {
         "name": "Susurrar:"
+    },
+    "who_desc": {
+        "name": "Muestra los nombres de todos los jugadores de una región, ordenados por edad de la cuenta. La lista se muestra en Información del sistema."
+    },
+    "who_gm_desc": {
+        "name": "Muestra todos los CSR y GM actualmente en línea. Tenga en cuenta que CSR y GM tienen una bandera especial que pueden activar para ocultar su presencia en línea, incluso de este comando. La lista se muestra en Información del Sistema."
     },
     "windchild": {
         "name": "Hijo del Viento"

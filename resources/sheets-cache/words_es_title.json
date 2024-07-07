@@ -267,6 +267,10 @@
         "name": "Narrador de Atysmas 2621",
         "women_name": "Narradora de Atysmas 2621"
     },
+    "2626_storyteller": {
+        "name": "Narrador de Atysmas 2626",
+        "women_name": "Narradora de Atysmas 2626"
+    },
     "accomplisheddisciple": {
         "name": "Discípulo Consumado Kami",
         "women_name": "Discípula Consumada Kami"
@@ -2554,6 +2558,10 @@
     "fournisseur_datysoel": {
         "name": "Proveedor de Atysmas",
         "women_name": "Proveedora de Atysmas"
+    },
+    "freedom_day_drinker": {
+        "name": "Bebedor de libertad",
+        "women_name": "Bebedor de libertad"
     },
     "frozen": {
         "name": "Congelado",
@@ -4931,10 +4939,6 @@
         "name": "Altar Kami",
         "women_name": ""
     },
-    "gn_kami_altar_": {
-        "name": "Altar Kami del Bosque de la Confusión",
-        "women_name": ""
-    },
     "gn_kami_altar_almati": {
         "name": "Altar Kami de Bosque Almati",
         "women_name": ""
@@ -4985,6 +4989,10 @@
     },
     "gn_kami_altar_gate_of_obscurity": {
         "name": "Altar Kami de la Puerta de la Oscuridad",
+        "women_name": ""
+    },
+    "gn_kami_altar_groveofconfusion": {
+        "name": "Altar Kami del Bosque de la Confusión",
         "women_name": ""
     },
     "gn_kami_altar_groveofumbra": {
@@ -5451,10 +5459,6 @@
         "name": "Altar Karavan",
         "women_name": ""
     },
-    "gn_karavan_altar_": {
-        "name": "Altar Karavan del Bosque de la Confusión",
-        "women_name": ""
-    },
     "gn_karavan_altar_almati": {
         "name": "Altar Karavan de Bosque Almati",
         "women_name": ""
@@ -5493,6 +5497,10 @@
     },
     "gn_karavan_altar_gate_of_obscurity": {
         "name": "Altar Karavan de la Puerta de la Oscuridad",
+        "women_name": ""
+    },
+    "gn_karavan_altar_groveofconfusion": {
+        "name": "Altar Karavan del Bosque de la Confusión",
         "women_name": ""
     },
     "gn_karavan_altar_groveofumbra": {
@@ -6292,7 +6300,7 @@
         "women_name": ""
     },
     "gn_matisianborder_karavan_ambassador_m1": {
-        "name": "Embajador Karavan de los Guardias de la Frontera Matis",
+        "name": "Embajador Karavan de los Guardias Fronterizos Matis",
         "women_name": ""
     },
     "gn_maurauder_guard_magic": {
@@ -6760,7 +6768,7 @@
         "women_name": ""
     },
     "gn_scorchers_karavan_ambassador_f1": {
-        "name": "Embajador Karavan de los Quemadores",
+        "name": "Embajador Karavan de los Abrasadores",
         "women_name": ""
     },
     "gn_sekovix_kami_priest": {
@@ -6816,7 +6824,7 @@
         "women_name": ""
     },
     "gn_slashandburn_karavan_ambassador_m1": {
-        "name": "Embajador Karavan de la Tala y la Quema",
+        "name": "Embajador Karavan de Cortar y Quemar",
         "women_name": ""
     },
     "gn_slavers_guard": {
@@ -7675,6 +7683,10 @@
         "name": "Devourer of Hope",
         "women_name": "Devourer of Hope"
     },
+    "horror_teller": {
+        "name": "Taquillero del Horror",
+        "women_name": "Taquillera del Horror"
+    },
     "impaler": {
         "name": "Empalador",
         "women_name": "Empaladora"
@@ -7911,6 +7923,10 @@
         "name": "Asesino de Merodeador Maléfico",
         "women_name": "Asesina de Merodeador Maléfico"
     },
+    "killjoy": {
+        "name": "Aguafiestas",
+        "women_name": "Aguafiestas"
+    },
     "kingdomdefender": {
         "name": "Defensor del Reino",
         "women_name": "Defensora del Reino"
@@ -7970,6 +7986,10 @@
     "legeant": {
         "name": "The Giant",
         "women_name": "The Giant"
+    },
+    "life_of_the_wedding": {
+        "name": "Bromista de bodas",
+        "women_name": "Bromista de bodas"
     },
     "lifestealer": {
         "name": "Ladron de Vida",
@@ -8567,6 +8587,10 @@
         "name": "[e]getplayerinfos(name)[\/e]",
         "women_name": "[e]getplayerinfos(name)[\/e]"
     },
+    "prankster": {
+        "name": "Bromista",
+        "women_name": "Bromista"
+    },
     "precurseurduchaos": {
         "name": "Heraldo del Caos",
         "women_name": "Heraldo del Caos"
@@ -8631,9 +8655,17 @@
         "name": "Ranger alumno",
         "women_name": "Ranger alumna"
     },
+    "ranger_campfire": {
+        "name": "Fogata",
+        "women_name": "Fogata"
+    },
     "ranger_companion": {
         "name": "Ranger Companion",
         "women_name": "Ranger Companion"
+    },
+    "ranger_cooking_fire": {
+        "name": "Fuego para cocinar",
+        "women_name": "Fuego para cocinar"
     },
     "ranger_termite_expert": {
         "name": "Ranger's Termites Expert",
@@ -8666,6 +8698,10 @@
     "rendors_2614": {
         "name": "Terror de los Rendors - 2614",
         "women_name": "Terror de los Rendors - 2614"
+    },
+    "reporter": {
+        "name": "Reportera",
+        "women_name": "Reportera"
     },
     "rifleman": {
         "name": "Fusilero",
@@ -9128,12 +9164,12 @@
         "women_name": "Florista"
     },
     "title00054": {
-        "name": "Aprendiz de Cargador de Agua",
-        "women_name": "Aprendiz de Cargador de Agua"
+        "name": "Aprendiz de Aguador",
+        "women_name": "Aprendiz de Aguadora"
     },
     "title00055": {
-        "name": "Cargador de Agua",
-        "women_name": "Cargador de Agua"
+        "name": "Aguador",
+        "women_name": "Aguadora"
     },
     "title00056": {
         "name": "Aprendiz de Cartógrafo Magnético",
@@ -9252,8 +9288,8 @@
         "women_name": "Aprendiz de Suplidor de Municiones Tryker"
     },
     "tryker_rpjob_aquamin_title": {
-        "name": "Maestro Cargador de Agua",
-        "women_name": ""
+        "name": "Maestro Aguador",
+        "women_name": "Maestra Aguadora"
     },
     "tryker_rpjob_larvicultor_title": {
         "name": "Maestro Criador de larvas",
@@ -9374,6 +9410,10 @@
     "yuboball_2614": {
         "name": "Yubo Ball - 2614",
         "women_name": "Yubo Ball - 2614"
+    },
+    "yubopetanque_champion": {
+        "name": "Campeón de Yubo-Petanca",
+        "women_name": "Campeona de Yubo-Petanca"
     },
     "yuboshunt": {
         "name": "Medallista de Ámbar - Caza del yubo, Juegos de Atys 2589",

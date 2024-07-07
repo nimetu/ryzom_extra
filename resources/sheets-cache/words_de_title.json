@@ -267,6 +267,10 @@
         "name": "2621 Segensfest-Geschichtenerzähler",
         "women_name": "2621 Segensfest-Geschichtenerzählerin"
     },
+    "2626_storyteller": {
+        "name": "2626 Segensfest-Geschichtenerzähler",
+        "women_name": "2626 Segensfest-Geschichtenerzählerin"
+    },
     "accomplisheddisciple": {
         "name": "Verdienter Jünger der Kamis",
         "women_name": "Verdiente Jüngerin der Kamis"
@@ -536,20 +540,20 @@
         "women_name": "Segensfest-Künstler"
     },
     "atysmas_elves": {
-        "name": "Segensfest Wichtel",
-        "women_name": "Segensfest Wichtel"
+        "name": "Segensfest-Wichtel",
+        "women_name": "Segensfest-Wichtel"
     },
     "atysmas_fairy": {
-        "name": "Segensfest Fee",
-        "women_name": "Segensfest Fee"
+        "name": "Segensfest-Fee",
+        "women_name": "Segensfest-Fee"
     },
     "atysmas_pixie": {
-        "name": "Segensfest Elfe",
-        "women_name": "Segensfest Elfe"
+        "name": "Segensfest-Elf",
+        "women_name": "Segensfest-Elfe"
     },
     "atysmas_rudolf": {
-        "name": "Segensfest Yubo-Freund",
-        "women_name": "Segensfest Yubo-Freundin"
+        "name": "Segensfest-Yubo-Freund",
+        "women_name": "Segensfest-Yubo-Freundin"
     },
     "atysmas_storyteller": {
         "name": "Segensfest-Geschichtenerzähler",
@@ -704,8 +708,8 @@
         "women_name": "Hauptmann der Wache von Avendale"
     },
     "chercheur_de_bonhomin_de_neige": {
-        "name": "Schneehomin-Spürnase",
-        "women_name": "Schneehomin-Spürnase"
+        "name": "Spürnase für Schneehomins",
+        "women_name": "Spürnase für Schneehomins"
     },
     "chosen_of_atys": {
         "name": "Auserwählter von Atys",
@@ -2554,6 +2558,10 @@
     "fournisseur_datysoel": {
         "name": "Segensfest-Lieferant",
         "women_name": "Segensfest-Lieferantin"
+    },
+    "freedom_day_drinker": {
+        "name": "Freiheitstrinker",
+        "women_name": "Freiheitstrinkerin"
     },
     "frozen": {
         "name": "Eiskalt",
@@ -4935,10 +4943,6 @@
         "name": "Kamialtar",
         "women_name": "Kamialtar"
     },
-    "gn_kami_altar_": {
-        "name": "Kamialtar des Hains der Verwirrung",
-        "women_name": "Kamialtar des Hains der Verwirrung"
-    },
     "gn_kami_altar_almati": {
         "name": "Kamialtar des Almati-Waldes",
         "women_name": "Kamialtar des Almati-Waldes"
@@ -4990,6 +4994,10 @@
     "gn_kami_altar_gate_of_obscurity": {
         "name": "Kamialtar des Tors der Dunkelheit",
         "women_name": "Kamialtar des Tors der Dunkelheit"
+    },
+    "gn_kami_altar_groveofconfusion": {
+        "name": "Kamialtar des Hains der Verwirrung",
+        "women_name": "Kamialtar des Hains der Verwirrung"
     },
     "gn_kami_altar_groveofumbra": {
         "name": "Kamialtar des Wäldchens von Umbra",
@@ -5455,10 +5463,6 @@
         "name": "Karavanaltar",
         "women_name": "Karavanaltar"
     },
-    "gn_karavan_altar_": {
-        "name": "Karavanaltar des Hains der Verwirrung",
-        "women_name": "Karavanaltar des Hains der Verwirrung"
-    },
     "gn_karavan_altar_almati": {
         "name": "Karavanaltar des Almati-Waldes",
         "women_name": "Karavanaltar des Almati-Waldes"
@@ -5498,6 +5502,10 @@
     "gn_karavan_altar_gate_of_obscurity": {
         "name": "Karavanaltar des Tors der Dunkelheit",
         "women_name": "Karavanaltar des Tors der Dunkelheit"
+    },
+    "gn_karavan_altar_groveofconfusion": {
+        "name": "Karavanaltar des Hains der Verwirrung",
+        "women_name": "Karavanaltar des Hains der Verwirrung"
     },
     "gn_karavan_altar_groveofumbra": {
         "name": "Karavanaltar des Wäldchens von Umbra",
@@ -7679,6 +7687,10 @@
         "name": "Devourer of Hope",
         "women_name": "Devourer of Hope"
     },
+    "horror_teller": {
+        "name": "Gruselgeschichtenerzähler",
+        "women_name": "Gruselgeschichtenerzählerin"
+    },
     "impaler": {
         "name": "Durchbohrer",
         "women_name": "Durchbohrerin"
@@ -7915,6 +7927,10 @@
         "name": "Bezwinger des bösen Marodeurs",
         "women_name": "Bezwingerin des bösen Marodeurs"
     },
+    "killjoy": {
+        "name": "Spielverderber",
+        "women_name": "Spielverderberin"
+    },
     "kingdomdefender": {
         "name": "Verteidiger des Königreichs",
         "women_name": "Verteidigerin des Königreichs"
@@ -7974,6 +7990,10 @@
     "legeant": {
         "name": "The Giant",
         "women_name": "The Giant"
+    },
+    "life_of_the_wedding": {
+        "name": "Hochzeits-Byrhger",
+        "women_name": "Hochzeits-Byrhgerin"
     },
     "lifestealer": {
         "name": "Lebensräuber",
@@ -8571,6 +8591,10 @@
         "name": "[e]getplayerinfos(name)[\/e]",
         "women_name": "[e]getplayerinfos(name)[\/e]"
     },
+    "prankster": {
+        "name": "Schelm",
+        "women_name": "Schelmin"
+    },
     "precurseurduchaos": {
         "name": "Vorbote des Chaos",
         "women_name": "Vorbote des Chaos"
@@ -8635,9 +8659,17 @@
         "name": "Ranger-Anwärter",
         "women_name": "Ranger-Anwärterin"
     },
+    "ranger_campfire": {
+        "name": "Lagerfeuer",
+        "women_name": "Lagerfeuer"
+    },
     "ranger_companion": {
         "name": "Ranger-Gefährte",
         "women_name": "Ranger-Gefährtin"
+    },
+    "ranger_cooking_fire": {
+        "name": "Kochstelle",
+        "women_name": "Kochstelle"
     },
     "ranger_termite_expert": {
         "name": "Ranger Termiten-Experte",
@@ -8670,6 +8702,10 @@
     "rendors_2614": {
         "name": "Terror der Rendoren - 2614",
         "women_name": "Terror der Rendoren - 2614"
+    },
+    "reporter": {
+        "name": "Reporter",
+        "women_name": "Reporter"
     },
     "rifleman": {
         "name": "Gewehrschütze",
@@ -9382,6 +9418,10 @@
     "yuboball_2614": {
         "name": "Yubo Ball - 2614",
         "women_name": "Yubo Ball - 2614"
+    },
+    "yubopetanque_champion": {
+        "name": "Bester Yubo-Schubser",
+        "women_name": "Beste Yubo-Schubserin"
     },
     "yuboshunt": {
         "name": "Bernstein-Champion der Yubo-Jagd, Atys-Spiele 2589",

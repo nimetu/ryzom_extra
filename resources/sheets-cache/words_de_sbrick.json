@@ -31140,39 +31140,39 @@
         "description2": ""
     },
     "bhfprmfmk14": {
-        "name": "Rohstoffsuche: Kleine Perlmuttschale",
-        "named": "Rohstoffsuche: Kleine Perlmuttschale",
+        "name": "Rohstoffsuche: Kleine Perlmuttmuschel",
+        "named": "Rohstoffsuche: Kleine Perlmuttmuschel",
         "p": "",
         "pd": "eine",
-        "ia": "Rohstoffsuchen: Kleine Perlmuttschale",
-        "da": "Rohstoffsuchen: Kleine Perlmuttschale",
-        "pia": "",
+        "ia": "eine",
+        "da": "die",
+        "pia": "einen",
         "pda": "die",
-        "description": "Rohstoffsuchen: Kleine Perlmuttschale",
+        "description": "Rohstoffsuchen: Kleine Perlmuttmuschel",
         "description2": ""
     },
     "bhfprmfmk15": {
-        "name": "Rohstoffsuche: Große Perlmuttschale",
-        "named": "Rohstoffsuche: Große Perlmuttschale",
+        "name": "Rohstoffsuche: Große Perlmuttmuschel",
+        "named": "Rohstoffsuche: Große Perlmuttmuschel",
         "p": "",
         "pd": "eine",
-        "ia": "Rohstoffsuchen: Große Perlmuttschale",
-        "da": "Rohstoffsuchen: Große Perlmuttschale",
-        "pia": "",
+        "ia": "eine",
+        "da": "die",
+        "pia": "einen",
         "pda": "die",
-        "description": "Rohstoffsuchen: Große Perlmuttschale",
+        "description": "Rohstoffsuchen: Große Perlmuttmuschel",
         "description2": ""
     },
     "bhfprmfmk16": {
-        "name": "Rohstoffsuche: Riesige Perlmuttschale",
-        "named": "Rohstoffsuche: Riesige Perlmuttschale",
+        "name": "Rohstoffsuche: Riesige Perlmuttmuschel",
+        "named": "Rohstoffsuche: Riesige Perlmuttmuschel",
         "p": "",
         "pd": "eine",
-        "ia": "Rohstoffsuchen: Riesige Perlmuttschale",
-        "da": "Rohstoffsuchen: Riesige Perlmuttschale",
-        "pia": "",
+        "ia": "eine",
+        "da": "die",
+        "pia": "einen",
         "pda": "die",
-        "description": "Rohstoffsuchen: Riesige Perlmuttschale",
+        "description": "Rohstoffsuchen: Riesige Perlmuttmuschel",
         "description2": ""
     },
     "bhfprmfmk17": {
@@ -31548,15 +31548,15 @@
         "description2": ""
     },
     "bhfprmfml14": {
-        "name": "Rohstoffsuche: Getrocknetes Korn",
-        "named": "Rohstoffsuche: Getrocknetes Korn",
+        "name": "Rohstoffsuche: Getrocknetes Getreide",
+        "named": "Rohstoffsuche: Getrocknetes Getreide",
         "p": "",
         "pd": "eine",
-        "ia": "Rohstoffsuchen: Getrocknetes Korn",
-        "da": "Rohstoffsuchen: Getrocknetes Korn",
-        "pia": "",
+        "ia": "eine",
+        "da": "die",
+        "pia": "einen",
         "pda": "die",
-        "description": "Rohstoffsuchen: Getrocknetes Korn",
+        "description": "Rohstoffsuchen: Getrocknetes Getreide",
         "description2": ""
     },
     "bhfprmfml15": {
@@ -50014,6 +50014,18 @@
         "pda": "",
         "description": "@{5F5F}3% @{FFFF}Chance bei Wiederauferstehung @{5F5F}die Hälfte @{FFFF}des Lebens, der Ausdauer, des Sap und des Fokus wiederzuerlangen. @{FAAF}Nur in den Grünen Anhöhen und im Nexus.",
         "description2": "gut zu Fuß"
+    },
+    "jrez_halflife_primes": {
+        "name": "",
+        "named": "",
+        "p": "",
+        "pd": "",
+        "ia": "",
+        "da": "",
+        "pia": "",
+        "pda": "",
+        "description": "",
+        "description2": ""
     },
     "jrez_halflife_tryker": {
         "name": "Stehenden Fußes",
