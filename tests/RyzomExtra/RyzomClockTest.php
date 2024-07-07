@@ -2,9 +2,6 @@
 
 namespace RyzomExtra;
 
-/**
- * Class RyzomClockTest
- */
 class RyzomClockTest extends \PHPUnit\Framework\TestCase
 {
 
@@ -70,7 +67,7 @@ class RyzomClockTest extends \PHPUnit\Framework\TestCase
     /**
      * @return array
      */
-    public function tickProvider()
+    static public function tickProvider()
     {
         // tick, cycle, season, year, month, week, day, time
         return array(

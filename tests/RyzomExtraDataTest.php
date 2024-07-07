@@ -1,8 +1,5 @@
 <?php
 
-/**
- * Test exported files
- */
 class RyzomExtraDataTest extends \PHPUnit\Framework\TestCase
 {
 	public function testVisualTab() {
@@ -84,7 +81,7 @@ class RyzomExtraDataTest extends \PHPUnit\Framework\TestCase
 	/**
 	 * Translation data
 	 */
-	public function translationDataProvider() {
+	static public function translationDataProvider() {
 		return [
 			['languagename.uxt', 'name', [
 				'en' => 'English',
@@ -211,7 +208,7 @@ class RyzomExtraDataTest extends \PHPUnit\Framework\TestCase
 	/**
 	 * Translation data with replaced placeholder text
 	 */
-	public function replacedPlaceholderTextProvider() {
+	static public function replacedPlaceholderTextProvider() {
 		return [
 			// 'Increase Damage 1 - Max Factor: $1INC_DMG'
 			['bfma01.sbrick', 'description2', [
