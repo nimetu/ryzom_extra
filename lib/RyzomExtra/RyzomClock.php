@@ -69,10 +69,11 @@ class RyzomClock
     /**
      * @param int  $tick
      * @param bool $legacy
+     * @param int|null $sync
      */
-    public function __construct($tick, $legacy = false)
+    public function __construct($tick, $legacy = false, $sync = null)
     {
-        $this->setGameCycle($tick, $legacy);
+        $this->setGameCycle($tick, $legacy, $sync);
     }
 
     /**
@@ -168,9 +169,13 @@ class RyzomClock
      *
      * @param int  $gameCycle
      * @param bool $legacy
+     * @param int|null $sync UTC timestamp when gameCycle was taken
      */
-    public function setGameCycle($gameCycle, $legacy = false)
+    public function setGameCycle($gameCycle, $legacy = false, $sync = null)
     {
+        if ($sync !== null) {
+            $gameCycle += (time() - $sync) * 10;
+        }
         $this->gameCycle = $gameCycle;
         $this->legacy = $legacy;
 
@@ -184,10 +189,11 @@ class RyzomClock
      * Set tick for legacy shards
      *
      * @param int $gameCycle
+     * @param int|null $sync
      */
-    public function setLegacyGameCycle($gameCycle)
+    public function setLegacyGameCycle($gameCycle, $sync = null)
     {
-        $this->setGameCycle($gameCycle, true);
+        $this->setGameCycle($gameCycle, true, $sync);
     }
 
     /**

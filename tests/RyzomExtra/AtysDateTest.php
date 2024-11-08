@@ -16,7 +16,7 @@ class AtysDateTest extends \PHPUnit\Framework\TestCase
     const dateSeason = 4;
     const dateMonth = 11;
     const dateWeek = 1;
-	const dateDay = 1;
+    const dateDay = 1;
     //
     const seasonName = 'Winter';
     const monthName = 'Mystia';
@@ -24,8 +24,8 @@ class AtysDateTest extends \PHPUnit\Framework\TestCase
     //
     const timeHour = 0;
     const timeMinutes = 13;
-	const timeStringHour = '00h';
-	const timeStringHourMin = '00:13';
+    const timeStringHour = '00h';
+    const timeStringHourMin = '00:13';
 
     /**
      * @var AtysDateTime
@@ -59,6 +59,20 @@ class AtysDateTest extends \PHPUnit\Framework\TestCase
     {
         $this->atysDate->setGameCycle(1234);
         $this->assertEquals(1234, $this->atysDate->getGameCycle());
+    }
+
+    public function testSetGameCycleSync()
+    {
+        $this->atysDate->setGameCycle(1234, false);
+        $this->assertEquals(1234, $this->atysDate->getGameCycle());
+
+        // tick is from past, increase it by 10
+        $this->atysDate->setGameCycle(1234, false, time() - 1);
+        $this->assertEquals(1244, $this->atysDate->getGameCycle());
+
+        // tick is from future, decrease it by 10
+        $this->atysDate->setGameCycle(1234, false, time() + 1);
+        $this->assertEquals(1224, $this->atysDate->getGameCycle());
     }
 
     /**
