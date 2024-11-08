@@ -22,7 +22,7 @@
 
 namespace RyzomExtra\Export;
 
-use Pimple;
+use Pimple\Container;
 use Nel\Misc\SheetId;
 use Nel\Misc\BnpFile;
 use Ryzom\Sheets\PackedSheetsLoader;
@@ -32,27 +32,27 @@ use Ryzom\Translation\Loader\WordsLoader;
 use Ryzom\Translation\Loader\UxtLoader;
 use RyzomExtra\Export\Encoder\SerializeEncoder;
 
-class Application extends Pimple {
+class Application extends Container {
 
 	function __construct() {
 		$app = $this;
 
 		// leveldesign.bnp has 'sheet_id.bin' */
-		$this['bnp.leveldesign'] = $app->share(function() use ($app) {
+		$this['bnp.leveldesign'] = function() use ($app) {
 			return new BnpFile($app['data.path'].'/leveldesign.bnp');
-		});
+		};
 
 		// gamedev.bnp has translations (<sheet>_words_<lang>.txt, <lang>.uxt)
-		$this['bnp.gamedev'] = $app->share(function() use ($app) {
+		$this['bnp.gamedev'] = function() use ($app) {
 			return new BnpFile($app['data.path'].'/gamedev.bnp');
-		});
+		};
 
-		$this['bnp.data_common'] = $app->share(function () use ($app) {
+		$this['bnp.data_common'] = function () use ($app) {
 			return new BnpFile($app['data.path'].'/data_common.bnp');
-		});
+		};
 
 		// SheetIds collection, sheet_id.bin reader
-		$this['sheetid'] = $app->share(function () use ($app) {
+		$this['sheetid'] = function () use ($app) {
 			$sheetIds = new SheetId();
 
 			$file = 'sheet_id.bin';
@@ -66,53 +66,53 @@ class Application extends Pimple {
 				$sheetIds->load($data);
 			}
 			return $sheetIds;
-		});
+		};
 
 		// packed sheets collection
 		// - depends on SheetId and PackedSheetsLoader
-		$this['sheets'] = $this->share(function() use ($app) {
+		$this['sheets'] = function() use ($app) {
 			return new SheetsManager($app['sheetid'], $app['load.packed_sheets']);
-		});
+		};
 
 		// Packed sheets loader
-		$this['load.packed_sheets'] = $this->share(function() use ($app) {
+		$this['load.packed_sheets'] = function() use ($app) {
 			return new PackedSheetsLoader($app['data.path']);
-		});
+		};
 
 		// <sheet>_words_<lang>.txt reader
-		$this['load.words'] = $this->share(function() use ($app) {
+		$this['load.words'] = function() use ($app) {
 			return new WordsLoader();
-		});
+		};
 
 		// Reader for <lang>.uxt files
-		$this['load.uxt'] = $this->share(function() use ($app) {
+		$this['load.uxt'] = function() use ($app) {
 			return new UxtLoader();
-		});
+		};
 
 		// Serialize encoder to use
-		$this['encoder'] = $this->share(function() {
+		$this['encoder'] = function() {
 			return new SerializeEncoder();
-		});
+		};
 
 		// Save SheetId collection into cache files
-		$this['export.sheetid'] = $this->share(function() use ($app) {
+		$this['export.sheetid'] = function() use ($app) {
 			return new SheetIdExport($app['sheetid'], $app['cache.path'], $app['encoder']);
-		});
+		};
 
 		// Save words and uxt translations into cache files
-		$this['export.words'] = $this->share(function() use ($app) {
+		$this['export.words'] = function() use ($app) {
 			return new WordsExport($app['cache.path'], $app['encoder']);
-		});
+		};
 
 		// Save loaded sheets to cache files
-		$this['export.packed_sheets'] = $this->share(function() use ($app) {
+		$this['export.packed_sheets'] = function() use ($app) {
 			return new PackedSheetsExport($app['sheetid'], $app['sheets'], $app['cache.path'], $app['encoder']);
-		});
+		};
 
 		// Save visual_slot.tab to cache file
-		$this['export.visual_slot'] = $this->share(function () use ($app) {
+		$this['export.visual_slot'] = function () use ($app) {
 			return new VisualSlotExport($app['sheetid'], $app['cache.path'], $app['encoder']);
-		});
+		};
 	}
 
 	function exportSheetIds() {
