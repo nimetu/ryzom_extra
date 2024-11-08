@@ -63,6 +63,14 @@
         "pda": "",
         "ppr": ""
     },
+    "cake_anniversary_island": {
+        "name": "Délicieuse senteur du Gâteau",
+        "da": "la",
+        "pr": "dans la",
+        "p": "Délicieuses senteurs du Gâteau",
+        "pda": "les",
+        "ppr": "dans les"
+    },
     "cont_kitiniere": {
         "name": "Kitinière",
         "da": "la",
@@ -847,6 +855,14 @@
         "pda": "les",
         "ppr": "dans les"
     },
+    "main_stage_anniversary_island": {
+        "name": "Place de la Fête",
+        "da": "la",
+        "pr": "à la",
+        "p": "Places de la Fête",
+        "pda": "les",
+        "ppr": "aux"
+    },
     "mairie_rdc": {
         "name": "Rez-de-Chaussée",
         "da": "le",
@@ -878,6 +894,14 @@
         "p": "Iles Matis",
         "pda": "les",
         "ppr": "sur les"
+    },
+    "memorial_anniversary_island": {
+        "name": "Bosquet du Souvenir",
+        "da": "le",
+        "pr": "dans la",
+        "p": "Bosquets du Souvenir",
+        "pda": "les",
+        "ppr": "dans les"
     },
     "min_cho_stable": {
         "name": "Étables de Min Cho",
@@ -4799,6 +4823,14 @@
         "pda": "",
         "ppr": ""
     },
+    "place_tcm_start_point": {
+        "name": "?????",
+        "da": "",
+        "pr": "",
+        "p": "?????",
+        "pda": "",
+        "ppr": ""
+    },
     "place_tcm_tutors": {
         "name": "Sanctuaire Tutors",
         "da": "le",
@@ -4830,6 +4862,14 @@
         "p": "Entraîneurs de Waverton",
         "pda": "les",
         "ppr": "chez les"
+    },
+    "place_welcomer_anniversary_island": {
+        "name": "Square de la Bienvenue",
+        "da": "le",
+        "pr": "dans le",
+        "p": "Squares de la Bienvenue",
+        "pda": "les",
+        "ppr": "dans les"
     },
     "place_windermeer": {
         "name": "Windermeer",
@@ -5502,6 +5542,14 @@
         "p": "",
         "pda": "",
         "ppr": ""
+    },
+    "region_matis_island_3": {
+        "name": "Île de l'Anniversaire",
+        "da": "l'",
+        "pr": "à l'",
+        "p": "Îles de l'Anniversaire",
+        "pda": "les",
+        "ppr": "aux"
     },
     "region_mistvalley": {
         "name": "Vallée des brumes",

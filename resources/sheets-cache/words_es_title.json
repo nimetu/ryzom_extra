@@ -559,6 +559,10 @@
         "name": "Narrador de Atysmas",
         "women_name": "Narradora de Atysmas"
     },
+    "atysmasfairy": {
+        "name": "Hada de la Navidad",
+        "women_name": "Hada de la Navidad"
+    },
     "avatar_of_destruction": {
         "name": "Avatar de la Destrucción",
         "women_name": "Avatar de la Destrucción"
@@ -1026,6 +1030,10 @@
     "exploderecettesexpert": {
         "name": "Experto Descubridor de Recetas",
         "women_name": "Experta Descubridora de Recetas"
+    },
+    "explorer": {
+        "name": "Explorador",
+        "women_name": "Exploradora"
     },
     "faber": {
         "name": "Artesano",
@@ -7731,6 +7739,14 @@
         "name": "Buscador de la Selva",
         "women_name": "Buscadora de la Selva"
     },
+    "kadoxadikt": {
+        "name": "Kadox! Kadox! Kadox!",
+        "women_name": ""
+    },
+    "kalinboom": {
+        "name": "Kalinboom!",
+        "women_name": "Kalinboom!"
+    },
     "kami_ally": {
         "name": "Campeón Kami",
         "women_name": ""
@@ -8055,6 +8071,10 @@
         "name": "Maestro Observador de Lagos",
         "women_name": "Maestra Observadora de Lagos"
     },
+    "malinoux": {
+        "name": "Malinoux",
+        "women_name": "Malinoux"
+    },
     "marauder": {
         "name": "Marauder",
         "women_name": "Marauder"
@@ -8363,6 +8383,18 @@
         "name": "Homin Travieso",
         "women_name": "Homina Traviesa"
     },
+    "nevrax_artist": {
+        "name": "Artista",
+        "women_name": "Artista"
+    },
+    "nevrax_dev": {
+        "name": "Desarrollador",
+        "women_name": "Desarrolladora"
+    },
+    "nevrax_founder": {
+        "name": "Fundador de Nevrax",
+        "women_name": "Fundadora de Nevrax"
+    },
     "nexus_gibbai_secret_discoverer": {
         "name": "Descubridor de los Secretos del Nexo",
         "women_name": "Descubridora de los Secretos del Nexo"
@@ -8395,6 +8427,10 @@
         "name": "Medalla de Ámbar - Maratón - 2624",
         "women_name": "Medalla de Ámbar - Maratón - 2624"
     },
+    "number1marathon2629": {
+        "name": "Medalla de Ámbar - Maratón - 2629",
+        "women_name": "Medalla de Ámbar - Maratón - 2629"
+    },
     "number1mektoubride2624": {
         "name": "Medalla de Ámbar - Carrera de Mektoubs - 2624",
         "women_name": "Medalla de Ámbar - Carrera de Mektoubs - 2624"
@@ -8403,13 +8439,41 @@
         "name": "Medalla de Ámbar - Natación - 2624",
         "women_name": "Medalla de Ámbar - Natación - 2624"
     },
+    "number1ride2629": {
+        "name": "Medalla de Ámbar - Carrera montada - 2629",
+        "women_name": "Medalla de Ámbar - Carrera montada - 2629"
+    },
+    "number1swimming2629": {
+        "name": "Medalla de Ámbar - Natación - 2629",
+        "women_name": "Medalla de Ámbar - Natación - 2629"
+    },
     "number1triathlon2624": {
         "name": "Medalla de Ámbar - Triatlón - 2624",
         "women_name": "Medalla de Ámbar - Triatlón - 2624"
     },
+    "number1triathlon2629": {
+        "name": "Medalla de Ámbar - Triatlón - 2629",
+        "women_name": "Medalla de Ámbar - Triatlón - 2629"
+    },
+    "number1yubogolfdesert2629": {
+        "name": "Medalla de Ámbar - Yubogolf del Desierto - 2629",
+        "women_name": "Medalla de Ámbar - Yubogolf del Desierto - 2629"
+    },
+    "number1yubogolfforest2629": {
+        "name": "Medalla de Ámbar - Yubogolf del Bosque - 2629",
+        "women_name": "Medalla de Ámbar - Yubogolf del Bosque - 2629"
+    },
     "number1yubogolffyros2624": {
         "name": "Medalla de Ámbar - Yubogolf del Desierto - 2624",
         "women_name": "Medalla de Ámbar - Yubogolf del Desierto - 2624"
+    },
+    "number1yubogolfjungle2629": {
+        "name": "Medalla de Ámbar - Yubogolf de la Selva - 2629",
+        "women_name": "Medalla de Ámbar - Yubogolf de la Selva - 2629"
+    },
+    "number1yubogolflake2629": {
+        "name": "Medalla de Ámbar - Yubogolf de los Lagos - 2629",
+        "women_name": "Medalla de Ámbar - Yubogolf de los Lagos - 2629"
     },
     "number1yubogolfmatis2624": {
         "name": "Medalla de Ámbar - Yubogolf del Bosque - 2624",
@@ -8418,6 +8482,10 @@
     "number1yubogolfprime2624": {
         "name": "Medalla de Ámbar - Yubogolf de las Raíces Primarias - 2624",
         "women_name": "Medalla de Ámbar - Yubogolf de las Raíces Primarias - 2624"
+    },
+    "number1yubogolfprime2629": {
+        "name": "Medalla de Ámbar - Yubogolf de las Raíces Primarias - 2629",
+        "women_name": "Medalla de Ámbar - Yubogolf de las Raíces Primarias - 2629"
     },
     "number1yubogolftryker2624": {
         "name": "Medalla de Ámbar - Yubogolf de los Lagos - 2624",
@@ -8431,6 +8499,10 @@
         "name": "Medalla de Nácar - Maratón - 2624",
         "women_name": "Medalla de Nácar - Maratón - 2624"
     },
+    "number2marathon2629": {
+        "name": "Medalla de Nácar - Maratón - 2629",
+        "women_name": "Medalla de Nácar - Maratón - 2629"
+    },
     "number2mektoubride2624": {
         "name": "Medalla de Nácar - Carrera de Mektoubs - 2624",
         "women_name": "Medalla de Nácar - Carrera de Mektoubs - 2624"
@@ -8439,13 +8511,41 @@
         "name": "Medalla de Nácar - Natación - 2624",
         "women_name": "Medalla de Nácar - Natación - 2624"
     },
+    "number2ride2629": {
+        "name": "Medalla de Nácar - Carrera montada - 2629",
+        "women_name": "Medalla de Nácar - Carrera montada - 2629"
+    },
+    "number2swimming2629": {
+        "name": "Medalla de Nácar - Natación - 2629",
+        "women_name": "Medalla de Nácar - Natación - 2629"
+    },
     "number2triathlon2624": {
         "name": "Medalla de Nácar - Triatlón - 2624",
         "women_name": "Medalla de Nácar - Triatlón - 2624"
     },
+    "number2triathlon2629": {
+        "name": "Medalla de Nácar - Triatlón - 2629",
+        "women_name": "Medalla de Nácar - Triatlón - 2629"
+    },
+    "number2yubogolfdesert2629": {
+        "name": "Medalla de Nácar - Yubogolf del Desierto - 2629",
+        "women_name": "Medalla de Nácar - Yubogolf del Desierto - 2629"
+    },
+    "number2yubogolfforest2629": {
+        "name": "Medalla de Nácar - Yubogolf del Bosque - 2629",
+        "women_name": "Medalla de Nácar - Yubogolf del Bosque - 2629"
+    },
     "number2yubogolffyros2624": {
         "name": "Medalla de Nácar - Yubogolf del Desierto - 2624",
         "women_name": "Medalla de Nácar - Yubogolf del Desierto - 2624"
+    },
+    "number2yubogolfjungle2629": {
+        "name": "Medalla de Nácar - Yubogolf de la Selva - 2629",
+        "women_name": "Medalla de Nácar - Yubogolf de la Selva - 2629"
+    },
+    "number2yubogolflake2629": {
+        "name": "Medalla de Nácar - Yubogolf de los Lagos - 2629",
+        "women_name": "Medalla de Nácar - Yubogolf de los Lagos - 2629"
     },
     "number2yubogolfmatis2624": {
         "name": "Medalla de Nácar - Yubogolf del Bosque - 2624",
@@ -8454,6 +8554,10 @@
     "number2yubogolfprime2624": {
         "name": "Medalla de Nácar - Yubogolf de las Raíces Primarias - 2624",
         "women_name": "Medalla de Nácar - Yubogolf de las Raíces Primarias - 2624"
+    },
+    "number2yubogolfprime2629": {
+        "name": "Medalla de Nácar - Yubogolf de las Raíces Primarias - 2629",
+        "women_name": "Medalla de Nácar - Yubogolf de las Raíces Primarias - 2629"
     },
     "number2yubogolftryker2624": {
         "name": "Medalla de Nácar - Yubogolf de los Lagos - 2624",
@@ -8467,6 +8571,10 @@
         "name": "Medalla de Cuerno - Maratón - 2624",
         "women_name": "Medalla de Cuerno - Maratón - 2624"
     },
+    "number3marathon2629": {
+        "name": "Medalla de Cuerno - Maratón - 2629",
+        "women_name": "Medalla de Cuerno - Maratón - 2629"
+    },
     "number3mektoubride2624": {
         "name": "Medalla de Cuerno - Carrera de Mektoubs - 2624",
         "women_name": "Medalla de Cuerno - Carrera de Mektoubs - 2624"
@@ -8475,13 +8583,41 @@
         "name": "Medalla de Cuerno - Natación - 2624",
         "women_name": "Medalla de Cuerno - Natación - 2624"
     },
+    "number3ride2629": {
+        "name": "Medalla de Cuerno - Carrera montada - 2629",
+        "women_name": "Medalla de Cuerno - Carrera montada - 2629"
+    },
+    "number3swimming2629": {
+        "name": "Medalla de Cuerno - Natación - 2629",
+        "women_name": "Medalla de Cuerno - Natación - 2629"
+    },
     "number3triathlon2624": {
         "name": "Medalla de Cuerno - Triatlón - 2624",
         "women_name": "Medalla de Cuerno - Triatlón - 2624"
     },
+    "number3triathlon2629": {
+        "name": "Medalla de Cuerno - Triatlón - 2629",
+        "women_name": "Medalla de Cuerno - Triatlón - 2629"
+    },
+    "number3yubogolfdesert2629": {
+        "name": "Medalla de Cuerno - Yubogolf del Desierto - 2629",
+        "women_name": "Medalla de Cuerno - Yubogolf del Desierto - 2629"
+    },
+    "number3yubogolfforest2629": {
+        "name": "Medalla de Cuerno - Yubogolf del Bosque - 2629",
+        "women_name": "Medalla de Ámbar - Yubogolf del Bosque - 2629"
+    },
     "number3yubogolffyros2624": {
         "name": "Medalla de Cuerno - Yubogolf del Desierto - 2624",
         "women_name": "Medalla de Cuerno - Yubogolf del Desierto - 2624"
+    },
+    "number3yubogolfjungle2629": {
+        "name": "Medalla de Cuerno - Yubogolf de la Selva - 2629",
+        "women_name": "Medalla de Cuerno - Yubogolf de la Selva - 2629"
+    },
+    "number3yubogolflake2629": {
+        "name": "Medalla de Cuerno - Yubogolf de los Lagos - 2629",
+        "women_name": "Medalla de Cuerno - Yubogolf de los Lagos - 2629"
     },
     "number3yubogolfmatis2624": {
         "name": "Medalla de Cuerno - Yubogolf del Bosque - 2624",
@@ -8490,6 +8626,10 @@
     "number3yubogolfprime2624": {
         "name": "Medalla de Cuerno - Yubogolf de las Raíces Primarias - 2624",
         "women_name": "Medalla de Cuerno - Yubogolf de las Raíces Primarias - 2624"
+    },
+    "number3yubogolfprime2629": {
+        "name": "Medalla de Cuerno - Yubogolf de las Raíces Primarias - 2629",
+        "women_name": "Medalla de Cuerno - Yubogolf de las Raíces Primarias - 2629"
     },
     "number3yubogolftryker2624": {
         "name": "Medalla de Cuerno - Yubogolf de los Lagos - 2624",
@@ -8691,6 +8831,10 @@
         "name": "Recolector Implacable",
         "women_name": "Recolectora Implacable"
     },
+    "relic_discoverer": {
+        "name": "Descubridor de reliquias",
+        "women_name": "Descubridora de reliquias"
+    },
     "rendors": {
         "name": "Cazador Oficial - Silan 2613",
         "women_name": "Cazadora Oficial - Silan 2613"
@@ -8883,6 +9027,10 @@
         "name": "Aprendiz de Francotirador",
         "women_name": "Aprendiz de Francotirador"
     },
+    "snooper": {
+        "name": "Rastreador",
+        "women_name": "Rastreadora"
+    },
     "spearman": {
         "name": "Lancero",
         "women_name": "Lancera"
@@ -9026,6 +9174,10 @@
     "theocratyenemy": {
         "name": "Enemigo de la Teocracia",
         "women_name": "Enemiga de la Teocracia"
+    },
+    "time_traveler": {
+        "name": "Viajero del Tiempo",
+        "women_name": "Viajera del Tiempo"
     },
     "title00001": {
         "name": "Journeyer",

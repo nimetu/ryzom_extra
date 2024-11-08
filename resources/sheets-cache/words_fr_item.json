@@ -188,6 +188,24 @@
         "pda": "les",
         "description": ""
     },
+    "anniversary_dance_conso": {
+        "name": "Surprise du 20ème anniversaire",
+        "ia": "une",
+        "da": "la",
+        "p": "Surprises du 20ème anniversaire",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "anniversary_dance_scroll": {
+        "name": "Parchemin de danse classique",
+        "ia": "un",
+        "da": "le",
+        "p": "Parchemins de danse classique",
+        "pia": "des",
+        "pda": "les",
+        "description": "Parchemin inépuisable permettant de se prendre pour Nijinski"
+    },
     "aqua_speed": {
         "name": "Propulseur aquatique",
         "ia": "un",
@@ -566,6 +584,42 @@
         "pda": "les",
         "description": ""
     },
+    "compo_mark1": {
+        "name": "Mark - Muse-Lam",
+        "ia": "un",
+        "da": "le",
+        "p": "Marks - Muse-Lam",
+        "pia": "des",
+        "pda": "les",
+        "description": "Mark - Muse-Lam"
+    },
+    "compo_mark2": {
+        "name": "Mark - Muse-Mam",
+        "ia": "un",
+        "da": "le",
+        "p": "Marks - Muse-Mam",
+        "pia": "des",
+        "pda": "les",
+        "description": "Mark - Muse-Mam"
+    },
+    "compo_mark3": {
+        "name": "Mark - Muse-Ham",
+        "ia": "un",
+        "da": "le",
+        "p": "Marks - Muse-Ham",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "compo_weapon_mark1": {
+        "name": "Mark I",
+        "ia": "un",
+        "da": "le",
+        "p": "Marks I",
+        "pia": "des",
+        "pda": "les",
+        "description": "Mark I"
+    },
     "conso_constit_mineskitins": {
         "name": "Fleur de résistance de la kitinière",
         "ia": "une",
@@ -580,6 +634,15 @@
         "ia": "un",
         "da": "le",
         "p": "Feux d'artifice",
+        "pia": "des",
+        "pda": "les",
+        "description": ""
+    },
+    "conso_fireworks_anniversary": {
+        "name": "Feu d'artifice type 20 ans",
+        "ia": "un",
+        "da": "le",
+        "p": "Feux d'artifice type 20 ans",
         "pia": "des",
         "pda": "les",
         "description": ""
@@ -9883,9 +9946,9 @@
     },
     "icomarm2bm_2": {
         "name": "Masse à deux mains Vedice-Mar",
-        "ia": "une",
-        "da": "la",
-        "p": "Massesà deux mains Vedice-Mar",
+        "ia": "un",
+        "da": "l'",
+        "p": "Masses à deux mains Vedice-Mar",
         "pia": "des",
         "pda": "les",
         "description": ""
@@ -12215,7 +12278,7 @@
     "icwacp_mark1": {
         "name": "Muse-Lam",
         "ia": "un",
-        "da": "la",
+        "da": "l'",
         "p": "Muse-Lam",
         "pia": "des",
         "pda": "les",
@@ -12256,6 +12319,15 @@
         "pia": "des",
         "pda": "les",
         "description": ""
+    },
+    "icwm2ss_mark1": {
+        "name": "Tyks I",
+        "ia": "un",
+        "da": "le",
+        "p": "Tyks I",
+        "pia": "des",
+        "pda": "les",
+        "description": "Tyks I"
     },
     "iczacb": {
         "name": "Bottes Lin-kos",
@@ -63073,8 +63145,8 @@
     },
     "mp_colonne": {
         "name": "Pièce de Colonne",
-        "ia": "une",
-        "da": "la",
+        "ia": "un",
+        "da": "l'",
         "p": "Pièce de Colonne",
         "pia": "des",
         "pda": "les",

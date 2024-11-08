@@ -145199,5 +145199,43 @@
             "main": "mp_batiment_socle.png",
             "back": "bk_component.png"
         }
+    },
+    "anniversary_dance_conso": {
+        "sheetid": "anniversary_dance_conso",
+        "type": 35,
+        "item_type": 68,
+        "race": 0,
+        "quality": 0,
+        "bulk": 0,
+        "icon": {
+            "main": "ico_mission_package.png",
+            "over": "item_default.png"
+        }
+    },
+    "conso_fireworks_anniversary": {
+        "sheetid": "conso_fireworks_anniversary",
+        "type": 35,
+        "item_type": 68,
+        "race": 0,
+        "quality": 0,
+        "bulk": 0,
+        "icon": {
+            "main": "mp_firework_anniversary20.png"
+        },
+        "icon_color": {
+            "main": -524544
+        }
+    },
+    "anniversary_dance_scroll": {
+        "sheetid": "anniversary_dance_scroll",
+        "type": 37,
+        "item_type": 68,
+        "race": 0,
+        "quality": 0,
+        "bulk": 0.5,
+        "icon": {
+            "main": "ico_mission_package.png",
+            "over": "item_default.png"
+        }
     }
 }

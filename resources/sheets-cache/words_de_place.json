@@ -71,6 +71,15 @@
         "pp": "in",
         "lpp": "zu"
     },
+    "cake_anniversary_island": {
+        "name": "Süßer Duft von Kuchen",
+        "namea": "Süßer Duft von Kuchen",
+        "nameda": "",
+        "da": "der",
+        "daa": "den",
+        "pp": "",
+        "lpp": ""
+    },
     "cont_kitiniere": {
         "name": "Das Kitinnest",
         "namea": "Kitinnest",
@@ -953,6 +962,15 @@
         "pp": "im",
         "lpp": "zum"
     },
+    "main_stage_anniversary_island": {
+        "name": "Festplatz",
+        "namea": "Festplatz",
+        "nameda": "",
+        "da": "der",
+        "daa": "den",
+        "pp": "",
+        "lpp": ""
+    },
     "mairie_rdc": {
         "name": "Untergeschoss",
         "namea": "Untergeschoss",
@@ -988,6 +1006,15 @@
         "daa": "der",
         "pp": "auf der",
         "lpp": "zur"
+    },
+    "memorial_anniversary_island": {
+        "name": "Gedenkhain",
+        "namea": "Gedenkhain",
+        "nameda": "",
+        "da": "der",
+        "daa": "den",
+        "pp": "",
+        "lpp": ""
     },
     "min_cho_stable": {
         "name": "Stall von Min-Cho",
@@ -3175,15 +3202,6 @@
         "daa": "den",
         "pp": "auf",
         "lpp": "zu"
-    },
-    "place_matis_island_3": {
-        "name": "Ranger-Insel",
-        "namea": "Ranger-Insel",
-        "nameda": "Ranger-Insel",
-        "da": "die",
-        "daa": "die",
-        "pp": "auf der",
-        "lpp": "zur"
     },
     "place_men_xing": {
         "name": "Nen Xing",
@@ -5426,6 +5444,15 @@
         "pp": "",
         "lpp": ""
     },
+    "place_tcm_start_point": {
+        "name": "?????",
+        "namea": "?????",
+        "nameda": "?????",
+        "da": "",
+        "daa": "",
+        "pp": "?????",
+        "lpp": "?????"
+    },
     "place_tcm_tutors": {
         "name": "Tutoren-Altar",
         "namea": "Tutoren-Altar",
@@ -5461,6 +5488,15 @@
         "daa": "den",
         "pp": "im",
         "lpp": "zum"
+    },
+    "place_welcomer_anniversary_island": {
+        "name": "Begrüßungsplatz",
+        "namea": "Begrüßungsplatz",
+        "nameda": "",
+        "da": "der",
+        "daa": "den",
+        "pp": "",
+        "lpp": ""
     },
     "place_windermeer": {
         "name": "Windermeer",
@@ -6200,15 +6236,6 @@
         "pp": "im",
         "lpp": "zum"
     },
-    "region_matis_island": {
-        "name": "Almati-Wald",
-        "namea": "Almati-Wald",
-        "nameda": "Almati-Wald",
-        "da": "die",
-        "daa": "der",
-        "pp": "auf der",
-        "lpp": "zur"
-    },
     "region_matis_island_1": {
         "name": "Almati-Wald",
         "namea": "Almati-Wald",
@@ -6222,18 +6249,18 @@
         "name": "Dantes Lager",
         "namea": "Dantes Lager",
         "nameda": "Dantes Lager",
-        "da": "",
-        "daa": "",
+        "da": "das",
+        "daa": "den",
         "pp": "in",
         "lpp": "zu"
     },
     "region_matis_island_3": {
-        "name": "Almati-Insel",
-        "namea": "Almati-Insel",
-        "nameda": "Almati-Insel",
+        "name": "Jubiläumsinsel",
+        "namea": "Jubiläumsinsel",
+        "nameda": "Jubiläumsinsel",
         "da": "die",
-        "daa": "die",
-        "pp": "auf der",
+        "daa": "den",
+        "pp": "in",
         "lpp": "zur"
     },
     "region_mistvalley": {

@@ -167,6 +167,22 @@
         "twogen": "Очень древних янтарных куба Зораи",
         "onegen": "Очень древний янтарный куб Зораи"
     },
+    "anniversary_dance_conso": {
+        "name": "Сюрприз к 20-летию",
+        "p": "Сюрпризы к 20-летию",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "anniversary_dance_scroll": {
+        "name": "Свиток классического танца",
+        "p": "Свитков классического танца",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
     "aqua_speed": {
         "name": "Водяной насос",
         "p": "Водяной насос",
@@ -503,6 +519,38 @@
         "twogen": "Похищенных ресурса Ками",
         "onegen": "Похищенные ресурсы Ками"
     },
+    "compo_mark1": {
+        "name": "",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "compo_mark2": {
+        "name": "",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "compo_mark3": {
+        "name": "",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "compo_weapon_mark1": {
+        "name": "",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
     "conso_constit_mineskitins": {
         "name": "Fleur de résistance de la kitinière",
         "p": "Fleur de résistance de la kitinière",
@@ -518,6 +566,14 @@
         "somgen": "Фейерверков типа A",
         "twogen": "Фейерверка типа A",
         "onegen": "Фейерверк типа A"
+    },
+    "conso_fireworks_anniversary": {
+        "name": "Тип фейерверка 20 лет",
+        "p": "Фейерверк Тип 20 лет",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
     },
     "conso_fireworks_b": {
         "name": "Фейерверк типа B",
@@ -10832,6 +10888,14 @@
         "onegen": ""
     },
     "icwm1ss_mark1": {
+        "name": "",
+        "p": "",
+        "description": "",
+        "somgen": "",
+        "twogen": "",
+        "onegen": ""
+    },
+    "icwm2ss_mark1": {
         "name": "",
         "p": "",
         "description": "",

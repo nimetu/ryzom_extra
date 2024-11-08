@@ -31,6 +31,10 @@
         "name": "Campamento de Pei-Ruz",
         "da": "el"
     },
+    "cake_anniversary_island": {
+        "name": "Dulce Aroma de Pastel",
+        "da": "la"
+    },
     "cont_kitiniere": {
         "name": "Kitinero",
         "da": "el"
@@ -423,6 +427,10 @@
         "name": "Sabio de Natae",
         "da": "el"
     },
+    "main_stage_anniversary_island": {
+        "name": "Plaza de la Fiesta",
+        "da": "la"
+    },
     "mairie_rdc": {
         "name": "Planta baja",
         "da": "la"
@@ -438,6 +446,10 @@
     "matis_nland": {
         "name": "Isla de los Matis",
         "da": "la"
+    },
+    "memorial_anniversary_island": {
+        "name": "Bosque de la Memoria",
+        "da": "el"
     },
     "min_cho_stable": {
         "name": "Establos de Min Cho",
@@ -1410,10 +1422,6 @@
     "place_matis_island_2": {
         "name": "Pico de Dante",
         "da": "el"
-    },
-    "place_matis_island_3": {
-        "name": "Isla de Rangers",
-        "da": "la"
     },
     "place_men_xing": {
         "name": "Nen Xing",
@@ -2411,6 +2419,10 @@
         "name": "\"Si ves este texto, es un error: lugar_tcm_shaman_tienda\"",
         "da": ""
     },
+    "place_tcm_start_point": {
+        "name": "?????",
+        "da": ""
+    },
     "place_tcm_tutors": {
         "name": "Santuario del Tutor",
         "da": "el"
@@ -2426,6 +2438,10 @@
     "place_waverton_indoors": {
         "name": "Entrenadores de Waverton",
         "da": "los"
+    },
+    "place_welcomer_anniversary_island": {
+        "name": "Plaza de la Bienvenida",
+        "da": "la"
     },
     "place_windermeer": {
         "name": "Windermeer",
@@ -2755,10 +2771,6 @@
         "name": "Jardín Majestuoso",
         "da": "el"
     },
-    "region_matis_island": {
-        "name": "Bosque Almati",
-        "da": "el"
-    },
     "region_matis_island_1": {
         "name": "Bosque Almati",
         "da": "el"
@@ -2768,7 +2780,7 @@
         "da": "el"
     },
     "region_matis_island_3": {
-        "name": "Isla Almati",
+        "name": "Isla del Aniversario",
         "da": "la"
     },
     "region_mistvalley": {

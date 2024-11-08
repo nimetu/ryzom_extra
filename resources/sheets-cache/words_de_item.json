@@ -251,6 +251,30 @@
         "da": "der",
         "description": "\"atystypischer Informations-Träger. Meist mit Rechtsklick und Auswahl von \"\"Info\"\" lesbar\""
     },
+    "anniversary_dance_conso": {
+        "name": "Überraschung zum 20. Jubiläum",
+        "named": "Überraschung zum 20. Jubiläum",
+        "nameda": "Überraschungen zum 20. Jubiläum",
+        "p": "",
+        "pd": "",
+        "pia": "einen",
+        "pda": "die",
+        "ia": "eine",
+        "da": "die",
+        "description": ""
+    },
+    "anniversary_dance_scroll": {
+        "name": "Schriftrolle des klassischen Tanzes",
+        "named": "Schriftrolle des klassischen Tanzes",
+        "nameda": "Schriftrollen des klassischen Tanzes",
+        "p": "",
+        "pd": "",
+        "pia": "einen",
+        "pda": "die",
+        "ia": "eine",
+        "da": "die",
+        "description": ""
+    },
     "aqua_speed": {
         "name": "aquatischer Beschleuniger",
         "named": "aquatische Beschleuniger",
@@ -755,6 +779,54 @@
         "da": "die",
         "description": ""
     },
+    "compo_mark1": {
+        "name": "Mark - Muse-Lam",
+        "named": "Mark - Muse-Lam",
+        "nameda": "Mark - Muse-Lam",
+        "p": "Mark - Muse-Lam",
+        "pd": "Marks - Muse-Lam",
+        "pia": "einen",
+        "pda": "die",
+        "ia": "eine",
+        "da": "die",
+        "description": "Mark - Muse-Lam"
+    },
+    "compo_mark2": {
+        "name": "Mark - Muse-Mam",
+        "named": "Mark - Muse-Mam",
+        "nameda": "Mark - Muse-Mam",
+        "p": "Mark - Muse-Mam",
+        "pd": "Marks - Muse-Mam",
+        "pia": "einen",
+        "pda": "die",
+        "ia": "eine",
+        "da": "die",
+        "description": "Mark - Muse-Mam"
+    },
+    "compo_mark3": {
+        "name": "Mark - Muse-Ham",
+        "named": "Mark - Muse-Ham",
+        "nameda": "Mark - Muse-Ham",
+        "p": "Mark - Muse-Ham",
+        "pd": "Marks - Muse-Ham",
+        "pia": "einen",
+        "pda": "die",
+        "ia": "eine",
+        "da": "die",
+        "description": "Mark - Muse-Ham"
+    },
+    "compo_weapon_mark1": {
+        "name": "Mark I",
+        "named": "Mark I",
+        "nameda": "Mark I",
+        "p": "Mark I",
+        "pd": "Marks I",
+        "pia": "einen",
+        "pda": "die",
+        "ia": "eine",
+        "da": "die",
+        "description": "Mark I"
+    },
     "conso_constit_mineskitins": {
         "name": "Widerstandsblume aus dem Kitinnest",
         "named": "Widerstandsblume aus dem Kitinnest",
@@ -778,6 +850,18 @@
         "ia": "ein",
         "da": "das",
         "description": "Schießt bei Beutzung ein effektvolles Feuerwerk in die Luft. Jeweils ein Feuerwerk wird dabei verbraucht. Mit anderen Spielern tauschbar."
+    },
+    "conso_fireworks_anniversary": {
+        "name": "Feuerwerk Typ 20 Jahre",
+        "named": "Feuerwerk Typ 20 Jahre",
+        "nameda": "Feuerwerke Typ 20 Jahre",
+        "p": "",
+        "pd": "",
+        "pia": "einen",
+        "pda": "die",
+        "ia": "eine",
+        "da": "die",
+        "description": ""
     },
     "conso_fireworks_b": {
         "name": "Feuerwerk Typ B",
@@ -16342,6 +16426,18 @@
         "ia": "",
         "da": "",
         "description": ""
+    },
+    "icwm2ss_mark1": {
+        "name": "Tyks I",
+        "named": "Tyks I",
+        "nameda": "Tyks I",
+        "p": "Tyks I",
+        "pd": "Tyks I",
+        "pia": "einen",
+        "pda": "die",
+        "ia": "ein",
+        "da": "die",
+        "description": "Tyks I"
     },
     "iczacb": {
         "name": "Lin-ko-Stiefel",

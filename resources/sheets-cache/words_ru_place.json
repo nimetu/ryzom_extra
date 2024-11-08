@@ -47,6 +47,12 @@
         "placeaccus": "Лагерь Пэй-Руза",
         "placedat": "Лагерю Пэй-Руза"
     },
+    "cake_anniversary_island": {
+        "name": "Сладкие Запахи Торта",
+        "placegen": "",
+        "placeaccus": "",
+        "placedat": ""
+    },
     "cont_kitiniere": {
         "name": "Логово Китинов",
         "placegen": "Логово Китинов",
@@ -635,6 +641,12 @@
         "placeaccus": "",
         "placedat": ""
     },
+    "main_stage_anniversary_island": {
+        "name": "Фестивальная Площадь",
+        "placegen": "",
+        "placeaccus": "",
+        "placedat": ""
+    },
     "mairie_rdc": {
         "name": "Первый этаж",
         "placegen": "Первого этажа",
@@ -656,6 +668,12 @@
     "matis_nland": {
         "name": "Земли матисов",
         "placegen": "Земель матисов",
+        "placeaccus": "",
+        "placedat": ""
+    },
+    "memorial_anniversary_island": {
+        "name": "Мемориальная Роща",
+        "placegen": "",
         "placeaccus": "",
         "placedat": ""
     },
@@ -2086,12 +2104,6 @@
         "placegen": "",
         "placeaccus": "",
         "placedat": ""
-    },
-    "place_matis_island_3": {
-        "name": "Остров Рейнджеров",
-        "placegen": "Острова Рейнджеров",
-        "placeaccus": "Остров Рейнджеров",
-        "placedat": "Острову Рейнджеров"
     },
     "place_men_xing": {
         "name": "Нен-Ксинг",
@@ -3587,6 +3599,12 @@
         "placeaccus": "",
         "placedat": ""
     },
+    "place_tcm_start_point": {
+        "name": "?????",
+        "placegen": "?????",
+        "placeaccus": "?????",
+        "placedat": "?????"
+    },
     "place_tcm_tutors": {
         "name": "Святилище Наставников",
         "placegen": "Святилища Наставников",
@@ -3608,6 +3626,12 @@
     "place_waverton_indoors": {
         "name": "Инструкторы Уэйвертона",
         "placegen": "Инструкторов Уэйвертона",
+        "placeaccus": "",
+        "placedat": ""
+    },
+    "place_welcomer_anniversary_island": {
+        "name": "Площадь Приветствия",
+        "placegen": "",
         "placeaccus": "",
         "placedat": ""
     },
@@ -4111,15 +4135,15 @@
     },
     "region_matis_island_2": {
         "name": "Лагерь Данте",
-        "placegen": "",
+        "placegen": "Лагерь Данте",
         "placeaccus": "",
         "placedat": ""
     },
     "region_matis_island_3": {
-        "name": "Остров Алмати",
-        "placegen": "Острова Алмати",
-        "placeaccus": "Остров Алмати",
-        "placedat": "Острову Алмати"
+        "name": "Юбилейный Остров",
+        "placegen": "Юбилейный Остров",
+        "placeaccus": "",
+        "placedat": ""
     },
     "region_mistvalley": {
         "name": "Долина Туманов",

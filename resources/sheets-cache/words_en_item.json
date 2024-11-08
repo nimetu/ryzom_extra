@@ -188,6 +188,24 @@
         "pda": "the",
         "description": ""
     },
+    "anniversary_dance_conso": {
+        "name": "Surprise from 20th anniversary",
+        "ia": "a",
+        "da": "the",
+        "p": "Surprises from 20th anniversary",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "anniversary_dance_scroll": {
+        "name": "Classical dance scroll",
+        "ia": "a",
+        "da": "the",
+        "p": "Classical dance scrolls",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
     "aqua_speed": {
         "name": "Aquatic Propulsor",
         "ia": "an",
@@ -566,6 +584,42 @@
         "pda": "the",
         "description": ""
     },
+    "compo_mark1": {
+        "name": "Mark - Muse-Lam",
+        "ia": "a",
+        "da": "the",
+        "p": "Marks - Muse-Lam",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "compo_mark2": {
+        "name": "Mark - Muse-Mam",
+        "ia": "a",
+        "da": "the",
+        "p": "Marks - Muse-Mam",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "compo_mark3": {
+        "name": "Mark - Muse-Ham",
+        "ia": "a",
+        "da": "the",
+        "p": "Marks - Muse-Ham",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "compo_weapon_mark1": {
+        "name": "Mark I",
+        "ia": "a",
+        "da": "the",
+        "p": "Marks I",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
     "conso_constit_mineskitins": {
         "name": "Kitin's Lair Resitance Flower",
         "ia": "a",
@@ -580,6 +634,15 @@
         "ia": "a",
         "da": "the",
         "p": "Fireworks Type A",
+        "pia": "",
+        "pda": "the",
+        "description": "Pretty lights!"
+    },
+    "conso_fireworks_anniversary": {
+        "name": "Firework Type 20 years",
+        "ia": "a",
+        "da": "the",
+        "p": "Fireworks Type 20 years",
         "pia": "",
         "pda": "the",
         "description": "Pretty lights!"
@@ -12253,6 +12316,15 @@
         "ia": "a",
         "da": "the",
         "p": "Dex I",
+        "pia": "",
+        "pda": "the",
+        "description": ""
+    },
+    "icwm2ss_mark1": {
+        "name": "Tyks I",
+        "ia": "a",
+        "da": "the",
+        "p": "Tyks I",
         "pia": "",
         "pda": "the",
         "description": ""

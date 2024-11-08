@@ -188,6 +188,24 @@
         "pda": "los",
         "description": ""
     },
+    "anniversary_dance_conso": {
+        "name": "Sorpresa del 20° aniversario",
+        "ia": "una",
+        "da": "la",
+        "p": "Sorpresas del 20° aniversario",
+        "pia": "unas",
+        "pda": "las",
+        "description": ""
+    },
+    "anniversary_dance_scroll": {
+        "name": "Pergamino de danza clásica",
+        "ia": "uno",
+        "da": "el",
+        "p": "Pergaminos de danza clásica",
+        "pia": "unos",
+        "pda": "los",
+        "description": "Pergaminos no consumibles que te permitirán ser Nijinsky por un momento"
+    },
     "aqua_speed": {
         "name": "Propulsor Acuático",
         "ia": "un",
@@ -566,6 +584,42 @@
         "pda": "los",
         "description": ""
     },
+    "compo_mark1": {
+        "name": "Mark - Muse-Lam",
+        "ia": "uno",
+        "da": "el",
+        "p": "Mark - Muse-Lam",
+        "pia": "unos",
+        "pda": "los",
+        "description": ""
+    },
+    "compo_mark2": {
+        "name": "Mark - Muse-Mam",
+        "ia": "uno",
+        "da": "el",
+        "p": "Marks - Muse-Mam",
+        "pia": "unos",
+        "pda": "los",
+        "description": "Mark - Muse-Mam"
+    },
+    "compo_mark3": {
+        "name": "Mark - Muse-Ham",
+        "ia": "uno",
+        "da": "el",
+        "p": "Mark - Muse-Ham",
+        "pia": "unos",
+        "pda": "los",
+        "description": ""
+    },
+    "compo_weapon_mark1": {
+        "name": "Mark I",
+        "ia": "uno",
+        "da": "el",
+        "p": "Marks I",
+        "pia": "unos",
+        "pda": "los",
+        "description": ""
+    },
     "conso_constit_mineskitins": {
         "name": "Flor de la Resistencia del Kitinero",
         "ia": "una",
@@ -583,6 +637,15 @@
         "pia": "unos",
         "pda": "los",
         "description": ""
+    },
+    "conso_fireworks_anniversary": {
+        "name": "Fuego artificial tipo 20 años",
+        "ia": "uno",
+        "da": "el",
+        "p": "Fuegos artificiales tipo 20 años",
+        "pia": "unos",
+        "pda": "los",
+        "description": "¡Hermosas luces!"
     },
     "conso_fireworks_b": {
         "name": "Fuego Artificial Tipo B",
@@ -10602,12 +10665,12 @@
         "description": ""
     },
     "icrm1pd_red": {
-        "name": "Daga Roja del Sobreviviente",
-        "ia": "uno",
-        "da": "el",
-        "p": "Daga Roja del Sobreviviente",
-        "pia": "unos",
-        "pda": "los",
+        "name": "Daga roja del Sobreviviente",
+        "ia": "una",
+        "da": "la",
+        "p": "Dagas rojas del Sobreviviente",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "icrm1ss": {
@@ -10629,21 +10692,21 @@
         "description": ""
     },
     "icrm2ms_green": {
-        "name": "Amplificadores verdes de Tenacidad",
-        "ia": "uno",
-        "da": "el",
-        "p": "Amplificadores verdes de Tenacidad",
-        "pia": "unos",
-        "pda": "los",
+        "name": "Par de amplificadores verdes de Tenacidad",
+        "ia": "una",
+        "da": "la",
+        "p": "Pares de amplificadores verdes de Tenacidad",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "icrm2ms_red": {
-        "name": "Amplificadores Rojos del Sobreviviente",
-        "ia": "uno",
-        "da": "el",
-        "p": "Amplificadores Rojos del Sobreviviente",
-        "pia": "unos",
-        "pda": "los",
+        "name": "Par de amplificadores rojos del sobreviviente",
+        "ia": "una",
+        "da": "la",
+        "p": "Pares de amplificadores rojos del sobreviviente",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "ictacb": {
@@ -12256,6 +12319,15 @@
         "pia": "unas",
         "pda": "las",
         "description": ""
+    },
+    "icwm2ss_mark1": {
+        "name": "Tyks I",
+        "ia": "uno",
+        "da": "el",
+        "p": "Tyks I",
+        "pia": "unos",
+        "pda": "los",
+        "description": "Tyks I"
     },
     "iczacb": {
         "name": "Botas Lin-Ko",
@@ -63081,12 +63153,12 @@
         "description": ""
     },
     "mp_hard": {
-        "name": "Materia prima genérica blanda\/líquida",
-        "ia": "una",
-        "da": "la",
-        "p": "Materias primas genéricas blandas\/líquidas",
-        "pia": "unas",
-        "pda": "las",
+        "name": "Materia prima genérica dura",
+        "ia": "uno",
+        "da": "el",
+        "p": "Materias primas genéricas duras",
+        "pia": "unos",
+        "pda": "los",
         "description": ""
     },
     "mp_kami_ep2_choice_100": {
@@ -63297,12 +63369,12 @@
         "description": ""
     },
     "mp_soft": {
-        "name": "Materia prima genérica dura",
-        "ia": "uno",
-        "da": "el",
-        "p": "Materias primas genéricas duras",
-        "pia": "unos",
-        "pda": "los",
+        "name": "Materia prima genérica blanda\/líquida",
+        "ia": "una",
+        "da": "la",
+        "p": "Materias primas genéricas blandas\/líquidas",
+        "pia": "unas",
+        "pda": "las",
         "description": ""
     },
     "nanka_mace_crate": {
@@ -65376,12 +65448,12 @@
         "description": ""
     },
     "slot_fingerr": {
-        "name": "Equipar un anillo en tu dedo derecho",
-        "ia": "",
-        "da": "",
-        "p": "Equipar un anillo en tu dedo derecho",
-        "pia": "",
-        "pda": "",
+        "name": "Equipar el anillo en tu dedo derecho",
+        "ia": "uno",
+        "da": "el",
+        "p": "",
+        "pia": "unos",
+        "pda": "los",
         "description": ""
     },
     "slot_neck": {

@@ -31,6 +31,10 @@
         "name": "Pei-Ruz's Camp",
         "da": ""
     },
+    "cake_anniversary_island": {
+        "name": "Sweet Smells of Cake",
+        "da": "the"
+    },
     "cont_kitiniere": {
         "name": "Kitins' Lair",
         "da": "the"
@@ -423,6 +427,10 @@
         "name": "Natae Sage's Quarters",
         "da": ""
     },
+    "main_stage_anniversary_island": {
+        "name": "Festival Square",
+        "da": "the"
+    },
     "mairie_rdc": {
         "name": "Ground floor",
         "da": ""
@@ -438,6 +446,10 @@
     "matis_nland": {
         "name": "Matis Island",
         "da": ""
+    },
+    "memorial_anniversary_island": {
+        "name": "Memorial Grove",
+        "da": "the"
     },
     "min_cho_stable": {
         "name": "Min-Cho Stables",
@@ -1409,10 +1421,6 @@
     },
     "place_matis_island_2": {
         "name": "Dante's Peak",
-        "da": ""
-    },
-    "place_matis_island_3": {
-        "name": "Rangers island",
         "da": ""
     },
     "place_men_xing": {
@@ -2411,6 +2419,10 @@
         "name": "If you see this text, it's a bug: place_tcm_shaman_tent",
         "da": ""
     },
+    "place_tcm_start_point": {
+        "name": "?????",
+        "da": ""
+    },
     "place_tcm_tutors": {
         "name": "Tutors' Sanctuary",
         "da": "the"
@@ -2426,6 +2438,10 @@
     "place_waverton_indoors": {
         "name": "Waverton trainers",
         "da": ""
+    },
+    "place_welcomer_anniversary_island": {
+        "name": "Welcome Square",
+        "da": "the"
     },
     "place_windermeer": {
         "name": "Windermeer",
@@ -2755,10 +2771,6 @@
         "name": "Majestic Garden",
         "da": ""
     },
-    "region_matis_island": {
-        "name": "Almati Woods",
-        "da": ""
-    },
     "region_matis_island_1": {
         "name": "Almati Wood",
         "da": ""
@@ -2768,8 +2780,8 @@
         "da": ""
     },
     "region_matis_island_3": {
-        "name": "Almati Island",
-        "da": ""
+        "name": "Anniversary Island",
+        "da": "the"
     },
     "region_mistvalley": {
         "name": "Valley of Mists",
