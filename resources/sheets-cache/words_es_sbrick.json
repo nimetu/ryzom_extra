@@ -11436,7 +11436,7 @@
         "p": "",
         "pia": "",
         "pda": "las",
-        "description": "Estancia de fabricación de armas de alcance enraizadas.",
+        "description": "Estancia de fabricación base de armas de alcance.",
         "description2": ""
     },
     "bcpa27": {
@@ -41738,16 +41738,6 @@
         "pda": "los",
         "description": "el @{5F5F}3% de @{FFFF}chance de recuperar, al momento de tu resurrección, @{5F5F}la mitad @{FFFF}de tu salud, savia, resistencia y concentración máxima.",
         "description2": "@{FAAF}Solo en Alturas Verdes y el Nexo."
-    },
-    "jrez_halflife_primes": {
-        "name": "",
-        "ia": "",
-        "da": "",
-        "p": "",
-        "pia": "",
-        "pda": "",
-        "description": "",
-        "description2": ""
     },
     "jrez_halflife_tryker": {
         "name": "Regreso de pie",
