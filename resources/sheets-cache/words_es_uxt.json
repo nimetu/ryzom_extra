@@ -593,6 +593,9 @@
     "elementalist_apprentice": {
         "name": "Elementalista Aprendiz"
     },
+    "em_desc": {
+        "name": "Crea un emote sin usar una animación."
+    },
     "emote_desc": {
         "name": "Permite a un grupo PNJ colocar un emoticón"
     },
@@ -2245,6 +2248,303 @@
     },
     "heshout": {
         "name": "grita"
+    },
+    "hide_n_hype": {
+        "name": "Hide n Hype"
+    },
+    "hide_n_hype_a_new_hide_start_soon_window": {
+        "name": "Un nuevo juego comienza en 2 minutos"
+    },
+    "hide_n_hype_abort_most_wanted_bad_position": {
+        "name": "El ocultador realizó una acción ilegal."
+    },
+    "hide_n_hype_abort_most_wanted_bad_position_window": {
+        "name": "Juego abortado"
+    },
+    "hide_n_hype_abort_most_wanted_moved_window": {
+        "name": "Juego abortado"
+    },
+    "hide_n_hype_abort_most_wanted_offline_game_abort_window": {
+        "name": "Juego abortado"
+    },
+    "hide_n_hype_abort_not_enough_player": {
+        "name": "El juego no pudo comenzar porque no hay suficientes jugadores."
+    },
+    "hide_n_hype_abort_not_enough_player_to_start_a_round_window": {
+        "name": "No hay suficientes jugadores."
+    },
+    "hide_n_hype_already_registerd": {
+        "name": "Ya te has unido al juego."
+    },
+    "hide_n_hype_asked_register": {
+        "name": "¿Quieres unirte?"
+    },
+    "hide_n_hype_asked_unregister": {
+        "name": "¿Quieres salir?"
+    },
+    "hide_n_hype_avaible_objects": {
+        "name": "Objetos disponibles para aparecer:"
+    },
+    "hide_n_hype_better_luck_next_time": {
+        "name": "¡Mejor suerte la próxima vez!"
+    },
+    "hide_n_hype_blue": {
+        "name": "azul"
+    },
+    "hide_n_hype_brown": {
+        "name": "marrón"
+    },
+    "hide_n_hype_burnt": {
+        "name": "quemado"
+    },
+    "hide_n_hype_cannot_open_reg_dereg_window_because_game_is_running": {
+        "name": "No puedes hacerlo ahora porque ya hay una ronda en marcha."
+    },
+    "hide_n_hype_click_here_to_claim_your_price": {
+        "name": "Haz clic aquí para reclamar tu premio."
+    },
+    "hide_n_hype_click_no": {
+        "name": "No"
+    },
+    "hide_n_hype_click_to_check_found_most_wanted": {
+        "name": "Verifica si es el escondido"
+    },
+    "hide_n_hype_click_to_close": {
+        "name": "Cerrar"
+    },
+    "hide_n_hype_click_to_hunter": {
+        "name": "Inscribirse como buscador"
+    },
+    "hide_n_hype_click_to_hunter_or_mostwanted": {
+        "name": "Inscribirse como ambos"
+    },
+    "hide_n_hype_click_to_mostwanted": {
+        "name": "Inscribirse como escondido"
+    },
+    "hide_n_hype_click_to_register": {
+        "name": "Haz clic para unirte"
+    },
+    "hide_n_hype_click_to_reject": {
+        "name": "Saltar esta ronda"
+    },
+    "hide_n_hype_click_to_unregister": {
+        "name": "Haz clic para salir"
+    },
+    "hide_n_hype_click_yes": {
+        "name": "Sí"
+    },
+    "hide_n_hype_close_your_eyes_and_count_window": {
+        "name": "¡No espíes!"
+    },
+    "hide_n_hype_currently_registerd_player_online": {
+        "name": "Jugadores disponibles"
+    },
+    "hide_n_hype_curved": {
+        "name": "curvo"
+    },
+    "hide_n_hype_dead": {
+        "name": "muerto"
+    },
+    "hide_n_hype_desc": {
+        "name": "Un Homin debe esconderse, y el resto debe buscarlo. ¿Quién puede aguantar 10 minutos sin ser encontrado?"
+    },
+    "hide_n_hype_dont_break_the_afk_status": {
+        "name": "No canceles el estado AFK, ¡no chatees!"
+    },
+    "hide_n_hype_find_a_good_hiding_spot": {
+        "name": "Encuentra un lugar para esconderte"
+    },
+    "hide_n_hype_follow_this_rules": {
+        "name": "Sigue estas reglas"
+    },
+    "hide_n_hype_found_you": {
+        "name": "¡Te encontré! ¡Buen escondite!"
+    },
+    "hide_n_hype_game_is_over_window": {
+        "name": "Juego terminado"
+    },
+    "hide_n_hype_game_is_running_window": {
+        "name": "El juego está en curso"
+    },
+    "hide_n_hype_go_and_hide_fast": {
+        "name": "Escóndete en 3 minutos"
+    },
+    "hide_n_hype_green": {
+        "name": "verde"
+    },
+    "hide_n_hype_has_out_searched_you": {
+        "name": "te ha superado en la búsqueda"
+    },
+    "hide_n_hype_high": {
+        "name": "alto"
+    },
+    "hide_n_hype_hint_1": {
+        "name": "Pista 1:"
+    },
+    "hide_n_hype_hint_2": {
+        "name": "Pista 2:"
+    },
+    "hide_n_hype_hint_3": {
+        "name": "Pista 3:"
+    },
+    "hide_n_hype_hint_4": {
+        "name": "Pista 4:"
+    },
+    "hide_n_hype_hunter": {
+        "name": "Buscador"
+    },
+    "hide_n_hype_hunter_and_most_wanted": {
+        "name": "Buscador & Escondido"
+    },
+    "hide_n_hype_keep_calm": {
+        "name": "¡Mantén la calma y no te muevas!"
+    },
+    "hide_n_hype_keep_untouched_and_not_found": {
+        "name": "no fue encontrado a tiempo"
+    },
+    "hide_n_hype_large": {
+        "name": "grande"
+    },
+    "hide_n_hype_most_wanted": {
+        "name": "Escondido"
+    },
+    "hide_n_hype_most_wanted_lost_connection": {
+        "name": "El escondido perdió la conexión, por favor espera..."
+    },
+    "hide_n_hype_most_wanted_moved_game_abort": {
+        "name": "Lástima que el escondido se movió."
+    },
+    "hide_n_hype_most_wanted_offline_game_abort": {
+        "name": "El escondido no se reconectó a tiempo."
+    },
+    "hide_n_hype_new_hint_in": {
+        "name": "Nueva pista en:"
+    },
+    "hide_n_hype_no_active_hide": {
+        "name": "No hay juego activo."
+    },
+    "hide_n_hype_not_allow_again": {
+        "name": "No puedes ser un hider dos veces seguidas."
+    },
+    "hide_n_hype_not_enough": {
+        "name": "No hay suficientes jugadores inscritos"
+    },
+    "hide_n_hype_not_most_wanted": {
+        "name": "¡No eres el escondido!"
+    },
+    "hide_n_hype_not_near_most_wanted": {
+        "name": "¡Nadie se esconde aquí!"
+    },
+    "hide_n_hype_not_ready": {
+        "name": "No listo"
+    },
+    "hide_n_hype_not_registerd": {
+        "name": "No te has unido al juego."
+    },
+    "hide_n_hype_ok_enough_player": {
+        "name": "Suficientes jugadores inscritos"
+    },
+    "hide_n_hype_ok_player_accept": {
+        "name": "Inscrito exitosamente como"
+    },
+    "hide_n_hype_ok_you_found_most_wanted": {
+        "name": "¡Felicidades, encontraste al escondido!"
+    },
+    "hide_n_hype_orange": {
+        "name": "naranja"
+    },
+    "hide_n_hype_purple": {
+        "name": "naranja"
+    },
+    "hide_n_hype_ready_wait_for_countdown": {
+        "name": "Listo - espera - no te muevas"
+    },
+    "hide_n_hype_reg_sucesfully": {
+        "name": "Te has unido al juego exitosamente."
+    },
+    "hide_n_hype_register_now": {
+        "name": "¡Únete ahora!"
+    },
+    "hide_n_hype_register_window": {
+        "name": "Registro"
+    },
+    "hide_n_hype_reinitialize_the_game": {
+        "name": "Reiniciar el juego"
+    },
+    "hide_n_hype_reinitialize_the_game_desc": {
+        "name": "Atención esto puede llevar a comportamientos extraños o incluso abortar las rondas en ejecución, úsalo sólo si no hay otra forma de arreglar el juego (excepto reiniciar el cliente)"
+    },
+    "hide_n_hype_reject": {
+        "name": "Saltar"
+    },
+    "hide_n_hype_round": {
+        "name": "redondo"
+    },
+    "hide_n_hype_small": {
+        "name": "pequeño"
+    },
+    "hide_n_hype_square": {
+        "name": "cuadrado"
+    },
+    "hide_n_hype_time_to_come_out": {
+        "name": "¡Hora de salir!"
+    },
+    "hide_n_hype_toxic": {
+        "name": "tóxico"
+    },
+    "hide_n_hype_unreg_sucesfully": {
+        "name": "Has salido del juego exitosamente."
+    },
+    "hide_n_hype_unregister_now_and_close": {
+        "name": "¡Sal ahora!"
+    },
+    "hide_n_hype_unregister_window": {
+        "name": "Cancelar registro"
+    },
+    "hide_n_hype_used_a_object_to_hide": {
+        "name": "Generar un objeto de la lista"
+    },
+    "hide_n_hype_wait_for_game_finish": {
+        "name": "Espera a que termine el juego."
+    },
+    "hide_n_hype_wait_for_game_start": {
+        "name": "Espera a que comience el juego."
+    },
+    "hide_n_hype_wait_for_most_wanted": {
+        "name": "Deja que el escondido encuentre un lugar primero."
+    },
+    "hide_n_hype_wait_for_most_wanted_come_back_online_window": {
+        "name": "Juego en pausa"
+    },
+    "hide_n_hype_wait_of_start_of_the_round": {
+        "name": "Espera el inicio y no te muevas"
+    },
+    "hide_n_hype_white": {
+        "name": "blanco"
+    },
+    "hide_n_hype_wood": {
+        "name": "madera"
+    },
+    "hide_n_hype_you_cannot_be_in_team": {
+        "name": "¡Primero debes abandonar el equipo!"
+    },
+    "hide_n_hype_you_found_the_most_wanted": {
+        "name": "Has encontrado al escondido."
+    },
+    "hide_n_hype_you_realy_want_to_skip": {
+        "name": "¿De verdad quieres saltarte esta ronda?"
+    },
+    "hide_n_hype_you_realy_want_to_unregister": {
+        "name": "¿De verdad quieres dejar el juego?"
+    },
+    "hide_n_hype_you_realy_want_window": {
+        "name": "¿De verdad quieres hacerlo?"
+    },
+    "hide_n_hype_you_will_loos_all_your_progress": {
+        "name": "Perderás tus progresos."
+    },
+    "hide_n_hype_you_won_no_player_found_you": {
+        "name": "¡Ganaste! Ningún jugador te encontró"
     },
     "homin": {
         "name": "Homin"
@@ -5663,6 +5963,48 @@
     "nude_desc": {
         "name": "remover todo el equipamiento sin tocar los bolsillos."
     },
+    "object_1_barrel_sel_nocollision": {
+        "name": "Barril"
+    },
+    "object_1_crate_sel_nocollision": {
+        "name": "Cajón"
+    },
+    "object_fo_s2_bigroot_c_sel_nocollision": {
+        "name": "Raíz forestal"
+    },
+    "object_fy_s1_burnedtree_d_sel_nocollision": {
+        "name": "Árbol quemado Dester"
+    },
+    "object_giant_skull_b_lokness_c_sel_nocollision": {
+        "name": "Calavera Gigante"
+    },
+    "object_ju_s3_dead_tree_sel_nocollision": {
+        "name": "Árbol Muerto de la Selva"
+    },
+    "object_spot_goo_sel_nocollision": {
+        "name": "Sitio de Goo"
+    },
+    "object_tent_fyros_sel_nocollision": {
+        "name": "Tienda Fyros"
+    },
+    "object_tent_matis_sel_nocollision": {
+        "name": "Tienda Matis"
+    },
+    "object_tent_sel_nocollision": {
+        "name": "Tienda Ranger"
+    },
+    "object_tent_tryker_sel_nocollision": {
+        "name": "Tienda Tryker"
+    },
+    "object_tent_zorai_sel_nocollision": {
+        "name": "Tienda Zoraï"
+    },
+    "object_totem_kitin_sel_nocollision": {
+        "name": "Tótem Kitin"
+    },
+    "object_tr_s2_lokness_c_sel_nocollision": {
+        "name": "Raíz de los Lagos"
+    },
     "offensive_magician": {
         "name": "Mago Ofensivo"
     },
@@ -8012,6 +8354,9 @@
     "uichat": {
         "name": "Chat"
     },
+    "uichatautocompletecb": {
+        "name": "Uso del autocompletado de comandos"
+    },
     "uichatcolors": {
         "name": "Colores de Chat y Opciones"
     },
@@ -9451,6 +9796,15 @@
     },
     "uiem_emotes": {
         "name": "EMOTICONOS"
+    },
+    "uiem_emotes_nobody": {
+        "name": "Sin objetivo"
+    },
+    "uiem_emotes_self": {
+        "name": "Objetivo propio"
+    },
+    "uiem_emotes_target": {
+        "name": "Con Target"
     },
     "uiem_emotional": {
         "name": "EMOTIVO"
@@ -17504,6 +17858,9 @@
     "uisearchcommandcount": {
         "name": "Cuenta"
     },
+    "uisearchcommandcustomemotetext": {
+        "name": "texto emote personalizado"
+    },
     "uisearchcommanddescription": {
         "name": "Descripción"
     },
@@ -17556,7 +17913,7 @@
         "name": "Float"
     },
     "uisearchcommandfound": {
-        "name": "Encontrado"
+        "name": "Comando encontrado"
     },
     "uisearchcommandguildname": {
         "name": "GuildName"
@@ -17620,6 +17977,9 @@
     },
     "uisearchcommandmode": {
         "name": "Modo"
+    },
+    "uisearchcommandmorecustomemotetext": {
+        "name": "más texto emote personalizado"
     },
     "uisearchcommandname": {
         "name": "Nombre"
@@ -17755,6 +18115,9 @@
     },
     "uisearchcommandzonename": {
         "name": "NombreZona"
+    },
+    "uisearchemotesfound": {
+        "name": "Emotes encontrados"
     },
     "uisearchterm": {
         "name": "Término de búsqueda (Opcional)"
@@ -19426,6 +19789,9 @@
     },
     "uittdirectsellbutton": {
         "name": "Vender ahora a precio base (Shift + ENTER)"
+    },
+    "uittdisablechatautocomplete": {
+        "name": "No es necesario buscar en la wiki de ryzom la ortografía exacta de un comando, o la lista de parámetros, gracias al autocompletado. Empieza a escribir tu comando y aparecerá una lista de sugerencias."
     },
     "uittdisabletime": {
         "name": "Reutilizar tiempo: @{FFFF}"

@@ -5970,7 +5970,7 @@
         "pd": "Wichtigen Verkleidungsplatten",
         "ia": "eine",
         "da": "die",
-        "pia": "",
+        "pia": "einen",
         "pda": "die",
         "description": "Handwerksplan für eine wichtige Verkleidungsplatte",
         "description2": ""
@@ -6016,9 +6016,9 @@
         "named": "Wichtige Zierstück",
         "p": "Wichtige Zierstücke",
         "pd": "Wichtigen Zierstücke",
-        "ia": "ein",
-        "da": "das",
-        "pia": "",
+        "ia": "eine",
+        "da": "die",
+        "pia": "einen",
         "pda": "die",
         "description": "Handwerksplan für ein wichtiges Zierstück",
         "description2": ""
@@ -6028,9 +6028,9 @@
         "named": "Wichtige Sockelstück",
         "p": "Wichtige Sockelstücke",
         "pd": "Wichtigen Sockelstücke",
-        "ia": "ein",
-        "da": "das",
-        "pia": "",
+        "ia": "eine",
+        "da": "die",
+        "pia": "einen",
         "pda": "die",
         "description": "Handwerksplan für ein wichtiges Sockelstück",
         "description2": ""
@@ -6052,9 +6052,9 @@
         "named": "Nebensächliche Teil einer Säule",
         "p": "Nebensächliche Teile von Säulen",
         "pd": "Nebensächlichen Teile von Säulen",
-        "ia": "ein",
-        "da": "der",
-        "pia": "",
+        "ia": "eine",
+        "da": "die",
+        "pia": "einen",
         "pda": "die",
         "description": "Handwerksplan für einen nebensächlichen Teil einer Säule",
         "description2": ""
@@ -50086,18 +50086,6 @@
         "pda": "",
         "description": "@{5F5F}3% @{FFFF}Chance bei Wiederauferstehung @{5F5F}die Hälfte @{FFFF}des Lebens, der Ausdauer, des Sap und des Fokus wiederzuerlangen. @{FAAF}Nur in den Grünen Anhöhen und im Nexus.",
         "description2": "gut zu Fuß"
-    },
-    "jrez_halflife_primes": {
-        "name": "",
-        "named": "",
-        "p": "",
-        "pd": "",
-        "ia": "",
-        "da": "",
-        "pia": "",
-        "pda": "",
-        "description": "",
-        "description2": ""
     },
     "jrez_halflife_tryker": {
         "name": "Stehenden Fußes",

@@ -180,7 +180,7 @@
         "name": "leichte"
     },
     "atmedium": {
-        "name": "mittelschwer"
+        "name": "mittelschwere"
     },
     "attack_magician": {
         "name": "Kampfmagier"
@@ -204,7 +204,7 @@
         "name": "Avatar der Sorgen"
     },
     "average": {
-        "name": "Durchschnittlich"
+        "name": "Durchschnittliche Schwierigkeit"
     },
     "axeman": {
         "name": "Axtkämpfer"
@@ -264,7 +264,7 @@
         "name": "unbekannt"
     },
     "broadcast_desc": {
-        "name": "Senden einer Nachricht: repeat=<num repeat> oder during=<time in seconds> every=<delay in secondses> <message>"
+        "name": "Senden einer Nachricht: repeat=<num repeat> oder during=<time in seconds> every=<delay in seconds> <message>"
     },
     "brutalquit_desc": {
         "name": "Beendet den Spiel-Client sofort."
@@ -279,7 +279,7 @@
         "name": "Schutzmagier"
     },
     "c_desc": {
-        "name": "So verwendest du die Befehle im Spiel, wenn dein Konto mit dem richtigen Privileg gekennzeichnet ist Verwende die folgenden Chat-Befehle im Spiel je nach Ziel: Bei einer anderen Person"
+        "name": "So verwendest du die Befehle im Spiel, wenn dein Konto mit dem richtigen Privileg gekennzeichnet ist. Verwende die folgenden Chat-Befehle im Spiel je nach Ziel: Bei einer anderen Person"
     },
     "can_t_create_a_fullscreen_display": {
         "name": "Vollbildmodus kann nicht eingestellt werden"
@@ -312,19 +312,19 @@
         "name": "Tritt dem Kanal mit dem angegebenen Namen bei oder erstellt ihn, wenn er noch nicht existiert."
     },
     "channel_leave_desc": {
-        "name": "Verlasse den Kanal mit dem angegebenen Namens."
+        "name": "Verlasse den Kanal mit dem angegebenen Namen."
     },
     "channel_password_desc": {
         "name": "Einem passwortgeschützten Kanal beitreten oder einen solchen erstellen."
     },
     "channel_remove_admin_desc": {
-        "name": "Einen Kanal entfernen, auch wenn er passwortgeschützt ist"
+        "name": "Einen Kanal entfernen, auch wenn er passwortgeschützt ist."
     },
     "characterinventorydump_desc": {
         "name": "Inventarinformationen des Charakters ausgeben: <Inventar> <vom Steckplatz> <zum Steckplatz>"
     },
     "charactermissiondump_desc": {
-        "name": "Missionsliste für einen Charakter ausgeben"
+        "name": "Missionsliste für einen Charakter ausgeben."
     },
     "chat_desc": {
         "name": "Hält den Fokus auf dem Chat, Enter verlässt den Chat nicht."
@@ -593,6 +593,9 @@
     "elementalist_apprentice": {
         "name": "Elementalisten-Lehrling"
     },
+    "em_desc": {
+        "name": "Erzeugt ein Emote, ohne eine Animation zu verwenden."
+    },
     "emote_desc": {
         "name": "eine NPC-Gruppe ein Emote ausführen lassen"
     },
@@ -600,7 +603,7 @@
         "name": "Verzauberer"
     },
     "equipgroup_desc": {
-        "name": "stattet die Gegenstandsgruppe aus"
+        "name": "rüstet die Gegenstandsgruppe aus"
     },
     "errorcreating": {
         "name": "Fehler bei der Satzerstellung"
@@ -678,7 +681,7 @@
         "name": "Erfahrener Schildschmied"
     },
     "extremelydifficult": {
-        "name": "Extrem schwer"
+        "name": "Extrem schwierig"
     },
     "faber": {
         "name": "Handwerker"
@@ -2245,6 +2248,303 @@
     },
     "heshout": {
         "name": "ruft"
+    },
+    "hide_n_hype": {
+        "name": "Hide n Hype"
+    },
+    "hide_n_hype_a_new_hide_start_soon_window": {
+        "name": "Ein neues Spiel startet in 2 Minuten."
+    },
+    "hide_n_hype_abort_most_wanted_bad_position": {
+        "name": "Der Versteckte Spieler hat eine illegale Aktion durchgeführt."
+    },
+    "hide_n_hype_abort_most_wanted_bad_position_window": {
+        "name": "Spiel abgebrochen"
+    },
+    "hide_n_hype_abort_most_wanted_moved_window": {
+        "name": "Spiel abgebrochen"
+    },
+    "hide_n_hype_abort_most_wanted_offline_game_abort_window": {
+        "name": "Spiel abgebrochen"
+    },
+    "hide_n_hype_abort_not_enough_player": {
+        "name": "Das spielt konnte aufgrund zu wenig Spieler nicht gestartet werden."
+    },
+    "hide_n_hype_abort_not_enough_player_to_start_a_round_window": {
+        "name": "Nicht genügend Spieler."
+    },
+    "hide_n_hype_already_registerd": {
+        "name": "Du bist dem Spiel bereits beigetreten."
+    },
+    "hide_n_hype_asked_register": {
+        "name": "Möchtest du mitmachen?"
+    },
+    "hide_n_hype_asked_unregister": {
+        "name": "Möchtest du nicht mehr mitmachen?"
+    },
+    "hide_n_hype_avaible_objects": {
+        "name": "Zum spawnen verfügbare Objekte:"
+    },
+    "hide_n_hype_better_luck_next_time": {
+        "name": "Viel Glück beim nächsten Mal!"
+    },
+    "hide_n_hype_blue": {
+        "name": "blau"
+    },
+    "hide_n_hype_brown": {
+        "name": "braun"
+    },
+    "hide_n_hype_burnt": {
+        "name": "verbrannt"
+    },
+    "hide_n_hype_cannot_open_reg_dereg_window_because_game_is_running": {
+        "name": "Das können Sie jetzt nicht tun, weil bereits eine Runde läuft."
+    },
+    "hide_n_hype_click_here_to_claim_your_price": {
+        "name": "Klicke hier um deinen Preis zu erhalten."
+    },
+    "hide_n_hype_click_no": {
+        "name": "Nein"
+    },
+    "hide_n_hype_click_to_check_found_most_wanted": {
+        "name": "Schaue ob sich hier jemand versteckt"
+    },
+    "hide_n_hype_click_to_close": {
+        "name": "Schließen"
+    },
+    "hide_n_hype_click_to_hunter": {
+        "name": "Als Suchender eintragen"
+    },
+    "hide_n_hype_click_to_hunter_or_mostwanted": {
+        "name": "Als beides eintragen"
+    },
+    "hide_n_hype_click_to_mostwanted": {
+        "name": "Als Versteckender eintragen"
+    },
+    "hide_n_hype_click_to_register": {
+        "name": "Klicke um mitzumachen."
+    },
+    "hide_n_hype_click_to_reject": {
+        "name": "Setze diese Runde aus."
+    },
+    "hide_n_hype_click_to_unregister": {
+        "name": "Klicke um nicht mehr mitzumachen."
+    },
+    "hide_n_hype_click_yes": {
+        "name": "Ja"
+    },
+    "hide_n_hype_close_your_eyes_and_count_window": {
+        "name": "Nicht gucken!"
+    },
+    "hide_n_hype_currently_registerd_player_online": {
+        "name": "Verfügbare Spieler"
+    },
+    "hide_n_hype_curved": {
+        "name": "gekrümmt"
+    },
+    "hide_n_hype_dead": {
+        "name": "tot"
+    },
+    "hide_n_hype_desc": {
+        "name": "Ein Homin muss sich verstecken und der Rest muss nach ihm suchen. Wer kann 10 Minuten durchhalten, ohne gefunden zu werden?"
+    },
+    "hide_n_hype_dont_break_the_afk_status": {
+        "name": "Nicht den AFK Status aufheben, kein chatten!"
+    },
+    "hide_n_hype_find_a_good_hiding_spot": {
+        "name": "Finde einen Ort um dich zu verstecken."
+    },
+    "hide_n_hype_follow_this_rules": {
+        "name": "Befolge diese Regeln:"
+    },
+    "hide_n_hype_found_you": {
+        "name": "hat dich gefunden! Aber gutes Versteck!"
+    },
+    "hide_n_hype_game_is_over_window": {
+        "name": "Spiel beendet"
+    },
+    "hide_n_hype_game_is_running_window": {
+        "name": "Spiel läuft"
+    },
+    "hide_n_hype_go_and_hide_fast": {
+        "name": "Verstecke dich innerhalb 3 Minuten"
+    },
+    "hide_n_hype_green": {
+        "name": "grün"
+    },
+    "hide_n_hype_has_out_searched_you": {
+        "name": "war schneller im Suchen als du"
+    },
+    "hide_n_hype_high": {
+        "name": "hoch"
+    },
+    "hide_n_hype_hint_1": {
+        "name": "Hinweis 1:"
+    },
+    "hide_n_hype_hint_2": {
+        "name": "Hinweis 2:"
+    },
+    "hide_n_hype_hint_3": {
+        "name": "Hinweis 3:"
+    },
+    "hide_n_hype_hint_4": {
+        "name": "Hinweis 4:"
+    },
+    "hide_n_hype_hunter": {
+        "name": "Suchender"
+    },
+    "hide_n_hype_hunter_and_most_wanted": {
+        "name": "Suchender und Versteckender"
+    },
+    "hide_n_hype_keep_calm": {
+        "name": "Bleib ruhig und bewege dich nicht!"
+    },
+    "hide_n_hype_keep_untouched_and_not_found": {
+        "name": "wurde nicht innerhalb der Zeit gefunden"
+    },
+    "hide_n_hype_large": {
+        "name": "groß"
+    },
+    "hide_n_hype_most_wanted": {
+        "name": "Versteckender"
+    },
+    "hide_n_hype_most_wanted_lost_connection": {
+        "name": "Der Versteckende hat die Verbindung verloren, bitte warten …"
+    },
+    "hide_n_hype_most_wanted_moved_game_abort": {
+        "name": "Zu schade, der Versteckende hat sich bewegt."
+    },
+    "hide_n_hype_most_wanted_offline_game_abort": {
+        "name": "Der Versteckende ist nicht wieder rechtzeitig online gekommen."
+    },
+    "hide_n_hype_new_hint_in": {
+        "name": "Neuer Hinweis in:"
+    },
+    "hide_n_hype_no_active_hide": {
+        "name": "Kein aktives Spiel."
+    },
+    "hide_n_hype_not_allow_again": {
+        "name": "Du kannst nicht zwei mal hintereinander Verstecker sein."
+    },
+    "hide_n_hype_not_enough": {
+        "name": "Nicht genügend Spieler eingetragen"
+    },
+    "hide_n_hype_not_most_wanted": {
+        "name": "Du bist der Versteckende!"
+    },
+    "hide_n_hype_not_near_most_wanted": {
+        "name": "Keiner versteckt sich hier!"
+    },
+    "hide_n_hype_not_ready": {
+        "name": "Nicht bereit"
+    },
+    "hide_n_hype_not_registerd": {
+        "name": "Du bist dem Spiel nicht beigetreten."
+    },
+    "hide_n_hype_ok_enough_player": {
+        "name": "Es sind genügend Spieler eingetragen."
+    },
+    "hide_n_hype_ok_player_accept": {
+        "name": "Erfolgreich eingetragen als"
+    },
+    "hide_n_hype_ok_you_found_most_wanted": {
+        "name": "Glückwunsch du hast den Verstecker gefunden"
+    },
+    "hide_n_hype_orange": {
+        "name": "orange"
+    },
+    "hide_n_hype_purple": {
+        "name": "lila"
+    },
+    "hide_n_hype_ready_wait_for_countdown": {
+        "name": "Bereit - warte - nicht bewegen!"
+    },
+    "hide_n_hype_reg_sucesfully": {
+        "name": "Du bist erfolgreich dem Spiel beigetreten."
+    },
+    "hide_n_hype_register_now": {
+        "name": "Jetzt mitmachen!"
+    },
+    "hide_n_hype_register_window": {
+        "name": "Registrieren"
+    },
+    "hide_n_hype_reinitialize_the_game": {
+        "name": "Neu Initialisieren des Games"
+    },
+    "hide_n_hype_reinitialize_the_game_desc": {
+        "name": "Achtung, dies kann zu seltsamem Verhalten oder sogar zum Abbruch der laufenden Runden führen, verwenden Sie es nur, wenn es keine andere Möglichkeit gibt, das Spiel zu reparieren (außer dem Neustart des Clients)"
+    },
+    "hide_n_hype_reject": {
+        "name": "Überspringen"
+    },
+    "hide_n_hype_round": {
+        "name": "rund"
+    },
+    "hide_n_hype_small": {
+        "name": "klein"
+    },
+    "hide_n_hype_square": {
+        "name": "quadratisch"
+    },
+    "hide_n_hype_time_to_come_out": {
+        "name": "Zeit herauszukommen!"
+    },
+    "hide_n_hype_toxic": {
+        "name": "giftig"
+    },
+    "hide_n_hype_unreg_sucesfully": {
+        "name": "Du hast das Spiel erfolgreich verlassen."
+    },
+    "hide_n_hype_unregister_now_and_close": {
+        "name": "Jetzt verlassen!"
+    },
+    "hide_n_hype_unregister_window": {
+        "name": "Deregistration"
+    },
+    "hide_n_hype_used_a_object_to_hide": {
+        "name": "Spawne ein Objekt aus der Liste"
+    },
+    "hide_n_hype_wait_for_game_finish": {
+        "name": "Warte, das Spiel wird beendet."
+    },
+    "hide_n_hype_wait_for_game_start": {
+        "name": "Warte, das Spiel wird gestartet."
+    },
+    "hide_n_hype_wait_for_most_wanted": {
+        "name": "Lasse den Versteckenden erst ein Versteck finden."
+    },
+    "hide_n_hype_wait_for_most_wanted_come_back_online_window": {
+        "name": "Spiel pausiert"
+    },
+    "hide_n_hype_wait_of_start_of_the_round": {
+        "name": "Warte auf den Start und bewege dich nicht"
+    },
+    "hide_n_hype_white": {
+        "name": "weiß"
+    },
+    "hide_n_hype_wood": {
+        "name": "Holz"
+    },
+    "hide_n_hype_you_cannot_be_in_team": {
+        "name": "Du musst zuerst das Team verlassen!"
+    },
+    "hide_n_hype_you_found_the_most_wanted": {
+        "name": "Du hast den Versteckenden gefunden."
+    },
+    "hide_n_hype_you_realy_want_to_skip": {
+        "name": "Willst du diese Runde wirklich auslassen?"
+    },
+    "hide_n_hype_you_realy_want_to_unregister": {
+        "name": "Willst du wirklich aus dem Spiel aussteigen?"
+    },
+    "hide_n_hype_you_realy_want_window": {
+        "name": "Willst du das wirklich?"
+    },
+    "hide_n_hype_you_will_loos_all_your_progress": {
+        "name": "Du wirst deinen Fortschritt verlieren!"
+    },
+    "hide_n_hype_you_won_no_player_found_you": {
+        "name": "Du hast gewonnen! Kein Spieler hat dich gefunden"
     },
     "homin": {
         "name": "Homin"
@@ -5663,6 +5963,48 @@
     "nude_desc": {
         "name": "Um alle Ausrüstungsgegenstände zu entfernen, ohne die Taschen zu wechseln"
     },
+    "object_1_barrel_sel_nocollision": {
+        "name": "Fass"
+    },
+    "object_1_crate_sel_nocollision": {
+        "name": "Kiste"
+    },
+    "object_fo_s2_bigroot_c_sel_nocollision": {
+        "name": "Wald-Wurzel"
+    },
+    "object_fy_s1_burnedtree_d_sel_nocollision": {
+        "name": "Wüste Verbrannter Baum"
+    },
+    "object_giant_skull_b_lokness_c_sel_nocollision": {
+        "name": "Riesiger Totenkopf"
+    },
+    "object_ju_s3_dead_tree_sel_nocollision": {
+        "name": "Dschungel Toter Baum"
+    },
+    "object_spot_goo_sel_nocollision": {
+        "name": "Goo Spot"
+    },
+    "object_tent_fyros_sel_nocollision": {
+        "name": "Fyros-Zelt"
+    },
+    "object_tent_matis_sel_nocollision": {
+        "name": "Matis-Zelt"
+    },
+    "object_tent_sel_nocollision": {
+        "name": "Ranger-Zelt"
+    },
+    "object_tent_tryker_sel_nocollision": {
+        "name": "Tryker-Zelt"
+    },
+    "object_tent_zorai_sel_nocollision": {
+        "name": "Zorai-Zelt"
+    },
+    "object_totem_kitin_sel_nocollision": {
+        "name": "Kitin-Totem"
+    },
+    "object_tr_s2_lokness_c_sel_nocollision": {
+        "name": "Seen-Wurzel"
+    },
     "offensive_magician": {
         "name": "Offensiv-Magier"
     },
@@ -8012,6 +8354,9 @@
     "uichat": {
         "name": "Chat"
     },
+    "uichatautocompletecb": {
+        "name": "Verwenden der automatischen Befehlsvervollständigung"
+    },
     "uichatcolors": {
         "name": "Chatfarben"
     },
@@ -9451,6 +9796,15 @@
     },
     "uiem_emotes": {
         "name": "EMOTES"
+    },
+    "uiem_emotes_nobody": {
+        "name": "Ohne Ziel"
+    },
+    "uiem_emotes_self": {
+        "name": "Selbstziel"
+    },
+    "uiem_emotes_target": {
+        "name": "Mit Ziel"
     },
     "uiem_emotional": {
         "name": "emotional"
@@ -17504,6 +17858,9 @@
     "uisearchcommandcount": {
         "name": "Anzahl"
     },
+    "uisearchcommandcustomemotetext": {
+        "name": "benutzerdefinierter Emote-Text"
+    },
     "uisearchcommanddescription": {
         "name": "Beschreibung"
     },
@@ -17620,6 +17977,9 @@
     },
     "uisearchcommandmode": {
         "name": "Modus"
+    },
+    "uisearchcommandmorecustomemotetext": {
+        "name": "mehr benutzerdefinierten Emote-Text"
     },
     "uisearchcommandname": {
         "name": "Name"
@@ -17755,6 +18115,9 @@
     },
     "uisearchcommandzonename": {
         "name": "Zonenname"
+    },
+    "uisearchemotesfound": {
+        "name": "Emotes gefunden"
     },
     "uisearchterm": {
         "name": "Suchfilter (Optional)"
@@ -19426,6 +19789,9 @@
     },
     "uittdirectsellbutton": {
         "name": "Sofort zum jetzigen Preis verkaufen (Shift + ENTER)."
+    },
+    "uittdisablechatautocomplete": {
+        "name": "Dank der Autovervollständigung müssen Sie nicht mehr im ryzom-Wiki nach der genauen Schreibweise eines Befehls oder der Liste der Parameter suchen. Beginnen Sie mit der Eingabe Ihres Befehls und eine Liste von Vorschlägen wird angezeigt."
     },
     "uittdisabletime": {
         "name": "Wiederholungs-Zeit : @{FFFF}"

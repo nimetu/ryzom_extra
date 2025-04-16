@@ -593,6 +593,9 @@
     "elementalist_apprentice": {
         "name": "Ученик мага стихий"
     },
+    "em_desc": {
+        "name": "Создает эмоцию без использования анимации."
+    },
     "emote_desc": {
         "name": "Позволить группе npc играть эмоциями"
     },
@@ -2245,6 +2248,303 @@
     },
     "heshout": {
         "name": "кричит"
+    },
+    "hide_n_hype": {
+        "name": "Hide n Hype"
+    },
+    "hide_n_hype_a_new_hide_start_soon_window": {
+        "name": "Новая игра начнётся через 2 минуты"
+    },
+    "hide_n_hype_abort_most_wanted_bad_position": {
+        "name": "Скрывающийся совершил противоправное действие."
+    },
+    "hide_n_hype_abort_most_wanted_bad_position_window": {
+        "name": "Игра прервана"
+    },
+    "hide_n_hype_abort_most_wanted_moved_window": {
+        "name": "Игра прервана"
+    },
+    "hide_n_hype_abort_most_wanted_offline_game_abort_window": {
+        "name": "Игра прервана"
+    },
+    "hide_n_hype_abort_not_enough_player": {
+        "name": "Игра не может начаться из-за недостатка игроков."
+    },
+    "hide_n_hype_abort_not_enough_player_to_start_a_round_window": {
+        "name": "Недостаточно игроков."
+    },
+    "hide_n_hype_already_registerd": {
+        "name": "Вы уже присоединились к игре."
+    },
+    "hide_n_hype_asked_register": {
+        "name": "Хотите присоединиться?"
+    },
+    "hide_n_hype_asked_unregister": {
+        "name": "Хотите выйти?"
+    },
+    "hide_n_hype_avaible_objects": {
+        "name": "Доступные объекты для появления:"
+    },
+    "hide_n_hype_better_luck_next_time": {
+        "name": "Удачи в следующий раз!"
+    },
+    "hide_n_hype_blue": {
+        "name": "голубой"
+    },
+    "hide_n_hype_brown": {
+        "name": "коричневый"
+    },
+    "hide_n_hype_burnt": {
+        "name": "сгоревший"
+    },
+    "hide_n_hype_cannot_open_reg_dereg_window_because_game_is_running": {
+        "name": "Вы не можете сделать это прямо сейчас, потому что раунд уже запущен."
+    },
+    "hide_n_hype_click_here_to_claim_your_price": {
+        "name": "Нажмите здесь, чтобы получить приз."
+    },
+    "hide_n_hype_click_no": {
+        "name": "Нет"
+    },
+    "hide_n_hype_click_to_check_found_most_wanted": {
+        "name": "Проверьте, прячущийся ли это"
+    },
+    "hide_n_hype_click_to_close": {
+        "name": "Закрыть"
+    },
+    "hide_n_hype_click_to_hunter": {
+        "name": "Зарегистрироваться как ищущий"
+    },
+    "hide_n_hype_click_to_hunter_or_mostwanted": {
+        "name": "Зарегистрироваться как оба"
+    },
+    "hide_n_hype_click_to_mostwanted": {
+        "name": "Зарегистрироваться как прячущийся"
+    },
+    "hide_n_hype_click_to_register": {
+        "name": "Нажмите, чтобы присоединиться"
+    },
+    "hide_n_hype_click_to_reject": {
+        "name": "Пропустить этот раунд"
+    },
+    "hide_n_hype_click_to_unregister": {
+        "name": "Нажмите, чтобы выйти"
+    },
+    "hide_n_hype_click_yes": {
+        "name": "Да"
+    },
+    "hide_n_hype_close_your_eyes_and_count_window": {
+        "name": "Не подглядывайте!"
+    },
+    "hide_n_hype_currently_registerd_player_online": {
+        "name": "Доступные игроки"
+    },
+    "hide_n_hype_curved": {
+        "name": "изогнутый"
+    },
+    "hide_n_hype_dead": {
+        "name": "мертвый"
+    },
+    "hide_n_hype_desc": {
+        "name": "Один Homin должен прятаться, остальные должны искать. Кто продержится 10 минут, не будучи найденным?"
+    },
+    "hide_n_hype_dont_break_the_afk_status": {
+        "name": "Не отменяйте статус AFK, не общайтесь в чате!"
+    },
+    "hide_n_hype_find_a_good_hiding_spot": {
+        "name": "Найдите место, чтобы спрятаться"
+    },
+    "hide_n_hype_follow_this_rules": {
+        "name": "Следуйте этим правилам:"
+    },
+    "hide_n_hype_found_you": {
+        "name": "Нашёл тебя! Хорошее укрытие!"
+    },
+    "hide_n_hype_game_is_over_window": {
+        "name": "Игра завершена"
+    },
+    "hide_n_hype_game_is_running_window": {
+        "name": "Игра идёт"
+    },
+    "hide_n_hype_go_and_hide_fast": {
+        "name": "Спрячьтесь за 3 минуты"
+    },
+    "hide_n_hype_green": {
+        "name": "зеленый"
+    },
+    "hide_n_hype_has_out_searched_you": {
+        "name": "обыскал вас лучше"
+    },
+    "hide_n_hype_high": {
+        "name": "высокий"
+    },
+    "hide_n_hype_hint_1": {
+        "name": "Подсказка 1:"
+    },
+    "hide_n_hype_hint_2": {
+        "name": "Подсказка 2:"
+    },
+    "hide_n_hype_hint_3": {
+        "name": "Подсказка 3:"
+    },
+    "hide_n_hype_hint_4": {
+        "name": "Подсказка 4:"
+    },
+    "hide_n_hype_hunter": {
+        "name": "Ищущий"
+    },
+    "hide_n_hype_hunter_and_most_wanted": {
+        "name": "Ищущий & Прячущийся"
+    },
+    "hide_n_hype_keep_calm": {
+        "name": "Сохраняйте спокойствие и не двигайтесь!"
+    },
+    "hide_n_hype_keep_untouched_and_not_found": {
+        "name": "не был найден вовремя"
+    },
+    "hide_n_hype_large": {
+        "name": "большой"
+    },
+    "hide_n_hype_most_wanted": {
+        "name": "Прячущийся"
+    },
+    "hide_n_hype_most_wanted_lost_connection": {
+        "name": "Прячущийся потерял соединение, подождите..."
+    },
+    "hide_n_hype_most_wanted_moved_game_abort": {
+        "name": "Жаль, прячущийся двинулся."
+    },
+    "hide_n_hype_most_wanted_offline_game_abort": {
+        "name": "Прячущийся не переподключился вовремя."
+    },
+    "hide_n_hype_new_hint_in": {
+        "name": "Новая подсказка через:"
+    },
+    "hide_n_hype_no_active_hide": {
+        "name": "Нет активной игры."
+    },
+    "hide_n_hype_not_allow_again": {
+        "name": "Вы не можете быть скрытником дважды подряд."
+    },
+    "hide_n_hype_not_enough": {
+        "name": "Недостаточно игроков"
+    },
+    "hide_n_hype_not_most_wanted": {
+        "name": "Вы не прячущийся!"
+    },
+    "hide_n_hype_not_near_most_wanted": {
+        "name": "Здесь никто не прячется!"
+    },
+    "hide_n_hype_not_ready": {
+        "name": "Не готов"
+    },
+    "hide_n_hype_not_registerd": {
+        "name": "Вы не присоединились к игре."
+    },
+    "hide_n_hype_ok_enough_player": {
+        "name": "Достаточно игроков"
+    },
+    "hide_n_hype_ok_player_accept": {
+        "name": "Успешно зарегистрирован как"
+    },
+    "hide_n_hype_ok_you_found_most_wanted": {
+        "name": "Поздравляем, вы нашли прячущегося!"
+    },
+    "hide_n_hype_orange": {
+        "name": "апельсин"
+    },
+    "hide_n_hype_purple": {
+        "name": "фиолетовый"
+    },
+    "hide_n_hype_ready_wait_for_countdown": {
+        "name": "Готов - ждите - не двигайтесь!"
+    },
+    "hide_n_hype_reg_sucesfully": {
+        "name": "Вы успешно присоединились к игре."
+    },
+    "hide_n_hype_register_now": {
+        "name": "Присоединиться сейчас!"
+    },
+    "hide_n_hype_register_window": {
+        "name": "Регистрация"
+    },
+    "hide_n_hype_reinitialize_the_game": {
+        "name": "Переинициализация игры"
+    },
+    "hide_n_hype_reinitialize_the_game_desc": {
+        "name": "Внимание, это может привести к странному поведению или даже прервать запущенные раунды, используйте это только в том случае, если нет другого способа исправить ситуацию в игре (кроме перезапуска клиента)."
+    },
+    "hide_n_hype_reject": {
+        "name": "Пропустить"
+    },
+    "hide_n_hype_round": {
+        "name": "круглый"
+    },
+    "hide_n_hype_small": {
+        "name": "маленький"
+    },
+    "hide_n_hype_square": {
+        "name": "квадрат"
+    },
+    "hide_n_hype_time_to_come_out": {
+        "name": "Время выходить!"
+    },
+    "hide_n_hype_toxic": {
+        "name": "токсичный"
+    },
+    "hide_n_hype_unreg_sucesfully": {
+        "name": "Вы успешно вышли из игры."
+    },
+    "hide_n_hype_unregister_now_and_close": {
+        "name": "Выйти сейчас!"
+    },
+    "hide_n_hype_unregister_window": {
+        "name": "Отмена регистрации"
+    },
+    "hide_n_hype_used_a_object_to_hide": {
+        "name": "Создать объект из списка"
+    },
+    "hide_n_hype_wait_for_game_finish": {
+        "name": "Дождитесь окончания игры."
+    },
+    "hide_n_hype_wait_for_game_start": {
+        "name": "Дождитесь начала игры."
+    },
+    "hide_n_hype_wait_for_most_wanted": {
+        "name": "Дайте прячущемуся сначала найти место."
+    },
+    "hide_n_hype_wait_for_most_wanted_come_back_online_window": {
+        "name": "Игра приостановлена"
+    },
+    "hide_n_hype_wait_of_start_of_the_round": {
+        "name": "Ждите начала и не двигайтесь"
+    },
+    "hide_n_hype_white": {
+        "name": "белый"
+    },
+    "hide_n_hype_wood": {
+        "name": "дерево"
+    },
+    "hide_n_hype_you_cannot_be_in_team": {
+        "name": "Сначала вам нужно покинуть команду!"
+    },
+    "hide_n_hype_you_found_the_most_wanted": {
+        "name": "Вы нашли прячущегося."
+    },
+    "hide_n_hype_you_realy_want_to_skip": {
+        "name": "Вы действительно хотите пропустить этот раунд?"
+    },
+    "hide_n_hype_you_realy_want_to_unregister": {
+        "name": "Вы действительно хотите покинуть игру?"
+    },
+    "hide_n_hype_you_realy_want_window": {
+        "name": "Вы действительно этого хотите?"
+    },
+    "hide_n_hype_you_will_loos_all_your_progress": {
+        "name": "Вы потеряете свой прогресс!"
+    },
+    "hide_n_hype_you_won_no_player_found_you": {
+        "name": "Вы победили! Вас никто не нашёл"
     },
     "homin": {
         "name": "Хомин"
@@ -5663,6 +5963,48 @@
     "nude_desc": {
         "name": "Чтобы снять все снаряжение, не меняя карманов"
     },
+    "object_1_barrel_sel_nocollision": {
+        "name": "Бочка"
+    },
+    "object_1_crate_sel_nocollision": {
+        "name": "Ящик"
+    },
+    "object_fo_s2_bigroot_c_sel_nocollision": {
+        "name": "Лесной корень"
+    },
+    "object_fy_s1_burnedtree_d_sel_nocollision": {
+        "name": "Дестер Бернедтри"
+    },
+    "object_giant_skull_b_lokness_c_sel_nocollision": {
+        "name": "Гигантский череп"
+    },
+    "object_ju_s3_dead_tree_sel_nocollision": {
+        "name": "Мертвое дерево в джунглях"
+    },
+    "object_spot_goo_sel_nocollision": {
+        "name": "Гу Спот"
+    },
+    "object_tent_fyros_sel_nocollision": {
+        "name": "Палатка Fyros"
+    },
+    "object_tent_matis_sel_nocollision": {
+        "name": "Палатка Matis"
+    },
+    "object_tent_sel_nocollision": {
+        "name": "Палатка Ranger"
+    },
+    "object_tent_tryker_sel_nocollision": {
+        "name": "Палатка Tryker"
+    },
+    "object_tent_zorai_sel_nocollision": {
+        "name": "Палатка Zorai"
+    },
+    "object_totem_kitin_sel_nocollision": {
+        "name": "Тотем Китина"
+    },
+    "object_tr_s2_lokness_c_sel_nocollision": {
+        "name": "Озерный корень"
+    },
     "offensive_magician": {
         "name": "Маг нападения"
     },
@@ -8012,6 +8354,9 @@
     "uichat": {
         "name": "Чат"
     },
+    "uichatautocompletecb": {
+        "name": "Использование автозаполнения команд"
+    },
     "uichatcolors": {
         "name": "Цветовые настройки чата"
     },
@@ -9451,6 +9796,15 @@
     },
     "uiem_emotes": {
         "name": "ЭМОЦИИ"
+    },
+    "uiem_emotes_nobody": {
+        "name": "Без цели"
+    },
+    "uiem_emotes_self": {
+        "name": "Самоцель"
+    },
+    "uiem_emotes_target": {
+        "name": "С целью"
     },
     "uiem_emotional": {
         "name": "ЭМОЦИОНАЛЬНОСТЬ"
@@ -17504,6 +17858,9 @@
     "uisearchcommandcount": {
         "name": "Граф"
     },
+    "uisearchcommandcustomemotetext": {
+        "name": "пользовательский текст эмоций"
+    },
     "uisearchcommanddescription": {
         "name": "Описание"
     },
@@ -17556,7 +17913,7 @@
         "name": "Поплавок"
     },
     "uisearchcommandfound": {
-        "name": "Найдено"
+        "name": "Команда найдена"
     },
     "uisearchcommandguildname": {
         "name": "GuildName"
@@ -17620,6 +17977,9 @@
     },
     "uisearchcommandmode": {
         "name": "Режим"
+    },
+    "uisearchcommandmorecustomemotetext": {
+        "name": "больше пользовательского текста эмоций"
     },
     "uisearchcommandname": {
         "name": "Имя"
@@ -17755,6 +18115,9 @@
     },
     "uisearchcommandzonename": {
         "name": "ZoneName"
+    },
+    "uisearchemotesfound": {
+        "name": "Эмоты найдены"
     },
     "uisearchterm": {
         "name": "Термин поиска (необязательно)"
@@ -19426,6 +19789,9 @@
     },
     "uittdirectsellbutton": {
         "name": "Продать по \"моментальной цене\" (Shift + ENTER)"
+    },
+    "uittdisablechatautocomplete": {
+        "name": "Благодаря автозаполнению не нужно искать в ryzom wiki точное написание команды или список параметров. Начните вводить команду, и появится список предложений."
     },
     "uittdisabletime": {
         "name": "Время до повторного использования: @{FFFF}"

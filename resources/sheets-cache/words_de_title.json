@@ -271,6 +271,10 @@
         "name": "2626 Segensfest-Geschichtenerzähler",
         "women_name": "2626 Segensfest-Geschichtenerzählerin"
     },
+    "2631_storyteller": {
+        "name": "2631 Segensfest-Geschichtenerzähler",
+        "women_name": "2631 Segensfest-Geschichtenerzählerin"
+    },
     "accomplisheddisciple": {
         "name": "Verdienter Jünger der Kamis",
         "women_name": "Verdiente Jüngerin der Kamis"
@@ -446,6 +450,38 @@
     "ardentfyrospatriot": {
         "name": "Glühender Fyros-Patriot",
         "women_name": "Glühende Fyros-Patriotin"
+    },
+    "arkai_1466_lessonbox_newbieland_1_title": {
+        "name": "Silan",
+        "women_name": ""
+    },
+    "arkai_1466_lessonbox_newbieland_2": {
+        "name": "Lerne die Marodeure kennen!",
+        "women_name": ""
+    },
+    "arkai_1466_lessonbox_newbieland_2_title": {
+        "name": "Lerne die Marodeure kennen!",
+        "women_name": ""
+    },
+    "arkai_1466_lessonbox_newbieland_4_title": {
+        "name": "Die Tryker-Nation",
+        "women_name": ""
+    },
+    "arkai_1466_lessonbox_newbieland_5_title": {
+        "name": "Die Matis-Nation",
+        "women_name": ""
+    },
+    "arkai_1466_lessonbox_newbieland_6_title": {
+        "name": "Die Nation der Zoraï",
+        "women_name": ""
+    },
+    "arkai_1466_lessonbox_tryker_1_title": {
+        "name": "See der Freiheit (50)",
+        "women_name": ""
+    },
+    "arkai_1466_lessonbox_zorai_1_title": {
+        "name": "Adoptiere ein Zig",
+        "women_name": ""
     },
     "armorer_apprentice": {
         "name": "Rüstungsmacherlehrling",
@@ -646,6 +682,10 @@
     "bourreauombres": {
         "name": "Vollstrecker der Schatten",
         "women_name": "Vollstrecker der Schatten"
+    },
+    "boutiqueseve_pnj_boutique_title": {
+        "name": "Bixa Moi-Mon$#[en]Scientist[de]Wissenschaftlerin[es]Científico[fr]Scientifique[ru]Ученый#https:\/\/app.ryzom.com\/app_arcc\/data\/app\/Scripts\/\/1\/6\/0\/8\/assets\/IconeBulle.png$",
+        "women_name": ""
     },
     "bowman": {
         "name": "Bogenschütze",
@@ -878,6 +918,10 @@
     "empirescourge": {
         "name": "Geißel des Imperiums",
         "women_name": "Geißel des Imperiums"
+    },
+    "empty_trough_for_salins": {
+        "name": "leerer Trog",
+        "women_name": ""
     },
     "enchanter": {
         "name": "Verzauberer",
@@ -2247,7 +2291,7 @@
         "name": "(Wachposten des ewigen Baumes)",
         "women_name": "(Wachposten des ewigen Baumes)"
     },
-    "fct_tcm_eternal_tree_chief_guard ": {
+    "fct_tcm_eternal_tree_chief_guard": {
         "name": "(Hüter des ewigen Baumes)",
         "women_name": "(Hüterin des ewigen Baumes)"
     },
@@ -2574,6 +2618,10 @@
     "frozen": {
         "name": "Eiskalt",
         "women_name": "Eiskalt"
+    },
+    "full_trough_for_salins": {
+        "name": "Trog voll reifer Salin-Früchte",
+        "women_name": ""
     },
     "fyros_armorer_apprentice": {
         "name": "Fyros-Rüstungsmacherlehrling",
@@ -7571,6 +7619,10 @@
         "name": "Gnostiker",
         "women_name": "Gnostikerin"
     },
+    "gong_alert_title": {
+        "name": "Alarmglocke",
+        "women_name": ""
+    },
     "good_elfe_1": {
         "name": "Atysmas-Elf",
         "women_name": "Atysmas-Elfe"
@@ -7678,6 +7730,22 @@
     "heretic": {
         "name": "Ketzer",
         "women_name": "Ketzerin"
+    },
+    "hide_n_hype_hunter_3_times": {
+        "name": "Der Unauffindbare",
+        "women_name": "Die Unauffindbare"
+    },
+    "hide_n_hype_hunter_5_times": {
+        "name": "Meister der Tarnung",
+        "women_name": "Meisterin der Tarnung"
+    },
+    "hide_n_hype_last_3_secounds": {
+        "name": "Countdown crasher",
+        "women_name": "Countdown crasher"
+    },
+    "hide_n_hype_seeker_3_times": {
+        "name": "Spurenleser",
+        "women_name": "Spurenleserin"
     },
     "hogger": {
         "name": "Glücksrad-Umarmer",
@@ -8991,6 +9059,10 @@
         "name": "Schildschmied-Meister",
         "women_name": "Schildschmied-Meisterin"
     },
+    "shookibonfireday": {
+        "name": "Liebhaber von Shooki - Pyr 2632",
+        "women_name": "Shooki-Liebhaberin - Pyr 2632"
+    },
     "shopkeeper": {
         "name": "Händler",
         "women_name": "Händlerin"
@@ -9086,6 +9158,14 @@
     "stele_epee_bois": {
         "name": "Stele",
         "women_name": "Stele"
+    },
+    "stele_title": {
+        "name": "Stele von Saison",
+        "women_name": ""
+    },
+    "steleb_title": {
+        "name": "Stele von Busang",
+        "women_name": ""
     },
     "steward": {
         "name": "Verwalter",

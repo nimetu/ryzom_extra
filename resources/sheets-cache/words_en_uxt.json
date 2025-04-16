@@ -593,6 +593,9 @@
     "elementalist_apprentice": {
         "name": "Apprentice Elementalist"
     },
+    "em_desc": {
+        "name": "Creates an emote without using an animation."
+    },
     "emote_desc": {
         "name": "Let a npc group play a emote"
     },
@@ -2245,6 +2248,303 @@
     },
     "heshout": {
         "name": "shouts"
+    },
+    "hide_n_hype": {
+        "name": "Hide n Hype"
+    },
+    "hide_n_hype_a_new_hide_start_soon_window": {
+        "name": "A new game starts in 2 minutes"
+    },
+    "hide_n_hype_abort_most_wanted_bad_position": {
+        "name": "The hider carried out an illegal action."
+    },
+    "hide_n_hype_abort_most_wanted_bad_position_window": {
+        "name": "Game aborted"
+    },
+    "hide_n_hype_abort_most_wanted_moved_window": {
+        "name": "Game aborted"
+    },
+    "hide_n_hype_abort_most_wanted_offline_game_abort_window": {
+        "name": "Game aborted"
+    },
+    "hide_n_hype_abort_not_enough_player": {
+        "name": "The game could not be started because there are not enough players."
+    },
+    "hide_n_hype_abort_not_enough_player_to_start_a_round_window": {
+        "name": "Not enough player."
+    },
+    "hide_n_hype_already_registerd": {
+        "name": "You already joined the game."
+    },
+    "hide_n_hype_asked_register": {
+        "name": "Do you want to join?"
+    },
+    "hide_n_hype_asked_unregister": {
+        "name": "Do you want to leave?"
+    },
+    "hide_n_hype_avaible_objects": {
+        "name": "Available objects to spawn:"
+    },
+    "hide_n_hype_better_luck_next_time": {
+        "name": "Better luck next time!"
+    },
+    "hide_n_hype_blue": {
+        "name": "blue"
+    },
+    "hide_n_hype_brown": {
+        "name": "brown"
+    },
+    "hide_n_hype_burnt": {
+        "name": "burnt"
+    },
+    "hide_n_hype_cannot_open_reg_dereg_window_because_game_is_running": {
+        "name": "You can't do that right now because a round is already running."
+    },
+    "hide_n_hype_click_here_to_claim_your_price": {
+        "name": "Click here to claim your prize."
+    },
+    "hide_n_hype_click_no": {
+        "name": "No"
+    },
+    "hide_n_hype_click_to_check_found_most_wanted": {
+        "name": "Check if it's the hider"
+    },
+    "hide_n_hype_click_to_close": {
+        "name": "Close"
+    },
+    "hide_n_hype_click_to_hunter": {
+        "name": "List as Seeker"
+    },
+    "hide_n_hype_click_to_hunter_or_mostwanted": {
+        "name": "List as both"
+    },
+    "hide_n_hype_click_to_mostwanted": {
+        "name": "List as Hider"
+    },
+    "hide_n_hype_click_to_register": {
+        "name": "Click to join"
+    },
+    "hide_n_hype_click_to_reject": {
+        "name": "Skip this round"
+    },
+    "hide_n_hype_click_to_unregister": {
+        "name": "Click to leave"
+    },
+    "hide_n_hype_click_yes": {
+        "name": "Yes"
+    },
+    "hide_n_hype_close_your_eyes_and_count_window": {
+        "name": "Don’t peek!"
+    },
+    "hide_n_hype_currently_registerd_player_online": {
+        "name": "Available players"
+    },
+    "hide_n_hype_curved": {
+        "name": "curved"
+    },
+    "hide_n_hype_dead": {
+        "name": "dead"
+    },
+    "hide_n_hype_desc": {
+        "name": "One Homin has to hide, and the rest have to search for them. Who can last 10 minutes without being found?"
+    },
+    "hide_n_hype_dont_break_the_afk_status": {
+        "name": "Do not cancel the AFK status, no chatting!"
+    },
+    "hide_n_hype_find_a_good_hiding_spot": {
+        "name": "Find a place to hide"
+    },
+    "hide_n_hype_follow_this_rules": {
+        "name": "Follow these rules:"
+    },
+    "hide_n_hype_found_you": {
+        "name": "found you! Nice hiding spot though!"
+    },
+    "hide_n_hype_game_is_over_window": {
+        "name": "Game finished"
+    },
+    "hide_n_hype_game_is_running_window": {
+        "name": "Game is running"
+    },
+    "hide_n_hype_go_and_hide_fast": {
+        "name": "Hide within 3 minutes"
+    },
+    "hide_n_hype_green": {
+        "name": "green"
+    },
+    "hide_n_hype_has_out_searched_you": {
+        "name": "has out-searched you"
+    },
+    "hide_n_hype_high": {
+        "name": "high"
+    },
+    "hide_n_hype_hint_1": {
+        "name": "Hint 1:"
+    },
+    "hide_n_hype_hint_2": {
+        "name": "Hint 2:"
+    },
+    "hide_n_hype_hint_3": {
+        "name": "Hint 3:"
+    },
+    "hide_n_hype_hint_4": {
+        "name": "Hint 4:"
+    },
+    "hide_n_hype_hunter": {
+        "name": "Seeker"
+    },
+    "hide_n_hype_hunter_and_most_wanted": {
+        "name": "Seeker & Hider"
+    },
+    "hide_n_hype_keep_calm": {
+        "name": "Keep calm and don't move!"
+    },
+    "hide_n_hype_keep_untouched_and_not_found": {
+        "name": "was not found within the time"
+    },
+    "hide_n_hype_large": {
+        "name": "large"
+    },
+    "hide_n_hype_most_wanted": {
+        "name": "Hider"
+    },
+    "hide_n_hype_most_wanted_lost_connection": {
+        "name": "The hider lost the connection, please wait..."
+    },
+    "hide_n_hype_most_wanted_moved_game_abort": {
+        "name": "Too bad the hider moved."
+    },
+    "hide_n_hype_most_wanted_offline_game_abort": {
+        "name": "The hider did not reconnect in time."
+    },
+    "hide_n_hype_new_hint_in": {
+        "name": "New hint in:"
+    },
+    "hide_n_hype_no_active_hide": {
+        "name": "No active game."
+    },
+    "hide_n_hype_not_allow_again": {
+        "name": "You can't be a hider twice in a row."
+    },
+    "hide_n_hype_not_enough": {
+        "name": "Not enough players listed"
+    },
+    "hide_n_hype_not_most_wanted": {
+        "name": "You are not the hider!"
+    },
+    "hide_n_hype_not_near_most_wanted": {
+        "name": "No one is hiding here!"
+    },
+    "hide_n_hype_not_ready": {
+        "name": "Not ready"
+    },
+    "hide_n_hype_not_registerd": {
+        "name": "You have not joined the game."
+    },
+    "hide_n_hype_ok_enough_player": {
+        "name": "Enough players listed"
+    },
+    "hide_n_hype_ok_player_accept": {
+        "name": "Successfully listed as"
+    },
+    "hide_n_hype_ok_you_found_most_wanted": {
+        "name": "Congratulations you found the hider!"
+    },
+    "hide_n_hype_orange": {
+        "name": "orange"
+    },
+    "hide_n_hype_purple": {
+        "name": "orange"
+    },
+    "hide_n_hype_ready_wait_for_countdown": {
+        "name": "Ready - wait - don't move!"
+    },
+    "hide_n_hype_reg_sucesfully": {
+        "name": "You have successfully joind the game."
+    },
+    "hide_n_hype_register_now": {
+        "name": "Join now!"
+    },
+    "hide_n_hype_register_window": {
+        "name": "Registration"
+    },
+    "hide_n_hype_reinitialize_the_game": {
+        "name": "Reinitialize the game"
+    },
+    "hide_n_hype_reinitialize_the_game_desc": {
+        "name": "Attention this can lead to strange behavior or even abort the running rounds, use it only if there is no other way to fix the game (except restarting the client)"
+    },
+    "hide_n_hype_reject": {
+        "name": "Skip"
+    },
+    "hide_n_hype_round": {
+        "name": "round"
+    },
+    "hide_n_hype_small": {
+        "name": "small"
+    },
+    "hide_n_hype_square": {
+        "name": "square"
+    },
+    "hide_n_hype_time_to_come_out": {
+        "name": "Time to come out!"
+    },
+    "hide_n_hype_toxic": {
+        "name": "toxic"
+    },
+    "hide_n_hype_unreg_sucesfully": {
+        "name": "You have successfully left the game."
+    },
+    "hide_n_hype_unregister_now_and_close": {
+        "name": "Leave now!"
+    },
+    "hide_n_hype_unregister_window": {
+        "name": "Deregistration"
+    },
+    "hide_n_hype_used_a_object_to_hide": {
+        "name": "Spawn an object from the list"
+    },
+    "hide_n_hype_wait_for_game_finish": {
+        "name": "Wait for the game to finish."
+    },
+    "hide_n_hype_wait_for_game_start": {
+        "name": "Wait for the game to start."
+    },
+    "hide_n_hype_wait_for_most_wanted": {
+        "name": "Let the hider find a spot first."
+    },
+    "hide_n_hype_wait_for_most_wanted_come_back_online_window": {
+        "name": "Game paused"
+    },
+    "hide_n_hype_wait_of_start_of_the_round": {
+        "name": "Wait for the start and don't move"
+    },
+    "hide_n_hype_white": {
+        "name": "white"
+    },
+    "hide_n_hype_wood": {
+        "name": "wood"
+    },
+    "hide_n_hype_you_cannot_be_in_team": {
+        "name": "You need to leave the team first!"
+    },
+    "hide_n_hype_you_found_the_most_wanted": {
+        "name": "You have found the hider."
+    },
+    "hide_n_hype_you_realy_want_to_skip": {
+        "name": "Do you really want to skip this round?"
+    },
+    "hide_n_hype_you_realy_want_to_unregister": {
+        "name": "Do you really want to leave the game?"
+    },
+    "hide_n_hype_you_realy_want_window": {
+        "name": "Do you really want to?"
+    },
+    "hide_n_hype_you_will_loos_all_your_progress": {
+        "name": "You will lose your progress!"
+    },
+    "hide_n_hype_you_won_no_player_found_you": {
+        "name": "You won! No Player found you"
     },
     "homin": {
         "name": "Homin"
@@ -5663,6 +5963,48 @@
     "nude_desc": {
         "name": "To remove all equipmentswithout changing the Pockets"
     },
+    "object_1_barrel_sel_nocollision": {
+        "name": "Barrel"
+    },
+    "object_1_crate_sel_nocollision": {
+        "name": "Crate"
+    },
+    "object_fo_s2_bigroot_c_sel_nocollision": {
+        "name": "Forest Root"
+    },
+    "object_fy_s1_burnedtree_d_sel_nocollision": {
+        "name": "Dester Burnedtree"
+    },
+    "object_giant_skull_b_lokness_c_sel_nocollision": {
+        "name": "Giant Skull"
+    },
+    "object_ju_s3_dead_tree_sel_nocollision": {
+        "name": "Jungle Dead Tree"
+    },
+    "object_spot_goo_sel_nocollision": {
+        "name": "Goo Spot"
+    },
+    "object_tent_fyros_sel_nocollision": {
+        "name": "Fyros Tent"
+    },
+    "object_tent_matis_sel_nocollision": {
+        "name": "Matis Tent"
+    },
+    "object_tent_sel_nocollision": {
+        "name": "Ranger Tent"
+    },
+    "object_tent_tryker_sel_nocollision": {
+        "name": "Tryker Tent"
+    },
+    "object_tent_zorai_sel_nocollision": {
+        "name": "Zorai Tent"
+    },
+    "object_totem_kitin_sel_nocollision": {
+        "name": "Kitin Totem"
+    },
+    "object_tr_s2_lokness_c_sel_nocollision": {
+        "name": "Lakes Root"
+    },
     "offensive_magician": {
         "name": "Offensive Magician"
     },
@@ -8012,6 +8354,9 @@
     "uichat": {
         "name": "Chat"
     },
+    "uichatautocompletecb": {
+        "name": "Using the Command autocompletion"
+    },
     "uichatcolors": {
         "name": "Chat Colors and Options"
     },
@@ -9451,6 +9796,15 @@
     },
     "uiem_emotes": {
         "name": "EMOTES"
+    },
+    "uiem_emotes_nobody": {
+        "name": "Without Target"
+    },
+    "uiem_emotes_self": {
+        "name": "Self Target"
+    },
+    "uiem_emotes_target": {
+        "name": "With Target"
     },
     "uiem_emotional": {
         "name": "Emotional"
@@ -17504,6 +17858,9 @@
     "uisearchcommandcount": {
         "name": "Count"
     },
+    "uisearchcommandcustomemotetext": {
+        "name": ""
+    },
     "uisearchcommanddescription": {
         "name": "Description"
     },
@@ -17556,7 +17913,7 @@
         "name": "Float"
     },
     "uisearchcommandfound": {
-        "name": "Found"
+        "name": "Command Found"
     },
     "uisearchcommandguildname": {
         "name": "GuildName"
@@ -17620,6 +17977,9 @@
     },
     "uisearchcommandmode": {
         "name": "Mode"
+    },
+    "uisearchcommandmorecustomemotetext": {
+        "name": ""
     },
     "uisearchcommandname": {
         "name": "Name"
@@ -17755,6 +18115,9 @@
     },
     "uisearchcommandzonename": {
         "name": "ZoneName"
+    },
+    "uisearchemotesfound": {
+        "name": "Emotes found"
     },
     "uisearchterm": {
         "name": "Search Term (Optional)"
@@ -19426,6 +19789,9 @@
     },
     "uittdirectsellbutton": {
         "name": "Sell now at base price (Shift + ENTER)"
+    },
+    "uittdisablechatautocomplete": {
+        "name": "No need to search the ryzom wiki for the exact spelling of a command, or the list of parameters, thanks to autocompletion. Start typing your command and a list of suggestions will appear."
     },
     "uittdisabletime": {
         "name": "Reuse time: @{FFFF}"
