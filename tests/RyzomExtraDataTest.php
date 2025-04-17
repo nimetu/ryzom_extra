@@ -1,5 +1,7 @@
 <?php
 
+use PHPUnit\Framework\Attributes\DataProvider;
+
 class RyzomExtraDataTest extends \PHPUnit\Framework\TestCase
 {
 	public function testVisualTab() {
@@ -58,9 +60,8 @@ class RyzomExtraDataTest extends \PHPUnit\Framework\TestCase
 
 	/**
 	 * Translation with custom columns
-	 *
-	 * @dataProvider translationDataProvider
 	 */
+	#[DataProvider('translationDataProvider')]
 	function testTranslationWithColumn($sheet, $column, $data) {
 		foreach($data as $lang => $expected) {
 			$this->assertEquals($expected, ryzom_translate($sheet, $lang, $column));
@@ -69,9 +70,8 @@ class RyzomExtraDataTest extends \PHPUnit\Framework\TestCase
 
 	/**
 	 * Translation with replaced placeholder text
-	 *
-	 * @dataProvider replacedPlaceholderTextProvider
 	 */
+	#[DataProvider('replacedPlaceholderTextProvider')]
 	function testReplacedPlaceholderText($sheet, $column, $data) {
 		foreach($data as $lang => $expected) {
 			$this->assertEquals($expected, ryzom_translate($sheet, $lang, $column));

@@ -2,6 +2,8 @@
 
 namespace RyzomExtra;
 
+use PHPUnit\Framework\Attributes\DataProvider;
+
 class RyzomClockTest extends \PHPUnit\Framework\TestCase
 {
 
@@ -40,9 +42,8 @@ class RyzomClockTest extends \PHPUnit\Framework\TestCase
      * @param float $week
      * @param float $day
      * @param float $time
-     *
-     * @dataProvider tickProvider
-     */
+	 */
+    #[DataProvider('tickProvider')]
     public function testRyzomClock($tick, $cycle, $season, $year, $month, $week, $day, $time)
     {
         $this->ryzomClock->setGameCycle($tick);

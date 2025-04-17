@@ -2,6 +2,8 @@
 
 namespace RyzomExtra;
 
+use PHPUnit\Framework\Attributes\DataProvider;
+
 class AtysDateTest extends \PHPUnit\Framework\TestCase
 {
     const shardName = 'atys';
@@ -75,9 +77,7 @@ class AtysDateTest extends \PHPUnit\Framework\TestCase
         $this->assertEquals(1224, $this->atysDate->getGameCycle());
     }
 
-    /**
-     * @dataProvider fixtureFormatDate
-     */
+	#[DataProvider('fixtureFormatDate')]
     public function testFormatDate($showHour, $showMin, $expected)
     {
         $this->assertEquals($expected, $this->atysDate->formatDate($showHour, $showMin));
@@ -167,9 +167,7 @@ class AtysDateTest extends \PHPUnit\Framework\TestCase
         $this->atysDate->parse(self::dateString);
     }
 
-    /**
-     * @dataProvider seasonMonthNameDataProvider
-     */
+	#[DataProvider('seasonMonthNameDataProvider')]
     public function testGetSeasonMonthName($season, $month, $expected)
     {
         $got = $this->atysDate->getSeasonMonthName($season, $month);
