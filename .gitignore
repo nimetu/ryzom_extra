@@ -1,6 +1,7 @@
 
 .idea
 .vscode
+.phpunit.cache
 .phpunit.result.cache
 .phan
 psalm.xml
@@ -8,4 +9,4 @@ composer.lock
 
 vendor
 bin/config*.php
-
+resources-json
