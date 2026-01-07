@@ -46,7 +46,7 @@ class AtysDateTest extends \PHPUnit\Framework\TestCase
 
         // initialize
         $this->atysDate = new AtysDateTime('en');
-        $this->atysDate->setGameCycle(self::shardTick);
+        $this->atysDate->setGameCycle(self::shardTick, false, null, 61, 2568);
     }
 
     public function testSetLanguage()

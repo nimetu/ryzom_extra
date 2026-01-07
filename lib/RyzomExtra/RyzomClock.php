@@ -46,13 +46,15 @@ class RyzomClock
     const RYZOM_YEAR_IN_DAY = 1440;
     /** months in cycle */
     const RYZOM_CYCLE_IN_MONTH = 12;
-    /** day offset (tick = 0 gives use days = -61) */
-    const RYZOM_START_SPRING = 61;
-    /** starting year for tick = 2635200 (61 * DAY_IN_TICKS)
-     * RyzomCore has this 2570-2 for new 'Atys' shard */
-    const RYZOM_START_YEAR = 2568;
+    /** day offset (not used, c++ repo commit 476bffdd */
+    const RYZOM_START_SPRING = 0;
+    /** starting year */
+    const RYZOM_START_YEAR = 2637;
     /** start year for game cycles from old shards */
     const LEGACY_RYZOM_START_YEAR = 2525;
+
+    /** number of seasons in cycle */
+    const RYZOM_NB_SEASONS = 4;
 
     /** @var int */
     protected $gameCycle;
@@ -65,6 +67,12 @@ class RyzomClock
 
     /** @var float */
     protected $ryzomTime;
+
+    /** @var int */
+    protected $startSpring;
+
+    /** @var int */
+    protected $startYear;
 
     /**
      * @param int  $tick
@@ -133,7 +141,7 @@ class RyzomClock
      */
     public static function getSeasonFromRyzomDay($day)
     {
-        return (int) fmod(fmod($day, self::RYZOM_YEAR_IN_DAY) / self::RYZOM_SEASON_IN_DAY, 4);
+        return (int) fmod(fmod($day, self::RYZOM_YEAR_IN_DAY) / self::RYZOM_SEASON_IN_DAY, self::RYZOM_NB_SEASONS);
     }
 
     /**
@@ -170,30 +178,41 @@ class RyzomClock
      * @param int  $gameCycle
      * @param bool $legacy
      * @param int|null $sync UTC timestamp when gameCycle was taken
+     * @param int $startSpring day offset for first spring, set to 61 for older (2026-01-04 rollover) ticks
+     * @param int $startYear starting year if legaycy=false, for older (2026-01-04 rollover) ticks set to 2568
      */
-    public function setGameCycle($gameCycle, $legacy = false, $sync = null)
+    public function setGameCycle($gameCycle, $legacy = false, $sync = null, $startSpring = null, $startYear = null)
     {
         if ($sync !== null) {
             $gameCycle += (time() - $sync) * 10;
         }
         $this->gameCycle = $gameCycle;
         $this->legacy = $legacy;
+        $this->startSpring = $startSpring !== null ? $startSpring : self::RYZOM_START_SPRING;
+
+        if ($startYear !== null) {
+            $this->startYear = $startYear;
+        } elseif ($legacy) {
+            $this->startYear = self::LEGACY_RYZOM_START_YEAR;
+        } else {
+            $this->startYear = self::RYZOM_START_YEAR;
+        }
 
         // ingame days and hours
         $hours = $this->gameCycle / self::RYZOM_HOURS_IN_TICKS;
-        $this->ryzomDay = ($hours / 24) - self::RYZOM_START_SPRING;
+        $this->ryzomDay = ($hours / 24) - $this->startSpring;
         $this->ryzomTime = fmod($hours, 24);
     }
 
     /**
-     * Set tick for legacy shards
+     * Set tick for legacy shards with correct spring start offset
      *
      * @param int $gameCycle
      * @param int|null $sync
      */
-    public function setLegacyGameCycle($gameCycle, $sync = null)
+    public function setLegacyGameCycle($gameCycle, $sync = null, $startSpring = 61)
     {
-        $this->setGameCycle($gameCycle, true, $sync);
+        $this->setGameCycle($gameCycle, true, $sync, $startSpring);
     }
 
     /**
@@ -203,7 +222,7 @@ class RyzomClock
      */
     protected function getShardStartYear()
     {
-        return $this->legacy ? self::LEGACY_RYZOM_START_YEAR : self::RYZOM_START_YEAR;
+        return $this->startYear;
     }
 
 }
