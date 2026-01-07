@@ -3509,6 +3509,12 @@
         "placeaccus": "",
         "placedat": ""
     },
+    "place_tcm_bloody_arena": {
+        "name": "Кровавая Арена",
+        "placegen": "Кровавая Арена",
+        "placeaccus": "Кровавая Арена",
+        "placedat": "Кровавая Арена"
+    },
     "place_tcm_chlorogoo_camp": {
         "name": "Форт ХлороГуу",
         "placegen": "Форта ХлороГуу",
@@ -3965,6 +3971,12 @@
         "placeaccus": "",
         "placedat": ""
     },
+    "ranger_camp_stable_1": {
+        "name": "Лагерь Рейнджеров Стойло",
+        "placegen": "Лагерь Рейнджеров Стойло",
+        "placeaccus": "Лагерь Рейнджеров Стойло",
+        "placedat": "Лагерь Рейнджеров Стойло"
+    },
     "region_bountybeaches": {
         "name": "Отмели Изобилия",
         "placegen": "Отмелей Изобилия",
@@ -3976,6 +3988,12 @@
         "placegen": "Города Провидцев",
         "placeaccus": "",
         "placedat": ""
+    },
+    "region_dark_breeding_ground": {
+        "name": "Темная Питательная Среда",
+        "placegen": "Темная Питательная Среда",
+        "placeaccus": "Темная Питательная Среда",
+        "placedat": "Темная Питательная Среда"
     },
     "region_dewdrops": {
         "name": "Капли Росы",
@@ -3994,6 +4012,18 @@
         "placegen": "Зачарованного Острова",
         "placeaccus": "",
         "placedat": ""
+    },
+    "region_event_island": {
+        "name": "Место Упокоения Анлора Винна",
+        "placegen": "Место Упокоения Анлора Винна",
+        "placeaccus": "Место Упокоения Анлора Винна",
+        "placedat": "Место Упокоения Анлора Винна"
+    },
+    "region_fields_of_decay": {
+        "name": "Поля Распада",
+        "placegen": "Поля Распада",
+        "placeaccus": "Поля Распада",
+        "placedat": "Поля Распада"
     },
     "region_fleetinggarden": {
         "name": "Ускользающий сад",
@@ -4085,12 +4115,6 @@
         "placeaccus": "",
         "placedat": ""
     },
-    "region_karavanexclusionzone": {
-        "name": "Изрезанные Равнины",
-        "placegen": "Изрезанных Равнин",
-        "placeaccus": "",
-        "placedat": ""
-    },
     "region_knollofdissent": {
         "name": "Холмы раскола",
         "placegen": "Холмов раскола",
@@ -4100,6 +4124,12 @@
     "region_knotofdementia": {
         "name": "Узел Безумия",
         "placegen": "Узла Безумия",
+        "placeaccus": "",
+        "placedat": ""
+    },
+    "region_lacerated_plains": {
+        "name": "Изрезанные Равнины",
+        "placegen": "Изрезанных Равнин",
         "placeaccus": "",
         "placedat": ""
     },
@@ -4235,6 +4265,12 @@
         "placeaccus": "",
         "placedat": ""
     },
+    "region_start_of_the_collapse": {
+        "name": "Начало Коллапса",
+        "placegen": "Начало Коллапса",
+        "placeaccus": "Начало Коллапса",
+        "placedat": "Начало Коллапса"
+    },
     "region_the_abyss_of_ichor": {
         "name": "Кровоточащая бездна",
         "placegen": "Кровоточащей бездны",
@@ -4246,6 +4282,12 @@
         "placegen": "Эфемерного леса",
         "placeaccus": "",
         "placedat": ""
+    },
+    "region_the_forbidden_secret": {
+        "name": "Запретный Секрет",
+        "placegen": "Запретный Секрет",
+        "placeaccus": "Запретный Секрет",
+        "placedat": "Запретный Секрет"
     },
     "region_the_land_of_continuty": {
         "name": "Земли непрерывности",
@@ -4658,6 +4700,12 @@
     "tryker_terrace_2nd": {
         "name": "Терраса, 2й этаж",
         "placegen": "Террасы, 2й этаж",
+        "placeaccus": "",
+        "placedat": ""
+    },
+    "uir2_forest31": {
+        "name": "Остров Атисмас",
+        "placegen": "",
         "placeaccus": "",
         "placedat": ""
     },

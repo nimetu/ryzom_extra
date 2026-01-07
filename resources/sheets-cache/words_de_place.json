@@ -48,8 +48,8 @@
         "name": "Dantes Lager",
         "namea": "Dantes Lager",
         "nameda": "Dantes Lager",
-        "da": "das",
-        "daa": "das",
+        "da": "die",
+        "daa": "den",
         "pp": "in",
         "lpp": "zu"
     },
@@ -237,7 +237,7 @@
         "name": "Unerforschte Prims",
         "namea": "",
         "nameda": "",
-        "da": "der",
+        "da": "die",
         "daa": "den",
         "pp": "beim",
         "lpp": "zum"
@@ -4689,10 +4689,10 @@
         "lpp": "zur"
     },
     "place_outpost_zorai_19": {
-        "name": "Hof am Verdorrten Stamm",
-        "namea": "Hof am Verdorrten Stamm",
-        "nameda": "Hof am Verdorrten Stamm",
-        "da": "der",
+        "name": "Hof am Stamm der Aussicht",
+        "namea": "Hof am Stamm der Aussicht",
+        "nameda": "Hof am Stamm der Aussicht",
+        "da": "die",
         "daa": "den",
         "pp": "auf dem",
         "lpp": "zum"
@@ -5308,6 +5308,15 @@
         "daa": "die",
         "pp": "in der",
         "lpp": "zur"
+    },
+    "place_tcm_bloody_arena": {
+        "name": "Blutige Arena",
+        "namea": "",
+        "nameda": "",
+        "da": "die",
+        "daa": "",
+        "pp": "",
+        "lpp": ""
     },
     "place_tcm_chlorogoo_camp": {
         "name": "Chlorogoo-Festung",
@@ -5993,6 +6002,15 @@
         "pp": "",
         "lpp": ""
     },
+    "ranger_camp_stable_1": {
+        "name": "Stall vom Ranger-Lager",
+        "namea": "Stall vom Ranger-Lager",
+        "nameda": "Stall vom Ranger-Lager",
+        "da": "der",
+        "daa": "den",
+        "pp": "beim",
+        "lpp": "zum"
+    },
     "region_bountybeaches": {
         "name": "Strände des Überflusses",
         "namea": "Strände des Überflusses",
@@ -6010,6 +6028,15 @@
         "daa": "die",
         "pp": "in den",
         "lpp": "zu den"
+    },
+    "region_dark_breeding_ground": {
+        "name": "Dunkle Nährboden",
+        "namea": "",
+        "nameda": "",
+        "da": "der",
+        "daa": "",
+        "pp": "",
+        "lpp": ""
     },
     "region_dewdrops": {
         "name": "Tautropfen",
@@ -6037,6 +6064,24 @@
         "daa": "die",
         "pp": "in der",
         "lpp": "zu der"
+    },
+    "region_event_island": {
+        "name": "Anlor Winn Ruheplatz",
+        "namea": "",
+        "nameda": "",
+        "da": "der",
+        "daa": "",
+        "pp": "",
+        "lpp": ""
+    },
+    "region_fields_of_decay": {
+        "name": "Felder des Verfalls",
+        "namea": "",
+        "nameda": "",
+        "da": "die",
+        "daa": "",
+        "pp": "",
+        "lpp": ""
     },
     "region_fleetinggarden": {
         "name": "Vergänglicher Garten",
@@ -6173,15 +6218,6 @@
         "pp": "in den",
         "lpp": "zu den"
     },
-    "region_karavanexclusionzone": {
-        "name": "Zerrissene Ebenen",
-        "namea": "Zerrissenen Ebenen",
-        "nameda": "Zerrissenen Ebenen",
-        "da": "die",
-        "daa": "die",
-        "pp": "auf den",
-        "lpp": "zu den"
-    },
     "region_knollofdissent": {
         "name": "Hügel der Abtrünnigen",
         "namea": "Hügel der Abtrünnigen",
@@ -6199,6 +6235,15 @@
         "daa": "den",
         "pp": "im",
         "lpp": "zum"
+    },
+    "region_lacerated_plains": {
+        "name": "Zerrissene Ebenen",
+        "namea": "Zerrissenen Ebenen",
+        "nameda": "Zerrissenen Ebenen",
+        "da": "die",
+        "daa": "die",
+        "pp": "auf den",
+        "lpp": "zu den"
     },
     "region_lagoonsofloria": {
         "name": "Lagunen von Loria",
@@ -6398,6 +6443,15 @@
         "pp": "in den",
         "lpp": "zu den"
     },
+    "region_start_of_the_collapse": {
+        "name": "Beginn des Zusammenbruchs",
+        "namea": "",
+        "nameda": "",
+        "da": "der",
+        "daa": "",
+        "pp": "",
+        "lpp": ""
+    },
     "region_the_abyss_of_ichor": {
         "name": "Abgrund von Ichor",
         "namea": "Abgrund von Ichor",
@@ -6415,6 +6469,15 @@
         "daa": "den",
         "pp": "im",
         "lpp": "zum"
+    },
+    "region_the_forbidden_secret": {
+        "name": "Verbotene Geheimnis",
+        "namea": "",
+        "nameda": "",
+        "da": "das",
+        "daa": "",
+        "pp": "",
+        "lpp": ""
     },
     "region_the_land_of_continuty": {
         "name": "Land der Kontinuität",
@@ -7614,13 +7677,13 @@
         "lpp": "zum"
     },
     "uir2_forest31": {
-        "name": "Teich der Träume",
-        "namea": "Teich der Träume",
-        "nameda": "Teich der Träume",
-        "da": "der",
+        "name": "Atysmas-Insel",
+        "namea": "Atysmas-Inseln",
+        "nameda": "Atysmas-Insel",
+        "da": "die",
         "daa": "den",
-        "pp": "beim",
-        "lpp": "zum"
+        "pp": "bei",
+        "lpp": "zur"
     },
     "uir2_forest32": {
         "name": "Ausgetrocknete Quellen",

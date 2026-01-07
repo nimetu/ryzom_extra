@@ -2336,6 +2336,9 @@
     "hide_n_hype_close_your_eyes_and_count_window": {
         "name": "Ne triche pas !"
     },
+    "hide_n_hype_cold": {
+        "name": "froid"
+    },
     "hide_n_hype_currently_registerd_player_online": {
         "name": "Joueurs disponibles"
     },
@@ -2349,7 +2352,7 @@
         "name": "Un Homin doit se cacher, et les autres doivent le trouver. Qui peut tenir 10 minutes sans être trouvé ?"
     },
     "hide_n_hype_dont_break_the_afk_status": {
-        "name": "Ne pas annuler le statut AFK, pas de bavardage !"
+        "name": "Ne bouge pas d'un pouce !"
     },
     "hide_n_hype_find_a_good_hiding_spot": {
         "name": "Trouve un endroit pour te cacher"
@@ -2357,8 +2360,14 @@
     "hide_n_hype_follow_this_rules": {
         "name": "Suis ces règles :"
     },
+    "hide_n_hype_forbidden_regions": {
+        "name": "Les régions 200, 250, Roots et Nexus sont interdites."
+    },
     "hide_n_hype_found_you": {
         "name": "Je t'ai trouvé.e ! Bel endroit pour te cacher !"
+    },
+    "hide_n_hype_fragile": {
+        "name": "fragile"
     },
     "hide_n_hype_game_is_over_window": {
         "name": "Jeu terminé"
@@ -2371,6 +2380,9 @@
     },
     "hide_n_hype_green": {
         "name": "vert"
+    },
+    "hide_n_hype_hairy": {
+        "name": "chevelu"
     },
     "hide_n_hype_has_out_searched_you": {
         "name": "t'a surpassé dans la recherche"
@@ -2396,6 +2408,9 @@
     "hide_n_hype_hunter_and_most_wanted": {
         "name": "Chasseur & joueur caché"
     },
+    "hide_n_hype_inspect_spawn_objects": {
+        "name": "Regardez les objets disponibles. (clic)"
+    },
     "hide_n_hype_keep_calm": {
         "name": "Reste calme et ne bouge pas !"
     },
@@ -2404,6 +2419,9 @@
     },
     "hide_n_hype_large": {
         "name": "grand"
+    },
+    "hide_n_hype_medium": {
+        "name": "moyen"
     },
     "hide_n_hype_most_wanted": {
         "name": "Joueur caché"
@@ -2416,6 +2434,9 @@
     },
     "hide_n_hype_most_wanted_offline_game_abort": {
         "name": "Le joueur caché ne s'est pas reconnecté à temps."
+    },
+    "hide_n_hype_naked": {
+        "name": "dévêtu"
     },
     "hide_n_hype_new_hint_in": {
         "name": "Nouvel indice dans :"
@@ -2453,6 +2474,9 @@
     "hide_n_hype_orange": {
         "name": "orange"
     },
+    "hide_n_hype_preview": {
+        "name": "Cacher des objets"
+    },
     "hide_n_hype_purple": {
         "name": "violet"
     },
@@ -2485,6 +2509,9 @@
     },
     "hide_n_hype_square": {
         "name": "carré"
+    },
+    "hide_n_hype_sweet": {
+        "name": "doux"
     },
     "hide_n_hype_time_to_come_out": {
         "name": "Il est temps de sortir !"
@@ -5981,8 +6008,17 @@
     "object_ju_s3_dead_tree_sel_nocollision": {
         "name": "Arbre mort de la Jungle"
     },
+    "object_sapin_bare_nostar_small_sel_nocollision": {
+        "name": "Petit arbre d'Atysoël"
+    },
+    "object_snowman_5_sc_sel_nocollision": {
+        "name": "Bonhomin de neige"
+    },
     "object_spot_goo_sel_nocollision": {
         "name": "Amas de goo"
+    },
+    "object_street_lamp_blue_sel_nocollision": {
+        "name": "Lampadaire"
     },
     "object_tent_fyros_sel_nocollision": {
         "name": "Tente fyros"
@@ -6004,6 +6040,30 @@
     },
     "object_tr_s2_lokness_c_sel_nocollision": {
         "name": "Racine des Lacs"
+    },
+    "object_xmas_ball_b_1m_black_sel_nocollision": {
+        "name": "Grosse boule d'Atysoël noire"
+    },
+    "object_xmas_ball_d_1m_green_sel_nocollision": {
+        "name": "Grosse boule d'Atysoël verte"
+    },
+    "object_xmas_gingertree_sel_nocollision": {
+        "name": "Arbre en pain d'épice"
+    },
+    "object_xmas_present_big_brown_sel_nocollision": {
+        "name": "Paquet cadeau volumineux marron"
+    },
+    "object_xmas_present_big_green_sel_nocollision": {
+        "name": "Paquet cadeau volumineux vert"
+    },
+    "object_xmas_snowhill_sel_nocollision": {
+        "name": "Modeste tas de neige"
+    },
+    "object_xmas_sugarcane_sel_nocollision": {
+        "name": "Sucre d'orge"
+    },
+    "object_xmas_yubostatue_sel_nocollision": {
+        "name": "Imposante statue de yubo étoilé"
     },
     "offensive_magician": {
         "name": "Magicien offensif"
@@ -6840,10 +6900,10 @@
         "name": "Contenu"
     },
     "uialpharolloverbg": {
-        "name": "Arrière-plan"
+        "name": "Arrière-plan au survol"
     },
     "uialpharollovercontent": {
-        "name": "Contenu"
+        "name": "Contenu au survol"
     },
     "uialwayssendreport": {
         "name": "Toujours envoyer un rapport"
@@ -15075,13 +15135,13 @@
         "name": "Trier"
     },
     "uimsortbyindex": {
-        "name": ""
+        "name": "Tri chronologique"
     },
     "uimsortbyname": {
-        "name": ""
+        "name": "Tri par nom"
     },
     "uimsortbyonline": {
-        "name": ""
+        "name": "Tri par statut"
     },
     "uimsortname": {
         "name": "Tri : Nom"

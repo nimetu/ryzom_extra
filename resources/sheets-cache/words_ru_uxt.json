@@ -2336,6 +2336,9 @@
     "hide_n_hype_close_your_eyes_and_count_window": {
         "name": "Не подглядывайте!"
     },
+    "hide_n_hype_cold": {
+        "name": "холодный"
+    },
     "hide_n_hype_currently_registerd_player_online": {
         "name": "Доступные игроки"
     },
@@ -2349,7 +2352,7 @@
         "name": "Один Homin должен прятаться, остальные должны искать. Кто продержится 10 минут, не будучи найденным?"
     },
     "hide_n_hype_dont_break_the_afk_status": {
-        "name": "Не отменяйте статус AFK, не общайтесь в чате!"
+        "name": "Не шевелись!"
     },
     "hide_n_hype_find_a_good_hiding_spot": {
         "name": "Найдите место, чтобы спрятаться"
@@ -2357,8 +2360,14 @@
     "hide_n_hype_follow_this_rules": {
         "name": "Следуйте этим правилам:"
     },
+    "hide_n_hype_forbidden_regions": {
+        "name": "Регионы 200, 250, Roots и Nexus запрещены"
+    },
     "hide_n_hype_found_you": {
         "name": "Нашёл тебя! Хорошее укрытие!"
+    },
+    "hide_n_hype_fragile": {
+        "name": "хрупкий"
     },
     "hide_n_hype_game_is_over_window": {
         "name": "Игра завершена"
@@ -2371,6 +2380,9 @@
     },
     "hide_n_hype_green": {
         "name": "зеленый"
+    },
+    "hide_n_hype_hairy": {
+        "name": "волосатый"
     },
     "hide_n_hype_has_out_searched_you": {
         "name": "обыскал вас лучше"
@@ -2396,6 +2408,9 @@
     "hide_n_hype_hunter_and_most_wanted": {
         "name": "Ищущий & Прячущийся"
     },
+    "hide_n_hype_inspect_spawn_objects": {
+        "name": "Посмотрите на доступные объекты. (клик)"
+    },
     "hide_n_hype_keep_calm": {
         "name": "Сохраняйте спокойствие и не двигайтесь!"
     },
@@ -2404,6 +2419,9 @@
     },
     "hide_n_hype_large": {
         "name": "большой"
+    },
+    "hide_n_hype_medium": {
+        "name": "средний"
     },
     "hide_n_hype_most_wanted": {
         "name": "Прячущийся"
@@ -2416,6 +2434,9 @@
     },
     "hide_n_hype_most_wanted_offline_game_abort": {
         "name": "Прячущийся не переподключился вовремя."
+    },
+    "hide_n_hype_naked": {
+        "name": "голый"
     },
     "hide_n_hype_new_hint_in": {
         "name": "Новая подсказка через:"
@@ -2453,6 +2474,9 @@
     "hide_n_hype_orange": {
         "name": "апельсин"
     },
+    "hide_n_hype_preview": {
+        "name": "Скрытие объектов"
+    },
     "hide_n_hype_purple": {
         "name": "фиолетовый"
     },
@@ -2485,6 +2509,9 @@
     },
     "hide_n_hype_square": {
         "name": "квадрат"
+    },
+    "hide_n_hype_sweet": {
+        "name": "сладкий"
     },
     "hide_n_hype_time_to_come_out": {
         "name": "Время выходить!"
@@ -5981,8 +6008,17 @@
     "object_ju_s3_dead_tree_sel_nocollision": {
         "name": "Мертвое дерево в джунглях"
     },
+    "object_sapin_bare_nostar_small_sel_nocollision": {
+        "name": "Маленькое дерево Атиства"
+    },
+    "object_snowman_5_sc_sel_nocollision": {
+        "name": "Снеговик"
+    },
     "object_spot_goo_sel_nocollision": {
         "name": "Гу Спот"
+    },
+    "object_street_lamp_blue_sel_nocollision": {
+        "name": "Уличный фонарь"
     },
     "object_tent_fyros_sel_nocollision": {
         "name": "Палатка Fyros"
@@ -6004,6 +6040,30 @@
     },
     "object_tr_s2_lokness_c_sel_nocollision": {
         "name": "Озерный корень"
+    },
+    "object_xmas_ball_b_1m_black_sel_nocollision": {
+        "name": "Большой чёрный шар Атиства"
+    },
+    "object_xmas_ball_d_1m_green_sel_nocollision": {
+        "name": "Большой зеленый шар Атиства"
+    },
+    "object_xmas_gingertree_sel_nocollision": {
+        "name": "Имбирный пряник дерево"
+    },
+    "object_xmas_present_big_brown_sel_nocollision": {
+        "name": "Большой коричневый Подарок"
+    },
+    "object_xmas_present_big_green_sel_nocollision": {
+        "name": "Большой зеленый Подарок"
+    },
+    "object_xmas_snowhill_sel_nocollision": {
+        "name": "Маленький снежный холм"
+    },
+    "object_xmas_sugarcane_sel_nocollision": {
+        "name": "Ячменный сахар"
+    },
+    "object_xmas_yubostatue_sel_nocollision": {
+        "name": "Большая статуя Юбо"
     },
     "offensive_magician": {
         "name": "Маг нападения"
@@ -15075,13 +15135,13 @@
         "name": "СОРТИРОВАТЬ"
     },
     "uimsortbyindex": {
-        "name": ""
+        "name": "Хронологическая сортировка"
     },
     "uimsortbyname": {
-        "name": ""
+        "name": "Сортировать по имени"
     },
     "uimsortbyonline": {
-        "name": ""
+        "name": "Сортировать по статусу"
     },
     "uimsortname": {
         "name": "Сортировать: ИМЯ"
@@ -19020,13 +19080,13 @@
         "name": ""
     },
     "uitextcommandft2": {
-        "name": ""
+        "name": " FT FT Прошло сорок лет с момента закрытия аванпостов. На этих объектах когда-то добывали Нексус, который существовал в недрах Атиса."
     },
     "uitextcommandft3": {
-        "name": ""
+        "name": " FT FT Когда новые храмы приняли гоминидов, представители их божеств объявили, что пришло время вернуть аванпосты: их ресурсы стали предметом спора в войне между Силами."
     },
     "uitextcommandft4": {
-        "name": ""
+        "name": " FT FT Из хроник Эрлана"
     },
     "uitexthelpselecteffectbrick": {
         "name": "<- выберите эффект "
@@ -19056,7 +19116,7 @@
         "name": "Сейчас "
     },
     "uithousandsseparator": {
-        "name": " "
+        "name": ","
     },
     "uithreshold": {
         "name": "Качество"

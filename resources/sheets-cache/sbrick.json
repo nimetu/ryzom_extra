@@ -141662,7 +141662,7 @@
     "bcwacp_mark1": {
         "sheet_id": "bcwacp_mark1",
         "brick_family": 195,
-        "index_in_family": 2,
+        "index_in_family": 41,
         "level": 1,
         "sabrina_cost": 0,
         "sabrina_relative_cost": 0,
@@ -141677,7 +141677,7 @@
         ],
         "sp_cost": 50,
         "used_skills": [
-            0
+            30
         ],
         "civ_restriction": 6,
         "icon": {
@@ -141692,7 +141692,7 @@
     "bcwacp_mark1_2": {
         "sheet_id": "bcwacp_mark1_2",
         "brick_family": 195,
-        "index_in_family": 3,
+        "index_in_family": 42,
         "level": 2,
         "sabrina_cost": 0,
         "sabrina_relative_cost": 0,
@@ -141707,7 +141707,7 @@
         ],
         "sp_cost": 50,
         "used_skills": [
-            0
+            30
         ],
         "civ_restriction": 6,
         "icon": {
@@ -141722,7 +141722,7 @@
     "bcwacp_mark1_3": {
         "sheet_id": "bcwacp_mark1_3",
         "brick_family": 195,
-        "index_in_family": 4,
+        "index_in_family": 43,
         "level": 3,
         "sabrina_cost": 0,
         "sabrina_relative_cost": 0,
@@ -141737,7 +141737,7 @@
         ],
         "sp_cost": 50,
         "used_skills": [
-            0
+            30
         ],
         "civ_restriction": 6,
         "icon": {
@@ -142276,6 +142276,36 @@
         "icon": {
             "main": "jrez_nodp.png",
             "back": "us_back_0.png"
+        }
+    },
+    "bccmea21": {
+        "sheet_id": "bccmea21",
+        "brick_family": 148,
+        "index_in_family": 21,
+        "level": 21,
+        "sabrina_cost": 0,
+        "sabrina_relative_cost": 0,
+        "action_nature": 3,
+        "cast_time": [
+            14,
+            100
+        ],
+        "range": [
+            1,
+            50
+        ],
+        "sp_cost": 0,
+        "used_skills": [
+            111
+        ],
+        "civ_restriction": 6,
+        "icon": {
+            "main": "mw_2h_mace.png",
+            "back": "bk_generic_brick.png",
+            "over": "fp_over.png"
+        },
+        "required_skills": {
+            "sc": 2500
         }
     }
 }

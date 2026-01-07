@@ -2376,10 +2376,10 @@
         "ppr": "sur les"
     },
     "place_lieudit_the_elusive_forest_2": {
-        "name": "Flaque Supérieur",
+        "name": "Flaque Supérieure",
         "da": "la",
         "pr": "sur la",
-        "p": "Flaques Supérieurs",
+        "p": "Flaques Supérieures",
         "pda": "les",
         "ppr": "sur les"
     },
@@ -4703,6 +4703,14 @@
         "pda": "",
         "ppr": ""
     },
+    "place_tcm_bloody_arena": {
+        "name": "Arène sanglante",
+        "da": "l'",
+        "pr": "dans l'",
+        "p": "Arènes sanglantes",
+        "pda": "les",
+        "ppr": "dans les"
+    },
     "place_tcm_chlorogoo_camp": {
         "name": "Forteresse Chlorogoo",
         "da": "la",
@@ -5311,6 +5319,14 @@
         "pda": "",
         "ppr": ""
     },
+    "ranger_camp_stable_1": {
+        "name": "Étable du camp ranger",
+        "da": "l'",
+        "pr": "à l'",
+        "p": "Étables du camp ranger",
+        "pda": "les",
+        "ppr": "aux"
+    },
     "region_bountybeaches": {
         "name": "Plages d'Abondance",
         "da": "les",
@@ -5324,6 +5340,14 @@
         "da": "les",
         "pr": "dans les",
         "p": "Cités de l'Intuition",
+        "pda": "les",
+        "ppr": "dans les"
+    },
+    "region_dark_breeding_ground": {
+        "name": "Pépinière du mal",
+        "da": "la",
+        "pr": "dans la",
+        "p": "Pépinières du mal",
         "pda": "les",
         "ppr": "dans les"
     },
@@ -5350,6 +5374,22 @@
         "p": "Iles Enchantées",
         "pda": "les",
         "ppr": "sur les"
+    },
+    "region_event_island": {
+        "name": "Lieu de repos dAnlor Winn",
+        "da": "le",
+        "pr": "dans le",
+        "p": "Lieux de repos d'Anlor Winn",
+        "pda": "les",
+        "ppr": "dans les"
+    },
+    "region_fields_of_decay": {
+        "name": "Champs de décomposition",
+        "da": "les",
+        "pr": "dans les",
+        "p": "",
+        "pda": "",
+        "ppr": ""
     },
     "region_fleetinggarden": {
         "name": "Jardin Fugace",
@@ -5471,14 +5511,6 @@
         "pda": "les",
         "ppr": "sur les"
     },
-    "region_karavanexclusionzone": {
-        "name": "Plaines lacérées",
-        "da": "les",
-        "pr": "dans les",
-        "p": "",
-        "pda": "",
-        "ppr": ""
-    },
     "region_knollofdissent": {
         "name": "Tertre de la Dissidence",
         "da": "le",
@@ -5494,6 +5526,14 @@
         "p": "Noeuds de la Démence",
         "pda": "les",
         "ppr": "dans les"
+    },
+    "region_lacerated_plains": {
+        "name": "Plaines lacérées",
+        "da": "les",
+        "pr": "dans les",
+        "p": "",
+        "pda": "",
+        "ppr": ""
     },
     "region_lagoonsofloria": {
         "name": "Lagons de Loria",
@@ -5671,6 +5711,14 @@
         "pda": "les",
         "ppr": "dans les"
     },
+    "region_start_of_the_collapse": {
+        "name": "Début de l'effondrement",
+        "da": "le",
+        "pr": "au",
+        "p": "Débuts de l'effondrement",
+        "pda": "les",
+        "ppr": "aux"
+    },
     "region_the_abyss_of_ichor": {
         "name": "Gouffre d'Ichor",
         "da": "le",
@@ -5686,6 +5734,14 @@
         "p": "Forêts Insaisissables",
         "pda": "les",
         "ppr": "dans les"
+    },
+    "region_the_forbidden_secret": {
+        "name": "Secret interdit",
+        "da": "le",
+        "pr": "au",
+        "p": "Secrets interdits",
+        "pda": "les",
+        "ppr": "aux"
     },
     "region_the_land_of_continuty": {
         "name": "Terre de la Continuité",
@@ -6752,9 +6808,9 @@
         "ppr": ""
     },
     "uir2_forest31": {
-        "name": "Étang des rêves",
-        "da": "le",
-        "pr": "dans le",
+        "name": "île d'Atysmas",
+        "da": "l'",
+        "pr": "",
         "p": "",
         "pda": "",
         "ppr": ""

@@ -2336,6 +2336,9 @@
     "hide_n_hype_close_your_eyes_and_count_window": {
         "name": "Don’t peek!"
     },
+    "hide_n_hype_cold": {
+        "name": "cold"
+    },
     "hide_n_hype_currently_registerd_player_online": {
         "name": "Available players"
     },
@@ -2349,7 +2352,7 @@
         "name": "One Homin has to hide, and the rest have to search for them. Who can last 10 minutes without being found?"
     },
     "hide_n_hype_dont_break_the_afk_status": {
-        "name": "Do not cancel the AFK status, no chatting!"
+        "name": "Don't move a muscle!"
     },
     "hide_n_hype_find_a_good_hiding_spot": {
         "name": "Find a place to hide"
@@ -2357,8 +2360,14 @@
     "hide_n_hype_follow_this_rules": {
         "name": "Follow these rules:"
     },
+    "hide_n_hype_forbidden_regions": {
+        "name": "Regions 200, 250, Roots and Nexus are forbidden."
+    },
     "hide_n_hype_found_you": {
         "name": "found you! Nice hiding spot though!"
+    },
+    "hide_n_hype_fragile": {
+        "name": "fragile"
     },
     "hide_n_hype_game_is_over_window": {
         "name": "Game finished"
@@ -2371,6 +2380,9 @@
     },
     "hide_n_hype_green": {
         "name": "green"
+    },
+    "hide_n_hype_hairy": {
+        "name": "hairy"
     },
     "hide_n_hype_has_out_searched_you": {
         "name": "has out-searched you"
@@ -2396,6 +2408,9 @@
     "hide_n_hype_hunter_and_most_wanted": {
         "name": "Seeker & Hider"
     },
+    "hide_n_hype_inspect_spawn_objects": {
+        "name": "Take a look at the available objects. (click)"
+    },
     "hide_n_hype_keep_calm": {
         "name": "Keep calm and don't move!"
     },
@@ -2404,6 +2419,9 @@
     },
     "hide_n_hype_large": {
         "name": "large"
+    },
+    "hide_n_hype_medium": {
+        "name": "medium"
     },
     "hide_n_hype_most_wanted": {
         "name": "Hider"
@@ -2416,6 +2434,9 @@
     },
     "hide_n_hype_most_wanted_offline_game_abort": {
         "name": "The hider did not reconnect in time."
+    },
+    "hide_n_hype_naked": {
+        "name": "naked"
     },
     "hide_n_hype_new_hint_in": {
         "name": "New hint in:"
@@ -2453,6 +2474,9 @@
     "hide_n_hype_orange": {
         "name": "orange"
     },
+    "hide_n_hype_preview": {
+        "name": "Hidding Objects"
+    },
     "hide_n_hype_purple": {
         "name": "orange"
     },
@@ -2485,6 +2509,9 @@
     },
     "hide_n_hype_square": {
         "name": "square"
+    },
+    "hide_n_hype_sweet": {
+        "name": "sweet"
     },
     "hide_n_hype_time_to_come_out": {
         "name": "Time to come out!"
@@ -5981,8 +6008,17 @@
     "object_ju_s3_dead_tree_sel_nocollision": {
         "name": "Jungle Dead Tree"
     },
+    "object_sapin_bare_nostar_small_sel_nocollision": {
+        "name": "Small Atysmastree"
+    },
+    "object_snowman_5_sc_sel_nocollision": {
+        "name": "Snowman"
+    },
     "object_spot_goo_sel_nocollision": {
         "name": "Goo Spot"
+    },
+    "object_street_lamp_blue_sel_nocollision": {
+        "name": "Streetlamp"
     },
     "object_tent_fyros_sel_nocollision": {
         "name": "Fyros Tent"
@@ -6004,6 +6040,30 @@
     },
     "object_tr_s2_lokness_c_sel_nocollision": {
         "name": "Lakes Root"
+    },
+    "object_xmas_ball_b_1m_black_sel_nocollision": {
+        "name": "Big black Christmas bauble"
+    },
+    "object_xmas_ball_d_1m_green_sel_nocollision": {
+        "name": "Large green Christmas bauble"
+    },
+    "object_xmas_gingertree_sel_nocollision": {
+        "name": "Gingerbread tree"
+    },
+    "object_xmas_present_big_brown_sel_nocollision": {
+        "name": "Big brown Present"
+    },
+    "object_xmas_present_big_green_sel_nocollision": {
+        "name": "Big green Present"
+    },
+    "object_xmas_snowhill_sel_nocollision": {
+        "name": "Small Snowhill"
+    },
+    "object_xmas_sugarcane_sel_nocollision": {
+        "name": "Sugarcane"
+    },
+    "object_xmas_yubostatue_sel_nocollision": {
+        "name": "Big Yubo Statue"
     },
     "offensive_magician": {
         "name": "Offensive Magician"
@@ -6840,10 +6900,10 @@
         "name": "Contents"
     },
     "uialpharolloverbg": {
-        "name": "Background"
+        "name": "Background at Rollover"
     },
     "uialpharollovercontent": {
-        "name": "Contents"
+        "name": "Contents at Rollover"
     },
     "uialwayssendreport": {
         "name": "Always send the report"
@@ -15075,13 +15135,13 @@
         "name": "Sort"
     },
     "uimsortbyindex": {
-        "name": ""
+        "name": "Chronological sorting"
     },
     "uimsortbyname": {
-        "name": ""
+        "name": "Sort by name"
     },
     "uimsortbyonline": {
-        "name": ""
+        "name": "Sort by status"
     },
     "uimsortname": {
         "name": "Sort: NAME"

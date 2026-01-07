@@ -112,7 +112,7 @@
         "pda": "las"
     },
     "caagd3": {
-        "name": "Baldusas Pestíferas",
+        "name": "Baldusa Pestífera",
         "ia": "una",
         "da": "la",
         "p": "Baldusas Pestíferas",
@@ -136,11 +136,11 @@
         "pda": "las"
     },
     "caage2": {
-        "name": "Baldusa Filtrante",
+        "name": "Baldusa Supurante",
         "ia": "una",
         "da": "la",
-        "p": "Baldusas Filtrantes",
-        "pia": "",
+        "p": "Baldusas Supurantes",
+        "pia": "unas",
         "pda": "las"
     },
     "caage3": {
@@ -280,11 +280,11 @@
         "pda": "las"
     },
     "caapc1": {
-        "name": "Baldusas plenamente desarrolladas",
+        "name": "Baldusa Madura",
         "ia": "una",
         "da": "la",
-        "p": "Baldusas plenamente desarrolladas",
-        "pia": "",
+        "p": "Baldusas Maduras",
+        "pia": "unas",
         "pda": "las"
     },
     "caapc2": {
@@ -464,11 +464,11 @@
         "pda": "los"
     },
     "cabdc1": {
-        "name": "Prakker Plenamente Desarrollado",
+        "name": "Prakker Maduro",
         "ia": "un",
         "da": "el",
-        "p": "Prakkers Plenamente Desarrollados",
-        "pia": "",
+        "p": "Prakkers Maduros",
+        "pia": "unos",
         "pda": "los"
     },
     "cabdc2": {
@@ -648,11 +648,11 @@
         "pda": "los"
     },
     "cabfc1": {
-        "name": "Prakker Plenamente Desarrollado",
+        "name": "Prakker Crecido",
         "ia": "un",
         "da": "el",
-        "p": "Prakkers Plenamente Desarrollados",
-        "pia": "",
+        "p": "Prakkers Crecido",
+        "pia": "unos",
         "pda": "los"
     },
     "cabfc2": {
@@ -824,11 +824,11 @@
         "pda": "los"
     },
     "cabjc1": {
-        "name": "Prakker Plenamente Desarrollado",
+        "name": "Prakker Crecido",
         "ia": "un",
         "da": "el",
-        "p": "Prakkers Plenamente Desarrollados",
-        "pia": "",
+        "p": "Prakkers Crecidos",
+        "pia": "unos",
         "pda": "los"
     },
     "cabjc2": {
@@ -1040,11 +1040,11 @@
         "pda": "los"
     },
     "cabpc1": {
-        "name": "Prakker Plenamente Desarrollado",
+        "name": "Prakker Crecido",
         "ia": "un",
         "da": "el",
-        "p": "Prakkers Plenamente Desarrollados",
-        "pia": "",
+        "p": "Prakkers Crecidos",
+        "pia": "unos",
         "pda": "los"
     },
     "cabpc2": {
@@ -1158,6 +1158,14 @@
         "p": "Prakkers Atroces",
         "pia": "",
         "pda": "los"
+    },
+    "capryni_mount_00": {
+        "name": "Montura Capryni",
+        "ia": "una",
+        "da": "la",
+        "p": "Monturas Capryni",
+        "pia": "unas",
+        "pda": "las"
     },
     "cbacf4": {
         "name": "Igara Mortal",
@@ -1552,11 +1560,11 @@
         "pda": "las"
     },
     "cbage2": {
-        "name": "Igara Filtrante",
+        "name": "Igara Supurante",
         "ia": "una",
         "da": "la",
-        "p": "Igaras Filtrantes",
-        "pia": "",
+        "p": "Igaras Supurantes",
+        "pia": "unas",
         "pda": "las"
     },
     "cbage3": {
@@ -1600,10 +1608,10 @@
         "pda": "las"
     },
     "cbagf4": {
-        "name": "Kazoar Letal",
+        "name": "Igara Letal",
         "ia": "un",
         "da": "el",
-        "p": "Kazoars Letales",
+        "p": "Igaras Letales",
         "pia": "",
         "pda": "los"
     },
@@ -2448,11 +2456,11 @@
         "pda": "los"
     },
     "cbbld3": {
-        "name": "Izam Burlon",
+        "name": "Izam Burlón",
         "ia": "un",
         "da": "el",
         "p": "Izams Burlones",
-        "pia": "",
+        "pia": "unos",
         "pda": "los"
     },
     "cbbld4": {
@@ -2888,11 +2896,11 @@
         "pda": "los"
     },
     "cbcge2": {
-        "name": "Yber Filtrante",
+        "name": "Yber Supurante",
         "ia": "un",
         "da": "el",
-        "p": "Ybers Filtrantes",
-        "pia": "",
+        "p": "Ybers Supurantes",
+        "pia": "unos",
         "pda": "los"
     },
     "cbcge3": {
@@ -3792,11 +3800,11 @@
         "pda": "los"
     },
     "ccage2": {
-        "name": "Gingo Filtrante",
+        "name": "Gingo Supurante",
         "ia": "un",
         "da": "el",
-        "p": "Gingos Filtrantes",
-        "pia": "",
+        "p": "Gingos Supurantes",
+        "pia": "unos",
         "pda": "los"
     },
     "ccage3": {
@@ -3840,10 +3848,10 @@
         "pda": "los"
     },
     "ccagf4": {
-        "name": "Chonari Letal",
+        "name": "Gingo Letal",
         "ia": "un",
         "da": "el",
-        "p": "Chonaris Letales",
+        "p": "Gingos Letales",
         "pia": "",
         "pda": "los"
     },
@@ -4424,11 +4432,11 @@
         "pda": "los"
     },
     "ccbge2": {
-        "name": "Clopper Filtrante",
+        "name": "Clopper Supurante",
         "ia": "un",
         "da": "el",
-        "p": "Cloppers Filtrantes",
-        "pia": "",
+        "p": "Cloppers Supurantes",
+        "pia": "unos",
         "pda": "los"
     },
     "ccbge3": {
@@ -4472,10 +4480,10 @@
         "pda": "los"
     },
     "ccbgf4": {
-        "name": "Cococlaw Letal",
+        "name": "Clopper Letal",
         "ia": "un",
         "da": "el",
-        "p": "Cococlaws Letales",
+        "p": "Cloppers Letales",
         "pia": "",
         "pda": "los"
     },
@@ -5088,10 +5096,10 @@
         "pda": "los"
     },
     "cccge2": {
-        "name": "Goari Filtrante",
+        "name": "Goari Supurante",
         "ia": "un",
         "da": "el",
-        "p": "Goaris Filtrantes",
+        "p": "Goaris Supurantes",
         "pia": "unos",
         "pda": "los"
     },
@@ -5800,11 +5808,11 @@
         "pda": "los"
     },
     "ccdge2": {
-        "name": "Torbak Filtrante",
+        "name": "Torbak Supurante",
         "ia": "un",
         "da": "el",
-        "p": "Torbaks Filtrantes",
-        "pia": "",
+        "p": "Torbaks Supurantes",
+        "pia": "unos",
         "pda": "los"
     },
     "ccdge3": {
@@ -6536,10 +6544,10 @@
         "pda": "los"
     },
     "ccege2": {
-        "name": "Ragus Filtrante",
+        "name": "Ragus Supurante",
         "ia": "un",
         "da": "el",
-        "p": "Raguses Filtrantes",
+        "p": "Raguses Supurantes",
         "pia": "unos",
         "pda": "los"
     },
@@ -7200,11 +7208,11 @@
         "pda": "las"
     },
     "ccfge2": {
-        "name": "Najab Filtrante",
+        "name": "Najab Supurante",
         "ia": "una",
         "da": "la",
-        "p": "Najabs Filtrante",
-        "pia": "",
+        "p": "Najabs Supurantes",
+        "pia": "unas",
         "pda": "las"
     },
     "ccfge3": {
@@ -7920,11 +7928,11 @@
         "pda": "los"
     },
     "ccgge2": {
-        "name": "Vorax Filtrante",
+        "name": "Vorax Supurante",
         "ia": "un",
         "da": "el",
-        "p": "Voraxes Filtrante",
-        "pia": "",
+        "p": "Voraxes Supurantes",
+        "pia": "unos",
         "pda": "los"
     },
     "ccgge3": {
@@ -8896,11 +8904,11 @@
         "pda": "los"
     },
     "cchge2": {
-        "name": "Varinx Filtrante",
+        "name": "Varinx Supurante",
         "ia": "un",
         "da": "el",
-        "p": "Varinxes Filtrantes",
-        "pia": "",
+        "p": "Varinxes Supurantes",
+        "pia": "unos",
         "pda": "los"
     },
     "cchge3": {
@@ -11312,11 +11320,11 @@
         "pda": "las"
     },
     "ccmge2": {
-        "name": "Jugula Filtrante",
+        "name": "Jugula Supurante",
         "ia": "una",
         "da": "la",
-        "p": "Jugulas Filtrantes",
-        "pia": "",
+        "p": "Jugulas Supurantes",
+        "pia": "unas",
         "pda": "las"
     },
     "ccmge3": {
@@ -12832,11 +12840,11 @@
         "pda": "los"
     },
     "cdage2": {
-        "name": "Cute Filtrante",
+        "name": "Cute Supurante",
         "ia": "un",
         "da": "el",
-        "p": "Cutes Filtrantes",
-        "pia": "",
+        "p": "Cutes Supurantes",
+        "pia": "unos",
         "pda": "los"
     },
     "cdage3": {
@@ -13848,11 +13856,11 @@
         "pda": "los"
     },
     "cdbge2": {
-        "name": "Gibbai Filtrante",
+        "name": "Gibbaï Supurante",
         "ia": "un",
         "da": "el",
-        "p": "Gibbais Filtrantes",
-        "pia": "",
+        "p": "Gibbaïs Supurantes",
+        "pia": "unos",
         "pda": "los"
     },
     "cdbge3": {
@@ -14512,11 +14520,11 @@
         "pda": "los"
     },
     "cdcge2": {
-        "name": "Frahar Filtrante",
+        "name": "Frahar Supurante",
         "ia": "un",
         "da": "el",
-        "p": "Frahars Filtrantes",
-        "pia": "",
+        "p": "Frahars Supurantes",
+        "pia": "unos",
         "pda": "los"
     },
     "cdcge3": {
@@ -17584,11 +17592,11 @@
         "pda": "los"
     },
     "chege2": {
-        "name": "Cray Filtrando",
+        "name": "Cray Supurante",
         "ia": "un",
         "da": "el",
-        "p": "Crays Filtrando",
-        "pia": "",
+        "p": "Crays Supurante",
+        "pia": "unos",
         "pda": "los"
     },
     "chege3": {
@@ -18320,11 +18328,11 @@
         "pda": "los"
     },
     "chfge2": {
-        "name": "Messab Filtrando",
+        "name": "Messab Supurante",
         "ia": "un",
         "da": "el",
-        "p": "Messabs Filtrando",
-        "pia": "",
+        "p": "Messabs Supurante",
+        "pia": "unos",
         "pda": "los"
     },
     "chfge3": {
@@ -19256,11 +19264,11 @@
         "pda": "los"
     },
     "chgge2": {
-        "name": "Lumper Filtrándose",
+        "name": "Lumper Supurante",
         "ia": "un",
         "da": "el",
-        "p": "Lumpers Filtrándose",
-        "pia": "",
+        "p": "Lumpers Supurantes",
+        "pia": "unos",
         "pda": "los"
     },
     "chgge3": {
@@ -22000,11 +22008,11 @@
         "pda": "los"
     },
     "chkge2": {
-        "name": "Timari Filtrante",
+        "name": "Timari Supurante",
         "ia": "un",
         "da": "el",
-        "p": "Timaris Filtrante",
-        "pia": "",
+        "p": "Timaris Supurantes",
+        "pia": "unos",
         "pda": "los"
     },
     "chkge3": {
@@ -22032,7 +22040,7 @@
         "pda": "los"
     },
     "chkgf2": {
-        "name": "Timaris Frenético",
+        "name": "Timari Frenético",
         "ia": "un",
         "da": "el",
         "p": "Timaris Frenéticos",
@@ -22232,7 +22240,7 @@
         "pda": "los"
     },
     "chkje4": {
-        "name": "Timaris Violento",
+        "name": "Timari Violento",
         "ia": "un",
         "da": "el",
         "p": "Timaris Violentos",
@@ -24000,11 +24008,11 @@
         "pda": "los"
     },
     "choge2": {
-        "name": "Frippo Filtrante",
+        "name": "Frippo Supurante",
         "ia": "un",
         "da": "el",
-        "p": "Frippos Filtrantes",
-        "pia": "",
+        "p": "Frippos Supurantes",
+        "pia": "unos",
         "pda": "los"
     },
     "choge3": {
@@ -27168,11 +27176,11 @@
         "pda": "los"
     },
     "ckage2": {
-        "name": "Kidinak Filtrando",
+        "name": "Kidinak Supurante",
         "ia": "un",
         "da": "el",
-        "p": "Kidinak Filtrando",
-        "pia": "",
+        "p": "Kidinak Supurantes",
+        "pia": "unos",
         "pda": "los"
     },
     "ckage3": {
@@ -28480,11 +28488,11 @@
         "pda": "los"
     },
     "ckbge2": {
-        "name": "Kinrey Filtrándose",
+        "name": "Kinrey Supurante",
         "ia": "un",
         "da": "el",
-        "p": "Kinreys Filtrándose",
-        "pia": "",
+        "p": "Kinreys Supurantes",
+        "pia": "unos",
         "pda": "los"
     },
     "ckbge3": {
@@ -29872,11 +29880,11 @@
         "pda": "los"
     },
     "ckcge2": {
-        "name": "Kizarak Filtrando",
+        "name": "Kizarak Supurante",
         "ia": "un",
         "da": "el",
-        "p": "Kizaraks Filtrando",
-        "pia": "",
+        "p": "Kizaraks Supurantes",
+        "pia": "unos",
         "pda": "los"
     },
     "ckcge3": {
@@ -30920,11 +30928,11 @@
         "pda": "los"
     },
     "ckdge2": {
-        "name": "Kincher Filtrante",
+        "name": "Kincher Supurante",
         "ia": "un",
         "da": "el",
-        "p": "Kinchers Filtrantes",
-        "pia": "",
+        "p": "Kinchers Supurantes",
+        "pia": "unos",
         "pda": "los"
     },
     "ckdge3": {
@@ -31872,11 +31880,11 @@
         "pda": "las"
     },
     "ckedf3": {
-        "name": "Kipucak Asesina",
+        "name": "Kipucka Asesina",
         "ia": "una",
         "da": "la",
         "p": "Kipuckas Asesinas",
-        "pia": "",
+        "pia": "unas",
         "pda": "las"
     },
     "ckedf4": {
@@ -32296,11 +32304,11 @@
         "pda": "las"
     },
     "ckege2": {
-        "name": "Kipucka Filtrandose",
+        "name": "Kipucka Supurante",
         "ia": "una",
         "da": "la",
-        "p": "Kipuckas Filtrandose",
-        "pia": "",
+        "p": "Kipuckas Supurantes",
+        "pia": "unas",
         "pda": "las"
     },
     "ckege3": {
@@ -34848,11 +34856,11 @@
         "pda": "los"
     },
     "ckgge2": {
-        "name": "Kiban Filtrante",
+        "name": "Kiban Supurante",
         "ia": "un",
         "da": "el",
-        "p": "Kibans Filtrantes",
-        "pia": "",
+        "p": "Kibanes Supurantes",
+        "pia": "unos",
         "pda": "los"
     },
     "ckgge3": {
@@ -37696,11 +37704,11 @@
         "pda": "los"
     },
     "ckige2": {
-        "name": "Kizoar Filtrando",
+        "name": "Kizoar Supurante",
         "ia": "un",
         "da": "el",
-        "p": "Kizoars Filtrando",
-        "pia": "",
+        "p": "Kizoars Supurantes",
+        "pia": "unos",
         "pda": "los"
     },
     "ckige3": {
@@ -39096,11 +39104,11 @@
         "pda": "las"
     },
     "ckjge2": {
-        "name": "Kipesta Filtrándose",
+        "name": "Kipesta Supurante",
         "ia": "una",
         "da": "la",
-        "p": "Kipestas Filtrante",
-        "pia": "",
+        "p": "Kipestas Supurantes",
+        "pia": "unas",
         "pda": "las"
     },
     "ckjge3": {
@@ -40112,11 +40120,11 @@
         "pda": "las"
     },
     "cpagd2": {
-        "name": "Jubla Filtrando",
+        "name": "Jubla Supurante",
         "ia": "una",
-        "da": "el",
-        "p": "Jublas Filtrando",
-        "pia": "",
+        "da": "la",
+        "p": "Jublas Supurantes",
+        "pia": "unas",
         "pda": "las"
     },
     "cpagd3": {
@@ -40144,11 +40152,11 @@
         "pda": "las"
     },
     "cpage2": {
-        "name": "Jubla Filtrando",
+        "name": "Jubla Supurante",
         "ia": "una",
         "da": "la",
-        "p": "Jublas Filtrando",
-        "pia": "",
+        "p": "Jublas Supurantes",
+        "pia": "unas",
         "pda": "las"
     },
     "cpage3": {
@@ -40728,11 +40736,11 @@
         "pda": "las"
     },
     "cpbge2": {
-        "name": "Stinga Filtrando",
+        "name": "Stinga Supurante",
         "ia": "una",
         "da": "la",
-        "p": "Stingas Filtrantes",
-        "pia": "",
+        "p": "Stingas Supurantes",
+        "pia": "unas",
         "pda": "las"
     },
     "cpbge3": {
@@ -41360,11 +41368,11 @@
         "pda": "las"
     },
     "cpcge2": {
-        "name": "Psykopla Filtrante",
+        "name": "Psykopla Supurante",
         "ia": "una",
         "da": "la",
-        "p": "Psykoplas Filtrantes",
-        "pia": "",
+        "p": "Psykoplas Supurantes",
+        "pia": "unas",
         "pda": "las"
     },
     "cpcge3": {
@@ -42088,11 +42096,11 @@
         "pda": "los"
     },
     "cpdge2": {
-        "name": "Slaveni Filtrando",
+        "name": "Slaveni Supurante",
         "ia": "un",
         "da": "el",
-        "p": "Slavenis Filtrando",
-        "pia": "",
+        "p": "Slavenis Supurantes",
+        "pia": "unos",
         "pda": "los"
     },
     "cpdge3": {
@@ -42792,11 +42800,11 @@
         "pda": "las"
     },
     "cpege2": {
-        "name": "Cratchas Filtrante",
+        "name": "Cratchas Supurante",
         "ia": "una",
         "da": "la",
-        "p": "Cratchas Filtrantes",
-        "pia": "",
+        "p": "Cratchas Supurantes",
+        "pia": "unas",
         "pda": "las"
     },
     "cpege3": {
@@ -43560,11 +43568,11 @@
         "pda": "los"
     },
     "cpfge2": {
-        "name": "Shooki Filtrante",
+        "name": "Shooki Supurante",
         "ia": "un",
         "da": "el",
-        "p": "Shookis Filtrantes",
-        "pia": "",
+        "p": "Shookis Supurantes",
+        "pia": "unos",
         "pda": "los"
     },
     "cpfge3": {
@@ -43768,10 +43776,10 @@
         "pda": "los"
     },
     "egg": {
-        "name": "huevo",
+        "name": "Huevo",
         "ia": "",
         "da": "el",
-        "p": "huevos",
+        "p": "Huevos",
         "pia": "unos",
         "pda": "los"
     },
@@ -43781,6 +43789,14 @@
         "da": "el",
         "p": "Gnoofs de Montar",
         "pia": "",
+        "pda": "los"
+    },
+    "goo_madness_boss": {
+        "name": "Spookakoo",
+        "ia": "uno",
+        "da": "el",
+        "p": "Spookakoo",
+        "pia": "unos",
         "pda": "los"
     },
     "gubani_mount_00": {
@@ -44127,6 +44143,70 @@
         "pia": "unos",
         "pda": "los"
     },
+    "object_xmasball_a_big_black": {
+        "name": "Inmenso Adorno de Navidad",
+        "ia": "uno",
+        "da": "el",
+        "p": "Inmensos Adornos de Navidad",
+        "pia": "unos",
+        "pda": "los"
+    },
+    "object_xmasball_a_small_turquoise": {
+        "name": "Gran Adorno de Navidad",
+        "ia": "uno",
+        "da": "el",
+        "p": "Grandes Adornos de Navidad",
+        "pia": "unos",
+        "pda": "los"
+    },
+    "object_xmasball_b_big_blue": {
+        "name": "Inmenso Adorno de Navidad",
+        "ia": "uno",
+        "da": "el",
+        "p": "Inmensos Adornos de Navidad",
+        "pia": "unos",
+        "pda": "los"
+    },
+    "object_xmasball_b_small_white": {
+        "name": "Gran Adorno de Navidad",
+        "ia": "uno",
+        "da": "el",
+        "p": "Inmensos Adornos de Navidad",
+        "pia": "unos",
+        "pda": "los"
+    },
+    "object_xmasball_c_big_beige": {
+        "name": "Inmenso Adorno de Navidad",
+        "ia": "uno",
+        "da": "el",
+        "p": "Inmensos Adornos de Navidad",
+        "pia": "unos",
+        "pda": "los"
+    },
+    "object_xmasball_c_small_green": {
+        "name": "Gran Adorno de Navidad",
+        "ia": "uno",
+        "da": "el",
+        "p": "Grandes Adornos de Navidad",
+        "pia": "unos",
+        "pda": "los"
+    },
+    "object_xmasball_d_big_red": {
+        "name": "Inmenso Adorno de Navidad",
+        "ia": "uno",
+        "da": "el",
+        "p": "Inmensos Adornos de Navidad",
+        "pia": "unos",
+        "pda": "los"
+    },
+    "object_xmasball_d_small_purple": {
+        "name": "Gran Adorno de Navidad",
+        "ia": "uno",
+        "da": "el",
+        "p": "Grandes Adornos de Navidad",
+        "pia": "unos",
+        "pda": "los"
+    },
     "shooter_mektoub_packer": {
         "name": "Embalador Tirador",
         "ia": "un",
@@ -44151,8 +44231,16 @@
         "pia": "unos",
         "pda": "los"
     },
+    "zig_gibbai_jun": {
+        "name": "Zig Gibbaï",
+        "ia": "uno",
+        "da": "el",
+        "p": "Zig Gibbaï",
+        "pia": "unos",
+        "pda": "los"
+    },
     "zig_gubani_pr": {
-        "name": "Zig Gubani Albinos",
+        "name": "Zig Gubani Albino",
         "ia": "uno",
         "da": "el",
         "p": "Zigs Gubani Albinos",
@@ -44160,12 +44248,12 @@
         "pda": "los"
     },
     "zig_izam_des": {
-        "name": "",
-        "ia": "",
-        "da": "",
-        "p": "",
-        "pia": "",
-        "pda": ""
+        "name": "Zig Izam",
+        "ia": "uno",
+        "da": "el",
+        "p": "Zig Izam",
+        "pia": "unos",
+        "pda": "los"
     },
     "zig_yubo_forest": {
         "name": "Zig Yubo",
@@ -44188,6 +44276,14 @@
         "ia": "une",
         "da": "el",
         "p": "Zigs Yubos",
+        "pia": "unos",
+        "pda": "los"
+    },
+    "zig_yubo_zombie": {
+        "name": "Zig Yubo Zombi",
+        "ia": "",
+        "da": "el",
+        "p": "Zig Yubos Zombis",
         "pia": "unos",
         "pda": "los"
     }

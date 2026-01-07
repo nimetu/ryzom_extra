@@ -13614,5 +13614,37 @@
         "givable": 0,
         "mountable": 0,
         "display_in_radar": 1
+    },
+    "zig_gibbai_jun": {
+        "sheetid": "zig_gibbai_jun",
+        "gender": 0,
+        "race": "20",
+        "fame": "none",
+        "speed": 20,
+        "region_force": 6,
+        "force_level": 1,
+        "level": 181,
+        "selectable": 1,
+        "talkable": 0,
+        "attackable": 0,
+        "givable": 0,
+        "mountable": 0,
+        "display_in_radar": 1
+    },
+    "zig_yubo_zombie": {
+        "sheetid": "zig_yubo_zombie",
+        "gender": 0,
+        "race": "15",
+        "fame": "none",
+        "speed": 20,
+        "region_force": 6,
+        "force_level": 1,
+        "level": 181,
+        "selectable": 1,
+        "talkable": 0,
+        "attackable": 0,
+        "givable": 0,
+        "mountable": 0,
+        "display_in_radar": 1
     }
 }

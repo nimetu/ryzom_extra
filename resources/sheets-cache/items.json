@@ -145237,5 +145237,57 @@
             "main": "ico_mission_package.png",
             "over": "item_default.png"
         }
+    },
+    "capryni_mount_0": {
+        "sheetid": "capryni_mount_0",
+        "type": 31,
+        "item_type": 55,
+        "race": 5,
+        "quality": 0,
+        "bulk": 0,
+        "icon": {
+            "main": "mektoub_steed.png",
+            "back": "bk_generic.png"
+        }
+    },
+    "zig_gibbai_jun": {
+        "sheetid": "zig_gibbai_jun",
+        "type": 31,
+        "item_type": 56,
+        "race": 9,
+        "quality": 0,
+        "bulk": 0,
+        "icon": {
+            "main": "spe_beast.png",
+            "back": "bk_generic.png"
+        }
+    },
+    "zig_yubo_zombie": {
+        "sheetid": "zig_yubo_zombie",
+        "type": 31,
+        "item_type": 56,
+        "race": 9,
+        "quality": 0,
+        "bulk": 0,
+        "icon": {
+            "main": "spe_beast.png",
+            "back": "bk_generic.png"
+        }
+    },
+    "ic_staff_wreath": {
+        "sheetid": "ic_staff_wreath",
+        "type": 3,
+        "item_type": 8,
+        "race": 0,
+        "quality": 0,
+        "bulk": 30,
+        "icon": {
+            "main": "icon_ic_staff_wreath.png",
+            "back": "bk_item_event.png"
+        },
+        "craftplan": "bccmea21",
+        "skill": "sfm2ppm",
+        "damage": 1,
+        "reach": 20
     }
 }

@@ -1159,6 +1159,14 @@
         "pia": "",
         "pda": "the"
     },
+    "capryni_mount_00": {
+        "name": "",
+        "ia": "",
+        "da": "",
+        "p": "",
+        "pia": "",
+        "pda": ""
+    },
     "cbacf4": {
         "name": "Mortal Igara",
         "ia": "a",
@@ -1600,10 +1608,10 @@
         "pda": "the"
     },
     "cbagf4": {
-        "name": "Lethal Kazoar",
+        "name": "Lethal Igara",
         "ia": "a",
         "da": "the",
-        "p": "Lethal Kazoars",
+        "p": "Lethal Igaras",
         "pia": "",
         "pda": "the"
     },
@@ -3840,10 +3848,10 @@
         "pda": "the"
     },
     "ccagf4": {
-        "name": "Lethal Chonari",
+        "name": "Lethal Gingo",
         "ia": "a",
         "da": "the",
-        "p": "Lethal Chonaris",
+        "p": "Lethal Gingo",
         "pia": "",
         "pda": "the"
     },
@@ -4472,10 +4480,10 @@
         "pda": "the"
     },
     "ccbgf4": {
-        "name": "Lethal Cococlaw",
+        "name": "Lethal Clopper",
         "ia": "a",
         "da": "the",
-        "p": "Lethal Cococlaws",
+        "p": "Lethal Clopper",
         "pia": "",
         "pda": "the"
     },
@@ -6584,10 +6592,10 @@
         "pda": "the"
     },
     "ccegf4": {
-        "name": "Lethal Regus",
+        "name": "Lethal Ragus",
         "ia": "a",
         "da": "the",
-        "p": "Lethal Reguss",
+        "p": "Lethal Raguses",
         "pia": "",
         "pda": "the"
     },
@@ -41088,10 +41096,10 @@
         "pda": ""
     },
     "cpcfa1": {
-        "name": "Placid Psykopla",
+        "name": "Training Psykopla",
         "ia": "a",
         "da": "the",
-        "p": "Placid Psykoplas",
+        "p": "Training Psykoplas",
         "pia": "",
         "pda": "the"
     },
@@ -43783,6 +43791,14 @@
         "pia": "",
         "pda": "the"
     },
+    "goo_madness_boss": {
+        "name": "Spookakoo",
+        "ia": "a",
+        "da": "the",
+        "p": "Spookakoo",
+        "pia": "",
+        "pda": "the"
+    },
     "gubani_mount_00": {
         "name": "Gubani Mount",
         "ia": "a",
@@ -44127,6 +44143,70 @@
         "pia": "",
         "pda": "the"
     },
+    "object_xmasball_a_big_black": {
+        "name": "Huge Christmas bauble",
+        "ia": "a",
+        "da": "the",
+        "p": "Huge Christmas baubles",
+        "pia": "",
+        "pda": "the"
+    },
+    "object_xmasball_a_small_turquoise": {
+        "name": "Big Christmas bauble",
+        "ia": "a",
+        "da": "the",
+        "p": "Big Christmas baubles",
+        "pia": "",
+        "pda": "the"
+    },
+    "object_xmasball_b_big_blue": {
+        "name": "Huge Christmas bauble",
+        "ia": "a",
+        "da": "the",
+        "p": "Huge Christmas baubles",
+        "pia": "",
+        "pda": "the"
+    },
+    "object_xmasball_b_small_white": {
+        "name": "Big Christmas bauble",
+        "ia": "a",
+        "da": "the",
+        "p": "Big Christmas baubles",
+        "pia": "",
+        "pda": "the"
+    },
+    "object_xmasball_c_big_beige": {
+        "name": "Huge Christmas bauble",
+        "ia": "a",
+        "da": "the",
+        "p": "Huge Christmas baubles",
+        "pia": "",
+        "pda": "the"
+    },
+    "object_xmasball_c_small_green": {
+        "name": "Big Christmas bauble",
+        "ia": "a",
+        "da": "the",
+        "p": "Big Christmas baubles",
+        "pia": "",
+        "pda": "the"
+    },
+    "object_xmasball_d_big_red": {
+        "name": "Huge Christmas bauble",
+        "ia": "a",
+        "da": "the",
+        "p": "Huge Christmas baubles",
+        "pia": "",
+        "pda": "the"
+    },
+    "object_xmasball_d_small_purple": {
+        "name": "Big Christmas bauble",
+        "ia": "a",
+        "da": "the",
+        "p": "Big Christmas baubles",
+        "pia": "",
+        "pda": "the"
+    },
     "shooter_mektoub_packer": {
         "name": "Shooter Packer",
         "ia": "a",
@@ -44151,6 +44231,14 @@
         "pia": "",
         "pda": "the"
     },
+    "zig_gibbai_jun": {
+        "name": "Zig Gibbaï",
+        "ia": "a",
+        "da": "the",
+        "p": "Zig Gibbaï",
+        "pia": "",
+        "pda": "the"
+    },
     "zig_gubani_pr": {
         "name": "Zig Gubani Albinos",
         "ia": "a",
@@ -44160,12 +44248,12 @@
         "pda": "the"
     },
     "zig_izam_des": {
-        "name": "",
-        "ia": "",
-        "da": "",
-        "p": "",
+        "name": "Zig Izam",
+        "ia": "a",
+        "da": "the",
+        "p": "Zig Izam",
         "pia": "",
-        "pda": ""
+        "pda": "the"
     },
     "zig_yubo_forest": {
         "name": "Zig Yubo",
@@ -44189,6 +44277,14 @@
         "da": "the",
         "p": "Zigs Yubos",
         "pia": "the",
+        "pda": "the"
+    },
+    "zig_yubo_zombie": {
+        "name": "Yubo Zombie Zig",
+        "ia": "a",
+        "da": "the",
+        "p": "Yubo Zombie Zig",
+        "pia": "",
         "pda": "the"
     }
 }

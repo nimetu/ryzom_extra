@@ -9021,7 +9021,7 @@
     "bcwacp_mark1": {
         "item_type": 26,
         "mpft": {
-            "mpftMpCR": 15,
+            "mpftMpVE": 15,
             "mpftMpRI": 3,
             "mpftMpRE": 1,
             "mpftMpAT": 9
@@ -9033,7 +9033,7 @@
     "bcwacp_mark1_2": {
         "item_type": 26,
         "mpft": {
-            "mpftMpCR": 7,
+            "mpftMpVE": 7,
             "mpftMpRI": 2,
             "mpftMpRE": 13,
             "mpftMpAT": 16
@@ -9045,7 +9045,7 @@
     "bcwacp_mark1_3": {
         "item_type": 26,
         "mpft": {
-            "mpftMpCR": 13,
+            "mpftMpVE": 13,
             "mpftMpRI": 11,
             "mpftMpRE": 9,
             "mpftMpAT": 15
@@ -9136,6 +9136,15 @@
             "mpftMpM": 9,
             "mpftMpG": 2,
             "mpftMpMF": 11
+        }
+    },
+    "bccmea21": {
+        "item_type": 8,
+        "mpft": {
+            "mpftMpH": 8,
+            "mpftMpM": 4,
+            "mpftMpG": 4,
+            "mpftMpC": 4
         }
     }
 }

@@ -148,7 +148,7 @@
         "da": "los"
     },
     "cwff03_termites": {
-        "name": "Monte de las Termitas",
+        "name": "Montículo de Termitas",
         "da": "el"
     },
     "cwfh01_mp1": {
@@ -1144,7 +1144,7 @@
         "da": "el"
     },
     "place_lieudit_oflovaksoasis_5": {
-        "name": "Ruta de la Llama Ardiente",
+        "name": "Ruta del Bosque Llameante",
         "da": "la"
     },
     "place_lieudit_outlawcanyon_1": {
@@ -1340,7 +1340,7 @@
         "da": "la"
     },
     "place_lieudit_thescorchedcorridor_1": {
-        "name": "Bosque en Llamas",
+        "name": "Bosque Llameante",
         "da": "el"
     },
     "place_lieudit_thescorchedcorridor_2": {
@@ -2359,6 +2359,10 @@
         "name": "Arena del Sacrificio",
         "da": "la"
     },
+    "place_tcm_bloody_arena": {
+        "name": "Arena Sangrienta",
+        "da": "la"
+    },
     "place_tcm_chlorogoo_camp": {
         "name": "Fuerte de Chlorogoo",
         "da": "el"
@@ -2663,6 +2667,10 @@
         "name": "\"Si ves este texto, es un error: r_12_04\"",
         "da": ""
     },
+    "ranger_camp_stable_1": {
+        "name": "Establo de Campamento Ranger",
+        "da": "el"
+    },
     "region_bountybeaches": {
         "name": "Playas de la Recompensa",
         "da": "las"
@@ -2670,6 +2678,10 @@
     "region_citiesofintuition": {
         "name": "Ciudades de la Intuición",
         "da": "las"
+    },
+    "region_dark_breeding_ground": {
+        "name": "Criadero de Oscuridad",
+        "da": "el"
     },
     "region_dewdrops": {
         "name": "Gotas de Rocío",
@@ -2682,6 +2694,14 @@
     "region_enchantedisle": {
         "name": "Isla Encantada",
         "da": "la"
+    },
+    "region_event_island": {
+        "name": "Lugar de Descanso de Anlor Winn",
+        "da": "el"
+    },
+    "region_fields_of_decay": {
+        "name": "Campos de Decadencia",
+        "da": ""
     },
     "region_fleetinggarden": {
         "name": "Jardín Pasajero",
@@ -2743,10 +2763,6 @@
         "name": "Dunas Imperiales",
         "da": "las"
     },
-    "region_karavanexclusionzone": {
-        "name": "Llanuras Laceradas",
-        "da": "las"
-    },
     "region_knollofdissent": {
         "name": "Monte de la Discordia",
         "da": "el"
@@ -2754,6 +2770,10 @@
     "region_knotofdementia": {
         "name": "Nudo de la Demencia",
         "da": "el"
+    },
+    "region_lacerated_plains": {
+        "name": "Llanuras Laceradas",
+        "da": "las"
     },
     "region_lagoonsofloria": {
         "name": "Lagunas de Loria",
@@ -2843,6 +2863,10 @@
         "name": "Minas de Aserrín",
         "da": "las"
     },
+    "region_start_of_the_collapse": {
+        "name": "Inicio del Colapso",
+        "da": "el"
+    },
     "region_the_abyss_of_ichor": {
         "name": "Abismo de Ichor",
         "da": "el"
@@ -2850,6 +2874,10 @@
     "region_the_elusive_forest": {
         "name": "Bosque Pasajero",
         "da": "el"
+    },
+    "region_the_forbidden_secret": {
+        "name": "El Secreto Prohibido",
+        "da": ""
     },
     "region_the_land_of_continuty": {
         "name": "Tierra de la Continuidad",
@@ -3384,8 +3412,8 @@
         "da": "el"
     },
     "uir2_forest31": {
-        "name": "Solo de Sueños",
-        "da": ""
+        "name": "Isla de Atysmas",
+        "da": "la"
     },
     "uir2_forest32": {
         "name": "Fuentes Secas",

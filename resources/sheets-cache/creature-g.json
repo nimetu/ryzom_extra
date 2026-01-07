@@ -910,5 +910,37 @@
         "givable": 0,
         "mountable": 0,
         "display_in_radar": 1
+    },
+    "goo_madness_boss": {
+        "sheetid": "goo_madness_boss",
+        "gender": 0,
+        "race": "20",
+        "fame": "none",
+        "speed": 8,
+        "region_force": 6,
+        "force_level": 8,
+        "level": 270,
+        "selectable": 1,
+        "talkable": 0,
+        "attackable": 1,
+        "givable": 0,
+        "mountable": 0,
+        "display_in_radar": 1
+    },
+    "goo_madness_boss_attack": {
+        "sheetid": "goo_madness_boss_attack",
+        "gender": 0,
+        "race": "142",
+        "fame": "none",
+        "speed": 6,
+        "region_force": 0,
+        "force_level": 0,
+        "level": 1,
+        "selectable": 1,
+        "talkable": 0,
+        "attackable": 1,
+        "givable": 0,
+        "mountable": 0,
+        "display_in_radar": 1
     }
 }

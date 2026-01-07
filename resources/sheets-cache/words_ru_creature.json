@@ -869,6 +869,12 @@
         "creagen": "Зловещих праккеров",
         "screagen": "Зловещего праккера"
     },
+    "capryni_mount_00": {
+        "name": "Маунт Каприни",
+        "p": "Маунты Каприни",
+        "creagen": "",
+        "screagen": ""
+    },
     "cbacf4": {
         "name": "Смертный игара",
         "p": "Смертные игары",
@@ -1200,10 +1206,10 @@
         "screagen": "Демоническую игару"
     },
     "cbagf4": {
-        "name": "Смертоносный казоар",
-        "p": "Смертоносные казоары",
-        "creagen": "Смертоносных казоаров",
-        "screagen": "Смертоносного казоар"
+        "name": "Смертоносный игара",
+        "p": "Смертоносные игара",
+        "creagen": "Смертоносных игара",
+        "screagen": "Смертоносного игара"
     },
     "cbaja1": {
         "name": "Неопытная игара",
@@ -2880,10 +2886,10 @@
         "screagen": "Демонического джинго"
     },
     "ccagf4": {
-        "name": "Смертоносный хонари",
-        "p": "Смертоносные хонари",
-        "creagen": "Смертоносных хонари",
-        "screagen": "Смертоносного хонари"
+        "name": "Смертоносный джинго",
+        "p": "Смертоносные джинго",
+        "creagen": "Смертоносных джинго",
+        "screagen": "Смертоносного джинго"
     },
     "ccaja1": {
         "name": "Карликовый джинго",
@@ -32837,6 +32843,12 @@
         "creagen": "",
         "screagen": ""
     },
+    "goo_madness_boss": {
+        "name": "Spookakoo",
+        "p": "Spookakoo",
+        "creagen": "Spookakoo",
+        "screagen": "Spookakoo"
+    },
     "gubani_mount_00": {
         "name": "",
         "p": "",
@@ -33095,6 +33107,54 @@
         "creagen": "",
         "screagen": ""
     },
+    "object_xmasball_a_big_black": {
+        "name": "Огромный шар Атиства",
+        "p": "Огромные шары Атиства",
+        "creagen": "",
+        "screagen": ""
+    },
+    "object_xmasball_a_small_turquoise": {
+        "name": "Большой шар Атиства",
+        "p": "Большие шары Атиства",
+        "creagen": "",
+        "screagen": ""
+    },
+    "object_xmasball_b_big_blue": {
+        "name": "Огромный шар Атиства",
+        "p": "Огромные шары Атиства",
+        "creagen": "",
+        "screagen": ""
+    },
+    "object_xmasball_b_small_white": {
+        "name": "Большой шар Атиства",
+        "p": "Большие шары Атиства",
+        "creagen": "",
+        "screagen": ""
+    },
+    "object_xmasball_c_big_beige": {
+        "name": "Огромный шар Атиства",
+        "p": "Огромные шары Атиства",
+        "creagen": "",
+        "screagen": ""
+    },
+    "object_xmasball_c_small_green": {
+        "name": "Большой шар Атиства",
+        "p": "Большие шары Атиства",
+        "creagen": "",
+        "screagen": ""
+    },
+    "object_xmasball_d_big_red": {
+        "name": "Огромный шар Атиства",
+        "p": "Огромные шары Атиства",
+        "creagen": "",
+        "screagen": ""
+    },
+    "object_xmasball_d_small_purple": {
+        "name": "Большой шар Атиства",
+        "p": "Большие шары Атиства",
+        "creagen": "",
+        "screagen": ""
+    },
     "shooter_mektoub_packer": {
         "name": "Shooter Packer",
         "p": "Shooter Packers",
@@ -33102,26 +33162,32 @@
         "screagen": "Shooter Packer"
     },
     "zig_bolobi_jun": {
-        "name": "",
-        "p": "",
+        "name": "Зиг Болоби",
+        "p": "Зигы Болоби",
         "creagen": "",
         "screagen": ""
     },
     "zig_capryni_for": {
-        "name": "",
-        "p": "",
+        "name": "Зиг Каприни",
+        "p": "Зигы Каприни",
+        "creagen": "",
+        "screagen": ""
+    },
+    "zig_gibbai_jun": {
+        "name": "Зиг Гиббай",
+        "p": "Зигы Гиббаи",
         "creagen": "",
         "screagen": ""
     },
     "zig_gubani_pr": {
-        "name": "Zig Gubani Albinos",
-        "p": "Zig Gubani Albinos",
+        "name": "Зиг Губани Альбинос",
+        "p": "Зигы Губани Альбиносы",
         "creagen": "",
         "screagen": ""
     },
     "zig_izam_des": {
-        "name": "",
-        "p": "",
+        "name": "Зиг Изам",
+        "p": "Зигы Изамы",
         "creagen": "",
         "screagen": ""
     },
@@ -33142,5 +33208,11 @@
         "p": "Zig Yubo",
         "creagen": "",
         "screagen": "Zig YuboZig YuboZig Yubo"
+    },
+    "zig_yubo_zombie": {
+        "name": "Зиг Зомби Юбо",
+        "p": "Зигы Зомби Юбо",
+        "creagen": "",
+        "screagen": ""
     }
 }

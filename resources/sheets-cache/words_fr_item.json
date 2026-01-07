@@ -377,6 +377,15 @@
         "pda": "les",
         "description": ""
     },
+    "capryni_mount_0": {
+        "name": "",
+        "ia": "",
+        "da": "",
+        "p": "",
+        "pia": "",
+        "pda": "",
+        "description": ""
+    },
     "cartographier_kitiniere_parchemin_full": {
         "name": "Carte remplie en mission de reconnaissance dans la kitinière",
         "ia": "une",
@@ -4345,6 +4354,15 @@
         "pia": "",
         "pda": "les",
         "description": ""
+    },
+    "ic_staff_wreath": {
+        "name": "sceptre couronné",
+        "ia": "un",
+        "da": "le",
+        "p": "sceptres couronnés",
+        "pia": "des",
+        "pda": "les",
+        "description": "Bâton d'atysoël portant une couronne de branche"
     },
     "ic_star_stick": {
         "name": "Bâton étoilé",
@@ -18108,7 +18126,7 @@
         "description": ""
     },
     "m0050dxaje01": {
-        "name": "Ambre excellent \/  \/ Hash de la Jungle",
+        "name": "Ambre excellent \/ Hash de la Jungle",
         "ia": "de l'",
         "da": "l'",
         "p": "Ambres excellents \/ Hash de la Jungle",
