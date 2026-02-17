@@ -22,6 +22,8 @@
 
 namespace RyzomExtra\Export\Sheets;
 
+use Ryzom\Sheets\Client\CharacterSheet;
+
 /**
  * Export CharacterSheet to array using only few needed fields
  *
@@ -31,11 +33,11 @@ class CharacterSheetExport extends AbstractSheetExport {
 
 	/**
 	 * @param array $data
-	 * @param $sheet
+	 * @param string $sheet
 	 */
 	function export(array $data, $sheet) {
-		/** @var \Ryzom\Sheets\Client\CharacterSheet[] $data */
-		echo "+ exporting $sheet\n";
+		/** @var CharacterSheet[] $data */
+		echo "+ exporting {$sheet}\n";
 
 		$export = [];
 

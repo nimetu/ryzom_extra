@@ -33,11 +33,17 @@ class SbrickSheetExport extends AbstractSheetExport {
 	/**
 	 * @param array $data
 	 * @param $sheet
+	 *
+	 * @throw \RuntimeException
 	 */
 	function export(array $data, $sheet) {
-		echo "+ exporting $sheet\n";
+		echo "+ exporting {$sheet}\n";
 
 		$skilltreeId = $this->sheetIds->getSheetId('skills.skill_tree');
+		if (!$skilltreeId) {
+			throw new \RuntimeException('Unable to read skills.skill_tree sheet');
+		}
+
 		$skilltree = $this->sheetsManager->findById($skilltreeId);
 
 		$exportSbricks = array();
@@ -66,21 +72,21 @@ class SbrickSheetExport extends AbstractSheetExport {
 				'civ_restriction' => $sbrick->CivRestriction, // 6 == common, can be used by everyone
 			);
 
-			if (!empty($sbrick->ForbiddenDef)) {
+			if ($sbrick->ForbiddenDef !== '') {
 				$array['forbidden_def'] = $sbrick->ForbiddenDef;
 			}
 
-			if (!empty($sbrick->ForbiddenExclude)) {
+			if ($sbrick->ForbiddenExclude !== '') {
 				$array['forbidden_exclude'] = $sbrick->ForbiddenExclude;
 			}
 
-			if (!empty($sbrick->RequiredBricks)) {
+			if (count($sbrick->RequiredBricks) > 0) {
 				foreach ($sbrick->RequiredBricks as $brick) {
 					$array['required_bricks'][] = $this->sheetIds->getSheetIdName($brick, false);
 				}
 			}
 
-			if ($sbrick->FactionIndex != -1) {
+			if ($sbrick->FactionIndex !== -1) {
 				$array['faction_index'] = $sbrick->FactionIndex;
 				$array['min_fame_value'] = $sbrick->MinFameValue;
 			}
@@ -92,7 +98,7 @@ class SbrickSheetExport extends AbstractSheetExport {
 
 			$iconKeys = array('main', 'back', 'over', 'over2');
 			foreach ($iconKeys as $i => $k) {
-				if (!empty($sbrick->Icon[$i])) {
+				if ($sbrick->Icon[$i] !== '') {
 					$pos = strrpos($sbrick->Icon[$i], '.tga');
 					if ($pos === false) {
 						$icon = $sbrick->Icon[$i];
@@ -100,38 +106,36 @@ class SbrickSheetExport extends AbstractSheetExport {
 						$icon = substr($sbrick->Icon[$i], 0, $pos).'.png';
 					}
 					$array['icon'][$k] = $icon;
-					if (!empty($sbrick->IconColor[$i]) && $sbrick->IconColor[$i] != -1) {
+					if ($sbrick->IconColor[$i] !== -1) {
 						$array['icon_color'][$k] = $sbrick->IconColor[$i];
 					}
 				}
 			}
 
-			if (!empty($sbrick->MandatoryFamilies)) {
+			if (count($sbrick->MandatoryFamilies) > 0) {
 				$array['mandatory_families'] = $sbrick->MandatoryFamilies;
 			}
 
-			if (!empty($sbrick->OptionalFamilies)) {
+			if (count($sbrick->OptionalFamilies) > 0) {
 				$array['optional_families'] = $sbrick->OptionalFamilies;
 			}
 
-			if (!empty($sbrick->ParameterFamilies)) {
+			if (count($sbrick->ParameterFamilies) > 0) {
 				$array['parameter_families'] = $sbrick->ParameterFamilies;
 			}
 
-			if (!empty($sbrick->CreditFamilies)) {
+			if (count($sbrick->CreditFamilies) > 0) {
 				$array['credit_families'] = $sbrick->CreditFamilies;
 			}
 
-			if (!empty($sbrick->RequiredSkills)) {
-				/** @var \Ryzom\Sheets\Client\CRequiredSkill $skill */
+			if (count($sbrick->RequiredSkills) > 0) {
 				foreach ($sbrick->RequiredSkills as $skill) {
 					$skillCode = strtolower($skilltree->get($skill->Skill)->SkillCode);
 					$array['required_skills'][$skillCode] = $skill->Value;
 				}
 			}
 
-			if (!empty($sbrick->RequireAllSkills)) {
-				/** @var \Ryzom\Sheets\Client\CRequiredSkill $skill */
+			if ($sbrick->RequireAllSkills) {
 				foreach ($sbrick->RequireAllSkills as $skill) {
 					$skillCode = strtolower($skilltree->get($skill->Skill)->SkillCode);
 					$array['require_all_skills'][$skillCode] = $skill->Value;

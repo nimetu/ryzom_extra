@@ -22,5 +22,19 @@
     "autoload": {
         "psr-0": { "RyzomExtra": "lib" },
 		"files": ["ryzom_extra.php"]
+    },
+    "scripts": {
+        "test": [
+            "XDEBUG_MODE=coverage phpunit --coverage-html coverage --display-all"
+        ],
+        "lint": [
+            "mago lint --baseline linter-baseline.toml"
+        ],
+        "analyze": [
+            "mago analyze --baseline analysis-baseline.toml"
+        ],
+        "format": [
+            "mago format"
+        ]
     }
 }

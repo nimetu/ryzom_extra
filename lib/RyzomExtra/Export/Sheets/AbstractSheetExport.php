@@ -50,7 +50,7 @@ abstract class AbstractSheetExport implements ExportInterface {
 	protected function _serializeInto(array $data, $name) {
 		$ext = $this->encoder->name();
 		$filename = "{$this->path}/{$name}.{$ext}";
-		echo "+ saving $filename\n";
+		echo "+ saving {$filename}\n";
 		file_put_contents($filename, $this->encoder->encode($data));
 	}
 

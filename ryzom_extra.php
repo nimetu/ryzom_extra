@@ -30,6 +30,9 @@
 define('RYZOM_EXTRA_PATH', dirname(__FILE__) . '/resources');
 define('RYZOM_EXTRA_SHEETS_CACHE', RYZOM_EXTRA_PATH . '/sheets-cache');
 
+/**
+ * @mago-ignore lint:file-name,kan-defect,cyclomatic-complexity
+ **/
 class RyzomExtra
 {
     // Record type - ['type']
@@ -159,6 +162,7 @@ class RyzomExtra
     const ITEM_UNDEFINED = 68;
     //
     // @deprecated should not be used, probably removed in next major version
+    // @mago-ignore lint:constant-name
     const ITEM_2h_AXE = 7;// use ITEM_2H_AXE instead
     const ITEM_T_65 = 67; // sap recharge, casino ticker/token/title
     const ITEM_OTHER = 68; // generic (mats)
@@ -168,7 +172,11 @@ class RyzomExtra
     const DMG_PIERCE = 1;
     const DMG_SMASH = 2;
 
-    //
+    /**
+     * @param int $dmg
+     *
+     * @return string
+     */
     static function uxt_damage($dmg)
     {
         switch ($dmg) {
@@ -212,7 +220,8 @@ class RyzomExtra
     const MPFT_CLOTHES = 24;
     const MPFT_MAGIC_FOCUS = 25;
     const MPFT_UNKNOWN = 26;
-    //
+
+    /** @var array<string,int> */
     static $mpft_to_bit = array(
         'mpftMpL' => self::MPFT_BLADE,
         'mpftMpH' => self::MPFT_HAMMER,
@@ -243,18 +252,21 @@ class RyzomExtra
         'mpft' => self::MPFT_UNKNOWN, // [Undefined Raw Material Target]
     );
 
-    // turn mpft bit back to uxt id that can be used in translation
+    /**
+     * turn mpft bit back to uxt id that can be used in translation
+     *
+     * @param int $val
+     *
+     * @return string
+     */
     static function uxt_mpft($val)
     {
-        foreach (self::$mpft_to_bit as $uxt => $bit) {
-            if ($val == $bit) {
-                return $uxt;
-            }
-        }
-        return 'NotExist:bit #' . $val;
+        $ret = array_search($val, self::$mpft_to_bit, true);
+        return $ret !== false ? $ret : 'NotExist:bit #' . $val;
     }
 
     // these make up uxt translation id like 'mpstat0' == durability or 'mpstatItemQualifier0' = 'of Durability'
+    /** @var array<string,int> */
     static $stat_to_int = array(
         'durability' => 0,
         'lightness' => 1,
@@ -298,19 +310,23 @@ class RyzomExtra
     const GRADE_EXCELLENT = 65; // superb
     const GRADE_SUPREME = 80; // magnificient
 
-    //
+    /**
+     * @param int $grade
+     *
+     * @return string
+     */
     static function uxt_grade($grade)
     {
         switch ($grade) {
-            case self::GRADE_BASIC        :
+            case self::GRADE_BASIC:
                 return 'uiItemRMClass0';
-            case self::GRADE_FINE        :
+            case self::GRADE_FINE:
                 return 'uiItemRMClass1';
-            case self::GRADE_CHOICE        :
+            case self::GRADE_CHOICE:
                 return 'uiItemRMClass2';
-            case self::GRADE_EXCELLENT    :
+            case self::GRADE_EXCELLENT:
                 return 'uiItemRMClass3';
-            case self::GRADE_SUPREME    :
+            case self::GRADE_SUPREME:
                 return 'uiItemRMClass4';
         }
         return 'NotExist:grade #' . $grade;
@@ -330,22 +346,26 @@ class RyzomExtra
     //                        = 5;
     const ECO_PR = 6;
 
-    //
+    /**
+     * @param int $eco
+     *
+     * @return string
+     */
     static function uxt_ecosystem($eco)
     {
         switch ($eco) {
-            case self::ECO_COMMON    :
+            case self::ECO_COMMON:
                 return 'ecosysCommonEcosystem';
-            case self::ECO_DESERT    :
+            case self::ECO_DESERT:
                 return 'ecosysDesert';
-            case self::ECO_FOREST    :
+            case self::ECO_FOREST:
                 return 'ecosysForest';
-            case self::ECO_LAKE        :
+            case self::ECO_LAKE:
                 return 'ecosysLacustre';
-            case self::ECO_JUNGLE    :
+            case self::ECO_JUNGLE:
                 return 'ecosysJungle';
             // 5
-            case self::ECO_PR        :
+            case self::ECO_PR:
                 return 'ecosysPrimaryRoot';
         }
         return 'NotExist:eco #' . $eco; // Could use 'ecosysUnknown';
@@ -373,25 +393,29 @@ class RyzomExtra
     const COLOR_WHITE = 6;
     const COLOR_BLACK = 7;
 
-    //
+    /**
+     * @param int $color
+     *
+     * @return string
+     */
     static function uxt_color($color)
     {
         switch ($color) {
-            case self::COLOR_RED        :
+            case self::COLOR_RED:
                 return 'mpcolRed';
-            case self::COLOR_BEIGE        :
+            case self::COLOR_BEIGE:
                 return 'mpcolBeige';
-            case self::COLOR_GREEN        :
+            case self::COLOR_GREEN:
                 return 'mpcolGreen';
-            case self::COLOR_TURQUOISE    :
+            case self::COLOR_TURQUOISE:
                 return 'mpcolTurquoise';
-            case self::COLOR_BLUE        :
+            case self::COLOR_BLUE:
                 return 'mpcolBlue';
-            case self::COLOR_PURPLE        :
+            case self::COLOR_PURPLE:
                 return 'mpcolPurple';
-            case self::COLOR_WHITE        :
+            case self::COLOR_WHITE:
                 return 'mpcolWhite';
-            case self::COLOR_BLACK        :
+            case self::COLOR_BLACK:
                 return 'mpcolBlack';
         }
         return 'NotExist:color #' . $color;
@@ -525,7 +549,20 @@ class RyzomExtra
     const ACTION_RECHARGE = 9;
     const ACTION_NEUTRAL = 10;
 
-    // game_share/characteristics.h
+    /**
+     * game_share/characteristics.h
+     *
+     * @var array{
+     *   consitution:int,
+     *   metabolism:int,
+     *   intelligence:int,
+     *   wisdom:int,
+     *   strength:int,
+     *   wellbalanced:int,
+     *   dexterity:int,
+     *   will:int
+     * }
+     **/
     static $characteristic_to_int = array(
         'constitution' => 0,
         'metabolism' => 1,
@@ -546,6 +583,8 @@ class RyzomExtra
      * @param string $lang
      *
      * @return array
+     *
+     * @mago-ignore lint:no-isset,no-empty,halstead
      */
     static function consumable_effects($sheet, $quality, $lang)
     {
@@ -558,6 +597,8 @@ class RyzomExtra
         }
 
         $effects = array();
+        /** @mago-ignore analysis:invalid-iterator */
+        /** @var string $property */
         foreach ($sheet['properties'] as $property) {
             $params = explode(':', $property);
             if (empty($params)) {
@@ -567,16 +608,17 @@ class RyzomExtra
             $name = strtoupper(array_shift($params));
             switch ($name) {
                 case 'SP_CHG_CHARAC':
-                    if (isset(self::$characteristic_to_int[strtolower($params[0])])) {
-                        $ui = ryzom_translate('uiCaracId' . self::$characteristic_to_int[strtolower($params[0])] . '.uxt', $lang);
+                    $params[0] = strtolower($params[0]);
+                    if (isset(self::$characteristic_to_int[$params[0]])) {
+                        /** @var array{string,int,int,int,int} $params */
+                        $ui = ryzom_translate('uiCaracId' . self::$characteristic_to_int[$params[0]] . '.uxt', $lang);
                         $bonus = (int)($params[1] * $quality + $params[2]);
                         $time = (int)$params[3];
-                        if ($bonus > 0) {
-                            $tt = ryzom_translate('uiItemConsumableEffectUpCharac.uxt', $lang);
-                        } else {
-                            $tt = ryzom_translate('uiItemConsumableEffectDownCharac.uxt', $lang);
-                        }
+                        $tt = $bonus > 0
+                            ? ryzom_translate('uiItemConsumableEffectUpCharac.uxt', $lang)
+                            : ryzom_translate('uiItemConsumableEffectDownCharac.uxt', $lang);
 
+                        /** @mago-ignore analysis:possibly-invalid-argument */
                         $effects[] = strtr($tt, array(
                             '%charac' => $ui,
                             '%bonus' => $bonus,
@@ -599,14 +641,16 @@ class RyzomExtra
                         'SP_SAP_AURA' => 'uiItemConsumableEffectSapAura.uxt',
                         'SP_SAP_AURA2' => 'uiItemConsumableEffectSapAura.uxt',
                     );
+                    /** @var numeric-string[] $params */
 
                     $tt = ryzom_translate($uiKeys[$name], $lang);
 
-                    if (substr($name, -1) == '2') {
+                    if (substr($name, -1) === '2') {
                         $params[0] *= $quality;
                         $params[3] = 0;
                         $params[4] = 0;
                     }
+                    /** @mago-ignore analysis:possibly-invalid-argument */
                     $effects[] = strtr($tt, array(
                         '%modifier' => (int)$params[0],
                         '%minutes' => (int)($params[1] / 60),
@@ -623,7 +667,7 @@ class RyzomExtra
                 case 'SP_MOD_CRAFT_SUCCESS':
                 case 'SP_MOD_FORAGE_SUCCESS':
                     $array = array(
-                        'SP_MOD_DEFENSE_SUCCESS' => array(
+                        'SP_MOD_DEFENSE' => array(
                             0 => 'uiItemConsumableEffectModDefenseSuccess.uxt',
                             'dodge' => 'uiItemConsumableEffectModDodgeSuccess.uxt',
                             'parry' => 'uiItemConsumableEffectModParrySuccess.uxt',
@@ -645,17 +689,22 @@ class RyzomExtra
                         $tt = $array[$name];
                         $index = 0;
                         if (is_array($tt)) {
-                            if (isset($tt[strtolower($params[0])])) {
-                                $tt = $tt[strtolower($params[0])];
-                            } else if (isset($tt[0])) {
+                            $params[0] = strtolower($params[0]);
+                            /** @mago-ignore lint:no-else-clause */
+                            if (isset($tt[$params[0]])) {
+                                $tt = $tt[$params[0]];
+                            } elseif (isset($tt[0])) {
                                 $tt = $tt[0];
+                            /** @mago-ignore lint:no-else-clause */
                             } else {
                                 $tt = false;
                             }
                             $index = 1;
                         }
                         if ($tt !== false) {
+                            /** @var numeric-string[] $params */
                             $tt = ryzom_translate($tt, $lang);
+                            /** @mago-ignore analysis:possibly-invalid-argument */
                             $effects[] = strtr($tt, array(
                                 '%modifier' => ($params[$index] * $quality + $params[$index + 1]),
                                 '%minutes' => (int)($params[$index + 2] / 60),
@@ -680,7 +729,9 @@ class RyzomExtra
      * @param string|array $sheet
      * @param string $lang
      *
-     * @return array
+     * @return string[]
+     *
+     * @mago-ignore lint:no-empty
      */
     static function special_effects($sheet, $lang)
     {
@@ -693,7 +744,10 @@ class RyzomExtra
         }
 
         $effects = array();
+        /** @mago-ignore analysis:invalid-iterator */
+        /** @var string $effect */
         foreach ($sheet['effects'] as $effect) {
+            /** @var string[] $params */
             $params = explode(":", $effect);
             if (empty($params)) {
                 continue;
@@ -702,13 +756,16 @@ class RyzomExtra
             $name = strtoupper(array_shift($params));
 
             $tt = ryzom_translate('uiItemFX_' . $name . '.uxt', $lang);
+            // TODO: Optional index (ie. '%p0', '%p1') is not taken into account, but c++ also ignores it
+            /** @var string[] $chunks */
             $chunks = preg_split('/(%[pnrs])\d?/', $tt, -1, PREG_SPLIT_NO_EMPTY | PREG_SPLIT_DELIM_CAPTURE);
             $i = 0;
             $ret = '';
             foreach ($chunks as $c) {
                 switch ($c) {
                     case '%p':
-                        $ret .= sprintf('%.1f', $params[$i] * 100);
+                        /** @mago-ignore analysis:invalid-type-cast */
+                        $ret .= sprintf('%.1f', (float)$params[$i] * 100);
                         $i++;
                         break;
                     case '%n':
@@ -716,7 +773,8 @@ class RyzomExtra
                         $i++;
                         break;
                     case '%r':
-                        $ret .= sprintf('%.1f', $params[$i]);
+                        /** @mago-ignore analysis:invalid-type-cast */
+                        $ret .= sprintf('%.1f', (float)$params[$i]);
                         $i++;
                         break;
                     case '%s':
@@ -739,11 +797,13 @@ class RyzomExtra
      * Return dataset file where sheet info is located
      *
      * @param string $sheet creature, title, item, etc
-     * @param string|int $extra optional full sheet name or numerid id
+     * @param string $extra optional full sheet name or numerid id
      *
      * @return string
+     *
+     * @mago-ignore lint:no-isset
      */
-    static public function get_dataset_name($sheet, $extra = false) {
+    static public function get_dataset_name($sheet, $extra = '') {
         switch($sheet) {
         case 'creature':
             $keys = array_flip(str_split('abcdefghijklmnopqrstuvwxyz', 1));
@@ -767,13 +827,15 @@ class RyzomExtra
  * NOTE: sheetid is converted to lowercase.
  *       line breaks must be handled separately. they marked as "\n"
  *
- * @param string sheetid
- * @param string lang
+ * @param string $sheetid
+ * @param string $lang
  * @param string|int $index return 'name' column by default if it exists.
  *                     for 'title', 0 == male, 1 == female
- *                     for 'title', if 'women_name' it empty, then 'name' is returned.
+ *                     for 'title', if 'women_name' is empty, then 'name' is returned.
  *
  * @return string translated text, error message if language file or sheet id is not found
+ *
+ * @mago-ignore lint:no-isset
  */
 function ryzom_translate($sheetid, $lang, $index = 0)
 {
@@ -783,25 +845,26 @@ function ryzom_translate($sheetid, $lang, $index = 0)
 
     // break up sheetid
     $_id = strtolower($sheetid);
-    $_ext = strtolower(substr(strrchr($_id, '.'), 1));
-    if ($_ext === false || $_ext == '') {
+    $pos = strrchr($_id, '.');
+    /** @mago-ignore lint:no-else-clause */
+    if ($pos === false) {
         $_ext = 'title'; // 'title' should be only one without 'dot' in sheetid
     } else {
+        $_ext = strtolower(substr($pos, 1));
         $_id = substr($_id, 0, strlen($_id) - strlen($_ext) - 1);
     }
 
     // remap
-    if ($_ext == 'sitem') {
+    if ($_ext === 'sitem') {
         $_ext = 'item';
     }
 
     // 'Neutral' is not included in faction translation, so do it here
-    if ($_ext == 'faction' && $_id == 'neutral') {
-        if ($lang == 'fr') {
+    if ($_ext === 'faction' && $_id === 'neutral') {
+        if ($lang === 'fr') {
             return 'Neutre';
-        } else {
-            return 'Neutral';
         }
+        return 'Neutral';
     }
 
     // include translation file if needed
@@ -811,22 +874,23 @@ function ryzom_translate($sheetid, $lang, $index = 0)
         $cache[$_ext][$lang] = ryzom_extra_load_dataset($file);
     }
 
-    // remap id if full sheetid user requested is found
+    // remap $_id (chdda1) to full $sheetid (chdda1.creature) if dataset uses full sheetid's
     if (isset($cache[$_ext][$lang][$sheetid])) {
         $_id = $sheetid;
     }
 
-    // check if translation is there
     if (!isset($cache[$_ext][$lang][$_id])) {
         return 'NotFound:(' . $_ext . ')' . $lang . '.' . $sheetid;
     }
 
-    // return translation - each may have different array 'key' for translation
+    /** @var string[] $word */
     $word = $cache[$_ext][$lang][$_id];
 
+    /** @mago-ignore lint:no-else-clause */
     if ($index === 0) {
         $index = 'name';
-    } else if ($_ext === 'title' && $index === 1) {
+    } elseif ($_ext === 'title' && $index === 1) {
+        /** @mago-ignore lint:no-empty */
         $index = empty($word['women_name']) ? 'name' : 'women_name';
     }
 
@@ -841,80 +905,127 @@ function ryzom_translate($sheetid, $lang, $index = 0)
 /**
  * Converts binary sheet_id to string format
  *
- * @param  int   numeric sheet_id
+ * @param  int   $sid_bin numeric sheet_id
  *
- * @return mixed sheetid in string format or boolean FALSE if lookup failed
+ * @return string|false sheetid in string format or boolean FALSE if lookup failed
+ *
+ * @mago-ignore lint:no-isset
  */
 function ryzom_sheetid_bin($sid_bin)
 {
     // full list is around 120MiB
     static $cache = array();
 
-    $idx = floor(intval($sid_bin) / 1000000);
+    /** @mago-ignore lint:readable-literal */
+    $idx = intval(intval($sid_bin) / 1000000);
     if (!isset($cache[$idx])) {
         $cache[$idx] = ryzom_extra_load_dataset(sprintf('%s/sheets-%02x.serial', RYZOM_EXTRA_SHEETS_CACHE, $idx));
     }
-    if (isset($cache[$idx][$sid_bin])) {
-        return $cache[$idx][$sid_bin];
+    if (!isset($cache[$idx][$sid_bin])) {
+        return false;
     }
-    return false;
+
+    /** @mago-ignore analysis:mixed-return-statement */
+    return $cache[$idx][$sid_bin];
 }
 
 /**
  * Return building info based building id from API XML file
  * If building_id is unknown, then return empty array
  *
+ * @template BuildingInfo of array{
+ *   type: "s"|"a"|"g",
+ *   pos: array{x:int,y:int},
+ *   place: string,
+ *   city: string,
+ *   continent: string,
+ * }
+ *
  * @param int $building_id
  *
- * @return array
+ * @return array|BuildingInfo
+ *
+ * @mago-ignore lint:no-isset
  */
 function ryzom_building_info($building_id)
 {
-    static $cache = array();
-    if (empty($cache)) {
+    static $cache = null;
+
+    if ($cache === null) {
         $file = sprintf('%s/buildings.inc.php', RYZOM_EXTRA_PATH);
         if (!file_exists($file)) {
             throw new Exception('Date file [' . $file . '] not found');
         }
+        /** @var array<int,BuildingInfo> $cache */
         $cache = include($file);
     }
+
     if (!isset($cache[$building_id])) {
-        $result = array();
-    } else {
-        $result = $cache[$building_id];
+        return array();
     }
-    return $result;
+
+    /** mago-ignore analysis:mixed-return-statement */
+    return $cache[$building_id];
 }
 
 /**
  * Returns sheetid details
  *
- * @param $sheetid - with or without '.sitem'
- * @param $extra - for items, also include craft plan to '_craftplan' index
+ * @template ItemInfo of array{
+ *   sheetid: string,
+ *   type: int,
+ *   item_type: int,
+ *   race: int,
+ *   quality: int,
+ *   bulk: int,
+ *   icon: array{
+ *     main?:string,
+ *     back?:string,
+ *     over?:string,
+ *     over2?:string
+ *   },
+ *   icon_color: array{
+ *     main?:int,
+ *     back?:int,
+ *     over?:int,
+ *     over2?:int,
+ *   },
+ *   craftplan: string,
+ *   skill: string,
+ *   damage: int,
+ *   _stats?: false|array,
+ *   _craftplan?: false|array,
+ * }
+ *
+ * @param string $sheetid - with or without '.sitem'
+ * @param bool $extra - for items, also include craft plan to '_craftplan' index
  *                   for resources, include stats to '_stats' index
  *
- * @return array
+ * @return false|ItemInfo
+ *
+ * @mago-ignore lint:no-isset
  */
 function ryzom_item_info($sheetid, $extra = false)
 {
-    static $cache = array(); // ~ 20MiB, items
+    static $cache = null; // ~ 20MiB, items
 
-    // include data file if needed
-    if (empty($cache)) {
+    if ($cache === null) {
         // use serialize/unserialize saves lot of memory
         $file = sprintf('%s/items.serial', RYZOM_EXTRA_SHEETS_CACHE);
+        /** @var array<string,ItemInfo> $cache */
         $cache = ryzom_extra_load_dataset($file);
     }
 
     $_id = strtolower($sheetid);
+    $m = null;
     if (preg_match('/^(.*)\.sitem$/', $_id, $m)) {
         $_id = $m[1];
     }
 
     if (!isset($cache[$_id])) {
-        $result = false;
-        return $result;
+        return false;
     }
+
     $result = $cache[$_id];
 
     // fix some id's
@@ -927,68 +1038,107 @@ function ryzom_item_info($sheetid, $extra = false)
     $result['sheetid'] .= '.sitem';
 
     // if item type is Resource, then also include stats
-    if ($extra == true) {
-        if ($result['type'] == RyzomExtra::TYPE_RESOURCE) {
+    if ($extra === true) {
+        if ($result['type'] === RyzomExtra::TYPE_RESOURCE) {
             $result['_stats'] = ryzom_resource_stats($_id);
-        } else if (isset($result['craftplan'])) {
+        }
+
+        if (isset($result['craftplan'])) {
             $result['_craftplan'] = ryzom_craftplan($result['craftplan']);
         }
     }
 
+    /** @var ItemInfo $result */
     return $result;
 }
 
 /**
  * Return resource craft stats like durability/lightness, etc
  *
- * @param $sheetid - with or without '.sitem'
+ * @template ResourceStat of array<key-of<RyzomExtra::mpft_to_bit>,array{key-of<RyzomExtra::stat_to_int>:int}>
  *
- * @return mixed - FALSE if $sheetid not found
+ * @param string $sheetid - with or without '.sitem'
+ *
+ * @return false|array<string,ResourceStat> FALSE if $sheetid not found
+ *
+ * @mago-ignore lint:no-isset
  */
 function ryzom_resource_stats($sheetid)
 {
-    static $cache; // ~20MiB, resource stats cache
+    static $cache = null; // ~20MiB, resource stats cache
 
-    if (empty($cache)) {
+    if ($cache === null) {
         $file = sprintf('%s/resource_stats.serial', RYZOM_EXTRA_SHEETS_CACHE);
+        /** @var array<string,array{sheetid:string,stats:array<string,ResourceStat>}> */
         $cache = ryzom_extra_load_dataset($file);
     }
 
     $_id = strtolower($sheetid);
+    $m = null;
     if (preg_match('/^(.*)\.sitem$/', $_id, $m)) {
         $_id = $m[1];
     }
 
-    if (isset($cache[$_id])) {
-        $result = $cache[$_id]['stats'];
-    } else {
-        $result = false;
+    if (!isset($cache[$_id])) {
+        return false;
     }
-    return $result;
+
+    return $cache[$_id]['stats'];
 }
 
 /**
  * Return sbrick details
  *
- * @param $sheetid with or without '.sbrick'
+ * @template SbrickInfo of array{
+ *   sheet_id: string,
+ *   brick_family: int,
+ *   index_in_family: int,
+ *   level: int,
+ *   sabrina_cost: int,
+ *   sabrina_relative_cost: int,
+ *   action_nature: int,
+ *   cast_time: array{int,int},
+ *   range: array{int,int},
+ *   sp_cost: int,
+ *   used_skills: int[],
+ *   civ_restriction: int,
+ *   forbidden_def: string,
+ *   forbidden_exclude: string,
+ *   required_bricks: string[],
+ *   icon: array{
+ *     main:string,
+ *     back:string,
+ *     over:string,
+ *     over2:string
+ *   },
+ *   mandatory_families: int[],
+ *   optional_families: int[],
+ *   credit_families: int[],
+ *   required_skills: array<string,int>
+ * }
  *
- * @return mixed FALSE if $sheetid not found
+ * @param string $sheetid with or without '.sbrick'
+ *
+ * @return false|SbrickInfo false if $sheetid not found
+ *
+ * @mago-ignore lint:no-isset
  */
 function ryzom_sbrick_info($sheetid)
 {
-    static $cache;
+    static $cache = null;
 
-    if (empty($cache)) {
+    if ($cache === null) {
         $file = sprintf('%s/sbrick.serial', RYZOM_EXTRA_SHEETS_CACHE);
+        /** @var array<string,SbrickInfo> */
         $cache = ryzom_extra_load_dataset($file);
     }
     $_id = strtolower($sheetid);
+    $m = null;
     if (preg_match('/^(.*)\.sbrick$/', $_id, $m)) {
         $_id = $m[1];
     }
     if (!isset($cache[$_id])) {
-        $result = false;
-        return $result;
+        return false;
     }
     return $cache[$_id];
 }
@@ -996,41 +1146,60 @@ function ryzom_sbrick_info($sheetid)
 /**
  * Return craft plan
  *
- * @param $sheetid - with or without '.sbrick'
+ * @template CraftPlan of array{
+ *   item_type:int,
+ *   mpft:array<int,array<string,int>>
+ * }
  *
- * @return unknown_type
+ * @param string $sheetid - with or without '.sbrick'
+ *
+ * @return false|CraftPlan
+ *
+ * @mago-ignore lint:no-isset
  */
 function ryzom_craftplan($sheetid)
 {
-    static $cache = array();
-    if (empty($cache)) {
+    static $cache = null;
+
+    if ($cache === null) {
         $file = sprintf('%s/craftplan.serial', RYZOM_EXTRA_SHEETS_CACHE);
+        /** @var array<string,CraftPlan> */
         $cache = ryzom_extra_load_dataset($file);
     }
 
     $_id = strtolower($sheetid);
+    $m = null;
     if (preg_match('/^(.*)\.sbrick$/', $_id, $m)) {
         $_id = $m[1];
     }
 
-    if (isset($cache[$_id])) {
-        $result = $cache[$_id];
-    } else {
-        $result = false;
+    if (!isset($cache[$_id])) {
+        return false;
     }
-    return $result;
+
+    return $cache[$_id];
 }
 
 /**
  * Return unformatted skilltree list
  *
- * @return unknown_type
+ * @template SkillNode of array<string,array{
+ *   max:int,
+ *   node_id:int,
+ *   parent_node:int,
+ *   skill_id:string
+ * }>
+ *
+ * @return array<string,SkillNode>
  */
 function ryzom_skilltree()
 {
-    static $cache = array();
-    if (empty($cache)) {
+    static $cache = null;
+
+    if ($cache === null) {
         $file = sprintf('%s/skilltree.serial', RYZOM_EXTRA_SHEETS_CACHE);
+
+        /** @var array<string,SkillNode> $cache */
         $cache = ryzom_extra_load_dataset($file);
     }
 
@@ -1040,31 +1209,50 @@ function ryzom_skilltree()
 /**
  * Return creature info
  *
- * @param strring $sheetid
+ * @template CreatureInfo of array{
+ *   sheetid:string,
+ *   gender:int,
+ *   race:int,
+ *   fame:string,
+ *   speed:int,
+ *   region_force:int,
+ *   force_level:int,
+ *   level:int,
+ *   selectable:int,
+ *   talkable:int,
+ *   attackable:int,
+ *   givable:int,
+ *   mountable:int,
+ *   display_in_radar:int
+ * }
  *
- * @return array
+ * @param string $sheetid
+ *
+ * @return false|CreatureInfo
+ *
+ * @mago-ignore lint:no-isset
  */
 function ryzom_creature_info($sheetid){
     static $cache = array(); // ~40MiB (php7), creature
 
     // include data file if needed
     $fname = RyzomExtra::get_dataset_name('creature', $sheetid);
-    if(empty($cache[$fname])){
+    if(!isset($cache[$fname])){
         $file = RYZOM_EXTRA_SHEETS_CACHE.'/'.$fname.'.serial';
         $cache[$fname] = ryzom_extra_load_dataset($file);
     }
 
     $_id = strtolower($sheetid);
-    if(preg_match('/^(.*)\.creature$/', $_id, $m)){
-        $_id=$m[1];
-	} else {
-		$_id = $sheetid;
+    $m = null;
+    if(preg_match('/^(.*)\.creature$/', $_id, $m)) {
+        $_id = $m[1];
 	}
 
     if(!isset($cache[$fname][$_id])){
-        $result = false;
-        return $result;
+        return false;
     }
+
+    /** @mago-ignore analysis:mixed-return-statement */
     return $cache[$fname][$_id];
 }
 
@@ -1077,9 +1265,12 @@ function ryzom_creature_info($sheetid){
  * @param int $index
  *
  * @return string|bool
+ *
+ * @mago-ignore lint:no-isset
  */
 function ryzom_vs_sheet($slot, $index)
 {
+    /** @var array<int,array<int,string>> $cache */
     $cache = ryzom_extra_load_vs();
 
     if (isset($cache[$slot][$index])) {
@@ -1096,9 +1287,12 @@ function ryzom_vs_sheet($slot, $index)
  * @param string $sheet
  *
  * @return bool|mixed
+ *
+ * @mago-ignore lint:no-isset
  */
 function ryzom_vs_index($slot, $sheet)
 {
+    /** @var array<int,array> $cache */
     $cache = ryzom_extra_load_vs();
 
     if (!isset($cache[$slot])) {
@@ -1114,8 +1308,8 @@ function ryzom_vs_index($slot, $sheet)
  */
 function ryzom_extra_load_vs()
 {
-    static $cache = array();
-    if (empty($cache)) {
+    static $cache = null;
+    if ($cache === null) {
         $file = sprintf('%s/visual_slot.serial', RYZOM_EXTRA_SHEETS_CACHE);
         $cache = ryzom_extra_load_dataset($file);
     }
@@ -1128,16 +1322,28 @@ function ryzom_extra_load_vs()
  *
  * throw Exception if file not found
  *
- * @param $file file name with full path
+ * @param string $file file name with full path
  *
- * @return mixed
+ * @return array
  */
 function ryzom_extra_load_dataset($file)
 {
-    if (file_exists($file)) {
-        $result = unserialize(file_get_contents($file));
-    } else {
+    $data = false;
+
+    if (!file_exists($file)) {
         throw new Exception('Data file [' . $file . '] not found');
     }
+
+    $data = file_get_contents($file);
+    if ($data === false) {
+        throw new Exception('Unable to read data file [' . $file . ']');
+    }
+
+    /** @var array|false $result */
+    $result = unserialize($data);
+    if ($result === false) {
+        throw new Exception('Unable to unserialize data file [' . $file . ']');
+    }
+
     return $result;
 }

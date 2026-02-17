@@ -14,7 +14,7 @@ class GuildIconRenderer
      *         $iconBuilder,
      *         '<path-to-guild_icons>'
      *     );
-     *     $icon->setSize(64, 64);
+     *     $icon->setSize('b'); // 'b' for 64x64 or 's' for 32x32
      *
      *     header('Content-Type: image/png');
      *     echo $icon->asPng(9);
@@ -59,7 +59,7 @@ class GuildIconRenderer
      */
     public function setSize($size)
     {
-        if ($size == 's') {
+        if ($size === 's') {
             $this->size = $size;
         } else {
             $this->size = 'b';
@@ -94,9 +94,9 @@ class GuildIconRenderer
     }
 
     /**
-     * Return guild icon as image resource
+     * Return guild icon as image
      *
-     * @return resource
+     * @return \GdImage
      */
     public function output()
     {
@@ -144,12 +144,14 @@ class GuildIconRenderer
                 $this->icon->Symbol
             );
 
-            $tmp = imagecreatefrompng($img_symbol);
+            if (file_exists($img_symbol)) {
+                $tmp = imagecreatefrompng($img_symbol);
 
-            if ($this->icon->Inverted == 1) {
-                $im = $this->applyFilter($im, self::IMG_ADD_NEG, $tmp);
-            } else {
-                $im = $this->applyFilter($im, self::IMG_MUL, $tmp);
+                if (intval($this->icon->Inverted) === 1) {
+                    $im = $this->applyFilter($im, self::IMG_ADD_NEG, $tmp);
+                } else {
+                    $im = $this->applyFilter($im, self::IMG_MUL, $tmp);
+                }
             }
         }
 
@@ -157,13 +159,13 @@ class GuildIconRenderer
     }
 
     /**
-     * @param resource $im
+     * @param \GdImage $im
      * @param int      $filterType
      * @param mixed    $arg0
      * @param mixed    $arg1
      * @param mixed    $arg2
      *
-     * @return resource
+     * @return \GdImage
      */
     protected function applyFilter($im, $filterType, $arg0 = 0, $arg1 = 0, $arg2 = 0)
     {
@@ -191,12 +193,14 @@ class GuildIconRenderer
                         $b = $arg2;
                         break;
                     case self::IMG_MUL:
+                        /** @var \GdImage $arg0 */
                         $rgba2 = imagecolorsforindex($arg0, imagecolorat($arg0, $x, $y));
                         $r = $r * $rgba2['red'] / 255;
                         $g = $g * $rgba2['green'] / 255;
                         $b = $b * $rgba2['blue'] / 255;
                         break;
                     case self::IMG_ADD_NEG:
+                        /** @var \GdImage $arg0 */
                         $rgba2 = imagecolorsforindex($arg0, imagecolorat($arg0, $x, $y));
                         // cap color values to 255
                         $r = min(255, $r + 255 - $rgba2['red']);

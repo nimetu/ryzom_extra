@@ -49,7 +49,7 @@ class JsonEncoder implements EncoderInterface {
 					}
 				}
 				if ($fixed !== false) {
-					echo "  $key: $value -> $fixed\n";
+					echo "  {$key}: {$value} -> {$fixed}\n";
 				}
 			}
 
@@ -57,7 +57,7 @@ class JsonEncoder implements EncoderInterface {
 			if ($ret === false) {
 				foreach($data as $key => $value) {
 					if (json_encode(array($key => $value)) !== false) {
-						throw new \RuntimeException("Invalid value for json encoder: [$key]($value)");
+						throw new \RuntimeException("Invalid value for json encoder: [{$key}]({$value})");
 					}
 				}
 			}

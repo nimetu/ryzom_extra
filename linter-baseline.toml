@@ -1,0 +1,235 @@
+variant = "loose"
+
+[[issues]]
+file = "lib/RyzomExtra/AtysDateTime.php"
+code = "cyclomatic-complexity"
+message = "Class has high complexity."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/AtysDateTime.php"
+code = "no-else-clause"
+message = "Avoid `else` clauses."
+count = 2
+
+[[issues]]
+file = "lib/RyzomExtra/AtysDateTime.php"
+code = "no-isset"
+message = "Use of the `isset` construct."
+count = 5
+
+[[issues]]
+file = "lib/RyzomExtra/Cache.php"
+code = "explicit-octal"
+message = "Use explicit octal numeral notation."
+count = 2
+
+[[issues]]
+file = "lib/RyzomExtra/Cache.php"
+code = "no-else-clause"
+message = "Avoid `else` clauses."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Cache.php"
+code = "no-error-control-operator"
+message = "Unsafe use of error control operator `@`."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Application.php"
+code = "combine-consecutive-issets"
+message = "Consecutive isset calls can be combined."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Application.php"
+code = "cyclomatic-complexity"
+message = "Class has high complexity."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Application.php"
+code = "kan-defect"
+message = "Class has a high kan defect score (3.1300000000000003)."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Application.php"
+code = "no-alias-function"
+message = "Function alias `join` should not be used."
+count = 2
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Application.php"
+code = "no-else-clause"
+message = "Avoid `else` clauses."
+count = 3
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Application.php"
+code = "no-empty"
+message = "Use of the `empty` construct."
+count = 3
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Application.php"
+code = "no-isset"
+message = "Use of the `isset` construct."
+count = 3
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Application.php"
+code = "prefer-arrow-function"
+message = "This closure can be simplified to a more concise arrow function."
+count = 12
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Application.php"
+code = "prefer-early-continue"
+message = "Consider using early continue pattern to reduce nesting."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Application.php"
+code = "prefer-static-closure"
+message = "This closure does not use `$this` and should be declared static."
+count = 13
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Encoder/JsonEncoder.php"
+code = "prefer-early-continue"
+message = "Consider using early continue pattern to reduce nesting."
+count = 2
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Encoder/JsonEncoder.php"
+code = "str-contains"
+message = "Consider replacing `strpos` with `str_contains` for improved readability and intent clarity."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/SheetIdExport.php"
+code = "readable-literal"
+message = "Numeric literal could use underscore separators for readability."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Sheets/ItemSheetExport.php"
+code = "cyclomatic-complexity"
+message = "Class has high complexity."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Sheets/ItemSheetExport.php"
+code = "halstead"
+message = "Method has a high halstead effort"
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Sheets/ItemSheetExport.php"
+code = "halstead"
+message = "Method has a high halstead volume"
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Sheets/ItemSheetExport.php"
+code = "kan-defect"
+message = "Class has a high kan defect score (2.7800000000000002)."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Sheets/ItemSheetExport.php"
+code = "no-else-clause"
+message = "Avoid `else` clauses."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Sheets/ItemSheetExport.php"
+code = "no-empty"
+message = "Use of the `empty` construct."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Sheets/ItemSheetExport.php"
+code = "no-isset"
+message = "Use of the `isset` construct."
+count = 3
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Sheets/ItemSheetExport.php"
+code = "prefer-early-continue"
+message = "Consider using early continue pattern to reduce nesting."
+count = 2
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Sheets/ItemSheetExport.php"
+code = "strict-behavior"
+message = "Call to `in_array` must enforce strict comparison."
+count = 3
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Sheets/ItemSheetExport.php"
+code = "tagged-fixme"
+message = "FIXME comment should be tagged with (@username) or (#issue)."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Sheets/SbrickSheetExport.php"
+code = "cyclomatic-complexity"
+message = "Class has high complexity."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Sheets/SbrickSheetExport.php"
+code = "halstead"
+message = "Method has a high halstead volume"
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Sheets/SbrickSheetExport.php"
+code = "kan-defect"
+message = "Class has a high kan defect score (2.88)."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Sheets/SbrickSheetExport.php"
+code = "no-else-clause"
+message = "Avoid `else` clauses."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Sheets/SbrickSheetExport.php"
+code = "prefer-early-continue"
+message = "Consider using early continue pattern to reduce nesting."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/GuildIconRenderer.php"
+code = "halstead"
+message = "Method has a high halstead effort"
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/GuildIconRenderer.php"
+code = "no-else-clause"
+message = "Avoid `else` clauses."
+count = 2
+
+[[issues]]
+file = "lib/RyzomExtra/RyzomClock.php"
+code = "no-else-clause"
+message = "Avoid `else` clauses."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/RyzomClock.php"
+code = "no-else-clause"
+message = "Avoid `elseif` clauses."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/RyzomClock.php"
+code = "readable-literal"
+message = "Numeric literal could use underscore separators for readability."
+count = 1

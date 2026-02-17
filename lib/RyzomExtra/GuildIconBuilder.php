@@ -53,10 +53,11 @@ class GuildIconBuilder extends BitStruct
      *
      * {@inheritdoc}
      */
-    public function __get($name)
+    public function __get($key)
     {
-        $result = parent::__get($name);
-        if ($name == 'Background' || $name == 'Symbol') {
+        /** @var int $result */
+        $result = parent::__get($key);
+        if ($key === 'Background' || $key === 'Symbol') {
             $result = max(0, $result - 1);
         }
         return $result;
@@ -67,12 +68,12 @@ class GuildIconBuilder extends BitStruct
      *
      * {@inheritdoc}
      */
-    public function __set($name, $value)
+    public function __set($key, $val)
     {
-        if ($name == 'Background' || $name == 'Symbol') {
-            $value++;
+        if ($key === 'Background' || $key === 'Symbol') {
+            $val++;
         }
-        parent::__set($name, $value);
+        parent::__set($key, $val);
     }
 
 }

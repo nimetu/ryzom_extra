@@ -46,7 +46,7 @@ class Cache implements CacheInterface
     {
         $this->path = rtrim($path, '/');
         if (!file_exists($this->path) && @mkdir($this->path, 0755, true) !== true) {
-            throw new \RuntimeException("Creating cache directory failed ($this->path)");
+            throw new \RuntimeException("Creating cache directory failed ({$this->path})");
         }
     }
 

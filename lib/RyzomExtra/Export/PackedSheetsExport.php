@@ -52,7 +52,7 @@ class PackedSheetsExport extends AbstractSheetExport {
 			//var_dump($data);
 			return;
 		default:
-			throw new \RuntimeException("Unknown sheet ($sheet)");
+			throw new \RuntimeException("Unknown sheet ({$sheet})");
 		}
 
 		$export->export($data, $sheet);

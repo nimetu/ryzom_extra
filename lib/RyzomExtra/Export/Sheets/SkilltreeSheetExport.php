@@ -34,7 +34,7 @@ class SkilltreeSheetExport extends AbstractSheetExport {
 	 * @param string $sheet
 	 */
 	function export(array $data, $sheet) {
-		echo "+ exporting $sheet\n";
+		echo "+ exporting {$sheet}\n";
 		/** @var \Ryzom\Sheets\Client\SkilltreeSheet $skilltree */
 		$skilltree = $data[36]; // #36 == skills.skill_tree
 

@@ -44,6 +44,7 @@ class VisualSlotExport implements ExportInterface {
 	public function export(array $data, $sheet) {
 		$cache = array();
 
+		/** @var array<int,int> $sheets */
 		foreach($data as $slot => $sheets){
 			foreach($sheets as $index => $sheetid){
 				$cache[$slot][$index] = $this->sheetIds->getSheetIdName($sheetid);
@@ -56,7 +57,7 @@ class VisualSlotExport implements ExportInterface {
 	protected function _serializeInto(array $data, $name) {
 		$ext = $this->encoder->name();
 		$fileName = "{$this->path}/{$name}.{$ext}";
-		echo "+ saving $fileName\n";
+		echo "+ saving {$fileName}\n";
 		file_put_contents($fileName, $this->encoder->encode($data));
 	}
 }

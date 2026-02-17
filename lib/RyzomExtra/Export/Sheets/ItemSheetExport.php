@@ -44,11 +44,17 @@ class ItemSheetExport extends AbstractSheetExport {
 	 */
 	function export(array $data, $sheet) {
 		/** @var \Ryzom\Sheets\Client\ItemSheet[] $data */
-		echo "+ exporting $sheet\n";
+		echo "+ exporting {$sheet}\n";
 
 		$skilltreeId = $this->sheetIds->getSheetId('skills.skill_tree');
-		/** @var \Ryzom\Sheets\Client\SkilltreeSheet $skilltree */
+		if ($skilltreeId === null) {
+			throw new \RuntimeException('Failed to get skills.skill_tree sheet id');
+		}
+		/** @var \Ryzom\Sheets\Client\SkilltreeSheet|null $skilltree */
 		$skilltree = $this->sheetsManager->findById($skilltreeId);
+		if ($skilltree === null) {
+			throw new \RuntimeException('Unable to find sheet for skilltree id "'.$skilltreeId.'"');
+		}
 
 		$exportItems = array();
 		$exportStats = array();
@@ -78,7 +84,7 @@ class ItemSheetExport extends AbstractSheetExport {
 
 			$iconKeys = array('main', 'back', 'over', 'over2');
 			foreach ($iconKeys as $i => $k) {
-				if (!empty($item->Icon[$i])) {
+				if ($item->Icon[$i] !== '') {
 					$pos = strrpos($item->Icon[$i], '.tga');
 					if($pos === false){
 						$icon = $item->Icon[$i];
@@ -87,13 +93,13 @@ class ItemSheetExport extends AbstractSheetExport {
 					}
 
 					$array['icon'][$k] = $icon;
-					if (!empty($item->IconColor[$i]) && $item->IconColor[$i] != -1) {
+					if (isset($item->IconColor[$i]) && $item->IconColor[$i] !== -1) {
 						$array['icon_color'][$k] = $item->IconColor[$i];
 					}
 				}
 			}
 
-			if (!empty($item->IconText)) {
+			if ($item->IconText !== '') {
 				$array['txt'] = $item->IconText;
 			}
 
@@ -128,7 +134,7 @@ class ItemSheetExport extends AbstractSheetExport {
 				unset($array['race'], $array['quality'], $array['craftplan']);
 
 				$isLooted = $this->_isMpLooted($item->Mp, $item->IconText);
-				$isMission = $item->DropOrSell == 0 ? 1 : 0;
+				$isMission = $item->DropOrSell === 0 ? 1 : 0;
 
 				$array['ecosystem'] = $item->Mp->Ecosystem;
 				$array['grade'] = $item->Mp->StatEnergy;
@@ -187,15 +193,15 @@ class ItemSheetExport extends AbstractSheetExport {
 			}
 
 			foreach($item->Effect as $effect) {
-				if (!empty($effect)){
+				if ($effect !== ''){
 					$array['effects'][] = $effect;
 				}
 			}
 
 			// replace numeric skill code with string code
-			if (isset($array['skill']) && !empty($skilltree)) {
+			if (isset($array['skill'])) {
 				$skill = $skilltree->get($array['skill']);
-				if (!empty($skill)) {
+				if ($skill) {
 					$array['skill'] = strtolower($skill->SkillCode);
 				}
 			}
@@ -263,16 +269,18 @@ class ItemSheetExport extends AbstractSheetExport {
 
 		$txt = strtolower($txt);
 		if (in_array($txt, $namesArray['foraged'])) {
-			if ($mp->Family == 774) {
+			if ($mp->Family === 774) {
 				return -1; // Supreme Kitin Sting, probably new type of mat that can be looted like kitin larva, only has one stat tho...
-			} else {
-				return 0;
 			}
-		} else if (in_array($txt, $namesArray['looted'])) {
-			return 1;
-		} else { // $namesArray['unknown']
-			return -1;
+			return 0;
 		}
+
+		if (in_array($txt, $namesArray['looted'])) {
+			return 1;
+		}
+
+		// $namesArray['unknown']
+		return -1;
 	}
 
 	/**

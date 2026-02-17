@@ -202,6 +202,8 @@ class RyzomExtraDataTest extends \PHPUnit\Framework\TestCase
 				'es' => 'Constitución',
 				'ru' => 'телосложение',
 			]],
+			['icfr1p.sitem', 'name', ['en' => 'Rimel Pistol']],
+			['icfr1p.sitem', 'description', ['en' => 'One-handed Fyros Pistol']],
 		];
 	}
 

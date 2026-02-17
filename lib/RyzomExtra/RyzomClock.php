@@ -107,9 +107,7 @@ class RyzomClock
      */
     public function getRyzomYear()
     {
-        $result = $this->getRyzomDay() / self::RYZOM_YEAR_IN_DAY + $this->getShardStartYear();
-
-        return $result;
+        return $this->getRyzomDay() / self::RYZOM_YEAR_IN_DAY + $this->getShardStartYear();
     }
 
     /**
@@ -117,9 +115,7 @@ class RyzomClock
      */
     public function getRyzomWeek()
     {
-        $result = fmod($this->getRyzomDay(), self::RYZOM_YEAR_IN_DAY) / self::RYZOM_WEEK_IN_DAY;
-
-        return $result;
+        return fmod($this->getRyzomDay(), self::RYZOM_YEAR_IN_DAY) / self::RYZOM_WEEK_IN_DAY;
     }
 
     /**
@@ -127,9 +123,7 @@ class RyzomClock
      */
     public function getRyzomSeason()
     {
-        $result = fmod($this->getRyzomDay(), self::RYZOM_YEAR_IN_DAY) / self::RYZOM_SEASON_IN_DAY;
-
-        return $result;
+        return fmod($this->getRyzomDay(), self::RYZOM_YEAR_IN_DAY) / self::RYZOM_SEASON_IN_DAY;
     }
 
     /**
@@ -149,9 +143,7 @@ class RyzomClock
      */
     public function getRyzomMonth()
     {
-        $result = fmod($this->getRyzomDay(), self::RYZOM_YEAR_IN_DAY) / self::RYZOM_MONTH_IN_DAY;
-
-        return $result;
+        return fmod($this->getRyzomDay(), self::RYZOM_YEAR_IN_DAY) / self::RYZOM_MONTH_IN_DAY;
     }
 
     /**
@@ -159,9 +151,7 @@ class RyzomClock
      */
     public function getRyzomCycle()
     {
-        $result = $this->getRyzomMonth() / self::RYZOM_CYCLE_IN_MONTH;
-
-        return $result;
+        return $this->getRyzomMonth() / self::RYZOM_CYCLE_IN_MONTH;
     }
 
     /**
@@ -178,8 +168,8 @@ class RyzomClock
      * @param int  $gameCycle
      * @param bool $legacy
      * @param int|null $sync UTC timestamp when gameCycle was taken
-     * @param int $startSpring day offset for first spring, set to 61 for older (2026-01-04 rollover) ticks
-     * @param int $startYear starting year if legaycy=false, for older (2026-01-04 rollover) ticks set to 2568
+     * @param int|null $startSpring day offset for first spring, set to 61 for older (2026-01-04 rollover) ticks
+     * @param int|null $startYear starting year if legaycy=false, for older (2026-01-04 rollover) ticks set to 2568
      */
     public function setGameCycle($gameCycle, $legacy = false, $sync = null, $startSpring = null, $startYear = null)
     {
@@ -209,6 +199,7 @@ class RyzomClock
      *
      * @param int $gameCycle
      * @param int|null $sync
+     * @param int $startSpring
      */
     public function setLegacyGameCycle($gameCycle, $sync = null, $startSpring = 61)
     {

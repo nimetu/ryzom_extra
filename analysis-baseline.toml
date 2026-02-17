@@ -1,0 +1,541 @@
+variant = "loose"
+
+[[issues]]
+file = "lib/RyzomExtra/AtysDateTime.php"
+code = "impossible-condition"
+message = "This condition (type `false`) will always evaluate to false."
+count = 5
+
+[[issues]]
+file = "lib/RyzomExtra/AtysDateTime.php"
+code = "invalid-return-statement"
+message = 'Invalid return type for function `ryzomextra\atysdatetime::getseason`: expected `int`, but found `float|int`.'
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/AtysDateTime.php"
+code = "mismatched-array-index"
+message = "Invalid array key type: `float|int` is not a valid key for this array."
+count = 3
+
+[[issues]]
+file = "lib/RyzomExtra/AtysDateTime.php"
+code = "mixed-argument"
+message = "Invalid argument type for argument #1 of `count`: expected `Countable|array<array-key, mixed>`, but found `mixed`."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/AtysDateTime.php"
+code = "mixed-array-access"
+message = "Unsafe array access on type `mixed`."
+count = 2
+
+[[issues]]
+file = "lib/RyzomExtra/AtysDateTime.php"
+code = "mixed-return-statement"
+message = 'Could not infer a precise return type for function `ryzomextra\atysdatetime::getseasonname`. Saw type `mixed`.'
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/AtysDateTime.php"
+code = "mixed-return-statement"
+message = 'Could not infer a precise return type for function `ryzomextra\atysdatetime::translateth`. Saw type `mixed`.'
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/AtysDateTime.php"
+code = "mixed-return-statement"
+message = 'Could not infer a precise return type for function `ryzomextra\atysdatetime::translateth`. Saw type `nonnull`.'
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/AtysDateTime.php"
+code = "possibly-null-array-index"
+message = "Possibly using `null` as an array index to access elementof variable $this->uiAtysCycle."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/AtysDateTime.php"
+code = "possibly-null-array-index"
+message = "Possibly using `null` as an array index to access elementof variable $this->uiJenasYear."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/AtysDateTime.php"
+code = "redundant-comparison"
+message = "Redundant `===` comparison: left-hand side is never identical to right-hand side."
+count = 5
+
+[[issues]]
+file = "lib/RyzomExtra/Cache.php"
+code = "invalid-return-statement"
+message = 'Invalid return type for function `ryzomextra\cache::read`: expected `array<array-key, mixed>`, but found `null`.'
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Cache.php"
+code = "mixed-operand"
+message = "Right operand in `>=` comparison has `mixed` type."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Cache.php"
+code = "mixed-return-statement"
+message = 'Could not infer a precise return type for function `ryzomextra\cache::read`. Saw type `mixed`.'
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Cache.php"
+code = "possibly-false-argument"
+message = "Argument #1 of function `unserialize` is possibly `false`, but parameter type `string` does not accept it."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Application.php"
+code = "mismatched-array-index"
+message = "Invalid array key type: `int(0)|truthy-string` is not a valid key for this array."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Application.php"
+code = "mixed-argument"
+message = 'Invalid argument type for argument #1 of `RyzomExtra\Export\Application::fixstubdescription`: expected `array<array-key, mixed>`, but found `truthy-mixed`.'
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Application.php"
+code = "mixed-argument"
+message = 'Invalid argument type for argument #1 of `RyzomExtra\Export\PackedSheetsExport::export`: expected `array<array-key, mixed>`, but found `mixed`.'
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Application.php"
+code = "mixed-argument"
+message = "Invalid argument type for argument #1 of `count`: expected `Countable|array<array-key, mixed>`, but found `mixed`."
+count = 2
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Application.php"
+code = "mixed-argument"
+message = 'Invalid argument type for argument #1 of `ryzom\sheets\packedsheetsloader::__construct`: expected `string`, but found `mixed`.'
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Application.php"
+code = "mixed-argument"
+message = 'Invalid argument type for argument #1 of `ryzom\sheets\sheetsmanager::__construct`: expected `Nel\Misc\SheetId`, but found `mixed`.'
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Application.php"
+code = "mixed-argument"
+message = 'Invalid argument type for argument #1 of `ryzomextra\export\sheetidexport::__construct`: expected `Nel\Misc\SheetId`, but found `mixed`.'
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Application.php"
+code = "mixed-argument"
+message = 'Invalid argument type for argument #1 of `ryzomextra\export\sheets\abstractsheetexport::__construct`: expected `Nel\Misc\SheetId`, but found `mixed`.'
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Application.php"
+code = "mixed-argument"
+message = 'Invalid argument type for argument #1 of `ryzomextra\export\visualslotexport::__construct`: expected `Nel\Misc\SheetId`, but found `mixed`.'
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Application.php"
+code = "mixed-argument"
+message = "Invalid argument type for argument #2 of `explode`: expected `string`, but found `mixed`."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Application.php"
+code = "mixed-argument"
+message = "Invalid argument type for argument #2 of `preg_match_all`: expected `string`, but found `nonnull`."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Application.php"
+code = "mixed-argument"
+message = 'Invalid argument type for argument #2 of `ryzom\sheets\sheetsmanager::__construct`: expected `Ryzom\Sheets\PackedSheetsLoader`, but found `mixed`.'
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Application.php"
+code = "mixed-argument"
+message = 'Invalid argument type for argument #2 of `ryzomextra\export\sheets\abstractsheetexport::__construct`: expected `Ryzom\Sheets\SheetsManager`, but found `mixed`.'
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Application.php"
+code = "mixed-argument"
+message = 'Invalid argument type for argument #2 of `ryzomextra\export\wordsexport::__construct`: expected `RyzomExtra\Export\EncoderInterface`, but found `mixed`.'
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Application.php"
+code = "mixed-argument"
+message = 'Invalid argument type for argument #3 of `ryzomextra\export\sheetidexport::__construct`: expected `RyzomExtra\Export\EncoderInterface`, but found `mixed`.'
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Application.php"
+code = "mixed-argument"
+message = 'Invalid argument type for argument #3 of `ryzomextra\export\visualslotexport::__construct`: expected `RyzomExtra\Export\EncoderInterface`, but found `mixed`.'
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Application.php"
+code = "mixed-argument"
+message = "Invalid argument type for argument #3 of `str_ireplace`: expected `array<array-key, string>|string`, but found `nonnull`."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Application.php"
+code = "mixed-argument"
+message = 'Invalid argument type for argument #4 of `ryzomextra\export\sheets\abstractsheetexport::__construct`: expected `RyzomExtra\Export\EncoderInterface`, but found `mixed`.'
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Application.php"
+code = "mixed-assignment"
+message = "Assigning `mixed` type to a variable may lead to unexpected behavior."
+count = 7
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Application.php"
+code = "mixed-method-access"
+message = "Attempting to access a method on a non-object type (`mixed`)."
+count = 7
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Application.php"
+code = "mixed-operand"
+message = "Invalid left operand: type `mixed` cannot be reliably used in string concatenation."
+count = 4
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Application.php"
+code = "mixed-operand"
+message = "Invalid middle operand: type `mixed` cannot be reliably used in string concatenation."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Application.php"
+code = "mixed-operand"
+message = "Invalid right operand: type `mixed` cannot be reliably used in string concatenation."
+count = 2
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Application.php"
+code = "possibly-false-argument"
+message = 'Argument #1 of method `Ryzom\Sheets\VisualSlotManager::load` is possibly `false`, but parameter type `string` does not accept it.'
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Application.php"
+code = "possibly-undefined-variable"
+message = "Variable `$match` might not have been defined on all execution paths leading to this point."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Application.php"
+code = "possibly-undefined-variable"
+message = "Variable `$row` might not have been defined on all execution paths leading to this point."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Application.php"
+code = "too-many-arguments"
+message = 'Too many arguments provided for method `RyzomExtra\Export\Application::debug`.'
+count = 8
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Encoder/JsonEncoder.php"
+code = "array-to-string-conversion"
+message = "Potentially casting `array` to `string`."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Encoder/JsonEncoder.php"
+code = "falsable-return-statement"
+message = '''Function `ryzomextra\export\encoder\jsonencoder::encode` is declared to return `string` but possibly returns 'false' (inferred as `false|non-empty-string`).'''
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Encoder/JsonEncoder.php"
+code = "invalid-return-statement"
+message = 'Invalid return type for function `ryzomextra\export\encoder\jsonencoder::encode`: expected `string`, but found `false|non-empty-string`.'
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Encoder/JsonEncoder.php"
+code = "mixed-argument"
+message = "Invalid argument type for argument #1 of `strpos`: expected `string`, but found `mixed`."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Encoder/JsonEncoder.php"
+code = "mixed-argument"
+message = "Invalid argument type for argument #3 of `str_replace`: expected `array<array-key, string>|string`, but found `mixed`."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Encoder/JsonEncoder.php"
+code = "mixed-assignment"
+message = "Assigning `mixed` type to a variable may lead to unexpected behavior."
+count = 2
+
+[[issues]]
+file = "lib/RyzomExtra/Export/SheetIdExport.php"
+code = "invalid-operand"
+message = "Invalid type for left operand."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/SheetIdExport.php"
+code = "mixed-array-access"
+message = "Unsafe array access on type `mixed`."
+count = 2
+
+[[issues]]
+file = "lib/RyzomExtra/Export/SheetIdExport.php"
+code = "mixed-assignment"
+message = "Assigning `mixed` type to a variable may lead to unexpected behavior."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/SheetIdExport.php"
+code = "mixed-operand"
+message = "Invalid left operand: type `mixed` cannot be reliably used in string concatenation."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/SheetIdExport.php"
+code = "mixed-operand"
+message = "Invalid right operand: type `mixed` cannot be reliably used in string concatenation."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/SheetIdExport.php"
+code = "mixed-property-type-coercion"
+message = "A value with a less specific type `mixed` is being assigned to property `$$path` (string)."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Sheets/AbstractSheetExport.php"
+code = "mixed-property-type-coercion"
+message = "A value with a less specific type `mixed` is being assigned to property `$$path` (string)."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Sheets/CharacterSheetExport.php"
+code = "redundant-cast"
+message = "Redundant cast to `(string)`: the expression already has this type."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Sheets/ItemSheetExport.php"
+code = "deprecated-method"
+message = 'Call to deprecated method: `Ryzom\Sheets\Client\SkilltreeSheet::get`.'
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Sheets/ItemSheetExport.php"
+code = "less-specific-argument"
+message = 'Argument type mismatch for argument #1 of `ryzomextra\export\sheets\abstractsheetexport::getmpftstats`: expected `int`, but provided type `array-key` is less specific.'
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Sheets/ItemSheetExport.php"
+code = "mixed-argument"
+message = 'Invalid argument type for argument #1 of `ryzomextra\export\sheets\abstractsheetexport::getstatindex`: expected `string`, but found `mixed`.'
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Sheets/ItemSheetExport.php"
+code = "mixed-argument"
+message = "Invalid argument type for argument #1 of `strtolower`: expected `string`, but found `mixed`."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Sheets/ItemSheetExport.php"
+code = "mixed-array-index"
+message = "Invalid index type `mixed` used for array access on `array<array-key, array<mixed, mixed>>`."
+count = 2
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Sheets/ItemSheetExport.php"
+code = "mixed-array-index"
+message = "Invalid index type `mixed` used for array access on `array<mixed, mixed>`."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Sheets/ItemSheetExport.php"
+code = "mixed-assignment"
+message = "Assigning `mixed` type to a variable may lead to unexpected behavior."
+count = 3
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Sheets/ItemSheetExport.php"
+code = "possibly-null-argument"
+message = 'Argument #1 of method `RyzomExtra\Export\Sheets\ItemSheetExport::_exportresourcestats` is possibly `null`, but parameter type `Ryzom\Sheets\Client\CMp` does not accept it.'
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Sheets/ItemSheetExport.php"
+code = "possibly-null-argument"
+message = 'Argument #1 of method `RyzomExtra\Export\Sheets\ItemSheetExport::_ismplooted` is possibly `null`, but parameter type `Ryzom\Sheets\Client\CMp` does not accept it.'
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Sheets/ItemSheetExport.php"
+code = "possibly-null-operand"
+message = "Left operand in `>` comparison might be `null` (type `int|null`)."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Sheets/ItemSheetExport.php"
+code = "possibly-null-property-access"
+message = "Attempting to access a property on a possibly `null` value."
+count = 12
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Sheets/ItemSheetExport.php"
+code = "possibly-undefined-string-array-index"
+message = "Possibly undefined array key 'craftplan' accessed on `array{'bulk': float, 'craftplan'?: string, 'icon'?: array{'back': non-empty-string, 'main': non-empty-string, 'over': non-empty-string, 'over2': non-empty-string}, 'icon_color'?: array{'back': int<min, -2>|non-negative-int, 'main': int<min, -2>|non-negative-int, 'over': int<min, -2>|non-negative-int, 'over2': int<min, -2>|non-negative-int}, 'item_type': int, 'sheetid': string, 'txt'?: non-empty-string, 'type': int}`."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Sheets/SbrickSheetExport.php"
+code = "mixed-argument"
+message = "Invalid argument type for argument #1 of `strtolower`: expected `string`, but found `mixed`."
+count = 2
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Sheets/SbrickSheetExport.php"
+code = "mixed-assignment"
+message = "Assigning `mixed` type to a variable may lead to unexpected behavior."
+count = 2
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Sheets/SbrickSheetExport.php"
+code = "mixed-method-access"
+message = "Attempting to access a method on a non-object type (`mixed`)."
+count = 2
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Sheets/SbrickSheetExport.php"
+code = "mixed-property-access"
+message = "Attempting to access a property on a non-object type (`mixed`)."
+count = 2
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Sheets/SkilltreeSheetExport.php"
+code = "mixed-assignment"
+message = "Assigning `mixed` type to a variable may lead to unexpected behavior."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/WordsExport.php"
+code = "mixed-argument"
+message = "Invalid argument type for argument #1 of `ksort`: expected `array<('K.ksort() extends array-key), ('V.ksort() extends mixed)>`, but found `mixed`."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/WordsExport.php"
+code = "mixed-assignment"
+message = "Assigning `mixed` type to a variable may lead to unexpected behavior."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/WordsExport.php"
+code = "mixed-property-type-coercion"
+message = "A value with a less specific type `mixed` is being assigned to property `$$path` (string)."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/GuildIconRenderer.php"
+code = "falsable-return-statement"
+message = '''Function `ryzomextra\guildiconrenderer::aspng` is declared to return `string` but possibly returns 'false' (inferred as `false|string`).'''
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/GuildIconRenderer.php"
+code = "invalid-return-statement"
+message = 'Invalid return type for function `ryzomextra\guildiconrenderer::aspng`: expected `string`, but found `false|string`.'
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/GuildIconRenderer.php"
+code = "mixed-argument"
+message = "Invalid argument type for argument #2 of `imagecolorallocatealpha`: expected `int`, but found `mixed`."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/GuildIconRenderer.php"
+code = "mixed-argument"
+message = "Invalid argument type for argument #3 of `imagecolorallocatealpha`: expected `int`, but found `mixed`."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/GuildIconRenderer.php"
+code = "mixed-argument"
+message = "Invalid argument type for argument #4 of `imagecolorallocatealpha`: expected `int`, but found `mixed`."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/GuildIconRenderer.php"
+code = "mixed-argument"
+message = "Invalid argument type for argument #5 of `imagecolorallocatealpha`: expected `int`, but found `mixed`."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/GuildIconRenderer.php"
+code = "mixed-assignment"
+message = "Assigning `mixed` type to a variable may lead to unexpected behavior."
+count = 13
+
+[[issues]]
+file = "lib/RyzomExtra/GuildIconRenderer.php"
+code = "mixed-operand"
+message = "Left operand in binary operation has type `mixed`."
+count = 12
+
+[[issues]]
+file = "lib/RyzomExtra/GuildIconRenderer.php"
+code = "mixed-operand"
+message = "Right operand in binary operation has type `mixed`."
+count = 6
+
+[[issues]]
+file = "lib/RyzomExtra/GuildIconRenderer.php"
+code = "possibly-false-argument"
+message = "Argument #2 of function `imagecolorsforindex` is possibly `false`, but parameter type `int` does not accept it."
+count = 3
+
+[[issues]]
+file = "lib/RyzomExtra/GuildIconRenderer.php"
+code = "possibly-false-argument"
+message = "Argument #2 of function `imagecolortransparent` is possibly `false`, but parameter type `int|null` does not accept it."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/GuildIconRenderer.php"
+code = "possibly-false-argument"
+message = "Argument #4 of function `imagefill` is possibly `false`, but parameter type `int` does not accept it."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/GuildIconRenderer.php"
+code = "possibly-false-argument"
+message = "Argument #4 of function `imagesetpixel` is possibly `false`, but parameter type `int` does not accept it."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/GuildIconRenderer.php"
+code = "redundant-cast"
+message = "Redundant cast to `(bool)`: the expression already has this type."
+count = 1

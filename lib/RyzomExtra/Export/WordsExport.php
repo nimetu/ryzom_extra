@@ -43,7 +43,7 @@ class WordsExport implements ExportInterface {
 	function export(array $data, $sheet) {
 		$lang = $sheet;
 		foreach ($data as $sheetName => $array) {
-			if ($sheetName == 'sitem') {
+			if ($sheetName === 'sitem') {
 				$sheetName = 'item';
 			}
 

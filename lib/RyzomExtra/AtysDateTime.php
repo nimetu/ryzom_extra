@@ -144,7 +144,7 @@ class AtysDateTime extends RyzomClock
      */
     public function getSeasonName($index = null, $lang = null)
     {
-        $key = ($lang ? : $this->lang);
+        $key = $lang ? $lang : $this->lang;
 
         // fall back to first language available
         if (!isset($this->seasonNames[$key])) {
@@ -390,7 +390,7 @@ class AtysDateTime extends RyzomClock
     public function toTimeString($show_min = false)
     {
         if ($show_min !== true) {
-            return sprintf("%02d", $this->getHours()) . 'h';
+            return sprintf("%02dh", $this->getHours());
         } else {
             return sprintf("%02d:%02d", $this->getHours(), $this->getMinutes());
         }

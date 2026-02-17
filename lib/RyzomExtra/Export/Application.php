@@ -62,7 +62,10 @@ class Application extends Container {
 			if ($bnp->hasFile($file)) {
 				$app->debug('loading %s', $file);
 				$data = $bnp->readFile($file);
-
+				if ($data === null) {
+					throw new \RuntimeException('Failed to read "'.$file.'" from leveldesign bnp');
+				}
+				/** @var string $data */
 				$sheetIds->load($data);
 			}
 			return $sheetIds;
@@ -122,6 +125,9 @@ class Application extends Container {
 		$this['export.sheetid']->export($array, 'sheets');
 	}
 
+	/**
+	 * @param string[] $sheetKeys
+	 */
 	function exportSheets($sheetKeys) {
 		/** @var SheetsManager $sheets */
 		$sheets = $this['sheets'];
@@ -136,14 +142,16 @@ class Application extends Container {
 
 		foreach ($sheets->getLoadedSheets() as $sheet) {
 			$ps = $sheets->load($sheet);
-			if (!empty($ps)) {
-				$array = $ps->getSheets();
-				$this->debug('exporting %s, %d items', $sheet, count($array));
-				$export->export($array, $sheet);
-			}
+			$array = $ps->getSheets();
+			$this->debug('exporting %s, %d items', $sheet, count($array));
+			$export->export($array, $sheet);
 		}
 	}
 
+	/**
+	 * @param string $lang
+	 * @param string|string[] $sheets
+	 */
 	function exportTranslations($lang, $sheets) {
 		if (!is_array($sheets)) {
 			$sheets = array($sheets);
@@ -153,7 +161,7 @@ class Application extends Container {
 		/** @var BnpFile $bnp */
 		$bnp = $this['bnp.gamedev'];
 		foreach ($sheets as $sheet) {
-			if ($sheet == 'uxt') {
+			if ($sheet === 'uxt') {
 				$name = sprintf('%s.uxt', $lang);
 				$loader = 'load.uxt';
 			} else {
@@ -179,7 +187,7 @@ class Application extends Container {
 	/**
 	 * Export from files.
 	 *
-	 * @param array $sheetLangFiles sheet/lang/file array like
+	 * @param array<string,array<string,string>> $sheetLangFiles sheet/lang/file array like
 	 *                              array(
 	 *                                'title' => array(
 	 *                                  'en' => 'title_words_en.txt'
@@ -190,7 +198,7 @@ class Application extends Container {
 	function exportTranslationFromFiles($sheetLangFiles) {
 		$this->debug('loading translations for sheets (%s)', join(', ', array_keys($sheetLangFiles)));
 		foreach ($sheetLangFiles as $sheet => $langFiles) {
-			if ($sheet == 'ext') {
+			if ($sheet === 'ext') {
 				$loader = 'load.uxt';
 			} else {
 				$loader = 'load.words';
@@ -233,9 +241,9 @@ class Application extends Container {
 				printf("- numeric sheetid not found (%s)\n", $key.'.'.$prefix);
 				continue;
 			}
-			/** @var \Ryzom\Sheets\Client\SbrickSheet $sheet */
+			/** @var \Ryzom\Sheets\Client\SbrickSheet|null $sheet */
 			$sheet = $sheetsManager->findById($sheetId);
-			if (!empty($sheet) && !empty($sheet->Properties)) {
+			if ($sheet && !empty($sheet->Properties)) {
 				// Properties is array of strings like 'SP_SHIELDING:25:5:50:10:75:15:15:120'
 				$props = array();
 				foreach ($sheet->Properties as $prop) {
@@ -270,8 +278,9 @@ class Application extends Container {
 
 	function debug($fmt) {
 		$fmt = date('H:i:s').' '.$fmt.PHP_EOL;
+		/** @var array<string|int> $args */
 		$args = array_slice(func_get_args(), 1);
-		if (!empty($args)) {
+		if ($args) {
 			vprintf($fmt, $args);
 		} else {
 			echo $fmt;

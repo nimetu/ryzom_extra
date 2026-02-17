@@ -62,6 +62,7 @@ $app->exportVisualSlots();
 
 // <sheet>_words_<lang>.txt
 foreach ($config['languages'] as $lang) {
+	/** @var string $lang */
 	$app->exportTranslations($lang, $config['words']);
 }
 
