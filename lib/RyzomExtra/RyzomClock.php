@@ -27,6 +27,9 @@ namespace RyzomExtra;
  */
 class RyzomClock
 {
+    /** ingame ticks in realtime seconds, 1tick = 100ms */
+    const RYZOM_TICK_IN_SECOND = 10;
+
     /** <game_share/time_weather_season/time_and_season.h> */
     /** ticks in hour - 10 * 3 * 60 */
     const RYZOM_HOURS_IN_TICKS = 1800;
@@ -52,9 +55,16 @@ class RyzomClock
     const RYZOM_START_YEAR = 2637;
     /** start year for game cycles from old shards */
     const LEGACY_RYZOM_START_YEAR = 2525;
+    const LEGACY_RYZOM_SPRING_START = 61;
 
     /** number of seasons in cycle */
     const RYZOM_NB_SEASONS = 4;
+
+    /** seasons values */
+    const SPRING = 0;
+    const SUMMER = 1;
+    const AUTUMN = 2;
+    const WINTER = 3;
 
     /** @var int */
     protected $gameCycle;
@@ -129,12 +139,21 @@ class RyzomClock
     /**
      * Return season index in 0..3 range from ryzom (total) day index
      *
-     * @param float $day
+     * NOTE: day should be positive as game code does not support negative days.
+     *
+     * Day   0 is spring
+     * Day -61 is winter (legacy game tick start)
+     *
+     * @param float $day day as positive value, negative values will not be compatible with ingame
      *
      * @return int
      */
     public static function getSeasonFromRyzomDay($day)
     {
+        if ($day < 0) {
+            $days = self::RYZOM_NB_SEASONS * self::RYZOM_SEASON_IN_DAY;
+            $day = $days - fmod(abs($day), $days);
+        }
         return (int) fmod(fmod($day, self::RYZOM_YEAR_IN_DAY) / self::RYZOM_SEASON_IN_DAY, self::RYZOM_NB_SEASONS);
     }
 
@@ -174,7 +193,7 @@ class RyzomClock
     public function setGameCycle($gameCycle, $legacy = false, $sync = null, $startSpring = null, $startYear = null)
     {
         if ($sync !== null) {
-            $gameCycle += (time() - $sync) * 10;
+            $gameCycle += (time() - $sync) * self::RYZOM_TICK_IN_SECOND;
         }
         $this->gameCycle = $gameCycle;
         $this->legacy = $legacy;
@@ -190,8 +209,8 @@ class RyzomClock
 
         // ingame days and hours
         $hours = $this->gameCycle / self::RYZOM_HOURS_IN_TICKS;
-        $this->ryzomDay = ($hours / 24) - $this->startSpring;
-        $this->ryzomTime = fmod($hours, 24);
+        $this->ryzomDay = ($hours / self::RYZOM_DAY_IN_HOUR) - $this->startSpring;
+        $this->ryzomTime = fmod($hours, self::RYZOM_DAY_IN_HOUR);
     }
 
     /**
@@ -201,7 +220,7 @@ class RyzomClock
      * @param int|null $sync
      * @param int $startSpring
      */
-    public function setLegacyGameCycle($gameCycle, $sync = null, $startSpring = 61)
+    public function setLegacyGameCycle($gameCycle, $sync = null, $startSpring = self::LEGACY_RYZOM_SPRING_START)
     {
         $this->setGameCycle($gameCycle, true, $sync, $startSpring);
     }

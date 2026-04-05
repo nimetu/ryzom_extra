@@ -109,7 +109,7 @@ class AtysDateTest extends \PHPUnit\Framework\TestCase
     public function testGetSeason()
     {
         $this->assertEquals(self::dateSeason, $this->atysDate->getSeason());
-        $this->assertEquals(self::seasonName, $this->atysDate->getSeasonName());
+		$this->assertEquals(self::seasonName, $this->atysDate->getSeasonName());
     }
 
     public function testGetMonth()

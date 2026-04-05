@@ -135,7 +135,7 @@ class AtysDateTime extends RyzomClock
 
     /**
      * Return season name by index and language
-     * 1 = Spring, 2 = Summer,  3 = Autumn, 4 = Winter
+     * $index is 1 = Spring, 2 = Summer,  3 = Autumn, 4 = Winter
      *
      * @param int    $index season index in 1..4 range
      * @param string $lang language code like 'en', 'fr', etc

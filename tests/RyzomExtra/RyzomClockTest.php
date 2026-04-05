@@ -50,7 +50,44 @@ class RyzomClockTest extends \PHPUnit\Framework\TestCase
         $this->ryzomClock->setLegacyGameCycle(1);
         $this->assertEquals(1, $this->ryzomClock->getGameCycle());
         $this->assertEquals(RyzomClock::LEGACY_RYZOM_START_YEAR - 1, (int)$this->ryzomClock->getRyzomYear());
-    }
+	}
+
+	public function testGetSeasonFromRyzomDay() {
+		// spring
+		$this->assertEquals(RyzomClock::SPRING, $this->ryzomClock->getSeasonFromRyzomDay(0));
+		$this->assertEquals(RyzomClock::SPRING, $this->ryzomClock->getSeasonFromRyzomDay(89));
+		// summer
+		$this->assertEquals(RyzomClock::SUMMER, $this->ryzomClock->getSeasonFromRyzomDay(90));
+		$this->assertEquals(RyzomClock::SUMMER, $this->ryzomClock->getSeasonFromRyzomDay(179));
+		// autumn
+		$this->assertEquals(RyzomClock::AUTUMN, $this->ryzomClock->getSeasonFromRyzomDay(180));
+		$this->assertEquals(RyzomClock::AUTUMN, $this->ryzomClock->getSeasonFromRyzomDay(269));
+		// winter
+		$this->assertEquals(RyzomClock::WINTER, $this->ryzomClock->getSeasonFromRyzomDay(270));
+		$this->assertEquals(RyzomClock::WINTER, $this->ryzomClock->getSeasonFromRyzomDay(359));
+		$this->assertEquals(RyzomClock::SPRING, $this->ryzomClock->getSeasonFromRyzomDay(360));
+	}
+
+	public function testGetSeasonFromRyzomDayNegative() {
+		// winter
+		$this->assertEquals(RyzomClock::WINTER, $this->ryzomClock->getSeasonFromRyzomDay(-1));
+		$this->assertEquals(RyzomClock::AUTUMN, $this->ryzomClock->getSeasonFromRyzomDay(-91));
+		// autumn
+		$this->assertEquals(RyzomClock::AUTUMN, $this->ryzomClock->getSeasonFromRyzomDay(-180));
+		$this->assertEquals(RyzomClock::SUMMER, $this->ryzomClock->getSeasonFromRyzomDay(-181));
+		// summer
+		$this->assertEquals(RyzomClock::SUMMER, $this->ryzomClock->getSeasonFromRyzomDay(-270));
+		$this->assertEquals(RyzomClock::SPRING, $this->ryzomClock->getSeasonFromRyzomDay(-271));
+		// spring
+		$this->assertEquals(RyzomClock::SPRING, $this->ryzomClock->getSeasonFromRyzomDay(-360));
+		$this->assertEquals(RyzomClock::WINTER, $this->ryzomClock->getSeasonFromRyzomDay(-361));
+	}
+
+	public function testLegacyGetSeasonFromRyzomDay() {
+		$this->ryzomClock->setLegacyGameCycle(0);
+		$this->assertEquals(RyzomClock::WINTER, $this->ryzomClock->getSeasonFromRyzomDay(-61));
+		$this->assertEquals(RyzomClock::SPRING, $this->ryzomClock->getSeasonFromRyzomDay(0));
+	}
 
     /**
      * @param int   $tick
