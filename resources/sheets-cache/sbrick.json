@@ -142281,7 +142281,7 @@
     "bccmea21": {
         "sheet_id": "bccmea21",
         "brick_family": 148,
-        "index_in_family": 21,
+        "index_in_family": 24,
         "level": 21,
         "sabrina_cost": 0,
         "sabrina_relative_cost": 0,
@@ -142300,8 +142300,8 @@
         ],
         "civ_restriction": 6,
         "icon": {
-            "main": "mw_2h_mace.png",
-            "back": "bk_generic_brick.png",
+            "main": "icon_ic_staff_wreath.png",
+            "back": "bk_item_event.png",
             "over": "fp_over.png"
         },
         "required_skills": {
