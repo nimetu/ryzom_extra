@@ -1,4 +1,5 @@
 <?php
+
 //
 // RyzomExtra - https://github.com/nimetu/ryzom_extra
 // Copyright (c) 2012 Meelis Mägi <nimetu@gmail.com>
@@ -24,41 +25,42 @@ namespace RyzomExtra\Export;
 
 use Nel\Misc\SheetId;
 
-class SheetIdExport implements ExportInterface {
+class SheetIdExport implements ExportInterface
+{
+    /** @var string */
+    protected $path;
 
-	/** @var string */
-	protected $path;
+    /** @var EncoderInterface */
+    protected $encoder;
 
-	/** @var EncoderInterface */
-	protected $encoder;
+    function __construct(SheetId $sheetIds, $path, EncoderInterface $encoder)
+    {
+        $this->path = $path;
+        $this->encoder = $encoder;
+    }
 
-	function __construct(SheetId $sheetIds, $path, EncoderInterface $encoder) {
-		$this->path = $path;
-		$this->encoder = $encoder;
-	}
+    /**
+     * Export SheetId collection into separate smaller files
+     *
+     * @param array $data
+     * @param $sheet
+     */
+    function export(array $data, $sheet)
+    {
+        $groups = array();
 
-	/**
-	 * Export SheetId collection into separate smaller files
-	 *
-	 * @param array $data
-	 * @param $sheet
-	 */
-	function export(array $data, $sheet) {
-		$groups = array();
+        // split full list into separate files
+        // reading them back in is a lot faster this way
+        foreach ($data as $id => $array) {
+            $key = intval($id / 1000000);
+            $groups[$key][$id] = $array['name'] . '.' . $array['sheet'];
+        }
 
-		// split full list into separate files
-		// reading them back in is a lot faster this way
-		foreach ($data as $id => $array) {
-			$key = intval($id / 1000000);
-			$groups[$key][$id] = $array['name'].'.'.$array['sheet'];
-		}
-
-		$ext = $this->encoder->name();
-		foreach ($groups as $key => $array) {
-			$idx = sprintf("%02x", $key);
-			$filename = "{$this->path}/{$sheet}-{$idx}.{$ext}";
-			file_put_contents($filename, $this->encoder->encode($array));
-		}
-	}
-
+        $ext = $this->encoder->name();
+        foreach ($groups as $key => $array) {
+            $idx = sprintf('%02x', $key);
+            $filename = "{$this->path}/{$sheet}-{$idx}.{$ext}";
+            file_put_contents($filename, $this->encoder->encode($array));
+        }
+    }
 }

@@ -1,4 +1,5 @@
 <?php
+
 //
 // RyzomExtra - https://github.com/nimetu/ryzom_extra
 // Copyright (c) 2012 Meelis Mägi <nimetu@gmail.com>
@@ -22,38 +23,39 @@
 
 namespace RyzomExtra\Export;
 
-class WordsExport implements ExportInterface {
+class WordsExport implements ExportInterface
+{
+    /** @var EncoderInterface */
+    protected $encoder;
 
-	/** @var EncoderInterface */
-	protected $encoder;
+    /** @var string */
+    protected $path;
 
-	/** @var string */
-	protected $path;
+    function __construct($path, EncoderInterface $encoder)
+    {
+        $this->path = $path;
 
-	function __construct($path, EncoderInterface $encoder) {
-		$this->path = $path;
+        $this->encoder = $encoder;
+    }
 
-		$this->encoder = $encoder;
-	}
+    /**
+     * @param array $data
+     * @param string $sheet en|fr|de|es|ru language code
+     */
+    function export(array $data, $sheet)
+    {
+        $lang = $sheet;
+        foreach ($data as $sheetName => $array) {
+            if ($sheetName === 'sitem') {
+                $sheetName = 'item';
+            }
 
-	/**
-	 * @param array $data
-	 * @param string $sheet en|fr|de|es|ru language code
-	 */
-	function export(array $data, $sheet) {
-		$lang = $sheet;
-		foreach ($data as $sheetName => $array) {
-			if ($sheetName === 'sitem') {
-				$sheetName = 'item';
-			}
+            $ext = $this->encoder->name();
+            $filename = "{$this->path}/words_{$lang}_{$sheetName}.{$ext}";
 
-			$ext = $this->encoder->name();
-			$filename = "{$this->path}/words_{$lang}_{$sheetName}.{$ext}";
-
-			// keep array sorted to minimize change diff
-			ksort($array);
-			file_put_contents($filename, $this->encoder->encode($array));
-		}
-	}
+            // keep array sorted to minimize change diff
+            ksort($array);
+            file_put_contents($filename, $this->encoder->encode($array));
+        }
+    }
 }
-

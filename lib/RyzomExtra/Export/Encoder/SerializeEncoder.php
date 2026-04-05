@@ -1,4 +1,5 @@
 <?php
+
 //
 // RyzomExtra - https://github.com/nimetu/ryzom_extra
 // Copyright (c) 2012 Meelis Mägi <nimetu@gmail.com>
@@ -24,17 +25,17 @@ namespace RyzomExtra\Export\Encoder;
 
 use RyzomExtra\Export\EncoderInterface;
 
-class SerializeEncoder implements EncoderInterface {
+class SerializeEncoder implements EncoderInterface
+{
+    /** {@inheritdoc} */
+    function encode(array $data)
+    {
+        return serialize($data);
+    }
 
-	/** {@inheritdoc} */
-	function encode(array $data) {
-		return serialize($data);
-	}
-
-	/** {@inheritdoc} */
-	function name(){
-		return 'serial';
-	}
-
+    /** {@inheritdoc} */
+    function name()
+    {
+        return 'serial';
+    }
 }
-

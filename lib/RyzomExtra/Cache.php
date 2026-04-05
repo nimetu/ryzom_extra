@@ -1,4 +1,5 @@
 <?php
+
 //
 // RyzomExtra - https://github.com/nimetu/ryzom_extra
 // Copyright (c) 2013 Meelis Mägi <nimetu@gmail.com>
@@ -117,7 +118,7 @@ class Cache implements CacheInterface
      */
     protected function getObjectPath($key)
     {
-        return $this->path.'/'.$key.'.cache';
+        return $this->path . '/' . $key . '.cache';
     }
 
     /**
@@ -155,5 +156,4 @@ class Cache implements CacheInterface
         }
         return null;
     }
-
 }

@@ -45,7 +45,7 @@ class GuildIconRenderer
     {
         $this->icon = $icon;
 
-        $this->dataPath = is_string($dataPath) ? $dataPath : __DIR__.'/../../resources/guild-icon';
+        $this->dataPath = is_string($dataPath) ? $dataPath : __DIR__ . '/../../resources/guild-icon';
         $this->size = 'b';
 
         $this->withSymbol = true;
@@ -73,7 +73,7 @@ class GuildIconRenderer
      */
     public function setWithSymbol($b)
     {
-        $this->withSymbol = (bool)$b;
+        $this->withSymbol = (bool) $b;
     }
 
     /**
@@ -100,17 +100,9 @@ class GuildIconRenderer
      */
     public function output()
     {
-        $img_back = sprintf('%s/guild_back_%s_%02d_1.png',
-            $this->dataPath,
-            $this->size,
-            $this->icon->Background
-        );
+        $img_back = sprintf('%s/guild_back_%s_%02d_1.png', $this->dataPath, $this->size, $this->icon->Background);
 
-        $img_back2 = sprintf('%s/guild_back_%s_%02d_2.png',
-            $this->dataPath,
-            $this->size,
-            $this->icon->Background
-        );
+        $img_back2 = sprintf('%s/guild_back_%s_%02d_2.png', $this->dataPath, $this->size, $this->icon->Background);
 
         // colorize backgrounds and join them to one
         $im = imagecreatefrompng($img_back);
@@ -121,7 +113,7 @@ class GuildIconRenderer
             self::IMG_COL,
             $this->icon->Color1Red,
             $this->icon->Color1Green,
-            $this->icon->Color1Blue
+            $this->icon->Color1Blue,
         );
 
         // second background
@@ -131,18 +123,14 @@ class GuildIconRenderer
             self::IMG_COL,
             $this->icon->Color2Red,
             $this->icon->Color2Green,
-            $this->icon->Color2Blue
+            $this->icon->Color2Blue,
         );
         // join
         imagecopy($im, $tmp, 0, 0, 0, 0, $im_w, $im_h);
 
         // get the symbol
         if ($this->withSymbol) {
-            $img_symbol = sprintf('%s/guild_symbol_%s_%02d.png',
-                $this->dataPath,
-                $this->size,
-                $this->icon->Symbol
-            );
+            $img_symbol = sprintf('%s/guild_symbol_%s_%02d.png', $this->dataPath, $this->size, $this->icon->Symbol);
 
             if (file_exists($img_symbol)) {
                 $tmp = imagecreatefrompng($img_symbol);
@@ -195,9 +183,9 @@ class GuildIconRenderer
                     case self::IMG_MUL:
                         /** @var \GdImage $arg0 */
                         $rgba2 = imagecolorsforindex($arg0, imagecolorat($arg0, $x, $y));
-                        $r = $r * $rgba2['red'] / 255;
-                        $g = $g * $rgba2['green'] / 255;
-                        $b = $b * $rgba2['blue'] / 255;
+                        $r = ($r * $rgba2['red']) / 255;
+                        $g = ($g * $rgba2['green']) / 255;
+                        $b = ($b * $rgba2['blue']) / 255;
                         break;
                     case self::IMG_ADD_NEG:
                         /** @var \GdImage $arg0 */
@@ -214,6 +202,4 @@ class GuildIconRenderer
         }
         return $out;
     }
-
 }
-

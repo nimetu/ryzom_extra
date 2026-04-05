@@ -6,13 +6,13 @@ class CacheTest extends \PHPUnit\Framework\TestCase
 {
     protected $cachePath = '/tmp/ryex_cache';
 
-    public function setUp() : void
+    public function setUp(): void
     {
         // set mock time() to return '0'
         //time(0);
     }
 
-    public function tearDown() : void
+    public function tearDown(): void
     {
         if (file_exists($this->cachePath)) {
             // first remove all cache files
@@ -45,7 +45,7 @@ class CacheTest extends \PHPUnit\Framework\TestCase
         $this->expectException('\RuntimeException', 'Creating cache directory failed (/no-permission)');
 
         $cache = new Cache('/no-permission');
-        $this->fail("No exception was thrown");
+        $this->fail('No exception was thrown');
     }
 
     public function testSet()
@@ -134,5 +134,4 @@ class CacheTest extends \PHPUnit\Framework\TestCase
         $this->assertTrue($cache->exists($key), 'Cache file was not created');
         $this->assertFalse($cache->expired($key));
     }
-
 }

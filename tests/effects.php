@@ -38,7 +38,6 @@ $lang = 'en';
         'rpjobitem_202_c1' => false, // SAP_AURA, LIFE_AURA
         'rpjobitem_205_c1' => true, // SP_CHG_CHARAC
         'rpjobitem_207_c0' => true, // SP_MOD_CRAFT_SUCCESS
-
     ];
 
     test_items($tArray, $qArray, $lang);
@@ -67,10 +66,9 @@ function test_effects($tArray, $lang)
         echo "+ [{$row}]\n";
         $ret = RyzomExtra::special_effects($row, $lang);
         if (empty($ret)) {
-            $ret = " - FAIL (empty response)";
+            $ret = ' - FAIL (empty response)';
         } else {
-            $ret = strip_color(" " . join("\n  + ", str_replace("\n", "\n ", $ret)));
-
+            $ret = strip_color(' ' . join("\n  + ", str_replace("\n", "\n ", $ret)));
         }
         echo "$ret\n\n";
     }
@@ -78,19 +76,18 @@ function test_effects($tArray, $lang)
 
 function strip_color($s)
 {
-    return preg_replace("/@{[^}]+}/", '', $s);
+    return preg_replace('/@{[^}]+}/', '', $s);
 }
 
 function test_items($tArray, $qArray, $lang)
 {
     foreach ($tArray as $sheet => $changes) {
-
         $info = $changes ? ' (changes by quality)' : '';
 
         $result = [];
         foreach ($qArray as $quality) {
             $ret = RyzomExtra::consumable_effects($sheet, $quality, $lang);
-            $ret = strip_color("  + " . join("\n  + ", str_replace("\n", "\n    ", $ret)));
+            $ret = strip_color('  + ' . join("\n  + ", str_replace("\n", "\n    ", $ret)));
             if (empty($result)) {
                 $status = '  OK  ';
             } elseif ($changes) {
@@ -104,4 +101,3 @@ function test_items($tArray, $qArray, $lang)
         }
     }
 }
-

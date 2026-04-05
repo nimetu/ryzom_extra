@@ -4,7 +4,6 @@ namespace RyzomExtra;
 
 class GuildIconBuilderTest extends \PHPUnit\Framework\TestCase
 {
-
     public function testDefault()
     {
         $iconBuilder = new GuildIconBuilder();

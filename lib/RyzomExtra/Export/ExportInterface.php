@@ -1,4 +1,5 @@
 <?php
+
 //
 // RyzomExtra - https://github.com/nimetu/ryzom_extra
 // Copyright (c) 2012 Meelis Mägi <nimetu@gmail.com>
@@ -22,11 +23,11 @@
 
 namespace RyzomExtra\Export;
 
-interface ExportInterface {
-
-	/**
-	 * @param array $data
-	 * @param string $sheet
-	 */
-	function export(array $data, $sheet);
+interface ExportInterface
+{
+    /**
+     * @param array $data
+     * @param string $sheet
+     */
+    function export(array $data, $sheet);
 }

@@ -1,4 +1,5 @@
 <?php
+
 //
 // RyzomExtra - https://github.com/nimetu/ryzom_extra
 // Copyright (c) 2012 Meelis Mägi <nimetu@gmail.com>
@@ -24,38 +25,58 @@ namespace RyzomExtra\Export;
 
 use RyzomExtra\Export\Sheets\AbstractSheetExport;
 
-class PackedSheetsExport extends AbstractSheetExport {
+class PackedSheetsExport extends AbstractSheetExport
+{
+    /**
+     * @param array $data array from PackedSheets::getSheets()
+     * @param string $sheet sheet name
+     *
+     * @throws \RuntimeException
+     */
+    function export(array $data, $sheet)
+    {
+        switch ($sheet) {
+            case 'creature':
+                $export = new Sheets\CharacterSheetExport(
+                    $this->sheetIds,
+                    $this->sheetsManager,
+                    $this->path,
+                    $this->encoder,
+                );
+                break;
+            case 'item':
+            case 'sitem':
+                $export = new Sheets\ItemSheetExport(
+                    $this->sheetIds,
+                    $this->sheetsManager,
+                    $this->path,
+                    $this->encoder,
+                );
+                break;
+            case 'skill_tree':
+                $export = new Sheets\SkilltreeSheetExport(
+                    $this->sheetIds,
+                    $this->sheetsManager,
+                    $this->path,
+                    $this->encoder,
+                );
+                break;
+            case 'sbrick':
+                $export = new Sheets\SbrickSheetExport(
+                    $this->sheetIds,
+                    $this->sheetsManager,
+                    $this->path,
+                    $this->encoder,
+                );
+                break;
+            case 'sphrase':
+                // TODO: SphraseSheetExport()
+                //var_dump($data);
+                return;
+            default:
+                throw new \RuntimeException("Unknown sheet ({$sheet})");
+        }
 
-	/**
-	 * @param array $data array from PackedSheets::getSheets()
-	 * @param string $sheet sheet name
-	 *
-	 * @throws \RuntimeException
-	 */
-	function export(array $data, $sheet) {
-		switch ($sheet) {
-		case 'creature':
-			$export = new Sheets\CharacterSheetExport($this->sheetIds, $this->sheetsManager, $this->path, $this->encoder);
-			break;
-		case 'item':
-		case 'sitem':
-			$export = new Sheets\ItemSheetExport($this->sheetIds, $this->sheetsManager, $this->path, $this->encoder);
-			break;
-		case 'skill_tree':
-			$export = new Sheets\SkilltreeSheetExport($this->sheetIds, $this->sheetsManager, $this->path, $this->encoder);
-			break;
-		case 'sbrick':
-			$export = new Sheets\SbrickSheetExport($this->sheetIds, $this->sheetsManager, $this->path, $this->encoder);
-			break;
-		case 'sphrase':
-			// TODO: SphraseSheetExport()
-			//var_dump($data);
-			return;
-		default:
-			throw new \RuntimeException("Unknown sheet ({$sheet})");
-		}
-
-		$export->export($data, $sheet);
-	}
-
+        $export->export($data, $sheet);
+    }
 }

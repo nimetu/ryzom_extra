@@ -1,4 +1,5 @@
 <?php
+
 //
 // RyzomExtra - https://github.com/nimetu/ryzom_extra
 // Copyright (c) 2013 Meelis Mägi <nimetu@gmail.com>
@@ -72,5 +73,4 @@ interface CacheInterface
      * @return boolean
      */
     public function expired($key);
-
 }

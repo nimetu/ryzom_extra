@@ -1,4 +1,5 @@
 <?php
+
 //
 // RyzomExtra - https://github.com/nimetu/ryzom_extra
 // Copyright (c) 2012 Meelis Mägi <nimetu@gmail.com>
@@ -24,40 +25,43 @@ namespace RyzomExtra\Export;
 
 use Nel\Misc\SheetId;
 
-class VisualSlotExport implements ExportInterface {
+class VisualSlotExport implements ExportInterface
+{
+    /** @var SheetId */
+    protected $sheetIds;
 
-	/** @var SheetId */
-	protected $sheetIds;
+    protected $path;
 
-	protected $path;
+    /** @var EncoderInterface */
+    protected $encoder;
 
-	/** @var EncoderInterface */
-	protected $encoder;
+    public function __construct(SheetId $sheetIds, $path, EncoderInterface $encoder)
+    {
+        $this->sheetIds = $sheetIds;
+        $this->path = $path;
+        $this->encoder = $encoder;
+    }
 
-	public function __construct(SheetId $sheetIds, $path, EncoderInterface $encoder) {
-		$this->sheetIds = $sheetIds;
-		$this->path = $path;
-		$this->encoder = $encoder;
-	}
+    /** {@inheritdoc} */
+    public function export(array $data, $sheet)
+    {
+        $cache = array();
 
-	/** {@inheritdoc} */
-	public function export(array $data, $sheet) {
-		$cache = array();
+        /** @var array<int,int> $sheets */
+        foreach ($data as $slot => $sheets) {
+            foreach ($sheets as $index => $sheetid) {
+                $cache[$slot][$index] = $this->sheetIds->getSheetIdName($sheetid);
+            }
+        }
 
-		/** @var array<int,int> $sheets */
-		foreach($data as $slot => $sheets){
-			foreach($sheets as $index => $sheetid){
-				$cache[$slot][$index] = $this->sheetIds->getSheetIdName($sheetid);
-			}
-		}
+        $this->_serializeInto($cache, 'visual_slot');
+    }
 
-		$this->_serializeInto($cache, 'visual_slot');
-	}
-
-	protected function _serializeInto(array $data, $name) {
-		$ext = $this->encoder->name();
-		$fileName = "{$this->path}/{$name}.{$ext}";
-		echo "+ saving {$fileName}\n";
-		file_put_contents($fileName, $this->encoder->encode($data));
-	}
+    protected function _serializeInto(array $data, $name)
+    {
+        $ext = $this->encoder->name();
+        $fileName = "{$this->path}/{$name}.{$ext}";
+        echo "+ saving {$fileName}\n";
+        file_put_contents($fileName, $this->encoder->encode($data));
+    }
 }

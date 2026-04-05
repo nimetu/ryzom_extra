@@ -1,4 +1,5 @@
 <?php
+
 //
 // RyzomExtra - https://github.com/nimetu/ryzom_extra
 // Copyright (c) 2018 Meelis Mägi <nimetu@gmail.com>
@@ -29,47 +30,47 @@ use Ryzom\Sheets\Client\CharacterSheet;
  *
  * Creates file 'creature.serial'
  */
-class CharacterSheetExport extends AbstractSheetExport {
+class CharacterSheetExport extends AbstractSheetExport
+{
+    /**
+     * @param array $data
+     * @param string $sheet
+     */
+    function export(array $data, $sheet)
+    {
+        /** @var CharacterSheet[] $data */
+        echo "+ exporting {$sheet}\n";
 
-	/**
-	 * @param array $data
-	 * @param string $sheet
-	 */
-	function export(array $data, $sheet) {
-		/** @var CharacterSheet[] $data */
-		echo "+ exporting {$sheet}\n";
+        $export = [];
 
-		$export = [];
+        /** @var int $id */
+        foreach ($data as $id => $creature) {
+            $key = $this->sheetIds->getSheetIdName($id, false);
 
-		/** @var int $id */
-		foreach ($data as $id => $creature) {
-			$key = $this->sheetIds->getSheetIdName($id, false);
+            $array = array(
+                'sheetid' => $key,
+                'gender' => (int) $creature->Gender,
+                'race' => (string) $creature->Race,
+                'fame' => (string) $creature->Fame,
+                'speed' => round($creature->MaxSpeed, 1),
+                'region_force' => (int) $creature->RegionForce,
+                'force_level' => (int) $creature->ForceLevel,
+                'level' => (int) $creature->Level,
+                'selectable' => (int) $creature->Selectable,
+                'talkable' => (int) $creature->Talkable,
+                'attackable' => (int) $creature->Attackable,
+                'givable' => (int) $creature->Givable,
+                'mountable' => (int) $creature->Mountable,
+                'display_in_radar' => (int) $creature->DisplayInRadar,
+            );
 
-			$array = array(
-				'sheetid' => $key,
-				'gender' => (int)$creature->Gender,
-				'race' => (string)$creature->Race,
-				'fame' => (string)$creature->Fame,
-				'speed' => round($creature->MaxSpeed, 1),
-				'region_force' => (int)$creature->RegionForce,
-				'force_level' => (int)$creature->ForceLevel,
-				'level' => (int)$creature->Level,
-				'selectable' => (int)$creature->Selectable,
-				'talkable' => (int)$creature->Talkable,
-				'attackable' => (int)$creature->Attackable,
-				'givable' => (int)$creature->Givable,
-				'mountable' => (int)$creature->Mountable,
-				'display_in_radar' => (int)$creature->DisplayInRadar,
-			);
+            $dataset = \RyzomExtra::get_dataset_name('creature', $key);
 
-			$dataset = \RyzomExtra::get_dataset_name('creature', $key);
+            $export[$dataset][$key] = $array;
+        }
 
-			$export[$dataset][$key] = $array;
-		}
-
-		foreach($export as $dataset => $array) {
-			$this->_serializeInto($array, $dataset);
-		}
-	}
+        foreach ($export as $dataset => $array) {
+            $this->_serializeInto($array, $dataset);
+        }
+    }
 }
-

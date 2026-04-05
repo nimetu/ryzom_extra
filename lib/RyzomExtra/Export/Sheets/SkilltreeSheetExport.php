@@ -1,4 +1,5 @@
 <?php
+
 //
 // RyzomExtra - https://github.com/nimetu/ryzom_extra
 // Copyright (c) 2012 Meelis Mägi <nimetu@gmail.com>
@@ -27,30 +28,31 @@ namespace RyzomExtra\Export\Sheets;
  *
  * Creates file 'skilltree.serial'
  */
-class SkilltreeSheetExport extends AbstractSheetExport {
+class SkilltreeSheetExport extends AbstractSheetExport
+{
+    /**
+     * @param array $data
+     * @param string $sheet
+     */
+    function export(array $data, $sheet)
+    {
+        echo "+ exporting {$sheet}\n";
+        /** @var \Ryzom\Sheets\Client\SkilltreeSheet $skilltree */
+        $skilltree = $data[36]; // #36 == skills.skill_tree
 
-	/**
-	 * @param array $data
-	 * @param string $sheet
-	 */
-	function export(array $data, $sheet) {
-		echo "+ exporting {$sheet}\n";
-		/** @var \Ryzom\Sheets\Client\SkilltreeSheet $skilltree */
-		$skilltree = $data[36]; // #36 == skills.skill_tree
+        $exportSkills = array();
+        foreach ($skilltree->getSkills() as $skill) {
+            /** @var \Ryzom\Sheets\Client\CSkill $skill */
+            $skillCode = strtolower($skill->SkillCode);
+            $array = array(
+                'max' => $skill->MaxSkillValue,
+                'node_id' => $skill->Skill,
+                'parent_node' => $skill->ParentSkill,
+                'skill_id' => $skillCode,
+            );
+            $exportSkills[$skillCode] = $array;
+        }
 
-		$exportSkills = array();
-		foreach ($skilltree->getSkills() as $skill) {
-			/** @var \Ryzom\Sheets\Client\CSkill $skill */
-			$skillCode = strtolower($skill->SkillCode);
-			$array = array(
-				'max' => $skill->MaxSkillValue,
-				'node_id' => $skill->Skill,
-				'parent_node' => $skill->ParentSkill,
-				'skill_id' => $skillCode,
-			);
-			$exportSkills[$skillCode] = $array;
-		}
-
-		$this->_serializeInto($exportSkills, 'skilltree');
-	}
+        $this->_serializeInto($exportSkills, 'skilltree');
+    }
 }

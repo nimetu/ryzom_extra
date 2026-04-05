@@ -75,5 +75,4 @@ class GuildIconBuilder extends BitStruct
         }
         parent::__set($key, $val);
     }
-
 }

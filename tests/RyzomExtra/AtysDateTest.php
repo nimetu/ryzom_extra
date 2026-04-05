@@ -38,7 +38,7 @@ class AtysDateTest extends \PHPUnit\Framework\TestCase
      * Sets up the fixture, for example, opens a network connection.
      * This method is called before a test is executed.
      */
-    protected function setUp() : void
+    protected function setUp(): void
     {
         // set mock function return values
         //time($this->shardSync);
@@ -77,7 +77,7 @@ class AtysDateTest extends \PHPUnit\Framework\TestCase
         $this->assertEquals(1224, $this->atysDate->getGameCycle());
     }
 
-	#[DataProvider('fixtureFormatDate')]
+    #[DataProvider('fixtureFormatDate')]
     public function testFormatDate($showHour, $showMin, $expected)
     {
         $this->assertEquals($expected, $this->atysDate->formatDate($showHour, $showMin));
@@ -86,7 +86,7 @@ class AtysDateTest extends \PHPUnit\Framework\TestCase
     /**
      * @return array
      */
-    static public function fixtureFormatDate()
+    public static function fixtureFormatDate()
     {
         return array(
             array(true, true, sprintf('%02d:%02d - %s', self::timeHour, self::timeMinutes, self::dateString)),
@@ -109,7 +109,7 @@ class AtysDateTest extends \PHPUnit\Framework\TestCase
     public function testGetSeason()
     {
         $this->assertEquals(self::dateSeason, $this->atysDate->getSeason());
-		$this->assertEquals(self::seasonName, $this->atysDate->getSeasonName());
+        $this->assertEquals(self::seasonName, $this->atysDate->getSeasonName());
     }
 
     public function testGetMonth()
@@ -167,7 +167,7 @@ class AtysDateTest extends \PHPUnit\Framework\TestCase
         $this->atysDate->parse(self::dateString);
     }
 
-	#[DataProvider('seasonMonthNameDataProvider')]
+    #[DataProvider('seasonMonthNameDataProvider')]
     public function testGetSeasonMonthName($season, $month, $expected)
     {
         $got = $this->atysDate->getSeasonMonthName($season, $month);
@@ -177,7 +177,7 @@ class AtysDateTest extends \PHPUnit\Framework\TestCase
     /**
      * @return array
      */
-    static public function seasonMonthNameDataProvider()
+    public static function seasonMonthNameDataProvider()
     {
         return array(
             // Spring

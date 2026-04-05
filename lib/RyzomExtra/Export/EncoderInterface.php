@@ -1,4 +1,5 @@
 <?php
+
 //
 // RyzomExtra - https://github.com/nimetu/ryzom_extra
 // Copyright (c) 2012 Meelis Mägi <nimetu@gmail.com>
@@ -22,23 +23,21 @@
 
 namespace RyzomExtra\Export;
 
-interface EncoderInterface {
+interface EncoderInterface
+{
+    /**
+     * Return encoder name, ie for file extension like 'json' or 'serial'
+     *
+     * @return string
+     */
+    public function name();
 
-	/**
-	 * Return encoder name, ie for file extension like 'json' or 'serial'
-	 *
-	 * @return string
-	 */
-	public function name();
-
-	/**
-	 * Serial data array into string
-	 *
-	 * @param array $data
-	 *
-	 * @return string
-	 */
-	public function encode(array $data);
-
+    /**
+     * Serial data array into string
+     *
+     * @param array $data
+     *
+     * @return string
+     */
+    public function encode(array $data);
 }
-

@@ -1,4 +1,5 @@
 <?php
+
 //
 // RyzomExtra - https://github.com/nimetu/ryzom_extra
 // Copyright (c) 2012 Meelis Mägi <nimetu@gmail.com>
@@ -36,281 +37,368 @@ use Ryzom\Sheets\Client\CMpItemPart;
  *
  * Creates files 'items.serial', 'resource_stats.serial'
  */
-class ItemSheetExport extends AbstractSheetExport {
+class ItemSheetExport extends AbstractSheetExport
+{
+    /**
+     * @param array $data
+     * @param $sheet
+     */
+    function export(array $data, $sheet)
+    {
+        /** @var \Ryzom\Sheets\Client\ItemSheet[] $data */
+        echo "+ exporting {$sheet}\n";
 
-	/**
-	 * @param array $data
-	 * @param $sheet
-	 */
-	function export(array $data, $sheet) {
-		/** @var \Ryzom\Sheets\Client\ItemSheet[] $data */
-		echo "+ exporting {$sheet}\n";
+        $skilltreeId = $this->sheetIds->getSheetId('skills.skill_tree');
+        if ($skilltreeId === null) {
+            throw new \RuntimeException('Failed to get skills.skill_tree sheet id');
+        }
+        /** @var \Ryzom\Sheets\Client\SkilltreeSheet|null $skilltree */
+        $skilltree = $this->sheetsManager->findById($skilltreeId);
+        if ($skilltree === null) {
+            throw new \RuntimeException('Unable to find sheet for skilltree id "' . $skilltreeId . '"');
+        }
 
-		$skilltreeId = $this->sheetIds->getSheetId('skills.skill_tree');
-		if ($skilltreeId === null) {
-			throw new \RuntimeException('Failed to get skills.skill_tree sheet id');
-		}
-		/** @var \Ryzom\Sheets\Client\SkilltreeSheet|null $skilltree */
-		$skilltree = $this->sheetsManager->findById($skilltreeId);
-		if ($skilltree === null) {
-			throw new \RuntimeException('Unable to find sheet for skilltree id "'.$skilltreeId.'"');
-		}
+        $exportItems = array();
+        $exportStats = array();
 
-		$exportItems = array();
-		$exportStats = array();
+        $skipTypes = array(
+            // haircut
+            EItemFamily::UNDEFINED,
+            EItemFamily::SERVICE,
+            EItemFamily::COMMAND_TICKET,
+        );
 
-		$skipTypes = array(
-			// haircut
-			EItemFamily::UNDEFINED,
-			EItemFamily::SERVICE,
-			EItemFamily::COMMAND_TICKET,
-		);
+        /** @var int $id */
+        foreach ($data as $id => $item) {
+            if (in_array($item->Family, $skipTypes)) {
+                continue;
+            }
+            $key = $this->sheetIds->getSheetIdName($id, false);
+            $array = array(
+                'sheetid' => $key,
+                'type' => $item->Family,
+                'item_type' => $item->ItemType,
+                'race' => $item->ItemOrigin,
+                'quality' => $item->MapVariant,
+                'bulk' => round($item->Bulk, 2),
+                //'consumable' => $item->IsConsumable,
+            );
 
-		/** @var int $id */
-		foreach ($data as $id => $item) {
-			if (in_array($item->Family, $skipTypes)) {
-				continue;
-			}
-			$key = $this->sheetIds->getSheetIdName($id, false);
-			$array = array(
-				'sheetid' => $key,
-				'type' => $item->Family,
-				'item_type' => $item->ItemType,
-				'race' => $item->ItemOrigin,
-				'quality' => $item->MapVariant,
-				'bulk' => round($item->Bulk, 2),
-				//'consumable' => $item->IsConsumable,
-			);
+            $iconKeys = array('main', 'back', 'over', 'over2');
+            foreach ($iconKeys as $i => $k) {
+                if ($item->Icon[$i] !== '') {
+                    $pos = strrpos($item->Icon[$i], '.tga');
+                    if ($pos === false) {
+                        $icon = $item->Icon[$i];
+                    } else {
+                        $icon = substr($item->Icon[$i], 0, $pos) . '.png';
+                    }
 
-			$iconKeys = array('main', 'back', 'over', 'over2');
-			foreach ($iconKeys as $i => $k) {
-				if ($item->Icon[$i] !== '') {
-					$pos = strrpos($item->Icon[$i], '.tga');
-					if($pos === false){
-						$icon = $item->Icon[$i];
-					}else{
-						$icon = substr($item->Icon[$i], 0, $pos).'.png';
-					}
+                    $array['icon'][$k] = $icon;
+                    if (isset($item->IconColor[$i]) && $item->IconColor[$i] !== -1) {
+                        $array['icon_color'][$k] = $item->IconColor[$i];
+                    }
+                }
+            }
 
-					$array['icon'][$k] = $icon;
-					if (isset($item->IconColor[$i]) && $item->IconColor[$i] !== -1) {
-						$array['icon_color'][$k] = $item->IconColor[$i];
-					}
-				}
-			}
+            if ($item->IconText !== '') {
+                $array['txt'] = $item->IconText;
+            }
 
-			if ($item->IconText !== '') {
-				$array['txt'] = $item->IconText;
-			}
+            if ($item->CraftPlan > 0) {
+                $array['craftplan'] = $this->sheetIds->getSheetIdName($item->CraftPlan, false);
+            }
 
-			if ($item->CraftPlan > 0) {
-				$array['craftplan'] = $this->sheetIds->getSheetIdName($item->CraftPlan, false);
-			}
+            switch ($item->Family) {
+                case EItemFamily::ARMOR:
+                    //$array['armor_type'] = $item->Armor->ArmorType;
+                    // some armor has own color (like refugee armor plans)
+                    if ($item->Color >= 0) {
+                        $array['color'] = $item->Color;
+                    }
+                    break;
+                case EItemFamily::MELEE_WEAPON:
+                    $array['skill'] = $item->MeleeWeapon->Skill;
+                    //$array['weapon_type'] = $item->MeleeWeapon->WeaponType;
+                    $array['damage'] = $item->MeleeWeapon->DamageType;
+                    $array['reach'] = $item->MeleeWeapon->MeleeRange;
+                    break;
+                case EItemFamily::RANGE_WEAPON:
+                    $array['skill'] = $item->RangeWeapon->Skill;
+                    //$array['weapon_type'] = $item->RangeWeapon->WeaponType;
+                    //$array['range_weapon_type'] = $item->RangeWeapon->RangeWeaponType; // FIXME:
+                    break;
+                case EItemFamily::AMMO:
+                    $array['skill'] = $item->Ammo->Skill;
+                    $array['damage'] = $item->Ammo->DamageType;
+                    break;
+                case EItemFamily::RAW_MATERIAL:
+                    unset($array['race'], $array['quality'], $array['craftplan']);
 
-			switch ($item->Family) {
-			case EItemFamily::ARMOR:
-				//$array['armor_type'] = $item->Armor->ArmorType;
-				// some armor has own color (like refugee armor plans)
-				if ($item->Color >= 0) {
-					$array['color'] = $item->Color;
-				}
-				break;
-			case EItemFamily::MELEE_WEAPON:
-				$array['skill'] = $item->MeleeWeapon->Skill;
-				//$array['weapon_type'] = $item->MeleeWeapon->WeaponType;
-				$array['damage'] = $item->MeleeWeapon->DamageType;
-				$array['reach'] = $item->MeleeWeapon->MeleeRange;
-				break;
-			case EItemFamily::RANGE_WEAPON:
-				$array['skill'] = $item->RangeWeapon->Skill;
-				//$array['weapon_type'] = $item->RangeWeapon->WeaponType;
-				//$array['range_weapon_type'] = $item->RangeWeapon->RangeWeaponType; // FIXME:
-				break;
-			case EItemFamily::AMMO:
-				$array['skill'] = $item->Ammo->Skill;
-				$array['damage'] = $item->Ammo->DamageType;
-				break;
-			case EItemFamily::RAW_MATERIAL:
-				unset($array['race'], $array['quality'], $array['craftplan']);
+                    $isLooted = $this->_isMpLooted($item->Mp, $item->IconText);
+                    $isMission = $item->DropOrSell === 0 ? 1 : 0;
 
-				$isLooted = $this->_isMpLooted($item->Mp, $item->IconText);
-				$isMission = $item->DropOrSell === 0 ? 1 : 0;
+                    $array['ecosystem'] = $item->Mp->Ecosystem;
+                    $array['grade'] = $item->Mp->StatEnergy;
+                    $array['mpft'] = $item->Mp->ItemPartBF;
+                    $array['color'] = $item->Mp->MpColor;
+                    $array['is_looted'] = $isLooted;
+                    $array['is_mission'] = $isMission;
+                    $array['index'] = $item->Mp->Family;
+                    //$array['mp_category'] = $item->Mp->MpCategory; // == 1
+                    //$array['harvest_skill'] = $item->Mp->HarvestSkill; // == 226
+                    if ($item->Mp->ItemPartBF > 0) {
+                        $array['stats'] = array(
+                            'sheetid' => $key,
+                            'stats' => $this->_exportResourceStats($item->Mp, $item->MpItemParts),
+                        );
+                    }
+                    break;
+                case EItemFamily::SHIELD:
+                    //$array['shield_type'] = $item->Shield->ShieldType;
+                    break;
+                case EItemFamily::CRAFTING_TOOL:
+                case EItemFamily::HARVEST_TOOL:
+                case EItemFamily::TAMING_TOOL:
+                    $array['skill'] = $item->Tool->Skill;
+                    //$array['_tool_type'] = $item->Tool->CraftingToolType;
+                    //$array['_command_range'] = $item->Tool->CommandRange;
+                    //$array['_max_donkey'] = $item->Tool->MaxDonkey;
+                    break;
+                case EItemFamily::TELEPORT:
+                    unset($array['quality']);
+                    //$array['_teleport_type'] = $item->Teleport->Type;
+                    break;
+                case EItemFamily::PET_ANIMAL_TICKET:
+                    //$array['_pet_slot'] = $item->Pet->Slot;
+                    break;
+                case EItemFamily::GUILD_OPTION:
+                    //$array['_money_cost'] = $item->GuildOption->MoneyCost;
+                    //$array['_xp_cost'] = $item->GuildOption->XpCost;
+                    break;
+                case EItemFamily::COSMETIC:
+                    //$array['_vp_value'] = $item->Cosmetic->VPValue;
+                    //$array['_gender'] = $item->Cosmetic->Gender;
+                    break;
+                case EItemFamily::CONSUMABLE:
+                    //$array['_overdose_timer'] = $item->Consumable->OverdoseTimer;
+                    //$array['_consumption_time'] = $item->Consumable->ConsumptionTime;
+                    if (!empty($item->Consumable->Properties)) {
+                        $array['properties'] = $item->Consumable->Properties;
+                    }
+                    break;
+                case EItemFamily::SCROLL:
+                    //$array['_texture'] = $item->Scroll->Texture;
+                    break;
+                default:
 
-				$array['ecosystem'] = $item->Mp->Ecosystem;
-				$array['grade'] = $item->Mp->StatEnergy;
-				$array['mpft'] = $item->Mp->ItemPartBF;
-				$array['color'] = $item->Mp->MpColor;
-				$array['is_looted'] = $isLooted;
-				$array['is_mission'] = $isMission;
-				$array['index'] = $item->Mp->Family;
-				//$array['mp_category'] = $item->Mp->MpCategory; // == 1
-				//$array['harvest_skill'] = $item->Mp->HarvestSkill; // == 226
-				if ($item->Mp->ItemPartBF > 0) {
-					$array['stats'] = array(
-						'sheetid' => $key,
-						'stats' => $this->_exportResourceStats($item->Mp, $item->MpItemParts),
-					);
-				}
-				break;
-			case EItemFamily::SHIELD:
-				//$array['shield_type'] = $item->Shield->ShieldType;
-				break;
-			case EItemFamily::CRAFTING_TOOL:
-			case EItemFamily::HARVEST_TOOL:
-			case EItemFamily::TAMING_TOOL:
-				$array['skill'] = $item->Tool->Skill;
-				//$array['_tool_type'] = $item->Tool->CraftingToolType;
-				//$array['_command_range'] = $item->Tool->CommandRange;
-				//$array['_max_donkey'] = $item->Tool->MaxDonkey;
-				break;
-			case EItemFamily::TELEPORT:
-				unset($array['quality']);
-				//$array['_teleport_type'] = $item->Teleport->Type;
-				break;
-			case EItemFamily::PET_ANIMAL_TICKET:
-				//$array['_pet_slot'] = $item->Pet->Slot;
-				break;
-			case EItemFamily::GUILD_OPTION:
-				//$array['_money_cost'] = $item->GuildOption->MoneyCost;
-				//$array['_xp_cost'] = $item->GuildOption->XpCost;
-				break;
-			case EItemFamily::COSMETIC:
-				//$array['_vp_value'] = $item->Cosmetic->VPValue;
-				//$array['_gender'] = $item->Cosmetic->Gender;
-				break;
-			case EItemFamily::CONSUMABLE:
-				//$array['_overdose_timer'] = $item->Consumable->OverdoseTimer;
-				//$array['_consumption_time'] = $item->Consumable->ConsumptionTime;
-				if (!empty($item->Consumable->Properties)) {
-					$array['properties'] = $item->Consumable->Properties;
-				}
-				break;
-			case EItemFamily::SCROLL:
-				//$array['_texture'] = $item->Scroll->Texture;
-				break;
-			default:
-				// nothing
-			}
+                // nothing
+            }
 
-			foreach($item->Effect as $effect) {
-				if ($effect !== ''){
-					$array['effects'][] = $effect;
-				}
-			}
+            foreach ($item->Effect as $effect) {
+                if ($effect !== '') {
+                    $array['effects'][] = $effect;
+                }
+            }
 
-			// replace numeric skill code with string code
-			if (isset($array['skill'])) {
-				$skill = $skilltree->get($array['skill']);
-				if ($skill) {
-					$array['skill'] = strtolower($skill->SkillCode);
-				}
-			}
+            // replace numeric skill code with string code
+            if (isset($array['skill'])) {
+                $skill = $skilltree->get($array['skill']);
+                if ($skill) {
+                    $array['skill'] = strtolower($skill->SkillCode);
+                }
+            }
 
-			// split resource stats from item array
-			if (isset($array['stats'])) {
-				$exportStats[$key] = $array['stats'];
-				unset($array['stats']);
-			}
+            // split resource stats from item array
+            if (isset($array['stats'])) {
+                $exportStats[$key] = $array['stats'];
+                unset($array['stats']);
+            }
 
-			$exportItems[$key] = $array;
-		}
+            $exportItems[$key] = $array;
+        }
 
-		$this->_serializeInto($exportItems, 'items');
-		$this->_serializeInto($exportStats, 'resource_stats');
-	}
+        $this->_serializeInto($exportItems, 'items');
+        $this->_serializeInto($exportStats, 'resource_stats');
+    }
 
-	/**
-	 * @param CMp $mp
-	 * @param $txt
-	 *
-	 * @return int foraged=0, looted=1, unknown=-1
-	 */
-	private function _isMpLooted(CMp $mp, $txt) {
-		$namesArray = array(
-			'foraged' => array(
-				'beng', 'hash', 'pha', 'sha', 'soo', 'zun',
-				'adriel', 'becker', 'mitexi', 'oath', 'perfli',
-				'anete', 'buo', 'dzao', 'shu', 'gulatc',
-				'irin', 'koorin', 'pilan', 'dung', 'fung', 'glue', 'moon',
-				'dante', 'enola', 'redhot', 'silver', 'visc',
-				'capric', 'sarina', 'sauron', 'silvio',
-				'big', 'cuty', 'horny', 'smart', 'splint',
-				'abhaya', 'eyota', 'kachin', 'motega', 'tama',
-				'nita', 'patee', 'scrath', 'tansy', 'yana',
-				'kitin', // kitin larva
-			),
-			'looted' => array(
-				// avian
-				'igara', 'izam', 'yber',
-				// carnivore
-				'cloppr', 'cluttr', 'gingo', 'goari', 'hornch',
-				'jugula', 'najab', 'ocyx', 'ragus', 'torbak',
-				'tyranc', 'varinx', 'vorax', 'yetin', 'zerx',
-				// flora
-				'cratch', 'jubla', 'psykop', 'shooki', 'slaven', 'stinga',
-				// herbivore
-				'arana', 'arma', 'bawaab', 'bodoc', 'bolobi', 'capryn',
-				'cray', 'frippo', 'gnoof', 'gubani', 'lumper', 'madaka',
-				'messab', 'ploder', 'raspal', 'rendor', 'shalah', 'timari',
-				'wombai', 'yelk', 'yubo',
-				// javan
-				'javing',
-				// kitin
-				'kiban', 'kidina', 'kinchr', 'kinrey', 'kipee', 'kipest',
-				'kipuck', 'kirost', 'kizara', 'kizoar',
-			),
-			'unknown' => array(
-				// corrup - corrupt moon ??
-				// grand
-				// mp - generic mats / faction mats ??
-				'corrup', 'grand', 'mp',
-			),
-		);
+    /**
+     * @param CMp $mp
+     * @param $txt
+     *
+     * @return int foraged=0, looted=1, unknown=-1
+     */
+    private function _isMpLooted(CMp $mp, $txt)
+    {
+        $namesArray = array(
+            'foraged' => array(
+                'beng',
+                'hash',
+                'pha',
+                'sha',
+                'soo',
+                'zun',
+                'adriel',
+                'becker',
+                'mitexi',
+                'oath',
+                'perfli',
+                'anete',
+                'buo',
+                'dzao',
+                'shu',
+                'gulatc',
+                'irin',
+                'koorin',
+                'pilan',
+                'dung',
+                'fung',
+                'glue',
+                'moon',
+                'dante',
+                'enola',
+                'redhot',
+                'silver',
+                'visc',
+                'capric',
+                'sarina',
+                'sauron',
+                'silvio',
+                'big',
+                'cuty',
+                'horny',
+                'smart',
+                'splint',
+                'abhaya',
+                'eyota',
+                'kachin',
+                'motega',
+                'tama',
+                'nita',
+                'patee',
+                'scrath',
+                'tansy',
+                'yana',
+                'kitin', // kitin larva
+            ),
+            'looted' => array(
+                // avian
+                'igara',
+                'izam',
+                'yber',
+                // carnivore
+                'cloppr',
+                'cluttr',
+                'gingo',
+                'goari',
+                'hornch',
+                'jugula',
+                'najab',
+                'ocyx',
+                'ragus',
+                'torbak',
+                'tyranc',
+                'varinx',
+                'vorax',
+                'yetin',
+                'zerx',
+                // flora
+                'cratch',
+                'jubla',
+                'psykop',
+                'shooki',
+                'slaven',
+                'stinga',
+                // herbivore
+                'arana',
+                'arma',
+                'bawaab',
+                'bodoc',
+                'bolobi',
+                'capryn',
+                'cray',
+                'frippo',
+                'gnoof',
+                'gubani',
+                'lumper',
+                'madaka',
+                'messab',
+                'ploder',
+                'raspal',
+                'rendor',
+                'shalah',
+                'timari',
+                'wombai',
+                'yelk',
+                'yubo',
+                // javan
+                'javing',
+                // kitin
+                'kiban',
+                'kidina',
+                'kinchr',
+                'kinrey',
+                'kipee',
+                'kipest',
+                'kipuck',
+                'kirost',
+                'kizara',
+                'kizoar',
+            ),
+            'unknown' => array(
+                // corrup - corrupt moon ??
+                // grand
+                // mp - generic mats / faction mats ??
+                'corrup',
+                'grand',
+                'mp',
+            ),
+        );
 
-		$txt = strtolower($txt);
-		if (in_array($txt, $namesArray['foraged'])) {
-			if ($mp->Family === 774) {
-				return -1; // Supreme Kitin Sting, probably new type of mat that can be looted like kitin larva, only has one stat tho...
-			}
-			return 0;
-		}
+        $txt = strtolower($txt);
+        if (in_array($txt, $namesArray['foraged'])) {
+            if ($mp->Family === 774) {
+                return -1; // Supreme Kitin Sting, probably new type of mat that can be looted like kitin larva, only has one stat tho...
+            }
+            return 0;
+        }
 
-		if (in_array($txt, $namesArray['looted'])) {
-			return 1;
-		}
+        if (in_array($txt, $namesArray['looted'])) {
+            return 1;
+        }
 
-		// $namesArray['unknown']
-		return -1;
-	}
+        // $namesArray['unknown']
+        return -1;
+    }
 
-	/**
-	 * FIXME: needs OriginFilter too?
-	 *
-	 * @param CMp $mp
-	 * @param CMpItemPart[] $stats
-	 *
-	 * @return array
-	 */
-	private function _exportResourceStats(CMp $mp, array $stats) {
-		$result = array();
+    /**
+     * FIXME: needs OriginFilter too?
+     *
+     * @param CMp $mp
+     * @param CMpItemPart[] $stats
+     *
+     * @return array
+     */
+    private function _exportResourceStats(CMp $mp, array $stats)
+    {
+        $result = array();
 
-		$mpftMap = $this->getMpftMap($mp->ItemPartBF);
+        $mpftMap = $this->getMpftMap($mp->ItemPartBF);
 
-		$statIndex = 0;
-		foreach ($mpftMap as $bit => $name) {
-			$statValues = $stats[$statIndex];
+        $statIndex = 0;
+        foreach ($mpftMap as $bit => $name) {
+            $statValues = $stats[$statIndex];
 
-			// get stat keys that this mpft is using
-			$statKeys = $this->getMpftStats($bit);
-			$result[$name] = array();
-			foreach ($statKeys as $key) {
-				$index = $this->getStatIndex($key);
-				$result[$name][$key] = $statValues->Stats[$index];
-			}
-			$statIndex++;
-		}
+            // get stat keys that this mpft is using
+            $statKeys = $this->getMpftStats($bit);
+            $result[$name] = array();
+            foreach ($statKeys as $key) {
+                $index = $this->getStatIndex($key);
+                $result[$name][$key] = $statValues->Stats[$index];
+            }
+            $statIndex++;
+        }
 
-		return $result;
-	}
-
+        return $result;
+    }
 }

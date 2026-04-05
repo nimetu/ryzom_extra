@@ -1,4 +1,5 @@
 <?php
+
 //
 // RyzomExtra - https://github.com/nimetu/ryzom_extra
 // Copyright (c) 2013 Meelis Mägi <nimetu@gmail.com>
@@ -117,7 +118,7 @@ class RyzomClock
      */
     public function getRyzomYear()
     {
-        return $this->getRyzomDay() / self::RYZOM_YEAR_IN_DAY + $this->getShardStartYear();
+        return ($this->getRyzomDay() / self::RYZOM_YEAR_IN_DAY) + $this->getShardStartYear();
     }
 
     /**
@@ -234,5 +235,4 @@ class RyzomClock
     {
         return $this->startYear;
     }
-
 }

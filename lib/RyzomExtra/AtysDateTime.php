@@ -1,4 +1,5 @@
 <?php
+
 //
 // RyzomExtra - https://github.com/nimetu/ryzom_extra
 // Copyright (c) 2013 Meelis Mägi <nimetu@gmail.com>
@@ -27,7 +28,6 @@ namespace RyzomExtra;
  */
 class AtysDateTime extends RyzomClock
 {
-
     /**
      * Season translation
      *
@@ -53,7 +53,7 @@ class AtysDateTime extends RyzomClock
         'Fallenor',
         'Pluvia',
         'Mystia',
-        'Nivia'
+        'Nivia',
     );
     /** @var string[] */
     protected $dayNames = array(
@@ -62,7 +62,7 @@ class AtysDateTime extends RyzomClock
         'Tria',
         'Quarta',
         'Quinteth',
-        'Holeth'
+        'Holeth',
     );
     /** @var string[] */
     protected $uiJenasYear = array(
@@ -88,7 +88,7 @@ class AtysDateTime extends RyzomClock
      */
     protected $uiTh = array(
         'en' => array(0 => '', 1 => 'st', 2 => 'nd', 3 => 'rd', 4 => 'th'),
-        'fr' => array(0 => '', 1 => 'ère', 2 => 'ème', 3 => 'ème', 4 => 'ème',),
+        'fr' => array(0 => '', 1 => 'ère', 2 => 'ème', 3 => 'ème', 4 => 'ème'),
         'de' => array(0 => '', 1 => '.', 2 => '.', 3 => '.', 4 => '.'),
         'ru' => array(0 => '', 1 => '', 2 => '', 3 => '', 4 => ''),
         'es' => array(0 => '', 1 => '', 2 => '', 3 => '', 4 => ''),
@@ -128,7 +128,7 @@ class AtysDateTime extends RyzomClock
         if ($month <= 0) {
             $month += count($this->monthNames);
         }
-        $idx = ($season - 1) * 3 + ($month - 1);
+        $idx = (($season - 1) * 3) + ($month - 1);
 
         return $this->monthNames[$idx];
     }
@@ -197,7 +197,7 @@ class AtysDateTime extends RyzomClock
      */
     public function parse($atysDate)
     {
-        throw new \RuntimeException("Not implemented");
+        throw new \RuntimeException('Not implemented');
     }
 
     /**
@@ -252,7 +252,7 @@ class AtysDateTime extends RyzomClock
             $this->getCycle(),
             $this->translateTh($this->getCycle()),
             $this->translateAtysCycle(),
-            $this->getYear()
+            $this->getYear(),
         );
         if ($show_hour) {
             $str = $this->toTimeString($show_min) . ' - ' . $str;
@@ -390,9 +390,9 @@ class AtysDateTime extends RyzomClock
     public function toTimeString($show_min = false)
     {
         if ($show_min !== true) {
-            return sprintf("%02dh", $this->getHours());
+            return sprintf('%02dh', $this->getHours());
         } else {
-            return sprintf("%02d:%02d", $this->getHours(), $this->getMinutes());
+            return sprintf('%02d:%02d', $this->getHours(), $this->getMinutes());
         }
     }
 
@@ -469,5 +469,4 @@ class AtysDateTime extends RyzomClock
 
         return $this->uiAtysCycle[$key];
     }
-
 }
