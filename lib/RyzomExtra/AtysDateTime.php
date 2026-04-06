@@ -292,7 +292,7 @@ class AtysDateTime extends RyzomClock
      */
     public function getDay($asInt = true)
     {
-        $value = fmod($this->getRyzomDay(), self::RYZOM_WEEK_IN_DAY) + 1;
+        $value = fmod($this->getRyzomDays(), self::RYZOM_WEEK_IN_DAY) + 1;
 
         return $asInt ? (int) $value : $value;
     }
@@ -304,7 +304,7 @@ class AtysDateTime extends RyzomClock
      */
     public function getDayOfSeason($asInt = true)
     {
-        $value = fmod($this->getRyzomDay(), self::RYZOM_SEASON_IN_DAY) + 1;
+        $value = fmod($this->getRyzomDays(), self::RYZOM_SEASON_IN_DAY) + 1;
 
         return $asInt ? (int) $value : $value;
     }
@@ -353,7 +353,7 @@ class AtysDateTime extends RyzomClock
      */
     public function getDate($asInt = true)
     {
-        $result = fmod($this->getRyzomDay(), self::RYZOM_MONTH_IN_DAY) + 1;
+        $result = fmod($this->getRyzomDays(), self::RYZOM_MONTH_IN_DAY) + 1;
 
         return $asInt ? (int) $result : $result;
     }

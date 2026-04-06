@@ -73,10 +73,32 @@ class RyzomClock
     /** @var bool */
     protected $legacy;
 
-    /** @var float */
+    /**
+     * Days from $startSpring
+     *
+     * @var float
+     */
+    protected $daysSinceSpring;
+
+    /**
+     * Current ryzom year
+     *
+     * @var float
+     */
+    protected $ryzomYear;
+
+    /**
+     * Day within current cycle
+     *
+     * @var float
+     */
     protected $ryzomDay;
 
-    /** @var float */
+    /**
+     * Hour within current day
+     *
+     * @var float
+     **/
     protected $ryzomTime;
 
     /** @var int */
@@ -96,6 +118,8 @@ class RyzomClock
     }
 
     /**
+     * Return time in 0..24 range
+     *
      * @return float
      */
     public function getRyzomTime()
@@ -105,10 +129,34 @@ class RyzomClock
 
     /**
      * @return float
+     *
+     * @deprecated use getRyzomDaysSinceSpring()
      */
     public function getRyzomDay()
     {
+        return $this->getRyzomDaysSinceSpring();
+    }
+
+    /**
+     * Return day in current year 0.0 >= day < 1440.0 range, ie 1439.9 = last cycle, last season, ~last day
+     *
+     * @return float
+     */
+    public function getRyzomDays()
+    {
         return $this->ryzomDay;
+    }
+
+    /**
+     * Return total days starting from springStart day.
+     *
+     * If springStart > 0 then this returns negative value.
+     *
+     * @return float
+     */
+    public function getRyzomDaysSinceSpring()
+    {
+        return $this->daysSinceSpring;
     }
 
     /**
@@ -118,23 +166,31 @@ class RyzomClock
      */
     public function getRyzomYear()
     {
-        return ($this->getRyzomDay() / self::RYZOM_YEAR_IN_DAY) + $this->getShardStartYear();
+        return $this->ryzomYear;
     }
 
     /**
+     * Return week in current year 0.0 >= week < 240.0 range, ie 239.9 = last cycle, last month, last week, ~last day
+     *
      * @return float
      */
     public function getRyzomWeek()
     {
-        return fmod($this->getRyzomDay(), self::RYZOM_YEAR_IN_DAY) / self::RYZOM_WEEK_IN_DAY;
+        $year = $this->getRyzomYear();
+        $day = ($year - floor($year)) * self::RYZOM_YEAR_IN_DAY;
+        return $day / self::RYZOM_WEEK_IN_DAY;
     }
 
     /**
+     * Return season in current year 0.0 >= season < 16.0 range
+     *
      * @return float
      */
     public function getRyzomSeason()
     {
-        return fmod($this->getRyzomDay(), self::RYZOM_YEAR_IN_DAY) / self::RYZOM_SEASON_IN_DAY;
+        $year = $this->getRyzomYear();
+        $day = ($year - floor($year)) * self::RYZOM_YEAR_IN_DAY;
+        return $day / self::RYZOM_SEASON_IN_DAY;
     }
 
     /**
@@ -159,14 +215,20 @@ class RyzomClock
     }
 
     /**
+     * Return current month within cycle 0.0 >= month < 48.0 range, ie 29.9 = 1st cycle, 1st season, 1st month, ~last day
+     *
      * @return float
      */
     public function getRyzomMonth()
     {
-        return fmod($this->getRyzomDay(), self::RYZOM_YEAR_IN_DAY) / self::RYZOM_MONTH_IN_DAY;
+        $year = $this->getRyzomYear();
+        $day = ($year - floor($year)) * self::RYZOM_YEAR_IN_DAY;
+        return $day / self::RYZOM_MONTH_IN_DAY;
     }
 
     /**
+     * Return current cycle in 0.0 >= cycle < 4.0 range, ie 3.5
+     *
      * @return float
      */
     public function getRyzomCycle()
@@ -210,7 +272,11 @@ class RyzomClock
 
         // ingame days and hours
         $hours = $this->gameCycle / self::RYZOM_HOURS_IN_TICKS;
-        $this->ryzomDay = ($hours / self::RYZOM_DAY_IN_HOUR) - $this->startSpring;
+        $this->daysSinceSpring = ($this->gameCycle / self::RYZOM_DAY_IN_TICKS) - $this->startSpring;
+
+        //
+        $this->ryzomYear = ($this->daysSinceSpring / self::RYZOM_YEAR_IN_DAY) + $this->startYear;
+        $this->ryzomDay = ($this->ryzomYear - floor($this->ryzomYear)) * RyzomClock::RYZOM_YEAR_IN_DAY;
         $this->ryzomTime = fmod($hours, self::RYZOM_DAY_IN_HOUR);
     }
 
