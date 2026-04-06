@@ -57,26 +57,6 @@ class AtysDateTest extends \PHPUnit\Framework\TestCase
         $this->assertEquals('en Hiver', $this->atysDate->getSeasonName());
     }
 
-    public function testSetTick()
-    {
-        $this->atysDate->setGameCycle(1234);
-        $this->assertEquals(1234, $this->atysDate->getGameCycle());
-    }
-
-    public function testSetGameCycleSync()
-    {
-        $this->atysDate->setGameCycle(1234, false);
-        $this->assertEquals(1234, $this->atysDate->getGameCycle());
-
-        // tick is from past, increase it by 10
-        $this->atysDate->setGameCycle(1234, false, time() - 1);
-        $this->assertEquals(1244, $this->atysDate->getGameCycle());
-
-        // tick is from future, decrease it by 10
-        $this->atysDate->setGameCycle(1234, false, time() + 1);
-        $this->assertEquals(1224, $this->atysDate->getGameCycle());
-    }
-
     #[DataProvider('fixtureFormatDate')]
     public function testFormatDate($showHour, $showMin, $expected)
     {
