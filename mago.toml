@@ -24,10 +24,13 @@ too-many-properties = { enabled = false }
 too-many-methods = { enabled = false }
 ambiguous-function-call = { enabled = false }
 literal-named-argument = { enabled = false }
-halstead = { effort-threshold = 7000 }
+kan-defect = { enabled = false }
+halstead = { enabled = false }
 array-style = { enabled = false }
 strict-types = { enabled = false }
 no-empty-comment = { enabled = false }
+readable-literal = { enabled = false }
+assertion-style = { style = "this" }
 
 [analyzer]
 find-unused-definitions = true

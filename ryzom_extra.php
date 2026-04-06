@@ -32,7 +32,7 @@ define('RYZOM_EXTRA_PATH', dirname(__FILE__) . '/resources');
 define('RYZOM_EXTRA_SHEETS_CACHE', RYZOM_EXTRA_PATH . '/sheets-cache');
 
 /**
- * @mago-ignore lint:file-name,kan-defect,cyclomatic-complexity
+ * @mago-ignore lint:file-name,cyclomatic-complexity
  **/
 class RyzomExtra
 {
@@ -589,7 +589,7 @@ class RyzomExtra
      *
      * @return array
      *
-     * @mago-ignore lint:no-isset,no-empty,halstead
+     * @mago-ignore lint:no-isset,no-empty
      */
     static function consumable_effects($sheet, $quality, $lang)
     {
@@ -606,7 +606,7 @@ class RyzomExtra
         /** @var string $property */
         foreach ($sheet['properties'] as $property) {
             $params = explode(':', $property);
-            if (empty($params)) {
+            if (count($params) === 0) {
                 continue;
             }
 
@@ -923,7 +923,6 @@ function ryzom_sheetid_bin($sid_bin)
     // full list is around 120MiB
     static $cache = array();
 
-    /** @mago-ignore lint:readable-literal */
     $idx = intval(intval($sid_bin) / 1000000);
     if (!isset($cache[$idx])) {
         $cache[$idx] = ryzom_extra_load_dataset(sprintf('%s/sheets-%02x.serial', RYZOM_EXTRA_SHEETS_CACHE, $idx));

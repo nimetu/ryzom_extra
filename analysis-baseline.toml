@@ -51,6 +51,12 @@ count = 1
 [[issues]]
 file = "lib/RyzomExtra/AtysDateTime.php"
 code = "possibly-null-array-index"
+message = "Possibly using `null` as an array index to access elementof variable $this->seasonNames."
+count = 2
+
+[[issues]]
+file = "lib/RyzomExtra/AtysDateTime.php"
+code = "possibly-null-array-index"
 message = "Possibly using `null` as an array index to access elementof variable $this->uiAtysCycle."
 count = 1
 
@@ -344,6 +350,12 @@ count = 1
 
 [[issues]]
 file = "lib/RyzomExtra/Export/Sheets/ItemSheetExport.php"
+code = "invalid-array-access"
+message = "Cannot perform array access on value of type `int`."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Sheets/ItemSheetExport.php"
 code = "less-specific-argument"
 message = 'Argument type mismatch for argument #1 of `ryzomextra\export\sheets\abstractsheetexport::getmpftstats`: expected `int`, but provided type `array-key` is less specific.'
 count = 1
@@ -406,6 +418,12 @@ count = 12
 file = "lib/RyzomExtra/Export/Sheets/ItemSheetExport.php"
 code = "possibly-undefined-string-array-index"
 message = "Possibly undefined array key 'craftplan' accessed on `array{'bulk': float, 'craftplan'?: string, 'icon'?: array{'back': non-empty-string, 'main': non-empty-string, 'over': non-empty-string, 'over2': non-empty-string}, 'icon_color'?: array{'back': int<min, -2>|non-negative-int, 'main': int<min, -2>|non-negative-int, 'over': int<min, -2>|non-negative-int, 'over2': int<min, -2>|non-negative-int}, 'item_type': int, 'sheetid': string, 'txt'?: non-empty-string, 'type': int}`."
+count = 1
+
+[[issues]]
+file = "lib/RyzomExtra/Export/Sheets/ItemSheetExport.php"
+code = "redundant-comparison"
+message = "Redundant `===` comparison: left-hand side is never identical to right-hand side."
 count = 1
 
 [[issues]]

@@ -136,7 +136,7 @@ class ItemSheetExport extends AbstractSheetExport
                     unset($array['race'], $array['quality'], $array['craftplan']);
 
                     $isLooted = $this->_isMpLooted($item->Mp, $item->IconText);
-                    $isMission = $item->DropOrSell === 0 ? 1 : 0;
+                    $isMission = intval($item->DropOrSell === 0);
 
                     $array['ecosystem'] = $item->Mp->Ecosystem;
                     $array['grade'] = $item->Mp->StatEnergy;
